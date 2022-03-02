@@ -32,4 +32,4 @@ jobs:
             python -m pip install --upgrade pip
             if [ -f scripts/requirements.txt ]; then pip install -r scripts/requirements.txt; fi
       - name: execute script
-        run: python scripts/github2CSV.py issues.csv issuesjson.json issues.geojson scripts/scripts/
+        run: python scripts/github2CSV.py issues.csv issuesjson.json issues.geojson scripts/
