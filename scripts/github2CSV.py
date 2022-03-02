@@ -281,7 +281,10 @@ if __name__ == "__main__":
     latest_timestamp = get_latest_timestamp(CSVFILE)
     # we need to add one second to the latest timestamp in our issue file
     # to avoid retrieving the "last" issue we already have (in the issues file)
-    last_time = latest_timestamp + datetime.timedelta(seconds=1)
+    if latest_timestamp is None:
+        last_time = datetime.datetime(2000, 1, 1)
+    else:
+        last_time = latest_timestamp + datetime.timedelta(seconds=1)
 
     logger.info("Retrieving issues from Github (since %s)...", last_time)
     issues = r.get_issues(since=last_time, labels=filter_labels, state='all', sort='updated')
