@@ -319,6 +319,7 @@ if __name__ == "__main__":
 
         if not data:
             logger.info("Data not found for issue %s.", issue)
+            logger.info("Issue body %s", issue.body)
             continue
 
         for posName in POSIZIONE_NAMES:
