@@ -4,3 +4,48 @@ Cosa: Prova
 Descrizione: Bla bla
 Link: https://www.example.org
 </yamldata></pre>",open
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/23,1160646174,2022-03-06 22:18:32,2022-03-06 15:57:13,Ciai attiva supporto psicologico online per rifugiati ucraini (adulti e ragazzi) e chi li ospita,,,,,"[""Accettato"", ""Missing position"", ""services""]",,,"{""address"": {""address"": {""address"": {""city"": ""Milano"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Milano"", ""postcode"": ""20142"", ""quarter"": ""Tibaldi"", ""road"": ""Via Bordighera"", ""state"": ""Lombardia"", ""suburb"": ""Chiesa Rossa""}, ""boundingbox"": [""45.43799"", ""45.4388822"", ""9.1736072"", ""9.1736512""], ""class"": ""highway"", ""display_name"": ""Via Bordighera, Tibaldi, Chiesa Rossa, Milano, Lombardia, 20142, Italia"", ""importance"": 0.41000000000000003, ""lat"": ""45.4383509"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""9.173625"", ""osm_id"": 128185642, ""osm_type"": ""way"", ""place_id"": 131641506, ""type"": ""unclassified""}, ""mode"": ""autocomplete""}, ""description"": ""Ciai - Centro italiano aiuti all\u2019infanzia ha attivato un servizio di supporto psicologico online gratuito per:\n\u27a1\ufe0ffamiglie, adulti, ragazzi ucraini che vivono in Italia o sono appena arrivati\n\u27a1\ufe0fpersone che ospitano rifugiati\n\u27a1\ufe0fassociazioni\n\nIl servizio \u00e8 attivo su tutto il territorio nazionale. Per richiederlo:\nTel. 02 8484 4448 (orario di ufficio). \nciaipe@ciai.it"", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Ciai onlus "", ""recipients"": ""Rifugiati ucraini (adulti e ragazzi) e chi li ospita, associazioni "", ""submit"": true, ""title"": ""Ciai attiva supporto psicologico online per rifugiati ucraini (adulti e ragazzi) e chi li ospita"", ""type"": ""psychologicalSupport"", ""url"": ""https://ciai.it/emergenza-ucraina-attivato-sportello-per-supporto-psicologico/""}","<pre><yamldata>
+address:
+  address:
+    address:
+      city: Milano
+      country: Italia
+      country_code: it
+      county: Milano
+      postcode: '20142'
+      quarter: Tibaldi
+      road: Via Bordighera
+      state: Lombardia
+      suburb: Chiesa Rossa
+    boundingbox:
+    - '45.43799'
+    - '45.4388822'
+    - '9.1736072'
+    - '9.1736512'
+    class: highway
+    display_name: Via Bordighera, Tibaldi, Chiesa Rossa, Milano, Lombardia, 20142,
+      Italia
+    importance: 0.41000000000000003
+    lat: '45.4383509'
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    lon: '9.173625'
+    osm_id: 128185642
+    osm_type: way
+    place_id: 131641506
+    type: unclassified
+  mode: autocomplete
+description: ""Ciai - Centro italiano aiuti all’infanzia ha attivato un servizio di\
+  \ supporto psicologico online gratuito per:\n➡️famiglie, adulti, ragazzi ucraini\
+  \ che vivono in Italia o sono appena arrivati\n➡️persone che ospitano rifugiati\n\
+  ➡️associazioni\n\nIl servizio è attivo su tutto il territorio nazionale. Per richiederlo:\n\
+  Tel. 02 8484 4448 (orario di ufficio). \nciaipe@ciai.it""
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+offerFromWho: 'Ciai onlus '
+recipients: 'Rifugiati ucraini (adulti e ragazzi) e chi li ospita, associazioni '
+submit: true
+title: Ciai attiva supporto psicologico online per rifugiati ucraini (adulti e ragazzi)
+  e chi li ospita
+type: psychologicalSupport
+url: https://ciai.it/emergenza-ucraina-attivato-sportello-per-supporto-psicologico/
+</yamldata></pre>",open
