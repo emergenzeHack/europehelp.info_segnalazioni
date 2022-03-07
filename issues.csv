@@ -49,3 +49,46 @@ title: Ciai attiva supporto psicologico online per rifugiati ucraini (adulti e r
 type: psychologicalSupport
 url: https://ciai.it/emergenza-ucraina-attivato-sportello-per-supporto-psicologico/
 </yamldata></pre>",open
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/40,1161949488,2022-03-07 21:38:28,2022-03-07 21:34:37,Ukranian sign language services to support deaf refugees,,,,,"[""Accettato"", ""services""]",,,"{""address"": {""address"": {""address"": {""city"": ""Reggio nell'Emilia"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Reggio nell'Emilia"", ""state"": ""Emilia-Romagna""}, ""boundingbox"": [""44.6244638"", ""44.7744479"", ""10.4910178"", ""10.7733414""], ""class"": ""boundary"", ""display_name"": ""Reggio nell'Emilia, Emilia-Romagna, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"", ""importance"": 0.6725411725065691, ""lat"": ""44.6978389"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""10.6304971"", ""osm_id"": 43415, ""osm_type"": ""relation"", ""place_id"": 284543523, ""type"": ""administrative""}, ""mode"": ""autocomplete""}, ""description"": ""has set up a network of regional community/communication services to support Ukraine deaf refugees arriving in the Emilia Romagna region. These services aim to facilitate communication with local public bodies and public services thanks to deaf interpreters and mediators who know Ukrainian Sign Language.   Further info at emiliaromagna@ens.it  They released this signed video here attached: [https://youtube.com/watch?v=604vD8haZh8&feature=share](https://youtube.com/watch?v=604vD8haZh8&feature=share&fbclid=IwAR1_Pd9g8BXcSeZXSCrEU_1FrCxlhXs01r6TgXeNOo6NVzNfrFOm_LqBkos) EUD - The European Union of the Deaf  Christian Rathmann Debra Russell Arunas Brazas NRW: Deaf Refugees World Federation of the Deaf Ry Lorraine Leeson Anna Komarova Igor Chavrot"", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": "". The Emilia-Romagna Regional Branch of the Italian Deaf Association  (ENS)"", ""recipients"": ""Deaf"", ""submit"": true, ""title"": ""LIS Service to support deaf refugees"", ""type"": ""disabilityServices"", ""url"": ""https://www.facebook.com/groups/ukraineinfo.help/permalink/451623253373295/""}","<pre><yamldata>
+type: disabilityServices
+offerFromWho: . The Emilia-Romagna Regional Branch of the Italian Deaf Association  (ENS)
+title: LIS Service to support deaf refugees
+recipients: Deaf
+description: 'has set up a network of regional community/communication services to
+  support Ukraine deaf refugees arriving in the Emilia Romagna region. These services
+  aim to facilitate communication with local public bodies and public services thanks
+  to deaf interpreters and mediators who know Ukrainian Sign Language.   Further info
+  at emiliaromagna@ens.it  They released this signed video here attached: [https://youtube.com/watch?v=604vD8haZh8&feature=share](https://youtube.com/watch?v=604vD8haZh8&feature=share&fbclid=IwAR1_Pd9g8BXcSeZXSCrEU_1FrCxlhXs01r6TgXeNOo6NVzNfrFOm_LqBkos)
+  EUD - The European Union of the Deaf  Christian Rathmann Debra Russell Arunas Brazas
+  NRW: Deaf Refugees World Federation of the Deaf Ry Lorraine Leeson Anna Komarova
+  Igor Chavrot'
+url: https://www.facebook.com/groups/ukraineinfo.help/permalink/451623253373295/
+address:
+  mode: autocomplete
+  address:
+    place_id: 284543523
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43415
+    boundingbox:
+    - '44.6244638'
+    - '44.7744479'
+    - '10.4910178'
+    - '10.7733414'
+    lat: '44.6978389'
+    lon: '10.6304971'
+    display_name: Reggio nell'Emilia, Emilia-Romagna, Italia
+    class: boundary
+    type: administrative
+    importance: 0.6725411725065691
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Reggio nell'Emilia
+      county: Reggio nell'Emilia
+      state: Emilia-Romagna
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
