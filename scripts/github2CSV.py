@@ -278,7 +278,8 @@ if __name__ == "__main__":
             pass
 
     logger.info("Retrieving latest updated_at timestamp from our issues file (%s)...", CSVFILE)
-    latest_timestamp = get_latest_timestamp(CSVFILE)
+    #latest_timestamp = get_latest_timestamp(CSVFILE)
+    latest_timestamp = None
     # we need to add one second to the latest timestamp in our issue file
     # to avoid retrieving the "last" issue we already have (in the issues file)
     if latest_timestamp is None:
