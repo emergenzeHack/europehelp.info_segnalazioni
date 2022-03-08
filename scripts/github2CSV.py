@@ -126,8 +126,9 @@ def write_csv_file(issues):
             issue_id = int(line[1])
             # if the issue is in the dictionary (thus has been updated), skip it for the moment.
             if not issue_id in issues:
-                csvwriter.writerow(line)
-                total_rows += 1
+                #csvwriter.writerow(line)
+                #total_rows += 1
+                pass
             else:
                 logger.info("[CSV] Issue '%d' updated.", issue_id)
             
@@ -152,7 +153,8 @@ def write_json_file(issues):
             issue_id = row["issue"]["id"]
             # if the issue is in the dictionary (thus has been updated), skip it for the moment.
             if not issue_id in issues:
-                jsonarray.append(row)
+                #jsonarray.append(row)
+                pass
             else:
                 logger.info("[JSON] Issue '%d' updated.", issue_id)
 
@@ -177,7 +179,8 @@ def write_geojson_file(issues):
                 issue_id = row["properties"]["id"]
                 # if the issue is in the dictionary (thus has been updated), skip it for the moment.
                 if not issue_id in issues:
-                    geojsonarray.append(row)
+                    #geojsonarray.append(row)
+                    pass
                 else:
                     logger.info("[GeoJSON] Issue '%d' updated.", issue_id)
 
