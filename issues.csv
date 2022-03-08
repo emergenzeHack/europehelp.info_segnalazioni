@@ -92,15 +92,48 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/42,1162736087,2022-03-08 15:17:23,2022-03-08 14:39:12,Comune di Venezia attiva sportello Emergenza Ucraina,,,,,"[""Valid/Accettato"", ""Missing position"", ""Services"", ""Legal"", ""Helpfull Contact"", ""Ospitalit\u00e0""]",,,"{""address"": {""address"": {""address"": {""amenity"": ""Comune di Venezia"", ""city"": ""Venezia"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Venezia"", ""road"": ""Calle Chiesa Ognissanti"", ""state"": ""Veneto"", ""suburb"": ""Lido-Pellestrina"", ""village"": ""Pellestrina""}, ""boundingbox"": [""45.2731957"", ""45.2732957"", ""12.3009922"", ""12.3010922""], ""class"": ""amenity"", ""display_name"": ""Comune di Venezia, Calle Chiesa Ognissanti, Lido-Pellestrina, Pellestrina, Venezia, Veneto, Italia"", ""importance"": 0.31100000000000005, ""lat"": ""45.2732457"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""12.3010422"", ""osm_id"": 6958414086, ""osm_type"": ""node"", ""place_id"": 74210873, ""type"": ""townhall""}, ""mode"": ""autocomplete""}, ""description"": ""A Venezia attivo sportello Emergenza Ucraina del Comune che offre info, supporto, assistenza ai rifugiati ucraini e alle famiglie italiane ospitanti.\nTel. 041041 (DIME), lun-ven ore 8-20. \nEmail ucraina@comune.venezia.it \n(In lingua italiana e ucraina)."", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Comune di Venezia"", ""recipients"": ""Rifugiati ucraini, famiglie ospitanti, cittadini"", ""submit"": true, ""title"": ""Comune di #Venezia attiva Sportello Emergenza #Ucraina"", ""type"": ""legal"", ""url"": ""https://live.comune.venezia.it/it/2022/03/informazioni-le-persone-provenienti-dallucraina-e-le-famiglie-ospitanti""}","<pre><yamldata>
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/43,1162811173,2022-03-08 16:03:28,2022-03-08 15:41:44,"File condiviso con aggiornamenti dai confini ucraini (tempi di attesa, altre info)",,,,,"[""Valid/Accettato"", ""News"", ""Travel/Transport""]",,,"{""description"": ""Sul gruppo Telegram Italiani in Ucraina (https://t.me/italianiucraina/8874) pubblicato un Googlesheet con aggiornamenti dai confini ucraini, con tempi di attesa e chat di info.\n(Qui link al post originale https://t.me/italianiucraina/8874)"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""news"", ""link"": ""https://docs.google.com/spreadsheets/d/e/2PACX-1vTmKNAxZn2cPpBqPHnRx9Hc_GPzfi7U92h05hkNuES6pA8l7IcbfdRELMkTBWGcBFoRkUdwlnfX889X/pubhtml?gid=0&single=true&fbclid=IwAR1qTqmfhHYDYFB_N14kCXweiK3BWVGzSfIYlpnD1UhYU33c-Tm0LJQYSuw"", ""location"": {""address"": {""address"": {}, ""mode"": ""autocomplete""}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""File condiviso con aggiornamenti dai confini ucraini (tempi di attesa, altre info)""}","<pre><yamldata>
+title: File condiviso con aggiornamenti dai confini ucraini (tempi di attesa, altre
+  info)
+description: 'Sul gruppo Telegram Italiani in Ucraina (https://t.me/italianiucraina/8874)
+  pubblicato un Googlesheet con aggiornamenti dai confini ucraini, con tempi di attesa
+  e chat di info.
+
+  (Qui link al post originale https://t.me/italianiucraina/8874)'
+link: https://docs.google.com/spreadsheets/d/e/2PACX-1vTmKNAxZn2cPpBqPHnRx9Hc_GPzfi7U92h05hkNuES6pA8l7IcbfdRELMkTBWGcBFoRkUdwlnfX889X/pubhtml?gid=0&single=true&fbclid=IwAR1qTqmfhHYDYFB_N14kCXweiK3BWVGzSfIYlpnD1UhYU33c-Tm0LJQYSuw
+location:
+  mode: autocomplete
+  address:
+    mode: autocomplete
+    address: {}
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/41,1162272323,2022-03-08 16:12:11,2022-03-08 06:25:04,prova,,,,,"[""Help""]",,,"{""description"": """", ""email"": ""ciccio@graziani.com"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""help"", ""location"": {""address"": {}, ""mode"": ""autocomplete""}, ""nameSurname"": ""Ciccio Graziani"", ""phoneNumber"": ""12345"", ""recipients"": """", ""submit"": true, ""title"": ""prova"", ""url"": """"}","<pre><yamldata>
+nameSurname: Ciccio Graziani
+phoneNumber: '12345'
+email: ciccio@graziani.com
+title: prova
+recipients: ''
+description: ''
+url: ''
+location:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/42,1162736087,2022-03-08 16:11:47,2022-03-08 14:39:12,Comune di Venezia attiva sportello Emergenza Ucraina,,,,,"[""Valid/Accettato"", ""Missing position"", ""Services"", ""Legal"", ""Helpful Contact"", ""Ospitalit\u00e0""]",,,"{""address"": {""address"": {""address"": {""amenity"": ""Comune di Venezia"", ""city"": ""Venezia"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Venezia"", ""road"": ""Calle Chiesa Ognissanti"", ""state"": ""Veneto"", ""suburb"": ""Lido-Pellestrina"", ""village"": ""Pellestrina""}, ""boundingbox"": [""45.2731957"", ""45.2732957"", ""12.3009922"", ""12.3010922""], ""class"": ""amenity"", ""display_name"": ""Comune di Venezia, Calle Chiesa Ognissanti, Lido-Pellestrina, Pellestrina, Venezia, Veneto, Italia"", ""importance"": 0.31100000000000005, ""lat"": ""45.2732457"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""12.3010422"", ""osm_id"": 6958414086, ""osm_type"": ""node"", ""place_id"": 74210873, ""type"": ""townhall""}, ""mode"": ""autocomplete""}, ""description"": ""A Venezia attivo sportello Emergenza Ucraina del Comune che offre info,\\ \\ supporto, assistenza ai rifugiati ucraini e alle famiglie italiane ospitanti.\\n\\ Tel. 041041 (DIME), lun-ven ore 8-20. \\nEmail ucraina@comune.venezia.it \\n(In lingua\\ \\ italiana e ucraina)."", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Comune di Venezia"", ""recipients"": ""Rifugiati ucraini, famiglie ospitanti, cittadini"", ""submit"": true, ""title"": ""Comune di #Venezia attiva Sportello Emergenza #Ucraina"", ""type"": ""legal"", ""url"": ""https://live.comune.venezia.it/it/2022/03/informazioni-le-persone-provenienti-dallucraina-e-le-famiglie-ospitanti""}","<pre><yamldata>
 type: legal
 offerFromWho: Comune di Venezia
 title: 'Comune di #Venezia attiva Sportello Emergenza #Ucraina'
 recipients: Rifugiati ucraini, famiglie ospitanti, cittadini
-description: ""A Venezia attivo sportello Emergenza Ucraina del Comune che offre info,\
+description: A Venezia attivo sportello Emergenza Ucraina del Comune che offre info,\
   \ supporto, assistenza ai rifugiati ucraini e alle famiglie italiane ospitanti.\n\
   Tel. 041041 (DIME), lun-ven ore 8-20. \nEmail ucraina@comune.venezia.it \n(In lingua\
-  \ italiana e ucraina).""
+  \ italiana e ucraina).
 url: https://live.comune.venezia.it/it/2022/03/informazioni-le-persone-provenienti-dallucraina-e-le-famiglie-ospitanti
 address:
   mode: autocomplete
@@ -133,23 +166,5 @@ address:
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/43,1162811173,2022-03-08 16:03:28,2022-03-08 15:41:44,"File condiviso con aggiornamenti dai confini ucraini (tempi di attesa, altre info)",,,,,"[""Valid/Accettato"", ""News"", ""Travel/Transport""]",,,"{""description"": ""Sul gruppo Telegram Italiani in Ucraina (https://t.me/italianiucraina/8874) pubblicato un Googlesheet con aggiornamenti dai confini ucraini, con tempi di attesa e chat di info.\n(Qui link al post originale https://t.me/italianiucraina/8874)"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""news"", ""link"": ""https://docs.google.com/spreadsheets/d/e/2PACX-1vTmKNAxZn2cPpBqPHnRx9Hc_GPzfi7U92h05hkNuES6pA8l7IcbfdRELMkTBWGcBFoRkUdwlnfX889X/pubhtml?gid=0&single=true&fbclid=IwAR1qTqmfhHYDYFB_N14kCXweiK3BWVGzSfIYlpnD1UhYU33c-Tm0LJQYSuw"", ""location"": {""address"": {""address"": {}, ""mode"": ""autocomplete""}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""File condiviso con aggiornamenti dai confini ucraini (tempi di attesa, altre info)""}","<pre><yamldata>
-title: File condiviso con aggiornamenti dai confini ucraini (tempi di attesa, altre
-  info)
-description: 'Sul gruppo Telegram Italiani in Ucraina (https://t.me/italianiucraina/8874)
-  pubblicato un Googlesheet con aggiornamenti dai confini ucraini, con tempi di attesa
-  e chat di info.
-
-  (Qui link al post originale https://t.me/italianiucraina/8874)'
-link: https://docs.google.com/spreadsheets/d/e/2PACX-1vTmKNAxZn2cPpBqPHnRx9Hc_GPzfi7U92h05hkNuES6pA8l7IcbfdRELMkTBWGcBFoRkUdwlnfX889X/pubhtml?gid=0&single=true&fbclid=IwAR1qTqmfhHYDYFB_N14kCXweiK3BWVGzSfIYlpnD1UhYU33c-Tm0LJQYSuw
-location:
-  mode: autocomplete
-  address:
-    mode: autocomplete
-    address: {}
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 </yamldata></pre>",open
