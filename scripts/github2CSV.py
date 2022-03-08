@@ -45,7 +45,7 @@ try:
 except:
     ACCETTATOLABEL = "Accettato"
 
-FILTER_LABELS = ("Accettato", "accepted")
+FILTER_LABELS = ("Accettato", "accepted","Valid/Accettato")
 POSIZIONE_NAMES = ("posizione", "Posizione", "position", "Position", "location", "Location")
 
 TMPCSVFILE = './issues_temp.csv'
@@ -280,6 +280,7 @@ if __name__ == "__main__":
         except:
             pass
 
+    logger.info("FILTER_LABELS {} filter_labels {}".format(FILTER_LABELS, filter_labels))
     logger.info("Retrieving latest updated_at timestamp from our issues file (%s)...", CSVFILE)
     #latest_timestamp = get_latest_timestamp(CSVFILE)
     latest_timestamp = None
