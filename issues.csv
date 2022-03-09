@@ -1,4 +1,78 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/55,1164266014,2022-03-09 18:01:42,2022-03-09 17:59:55,Associazione Nonna Roma attiva raccolta farmaci per Ucraina,,,,,"[""Valid/Accettato"", ""Services"", ""Material good"", ""healtcare""]",,,"{""address"": {""address"": {""address"": {""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Roma Capitale"", ""hamlet"": ""Colombella"", ""neighbourhood"": ""San Rocco"", ""postcode"": ""00036"", ""road"": ""Via Palmiro Togliatti - Tangenziale Valle del Ponte"", ""state"": ""Lazio"", ""town"": ""Palestrina""}, ""boundingbox"": [""41.8356208"", ""41.8360418"", ""12.883508"", ""12.8838463""], ""class"": ""highway"", ""display_name"": ""Via Palmiro Togliatti - Tangenziale Valle del Ponte, San Rocco, Colombella, Palestrina, Roma Capitale, Lazio, 00036, Italia"", ""importance"": 0.4, ""lat"": ""41.8359909"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""12.8838054"", ""osm_id"": 170600188, ""osm_type"": ""way"", ""place_id"": 141306985, ""type"": ""residential""}, ""mode"": ""autocomplete""}, ""description"": ""L'associazione Nonna Roma lancia a Roma una raccolta farmaci che sar\u00e0 destinata alla Croce Rossa Italiana ed inviata in Ucraina.\n\nI punti di raccolta farmaci sono i seguenti:\n\n\ud83d\udccd Sparwasser, via del Pigneto 215, tutte le sere dalle 19 in poi;\n\n\ud83d\udccd Nonna Roma,\nvia Palmiro Togliatti 979\n\u2013 tutti i marted\u00ec h. 15-19,\n\u2013 tutti i mercoled\u00ec h. 10-13 e 15-18,\n\u2013 tutti i venerd\u00ec h. 9-13;\n\n\ud83d\udccd Casale Garibaldi\nvia Romolo Balzani 87\ntutti i marted\u00ec h. 16-19\ntutti i mercoled\u00ec h. 10-13\n\n\ud83d\udccd Officine Civiche\nvia Arturo Malagoli, 16 Ciampino\ngioved\u00ec h. 17 -19."", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Associazione Nonna Roma"", ""recipients"": """", ""submit"": true, ""title"": ""Associazione Nonna Roma attiva raccolta farmaci per Ucraina"", ""type"": ""healthcare"", ""url"": ""https://nonnaroma.it/2022/03/08/raccolta-farmaci-per-la-popolazione-in-ucraina/""}","<pre><yamldata>
+offerFromWho: Associazione Nonna Roma
+title: Associazione Nonna Roma attiva raccolta farmaci per Ucraina
+recipients: ''
+description: 'L''associazione Nonna Roma lancia a Roma una raccolta farmaci che sarà
+  destinata alla Croce Rossa Italiana ed inviata in Ucraina.
+
+
+  I punti di raccolta farmaci sono i seguenti:
+
+
+  📍 Sparwasser, via del Pigneto 215, tutte le sere dalle 19 in poi;
+
+
+  📍 Nonna Roma,
+
+  via Palmiro Togliatti 979
+
+  – tutti i martedì h. 15-19,
+
+  – tutti i mercoledì h. 10-13 e 15-18,
+
+  – tutti i venerdì h. 9-13;
+
+
+  📍 Casale Garibaldi
+
+  via Romolo Balzani 87
+
+  tutti i martedì h. 16-19
+
+  tutti i mercoledì h. 10-13
+
+
+  📍 Officine Civiche
+
+  via Arturo Malagoli, 16 Ciampino
+
+  giovedì h. 17 -19.'
+url: https://nonnaroma.it/2022/03/08/raccolta-farmaci-per-la-popolazione-in-ucraina/
+address:
+  mode: autocomplete
+  address:
+    place_id: 141306985
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 170600188
+    boundingbox:
+    - '41.8356208'
+    - '41.8360418'
+    - '12.883508'
+    - '12.8838463'
+    lat: '41.8359909'
+    lon: '12.8838054'
+    display_name: Via Palmiro Togliatti - Tangenziale Valle del Ponte, San Rocco,
+      Colombella, Palestrina, Roma Capitale, Lazio, 00036, Italia
+    class: highway
+    type: residential
+    importance: 0.4
+    address:
+      road: Via Palmiro Togliatti - Tangenziale Valle del Ponte
+      neighbourhood: San Rocco
+      hamlet: Colombella
+      town: Palestrina
+      county: Roma Capitale
+      state: Lazio
+      postcode: '00036'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+type: healthcare
+</yamldata></pre>",open
 https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/54,1164260772,2022-03-09 18:00:49,2022-03-09 17:54:30,In 215 farmacie della provincia di Bologna raccolta di farmaci per popolo ucraino,,,,,"[""Valid/Accettato"", ""Services"", ""Material good"", ""healtcare""]",,,"{""address"": {""address"": {""address"": {""city"": ""Bologna"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Bologna"", ""state"": ""Emilia-Romagna""}, ""boundingbox"": [""44.421033"", ""44.556094"", ""11.2296206"", ""11.4336295""], ""class"": ""boundary"", ""display_name"": ""Bologna, Emilia-Romagna, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"", ""importance"": 0.7905771109268431, ""lat"": ""44.4938203"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""11.3426327"", ""osm_id"": 43172, ""osm_type"": ""relation"", ""place_id"": 283848615, ""type"": ""administrative""}, ""mode"": ""autocomplete""}, ""description"": ""In 215 farmacie della provincia di Bologna si pu\u00f2 acquistare un farmaco da banco o un dispositivo medico (tra quelli identificati dalla Croce rossa) per aiutare le vittime della guerra in Ucraina. A chi vorr\u00e0 farlo, la farmacia rilascia uno scontrino con codice fiscale che potr\u00e0 essere detratto nella dichiarazione dei redditi. La Croce rossa provveder\u00e0 a ritirare i farmaci consegnandoli a destinazione. Nel caso si abbia un farmaco non utilizzato ma correttamente conservato, in confezione integra, e con scadenza superiore a sei mesi, se ricompreso nella lista delle richieste della sanit\u00e0 ucraina, la farmacia lo verifica per includerlo nella raccolta."", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Federfarma Bologna"", ""recipients"": """", ""submit"": true, ""title"": ""In 215 farmacie della provincia di Bologna raccolta di farmaci per popolo ucraino"", ""type"": ""materialGoods"", ""url"": ""https://www.redattoresociale.it/article/notiziario/ucraina_a_bologna_215_farmacie_raccolgono_medicinali_da_donare#""}","<pre><yamldata>
 type: materialGoods
 offerFromWho: Federfarma Bologna
