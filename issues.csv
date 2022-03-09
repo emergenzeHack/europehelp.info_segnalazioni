@@ -1,5 +1,5 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/46,1164025461,2022-03-09 16:00:21,2022-03-09 14:39:41,Brochure multilingue del Ministero dell’Interno per profughi ucraini in Italia,,,,,"[""Valid/Accettato"", ""News"", ""Services"", ""document_data""]",,,"{""description"": ""Per tutti i cittadini ucraini che sono entrati e stanno entrando in Italia, il Dipartimento della Protezione Civile \u2013 in collaborazione con il Ministero dell\u2019Interno, le Prefetture, le Regioni e gli Enti Locali \u2013 sta predisponendo un piano di prima accoglienza per permettere loro la regolare permanenza sul territorio italiano.\n \nTutte le informazioni al riguardo sono contenute in una scheda, disponibile anche in lingua ucraina e inglese, che illustra gli obblighi sanitari da rispettare per far fronte alla pandemia, a chi rivolgersi per usufruire di un alloggio, le modalit\u00e0 per regolarizzare la propria posizione in Italia, e altre indicazioni utili.\n\nAl link la brochure."", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""document_data"", ""link"": ""https://www.poliziadistato.it/articolo/386227a1a62155d822008675"", ""location"": {""address"": {}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""Brochure multilingue del Ministero dell\u2019Interno per profughi ucraini in Italia""}","<pre><yamldata>
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/46,1164025461,2022-03-09 16:02:37,2022-03-09 14:39:41,Brochure multilingue del Ministero dell’Interno per profughi ucraini in Italia,,,,,"[""Valid/Accettato"", ""News"", ""Services"", ""Ospitalit\u00e0"", ""document_data""]",,,"{""description"": ""Per tutti i cittadini ucraini che sono entrati e stanno entrando in Italia, il Dipartimento della Protezione Civile \u2013 in collaborazione con il Ministero dell\u2019Interno, le Prefetture, le Regioni e gli Enti Locali \u2013 sta predisponendo un piano di prima accoglienza per permettere loro la regolare permanenza sul territorio italiano.\n \nTutte le informazioni al riguardo sono contenute in una scheda, disponibile anche in lingua ucraina e inglese, che illustra gli obblighi sanitari da rispettare per far fronte alla pandemia, a chi rivolgersi per usufruire di un alloggio, le modalit\u00e0 per regolarizzare la propria posizione in Italia, e altre indicazioni utili.\n\nAl link la brochure."", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""document_data"", ""link"": ""https://www.poliziadistato.it/articolo/386227a1a62155d822008675"", ""location"": {""address"": {}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""Brochure multilingue del Ministero dell\u2019Interno per profughi ucraini in Italia""}","<pre><yamldata>
 title: Brochure multilingue del Ministero dell’Interno per profughi ucraini in Italia
 description: ""Per tutti i cittadini ucraini che sono entrati e stanno entrando in\
   \ Italia, il Dipartimento della Protezione Civile – in collaborazione con il Ministero\
@@ -16,6 +16,48 @@ location:
   address: {}
 label: document_data
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/49,1164060552,2022-03-09 16:02:01,2022-03-09 15:04:32,A Lodi azienda sanitaria attiva hotspot territoriale di accoglienza per i cittadini ucraini,,,,,"[""Valid/Accettato"", ""Missing position"", ""Services"", ""healtcare""]",,,"{""address"": {""address"": {""address"": {""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Lodi"", ""neighbourhood"": ""Guatra"", ""postcode"": ""26866"", ""road"": ""Via Umberto I"", ""state"": ""Lombardia"", ""town"": ""Sant'Angelo Lodigiano"", ""village"": ""Galeotta""}, ""boundingbox"": [""45.2372892"", ""45.2383773"", ""9.4090166"", ""9.4096631""], ""class"": ""highway"", ""display_name"": ""Via Umberto I, Guatra, Galeotta, Sant'Angelo Lodigiano, Lodi, Lombardia, 26866, Italia"", ""importance"": 0.91, ""lat"": ""45.2380483"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""9.4092224"", ""osm_id"": 240658221, ""osm_type"": ""way"", ""place_id"": 161215418, ""type"": ""tertiary""}, ""mode"": ""autocomplete""}, ""description"": ""Attivato a Lodi un hotspot territoriale di accoglienza per i cittadini ucraini in arrivo in Italia presso il Punto Unico di Accesso della Casa di Comunit\u00e0 di Sant\u2019Angelo Lodigiano."", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Azienda Sanitaria di Lodi"", ""recipients"": """", ""submit"": true, ""title"": ""Attivato a Lodi un hotspot territoriale di accoglienza per i cittadini ucraini"", ""type"": ""healthcare"", ""url"": ""https://twitter.com/asstlodi/status/1501548401443356673?s=21""}","<pre><yamldata>
+type: healthcare
+offerFromWho: Azienda Sanitaria di Lodi
+title: Attivato a Lodi un hotspot territoriale di accoglienza per i cittadini ucraini
+recipients: ''
+description: Attivato a Lodi un hotspot territoriale di accoglienza per i cittadini
+  ucraini in arrivo in Italia presso il Punto Unico di Accesso della Casa di Comunità
+  di Sant’Angelo Lodigiano.
+url: https://twitter.com/asstlodi/status/1501548401443356673?s=21
+address:
+  mode: autocomplete
+  address:
+    place_id: 161215418
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 240658221
+    boundingbox:
+    - '45.2372892'
+    - '45.2383773'
+    - '9.4090166'
+    - '9.4096631'
+    lat: '45.2380483'
+    lon: '9.4092224'
+    display_name: Via Umberto I, Guatra, Galeotta, Sant'Angelo Lodigiano, Lodi, Lombardia,
+      26866, Italia
+    class: highway
+    type: tertiary
+    importance: 0.91
+    address:
+      road: Via Umberto I
+      neighbourhood: Guatra
+      village: Galeotta
+      town: Sant'Angelo Lodigiano
+      county: Lodi
+      state: Lombardia
+      postcode: '26866'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/48,1164054881,2022-03-09 15:57:07,2022-03-09 15:00:41,Regione Valle D’Aosta attiva raccolta fondi per Ucraina,45.7370885,7.3196649,Valle d'Aosta,Aosta,"[""Valid/Accettato"", ""fundraising""]",,,"{""Posizione"": ""45.7370885 7.3196649"", ""bicSwift"": """", ""causal"": ""Emergenza Ucraina"", ""ccPostal"": """", ""description"": ""Come puoi aiutare l'accoglienza dei profughi ucraini in Valle d'Aosta? \nCon una donazione all\u2019IBAN\nIT73 G 03069 09606 100000005667\nintestato a Fondazione comunitaria della Valle d\u2019Aosta, causale 'Emergenza Ucraina'.\n\n\u260e\ufe0f Per informazioni numero verde 800 99 55 54"", ""email"": """", ""heading"": ""Fondazione comunitaria della Valle d\u2019Aosta"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""iban"": ""IT73 G 03069 09606 100000005667"", ""label"": ""fundaraising"", ""link"": ""https://twitter.com/ustampavda/status/1501481384996704262?s=21"", ""location"": {""address"": {""address"": {""city"": ""Aosta"", ""country"": ""Italia"", ""country_code"": ""it"", ""postcode"": ""11100"", ""state"": ""Valle d'Aosta""}, ""boundingbox"": [""45.5770885"", ""45.8970885"", ""7.1596649"", ""7.4796649""], ""class"": ""place"", ""display_name"": ""Aosta, Valle d'Aosta, 11100, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"", ""importance"": 0.9769168953273978, ""lat"": ""45.7370885"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""7.3196649"", ""osm_id"": 252686619, ""osm_type"": ""node"", ""place_id"": 439149, ""type"": ""city""}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""Regione Valle d'Aosta""}","<pre><yamldata>
@@ -181,48 +223,6 @@ url: https://friendsofukraine.eu/
 address:
   mode: autocomplete
   address: {}
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/49,1164060552,2022-03-09 15:44:17,2022-03-09 15:04:32,Attivato a Lodi un hotspot territoriale di accoglienza per i cittadini ucraini,,,,,"[""Valid/Accettato"", ""Missing position"", ""Services"", ""healtcare""]",,,"{""address"": {""address"": {""address"": {""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Lodi"", ""neighbourhood"": ""Guatra"", ""postcode"": ""26866"", ""road"": ""Via Umberto I"", ""state"": ""Lombardia"", ""town"": ""Sant'Angelo Lodigiano"", ""village"": ""Galeotta""}, ""boundingbox"": [""45.2372892"", ""45.2383773"", ""9.4090166"", ""9.4096631""], ""class"": ""highway"", ""display_name"": ""Via Umberto I, Guatra, Galeotta, Sant'Angelo Lodigiano, Lodi, Lombardia, 26866, Italia"", ""importance"": 0.91, ""lat"": ""45.2380483"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""9.4092224"", ""osm_id"": 240658221, ""osm_type"": ""way"", ""place_id"": 161215418, ""type"": ""tertiary""}, ""mode"": ""autocomplete""}, ""description"": ""Attivato a Lodi un hotspot territoriale di accoglienza per i cittadini ucraini in arrivo in Italia presso il Punto Unico di Accesso della Casa di Comunit\u00e0 di Sant\u2019Angelo Lodigiano."", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Azienda Sanitaria di Lodi"", ""recipients"": """", ""submit"": true, ""title"": ""Attivato a Lodi un hotspot territoriale di accoglienza per i cittadini ucraini"", ""type"": ""healthcare"", ""url"": ""https://twitter.com/asstlodi/status/1501548401443356673?s=21""}","<pre><yamldata>
-type: healthcare
-offerFromWho: Azienda Sanitaria di Lodi
-title: Attivato a Lodi un hotspot territoriale di accoglienza per i cittadini ucraini
-recipients: ''
-description: Attivato a Lodi un hotspot territoriale di accoglienza per i cittadini
-  ucraini in arrivo in Italia presso il Punto Unico di Accesso della Casa di Comunità
-  di Sant’Angelo Lodigiano.
-url: https://twitter.com/asstlodi/status/1501548401443356673?s=21
-address:
-  mode: autocomplete
-  address:
-    place_id: 161215418
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 240658221
-    boundingbox:
-    - '45.2372892'
-    - '45.2383773'
-    - '9.4090166'
-    - '9.4096631'
-    lat: '45.2380483'
-    lon: '9.4092224'
-    display_name: Via Umberto I, Guatra, Galeotta, Sant'Angelo Lodigiano, Lodi, Lombardia,
-      26866, Italia
-    class: highway
-    type: tertiary
-    importance: 0.91
-    address:
-      road: Via Umberto I
-      neighbourhood: Guatra
-      village: Galeotta
-      town: Sant'Angelo Lodigiano
-      county: Lodi
-      state: Lombardia
-      postcode: '26866'
-      country: Italia
-      country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
