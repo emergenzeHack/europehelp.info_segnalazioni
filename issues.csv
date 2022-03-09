@@ -1,4 +1,40 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/45,1164018646,2022-03-09 15:16:26,2022-03-09 14:34:22,"Emergenza Ucraina, in Lazio false raccolte fondi e furto di dati personali",41.7675656,12.2339473,Lazio,Roma,"[""Valid/Accettato"", ""fakenews""]",,,"{""Posizione"": ""41.7675656 12.2339473"", ""description"": ""Oltre a false raccolte fondi nel litorale laziale, tra Ostia e Fiumicino, un avvocato intervistato da Roma Today denuncia anche furti di dati personali a chi si offriva di ospitare rifugiati ucraini."", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""fakenews"", ""link"": ""https://www.romatoday.it/cronaca/ucraina-truffe-raccolte-fondi.html"", ""location"": {""address"": {""address"": {""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Roma Capitale"", ""state"": ""Lazio"", ""town"": ""Fiumicino""}, ""boundingbox"": [""41.740906"", ""42.0202102"", ""12.1272725"", ""12.3168049""], ""class"": ""boundary"", ""display_name"": ""Fiumicino, Roma Capitale, Lazio, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"", ""importance"": 0.6288645539220377, ""lat"": ""41.7675656"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""12.2339473"", ""osm_id"": 41575, ""osm_type"": ""relation"", ""place_id"": 283947938, ""type"": ""administrative""}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""Emergenza Ucraina, in Lazio false raccolte fondi e furto di dati personali""}","<pre><yamldata>
+title: Emergenza Ucraina, in Lazio false raccolte fondi e furto di dati personali
+description: Oltre a false raccolte fondi nel litorale laziale, tra Ostia e Fiumicino,
+  un avvocato intervistato da Roma Today denuncia anche furti di dati personali a
+  chi si offriva di ospitare rifugiati ucraini.
+link: https://www.romatoday.it/cronaca/ucraina-truffe-raccolte-fondi.html
+location:
+  mode: autocomplete
+  address:
+    place_id: 283947938
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 41575
+    boundingbox:
+    - '41.740906'
+    - '42.0202102'
+    - '12.1272725'
+    - '12.3168049'
+    lat: '41.7675656'
+    lon: '12.2339473'
+    display_name: Fiumicino, Roma Capitale, Lazio, Italia
+    class: boundary
+    type: administrative
+    importance: 0.6288645539220377
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      town: Fiumicino
+      county: Roma Capitale
+      state: Lazio
+      country: Italia
+      country_code: it
+label: fakenews
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 41.7675656 12.2339473
+</yamldata></pre>",open
 https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/44,1163143188,2022-03-09 07:54:17,2022-03-08 21:22:17,Ospedale Buzzi Milano raccoglie vestiti e accessori per bambini e mamme ucraine,,,,,"[""Valid/Accettato"", ""Missing position"", ""Services"", ""Material good"", ""Children"", ""women""]",,,"{""address"": {""address"": {""address"": {""amenity"": ""Ospedale dei Bambini \""Vittore Buzzi\"""", ""city"": ""Milano"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Milano"", ""house_number"": ""28"", ""postcode"": ""20154"", ""quarter"": ""Sarpi"", ""road"": ""Via Lodovico Castelvetro"", ""state"": ""Lombardia"", ""suburb"": ""Municipio 8""}, ""boundingbox"": [""45.4848213"", ""45.4865785"", ""9.1653918"", ""9.1678818""], ""class"": ""amenity"", ""display_name"": ""Ospedale dei Bambini \""Vittore Buzzi\"", 28, Via Lodovico Castelvetro, Sarpi, Municipio 8, Milano, Lombardia, 20154, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//health_hospital.p.20.png"", ""importance"": 0.31100000000000005, ""lat"": ""45.4858443"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""9.166968895924526"", ""osm_id"": 478299137, ""osm_type"": ""way"", ""place_id"": 208609040, ""type"": ""hospital""}, ""mode"": ""autocomplete""}, ""description"": ""All'ospedale Buzzi di Milano si raccolgono vestiti e accessori per bambini  (2 anni in su) e mamme ucraine. \nLa raccolta \u00e8 in via Castelvetro 22, angolo via Fauch\u00e8, ore 9.30-17.30 dal luned\u00ec al venerd\u00ec."", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Ospedale Buzzi di Milano"", ""recipients"": ""Cittadini"", ""submit"": true, ""title"": ""Ospedale Buzzi Milano raccoglie vestiti e accessori per bambini e mamme ucraine"", ""type"": ""materialGoods"", ""url"": ""https://www.milanotoday.it/attualita/bambini-profughi-buzzi.html""}","<pre><yamldata>
 type: materialGoods
 offerFromWho: Ospedale Buzzi di Milano
