@@ -1,4 +1,42 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/61,1164291377,2022-03-10 22:31:37,2022-03-09 18:25:56,A Bari negozio di Wind Tre lancia una speciale promozione telefonica per rifugiati ucraini,,,,,"[""Valid/Accettato"", ""News"", ""Services""]",,,"{""address"": {""address"": {""address"": {""city"": ""Bari"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Bari"", ""state"": ""Puglia""}, ""boundingbox"": [""41.0160584"", ""41.1697837"", ""16.7172376"", ""17.0334109""], ""class"": ""boundary"", ""display_name"": ""Bari, Puglia, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"", ""importance"": 0.7287183212532693, ""lat"": ""41.1257843"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""16.8620293"", ""osm_id"": 41038, ""osm_type"": ""relation"", ""place_id"": 283768030, ""type"": ""administrative""}, ""mode"": ""autocomplete""}, ""description"": ""A Bari negozio di Wind Tre lancia una speciale promozione telefonica per i rifugiati ucraini."", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""WindTre"", ""recipients"": """", ""submit"": true, ""title"": ""A Bari negozio di Wind Tre lancia una speciale promozione telefonica per rifugiati ucraini"", ""type"": ""materialGoods"", ""url"": ""https://twitter.com/ukraineinfohelp/status/1501604489115189252?t=zDwb9dEScReeSf9Y3mgeqA&s=19""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: WindTre
+title: A Bari negozio di Wind Tre lancia una speciale promozione telefonica per rifugiati
+  ucraini
+recipients: ''
+description: A Bari negozio di Wind Tre lancia una speciale promozione telefonica
+  per i rifugiati ucraini.
+url: https://twitter.com/ukraineinfohelp/status/1501604489115189252?t=zDwb9dEScReeSf9Y3mgeqA&s=19
+address:
+  mode: autocomplete
+  address:
+    place_id: 283768030
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 41038
+    boundingbox:
+    - '41.0160584'
+    - '41.1697837'
+    - '16.7172376'
+    - '17.0334109'
+    lat: '41.1257843'
+    lon: '16.8620293'
+    display_name: Bari, Puglia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7287183212532693
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Bari
+      county: Bari
+      state: Puglia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/64,1164580112,2022-03-10 22:30:26,2022-03-10 00:03:59,Raccolta medicinali e materiali sanitari nelle farmacie di Roma   e provincia - dal 9 al 16 marzo,,,,,"[""Valid/Accettato"", ""Services"", ""healtcare""]","Milestone(title=""17 marzo"", number=1)",,"{""address"": {""address"": {""address"": {""city"": ""Roma"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Roma Capitale"", ""state"": ""Lazio""}, ""boundingbox"": [""41.6556417"", ""42.1410285"", ""12.2344669"", ""12.8557603""], ""class"": ""boundary"", ""display_name"": ""Roma, Roma Capitale, Lazio, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"", ""importance"": 0.8996107180689524, ""lat"": ""41.8933203"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""12.4829321"", ""osm_id"": 41485, ""osm_type"": ""relation"", ""place_id"": 283767136, ""type"": ""administrative""}, ""mode"": ""autocomplete""}, ""description"": ""Raccolta medicinali e materiali sanitari in tutte le farmacie di Roma e provincia - dal 9 al 16 marzo"", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Federfarma Roma"", ""recipients"": """", ""submit"": true, ""title"": ""Farmacisti per l'Ucraina"", ""type"": ""healthcare"", ""url"": ""https://twitter.com/ukraineinfohelp/status/1501526286585499649?t=gG4S2XxlCPzIjVTQO5XYVQ&s=19""}","<pre><yamldata>
 type: healthcare
 offerFromWho: Federfarma Roma
