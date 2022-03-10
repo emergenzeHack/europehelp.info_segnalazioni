@@ -1,4 +1,46 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/72,1165436880,2022-03-10 22:25:19,2022-03-10 16:19:46,Materiali di Docenti Senza Frontiere per facilitare l'inserimento scolastico di bambini ucraini,46.006085,11.12844,Trentino-Alto Adige,Trento,"[""Valid/Accettato"", ""Children"", ""document_data""]",,,"{""Posizione"": ""46.006085 11.12844"", ""description"": ""Docenti Senza Frontiere ha raccolto e pubblicato online materiali per agevolare lo scambio linguistico e la conoscenza del sistema scolastico di provenienza e facilitare l'inserimento scolastico di #bambini ucraini rifugiati in Italia."", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""document_data"", ""link"": ""https://t.co/mELJwhEdMz"", ""location"": {""address"": {""address"": {""city"": ""Trento"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Provincia di Trento"", ""municipality"": ""Territorio Val d'Adige"", ""postcode"": ""38123"", ""quarter"": ""Mattarello di Sotto"", ""road"": ""Via Guido Poli"", ""state"": ""Trentino-Alto Adige"", ""village"": ""Mattarello""}, ""boundingbox"": [""46.0058921"", ""46.0062362"", ""11.1282682"", ""11.1287143""], ""class"": ""highway"", ""display_name"": ""Via Guido Poli, Mattarello di Sotto, Mattarello, Trento, Territorio Val d'Adige, Provincia di Trento, Trentino-Alto Adige, 38123, Italia"", ""importance"": 0.5199999999999999, ""lat"": ""46.006085"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""11.12844"", ""osm_id"": 780479136, ""osm_type"": ""way"", ""place_id"": 254696017, ""type"": ""tertiary""}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""Materiali di Docenti Senza Frontiere per facilitare l'inserimento scolastico di bambini ucraini rifugiati in Italia""}","<pre><yamldata>
+title: Materiali di Docenti Senza Frontiere per facilitare l'inserimento scolastico
+  di bambini ucraini rifugiati in Italia
+description: 'Docenti Senza Frontiere ha raccolto e pubblicato online materiali per
+  agevolare lo scambio linguistico e la conoscenza del sistema scolastico di provenienza
+  e facilitare l''inserimento scolastico di #bambini ucraini rifugiati in Italia.'
+link: https://t.co/mELJwhEdMz
+location:
+  mode: autocomplete
+  address:
+    place_id: 254696017
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 780479136
+    boundingbox:
+    - '46.0058921'
+    - '46.0062362'
+    - '11.1282682'
+    - '11.1287143'
+    lat: '46.006085'
+    lon: '11.12844'
+    display_name: Via Guido Poli, Mattarello di Sotto, Mattarello, Trento, Territorio
+      Val d'Adige, Provincia di Trento, Trentino-Alto Adige, 38123, Italia
+    class: highway
+    type: tertiary
+    importance: 0.5199999999999999
+    address:
+      road: Via Guido Poli
+      quarter: Mattarello di Sotto
+      village: Mattarello
+      city: Trento
+      municipality: Territorio Val d'Adige
+      county: Provincia di Trento
+      state: Trentino-Alto Adige
+      postcode: '38123'
+      country: Italia
+      country_code: it
+label: document_data
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 46.006085 11.12844
+</yamldata></pre>",open
 https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/71,1165430680,2022-03-10 22:23:19,2022-03-10 16:16:19,Comune di Rieti cerca mediatori linguistici di lingua ucraina/russa,42.41473635,12.885888076510067,Lazio,Rieti,"[""Valid/Accettato"", ""Help"", ""Translation""]",,,"{""Posizione"": ""42.41473635 12.885888076510067"", ""description"": ""Comune di Rieti cerca mediatori linguistici di lingua ucraina/russa per l\u2019accoglienza di cittadini ucraini da utilizzare nell\u2019ambito dei Servizi Sociali professionali e del Pronto Intervento Sociale. \nScadenza Avviso 31 marzo."", ""email"": ""protocollo@pec.comune.rieti.it"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""help"", ""location"": {""address"": {""address"": {""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Rieti"", ""state"": ""Lazio""}, ""boundingbox"": [""42.0889167"", ""42.7409686"", ""12.4372963"", ""13.4099792""], ""class"": ""boundary"", ""display_name"": ""Rieti, Lazio, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"", ""importance"": 0.732134276481888, ""lat"": ""42.41473635"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""12.885888076510067"", ""osm_id"": 41781, ""osm_type"": ""relation"", ""place_id"": 284337641, ""type"": ""administrative""}, ""mode"": ""autocomplete""}, ""nameSurname"": ""Comune di Rieti"", ""phoneNumber"": """", ""recipients"": ""mediatori linguistici"", ""submit"": true, ""title"": ""Comune di Rieti cerca mediatori linguistici di lingua ucraina/russa"", ""url"": ""https://www.comune.rieti.it/article/22/03/emergenza-ucraina-avviso-pubblico-del-comune-di-rieti-costituire-un-elenco-di""}","<pre><yamldata>
 nameSurname: Comune di Rieti
 phoneNumber: ''
