@@ -1,4 +1,41 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/64,1164580112,2022-03-10 22:30:26,2022-03-10 00:03:59,Raccolta medicinali e materiali sanitari nelle farmacie di Roma   e provincia - dal 9 al 16 marzo,,,,,"[""Valid/Accettato"", ""Services"", ""healtcare""]","Milestone(title=""17 marzo"", number=1)",,"{""address"": {""address"": {""address"": {""city"": ""Roma"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Roma Capitale"", ""state"": ""Lazio""}, ""boundingbox"": [""41.6556417"", ""42.1410285"", ""12.2344669"", ""12.8557603""], ""class"": ""boundary"", ""display_name"": ""Roma, Roma Capitale, Lazio, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"", ""importance"": 0.8996107180689524, ""lat"": ""41.8933203"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""12.4829321"", ""osm_id"": 41485, ""osm_type"": ""relation"", ""place_id"": 283767136, ""type"": ""administrative""}, ""mode"": ""autocomplete""}, ""description"": ""Raccolta medicinali e materiali sanitari in tutte le farmacie di Roma e provincia - dal 9 al 16 marzo"", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Federfarma Roma"", ""recipients"": """", ""submit"": true, ""title"": ""Farmacisti per l'Ucraina"", ""type"": ""healthcare"", ""url"": ""https://twitter.com/ukraineinfohelp/status/1501526286585499649?t=gG4S2XxlCPzIjVTQO5XYVQ&s=19""}","<pre><yamldata>
+type: healthcare
+offerFromWho: Federfarma Roma
+title: Farmacisti per l'Ucraina
+recipients: ''
+description: Raccolta medicinali e materiali sanitari in tutte le farmacie di Roma
+  e provincia - dal 9 al 16 marzo
+url: 'https://twitter.com/ukraineinfohelp/status/1501526286585499649?t=gG4S2XxlCPzIjVTQO5XYVQ&s=19'
+address:
+  mode: autocomplete
+  address:
+    place_id: 283767136
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 41485
+    boundingbox:
+    - '41.6556417'
+    - '42.1410285'
+    - '12.2344669'
+    - '12.8557603'
+    lat: '41.8933203'
+    lon: '12.4829321'
+    display_name: Roma, Roma Capitale, Lazio, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8996107180689524
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/73,1165441654,2022-03-10 22:27:22,2022-03-10 16:22:08,Online it.eu4ua.org piattaforma europea per offrire alloggio ai rifugiati ucraini (anche in italiano),,,,,"[""Valid/Accettato"", ""Services"", ""hospitality""]",,,"{""address"": {""address"": {}, ""mode"": ""autocomplete""}, ""description"": ""Online it.eu4ua.org piattaforma europea multilingue, disponibile anche in italiano, che aiuta l'incontro tra ospitanti europei e profughi ucraini in cerca di un #alloggio."", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Europe for Uckraine"", ""recipients"": """", ""submit"": true, ""title"": ""Online it.eu4ua.org piattaforma europea multilingue, disponibile anche in italiano, che aiuta l'incontro tra ospitanti europei e profughi ucraini in cerca di alloggio"", ""type"": ""hospitality"", ""url"": ""https://it.eu4ua.org""}","<pre><yamldata>
 type: hospitality
 offerFromWho: Europe for Uckraine
@@ -388,43 +425,6 @@ address:
       county: Palermo
       state: Sicilia
       postcode: '90143'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/64,1164580112,2022-03-10 22:17:22,2022-03-10 00:03:59,Raccolta medicinali e materiali sanitari in tutte le farmacie di Roma   e provincia - dal 9 al 16 marzo,,,,,"[""Valid/Accettato"", ""Services"", ""healtcare""]","Milestone(title=""17 marzo"", number=1)",,"{""address"": {""address"": {""address"": {""city"": ""Roma"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Roma Capitale"", ""state"": ""Lazio""}, ""boundingbox"": [""41.6556417"", ""42.1410285"", ""12.2344669"", ""12.8557603""], ""class"": ""boundary"", ""display_name"": ""Roma, Roma Capitale, Lazio, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"", ""importance"": 0.8996107180689524, ""lat"": ""41.8933203"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""12.4829321"", ""osm_id"": 41485, ""osm_type"": ""relation"", ""place_id"": 283767136, ""type"": ""administrative""}, ""mode"": ""autocomplete""}, ""description"": ""Raccolta medicinali e materiali sanitari in tutte le farmacie di Roma e provincia - dal 9 al 16 marzo"", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Federfarma Roma"", ""recipients"": """", ""submit"": true, ""title"": ""Farmacisti per l'Ucraina"", ""type"": ""healthcare"", ""url"": ""https://twitter.com/ukraineinfohelp/status/1501526286585499649?t=gG4S2XxlCPzIjVTQO5XYVQ&s=19""}","<pre><yamldata>
-type: healthcare
-offerFromWho: Federfarma Roma
-title: Farmacisti per l'Ucraina
-recipients: ''
-description: Raccolta medicinali e materiali sanitari in tutte le farmacie di Roma
-  e provincia - dal 9 al 16 marzo
-url: 'https://twitter.com/ukraineinfohelp/status/1501526286585499649?t=gG4S2XxlCPzIjVTQO5XYVQ&s=19'
-address:
-  mode: autocomplete
-  address:
-    place_id: 283767136
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 41485
-    boundingbox:
-    - '41.6556417'
-    - '42.1410285'
-    - '12.2344669'
-    - '12.8557603'
-    lat: '41.8933203'
-    lon: '12.4829321'
-    display_name: Roma, Roma Capitale, Lazio, Italia
-    class: boundary
-    type: administrative
-    importance: 0.8996107180689524
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
