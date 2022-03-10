@@ -1,4 +1,71 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/65,1165382235,2022-03-10 22:18:03,2022-03-10 15:35:53,Comitato Salva Ucraini di Palermo ha attivato una raccolta di beni per i profughi ucraini,,,,,"[""Valid/Accettato"", ""Services"", ""materialGoods""]",,,"{""address"": {""address"": {""address"": {""city"": ""Palermo"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Palermo"", ""postcode"": ""90143"", ""road"": ""Via Generale Eugenio di Maria"", ""state"": ""Sicilia"", ""suburb"": ""VIII Circoscrizione""}, ""boundingbox"": [""38.1309854"", ""38.1318817"", ""13.3425549"", ""13.3430888""], ""class"": ""highway"", ""display_name"": ""Via Generale Eugenio di Maria, VIII Circoscrizione, Palermo, Sicilia, 90143, Italia"", ""importance"": 0.61, ""lat"": ""38.1315461"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""13.3427395"", ""osm_id"": 86106882, ""osm_type"": ""way"", ""place_id"": 121827517, ""type"": ""residential""}, ""mode"": ""autocomplete""}, ""description"": ""Il Comitato Salva Ucraini di Palermo ha attivato una raccolta di beni per i profughi ucraini, dal luned\u00ec al venerd\u00ec negli orari 10:00 - 13:00 e 17:00 -19:00, in via Eugenio Di Maria n. 25 presso l'associazione Culturale Jim\u00e9nez.\nSi raccolgono i seguenti beni di prima necessit\u00e0 in buono stato di conservazione e pulizia:\n\ud83d\udccc  Vestiario per adulti e bambini (indicando se maschile o femminile, adulto - bambino e la taglia);\n\ud83d\udccc  Generi alimentari a lunga conservazione (no freschi o deperibili);\n\ud83d\udccc  Prodotti di pulizia, igiene e disinfezione;\n\ud83d\udccc  Medicinali da banco ricaricabili senza prescrizione medica;\n\ud83d\udccc  Giocattoli e attrezzature o accessori per la cura dell'infanzia (culle, passeggini etc)\n\ud83d\udccc  Lenzuola, coperte, etc\n\nDescrivere per favore sul pacco il contenuto (es. \u201cvestiti bimbo 4 anni\u201d o \u201ccoperte per adulti\u201d).\n\nInoltre il comitato cerca volontari che possano aiutare nella raccolta e in altre attivit\u00e0."", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Comitato Salva Ucraini Palermo"", ""recipients"": ""cittadini di Palermo"", ""submit"": true, ""title"": ""Comitato Salva Ucraini di Palermo ha attivato una raccolta di beni per i profughi ucraini"", ""type"": ""materialGoods"", ""url"": ""https://t.me/ucraini_a_palermo/6""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: Comitato Salva Ucraini Palermo
+title: Comitato Salva Ucraini di Palermo ha attivato una raccolta di beni per i profughi
+  ucraini
+recipients: cittadini di Palermo
+description: 'Il Comitato Salva Ucraini di Palermo ha attivato una raccolta di beni
+  per i profughi ucraini, dal lunedì al venerdì negli orari 10:00 - 13:00 e 17:00
+  -19:00, in via Eugenio Di Maria n. 25 presso l''associazione Culturale Jiménez.
+
+  Si raccolgono i seguenti beni di prima necessità in buono stato di conservazione
+  e pulizia:
+
+  📌  Vestiario per adulti e bambini (indicando se maschile o femminile, adulto - bambino
+  e la taglia);
+
+  📌  Generi alimentari a lunga conservazione (no freschi o deperibili);
+
+  📌  Prodotti di pulizia, igiene e disinfezione;
+
+  📌  Medicinali da banco ricaricabili senza prescrizione medica;
+
+  📌  Giocattoli e attrezzature o accessori per la cura dell''infanzia (culle, passeggini
+  etc)
+
+  📌  Lenzuola, coperte, etc
+
+
+  Descrivere per favore sul pacco il contenuto (es. “vestiti bimbo 4 anni” o “coperte
+  per adulti”).
+
+
+  Inoltre il comitato cerca volontari che possano aiutare nella raccolta e in altre
+  attività.'
+url: https://t.me/ucraini_a_palermo/6
+address:
+  mode: autocomplete
+  address:
+    place_id: 121827517
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 86106882
+    boundingbox:
+    - '38.1309854'
+    - '38.1318817'
+    - '13.3425549'
+    - '13.3430888'
+    lat: '38.1315461'
+    lon: '13.3427395'
+    display_name: Via Generale Eugenio di Maria, VIII Circoscrizione, Palermo, Sicilia,
+      90143, Italia
+    class: highway
+    type: residential
+    importance: 0.61
+    address:
+      road: Via Generale Eugenio di Maria
+      suburb: VIII Circoscrizione
+      city: Palermo
+      county: Palermo
+      state: Sicilia
+      postcode: '90143'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/64,1164580112,2022-03-10 22:17:22,2022-03-10 00:03:59,Raccolta medicinali e materiali sanitari in tutte le farmacie di Roma   e provincia - dal 9 al 16 marzo,,,,,"[""Valid/Accettato"", ""Services"", ""healtcare""]","Milestone(title=""17 marzo"", number=1)",,"{""address"": {""address"": {""address"": {""city"": ""Roma"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Roma Capitale"", ""state"": ""Lazio""}, ""boundingbox"": [""41.6556417"", ""42.1410285"", ""12.2344669"", ""12.8557603""], ""class"": ""boundary"", ""display_name"": ""Roma, Roma Capitale, Lazio, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"", ""importance"": 0.8996107180689524, ""lat"": ""41.8933203"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""12.4829321"", ""osm_id"": 41485, ""osm_type"": ""relation"", ""place_id"": 283767136, ""type"": ""administrative""}, ""mode"": ""autocomplete""}, ""description"": ""Raccolta medicinali e materiali sanitari in tutte le farmacie di Roma e provincia - dal 9 al 16 marzo"", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Federfarma Roma"", ""recipients"": """", ""submit"": true, ""title"": ""Farmacisti per l'Ucraina"", ""type"": ""healthcare"", ""url"": ""https://twitter.com/ukraineinfohelp/status/1501526286585499649?t=gG4S2XxlCPzIjVTQO5XYVQ&s=19""}","<pre><yamldata>
 type: healthcare
 offerFromWho: Federfarma Roma
