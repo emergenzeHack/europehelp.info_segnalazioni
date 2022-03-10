@@ -1,4 +1,46 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/62,1164309482,2022-03-10 22:45:50,2022-03-09 18:45:32,Il Comitato Salva Ucraini di Palermo cerca volontari che parlino ucraino e italiano,38.1112268,13.3524434,Sicilia,Palermo,"[""Valid/Accettato"", ""Help"", ""Translation""]",,,"{""Posizione"": ""38.1112268 13.3524434"", ""description"": ""Il Comitato Salva Ucraini di Palermo cerca volontari che parlino ucraino e italiano per aiutare i rifugiati ucraini in arrivo a Palermo.\nIl gruppo ha attivato anche una chat Telegram (vedi link)."", ""email"": ""salva.ucraini.palermo@gmail.com"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""help"", ""location"": {""address"": {""address"": {""city"": ""Palermo"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Palermo"", ""state"": ""Sicilia""}, ""boundingbox"": [""38.0499137"", ""38.2245866"", ""13.242219"", ""13.4520856""], ""class"": ""boundary"", ""display_name"": ""Palermo, Sicilia, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"", ""importance"": 0.7661148171447915, ""lat"": ""38.1112268"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""13.3524434"", ""osm_id"": 39513, ""osm_type"": ""relation"", ""place_id"": 284307182, ""type"": ""administrative""}, ""mode"": ""autocomplete""}, ""nameSurname"": ""Comitato Salva Ucraini Palermo"", ""phoneNumber"": """", ""recipients"": """", ""submit"": true, ""title"": ""Il Comitato Salva Ucraini di Palermo cerca volontari che parlino ucraino e italiano"", ""url"": ""https://t.me/ucraini_a_palermo""}","<pre><yamldata>
+nameSurname: Comitato Salva Ucraini Palermo
+phoneNumber: ''
+email: salva.ucraini.palermo@gmail.com
+title: Il Comitato Salva Ucraini di Palermo cerca volontari che parlino ucraino e
+  italiano
+recipients: ''
+description: 'Il Comitato Salva Ucraini di Palermo cerca volontari che parlino ucraino
+  e italiano per aiutare i rifugiati ucraini in arrivo a Palermo.
+
+  Il gruppo ha attivato anche una chat Telegram (vedi link).'
+url: https://t.me/ucraini_a_palermo
+location:
+  mode: autocomplete
+  address:
+    place_id: 284307182
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 39513
+    boundingbox:
+    - '38.0499137'
+    - '38.2245866'
+    - '13.242219'
+    - '13.4520856'
+    lat: '38.1112268'
+    lon: '13.3524434'
+    display_name: Palermo, Sicilia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7661148171447915
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Palermo
+      county: Palermo
+      state: Sicilia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 38.1112268 13.3524434
+</yamldata></pre>",open
 https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/40,1161949488,2022-03-10 22:44:44,2022-03-07 21:34:37,Ukranian sign language services to support deaf refugees,,,,,"[""Valid/Accettato"", ""News"", ""Services"", ""disability""]",,,"{""address"": {""address"": {""address"": {""city"": ""Reggio nell'Emilia"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Reggio nell'Emilia"", ""state"": ""Emilia-Romagna""}, ""boundingbox"": [""44.6244638"", ""44.7744479"", ""10.4910178"", ""10.7733414""], ""class"": ""boundary"", ""display_name"": ""Reggio nell'Emilia, Emilia-Romagna, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"", ""importance"": 0.6725411725065691, ""lat"": ""44.6978389"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""10.6304971"", ""osm_id"": 43415, ""osm_type"": ""relation"", ""place_id"": 284543523, ""type"": ""administrative""}, ""mode"": ""autocomplete""}, ""description"": ""has set up a network of regional community/communication services to support Ukraine deaf refugees arriving in the Emilia Romagna region. These services aim to facilitate communication with local public bodies and public services thanks to deaf interpreters and mediators who know Ukrainian Sign Language.   Further info at emiliaromagna@ens.it  They released this signed video here attached: [https://youtube.com/watch?v=604vD8haZh8&feature=share](https://youtube.com/watch?v=604vD8haZh8&feature=share&fbclid=IwAR1_Pd9g8BXcSeZXSCrEU_1FrCxlhXs01r6TgXeNOo6NVzNfrFOm_LqBkos) EUD - The European Union of the Deaf  Christian Rathmann Debra Russell Arunas Brazas NRW: Deaf Refugees World Federation of the Deaf Ry Lorraine Leeson Anna Komarova Igor Chavrot"", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": "". The Emilia-Romagna Regional Branch of the Italian Deaf Association  (ENS)"", ""recipients"": ""Deaf"", ""submit"": true, ""title"": ""LIS Service to support deaf refugees"", ""type"": ""disabilityServices"", ""url"": ""https://www.facebook.com/groups/ukraineinfo.help/permalink/451623253373295/""}","<pre><yamldata>
 type: disabilityServices
 offerFromWho: . The Emilia-Romagna Regional Branch of the Italian Deaf Association  (ENS)
@@ -783,48 +825,6 @@ address:
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/62,1164309482,2022-03-09 18:47:53,2022-03-09 18:45:32,Il Comitato Salva Ucraini di Palermo cerca volontari che parlino ucraino e italiano,38.1112268,13.3524434,Sicilia,Palermo,"[""Valid/Accettato"", ""Help""]",,,"{""Posizione"": ""38.1112268 13.3524434"", ""description"": ""Il Comitato Salva Ucraini di Palermo cerca volontari che parlino ucraino e italiano per aiutare i rifugiati ucraini in arrivo a Palermo.\nIl gruppo ha attivato anche una chat Telegram (vedi link)."", ""email"": ""salva.ucraini.palermo@gmail.com"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""help"", ""location"": {""address"": {""address"": {""city"": ""Palermo"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Palermo"", ""state"": ""Sicilia""}, ""boundingbox"": [""38.0499137"", ""38.2245866"", ""13.242219"", ""13.4520856""], ""class"": ""boundary"", ""display_name"": ""Palermo, Sicilia, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"", ""importance"": 0.7661148171447915, ""lat"": ""38.1112268"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""13.3524434"", ""osm_id"": 39513, ""osm_type"": ""relation"", ""place_id"": 284307182, ""type"": ""administrative""}, ""mode"": ""autocomplete""}, ""nameSurname"": ""Comitato Salva Ucraini Palermo"", ""phoneNumber"": """", ""recipients"": """", ""submit"": true, ""title"": ""Il Comitato Salva Ucraini di Palermo cerca volontari che parlino ucraino e italiano"", ""url"": ""https://t.me/ucraini_a_palermo""}","<pre><yamldata>
-nameSurname: Comitato Salva Ucraini Palermo
-phoneNumber: ''
-email: salva.ucraini.palermo@gmail.com
-title: Il Comitato Salva Ucraini di Palermo cerca volontari che parlino ucraino e
-  italiano
-recipients: ''
-description: 'Il Comitato Salva Ucraini di Palermo cerca volontari che parlino ucraino
-  e italiano per aiutare i rifugiati ucraini in arrivo a Palermo.
-
-  Il gruppo ha attivato anche una chat Telegram (vedi link).'
-url: https://t.me/ucraini_a_palermo
-location:
-  mode: autocomplete
-  address:
-    place_id: 284307182
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 39513
-    boundingbox:
-    - '38.0499137'
-    - '38.2245866'
-    - '13.242219'
-    - '13.4520856'
-    lat: '38.1112268'
-    lon: '13.3524434'
-    display_name: Palermo, Sicilia, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7661148171447915
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Palermo
-      county: Palermo
-      state: Sicilia
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 38.1112268 13.3524434
 </yamldata></pre>",open
 https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/55,1164266014,2022-03-09 18:01:42,2022-03-09 17:59:55,Associazione Nonna Roma attiva raccolta farmaci per Ucraina,,,,,"[""Valid/Accettato"", ""Services"", ""materialGoods"", ""healtcare""]",,,"{""address"": {""address"": {""address"": {""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Roma Capitale"", ""hamlet"": ""Colombella"", ""neighbourhood"": ""San Rocco"", ""postcode"": ""00036"", ""road"": ""Via Palmiro Togliatti - Tangenziale Valle del Ponte"", ""state"": ""Lazio"", ""town"": ""Palestrina""}, ""boundingbox"": [""41.8356208"", ""41.8360418"", ""12.883508"", ""12.8838463""], ""class"": ""highway"", ""display_name"": ""Via Palmiro Togliatti - Tangenziale Valle del Ponte, San Rocco, Colombella, Palestrina, Roma Capitale, Lazio, 00036, Italia"", ""importance"": 0.4, ""lat"": ""41.8359909"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""12.8838054"", ""osm_id"": 170600188, ""osm_type"": ""way"", ""place_id"": 141306985, ""type"": ""residential""}, ""mode"": ""autocomplete""}, ""description"": ""L'associazione Nonna Roma lancia a Roma una raccolta farmaci che sar\u00e0 destinata alla Croce Rossa Italiana ed inviata in Ucraina.\n\nI punti di raccolta farmaci sono i seguenti:\n\n\ud83d\udccd Sparwasser, via del Pigneto 215, tutte le sere dalle 19 in poi;\n\n\ud83d\udccd Nonna Roma,\nvia Palmiro Togliatti 979\n\u2013 tutti i marted\u00ec h. 15-19,\n\u2013 tutti i mercoled\u00ec h. 10-13 e 15-18,\n\u2013 tutti i venerd\u00ec h. 9-13;\n\n\ud83d\udccd Casale Garibaldi\nvia Romolo Balzani 87\ntutti i marted\u00ec h. 16-19\ntutti i mercoled\u00ec h. 10-13\n\n\ud83d\udccd Officine Civiche\nvia Arturo Malagoli, 16 Ciampino\ngioved\u00ec h. 17 -19."", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Associazione Nonna Roma"", ""recipients"": """", ""submit"": true, ""title"": ""Associazione Nonna Roma attiva raccolta farmaci per Ucraina"", ""type"": ""healthcare"", ""url"": ""https://nonnaroma.it/2022/03/08/raccolta-farmaci-per-la-popolazione-in-ucraina/""}","<pre><yamldata>
 offerFromWho: Associazione Nonna Roma
