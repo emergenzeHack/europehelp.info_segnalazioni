@@ -1,4 +1,21 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/73,1165441654,2022-03-10 22:27:22,2022-03-10 16:22:08,Online it.eu4ua.org piattaforma europea per offrire alloggio ai rifugiati ucraini (anche in italiano),,,,,"[""Valid/Accettato"", ""Services"", ""hospitality""]",,,"{""address"": {""address"": {}, ""mode"": ""autocomplete""}, ""description"": ""Online it.eu4ua.org piattaforma europea multilingue, disponibile anche in italiano, che aiuta l'incontro tra ospitanti europei e profughi ucraini in cerca di un #alloggio."", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Europe for Uckraine"", ""recipients"": """", ""submit"": true, ""title"": ""Online it.eu4ua.org piattaforma europea multilingue, disponibile anche in italiano, che aiuta l'incontro tra ospitanti europei e profughi ucraini in cerca di alloggio"", ""type"": ""hospitality"", ""url"": ""https://it.eu4ua.org""}","<pre><yamldata>
+type: hospitality
+offerFromWho: Europe for Uckraine
+title: Online it.eu4ua.org piattaforma europea multilingue, disponibile anche in italiano,
+  che aiuta l'incontro tra ospitanti europei e profughi ucraini in cerca di alloggio
+recipients: ''
+description: 'Online it.eu4ua.org piattaforma europea multilingue, disponibile anche
+  in italiano, che aiuta l''incontro tra ospitanti europei e profughi ucraini in cerca
+  di un #alloggio.'
+url: https://it.eu4ua.org
+address:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/72,1165436880,2022-03-10 22:25:19,2022-03-10 16:19:46,Materiali di Docenti Senza Frontiere per facilitare l'inserimento scolastico di bambini ucraini,46.006085,11.12844,Trentino-Alto Adige,Trento,"[""Valid/Accettato"", ""Children"", ""document_data""]",,,"{""Posizione"": ""46.006085 11.12844"", ""description"": ""Docenti Senza Frontiere ha raccolto e pubblicato online materiali per agevolare lo scambio linguistico e la conoscenza del sistema scolastico di provenienza e facilitare l'inserimento scolastico di #bambini ucraini rifugiati in Italia."", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""document_data"", ""link"": ""https://t.co/mELJwhEdMz"", ""location"": {""address"": {""address"": {""city"": ""Trento"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Provincia di Trento"", ""municipality"": ""Territorio Val d'Adige"", ""postcode"": ""38123"", ""quarter"": ""Mattarello di Sotto"", ""road"": ""Via Guido Poli"", ""state"": ""Trentino-Alto Adige"", ""village"": ""Mattarello""}, ""boundingbox"": [""46.0058921"", ""46.0062362"", ""11.1282682"", ""11.1287143""], ""class"": ""highway"", ""display_name"": ""Via Guido Poli, Mattarello di Sotto, Mattarello, Trento, Territorio Val d'Adige, Provincia di Trento, Trentino-Alto Adige, 38123, Italia"", ""importance"": 0.5199999999999999, ""lat"": ""46.006085"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""11.12844"", ""osm_id"": 780479136, ""osm_type"": ""way"", ""place_id"": 254696017, ""type"": ""tertiary""}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""Materiali di Docenti Senza Frontiere per facilitare l'inserimento scolastico di bambini ucraini rifugiati in Italia""}","<pre><yamldata>
 title: Materiali di Docenti Senza Frontiere per facilitare l'inserimento scolastico
   di bambini ucraini rifugiati in Italia
