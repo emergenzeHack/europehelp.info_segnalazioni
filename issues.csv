@@ -1,4 +1,229 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/71,1165430680,2022-03-10 22:23:19,2022-03-10 16:16:19,Comune di Rieti cerca mediatori linguistici di lingua ucraina/russa,42.41473635,12.885888076510067,Lazio,Rieti,"[""Valid/Accettato"", ""Help"", ""Translation""]",,,"{""Posizione"": ""42.41473635 12.885888076510067"", ""description"": ""Comune di Rieti cerca mediatori linguistici di lingua ucraina/russa per l\u2019accoglienza di cittadini ucraini da utilizzare nell\u2019ambito dei Servizi Sociali professionali e del Pronto Intervento Sociale. \nScadenza Avviso 31 marzo."", ""email"": ""protocollo@pec.comune.rieti.it"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""help"", ""location"": {""address"": {""address"": {""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Rieti"", ""state"": ""Lazio""}, ""boundingbox"": [""42.0889167"", ""42.7409686"", ""12.4372963"", ""13.4099792""], ""class"": ""boundary"", ""display_name"": ""Rieti, Lazio, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"", ""importance"": 0.732134276481888, ""lat"": ""42.41473635"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""12.885888076510067"", ""osm_id"": 41781, ""osm_type"": ""relation"", ""place_id"": 284337641, ""type"": ""administrative""}, ""mode"": ""autocomplete""}, ""nameSurname"": ""Comune di Rieti"", ""phoneNumber"": """", ""recipients"": ""mediatori linguistici"", ""submit"": true, ""title"": ""Comune di Rieti cerca mediatori linguistici di lingua ucraina/russa"", ""url"": ""https://www.comune.rieti.it/article/22/03/emergenza-ucraina-avviso-pubblico-del-comune-di-rieti-costituire-un-elenco-di""}","<pre><yamldata>
+nameSurname: Comune di Rieti
+phoneNumber: ''
+email: protocollo@pec.comune.rieti.it
+title: Comune di Rieti cerca mediatori linguistici di lingua ucraina/russa
+recipients: mediatori linguistici
+description: ""Comune di Rieti cerca mediatori linguistici di lingua ucraina/russa\
+  \ per l’accoglienza di cittadini ucraini da utilizzare nell’ambito dei Servizi Sociali\
+  \ professionali e del Pronto Intervento Sociale. \nScadenza Avviso 31 marzo.""
+url: https://www.comune.rieti.it/article/22/03/emergenza-ucraina-avviso-pubblico-del-comune-di-rieti-costituire-un-elenco-di
+location:
+  mode: autocomplete
+  address:
+    place_id: 284337641
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 41781
+    boundingbox:
+    - '42.0889167'
+    - '42.7409686'
+    - '12.4372963'
+    - '13.4099792'
+    lat: '42.41473635'
+    lon: '12.885888076510067'
+    display_name: Rieti, Lazio, Italia
+    class: boundary
+    type: administrative
+    importance: 0.732134276481888
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Rieti
+      state: Lazio
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 42.41473635 12.885888076510067
+</yamldata></pre>",open
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/70,1165425801,2022-03-10 22:22:58,2022-03-10 16:12:00,Raccolta fondi Emergenza Ucraina della Federazione Chiese Evangeliche Italia ,41.9032623,12.4931881,Lazio,Roma,"[""Valid/Accettato"", ""fundraising""]",,,"{""Posizione"": ""41.9032623 12.4931881"", ""bicSwift"": """", ""causal"": ""Sottoscrizione Ucraina"", ""ccPostal"": """", ""description"": ""FCEI lancia quindi una sottoscrizione straordinaria * finalizzata a raccogliere fondi da destinare ad azioni di accoglienza, protezione e sostegno dei profughi da realizzarsi primariamente in Italia e in Polonia.\nDonazioni via bonifico e Paypal (vedi link)."", ""email"": """", ""heading"": ""Federazione delle Chiese Evangeliche in Italia \u2013 Via Firenze 38, 00184 Roma"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""iban"": ""IT 26 X 02008 05203 000104203419"", ""label"": ""fundraising"", ""link"": ""https://www.nev.it/nev/2022/03/01/ucraina-chiese-protestanti-no-alle-armi-aprire-canali-di-protezione-umanitaria-pronti-a-fare-nostra-parte-per-accoglienza/"", ""location"": {""address"": {""address"": {""city"": ""Roma"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Roma Capitale"", ""house_number"": ""38"", ""postcode"": ""00187"", ""quarter"": ""Castro Pretorio"", ""road"": ""Via Firenze"", ""state"": ""Lazio"", ""suburb"": ""Municipio Roma I"", ""tourism"": ""Oceania""}, ""boundingbox"": [""41.9032123"", ""41.9033123"", ""12.4931381"", ""12.4932381""], ""class"": ""tourism"", ""display_name"": ""Oceania, 38, Via Firenze, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//accommodation_hotel2.p.20.png"", ""importance"": 0.42099999999999993, ""lat"": ""41.9032623"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""12.4931881"", ""osm_id"": 4320231720, ""osm_type"": ""node"", ""place_id"": 49160628, ""type"": ""hotel""}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""Federazione Chiese Evangeliche Italia""}","<pre><yamldata>
+title: Federazione Chiese Evangeliche Italia
+description: 'FCEI lancia quindi una sottoscrizione straordinaria * finalizzata a
+  raccogliere fondi da destinare ad azioni di accoglienza, protezione e sostegno dei
+  profughi da realizzarsi primariamente in Italia e in Polonia.
+
+  Donazioni via bonifico e Paypal (vedi link).'
+heading: Federazione delle Chiese Evangeliche in Italia – Via Firenze 38, 00184 Roma
+iban: IT 26 X 02008 05203 000104203419
+bicSwift: ''
+ccPostal: ''
+causal: Sottoscrizione Ucraina
+link: https://www.nev.it/nev/2022/03/01/ucraina-chiese-protestanti-no-alle-armi-aprire-canali-di-protezione-umanitaria-pronti-a-fare-nostra-parte-per-accoglienza/
+email: ''
+location:
+  mode: autocomplete
+  address:
+    place_id: 49160628
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 4320231720
+    boundingbox:
+    - '41.9032123'
+    - '41.9033123'
+    - '12.4931381'
+    - '12.4932381'
+    lat: '41.9032623'
+    lon: '12.4931881'
+    display_name: Oceania, 38, Via Firenze, Castro Pretorio, Municipio Roma I, Roma,
+      Roma Capitale, Lazio, 00187, Italia
+    class: tourism
+    type: hotel
+    importance: 0.42099999999999993
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//accommodation_hotel2.p.20.png
+    address:
+      tourism: Oceania
+      house_number: '38'
+      road: Via Firenze
+      quarter: Castro Pretorio
+      suburb: Municipio Roma I
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: 00187
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+Posizione: 41.9032623 12.4931881
+</yamldata></pre>",open
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/69,1165421436,2022-03-10 22:22:05,2022-03-10 16:08:00,"La Diaconia Valdese cerca mediatori linguistici di lingua ucraina per Pinerolo (To), Torino, Milano, Genova, Bologna, Firenze, Roma e Napoli",44.8220826,7.2290893,Piemonte,Torino,"[""Valid/Accettato"", ""Help"", ""Translation""]",,,"{""Posizione"": ""44.8220826 7.2290893"", ""description"": ""La Diaconia Valdese \u2013 Servizi Inclusione seleziona per i propri servizi di accoglienza e di sportello, mediatori e mediatrici in lingua ucraina.\nI servizi sono attivi nelle citt\u00e0 di Pinerolo (TO), Torino, Milano, Genova, Bologna, Firenze, Roma e Napoli\nInviare curriculum vitae a ricercapersonale@diaconiavaldese.org\nE\u2019 richiesta disponibilit\u00e0 immediata per impiego part-time 19 ore settimanali"", ""email"": ""ricercapersonale@diaconiavaldese.org"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""help"", ""location"": {""address"": {""address"": {""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Torino"", ""hamlet"": ""Simound"", ""postcode"": ""10066"", ""road"": ""Via Angrogna"", ""state"": ""Piemonte"", ""village"": ""Torre Pellice""}, ""boundingbox"": [""44.8205961"", ""44.8237564"", ""7.2286703"", ""7.2291968""], ""class"": ""highway"", ""display_name"": ""Via Angrogna, Simound, Torre Pellice, Torino, Piemonte, 10066, Italia"", ""importance"": 0.4, ""lat"": ""44.8220826"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""7.2290893"", ""osm_id"": 143598496, ""osm_type"": ""way"", ""place_id"": 136377592, ""type"": ""residential""}, ""mode"": ""autocomplete""}, ""nameSurname"": ""Diaconia Valdese"", ""phoneNumber"": """", ""recipients"": ""Mediatori linguistici"", ""submit"": true, ""title"": ""La Diaconia Valdese cerca mediatori linguistici di lingua ucraina per Pinerolo (To), Torino, Milano, Genova, Bologna, Firenze, Roma e Napoli."", ""url"": ""https://www.job4good.it/offerta-lavoro/mediatori-linguistico-culturali/""}","<pre><yamldata>
+nameSurname: Diaconia Valdese
+phoneNumber: ''
+email: ricercapersonale@diaconiavaldese.org
+title: La Diaconia Valdese cerca mediatori linguistici di lingua ucraina per Pinerolo
+  (To), Torino, Milano, Genova, Bologna, Firenze, Roma e Napoli.
+recipients: Mediatori linguistici
+description: 'La Diaconia Valdese – Servizi Inclusione seleziona per i propri servizi
+  di accoglienza e di sportello, mediatori e mediatrici in lingua ucraina.
+
+  I servizi sono attivi nelle città di Pinerolo (TO), Torino, Milano, Genova, Bologna,
+  Firenze, Roma e Napoli
+
+  Inviare curriculum vitae a ricercapersonale@diaconiavaldese.org
+
+  E’ richiesta disponibilità immediata per impiego part-time 19 ore settimanali'
+url: https://www.job4good.it/offerta-lavoro/mediatori-linguistico-culturali/
+location:
+  mode: autocomplete
+  address:
+    place_id: 136377592
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 143598496
+    boundingbox:
+    - '44.8205961'
+    - '44.8237564'
+    - '7.2286703'
+    - '7.2291968'
+    lat: '44.8220826'
+    lon: '7.2290893'
+    display_name: Via Angrogna, Simound, Torre Pellice, Torino, Piemonte, 10066, Italia
+    class: highway
+    type: residential
+    importance: 0.4
+    address:
+      road: Via Angrogna
+      hamlet: Simound
+      village: Torre Pellice
+      county: Torino
+      state: Piemonte
+      postcode: '10066'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 44.8220826 7.2290893
+</yamldata></pre>",open
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/68,1165405317,2022-03-10 22:20:40,2022-03-10 15:55:31,A Brescia cooperativa sociale cerca mediatori linguistici di lingua ucraina,45.5324692,10.2303062,Lombardia,Brescia,"[""Valid/Accettato"", ""Help"", ""Translation""]",,,"{""Posizione"": ""45.5324692 10.2303062"", ""description"": ""A Brescia la cooperativa Sociale Tempo Libero cerca mediatori linguistici di lingua ucraina con esperienza in ambito sociale e sanitario."", ""email"": ""cooptempolibero@pec.it"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""help"", ""location"": {""address"": {""address"": {""city"": ""Brescia"", ""city_district"": ""Zona Centro"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Brescia"", ""postcode"": ""25121"", ""road"": ""Via Spalto San Marco"", ""state"": ""Lombardia"", ""suburb"": ""Brescia Antica""}, ""boundingbox"": [""45.5324258"", ""45.5324759"", ""10.2302064"", ""10.2307232""], ""class"": ""highway"", ""display_name"": ""Via Spalto San Marco, Brescia Antica, Zona Centro, Brescia, Lombardia, 25121, Italia"", ""importance"": 0.6, ""lat"": ""45.5324692"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""10.2303062"", ""osm_id"": 190663187, ""osm_type"": ""way"", ""place_id"": 147929114, ""type"": ""primary""}, ""mode"": ""autocomplete""}, ""nameSurname"": ""Cooperativa Tempo Libero"", ""phoneNumber"": ""030 2808350"", ""recipients"": ""Mediatori linguistici"", ""submit"": true, ""title"": ""A Brescia cooperativa sociale cerca mediatori linguistici di lingua ucraina"", ""url"": ""https://www.coopmatch.it/annuncio-dettaglio.asp?idan=26494&utm_source=dlvr.it&utm_medium=twitter""}","<pre><yamldata>
+nameSurname: Cooperativa Tempo Libero
+phoneNumber: 030 2808350
+email: cooptempolibero@pec.it
+title: A Brescia cooperativa sociale cerca mediatori linguistici di lingua ucraina
+recipients: Mediatori linguistici
+description: A Brescia la cooperativa Sociale Tempo Libero cerca mediatori linguistici
+  di lingua ucraina con esperienza in ambito sociale e sanitario.
+url: https://www.coopmatch.it/annuncio-dettaglio.asp?idan=26494&utm_source=dlvr.it&utm_medium=twitter
+location:
+  mode: autocomplete
+  address:
+    place_id: 147929114
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 190663187
+    boundingbox:
+    - '45.5324258'
+    - '45.5324759'
+    - '10.2302064'
+    - '10.2307232'
+    lat: '45.5324692'
+    lon: '10.2303062'
+    display_name: Via Spalto San Marco, Brescia Antica, Zona Centro, Brescia, Lombardia,
+      25121, Italia
+    class: highway
+    type: primary
+    importance: 0.6
+    address:
+      road: Via Spalto San Marco
+      suburb: Brescia Antica
+      city_district: Zona Centro
+      city: Brescia
+      county: Brescia
+      state: Lombardia
+      postcode: '25121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 45.5324692 10.2303062
+</yamldata></pre>",open
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/67,1165400000,2022-03-10 22:20:07,2022-03-10 15:50:57,In Piemonte sito web in lingua ucraina per prenotare il vaccino,,,,,"[""Valid/Accettato"", ""Services"", ""healtcare""]",,,"{""address"": {""address"": {""address"": {""city"": ""Torino"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Torino"", ""emergency"": ""Regione Piemonte"", ""postcode"": ""1023"", ""road"": ""Via Palazzo di Citt\u00e0"", ""state"": ""Piemonte"", ""suburb"": ""Centro""}, ""boundingbox"": [""45.0716315"", ""45.0717315"", ""7.6847823"", ""7.6848823""], ""class"": ""emergency"", ""display_name"": ""Regione Piemonte, Via Palazzo di Citt\u00e0, Centro, Circoscrizione 1, Torino, Piemonte, 1023, Italia"", ""importance"": 0.32100000000000006, ""lat"": ""45.0716815"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""7.6848323"", ""osm_id"": 6877134124, ""osm_type"": ""node"", ""place_id"": 72482406, ""type"": ""defibrillator""}, ""mode"": ""autocomplete""}, ""description"": ""Il sito web per aderire alla vaccinazione in Piemonte da venerd\u00ec 11 marzo avr\u00e0 l'opzione in lingua ucraina. Lo rende noto la Regione, che spiega che gli ucraini non vaccinati ospiti in Piemonte possono prenotarsi sul portale https://www.ilpiemontetivaccina.it dove da venerd\u00ec 11 marzo sar\u00e0 attiva in primo piano una specifica sezione in ucraino."", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Regione Piemonte"", ""recipients"": """", ""submit"": true, ""title"": ""In Piemonte sito web in lingua ucraina per prenotare il vaccino"", ""type"": ""healthcare"", ""url"": ""https://www.redattoresociale.it/article/notiziario/in_piemonte_sito_in_lingua_ucraina_per_prenotare_il_vaccino""}","<pre><yamldata>
+type: healthcare
+offerFromWho: Regione Piemonte
+title: In Piemonte sito web in lingua ucraina per prenotare il vaccino
+recipients: ''
+description: Il sito web per aderire alla vaccinazione in Piemonte da venerdì 11 marzo
+  avrà l'opzione in lingua ucraina. Lo rende noto la Regione, che spiega che gli ucraini
+  non vaccinati ospiti in Piemonte possono prenotarsi sul portale https://www.ilpiemontetivaccina.it
+  dove da venerdì 11 marzo sarà attiva in primo piano una specifica sezione in ucraino.
+url: https://www.redattoresociale.it/article/notiziario/in_piemonte_sito_in_lingua_ucraina_per_prenotare_il_vaccino
+address:
+  mode: autocomplete
+  address:
+    place_id: 72482406
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 6877134124
+    boundingbox:
+    - '45.0716315'
+    - '45.0717315'
+    - '7.6847823'
+    - '7.6848823'
+    lat: '45.0716815'
+    lon: '7.6848323'
+    display_name: Regione Piemonte, Via Palazzo di Città, Centro, Circoscrizione 1,
+      Torino, Piemonte, 1023, Italia
+    class: emergency
+    type: defibrillator
+    importance: 0.32100000000000006
+    address:
+      emergency: Regione Piemonte
+      road: Via Palazzo di Città
+      suburb: Centro
+      city: Torino
+      county: Torino
+      state: Piemonte
+      postcode: '1023'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/66,1165396204,2022-03-10 22:18:53,2022-03-10 15:47:37,A Firenze e Livorno Regione Toscana attiva due hub di accoglienza per i rifugiati ucraini,,,,,"[""Valid/Accettato"", ""Services"", ""hospitality"", ""healtcare""]",,,"{""address"": {""address"": {""address"": {""city"": ""Firenze"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Citt\u00e0 metropolitana di Firenze"", ""house_number"": ""2/8"", ""postcode"": ""50127"", ""road"": ""Via dell'Olmatello"", ""state"": ""Toscana"", ""suburb"": ""Quartiere 5""}, ""boundingbox"": [""43.801599"", ""43.801699"", ""11.2156145"", ""11.2157145""], ""class"": ""place"", ""display_name"": ""2/8, Via dell'Olmatello, Quartiere 5, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50127, Italia"", ""importance"": 0.821, ""lat"": ""43.801649"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""11.2156645"", ""osm_id"": 2361720520, ""osm_type"": ""node"", ""place_id"": 21246633, ""type"": ""house""}, ""mode"": ""autocomplete""}, ""description"": ""Mercafir a Firenze, per la Toscana centrale, e il palazzetto dello sport di Livorno, per la costa, come i due front office per tutti gli ucraini che arrivano in Toscana e hanno bisogno di un aiuto o un\u2019indicazione, soprattutto rispetto all\u2019assistenza sanitaria o all\u2019alloggio."", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Regione Toscana"", ""recipients"": """", ""submit"": true, ""title"": ""A Firenze e Livorno Regione Toscana attiva due hub di accoglienza per i rifugiati ucraini"", ""type"": ""hospitality"", ""url"": ""https://www.redattoresociale.it/article/notiziario/ucraina_a_firenze_e_livorno_due_punti_di_accoglienza_profughi""}","<pre><yamldata>
 type: hospitality
 offerFromWho: Regione Toscana
