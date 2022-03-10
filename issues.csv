@@ -1,4 +1,45 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/63,1164577161,2022-03-10 22:10:19,2022-03-09 23:59:10,MEDU - Medici per i diritti umani apre raccolta fondi per emergenza Ucraina,41.8933203,12.4829321,Lazio,Roma,"[""Valid/Accettato"", ""fundraising""]",,,"{""Posizione"": ""41.8933203 12.4829321"", ""bicSwift"": ""CCRTIT2T84A"", ""causal"": ""EMERGENZA  UCRAINA"", ""ccPostal"": """", ""description"": ""Raccolta fondi sostenere gli interventi di MEDU in Italia ed in Romania. Info qui: https://mediciperidirittiumani.org/emergenza-ucraina-aiutaci-a-fare-la-nostra-parte/"", ""email"": ""comunicazione@mediciperidirittiumani.org"", ""heading"": ""Medici per i Diritti Umani"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""iban"": ""IT38F0501803200000011130242"", ""label"": ""fundraising"", ""link"": ""https://mediciperidirittiumani.org/sostieni/?fbclid=IwAR3Tf0M0mRplWwkVsS6pUJHSKW233aWhbJ4FpKWxSR9jurcl_k_4iT5xxfc#dona"", ""location"": {""address"": {""address"": {""city"": ""Roma"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Roma Capitale"", ""state"": ""Lazio""}, ""boundingbox"": [""41.6556417"", ""42.1410285"", ""12.2344669"", ""12.8557603""], ""class"": ""boundary"", ""display_name"": ""Roma, Roma Capitale, Lazio, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"", ""importance"": 0.7896107180689524, ""lat"": ""41.8933203"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""12.4829321"", ""osm_id"": 41485, ""osm_type"": ""relation"", ""place_id"": 283767136, ""type"": ""administrative""}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""MEDU - Medici per i diritti umani""}","<pre><yamldata>
+title: MEDU - Medici per i diritti umani
+description: 'Raccolta fondi sostenere gli interventi di MEDU in Italia ed in Romania.
+  Info qui: https://mediciperidirittiumani.org/emergenza-ucraina-aiutaci-a-fare-la-nostra-parte/'
+heading: Medici per i Diritti Umani
+iban: IT38F0501803200000011130242
+bicSwift: CCRTIT2T84A
+ccPostal: ''
+causal: EMERGENZA  UCRAINA
+link: https://mediciperidirittiumani.org/sostieni/?fbclid=IwAR3Tf0M0mRplWwkVsS6pUJHSKW233aWhbJ4FpKWxSR9jurcl_k_4iT5xxfc#dona
+email: comunicazione@mediciperidirittiumani.org
+location:
+  mode: autocomplete
+  address:
+    place_id: 283767136
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 41485
+    boundingbox:
+    - '41.6556417'
+    - '42.1410285'
+    - '12.2344669'
+    - '12.8557603'
+    lat: '41.8933203'
+    lon: '12.4829321'
+    display_name: Roma, Roma Capitale, Lazio, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7896107180689524
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+Posizione: 41.8933203 12.4829321
+</yamldata></pre>",open
 https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/57,1164274710,2022-03-10 22:09:16,2022-03-09 18:08:41,Raccolta fondi del Comune di Parma per emergenza Ucraina,44.8013678,10.3280833,Emilia-Romagna,Parma,"[""Valid/Accettato"", ""fundraising""]",,,"{""Posizione"": ""44.8013678 10.3280833"", ""bicSwift"": """", ""causal"": """", ""ccPostal"": """", ""description"": ""Il Comune di Parma attiva raccolta fondi per emergenza Ucraina. Tutte le info al link."", ""email"": """", ""heading"": """", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""iban"": """", ""label"": ""fundraising"", ""link"": ""https://twitter.com/ComuneParma/status/1501478652621561860?t=A9GYiVL7RBN0__ePHNpjzQ&s=19"", ""location"": {""address"": {""address"": {""city"": ""Parma"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Parma"", ""postcode"": ""43121"", ""state"": ""Emilia-Romagna""}, ""boundingbox"": [""44.6413678"", ""44.9613678"", ""10.1680833"", ""10.4880833""], ""class"": ""place"", ""display_name"": ""Parma, Emilia-Romagna, 43121, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"", ""importance"": 0.7355734240168408, ""lat"": ""44.8013678"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""10.3280833"", ""osm_id"": 69300007, ""osm_type"": ""node"", ""place_id"": 285640881, ""type"": ""city""}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""Comune di Parma""}","<pre><yamldata>
 title: Comune di Parma
 description: Il Comune di Parma attiva raccolta fondi per emergenza Ucraina. Tutte
