@@ -1,4 +1,52 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/56,1164273182,2022-03-10 18:10:34,2022-03-09 18:07:10,Regione Piemonte raccoglie disponibilità dei cittadini ad accogliere profughi ucraini,,,,,"[""Valid/Accettato"", ""Services"", ""hospitality""]",,,"{""address"": {""address"": {""address"": {""city"": ""Torino"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Torino"", ""state"": ""Piemonte""}, ""boundingbox"": [""45.0067924"", ""45.1402175"", ""7.5778348"", ""7.7733388""], ""class"": ""boundary"", ""display_name"": ""Torino, Piemonte, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"", ""importance"": 0.8068062387577691, ""lat"": ""45.0677551"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""7.6824892"", ""osm_id"": 43992, ""osm_type"": ""relation"", ""place_id"": 284787924, ""type"": ""administrative""}, ""mode"": ""autocomplete""}, ""description"": ""La Regione Piemonte ha avviato una ricognizione su tutto il territorio delle disponibilit\u00e0 di famiglie e singoli all\u2019accoglienza temporanea dei nuclei famigliari provenienti dell\u2019Ucraina, composti in gran parte da donne (mamme, nonne, e zie) con figli anche minori al seguito, in fuga dalle zone di conflitto.\nChi lo desidera pu\u00f2 manifestare la propria disponibilit\u00e0 all\u2019accoglienza in casa compilando un modulo on line.\n\u00c8 inoltre attiva la mail accoglienza.ucraina@regione.piemonte.it per richieste di informazioni sull\u2019accoglienza di chi sta fuggendo dalla guerra in Ucraina.\nTutte le info al link."", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Regione Piemonte"", ""recipients"": """", ""submit"": true, ""title"": ""Regione Piemonte raccoglie disponibilit\u00e0 dei cittadini ad accogliere profughi ucraini"", ""type"": ""hospitality"", ""url"": ""https://www.regione.piemonte.it/web/temi/diritti-politiche-sociali/piemonte-per-lucraina""}","<pre><yamldata>
+type: hospitality
+offerFromWho: Regione Piemonte
+title: Regione Piemonte raccoglie disponibilità dei cittadini ad accogliere profughi
+  ucraini
+recipients: ''
+description: 'La Regione Piemonte ha avviato una ricognizione su tutto il territorio
+  delle disponibilità di famiglie e singoli all’accoglienza temporanea dei nuclei
+  famigliari provenienti dell’Ucraina, composti in gran parte da donne (mamme, nonne,
+  e zie) con figli anche minori al seguito, in fuga dalle zone di conflitto.
+
+  Chi lo desidera può manifestare la propria disponibilità all’accoglienza in casa
+  compilando un modulo on line.
+
+  È inoltre attiva la mail accoglienza.ucraina@regione.piemonte.it per richieste di
+  informazioni sull’accoglienza di chi sta fuggendo dalla guerra in Ucraina.
+
+  Tutte le info al link.'
+url: https://www.regione.piemonte.it/web/temi/diritti-politiche-sociali/piemonte-per-lucraina
+address:
+  mode: autocomplete
+  address:
+    place_id: 284787924
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43992
+    boundingbox:
+    - '45.0067924'
+    - '45.1402175'
+    - '7.5778348'
+    - '7.7733388'
+    lat: '45.0677551'
+    lon: '7.6824892'
+    display_name: Torino, Piemonte, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8068062387577691
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Torino
+      county: Torino
+      state: Piemonte
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/62,1164309482,2022-03-09 18:47:53,2022-03-09 18:45:32,Il Comitato Salva Ucraini di Palermo cerca volontari che parlino ucraino e italiano,38.1112268,13.3524434,Sicilia,Palermo,"[""Valid/Accettato"", ""Help""]",,,"{""Posizione"": ""38.1112268 13.3524434"", ""description"": ""Il Comitato Salva Ucraini di Palermo cerca volontari che parlino ucraino e italiano per aiutare i rifugiati ucraini in arrivo a Palermo.\nIl gruppo ha attivato anche una chat Telegram (vedi link)."", ""email"": ""salva.ucraini.palermo@gmail.com"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""help"", ""location"": {""address"": {""address"": {""city"": ""Palermo"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Palermo"", ""state"": ""Sicilia""}, ""boundingbox"": [""38.0499137"", ""38.2245866"", ""13.242219"", ""13.4520856""], ""class"": ""boundary"", ""display_name"": ""Palermo, Sicilia, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"", ""importance"": 0.7661148171447915, ""lat"": ""38.1112268"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""13.3524434"", ""osm_id"": 39513, ""osm_type"": ""relation"", ""place_id"": 284307182, ""type"": ""administrative""}, ""mode"": ""autocomplete""}, ""nameSurname"": ""Comitato Salva Ucraini Palermo"", ""phoneNumber"": """", ""recipients"": """", ""submit"": true, ""title"": ""Il Comitato Salva Ucraini di Palermo cerca volontari che parlino ucraino e italiano"", ""url"": ""https://t.me/ucraini_a_palermo""}","<pre><yamldata>
 nameSurname: Comitato Salva Ucraini Palermo
 phoneNumber: ''
