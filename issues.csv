@@ -1,4 +1,47 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/42,1162736087,2022-03-11 07:23:23,2022-03-08 14:39:12,Comune di Venezia attiva sportello Emergenza Ucraina,,,,,"[""Valid/Accettato"", ""News"", ""Missing position"", ""Services"", ""Legal"", ""hospitality""]",,,"{""address"": {""address"": {""address"": {""amenity"": ""Comune di Venezia"", ""city"": ""Venezia"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Venezia"", ""road"": ""Calle Chiesa Ognissanti"", ""state"": ""Veneto"", ""suburb"": ""Lido-Pellestrina"", ""village"": ""Pellestrina""}, ""boundingbox"": [""45.2731957"", ""45.2732957"", ""12.3009922"", ""12.3010922""], ""class"": ""amenity"", ""display_name"": ""Comune di Venezia, Calle Chiesa Ognissanti, Lido-Pellestrina, Pellestrina, Venezia, Veneto, Italia"", ""importance"": 0.31100000000000005, ""lat"": ""45.2732457"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""12.3010422"", ""osm_id"": 6958414086, ""osm_type"": ""node"", ""place_id"": 74210873, ""type"": ""townhall""}, ""mode"": ""autocomplete""}, ""description"": ""A Venezia attivo sportello Emergenza Ucraina del Comune che offre info,\\ \\ supporto, assistenza ai rifugiati ucraini e alle famiglie italiane ospitanti.\\n\\ Tel. 041041 (DIME), lun-ven ore 8-20. \\nEmail ucraina@comune.venezia.it \\n(In lingua\\ \\ italiana e ucraina)."", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Comune di Venezia"", ""recipients"": ""Rifugiati ucraini, famiglie ospitanti, cittadini"", ""submit"": true, ""title"": ""Comune di #Venezia attiva Sportello Emergenza #Ucraina"", ""type"": ""legal"", ""url"": ""https://live.comune.venezia.it/it/2022/03/informazioni-le-persone-provenienti-dallucraina-e-le-famiglie-ospitanti""}","<pre><yamldata>
+type: legal
+offerFromWho: Comune di Venezia
+title: 'Comune di #Venezia attiva Sportello Emergenza #Ucraina'
+recipients: Rifugiati ucraini, famiglie ospitanti, cittadini
+description: A Venezia attivo sportello Emergenza Ucraina del Comune che offre info,\
+  \ supporto, assistenza ai rifugiati ucraini e alle famiglie italiane ospitanti.\n\
+  Tel. 041041 (DIME), lun-ven ore 8-20. \nEmail ucraina@comune.venezia.it \n(In lingua\
+  \ italiana e ucraina).
+url: https://live.comune.venezia.it/it/2022/03/informazioni-le-persone-provenienti-dallucraina-e-le-famiglie-ospitanti
+address:
+  mode: autocomplete
+  address:
+    place_id: 74210873
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 6958414086
+    boundingbox:
+    - '45.2731957'
+    - '45.2732957'
+    - '12.3009922'
+    - '12.3010922'
+    lat: '45.2732457'
+    lon: '12.3010422'
+    display_name: Comune di Venezia, Calle Chiesa Ognissanti, Lido-Pellestrina, Pellestrina,
+      Venezia, Veneto, Italia
+    class: amenity
+    type: townhall
+    importance: 0.31100000000000005
+    address:
+      amenity: Comune di Venezia
+      road: Calle Chiesa Ognissanti
+      suburb: Lido-Pellestrina
+      village: Pellestrina
+      city: Venezia
+      county: Venezia
+      state: Veneto
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/62,1164309482,2022-03-10 22:45:50,2022-03-09 18:45:32,Il Comitato Salva Ucraini di Palermo cerca volontari che parlino ucraino e italiano,38.1112268,13.3524434,Sicilia,Palermo,"[""Valid/Accettato"", ""Help"", ""Translation""]",,,"{""Posizione"": ""38.1112268 13.3524434"", ""description"": ""Il Comitato Salva Ucraini di Palermo cerca volontari che parlino ucraino e italiano per aiutare i rifugiati ucraini in arrivo a Palermo.\nIl gruppo ha attivato anche una chat Telegram (vedi link)."", ""email"": ""salva.ucraini.palermo@gmail.com"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""help"", ""location"": {""address"": {""address"": {""city"": ""Palermo"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Palermo"", ""state"": ""Sicilia""}, ""boundingbox"": [""38.0499137"", ""38.2245866"", ""13.242219"", ""13.4520856""], ""class"": ""boundary"", ""display_name"": ""Palermo, Sicilia, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"", ""importance"": 0.7661148171447915, ""lat"": ""38.1112268"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""13.3524434"", ""osm_id"": 39513, ""osm_type"": ""relation"", ""place_id"": 284307182, ""type"": ""administrative""}, ""mode"": ""autocomplete""}, ""nameSurname"": ""Comitato Salva Ucraini Palermo"", ""phoneNumber"": """", ""recipients"": """", ""submit"": true, ""title"": ""Il Comitato Salva Ucraini di Palermo cerca volontari che parlino ucraino e italiano"", ""url"": ""https://t.me/ucraini_a_palermo""}","<pre><yamldata>
 nameSurname: Comitato Salva Ucraini Palermo
 phoneNumber: ''
@@ -1245,49 +1288,6 @@ address:
       county: Milano
       state: Lombardia
       postcode: '20154'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/42,1162736087,2022-03-08 16:11:47,2022-03-08 14:39:12,Comune di Venezia attiva sportello Emergenza Ucraina,,,,,"[""Valid/Accettato"", ""Missing position"", ""Services"", ""Legal"", ""Helpful Contact"", ""hospitality""]",,,"{""address"": {""address"": {""address"": {""amenity"": ""Comune di Venezia"", ""city"": ""Venezia"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Venezia"", ""road"": ""Calle Chiesa Ognissanti"", ""state"": ""Veneto"", ""suburb"": ""Lido-Pellestrina"", ""village"": ""Pellestrina""}, ""boundingbox"": [""45.2731957"", ""45.2732957"", ""12.3009922"", ""12.3010922""], ""class"": ""amenity"", ""display_name"": ""Comune di Venezia, Calle Chiesa Ognissanti, Lido-Pellestrina, Pellestrina, Venezia, Veneto, Italia"", ""importance"": 0.31100000000000005, ""lat"": ""45.2732457"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""12.3010422"", ""osm_id"": 6958414086, ""osm_type"": ""node"", ""place_id"": 74210873, ""type"": ""townhall""}, ""mode"": ""autocomplete""}, ""description"": ""A Venezia attivo sportello Emergenza Ucraina del Comune che offre info,\\ \\ supporto, assistenza ai rifugiati ucraini e alle famiglie italiane ospitanti.\\n\\ Tel. 041041 (DIME), lun-ven ore 8-20. \\nEmail ucraina@comune.venezia.it \\n(In lingua\\ \\ italiana e ucraina)."", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Comune di Venezia"", ""recipients"": ""Rifugiati ucraini, famiglie ospitanti, cittadini"", ""submit"": true, ""title"": ""Comune di #Venezia attiva Sportello Emergenza #Ucraina"", ""type"": ""legal"", ""url"": ""https://live.comune.venezia.it/it/2022/03/informazioni-le-persone-provenienti-dallucraina-e-le-famiglie-ospitanti""}","<pre><yamldata>
-type: legal
-offerFromWho: Comune di Venezia
-title: 'Comune di #Venezia attiva Sportello Emergenza #Ucraina'
-recipients: Rifugiati ucraini, famiglie ospitanti, cittadini
-description: A Venezia attivo sportello Emergenza Ucraina del Comune che offre info,\
-  \ supporto, assistenza ai rifugiati ucraini e alle famiglie italiane ospitanti.\n\
-  Tel. 041041 (DIME), lun-ven ore 8-20. \nEmail ucraina@comune.venezia.it \n(In lingua\
-  \ italiana e ucraina).
-url: https://live.comune.venezia.it/it/2022/03/informazioni-le-persone-provenienti-dallucraina-e-le-famiglie-ospitanti
-address:
-  mode: autocomplete
-  address:
-    place_id: 74210873
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 6958414086
-    boundingbox:
-    - '45.2731957'
-    - '45.2732957'
-    - '12.3009922'
-    - '12.3010922'
-    lat: '45.2732457'
-    lon: '12.3010422'
-    display_name: Comune di Venezia, Calle Chiesa Ognissanti, Lido-Pellestrina, Pellestrina,
-      Venezia, Veneto, Italia
-    class: amenity
-    type: townhall
-    importance: 0.31100000000000005
-    address:
-      amenity: Comune di Venezia
-      road: Calle Chiesa Ognissanti
-      suburb: Lido-Pellestrina
-      village: Pellestrina
-      city: Venezia
-      county: Venezia
-      state: Veneto
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
