@@ -1,4 +1,166 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/76,1166637300,2022-03-12 22:52:59,2022-03-11 16:47:58,A Padova Ordine degli Psicologi attiva un servizio online di supporto psicologico per profughi ucraini,,,,,"[""Valid/Accettato"", ""Services"", ""psycologicalSupport""]",,,"{""address"": {""address"": {""address"": {""city"": ""Padova"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Padova"", ""postcode"": ""35100"", ""state"": ""Veneto""}, ""boundingbox"": [""45.2477172"", ""45.5677172"", ""11.7134455"", ""12.0334455""], ""class"": ""place"", ""display_name"": ""Padova, Veneto, 35100, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"", ""importance"": 0.7435563013929846, ""lat"": ""45.4077172"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""11.8734455"", ""osm_id"": 406747508, ""osm_type"": ""node"", ""place_id"": 2885944, ""type"": ""city""}, ""mode"": ""autocomplete""}, ""description"": ""A Padova Ordine degli Psicologi, in collaborazione con l'universit\u00e0, ha attiva un servizio online di supporto psicologico per cittadini ucraini.\nIl servizio \u00e8 attivo su prenotazione:\nTel. 049 8276496 (lun-ven ore 10-16)\nEmail emergenza.psicologionline@unipd.it"", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Ordine Psicologi Padova"", ""recipients"": """", ""submit"": true, ""title"": ""A Padova Ordine degli Psicologi attiva un servizio online di supporto psicologico per profughi ucraini"", ""type"": ""psychologicalSupport"", ""url"": ""http://www.facebook.com/emergenzapsicologionlineunipd""}","<pre><yamldata>
+type: psychologicalSupport
+offerFromWho: Ordine Psicologi Padova
+title: A Padova Ordine degli Psicologi attiva un servizio online di supporto psicologico
+  per profughi ucraini
+recipients: ''
+description: 'A Padova Ordine degli Psicologi, in collaborazione con l''università,
+  ha attiva un servizio online di supporto psicologico per cittadini ucraini.
+
+  Il servizio è attivo su prenotazione:
+
+  Tel. 049 8276496 (lun-ven ore 10-16)
+
+  Email emergenza.psicologionline@unipd.it'
+url: http://www.facebook.com/emergenzapsicologionlineunipd
+address:
+  mode: autocomplete
+  address:
+    place_id: 2885944
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 406747508
+    boundingbox:
+    - '45.2477172'
+    - '45.5677172'
+    - '11.7134455'
+    - '12.0334455'
+    lat: '45.4077172'
+    lon: '11.8734455'
+    display_name: Padova, Veneto, 35100, Italia
+    class: place
+    type: city
+    importance: 0.7435563013929846
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Padova
+      county: Padova
+      state: Veneto
+      postcode: '35100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/88,1167364014,2022-03-12 22:52:35,2022-03-12 18:32:39,Mappare le notizie in ucraino e russo per creare una mappa open data sull'andamento della guerra in Ucraina,,,,,"[""Valid/Accettato"", ""News""]",,,"{""description"": ""Un professore ceco, che vive e insegna negli Usa, ha sviluppato un algoritmo che estrae e analizza da una serie di testate tutti gli articoli che parlano della guerra in Ucraina.\nIl risultato \u00e8 un'enorme dataset che consente di raccontare l'invasione nel suo insieme."", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""news"", ""link"": ""https://www.wired.it/article/ucraina-guerra-russia-mappa-intelligenza-artificiale/"", ""location"": {""address"": {}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""Mappare le notizie in ucraino e russo per creare una mappa open data sull'andamento della guerra in Ucraina""}","<pre><yamldata>
+title: Mappare le notizie in ucraino e russo per creare una mappa open data sull'andamento
+  della guerra in Ucraina
+description: 'Un professore ceco, che vive e insegna negli Usa, ha sviluppato un algoritmo
+  che estrae e analizza da una serie di testate tutti gli articoli che parlano della
+  guerra in Ucraina.
+
+  Il risultato è un''enorme dataset che consente di raccontare l''invasione nel suo
+  insieme.'
+link: https://www.wired.it/article/ucraina-guerra-russia-mappa-intelligenza-artificiale/
+location:
+  mode: autocomplete
+  address: {}
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/102,1167402531,2022-03-12 22:52:03,2022-03-12 21:17:01,Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio a rifugiati ucraini (anche in Italia),,,,,"[""Valid/Accettato"", ""News"", ""Services"", ""hospitality""]",,,"{""description"": ""Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio a rifugiati ucraini anche in Italia. Suggerita anche dall\u2019Ambasciata Ucraina in Italia."", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""news"", ""link"": ""https://prykhystok.in.ua/"", ""location"": {""address"": {}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio a rifugiati ucraini (anche in Italia)""}","<pre><yamldata>
+title: Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio
+  a rifugiati ucraini (anche in Italia)
+description: Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio
+  a rifugiati ucraini anche in Italia. Suggerita anche dall’Ambasciata Ucraina in
+  Italia.
+link: https://prykhystok.in.ua/
+location:
+  mode: autocomplete
+  address: {}
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/112,1167414735,2022-03-12 22:51:34,2022-03-12 22:16:38,"Comune di Parma cerca per emergenza Ucraina mediatori linguistici, educatori, psicologi, assistenti ",44.8094695,10.3275042,Emilia-Romagna,Parma,"[""Valid/Accettato"", ""Help""]",,,"{""Posizione"": ""44.8094695 10.3275042"", ""description"": ""In relazione all\u2019accoglienza dei profughi ucraini, il Comune di Parma  ha attivato, presso il punto informativo e raccolta dati Informastranieri, un'equipe di operatori del Settore Sociale per approfondire il quadro dei bisogni delle persone accolte o che richiedono aiuto e per effettuare l\u2019approfondimento delle disponibilit\u00e0 di accoglienza che vengono espresse dai cittadini. A supporto di tale equipe si ricercano Volontari con le seguenti professionalit\u00e0: Assistenti Sociali, Educatori, Psicologi e Mediatori linguistici (da attivare anche presso le scuole)."", ""email"": ""informastranieri@comune.parma.it"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""help"", ""location"": {""address"": {""address"": {""city"": ""Parma"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Parma"", ""postcode"": ""43121"", ""road"": ""Via Antonio Cecchi"", ""state"": ""Emilia-Romagna"", ""suburb"": ""Parma Centro""}, ""boundingbox"": [""44.8094603"", ""44.8097443"", ""10.3262362"", ""10.3275426""], ""class"": ""highway"", ""display_name"": ""Via Antonio Cecchi, Parma Centro, Parma, Emilia-Romagna, 43121, Italia"", ""importance"": 0.5949999999999999, ""lat"": ""44.8094695"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""10.3275042"", ""osm_id"": 323712841, ""osm_type"": ""way"", ""place_id"": 178424191, ""type"": ""service""}, ""mode"": ""autocomplete""}, ""nameSurname"": ""Comune di Parma"", ""phoneNumber"": ""351 0986321"", ""recipients"": ""mediatori linguistici, psicologi, assistenti sociali, educatori"", ""submit"": true, ""title"": ""Comune di Parma cerca per emergenza Ucraina mediatori linguistici, educatori, psicologi, assistenti sociali"", ""url"": ""https://www.comune.parma.it/notizie/news/WELFARE/2022-03-12/Parma-per-lUcraina-1.aspx""}","<pre><yamldata>
+nameSurname: Comune di Parma
+phoneNumber: 351 0986321
+email: informastranieri@comune.parma.it
+title: Comune di Parma cerca per emergenza Ucraina mediatori linguistici, educatori,
+  psicologi, assistenti sociali
+recipients: mediatori linguistici, psicologi, assistenti sociali, educatori
+description: 'In relazione all’accoglienza dei profughi ucraini, il Comune di Parma  ha
+  attivato, presso il punto informativo e raccolta dati Informastranieri, un''equipe
+  di operatori del Settore Sociale per approfondire il quadro dei bisogni delle persone
+  accolte o che richiedono aiuto e per effettuare l’approfondimento delle disponibilità
+  di accoglienza che vengono espresse dai cittadini. A supporto di tale equipe si
+  ricercano Volontari con le seguenti professionalità: Assistenti Sociali, Educatori,
+  Psicologi e Mediatori linguistici (da attivare anche presso le scuole).'
+url: https://www.comune.parma.it/notizie/news/WELFARE/2022-03-12/Parma-per-lUcraina-1.aspx
+location:
+  mode: autocomplete
+  address:
+    place_id: 178424191
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 323712841
+    boundingbox:
+    - '44.8094603'
+    - '44.8097443'
+    - '10.3262362'
+    - '10.3275426'
+    lat: '44.8094695'
+    lon: '10.3275042'
+    display_name: Via Antonio Cecchi, Parma Centro, Parma, Emilia-Romagna, 43121,
+      Italia
+    class: highway
+    type: service
+    importance: 0.5949999999999999
+    address:
+      road: Via Antonio Cecchi
+      suburb: Parma Centro
+      city: Parma
+      county: Parma
+      state: Emilia-Romagna
+      postcode: '43121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 44.8094695 10.3275042
+</yamldata></pre>",open
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/111,1167414010,2022-03-12 22:51:20,2022-03-12 22:12:37,Il Comune di Parma ha attivato uno sportello per offrire aiuti al popolo ucraino,44.8094695,10.3275042,Emilia-Romagna,Parma,"[""Valid/Accettato"", ""News"", ""Services"", ""Legal"", ""materialGoods"", ""hospitality"", ""healtcare""]",,,"{""Posizione"": ""44.8094695 10.3275042"", ""description"": ""Il Comune di Parma ha attivato uno sportello per offrire aiuti al popolo ucraino  presso l\u2019Ufficio Stranieri. Tel. 351 0986321."", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""news"", ""link"": ""https://twitter.com/comuneparma/status/1501478652621561860?s=21"", ""location"": {""address"": {""address"": {""city"": ""Parma"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Parma"", ""postcode"": ""43121"", ""road"": ""Via Antonio Cecchi"", ""state"": ""Emilia-Romagna"", ""suburb"": ""Parma Centro""}, ""boundingbox"": [""44.8094603"", ""44.8097443"", ""10.3262362"", ""10.3275426""], ""class"": ""highway"", ""display_name"": ""Via Antonio Cecchi, Parma Centro, Parma, Emilia-Romagna, 43121, Italia"", ""importance"": 0.5949999999999999, ""lat"": ""44.8094695"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""10.3275042"", ""osm_id"": 323712841, ""osm_type"": ""way"", ""place_id"": 178424191, ""type"": ""service""}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""Il Comune di Parma ha attivato uno sportello per offrire aiuti al popolo ucraino""}","<pre><yamldata>
+title: Il Comune di Parma ha attivato uno sportello per offrire aiuti al popolo ucraino
+description: Il Comune di Parma ha attivato uno sportello per offrire aiuti al popolo
+  ucraino  presso l’Ufficio Stranieri. Tel. 351 0986321.
+link: https://twitter.com/comuneparma/status/1501478652621561860?s=21
+location:
+  mode: autocomplete
+  address:
+    place_id: 178424191
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 323712841
+    boundingbox:
+    - '44.8094603'
+    - '44.8097443'
+    - '10.3262362'
+    - '10.3275426'
+    lat: '44.8094695'
+    lon: '10.3275042'
+    display_name: Via Antonio Cecchi, Parma Centro, Parma, Emilia-Romagna, 43121,
+      Italia
+    class: highway
+    type: service
+    importance: 0.5949999999999999
+    address:
+      road: Via Antonio Cecchi
+      suburb: Parma Centro
+      city: Parma
+      county: Parma
+      state: Emilia-Romagna
+      postcode: '43121'
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 44.8094695 10.3275042
+</yamldata></pre>",open
 https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/110,1167413433,2022-03-12 22:50:30,2022-03-12 22:09:05,Anpas attiva supporto psicologico online multilingue ,,,,,"[""Valid/Accettato"", ""Services"", ""psycologicalSupport""]",,,"{""address"": {""address"": {}, ""mode"": ""autocomplete""}, ""description"": ""Il settore di psicologia dell\u2019emergenza di protezione civile Anpas mette a disposizione uno sportello di consulenza online per chi ha congiunti nelle aree di guerra. Un servizio gratuito multilingue per le famiglie in fuga dalla guerra"", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Protezione Civile Anpas"", ""recipients"": ""Famiglie di persone nelle zone do guerra"", ""submit"": true, ""title"": ""Supporto psicologico"", ""type"": ""psychologicalSupport"", ""url"": ""https://www.anpas.org/categoria-news-generale/3846-emergenza-ucraina-psicologi-anpas.html""}","<pre><yamldata>
 type: psychologicalSupport
 offerFromWho: Protezione Civile Anpas
@@ -258,20 +420,6 @@ address:
   address: {}
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/102,1167402531,2022-03-12 22:46:51,2022-03-12 21:17:01,Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio a rifugiati ucraini (an,,,,,"[""Valid/Accettato"", ""News"", ""Services"", ""hospitality""]",,,"{""description"": ""Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio a rifugiati ucraini anche in Italia. Suggerita anche dall\u2019Ambasciata Ucraina in Italia."", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""news"", ""link"": ""https://prykhystok.in.ua/"", ""location"": {""address"": {}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio a rifugiati ucraini (anche in Italia)""}","<pre><yamldata>
-title: Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio
-  a rifugiati ucraini (anche in Italia)
-description: Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio
-  a rifugiati ucraini anche in Italia. Suggerita anche dall’Ambasciata Ucraina in
-  Italia.
-link: https://prykhystok.in.ua/
-location:
-  mode: autocomplete
-  address: {}
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/101,1167402127,2022-03-12 22:46:20,2022-03-12 21:14:31,A Bari studenti universitari raccolgono beni per popolo ucraino,,,,,"[""Valid/Accettato"", ""Services"", ""materialGoods""]",,,"{""address"": {""address"": {""address"": {""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Bari"", ""road"": ""Via Domenico Nicolai"", ""state"": ""Puglia"", ""town"": ""Adelfia""}, ""boundingbox"": [""40.9988396"", ""41.0022608"", ""16.8661527"", ""16.8664384""], ""class"": ""highway"", ""display_name"": ""Via Domenico Nicolai, Adelfia, Bari, Puglia, Italia"", ""importance"": 0.41000000000000003, ""lat"": ""41.000707"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""16.8663036"", ""osm_id"": 40403571, ""osm_type"": ""way"", ""place_id"": 113732026, ""type"": ""residential""}, ""mode"": ""autocomplete""}, ""description"": ""A Bari l\u2019associazione universitaria Studenti Indipendenti organizza raccolta di beni per il popolo ucraino in due punti della citt\u00e0. Al link le info."", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Associazione universitaria Studenti Indipendenti"", ""recipients"": """", ""submit"": true, ""title"": ""A Bari studenti universitari raccolgono beni per popolo ucraino"", ""type"": ""materialGoods"", ""url"": ""https://twitter.com/ukraineinfohelp/status/1502234356286435328?s=21""}","<pre><yamldata>
@@ -856,23 +1004,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: contact
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/88,1167364014,2022-03-12 22:36:09,2022-03-12 18:32:39,Mappare le notizie in ucraino e russo per creare una mappa open data sull'andamento della guerra in ,,,,,"[""Valid/Accettato"", ""News""]",,,"{""description"": ""Un professore ceco, che vive e insegna negli Usa, ha sviluppato un algoritmo che estrae e analizza da una serie di testate tutti gli articoli che parlano della guerra in Ucraina.\nIl risultato \u00e8 un'enorme dataset che consente di raccontare l'invasione nel suo insieme."", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""news"", ""link"": ""https://www.wired.it/article/ucraina-guerra-russia-mappa-intelligenza-artificiale/"", ""location"": {""address"": {}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""Mappare le notizie in ucraino e russo per creare una mappa open data sull'andamento della guerra in Ucraina""}","<pre><yamldata>
-title: Mappare le notizie in ucraino e russo per creare una mappa open data sull'andamento
-  della guerra in Ucraina
-description: 'Un professore ceco, che vive e insegna negli Usa, ha sviluppato un algoritmo
-  che estrae e analizza da una serie di testate tutti gli articoli che parlano della
-  guerra in Ucraina.
-
-  Il risultato è un''enorme dataset che consente di raccontare l''invasione nel suo
-  insieme.'
-link: https://www.wired.it/article/ucraina-guerra-russia-mappa-intelligenza-artificiale/
-location:
-  mode: autocomplete
-  address: {}
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/87,1167362795,2022-03-12 22:35:31,2022-03-12 18:27:43,"Help Ukraine, sito web della Regione Lazio dedicato ai rifugiati ucraini con info utili",,,,,"[""Valid/Accettato"", ""News"", ""Services"", ""useful contact"", ""contact""]",,,"{""address"": {""address"": {""address"": {""city"": ""Roma"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Roma Capitale"", ""neighbourhood"": ""Ostiense"", ""office"": ""Regione Lazio"", ""postcode"": ""00100"", ""quarter"": ""Garbatella"", ""road"": ""Via Giovanni Genocchi"", ""state"": ""Lazio"", ""suburb"": ""Municipio Roma VIII""}, ""boundingbox"": [""41.858227"", ""41.8597856"", ""12.4936462"", ""12.4959306""], ""class"": ""office"", ""display_name"": ""Regione Lazio, Via Giovanni Genocchi, Garbatella, Ostiense, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00100, Italia"", ""importance"": 0.21100000000000002, ""lat"": ""41.8589212"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""12.495005572708482"", ""osm_id"": 2858119, ""osm_type"": ""relation"", ""place_id"": 327241895, ""type"": ""government""}, ""mode"": ""autocomplete""}, ""aim"": ""Al link sito web della Regione Lazio dedicato ai rifugiati ucraini con info utili anche in ucraino su procedure legali per permesso di soggiorno, assistenza sanitaria, tamponi Covid, alloggi, trasporti, ecc."", ""email"": """", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""contact"", ""phoneNumber"": """", ""submit"": true, ""title"": ""Help Ukraine, sito web della Regione Lazio dedicato ai rifugiati ucraini con info utili"", ""url"": ""https://www.regione.lazio.it/helpukraine""}","<pre><yamldata>
 title: Help Ukraine, sito web della Regione Lazio dedicato ai rifugiati ucraini con
   info utili
@@ -1058,54 +1189,6 @@ address:
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/112,1167414735,2022-03-12 22:33:45,2022-03-12 22:16:38,"Comune di Parma cerca per emergenza Ucraina mediatori linguistici, educatori, psicologi, assistenti ",44.8094695,10.3275042,Emilia-Romagna,Parma,"[""Valid/Accettato"", ""Help"", ""Services""]",,,"{""Posizione"": ""44.8094695 10.3275042"", ""description"": ""In relazione all\u2019accoglienza dei profughi ucraini, il Comune di Parma  ha attivato, presso il punto informativo e raccolta dati Informastranieri, un'equipe di operatori del Settore Sociale per approfondire il quadro dei bisogni delle persone accolte o che richiedono aiuto e per effettuare l\u2019approfondimento delle disponibilit\u00e0 di accoglienza che vengono espresse dai cittadini. A supporto di tale equipe si ricercano Volontari con le seguenti professionalit\u00e0: Assistenti Sociali, Educatori, Psicologi e Mediatori linguistici (da attivare anche presso le scuole)."", ""email"": ""informastranieri@comune.parma.it"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""help"", ""location"": {""address"": {""address"": {""city"": ""Parma"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Parma"", ""postcode"": ""43121"", ""road"": ""Via Antonio Cecchi"", ""state"": ""Emilia-Romagna"", ""suburb"": ""Parma Centro""}, ""boundingbox"": [""44.8094603"", ""44.8097443"", ""10.3262362"", ""10.3275426""], ""class"": ""highway"", ""display_name"": ""Via Antonio Cecchi, Parma Centro, Parma, Emilia-Romagna, 43121, Italia"", ""importance"": 0.5949999999999999, ""lat"": ""44.8094695"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""10.3275042"", ""osm_id"": 323712841, ""osm_type"": ""way"", ""place_id"": 178424191, ""type"": ""service""}, ""mode"": ""autocomplete""}, ""nameSurname"": ""Comune di Parma"", ""phoneNumber"": ""351 0986321"", ""recipients"": ""mediatori linguistici, psicologi, assistenti sociali, educatori"", ""submit"": true, ""title"": ""Comune di Parma cerca per emergenza Ucraina mediatori linguistici, educatori, psicologi, assistenti sociali"", ""url"": ""https://www.comune.parma.it/notizie/news/WELFARE/2022-03-12/Parma-per-lUcraina-1.aspx""}","<pre><yamldata>
-nameSurname: Comune di Parma
-phoneNumber: 351 0986321
-email: informastranieri@comune.parma.it
-title: Comune di Parma cerca per emergenza Ucraina mediatori linguistici, educatori,
-  psicologi, assistenti sociali
-recipients: mediatori linguistici, psicologi, assistenti sociali, educatori
-description: 'In relazione all’accoglienza dei profughi ucraini, il Comune di Parma  ha
-  attivato, presso il punto informativo e raccolta dati Informastranieri, un''equipe
-  di operatori del Settore Sociale per approfondire il quadro dei bisogni delle persone
-  accolte o che richiedono aiuto e per effettuare l’approfondimento delle disponibilità
-  di accoglienza che vengono espresse dai cittadini. A supporto di tale equipe si
-  ricercano Volontari con le seguenti professionalità: Assistenti Sociali, Educatori,
-  Psicologi e Mediatori linguistici (da attivare anche presso le scuole).'
-url: https://www.comune.parma.it/notizie/news/WELFARE/2022-03-12/Parma-per-lUcraina-1.aspx
-location:
-  mode: autocomplete
-  address:
-    place_id: 178424191
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 323712841
-    boundingbox:
-    - '44.8094603'
-    - '44.8097443'
-    - '10.3262362'
-    - '10.3275426'
-    lat: '44.8094695'
-    lon: '10.3275042'
-    display_name: Via Antonio Cecchi, Parma Centro, Parma, Emilia-Romagna, 43121,
-      Italia
-    class: highway
-    type: service
-    importance: 0.5949999999999999
-    address:
-      road: Via Antonio Cecchi
-      suburb: Parma Centro
-      city: Parma
-      county: Parma
-      state: Emilia-Romagna
-      postcode: '43121'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 44.8094695 10.3275042
 </yamldata></pre>",open
 https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/83,1167354810,2022-03-12 22:33:39,2022-03-12 17:59:03,Fondazione di Comunità Milano,45.4645403,9.1698691,Lombardia,Milano,"[""Valid/Accettato"", ""fundraising""]",,,"{""Posizione"": ""45.4645403 9.1698691"", ""bicSwift"": """", ""causal"": ""Fondo #MilanoAiutaUcraina"", ""ccPostal"": """", ""description"": ""Il Fondo \u00e8 costituito dalla Fondazione di Comunit\u00e0 Milano \u2013 Citt\u00e0, Sud Ovest, Sud Est, Martesana su impulso del Comune di Milano per sostenere progetti di aiuto ed accoglienza della popolazione ucraina promossi da organizzazioni pubbliche e/o del privato sociale presenti nel territorio di riferimento della Fondazione.\nDonazioni online (vedi link) o via Iban."", ""email"": ""f.petrolati@fcmilano.org"", ""heading"": ""Fondazione di Comunit\u00e0 di Milano Citt\u00e0, Sud Est, Sud Ovest e Adda Martesana"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""iban"": ""IT18 Y030 6909 6061 0000 0162 571"", ""label"": ""fundraising"", ""link"": ""https://www.fondazionecomunitamilano.org/fondi/fondo-milanoaiutaucraina/"", ""location"": {""address"": {""address"": {""city"": ""Milano"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Milano"", ""house_number"": ""8"", ""postcode"": ""20123"", ""quarter"": ""Magenta - San Vittore"", ""road"": ""Via Bernardino Zenale"", ""state"": ""Lombardia"", ""suburb"": ""Municipio 1""}, ""boundingbox"": [""45.4644903"", ""45.4645903"", ""9.1698191"", ""9.1699191""], ""class"": ""place"", ""display_name"": ""8, Via Bernardino Zenale, Magenta - San Vittore, Municipio 1, Milano, Lombardia, 20123, Italia"", ""importance"": 0.5309999999999999, ""lat"": ""45.4645403"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""9.1698691"", ""osm_id"": 5300438043, ""osm_type"": ""node"", ""place_id"": 58084400, ""type"": ""house""}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""Fondazione di Comunit\u00e0 Milano""}","<pre><yamldata>
 title: Fondazione di Comunità Milano
@@ -1346,51 +1429,6 @@ address:
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/76,1166637300,2022-03-12 10:54:03,2022-03-11 16:47:58,A Padova Ordine degli Psicologi attiva un servizio online di supporto psicologico per profughi ucrai,,,,,"[""Valid/Accettato"", ""Services"", ""psycologicalSupport""]",,,"{""address"": {""address"": {""address"": {""city"": ""Padova"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Padova"", ""postcode"": ""35100"", ""state"": ""Veneto""}, ""boundingbox"": [""45.2477172"", ""45.5677172"", ""11.7134455"", ""12.0334455""], ""class"": ""place"", ""display_name"": ""Padova, Veneto, 35100, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"", ""importance"": 0.7435563013929846, ""lat"": ""45.4077172"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""11.8734455"", ""osm_id"": 406747508, ""osm_type"": ""node"", ""place_id"": 2885944, ""type"": ""city""}, ""mode"": ""autocomplete""}, ""description"": ""A Padova Ordine degli Psicologi, in collaborazione con l'universit\u00e0, ha attiva un servizio online di supporto psicologico per cittadini ucraini.\nIl servizio \u00e8 attivo su prenotazione:\nTel. 049 8276496 (lun-ven ore 10-16)\nEmail emergenza.psicologionline@unipd.it"", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Ordine Psicologi Padova"", ""recipients"": """", ""submit"": true, ""title"": ""A Padova Ordine degli Psicologi attiva un servizio online di supporto psicologico per profughi ucraini"", ""type"": ""psychologicalSupport"", ""url"": ""http://www.facebook.com/emergenzapsicologionlineunipd""}","<pre><yamldata>
-type: psychologicalSupport
-offerFromWho: Ordine Psicologi Padova
-title: A Padova Ordine degli Psicologi attiva un servizio online di supporto psicologico
-  per profughi ucraini
-recipients: ''
-description: 'A Padova Ordine degli Psicologi, in collaborazione con l''università,
-  ha attiva un servizio online di supporto psicologico per cittadini ucraini.
-
-  Il servizio è attivo su prenotazione:
-
-  Tel. 049 8276496 (lun-ven ore 10-16)
-
-  Email emergenza.psicologionline@unipd.it'
-url: http://www.facebook.com/emergenzapsicologionlineunipd
-address:
-  mode: autocomplete
-  address:
-    place_id: 2885944
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 406747508
-    boundingbox:
-    - '45.2477172'
-    - '45.5677172'
-    - '11.7134455'
-    - '12.0334455'
-    lat: '45.4077172'
-    lon: '11.8734455'
-    display_name: Padova, Veneto, 35100, Italia
-    class: place
-    type: city
-    importance: 0.7435563013929846
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
-    address:
-      city: Padova
-      county: Padova
-      state: Veneto
-      postcode: '35100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/75,1166626941,2022-03-12 10:53:41,2022-03-11 16:37:00,"UkraineFacts.org, osservatorio internazionale su fake news e guerra in Ucraina",,,,,"[""Valid/Accettato"", ""News"", ""fakenews""]",,,"{""description"": ""Piattaforma promossa dall'International Fact-checking Network Signatories che mappa nel mondo e smonta le fake news relative alla guerra in Ucraina."", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""fakenews"", ""link"": ""https://ukrainefacts.org"", ""location"": {""address"": {}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""UkraineFacts.org, osservatorio internazionale su fake news e guerra in Ucraina""}","<pre><yamldata>
