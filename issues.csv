@@ -1,4 +1,46 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/90,1167370372,2022-03-12 22:39:48,2022-03-12 18:57:23,"Regione Lombardia, emergenza Ucraina: online informazioni su assistenza sanitaria, tamponi Covid, green pass, permesso di soggiorno",45.484845899999996,9.200942264373898,Lombardia,Milano,"[""Valid/Accettato"", ""News"", ""Services"", ""Legal"", ""healtcare""]",,,"{""Posizione"": ""45.484845899999996 9.200942264373898"", ""description"": ""Sul sito di Ats Milano tutte le informazioni utili di Regione Lombardia su assistenza sanitaria, tamponi Covid, green pass, hot spot sul territorio e altre indicazioni per rifugiati ucraini che arrivano in Lombardia."", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""news"", ""link"": ""https://www.ats-milano.it/notizie/indicazioni-assistenza-sanitaria-ai-profughi-ucraini"", ""location"": {""address"": {""address"": {""city"": ""Milano"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Milano"", ""office"": ""Regione Lombardia"", ""postcode"": ""20124"", ""quarter"": ""Centrale"", ""road"": ""Piazza Duca d'Aosta"", ""state"": ""Lombardia"", ""suburb"": ""Municipio 2""}, ""boundingbox"": [""45.4842569"", ""45.4853006"", ""9.2004513"", ""9.2013255""], ""class"": ""office"", ""display_name"": ""Regione Lombardia, Piazza Duca d'Aosta, Centrale, Municipio 2, Milano, Lombardia, 20124, Italia"", ""importance"": 0.21100000000000002, ""lat"": ""45.484845899999996"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""9.200942264373898"", ""osm_id"": 89444210, ""osm_type"": ""way"", ""place_id"": 122298074, ""type"": ""government""}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""Regione Lombardia: online tutte le informazioni su assistenza sanitaria, tamponi Covid, green pass per rifugiati ucraini""}","<pre><yamldata>
+title: 'Regione Lombardia: online tutte le informazioni su assistenza sanitaria, tamponi
+  Covid, green pass per rifugiati ucraini'
+description: Sul sito di Ats Milano tutte le informazioni utili di Regione Lombardia
+  su assistenza sanitaria, tamponi Covid, green pass, hot spot sul territorio e altre
+  indicazioni per rifugiati ucraini che arrivano in Lombardia.
+link: https://www.ats-milano.it/notizie/indicazioni-assistenza-sanitaria-ai-profughi-ucraini
+location:
+  mode: autocomplete
+  address:
+    place_id: 122298074
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 89444210
+    boundingbox:
+    - '45.4842569'
+    - '45.4853006'
+    - '9.2004513'
+    - '9.2013255'
+    lat: '45.484845899999996'
+    lon: '9.200942264373898'
+    display_name: Regione Lombardia, Piazza Duca d'Aosta, Centrale, Municipio 2, Milano,
+      Lombardia, 20124, Italia
+    class: office
+    type: government
+    importance: 0.21100000000000002
+    address:
+      office: Regione Lombardia
+      road: Piazza Duca d'Aosta
+      quarter: Centrale
+      suburb: Municipio 2
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20124'
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.484845899999996 9.200942264373898
+</yamldata></pre>",open
 https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/89,1167365024,2022-03-12 22:37:56,2022-03-12 18:36:53,Online pagina web del Comune di Bovezzo dedicata all'emergenza Ucraina,,,,,"[""Valid/Accettato"", ""News"", ""Services"", ""fundraising"", ""hospitality"", ""contact""]",,,"{""address"": {""address"": {""address"": {""amenity"": ""Municipio di Bovezzo"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Brescia"", ""hamlet"": ""Terzago"", ""house_number"": ""28"", ""municipality"": ""Comunit\u00e0 montana della valle Trompia"", ""neighbourhood"": ""Villaggio del Sole"", ""postcode"": ""25073"", ""road"": ""Via Vittorio Veneto"", ""state"": ""Lombardia"", ""village"": ""Bovezzo""}, ""boundingbox"": [""45.5911637"", ""45.5915655"", ""10.2429166"", ""10.2431527""], ""class"": ""amenity"", ""display_name"": ""Municipio di Bovezzo, 28, Via Vittorio Veneto, Villaggio del Sole, Terzago, Bovezzo, Comunit\u00e0 montana della valle Trompia, Brescia, Lombardia, 25073, Italia"", ""importance"": 1.1536899109801708, ""lat"": ""45.591349550000004"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""10.243048460056496"", ""osm_id"": 164173124, ""osm_type"": ""way"", ""place_id"": 141637877, ""type"": ""townhall""}, ""mode"": ""autocomplete""}, ""aim"": ""Online pagina web del Comune di Bovezzo dedicata all'emergenza Ucraina con info per offrire case vuote o ospitalit\u00e0 in famiglia, effettuare donazioni, partecipare ad altre iniziative."", ""email"": """", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""contact"", ""phoneNumber"": """", ""submit"": true, ""title"": ""Comune di Bovezzo (Bs)"", ""url"": ""https://www.comune.bovezzo.bs.it/Novita/Avvisi/Emergenza-Ucraina""}","<pre><yamldata>
 title: Comune di Bovezzo (Bs)
 phoneNumber: ''
