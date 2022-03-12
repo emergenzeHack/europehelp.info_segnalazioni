@@ -1,4 +1,448 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/89,1167365024,2022-03-12 22:37:56,2022-03-12 18:36:53,Online pagina web del Comune di Bovezzo dedicata all'emergenza Ucraina,,,,,"[""Valid/Accettato"", ""News"", ""Services"", ""fundraising"", ""hospitality"", ""contact""]",,,"{""address"": {""address"": {""address"": {""amenity"": ""Municipio di Bovezzo"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Brescia"", ""hamlet"": ""Terzago"", ""house_number"": ""28"", ""municipality"": ""Comunit\u00e0 montana della valle Trompia"", ""neighbourhood"": ""Villaggio del Sole"", ""postcode"": ""25073"", ""road"": ""Via Vittorio Veneto"", ""state"": ""Lombardia"", ""village"": ""Bovezzo""}, ""boundingbox"": [""45.5911637"", ""45.5915655"", ""10.2429166"", ""10.2431527""], ""class"": ""amenity"", ""display_name"": ""Municipio di Bovezzo, 28, Via Vittorio Veneto, Villaggio del Sole, Terzago, Bovezzo, Comunit\u00e0 montana della valle Trompia, Brescia, Lombardia, 25073, Italia"", ""importance"": 1.1536899109801708, ""lat"": ""45.591349550000004"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""10.243048460056496"", ""osm_id"": 164173124, ""osm_type"": ""way"", ""place_id"": 141637877, ""type"": ""townhall""}, ""mode"": ""autocomplete""}, ""aim"": ""Online pagina web del Comune di Bovezzo dedicata all'emergenza Ucraina con info per offrire case vuote o ospitalit\u00e0 in famiglia, effettuare donazioni, partecipare ad altre iniziative."", ""email"": """", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""contact"", ""phoneNumber"": """", ""submit"": true, ""title"": ""Comune di Bovezzo (Bs)"", ""url"": ""https://www.comune.bovezzo.bs.it/Novita/Avvisi/Emergenza-Ucraina""}","<pre><yamldata>
+title: Comune di Bovezzo (Bs)
+phoneNumber: ''
+email: ''
+aim: Online pagina web del Comune di Bovezzo dedicata all'emergenza Ucraina con info
+  per offrire case vuote o ospitalità in famiglia, effettuare donazioni, partecipare
+  ad altre iniziative.
+url: https://www.comune.bovezzo.bs.it/Novita/Avvisi/Emergenza-Ucraina
+address:
+  mode: autocomplete
+  address:
+    place_id: 141637877
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 164173124
+    boundingbox:
+    - '45.5911637'
+    - '45.5915655'
+    - '10.2429166'
+    - '10.2431527'
+    lat: '45.591349550000004'
+    lon: '10.243048460056496'
+    display_name: Municipio di Bovezzo, 28, Via Vittorio Veneto, Villaggio del Sole,
+      Terzago, Bovezzo, Comunità montana della valle Trompia, Brescia, Lombardia,
+      25073, Italia
+    class: amenity
+    type: townhall
+    importance: 1.1536899109801708
+    address:
+      amenity: Municipio di Bovezzo
+      house_number: '28'
+      road: Via Vittorio Veneto
+      neighbourhood: Villaggio del Sole
+      hamlet: Terzago
+      village: Bovezzo
+      municipality: Comunità montana della valle Trompia
+      county: Brescia
+      state: Lombardia
+      postcode: '25073'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/88,1167364014,2022-03-12 22:36:09,2022-03-12 18:32:39,Mappare le notizie in ucraino e russo per creare una mappa open data sull'andamento della guerra in ,,,,,"[""Valid/Accettato"", ""News""]",,,"{""description"": ""Un professore ceco, che vive e insegna negli Usa, ha sviluppato un algoritmo che estrae e analizza da una serie di testate tutti gli articoli che parlano della guerra in Ucraina.\nIl risultato \u00e8 un'enorme dataset che consente di raccontare l'invasione nel suo insieme."", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""news"", ""link"": ""https://www.wired.it/article/ucraina-guerra-russia-mappa-intelligenza-artificiale/"", ""location"": {""address"": {}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""Mappare le notizie in ucraino e russo per creare una mappa open data sull'andamento della guerra in Ucraina""}","<pre><yamldata>
+title: Mappare le notizie in ucraino e russo per creare una mappa open data sull'andamento
+  della guerra in Ucraina
+description: 'Un professore ceco, che vive e insegna negli Usa, ha sviluppato un algoritmo
+  che estrae e analizza da una serie di testate tutti gli articoli che parlano della
+  guerra in Ucraina.
+
+  Il risultato è un''enorme dataset che consente di raccontare l''invasione nel suo
+  insieme.'
+link: https://www.wired.it/article/ucraina-guerra-russia-mappa-intelligenza-artificiale/
+location:
+  mode: autocomplete
+  address: {}
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/87,1167362795,2022-03-12 22:35:31,2022-03-12 18:27:43,"Help Ukraine, sito web della Regione Lazio dedicato ai rifugiati ucraini con info utili",,,,,"[""Valid/Accettato"", ""News"", ""Services"", ""useful contact"", ""contact""]",,,"{""address"": {""address"": {""address"": {""city"": ""Roma"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Roma Capitale"", ""neighbourhood"": ""Ostiense"", ""office"": ""Regione Lazio"", ""postcode"": ""00100"", ""quarter"": ""Garbatella"", ""road"": ""Via Giovanni Genocchi"", ""state"": ""Lazio"", ""suburb"": ""Municipio Roma VIII""}, ""boundingbox"": [""41.858227"", ""41.8597856"", ""12.4936462"", ""12.4959306""], ""class"": ""office"", ""display_name"": ""Regione Lazio, Via Giovanni Genocchi, Garbatella, Ostiense, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00100, Italia"", ""importance"": 0.21100000000000002, ""lat"": ""41.8589212"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""12.495005572708482"", ""osm_id"": 2858119, ""osm_type"": ""relation"", ""place_id"": 327241895, ""type"": ""government""}, ""mode"": ""autocomplete""}, ""aim"": ""Al link sito web della Regione Lazio dedicato ai rifugiati ucraini con info utili anche in ucraino su procedure legali per permesso di soggiorno, assistenza sanitaria, tamponi Covid, alloggi, trasporti, ecc."", ""email"": """", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""contact"", ""phoneNumber"": """", ""submit"": true, ""title"": ""Help Ukraine, sito web della Regione Lazio dedicato ai rifugiati ucraini con info utili"", ""url"": ""https://www.regione.lazio.it/helpukraine""}","<pre><yamldata>
+title: Help Ukraine, sito web della Regione Lazio dedicato ai rifugiati ucraini con
+  info utili
+phoneNumber: ''
+email: ''
+aim: Al link sito web della Regione Lazio dedicato ai rifugiati ucraini con info utili
+  anche in ucraino su procedure legali per permesso di soggiorno, assistenza sanitaria,
+  tamponi Covid, alloggi, trasporti, ecc.
+url: https://www.regione.lazio.it/helpukraine
+address:
+  mode: autocomplete
+  address:
+    place_id: 327241895
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 2858119
+    boundingbox:
+    - '41.858227'
+    - '41.8597856'
+    - '12.4936462'
+    - '12.4959306'
+    lat: '41.8589212'
+    lon: '12.495005572708482'
+    display_name: Regione Lazio, Via Giovanni Genocchi, Garbatella, Ostiense, Municipio
+      Roma VIII, Roma, Roma Capitale, Lazio, 00100, Italia
+    class: office
+    type: government
+    importance: 0.21100000000000002
+    address:
+      office: Regione Lazio
+      road: Via Giovanni Genocchi
+      quarter: Garbatella
+      neighbourhood: Ostiense
+      suburb: Municipio Roma VIII
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: '00100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/86,1167360400,2022-03-12 22:34:41,2022-03-12 18:20:19,A Genova si raccolgono beni per il popolo ucraino,,,,,"[""Valid/Accettato"", ""Services"", ""materialGoods""]",,,"{""address"": {""address"": {""address"": {""city"": ""Genova"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Genova"", ""neighbourhood"": ""Palmaro"", ""square"": ""Via Nostra Signora Assunta"", ""state"": ""Liguria"", ""suburb"": ""Ponente""}, ""boundingbox"": [""44.4277082"", ""44.4278867"", ""8.7747206"", ""8.7749486""], ""class"": ""place"", ""display_name"": ""Via Nostra Signora Assunta, Palmaro, Ponente, Genova, Liguria, Italia"", ""importance"": 0.635, ""lat"": ""44.4277812"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""8.774811722891204"", ""osm_id"": 224345537, ""osm_type"": ""way"", ""place_id"": 155471334, ""type"": ""square""}, ""mode"": ""autocomplete""}, ""description"": ""La Comunit\u00e0 di Pra, Palmaro e Ca' Nova, in collaborazione con l'associazione Prokrova, sta raccogliendo beni di prima necessit\u00e0 da inviare in Ucraina. Al link l'elenco dei beni necessari e altre info utili."", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Comunit\u00e0 Pra, Palmaro e Ca' Nova"", ""recipients"": """", ""submit"": true, ""title"": ""A Genova si raccolgono beni per il popolo ucraino"", ""type"": ""materialGoods"", ""url"": ""https://www.facebook.com/groups/ukraineinfo.help/permalink/456829446186009/?sfnsn=scwspmo&ref=share""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: Comunità Pra, Palmaro e Ca' Nova
+title: A Genova si raccolgono beni per il popolo ucraino
+recipients: ''
+description: La Comunità di Pra, Palmaro e Ca' Nova, in collaborazione con l'associazione
+  Prokrova, sta raccogliendo beni di prima necessità da inviare in Ucraina. Al link
+  l'elenco dei beni necessari e altre info utili.
+url: https://www.facebook.com/groups/ukraineinfo.help/permalink/456829446186009/?sfnsn=scwspmo&ref=share
+address:
+  mode: autocomplete
+  address:
+    place_id: 155471334
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 224345537
+    boundingbox:
+    - '44.4277082'
+    - '44.4278867'
+    - '8.7747206'
+    - '8.7749486'
+    lat: '44.4277812'
+    lon: '8.774811722891204'
+    display_name: Via Nostra Signora Assunta, Palmaro, Ponente, Genova, Liguria, Italia
+    class: place
+    type: square
+    importance: 0.635
+    address:
+      square: Via Nostra Signora Assunta
+      neighbourhood: Palmaro
+      suburb: Ponente
+      city: Genova
+      county: Genova
+      state: Liguria
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/85,1167358729,2022-03-12 22:34:17,2022-03-12 18:14:48,A Genova Caritas cerca volontari e alloggi per rifugiati ucraini,44.4072169,8.9312225,Liguria,Genova,"[""Valid/Accettato"", ""Help""]",,,"{""Posizione"": ""44.4072169 8.9312225"", ""description"": ""A Genova Caritas Diocesana cerca volontari per accogliere e supportare i rifugiati ucraini e cerca appartamenti e famiglie disposte ad ospitare. Prevede di accogliere circa 100 rifugiati e c'\u00e8 bisogno di reperire almeno 30 appartamenti vuoti (canoniche o altro) in comodato d'uso per circa tre mesi con rimborso delle spese vive. Sono tutte donne e bambini.\nPer informazioni e adesioni telefonare in Caritas tutte le mattine:\n010.2477015 - 010.2477018\noppure scrivere a segreteria@caritasgenova.it indicando la disponibilit\u00e0."", ""email"": ""segreteria@caritasgrnova.it"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""help"", ""location"": {""address"": {""address"": {""city"": ""Genova"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Genova"", ""postcode"": ""16100"", ""road"": ""Via di Canneto il Lungo"", ""state"": ""Liguria"", ""suburb"": ""Molo""}, ""boundingbox"": [""44.4067366"", ""44.4076384"", ""8.9300645"", ""8.9322206""], ""class"": ""highway"", ""display_name"": ""Via di Canneto il Lungo, Molo, Centro Est, Genova, Liguria, 16100, Italia"", ""importance"": 0.585, ""lat"": ""44.4072169"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""8.9312225"", ""osm_id"": 164602158, ""osm_type"": ""way"", ""place_id"": 140486684, ""type"": ""footway""}, ""mode"": ""autocomplete""}, ""nameSurname"": ""Caritas Genova"", ""phoneNumber"": ""010 2477015 - 010 2477018"", ""recipients"": ""cittadini di Genova"", ""submit"": true, ""title"": ""A Genova Caritas cerca volontari e alloggi per rifugiati ucraini"", ""url"": ""http://www.caritasgenova.it/emergenza-ucraina-volontari-alloggi-donazioni/""}","<pre><yamldata>
+nameSurname: Caritas Genova
+phoneNumber: 010 2477015 - 010 2477018
+email: segreteria@caritasgrnova.it
+title: A Genova Caritas cerca volontari e alloggi per rifugiati ucraini
+recipients: cittadini di Genova
+description: 'A Genova Caritas Diocesana cerca volontari per accogliere e supportare
+  i rifugiati ucraini e cerca appartamenti e famiglie disposte ad ospitare. Prevede
+  di accogliere circa 100 rifugiati e c''è bisogno di reperire almeno 30 appartamenti
+  vuoti (canoniche o altro) in comodato d''uso per circa tre mesi con rimborso delle
+  spese vive. Sono tutte donne e bambini.
+
+  Per informazioni e adesioni telefonare in Caritas tutte le mattine:
+
+  010.2477015 - 010.2477018
+
+  oppure scrivere a segreteria@caritasgenova.it indicando la disponibilità.'
+url: http://www.caritasgenova.it/emergenza-ucraina-volontari-alloggi-donazioni/
+location:
+  mode: autocomplete
+  address:
+    place_id: 140486684
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 164602158
+    boundingbox:
+    - '44.4067366'
+    - '44.4076384'
+    - '8.9300645'
+    - '8.9322206'
+    lat: '44.4072169'
+    lon: '8.9312225'
+    display_name: Via di Canneto il Lungo, Molo, Centro Est, Genova, Liguria, 16100,
+      Italia
+    class: highway
+    type: footway
+    importance: 0.585
+    address:
+      road: Via di Canneto il Lungo
+      suburb: Molo
+      city: Genova
+      county: Genova
+      state: Liguria
+      postcode: '16100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 44.4072169 8.9312225
+</yamldata></pre>",open
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/84,1167355829,2022-03-12 22:34:04,2022-03-12 18:04:01,A Milano continua la raccolta beni per rifugiati ucraini di Milano Sospesa,,,,,"[""Valid/Accettato"", ""News"", ""materialGoods""]",,,"{""address"": {""address"": {""address"": {""city"": ""Milano"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Milano"", ""postcode"": ""20141"", ""quarter"": ""Ripamonti"", ""road"": ""Via Cuore Immacolato di Maria"", ""state"": ""Lombardia"", ""suburb"": ""Municipio 5"", ""village"": ""Vaiano Valle""}, ""boundingbox"": [""45.4368289"", ""45.4368949"", ""9.1974967"", ""9.1976144""], ""class"": ""highway"", ""display_name"": ""Via Cuore Immacolato di Maria, Ripamonti, Municipio 5, Vaiano Valle, Milano, Lombardia, 20141, Italia"", ""importance"": 0.8099999999999999, ""lat"": ""45.4368289"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""9.1974967"", ""osm_id"": 331692065, ""osm_type"": ""way"", ""place_id"": 181610307, ""type"": ""residential""}, ""mode"": ""autocomplete""}, ""description"": ""A Milano continua la raccolta beni per rifugiati ucraini di Milano Sospesa ma si raccolgono solo i seguenti beni:\n\nPOWERBANK\nTORCE\nINTIMO NUOVO BIMBI\nCALZE NUOVE BIMBI\nINTIMO NUOVO ADULTO\nCALZE NUOVE ADULTO\nTAPPETINI campeggio\nSACCHI A PELO\nINTIMO TERMICO\nCALZE TERMICHE\nCAPPELLI E SCIARPE \nBENDE \nEMOSTATICO\nPRODOTTI IGIENE\n\nMEDICINALI FONDAMENTALI IN QUESTO MOMENTO:\n\nnoradrenalina idrotartrato\nsodio fosfocreatina\nTigacile\nComplesso ferro (III) idrossido saccarosio\nNeostigmina metil solfato\nColina alfoscerata\ndopamina cloridrato\n(Sono medicinali ospedalieri)\n\nGENERATORI\nFLEBO\nKIT PRIMO SOCCORSO\nCIBO PRONTO IN BUSTE E CIBO non deperibile\nCIBO COLAZIONE\nBARRETTE ENERGETICHE \nLATTE 1 E 2\n\nDove: VIA CUORE IMMACOLATO DI MARIA 5\nVenerdi 12.00/16.00\nSabato 10.00/13.00\nDomenica 10.00/ 12.30\nMartedi 15.03 - 16.30 /19.00\nGiovedi 17.03 - 16.30 /19.00"", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Milano Sospesa"", ""recipients"": """", ""submit"": true, ""title"": ""A Milano continua la raccolta beni per rifugiati ucraini di Milano Sospesa"", ""type"": ""materialGoods"", ""url"": ""https://www.facebook.com/groups/ukraineinfo.help/permalink/456862506182703/?sfnsn=scwspmo&ref=share""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: Milano Sospesa
+title: A Milano continua la raccolta beni per rifugiati ucraini di Milano Sospesa
+recipients: ''
+description: ""A Milano continua la raccolta beni per rifugiati ucraini di Milano Sospesa\
+  \ ma si raccolgono solo i seguenti beni:\n\nPOWERBANK\nTORCE\nINTIMO NUOVO BIMBI\n\
+  CALZE NUOVE BIMBI\nINTIMO NUOVO ADULTO\nCALZE NUOVE ADULTO\nTAPPETINI campeggio\n\
+  SACCHI A PELO\nINTIMO TERMICO\nCALZE TERMICHE\nCAPPELLI E SCIARPE \nBENDE \nEMOSTATICO\n\
+  PRODOTTI IGIENE\n\nMEDICINALI FONDAMENTALI IN QUESTO MOMENTO:\n\nnoradrenalina idrotartrato\n\
+  sodio fosfocreatina\nTigacile\nComplesso ferro (III) idrossido saccarosio\nNeostigmina\
+  \ metil solfato\nColina alfoscerata\ndopamina cloridrato\n(Sono medicinali ospedalieri)\n\
+  \nGENERATORI\nFLEBO\nKIT PRIMO SOCCORSO\nCIBO PRONTO IN BUSTE E CIBO non deperibile\n\
+  CIBO COLAZIONE\nBARRETTE ENERGETICHE \nLATTE 1 E 2\n\nDove: VIA CUORE IMMACOLATO\
+  \ DI MARIA 5\nVenerdi 12.00/16.00\nSabato 10.00/13.00\nDomenica 10.00/ 12.30\nMartedi\
+  \ 15.03 - 16.30 /19.00\nGiovedi 17.03 - 16.30 /19.00""
+url: https://www.facebook.com/groups/ukraineinfo.help/permalink/456862506182703/?sfnsn=scwspmo&ref=share
+address:
+  mode: autocomplete
+  address:
+    place_id: 181610307
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 331692065
+    boundingbox:
+    - '45.4368289'
+    - '45.4368949'
+    - '9.1974967'
+    - '9.1976144'
+    lat: '45.4368289'
+    lon: '9.1974967'
+    display_name: Via Cuore Immacolato di Maria, Ripamonti, Municipio 5, Vaiano Valle,
+      Milano, Lombardia, 20141, Italia
+    class: highway
+    type: residential
+    importance: 0.8099999999999999
+    address:
+      road: Via Cuore Immacolato di Maria
+      quarter: Ripamonti
+      suburb: Municipio 5
+      village: Vaiano Valle
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20141'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/112,1167414735,2022-03-12 22:33:45,2022-03-12 22:16:38,"Comune di Parma cerca per emergenza Ucraina mediatori linguistici, educatori, psicologi, assistenti ",44.8094695,10.3275042,Emilia-Romagna,Parma,"[""Valid/Accettato"", ""Help"", ""Services""]",,,"{""Posizione"": ""44.8094695 10.3275042"", ""description"": ""In relazione all\u2019accoglienza dei profughi ucraini, il Comune di Parma  ha attivato, presso il punto informativo e raccolta dati Informastranieri, un'equipe di operatori del Settore Sociale per approfondire il quadro dei bisogni delle persone accolte o che richiedono aiuto e per effettuare l\u2019approfondimento delle disponibilit\u00e0 di accoglienza che vengono espresse dai cittadini. A supporto di tale equipe si ricercano Volontari con le seguenti professionalit\u00e0: Assistenti Sociali, Educatori, Psicologi e Mediatori linguistici (da attivare anche presso le scuole)."", ""email"": ""informastranieri@comune.parma.it"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""help"", ""location"": {""address"": {""address"": {""city"": ""Parma"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Parma"", ""postcode"": ""43121"", ""road"": ""Via Antonio Cecchi"", ""state"": ""Emilia-Romagna"", ""suburb"": ""Parma Centro""}, ""boundingbox"": [""44.8094603"", ""44.8097443"", ""10.3262362"", ""10.3275426""], ""class"": ""highway"", ""display_name"": ""Via Antonio Cecchi, Parma Centro, Parma, Emilia-Romagna, 43121, Italia"", ""importance"": 0.5949999999999999, ""lat"": ""44.8094695"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""10.3275042"", ""osm_id"": 323712841, ""osm_type"": ""way"", ""place_id"": 178424191, ""type"": ""service""}, ""mode"": ""autocomplete""}, ""nameSurname"": ""Comune di Parma"", ""phoneNumber"": ""351 0986321"", ""recipients"": ""mediatori linguistici, psicologi, assistenti sociali, educatori"", ""submit"": true, ""title"": ""Comune di Parma cerca per emergenza Ucraina mediatori linguistici, educatori, psicologi, assistenti sociali"", ""url"": ""https://www.comune.parma.it/notizie/news/WELFARE/2022-03-12/Parma-per-lUcraina-1.aspx""}","<pre><yamldata>
+nameSurname: Comune di Parma
+phoneNumber: 351 0986321
+email: informastranieri@comune.parma.it
+title: Comune di Parma cerca per emergenza Ucraina mediatori linguistici, educatori,
+  psicologi, assistenti sociali
+recipients: mediatori linguistici, psicologi, assistenti sociali, educatori
+description: 'In relazione all’accoglienza dei profughi ucraini, il Comune di Parma  ha
+  attivato, presso il punto informativo e raccolta dati Informastranieri, un''equipe
+  di operatori del Settore Sociale per approfondire il quadro dei bisogni delle persone
+  accolte o che richiedono aiuto e per effettuare l’approfondimento delle disponibilità
+  di accoglienza che vengono espresse dai cittadini. A supporto di tale equipe si
+  ricercano Volontari con le seguenti professionalità: Assistenti Sociali, Educatori,
+  Psicologi e Mediatori linguistici (da attivare anche presso le scuole).'
+url: https://www.comune.parma.it/notizie/news/WELFARE/2022-03-12/Parma-per-lUcraina-1.aspx
+location:
+  mode: autocomplete
+  address:
+    place_id: 178424191
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 323712841
+    boundingbox:
+    - '44.8094603'
+    - '44.8097443'
+    - '10.3262362'
+    - '10.3275426'
+    lat: '44.8094695'
+    lon: '10.3275042'
+    display_name: Via Antonio Cecchi, Parma Centro, Parma, Emilia-Romagna, 43121,
+      Italia
+    class: highway
+    type: service
+    importance: 0.5949999999999999
+    address:
+      road: Via Antonio Cecchi
+      suburb: Parma Centro
+      city: Parma
+      county: Parma
+      state: Emilia-Romagna
+      postcode: '43121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 44.8094695 10.3275042
+</yamldata></pre>",open
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/83,1167354810,2022-03-12 22:33:39,2022-03-12 17:59:03,Fondazione di Comunità Milano,45.4645403,9.1698691,Lombardia,Milano,"[""Valid/Accettato"", ""fundraising""]",,,"{""Posizione"": ""45.4645403 9.1698691"", ""bicSwift"": """", ""causal"": ""Fondo #MilanoAiutaUcraina"", ""ccPostal"": """", ""description"": ""Il Fondo \u00e8 costituito dalla Fondazione di Comunit\u00e0 Milano \u2013 Citt\u00e0, Sud Ovest, Sud Est, Martesana su impulso del Comune di Milano per sostenere progetti di aiuto ed accoglienza della popolazione ucraina promossi da organizzazioni pubbliche e/o del privato sociale presenti nel territorio di riferimento della Fondazione.\nDonazioni online (vedi link) o via Iban."", ""email"": ""f.petrolati@fcmilano.org"", ""heading"": ""Fondazione di Comunit\u00e0 di Milano Citt\u00e0, Sud Est, Sud Ovest e Adda Martesana"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""iban"": ""IT18 Y030 6909 6061 0000 0162 571"", ""label"": ""fundraising"", ""link"": ""https://www.fondazionecomunitamilano.org/fondi/fondo-milanoaiutaucraina/"", ""location"": {""address"": {""address"": {""city"": ""Milano"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Milano"", ""house_number"": ""8"", ""postcode"": ""20123"", ""quarter"": ""Magenta - San Vittore"", ""road"": ""Via Bernardino Zenale"", ""state"": ""Lombardia"", ""suburb"": ""Municipio 1""}, ""boundingbox"": [""45.4644903"", ""45.4645903"", ""9.1698191"", ""9.1699191""], ""class"": ""place"", ""display_name"": ""8, Via Bernardino Zenale, Magenta - San Vittore, Municipio 1, Milano, Lombardia, 20123, Italia"", ""importance"": 0.5309999999999999, ""lat"": ""45.4645403"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""9.1698691"", ""osm_id"": 5300438043, ""osm_type"": ""node"", ""place_id"": 58084400, ""type"": ""house""}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""Fondazione di Comunit\u00e0 Milano""}","<pre><yamldata>
+title: Fondazione di Comunità Milano
+description: 'Il Fondo è costituito dalla Fondazione di Comunità Milano – Città, Sud
+  Ovest, Sud Est, Martesana su impulso del Comune di Milano per sostenere progetti
+  di aiuto ed accoglienza della popolazione ucraina promossi da organizzazioni pubbliche
+  e/o del privato sociale presenti nel territorio di riferimento della Fondazione.
+
+  Donazioni online (vedi link) o via Iban.'
+heading: Fondazione di Comunità di Milano Città, Sud Est, Sud Ovest e Adda Martesana
+iban: IT18 Y030 6909 6061 0000 0162 571
+bicSwift: ''
+ccPostal: ''
+causal: 'Fondo #MilanoAiutaUcraina'
+link: https://www.fondazionecomunitamilano.org/fondi/fondo-milanoaiutaucraina/
+email: f.petrolati@fcmilano.org
+location:
+  mode: autocomplete
+  address:
+    place_id: 58084400
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 5300438043
+    boundingbox:
+    - '45.4644903'
+    - '45.4645903'
+    - '9.1698191'
+    - '9.1699191'
+    lat: '45.4645403'
+    lon: '9.1698691'
+    display_name: 8, Via Bernardino Zenale, Magenta - San Vittore, Municipio 1, Milano,
+      Lombardia, 20123, Italia
+    class: place
+    type: house
+    importance: 0.5309999999999999
+    address:
+      house_number: '8'
+      road: Via Bernardino Zenale
+      quarter: Magenta - San Vittore
+      suburb: Municipio 1
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20123'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+Posizione: 45.4645403 9.1698691
+</yamldata></pre>",open
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/82,1167351821,2022-03-12 22:33:07,2022-03-12 17:46:10,Comune di Valsamoggia cerca alloggi per rifugiati ucraini,44.439823649999994,11.059274991313368,Emilia-Romagna,Bologna,"[""Valid/Accettato"", ""Help""]",,,"{""Posizione"": ""44.439823649999994 11.059274991313368"", ""description"": ""\u00c8 possibile segnalare via mail (sindaco@comune.valsamoggia.bo.it) le disponibilit\u00e0 di appartamenti e case vuote, che siano disponibili per un orizzonte temporale di almeno 6 mesi; per accelerare la valutazione, chiediamo di specificare ogni informazione utile (prossimit\u00e0 al trasporto pubblico, eventuali arredi, stato delle utenze...). Tutti gli immobili saranno oggetto di contratto di affitto con il gestore, relative assicurazioni e volture/pagamenti utenze. Una volta inserite, le persone saranno seguite da personale dedicato.\nInoltre il Comune di Valsamoggia sta raccogliendo e monitorando le disponibilit\u00e0 di camere per accogliere persone in famiglia, una possibilit\u00e0 che per\u00f2 sar\u00e0 attivata tramite un percorso (progetto Vesta, gestito da ASP Bologna) gi\u00e0 strutturato sul nostro territorio per l'accoglienza di giovani rifugiati e di minori stranieri non accompagnati, che in questa emergenza \u00e8 diventato il riferimento anche per l'ospitalit\u00e0 di adulti."", ""email"": ""sindaco@comune.valsamoggia.bo.it"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""help"", ""location"": {""address"": {""address"": {""city"": ""Valsamoggia"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Bologna"", ""municipality"": ""Unione dei comuni Valli del Reno, Lavino e Samoggia"", ""postcode"": ""40053"", ""state"": ""Emilia-Romagna""}, ""boundingbox"": [""44.3113026"", ""44.5673929"", ""10.9901343"", ""11.1834026""], ""class"": ""boundary"", ""display_name"": ""Valsamoggia, Unione dei comuni Valli del Reno, Lavino e Samoggia, Bologna, Emilia-Romagna, 40053, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"", ""importance"": 0.5042581232679697, ""lat"": ""44.439823649999994"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""11.059274991313368"", ""osm_id"": 3411571, ""osm_type"": ""relation"", ""place_id"": 285165141, ""type"": ""administrative""}, ""mode"": ""autocomplete""}, ""nameSurname"": ""Comune di Valsamoggia (Bo)"", ""phoneNumber"": """", ""recipients"": """", ""submit"": true, ""title"": ""Comune di Valsamoggia cerca alloggi per rifugiati ucraini"", ""url"": ""https://www.comune.valsamoggia.bo.it/index.php/comunicazioni/152-news-home/5061-emergenza-ucraina-accoglienza-e-donazioni""}","<pre><yamldata>
+nameSurname: Comune di Valsamoggia (Bo)
+phoneNumber: ''
+email: sindaco@comune.valsamoggia.bo.it
+title: Comune di Valsamoggia cerca alloggi per rifugiati ucraini
+recipients: ''
+description: 'È possibile segnalare via mail (sindaco@comune.valsamoggia.bo.it) le
+  disponibilità di appartamenti e case vuote, che siano disponibili per un orizzonte
+  temporale di almeno 6 mesi; per accelerare la valutazione, chiediamo di specificare
+  ogni informazione utile (prossimità al trasporto pubblico, eventuali arredi, stato
+  delle utenze...). Tutti gli immobili saranno oggetto di contratto di affitto con
+  il gestore, relative assicurazioni e volture/pagamenti utenze. Una volta inserite,
+  le persone saranno seguite da personale dedicato.
+
+  Inoltre il Comune di Valsamoggia sta raccogliendo e monitorando le disponibilità
+  di camere per accogliere persone in famiglia, una possibilità che però sarà attivata
+  tramite un percorso (progetto Vesta, gestito da ASP Bologna) già strutturato sul
+  nostro territorio per l''accoglienza di giovani rifugiati e di minori stranieri
+  non accompagnati, che in questa emergenza è diventato il riferimento anche per l''ospitalità
+  di adulti.'
+url: https://www.comune.valsamoggia.bo.it/index.php/comunicazioni/152-news-home/5061-emergenza-ucraina-accoglienza-e-donazioni
+location:
+  mode: autocomplete
+  address:
+    place_id: 285165141
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 3411571
+    boundingbox:
+    - '44.3113026'
+    - '44.5673929'
+    - '10.9901343'
+    - '11.1834026'
+    lat: '44.439823649999994'
+    lon: '11.059274991313368'
+    display_name: Valsamoggia, Unione dei comuni Valli del Reno, Lavino e Samoggia,
+      Bologna, Emilia-Romagna, 40053, Italia
+    class: boundary
+    type: administrative
+    importance: 0.5042581232679697
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Valsamoggia
+      municipality: Unione dei comuni Valli del Reno, Lavino e Samoggia
+      county: Bologna
+      state: Emilia-Romagna
+      postcode: '40053'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 44.439823649999994 11.059274991313368
+</yamldata></pre>",open
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/81,1167338911,2022-03-12 22:32:50,2022-03-12 16:52:13,A Verona Associazione Malve di Ucraina cerca alloggi e professionisti per supporto rifugiati ucraini,45.4384958,10.9924122,Veneto,Verona,"[""Valid/Accettato"", ""Help""]",,,"{""Posizione"": ""45.4384958 10.9924122"", ""description"": ""A Verona l\u2019associazione Malve di Ucraina ha bisogno di raccogliere denaro per sostenere le spese di trasporto di beni umanitari. E poi cerca famiglie che possano ospitare i rifugiati ucraini in arrivo. Inoltre ha bisogno di professionisti che possano offrire supporto (in particolare mediatori linguistici, medici, insegnanti, parrucchieri) e aziende che offrano lavoro ai rifugiati."", ""email"": ""malve.verona@gmail.com"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""help"", ""location"": {""address"": {""address"": {""city"": ""Verona"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Verona"", ""postcode"": ""37122"", ""state"": ""Veneto""}, ""boundingbox"": [""45.2784958"", ""45.5984958"", ""10.8324122"", ""11.1524122""], ""class"": ""place"", ""display_name"": ""Verona, Veneto, 37122, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"", ""importance"": 0.7561573888828526, ""lat"": ""45.4384958"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""10.9924122"", ""osm_id"": 64778101, ""osm_type"": ""node"", ""place_id"": 286299859, ""type"": ""city""}, ""mode"": ""autocomplete""}, ""nameSurname"": ""Associazione Malve di Ucraina"", ""phoneNumber"": """", ""recipients"": """", ""submit"": true, ""title"": ""A Verona Associazione Malve di Ucraina cerca alloggi e professionisti che possano supportare rifugiati ucraini"", ""url"": ""https://www.facebook.com/675754522486226/posts/5102255149836119/""}","<pre><yamldata>
+nameSurname: Associazione Malve di Ucraina
+phoneNumber: ''
+email: malve.verona@gmail.com
+title: A Verona Associazione Malve di Ucraina cerca alloggi e professionisti che possano
+  supportare rifugiati ucraini
+recipients: ''
+description: A Verona l’associazione Malve di Ucraina ha bisogno di raccogliere denaro
+  per sostenere le spese di trasporto di beni umanitari. E poi cerca famiglie che
+  possano ospitare i rifugiati ucraini in arrivo. Inoltre ha bisogno di professionisti
+  che possano offrire supporto (in particolare mediatori linguistici, medici, insegnanti,
+  parrucchieri) e aziende che offrano lavoro ai rifugiati.
+url: https://www.facebook.com/675754522486226/posts/5102255149836119/
+location:
+  mode: autocomplete
+  address:
+    place_id: 286299859
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 64778101
+    boundingbox:
+    - '45.2784958'
+    - '45.5984958'
+    - '10.8324122'
+    - '11.1524122'
+    lat: '45.4384958'
+    lon: '10.9924122'
+    display_name: Verona, Veneto, 37122, Italia
+    class: place
+    type: city
+    importance: 0.7561573888828526
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Verona
+      county: Verona
+      state: Veneto
+      postcode: '37122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 45.4384958 10.9924122
+</yamldata></pre>",open
 https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/80,1167333697,2022-03-12 22:31:54,2022-03-12 16:30:04,"Ucraina, le dieci bufale russe: il genocidio, il nazismo, l’asilo bombardato nel Lugansk",,,,,"[""Valid/Accettato"", ""fakenews""]",,,"{""description"": ""Su ProfessioneRepoter.eu 10 bufale sul conflitto in Ucraine diffuse da siti russi governativi e non ."", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""fakenews"", ""link"": ""https://www.professionereporter.eu/2022/03/ucraina-le-dieci-bufale-russe-dal-genocidio-al-nazismo-allasilo-bombardato/?fbclid=IwAR3SN6xL3OBtwbuhdGUnl9ZAGHGOS32ZCVeYhxZxyygYc1SXKCazET5-JIE"", ""location"": {""address"": {}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""Ucraina, le dieci bufale russe: il genocidio, il nazismo, l\u2019asilo bombardato nel Lugansk""}","<pre><yamldata>
 title: 'Ucraina, le dieci bufale russe: il genocidio, il nazismo, l’asilo bombardato
   nel Lugansk'
@@ -57,57 +501,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: fundraising
 submit: true
 Posizione: 41.9085702 12.4915634
-</yamldata></pre>",open
-https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/84,1167355829,2022-03-12 22:21:46,2022-03-12 18:04:01,A Milano continua la raccolta beni per rifugiati ucraini di Milano Sospesa,,,,,"[""Valid/Accettato"", ""materialGoods""]",,,"{""address"": {""address"": {""address"": {""city"": ""Milano"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Milano"", ""postcode"": ""20141"", ""quarter"": ""Ripamonti"", ""road"": ""Via Cuore Immacolato di Maria"", ""state"": ""Lombardia"", ""suburb"": ""Municipio 5"", ""village"": ""Vaiano Valle""}, ""boundingbox"": [""45.4368289"", ""45.4368949"", ""9.1974967"", ""9.1976144""], ""class"": ""highway"", ""display_name"": ""Via Cuore Immacolato di Maria, Ripamonti, Municipio 5, Vaiano Valle, Milano, Lombardia, 20141, Italia"", ""importance"": 0.8099999999999999, ""lat"": ""45.4368289"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""9.1974967"", ""osm_id"": 331692065, ""osm_type"": ""way"", ""place_id"": 181610307, ""type"": ""residential""}, ""mode"": ""autocomplete""}, ""description"": ""A Milano continua la raccolta beni per rifugiati ucraini di Milano Sospesa ma si raccolgono solo i seguenti beni:\n\nPOWERBANK\nTORCE\nINTIMO NUOVO BIMBI\nCALZE NUOVE BIMBI\nINTIMO NUOVO ADULTO\nCALZE NUOVE ADULTO\nTAPPETINI campeggio\nSACCHI A PELO\nINTIMO TERMICO\nCALZE TERMICHE\nCAPPELLI E SCIARPE \nBENDE \nEMOSTATICO\nPRODOTTI IGIENE\n\nMEDICINALI FONDAMENTALI IN QUESTO MOMENTO:\n\nnoradrenalina idrotartrato\nsodio fosfocreatina\nTigacile\nComplesso ferro (III) idrossido saccarosio\nNeostigmina metil solfato\nColina alfoscerata\ndopamina cloridrato\n(Sono medicinali ospedalieri)\n\nGENERATORI\nFLEBO\nKIT PRIMO SOCCORSO\nCIBO PRONTO IN BUSTE E CIBO non deperibile\nCIBO COLAZIONE\nBARRETTE ENERGETICHE \nLATTE 1 E 2\n\nDove: VIA CUORE IMMACOLATO DI MARIA 5\nVenerdi 12.00/16.00\nSabato 10.00/13.00\nDomenica 10.00/ 12.30\nMartedi 15.03 - 16.30 /19.00\nGiovedi 17.03 - 16.30 /19.00"", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Milano Sospesa"", ""recipients"": """", ""submit"": true, ""title"": ""A Milano continua la raccolta beni per rifugiati ucraini di Milano Sospesa"", ""type"": ""materialGoods"", ""url"": ""https://www.facebook.com/groups/ukraineinfo.help/permalink/456862506182703/?sfnsn=scwspmo&ref=share""}","<pre><yamldata>
-type: materialGoods
-offerFromWho: Milano Sospesa
-title: A Milano continua la raccolta beni per rifugiati ucraini di Milano Sospesa
-recipients: ''
-description: ""A Milano continua la raccolta beni per rifugiati ucraini di Milano Sospesa\
-  \ ma si raccolgono solo i seguenti beni:\n\nPOWERBANK\nTORCE\nINTIMO NUOVO BIMBI\n\
-  CALZE NUOVE BIMBI\nINTIMO NUOVO ADULTO\nCALZE NUOVE ADULTO\nTAPPETINI campeggio\n\
-  SACCHI A PELO\nINTIMO TERMICO\nCALZE TERMICHE\nCAPPELLI E SCIARPE \nBENDE \nEMOSTATICO\n\
-  PRODOTTI IGIENE\n\nMEDICINALI FONDAMENTALI IN QUESTO MOMENTO:\n\nnoradrenalina idrotartrato\n\
-  sodio fosfocreatina\nTigacile\nComplesso ferro (III) idrossido saccarosio\nNeostigmina\
-  \ metil solfato\nColina alfoscerata\ndopamina cloridrato\n(Sono medicinali ospedalieri)\n\
-  \nGENERATORI\nFLEBO\nKIT PRIMO SOCCORSO\nCIBO PRONTO IN BUSTE E CIBO non deperibile\n\
-  CIBO COLAZIONE\nBARRETTE ENERGETICHE \nLATTE 1 E 2\n\nDove: VIA CUORE IMMACOLATO\
-  \ DI MARIA 5\nVenerdi 12.00/16.00\nSabato 10.00/13.00\nDomenica 10.00/ 12.30\nMartedi\
-  \ 15.03 - 16.30 /19.00\nGiovedi 17.03 - 16.30 /19.00""
-url: https://www.facebook.com/groups/ukraineinfo.help/permalink/456862506182703/?sfnsn=scwspmo&ref=share
-address:
-  mode: autocomplete
-  address:
-    place_id: 181610307
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 331692065
-    boundingbox:
-    - '45.4368289'
-    - '45.4368949'
-    - '9.1974967'
-    - '9.1976144'
-    lat: '45.4368289'
-    lon: '9.1974967'
-    display_name: Via Cuore Immacolato di Maria, Ripamonti, Municipio 5, Vaiano Valle,
-      Milano, Lombardia, 20141, Italia
-    class: highway
-    type: residential
-    importance: 0.8099999999999999
-    address:
-      road: Via Cuore Immacolato di Maria
-      quarter: Ripamonti
-      suburb: Municipio 5
-      village: Vaiano Valle
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20141'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/78,1166652225,2022-03-12 10:56:28,2022-03-11 17:01:45,Refugees Welcome Italia attiva raccolta fondi per convoglio che porti rifugiati ucraini in Italia,45.4641943,9.1896346,Lombardia,Milano,"[""Valid/Accettato"", ""fundraising""]",,,"{""Posizione"": ""45.4641943 9.1896346"", ""bicSwift"": """", ""causal"": ""Milano per l'Ucraina"", ""ccPostal"": """", ""description"": ""Refugees Welcome Italia promuove una raccolta fondi online e via conto corrente per trasportare via autobus i profughi ucraini in Italia."", ""email"": """", ""heading"": """", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""iban"": ""IT23M 05018 11200 000012244604"", ""label"": ""fundraising"", ""link"": ""https://refugees-welcome.it/milano-per-l-ucraina/?fbclid=IwAR2sHZGLHxbmB-l74MZHa4IDYUKlx6ay4bKPbX2lUywD7iaR1AtugW2eiis"", ""location"": {""address"": {""address"": {""city"": ""Milano"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Milano"", ""postcode"": ""20122"", ""state"": ""Lombardia""}, ""boundingbox"": [""45.3041943"", ""45.6241943"", ""9.0296346"", ""9.3496346""], ""class"": ""place"", ""display_name"": ""Milano, Lombardia, 20122, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"", ""importance"": 0.8490652078701348, ""lat"": ""45.4641943"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""9.1896346"", ""osm_id"": 62505581, ""osm_type"": ""node"", ""place_id"": 286263950, ""type"": ""city""}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""Refugees Welcome Italia""}","<pre><yamldata>
 title: Refugees Welcome Italia
