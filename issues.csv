@@ -1,4 +1,49 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/109,1167410538,2022-03-12 23:14:00,2022-03-12 21:52:19,Protezione civile di Milano cerca traduttori in lingua ucraina per accoglienza profughi,45.4902382,9.1945908,Lombardia,Milano,"[""Valid/Accettato"", ""Help""]",,,"{""Posizione"": ""45.4902382 9.1945908"", ""description"": ""La Protezione civile di Milano cerca traduttori in lingua ucraina per accoglienza profughi."", ""email"": ""cristiano.cozzi@comune.milano.it"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""help"", ""location"": {""address"": {""address"": {""city"": ""Milano"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Milano"", ""house_number"": ""17"", ""office"": ""Protezione civile"", ""postcode"": ""20159"", ""quarter"": ""Isola"", ""road"": ""Via Ippolito Rosellini"", ""state"": ""Lombardia"", ""suburb"": ""Municipio 2""}, ""boundingbox"": [""45.4901882"", ""45.4902882"", ""9.1945408"", ""9.1946408""], ""class"": ""office"", ""display_name"": ""Protezione civile, 17, Via Ippolito Rosellini, Isola, Municipio 2, Milano, Lombardia, 20159, Italia"", ""importance"": 0.401, ""lat"": ""45.4902382"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""9.1945908"", ""osm_id"": 6084251988, ""osm_type"": ""node"", ""place_id"": 66708597, ""type"": ""government""}, ""mode"": ""autocomplete""}, ""nameSurname"": ""Protezione civile Milano"", ""phoneNumber"": """", ""recipients"": """", ""submit"": true, ""title"": ""traduttori in lingua ucraina per accoglienza profughi"", ""url"": ""https://twitter.com/ukraineinfohelp/status/1501802781044314115?s=21""}","<pre><yamldata>
+nameSurname: Protezione civile Milano
+phoneNumber: ''
+email: cristiano.cozzi@comune.milano.it
+title: traduttori in lingua ucraina per accoglienza profughi
+recipients: ''
+description: La Protezione civile di Milano cerca traduttori in lingua ucraina per
+  accoglienza profughi.
+url: https://twitter.com/ukraineinfohelp/status/1501802781044314115?s=21
+location:
+  mode: autocomplete
+  address:
+    place_id: 66708597
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 6084251988
+    boundingbox:
+    - '45.4901882'
+    - '45.4902882'
+    - '9.1945408'
+    - '9.1946408'
+    lat: '45.4902382'
+    lon: '9.1945908'
+    display_name: Protezione civile, 17, Via Ippolito Rosellini, Isola, Municipio
+      2, Milano, Lombardia, 20159, Italia
+    class: office
+    type: government
+    importance: 0.401
+    address:
+      office: Protezione civile
+      house_number: '17'
+      road: Via Ippolito Rosellini
+      quarter: Isola
+      suburb: Municipio 2
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20159'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 45.4902382 9.1945908
+</yamldata></pre>",open
 https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/110,1167413433,2022-03-12 22:54:37,2022-03-12 22:09:05,Anpas attiva supporto psicologico online multilingue per profughi ucraini e famiglie ,,,,,"[""Valid/Accettato"", ""Services"", ""psycologicalSupport""]",,,"{""address"": {""address"": {}, ""mode"": ""autocomplete""}, ""description"": ""Il settore di psicologia dell\u2019emergenza di protezione civile Anpas mette a disposizione uno sportello di consulenza online per chi ha congiunti nelle aree di guerra. Un servizio gratuito multilingue per le famiglie in fuga dalla guerra"", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Protezione Civile Anpas"", ""recipients"": ""Famiglie di persone nelle zone do guerra"", ""submit"": true, ""title"": ""Supporto psicologico"", ""type"": ""psychologicalSupport"", ""url"": ""https://www.anpas.org/categoria-news-generale/3846-emergenza-ucraina-psicologi-anpas.html""}","<pre><yamldata>
 type: psychologicalSupport
 offerFromWho: Protezione Civile Anpas
@@ -219,51 +264,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 44.8094695 10.3275042
-</yamldata></pre>",open
-https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/109,1167410538,2022-03-12 22:49:14,2022-03-12 21:52:19,Protezione civile di Milano cerca traduttori in lingua ucraina per accoglienza profughi,45.4902382,9.1945908,Lombardia,Milano,"[""Valid/Accettato"", ""Help""]",,,"{""Posizione"": ""45.4902382 9.1945908"", ""description"": ""La Protezione civile di Milano cerca traduttori in lingua ucraina per accoglienza profughi."", ""email"": ""xxxx@gmail.com"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""help"", ""location"": {""address"": {""address"": {""city"": ""Milano"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Milano"", ""house_number"": ""17"", ""office"": ""Protezione civile"", ""postcode"": ""20159"", ""quarter"": ""Isola"", ""road"": ""Via Ippolito Rosellini"", ""state"": ""Lombardia"", ""suburb"": ""Municipio 2""}, ""boundingbox"": [""45.4901882"", ""45.4902882"", ""9.1945408"", ""9.1946408""], ""class"": ""office"", ""display_name"": ""Protezione civile, 17, Via Ippolito Rosellini, Isola, Municipio 2, Milano, Lombardia, 20159, Italia"", ""importance"": 0.401, ""lat"": ""45.4902382"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""9.1945908"", ""osm_id"": 6084251988, ""osm_type"": ""node"", ""place_id"": 66708597, ""type"": ""government""}, ""mode"": ""autocomplete""}, ""nameSurname"": ""Protezione civile Milano"", ""phoneNumber"": """", ""recipients"": """", ""submit"": true, ""title"": ""traduttori in lingua ucraina per accoglienza profughi"", ""url"": ""https://twitter.com/ukraineinfohelp/status/1501802781044314115?s=21""}","<pre><yamldata>
-nameSurname: Protezione civile Milano
-phoneNumber: ''
-email: xxxx@gmail.com
-title: traduttori in lingua ucraina per accoglienza profughi
-recipients: ''
-description: La Protezione civile di Milano cerca traduttori in lingua ucraina per
-  accoglienza profughi.
-url: https://twitter.com/ukraineinfohelp/status/1501802781044314115?s=21
-location:
-  mode: autocomplete
-  address:
-    place_id: 66708597
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 6084251988
-    boundingbox:
-    - '45.4901882'
-    - '45.4902882'
-    - '9.1945408'
-    - '9.1946408'
-    lat: '45.4902382'
-    lon: '9.1945908'
-    display_name: Protezione civile, 17, Via Ippolito Rosellini, Isola, Municipio
-      2, Milano, Lombardia, 20159, Italia
-    class: office
-    type: government
-    importance: 0.401
-    address:
-      office: Protezione civile
-      house_number: '17'
-      road: Via Ippolito Rosellini
-      quarter: Isola
-      suburb: Municipio 2
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20159'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 45.4902382 9.1945908
 </yamldata></pre>",open
 https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/107,1167409374,2022-03-12 22:48:40,2022-03-12 21:45:12,Croce rossa italiana: raccolta fondi per l’emergenza Ucraina,41.9085702,12.4915634,Lazio,Roma,"[""Valid/Accettato"", ""fundraising""]",,,"{""Posizione"": ""41.9085702 12.4915634"", ""bicSwift"": """", ""causal"": """", ""ccPostal"": """", ""description"": ""Croce rossa italiana ha attivato una campagna di raccolta fondi per l\u2019emergenza Ucraina via web, Paypal, bonifico. Tutte le info al link."", ""email"": """", ""heading"": """", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""iban"": """", ""label"": ""fundraising"", ""link"": ""https://dona.cri.it/~share?cid=18&lang=it_IT"", ""location"": {""address"": {""address"": {""city"": ""Roma"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Roma Capitale"", ""house_number"": ""12"", ""postcode"": ""00187"", ""quarter"": ""Ludovisi"", ""road"": ""Via Toscana"", ""state"": ""Lazio"", ""suburb"": ""Municipio Roma I""}, ""boundingbox"": [""41.9085202"", ""41.9086202"", ""12.4915134"", ""12.4916134""], ""class"": ""place"", ""display_name"": ""12, Via Toscana, Ludovisi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia"", ""importance"": 0.5309999999999999, ""lat"": ""41.9085702"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""12.4915634"", ""osm_id"": 3455635659, ""osm_type"": ""node"", ""place_id"": 43141997, ""type"": ""house""}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""raccolta fondi di Croce rossa italiana per l\u2019emergenza in Ucraina""}","<pre><yamldata>
 title: raccolta fondi di Croce rossa italiana per l’emergenza in Ucraina
