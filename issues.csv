@@ -1,4 +1,50 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/107,1167409374,2022-03-12 22:30:22,2022-03-12 21:45:12,Croce rossa italiana: raccolta fondi per l’emergenza ucraina,41.9085702,12.4915634,Lazio,Roma,"[""Valid/Accettato"", ""fundraising""]",,,"{""Posizione"": ""41.9085702 12.4915634"", ""bicSwift"": """", ""causal"": """", ""ccPostal"": """", ""description"": ""Croce rossa italiana ha attivato una campagna di raccolta fondi per l\u2019emergenza Ucraina via web, Paypal, bonifico. Tutte le info al link."", ""email"": """", ""heading"": """", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""iban"": """", ""label"": ""fundraising"", ""link"": ""https://dona.cri.it/~share?cid=18&lang=it_IT"", ""location"": {""address"": {""address"": {""city"": ""Roma"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Roma Capitale"", ""house_number"": ""12"", ""postcode"": ""00187"", ""quarter"": ""Ludovisi"", ""road"": ""Via Toscana"", ""state"": ""Lazio"", ""suburb"": ""Municipio Roma I""}, ""boundingbox"": [""41.9085202"", ""41.9086202"", ""12.4915134"", ""12.4916134""], ""class"": ""place"", ""display_name"": ""12, Via Toscana, Ludovisi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia"", ""importance"": 0.5309999999999999, ""lat"": ""41.9085702"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""12.4915634"", ""osm_id"": 3455635659, ""osm_type"": ""node"", ""place_id"": 43141997, ""type"": ""house""}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""raccolta fondi di Croce rossa italiana per l\u2019emergenza in Ucraina""}","<pre><yamldata>
+title: raccolta fondi di Croce rossa italiana per l’emergenza in Ucraina
+description: Croce rossa italiana ha attivato una campagna di raccolta fondi per l’emergenza
+  Ucraina via web, Paypal, bonifico. Tutte le info al link.
+heading: ''
+iban: ''
+bicSwift: ''
+ccPostal: ''
+causal: ''
+link: https://dona.cri.it/~share?cid=18&lang=it_IT
+email: ''
+location:
+  mode: autocomplete
+  address:
+    place_id: 43141997
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 3455635659
+    boundingbox:
+    - '41.9085202'
+    - '41.9086202'
+    - '12.4915134'
+    - '12.4916134'
+    lat: '41.9085702'
+    lon: '12.4915634'
+    display_name: 12, Via Toscana, Ludovisi, Municipio Roma I, Roma, Roma Capitale,
+      Lazio, 00187, Italia
+    class: place
+    type: house
+    importance: 0.5309999999999999
+    address:
+      house_number: '12'
+      road: Via Toscana
+      quarter: Ludovisi
+      suburb: Municipio Roma I
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: 00187
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+Posizione: 41.9085702 12.4915634
+</yamldata></pre>",open
 https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/84,1167355829,2022-03-12 22:21:46,2022-03-12 18:04:01,A Milano continua la raccolta beni per rifugiati ucraini di Milano Sospesa,,,,,"[""Valid/Accettato"", ""materialGoods""]",,,"{""address"": {""address"": {""address"": {""city"": ""Milano"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Milano"", ""postcode"": ""20141"", ""quarter"": ""Ripamonti"", ""road"": ""Via Cuore Immacolato di Maria"", ""state"": ""Lombardia"", ""suburb"": ""Municipio 5"", ""village"": ""Vaiano Valle""}, ""boundingbox"": [""45.4368289"", ""45.4368949"", ""9.1974967"", ""9.1976144""], ""class"": ""highway"", ""display_name"": ""Via Cuore Immacolato di Maria, Ripamonti, Municipio 5, Vaiano Valle, Milano, Lombardia, 20141, Italia"", ""importance"": 0.8099999999999999, ""lat"": ""45.4368289"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""9.1974967"", ""osm_id"": 331692065, ""osm_type"": ""way"", ""place_id"": 181610307, ""type"": ""residential""}, ""mode"": ""autocomplete""}, ""description"": ""A Milano continua la raccolta beni per rifugiati ucraini di Milano Sospesa ma si raccolgono solo i seguenti beni:\n\nPOWERBANK\nTORCE\nINTIMO NUOVO BIMBI\nCALZE NUOVE BIMBI\nINTIMO NUOVO ADULTO\nCALZE NUOVE ADULTO\nTAPPETINI campeggio\nSACCHI A PELO\nINTIMO TERMICO\nCALZE TERMICHE\nCAPPELLI E SCIARPE \nBENDE \nEMOSTATICO\nPRODOTTI IGIENE\n\nMEDICINALI FONDAMENTALI IN QUESTO MOMENTO:\n\nnoradrenalina idrotartrato\nsodio fosfocreatina\nTigacile\nComplesso ferro (III) idrossido saccarosio\nNeostigmina metil solfato\nColina alfoscerata\ndopamina cloridrato\n(Sono medicinali ospedalieri)\n\nGENERATORI\nFLEBO\nKIT PRIMO SOCCORSO\nCIBO PRONTO IN BUSTE E CIBO non deperibile\nCIBO COLAZIONE\nBARRETTE ENERGETICHE \nLATTE 1 E 2\n\nDove: VIA CUORE IMMACOLATO DI MARIA 5\nVenerdi 12.00/16.00\nSabato 10.00/13.00\nDomenica 10.00/ 12.30\nMartedi 15.03 - 16.30 /19.00\nGiovedi 17.03 - 16.30 /19.00"", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Milano Sospesa"", ""recipients"": """", ""submit"": true, ""title"": ""A Milano continua la raccolta beni per rifugiati ucraini di Milano Sospesa"", ""type"": ""materialGoods"", ""url"": ""https://www.facebook.com/groups/ukraineinfo.help/permalink/456862506182703/?sfnsn=scwspmo&ref=share""}","<pre><yamldata>
 type: materialGoods
 offerFromWho: Milano Sospesa
