@@ -1,5 +1,47 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/77,1166646079,2022-03-12 10:55:29,2022-03-11 16:55:19,"Gruppo Facebook ""Aiuta Profughi Ucraini Italia"" per offrire accoglienza e aiuti",,,,,"[""Valid/Accettato"", ""News"", ""Services"", ""useful contact"", ""contact""]",,,"{""address"": {""address"": {""address"": {""city"": ""Milano"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Milano"", ""postcode"": ""20122"", ""state"": ""Lombardia""}, ""boundingbox"": [""45.3041943"", ""45.6241943"", ""9.0296346"", ""9.3496346""], ""class"": ""place"", ""display_name"": ""Milano, Lombardia, 20122, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"", ""importance"": 0.8390652078701348, ""lat"": ""45.4641943"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""9.1896346"", ""osm_id"": 62505581, ""osm_type"": ""node"", ""place_id"": 286263950, ""type"": ""city""}, ""mode"": ""autocomplete""}, ""aim"": ""Gruppo Facebook, aperto da un gruppo di cittadini ucraini a Milano, che offre info utili e aiuta i profughi ucraini a trovare supporto e accoglienza in Italia, in particolare nord Italia."", ""email"": """", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""contact"", ""phoneNumber"": """", ""submit"": true, ""title"": ""Gruppo Facebook \""Aiuta Profughi Ucraini Italia\"""", ""url"": ""https://www.facebook.com/groups/1373754006378987/?ref=share""}","<pre><yamldata>
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/78,1166652225,2022-03-12 10:56:28,2022-03-11 17:01:45,Refugees Welcome Italia attiva raccolta fondi per convoglio che porti rifugiati ucraini in Italia,45.4641943,9.1896346,Lombardia,Milano,"[""Valid/Accettato"", ""fundraising""]",,,"{""Posizione"": ""45.4641943 9.1896346"", ""bicSwift"": """", ""causal"": ""Milano per l'Ucraina"", ""ccPostal"": """", ""description"": ""Refugees Welcome Italia promuove una raccolta fondi online e via conto corrente per trasportare via autobus i profughi ucraini in Italia."", ""email"": """", ""heading"": """", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""iban"": ""IT23M 05018 11200 000012244604"", ""label"": ""fundraising"", ""link"": ""https://refugees-welcome.it/milano-per-l-ucraina/?fbclid=IwAR2sHZGLHxbmB-l74MZHa4IDYUKlx6ay4bKPbX2lUywD7iaR1AtugW2eiis"", ""location"": {""address"": {""address"": {""city"": ""Milano"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Milano"", ""postcode"": ""20122"", ""state"": ""Lombardia""}, ""boundingbox"": [""45.3041943"", ""45.6241943"", ""9.0296346"", ""9.3496346""], ""class"": ""place"", ""display_name"": ""Milano, Lombardia, 20122, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"", ""importance"": 0.8490652078701348, ""lat"": ""45.4641943"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""9.1896346"", ""osm_id"": 62505581, ""osm_type"": ""node"", ""place_id"": 286263950, ""type"": ""city""}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""Refugees Welcome Italia""}","<pre><yamldata>
+title: Refugees Welcome Italia
+description: Refugees Welcome Italia promuove una raccolta fondi online e via conto
+  corrente per trasportare via autobus i profughi ucraini in Italia.
+heading: ''
+iban: IT23M 05018 11200 000012244604
+bicSwift: ''
+ccPostal: ''
+causal: Milano per l'Ucraina
+link: https://refugees-welcome.it/milano-per-l-ucraina/?fbclid=IwAR2sHZGLHxbmB-l74MZHa4IDYUKlx6ay4bKPbX2lUywD7iaR1AtugW2eiis
+email: ''
+location:
+  mode: autocomplete
+  address:
+    place_id: 286263950
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 62505581
+    boundingbox:
+    - '45.3041943'
+    - '45.6241943'
+    - '9.0296346'
+    - '9.3496346'
+    lat: '45.4641943'
+    lon: '9.1896346'
+    display_name: Milano, Lombardia, 20122, Italia
+    class: place
+    type: city
+    importance: 0.8490652078701348
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+Posizione: 45.4641943 9.1896346
+</yamldata></pre>",open
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/77,1166646079,2022-03-12 10:55:52,2022-03-11 16:55:19,"Gruppo Facebook ""Aiuta Profughi Ucraini Italia"" per offrire accoglienza e aiuti",,,,,"[""Valid/Accettato"", ""News"", ""Services"", ""useful contact"", ""materialGoods"", ""hospitality"", ""contact""]",,,"{""address"": {""address"": {""address"": {""city"": ""Milano"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Milano"", ""postcode"": ""20122"", ""state"": ""Lombardia""}, ""boundingbox"": [""45.3041943"", ""45.6241943"", ""9.0296346"", ""9.3496346""], ""class"": ""place"", ""display_name"": ""Milano, Lombardia, 20122, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"", ""importance"": 0.8390652078701348, ""lat"": ""45.4641943"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""9.1896346"", ""osm_id"": 62505581, ""osm_type"": ""node"", ""place_id"": 286263950, ""type"": ""city""}, ""mode"": ""autocomplete""}, ""aim"": ""Gruppo Facebook, aperto da un gruppo di cittadini ucraini a Milano, che offre info utili e aiuta i profughi ucraini a trovare supporto e accoglienza in Italia, in particolare nord Italia."", ""email"": """", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""contact"", ""phoneNumber"": """", ""submit"": true, ""title"": ""Gruppo Facebook \""Aiuta Profughi Ucraini Italia\"""", ""url"": ""https://www.facebook.com/groups/1373754006378987/?ref=share""}","<pre><yamldata>
 title: Gruppo Facebook ""Aiuta Profughi Ucraini Italia""
 phoneNumber: ''
 email: ''
