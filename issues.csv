@@ -1,4 +1,55 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/84,1167355829,2022-03-12 22:21:46,2022-03-12 18:04:01,A Milano continua la raccolta beni per rifugiati ucraini di Milano Sospesa,,,,,"[""Valid/Accettato"", ""materialGoods""]",,,"{""address"": {""address"": {""address"": {""city"": ""Milano"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Milano"", ""postcode"": ""20141"", ""quarter"": ""Ripamonti"", ""road"": ""Via Cuore Immacolato di Maria"", ""state"": ""Lombardia"", ""suburb"": ""Municipio 5"", ""village"": ""Vaiano Valle""}, ""boundingbox"": [""45.4368289"", ""45.4368949"", ""9.1974967"", ""9.1976144""], ""class"": ""highway"", ""display_name"": ""Via Cuore Immacolato di Maria, Ripamonti, Municipio 5, Vaiano Valle, Milano, Lombardia, 20141, Italia"", ""importance"": 0.8099999999999999, ""lat"": ""45.4368289"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""9.1974967"", ""osm_id"": 331692065, ""osm_type"": ""way"", ""place_id"": 181610307, ""type"": ""residential""}, ""mode"": ""autocomplete""}, ""description"": ""A Milano continua la raccolta beni per rifugiati ucraini di Milano Sospesa ma si raccolgono solo i seguenti beni:\n\nPOWERBANK\nTORCE\nINTIMO NUOVO BIMBI\nCALZE NUOVE BIMBI\nINTIMO NUOVO ADULTO\nCALZE NUOVE ADULTO\nTAPPETINI campeggio\nSACCHI A PELO\nINTIMO TERMICO\nCALZE TERMICHE\nCAPPELLI E SCIARPE \nBENDE \nEMOSTATICO\nPRODOTTI IGIENE\n\nMEDICINALI FONDAMENTALI IN QUESTO MOMENTO:\n\nnoradrenalina idrotartrato\nsodio fosfocreatina\nTigacile\nComplesso ferro (III) idrossido saccarosio\nNeostigmina metil solfato\nColina alfoscerata\ndopamina cloridrato\n(Sono medicinali ospedalieri)\n\nGENERATORI\nFLEBO\nKIT PRIMO SOCCORSO\nCIBO PRONTO IN BUSTE E CIBO non deperibile\nCIBO COLAZIONE\nBARRETTE ENERGETICHE \nLATTE 1 E 2\n\nDove: VIA CUORE IMMACOLATO DI MARIA 5\nVenerdi 12.00/16.00\nSabato 10.00/13.00\nDomenica 10.00/ 12.30\nMartedi 15.03 - 16.30 /19.00\nGiovedi 17.03 - 16.30 /19.00"", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Milano Sospesa"", ""recipients"": """", ""submit"": true, ""title"": ""A Milano continua la raccolta beni per rifugiati ucraini di Milano Sospesa"", ""type"": ""materialGoods"", ""url"": ""https://www.facebook.com/groups/ukraineinfo.help/permalink/456862506182703/?sfnsn=scwspmo&ref=share""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: Milano Sospesa
+title: A Milano continua la raccolta beni per rifugiati ucraini di Milano Sospesa
+recipients: ''
+description: ""A Milano continua la raccolta beni per rifugiati ucraini di Milano Sospesa\
+  \ ma si raccolgono solo i seguenti beni:\n\nPOWERBANK\nTORCE\nINTIMO NUOVO BIMBI\n\
+  CALZE NUOVE BIMBI\nINTIMO NUOVO ADULTO\nCALZE NUOVE ADULTO\nTAPPETINI campeggio\n\
+  SACCHI A PELO\nINTIMO TERMICO\nCALZE TERMICHE\nCAPPELLI E SCIARPE \nBENDE \nEMOSTATICO\n\
+  PRODOTTI IGIENE\n\nMEDICINALI FONDAMENTALI IN QUESTO MOMENTO:\n\nnoradrenalina idrotartrato\n\
+  sodio fosfocreatina\nTigacile\nComplesso ferro (III) idrossido saccarosio\nNeostigmina\
+  \ metil solfato\nColina alfoscerata\ndopamina cloridrato\n(Sono medicinali ospedalieri)\n\
+  \nGENERATORI\nFLEBO\nKIT PRIMO SOCCORSO\nCIBO PRONTO IN BUSTE E CIBO non deperibile\n\
+  CIBO COLAZIONE\nBARRETTE ENERGETICHE \nLATTE 1 E 2\n\nDove: VIA CUORE IMMACOLATO\
+  \ DI MARIA 5\nVenerdi 12.00/16.00\nSabato 10.00/13.00\nDomenica 10.00/ 12.30\nMartedi\
+  \ 15.03 - 16.30 /19.00\nGiovedi 17.03 - 16.30 /19.00""
+url: https://www.facebook.com/groups/ukraineinfo.help/permalink/456862506182703/?sfnsn=scwspmo&ref=share
+address:
+  mode: autocomplete
+  address:
+    place_id: 181610307
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 331692065
+    boundingbox:
+    - '45.4368289'
+    - '45.4368949'
+    - '9.1974967'
+    - '9.1976144'
+    lat: '45.4368289'
+    lon: '9.1974967'
+    display_name: Via Cuore Immacolato di Maria, Ripamonti, Municipio 5, Vaiano Valle,
+      Milano, Lombardia, 20141, Italia
+    class: highway
+    type: residential
+    importance: 0.8099999999999999
+    address:
+      road: Via Cuore Immacolato di Maria
+      quarter: Ripamonti
+      suburb: Municipio 5
+      village: Vaiano Valle
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20141'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/78,1166652225,2022-03-12 10:56:28,2022-03-11 17:01:45,Refugees Welcome Italia attiva raccolta fondi per convoglio che porti rifugiati ucraini in Italia,45.4641943,9.1896346,Lombardia,Milano,"[""Valid/Accettato"", ""fundraising""]",,,"{""Posizione"": ""45.4641943 9.1896346"", ""bicSwift"": """", ""causal"": ""Milano per l'Ucraina"", ""ccPostal"": """", ""description"": ""Refugees Welcome Italia promuove una raccolta fondi online e via conto corrente per trasportare via autobus i profughi ucraini in Italia."", ""email"": """", ""heading"": """", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""iban"": ""IT23M 05018 11200 000012244604"", ""label"": ""fundraising"", ""link"": ""https://refugees-welcome.it/milano-per-l-ucraina/?fbclid=IwAR2sHZGLHxbmB-l74MZHa4IDYUKlx6ay4bKPbX2lUywD7iaR1AtugW2eiis"", ""location"": {""address"": {""address"": {""city"": ""Milano"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Milano"", ""postcode"": ""20122"", ""state"": ""Lombardia""}, ""boundingbox"": [""45.3041943"", ""45.6241943"", ""9.0296346"", ""9.3496346""], ""class"": ""place"", ""display_name"": ""Milano, Lombardia, 20122, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"", ""importance"": 0.8490652078701348, ""lat"": ""45.4641943"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""9.1896346"", ""osm_id"": 62505581, ""osm_type"": ""node"", ""place_id"": 286263950, ""type"": ""city""}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""Refugees Welcome Italia""}","<pre><yamldata>
 title: Refugees Welcome Italia
 description: Refugees Welcome Italia promuove una raccolta fondi online e via conto
