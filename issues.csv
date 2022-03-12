@@ -1,4 +1,99 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/77,1166646079,2022-03-12 10:55:29,2022-03-11 16:55:19,"Gruppo Facebook ""Aiuta Profughi Ucraini Italia"" per offrire accoglienza e aiuti",,,,,"[""Valid/Accettato"", ""News"", ""Services"", ""useful contact"", ""contact""]",,,"{""address"": {""address"": {""address"": {""city"": ""Milano"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Milano"", ""postcode"": ""20122"", ""state"": ""Lombardia""}, ""boundingbox"": [""45.3041943"", ""45.6241943"", ""9.0296346"", ""9.3496346""], ""class"": ""place"", ""display_name"": ""Milano, Lombardia, 20122, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"", ""importance"": 0.8390652078701348, ""lat"": ""45.4641943"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""9.1896346"", ""osm_id"": 62505581, ""osm_type"": ""node"", ""place_id"": 286263950, ""type"": ""city""}, ""mode"": ""autocomplete""}, ""aim"": ""Gruppo Facebook, aperto da un gruppo di cittadini ucraini a Milano, che offre info utili e aiuta i profughi ucraini a trovare supporto e accoglienza in Italia, in particolare nord Italia."", ""email"": """", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""contact"", ""phoneNumber"": """", ""submit"": true, ""title"": ""Gruppo Facebook \""Aiuta Profughi Ucraini Italia\"""", ""url"": ""https://www.facebook.com/groups/1373754006378987/?ref=share""}","<pre><yamldata>
+title: Gruppo Facebook ""Aiuta Profughi Ucraini Italia""
+phoneNumber: ''
+email: ''
+aim: Gruppo Facebook, aperto da un gruppo di cittadini ucraini a Milano, che offre
+  info utili e aiuta i profughi ucraini a trovare supporto e accoglienza in Italia,
+  in particolare nord Italia.
+url: https://www.facebook.com/groups/1373754006378987/?ref=share
+address:
+  mode: autocomplete
+  address:
+    place_id: 286263950
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 62505581
+    boundingbox:
+    - '45.3041943'
+    - '45.6241943'
+    - '9.0296346'
+    - '9.3496346'
+    lat: '45.4641943'
+    lon: '9.1896346'
+    display_name: Milano, Lombardia, 20122, Italia
+    class: place
+    type: city
+    importance: 0.8390652078701348
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/76,1166637300,2022-03-12 10:54:03,2022-03-11 16:47:58,A Padova Ordine degli Psicologi attiva un servizio online di supporto psicologico per profughi ucrai,,,,,"[""Valid/Accettato"", ""Services"", ""psycologicalSupport""]",,,"{""address"": {""address"": {""address"": {""city"": ""Padova"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Padova"", ""postcode"": ""35100"", ""state"": ""Veneto""}, ""boundingbox"": [""45.2477172"", ""45.5677172"", ""11.7134455"", ""12.0334455""], ""class"": ""place"", ""display_name"": ""Padova, Veneto, 35100, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"", ""importance"": 0.7435563013929846, ""lat"": ""45.4077172"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""11.8734455"", ""osm_id"": 406747508, ""osm_type"": ""node"", ""place_id"": 2885944, ""type"": ""city""}, ""mode"": ""autocomplete""}, ""description"": ""A Padova Ordine degli Psicologi, in collaborazione con l'universit\u00e0, ha attiva un servizio online di supporto psicologico per cittadini ucraini.\nIl servizio \u00e8 attivo su prenotazione:\nTel. 049 8276496 (lun-ven ore 10-16)\nEmail emergenza.psicologionline@unipd.it"", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Ordine Psicologi Padova"", ""recipients"": """", ""submit"": true, ""title"": ""A Padova Ordine degli Psicologi attiva un servizio online di supporto psicologico per profughi ucraini"", ""type"": ""psychologicalSupport"", ""url"": ""http://www.facebook.com/emergenzapsicologionlineunipd""}","<pre><yamldata>
+type: psychologicalSupport
+offerFromWho: Ordine Psicologi Padova
+title: A Padova Ordine degli Psicologi attiva un servizio online di supporto psicologico
+  per profughi ucraini
+recipients: ''
+description: 'A Padova Ordine degli Psicologi, in collaborazione con l''università,
+  ha attiva un servizio online di supporto psicologico per cittadini ucraini.
+
+  Il servizio è attivo su prenotazione:
+
+  Tel. 049 8276496 (lun-ven ore 10-16)
+
+  Email emergenza.psicologionline@unipd.it'
+url: http://www.facebook.com/emergenzapsicologionlineunipd
+address:
+  mode: autocomplete
+  address:
+    place_id: 2885944
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 406747508
+    boundingbox:
+    - '45.2477172'
+    - '45.5677172'
+    - '11.7134455'
+    - '12.0334455'
+    lat: '45.4077172'
+    lon: '11.8734455'
+    display_name: Padova, Veneto, 35100, Italia
+    class: place
+    type: city
+    importance: 0.7435563013929846
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Padova
+      county: Padova
+      state: Veneto
+      postcode: '35100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/75,1166626941,2022-03-12 10:53:41,2022-03-11 16:37:00,"UkraineFacts.org, osservatorio internazionale su fake news e guerra in Ucraina",,,,,"[""Valid/Accettato"", ""News"", ""fakenews""]",,,"{""description"": ""Piattaforma promossa dall'International Fact-checking Network Signatories che mappa nel mondo e smonta le fake news relative alla guerra in Ucraina."", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""fakenews"", ""link"": ""https://ukrainefacts.org"", ""location"": {""address"": {}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""UkraineFacts.org, osservatorio internazionale su fake news e guerra in Ucraina""}","<pre><yamldata>
+title: UkraineFacts.org, osservatorio internazionale su fake news e guerra in Ucraina
+description: Piattaforma promossa dall'International Fact-checking Network Signatories
+  che mappa nel mondo e smonta le fake news relative alla guerra in Ucraina.
+link: https://ukrainefacts.org
+location:
+  mode: autocomplete
+  address: {}
+label: fakenews
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/42,1162736087,2022-03-11 07:23:23,2022-03-08 14:39:12,Comune di Venezia attiva sportello Emergenza Ucraina,,,,,"[""Valid/Accettato"", ""News"", ""Missing position"", ""Services"", ""Legal"", ""hospitality""]",,,"{""address"": {""address"": {""address"": {""amenity"": ""Comune di Venezia"", ""city"": ""Venezia"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Venezia"", ""road"": ""Calle Chiesa Ognissanti"", ""state"": ""Veneto"", ""suburb"": ""Lido-Pellestrina"", ""village"": ""Pellestrina""}, ""boundingbox"": [""45.2731957"", ""45.2732957"", ""12.3009922"", ""12.3010922""], ""class"": ""amenity"", ""display_name"": ""Comune di Venezia, Calle Chiesa Ognissanti, Lido-Pellestrina, Pellestrina, Venezia, Veneto, Italia"", ""importance"": 0.31100000000000005, ""lat"": ""45.2732457"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""12.3010422"", ""osm_id"": 6958414086, ""osm_type"": ""node"", ""place_id"": 74210873, ""type"": ""townhall""}, ""mode"": ""autocomplete""}, ""description"": ""A Venezia attivo sportello Emergenza Ucraina del Comune che offre info,\\ \\ supporto, assistenza ai rifugiati ucraini e alle famiglie italiane ospitanti.\\n\\ Tel. 041041 (DIME), lun-ven ore 8-20. \\nEmail ucraina@comune.venezia.it \\n(In lingua\\ \\ italiana e ucraina)."", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Comune di Venezia"", ""recipients"": ""Rifugiati ucraini, famiglie ospitanti, cittadini"", ""submit"": true, ""title"": ""Comune di #Venezia attiva Sportello Emergenza #Ucraina"", ""type"": ""legal"", ""url"": ""https://live.comune.venezia.it/it/2022/03/informazioni-le-persone-provenienti-dallucraina-e-le-famiglie-ospitanti""}","<pre><yamldata>
 type: legal
 offerFromWho: Comune di Venezia
