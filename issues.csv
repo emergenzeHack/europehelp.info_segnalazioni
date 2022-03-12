@@ -1,4 +1,65 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/92,1167382848,2022-03-12 22:40:53,2022-03-12 19:55:35,Ospedale Buzzi Milano offre visite gratuite a donne ucraine incinte,,,,,"[""Valid/Accettato"", ""Services"", ""healtcare"", ""women""]",,,"{""address"": {""address"": {""address"": {""amenity"": ""Ospedale dei Bambini \""Vittore Buzzi\"""", ""city"": ""Milano"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Milano"", ""house_number"": ""28"", ""postcode"": ""20154"", ""quarter"": ""Sarpi"", ""road"": ""Via Lodovico Castelvetro"", ""state"": ""Lombardia"", ""suburb"": ""Municipio 8""}, ""boundingbox"": [""45.4848213"", ""45.4865785"", ""9.1653918"", ""9.1678818""], ""class"": ""amenity"", ""display_name"": ""Ospedale dei Bambini \""Vittore Buzzi\"", 28, Via Lodovico Castelvetro, Sarpi, Municipio 8, Milano, Lombardia, 20154, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//health_hospital.p.20.png"", ""importance"": 0.31100000000000005, ""lat"": ""45.4858443"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""9.166968895924526"", ""osm_id"": 478299137, ""osm_type"": ""way"", ""place_id"": 208609040, ""type"": ""hospital""}, ""mode"": ""autocomplete""}, ""description"": ""Presso l'Ospedale dei Bambini \""Vittore Buzzi\"", a Milano in: Via Lodovico Castelvetro 32. Padiglione C, Piano -1, Spazio IV trimestre, ogni gioved\u00ec dalle 13:30 alle 15:30 ci sar\u00e0 una visita gratuita per le donne incinta costrette ad abbandonare le loro case a causa della guerra in Ucraina. Il nostro ospedale \u00e8 pronto ad assistere nella gestione completa di una gravidanza. Verr\u00e0 effettuata la prima visita e rilasciato il codice STP del sistema sanitario nazionale, per la successiva gestione gratuita della gravidanza (con una gamma completa di test ed ecografie), del parto e del periodo postpartum. \nNumero di telefono per informazioni dettagliate: 02 6363.6023 / 5213.\n\n\u0423 \u0433\u043e\u0441\u043f\u0456\u0442\u0430\u043b\u0456 Ospedale dei Bambini \""Vittore Buzzi\"" , \u044f\u043a\u0438\u0439 \u0437\u043d\u0430\u0445\u043e\u0434\u0438\u0442\u044c\u0441\u044f \u0432 \u041c\u0456\u043b\u0430\u043d\u0456 \u0437\u0430 \u0430\u0434\u0440\u0435\u0441\u043e\u044e: Via Lodovico Castelvetro 32. \u041f\u0430\u0432\u0456\u043b\u044c\u0439\u043e\u043d \u0421, \u041f\u043e\u0432\u0435\u0440\u0445-1, Spazio IV trimestre \u041a\u043e\u0436\u0435\u043d \u0447\u0435\u0442\u0432\u0435\u0440 \u0437 13:30 \u0434\u043e 15:30 \u0431\u0443\u0434\u0435 \u0432\u0435\u0441\u0442\u0438\u0441\u044c \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u0438\u0439 \u043f\u0440\u0438\u0439\u043e\u043c \u0434\u043b\u044f \u0432\u0430\u0433\u0456\u0442\u043d\u0438\u0445 \u0436\u0456\u043d\u043e\u043a, \u044f\u043a\u0456 \u0447\u0435\u0440\u0435\u0437 \u0432\u0456\u0439\u043d\u0443 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456 \u0437\u043c\u0443\u0448\u0435\u043d\u0456 \u0431\u0443\u043b\u0438 \u043f\u043e\u043a\u0438\u043d\u0443\u0442\u0438 \u0441\u0432\u043e\u0457 \u0434\u043e\u043c\u0456\u0432\u043a\u0438. \u041d\u0430\u0448 \u0433\u043e\u0441\u043f\u0456\u0442\u0430\u043b\u044c \u0433\u043e\u0442\u043e\u0432\u0438\u0439 \u043d\u0430\u0434\u0430\u0442\u0438 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0443 \u0443 \u0432\u0435\u0434\u0435\u043d\u043d\u0456 \u043f\u043e\u0432\u043d\u043e\u0433\u043e \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441\u0443 \u0432\u0430\u0433\u0456\u0442\u043d\u043e\u0441\u0442\u0456. \u0411\u0443\u0434\u0435  \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0439 \u043f\u0435\u0440\u0448\u0438\u0439 \u043e\u0433\u043b\u044f\u0434 \u0456 \u0432\u0438\u0434\u0430\u043d\u0438\u0439 \u043a\u043e\u0434 STP \u043d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0457 \u0441\u0438\u0441\u0442\u0435\u043c\u0438 \u043e\u0445\u043e\u0440\u043e\u043d\u0438 \u0437\u0434\u043e\u0440\u043e\u0432'\u044f, \u0434\u043b\u044f \u0431\u0435\u0437\u043e\u043f\u043b\u0430\u0442\u043d\u043e\u0457 \u043f\u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0438 \u043d\u0430 \u043e\u0431\u043b\u0456\u043a \u0456 \u043f\u043e\u0434\u0430\u043b\u044c\u0448\u043e\u0433\u043e \u0432\u0435\u0434\u0435\u043d\u043d\u044f \u0432\u0430\u0433\u0456\u0442\u043d\u043e\u0441\u0442\u0456( \u0437 \u043f\u043e\u0432\u043d\u0438\u043c \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441\u043e\u043c  \u0430\u043d\u0430\u043b\u0456\u0437\u0456\u0432 \u0442\u0430 \u0443\u0437\u0456) , \u043f\u043e\u043b\u043e\u0433\u0456\u0432 \u0442\u0430 \u043f\u0456\u0441\u043b\u044f\u043f\u043e\u043b\u043e\u0433\u043e\u0432\u043e\u0433\u043e \u043f\u0435\u0440\u0456\u043e\u0434\u0443. \u041d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443 \u0434\u043b\u044f \u0434\u0435\u0442\u0430\u043b\u044c\u043d\u043e\u0457 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u0457: 02 6363.6023/5213.\n\nLa nostra Associazione mette a disposizione delle donne quanto necessario per la gravidanza, gentilmente offerto dai tanti amici che in questa settimana si sono presentati in OBM."", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Ospedale Buzzi Milano"", ""recipients"": ""donne ucraine incinte"", ""submit"": true, ""title"": ""Ospedale Buzzi Milano offre visite gratuite a donne ucraine incinte"", ""type"": ""healthcare"", ""url"": ""https://www.facebook.com/400453129313/posts/10160275267644314/?sfnsn=scwspmo""}","<pre><yamldata>
+type: healthcare
+offerFromWho: Ospedale Buzzi Milano
+title: Ospedale Buzzi Milano offre visite gratuite a donne ucraine incinte
+recipients: donne ucraine incinte
+description: ""Presso l'Ospedale dei Bambini \""Vittore Buzzi\"", a Milano in: Via Lodovico\
+  \ Castelvetro 32. Padiglione C, Piano -1, Spazio IV trimestre, ogni giovedì dalle\
+  \ 13:30 alle 15:30 ci sarà una visita gratuita per le donne incinta costrette ad\
+  \ abbandonare le loro case a causa della guerra in Ucraina. Il nostro ospedale è\
+  \ pronto ad assistere nella gestione completa di una gravidanza. Verrà effettuata\
+  \ la prima visita e rilasciato il codice STP del sistema sanitario nazionale, per\
+  \ la successiva gestione gratuita della gravidanza (con una gamma completa di test\
+  \ ed ecografie), del parto e del periodo postpartum. \nNumero di telefono per informazioni\
+  \ dettagliate: 02 6363.6023 / 5213.\n\nУ госпіталі Ospedale dei Bambini \""Vittore\
+  \ Buzzi\"" , який знаходиться в Мілані за адресою: Via Lodovico Castelvetro 32. Павільйон\
+  \ С, Поверх-1, Spazio IV trimestre Кожен четвер з 13:30 до 15:30 буде вестись безкоштовний\
+  \ прийом для вагітних жінок, які через війну в Україні змушені були покинути свої\
+  \ домівки. Наш госпіталь готовий надати допомогу у веденні повного комплексу вагітності.\
+  \ Буде  проведений перший огляд і виданий код STP національної системи охорони здоров'я,\
+  \ для безоплатної постановки на облік і подальшого ведення вагітності( з повним\
+  \ комплексом  аналізів та узі) , пологів та післяпологового періоду. Номер телефону\
+  \ для детальної інформації: 02 6363.6023/5213.\n\nLa nostra Associazione mette a\
+  \ disposizione delle donne quanto necessario per la gravidanza, gentilmente offerto\
+  \ dai tanti amici che in questa settimana si sono presentati in OBM.""
+url: https://www.facebook.com/400453129313/posts/10160275267644314/?sfnsn=scwspmo
+address:
+  mode: autocomplete
+  address:
+    place_id: 208609040
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 478299137
+    boundingbox:
+    - '45.4848213'
+    - '45.4865785'
+    - '9.1653918'
+    - '9.1678818'
+    lat: '45.4858443'
+    lon: '9.166968895924526'
+    display_name: Ospedale dei Bambini ""Vittore Buzzi"", 28, Via Lodovico Castelvetro,
+      Sarpi, Municipio 8, Milano, Lombardia, 20154, Italia
+    class: amenity
+    type: hospital
+    importance: 0.31100000000000005
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//health_hospital.p.20.png
+    address:
+      amenity: Ospedale dei Bambini ""Vittore Buzzi""
+      house_number: '28'
+      road: Via Lodovico Castelvetro
+      quarter: Sarpi
+      suburb: Municipio 8
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20154'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/91,1167371395,2022-03-12 22:40:35,2022-03-12 19:02:03,Sul sito dell'associazione Naga di Milano tutte le info utili per i rifugiati ucraini ,45.4451631,9.1808968,Lombardia,Milano,"[""Valid/Accettato"", ""News"", ""Services"", ""Legal"", ""hospitality"", ""healtcare""]",,,"{""Posizione"": ""45.4451631 9.1808968"", ""description"": ""Elenco di info utili e contatti su permesso di soggiorno, assistenza sanitaria, protezione rifugiati, accoglienza e alloggi, raccolta fondi \u00c8 beni e altri tipi di aiuto. \nAnche in ucraino, russo e inglese."", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""news"", ""link"": ""https://naga.it/2022/03/11/crisi-ucraina-info-utili/"", ""location"": {""address"": {""address"": {""city"": ""Milano"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Milano"", ""postcode"": ""20136"", ""quarter"": ""Ticinese"", ""road"": ""Via Ludovico Lazzaro Zamenhof"", ""state"": ""Lombardia"", ""suburb"": ""Municipio 5""}, ""boundingbox"": [""45.4451531"", ""45.4453305"", ""9.1808031"", ""9.1824142""], ""class"": ""highway"", ""display_name"": ""Via Ludovico Lazzaro Zamenhof, Ticinese, Municipio 5, Milano, Lombardia, 20136, Italia"", ""importance"": 0.6199999999999999, ""lat"": ""45.4451631"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""9.1808968"", ""osm_id"": 36972104, ""osm_type"": ""way"", ""place_id"": 111490645, ""type"": ""unclassified""}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""Sul sito dell'associazione Naga di Milano tutte le info utili per i rifugiati ucraini che arrivano in Italia""}","<pre><yamldata>
 title: Sul sito dell'associazione Naga di Milano tutte le info utili per i rifugiati
   ucraini che arrivano in Italia
