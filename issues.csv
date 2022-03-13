@@ -1,4 +1,71 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/65,1165382235,2022-03-13 20:07:27,2022-03-10 15:35:53,Comitato Salva Ucraini di Palermo attiva raccolta beni per profughi ucraini e raccoglie disponibilità all'ospitalità,,,,,"[""Valid/Accettato"", ""Services"", ""materialGoods""]",,,"{""address"": {""address"": {""address"": {""city"": ""Palermo"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Palermo"", ""postcode"": ""90143"", ""road"": ""Via Generale Eugenio di Maria"", ""state"": ""Sicilia"", ""suburb"": ""VIII Circoscrizione""}, ""boundingbox"": [""38.1309854"", ""38.1318817"", ""13.3425549"", ""13.3430888""], ""class"": ""highway"", ""display_name"": ""Via Generale Eugenio di Maria, VIII Circoscrizione, Palermo, Sicilia, 90143, Italia"", ""importance"": 0.61, ""lat"": ""38.1315461"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""13.3427395"", ""osm_id"": 86106882, ""osm_type"": ""way"", ""place_id"": 121827517, ""type"": ""residential""}, ""mode"": ""autocomplete""}, ""description"": ""Il Comitato Salva Ucraini di Palermo ha attivato una raccolta di beni per i profughi ucraini, dal luned\u00ec al venerd\u00ec negli orari 10:00 - 13:00 e 17:00 -19:00, in via Eugenio Di Maria n. 25 presso l'associazione Culturale Jim\u00e9nez.\nSi raccolgono i seguenti beni di prima necessit\u00e0 in buono stato di conservazione e pulizia:\n\ud83d\udccc  Vestiario per adulti e bambini (indicando se maschile o femminile, adulto - bambino e la taglia);\n\ud83d\udccc  Generi alimentari a lunga conservazione (no freschi o deperibili);\n\ud83d\udccc  Prodotti di pulizia, igiene e disinfezione;\n\ud83d\udccc  Medicinali da banco ricaricabili senza prescrizione medica;\n\ud83d\udccc  Giocattoli e attrezzature o accessori per la cura dell'infanzia (culle, passeggini etc)\n\ud83d\udccc  Lenzuola, coperte, etc\n\nDescrivere per favore sul pacco il contenuto (es. \u201cvestiti bimbo 4 anni\u201d o \u201ccoperte per adulti\u201d).\n\nInoltre il comitato cerca volontari che possano aiutare nella raccolta e in altre attivit\u00e0."", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Comitato Salva Ucraini Palermo"", ""recipients"": ""cittadini di Palermo"", ""submit"": true, ""title"": ""Comitato Salva Ucraini di Palermo ha attivato una raccolta di beni per i profughi ucraini"", ""type"": ""materialGoods"", ""url"": ""https://t.me/ucraini_a_palermo/6""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: Comitato Salva Ucraini Palermo
+title: Comitato Salva Ucraini di Palermo ha attivato una raccolta di beni per i profughi
+  ucraini
+recipients: cittadini di Palermo
+description: 'Il Comitato Salva Ucraini di Palermo ha attivato una raccolta di beni
+  per i profughi ucraini, dal lunedì al venerdì negli orari 10:00 - 13:00 e 17:00
+  -19:00, in via Eugenio Di Maria n. 25 presso l''associazione Culturale Jiménez.
+
+  Si raccolgono i seguenti beni di prima necessità in buono stato di conservazione
+  e pulizia:
+
+  📌  Vestiario per adulti e bambini (indicando se maschile o femminile, adulto - bambino
+  e la taglia);
+
+  📌  Generi alimentari a lunga conservazione (no freschi o deperibili);
+
+  📌  Prodotti di pulizia, igiene e disinfezione;
+
+  📌  Medicinali da banco ricaricabili senza prescrizione medica;
+
+  📌  Giocattoli e attrezzature o accessori per la cura dell''infanzia (culle, passeggini
+  etc)
+
+  📌  Lenzuola, coperte, etc
+
+
+  Descrivere per favore sul pacco il contenuto (es. “vestiti bimbo 4 anni” o “coperte
+  per adulti”).
+
+
+  Inoltre il comitato cerca volontari che possano aiutare nella raccolta e in altre
+  attività.'
+url: https://t.me/ucraini_a_palermo/6
+address:
+  mode: autocomplete
+  address:
+    place_id: 121827517
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 86106882
+    boundingbox:
+    - '38.1309854'
+    - '38.1318817'
+    - '13.3425549'
+    - '13.3430888'
+    lat: '38.1315461'
+    lon: '13.3427395'
+    display_name: Via Generale Eugenio di Maria, VIII Circoscrizione, Palermo, Sicilia,
+      90143, Italia
+    class: highway
+    type: residential
+    importance: 0.61
+    address:
+      road: Via Generale Eugenio di Maria
+      suburb: VIII Circoscrizione
+      city: Palermo
+      county: Palermo
+      state: Sicilia
+      postcode: '90143'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/124,1167627305,2022-03-13 16:27:03,2022-03-13 16:26:38,Marino Bus offre viaggi gratuiti ai rifugiati ucraini sulle tratte in Italia,,,,,"[""Valid/Accettato"", ""News"", ""Services"", ""transport""]",,,"{""address"": {""address"": {""address"": {""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Bari"", ""postcode"": ""70022"", ""state"": ""Puglia"", ""town"": ""Altamura""}, ""boundingbox"": [""40.7259607"", ""40.979833"", ""16.3444376"", ""16.6989722""], ""class"": ""boundary"", ""display_name"": ""Altamura, Bari, Puglia, 70022, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"", ""importance"": 0.7042276908245931, ""lat"": ""40.8285595"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""16.5527314"", ""osm_id"": 40743, ""osm_type"": ""relation"", ""place_id"": 283876132, ""type"": ""administrative""}, ""mode"": ""autocomplete""}, ""description"": ""C'\u00e8 un momento in cui occorre fare di pi\u00f9. E il momento \u00e8 arrivato.\nTutte le profughe e i profughi dalle zone del conflitto in Ucraina hanno la possibilit\u00e0 di viaggiare gratuitamente sulle tratte MARINOBUS in Italia.\nPer informazioni e per richiedere un trasferimento sar\u00e0 necessario contattare SEMPRE il nostro Servizio Clienti al +39 0803112335.\n\nLe linee esercitate giornalmente da MarinoBus collegano:\n\ud83d\udccd le principali localit\u00e0 del Nord Italia \n\ud83d\udccd per il Centro e Sud Italia \n(quasi 200 localit\u00e0 in Puglia e Basilicata e le principali localit\u00e0 di Campania e Calabria)."", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Marino Bus"", ""recipients"": """", ""submit"": true, ""title"": ""Marino Bus offre viaggi gratuiti ai rifugiati ucraini sulle tratte in Italia"", ""type"": ""travelTransport"", ""url"": ""https://www.facebook.com/105621949530610/posts/4864086140350810/""}","<pre><yamldata>
 type: travelTransport
 offerFromWho: Marino Bus
@@ -2371,73 +2438,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: help
 submit: true
 Posizione: 45.5324692 10.2303062
-</yamldata></pre>",open
-https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/65,1165382235,2022-03-10 22:18:03,2022-03-10 15:35:53,Comitato Salva Ucraini di Palermo ha attivato una raccolta di beni per i profughi ucraini,,,,,"[""Valid/Accettato"", ""Services"", ""materialGoods""]",,,"{""address"": {""address"": {""address"": {""city"": ""Palermo"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Palermo"", ""postcode"": ""90143"", ""road"": ""Via Generale Eugenio di Maria"", ""state"": ""Sicilia"", ""suburb"": ""VIII Circoscrizione""}, ""boundingbox"": [""38.1309854"", ""38.1318817"", ""13.3425549"", ""13.3430888""], ""class"": ""highway"", ""display_name"": ""Via Generale Eugenio di Maria, VIII Circoscrizione, Palermo, Sicilia, 90143, Italia"", ""importance"": 0.61, ""lat"": ""38.1315461"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""13.3427395"", ""osm_id"": 86106882, ""osm_type"": ""way"", ""place_id"": 121827517, ""type"": ""residential""}, ""mode"": ""autocomplete""}, ""description"": ""Il Comitato Salva Ucraini di Palermo ha attivato una raccolta di beni per i profughi ucraini, dal luned\u00ec al venerd\u00ec negli orari 10:00 - 13:00 e 17:00 -19:00, in via Eugenio Di Maria n. 25 presso l'associazione Culturale Jim\u00e9nez.\nSi raccolgono i seguenti beni di prima necessit\u00e0 in buono stato di conservazione e pulizia:\n\ud83d\udccc  Vestiario per adulti e bambini (indicando se maschile o femminile, adulto - bambino e la taglia);\n\ud83d\udccc  Generi alimentari a lunga conservazione (no freschi o deperibili);\n\ud83d\udccc  Prodotti di pulizia, igiene e disinfezione;\n\ud83d\udccc  Medicinali da banco ricaricabili senza prescrizione medica;\n\ud83d\udccc  Giocattoli e attrezzature o accessori per la cura dell'infanzia (culle, passeggini etc)\n\ud83d\udccc  Lenzuola, coperte, etc\n\nDescrivere per favore sul pacco il contenuto (es. \u201cvestiti bimbo 4 anni\u201d o \u201ccoperte per adulti\u201d).\n\nInoltre il comitato cerca volontari che possano aiutare nella raccolta e in altre attivit\u00e0."", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Comitato Salva Ucraini Palermo"", ""recipients"": ""cittadini di Palermo"", ""submit"": true, ""title"": ""Comitato Salva Ucraini di Palermo ha attivato una raccolta di beni per i profughi ucraini"", ""type"": ""materialGoods"", ""url"": ""https://t.me/ucraini_a_palermo/6""}","<pre><yamldata>
-type: materialGoods
-offerFromWho: Comitato Salva Ucraini Palermo
-title: Comitato Salva Ucraini di Palermo ha attivato una raccolta di beni per i profughi
-  ucraini
-recipients: cittadini di Palermo
-description: 'Il Comitato Salva Ucraini di Palermo ha attivato una raccolta di beni
-  per i profughi ucraini, dal lunedì al venerdì negli orari 10:00 - 13:00 e 17:00
-  -19:00, in via Eugenio Di Maria n. 25 presso l''associazione Culturale Jiménez.
-
-  Si raccolgono i seguenti beni di prima necessità in buono stato di conservazione
-  e pulizia:
-
-  📌  Vestiario per adulti e bambini (indicando se maschile o femminile, adulto - bambino
-  e la taglia);
-
-  📌  Generi alimentari a lunga conservazione (no freschi o deperibili);
-
-  📌  Prodotti di pulizia, igiene e disinfezione;
-
-  📌  Medicinali da banco ricaricabili senza prescrizione medica;
-
-  📌  Giocattoli e attrezzature o accessori per la cura dell''infanzia (culle, passeggini
-  etc)
-
-  📌  Lenzuola, coperte, etc
-
-
-  Descrivere per favore sul pacco il contenuto (es. “vestiti bimbo 4 anni” o “coperte
-  per adulti”).
-
-
-  Inoltre il comitato cerca volontari che possano aiutare nella raccolta e in altre
-  attività.'
-url: https://t.me/ucraini_a_palermo/6
-address:
-  mode: autocomplete
-  address:
-    place_id: 121827517
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 86106882
-    boundingbox:
-    - '38.1309854'
-    - '38.1318817'
-    - '13.3425549'
-    - '13.3430888'
-    lat: '38.1315461'
-    lon: '13.3427395'
-    display_name: Via Generale Eugenio di Maria, VIII Circoscrizione, Palermo, Sicilia,
-      90143, Italia
-    class: highway
-    type: residential
-    importance: 0.61
-    address:
-      road: Via Generale Eugenio di Maria
-      suburb: VIII Circoscrizione
-      city: Palermo
-      county: Palermo
-      state: Sicilia
-      postcode: '90143'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/europehelp.info_segnalazioni/issues/63,1164577161,2022-03-10 22:10:19,2022-03-09 23:59:10,MEDU - Medici per i diritti umani apre raccolta fondi per emergenza Ucraina,41.8933203,12.4829321,Lazio,Roma,"[""Valid/Accettato"", ""fundraising""]",,,"{""Posizione"": ""41.8933203 12.4829321"", ""bicSwift"": ""CCRTIT2T84A"", ""causal"": ""EMERGENZA  UCRAINA"", ""ccPostal"": """", ""description"": ""Raccolta fondi sostenere gli interventi di MEDU in Italia ed in Romania. Info qui: https://mediciperidirittiumani.org/emergenza-ucraina-aiutaci-a-fare-la-nostra-parte/"", ""email"": ""comunicazione@mediciperidirittiumani.org"", ""heading"": ""Medici per i Diritti Umani"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""iban"": ""IT38F0501803200000011130242"", ""label"": ""fundraising"", ""link"": ""https://mediciperidirittiumani.org/sostieni/?fbclid=IwAR3Tf0M0mRplWwkVsS6pUJHSKW233aWhbJ4FpKWxSR9jurcl_k_4iT5xxfc#dona"", ""location"": {""address"": {""address"": {""city"": ""Roma"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Roma Capitale"", ""state"": ""Lazio""}, ""boundingbox"": [""41.6556417"", ""42.1410285"", ""12.2344669"", ""12.8557603""], ""class"": ""boundary"", ""display_name"": ""Roma, Roma Capitale, Lazio, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"", ""importance"": 0.7896107180689524, ""lat"": ""41.8933203"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""12.4829321"", ""osm_id"": 41485, ""osm_type"": ""relation"", ""place_id"": 283767136, ""type"": ""administrative""}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""MEDU - Medici per i diritti umani""}","<pre><yamldata>
 title: MEDU - Medici per i diritti umani
