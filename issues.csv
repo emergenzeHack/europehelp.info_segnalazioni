@@ -1,4 +1,50 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/134,1168644134,2022-03-14 20:43:27,2022-03-14 16:47:07,A Roma attivo help center di Croce Rossa per i rifugiati ucraini,,,,,"[""Valid/Accettato"", ""Services"", ""useful contact"", ""materialGoods"", ""Translation""]",,,"{""address"": {""address"": {""address"": {""city"": ""Roma"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Roma Capitale"", ""house_number"": ""18"", ""office"": ""Associazione della Croce Rossa Italiana - Comitato Municipi 8 - 11 - 12"", ""postcode"": ""00100"", ""road"": ""Via Antonio Pacinotti"", ""state"": ""Lazio"", ""suburb"": ""Municipio Roma XI""}, ""boundingbox"": [""41.8709875"", ""41.8710875"", ""12.4690356"", ""12.4691356""], ""class"": ""office"", ""display_name"": ""Associazione della Croce Rossa Italiana - Comitato Municipi 8 - 11 - 12, 18, Via Antonio Pacinotti, Municipio Roma XI, Roma, Roma Capitale, Lazio, 00100, Italia"", ""importance"": 0.42099999999999993, ""lat"": ""41.8710375"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""12.4690856"", ""osm_id"": 7924233508, ""osm_type"": ""node"", ""place_id"": 81569297, ""type"": ""association""}, ""mode"": ""autocomplete""}, ""description"": ""A Roma, in via Pacinotti 18, help center di Croce Rossa per i rifugiati ucraini che offre:\n- orientamento ai servizi sul territorio \n- donazione di beni\n- supporto alimentare\n- mediazione linguistica\n\nApertura: luned\u00ec-venerd\u00ec, ore 10-17.\n\nPer contatti: 3428102303 - 06 35403823 - 800 065510"", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Croce Rossa Roma"", ""recipients"": """", ""submit"": true, ""title"": ""A Roma attivo help center di Croce Rossa per i rifugiati ucraini"", ""type"": ""materialGoods"", ""url"": ""https://twitter.com/ukrinit/status/1503372513228824581?s=21""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: Croce Rossa Roma
+title: A Roma attivo help center di Croce Rossa per i rifugiati ucraini
+recipients: ''
+description: ""A Roma, in via Pacinotti 18, help center di Croce Rossa per i rifugiati\
+  \ ucraini che offre:\n- orientamento ai servizi sul territorio \n- donazione di\
+  \ beni\n- supporto alimentare\n- mediazione linguistica\n\nApertura: lunedì-venerdì,\
+  \ ore 10-17.\n\nPer contatti: 3428102303 - 06 35403823 - 800 065510""
+url: https://twitter.com/ukrinit/status/1503372513228824581?s=21
+address:
+  mode: autocomplete
+  address:
+    place_id: 81569297
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 7924233508
+    boundingbox:
+    - '41.8709875'
+    - '41.8710875'
+    - '12.4690356'
+    - '12.4691356'
+    lat: '41.8710375'
+    lon: '12.4690856'
+    display_name: Associazione della Croce Rossa Italiana - Comitato Municipi 8 -
+      11 - 12, 18, Via Antonio Pacinotti, Municipio Roma XI, Roma, Roma Capitale,
+      Lazio, 00100, Italia
+    class: office
+    type: association
+    importance: 0.42099999999999993
+    address:
+      office: Associazione della Croce Rossa Italiana - Comitato Municipi 8 - 11 -
+        12
+      house_number: '18'
+      road: Via Antonio Pacinotti
+      suburb: Municipio Roma XI
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: '00100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/136,1168870625,2022-03-14 20:30:39,2022-03-14 20:28:50,Vocabolario Interattivo Parlante Ucraino - italiano- inglese per i bambini e gli insegnanti ,,,,,"[""Valid/Accettato"", ""Services"", ""Translation"", ""Children""]",,,"{""address"": {""address"": {}, ""mode"": ""autocomplete""}, ""description"": ""Vocabolario Interattivo Parlante. \nLeggete con attenzione le istruzioni inserite all\u2019interno della risorsa!\nCliccando sui vari oggetti presenti nelle varie stanze potrete ascoltare l\u2019audio della parola in italiano e potrete leggere la rispettiva parola in italiano, in ucraino e inglese. L\u2019audio, al momento, non \u00e8 attivo da dispositivi mobili Apple."", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Play and Learn Italy"", ""recipients"": ""Bambini"", ""submit"": true, ""title"": ""Vocabolario Interattivo Parlante Ucraino - italiano- inglese per le scuole"", ""type"": ""children"", ""url"": ""https://playandlearnitalia.com/vocabolario-interattivo-parlante-italo-ucraino/""}","<pre><yamldata>
 type: children
 offerFromWho: Play and Learn Italy
