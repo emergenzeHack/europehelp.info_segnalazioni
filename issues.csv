@@ -1,4 +1,98 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/130,1168429240,2022-03-14 15:15:49,2022-03-14 14:06:23,HelpingToLeave: piattaforma con info aggiornate su trasporti e altro per uscire dall'Ucraina,49.4871968,31.2718321,,,"[""Valid/Accettato"", ""News"", ""Services"", ""useful contact"", ""transport""]",,,"{""Posizione"": ""49.4871968 31.2718321"", ""description"": ""Helping to leave, piattaforma ucraina con info aggiornate su trasporti (bus, treni, auto private e altro) e altri servizi per aiutare i cittadini ucraini ad uscire dall'Ucraina. Solo in lingua ucraina.\nDisponibile a che canale Telegram in continuo aggiornamento: https://t.me/huiiivoiiine"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""news"", ""link"": ""https://helpingtoleave.org"", ""location"": {""address"": {""address"": {""country"": ""Ucraina"", ""country_code"": ""ua""}, ""boundingbox"": [""44.184598"", ""52.3797464"", ""22.137059"", ""40.2275801""], ""class"": ""boundary"", ""display_name"": ""Ucraina"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"", ""importance"": 0.8164442439164168, ""lat"": ""49.4871968"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""31.2718321"", ""osm_id"": 60199, ""osm_type"": ""relation"", ""place_id"": 283553033, ""type"": ""administrative""}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""HelpingToLeave: piattaforma con info aggiornate su trasporti e altro per uscire dall'Ucraina""}","<pre><yamldata>
+title: 'HelpingToLeave: piattaforma con info aggiornate su trasporti e altro per uscire
+  dall''Ucraina'
+description: 'Helping to leave, piattaforma ucraina con info aggiornate su trasporti
+  (bus, treni, auto private e altro) e altri servizi per aiutare i cittadini ucraini
+  ad uscire dall''Ucraina. Solo in lingua ucraina.
+
+  Disponibile a che canale Telegram in continuo aggiornamento: https://t.me/huiiivoiiine'
+link: https://helpingtoleave.org
+location:
+  mode: autocomplete
+  address:
+    place_id: 283553033
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 60199
+    boundingbox:
+    - '44.184598'
+    - '52.3797464'
+    - '22.137059'
+    - '40.2275801'
+    lat: '49.4871968'
+    lon: '31.2718321'
+    display_name: Ucraina
+    class: boundary
+    type: administrative
+    importance: 0.8164442439164168
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      country: Ucraina
+      country_code: ua
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 49.4871968 31.2718321
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/129,1168401820,2022-03-14 15:14:57,2022-03-14 13:45:26,Comune di Milano: info per rifugiati ucraini che cercano alloggio,,,,,"[""Valid/Accettato"", ""News"", ""Services"", ""hospitality""]",,,"{""address"": {""address"": {""address"": {""city"": ""Milano"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Milano"", ""house_number"": ""12"", ""neighbourhood"": ""Duomo"", ""postcode"": ""20122"", ""road"": ""Piazza del Duomo"", ""state"": ""Lombardia"", ""suburb"": ""Municipio 1"", ""tourism"": ""Palazzo Reale""}, ""boundingbox"": [""45.4630907"", ""45.4631907"", ""9.1911802"", ""9.1912802""], ""class"": ""tourism"", ""display_name"": ""Palazzo Reale, 12, Piazza del Duomo, Duomo, Municipio 1, Milano, Lombardia, 20122, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//tourist_museum.p.20.png"", ""importance"": 0.6382492632678067, ""lat"": ""45.4631407"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""9.1912302"", ""osm_id"": 9551908512, ""osm_type"": ""node"", ""place_id"": 331963027, ""type"": ""museum""}, ""mode"": ""autocomplete""}, ""description"": ""Le persone ucraine che hanno necessit\u00e0 di essere alloggiate, dovranno contattare la centrale operativa regionale al numero verde 800-894545 e fornire informazioni relative al nucleo familiare da accogliere.\nLa gestione dell\u2019accoglienza sar\u00e0 poi assicurata dalle Prefetture lombarde competenti, anche sulla base di eventuali legami amicali o familiari presenti sul territorio regionale.\n\n    Per i cittadini ucraini che arrivano spontaneamente in Stazione Centrale \u00e8 presente H24 un InfoPoint della Protezione Civile, e da luned\u00ec anche un punto tamponi, che fornisce tutte le informazioni di base e provvede a segnalare eventuali necessit\u00e0 alloggiative alla Prefettura di Milano, per la successiva gestione.\n\nPer i cittadini ucraini che arrivano in pullman, eventuali passaggieri che necessitano di accoglienza dovranno contattare il numero verde regionale in modo da segnalare eventuali esigenze alloggiative e contatti personali che verranno poi trasmessi alla Prefettura in modo da consentire l\u2019individuazione di una soluzione alloggiativa adeguata.\n\nOltre al numero regionale \u00e8 possibile contattare anche il numero di telefono 02.02.02 del Comune di Milano, che provveder\u00e0 ad assicurare ogni utile informazione e a fornire i contatti degli enti competenti per i differenti profili."", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Comune di Milano"", ""recipients"": """", ""submit"": true, ""title"": ""Comune di Milano: info per rifugiati ucraini che cercano alloggio"", ""type"": ""hospitality"", ""url"": ""https://www.comune.milano.it/web/milanoaiuta/per-chi-cerca-un-alloggio""}","<pre><yamldata>
+type: hospitality
+offerFromWho: Comune di Milano
+title: 'Comune di Milano: info per rifugiati ucraini che cercano alloggio'
+recipients: ''
+description: ""Le persone ucraine che hanno necessità di essere alloggiate, dovranno\
+  \ contattare la centrale operativa regionale al numero verde 800-894545 e fornire\
+  \ informazioni relative al nucleo familiare da accogliere.\nLa gestione dell’accoglienza\
+  \ sarà poi assicurata dalle Prefetture lombarde competenti, anche sulla base di\
+  \ eventuali legami amicali o familiari presenti sul territorio regionale.\n\n  \
+  \  Per i cittadini ucraini che arrivano spontaneamente in Stazione Centrale è presente\
+  \ H24 un InfoPoint della Protezione Civile, e da lunedì anche un punto tamponi,\
+  \ che fornisce tutte le informazioni di base e provvede a segnalare eventuali necessità\
+  \ alloggiative alla Prefettura di Milano, per la successiva gestione.\n\nPer i cittadini\
+  \ ucraini che arrivano in pullman, eventuali passaggieri che necessitano di accoglienza\
+  \ dovranno contattare il numero verde regionale in modo da segnalare eventuali esigenze\
+  \ alloggiative e contatti personali che verranno poi trasmessi alla Prefettura in\
+  \ modo da consentire l’individuazione di una soluzione alloggiativa adeguata.\n\n\
+  Oltre al numero regionale è possibile contattare anche il numero di telefono 02.02.02\
+  \ del Comune di Milano, che provvederà ad assicurare ogni utile informazione e a\
+  \ fornire i contatti degli enti competenti per i differenti profili.""
+url: https://www.comune.milano.it/web/milanoaiuta/per-chi-cerca-un-alloggio
+address:
+  mode: autocomplete
+  address:
+    place_id: 331963027
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 9551908512
+    boundingbox:
+    - '45.4630907'
+    - '45.4631907'
+    - '9.1911802'
+    - '9.1912802'
+    lat: '45.4631407'
+    lon: '9.1912302'
+    display_name: Palazzo Reale, 12, Piazza del Duomo, Duomo, Municipio 1, Milano,
+      Lombardia, 20122, Italia
+    class: tourism
+    type: museum
+    importance: 0.6382492632678067
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//tourist_museum.p.20.png
+    address:
+      tourism: Palazzo Reale
+      house_number: '12'
+      road: Piazza del Duomo
+      neighbourhood: Duomo
+      suburb: Municipio 1
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/127,1167957261,2022-03-14 09:43:46,2022-03-14 06:45:35,Scritte in ucraino affiancate ad immagini grafica  (Tavole di Comunicazione Aumentativa Alternativa),,,,,"[""Valid/Accettato"", ""Services"", ""healtcare"", ""Translation""]",,,"{""address"": {""address"": {""address"": {""country"": ""Italia"", ""country_code"": ""it"", ""state"": ""Lombardia""}, ""boundingbox"": [""44.6799091"", ""46.6353523"", ""8.4978518"", ""11.4276477""], ""class"": ""boundary"", ""display_name"": ""Lombardia, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"", ""importance"": 0.8057635580731121, ""lat"": ""45.5703694"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""9.7732524"", ""osm_id"": 44879, ""osm_type"": ""relation"", ""place_id"": 283756175, ""type"": ""administrative""}, ""mode"": ""autocomplete""}, ""description"": ""da Anci Lombardia Salute Tavole di Comunicazione Aumentativa Alternativa per l'accoglienza \ncon le scritte in ucraino affiancate ad immagini grafica che ne esplicano il significato, a supporto delle attivit\u00e0 di accoglienza in cui tutti, a partire dai Comuni, sono coinvolti in questi giorni."", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""ANCI Lombardia"", ""recipients"": """", ""submit"": true, ""title"": ""Tavole di Comunicazione Aumentativa Alternativa"", ""type"": ""healthcare"", ""url"": ""https://anci.lombardia.it/dettaglio-news/20223101457-emergenza-ucraina-anci-lombardia-salute-elabora-tavole-di-comunicazione-aumentativa-e-alternativa-a-supporto-delle-attivit%C3%A0-di-accoglienza/?fbclid=IwAR2S0wvdmQ4SllnnvU9VrT9wSygdk3LhZHjpbHctvd4W8Eceab3nUgmR8iI""}","<pre><yamldata>
 type: healthcare
 offerFromWho: ANCI Lombardia
@@ -34,21 +128,6 @@ address:
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/126,1167950161,2022-03-14 06:35:48,2022-03-14 06:34:13,Dataset news su guerra in Ucraina,,,,,"[""Valid/Accettato"", ""News"", ""document_data""]",,,"{""description"": ""Utilizza algoritmo che estrae e analizza da una serie di testate tutti gli articoli che parlano della guerra in Ucraina.\nIl risultato \u00e8 un'enorme dataset che consente di raccontare l'invasione nel suo insieme"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""news"", ""link"": ""https://bit.ly/3J659kj"", ""location"": {""address"": {}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""Dataset news su guerra in Ucraina""}","<pre><yamldata>
-title: Dataset news su guerra in Ucraina
-description: 'Utilizza algoritmo che estrae e analizza da una serie di testate tutti
-  gli articoli che parlano della guerra in Ucraina.
-
-  Il risultato è un''enorme dataset che consente di raccontare l''invasione nel suo
-  insieme'
-link: https://bit.ly/3J659kj
-location:
-  mode: autocomplete
-  address: {}
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/108,1167409582,2022-03-14 06:23:17,2022-03-12 21:46:35,Cultural heritage sites in Ukraine destroyed or damaged by the conflict,49.4871968,31.2718321,,,"[""Valid/Accettato"", ""News"", ""document_data""]",,,"{""Posizione"": ""49.4871968 31.2718321"", ""description"": ""The Ukrainian Ministry of Culture called to collect information about the cultural heritage sites in Ukraine destroyed or damaged by the conflict.\nPhoto and video evidence is requested to be sent to the Ministry of Culture through the website culturecrimes.mkip.gov.ua."", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""news"", ""link"": ""http://culturecrimes.mkip.gov.ua/"", ""location"": {""address"": {""address"": {""country"": ""Ucraina"", ""country_code"": ""ua""}, ""boundingbox"": [""44.184598"", ""52.3797464"", ""22.137059"", ""40.2275801""], ""class"": ""boundary"", ""display_name"": ""Ucraina"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"", ""importance"": 0.8164442439164168, ""lat"": ""49.4871968"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""31.2718321"", ""osm_id"": 60199, ""osm_type"": ""relation"", ""place_id"": 283553033, ""type"": ""administrative""}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""Cultural heritage sites in Ukraine destroyed or damaged by the conflict""}","<pre><yamldata>
