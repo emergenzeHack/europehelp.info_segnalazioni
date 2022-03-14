@@ -165,7 +165,7 @@ def write_json_file(issues):
             jsonarray.append(get_json_issue(issue, gh_issue))
 
         logger.info("[JSON] Total issues: %d", len(jsonarray))
-        output_file.write(json.dumps(jsonarray, ensure_ascii=False, sort_keys=True))
+        output_file.write(json.dumps(jsonarray, ensure_ascii=False, sort_keys=True, separators=(',', ':')))
     # move temp file to final one
     Path(TMPJSONFILE).rename(JSONFILE)
 
@@ -192,7 +192,7 @@ def write_geojson_file(issues):
 
         logger.info("[GeoJSON] Total issues: %d", len(geojsonarray))
         output_file.write(str('{ "type": "FeatureCollection", "features": '))
-        output_file.write(json.dumps(geojsonarray, ensure_ascii=False, sort_keys=True) + "}")
+        output_file.write(json.dumps(geojsonarray, ensure_ascii=False, sort_keys=True, separators=(',', ':')) + "}")
     # move temp file to final one
     Path(TMPGEOJSONFILE).rename(GEOJSONFILE)
 
@@ -200,7 +200,7 @@ def get_csv_issue(issue, gh_issue):
     return (
         gh_issue.html_url, gh_issue.id, gh_issue.updated_at, gh_issue.created_at,
         issue["title"], issue["lat"], issue["lon"], issue["regioneIssue"], issue["provinciaIssue"],
-        issue["labels"], gh_issue.milestone, issue["image"], json.dumps(issue["data"], sort_keys=True),
+        issue["labels"], gh_issue.milestone, issue["image"], json.dumps(issue["data"], sort_keys=True, separators=(',', ':')),
         gh_issue.body, gh_issue.state
     )
 
@@ -299,7 +299,7 @@ if __name__ == "__main__":
     geojsonarray = []
 
     for issue in issues:
-        labels = json.dumps([l.name for l in issue.labels])
+        labels = json.dumps([l.name for l in issue.labels], separators=(',', ':'))
         data = {}
         lat = lon = image = regioneIssue = provinciaIssue = None
 
