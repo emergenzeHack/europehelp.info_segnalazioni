@@ -1,4 +1,153 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/81,1167338911,2022-03-14 16:30:27,2022-03-12 16:52:13,A Verona Associazione Malve di Ucraina cerca alloggi e professionisti per supporto rifugiati ucraini,45.4384958,10.9924122,Veneto,Verona,"[""Valid/Accettato"", ""Help"", ""hospitality""]",,,"{""Posizione"": ""45.4384958 10.9924122"", ""description"": ""A Verona l\u2019associazione Malve di Ucraina ha bisogno di raccogliere denaro per sostenere le spese di trasporto di beni umanitari. E poi cerca famiglie che possano ospitare i rifugiati ucraini in arrivo. Inoltre ha bisogno di professionisti che possano offrire supporto (in particolare mediatori linguistici, medici, insegnanti, parrucchieri) e aziende che offrano lavoro ai rifugiati."", ""email"": ""malve.verona@gmail.com"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""help"", ""location"": {""address"": {""address"": {""city"": ""Verona"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Verona"", ""postcode"": ""37122"", ""state"": ""Veneto""}, ""boundingbox"": [""45.2784958"", ""45.5984958"", ""10.8324122"", ""11.1524122""], ""class"": ""place"", ""display_name"": ""Verona, Veneto, 37122, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"", ""importance"": 0.7561573888828526, ""lat"": ""45.4384958"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""10.9924122"", ""osm_id"": 64778101, ""osm_type"": ""node"", ""place_id"": 286299859, ""type"": ""city""}, ""mode"": ""autocomplete""}, ""nameSurname"": ""Associazione Malve di Ucraina"", ""phoneNumber"": """", ""recipients"": """", ""submit"": true, ""title"": ""A Verona Associazione Malve di Ucraina cerca alloggi e professionisti che possano supportare rifugiati ucraini"", ""url"": ""https://www.facebook.com/675754522486226/posts/5102255149836119/""}","<pre><yamldata>
+nameSurname: Associazione Malve di Ucraina
+phoneNumber: ''
+email: malve.verona@gmail.com
+title: A Verona Associazione Malve di Ucraina cerca alloggi e professionisti che possano
+  supportare rifugiati ucraini
+recipients: ''
+description: A Verona l’associazione Malve di Ucraina ha bisogno di raccogliere denaro
+  per sostenere le spese di trasporto di beni umanitari. E poi cerca famiglie che
+  possano ospitare i rifugiati ucraini in arrivo. Inoltre ha bisogno di professionisti
+  che possano offrire supporto (in particolare mediatori linguistici, medici, insegnanti,
+  parrucchieri) e aziende che offrano lavoro ai rifugiati.
+url: https://www.facebook.com/675754522486226/posts/5102255149836119/
+location:
+  mode: autocomplete
+  address:
+    place_id: 286299859
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 64778101
+    boundingbox:
+    - '45.2784958'
+    - '45.5984958'
+    - '10.8324122'
+    - '11.1524122'
+    lat: '45.4384958'
+    lon: '10.9924122'
+    display_name: Verona, Veneto, 37122, Italia
+    class: place
+    type: city
+    importance: 0.7561573888828526
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Verona
+      county: Verona
+      state: Veneto
+      postcode: '37122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 45.4384958 10.9924122
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/82,1167351821,2022-03-14 16:30:12,2022-03-12 17:46:10,Comune di Valsamoggia cerca alloggi per rifugiati ucraini,44.439823649999994,11.059274991313368,Emilia-Romagna,Bologna,"[""Valid/Accettato"", ""Help"", ""hospitality""]",,,"{""Posizione"": ""44.439823649999994 11.059274991313368"", ""description"": ""\u00c8 possibile segnalare via mail (sindaco@comune.valsamoggia.bo.it) le disponibilit\u00e0 di appartamenti e case vuote, che siano disponibili per un orizzonte temporale di almeno 6 mesi; per accelerare la valutazione, chiediamo di specificare ogni informazione utile (prossimit\u00e0 al trasporto pubblico, eventuali arredi, stato delle utenze...). Tutti gli immobili saranno oggetto di contratto di affitto con il gestore, relative assicurazioni e volture/pagamenti utenze. Una volta inserite, le persone saranno seguite da personale dedicato.\nInoltre il Comune di Valsamoggia sta raccogliendo e monitorando le disponibilit\u00e0 di camere per accogliere persone in famiglia, una possibilit\u00e0 che per\u00f2 sar\u00e0 attivata tramite un percorso (progetto Vesta, gestito da ASP Bologna) gi\u00e0 strutturato sul nostro territorio per l'accoglienza di giovani rifugiati e di minori stranieri non accompagnati, che in questa emergenza \u00e8 diventato il riferimento anche per l'ospitalit\u00e0 di adulti."", ""email"": ""sindaco@comune.valsamoggia.bo.it"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""help"", ""location"": {""address"": {""address"": {""city"": ""Valsamoggia"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Bologna"", ""municipality"": ""Unione dei comuni Valli del Reno, Lavino e Samoggia"", ""postcode"": ""40053"", ""state"": ""Emilia-Romagna""}, ""boundingbox"": [""44.3113026"", ""44.5673929"", ""10.9901343"", ""11.1834026""], ""class"": ""boundary"", ""display_name"": ""Valsamoggia, Unione dei comuni Valli del Reno, Lavino e Samoggia, Bologna, Emilia-Romagna, 40053, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"", ""importance"": 0.5042581232679697, ""lat"": ""44.439823649999994"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""11.059274991313368"", ""osm_id"": 3411571, ""osm_type"": ""relation"", ""place_id"": 285165141, ""type"": ""administrative""}, ""mode"": ""autocomplete""}, ""nameSurname"": ""Comune di Valsamoggia (Bo)"", ""phoneNumber"": """", ""recipients"": """", ""submit"": true, ""title"": ""Comune di Valsamoggia cerca alloggi per rifugiati ucraini"", ""url"": ""https://www.comune.valsamoggia.bo.it/index.php/comunicazioni/152-news-home/5061-emergenza-ucraina-accoglienza-e-donazioni""}","<pre><yamldata>
+nameSurname: Comune di Valsamoggia (Bo)
+phoneNumber: ''
+email: sindaco@comune.valsamoggia.bo.it
+title: Comune di Valsamoggia cerca alloggi per rifugiati ucraini
+recipients: ''
+description: 'È possibile segnalare via mail (sindaco@comune.valsamoggia.bo.it) le
+  disponibilità di appartamenti e case vuote, che siano disponibili per un orizzonte
+  temporale di almeno 6 mesi; per accelerare la valutazione, chiediamo di specificare
+  ogni informazione utile (prossimità al trasporto pubblico, eventuali arredi, stato
+  delle utenze...). Tutti gli immobili saranno oggetto di contratto di affitto con
+  il gestore, relative assicurazioni e volture/pagamenti utenze. Una volta inserite,
+  le persone saranno seguite da personale dedicato.
+
+  Inoltre il Comune di Valsamoggia sta raccogliendo e monitorando le disponibilità
+  di camere per accogliere persone in famiglia, una possibilità che però sarà attivata
+  tramite un percorso (progetto Vesta, gestito da ASP Bologna) già strutturato sul
+  nostro territorio per l''accoglienza di giovani rifugiati e di minori stranieri
+  non accompagnati, che in questa emergenza è diventato il riferimento anche per l''ospitalità
+  di adulti.'
+url: https://www.comune.valsamoggia.bo.it/index.php/comunicazioni/152-news-home/5061-emergenza-ucraina-accoglienza-e-donazioni
+location:
+  mode: autocomplete
+  address:
+    place_id: 285165141
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 3411571
+    boundingbox:
+    - '44.3113026'
+    - '44.5673929'
+    - '10.9901343'
+    - '11.1834026'
+    lat: '44.439823649999994'
+    lon: '11.059274991313368'
+    display_name: Valsamoggia, Unione dei comuni Valli del Reno, Lavino e Samoggia,
+      Bologna, Emilia-Romagna, 40053, Italia
+    class: boundary
+    type: administrative
+    importance: 0.5042581232679697
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Valsamoggia
+      municipality: Unione dei comuni Valli del Reno, Lavino e Samoggia
+      county: Bologna
+      state: Emilia-Romagna
+      postcode: '40053'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 44.439823649999994 11.059274991313368
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/85,1167358729,2022-03-14 16:29:59,2022-03-12 18:14:48,A Genova Caritas cerca volontari e alloggi per rifugiati ucraini,44.4072169,8.9312225,Liguria,Genova,"[""Valid/Accettato"", ""Help"", ""hospitality""]",,,"{""Posizione"": ""44.4072169 8.9312225"", ""description"": ""A Genova Caritas Diocesana cerca volontari per accogliere e supportare i rifugiati ucraini e cerca appartamenti e famiglie disposte ad ospitare. Prevede di accogliere circa 100 rifugiati e c'\u00e8 bisogno di reperire almeno 30 appartamenti vuoti (canoniche o altro) in comodato d'uso per circa tre mesi con rimborso delle spese vive. Sono tutte donne e bambini.\nPer informazioni e adesioni telefonare in Caritas tutte le mattine:\n010.2477015 - 010.2477018\noppure scrivere a segreteria@caritasgenova.it indicando la disponibilit\u00e0."", ""email"": ""segreteria@caritasgrnova.it"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""help"", ""location"": {""address"": {""address"": {""city"": ""Genova"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Genova"", ""postcode"": ""16100"", ""road"": ""Via di Canneto il Lungo"", ""state"": ""Liguria"", ""suburb"": ""Molo""}, ""boundingbox"": [""44.4067366"", ""44.4076384"", ""8.9300645"", ""8.9322206""], ""class"": ""highway"", ""display_name"": ""Via di Canneto il Lungo, Molo, Centro Est, Genova, Liguria, 16100, Italia"", ""importance"": 0.585, ""lat"": ""44.4072169"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""8.9312225"", ""osm_id"": 164602158, ""osm_type"": ""way"", ""place_id"": 140486684, ""type"": ""footway""}, ""mode"": ""autocomplete""}, ""nameSurname"": ""Caritas Genova"", ""phoneNumber"": ""010 2477015 - 010 2477018"", ""recipients"": ""cittadini di Genova"", ""submit"": true, ""title"": ""A Genova Caritas cerca volontari e alloggi per rifugiati ucraini"", ""url"": ""http://www.caritasgenova.it/emergenza-ucraina-volontari-alloggi-donazioni/""}","<pre><yamldata>
+nameSurname: Caritas Genova
+phoneNumber: 010 2477015 - 010 2477018
+email: segreteria@caritasgrnova.it
+title: A Genova Caritas cerca volontari e alloggi per rifugiati ucraini
+recipients: cittadini di Genova
+description: 'A Genova Caritas Diocesana cerca volontari per accogliere e supportare
+  i rifugiati ucraini e cerca appartamenti e famiglie disposte ad ospitare. Prevede
+  di accogliere circa 100 rifugiati e c''è bisogno di reperire almeno 30 appartamenti
+  vuoti (canoniche o altro) in comodato d''uso per circa tre mesi con rimborso delle
+  spese vive. Sono tutte donne e bambini.
+
+  Per informazioni e adesioni telefonare in Caritas tutte le mattine:
+
+  010.2477015 - 010.2477018
+
+  oppure scrivere a segreteria@caritasgenova.it indicando la disponibilità.'
+url: http://www.caritasgenova.it/emergenza-ucraina-volontari-alloggi-donazioni/
+location:
+  mode: autocomplete
+  address:
+    place_id: 140486684
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 164602158
+    boundingbox:
+    - '44.4067366'
+    - '44.4076384'
+    - '8.9300645'
+    - '8.9322206'
+    lat: '44.4072169'
+    lon: '8.9312225'
+    display_name: Via di Canneto il Lungo, Molo, Centro Est, Genova, Liguria, 16100,
+      Italia
+    class: highway
+    type: footway
+    importance: 0.585
+    address:
+      road: Via di Canneto il Lungo
+      suburb: Molo
+      city: Genova
+      county: Genova
+      state: Liguria
+      postcode: '16100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 44.4072169 8.9312225
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/104,1167407569,2022-03-14 16:29:08,2022-03-12 21:35:48,A Roma la Chiesa di Santa Sofia cerca medici e studenti di medicina per selezionare e inscatolare farmaci,41.91169555,12.397510616030669,Lazio,Roma,"[""Valid/Accettato"", ""Help"", ""healtcare""]",,,"{""Posizione"": ""41.91169555 12.397510616030669"", ""description"": ""A Roma la Chiesa di Santa Sofia cerca medici, specializzandi e studenti di medicina per selezionare e suddividere per tipologie i medicinali raccolti e preparare le scatole da inviare in Ucraina."", ""email"": ""basilicadisantasofia@gmail.com"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""help"", ""location"": {""address"": {""address"": {""amenity"": ""Basilica di Santa Sofia"", ""city"": ""Roma"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Roma Capitale"", ""house_number"": ""478"", ""postcode"": ""00166"", ""road"": ""Via di Boccea"", ""state"": ""Lazio"", ""suburb"": ""Municipio Roma XIII""}, ""boundingbox"": [""41.911607"", ""41.9117849"", ""12.3973441"", ""12.3976718""], ""class"": ""amenity"", ""display_name"": ""Basilica di Santa Sofia, 478, Via di Boccea, Municipio Roma XIII, Roma, Roma Capitale, Lazio, 00166, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//place_of_worship_unknown3.p.20.png"", ""importance"": 0.511, ""lat"": ""41.91169555"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""12.397510616030669"", ""osm_id"": 380373490, ""osm_type"": ""way"", ""place_id"": 189984097, ""type"": ""place_of_worship""}, ""mode"": ""autocomplete""}, ""nameSurname"": ""Basilica di Santa Sofia Roma"", ""phoneNumber"": """", ""recipients"": """", ""submit"": true, ""title"": ""A Roma la Chiesa di Santa Sofia cerca medici e studenti di medicina per selezionare e inscatolare farmaci"", ""url"": ""https://www.facebook.com/100000516996321/posts/5658514257509085/""}","<pre><yamldata>
 nameSurname: Basilica di Santa Sofia Roma
 phoneNumber: ''
@@ -1650,57 +1799,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/85,1167358729,2022-03-12 22:34:17,2022-03-12 18:14:48,A Genova Caritas cerca volontari e alloggi per rifugiati ucraini,44.4072169,8.9312225,Liguria,Genova,"[""Valid/Accettato"", ""Help""]",,,"{""Posizione"": ""44.4072169 8.9312225"", ""description"": ""A Genova Caritas Diocesana cerca volontari per accogliere e supportare i rifugiati ucraini e cerca appartamenti e famiglie disposte ad ospitare. Prevede di accogliere circa 100 rifugiati e c'\u00e8 bisogno di reperire almeno 30 appartamenti vuoti (canoniche o altro) in comodato d'uso per circa tre mesi con rimborso delle spese vive. Sono tutte donne e bambini.\nPer informazioni e adesioni telefonare in Caritas tutte le mattine:\n010.2477015 - 010.2477018\noppure scrivere a segreteria@caritasgenova.it indicando la disponibilit\u00e0."", ""email"": ""segreteria@caritasgrnova.it"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""help"", ""location"": {""address"": {""address"": {""city"": ""Genova"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Genova"", ""postcode"": ""16100"", ""road"": ""Via di Canneto il Lungo"", ""state"": ""Liguria"", ""suburb"": ""Molo""}, ""boundingbox"": [""44.4067366"", ""44.4076384"", ""8.9300645"", ""8.9322206""], ""class"": ""highway"", ""display_name"": ""Via di Canneto il Lungo, Molo, Centro Est, Genova, Liguria, 16100, Italia"", ""importance"": 0.585, ""lat"": ""44.4072169"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""8.9312225"", ""osm_id"": 164602158, ""osm_type"": ""way"", ""place_id"": 140486684, ""type"": ""footway""}, ""mode"": ""autocomplete""}, ""nameSurname"": ""Caritas Genova"", ""phoneNumber"": ""010 2477015 - 010 2477018"", ""recipients"": ""cittadini di Genova"", ""submit"": true, ""title"": ""A Genova Caritas cerca volontari e alloggi per rifugiati ucraini"", ""url"": ""http://www.caritasgenova.it/emergenza-ucraina-volontari-alloggi-donazioni/""}","<pre><yamldata>
-nameSurname: Caritas Genova
-phoneNumber: 010 2477015 - 010 2477018
-email: segreteria@caritasgrnova.it
-title: A Genova Caritas cerca volontari e alloggi per rifugiati ucraini
-recipients: cittadini di Genova
-description: 'A Genova Caritas Diocesana cerca volontari per accogliere e supportare
-  i rifugiati ucraini e cerca appartamenti e famiglie disposte ad ospitare. Prevede
-  di accogliere circa 100 rifugiati e c''è bisogno di reperire almeno 30 appartamenti
-  vuoti (canoniche o altro) in comodato d''uso per circa tre mesi con rimborso delle
-  spese vive. Sono tutte donne e bambini.
-
-  Per informazioni e adesioni telefonare in Caritas tutte le mattine:
-
-  010.2477015 - 010.2477018
-
-  oppure scrivere a segreteria@caritasgenova.it indicando la disponibilità.'
-url: http://www.caritasgenova.it/emergenza-ucraina-volontari-alloggi-donazioni/
-location:
-  mode: autocomplete
-  address:
-    place_id: 140486684
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 164602158
-    boundingbox:
-    - '44.4067366'
-    - '44.4076384'
-    - '8.9300645'
-    - '8.9322206'
-    lat: '44.4072169'
-    lon: '8.9312225'
-    display_name: Via di Canneto il Lungo, Molo, Centro Est, Genova, Liguria, 16100,
-      Italia
-    class: highway
-    type: footway
-    importance: 0.585
-    address:
-      road: Via di Canneto il Lungo
-      suburb: Molo
-      city: Genova
-      county: Genova
-      state: Liguria
-      postcode: '16100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 44.4072169 8.9312225
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/84,1167355829,2022-03-12 22:34:04,2022-03-12 18:04:01,A Milano continua la raccolta beni per rifugiati ucraini di Milano Sospesa,,,,,"[""Valid/Accettato"", ""News"", ""materialGoods""]",,,"{""address"": {""address"": {""address"": {""city"": ""Milano"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Milano"", ""postcode"": ""20141"", ""quarter"": ""Ripamonti"", ""road"": ""Via Cuore Immacolato di Maria"", ""state"": ""Lombardia"", ""suburb"": ""Municipio 5"", ""village"": ""Vaiano Valle""}, ""boundingbox"": [""45.4368289"", ""45.4368949"", ""9.1974967"", ""9.1976144""], ""class"": ""highway"", ""display_name"": ""Via Cuore Immacolato di Maria, Ripamonti, Municipio 5, Vaiano Valle, Milano, Lombardia, 20141, Italia"", ""importance"": 0.8099999999999999, ""lat"": ""45.4368289"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""9.1974967"", ""osm_id"": 331692065, ""osm_type"": ""way"", ""place_id"": 181610307, ""type"": ""residential""}, ""mode"": ""autocomplete""}, ""description"": ""A Milano continua la raccolta beni per rifugiati ucraini di Milano Sospesa ma si raccolgono solo i seguenti beni:\n\nPOWERBANK\nTORCE\nINTIMO NUOVO BIMBI\nCALZE NUOVE BIMBI\nINTIMO NUOVO ADULTO\nCALZE NUOVE ADULTO\nTAPPETINI campeggio\nSACCHI A PELO\nINTIMO TERMICO\nCALZE TERMICHE\nCAPPELLI E SCIARPE \nBENDE \nEMOSTATICO\nPRODOTTI IGIENE\n\nMEDICINALI FONDAMENTALI IN QUESTO MOMENTO:\n\nnoradrenalina idrotartrato\nsodio fosfocreatina\nTigacile\nComplesso ferro (III) idrossido saccarosio\nNeostigmina metil solfato\nColina alfoscerata\ndopamina cloridrato\n(Sono medicinali ospedalieri)\n\nGENERATORI\nFLEBO\nKIT PRIMO SOCCORSO\nCIBO PRONTO IN BUSTE E CIBO non deperibile\nCIBO COLAZIONE\nBARRETTE ENERGETICHE \nLATTE 1 E 2\n\nDove: VIA CUORE IMMACOLATO DI MARIA 5\nVenerdi 12.00/16.00\nSabato 10.00/13.00\nDomenica 10.00/ 12.30\nMartedi 15.03 - 16.30 /19.00\nGiovedi 17.03 - 16.30 /19.00"", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Milano Sospesa"", ""recipients"": """", ""submit"": true, ""title"": ""A Milano continua la raccolta beni per rifugiati ucraini di Milano Sospesa"", ""type"": ""materialGoods"", ""url"": ""https://www.facebook.com/groups/ukraineinfo.help/permalink/456862506182703/?sfnsn=scwspmo&ref=share""}","<pre><yamldata>
 type: materialGoods
 offerFromWho: Milano Sospesa
@@ -1801,104 +1899,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: fundraising
 submit: true
 Posizione: 45.4645403 9.1698691
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/82,1167351821,2022-03-12 22:33:07,2022-03-12 17:46:10,Comune di Valsamoggia cerca alloggi per rifugiati ucraini,44.439823649999994,11.059274991313368,Emilia-Romagna,Bologna,"[""Valid/Accettato"", ""Help""]",,,"{""Posizione"": ""44.439823649999994 11.059274991313368"", ""description"": ""\u00c8 possibile segnalare via mail (sindaco@comune.valsamoggia.bo.it) le disponibilit\u00e0 di appartamenti e case vuote, che siano disponibili per un orizzonte temporale di almeno 6 mesi; per accelerare la valutazione, chiediamo di specificare ogni informazione utile (prossimit\u00e0 al trasporto pubblico, eventuali arredi, stato delle utenze...). Tutti gli immobili saranno oggetto di contratto di affitto con il gestore, relative assicurazioni e volture/pagamenti utenze. Una volta inserite, le persone saranno seguite da personale dedicato.\nInoltre il Comune di Valsamoggia sta raccogliendo e monitorando le disponibilit\u00e0 di camere per accogliere persone in famiglia, una possibilit\u00e0 che per\u00f2 sar\u00e0 attivata tramite un percorso (progetto Vesta, gestito da ASP Bologna) gi\u00e0 strutturato sul nostro territorio per l'accoglienza di giovani rifugiati e di minori stranieri non accompagnati, che in questa emergenza \u00e8 diventato il riferimento anche per l'ospitalit\u00e0 di adulti."", ""email"": ""sindaco@comune.valsamoggia.bo.it"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""help"", ""location"": {""address"": {""address"": {""city"": ""Valsamoggia"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Bologna"", ""municipality"": ""Unione dei comuni Valli del Reno, Lavino e Samoggia"", ""postcode"": ""40053"", ""state"": ""Emilia-Romagna""}, ""boundingbox"": [""44.3113026"", ""44.5673929"", ""10.9901343"", ""11.1834026""], ""class"": ""boundary"", ""display_name"": ""Valsamoggia, Unione dei comuni Valli del Reno, Lavino e Samoggia, Bologna, Emilia-Romagna, 40053, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"", ""importance"": 0.5042581232679697, ""lat"": ""44.439823649999994"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""11.059274991313368"", ""osm_id"": 3411571, ""osm_type"": ""relation"", ""place_id"": 285165141, ""type"": ""administrative""}, ""mode"": ""autocomplete""}, ""nameSurname"": ""Comune di Valsamoggia (Bo)"", ""phoneNumber"": """", ""recipients"": """", ""submit"": true, ""title"": ""Comune di Valsamoggia cerca alloggi per rifugiati ucraini"", ""url"": ""https://www.comune.valsamoggia.bo.it/index.php/comunicazioni/152-news-home/5061-emergenza-ucraina-accoglienza-e-donazioni""}","<pre><yamldata>
-nameSurname: Comune di Valsamoggia (Bo)
-phoneNumber: ''
-email: sindaco@comune.valsamoggia.bo.it
-title: Comune di Valsamoggia cerca alloggi per rifugiati ucraini
-recipients: ''
-description: 'È possibile segnalare via mail (sindaco@comune.valsamoggia.bo.it) le
-  disponibilità di appartamenti e case vuote, che siano disponibili per un orizzonte
-  temporale di almeno 6 mesi; per accelerare la valutazione, chiediamo di specificare
-  ogni informazione utile (prossimità al trasporto pubblico, eventuali arredi, stato
-  delle utenze...). Tutti gli immobili saranno oggetto di contratto di affitto con
-  il gestore, relative assicurazioni e volture/pagamenti utenze. Una volta inserite,
-  le persone saranno seguite da personale dedicato.
-
-  Inoltre il Comune di Valsamoggia sta raccogliendo e monitorando le disponibilità
-  di camere per accogliere persone in famiglia, una possibilità che però sarà attivata
-  tramite un percorso (progetto Vesta, gestito da ASP Bologna) già strutturato sul
-  nostro territorio per l''accoglienza di giovani rifugiati e di minori stranieri
-  non accompagnati, che in questa emergenza è diventato il riferimento anche per l''ospitalità
-  di adulti.'
-url: https://www.comune.valsamoggia.bo.it/index.php/comunicazioni/152-news-home/5061-emergenza-ucraina-accoglienza-e-donazioni
-location:
-  mode: autocomplete
-  address:
-    place_id: 285165141
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 3411571
-    boundingbox:
-    - '44.3113026'
-    - '44.5673929'
-    - '10.9901343'
-    - '11.1834026'
-    lat: '44.439823649999994'
-    lon: '11.059274991313368'
-    display_name: Valsamoggia, Unione dei comuni Valli del Reno, Lavino e Samoggia,
-      Bologna, Emilia-Romagna, 40053, Italia
-    class: boundary
-    type: administrative
-    importance: 0.5042581232679697
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Valsamoggia
-      municipality: Unione dei comuni Valli del Reno, Lavino e Samoggia
-      county: Bologna
-      state: Emilia-Romagna
-      postcode: '40053'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 44.439823649999994 11.059274991313368
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/81,1167338911,2022-03-12 22:32:50,2022-03-12 16:52:13,A Verona Associazione Malve di Ucraina cerca alloggi e professionisti per supporto rifugiati ucraini,45.4384958,10.9924122,Veneto,Verona,"[""Valid/Accettato"", ""Help""]",,,"{""Posizione"": ""45.4384958 10.9924122"", ""description"": ""A Verona l\u2019associazione Malve di Ucraina ha bisogno di raccogliere denaro per sostenere le spese di trasporto di beni umanitari. E poi cerca famiglie che possano ospitare i rifugiati ucraini in arrivo. Inoltre ha bisogno di professionisti che possano offrire supporto (in particolare mediatori linguistici, medici, insegnanti, parrucchieri) e aziende che offrano lavoro ai rifugiati."", ""email"": ""malve.verona@gmail.com"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""help"", ""location"": {""address"": {""address"": {""city"": ""Verona"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Verona"", ""postcode"": ""37122"", ""state"": ""Veneto""}, ""boundingbox"": [""45.2784958"", ""45.5984958"", ""10.8324122"", ""11.1524122""], ""class"": ""place"", ""display_name"": ""Verona, Veneto, 37122, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"", ""importance"": 0.7561573888828526, ""lat"": ""45.4384958"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""10.9924122"", ""osm_id"": 64778101, ""osm_type"": ""node"", ""place_id"": 286299859, ""type"": ""city""}, ""mode"": ""autocomplete""}, ""nameSurname"": ""Associazione Malve di Ucraina"", ""phoneNumber"": """", ""recipients"": """", ""submit"": true, ""title"": ""A Verona Associazione Malve di Ucraina cerca alloggi e professionisti che possano supportare rifugiati ucraini"", ""url"": ""https://www.facebook.com/675754522486226/posts/5102255149836119/""}","<pre><yamldata>
-nameSurname: Associazione Malve di Ucraina
-phoneNumber: ''
-email: malve.verona@gmail.com
-title: A Verona Associazione Malve di Ucraina cerca alloggi e professionisti che possano
-  supportare rifugiati ucraini
-recipients: ''
-description: A Verona l’associazione Malve di Ucraina ha bisogno di raccogliere denaro
-  per sostenere le spese di trasporto di beni umanitari. E poi cerca famiglie che
-  possano ospitare i rifugiati ucraini in arrivo. Inoltre ha bisogno di professionisti
-  che possano offrire supporto (in particolare mediatori linguistici, medici, insegnanti,
-  parrucchieri) e aziende che offrano lavoro ai rifugiati.
-url: https://www.facebook.com/675754522486226/posts/5102255149836119/
-location:
-  mode: autocomplete
-  address:
-    place_id: 286299859
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 64778101
-    boundingbox:
-    - '45.2784958'
-    - '45.5984958'
-    - '10.8324122'
-    - '11.1524122'
-    lat: '45.4384958'
-    lon: '10.9924122'
-    display_name: Verona, Veneto, 37122, Italia
-    class: place
-    type: city
-    importance: 0.7561573888828526
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
-    address:
-      city: Verona
-      county: Verona
-      state: Veneto
-      postcode: '37122'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 45.4384958 10.9924122
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/80,1167333697,2022-03-12 22:31:54,2022-03-12 16:30:04,"Ucraina, le dieci bufale russe: il genocidio, il nazismo, l’asilo bombardato nel Lugansk",,,,,"[""Valid/Accettato"", ""fakenews""]",,,"{""description"": ""Su ProfessioneRepoter.eu 10 bufale sul conflitto in Ucraine diffuse da siti russi governativi e non ."", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""fakenews"", ""link"": ""https://www.professionereporter.eu/2022/03/ucraina-le-dieci-bufale-russe-dal-genocidio-al-nazismo-allasilo-bombardato/?fbclid=IwAR3SN6xL3OBtwbuhdGUnl9ZAGHGOS32ZCVeYhxZxyygYc1SXKCazET5-JIE"", ""location"": {""address"": {}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""Ucraina, le dieci bufale russe: il genocidio, il nazismo, l\u2019asilo bombardato nel Lugansk""}","<pre><yamldata>
 title: 'Ucraina, le dieci bufale russe: il genocidio, il nazismo, l’asilo bombardato
