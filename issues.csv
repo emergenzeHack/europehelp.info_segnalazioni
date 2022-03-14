@@ -1,4 +1,97 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/112,1167414735,2022-03-14 16:32:52,2022-03-12 22:16:38,"Comune di Parma cerca per emergenza Ucraina mediatori linguistici, educatori, psicologi, assistenti sociali",44.8094695,10.3275042,Emilia-Romagna,Parma,"[""Valid/Accettato"", ""Help"", ""Translation""]",,,"{""Posizione"": ""44.8094695 10.3275042"", ""description"": ""In relazione all\u2019accoglienza dei profughi ucraini, il Comune di Parma  ha attivato, presso il punto informativo e raccolta dati Informastranieri, un'equipe di operatori del Settore Sociale per approfondire il quadro dei bisogni delle persone accolte o che richiedono aiuto e per effettuare l\u2019approfondimento delle disponibilit\u00e0 di accoglienza che vengono espresse dai cittadini. A supporto di tale equipe si ricercano Volontari con le seguenti professionalit\u00e0: Assistenti Sociali, Educatori, Psicologi e Mediatori linguistici (da attivare anche presso le scuole)."", ""email"": ""informastranieri@comune.parma.it"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""help"", ""location"": {""address"": {""address"": {""city"": ""Parma"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Parma"", ""postcode"": ""43121"", ""road"": ""Via Antonio Cecchi"", ""state"": ""Emilia-Romagna"", ""suburb"": ""Parma Centro""}, ""boundingbox"": [""44.8094603"", ""44.8097443"", ""10.3262362"", ""10.3275426""], ""class"": ""highway"", ""display_name"": ""Via Antonio Cecchi, Parma Centro, Parma, Emilia-Romagna, 43121, Italia"", ""importance"": 0.5949999999999999, ""lat"": ""44.8094695"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""10.3275042"", ""osm_id"": 323712841, ""osm_type"": ""way"", ""place_id"": 178424191, ""type"": ""service""}, ""mode"": ""autocomplete""}, ""nameSurname"": ""Comune di Parma"", ""phoneNumber"": ""351 0986321"", ""recipients"": ""mediatori linguistici, psicologi, assistenti sociali, educatori"", ""submit"": true, ""title"": ""Comune di Parma cerca per emergenza Ucraina mediatori linguistici, educatori, psicologi, assistenti sociali"", ""url"": ""https://www.comune.parma.it/notizie/news/WELFARE/2022-03-12/Parma-per-lUcraina-1.aspx""}","<pre><yamldata>
+nameSurname: Comune di Parma
+phoneNumber: 351 0986321
+email: informastranieri@comune.parma.it
+title: Comune di Parma cerca per emergenza Ucraina mediatori linguistici, educatori,
+  psicologi, assistenti sociali
+recipients: mediatori linguistici, psicologi, assistenti sociali, educatori
+description: 'In relazione all’accoglienza dei profughi ucraini, il Comune di Parma  ha
+  attivato, presso il punto informativo e raccolta dati Informastranieri, un''equipe
+  di operatori del Settore Sociale per approfondire il quadro dei bisogni delle persone
+  accolte o che richiedono aiuto e per effettuare l’approfondimento delle disponibilità
+  di accoglienza che vengono espresse dai cittadini. A supporto di tale equipe si
+  ricercano Volontari con le seguenti professionalità: Assistenti Sociali, Educatori,
+  Psicologi e Mediatori linguistici (da attivare anche presso le scuole).'
+url: https://www.comune.parma.it/notizie/news/WELFARE/2022-03-12/Parma-per-lUcraina-1.aspx
+location:
+  mode: autocomplete
+  address:
+    place_id: 178424191
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 323712841
+    boundingbox:
+    - '44.8094603'
+    - '44.8097443'
+    - '10.3262362'
+    - '10.3275426'
+    lat: '44.8094695'
+    lon: '10.3275042'
+    display_name: Via Antonio Cecchi, Parma Centro, Parma, Emilia-Romagna, 43121,
+      Italia
+    class: highway
+    type: service
+    importance: 0.5949999999999999
+    address:
+      road: Via Antonio Cecchi
+      suburb: Parma Centro
+      city: Parma
+      county: Parma
+      state: Emilia-Romagna
+      postcode: '43121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 44.8094695 10.3275042
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/109,1167410538,2022-03-14 16:32:26,2022-03-12 21:52:19,Protezione civile di Milano cerca traduttori in lingua ucraina per accoglienza profughi,45.4902382,9.1945908,Lombardia,Milano,"[""Valid/Accettato"", ""Help"", ""Translation""]",,,"{""Posizione"": ""45.4902382 9.1945908"", ""description"": ""La Protezione civile di Milano cerca traduttori in lingua ucraina per accoglienza profughi."", ""email"": ""cristiano.cozzi@comune.milano.it"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""help"", ""location"": {""address"": {""address"": {""city"": ""Milano"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Milano"", ""house_number"": ""17"", ""office"": ""Protezione civile"", ""postcode"": ""20159"", ""quarter"": ""Isola"", ""road"": ""Via Ippolito Rosellini"", ""state"": ""Lombardia"", ""suburb"": ""Municipio 2""}, ""boundingbox"": [""45.4901882"", ""45.4902882"", ""9.1945408"", ""9.1946408""], ""class"": ""office"", ""display_name"": ""Protezione civile, 17, Via Ippolito Rosellini, Isola, Municipio 2, Milano, Lombardia, 20159, Italia"", ""importance"": 0.401, ""lat"": ""45.4902382"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""9.1945908"", ""osm_id"": 6084251988, ""osm_type"": ""node"", ""place_id"": 66708597, ""type"": ""government""}, ""mode"": ""autocomplete""}, ""nameSurname"": ""Protezione civile Milano"", ""phoneNumber"": """", ""recipients"": """", ""submit"": true, ""title"": ""traduttori in lingua ucraina per accoglienza profughi"", ""url"": ""https://twitter.com/ukraineinfohelp/status/1501802781044314115?s=21""}","<pre><yamldata>
+nameSurname: Protezione civile Milano
+phoneNumber: ''
+email: cristiano.cozzi@comune.milano.it
+title: traduttori in lingua ucraina per accoglienza profughi
+recipients: ''
+description: La Protezione civile di Milano cerca traduttori in lingua ucraina per
+  accoglienza profughi.
+url: https://twitter.com/ukraineinfohelp/status/1501802781044314115?s=21
+location:
+  mode: autocomplete
+  address:
+    place_id: 66708597
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 6084251988
+    boundingbox:
+    - '45.4901882'
+    - '45.4902882'
+    - '9.1945408'
+    - '9.1946408'
+    lat: '45.4902382'
+    lon: '9.1945908'
+    display_name: Protezione civile, 17, Via Ippolito Rosellini, Isola, Municipio
+      2, Milano, Lombardia, 20159, Italia
+    class: office
+    type: government
+    importance: 0.401
+    address:
+      office: Protezione civile
+      house_number: '17'
+      road: Via Ippolito Rosellini
+      quarter: Isola
+      suburb: Municipio 2
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20159'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 45.4902382 9.1945908
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/81,1167338911,2022-03-14 16:30:27,2022-03-12 16:52:13,A Verona Associazione Malve di Ucraina cerca alloggi e professionisti per supporto rifugiati ucraini,45.4384958,10.9924122,Veneto,Verona,"[""Valid/Accettato"", ""Help"", ""hospitality""]",,,"{""Posizione"": ""45.4384958 10.9924122"", ""description"": ""A Verona l\u2019associazione Malve di Ucraina ha bisogno di raccogliere denaro per sostenere le spese di trasporto di beni umanitari. E poi cerca famiglie che possano ospitare i rifugiati ucraini in arrivo. Inoltre ha bisogno di professionisti che possano offrire supporto (in particolare mediatori linguistici, medici, insegnanti, parrucchieri) e aziende che offrano lavoro ai rifugiati."", ""email"": ""malve.verona@gmail.com"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""help"", ""location"": {""address"": {""address"": {""city"": ""Verona"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Verona"", ""postcode"": ""37122"", ""state"": ""Veneto""}, ""boundingbox"": [""45.2784958"", ""45.5984958"", ""10.8324122"", ""11.1524122""], ""class"": ""place"", ""display_name"": ""Verona, Veneto, 37122, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"", ""importance"": 0.7561573888828526, ""lat"": ""45.4384958"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""10.9924122"", ""osm_id"": 64778101, ""osm_type"": ""node"", ""place_id"": 286299859, ""type"": ""city""}, ""mode"": ""autocomplete""}, ""nameSurname"": ""Associazione Malve di Ucraina"", ""phoneNumber"": """", ""recipients"": """", ""submit"": true, ""title"": ""A Verona Associazione Malve di Ucraina cerca alloggi e professionisti che possano supportare rifugiati ucraini"", ""url"": ""https://www.facebook.com/675754522486226/posts/5102255149836119/""}","<pre><yamldata>
 nameSurname: Associazione Malve di Ucraina
 phoneNumber: ''
@@ -750,51 +843,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/109,1167410538,2022-03-12 23:14:00,2022-03-12 21:52:19,Protezione civile di Milano cerca traduttori in lingua ucraina per accoglienza profughi,45.4902382,9.1945908,Lombardia,Milano,"[""Valid/Accettato"", ""Help""]",,,"{""Posizione"": ""45.4902382 9.1945908"", ""description"": ""La Protezione civile di Milano cerca traduttori in lingua ucraina per accoglienza profughi."", ""email"": ""cristiano.cozzi@comune.milano.it"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""help"", ""location"": {""address"": {""address"": {""city"": ""Milano"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Milano"", ""house_number"": ""17"", ""office"": ""Protezione civile"", ""postcode"": ""20159"", ""quarter"": ""Isola"", ""road"": ""Via Ippolito Rosellini"", ""state"": ""Lombardia"", ""suburb"": ""Municipio 2""}, ""boundingbox"": [""45.4901882"", ""45.4902882"", ""9.1945408"", ""9.1946408""], ""class"": ""office"", ""display_name"": ""Protezione civile, 17, Via Ippolito Rosellini, Isola, Municipio 2, Milano, Lombardia, 20159, Italia"", ""importance"": 0.401, ""lat"": ""45.4902382"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""9.1945908"", ""osm_id"": 6084251988, ""osm_type"": ""node"", ""place_id"": 66708597, ""type"": ""government""}, ""mode"": ""autocomplete""}, ""nameSurname"": ""Protezione civile Milano"", ""phoneNumber"": """", ""recipients"": """", ""submit"": true, ""title"": ""traduttori in lingua ucraina per accoglienza profughi"", ""url"": ""https://twitter.com/ukraineinfohelp/status/1501802781044314115?s=21""}","<pre><yamldata>
-nameSurname: Protezione civile Milano
-phoneNumber: ''
-email: cristiano.cozzi@comune.milano.it
-title: traduttori in lingua ucraina per accoglienza profughi
-recipients: ''
-description: La Protezione civile di Milano cerca traduttori in lingua ucraina per
-  accoglienza profughi.
-url: https://twitter.com/ukraineinfohelp/status/1501802781044314115?s=21
-location:
-  mode: autocomplete
-  address:
-    place_id: 66708597
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 6084251988
-    boundingbox:
-    - '45.4901882'
-    - '45.4902882'
-    - '9.1945408'
-    - '9.1946408'
-    lat: '45.4902382'
-    lon: '9.1945908'
-    display_name: Protezione civile, 17, Via Ippolito Rosellini, Isola, Municipio
-      2, Milano, Lombardia, 20159, Italia
-    class: office
-    type: government
-    importance: 0.401
-    address:
-      office: Protezione civile
-      house_number: '17'
-      road: Via Ippolito Rosellini
-      quarter: Isola
-      suburb: Municipio 2
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20159'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 45.4902382 9.1945908
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/110,1167413433,2022-03-12 22:54:37,2022-03-12 22:09:05,Anpas attiva supporto psicologico online multilingue per profughi ucraini e famiglie ,,,,,"[""Valid/Accettato"", ""Services"", ""psycologicalSupport""]",,,"{""address"": {""address"": {}, ""mode"": ""autocomplete""}, ""description"": ""Il settore di psicologia dell\u2019emergenza di protezione civile Anpas mette a disposizione uno sportello di consulenza online per chi ha congiunti nelle aree di guerra. Un servizio gratuito multilingue per le famiglie in fuga dalla guerra"", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""Protezione Civile Anpas"", ""recipients"": ""Famiglie di persone nelle zone do guerra"", ""submit"": true, ""title"": ""Supporto psicologico"", ""type"": ""psychologicalSupport"", ""url"": ""https://www.anpas.org/categoria-news-generale/3846-emergenza-ucraina-psicologi-anpas.html""}","<pre><yamldata>
 type: psychologicalSupport
 offerFromWho: Protezione Civile Anpas
@@ -811,54 +859,6 @@ address:
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/112,1167414735,2022-03-12 22:54:06,2022-03-12 22:16:38,"Comune di Parma cerca per emergenza Ucraina mediatori linguistici, educatori, psicologi, assistenti sociali",44.8094695,10.3275042,Emilia-Romagna,Parma,"[""Valid/Accettato"", ""Help""]",,,"{""Posizione"": ""44.8094695 10.3275042"", ""description"": ""In relazione all\u2019accoglienza dei profughi ucraini, il Comune di Parma  ha attivato, presso il punto informativo e raccolta dati Informastranieri, un'equipe di operatori del Settore Sociale per approfondire il quadro dei bisogni delle persone accolte o che richiedono aiuto e per effettuare l\u2019approfondimento delle disponibilit\u00e0 di accoglienza che vengono espresse dai cittadini. A supporto di tale equipe si ricercano Volontari con le seguenti professionalit\u00e0: Assistenti Sociali, Educatori, Psicologi e Mediatori linguistici (da attivare anche presso le scuole)."", ""email"": ""informastranieri@comune.parma.it"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""help"", ""location"": {""address"": {""address"": {""city"": ""Parma"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Parma"", ""postcode"": ""43121"", ""road"": ""Via Antonio Cecchi"", ""state"": ""Emilia-Romagna"", ""suburb"": ""Parma Centro""}, ""boundingbox"": [""44.8094603"", ""44.8097443"", ""10.3262362"", ""10.3275426""], ""class"": ""highway"", ""display_name"": ""Via Antonio Cecchi, Parma Centro, Parma, Emilia-Romagna, 43121, Italia"", ""importance"": 0.5949999999999999, ""lat"": ""44.8094695"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""10.3275042"", ""osm_id"": 323712841, ""osm_type"": ""way"", ""place_id"": 178424191, ""type"": ""service""}, ""mode"": ""autocomplete""}, ""nameSurname"": ""Comune di Parma"", ""phoneNumber"": ""351 0986321"", ""recipients"": ""mediatori linguistici, psicologi, assistenti sociali, educatori"", ""submit"": true, ""title"": ""Comune di Parma cerca per emergenza Ucraina mediatori linguistici, educatori, psicologi, assistenti sociali"", ""url"": ""https://www.comune.parma.it/notizie/news/WELFARE/2022-03-12/Parma-per-lUcraina-1.aspx""}","<pre><yamldata>
-nameSurname: Comune di Parma
-phoneNumber: 351 0986321
-email: informastranieri@comune.parma.it
-title: Comune di Parma cerca per emergenza Ucraina mediatori linguistici, educatori,
-  psicologi, assistenti sociali
-recipients: mediatori linguistici, psicologi, assistenti sociali, educatori
-description: 'In relazione all’accoglienza dei profughi ucraini, il Comune di Parma  ha
-  attivato, presso il punto informativo e raccolta dati Informastranieri, un''equipe
-  di operatori del Settore Sociale per approfondire il quadro dei bisogni delle persone
-  accolte o che richiedono aiuto e per effettuare l’approfondimento delle disponibilità
-  di accoglienza che vengono espresse dai cittadini. A supporto di tale equipe si
-  ricercano Volontari con le seguenti professionalità: Assistenti Sociali, Educatori,
-  Psicologi e Mediatori linguistici (da attivare anche presso le scuole).'
-url: https://www.comune.parma.it/notizie/news/WELFARE/2022-03-12/Parma-per-lUcraina-1.aspx
-location:
-  mode: autocomplete
-  address:
-    place_id: 178424191
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 323712841
-    boundingbox:
-    - '44.8094603'
-    - '44.8097443'
-    - '10.3262362'
-    - '10.3275426'
-    lat: '44.8094695'
-    lon: '10.3275042'
-    display_name: Via Antonio Cecchi, Parma Centro, Parma, Emilia-Romagna, 43121,
-      Italia
-    class: highway
-    type: service
-    importance: 0.5949999999999999
-    address:
-      road: Via Antonio Cecchi
-      suburb: Parma Centro
-      city: Parma
-      county: Parma
-      state: Emilia-Romagna
-      postcode: '43121'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 44.8094695 10.3275042
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/62,1164309482,2022-03-12 22:53:35,2022-03-09 18:45:32,Il Comitato Salva Ucraini di Palermo cerca volontari che parlino ucraino e italiano,38.1112268,13.3524434,Sicilia,Palermo,"[""Valid/Accettato"", ""Help""]",,,"{""Posizione"": ""38.1112268 13.3524434"", ""description"": ""Il Comitato Salva Ucraini di Palermo cerca volontari che parlino ucraino e italiano per aiutare i rifugiati ucraini in arrivo a Palermo.\nIl gruppo ha attivato anche una chat Telegram (vedi link)."", ""email"": ""salva.ucraini.palermo@gmail.com"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""help"", ""location"": {""address"": {""address"": {""city"": ""Palermo"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Palermo"", ""state"": ""Sicilia""}, ""boundingbox"": [""38.0499137"", ""38.2245866"", ""13.242219"", ""13.4520856""], ""class"": ""boundary"", ""display_name"": ""Palermo, Sicilia, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"", ""importance"": 0.7661148171447915, ""lat"": ""38.1112268"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""13.3524434"", ""osm_id"": 39513, ""osm_type"": ""relation"", ""place_id"": 284307182, ""type"": ""administrative""}, ""mode"": ""autocomplete""}, ""nameSurname"": ""Comitato Salva Ucraini Palermo"", ""phoneNumber"": """", ""recipients"": """", ""submit"": true, ""title"": ""Il Comitato Salva Ucraini di Palermo cerca volontari che parlino ucraino e italiano"", ""url"": ""https://t.me/ucraini_a_palermo""}","<pre><yamldata>
 nameSurname: Comitato Salva Ucraini Palermo
