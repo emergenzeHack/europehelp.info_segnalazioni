@@ -1,4 +1,20 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/133,1168620253,2022-03-14 16:26:01,2022-03-14 16:25:30,"Dipartimento nazionale della Protezione civile, ordinanza sui trasporti per i rifugiati ucraini in Italia",,,,,"[""Valid/Accettato"", ""News"", ""transport"", ""document_data""]",,,"{""description"": ""Cittadini provenienti dall\u2019Ucraina potranno viaggiare gratuitamente sul territorio italiano, entro 5 giorni massimo dall\u2019ingresso in Italia, per raggiungere il primo luogo di destinazione o di accoglienza. Lo prevede un\u2019ordinanza del Dipartimento nazionale della Protezione civile. Nel testo anche indicazioni su trattamento dati e altro."", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""document_data"", ""link"": ""http://bit.ly/OrdinanzaTrasporti"", ""location"": {""address"": {}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""Dipartimento nazionale della Protezione civile, ordinanza sui trasporti per i rifugiati ucraini in Italia""}","<pre><yamldata>
+title: Dipartimento nazionale della Protezione civile, ordinanza sui trasporti per
+  i rifugiati ucraini in Italia
+description: Cittadini provenienti dall’Ucraina potranno viaggiare gratuitamente sul
+  territorio italiano, entro 5 giorni massimo dall’ingresso in Italia, per raggiungere
+  il primo luogo di destinazione o di accoglienza. Lo prevede un’ordinanza del Dipartimento
+  nazionale della Protezione civile. Nel testo anche indicazioni su trattamento dati
+  e altro.
+link: http://bit.ly/OrdinanzaTrasporti
+location:
+  mode: autocomplete
+  address: {}
+label: document_data
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/132,1168507644,2022-03-14 15:20:59,2022-03-14 15:02:40,"UAtalents, la piattaforma europea che connette aziende e rifugiati ucraini in cerca di lavoro",,,,,"[""Valid/Accettato"", ""News"", ""Services"", ""job""]",,,"{""address"": {""address"": {""address"": {""place"": ""Europa""}, ""boundingbox"": [""26"", ""76"", ""-15"", ""35""], ""class"": ""place"", ""display_name"": ""Europa"", ""importance"": 0.8207067191883178, ""lat"": ""51"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""10"", ""osm_id"": 25871341, ""osm_type"": ""node"", ""place_id"": 286311057, ""type"": ""continent""}, ""mode"": ""autocomplete""}, ""description"": ""UA talents is a job platform for displaced persons from and within Ukraine. On UA Talents, companies from all over Europe can advertise their job openings to people from Ukraine who have lost their employment due to the war. We are a team of volunteers, IT entrepreneurs, and experts from Ukraine that live abroad and want to contribute to the defense of European borders in Ukraine as well as support the livelihood of Ukrainian refugees and their families."", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""UAtalents"", ""recipients"": ""Connect employers with Ukrainian people who are looking for a job within EU or remotely"", ""submit"": true, ""title"": ""UAtalents"", ""type"": ""jobOffer"", ""url"": ""https://www.uatalents.com/""}","<pre><yamldata>
 type: jobOffer
 offerFromWho: UAtalents
