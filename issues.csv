@@ -1,4 +1,41 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/127,1167957261,2022-03-14 06:47:45,2022-03-14 06:45:35,scritte in ucraino affiancate ad immagini grafica  (Tavole di Comunicazione Aumentativa Alternativa),,,,,"[""Valid/Accettato"", ""Services"", ""healtcare"", ""Translation""]",,,"{""address"": {""address"": {""address"": {""country"": ""Italia"", ""country_code"": ""it"", ""state"": ""Lombardia""}, ""boundingbox"": [""44.6799091"", ""46.6353523"", ""8.4978518"", ""11.4276477""], ""class"": ""boundary"", ""display_name"": ""Lombardia, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"", ""importance"": 0.8057635580731121, ""lat"": ""45.5703694"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""9.7732524"", ""osm_id"": 44879, ""osm_type"": ""relation"", ""place_id"": 283756175, ""type"": ""administrative""}, ""mode"": ""autocomplete""}, ""description"": ""da Anci Lombardia Salute Tavole di Comunicazione Aumentativa Alternativa per l'accoglienza \ncon le scritte in ucraino affiancate ad immagini grafica che ne esplicano il significato, a supporto delle attivit\u00e0 di accoglienza in cui tutti, a partire dai Comuni, sono coinvolti in questi giorni."", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""ANCI Lombardia"", ""recipients"": """", ""submit"": true, ""title"": ""Tavole di Comunicazione Aumentativa Alternativa"", ""type"": ""healthcare"", ""url"": ""https://anci.lombardia.it/dettaglio-news/20223101457-emergenza-ucraina-anci-lombardia-salute-elabora-tavole-di-comunicazione-aumentativa-e-alternativa-a-supporto-delle-attivit%C3%A0-di-accoglienza/?fbclid=IwAR2S0wvdmQ4SllnnvU9VrT9wSygdk3LhZHjpbHctvd4W8Eceab3nUgmR8iI""}","<pre><yamldata>
+type: healthcare
+offerFromWho: ANCI Lombardia
+title: Tavole di Comunicazione Aumentativa Alternativa
+recipients: ''
+description: ""da Anci Lombardia Salute Tavole di Comunicazione Aumentativa Alternativa\
+  \ per l'accoglienza \ncon le scritte in ucraino affiancate ad immagini grafica che\
+  \ ne esplicano il significato, a supporto delle attività di accoglienza in cui tutti,\
+  \ a partire dai Comuni, sono coinvolti in questi giorni.""
+url: https://anci.lombardia.it/dettaglio-news/20223101457-emergenza-ucraina-anci-lombardia-salute-elabora-tavole-di-comunicazione-aumentativa-e-alternativa-a-supporto-delle-attivit%C3%A0-di-accoglienza/?fbclid=IwAR2S0wvdmQ4SllnnvU9VrT9wSygdk3LhZHjpbHctvd4W8Eceab3nUgmR8iI
+address:
+  mode: autocomplete
+  address:
+    place_id: 283756175
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 44879
+    boundingbox:
+    - '44.6799091'
+    - '46.6353523'
+    - '8.4978518'
+    - '11.4276477'
+    lat: '45.5703694'
+    lon: '9.7732524'
+    display_name: Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8057635580731121
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      state: Lombardia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/126,1167950161,2022-03-14 06:35:48,2022-03-14 06:34:13,Dataset news su guerra in Ucraina,,,,,"[""Valid/Accettato"", ""News"", ""document_data""]",,,"{""description"": ""Utilizza algoritmo che estrae e analizza da una serie di testate tutti gli articoli che parlano della guerra in Ucraina.\nIl risultato \u00e8 un'enorme dataset che consente di raccontare l'invasione nel suo insieme"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""news"", ""link"": ""https://bit.ly/3J659kj"", ""location"": {""address"": {}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""Dataset news su guerra in Ucraina""}","<pre><yamldata>
 title: Dataset news su guerra in Ucraina
 description: 'Utilizza algoritmo che estrae e analizza da una serie di testate tutti
