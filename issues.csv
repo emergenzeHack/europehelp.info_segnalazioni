@@ -1,4 +1,55 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/135,1168651370,2022-03-14 16:54:31,2022-03-14 16:53:55,"Rifugiati ucraini, come richiedere la protezione temporanea: le indicazioni del Comitato italiano rifugiati",41.8894698,12.4828691,Lazio,Roma,"[""Valid/Accettato"", ""News"", ""Legal"", ""document_data""]",,,"{""Posizione"": ""41.8894698 12.4828691"", ""description"": ""La Direzione Centrale dell\u2019Immigrazione e della Polizia delle Frontiere del Ministero dell\u2019Interno ha appena dato istruzioni alle questure al fine di avviare l\u2019adozione delle misure di protezione temporanea finalizzate a fronteggiare lo stato di emergenza causato dall\u2019afflusso massiccio di sfollati dall\u2019Ucraina, come accertato con la Decisione Esecutiva del Consiglio (UE) 2022/382 dello scorso 4 marzo. \n\nIn attesa dell\u2019adozione del Decreto del Presidente del Consiglio con cui verranno disciplinate puntualmente la tipologia di permesso per protezione temporanea \u2013 e che potr\u00e0 estendere le categorie cui verr\u00e0 applicata \u2013 e le misure straordinarie di accoglienza, si prevede che tutte le Questure possono acquisire le richieste di permesso di soggiorno per protezione temporanea e procedere con l\u2019istruttoria, fino alla fase di verifica della pratica.\n\nSul sito di CIR - Comitato italiano rifugiati tutte le info sulle procedure e altri dettagli operativi. \n\nA questo link la direttiva: https://www.cir-onlus.org/wp-content/uploads/2022/03/Circolare-Min.-interno-10-3-2022-protezione-temporanea.pdf"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""news"", ""link"": ""https://t.co/W6CtYmorFq"", ""location"": {""address"": {""address"": {""city"": ""Roma"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Roma Capitale"", ""postcode"": ""00153"", ""quarter"": ""Ripa"", ""road"": ""Via del Velabro"", ""state"": ""Lazio"", ""suburb"": ""Municipio Roma I""}, ""boundingbox"": [""41.8892832"", ""41.8895189"", ""12.4821513"", ""12.4837381""], ""class"": ""highway"", ""display_name"": ""Via del Velabro, Ripa, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia"", ""importance"": 0.585, ""lat"": ""41.8894698"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""12.4828691"", ""osm_id"": 52938659, ""osm_type"": ""way"", ""place_id"": 116809517, ""type"": ""service""}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""Rifugiati ucraini, come richiedere la protezione temporanea: le indicazioni del Comitato italiano rifugiati""}","<pre><yamldata>
+title: 'Rifugiati ucraini, come richiedere la protezione temporanea: le indicazioni
+  del Comitato italiano rifugiati'
+description: ""La Direzione Centrale dell’Immigrazione e della Polizia delle Frontiere\
+  \ del Ministero dell’Interno ha appena dato istruzioni alle questure al fine di\
+  \ avviare l’adozione delle misure di protezione temporanea finalizzate a fronteggiare\
+  \ lo stato di emergenza causato dall’afflusso massiccio di sfollati dall’Ucraina,\
+  \ come accertato con la Decisione Esecutiva del Consiglio (UE) 2022/382 dello scorso\
+  \ 4 marzo. \n\nIn attesa dell’adozione del Decreto del Presidente del Consiglio\
+  \ con cui verranno disciplinate puntualmente la tipologia di permesso per protezione\
+  \ temporanea – e che potrà estendere le categorie cui verrà applicata – e le misure\
+  \ straordinarie di accoglienza, si prevede che tutte le Questure possono acquisire\
+  \ le richieste di permesso di soggiorno per protezione temporanea e procedere con\
+  \ l’istruttoria, fino alla fase di verifica della pratica.\n\nSul sito di CIR -\
+  \ Comitato italiano rifugiati tutte le info sulle procedure e altri dettagli operativi.\
+  \ \n\nA questo link la direttiva: https://www.cir-onlus.org/wp-content/uploads/2022/03/Circolare-Min.-interno-10-3-2022-protezione-temporanea.pdf""
+link: https://t.co/W6CtYmorFq
+location:
+  mode: autocomplete
+  address:
+    place_id: 116809517
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 52938659
+    boundingbox:
+    - '41.8892832'
+    - '41.8895189'
+    - '12.4821513'
+    - '12.4837381'
+    lat: '41.8894698'
+    lon: '12.4828691'
+    display_name: Via del Velabro, Ripa, Municipio Roma I, Roma, Roma Capitale, Lazio,
+      00153, Italia
+    class: highway
+    type: service
+    importance: 0.585
+    address:
+      road: Via del Velabro
+      quarter: Ripa
+      suburb: Municipio Roma I
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: '00153'
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 41.8894698 12.4828691
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/112,1167414735,2022-03-14 16:32:52,2022-03-12 22:16:38,"Comune di Parma cerca per emergenza Ucraina mediatori linguistici, educatori, psicologi, assistenti sociali",44.8094695,10.3275042,Emilia-Romagna,Parma,"[""Valid/Accettato"", ""Help"", ""Translation""]",,,"{""Posizione"": ""44.8094695 10.3275042"", ""description"": ""In relazione all\u2019accoglienza dei profughi ucraini, il Comune di Parma  ha attivato, presso il punto informativo e raccolta dati Informastranieri, un'equipe di operatori del Settore Sociale per approfondire il quadro dei bisogni delle persone accolte o che richiedono aiuto e per effettuare l\u2019approfondimento delle disponibilit\u00e0 di accoglienza che vengono espresse dai cittadini. A supporto di tale equipe si ricercano Volontari con le seguenti professionalit\u00e0: Assistenti Sociali, Educatori, Psicologi e Mediatori linguistici (da attivare anche presso le scuole)."", ""email"": ""informastranieri@comune.parma.it"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""help"", ""location"": {""address"": {""address"": {""city"": ""Parma"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Parma"", ""postcode"": ""43121"", ""road"": ""Via Antonio Cecchi"", ""state"": ""Emilia-Romagna"", ""suburb"": ""Parma Centro""}, ""boundingbox"": [""44.8094603"", ""44.8097443"", ""10.3262362"", ""10.3275426""], ""class"": ""highway"", ""display_name"": ""Via Antonio Cecchi, Parma Centro, Parma, Emilia-Romagna, 43121, Italia"", ""importance"": 0.5949999999999999, ""lat"": ""44.8094695"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""10.3275042"", ""osm_id"": 323712841, ""osm_type"": ""way"", ""place_id"": 178424191, ""type"": ""service""}, ""mode"": ""autocomplete""}, ""nameSurname"": ""Comune di Parma"", ""phoneNumber"": ""351 0986321"", ""recipients"": ""mediatori linguistici, psicologi, assistenti sociali, educatori"", ""submit"": true, ""title"": ""Comune di Parma cerca per emergenza Ucraina mediatori linguistici, educatori, psicologi, assistenti sociali"", ""url"": ""https://www.comune.parma.it/notizie/news/WELFARE/2022-03-12/Parma-per-lUcraina-1.aspx""}","<pre><yamldata>
 nameSurname: Comune di Parma
 phoneNumber: 351 0986321
