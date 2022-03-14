@@ -1,4 +1,51 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/104,1167407569,2022-03-14 16:29:08,2022-03-12 21:35:48,A Roma la Chiesa di Santa Sofia cerca medici e studenti di medicina per selezionare e inscatolare farmaci,41.91169555,12.397510616030669,Lazio,Roma,"[""Valid/Accettato"", ""Help"", ""healtcare""]",,,"{""Posizione"": ""41.91169555 12.397510616030669"", ""description"": ""A Roma la Chiesa di Santa Sofia cerca medici, specializzandi e studenti di medicina per selezionare e suddividere per tipologie i medicinali raccolti e preparare le scatole da inviare in Ucraina."", ""email"": ""basilicadisantasofia@gmail.com"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""help"", ""location"": {""address"": {""address"": {""amenity"": ""Basilica di Santa Sofia"", ""city"": ""Roma"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Roma Capitale"", ""house_number"": ""478"", ""postcode"": ""00166"", ""road"": ""Via di Boccea"", ""state"": ""Lazio"", ""suburb"": ""Municipio Roma XIII""}, ""boundingbox"": [""41.911607"", ""41.9117849"", ""12.3973441"", ""12.3976718""], ""class"": ""amenity"", ""display_name"": ""Basilica di Santa Sofia, 478, Via di Boccea, Municipio Roma XIII, Roma, Roma Capitale, Lazio, 00166, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//place_of_worship_unknown3.p.20.png"", ""importance"": 0.511, ""lat"": ""41.91169555"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""12.397510616030669"", ""osm_id"": 380373490, ""osm_type"": ""way"", ""place_id"": 189984097, ""type"": ""place_of_worship""}, ""mode"": ""autocomplete""}, ""nameSurname"": ""Basilica di Santa Sofia Roma"", ""phoneNumber"": """", ""recipients"": """", ""submit"": true, ""title"": ""A Roma la Chiesa di Santa Sofia cerca medici e studenti di medicina per selezionare e inscatolare farmaci"", ""url"": ""https://www.facebook.com/100000516996321/posts/5658514257509085/""}","<pre><yamldata>
+nameSurname: Basilica di Santa Sofia Roma
+phoneNumber: ''
+email: basilicadisantasofia@gmail.com
+title: A Roma la Chiesa di Santa Sofia cerca medici e studenti di medicina per selezionare
+  e inscatolare farmaci
+recipients: ''
+description: A Roma la Chiesa di Santa Sofia cerca medici, specializzandi e studenti
+  di medicina per selezionare e suddividere per tipologie i medicinali raccolti e
+  preparare le scatole da inviare in Ucraina.
+url: https://www.facebook.com/100000516996321/posts/5658514257509085/
+location:
+  mode: autocomplete
+  address:
+    place_id: 189984097
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 380373490
+    boundingbox:
+    - '41.911607'
+    - '41.9117849'
+    - '12.3973441'
+    - '12.3976718'
+    lat: '41.91169555'
+    lon: '12.397510616030669'
+    display_name: Basilica di Santa Sofia, 478, Via di Boccea, Municipio Roma XIII,
+      Roma, Roma Capitale, Lazio, 00166, Italia
+    class: amenity
+    type: place_of_worship
+    importance: 0.511
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//place_of_worship_unknown3.p.20.png
+    address:
+      amenity: Basilica di Santa Sofia
+      house_number: '478'
+      road: Via di Boccea
+      suburb: Municipio Roma XIII
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: '00166'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 41.91169555 12.397510616030669
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/133,1168620253,2022-03-14 16:26:01,2022-03-14 16:25:30,"Dipartimento nazionale della Protezione civile, ordinanza sui trasporti per i rifugiati ucraini in Italia",,,,,"[""Valid/Accettato"", ""News"", ""transport"", ""document_data""]",,,"{""description"": ""Cittadini provenienti dall\u2019Ucraina potranno viaggiare gratuitamente sul territorio italiano, entro 5 giorni massimo dall\u2019ingresso in Italia, per raggiungere il primo luogo di destinazione o di accoglienza. Lo prevede un\u2019ordinanza del Dipartimento nazionale della Protezione civile. Nel testo anche indicazioni su trattamento dati e altro."", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""document_data"", ""link"": ""http://bit.ly/OrdinanzaTrasporti"", ""location"": {""address"": {}, ""mode"": ""autocomplete""}, ""submit"": true, ""title"": ""Dipartimento nazionale della Protezione civile, ordinanza sui trasporti per i rifugiati ucraini in Italia""}","<pre><yamldata>
 title: Dipartimento nazionale della Protezione civile, ordinanza sui trasporti per
   i rifugiati ucraini in Italia
@@ -954,53 +1001,6 @@ address:
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/104,1167407569,2022-03-12 22:47:41,2022-03-12 21:35:48,A Roma la Chiesa di Santa Sofia cerca medici e studenti di medicina per selezionare e inscatolare farmaci,41.91169555,12.397510616030669,Lazio,Roma,"[""Valid/Accettato"", ""Help""]",,,"{""Posizione"": ""41.91169555 12.397510616030669"", ""description"": ""A Roma la Chiesa di Santa Sofia cerca medici, specializzandi e studenti di medicina per selezionare e suddividere per tipologie i medicinali raccolti e preparare le scatole da inviare in Ucraina."", ""email"": ""basilicadisantasofia@gmail.com"", ""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"": true, ""label"": ""help"", ""location"": {""address"": {""address"": {""amenity"": ""Basilica di Santa Sofia"", ""city"": ""Roma"", ""country"": ""Italia"", ""country_code"": ""it"", ""county"": ""Roma Capitale"", ""house_number"": ""478"", ""postcode"": ""00166"", ""road"": ""Via di Boccea"", ""state"": ""Lazio"", ""suburb"": ""Municipio Roma XIII""}, ""boundingbox"": [""41.911607"", ""41.9117849"", ""12.3973441"", ""12.3976718""], ""class"": ""amenity"", ""display_name"": ""Basilica di Santa Sofia, 478, Via di Boccea, Municipio Roma XIII, Roma, Roma Capitale, Lazio, 00166, Italia"", ""icon"": ""https://nominatim.openstreetmap.org/ui/mapicons//place_of_worship_unknown3.p.20.png"", ""importance"": 0.511, ""lat"": ""41.91169555"", ""licence"": ""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"", ""lon"": ""12.397510616030669"", ""osm_id"": 380373490, ""osm_type"": ""way"", ""place_id"": 189984097, ""type"": ""place_of_worship""}, ""mode"": ""autocomplete""}, ""nameSurname"": ""Basilica di Santa Sofia Roma"", ""phoneNumber"": """", ""recipients"": """", ""submit"": true, ""title"": ""A Roma la Chiesa di Santa Sofia cerca medici e studenti di medicina per selezionare e inscatolare farmaci"", ""url"": ""https://www.facebook.com/100000516996321/posts/5658514257509085/""}","<pre><yamldata>
-nameSurname: Basilica di Santa Sofia Roma
-phoneNumber: ''
-email: basilicadisantasofia@gmail.com
-title: A Roma la Chiesa di Santa Sofia cerca medici e studenti di medicina per selezionare
-  e inscatolare farmaci
-recipients: ''
-description: A Roma la Chiesa di Santa Sofia cerca medici, specializzandi e studenti
-  di medicina per selezionare e suddividere per tipologie i medicinali raccolti e
-  preparare le scatole da inviare in Ucraina.
-url: https://www.facebook.com/100000516996321/posts/5658514257509085/
-location:
-  mode: autocomplete
-  address:
-    place_id: 189984097
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 380373490
-    boundingbox:
-    - '41.911607'
-    - '41.9117849'
-    - '12.3973441'
-    - '12.3976718'
-    lat: '41.91169555'
-    lon: '12.397510616030669'
-    display_name: Basilica di Santa Sofia, 478, Via di Boccea, Municipio Roma XIII,
-      Roma, Roma Capitale, Lazio, 00166, Italia
-    class: amenity
-    type: place_of_worship
-    importance: 0.511
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//place_of_worship_unknown3.p.20.png
-    address:
-      amenity: Basilica di Santa Sofia
-      house_number: '478'
-      road: Via di Boccea
-      suburb: Municipio Roma XIII
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      postcode: '00166'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 41.91169555 12.397510616030669
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/103,1167402805,2022-03-12 22:47:17,2022-03-12 21:18:44,"Online jobsforukraine.net, piattaforma internazionale per offrire lavoro ai rifugiati ucraini",,,,,"[""Valid/Accettato"", ""News"", ""Services"", ""job""]",,,"{""address"": {""address"": {}, ""mode"": ""autocomplete""}, ""description"": ""Online jobsforukraine.net, piattaforma internazionale per offrire lavoro ai rifugiati ucraini, in particolare in ambito accademico, ricerca scientifica e aziende."", ""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"": true, ""label"": ""services"", ""offerFromWho"": ""jobsforukraine.net"", ""recipients"": """", ""submit"": true, ""title"": ""Online jobsforukraine.net, piattaforma internazionale per offrire lavoro ai rifugiati ucraini"", ""type"": ""jobOffer"", ""url"": ""https://t.co/WSuw9UvIU1""}","<pre><yamldata>
 type: jobOffer
