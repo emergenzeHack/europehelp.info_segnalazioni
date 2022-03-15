@@ -1,4 +1,23 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/139,1169382593,2022-03-15 09:17:21,2022-03-15 09:08:31,La piattaforma Jooble ha attivato Help Ukranians per aiutare i rifugiati ucraini a trovare lavoro,,,,,"[""Valid/Accettato"",""News"",""Services"",""job""]",,,"{""address"":{""address"":{""address"":{},""mode"":""autocomplete""},""mode"":""autocomplete""},""description"":""La piattaforma Jooble ha attivato il servizio (in lingua ucraina) Help Ukranians per aiutare i rifugiati ucraini a trovare lavoro. Disponibile anche canale in lingua ucraina Telegram https://t.me/helpukrainiansjooble"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Jooble.org"",""recipients"":"""",""submit"":true,""title"":""La piattaforma Jooble ha attivato Help Ukranians per aiutare i rifugiati ucraini a trovare lavoro"",""type"":""jobOffer"",""url"":""https://helpukrainians.jooble.org""}","<pre><yamldata>
+type: jobOffer
+offerFromWho: Jooble.org
+title: La piattaforma Jooble ha attivato Help Ukranians per aiutare i rifugiati ucraini
+  a trovare lavoro
+recipients: ''
+description: La piattaforma Jooble ha attivato il servizio (in lingua ucraina) Help
+  Ukranians per aiutare i rifugiati ucraini a trovare lavoro. Disponibile anche canale
+  in lingua ucraina Telegram https://t.me/helpukrainiansjooble
+url: https://helpukrainians.jooble.org
+address:
+  mode: autocomplete
+  address:
+    mode: autocomplete
+    address: {}
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/138,1168909012,2022-03-14 22:47:22,2022-03-14 21:10:28,"UkraineTakeShelter, piattaforma in 12 lingue che offre ospitalità ai rifugiati ucraini",,,,,"[""Valid/Accettato"",""News"",""Services"",""useful contact"",""hospitality"",""tweet""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""UkraineTakeShelter, piattaforma in 12 lingue creata da due studenti di Harvard, Avi Schiffman e Marco Burstein, dove i profughi ucraini in fuga dalla guerra possono trovare ospiti disponibili ad accoglierli."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""UkraineTakeShelter"",""recipients"":"""",""submit"":true,""title"":""UkraineTakeShelter, piattaforma in 12 lingue che offre ospitalit\u00e0 ai rifugiati ucraini"",""type"":""hospitality"",""url"":""https://www.ukrainetakeshelter.com""}","<pre><yamldata>
 type: hospitality
 offerFromWho: UkraineTakeShelter
