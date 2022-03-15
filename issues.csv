@@ -1,4 +1,221 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/144,1169443647,2022-03-15 12:40:20,2022-03-15 10:02:25,A Gorizia Caritas cerca appartamenti per ospitare i rifugiati ucraini,45.930394,13.6194937,Friuli Venezia Giulia,Gorizia,"[""Valid/Accettato"",""Help"",""hospitality""]",,,"{""Posizione"":""45.930394 13.6194937"",""description"":""A Gorizia Caritas cerca appartamenti per ospitare i rifugiati ucraini. Per offrire la propria disponibilit\u00e0 a offrire alloggi, inviare una mail all\u2019indirizzo promozionecaritas@caritasgorizia.it o telefonare, dal luned\u00ec al venerd\u00ec, alla segreteria al numero 0481 525188, dalle 9 alle 13 e dalle 15 alle 18."",""email"":""promozionecaritas@caritasgorizia.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Gorizia"",""country"":""Italia"",""country_code"":""it"",""county"":""Gorizia"",""house_number"":""131"",""postcode"":""34170"",""road"":""Via Gian Battista Garzarolli"",""state"":""Friuli Venezia Giulia"",""suburb"":""San Rocco""},""boundingbox"":[""45.930344"",""45.930444"",""13.6194437"",""13.6195437""],""class"":""place"",""display_name"":""131, Via Gian Battista Garzarolli, San Rocco, Gorizia, Friuli Venezia Giulia, 34170, Italia"",""importance"":0.5309999999999999,""lat"":""45.930394"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.6194937"",""osm_id"":3800011266,""osm_type"":""node"",""place_id"":44988852,""type"":""house""},""mode"":""autocomplete""},""nameSurname"":""Caritas Gorizia"",""phoneNumber"":""039 0481 525188"",""recipients"":"""",""submit"":true,""title"":""A Gorizia Caritas cerca appartamenti per ospitare i rifugiati ucraini"",""url"":""http://caritas.chiesago.it/la-caritas-diocesana-di-gorizia-accanto-alla-popolazione-ucraina/""}","<pre><yamldata>
+nameSurname: Caritas Gorizia
+phoneNumber: 039 0481 525188
+email: promozionecaritas@caritasgorizia.it
+title: A Gorizia Caritas cerca appartamenti per ospitare i rifugiati ucraini
+recipients: ''
+description: A Gorizia Caritas cerca appartamenti per ospitare i rifugiati ucraini.
+  Per offrire la propria disponibilità a offrire alloggi, inviare una mail all’indirizzo
+  promozionecaritas@caritasgorizia.it o telefonare, dal lunedì al venerdì, alla segreteria
+  al numero 0481 525188, dalle 9 alle 13 e dalle 15 alle 18.
+url: http://caritas.chiesago.it/la-caritas-diocesana-di-gorizia-accanto-alla-popolazione-ucraina/
+location:
+  mode: autocomplete
+  address:
+    place_id: 44988852
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 3800011266
+    boundingbox:
+    - '45.930344'
+    - '45.930444'
+    - '13.6194437'
+    - '13.6195437'
+    lat: '45.930394'
+    lon: '13.6194937'
+    display_name: 131, Via Gian Battista Garzarolli, San Rocco, Gorizia, Friuli Venezia
+      Giulia, 34170, Italia
+    class: place
+    type: house
+    importance: 0.5309999999999999
+    address:
+      house_number: '131'
+      road: Via Gian Battista Garzarolli
+      suburb: San Rocco
+      city: Gorizia
+      county: Gorizia
+      state: Friuli Venezia Giulia
+      postcode: '34170'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 45.930394 13.6194937
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/143,1169422914,2022-03-15 12:39:59,2022-03-15 09:46:36,A Udine l'associazione Ospiti in arrivo cerca nuovi volontari per emergenza Ucraina,46.0592223,13.2457107,Friuli Venezia Giulia,Udine,"[""Valid/Accettato"",""Help""]",,,"{""Posizione"":""46.0592223 13.2457107"",""description"":""A Udine l'associazione Ospiti in arrivo cerca nuovi volontari per le attivit\u00e0 di supporto ai rifugiati ucraini, in particolare per l'attivit\u00e0 scuola."",""email"":""info@ospitinarrivo.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Udine"",""country"":""Italia"",""country_code"":""it"",""county"":""Udine"",""house_number"":""38"",""neighbourhood"":""Borgo Aquileia"",""postcode"":""33100"",""road"":""Via Bertaldia"",""state"":""Friuli Venezia Giulia""},""boundingbox"":[""46.0591723"",""46.0592723"",""13.2456607"",""13.2457607""],""class"":""place"",""display_name"":""38, Via Bertaldia, Borgo Aquileia, Udine, Friuli Venezia Giulia, 33100, Italia"",""importance"":0.5309999999999999,""lat"":""46.0592223"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.2457107"",""osm_id"":3748989602,""osm_type"":""node"",""place_id"":44475981,""type"":""house""},""mode"":""autocomplete""},""nameSurname"":""Associazione Ospiti in Arrivo"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""A Udine l'associazione Ospiti in arrivo cerca nuovi volontari per emergenza Ucraina"",""url"":""https://twitter.com/OiA_Udine/status/1502635270860165122?t=zFZvR35d2gcLyyqXZPtAiA&s=19""}","<pre><yamldata>
+nameSurname: Associazione Ospiti in Arrivo
+phoneNumber: ''
+email: info@ospitinarrivo.org
+title: A Udine l'associazione Ospiti in arrivo cerca nuovi volontari per emergenza
+  Ucraina
+recipients: ''
+description: A Udine l'associazione Ospiti in arrivo cerca nuovi volontari per le
+  attività di supporto ai rifugiati ucraini, in particolare per l'attività scuola.
+url: https://twitter.com/OiA_Udine/status/1502635270860165122?t=zFZvR35d2gcLyyqXZPtAiA&s=19
+location:
+  mode: autocomplete
+  address:
+    place_id: 44475981
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 3748989602
+    boundingbox:
+    - '46.0591723'
+    - '46.0592723'
+    - '13.2456607'
+    - '13.2457607'
+    lat: '46.0592223'
+    lon: '13.2457107'
+    display_name: 38, Via Bertaldia, Borgo Aquileia, Udine, Friuli Venezia Giulia,
+      33100, Italia
+    class: place
+    type: house
+    importance: 0.5309999999999999
+    address:
+      house_number: '38'
+      road: Via Bertaldia
+      neighbourhood: Borgo Aquileia
+      city: Udine
+      county: Udine
+      state: Friuli Venezia Giulia
+      postcode: '33100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 46.0592223 13.2457107
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/142,1169413203,2022-03-15 12:39:32,2022-03-15 09:37:26,Comune di Pordenone attiva numero telefonico per info su emergenza Ucraina,45.9562503,12.6597197,Friuli Venezia Giulia,Pordenone,"[""Valid/Accettato"",""News"",""Services"",""hospitality"",""healtcare""]",,,"{""Posizione"":""45.9562503 12.6597197"",""description"":""Comune di Pordenone ha attivato il COC (Centro Operativo Comunale) per coordinare in modo efficiente la macchina dell\u2019emergenza Ucraina e da marted\u00ec 8 per ulteriori informazioni sar\u00e0 attivo il numero telefonico 0434 392290."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/SNW3rx2WUy"",""location"":{""address"":{""address"":{""city"":""Pordenone"",""country"":""Italia"",""country_code"":""it"",""county"":""Pordenone"",""postcode"":""33170"",""state"":""Friuli Venezia Giulia""},""boundingbox"":[""45.9023126"",""46.0032911"",""12.6107195"",""12.7026257""],""class"":""boundary"",""display_name"":""Pordenone, Friuli Venezia Giulia, 33170, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.6310329586860557,""lat"":""45.9562503"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.6597197"",""osm_id"":179205,""osm_type"":""relation"",""place_id"":283270824,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Comune di Pordenone attiva numero telefonico per info su emergenza Ucraina""}","<pre><yamldata>
+title: Comune di Pordenone attiva numero telefonico per info su emergenza Ucraina
+description: Comune di Pordenone ha attivato il COC (Centro Operativo Comunale) per
+  coordinare in modo efficiente la macchina dell’emergenza Ucraina e da martedì 8
+  per ulteriori informazioni sarà attivo il numero telefonico 0434 392290.
+link: https://t.co/SNW3rx2WUy
+location:
+  mode: autocomplete
+  address:
+    place_id: 283270824
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 179205
+    boundingbox:
+    - '45.9023126'
+    - '46.0032911'
+    - '12.6107195'
+    - '12.7026257'
+    lat: '45.9562503'
+    lon: '12.6597197'
+    display_name: Pordenone, Friuli Venezia Giulia, 33170, Italia
+    class: boundary
+    type: administrative
+    importance: 0.6310329586860557
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Pordenone
+      county: Pordenone
+      state: Friuli Venezia Giulia
+      postcode: '33170'
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.9562503 12.6597197
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/141,1169406971,2022-03-15 12:39:00,2022-03-15 09:31:21,A Trieste Asl attiva punto tamponi Covid per rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""healtcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Trieste"",""country"":""Italia"",""country_code"":""it"",""county"":""Trieste"",""house_number"":""7"",""neighbourhood"":""Citt\u00e0 Vecchia"",""postcode"":""34121"",""road"":""Via del Teatro Romano"",""state"":""Friuli Venezia Giulia"",""suburb"":""Citt\u00e0 Nuova-Barriera Nuova-San Vito-Citt\u00e0 Vecchia""},""boundingbox"":[""45.6491591"",""45.6492591"",""13.7708085"",""13.7709085""],""class"":""place"",""display_name"":""7, Via del Teatro Romano, Citt\u00e0 Vecchia, Citt\u00e0 Nuova-Barriera Nuova-San Vito-Citt\u00e0 Vecchia, Trieste, Friuli Venezia Giulia, 34121, Italia"",""importance"":0.611,""lat"":""45.6492091"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.7708585"",""osm_id"":3633952799,""osm_type"":""node"",""place_id"":44558350,""type"":""house""},""mode"":""autocomplete""},""description"":""A Trieste sar\u00e0 operativo da venerd\u00ec 11 marzo un punto tamponi Covid19 dedicato ai cittadini ucraini in fuga dalla guerra, con accesso da via del Teatro Romano 7 e orario 9-13."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Asl Giuliano Isontina"",""recipients"":"""",""submit"":true,""title"":""A Trieste Asl attiva punto tamponi Covid per rifugiati ucraini"",""type"":""healthcare"",""url"":""https://twitter.com/ComunediTrieste/status/1502230350025662466?s=20&t=mI1D9SEToYGsPS2dab9Iww""}","<pre><yamldata>
+type: healthcare
+offerFromWho: Asl Giuliano Isontina
+title: A Trieste Asl attiva punto tamponi Covid per rifugiati ucraini
+recipients: ''
+description: A Trieste sarà operativo da venerdì 11 marzo un punto tamponi Covid19
+  dedicato ai cittadini ucraini in fuga dalla guerra, con accesso da via del Teatro
+  Romano 7 e orario 9-13.
+url: https://twitter.com/ComunediTrieste/status/1502230350025662466?s=20&t=mI1D9SEToYGsPS2dab9Iww
+address:
+  mode: autocomplete
+  address:
+    place_id: 44558350
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 3633952799
+    boundingbox:
+    - '45.6491591'
+    - '45.6492591'
+    - '13.7708085'
+    - '13.7709085'
+    lat: '45.6492091'
+    lon: '13.7708585'
+    display_name: 7, Via del Teatro Romano, Città Vecchia, Città Nuova-Barriera Nuova-San
+      Vito-Città Vecchia, Trieste, Friuli Venezia Giulia, 34121, Italia
+    class: place
+    type: house
+    importance: 0.611
+    address:
+      house_number: '7'
+      road: Via del Teatro Romano
+      neighbourhood: Città Vecchia
+      suburb: Città Nuova-Barriera Nuova-San Vito-Città Vecchia
+      city: Trieste
+      county: Trieste
+      state: Friuli Venezia Giulia
+      postcode: '34121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/140,1169402517,2022-03-15 12:38:32,2022-03-15 09:27:14,"Trieste, Azienda sanitaria apre tre sportelli per l'assistenza sanitaria ai rifugiati ucraini",,,,,"[""Valid/Accettato"",""Services"",""healtcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Trieste"",""country"":""Italia"",""country_code"":""it"",""county"":""Trieste"",""house_number"":""2"",""neighbourhood"":""Parigi Piccola"",""postcode"":""34128"",""road"":""Via Costantino Costantinides"",""state"":""Friuli Venezia Giulia"",""suburb"":""San Giovanni-Chiadino-Rozzol""},""boundingbox"":[""45.6564283"",""45.6565283"",""13.7994023"",""13.7995023""],""class"":""place"",""display_name"":""2, Via Costantino Costantinides, Parigi Piccola, San Giovanni-Chiadino-Rozzol, Trieste, Friuli Venezia Giulia, 34128, Italia"",""importance"":0.621,""lat"":""45.6564783"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.7994523"",""osm_id"":3633911936,""osm_type"":""node"",""place_id"":44603348,""type"":""house""},""mode"":""autocomplete""},""description"":""Alle persone provenienti dall'Ucraina da mercoled\u00ec 16 marzo 2022 e per ogni mercoled\u00ec, i distretti dell'area giuliana apriranno degli orari ad accesso diretto, al fine di rilasciare i tesserini STP/ENI e pi\u00f9 precisamente:\n- DISTRETTO 2 - Via della Piet\u00e0 n. 2/1 - II piano, stanze n. 2 i e n. 2 l (con accesso dall'entrata principale dell'ospedale Maggiore) dalle ore 11:00 alle ore 13:00;\n- DISTRETTO 3 - Via Valmaura n. 59 dalle ore 09:00 alle ore 13:00;\n - DISTRETTO 4 - Via Sai 7 - I piano (comprensorio di San Giovanni) dalle ore 11:00 alle ore 13:00."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Azienda Sanitaria Giuliano Isontina"",""recipients"":"""",""submit"":true,""title"":""Trieste, Azienda sanitaria apre tre sportelli per l'assistenza sanitaria ai rifugiati ucraini"",""type"":""healthcare"",""url"":""https://t.co/HrvpZmZUiI""}","<pre><yamldata>
+type: healthcare
+offerFromWho: Azienda Sanitaria Giuliano Isontina
+title: Trieste, Azienda sanitaria apre tre sportelli per l'assistenza sanitaria ai
+  rifugiati ucraini
+recipients: ''
+description: ""Alle persone provenienti dall'Ucraina da mercoledì 16 marzo 2022 e per\
+  \ ogni mercoledì, i distretti dell'area giuliana apriranno degli orari ad accesso\
+  \ diretto, al fine di rilasciare i tesserini STP/ENI e più precisamente:\n- DISTRETTO\
+  \ 2 - Via della Pietà n. 2/1 - II piano, stanze n. 2 i e n. 2 l (con accesso dall'entrata\
+  \ principale dell'ospedale Maggiore) dalle ore 11:00 alle ore 13:00;\n- DISTRETTO\
+  \ 3 - Via Valmaura n. 59 dalle ore 09:00 alle ore 13:00;\n - DISTRETTO 4 - Via Sai\
+  \ 7 - I piano (comprensorio di San Giovanni) dalle ore 11:00 alle ore 13:00.""
+url: https://t.co/HrvpZmZUiI
+address:
+  mode: autocomplete
+  address:
+    place_id: 44603348
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 3633911936
+    boundingbox:
+    - '45.6564283'
+    - '45.6565283'
+    - '13.7994023'
+    - '13.7995023'
+    lat: '45.6564783'
+    lon: '13.7994523'
+    display_name: 2, Via Costantino Costantinides, Parigi Piccola, San Giovanni-Chiadino-Rozzol,
+      Trieste, Friuli Venezia Giulia, 34128, Italia
+    class: place
+    type: house
+    importance: 0.621
+    address:
+      house_number: '2'
+      road: Via Costantino Costantinides
+      neighbourhood: Parigi Piccola
+      suburb: San Giovanni-Chiadino-Rozzol
+      city: Trieste
+      county: Trieste
+      state: Friuli Venezia Giulia
+      postcode: '34128'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/139,1169382593,2022-03-15 09:17:21,2022-03-15 09:08:31,La piattaforma Jooble ha attivato Help Ukranians per aiutare i rifugiati ucraini a trovare lavoro,,,,,"[""Valid/Accettato"",""News"",""Services"",""job""]",,,"{""address"":{""address"":{""address"":{},""mode"":""autocomplete""},""mode"":""autocomplete""},""description"":""La piattaforma Jooble ha attivato il servizio (in lingua ucraina) Help Ukranians per aiutare i rifugiati ucraini a trovare lavoro. Disponibile anche canale in lingua ucraina Telegram https://t.me/helpukrainiansjooble"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Jooble.org"",""recipients"":"""",""submit"":true,""title"":""La piattaforma Jooble ha attivato Help Ukranians per aiutare i rifugiati ucraini a trovare lavoro"",""type"":""jobOffer"",""url"":""https://helpukrainians.jooble.org""}","<pre><yamldata>
 type: jobOffer
 offerFromWho: Jooble.org
