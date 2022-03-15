@@ -39,8 +39,11 @@ jobs:
         run: |
             python -m pip install --upgrade pip
             if [ -f scripts/requirements.txt ]; then pip install -r scripts/requirements.txt; fi
+            apt-get update; apt-get install imagemagick
       - name: execute script
-        run: python scripts/github2CSV.py issues.csv issuesjson.json issues.geojson scripts/
+        run: |
+            python scripts/github2CSV.py issues.csv issuesjson.json issues.geojson scripts/
+            sh scripts/doall_createIssueImage.sh
         
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
