@@ -1,4 +1,68 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/157,1170727612,2022-03-16 12:42:29,2022-03-16 09:02:31,"Accoglienza rifugiati ucraini, bando della Regione Lombardia per strutture ricettive",45.486740749999996,9.196137202763207,Lombardia,Milano,"[""Valid/Accettato"",""News"",""Help"",""hospitality"",""tweet""]",,,"{""Posizione"":""45.486740749999996 9.196137202763207"",""description"":""La Regione Lombardia ha pubblicato una manifestazione di interesse finalizzata ad assicurare l'ospitalit\u00e0 delle persone provenienti dall'Ucraina, in conseguenza della crisi politica e militare in atto, nelle strutture ricettive presenti sul territorio regionale, qualora non sia possibile l\u2019accoglienza tramite le misure ordinarie del CAS (Centro di Accoglienza Straordinario) o del SAI (Sistema di Accoglienza e Integrazione), messe a disposizione dalle Prefetture - Uffici Territoriali del Governo.\n\nPossono partecipare le strutture ricettive, sia alberghiere che non alberghiere, che possono garantire ospitalit\u00e0 con trattamento di pensione completa con le seguenti specifiche:\n-  l\u2019alloggio in camere singole, doppie, triple, appartamenti, residence, e/o altre strutture ricettive, provviste di servizi igienici e dotate di Wi-Fi, TV, riscaldamento/raffrescamento, acqua calda/fredda;\n- gli ordinari servizi di pulizia ed igiene, in base alle specifiche disposizioni vigenti per la categoria ricettiva di appartenenza fatto salvo il cambio della biancheria settimanale e comunque ad ogni check-out.\n\nLe strutture interessate possono aderire alla manifestazione di interesse esclusivamente tramite la piattaforma Bandi Online. Tutte le info al link."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/gWzf8JlVLz"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""1"",""office"":""Palazzo Regione Lombardia"",""postcode"":""20124"",""quarter"":""GARIBALDI REPUBBLICA"",""road"":""Piazza Citt\u00e0 di Lombardia"",""state"":""Lombardia"",""suburb"":""Municipio 9""},""boundingbox"":[""45.4855652"",""45.4879171"",""9.1947702"",""9.1968219""],""class"":""office"",""display_name"":""Palazzo Regione Lombardia, 1, Piazza Citt\u00e0 di Lombardia, GARIBALDI REPUBBLICA, Municipio 9, Milano, Lombardia, 20124, Italia"",""importance"":0.7409999999999999,""lat"":""45.486740749999996"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.196137202763207"",""osm_id"":136077807,""osm_type"":""way"",""place_id"":133697142,""type"":""government""},""mode"":""autocomplete""},""submit"":true,""title"":""Accoglienza rifugiati ucraini, bando della Regione Lombardia per strutture ricettive""}","<pre><yamldata>
+title: Accoglienza rifugiati ucraini, bando della Regione Lombardia per strutture
+  ricettive
+description: 'La Regione Lombardia ha pubblicato una manifestazione di interesse finalizzata
+  ad assicurare l''ospitalità delle persone provenienti dall''Ucraina, in conseguenza
+  della crisi politica e militare in atto, nelle strutture ricettive presenti sul
+  territorio regionale, qualora non sia possibile l’accoglienza tramite le misure
+  ordinarie del CAS (Centro di Accoglienza Straordinario) o del SAI (Sistema di Accoglienza
+  e Integrazione), messe a disposizione dalle Prefetture - Uffici Territoriali del
+  Governo.
+
+
+  Possono partecipare le strutture ricettive, sia alberghiere che non alberghiere,
+  che possono garantire ospitalità con trattamento di pensione completa con le seguenti
+  specifiche:
+
+  -  l’alloggio in camere singole, doppie, triple, appartamenti, residence, e/o altre
+  strutture ricettive, provviste di servizi igienici e dotate di Wi-Fi, TV, riscaldamento/raffrescamento,
+  acqua calda/fredda;
+
+  - gli ordinari servizi di pulizia ed igiene, in base alle specifiche disposizioni
+  vigenti per la categoria ricettiva di appartenenza fatto salvo il cambio della biancheria
+  settimanale e comunque ad ogni check-out.
+
+
+  Le strutture interessate possono aderire alla manifestazione di interesse esclusivamente
+  tramite la piattaforma Bandi Online. Tutte le info al link.'
+link: https://t.co/gWzf8JlVLz
+location:
+  mode: autocomplete
+  address:
+    place_id: 133697142
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 136077807
+    boundingbox:
+    - '45.4855652'
+    - '45.4879171'
+    - '9.1947702'
+    - '9.1968219'
+    lat: '45.486740749999996'
+    lon: '9.196137202763207'
+    display_name: Palazzo Regione Lombardia, 1, Piazza Città di Lombardia, GARIBALDI
+      REPUBBLICA, Municipio 9, Milano, Lombardia, 20124, Italia
+    class: office
+    type: government
+    importance: 0.7409999999999999
+    address:
+      office: Palazzo Regione Lombardia
+      house_number: '1'
+      road: Piazza Città di Lombardia
+      quarter: GARIBALDI REPUBBLICA
+      suburb: Municipio 9
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20124'
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.486740749999996 9.196137202763207
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/134,1168644134,2022-03-16 11:11:51,2022-03-14 16:47:07,A Roma attivo help center di Croce Rossa per i rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""materialGoods"",""healtcare"",""Translation""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""18"",""office"":""Associazione della Croce Rossa Italiana - Comitato Municipi 8 - 11 - 12"",""postcode"":""00100"",""road"":""Via Antonio Pacinotti"",""state"":""Lazio"",""suburb"":""Municipio Roma XI""},""boundingbox"":[""41.8709875"",""41.8710875"",""12.4690356"",""12.4691356""],""class"":""office"",""display_name"":""Associazione della Croce Rossa Italiana - Comitato Municipi 8 - 11 - 12, 18, Via Antonio Pacinotti, Municipio Roma XI, Roma, Roma Capitale, Lazio, 00100, Italia"",""importance"":0.42099999999999993,""lat"":""41.8710375"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4690856"",""osm_id"":7924233508,""osm_type"":""node"",""place_id"":81569297,""type"":""association""},""mode"":""autocomplete""},""description"":""A Roma, in via Pacinotti 18, help center di Croce Rossa per i rifugiati ucraini che offre:\n- orientamento ai servizi sul territorio \n- donazione di beni\n- supporto alimentare\n- mediazione linguistica\n\nApertura: luned\u00ec-venerd\u00ec, ore 10-17.\n\nPer contatti: 3428102303 - 06 35403823 - 800 065510"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Croce Rossa Roma"",""recipients"":"""",""submit"":true,""title"":""A Roma attivo help center di Croce Rossa per i rifugiati ucraini"",""type"":""materialGoods"",""url"":""https://twitter.com/ukrinit/status/1503372513228824581?s=21""}","<pre><yamldata>
 type: materialGoods
 offerFromWho: Croce Rossa Roma
@@ -675,70 +739,6 @@ location:
 label: document_data
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/157,1170727612,2022-03-16 09:34:26,2022-03-16 09:02:31,"Accoglienza rifugiati ucraini, bando della Regione Lombardia per strutture ricettive",45.486740749999996,9.196137202763207,Lombardia,Milano,"[""Valid/Accettato"",""News"",""Help"",""hospitality""]",,,"{""Posizione"":""45.486740749999996 9.196137202763207"",""description"":""La Regione Lombardia ha pubblicato una manifestazione di interesse finalizzata ad assicurare l'ospitalit\u00e0 delle persone provenienti dall'Ucraina, in conseguenza della crisi politica e militare in atto, nelle strutture ricettive presenti sul territorio regionale, qualora non sia possibile l\u2019accoglienza tramite le misure ordinarie del CAS (Centro di Accoglienza Straordinario) o del SAI (Sistema di Accoglienza e Integrazione), messe a disposizione dalle Prefetture - Uffici Territoriali del Governo.\n\nPossono partecipare le strutture ricettive, sia alberghiere che non alberghiere, che possono garantire ospitalit\u00e0 con trattamento di pensione completa con le seguenti specifiche:\n-  l\u2019alloggio in camere singole, doppie, triple, appartamenti, residence, e/o altre strutture ricettive, provviste di servizi igienici e dotate di Wi-Fi, TV, riscaldamento/raffrescamento, acqua calda/fredda;\n- gli ordinari servizi di pulizia ed igiene, in base alle specifiche disposizioni vigenti per la categoria ricettiva di appartenenza fatto salvo il cambio della biancheria settimanale e comunque ad ogni check-out.\n\nLe strutture interessate possono aderire alla manifestazione di interesse esclusivamente tramite la piattaforma Bandi Online. Tutte le info al link."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/gWzf8JlVLz"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""1"",""office"":""Palazzo Regione Lombardia"",""postcode"":""20124"",""quarter"":""GARIBALDI REPUBBLICA"",""road"":""Piazza Citt\u00e0 di Lombardia"",""state"":""Lombardia"",""suburb"":""Municipio 9""},""boundingbox"":[""45.4855652"",""45.4879171"",""9.1947702"",""9.1968219""],""class"":""office"",""display_name"":""Palazzo Regione Lombardia, 1, Piazza Citt\u00e0 di Lombardia, GARIBALDI REPUBBLICA, Municipio 9, Milano, Lombardia, 20124, Italia"",""importance"":0.7409999999999999,""lat"":""45.486740749999996"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.196137202763207"",""osm_id"":136077807,""osm_type"":""way"",""place_id"":133697142,""type"":""government""},""mode"":""autocomplete""},""submit"":true,""title"":""Accoglienza rifugiati ucraini, bando della Regione Lombardia per strutture ricettive""}","<pre><yamldata>
-title: Accoglienza rifugiati ucraini, bando della Regione Lombardia per strutture
-  ricettive
-description: 'La Regione Lombardia ha pubblicato una manifestazione di interesse finalizzata
-  ad assicurare l''ospitalità delle persone provenienti dall''Ucraina, in conseguenza
-  della crisi politica e militare in atto, nelle strutture ricettive presenti sul
-  territorio regionale, qualora non sia possibile l’accoglienza tramite le misure
-  ordinarie del CAS (Centro di Accoglienza Straordinario) o del SAI (Sistema di Accoglienza
-  e Integrazione), messe a disposizione dalle Prefetture - Uffici Territoriali del
-  Governo.
-
-
-  Possono partecipare le strutture ricettive, sia alberghiere che non alberghiere,
-  che possono garantire ospitalità con trattamento di pensione completa con le seguenti
-  specifiche:
-
-  -  l’alloggio in camere singole, doppie, triple, appartamenti, residence, e/o altre
-  strutture ricettive, provviste di servizi igienici e dotate di Wi-Fi, TV, riscaldamento/raffrescamento,
-  acqua calda/fredda;
-
-  - gli ordinari servizi di pulizia ed igiene, in base alle specifiche disposizioni
-  vigenti per la categoria ricettiva di appartenenza fatto salvo il cambio della biancheria
-  settimanale e comunque ad ogni check-out.
-
-
-  Le strutture interessate possono aderire alla manifestazione di interesse esclusivamente
-  tramite la piattaforma Bandi Online. Tutte le info al link.'
-link: https://t.co/gWzf8JlVLz
-location:
-  mode: autocomplete
-  address:
-    place_id: 133697142
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 136077807
-    boundingbox:
-    - '45.4855652'
-    - '45.4879171'
-    - '9.1947702'
-    - '9.1968219'
-    lat: '45.486740749999996'
-    lon: '9.196137202763207'
-    display_name: Palazzo Regione Lombardia, 1, Piazza Città di Lombardia, GARIBALDI
-      REPUBBLICA, Municipio 9, Milano, Lombardia, 20124, Italia
-    class: office
-    type: government
-    importance: 0.7409999999999999
-    address:
-      office: Palazzo Regione Lombardia
-      house_number: '1'
-      road: Piazza Città di Lombardia
-      quarter: GARIBALDI REPUBBLICA
-      suburb: Municipio 9
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20124'
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 45.486740749999996 9.196137202763207
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/156,1170721596,2022-03-16 09:33:50,2022-03-16 08:56:19,"Emergenza Ucraina, raccolta fondi della Regione Emilia Romagna",44.5086078,11.3633696,Emilia-Romagna,Bologna,"[""Valid/Accettato"",""fundraising""]",,,"{""Posizione"":""44.5086078 11.3633696"",""bicSwift"":""UNCRITM1BA2"",""causal"":""EMERGENZA UCRAINA"",""ccPostal"":"""",""description"":""Raccolta fondi per l'emergenza in Ucraina."",""email"":""procivsegr@regione.emilia-romagna.it"",""heading"":""Agenzia per la sicurezza territoriale e la protezione civile dell\u2019Emilia-Romagna"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT69G0200802435000104428964"",""label"":""fundraising"",""link"":""https://t.co/PRsSRsL22j?s=09"",""location"":{""address"":{""address"":{""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""house_number"":""52"",""office"":""URP Regione Emilia-Romagna"",""postcode"":""14007"",""road"":""Viale Aldo Moro"",""state"":""Emilia-Romagna"",""suburb"":""San Donato"",""village"":""San Nicol\u00f2 di Villola""},""boundingbox"":[""44.5085578"",""44.5086578"",""11.3633196"",""11.3634196""],""class"":""office"",""display_name"":""URP Regione Emilia-Romagna, 52, Viale Aldo Moro, San Donato, San Donato-San Vitale, San Nicol\u00f2 di Villola, Bologna, Emilia-Romagna, 14007, Italia"",""importance"":0.5209999999999999,""lat"":""44.5086078"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.3633696"",""osm_id"":4152700305,""osm_type"":""node"",""place_id"":47977253,""type"":""government""},""mode"":""autocomplete""},""submit"":true,""title"":""Emergenza Ucraina, raccolta fondi della Regione Emilia Romagna""}","<pre><yamldata>
 title: Emergenza Ucraina, raccolta fondi della Regione Emilia Romagna
