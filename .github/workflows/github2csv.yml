@@ -39,7 +39,7 @@ jobs:
         run: |
             python -m pip install --upgrade pip
             if [ -f scripts/requirements.txt ]; then pip install -r scripts/requirements.txt; fi
-            sudo apt-get update; sudo apt-get install imagemagick jq optipng
+            sudo apt-get update; sudo apt-get install imagemagick jq 
       - name: execute script
         run: |
             python scripts/github2CSV.py issues.csv issuesjson.json issues.geojson scripts/
