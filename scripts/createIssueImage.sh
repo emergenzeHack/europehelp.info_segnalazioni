@@ -10,7 +10,8 @@ title="$(sed 's/^"\(.*\)"$/\1/' <<< ${6})"
 labels="${7}"
 
 
-destfilename="${number}.webp"
+destfilename="${number}.avif"
+destfilename2="${number}.webp"
 
 TMPFILE=/tmp/${number}caption_img.png
 TMPFILE2=/tmp/${number}url_img.png
@@ -84,7 +85,8 @@ convert -background transparent -fill "${FRONTCOLOR}" -font Lato-Regular -points
 #convert  "${TMPTEMPLATE}" ${TMPFILE} -geometry "${text_pos}" -quality 9 -composite "${destdir}/${destfilename}"
 #convert  "${TMPTEMPLATE}" ${TMPFILE} -geometry "${text_pos}" -depth 2 -colors 4 -quality 9 -composite "${destdir}/${destfilename}"
 convert  "${TMPTEMPLATE}" "${TMPFILE}" -geometry "${text_pos}" -composite "${TMPFILE3}"
-convert  "${TMPFILE3}" "${TMPFILE2}" -geometry "+80+580" -depth 4 -colors 32 -quality 20 -define webp:lossless=false -composite "${destdir}/${destfilename}"
+convert  "${TMPFILE3}" "${TMPFILE2}" -geometry "+80+580" -depth 4 -colors 32 -quality 40 -define webp:lossless=false -composite "${destdir}/${destfilename}"
+#convert  "${TMPFILE3}" "${TMPFILE2}" -geometry "+80+580" -depth 4 -colors 32 -quality 30 -define webp:lossless=false -composite "${destdir}/${destfilename2}"
 
 #optipng -strip all "${destdir}/${destfilename}" 
 
