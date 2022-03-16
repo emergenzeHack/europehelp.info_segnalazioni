@@ -10,7 +10,7 @@ title="$(sed 's/^"\(.*\)"$/\1/' <<< ${6})"
 labels="${7}"
 
 
-destfilename="${number}.png"
+destfilename="${number}.webp"
 
 TMPFILE=/tmp/${number}caption_img.png
 TMPFILE2=/tmp/${number}url_img.png
@@ -77,16 +77,16 @@ convert -background transparent -fill "${FRONTCOLOR}" -font Lato-Regular -size "
           caption:"${title}" \
           "${TMPFILE}"
 
-convert -background transparent -fill "${FRONTCOLOR}" -font Lato-Regular -pointsize 24 -size "${url_size}" \
+convert -background transparent -fill "${FRONTCOLOR}" -font Lato-Regular -pointsize 32 -size "${url_size}" \
           caption:"https://ukrainehelp.emergenzehack.info/issues/${number}" \
           "${TMPFILE2}"
 
 #convert  "${TMPTEMPLATE}" ${TMPFILE} -geometry "${text_pos}" -quality 9 -composite "${destdir}/${destfilename}"
 #convert  "${TMPTEMPLATE}" ${TMPFILE} -geometry "${text_pos}" -depth 2 -colors 4 -quality 9 -composite "${destdir}/${destfilename}"
 convert  "${TMPTEMPLATE}" "${TMPFILE}" -geometry "${text_pos}" -composite "${TMPFILE3}"
-convert  "${TMPFILE3}" "${TMPFILE2}" -geometry "+80+600" -depth 4 -colors 16 -quality 9 -composite "${destdir}/${destfilename}"
+convert  "${TMPFILE3}" "${TMPFILE2}" -geometry "+80+580" -depth 4 -colors 32 -quality 20 -define webp:lossless=false -composite "${destdir}/${destfilename}"
 
-optipng -strip all "${destdir}/${destfilename}" 
+#optipng -strip all "${destdir}/${destfilename}" 
 
 new_filemd5=$(md5sum "${destdir}/${destfilename}" | awk '{ print $1 }')
 
