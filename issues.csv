@@ -1,4 +1,49 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/144,1169443647,2022-03-16 09:37:04,2022-03-15 10:02:25,A Gorizia Caritas cerca appartamenti per accoglienza rifugiati ucraini,45.930394,13.6194937,Friuli Venezia Giulia,Gorizia,"[""Valid/Accettato"",""Help"",""hospitality""]",,,"{""Posizione"":""45.930394 13.6194937"",""description"":""A Gorizia Caritas cerca appartamenti per ospitare i rifugiati ucraini. Per offrire la propria disponibilit\u00e0 a offrire alloggi, inviare una mail all\u2019indirizzo promozionecaritas@caritasgorizia.it o telefonare, dal luned\u00ec al venerd\u00ec, alla segreteria al numero 0481 525188, dalle 9 alle 13 e dalle 15 alle 18."",""email"":""promozionecaritas@caritasgorizia.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Gorizia"",""country"":""Italia"",""country_code"":""it"",""county"":""Gorizia"",""house_number"":""131"",""postcode"":""34170"",""road"":""Via Gian Battista Garzarolli"",""state"":""Friuli Venezia Giulia"",""suburb"":""San Rocco""},""boundingbox"":[""45.930344"",""45.930444"",""13.6194437"",""13.6195437""],""class"":""place"",""display_name"":""131, Via Gian Battista Garzarolli, San Rocco, Gorizia, Friuli Venezia Giulia, 34170, Italia"",""importance"":0.5309999999999999,""lat"":""45.930394"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.6194937"",""osm_id"":3800011266,""osm_type"":""node"",""place_id"":44988852,""type"":""house""},""mode"":""autocomplete""},""nameSurname"":""Caritas Gorizia"",""phoneNumber"":""039 0481 525188"",""recipients"":"""",""submit"":true,""title"":""A Gorizia Caritas cerca appartamenti per ospitare i rifugiati ucraini"",""url"":""http://caritas.chiesago.it/la-caritas-diocesana-di-gorizia-accanto-alla-popolazione-ucraina/""}","<pre><yamldata>
+nameSurname: Caritas Gorizia
+phoneNumber: 039 0481 525188
+email: promozionecaritas@caritasgorizia.it
+title: A Gorizia Caritas cerca appartamenti per ospitare i rifugiati ucraini
+recipients: ''
+description: A Gorizia Caritas cerca appartamenti per ospitare i rifugiati ucraini.
+  Per offrire la propria disponibilità a offrire alloggi, inviare una mail all’indirizzo
+  promozionecaritas@caritasgorizia.it o telefonare, dal lunedì al venerdì, alla segreteria
+  al numero 0481 525188, dalle 9 alle 13 e dalle 15 alle 18.
+url: http://caritas.chiesago.it/la-caritas-diocesana-di-gorizia-accanto-alla-popolazione-ucraina/
+location:
+  mode: autocomplete
+  address:
+    place_id: 44988852
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 3800011266
+    boundingbox:
+    - '45.930344'
+    - '45.930444'
+    - '13.6194437'
+    - '13.6195437'
+    lat: '45.930394'
+    lon: '13.6194937'
+    display_name: 131, Via Gian Battista Garzarolli, San Rocco, Gorizia, Friuli Venezia
+      Giulia, 34170, Italia
+    class: place
+    type: house
+    importance: 0.5309999999999999
+    address:
+      house_number: '131'
+      road: Via Gian Battista Garzarolli
+      suburb: San Rocco
+      city: Gorizia
+      county: Gorizia
+      state: Friuli Venezia Giulia
+      postcode: '34170'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 45.930394 13.6194937
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/153,1170149445,2022-03-16 09:35:18,2022-03-15 19:59:17,"Accoglienza rifugiati ucraini, sul Giornale della Protezione Civile i dati regione per regione",,,,,"[""Valid/Accettato"",""News"",""Services"",""document_data""]",,,"{""description"":""Accoglienza rifgiati ucraini, sul Giornale della Protezione Civile i dati regione per regione e l'impegno messo in campo.\nI dati sono aggiornati al 14 marzo."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://t.co/umxZ0a7Pgz"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Accoglienza rifgiati ucraini, sul Giornale della Protezione Civile i dati regione per regione""}","<pre><yamldata>
 title: Accoglienza rifgiati ucraini, sul Giornale della Protezione Civile i dati regione
   per regione
@@ -610,51 +655,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 43.76916385 11.256122235407785
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/144,1169443647,2022-03-15 12:40:20,2022-03-15 10:02:25,A Gorizia Caritas cerca appartamenti per ospitare i rifugiati ucraini,45.930394,13.6194937,Friuli Venezia Giulia,Gorizia,"[""Valid/Accettato"",""Help"",""hospitality""]",,,"{""Posizione"":""45.930394 13.6194937"",""description"":""A Gorizia Caritas cerca appartamenti per ospitare i rifugiati ucraini. Per offrire la propria disponibilit\u00e0 a offrire alloggi, inviare una mail all\u2019indirizzo promozionecaritas@caritasgorizia.it o telefonare, dal luned\u00ec al venerd\u00ec, alla segreteria al numero 0481 525188, dalle 9 alle 13 e dalle 15 alle 18."",""email"":""promozionecaritas@caritasgorizia.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Gorizia"",""country"":""Italia"",""country_code"":""it"",""county"":""Gorizia"",""house_number"":""131"",""postcode"":""34170"",""road"":""Via Gian Battista Garzarolli"",""state"":""Friuli Venezia Giulia"",""suburb"":""San Rocco""},""boundingbox"":[""45.930344"",""45.930444"",""13.6194437"",""13.6195437""],""class"":""place"",""display_name"":""131, Via Gian Battista Garzarolli, San Rocco, Gorizia, Friuli Venezia Giulia, 34170, Italia"",""importance"":0.5309999999999999,""lat"":""45.930394"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.6194937"",""osm_id"":3800011266,""osm_type"":""node"",""place_id"":44988852,""type"":""house""},""mode"":""autocomplete""},""nameSurname"":""Caritas Gorizia"",""phoneNumber"":""039 0481 525188"",""recipients"":"""",""submit"":true,""title"":""A Gorizia Caritas cerca appartamenti per ospitare i rifugiati ucraini"",""url"":""http://caritas.chiesago.it/la-caritas-diocesana-di-gorizia-accanto-alla-popolazione-ucraina/""}","<pre><yamldata>
-nameSurname: Caritas Gorizia
-phoneNumber: 039 0481 525188
-email: promozionecaritas@caritasgorizia.it
-title: A Gorizia Caritas cerca appartamenti per ospitare i rifugiati ucraini
-recipients: ''
-description: A Gorizia Caritas cerca appartamenti per ospitare i rifugiati ucraini.
-  Per offrire la propria disponibilità a offrire alloggi, inviare una mail all’indirizzo
-  promozionecaritas@caritasgorizia.it o telefonare, dal lunedì al venerdì, alla segreteria
-  al numero 0481 525188, dalle 9 alle 13 e dalle 15 alle 18.
-url: http://caritas.chiesago.it/la-caritas-diocesana-di-gorizia-accanto-alla-popolazione-ucraina/
-location:
-  mode: autocomplete
-  address:
-    place_id: 44988852
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 3800011266
-    boundingbox:
-    - '45.930344'
-    - '45.930444'
-    - '13.6194437'
-    - '13.6195437'
-    lat: '45.930394'
-    lon: '13.6194937'
-    display_name: 131, Via Gian Battista Garzarolli, San Rocco, Gorizia, Friuli Venezia
-      Giulia, 34170, Italia
-    class: place
-    type: house
-    importance: 0.5309999999999999
-    address:
-      house_number: '131'
-      road: Via Gian Battista Garzarolli
-      suburb: San Rocco
-      city: Gorizia
-      county: Gorizia
-      state: Friuli Venezia Giulia
-      postcode: '34170'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 45.930394 13.6194937
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/143,1169422914,2022-03-15 12:39:59,2022-03-15 09:46:36,A Udine l'associazione Ospiti in arrivo cerca nuovi volontari per emergenza Ucraina,46.0592223,13.2457107,Friuli Venezia Giulia,Udine,"[""Valid/Accettato"",""Help""]",,,"{""Posizione"":""46.0592223 13.2457107"",""description"":""A Udine l'associazione Ospiti in arrivo cerca nuovi volontari per le attivit\u00e0 di supporto ai rifugiati ucraini, in particolare per l'attivit\u00e0 scuola."",""email"":""info@ospitinarrivo.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Udine"",""country"":""Italia"",""country_code"":""it"",""county"":""Udine"",""house_number"":""38"",""neighbourhood"":""Borgo Aquileia"",""postcode"":""33100"",""road"":""Via Bertaldia"",""state"":""Friuli Venezia Giulia""},""boundingbox"":[""46.0591723"",""46.0592723"",""13.2456607"",""13.2457607""],""class"":""place"",""display_name"":""38, Via Bertaldia, Borgo Aquileia, Udine, Friuli Venezia Giulia, 33100, Italia"",""importance"":0.5309999999999999,""lat"":""46.0592223"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.2457107"",""osm_id"":3748989602,""osm_type"":""node"",""place_id"":44475981,""type"":""house""},""mode"":""autocomplete""},""nameSurname"":""Associazione Ospiti in Arrivo"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""A Udine l'associazione Ospiti in arrivo cerca nuovi volontari per emergenza Ucraina"",""url"":""https://twitter.com/OiA_Udine/status/1502635270860165122?t=zFZvR35d2gcLyyqXZPtAiA&s=19""}","<pre><yamldata>
 nameSurname: Associazione Ospiti in Arrivo
