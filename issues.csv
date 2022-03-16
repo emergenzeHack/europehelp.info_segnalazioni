@@ -1,4 +1,49 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/151,1169745174,2022-03-16 10:15:34,2022-03-15 14:24:01,"Milano Aiuta, pagina web del Comune di Milano dedicata all'emergenza Ucraina con info e contatti per accoglienza, dare e ricevere aiuto",45.46661225,9.190809530166042,Lombardia,Milano,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""fundraising"",""useful contact"",""hospitality"",""healtcare"",""Translation""]",,,"{""Posizione"":""45.46661225 9.190809530166042"",""description"":""Il Comune di Milano ha attivato la pagina web Milano Aiuta dedicata all'emergenza Ucraina. Nella pagina tutte le info e i contatti per chi vuole offrire aiuto (donazioni, ospitalit\u00e0, traduzioni) e per i rifugiati che hsnno bisogno di aiuto (alloggi, documenti, assistenza sanitaria, tamponi Covid, accoglienza minori e integrazione scolastica e altro)"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.comune.milano.it/web/milanoaiuta"",""location"":{""address"":{""address"":{""building"":""Palazzo Marino"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""2"",""neighbourhood"":""Duomo"",""postcode"":""20121"",""road"":""Piazza della Scala"",""state"":""Lombardia"",""suburb"":""Municipio 1""},""boundingbox"":[""45.4662538"",""45.4669638"",""9.1901533"",""9.1911794""],""class"":""building"",""display_name"":""Palazzo Marino, 2, Piazza della Scala, Duomo, Municipio 1, Milano, Lombardia, 20121, Italia"",""importance"":0.9553028706114589,""lat"":""45.46661225"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.190809530166042"",""osm_id"":2766789,""osm_type"":""relation"",""place_id"":284675404,""type"":""public""},""mode"":""autocomplete""},""submit"":true,""title"":""Milano Aiuta, Comune di Milano attiva pagina web dedicata all'emergenza Ucraina con tutte le info e i contatti per offrire e chiedere aiuto""}","<pre><yamldata>
+title: Milano Aiuta, Comune di Milano attiva pagina web dedicata all'emergenza Ucraina
+  con tutte le info e i contatti per offrire e chiedere aiuto
+description: Il Comune di Milano ha attivato la pagina web Milano Aiuta dedicata all'emergenza
+  Ucraina. Nella pagina tutte le info e i contatti per chi vuole offrire aiuto (donazioni,
+  ospitalità, traduzioni) e per i rifugiati che hsnno bisogno di aiuto (alloggi, documenti,
+  assistenza sanitaria, tamponi Covid, accoglienza minori e integrazione scolastica
+  e altro)
+link: https://www.comune.milano.it/web/milanoaiuta
+location:
+  mode: autocomplete
+  address:
+    place_id: 284675404
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 2766789
+    boundingbox:
+    - '45.4662538'
+    - '45.4669638'
+    - '9.1901533'
+    - '9.1911794'
+    lat: '45.46661225'
+    lon: '9.190809530166042'
+    display_name: Palazzo Marino, 2, Piazza della Scala, Duomo, Municipio 1, Milano,
+      Lombardia, 20121, Italia
+    class: building
+    type: public
+    importance: 0.9553028706114589
+    address:
+      building: Palazzo Marino
+      house_number: '2'
+      road: Piazza della Scala
+      neighbourhood: Duomo
+      suburb: Municipio 1
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20121'
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.46661225 9.190809530166042
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/144,1169443647,2022-03-16 09:37:04,2022-03-15 10:02:25,A Gorizia Caritas cerca appartamenti per accoglienza rifugiati ucraini,45.930394,13.6194937,Friuli Venezia Giulia,Gorizia,"[""Valid/Accettato"",""Help"",""hospitality""]",,,"{""Posizione"":""45.930394 13.6194937"",""description"":""A Gorizia Caritas cerca appartamenti per ospitare i rifugiati ucraini. Per offrire la propria disponibilit\u00e0 a offrire alloggi, inviare una mail all\u2019indirizzo promozionecaritas@caritasgorizia.it o telefonare, dal luned\u00ec al venerd\u00ec, alla segreteria al numero 0481 525188, dalle 9 alle 13 e dalle 15 alle 18."",""email"":""promozionecaritas@caritasgorizia.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Gorizia"",""country"":""Italia"",""country_code"":""it"",""county"":""Gorizia"",""house_number"":""131"",""postcode"":""34170"",""road"":""Via Gian Battista Garzarolli"",""state"":""Friuli Venezia Giulia"",""suburb"":""San Rocco""},""boundingbox"":[""45.930344"",""45.930444"",""13.6194437"",""13.6195437""],""class"":""place"",""display_name"":""131, Via Gian Battista Garzarolli, San Rocco, Gorizia, Friuli Venezia Giulia, 34170, Italia"",""importance"":0.5309999999999999,""lat"":""45.930394"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.6194937"",""osm_id"":3800011266,""osm_type"":""node"",""place_id"":44988852,""type"":""house""},""mode"":""autocomplete""},""nameSurname"":""Caritas Gorizia"",""phoneNumber"":""039 0481 525188"",""recipients"":"""",""submit"":true,""title"":""A Gorizia Caritas cerca appartamenti per ospitare i rifugiati ucraini"",""url"":""http://caritas.chiesago.it/la-caritas-diocesana-di-gorizia-accanto-alla-popolazione-ucraina/""}","<pre><yamldata>
 nameSurname: Caritas Gorizia
 phoneNumber: 039 0481 525188
@@ -287,51 +332,6 @@ location:
 label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/151,1169745174,2022-03-15 16:37:48,2022-03-15 14:24:01,"Milano Aiuta, pagina web del Comune di Milano dedicata all'emergenza Ucraina con info e contatti per dare e ricevere aiuto",45.46661225,9.190809530166042,Lombardia,Milano,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""fundraising"",""useful contact"",""hospitality"",""healtcare"",""Translation""]",,,"{""Posizione"":""45.46661225 9.190809530166042"",""description"":""Il Comune di Milano ha attivato la pagina web Milano Aiuta dedicata all'emergenza Ucraina. Nella pagina tutte le info e i contatti per chi vuole offrire aiuto (donazioni, ospitalit\u00e0, traduzioni) e per i rifugiati che hsnno bisogno di aiuto (alloggi, documenti, assistenza sanitaria, tamponi Covid, accoglienza minori e integrazione scolastica e altro)"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.comune.milano.it/web/milanoaiuta"",""location"":{""address"":{""address"":{""building"":""Palazzo Marino"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""2"",""neighbourhood"":""Duomo"",""postcode"":""20121"",""road"":""Piazza della Scala"",""state"":""Lombardia"",""suburb"":""Municipio 1""},""boundingbox"":[""45.4662538"",""45.4669638"",""9.1901533"",""9.1911794""],""class"":""building"",""display_name"":""Palazzo Marino, 2, Piazza della Scala, Duomo, Municipio 1, Milano, Lombardia, 20121, Italia"",""importance"":0.9553028706114589,""lat"":""45.46661225"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.190809530166042"",""osm_id"":2766789,""osm_type"":""relation"",""place_id"":284675404,""type"":""public""},""mode"":""autocomplete""},""submit"":true,""title"":""Milano Aiuta, Comune di Milano attiva pagina web dedicata all'emergenza Ucraina con tutte le info e i contatti per offrire e chiedere aiuto""}","<pre><yamldata>
-title: Milano Aiuta, Comune di Milano attiva pagina web dedicata all'emergenza Ucraina
-  con tutte le info e i contatti per offrire e chiedere aiuto
-description: Il Comune di Milano ha attivato la pagina web Milano Aiuta dedicata all'emergenza
-  Ucraina. Nella pagina tutte le info e i contatti per chi vuole offrire aiuto (donazioni,
-  ospitalità, traduzioni) e per i rifugiati che hsnno bisogno di aiuto (alloggi, documenti,
-  assistenza sanitaria, tamponi Covid, accoglienza minori e integrazione scolastica
-  e altro)
-link: https://www.comune.milano.it/web/milanoaiuta
-location:
-  mode: autocomplete
-  address:
-    place_id: 284675404
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 2766789
-    boundingbox:
-    - '45.4662538'
-    - '45.4669638'
-    - '9.1901533'
-    - '9.1911794'
-    lat: '45.46661225'
-    lon: '9.190809530166042'
-    display_name: Palazzo Marino, 2, Piazza della Scala, Duomo, Municipio 1, Milano,
-      Lombardia, 20121, Italia
-    class: building
-    type: public
-    importance: 0.9553028706114589
-    address:
-      building: Palazzo Marino
-      house_number: '2'
-      road: Piazza della Scala
-      neighbourhood: Duomo
-      suburb: Municipio 1
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20121'
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 45.46661225 9.190809530166042
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/148,1169690000,2022-03-15 13:59:21,2022-03-15 13:39:32,Le raccomandazioni di Unhcr e Unicef a tutela della protezione dei bambini in fuga dall'Ucraina,,,,,"[""Valid/Accettato"",""News"",""Children"",""document_data""]",,,"{""description"":""L\u2019UNICEF e l\u2019UNHCR riconoscono l\u2019importante movimento di sostegno dimostrato nei confronti delle famiglie e dei bambini che fuggono dall\u2019Ucraina. Volontari, Organizzazioni Non Governative, soggetti privati ed Enti Locali si sono resi disponibili ad accogliere i minorenni e le loro famiglie e supportarli in questa fase complessa. \u00c8 fondamentale per\u00f2 che questi interventi vengano promossi all\u2019interno della cornice di diritti e garanzie che regolano la tutela e la protezione di tutti i minorenni, al fine di evitare il rischio che queste pratiche non producano l\u2019effetto involontario di ledere invece i diritti previsti dalla Convenzione ONU sui diritti dei bambini e degli adolescenti.\n\nAl fine di orientare in maniera efficace e positiva la protezione e l\u2019accoglienza dei bambini e degli adolescenti, l\u2019UNHCR e l\u2019UNICEF rivolgono una serie di raccomandazioni a tutti i soggetti istituzionali e non coinvolti."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://t.co/nICYQnkgjj"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Le raccomandazioni di Unhcr e Unicef a tutela della protezione dei bambini in fuga dall'Ucraina""}","<pre><yamldata>
 title: Le raccomandazioni di Unhcr e Unicef a tutela della protezione dei bambini
