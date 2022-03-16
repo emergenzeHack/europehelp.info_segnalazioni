@@ -1,4 +1,95 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/149,1169700034,2022-03-16 10:32:04,2022-03-15 13:47:32,Dire - Donne in rete contro la violenza attiva raccolta fondi per donne ucraine,41.8966062,12.4644247,Lazio,Roma,"[""Valid/Accettato"",""fundraising"",""women""]",,,"{""Posizione"":""41.8966062 12.4644247"",""bicSwift"":""ROMAITRRXXX"",""causal"":""SOSTEGNO UCRAINA"",""ccPostal"":"""",""description"":""La rete nazionale dei centri antiviolenza Dire ha attivato il Fondo Emergenza Ucraina per sostenere 3 organizzazioni di WAVE Europe che operano sostegno delle donne ucraine. \nSono possibili donazioni online (vedi link) e via Iban."",""email"":"""",""heading"":""ASSOCIAZIONE DONNE IN RETE CONTRO LA VIOLENZA"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT 65 X 08327 03239 00000000 2299"",""label"":""fundraising"",""link"":""https://www.direcontrolaviolenza.it/sostienici/"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00193"",""quarter"":""Trastevere"",""road"":""Via della Lungara"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.8953296"",""41.8982611"",""12.4632179"",""12.4654552""],""class"":""highway"",""display_name"":""Via della Lungara, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00193, Italia"",""importance"":0.61,""lat"":""41.8966062"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4644247"",""osm_id"":28213811,""osm_type"":""way"",""place_id"":109246959,""type"":""residential""},""mode"":""autocomplete""},""submit"":true,""title"":""Dire - Donne in rete contro la violenza""}","<pre><yamldata>
+title: Dire - Donne in rete contro la violenza
+description: ""La rete nazionale dei centri antiviolenza Dire ha attivato il Fondo\
+  \ Emergenza Ucraina per sostenere 3 organizzazioni di WAVE Europe che operano sostegno\
+  \ delle donne ucraine. \nSono possibili donazioni online (vedi link) e via Iban.""
+heading: ASSOCIAZIONE DONNE IN RETE CONTRO LA VIOLENZA
+iban: IT 65 X 08327 03239 00000000 2299
+bicSwift: ROMAITRRXXX
+ccPostal: ''
+causal: SOSTEGNO UCRAINA
+link: https://www.direcontrolaviolenza.it/sostienici/
+email: ''
+location:
+  mode: autocomplete
+  address:
+    place_id: 109246959
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 28213811
+    boundingbox:
+    - '41.8953296'
+    - '41.8982611'
+    - '12.4632179'
+    - '12.4654552'
+    lat: '41.8966062'
+    lon: '12.4644247'
+    display_name: Via della Lungara, Trastevere, Municipio Roma I, Roma, Roma Capitale,
+      Lazio, 00193, Italia
+    class: highway
+    type: residential
+    importance: 0.61
+    address:
+      road: Via della Lungara
+      quarter: Trastevere
+      suburb: Municipio Roma I
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: 00193
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+Posizione: 41.8966062 12.4644247
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/151,1169745174,2022-03-16 10:31:17,2022-03-15 14:24:01,"#MilanoAiuta, pagina web del Comune di Milano dedicata all'emergenza Ucraina con info e contatti su accoglienza, per dare e ricevere aiuto",45.46661225,9.190809530166042,Lombardia,Milano,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""fundraising"",""useful contact"",""hospitality"",""healtcare"",""Translation""]",,,"{""Posizione"":""45.46661225 9.190809530166042"",""description"":""Il Comune di Milano ha attivato la pagina web Milano Aiuta dedicata all'emergenza Ucraina. Nella pagina tutte le info e i contatti per chi vuole offrire aiuto (donazioni, ospitalit\u00e0, traduzioni) e per i rifugiati che hsnno bisogno di aiuto (alloggi, documenti, assistenza sanitaria, tamponi Covid, accoglienza minori e integrazione scolastica e altro)"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.comune.milano.it/web/milanoaiuta"",""location"":{""address"":{""address"":{""building"":""Palazzo Marino"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""2"",""neighbourhood"":""Duomo"",""postcode"":""20121"",""road"":""Piazza della Scala"",""state"":""Lombardia"",""suburb"":""Municipio 1""},""boundingbox"":[""45.4662538"",""45.4669638"",""9.1901533"",""9.1911794""],""class"":""building"",""display_name"":""Palazzo Marino, 2, Piazza della Scala, Duomo, Municipio 1, Milano, Lombardia, 20121, Italia"",""importance"":0.9553028706114589,""lat"":""45.46661225"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.190809530166042"",""osm_id"":2766789,""osm_type"":""relation"",""place_id"":284675404,""type"":""public""},""mode"":""autocomplete""},""submit"":true,""title"":""Milano Aiuta, Comune di Milano attiva pagina web dedicata all'emergenza Ucraina con tutte le info e i contatti per offrire e chiedere aiuto""}","<pre><yamldata>
+title: Milano Aiuta, Comune di Milano attiva pagina web dedicata all'emergenza Ucraina
+  con tutte le info e i contatti per offrire e chiedere aiuto
+description: Il Comune di Milano ha attivato la pagina web Milano Aiuta dedicata all'emergenza
+  Ucraina. Nella pagina tutte le info e i contatti per chi vuole offrire aiuto (donazioni,
+  ospitalità, traduzioni) e per i rifugiati che hsnno bisogno di aiuto (alloggi, documenti,
+  assistenza sanitaria, tamponi Covid, accoglienza minori e integrazione scolastica
+  e altro)
+link: https://www.comune.milano.it/web/milanoaiuta
+location:
+  mode: autocomplete
+  address:
+    place_id: 284675404
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 2766789
+    boundingbox:
+    - '45.4662538'
+    - '45.4669638'
+    - '9.1901533'
+    - '9.1911794'
+    lat: '45.46661225'
+    lon: '9.190809530166042'
+    display_name: Palazzo Marino, 2, Piazza della Scala, Duomo, Municipio 1, Milano,
+      Lombardia, 20121, Italia
+    class: building
+    type: public
+    importance: 0.9553028706114589
+    address:
+      building: Palazzo Marino
+      house_number: '2'
+      road: Piazza della Scala
+      neighbourhood: Duomo
+      suburb: Municipio 1
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20121'
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.46661225 9.190809530166042
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/121,1167623795,2022-03-16 10:29:03,2022-03-13 16:12:31,Fake news sulla guerra in Ucraina: 3 risorse online di fact checking,,,,,"[""Valid/Accettato"",""fakenews""]",,,"{""description"":""3 link a siti di factchecking sulla guerra in Ucraina: \nhttps://www.stopfake.org/en/main/\nhttps://ukrainefacts.org\nhttps://www.open.online/c/fact-checking/ (in italiano)\n\nE poi per approfondire, due articoli su Valigia Blu:\nhttps://www.valigiablu.it/crisi-russia-ucraina-disinformazione/\nhttps://www.valigiablu.it/disinformazione-guerra-russia-ucraina/"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""fakenews"",""link"":"""",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Fake news sulla guerra in Ucraina: 3 risorse online di fact-checking""}","<pre><yamldata>
 title: 'Fake news sulla guerra in Ucraina: 3 risorse online di fact-checking'
 description: ""3 link a siti di factchecking sulla guerra in Ucraina: \nhttps://www.stopfake.org/en/main/\n\
@@ -128,51 +219,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 43.7740709 11.2564938
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/151,1169745174,2022-03-16 10:15:34,2022-03-15 14:24:01,"Milano Aiuta, pagina web del Comune di Milano dedicata all'emergenza Ucraina con info e contatti per accoglienza, dare e ricevere aiuto",45.46661225,9.190809530166042,Lombardia,Milano,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""fundraising"",""useful contact"",""hospitality"",""healtcare"",""Translation""]",,,"{""Posizione"":""45.46661225 9.190809530166042"",""description"":""Il Comune di Milano ha attivato la pagina web Milano Aiuta dedicata all'emergenza Ucraina. Nella pagina tutte le info e i contatti per chi vuole offrire aiuto (donazioni, ospitalit\u00e0, traduzioni) e per i rifugiati che hsnno bisogno di aiuto (alloggi, documenti, assistenza sanitaria, tamponi Covid, accoglienza minori e integrazione scolastica e altro)"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.comune.milano.it/web/milanoaiuta"",""location"":{""address"":{""address"":{""building"":""Palazzo Marino"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""2"",""neighbourhood"":""Duomo"",""postcode"":""20121"",""road"":""Piazza della Scala"",""state"":""Lombardia"",""suburb"":""Municipio 1""},""boundingbox"":[""45.4662538"",""45.4669638"",""9.1901533"",""9.1911794""],""class"":""building"",""display_name"":""Palazzo Marino, 2, Piazza della Scala, Duomo, Municipio 1, Milano, Lombardia, 20121, Italia"",""importance"":0.9553028706114589,""lat"":""45.46661225"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.190809530166042"",""osm_id"":2766789,""osm_type"":""relation"",""place_id"":284675404,""type"":""public""},""mode"":""autocomplete""},""submit"":true,""title"":""Milano Aiuta, Comune di Milano attiva pagina web dedicata all'emergenza Ucraina con tutte le info e i contatti per offrire e chiedere aiuto""}","<pre><yamldata>
-title: Milano Aiuta, Comune di Milano attiva pagina web dedicata all'emergenza Ucraina
-  con tutte le info e i contatti per offrire e chiedere aiuto
-description: Il Comune di Milano ha attivato la pagina web Milano Aiuta dedicata all'emergenza
-  Ucraina. Nella pagina tutte le info e i contatti per chi vuole offrire aiuto (donazioni,
-  ospitalità, traduzioni) e per i rifugiati che hsnno bisogno di aiuto (alloggi, documenti,
-  assistenza sanitaria, tamponi Covid, accoglienza minori e integrazione scolastica
-  e altro)
-link: https://www.comune.milano.it/web/milanoaiuta
-location:
-  mode: autocomplete
-  address:
-    place_id: 284675404
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 2766789
-    boundingbox:
-    - '45.4662538'
-    - '45.4669638'
-    - '9.1901533'
-    - '9.1911794'
-    lat: '45.46661225'
-    lon: '9.190809530166042'
-    display_name: Palazzo Marino, 2, Piazza della Scala, Duomo, Municipio 1, Milano,
-      Lombardia, 20121, Italia
-    class: building
-    type: public
-    importance: 0.9553028706114589
-    address:
-      building: Palazzo Marino
-      house_number: '2'
-      road: Piazza della Scala
-      neighbourhood: Duomo
-      suburb: Municipio 1
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20121'
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 45.46661225 9.190809530166042
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/144,1169443647,2022-03-16 09:37:04,2022-03-15 10:02:25,A Gorizia Caritas cerca appartamenti per accoglienza rifugiati ucraini,45.930394,13.6194937,Friuli Venezia Giulia,Gorizia,"[""Valid/Accettato"",""Help"",""hospitality""]",,,"{""Posizione"":""45.930394 13.6194937"",""description"":""A Gorizia Caritas cerca appartamenti per ospitare i rifugiati ucraini. Per offrire la propria disponibilit\u00e0 a offrire alloggi, inviare una mail all\u2019indirizzo promozionecaritas@caritasgorizia.it o telefonare, dal luned\u00ec al venerd\u00ec, alla segreteria al numero 0481 525188, dalle 9 alle 13 e dalle 15 alle 18."",""email"":""promozionecaritas@caritasgorizia.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Gorizia"",""country"":""Italia"",""country_code"":""it"",""county"":""Gorizia"",""house_number"":""131"",""postcode"":""34170"",""road"":""Via Gian Battista Garzarolli"",""state"":""Friuli Venezia Giulia"",""suburb"":""San Rocco""},""boundingbox"":[""45.930344"",""45.930444"",""13.6194437"",""13.6195437""],""class"":""place"",""display_name"":""131, Via Gian Battista Garzarolli, San Rocco, Gorizia, Friuli Venezia Giulia, 34170, Italia"",""importance"":0.5309999999999999,""lat"":""45.930394"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.6194937"",""osm_id"":3800011266,""osm_type"":""node"",""place_id"":44988852,""type"":""house""},""mode"":""autocomplete""},""nameSurname"":""Caritas Gorizia"",""phoneNumber"":""039 0481 525188"",""recipients"":"""",""submit"":true,""title"":""A Gorizia Caritas cerca appartamenti per ospitare i rifugiati ucraini"",""url"":""http://caritas.chiesago.it/la-caritas-diocesana-di-gorizia-accanto-alla-popolazione-ucraina/""}","<pre><yamldata>
 nameSurname: Caritas Gorizia
@@ -557,52 +603,6 @@ location:
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: fundraising
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/149,1169700034,2022-03-15 13:48:19,2022-03-15 13:47:32,Dire - Donne in rete contro la violenza attiva fondo per donne ucraine,41.8966062,12.4644247,Lazio,Roma,"[""Valid/Accettato"",""fundraising"",""women""]",,,"{""Posizione"":""41.8966062 12.4644247"",""bicSwift"":""ROMAITRRXXX"",""causal"":""SOSTEGNO UCRAINA"",""ccPostal"":"""",""description"":""La rete nazionale dei centri antiviolenza Dire ha attivato il Fondo Emergenza Ucraina per sostenere 3 organizzazioni di WAVE Europe che operano sostegno delle donne ucraine. \nSono possibili donazioni online (vedi link) e via Iban."",""email"":"""",""heading"":""ASSOCIAZIONE DONNE IN RETE CONTRO LA VIOLENZA"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT 65 X 08327 03239 00000000 2299"",""label"":""fundraising"",""link"":""https://www.direcontrolaviolenza.it/sostienici/"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00193"",""quarter"":""Trastevere"",""road"":""Via della Lungara"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.8953296"",""41.8982611"",""12.4632179"",""12.4654552""],""class"":""highway"",""display_name"":""Via della Lungara, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00193, Italia"",""importance"":0.61,""lat"":""41.8966062"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4644247"",""osm_id"":28213811,""osm_type"":""way"",""place_id"":109246959,""type"":""residential""},""mode"":""autocomplete""},""submit"":true,""title"":""Dire - Donne in rete contro la violenza""}","<pre><yamldata>
-title: Dire - Donne in rete contro la violenza
-description: ""La rete nazionale dei centri antiviolenza Dire ha attivato il Fondo\
-  \ Emergenza Ucraina per sostenere 3 organizzazioni di WAVE Europe che operano sostegno\
-  \ delle donne ucraine. \nSono possibili donazioni online (vedi link) e via Iban.""
-heading: ASSOCIAZIONE DONNE IN RETE CONTRO LA VIOLENZA
-iban: IT 65 X 08327 03239 00000000 2299
-bicSwift: ROMAITRRXXX
-ccPostal: ''
-causal: SOSTEGNO UCRAINA
-link: https://www.direcontrolaviolenza.it/sostienici/
-email: ''
-location:
-  mode: autocomplete
-  address:
-    place_id: 109246959
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 28213811
-    boundingbox:
-    - '41.8953296'
-    - '41.8982611'
-    - '12.4632179'
-    - '12.4654552'
-    lat: '41.8966062'
-    lon: '12.4644247'
-    display_name: Via della Lungara, Trastevere, Municipio Roma I, Roma, Roma Capitale,
-      Lazio, 00193, Italia
-    class: highway
-    type: residential
-    importance: 0.61
-    address:
-      road: Via della Lungara
-      quarter: Trastevere
-      suburb: Municipio Roma I
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      postcode: 00193
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: fundraising
-submit: true
-Posizione: 41.8966062 12.4644247
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/147,1169492892,2022-03-15 12:43:46,2022-03-15 10:43:05,"Lucca, info e contatti per emergenza Ucraina: raccolta beni, offerta alloggi e altro",44.017763900000006,10.454430026192636,Toscana,Lucca,"[""Valid/Accettato"",""News"",""Services"",""useful contact"",""materialGoods"",""hospitality""]",,,"{""Posizione"":""44.017763900000006 10.454430026192636"",""description"":""Il Comune di Lucca fa sapere che per le raccolte di beni, al momento servono soprattutto materiali sanitari. E\u2019 importante che il materiale raccolto sia diviso e inscatolato con precise indicazioni del contenuto dei vari colli: nel caso di donazioni di questo tipo il riferimento a cui rivolgersi \u00e8 la Protezione civile: protezionecivile@comune.lucca.it. \n\nPer segnalare invece la disponibilit\u00e0 di alloggi, il riferimento \u00e8 sprar@comune.lucca.it. Le segnalazioni che arriveranno saranno fatte pervenire ai gestori dei Cas per la verifica della situazione degli alloggi, dell\u2019agibilit\u00e0 e della possibilit\u00e0 di usarli effettivamente per l\u2019accoglienza, in modo che la Prefettura possa attivarli.\n\nInoltre l\u2019amministrazione \u00e8 in costante contatto con don Volodymyr Lyupak, sacerdote dell\u2019esarcato apostolico punto di riferimento per i cattolici ucraini di rito bizantino della Toscana e il Segretariato sociale \u00e8 a disposizione per dare informazioni a chi arriva spontaneamente e a chi accoglie spontaneamente nella comunit\u00e0 ucraina. \nQuesti tutti i numeri telefonici ai quali \u00e8 possibile rivolgersi: 0583.442933, 0583.442810 \u2013 334.1122415, 0583.442554 \u2013 334.1121396, 0583.445954 \u2013 335.336509, 0583.442810 \u2013 334.1155320."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/FcF3Ebnfks"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Lucca"",""state"":""Toscana""},""boundingbox"":[""43.7493355"",""44.2861712"",""10.1433617"",""10.7375468""],""class"":""boundary"",""display_name"":""Lucca, Toscana, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7314094070760778,""lat"":""44.017763900000006"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.454430026192636"",""osm_id"":42614,""osm_type"":""relation"",""place_id"":284649472,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Lucca, info e contatti per emergenza Ucraina: raccolta beni, offerta alloggi e altro""}","<pre><yamldata>
 title: 'Lucca, info e contatti per emergenza Ucraina: raccolta beni, offerta alloggi
