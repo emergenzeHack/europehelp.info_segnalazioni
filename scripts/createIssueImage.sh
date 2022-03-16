@@ -2,7 +2,7 @@
 
 template_img="${1}"
 text_size="${2}"
-url_size=400x50
+url_size=800x50
 text_pos="${3}"
 destdir="${4}"
 number="${5}"
@@ -77,7 +77,7 @@ convert -background transparent -fill "${FRONTCOLOR}" -font Lato-Regular -size "
           caption:"${title}" \
           "${TMPFILE}"
 
-convert -background transparent -fill "${FRONTCOLOR}" -font Lato-Regular -pointsize 16 -size "${url_size}" \
+convert -background transparent -fill "${FRONTCOLOR}" -font Lato-Regular -pointsize 24 -size "${url_size}" \
           caption:"https://ukrainehelp.emergenzehack.info/issues/${number}" \
           "${TMPFILE2}"
 
