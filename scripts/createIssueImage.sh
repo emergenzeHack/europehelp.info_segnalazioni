@@ -2,6 +2,7 @@
 
 template_img="${1}"
 text_size="${2}"
+url_size=400x50
 text_pos="${3}"
 destdir="${4}"
 number="${5}"
@@ -12,10 +13,12 @@ labels="${7}"
 destfilename="${number}.png"
 
 TMPFILE=/tmp/${number}caption_img.png
+TMPFILE2=/tmp/${number}url_img.png
+TMPFILE3=/tmp/${number}comp_img.png
 TMPTEMPLATE=/tmp/${number}tmpl_img.png
 TMPTEMPLATE2=/tmp/${number}whtmpl_img.png
 
-trap 'rm -f ${TMPFILE} ${TMPTEMPLATE} ${TMPTEMPLATE2}' EXIT
+trap 'rm -f ${TMPFILE} ${TMPFILE2} ${TMPFILE3} ${TMPTEMPLATE} ${TMPTEMPLATE2}' EXIT
 
 case "${labels}" in
   #  *"Supporto psicologico"*) BACKCOLOR=blue;FRONTCOLOR=white;;
@@ -74,9 +77,14 @@ convert -background transparent -fill "${FRONTCOLOR}" -font Lato-Regular -size "
           caption:"${title}" \
           "${TMPFILE}"
 
+convert -background transparent -fill "${FRONTCOLOR}" -font Lato-Regular -pointsize 16 -size "${url_size}" \
+          caption:"https://ukrainehelp.emergenzehack.info/issues/${number}" \
+          "${TMPFILE2}"
+
 #convert  "${TMPTEMPLATE}" ${TMPFILE} -geometry "${text_pos}" -quality 9 -composite "${destdir}/${destfilename}"
 #convert  "${TMPTEMPLATE}" ${TMPFILE} -geometry "${text_pos}" -depth 2 -colors 4 -quality 9 -composite "${destdir}/${destfilename}"
-convert  "${TMPTEMPLATE}" "${TMPFILE}" -geometry "${text_pos}" -depth 4 -colors 16 -quality 9 -composite "${destdir}/${destfilename}"
+convert  "${TMPTEMPLATE}" "${TMPFILE}" -geometry "${text_pos}" -composite "${TMPFILE3}"
+convert  "${TMPFILE3}" "${TMPFILE2}" -geometry "+80+600" -depth 4 -colors 16 -quality 9 -composite "${destdir}/${destfilename}"
 
 optipng -strip all "${destdir}/${destfilename}" 
 
