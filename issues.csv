@@ -1,19 +1,90 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/168,1171254389,2022-03-16 16:25:13,2022-03-16 16:23:05,Su InclusionPeople.eu informazioni sulla situazione delle persone con disabilità in Ucraina e su come dare un aiuto,,,,,"[""Valid/Accettato"",""News"",""fundraising"",""disability""]",,,"{""description"":""Su InclusionPeople.eu, sito dell\u2019associazione europea per l\u2019inclusione delle persone con disabilit\u00e0 intellettiva, informazioni sulla situazione delle persone con disabilit\u00e0 in Ucraina e su come poter essere di aiuto anche con raccolte fondi."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.inclusion-europe.eu/ukraine-people-with-intellectual-disabilities-mustnt-be-abandoned/?fbclid=IwAR1PiijnJsiSlkCp82J5QmryeEZyz85p_FiTeIVfCiUSf-Xzw0BzTs2BI8U"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Su InclusionPeople.eu informazioni sulla situazione delle persone con disabilit\u00e0 in Ucraina e su come poter essere di aiuto""}","<pre><yamldata>
-title: Su InclusionPeople.eu informazioni sulla situazione delle persone con disabilità
-  in Ucraina e su come poter essere di aiuto
-description: Su InclusionPeople.eu, sito dell’associazione europea per l’inclusione
-  delle persone con disabilità intellettiva, informazioni sulla situazione delle persone
-  con disabilità in Ucraina e su come poter essere di aiuto anche con raccolte fondi.
-link: https://www.inclusion-europe.eu/ukraine-people-with-intellectual-disabilities-mustnt-be-abandoned/?fbclid=IwAR1PiijnJsiSlkCp82J5QmryeEZyz85p_FiTeIVfCiUSf-Xzw0BzTs2BI8U
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/159,1171109809,2022-03-16 18:47:49,2022-03-16 14:34:12,A Milano associazione Rob de Matt cerca furgoni e pulmini (con o senza autista) per consegnare beni alla popolazione ucraina ,45.4984334,9.1744608,Lombardia,Milano,"[""Valid/Accettato"",""Help"",""transport""]",,,"{""Posizione"":""45.4984334 9.1744608"",""description"":""Per le prossime carovane siamo alla (disperata) ricerca di furgoni/pullmini che possano trasportare merci all'andata e persone al ritorno.\nL'impegno previsto e di 2/3 giorni massimo, li cerchiamo sia con autista che senza autista.\nPer disponibilit\u00e0 vi chiediamo di mandarci un Direct Message su Facebook, con un nome, cognome e numero di telefono, cos\u00ec riusciamo a rispondervi pi\u00f9 agevolmente."",""email"":""info@robdematt.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20158"",""quarter"":""Dergano"",""road"":""Via Enrico Annibale Butti"",""state"":""Lombardia"",""suburb"":""Municipio 9""},""boundingbox"":[""45.4978503"",""45.4993226"",""9.1743614"",""9.1745368""],""class"":""highway"",""display_name"":""Via Enrico Annibale Butti, Dergano, Municipio 9, Milano, Lombardia, 20158, Italia"",""importance"":0.5,""lat"":""45.4984334"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1744608"",""osm_id"":168937643,""osm_type"":""way"",""place_id"":141424527,""type"":""unclassified""},""mode"":""autocomplete""},""nameSurname"":""Associazione Rob de Matt"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""A Milano associazione Rob de Matt cerca furgoni e pulmini (con o senza autista) per trasportare beni di prima necessit\u00e0"",""url"":""https://www.facebook.com/groups/ukrainehelpit/permalink/459548755914078/""}","<pre><yamldata>
+nameSurname: Associazione Rob de Matt
+phoneNumber: ''
+email: info@robdematt.org
+title: A Milano associazione Rob de Matt cerca furgoni e pulmini (con o senza autista)
+  per trasportare beni di prima necessità
+recipients: ''
+description: 'Per le prossime carovane siamo alla (disperata) ricerca di furgoni/pullmini
+  che possano trasportare merci all''andata e persone al ritorno.
+
+  L''impegno previsto e di 2/3 giorni massimo, li cerchiamo sia con autista che senza
+  autista.
+
+  Per disponibilità vi chiediamo di mandarci un Direct Message su Facebook, con un
+  nome, cognome e numero di telefono, così riusciamo a rispondervi più agevolmente.'
+url: https://www.facebook.com/groups/ukrainehelpit/permalink/459548755914078/
 location:
   mode: autocomplete
-  address: {}
-label: news
+  address:
+    place_id: 141424527
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 168937643
+    boundingbox:
+    - '45.4978503'
+    - '45.4993226'
+    - '9.1743614'
+    - '9.1745368'
+    lat: '45.4984334'
+    lon: '9.1744608'
+    display_name: Via Enrico Annibale Butti, Dergano, Municipio 9, Milano, Lombardia,
+      20158, Italia
+    class: highway
+    type: unclassified
+    importance: 0.5
+    address:
+      road: Via Enrico Annibale Butti
+      quarter: Dergano
+      suburb: Municipio 9
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20158'
+      country: Italia
+      country_code: it
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 45.4984334 9.1744608
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/166,1171190535,2022-03-16 18:46:28,2022-03-16 15:32:41,Taxi Service For Peace gruppo che aiuta i profughi ucraini a raggiungere gratuitamente paesi europei,,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""transport"",""contact""]",,,"{""address"":{""address"":{""address"":{""country"":""Germania"",""country_code"":""de""},""boundingbox"":[""47.2701114"",""55.099161"",""5.8663153"",""15.0419309""],""class"":""boundary"",""display_name"":""Germania"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9996814891722549,""lat"":""51.0834196"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.4234469"",""osm_id"":51477,""osm_type"":""relation"",""place_id"":283355336,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Gruppo di volontari con base in Germania che offre trasporto gratuito a rifugiati, profughi e persone in stato di necessit\u00e0. Offre anche aiuto nella ricerca di alloggio. Con la guerra in Ucraina si \u00e8 attivato per aiutare le persone che dai confini ucraini intendono arrivare in altri paesi europei."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":"""",""submit"":true,""title"":""Taxi Service For Peace"",""url"":""https://www.facebook.com/groups/1646669812353707/?ref=share""}","<pre><yamldata>
+title: Taxi Service For Peace
+phoneNumber: ''
+email: ''
+aim: Gruppo di volontari con base in Germania che offre trasporto gratuito a rifugiati,
+  profughi e persone in stato di necessità. Offre anche aiuto nella ricerca di alloggio.
+  Con la guerra in Ucraina si è attivato per aiutare le persone che dai confini ucraini
+  intendono arrivare in altri paesi europei.
+url: https://www.facebook.com/groups/1646669812353707/?ref=share
+address:
+  mode: autocomplete
+  address:
+    place_id: 283355336
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 51477
+    boundingbox:
+    - '47.2701114'
+    - '55.099161'
+    - '5.8663153'
+    - '15.0419309'
+    lat: '51.0834196'
+    lon: '10.4234469'
+    display_name: Germania
+    class: boundary
+    type: administrative
+    importance: 0.9996814891722549
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      country: Germania
+      country_code: de
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: contact
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/162,1171137950,2022-03-16 16:21:27,2022-03-16 14:55:57,Raccolta fondi di Brigate volontarie per l’emergenza Milano per portare aiuti umanitari al confine polacco-ucraino,45.45338155,9.181942044940254,Lombardia,Milano,"[""Valid/Accettato"",""fundraising""]",,,"{""Posizione"":""45.45338155 9.181942044940254"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""Tra pochi giorni partir\u00e0 un primo convoglio di supporto umanitario organizzato da BVE e diretto verso il confine tra Polonia e Ucraina per andare a dare il nostro contributo.\nSiamo in stretto contatto con attivisti sul terreno \u2013 nostri fratelli e sorelle \u2013 e sappiamo cosa stiamo facendo, dove e a chi stiamo portando i nostri aiuti. Abbiamo indicazioni precise sulle necessit\u00e0 pi\u00f9 impellenti.\nVi invitiamo a contribuire all\u2019IBAN IT52T0521601616000000002472, oppure tramite Paypal al link https://www.brigatevolontarie.org/cosa-puoi-fare/sostieni/\nGrazie al vostro sostegno potremo comprare il materiale pi\u00f9 necessario e organizzare il trasporto."",""email"":""info@brigatevolontarie.org"",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT52T0521601616000000002472"",""label"":""fundraising"",""link"":""https://www.brigatevolontarie.org/cosa-facciamo/emergenze/campagna-ucraina/"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""19"",""office"":""Casa Emergency"",""postcode"":""20136"",""quarter"":""Ticinese"",""road"":""Via Santa Croce"",""state"":""Lombardia"",""suburb"":""Municipio 1""},""boundingbox"":[""45.4532434"",""45.453506"",""9.181625"",""9.1822541""],""class"":""office"",""display_name"":""Casa Emergency, 19, Via Santa Croce, Ticinese, Municipio 1, Milano, Lombardia, 20136, Italia"",""importance"":0.5209999999999999,""lat"":""45.45338155"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.181942044940254"",""osm_id"":500699143,""osm_type"":""way"",""place_id"":210921399,""type"":""ngo""},""mode"":""autocomplete""},""submit"":true,""title"":""Raccolta fondi di Brigate volontarie per l\u2019emergenza Milano""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/162,1171137950,2022-03-16 18:46:00,2022-03-16 14:55:57,Raccolta fondi di Brigate volontarie per l’emergenza (Milano) per portare aiuti umanitari al confine polacco-ucraino,45.45338155,9.181942044940254,Lombardia,Milano,"[""Valid/Accettato"",""fundraising""]",,,"{""Posizione"":""45.45338155 9.181942044940254"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""Tra pochi giorni partir\u00e0 un primo convoglio di supporto umanitario organizzato da BVE e diretto verso il confine tra Polonia e Ucraina per andare a dare il nostro contributo.\nSiamo in stretto contatto con attivisti sul terreno \u2013 nostri fratelli e sorelle \u2013 e sappiamo cosa stiamo facendo, dove e a chi stiamo portando i nostri aiuti. Abbiamo indicazioni precise sulle necessit\u00e0 pi\u00f9 impellenti.\nVi invitiamo a contribuire all\u2019IBAN IT52T0521601616000000002472, oppure tramite Paypal al link https://www.brigatevolontarie.org/cosa-puoi-fare/sostieni/\nGrazie al vostro sostegno potremo comprare il materiale pi\u00f9 necessario e organizzare il trasporto."",""email"":""info@brigatevolontarie.org"",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT52T0521601616000000002472"",""label"":""fundraising"",""link"":""https://www.brigatevolontarie.org/cosa-facciamo/emergenze/campagna-ucraina/"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""19"",""office"":""Casa Emergency"",""postcode"":""20136"",""quarter"":""Ticinese"",""road"":""Via Santa Croce"",""state"":""Lombardia"",""suburb"":""Municipio 1""},""boundingbox"":[""45.4532434"",""45.453506"",""9.181625"",""9.1822541""],""class"":""office"",""display_name"":""Casa Emergency, 19, Via Santa Croce, Ticinese, Municipio 1, Milano, Lombardia, 20136, Italia"",""importance"":0.5209999999999999,""lat"":""45.45338155"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.181942044940254"",""osm_id"":500699143,""osm_type"":""way"",""place_id"":210921399,""type"":""ngo""},""mode"":""autocomplete""},""submit"":true,""title"":""Raccolta fondi di Brigate volontarie per l\u2019emergenza Milano""}","<pre><yamldata>
 title: Raccolta fondi di Brigate volontarie per l’emergenza Milano
 description: 'Tra pochi giorni partirà un primo convoglio di supporto umanitario organizzato
   da BVE e diretto verso il confine tra Polonia e Ucraina per andare a dare il nostro
@@ -71,6 +142,264 @@ label: fundraising
 submit: true
 Posizione: 45.45338155 9.181942044940254
 </yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/169,1171334341,2022-03-16 18:45:09,2022-03-16 17:31:59,Pane e Denti for Ucraina: rete di dentisti offre assistenza odontoiatrica gratuita ai rifugiati ucraini in tutta Italia,,,,,"[""Valid/Accettato"",""Services"",""healtcare""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Lodi"",""postcode"":""26833"",""road"":""Via Dante"",""state"":""Lombardia"",""village"":""Zelo Buon Persico""},""boundingbox"":[""45.4142507"",""45.4144486"",""9.4260054"",""9.426324""],""class"":""highway"",""display_name"":""Via Dante, Zelo Buon Persico, Lodi, Lombardia, 26833, Italia"",""importance"":0.8,""lat"":""45.4143487"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.4261419"",""osm_id"":52508348,""osm_type"":""way"",""place_id"":114571982,""type"":""tertiary""},""mode"":""autocomplete""},""description"":""Dentista Manager offre assistenza odontoiatrica gratuita ai profughi ucraini grazie ad una rete di dentisti presenti sul territorio italiano. Sul sito di Dentista Manager \u00e8 possibile contattare il dentista pi\u00f9 vicino e se si \u00e8 dentisti aderire all'iniziativa solidale. La pagina web con info e contatti \u00e8 disponibile in italiano e ucraino."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Dentista Manager"",""recipients"":"""",""submit"":true,""title"":""Pane e Denti for Ucraina: rete di dentisti offre assistenza odontoiatrica gratuita ai rifugiati ucraini in tutta Italia"",""type"":""healthcare"",""url"":""https://www.dentistamanager.it/pane-e-denti-for-ucraina/""}","<pre><yamldata>
+type: healthcare
+offerFromWho: Dentista Manager
+title: 'Pane e Denti for Ucraina: rete di dentisti offre assistenza odontoiatrica
+  gratuita ai rifugiati ucraini in tutta Italia'
+recipients: ''
+description: Dentista Manager offre assistenza odontoiatrica gratuita ai profughi
+  ucraini grazie ad una rete di dentisti presenti sul territorio italiano. Sul sito
+  di Dentista Manager è possibile contattare il dentista più vicino e se si è dentisti
+  aderire all'iniziativa solidale. La pagina web con info e contatti è disponibile
+  in italiano e ucraino.
+url: https://www.dentistamanager.it/pane-e-denti-for-ucraina/
+address:
+  mode: autocomplete
+  address:
+    place_id: 114571982
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 52508348
+    boundingbox:
+    - '45.4142507'
+    - '45.4144486'
+    - '9.4260054'
+    - '9.426324'
+    lat: '45.4143487'
+    lon: '9.4261419'
+    display_name: Via Dante, Zelo Buon Persico, Lodi, Lombardia, 26833, Italia
+    class: highway
+    type: tertiary
+    importance: 0.8
+    address:
+      road: Via Dante
+      village: Zelo Buon Persico
+      county: Lodi
+      state: Lombardia
+      postcode: '26833'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/175,1171418994,2022-03-16 18:44:09,2022-03-16 18:43:36,Donare buoni carburante per sostenere il trasporto di rifugiati ucraini in Italia,45.4384958,10.9924122,Veneto,Verona,"[""Valid/Accettato"",""Help"",""transport""]",,,"{""Posizione"":""45.4384958 10.9924122"",""description"":""Gruppo di cittadini che organizza viaggi gratuiti tra Polonia e Italia (in particolare Verona e Milano) per portare in Italia rifugiati ucraini chiede aiuto per sostenere le spese di carburante attraverso la donazione di buoni benzina. Tutte le info al link."",""email"":""info@trapolitalia.eu"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Verona"",""country"":""Italia"",""country_code"":""it"",""county"":""Verona"",""postcode"":""37122"",""state"":""Veneto""},""boundingbox"":[""45.2784958"",""45.5984958"",""10.8324122"",""11.1524122""],""class"":""place"",""display_name"":""Verona, Veneto, 37122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7461573888828525,""lat"":""45.4384958"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.9924122"",""osm_id"":64778101,""osm_type"":""node"",""place_id"":286299859,""type"":""city""},""mode"":""autocomplete""},""nameSurname"":""Anna Marta Chelicka Bernardo"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Donare buoni carburante per sostenere il trasporto di rifugiati ucraini in Italia"",""url"":""https://m.facebook.com/story.php?story_fbid=10223089162672302&id=1078189413""}","<pre><yamldata>
+nameSurname: Anna Marta Chelicka Bernardo
+phoneNumber: ''
+email: info@trapolitalia.eu
+title: Donare buoni carburante per sostenere il trasporto di rifugiati ucraini in
+  Italia
+recipients: ''
+description: Gruppo di cittadini che organizza viaggi gratuiti tra Polonia e Italia
+  (in particolare Verona e Milano) per portare in Italia rifugiati ucraini chiede
+  aiuto per sostenere le spese di carburante attraverso la donazione di buoni benzina.
+  Tutte le info al link.
+url: https://m.facebook.com/story.php?story_fbid=10223089162672302&id=1078189413
+location:
+  mode: autocomplete
+  address:
+    place_id: 286299859
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 64778101
+    boundingbox:
+    - '45.2784958'
+    - '45.5984958'
+    - '10.8324122'
+    - '11.1524122'
+    lat: '45.4384958'
+    lon: '10.9924122'
+    display_name: Verona, Veneto, 37122, Italia
+    class: place
+    type: city
+    importance: 0.7461573888828525
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Verona
+      county: Verona
+      state: Veneto
+      postcode: '37122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 45.4384958 10.9924122
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/174,1171408761,2022-03-16 18:33:37,2022-03-16 18:32:14,Raccolta fondi Associazione Pepitosa in carrozza per supportare struttura per minori con disabilità a Chortkiv in Ucraina ,45.1925614,10.7980846,Lombardia,Mantova,"[""Valid/Accettato"",""fundraising"",""Children"",""disability""]",,,"{""Posizione"":""45.1925614 10.7980846"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""Raccolta fondi online su Rete del dono dell'associazione Pepitosa in carrozza per supportare una struttura per minori con disabilit\u00e0 a Chortkiv nel sud-ovest dell'Ucraina che ha bisogno di tutto: farmaci, abiti, viveri, torce e molto altro."",""email"":""pepitosaincarrozza@gmail.com"",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":""https://www.retedeldono.it/it/iniziative/fondazione-don-gnocchi/valentina.tomirotti/ucraina-in-carrozza"",""location"":{""address"":{""address"":{""city"":""Porto Mantovano"",""country"":""Italia"",""country_code"":""it"",""county"":""Mantova"",""postcode"":""46047"",""road"":""Via Giacomo Manz\u00f9"",""state"":""Lombardia"",""suburb"":""Sant'Antonio"",""village"":""Montata Carra""},""boundingbox"":[""45.1924267"",""45.1940945"",""10.7979828"",""10.7990579""],""class"":""highway"",""display_name"":""Via Giacomo Manz\u00f9, Sant'Antonio, Montata Carra, Porto Mantovano, Mantova, Lombardia, 46047, Italia"",""importance"":0.61,""lat"":""45.1925614"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.7980846"",""osm_id"":249460850,""osm_type"":""way"",""place_id"":162809573,""type"":""residential""},""mode"":""autocomplete""},""submit"":true,""title"":""Raccolta fondi Associazione Pepitosa in carrozza per supportare struttura per minori con disabilit\u00e0 a Chortkiv nel sud-ovest dell'Ucraina""}","<pre><yamldata>
+title: Raccolta fondi Associazione Pepitosa in carrozza per supportare struttura per
+  minori con disabilità a Chortkiv nel sud-ovest dell'Ucraina
+description: 'Raccolta fondi online su Rete del dono dell''associazione Pepitosa in
+  carrozza per supportare una struttura per minori con disabilità a Chortkiv nel sud-ovest
+  dell''Ucraina che ha bisogno di tutto: farmaci, abiti, viveri, torce e molto altro.'
+heading: ''
+iban: ''
+bicSwift: ''
+ccPostal: ''
+causal: ''
+link: https://www.retedeldono.it/it/iniziative/fondazione-don-gnocchi/valentina.tomirotti/ucraina-in-carrozza
+email: pepitosaincarrozza@gmail.com
+location:
+  mode: autocomplete
+  address:
+    place_id: 162809573
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 249460850
+    boundingbox:
+    - '45.1924267'
+    - '45.1940945'
+    - '10.7979828'
+    - '10.7990579'
+    lat: '45.1925614'
+    lon: '10.7980846'
+    display_name: Via Giacomo Manzù, Sant'Antonio, Montata Carra, Porto Mantovano,
+      Mantova, Lombardia, 46047, Italia
+    class: highway
+    type: residential
+    importance: 0.61
+    address:
+      road: Via Giacomo Manzù
+      suburb: Sant'Antonio
+      village: Montata Carra
+      city: Porto Mantovano
+      county: Mantova
+      state: Lombardia
+      postcode: '46047'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+Posizione: 45.1925614 10.7980846
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/173,1171386593,2022-03-16 18:21:52,2022-03-16 18:16:25,A Bologna cercasi volontari per assistere i profughi ucraini al loro arrivo,44.4938203,11.3426327,Emilia-Romagna,Bologna,"[""Valid/Accettato"",""Help""]",,,"{""Posizione"":""44.4938203 11.3426327"",""description"":""Anna Marta Chelicka Bernardo, interprete italiano-polacco, sta coordinando gruppi di aiuto per i rifugiati ucraini e sta cercando su Bologna volontari che aiutino nell'accoglienza e assistenza dei profughi al momento del loro arrivo a Bologna, ad esempio a fare il tampone, a prendere un treno o compiere altre attivit\u00e0. Ulteriori info al link."",""email"":""info@trapolitalia.eu"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.421033"",""44.556094"",""11.2296206"",""11.4336295""],""class"":""boundary"",""display_name"":""Bologna, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7905771109268431,""lat"":""44.4938203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.3426327"",""osm_id"":43172,""osm_type"":""relation"",""place_id"":283848615,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Anna Marta Chelicka Bernardo"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""A Bologna cercasi volontari per l'accoglienza dei profughi ucraini al loro arrivo"",""url"":""https://www.facebook.com/groups/465946801653038/permalink/474933534087698/?sfnsn=scwspmo&ref=share""}","<pre><yamldata>
+nameSurname: Anna Marta Chelicka Bernardo
+phoneNumber: ''
+email: info@trapolitalia.eu
+title: A Bologna cercasi volontari per l'accoglienza dei profughi ucraini al loro
+  arrivo
+recipients: ''
+description: Anna Marta Chelicka Bernardo, interprete italiano-polacco, sta coordinando
+  gruppi di aiuto per i rifugiati ucraini e sta cercando su Bologna volontari che
+  aiutino nell'accoglienza e assistenza dei profughi al momento del loro arrivo a Bologna, ad esempio a fare il tampone, a prendere un treno o compiere altre attività. Ulteriori
+  info al link.
+url: https://www.facebook.com/groups/465946801653038/permalink/474933534087698/?sfnsn=scwspmo&ref=share
+location:
+  mode: autocomplete
+  address:
+    place_id: 283848615
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43172
+    boundingbox:
+    - '44.421033'
+    - '44.556094'
+    - '11.2296206'
+    - '11.4336295'
+    lat: '44.4938203'
+    lon: '11.3426327'
+    display_name: Bologna, Emilia-Romagna, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7905771109268431
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Bologna
+      county: Bologna
+      state: Emilia-Romagna
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 44.4938203 11.3426327
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/172,1171365506,2022-03-16 18:19:30,2022-03-16 18:03:32,A Bologna corso gratuito di italiano per rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""Translation""]",,,"{""address"":{""address"":{""address"":{""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""postcode"":""40122"",""road"":""Via del Pratello"",""state"":""Emilia-Romagna"",""suburb"":""Malpighi""},""boundingbox"":[""44.4955363"",""44.495552"",""11.333964"",""11.3352386""],""class"":""highway"",""display_name"":""Via del Pratello, Malpighi, Saragozza-Porto, Bologna, Emilia-Romagna, 40122, Italia"",""importance"":0.51,""lat"":""44.495552"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.3345502"",""osm_id"":34521601,""osm_type"":""way"",""place_id"":110214589,""type"":""living_street""},""mode"":""autocomplete""},""description"":""A Bologna corso gratuito di italiano per rifugiati ucraini. A offrirlo \u00e8 il Portico delle parole, associazione in via del Pratello.\nIl corso si svolger\u00e0 a partire dal 18 marzo in presenza e online con un\u2019insegnante madrelingua."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Portico delle Parole"",""recipients"":"""",""submit"":true,""title"":""A Bologna corso gratuito di italiano per rifugiati ucraini"",""type"":""translation"",""url"":""https://www.orizzontescuola.it/corso-di-italiano-gratuito-per-i-profughi-provenienti-dallucraina-liniziativa-di-unassociazione-a-bologna/""}","<pre><yamldata>
+type: translation
+offerFromWho: Associazione Portico delle Parole
+title: A Bologna corso gratuito di italiano per rifugiati ucraini
+recipients: ''
+description: 'A Bologna corso gratuito di italiano per rifugiati ucraini. A offrirlo
+  è il Portico delle parole, associazione in via del Pratello.
+
+  Il corso si svolgerà a partire dal 18 marzo in presenza e online con un’insegnante
+  madrelingua.'
+url: https://www.orizzontescuola.it/corso-di-italiano-gratuito-per-i-profughi-provenienti-dallucraina-liniziativa-di-unassociazione-a-bologna/
+address:
+  mode: autocomplete
+  address:
+    place_id: 110214589
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 34521601
+    boundingbox:
+    - '44.4955363'
+    - '44.495552'
+    - '11.333964'
+    - '11.3352386'
+    lat: '44.495552'
+    lon: '11.3345502'
+    display_name: Via del Pratello, Malpighi, Saragozza-Porto, Bologna, Emilia-Romagna,
+      40122, Italia
+    class: highway
+    type: living_street
+    importance: 0.51
+    address:
+      road: Via del Pratello
+      suburb: Malpighi
+      city: Bologna
+      county: Bologna
+      state: Emilia-Romagna
+      postcode: '40122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/171,1171360629,2022-03-16 18:18:56,2022-03-16 17:58:19,"Bambini ucraini in affido, allarme di Ufai: attenzione a truffe e messaggi ingannevoli",,,,,"[""Valid/Accettato"",""fakenews"",""Children""]",,,"{""description"":""Comunicato di Ufai - Unione Famiglie Adottive in Italia sulla pericolosit\u00e0 e illegalit\u00e0 di certi avvisi che girano in questi giorni sulle reti social per l'affidamento di minori provenienti dall'Ucraina."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""fakenews"",""link"":""https://m.facebook.com/story.php?story_fbid=2500642196738727&id=488083764661257&m_entstream_source=timeline"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Bambini ucraini in affido, allarme di Ufai: attenzione a bufale e messaggi ingannevoli""}","<pre><yamldata>
+title: 'Bambini ucraini in affido, allarme di Ufai: attenzione a bufale e messaggi
+  ingannevoli'
+description: Comunicato di Ufai - Unione Famiglie Adottive in Italia sulla pericolosità
+  e illegalità di certi avvisi che girano in questi giorni sulle reti social per l'affidamento
+  di minori provenienti dall'Ucraina.
+link: https://m.facebook.com/story.php?story_fbid=2500642196738727&id=488083764661257&m_entstream_source=timeline
+location:
+  mode: autocomplete
+  address: {}
+label: fakenews
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/170,1171344558,2022-03-16 18:17:16,2022-03-16 17:41:51,Sul sito della Commissione Europea pagina di info utili per i rifugiati ucraini,,,,,"[""Valid/Accettato"",""News"",""Legal""]",,,"{""description"":""Onlinr Umuna pagina ufficiale della Commissione Europea con informazioni utili per chi arriva dall'Ucraina, in pi\u00f9 lingue: trasporti, documenti necessari, diritti e altro."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://ec.europa.eu/info/strategy/priorities-2019-2024/stronger-europe-world/eu-solidarity-ukraine/eu-assistance-ukraine/information-people-fleeing-war-ukraine_en#onward-travel-in-the-eu"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Sul sito della Commissione Europea pagina di info utili per i rifugiati ucraini""}","<pre><yamldata>
+title: Sul sito della Commissione Europea pagina di info utili per i rifugiati ucraini
+description: 'Onlinr Umuna pagina ufficiale della Commissione Europea con informazioni
+  utili per chi arriva dall''Ucraina, in più lingue: trasporti, documenti necessari,
+  diritti e altro.'
+link: https://ec.europa.eu/info/strategy/priorities-2019-2024/stronger-europe-world/eu-solidarity-ukraine/eu-assistance-ukraine/information-people-fleeing-war-ukraine_en#onward-travel-in-the-eu
+location:
+  mode: autocomplete
+  address: {}
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/168,1171254389,2022-03-16 16:25:13,2022-03-16 16:23:05,Su InclusionPeople.eu informazioni sulla situazione delle persone con disabilità in Ucraina e su come dare un aiuto,,,,,"[""Valid/Accettato"",""News"",""fundraising"",""disability""]",,,"{""description"":""Su InclusionPeople.eu, sito dell\u2019associazione europea per l\u2019inclusione delle persone con disabilit\u00e0 intellettiva, informazioni sulla situazione delle persone con disabilit\u00e0 in Ucraina e su come poter essere di aiuto anche con raccolte fondi."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.inclusion-europe.eu/ukraine-people-with-intellectual-disabilities-mustnt-be-abandoned/?fbclid=IwAR1PiijnJsiSlkCp82J5QmryeEZyz85p_FiTeIVfCiUSf-Xzw0BzTs2BI8U"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Su InclusionPeople.eu informazioni sulla situazione delle persone con disabilit\u00e0 in Ucraina e su come poter essere di aiuto""}","<pre><yamldata>
+title: Su InclusionPeople.eu informazioni sulla situazione delle persone con disabilità
+  in Ucraina e su come poter essere di aiuto
+description: Su InclusionPeople.eu, sito dell’associazione europea per l’inclusione
+  delle persone con disabilità intellettiva, informazioni sulla situazione delle persone
+  con disabilità in Ucraina e su come poter essere di aiuto anche con raccolte fondi.
+link: https://www.inclusion-europe.eu/ukraine-people-with-intellectual-disabilities-mustnt-be-abandoned/?fbclid=IwAR1PiijnJsiSlkCp82J5QmryeEZyz85p_FiTeIVfCiUSf-Xzw0BzTs2BI8U
+location:
+  mode: autocomplete
+  address: {}
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/167,1171194894,2022-03-16 16:02:54,2022-03-16 15:36:10,"Documento con info utili, contatti e risorse a supporto delle persone Lgbtqi ucraine",49.4871968,31.2718321,,,"[""Valid/Accettato"",""News"",""useful contact"",""document_data"",""Lgbtqi""]",,,"{""Posizione"":""49.4871968 31.2718321"",""description"":""Creato da Nino Ugrekhelidze (@nii_ugre su twitter e @niiugre su IG), attivista ucraino di base in Spagna, insieme a Kailiq,ax (@_x_kai su instagram, host del podcast @ost.gayze che parla di cultura queer dall\u2019Europa dell\u2019Est).\nIl documento \u00e8  in continuo aggiornamento e contiene:\n- Informazioni su come lasciare il paese per persone trans con documenti maschili\n- Contatti per cercare aiuto alla frontiera (alla frontiera Slovacca sono state riportate aggressioni transfobiche)\n- Raccolte fondi a supporto della comunit\u00e0 LGBTIQ+\n- Organizzazioni a cui donare che agiscono direttamente in campo\n- Lista di rifugi LGBTIQ+ in loco e in Europa (Soprattutto Germania / Moldavia, Repubblica Ceca / Latvia / Ungheria)."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://docs.google.com/document/d/12iSFcOUc5RpLM_fyBgfB0v1vVA9rhP_H7hAF4NPq-M8/mobilebasic"",""location"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""44.184598"",""52.3797464"",""22.137059"",""40.2275801""],""class"":""boundary"",""display_name"":""Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9264442439164168,""lat"":""49.4871968"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""31.2718321"",""osm_id"":60199,""osm_type"":""relation"",""place_id"":283553033,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Documento con info utili, contatti e risorse a supporto delle persone Lgbtqi ucraine""}","<pre><yamldata>
 title: Documento con info utili, contatti e risorse a supporto delle persone Lgbtqi
   ucraine
@@ -118,41 +447,6 @@ label: document_data
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 49.4871968 31.2718321
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/166,1171190535,2022-03-16 16:01:44,2022-03-16 15:32:41,Taxi Service For Peace gruppo che aiuta i profughi ucraini a raggiungere paesi europei,,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""transport"",""contact""]",,,"{""address"":{""address"":{""address"":{""country"":""Germania"",""country_code"":""de""},""boundingbox"":[""47.2701114"",""55.099161"",""5.8663153"",""15.0419309""],""class"":""boundary"",""display_name"":""Germania"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9996814891722549,""lat"":""51.0834196"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.4234469"",""osm_id"":51477,""osm_type"":""relation"",""place_id"":283355336,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Gruppo di volontari con base in Germania che offre trasporto gratuito a rifugiati, profughi e persone in stato di necessit\u00e0. Offre anche aiuto nella ricerca di alloggio. Con la guerra in Ucraina si \u00e8 attivato per aiutare le persone che dai confini ucraini intendono arrivare in altri paesi europei."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":"""",""submit"":true,""title"":""Taxi Service For Peace"",""url"":""https://www.facebook.com/groups/1646669812353707/?ref=share""}","<pre><yamldata>
-title: Taxi Service For Peace
-phoneNumber: ''
-email: ''
-aim: Gruppo di volontari con base in Germania che offre trasporto gratuito a rifugiati,
-  profughi e persone in stato di necessità. Offre anche aiuto nella ricerca di alloggio.
-  Con la guerra in Ucraina si è attivato per aiutare le persone che dai confini ucraini
-  intendono arrivare in altri paesi europei.
-url: https://www.facebook.com/groups/1646669812353707/?ref=share
-address:
-  mode: autocomplete
-  address:
-    place_id: 283355336
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 51477
-    boundingbox:
-    - '47.2701114'
-    - '55.099161'
-    - '5.8663153'
-    - '15.0419309'
-    lat: '51.0834196'
-    lon: '10.4234469'
-    display_name: Germania
-    class: boundary
-    type: administrative
-    importance: 0.9996814891722549
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      country: Germania
-      country_code: de
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: contact
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/165,1171168636,2022-03-16 16:00:31,2022-03-16 15:19:21,Documento con info e contatti utili per attraversare i confini dell’Ucraina e ricevere aiuto,49.4871968,31.2718321,,,"[""Valid/Accettato"",""News"",""useful contact"",""hospitality"",""transport"",""Lgbtqi""]",,,"{""Posizione"":""49.4871968 31.2718321"",""description"":""Documento condiviso, in inglese e ucraino, realizzato dall\u2019attivista polacca Amanda Waliszewska con info, risorse online e contatti telefonici per uscire dall\u2019Ucraina, attraversare i confini, trovare passaggi e rifugi. Con informazioni anche per persone nere e Lgbtq."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://docs.google.com/document/d/1cn-P1cM3KVGhsAzb11Jy9rT6g7QTDHC0CCgULqsSG2c/mobilebasic?urp=gmail_link"",""location"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""44.184598"",""52.3797464"",""22.137059"",""40.2275801""],""class"":""boundary"",""display_name"":""Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9264442439164168,""lat"":""49.4871968"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""31.2718321"",""osm_id"":60199,""osm_type"":""relation"",""place_id"":283553033,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Documento condiviso con info e contatti utili per attraversare i confini dell\u2019Ucraina e ricevere aiuto""}","<pre><yamldata>
 title: Documento condiviso con info e contatti utili per attraversare i confini dell’Ucraina
@@ -391,56 +685,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 49.4871968 31.2718321
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/159,1171109809,2022-03-16 15:54:11,2022-03-16 14:34:12,A Milano associazione Rob de Matt cerca furgoni e pulmini (con o senza autista) per trasportare beni,45.4984334,9.1744608,Lombardia,Milano,"[""Valid/Accettato"",""Help"",""transport""]",,,"{""Posizione"":""45.4984334 9.1744608"",""description"":""Per le prossime carovane siamo alla (disperata) ricerca di furgoni/pullmini che possano trasportare merci all'andata e persone al ritorno.\nL'impegno previsto e di 2/3 giorni massimo, li cerchiamo sia con autista che senza autista.\nPer disponibilit\u00e0 vi chiediamo di mandarci un Direct Message su Facebook, con un nome, cognome e numero di telefono, cos\u00ec riusciamo a rispondervi pi\u00f9 agevolmente."",""email"":""info@robdematt.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20158"",""quarter"":""Dergano"",""road"":""Via Enrico Annibale Butti"",""state"":""Lombardia"",""suburb"":""Municipio 9""},""boundingbox"":[""45.4978503"",""45.4993226"",""9.1743614"",""9.1745368""],""class"":""highway"",""display_name"":""Via Enrico Annibale Butti, Dergano, Municipio 9, Milano, Lombardia, 20158, Italia"",""importance"":0.5,""lat"":""45.4984334"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1744608"",""osm_id"":168937643,""osm_type"":""way"",""place_id"":141424527,""type"":""unclassified""},""mode"":""autocomplete""},""nameSurname"":""Associazione Rob de Matt"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""A Milano associazione Rob de Matt cerca furgoni e pulmini (con o senza autista) per trasportare beni di prima necessit\u00e0"",""url"":""https://www.facebook.com/groups/ukrainehelpit/permalink/459548755914078/""}","<pre><yamldata>
-nameSurname: Associazione Rob de Matt
-phoneNumber: ''
-email: info@robdematt.org
-title: A Milano associazione Rob de Matt cerca furgoni e pulmini (con o senza autista)
-  per trasportare beni di prima necessità
-recipients: ''
-description: 'Per le prossime carovane siamo alla (disperata) ricerca di furgoni/pullmini
-  che possano trasportare merci all''andata e persone al ritorno.
-
-  L''impegno previsto e di 2/3 giorni massimo, li cerchiamo sia con autista che senza
-  autista.
-
-  Per disponibilità vi chiediamo di mandarci un Direct Message su Facebook, con un
-  nome, cognome e numero di telefono, così riusciamo a rispondervi più agevolmente.'
-url: https://www.facebook.com/groups/ukrainehelpit/permalink/459548755914078/
-location:
-  mode: autocomplete
-  address:
-    place_id: 141424527
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 168937643
-    boundingbox:
-    - '45.4978503'
-    - '45.4993226'
-    - '9.1743614'
-    - '9.1745368'
-    lat: '45.4984334'
-    lon: '9.1744608'
-    display_name: Via Enrico Annibale Butti, Dergano, Municipio 9, Milano, Lombardia,
-      20158, Italia
-    class: highway
-    type: unclassified
-    importance: 0.5
-    address:
-      road: Via Enrico Annibale Butti
-      quarter: Dergano
-      suburb: Municipio 9
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20158'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 45.4984334 9.1744608
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/158,1171105306,2022-03-16 15:53:50,2022-03-16 14:30:37,Contatti telefonici di Croce Rossa Ucraina per la ricerca di familiari dispersi,49.4871968,31.2718321,,,"[""Valid/Accettato"",""News"",""Services"",""useful contact""]",,,"{""Posizione"":""49.4871968 31.2718321"",""description"":""Nel caso in cui perdiate i contatti con i vostri cari, potete contattare il servizio di ricerca della Croce Rossa dell'Ucraina ai numeri sotto indicati:\n\u25ab\ufe0fKiev 096 304 4375, 066 250 9957\n\u25ab\ufe0fLviv 095 250 1274\n\u25ab\ufe0fKharkiv 099 206 5493\n\u25ab\ufe0fDnipro 095 250 1181\n\u25ab\ufe0fKramatorsk 095 250 1229"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.facebook.com/groups/ukrainehelpit/permalink/458942835974670/"",""location"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""44.184598"",""52.3797464"",""22.137059"",""40.2275801""],""class"":""boundary"",""display_name"":""Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8164442439164168,""lat"":""49.4871968"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""31.2718321"",""osm_id"":60199,""osm_type"":""relation"",""place_id"":283553033,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Contatti telefonici di Croce Rossa Ucraina per la ricerca di familiari dispersi""}","<pre><yamldata>
 title: Contatti telefonici di Croce Rossa Ucraina per la ricerca di familiari dispersi
