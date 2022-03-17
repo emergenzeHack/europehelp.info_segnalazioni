@@ -1,4 +1,41 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/186,1172860887,2022-03-17 20:56:16,2022-03-17 20:08:04,Lista di organizzazioni della provincia di Bolzano (Alto Adige) che raccolgono aiuti per i profughi ,46.65594215,11.229637264169462,Trentino-Alto Adige,Bolzano,"[""Valid/Accettato"",""fundraising"",""materialGoods"",""telegram-channel""]",,,"{""Posizione"":""46.65594215 11.229637264169462"",""description"":""Lista di organizzazioni che raccolgono donazioni di denaro e beni in Alto Adige per aiutare le persone in Ucraina nei campi profughi e nei centri di accoglienza e tutti i rifugiati. Donazioni a queste organizzazioni sono detraibili nella dichiarazione dei redditi."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.spenden.bz.it/it"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bolzano"",""state"":""Trentino-Alto Adige""},""boundingbox"":[""46.2197712"",""47.0921462"",""10.3817965"",""12.4779676""],""class"":""boundary"",""display_name"":""Bolzano, Trentino-Alto Adige, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8489076281878143,""lat"":""46.65594215"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.229637264169462"",""osm_id"":47046,""osm_type"":""relation"",""place_id"":284985164,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Lista di organizzazioni della provincia di Bolzano (Alto Adige) che raccolgono offerte per aiutare il popolo ucraino""}","<pre><yamldata>
+title: Lista di organizzazioni della provincia di Bolzano (Alto Adige) che raccolgono
+  offerte per aiutare il popolo ucraino
+description: Lista di organizzazioni che raccolgono donazioni di denaro e beni in
+  Alto Adige per aiutare le persone in Ucraina nei campi profughi e nei centri di
+  accoglienza e tutti i rifugiati. Donazioni a queste organizzazioni sono detraibili
+  nella dichiarazione dei redditi.
+link: https://www.spenden.bz.it/it
+location:
+  mode: autocomplete
+  address:
+    place_id: 284985164
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 47046
+    boundingbox:
+    - '46.2197712'
+    - '47.0921462'
+    - '10.3817965'
+    - '12.4779676'
+    lat: '46.65594215'
+    lon: '11.229637264169462'
+    display_name: Bolzano, Trentino-Alto Adige, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8489076281878143
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Bolzano
+      state: Trentino-Alto Adige
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 46.65594215 11.229637264169462
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/177,1171616618,2022-03-17 17:45:33,2022-03-16 22:22:14,Numero unico europeo 116000 per segnalare la scomparsa di bambini ucraini,,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""Children"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Telefono Azzurro lancia l'allarme sull\u2019emergenza Ucraina: \u201c\u00c8 necessario controllare gli accessi e monitorare il passaggio di bambini ai vari altri paesi\u201d, sono a rischio scomparsa migliaia di bambini. L\u2019associazione invita a segnalare la scomparsa di un bambino ucraino chiamando il 116000 o oppure invia una segnalazione online su http://116-000.it/segnalazioni/segnala-una-scomparsa/"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Telefono Azzurro"",""recipients"":"""",""submit"":true,""title"":""Numero unico europeo 116000 per segnalare la scomparsa di bambini ucraini"",""type"":""children"",""url"":""https://azzurro.it/ucraina/""}","<pre><yamldata>
 type: children
 offerFromWho: Telefono Azzurro
