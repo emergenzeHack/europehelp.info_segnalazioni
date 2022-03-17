@@ -1,4 +1,47 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/185,1172468149,2022-03-17 16:11:28,2022-03-17 15:23:42,"A Castel Gandolfo (Roma) Monastero Studiti S.Teodoro, che sta ospitando rifugiati ucraini, raccoglie fondi per acquistare con urgenza due caldaie",41.7425222,12.6488774,,,"[""Valid/Accettato"",""fundraising""]",,,"{""Posizione"":""41.7425222 12.6488774"",""bicSwift"":"""",""causal"":""donazione Caldaie"",""ccPostal"":"""",""description"":""A Villa Andrea c'\u00e8 bisogno di acqua calda e termosifoni caldi e il Comune di Castel Gandolfo sta aiutando Villa Andrea sede del Monastero S.Teodor, che sta ospitando cittadini ucraini, a raccogliere fondi per l'acquisto urgente di due caldaie."",""email"":"""",""heading"":""KOZAK OLEH MONASTERO STUDITI S. TEODOR"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT27N 02008 39143 000011103066"",""label"":""fundraising"",""link"":""https://www.comune.castelgandolfo.rm.it/index.php/home/news-dal-comune/1383-raccolta-fondi-per-supportare-l-ospitalita-di-cittadini-ucraini-a-castel-gandolfo"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00073"",""state"":""Lazio"",""village"":""Castel Gandolfo""},""boundingbox"":[""41.724755"",""41.7651955"",""12.5925812"",""12.6883249""],""class"":""boundary"",""display_name"":""Castel Gandolfo, Roma Capitale, Lazio, 00073, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7231974048094278,""lat"":""41.7425222"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.6488774"",""osm_id"":41516,""osm_type"":""relation"",""place_id"":284123280,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""MONASTERO STUDITI S. TEODOR""}","<pre><yamldata>
+title: MONASTERO STUDITI S. TEODOR
+description: A Villa Andrea c'è bisogno di acqua calda e termosifoni caldi e il Comune
+  di Castel Gandolfo sta aiutando Villa Andrea sede del Monastero S.Teodor, che sta
+  ospitando cittadini ucraini, a raccogliere fondi per l'acquisto urgente di due caldaie.
+heading: KOZAK OLEH MONASTERO STUDITI S. TEODOR
+iban: IT27N 02008 39143 000011103066
+bicSwift: ''
+ccPostal: ''
+causal: donazione Caldaie
+link: https://www.comune.castelgandolfo.rm.it/index.php/home/news-dal-comune/1383-raccolta-fondi-per-supportare-l-ospitalita-di-cittadini-ucraini-a-castel-gandolfo
+email: ''
+location:
+  mode: autocomplete
+  address:
+    place_id: 284123280
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 41516
+    boundingbox:
+    - '41.724755'
+    - '41.7651955'
+    - '12.5925812'
+    - '12.6883249'
+    lat: '41.7425222'
+    lon: '12.6488774'
+    display_name: Castel Gandolfo, Roma Capitale, Lazio, 00073, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7231974048094278
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      village: Castel Gandolfo
+      county: Roma Capitale
+      state: Lazio
+      postcode: '00073'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+Posizione: 41.7425222 12.6488774
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/184,1172447736,2022-03-17 16:05:49,2022-03-17 14:45:57,Vademecum per accoglienza profughi ucraini a Bergamo,45.756655699999996,9.754219200862249,Lombardia,Bergamo,"[""Valid/Accettato"",""Services"",""Legal"",""useful contact"",""materialGoods"",""hospitality"",""healtcare"",""Children"",""document_data""]",,,"{""Posizione"":""45.756655699999996 9.754219200862249"",""description"":""DOCUMENTO PREDISPOSTO DA\nCONSIGLIO DI RAPPRESENTANZA DEI SINDACI DI BERGAMO E DI UTILITA\u2019 PER I SINDACI con info su assistenza sanitaria, accoglienza e alloggi, istruzione, permessi di soggiorno, raccolta beni."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""http://www.prefettura.it/FILES/AllegatiPag/1159/Vademecum_accoglienza_ucraini_11_marzo_22.pdf"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bergamo"",""state"":""Lombardia""},""boundingbox"":[""45.4221614"",""46.0912018"",""9.4450549"",""10.2627486""],""class"":""boundary"",""display_name"":""Bergamo, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7460458381268803,""lat"":""45.756655699999996"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.754219200862249"",""osm_id"":44996,""osm_type"":""relation"",""place_id"":284895216,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Vademecum accoglienza Ucraina a bergamo""}","<pre><yamldata>
 title: Vademecum accoglienza Ucraina a bergamo
 description: 'DOCUMENTO PREDISPOSTO DA
