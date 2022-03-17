@@ -1,4 +1,78 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/184,1172447736,2022-03-17 16:05:05,2022-03-17 14:45:57,Vademecum per accoglienza profughi ucraini a Bergamo,45.756655699999996,9.754219200862249,Lombardia,Bergamo,"[""Valid/Accettato"",""Services"",""document_data""]",,,"{""Posizione"":""45.756655699999996 9.754219200862249"",""description"":""DOCUMENTO PREDISPOSTO DA\nCONSIGLIO DI RAPPRESENTANZA DEI SINDACI DI BERGAMO E DI UTILITA\u2019 PER I SINDACI con info su assistenza sanitaria, accoglienza e alloggi, istruzione, permessi di soggiorno."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""http://www.prefettura.it/FILES/AllegatiPag/1159/Vademecum_accoglienza_ucraini_11_marzo_22.pdf"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bergamo"",""state"":""Lombardia""},""boundingbox"":[""45.4221614"",""46.0912018"",""9.4450549"",""10.2627486""],""class"":""boundary"",""display_name"":""Bergamo, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7460458381268803,""lat"":""45.756655699999996"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.754219200862249"",""osm_id"":44996,""osm_type"":""relation"",""place_id"":284895216,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Vademecum accoglienza Ucraina a bergamo""}","<pre><yamldata>
+title: Vademecum accoglienza Ucraina a bergamo
+description: 'DOCUMENTO PREDISPOSTO DA
+
+  CONSIGLIO DI RAPPRESENTANZA DEI SINDACI DI BERGAMO E DI UTILITA’ PER I SINDACI con info su assistenza sanitaria, accoglienza e alloggi, istruzione, permessi di soggiorno.'
+link: http://www.prefettura.it/FILES/AllegatiPag/1159/Vademecum_accoglienza_ucraini_11_marzo_22.pdf
+location:
+  mode: autocomplete
+  address:
+    place_id: 284895216
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 44996
+    boundingbox:
+    - '45.4221614'
+    - '46.0912018'
+    - '9.4450549'
+    - '10.2627486'
+    lat: '45.756655699999996'
+    lon: '9.754219200862249'
+    display_name: Bergamo, Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7460458381268803
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Bergamo
+      state: Lombardia
+      country: Italia
+      country_code: it
+label: document_data
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.756655699999996 9.754219200862249
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/182,1172367308,2022-03-17 16:01:24,2022-03-17 13:10:23,Raccolta fondi per emergenza Ucraina di Croce Rossa Bolzano,46.65594215,11.229637264169462,Trentino-Alto Adige,Bolzano,"[""Valid/Accettato"",""fundraising""]",,,"{""Posizione"":""46.65594215 11.229637264169462"",""bicSwift"":"""",""causal"":""Emergenza Ucraina"",""ccPostal"":"""",""description"":"""",""email"":"""",""heading"":""CRI Comitato Provincia Autonoma Bolzano - Alto Adige"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT41A0585611602051571465742"",""label"":""fundraising"",""link"":""https://www.facebook.com/crocerossa.altoadige/posts/5665565300137097"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bolzano"",""state"":""Trentino-Alto Adige""},""boundingbox"":[""46.2197712"",""47.0921462"",""10.3817965"",""12.4779676""],""class"":""boundary"",""display_name"":""Bolzano, Trentino-Alto Adige, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7589076281878143,""lat"":""46.65594215"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.229637264169462"",""osm_id"":47046,""osm_type"":""relation"",""place_id"":284985164,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Croce Rossa Italiana - Comitato Provinciale di Bolzano - Alto Adige""}","<pre><yamldata>
+title: Croce Rossa Italiana - Comitato Provinciale di Bolzano - Alto Adige
+description: ''
+heading: CRI Comitato Provincia Autonoma Bolzano - Alto Adige
+iban: IT41A0585611602051571465742
+bicSwift: ''
+ccPostal: ''
+causal: Emergenza Ucraina
+link: https://www.facebook.com/crocerossa.altoadige/posts/5665565300137097
+email: ''
+location:
+  mode: autocomplete
+  address:
+    place_id: 284985164
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 47046
+    boundingbox:
+    - '46.2197712'
+    - '47.0921462'
+    - '10.3817965'
+    - '12.4779676'
+    lat: '46.65594215'
+    lon: '11.229637264169462'
+    display_name: Bolzano, Trentino-Alto Adige, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7589076281878143
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Bolzano
+      state: Trentino-Alto Adige
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+Posizione: 46.65594215 11.229637264169462
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/98,1167400443,2022-03-17 15:59:37,2022-03-12 21:05:41,15 borse di studio per studenti ucraini promosse dall'Università della Calabria,,,,,"[""Valid/Accettato"",""News"",""Services"",""job""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Universit\u00e0 della Calabria"",""country"":""Italia"",""country_code"":""it"",""county"":""Cosenza"",""postcode"":""87036"",""road"":""Unical Campus"",""state"":""Calabria"",""town"":""Rende""},""boundingbox"":[""39.3557691"",""39.3688203"",""16.219811"",""16.2279511""],""class"":""amenity"",""display_name"":""Universit\u00e0 della Calabria, Unical Campus, Rende, Cosenza, Calabria, 87036, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//education_university.p.20.png"",""importance"":0.7250690427980546,""lat"":""39.36233015"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.22349291436983"",""osm_id"":932949985,""osm_type"":""way"",""place_id"":275216324,""type"":""university""},""mode"":""autocomplete""},""description"":""Universit\u00e0 della Calabria offre 15 borse di studio a studenti ucraini in fuga dalla guerra."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Universita della Calabria"",""recipients"":"""",""submit"":true,""title"":""15 borse di studio per studenti ucraini promosse dall'Universit\u00e0 della #Calabria."",""type"":""jobOffer"",""url"":""https://www.unical.it/contents/news/view/solidarieta-al-popolo-ucraino-unical-pronta-ad-accogliere-studenti-in-fuga-con-15-borse-di-studio-speciali""}","<pre><yamldata>
 type: jobOffer
 offerFromWho: Universita della Calabria
