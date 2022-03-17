@@ -1,4 +1,47 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/40,1161949488,2022-03-17 12:38:55,2022-03-07 21:34:37,Ukranian sign language services to support deaf refugees - Comune di Reggio Emilia,,,,,"[""Valid/Accettato"",""News"",""Services"",""disability"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Reggio nell'Emilia"",""country"":""Italia"",""country_code"":""it"",""county"":""Reggio nell'Emilia"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.6244638"",""44.7744479"",""10.4910178"",""10.7733414""],""class"":""boundary"",""display_name"":""Reggio nell'Emilia, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.6725411725065691,""lat"":""44.6978389"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.6304971"",""osm_id"":43415,""osm_type"":""relation"",""place_id"":284543523,""type"":""administrative""},""mode"":""autocomplete""},""description"":""has set up a network of regional community/communication services to support Ukraine deaf refugees arriving in the Emilia Romagna region. These services aim to facilitate communication with local public bodies and public services thanks to deaf interpreters and mediators who know Ukrainian Sign Language.   Further info at emiliaromagna@ens.it  They released this signed video here attached: [https://youtube.com/watch?v=604vD8haZh8&feature=share](https://youtube.com/watch?v=604vD8haZh8&feature=share&fbclid=IwAR1_Pd9g8BXcSeZXSCrEU_1FrCxlhXs01r6TgXeNOo6NVzNfrFOm_LqBkos) EUD - The European Union of the Deaf  Christian Rathmann Debra Russell Arunas Brazas NRW: Deaf Refugees World Federation of the Deaf Ry Lorraine Leeson Anna Komarova Igor Chavrot"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":"". The Emilia-Romagna Regional Branch of the Italian Deaf Association  (ENS)"",""recipients"":""Deaf"",""submit"":true,""title"":""LIS Service to support deaf refugees"",""type"":""disabilityServices"",""url"":""https://www.facebook.com/groups/ukraineinfo.help/permalink/451623253373295/""}","<pre><yamldata>
+type: disabilityServices
+offerFromWho: . The Emilia-Romagna Regional Branch of the Italian Deaf Association  (ENS)
+title: LIS Service to support deaf refugees
+recipients: Deaf
+description: 'has set up a network of regional community/communication services to
+  support Ukraine deaf refugees arriving in the Emilia Romagna region. These services
+  aim to facilitate communication with local public bodies and public services thanks
+  to deaf interpreters and mediators who know Ukrainian Sign Language.   Further info
+  at emiliaromagna@ens.it  They released this signed video here attached: [https://youtube.com/watch?v=604vD8haZh8&feature=share](https://youtube.com/watch?v=604vD8haZh8&feature=share&fbclid=IwAR1_Pd9g8BXcSeZXSCrEU_1FrCxlhXs01r6TgXeNOo6NVzNfrFOm_LqBkos)
+  EUD - The European Union of the Deaf  Christian Rathmann Debra Russell Arunas Brazas
+  NRW: Deaf Refugees World Federation of the Deaf Ry Lorraine Leeson Anna Komarova
+  Igor Chavrot'
+url: https://www.facebook.com/groups/ukraineinfo.help/permalink/451623253373295/
+address:
+  mode: autocomplete
+  address:
+    place_id: 284543523
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43415
+    boundingbox:
+    - '44.6244638'
+    - '44.7744479'
+    - '10.4910178'
+    - '10.7733414'
+    lat: '44.6978389'
+    lon: '10.6304971'
+    display_name: Reggio nell'Emilia, Emilia-Romagna, Italia
+    class: boundary
+    type: administrative
+    importance: 0.6725411725065691
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Reggio nell'Emilia
+      county: Reggio nell'Emilia
+      state: Emilia-Romagna
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/47,1164049917,2022-03-17 10:50:26,2022-03-09 14:57:42,Regione Lazio: informazioni importanti per i profughi ucraini,,,,,"[""Valid/Accettato"",""News"",""Missing position"",""Services"",""hospitality"",""healtcare"",""telegram-channel""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""neighbourhood"":""Ostiense"",""office"":""Regione Lazio"",""postcode"":""00100"",""quarter"":""Garbatella"",""road"":""Via Giovanni Genocchi"",""state"":""Lazio"",""suburb"":""Municipio Roma VIII""},""boundingbox"":[""41.858227"",""41.8597856"",""12.4936462"",""12.4959306""],""class"":""office"",""display_name"":""Regione Lazio, Via Giovanni Genocchi, Garbatella, Ostiense, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00100, Italia"",""importance"":0.32100000000000006,""lat"":""41.8589212"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.495005572708482"",""osm_id"":2858119,""osm_type"":""relation"",""place_id"":327241895,""type"":""government""},""mode"":""autocomplete""},""description"":""Info utili in italiano e ucraino per i cittadini ucraini che arrivano nel Lazio."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Lazio"",""recipients"":"""",""submit"":true,""title"":""Regione Lazio: informazioni per profughi ucraini"",""type"":""legal"",""url"":""https://facebook.com/100069073545055/posts/265699519075831/""}","<pre><yamldata>
 type: legal
 offerFromWho: Regione Lazio
@@ -157,49 +200,6 @@ location:
     address: {}
 label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/40,1161949488,2022-03-17 10:46:46,2022-03-07 21:34:37,Ukranian sign language services to support deaf refugees,,,,,"[""Valid/Accettato"",""News"",""Services"",""disability"",""telegram-channel""]",,,"{""address"":{""address"":{""address"":{""city"":""Reggio nell'Emilia"",""country"":""Italia"",""country_code"":""it"",""county"":""Reggio nell'Emilia"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.6244638"",""44.7744479"",""10.4910178"",""10.7733414""],""class"":""boundary"",""display_name"":""Reggio nell'Emilia, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.6725411725065691,""lat"":""44.6978389"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.6304971"",""osm_id"":43415,""osm_type"":""relation"",""place_id"":284543523,""type"":""administrative""},""mode"":""autocomplete""},""description"":""has set up a network of regional community/communication services to support Ukraine deaf refugees arriving in the Emilia Romagna region. These services aim to facilitate communication with local public bodies and public services thanks to deaf interpreters and mediators who know Ukrainian Sign Language.   Further info at emiliaromagna@ens.it  They released this signed video here attached: [https://youtube.com/watch?v=604vD8haZh8&feature=share](https://youtube.com/watch?v=604vD8haZh8&feature=share&fbclid=IwAR1_Pd9g8BXcSeZXSCrEU_1FrCxlhXs01r6TgXeNOo6NVzNfrFOm_LqBkos) EUD - The European Union of the Deaf  Christian Rathmann Debra Russell Arunas Brazas NRW: Deaf Refugees World Federation of the Deaf Ry Lorraine Leeson Anna Komarova Igor Chavrot"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":"". The Emilia-Romagna Regional Branch of the Italian Deaf Association  (ENS)"",""recipients"":""Deaf"",""submit"":true,""title"":""LIS Service to support deaf refugees"",""type"":""disabilityServices"",""url"":""https://www.facebook.com/groups/ukraineinfo.help/permalink/451623253373295/""}","<pre><yamldata>
-type: disabilityServices
-offerFromWho: . The Emilia-Romagna Regional Branch of the Italian Deaf Association  (ENS)
-title: LIS Service to support deaf refugees
-recipients: Deaf
-description: 'has set up a network of regional community/communication services to
-  support Ukraine deaf refugees arriving in the Emilia Romagna region. These services
-  aim to facilitate communication with local public bodies and public services thanks
-  to deaf interpreters and mediators who know Ukrainian Sign Language.   Further info
-  at emiliaromagna@ens.it  They released this signed video here attached: [https://youtube.com/watch?v=604vD8haZh8&feature=share](https://youtube.com/watch?v=604vD8haZh8&feature=share&fbclid=IwAR1_Pd9g8BXcSeZXSCrEU_1FrCxlhXs01r6TgXeNOo6NVzNfrFOm_LqBkos)
-  EUD - The European Union of the Deaf  Christian Rathmann Debra Russell Arunas Brazas
-  NRW: Deaf Refugees World Federation of the Deaf Ry Lorraine Leeson Anna Komarova
-  Igor Chavrot'
-url: https://www.facebook.com/groups/ukraineinfo.help/permalink/451623253373295/
-address:
-  mode: autocomplete
-  address:
-    place_id: 284543523
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 43415
-    boundingbox:
-    - '44.6244638'
-    - '44.7744479'
-    - '10.4910178'
-    - '10.7733414'
-    lat: '44.6978389'
-    lon: '10.6304971'
-    display_name: Reggio nell'Emilia, Emilia-Romagna, Italia
-    class: boundary
-    type: administrative
-    importance: 0.6725411725065691
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Reggio nell'Emilia
-      county: Reggio nell'Emilia
-      state: Emilia-Romagna
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/42,1162736087,2022-03-17 10:46:32,2022-03-08 14:39:12,Comune di Venezia attiva sportello Emergenza Ucraina,,,,,"[""Valid/Accettato"",""News"",""Missing position"",""Services"",""Legal"",""hospitality"",""telegram-channel""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Comune di Venezia"",""city"":""Venezia"",""country"":""Italia"",""country_code"":""it"",""county"":""Venezia"",""road"":""Calle Chiesa Ognissanti"",""state"":""Veneto"",""suburb"":""Lido-Pellestrina"",""village"":""Pellestrina""},""boundingbox"":[""45.2731957"",""45.2732957"",""12.3009922"",""12.3010922""],""class"":""amenity"",""display_name"":""Comune di Venezia, Calle Chiesa Ognissanti, Lido-Pellestrina, Pellestrina, Venezia, Veneto, Italia"",""importance"":0.31100000000000005,""lat"":""45.2732457"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.3010422"",""osm_id"":6958414086,""osm_type"":""node"",""place_id"":74210873,""type"":""townhall""},""mode"":""autocomplete""},""description"":""A Venezia attivo sportello Emergenza Ucraina del Comune che offre info,\\ \\ supporto, assistenza ai rifugiati ucraini e alle famiglie italiane ospitanti.\\n\\ Tel. 041041 (DIME), lun-ven ore 8-20. \\nEmail ucraina@comune.venezia.it \\n(In lingua\\ \\ italiana e ucraina)."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Venezia"",""recipients"":""Rifugiati ucraini, famiglie ospitanti, cittadini"",""submit"":true,""title"":""Comune di #Venezia attiva Sportello Emergenza #Ucraina"",""type"":""legal"",""url"":""https://live.comune.venezia.it/it/2022/03/informazioni-le-persone-provenienti-dallucraina-e-le-famiglie-ospitanti""}","<pre><yamldata>
