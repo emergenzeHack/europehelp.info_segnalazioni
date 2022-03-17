@@ -1,4 +1,152 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/98,1167400443,2022-03-17 15:59:37,2022-03-12 21:05:41,15 borse di studio per studenti ucraini promosse dall'Università della Calabria,,,,,"[""Valid/Accettato"",""News"",""Services"",""job""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Universit\u00e0 della Calabria"",""country"":""Italia"",""country_code"":""it"",""county"":""Cosenza"",""postcode"":""87036"",""road"":""Unical Campus"",""state"":""Calabria"",""town"":""Rende""},""boundingbox"":[""39.3557691"",""39.3688203"",""16.219811"",""16.2279511""],""class"":""amenity"",""display_name"":""Universit\u00e0 della Calabria, Unical Campus, Rende, Cosenza, Calabria, 87036, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//education_university.p.20.png"",""importance"":0.7250690427980546,""lat"":""39.36233015"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.22349291436983"",""osm_id"":932949985,""osm_type"":""way"",""place_id"":275216324,""type"":""university""},""mode"":""autocomplete""},""description"":""Universit\u00e0 della Calabria offre 15 borse di studio a studenti ucraini in fuga dalla guerra."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Universita della Calabria"",""recipients"":"""",""submit"":true,""title"":""15 borse di studio per studenti ucraini promosse dall'Universit\u00e0 della #Calabria."",""type"":""jobOffer"",""url"":""https://www.unical.it/contents/news/view/solidarieta-al-popolo-ucraino-unical-pronta-ad-accogliere-studenti-in-fuga-con-15-borse-di-studio-speciali""}","<pre><yamldata>
+type: jobOffer
+offerFromWho: Universita della Calabria
+title: '15 borse di studio per studenti ucraini promosse dall''Università della #Calabria.'
+recipients: ''
+description: Università della Calabria offre 15 borse di studio a studenti ucraini
+  in fuga dalla guerra.
+url: https://www.unical.it/contents/news/view/solidarieta-al-popolo-ucraino-unical-pronta-ad-accogliere-studenti-in-fuga-con-15-borse-di-studio-speciali
+address:
+  mode: autocomplete
+  address:
+    place_id: 275216324
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 932949985
+    boundingbox:
+    - '39.3557691'
+    - '39.3688203'
+    - '16.219811'
+    - '16.2279511'
+    lat: '39.36233015'
+    lon: '16.22349291436983'
+    display_name: Università della Calabria, Unical Campus, Rende, Cosenza, Calabria,
+      87036, Italia
+    class: amenity
+    type: university
+    importance: 0.7250690427980546
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//education_university.p.20.png
+    address:
+      amenity: Università della Calabria
+      road: Unical Campus
+      town: Rende
+      county: Cosenza
+      state: Calabria
+      postcode: '87036'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/181,1172358929,2022-03-17 15:58:17,2022-03-17 13:03:37,Informazioni della Provincia autonoma di Bolzano su aiuti per l'Ucraina e accoglienza profughi,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""fundraising"",""useful contact"",""hospitality"",""healtcare"",""contact""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bolzano"",""state"":""Trentino-Alto Adige""},""boundingbox"":[""46.2197712"",""47.0921462"",""10.3817965"",""12.4779676""],""class"":""boundary"",""display_name"":""Bolzano, Trentino-Alto Adige, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7589076281878143,""lat"":""46.65594215"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.229637264169462"",""osm_id"":47046,""osm_type"":""relation"",""place_id"":284985164,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Al link informazioni utili per le persone provenienti dall'Ucraina (assistenza medica, alloggi, info legali, ecc) e informazioni per tutti coloro che desiderano sostenere e accogliere i rifugiati dall'Ucraina. Le informazioni sono fornite da Ripartizione politiche sociali e la Protezione civile della Provincia Autonoma di Bolzano."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":""800751751"",""submit"":true,""title"":""Informazioni della Provincia autonoma di Bolzano su aiuti per l'Ucraina e accoglienza profughi"",""url"":""https://www.provincia.bz.it/famiglia-sociale-comunita/persone-in-difficolta/richiedenti-asilo-profughi/aiuti-ucraina.asp""}","<pre><yamldata>
+title: Informazioni della Provincia autonoma di Bolzano su aiuti per l'Ucraina e accoglienza
+  profughi
+phoneNumber: '800751751'
+email: ''
+aim: Al link informazioni utili per le persone provenienti dall'Ucraina (assistenza medica, alloggi, info legali, ecc) e informazioni per tutti
+  coloro che desiderano sostenere e accogliere i rifugiati dall'Ucraina. Le informazioni sono fornite
+  da Ripartizione politiche sociali e la Protezione civile della Provincia Autonoma
+  di Bolzano.
+url: https://www.provincia.bz.it/famiglia-sociale-comunita/persone-in-difficolta/richiedenti-asilo-profughi/aiuti-ucraina.asp
+address:
+  mode: autocomplete
+  address:
+    place_id: 284985164
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 47046
+    boundingbox:
+    - '46.2197712'
+    - '47.0921462'
+    - '10.3817965'
+    - '12.4779676'
+    lat: '46.65594215'
+    lon: '11.229637264169462'
+    display_name: Bolzano, Trentino-Alto Adige, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7589076281878143
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Bolzano
+      state: Trentino-Alto Adige
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/180,1172340278,2022-03-17 15:54:56,2022-03-17 12:48:31,Raccolta fondi emergenza Ucraina di Croce Bianca Bolzano,46.5001371,11.311174,Trentino-Alto Adige,Bolzano,"[""Valid/Accettato"",""fundraising""]",,,"{""Posizione"":""46.5001371 11.311174"",""bicSwift"":""RZSBIT2B"",""causal"":""Sostegno per l\u2019Ucraina"",""ccPostal"":"""",""description"":""Grazie a Samaritan International, una rete europea della quale fa parte anche la Croce Bianca, l\u2019Associazione provinciale di soccorso ha un rapporto stretto con l\u2019Unione Samaritana Ucraina SSU a Kiev e ha quindi un contatto diretto con la regione.\nSecondo le organizzazioni, ci troviamo di fronte un\u2019emergenza umanitaria sia all\u2019interno dei confini ucraini che nelle regioni di confine con l\u2019Europa centrale. Dimostrare solidariet\u00e0 \u00e8 l\u2019unica cosa che possiamo fare al momento e anche noi come Croce Bianca faremo la nostra parte.\nDa parte della Croce Bianca \u00e8 stato attivato un conto di solidariet\u00e0 per l\u2019intervento in Ucraina e nei paesi limitrofi."",""email"":"""",""heading"":""Croce Bianca"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT29C0349311600000300058998"",""label"":""fundraising"",""link"":""https://www.crocebianca.bz.it/it/vorrei-aiutare/donazioni-ucraina-2354.html"",""location"":{""address"":{""address"":{""city"":""Bolzano"",""country"":""Italia"",""country_code"":""it"",""county"":""Bolzano"",""postcode"":""39100"",""road"":""Via Lorenz B\u00f6hler"",""state"":""Trentino-Alto Adige"",""suburb"":""San Maurizio""},""boundingbox"":[""46.4998167"",""46.5002673"",""11.3100854"",""11.3114063""],""class"":""highway"",""display_name"":""Via Lorenz B\u00f6hler, Gries-San Quirino, San Maurizio, Bolzano, Trentino-Alto Adige, 39100, Italia"",""importance"":0.4,""lat"":""46.5001371"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.311174"",""osm_id"":1020494815,""osm_type"":""way"",""place_id"":327308307,""type"":""secondary""},""mode"":""autocomplete""},""submit"":true,""title"":""Associazione provinciale di soccorso Croce Bianca, Bolzano""}","<pre><yamldata>
+title: Associazione provinciale di soccorso Croce Bianca, Bolzano
+description: 'Grazie a Samaritan International, una rete europea della quale fa parte
+  anche la Croce Bianca, l’Associazione provinciale di soccorso ha un rapporto stretto
+  con l’Unione Samaritana Ucraina SSU a Kiev e ha quindi un contatto diretto con la
+  regione.
+
+  Secondo le organizzazioni, ci troviamo di fronte un’emergenza umanitaria sia all’interno
+  dei confini ucraini che nelle regioni di confine con l’Europa centrale. Dimostrare
+  solidarietà è l’unica cosa che possiamo fare al momento e anche noi come Croce Bianca
+  faremo la nostra parte.
+
+  Da parte della Croce Bianca è stato attivato un conto di solidarietà per l’intervento
+  in Ucraina e nei paesi limitrofi.'
+heading: Croce Bianca
+iban: IT29C0349311600000300058998
+bicSwift: RZSBIT2B
+ccPostal: ''
+causal: Sostegno per l’Ucraina
+link: https://www.crocebianca.bz.it/it/vorrei-aiutare/donazioni-ucraina-2354.html
+email: ''
+location:
+  mode: autocomplete
+  address:
+    place_id: 327308307
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 1020494815
+    boundingbox:
+    - '46.4998167'
+    - '46.5002673'
+    - '11.3100854'
+    - '11.3114063'
+    lat: '46.5001371'
+    lon: '11.311174'
+    display_name: Via Lorenz Böhler, Gries-San Quirino, San Maurizio, Bolzano, Trentino-Alto
+      Adige, 39100, Italia
+    class: highway
+    type: secondary
+    importance: 0.4
+    address:
+      road: Via Lorenz Böhler
+      suburb: San Maurizio
+      city: Bolzano
+      county: Bolzano
+      state: Trentino-Alto Adige
+      postcode: '39100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+Posizione: 46.5001371 11.311174
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/179,1172209425,2022-03-17 15:53:53,2022-03-17 10:40:10,Data on Ukraine refugees situation - Dati sui flussi dei rifugiati ucraini (fonti: Unhcr e Viminale),,,,,"[""Valid/Accettato"",""News"",""document_data""]",,,"{""description"":""Collection of data on the migration flow of Ukrainian citizens from:\n1) http://data2.unhcr.org/en/situations/ukraine\n2) https://www.interno.gov.it/it/search?search_fulltext=ucraina (for Italy)"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":"""",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Situation Ukraine refugee situation""}","<pre><yamldata>
+title: Situation Ukraine refugee situation
+description: 'Collection of data on the migration flow of Ukrainian citizens from:
+
+  1) http://data2.unhcr.org/en/situations/ukraine
+
+  2) https://www.interno.gov.it/it/search?search_fulltext=ucraina (for Italy)'
+link: ''
+location:
+  mode: autocomplete
+  address: {}
+label: document_data
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/53,1164074825,2022-03-17 15:44:16,2022-03-09 15:15:17,"Save the children Italia attiva Help Line per minori ucraini, famiglie e enti impegnati nell’accoglienza",,,,,"[""Valid/Accettato"",""Missing position"",""Services"",""hospitality"",""Children"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""9"",""office"":""Save the Children Italia"",""postcode"":""00184"",""quarter"":""Monti"",""road"":""Piazza di San Francesco di Paola"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.8939153"",""41.8940153"",""12.4916895"",""12.4917895""],""class"":""office"",""display_name"":""Save the Children Italia, 9, Piazza di San Francesco di Paola, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia"",""importance"":0.9309999999999999,""lat"":""41.8939653"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4917395"",""osm_id"":9094641317,""osm_type"":""node"",""place_id"":95476703,""type"":""ngo""},""mode"":""autocomplete""},""description"":""Helpine di SaveChildren a sostegno di bambini ucraini soli o con le loro famiglie, associazioni, Asl ed enti locali impegnati nell'accoglienza.\n Tel. 351 2202016. Ulteriori le info al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Save The children Italia"",""recipients"":""Minori e famiglie ucraine"",""submit"":true,""title"":""Save The children attiva help Line per minori ucraini, famiglie e enti impegnati nell\u2019accoglienza"",""type"":""children"",""url"":""https://www.facebook.com/46590675335/posts/10159891711955336/""}","<pre><yamldata>
 type: children
 offerFromWho: Save The children Italia
@@ -3713,47 +3861,6 @@ address:
       office: Uffici Comune di Rende
       road: Via Don Minzoni
       village: Roges
-      town: Rende
-      county: Cosenza
-      state: Calabria
-      postcode: '87036'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/98,1167400443,2022-03-12 22:44:36,2022-03-12 21:05:41,15 borse di studio per studenti ucraini promosse dall'Università della Calabria,,,,,"[""Valid/Accettato"",""News"",""Services"",""job""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Universit\u00e0 della Calabria"",""country"":""Italia"",""country_code"":""it"",""county"":""Cosenza"",""postcode"":""87036"",""road"":""Unical Campus"",""state"":""Calabria"",""town"":""Rende""},""boundingbox"":[""39.3557691"",""39.3688203"",""16.219811"",""16.2279511""],""class"":""amenity"",""display_name"":""Universit\u00e0 della Calabria, Unical Campus, Rende, Cosenza, Calabria, 87036, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//education_university.p.20.png"",""importance"":0.7250690427980546,""lat"":""39.36233015"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.22349291436983"",""osm_id"":932949985,""osm_type"":""way"",""place_id"":275216324,""type"":""university""},""mode"":""autocomplete""},""description"":""Universit\u00e0 della Calabria offre 15 borse di studio a studenti ucraini in fuga dalla guerra."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Universita della Calabria"",""recipients"":"""",""submit"":true,""title"":""15 borse di studio per studenti ucraini promosse dall'Universit\u00e0 della #Calabria."",""type"":""jobOffer"",""url"":""https://www.unical.it/portale/portaltemplates/view/view.cfm?116448""}","<pre><yamldata>
-type: jobOffer
-offerFromWho: Universita della Calabria
-title: '15 borse di studio per studenti ucraini promosse dall''Università della #Calabria.'
-recipients: ''
-description: Università della Calabria offre 15 borse di studio a studenti ucraini
-  in fuga dalla guerra.
-url: https://www.unical.it/portale/portaltemplates/view/view.cfm?116448
-address:
-  mode: autocomplete
-  address:
-    place_id: 275216324
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 932949985
-    boundingbox:
-    - '39.3557691'
-    - '39.3688203'
-    - '16.219811'
-    - '16.2279511'
-    lat: '39.36233015'
-    lon: '16.22349291436983'
-    display_name: Università della Calabria, Unical Campus, Rende, Cosenza, Calabria,
-      87036, Italia
-    class: amenity
-    type: university
-    importance: 0.7250690427980546
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//education_university.p.20.png
-    address:
-      amenity: Università della Calabria
-      road: Unical Campus
       town: Rende
       county: Cosenza
       state: Calabria
