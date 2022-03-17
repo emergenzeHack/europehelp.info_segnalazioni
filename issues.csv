@@ -1,4 +1,250 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/47,1164049917,2022-03-17 10:50:26,2022-03-09 14:57:42,Regione Lazio: informazioni importanti per i profughi ucraini,,,,,"[""Valid/Accettato"",""News"",""Missing position"",""Services"",""hospitality"",""healtcare"",""telegram-channel""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""neighbourhood"":""Ostiense"",""office"":""Regione Lazio"",""postcode"":""00100"",""quarter"":""Garbatella"",""road"":""Via Giovanni Genocchi"",""state"":""Lazio"",""suburb"":""Municipio Roma VIII""},""boundingbox"":[""41.858227"",""41.8597856"",""12.4936462"",""12.4959306""],""class"":""office"",""display_name"":""Regione Lazio, Via Giovanni Genocchi, Garbatella, Ostiense, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00100, Italia"",""importance"":0.32100000000000006,""lat"":""41.8589212"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.495005572708482"",""osm_id"":2858119,""osm_type"":""relation"",""place_id"":327241895,""type"":""government""},""mode"":""autocomplete""},""description"":""Info utili in italiano e ucraino per i cittadini ucraini che arrivano nel Lazio."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Lazio"",""recipients"":"""",""submit"":true,""title"":""Regione Lazio: informazioni per profughi ucraini"",""type"":""legal"",""url"":""https://facebook.com/100069073545055/posts/265699519075831/""}","<pre><yamldata>
+type: legal
+offerFromWho: Regione Lazio
+title: 'Regione Lazio: informazioni per profughi ucraini'
+recipients: ''
+description: Info utili in italiano e ucraino per i cittadini ucraini che arrivano
+  nel Lazio.
+url: https://facebook.com/100069073545055/posts/265699519075831/
+address:
+  mode: autocomplete
+  address:
+    place_id: 327241895
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 2858119
+    boundingbox:
+    - '41.858227'
+    - '41.8597856'
+    - '12.4936462'
+    - '12.4959306'
+    lat: '41.8589212'
+    lon: '12.495005572708482'
+    display_name: Regione Lazio, Via Giovanni Genocchi, Garbatella, Ostiense, Municipio
+      Roma VIII, Roma, Roma Capitale, Lazio, 00100, Italia
+    class: office
+    type: government
+    importance: 0.32100000000000006
+    address:
+      office: Regione Lazio
+      road: Via Giovanni Genocchi
+      quarter: Garbatella
+      neighbourhood: Ostiense
+      suburb: Municipio Roma VIII
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: '00100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/46,1164025461,2022-03-17 10:50:06,2022-03-09 14:39:41,Brochure multilingue del Ministero dell’Interno per profughi ucraini in Italia,,,,,"[""Valid/Accettato"",""News"",""Services"",""hospitality"",""document_data"",""telegram-channel""]",,,"{""description"":""Per tutti i cittadini ucraini che sono entrati e stanno entrando in Italia, il Dipartimento della Protezione Civile \u2013 in collaborazione con il Ministero dell\u2019Interno, le Prefetture, le Regioni e gli Enti Locali \u2013 sta predisponendo un piano di prima accoglienza per permettere loro la regolare permanenza sul territorio italiano.\n \nTutte le informazioni al riguardo sono contenute in una scheda, disponibile anche in lingua ucraina e inglese, che illustra gli obblighi sanitari da rispettare per far fronte alla pandemia, a chi rivolgersi per usufruire di un alloggio, le modalit\u00e0 per regolarizzare la propria posizione in Italia, e altre indicazioni utili.\n\nAl link la brochure."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://www.poliziadistato.it/articolo/386227a1a62155d822008675"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Brochure multilingue del Ministero dell\u2019Interno per profughi ucraini in Italia""}","<pre><yamldata>
+title: Brochure multilingue del Ministero dell’Interno per profughi ucraini in Italia
+description: ""Per tutti i cittadini ucraini che sono entrati e stanno entrando in\
+  \ Italia, il Dipartimento della Protezione Civile – in collaborazione con il Ministero\
+  \ dell’Interno, le Prefetture, le Regioni e gli Enti Locali – sta predisponendo\
+  \ un piano di prima accoglienza per permettere loro la regolare permanenza sul territorio\
+  \ italiano.\n \nTutte le informazioni al riguardo sono contenute in una scheda,\
+  \ disponibile anche in lingua ucraina e inglese, che illustra gli obblighi sanitari\
+  \ da rispettare per far fronte alla pandemia, a chi rivolgersi per usufruire di\
+  \ un alloggio, le modalità per regolarizzare la propria posizione in Italia, e altre\
+  \ indicazioni utili.\n\nAl link la brochure.""
+link: https://www.poliziadistato.it/articolo/386227a1a62155d822008675
+location:
+  mode: autocomplete
+  address: {}
+label: document_data
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/45,1164018646,2022-03-17 10:49:48,2022-03-09 14:34:22,"Emergenza Ucraina, in Lazio truffe con false raccolte fondi e furto di dati personali",41.7675656,12.2339473,Lazio,Roma,"[""Valid/Accettato"",""fakenews"",""telegram-channel""]",,,"{""Posizione"":""41.7675656 12.2339473"",""description"":""Oltre a false raccolte fondi nel litorale laziale, tra Ostia e Fiumicino, un avvocato intervistato da Roma Today denuncia anche furti di dati personali a chi si offriva di ospitare rifugiati ucraini."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""fakenews"",""link"":""https://www.romatoday.it/cronaca/ucraina-truffe-raccolte-fondi.html"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio"",""town"":""Fiumicino""},""boundingbox"":[""41.740906"",""42.0202102"",""12.1272725"",""12.3168049""],""class"":""boundary"",""display_name"":""Fiumicino, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.6288645539220377,""lat"":""41.7675656"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.2339473"",""osm_id"":41575,""osm_type"":""relation"",""place_id"":283947938,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Emergenza Ucraina, in Lazio false raccolte fondi e furto di dati personali""}","<pre><yamldata>
+title: Emergenza Ucraina, in Lazio false raccolte fondi e furto di dati personali
+description: Oltre a false raccolte fondi nel litorale laziale, tra Ostia e Fiumicino,
+  un avvocato intervistato da Roma Today denuncia anche furti di dati personali a
+  chi si offriva di ospitare rifugiati ucraini.
+link: https://www.romatoday.it/cronaca/ucraina-truffe-raccolte-fondi.html
+location:
+  mode: autocomplete
+  address:
+    place_id: 283947938
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 41575
+    boundingbox:
+    - '41.740906'
+    - '42.0202102'
+    - '12.1272725'
+    - '12.3168049'
+    lat: '41.7675656'
+    lon: '12.2339473'
+    display_name: Fiumicino, Roma Capitale, Lazio, Italia
+    class: boundary
+    type: administrative
+    importance: 0.6288645539220377
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      town: Fiumicino
+      county: Roma Capitale
+      state: Lazio
+      country: Italia
+      country_code: it
+label: fakenews
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 41.7675656 12.2339473
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/44,1163143188,2022-03-17 10:49:30,2022-03-08 21:22:17,Ospedale Buzzi Milano raccoglie vestiti e accessori per bambini e mamme ucraine,,,,,"[""Valid/Accettato"",""Missing position"",""Services"",""materialGoods"",""Children"",""women"",""telegram-channel""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Ospedale dei Bambini \""Vittore Buzzi\"""",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""28"",""postcode"":""20154"",""quarter"":""Sarpi"",""road"":""Via Lodovico Castelvetro"",""state"":""Lombardia"",""suburb"":""Municipio 8""},""boundingbox"":[""45.4848213"",""45.4865785"",""9.1653918"",""9.1678818""],""class"":""amenity"",""display_name"":""Ospedale dei Bambini \""Vittore Buzzi\"", 28, Via Lodovico Castelvetro, Sarpi, Municipio 8, Milano, Lombardia, 20154, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//health_hospital.p.20.png"",""importance"":0.31100000000000005,""lat"":""45.4858443"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.166968895924526"",""osm_id"":478299137,""osm_type"":""way"",""place_id"":208609040,""type"":""hospital""},""mode"":""autocomplete""},""description"":""All'ospedale Buzzi di Milano si raccolgono vestiti e accessori per bambini  (2 anni in su) e mamme ucraine. \nLa raccolta \u00e8 in via Castelvetro 22, angolo via Fauch\u00e8, ore 9.30-17.30 dal luned\u00ec al venerd\u00ec."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ospedale Buzzi di Milano"",""recipients"":""Cittadini"",""submit"":true,""title"":""Ospedale Buzzi Milano raccoglie vestiti e accessori per bambini e mamme ucraine"",""type"":""materialGoods"",""url"":""https://www.milanotoday.it/attualita/bambini-profughi-buzzi.html""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: Ospedale Buzzi di Milano
+title: Ospedale Buzzi Milano raccoglie vestiti e accessori per bambini e mamme ucraine
+recipients: Cittadini
+description: ""All'ospedale Buzzi di Milano si raccolgono vestiti e accessori per bambini  (2 anni in su) e mamme ucraine. \nLa raccolta è in via Castelvetro 22, angolo\
+  \ via Fauchè, ore 9.30-17.30 dal lunedì al venerdì.""
+url: https://www.milanotoday.it/attualita/bambini-profughi-buzzi.html
+address:
+  mode: autocomplete
+  address:
+    place_id: 208609040
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 478299137
+    boundingbox:
+    - '45.4848213'
+    - '45.4865785'
+    - '9.1653918'
+    - '9.1678818'
+    lat: '45.4858443'
+    lon: '9.166968895924526'
+    display_name: Ospedale dei Bambini ""Vittore Buzzi"", 28, Via Lodovico Castelvetro,
+      Sarpi, Municipio 8, Milano, Lombardia, 20154, Italia
+    class: amenity
+    type: hospital
+    importance: 0.31100000000000005
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//health_hospital.p.20.png
+    address:
+      amenity: Ospedale dei Bambini ""Vittore Buzzi""
+      house_number: '28'
+      road: Via Lodovico Castelvetro
+      quarter: Sarpi
+      suburb: Municipio 8
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20154'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/43,1162811173,2022-03-17 10:48:59,2022-03-08 15:41:44,"Aggiornamenti dai confini ucraini (tempi di attesa, altre info). In inglese",,,,,"[""Valid/Accettato"",""News"",""transport"",""telegram-channel""]",,,"{""description"":""Sul gruppo Telegram Italiani in Ucraina (https://t.me/italianiucraina/8874) pubblicato un Googlesheet con aggiornamenti dai confini ucraini, con tempi di attesa e chat di info.\n(Qui link al post originale https://t.me/italianiucraina/8874)"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://docs.google.com/spreadsheets/d/e/2PACX-1vTmKNAxZn2cPpBqPHnRx9Hc_GPzfi7U92h05hkNuES6pA8l7IcbfdRELMkTBWGcBFoRkUdwlnfX889X/pubhtml?gid=0&single=true&fbclid=IwAR1qTqmfhHYDYFB_N14kCXweiK3BWVGzSfIYlpnD1UhYU33c-Tm0LJQYSuw"",""location"":{""address"":{""address"":{},""mode"":""autocomplete""},""mode"":""autocomplete""},""submit"":true,""title"":""File condiviso con aggiornamenti dai confini ucraini (tempi di attesa, altre info)""}","<pre><yamldata>
+title: File condiviso con aggiornamenti dai confini ucraini (tempi di attesa, altre
+  info)
+description: 'Sul gruppo Telegram Italiani in Ucraina (https://t.me/italianiucraina/8874)
+  pubblicato un Googlesheet con aggiornamenti dai confini ucraini, con tempi di attesa
+  e chat di info.
+
+  (Qui link al post originale https://t.me/italianiucraina/8874)'
+link: https://docs.google.com/spreadsheets/d/e/2PACX-1vTmKNAxZn2cPpBqPHnRx9Hc_GPzfi7U92h05hkNuES6pA8l7IcbfdRELMkTBWGcBFoRkUdwlnfX889X/pubhtml?gid=0&single=true&fbclid=IwAR1qTqmfhHYDYFB_N14kCXweiK3BWVGzSfIYlpnD1UhYU33c-Tm0LJQYSuw
+location:
+  mode: autocomplete
+  address:
+    mode: autocomplete
+    address: {}
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/40,1161949488,2022-03-17 10:46:46,2022-03-07 21:34:37,Ukranian sign language services to support deaf refugees,,,,,"[""Valid/Accettato"",""News"",""Services"",""disability"",""telegram-channel""]",,,"{""address"":{""address"":{""address"":{""city"":""Reggio nell'Emilia"",""country"":""Italia"",""country_code"":""it"",""county"":""Reggio nell'Emilia"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.6244638"",""44.7744479"",""10.4910178"",""10.7733414""],""class"":""boundary"",""display_name"":""Reggio nell'Emilia, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.6725411725065691,""lat"":""44.6978389"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.6304971"",""osm_id"":43415,""osm_type"":""relation"",""place_id"":284543523,""type"":""administrative""},""mode"":""autocomplete""},""description"":""has set up a network of regional community/communication services to support Ukraine deaf refugees arriving in the Emilia Romagna region. These services aim to facilitate communication with local public bodies and public services thanks to deaf interpreters and mediators who know Ukrainian Sign Language.   Further info at emiliaromagna@ens.it  They released this signed video here attached: [https://youtube.com/watch?v=604vD8haZh8&feature=share](https://youtube.com/watch?v=604vD8haZh8&feature=share&fbclid=IwAR1_Pd9g8BXcSeZXSCrEU_1FrCxlhXs01r6TgXeNOo6NVzNfrFOm_LqBkos) EUD - The European Union of the Deaf  Christian Rathmann Debra Russell Arunas Brazas NRW: Deaf Refugees World Federation of the Deaf Ry Lorraine Leeson Anna Komarova Igor Chavrot"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":"". The Emilia-Romagna Regional Branch of the Italian Deaf Association  (ENS)"",""recipients"":""Deaf"",""submit"":true,""title"":""LIS Service to support deaf refugees"",""type"":""disabilityServices"",""url"":""https://www.facebook.com/groups/ukraineinfo.help/permalink/451623253373295/""}","<pre><yamldata>
+type: disabilityServices
+offerFromWho: . The Emilia-Romagna Regional Branch of the Italian Deaf Association  (ENS)
+title: LIS Service to support deaf refugees
+recipients: Deaf
+description: 'has set up a network of regional community/communication services to
+  support Ukraine deaf refugees arriving in the Emilia Romagna region. These services
+  aim to facilitate communication with local public bodies and public services thanks
+  to deaf interpreters and mediators who know Ukrainian Sign Language.   Further info
+  at emiliaromagna@ens.it  They released this signed video here attached: [https://youtube.com/watch?v=604vD8haZh8&feature=share](https://youtube.com/watch?v=604vD8haZh8&feature=share&fbclid=IwAR1_Pd9g8BXcSeZXSCrEU_1FrCxlhXs01r6TgXeNOo6NVzNfrFOm_LqBkos)
+  EUD - The European Union of the Deaf  Christian Rathmann Debra Russell Arunas Brazas
+  NRW: Deaf Refugees World Federation of the Deaf Ry Lorraine Leeson Anna Komarova
+  Igor Chavrot'
+url: https://www.facebook.com/groups/ukraineinfo.help/permalink/451623253373295/
+address:
+  mode: autocomplete
+  address:
+    place_id: 284543523
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43415
+    boundingbox:
+    - '44.6244638'
+    - '44.7744479'
+    - '10.4910178'
+    - '10.7733414'
+    lat: '44.6978389'
+    lon: '10.6304971'
+    display_name: Reggio nell'Emilia, Emilia-Romagna, Italia
+    class: boundary
+    type: administrative
+    importance: 0.6725411725065691
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Reggio nell'Emilia
+      county: Reggio nell'Emilia
+      state: Emilia-Romagna
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/42,1162736087,2022-03-17 10:46:32,2022-03-08 14:39:12,Comune di Venezia attiva sportello Emergenza Ucraina,,,,,"[""Valid/Accettato"",""News"",""Missing position"",""Services"",""Legal"",""hospitality"",""telegram-channel""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Comune di Venezia"",""city"":""Venezia"",""country"":""Italia"",""country_code"":""it"",""county"":""Venezia"",""road"":""Calle Chiesa Ognissanti"",""state"":""Veneto"",""suburb"":""Lido-Pellestrina"",""village"":""Pellestrina""},""boundingbox"":[""45.2731957"",""45.2732957"",""12.3009922"",""12.3010922""],""class"":""amenity"",""display_name"":""Comune di Venezia, Calle Chiesa Ognissanti, Lido-Pellestrina, Pellestrina, Venezia, Veneto, Italia"",""importance"":0.31100000000000005,""lat"":""45.2732457"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.3010422"",""osm_id"":6958414086,""osm_type"":""node"",""place_id"":74210873,""type"":""townhall""},""mode"":""autocomplete""},""description"":""A Venezia attivo sportello Emergenza Ucraina del Comune che offre info,\\ \\ supporto, assistenza ai rifugiati ucraini e alle famiglie italiane ospitanti.\\n\\ Tel. 041041 (DIME), lun-ven ore 8-20. \\nEmail ucraina@comune.venezia.it \\n(In lingua\\ \\ italiana e ucraina)."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Venezia"",""recipients"":""Rifugiati ucraini, famiglie ospitanti, cittadini"",""submit"":true,""title"":""Comune di #Venezia attiva Sportello Emergenza #Ucraina"",""type"":""legal"",""url"":""https://live.comune.venezia.it/it/2022/03/informazioni-le-persone-provenienti-dallucraina-e-le-famiglie-ospitanti""}","<pre><yamldata>
+type: legal
+offerFromWho: Comune di Venezia
+title: 'Comune di #Venezia attiva Sportello Emergenza #Ucraina'
+recipients: Rifugiati ucraini, famiglie ospitanti, cittadini
+description: A Venezia attivo sportello Emergenza Ucraina del Comune che offre info,\
+  \ supporto, assistenza ai rifugiati ucraini e alle famiglie italiane ospitanti.\n\
+  Tel. 041041 (DIME), lun-ven ore 8-20. \nEmail ucraina@comune.venezia.it \n(In lingua\
+  \ italiana e ucraina).
+url: https://live.comune.venezia.it/it/2022/03/informazioni-le-persone-provenienti-dallucraina-e-le-famiglie-ospitanti
+address:
+  mode: autocomplete
+  address:
+    place_id: 74210873
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 6958414086
+    boundingbox:
+    - '45.2731957'
+    - '45.2732957'
+    - '12.3009922'
+    - '12.3010922'
+    lat: '45.2732457'
+    lon: '12.3010422'
+    display_name: Comune di Venezia, Calle Chiesa Ognissanti, Lido-Pellestrina, Pellestrina,
+      Venezia, Veneto, Italia
+    class: amenity
+    type: townhall
+    importance: 0.31100000000000005
+    address:
+      amenity: Comune di Venezia
+      road: Calle Chiesa Ognissanti
+      suburb: Lido-Pellestrina
+      village: Pellestrina
+      city: Venezia
+      county: Venezia
+      state: Veneto
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/64,1164580112,2022-03-17 07:18:27,2022-03-10 00:03:59,Raccolta medicinali e materiali sanitari nelle farmacie di Roma   e provincia - dal 9 al 16 marzo,,,,,"[""Valid/Accettato"",""Services"",""healtcare""]","Milestone(title=""17 marzo"", number=1)",,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8996107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Raccolta medicinali e materiali sanitari in tutte le farmacie di Roma e provincia - dal 9 al 16 marzo"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Federfarma Roma"",""recipients"":"""",""submit"":true,""title"":""Farmacisti per l'Ucraina"",""type"":""healthcare"",""url"":""https://twitter.com/ukraineinfohelp/status/1501526286585499649?t=gG4S2XxlCPzIjVTQO5XYVQ&s=19""}","<pre><yamldata>
 type: healthcare
 offerFromWho: Federfarma Roma
@@ -1374,42 +1620,6 @@ location:
 label: fakenews
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/45,1164018646,2022-03-16 10:28:00,2022-03-09 14:34:22,"Emergenza Ucraina, in Lazio truffe con false raccolte fondi e furto di dati personali",41.7675656,12.2339473,Lazio,Roma,"[""Valid/Accettato"",""fakenews""]",,,"{""Posizione"":""41.7675656 12.2339473"",""description"":""Oltre a false raccolte fondi nel litorale laziale, tra Ostia e Fiumicino, un avvocato intervistato da Roma Today denuncia anche furti di dati personali a chi si offriva di ospitare rifugiati ucraini."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""fakenews"",""link"":""https://www.romatoday.it/cronaca/ucraina-truffe-raccolte-fondi.html"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio"",""town"":""Fiumicino""},""boundingbox"":[""41.740906"",""42.0202102"",""12.1272725"",""12.3168049""],""class"":""boundary"",""display_name"":""Fiumicino, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.6288645539220377,""lat"":""41.7675656"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.2339473"",""osm_id"":41575,""osm_type"":""relation"",""place_id"":283947938,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Emergenza Ucraina, in Lazio false raccolte fondi e furto di dati personali""}","<pre><yamldata>
-title: Emergenza Ucraina, in Lazio false raccolte fondi e furto di dati personali
-description: Oltre a false raccolte fondi nel litorale laziale, tra Ostia e Fiumicino,
-  un avvocato intervistato da Roma Today denuncia anche furti di dati personali a
-  chi si offriva di ospitare rifugiati ucraini.
-link: https://www.romatoday.it/cronaca/ucraina-truffe-raccolte-fondi.html
-location:
-  mode: autocomplete
-  address:
-    place_id: 283947938
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 41575
-    boundingbox:
-    - '41.740906'
-    - '42.0202102'
-    - '12.1272725'
-    - '12.3168049'
-    lat: '41.7675656'
-    lon: '12.2339473'
-    display_name: Fiumicino, Roma Capitale, Lazio, Italia
-    class: boundary
-    type: administrative
-    importance: 0.6288645539220377
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      town: Fiumicino
-      county: Roma Capitale
-      state: Lazio
-      country: Italia
-      country_code: it
-label: fakenews
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 41.7675656 12.2339473
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/119,1167612088,2022-03-16 10:26:50,2022-03-13 15:27:14,"Fake news: quattro tendenze della disinformazione sulla guerra in Ucraina, il report di Facta",,,,,"[""Valid/Accettato"",""News"",""fakenews""]",,,"{""description"":""Quattro tendenze della disinformazione sulla guerra in Ucraina, il report di Facta: una mappa dei principali filoni della disinformazione che Facta ha fino ad ora incontrato online sulla guerra in Ucraina"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""fakenews"",""link"":""https://t.co/dy5tnmLug9"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Quattro tendenze della disinformazione sulla guerra in Ucraina, il report di Facta""}","<pre><yamldata>
 title: Quattro tendenze della disinformazione sulla guerra in Ucraina, il report di
@@ -3804,135 +4014,6 @@ label: fakenews
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/42,1162736087,2022-03-11 07:23:23,2022-03-08 14:39:12,Comune di Venezia attiva sportello Emergenza Ucraina,,,,,"[""Valid/Accettato"",""News"",""Missing position"",""Services"",""Legal"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Comune di Venezia"",""city"":""Venezia"",""country"":""Italia"",""country_code"":""it"",""county"":""Venezia"",""road"":""Calle Chiesa Ognissanti"",""state"":""Veneto"",""suburb"":""Lido-Pellestrina"",""village"":""Pellestrina""},""boundingbox"":[""45.2731957"",""45.2732957"",""12.3009922"",""12.3010922""],""class"":""amenity"",""display_name"":""Comune di Venezia, Calle Chiesa Ognissanti, Lido-Pellestrina, Pellestrina, Venezia, Veneto, Italia"",""importance"":0.31100000000000005,""lat"":""45.2732457"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.3010422"",""osm_id"":6958414086,""osm_type"":""node"",""place_id"":74210873,""type"":""townhall""},""mode"":""autocomplete""},""description"":""A Venezia attivo sportello Emergenza Ucraina del Comune che offre info,\\ \\ supporto, assistenza ai rifugiati ucraini e alle famiglie italiane ospitanti.\\n\\ Tel. 041041 (DIME), lun-ven ore 8-20. \\nEmail ucraina@comune.venezia.it \\n(In lingua\\ \\ italiana e ucraina)."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Venezia"",""recipients"":""Rifugiati ucraini, famiglie ospitanti, cittadini"",""submit"":true,""title"":""Comune di #Venezia attiva Sportello Emergenza #Ucraina"",""type"":""legal"",""url"":""https://live.comune.venezia.it/it/2022/03/informazioni-le-persone-provenienti-dallucraina-e-le-famiglie-ospitanti""}","<pre><yamldata>
-type: legal
-offerFromWho: Comune di Venezia
-title: 'Comune di #Venezia attiva Sportello Emergenza #Ucraina'
-recipients: Rifugiati ucraini, famiglie ospitanti, cittadini
-description: A Venezia attivo sportello Emergenza Ucraina del Comune che offre info,\
-  \ supporto, assistenza ai rifugiati ucraini e alle famiglie italiane ospitanti.\n\
-  Tel. 041041 (DIME), lun-ven ore 8-20. \nEmail ucraina@comune.venezia.it \n(In lingua\
-  \ italiana e ucraina).
-url: https://live.comune.venezia.it/it/2022/03/informazioni-le-persone-provenienti-dallucraina-e-le-famiglie-ospitanti
-address:
-  mode: autocomplete
-  address:
-    place_id: 74210873
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 6958414086
-    boundingbox:
-    - '45.2731957'
-    - '45.2732957'
-    - '12.3009922'
-    - '12.3010922'
-    lat: '45.2732457'
-    lon: '12.3010422'
-    display_name: Comune di Venezia, Calle Chiesa Ognissanti, Lido-Pellestrina, Pellestrina,
-      Venezia, Veneto, Italia
-    class: amenity
-    type: townhall
-    importance: 0.31100000000000005
-    address:
-      amenity: Comune di Venezia
-      road: Calle Chiesa Ognissanti
-      suburb: Lido-Pellestrina
-      village: Pellestrina
-      city: Venezia
-      county: Venezia
-      state: Veneto
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/40,1161949488,2022-03-10 22:44:44,2022-03-07 21:34:37,Ukranian sign language services to support deaf refugees,,,,,"[""Valid/Accettato"",""News"",""Services"",""disability""]",,,"{""address"":{""address"":{""address"":{""city"":""Reggio nell'Emilia"",""country"":""Italia"",""country_code"":""it"",""county"":""Reggio nell'Emilia"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.6244638"",""44.7744479"",""10.4910178"",""10.7733414""],""class"":""boundary"",""display_name"":""Reggio nell'Emilia, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.6725411725065691,""lat"":""44.6978389"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.6304971"",""osm_id"":43415,""osm_type"":""relation"",""place_id"":284543523,""type"":""administrative""},""mode"":""autocomplete""},""description"":""has set up a network of regional community/communication services to support Ukraine deaf refugees arriving in the Emilia Romagna region. These services aim to facilitate communication with local public bodies and public services thanks to deaf interpreters and mediators who know Ukrainian Sign Language.   Further info at emiliaromagna@ens.it  They released this signed video here attached: [https://youtube.com/watch?v=604vD8haZh8&feature=share](https://youtube.com/watch?v=604vD8haZh8&feature=share&fbclid=IwAR1_Pd9g8BXcSeZXSCrEU_1FrCxlhXs01r6TgXeNOo6NVzNfrFOm_LqBkos) EUD - The European Union of the Deaf  Christian Rathmann Debra Russell Arunas Brazas NRW: Deaf Refugees World Federation of the Deaf Ry Lorraine Leeson Anna Komarova Igor Chavrot"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":"". The Emilia-Romagna Regional Branch of the Italian Deaf Association  (ENS)"",""recipients"":""Deaf"",""submit"":true,""title"":""LIS Service to support deaf refugees"",""type"":""disabilityServices"",""url"":""https://www.facebook.com/groups/ukraineinfo.help/permalink/451623253373295/""}","<pre><yamldata>
-type: disabilityServices
-offerFromWho: . The Emilia-Romagna Regional Branch of the Italian Deaf Association  (ENS)
-title: LIS Service to support deaf refugees
-recipients: Deaf
-description: 'has set up a network of regional community/communication services to
-  support Ukraine deaf refugees arriving in the Emilia Romagna region. These services
-  aim to facilitate communication with local public bodies and public services thanks
-  to deaf interpreters and mediators who know Ukrainian Sign Language.   Further info
-  at emiliaromagna@ens.it  They released this signed video here attached: [https://youtube.com/watch?v=604vD8haZh8&feature=share](https://youtube.com/watch?v=604vD8haZh8&feature=share&fbclid=IwAR1_Pd9g8BXcSeZXSCrEU_1FrCxlhXs01r6TgXeNOo6NVzNfrFOm_LqBkos)
-  EUD - The European Union of the Deaf  Christian Rathmann Debra Russell Arunas Brazas
-  NRW: Deaf Refugees World Federation of the Deaf Ry Lorraine Leeson Anna Komarova
-  Igor Chavrot'
-url: https://www.facebook.com/groups/ukraineinfo.help/permalink/451623253373295/
-address:
-  mode: autocomplete
-  address:
-    place_id: 284543523
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 43415
-    boundingbox:
-    - '44.6244638'
-    - '44.7744479'
-    - '10.4910178'
-    - '10.7733414'
-    lat: '44.6978389'
-    lon: '10.6304971'
-    display_name: Reggio nell'Emilia, Emilia-Romagna, Italia
-    class: boundary
-    type: administrative
-    importance: 0.6725411725065691
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Reggio nell'Emilia
-      county: Reggio nell'Emilia
-      state: Emilia-Romagna
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/47,1164049917,2022-03-10 22:43:28,2022-03-09 14:57:42,Regione Lazio: informazioni importanti per i profughi ucraini,,,,,"[""Valid/Accettato"",""News"",""Missing position"",""Services"",""hospitality"",""healtcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""neighbourhood"":""Ostiense"",""office"":""Regione Lazio"",""postcode"":""00100"",""quarter"":""Garbatella"",""road"":""Via Giovanni Genocchi"",""state"":""Lazio"",""suburb"":""Municipio Roma VIII""},""boundingbox"":[""41.858227"",""41.8597856"",""12.4936462"",""12.4959306""],""class"":""office"",""display_name"":""Regione Lazio, Via Giovanni Genocchi, Garbatella, Ostiense, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00100, Italia"",""importance"":0.32100000000000006,""lat"":""41.8589212"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.495005572708482"",""osm_id"":2858119,""osm_type"":""relation"",""place_id"":327241895,""type"":""government""},""mode"":""autocomplete""},""description"":""Info utili in italiano e ucraino per i cittadini ucraini che arrivano nel Lazio."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Lazio"",""recipients"":"""",""submit"":true,""title"":""Regione Lazio: informazioni per profughi ucraini"",""type"":""legal"",""url"":""https://facebook.com/100069073545055/posts/265699519075831/""}","<pre><yamldata>
-type: legal
-offerFromWho: Regione Lazio
-title: 'Regione Lazio: informazioni per profughi ucraini'
-recipients: ''
-description: Info utili in italiano e ucraino per i cittadini ucraini che arrivano
-  nel Lazio.
-url: https://facebook.com/100069073545055/posts/265699519075831/
-address:
-  mode: autocomplete
-  address:
-    place_id: 327241895
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 2858119
-    boundingbox:
-    - '41.858227'
-    - '41.8597856'
-    - '12.4936462'
-    - '12.4959306'
-    lat: '41.8589212'
-    lon: '12.495005572708482'
-    display_name: Regione Lazio, Via Giovanni Genocchi, Garbatella, Ostiense, Municipio
-      Roma VIII, Roma, Roma Capitale, Lazio, 00100, Italia
-    class: office
-    type: government
-    importance: 0.32100000000000006
-    address:
-      office: Regione Lazio
-      road: Via Giovanni Genocchi
-      quarter: Garbatella
-      neighbourhood: Ostiense
-      suburb: Municipio Roma VIII
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      postcode: '00100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/58,1164280320,2022-03-10 22:41:59,2022-03-09 18:14:36,Comune di Reggio Emilia si attiva per Emergenza Ucraina: raccolta beni e accoglienza,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Reggio nell'Emilia"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.225466"",""44.9920133"",""10.1423815"",""10.8971498""],""class"":""boundary"",""display_name"":""Reggio nell'Emilia, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8201048725335365,""lat"":""44.608664"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.594796841892734"",""osm_id"":42965,""osm_type"":""relation"",""place_id"":283395957,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Comune di Reggio Emilia ha organizzato un coordinamento cittadino per individuare le risposte pi\u00f9 adeguate per fronteggiare l'emergenza umanitaria, conseguenza della guerra in Ucraina.\n\nIn particolare sono attivi:\n- il centro per la raccolta di beni;\n- il modulo per offrire accoglienza ai profughi ucraini;\n- il numero di telefono unico richiedere informazioni e/o mettere a disposizione alloggi o qualsiasi altro tipo di aiuto per chi, in fuga dalla guerra, dovesse raggiungere Reggio: 0522 456655, attivo dal luned\u00ec al venerd\u00ec dalle 8.30 alle 12.30.\n- raccolta fondi.\n\n Tutte le info al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Reggio Emilia"",""recipients"":"""",""submit"":true,""title"":""Comune di Reggio Emilia si attiva per Emergenza Ucraina: raccolta beni e accoglienza"",""type"":""materialGoods"",""url"":""https://www.comune.re.it/ucraina""}","<pre><yamldata>
 type: materialGoods
 offerFromWho: Comune di Reggio Emilia
@@ -4606,25 +4687,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/46,1164025461,2022-03-09 16:02:37,2022-03-09 14:39:41,Brochure multilingue del Ministero dell’Interno per profughi ucraini in Italia,,,,,"[""Valid/Accettato"",""News"",""Services"",""hospitality"",""document_data""]",,,"{""description"":""Per tutti i cittadini ucraini che sono entrati e stanno entrando in Italia, il Dipartimento della Protezione Civile \u2013 in collaborazione con il Ministero dell\u2019Interno, le Prefetture, le Regioni e gli Enti Locali \u2013 sta predisponendo un piano di prima accoglienza per permettere loro la regolare permanenza sul territorio italiano.\n \nTutte le informazioni al riguardo sono contenute in una scheda, disponibile anche in lingua ucraina e inglese, che illustra gli obblighi sanitari da rispettare per far fronte alla pandemia, a chi rivolgersi per usufruire di un alloggio, le modalit\u00e0 per regolarizzare la propria posizione in Italia, e altre indicazioni utili.\n\nAl link la brochure."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://www.poliziadistato.it/articolo/386227a1a62155d822008675"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Brochure multilingue del Ministero dell\u2019Interno per profughi ucraini in Italia""}","<pre><yamldata>
-title: Brochure multilingue del Ministero dell’Interno per profughi ucraini in Italia
-description: ""Per tutti i cittadini ucraini che sono entrati e stanno entrando in\
-  \ Italia, il Dipartimento della Protezione Civile – in collaborazione con il Ministero\
-  \ dell’Interno, le Prefetture, le Regioni e gli Enti Locali – sta predisponendo\
-  \ un piano di prima accoglienza per permettere loro la regolare permanenza sul territorio\
-  \ italiano.\n \nTutte le informazioni al riguardo sono contenute in una scheda,\
-  \ disponibile anche in lingua ucraina e inglese, che illustra gli obblighi sanitari\
-  \ da rispettare per far fronte alla pandemia, a chi rivolgersi per usufruire di\
-  \ un alloggio, le modalità per regolarizzare la propria posizione in Italia, e altre\
-  \ indicazioni utili.\n\nAl link la brochure.""
-link: https://www.poliziadistato.it/articolo/386227a1a62155d822008675
-location:
-  mode: autocomplete
-  address: {}
-label: document_data
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/49,1164060552,2022-03-09 16:02:01,2022-03-09 15:04:32,A Lodi azienda sanitaria attiva hotspot territoriale di accoglienza per i cittadini ucraini,,,,,"[""Valid/Accettato"",""Missing position"",""Services"",""healtcare""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Lodi"",""neighbourhood"":""Guatra"",""postcode"":""26866"",""road"":""Via Umberto I"",""state"":""Lombardia"",""town"":""Sant'Angelo Lodigiano"",""village"":""Galeotta""},""boundingbox"":[""45.2372892"",""45.2383773"",""9.4090166"",""9.4096631""],""class"":""highway"",""display_name"":""Via Umberto I, Guatra, Galeotta, Sant'Angelo Lodigiano, Lodi, Lombardia, 26866, Italia"",""importance"":0.91,""lat"":""45.2380483"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.4092224"",""osm_id"":240658221,""osm_type"":""way"",""place_id"":161215418,""type"":""tertiary""},""mode"":""autocomplete""},""description"":""Attivato a Lodi un hotspot territoriale di accoglienza per i cittadini ucraini in arrivo in Italia presso il Punto Unico di Accesso della Casa di Comunit\u00e0 di Sant\u2019Angelo Lodigiano."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Azienda Sanitaria di Lodi"",""recipients"":"""",""submit"":true,""title"":""Attivato a Lodi un hotspot territoriale di accoglienza per i cittadini ucraini"",""type"":""healthcare"",""url"":""https://twitter.com/asstlodi/status/1501548401443356673?s=21""}","<pre><yamldata>
 type: healthcare
 offerFromWho: Azienda Sanitaria di Lodi
@@ -4832,67 +4894,5 @@ address:
   address: {}
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/44,1163143188,2022-03-09 07:54:17,2022-03-08 21:22:17,Ospedale Buzzi Milano raccoglie vestiti e accessori per bambini e mamme ucraine,,,,,"[""Valid/Accettato"",""Missing position"",""Services"",""materialGoods"",""Children"",""women""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Ospedale dei Bambini \""Vittore Buzzi\"""",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""28"",""postcode"":""20154"",""quarter"":""Sarpi"",""road"":""Via Lodovico Castelvetro"",""state"":""Lombardia"",""suburb"":""Municipio 8""},""boundingbox"":[""45.4848213"",""45.4865785"",""9.1653918"",""9.1678818""],""class"":""amenity"",""display_name"":""Ospedale dei Bambini \""Vittore Buzzi\"", 28, Via Lodovico Castelvetro, Sarpi, Municipio 8, Milano, Lombardia, 20154, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//health_hospital.p.20.png"",""importance"":0.31100000000000005,""lat"":""45.4858443"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.166968895924526"",""osm_id"":478299137,""osm_type"":""way"",""place_id"":208609040,""type"":""hospital""},""mode"":""autocomplete""},""description"":""All'ospedale Buzzi di Milano si raccolgono vestiti e accessori per bambini  (2 anni in su) e mamme ucraine. \nLa raccolta \u00e8 in via Castelvetro 22, angolo via Fauch\u00e8, ore 9.30-17.30 dal luned\u00ec al venerd\u00ec."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ospedale Buzzi di Milano"",""recipients"":""Cittadini"",""submit"":true,""title"":""Ospedale Buzzi Milano raccoglie vestiti e accessori per bambini e mamme ucraine"",""type"":""materialGoods"",""url"":""https://www.milanotoday.it/attualita/bambini-profughi-buzzi.html""}","<pre><yamldata>
-type: materialGoods
-offerFromWho: Ospedale Buzzi di Milano
-title: Ospedale Buzzi Milano raccoglie vestiti e accessori per bambini e mamme ucraine
-recipients: Cittadini
-description: ""All'ospedale Buzzi di Milano si raccolgono vestiti e accessori per bambini  (2 anni in su) e mamme ucraine. \nLa raccolta è in via Castelvetro 22, angolo\
-  \ via Fauchè, ore 9.30-17.30 dal lunedì al venerdì.""
-url: https://www.milanotoday.it/attualita/bambini-profughi-buzzi.html
-address:
-  mode: autocomplete
-  address:
-    place_id: 208609040
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 478299137
-    boundingbox:
-    - '45.4848213'
-    - '45.4865785'
-    - '9.1653918'
-    - '9.1678818'
-    lat: '45.4858443'
-    lon: '9.166968895924526'
-    display_name: Ospedale dei Bambini ""Vittore Buzzi"", 28, Via Lodovico Castelvetro,
-      Sarpi, Municipio 8, Milano, Lombardia, 20154, Italia
-    class: amenity
-    type: hospital
-    importance: 0.31100000000000005
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//health_hospital.p.20.png
-    address:
-      amenity: Ospedale dei Bambini ""Vittore Buzzi""
-      house_number: '28'
-      road: Via Lodovico Castelvetro
-      quarter: Sarpi
-      suburb: Municipio 8
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20154'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/43,1162811173,2022-03-08 16:03:28,2022-03-08 15:41:44,"File condiviso con aggiornamenti dai confini ucraini (tempi di attesa, altre info)",,,,,"[""Valid/Accettato"",""News"",""transport""]",,,"{""description"":""Sul gruppo Telegram Italiani in Ucraina (https://t.me/italianiucraina/8874) pubblicato un Googlesheet con aggiornamenti dai confini ucraini, con tempi di attesa e chat di info.\n(Qui link al post originale https://t.me/italianiucraina/8874)"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://docs.google.com/spreadsheets/d/e/2PACX-1vTmKNAxZn2cPpBqPHnRx9Hc_GPzfi7U92h05hkNuES6pA8l7IcbfdRELMkTBWGcBFoRkUdwlnfX889X/pubhtml?gid=0&single=true&fbclid=IwAR1qTqmfhHYDYFB_N14kCXweiK3BWVGzSfIYlpnD1UhYU33c-Tm0LJQYSuw"",""location"":{""address"":{""address"":{},""mode"":""autocomplete""},""mode"":""autocomplete""},""submit"":true,""title"":""File condiviso con aggiornamenti dai confini ucraini (tempi di attesa, altre info)""}","<pre><yamldata>
-title: File condiviso con aggiornamenti dai confini ucraini (tempi di attesa, altre
-  info)
-description: 'Sul gruppo Telegram Italiani in Ucraina (https://t.me/italianiucraina/8874)
-  pubblicato un Googlesheet con aggiornamenti dai confini ucraini, con tempi di attesa
-  e chat di info.
-
-  (Qui link al post originale https://t.me/italianiucraina/8874)'
-link: https://docs.google.com/spreadsheets/d/e/2PACX-1vTmKNAxZn2cPpBqPHnRx9Hc_GPzfi7U92h05hkNuES6pA8l7IcbfdRELMkTBWGcBFoRkUdwlnfX889X/pubhtml?gid=0&single=true&fbclid=IwAR1qTqmfhHYDYFB_N14kCXweiK3BWVGzSfIYlpnD1UhYU33c-Tm0LJQYSuw
-location:
-  mode: autocomplete
-  address:
-    mode: autocomplete
-    address: {}
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 </yamldata></pre>",open
