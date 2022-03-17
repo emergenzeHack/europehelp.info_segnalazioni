@@ -1,4 +1,42 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/188,1172880170,2022-03-17 21:05:00,2022-03-17 20:29:14,"Raccolta indumenti, farmaci, alimenti e beni di prima necessità a Bergamo",45.6915142,9.6109659,Lombardia,Bergamo,"[""Valid/Accettato"",""materialGoods"",""healtcare"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.6915142 9.6109659"",""description"":""L\u2019associazione Zlaghoda di Bergamo \u00e8 il punto di riferimento per la raccolta di materiale da inviare per sostenere la popolazione in fuga dalla guerra. L\u2019associazione ha messo a disposizione un elenco dettagliato dei generi necessari condiviso con il consolato ucraino e li raccoglie in un magazzino di Curno."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://www.csvlombardia.it/bergamo/bg-per-approfondire/bg-per-approfondire-eventi/post/ucraina-raccolta-materiali-per-la-popolazione-in-fuga/"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bergamo"",""postcode"":""24035"",""state"":""Lombardia"",""village"":""Curno""},""boundingbox"":[""45.6757864"",""45.6965118"",""9.5858477"",""9.6285322""],""class"":""boundary"",""display_name"":""Curno, Bergamo, Lombardia, 24035, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.6389204197840884,""lat"":""45.6915142"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.6109659"",""osm_id"":45762,""osm_type"":""relation"",""place_id"":283831331,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Raccolta indumenti, farmaci, alimenti e beni di prima necessit\u00e0""}","<pre><yamldata>
+title: Raccolta indumenti, farmaci, alimenti e beni di prima necessità
+description: L’associazione Zlaghoda di Bergamo è il punto di riferimento per la raccolta
+  di materiale da inviare per sostenere la popolazione in fuga dalla guerra. L’associazione
+  ha messo a disposizione un elenco dettagliato dei generi necessari condiviso con
+  il consolato ucraino e li raccoglie in un magazzino di Curno.
+link: https://www.csvlombardia.it/bergamo/bg-per-approfondire/bg-per-approfondire-eventi/post/ucraina-raccolta-materiali-per-la-popolazione-in-fuga/
+location:
+  mode: autocomplete
+  address:
+    place_id: 283831331
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 45762
+    boundingbox:
+    - '45.6757864'
+    - '45.6965118'
+    - '9.5858477'
+    - '9.6285322'
+    lat: '45.6915142'
+    lon: '9.6109659'
+    display_name: Curno, Bergamo, Lombardia, 24035, Italia
+    class: boundary
+    type: administrative
+    importance: 0.6389204197840884
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      village: Curno
+      county: Bergamo
+      state: Lombardia
+      postcode: '24035'
+      country: Italia
+      country_code: it
+label: document_data
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.6915142 9.6109659
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/186,1172860887,2022-03-17 21:01:09,2022-03-17 20:08:04,Lista di organizzazioni della provincia di Bolzano (Alto Adige) che raccolgono aiuti per i profughi ,46.65594215,11.229637264169462,Trentino-Alto Adige,Bolzano,"[""Valid/Accettato"",""fundraising"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""46.65594215 11.229637264169462"",""description"":""Lista di organizzazioni che raccolgono donazioni di denaro e beni in Alto Adige per aiutare le persone in Ucraina nei campi profughi e nei centri di accoglienza e tutti i rifugiati. Donazioni a queste organizzazioni sono detraibili nella dichiarazione dei redditi."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.spenden.bz.it/it"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bolzano"",""state"":""Trentino-Alto Adige""},""boundingbox"":[""46.2197712"",""47.0921462"",""10.3817965"",""12.4779676""],""class"":""boundary"",""display_name"":""Bolzano, Trentino-Alto Adige, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8489076281878143,""lat"":""46.65594215"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.229637264169462"",""osm_id"":47046,""osm_type"":""relation"",""place_id"":284985164,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Lista di organizzazioni della provincia di Bolzano (Alto Adige) che raccolgono offerte per aiutare il popolo ucraino""}","<pre><yamldata>
 title: Lista di organizzazioni della provincia di Bolzano (Alto Adige) che raccolgono
   offerte per aiutare il popolo ucraino
