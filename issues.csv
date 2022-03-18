@@ -1,4 +1,23 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/201,1173399047,2022-03-18 16:04:27,2022-03-18 09:52:34,Civilian Harm in Ukraine [MAP] by Bellingcat,,,,,"[""Valid/Accettato"",""document_data""]",,,"{""description"":""This map plots out and highlights incidents that have resulted in potential civilian impact or harm since Russia began its invasion of Ukraine. The incidents detailed have been collected by Bellingcat researchers. Included in the map are instances where civilian areas and infrastructure have been damaged or destroyed, where the presence of civilian injuries are visible and/or there is the presence of immobile civilian bodies. Collection for the incidences contained in this map began on February 24, 2022. Users can explore incidents by date and location. We intend this to be a living project that will continue to be updated as long as the conflict persists."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://ukraine.bellingcat.com/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Civilian Harm in Ukraine [MAP]""}","<pre><yamldata>
+title: Civilian Harm in Ukraine [MAP]
+description: This map plots out and highlights incidents that have resulted in potential
+  civilian impact or harm since Russia began its invasion of Ukraine. The incidents
+  detailed have been collected by Bellingcat researchers. Included in the map are
+  instances where civilian areas and infrastructure have been damaged or destroyed,
+  where the presence of civilian injuries are visible and/or there is the presence
+  of immobile civilian bodies. Collection for the incidences contained in this map
+  began on February 24, 2022. Users can explore incidents by date and location. We
+  intend this to be a living project that will continue to be updated as long as the
+  conflict persists.
+link: https://ukraine.bellingcat.com/
+location:
+  mode: autocomplete
+  address: {}
+label: document_data
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/200,1173346482,2022-03-18 16:02:18,2022-03-18 08:51:48,"Azienda sanitaria Pavia, online info per assistenza sanitaria profughi e animali al seguito (disponibili anche info con tavole di comunicazione aumentativa)",,,,,"[""Valid/Accettato"",""Services"",""healtcare"",""disability""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""state"":""Lombardia""},""boundingbox"":[""44.6799091"",""45.393838"",""8.4978518"",""9.5505475""],""class"":""boundary"",""display_name"":""Pavia, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7322019961097704,""lat"":""45.036854649999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.137825082826026"",""osm_id"":43483,""osm_type"":""relation"",""place_id"":283772748,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Indicazioni per l'accesso alle cure sanitarie in provincia di Pavia, per gli animali al seguito dei profughi e tavole di comunicazione aumentativa a supporto dell'accoglienza (con affiancate scritte in ucraino)"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ats/Asst Pavia"",""recipients"":""Persone arrivate dall'Ucraina/famiglie ospitanti"",""submit"":true,""title"":""Assistenza sanitaria gratuita per profughi in provincia di Pavia + aiuto comunicazione"",""type"":""healthcare"",""url"":""https://www.ats-pavia.it/en/contenuto-web/-/asset_publisher/SP46mRKBFmdy/content/assistenza-sanitaria-per-i-profughi-provenienti-dall-ucraina-informazioni-sintetiche""}","<pre><yamldata>
 type: healthcare
 offerFromWho: Ats/Asst Pavia
