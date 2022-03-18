@@ -1,4 +1,41 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/200,1173346482,2022-03-18 16:02:18,2022-03-18 08:51:48,"Azienda sanitaria Pavia, online info per assistenza sanitaria profughi e animali al seguito (disponibili anche info con tavole di comunicazione aumentativa)",,,,,"[""Valid/Accettato"",""Services"",""healtcare"",""disability""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""state"":""Lombardia""},""boundingbox"":[""44.6799091"",""45.393838"",""8.4978518"",""9.5505475""],""class"":""boundary"",""display_name"":""Pavia, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7322019961097704,""lat"":""45.036854649999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.137825082826026"",""osm_id"":43483,""osm_type"":""relation"",""place_id"":283772748,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Indicazioni per l'accesso alle cure sanitarie in provincia di Pavia, per gli animali al seguito dei profughi e tavole di comunicazione aumentativa a supporto dell'accoglienza (con affiancate scritte in ucraino)"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ats/Asst Pavia"",""recipients"":""Persone arrivate dall'Ucraina/famiglie ospitanti"",""submit"":true,""title"":""Assistenza sanitaria gratuita per profughi in provincia di Pavia + aiuto comunicazione"",""type"":""healthcare"",""url"":""https://www.ats-pavia.it/en/contenuto-web/-/asset_publisher/SP46mRKBFmdy/content/assistenza-sanitaria-per-i-profughi-provenienti-dall-ucraina-informazioni-sintetiche""}","<pre><yamldata>
+type: healthcare
+offerFromWho: Ats/Asst Pavia
+title: Assistenza sanitaria gratuita per profughi in provincia di Pavia + aiuto comunicazione
+recipients: Persone arrivate dall'Ucraina/famiglie ospitanti
+description: Indicazioni per l'accesso alle cure sanitarie in provincia di Pavia,
+  per gli animali al seguito dei profughi e tavole di comunicazione aumentativa a
+  supporto dell'accoglienza (con affiancate scritte in ucraino)
+url: https://www.ats-pavia.it/en/contenuto-web/-/asset_publisher/SP46mRKBFmdy/content/assistenza-sanitaria-per-i-profughi-provenienti-dall-ucraina-informazioni-sintetiche
+address:
+  mode: autocomplete
+  address:
+    place_id: 283772748
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43483
+    boundingbox:
+    - '44.6799091'
+    - '45.393838'
+    - '8.4978518'
+    - '9.5505475'
+    lat: '45.036854649999995'
+    lon: '9.137825082826026'
+    display_name: Pavia, Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7322019961097704
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Pavia
+      state: Lombardia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/115,1167592765,2022-03-18 13:04:00,2022-03-13 14:14:32,"Trento, l'associazione Rasom raccoglie beni e farmaci per emergenza Ucraina e cerca volontari",,,,,"[""Valid/Accettato"",""Help"",""Services"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""building"":""Scuola dell'infanzia di Albiano"",""country"":""Italia"",""country_code"":""it"",""county"":""Provincia di Trento"",""hamlet"":""Barco di Sopra"",""house_number"":""22"",""municipality"":""Comunit\u00e0 della Valle di Cembra"",""postcode"":""38041"",""road"":""Via Sant'Antonio"",""state"":""Trentino-Alto Adige"",""village"":""Albiano""},""boundingbox"":[""46.1449428"",""46.1451562"",""11.1940841"",""11.1944903""],""class"":""building"",""display_name"":""Scuola dell'infanzia di Albiano, 22, Via Sant'Antonio, Barco di Sopra, Albiano, Comunit\u00e0 della Valle di Cembra, Provincia di Trento, Trentino-Alto Adige, 38041, Italia"",""importance"":0.511,""lat"":""46.1450495"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.194287191070053"",""osm_id"":103129729,""osm_type"":""way"",""place_id"":123863279,""type"":""kindergarten""},""mode"":""autocomplete""},""description"":""Per la situazione in Ucraina, l'Associazione RASOM organizza una raccolta di beni di prima necessit\u00e0, presso la sede di via Sant\u2019Antonio, 22 a Trento (tutti i giorni dalle 19 alle 21 - orario provvisorio).\nAl link l'elenco dei beni e farmaci di cui c'\u00e8 bisogno.\nInoltre chi vuole dare la propria disponibilit\u00e0 ad aiutare come volontario e per informazioni sugli orari aggiornati pu\u00f2 contattare i seguenti numeri di telefono: \nVozna Halyna: cell. 3479419883\nOlha Vozna: cell. 3204548504\nKalapach Oleksandra: cell. 3488831652"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Rasom -Associazione Ucraini in Trentino"",""recipients"":"""",""submit"":true,""title"":""Trento, l'associazione Rasom raccoglie beni e farmaci per emergenza Ucraina e cerca volontari"",""type"":""materialGoods"",""url"":""https://webmagazine.unitn.it/news/ateneo/105101/associazione-culturale-degli-ucraini-in-trentino-rasom-aps""}","<pre><yamldata>
 type: materialGoods
 offerFromWho: Rasom -Associazione Ucraini in Trentino
