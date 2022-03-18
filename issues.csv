@@ -1,4 +1,64 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/221,1173844732,2022-03-18 21:39:45,2022-03-18 17:35:14,Compendium of resources for ukranian refugees - Citizens of our Planet,,,,,"[""Valid/Accettato"",""News"",""Resources""]",,,"{""description"":""A number of volunteers around the world are working on a comprehensive document with information for Ukrainian refugees and for people wanting to help. Please feel free to use those information to feed your portal. The document is a living document, and is frequently updated."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""www.citizensofourplanet.org/resources"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Compendium of resources for refugees""}","<pre><yamldata>
+title: Compendium of resources for refugees
+description: A number of volunteers around the world are working on a comprehensive
+  document with information for Ukrainian refugees and for people wanting to help.
+  Please feel free to use those information to feed your portal. The document is a
+  living document, and is frequently updated.
+link: www.citizensofourplanet.org/resources
+location:
+  mode: autocomplete
+  address: {}
+label: document_data
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/227,1174053235,2022-03-18 21:39:03,2022-03-18 21:37:43,Comune di Milano attiva raccolta beni per profughi ucraini in città: online la guida con info e punti di raccolta per cittadini e aziende,,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20122"",""state"":""Lombardia""},""boundingbox"":[""45.3041943"",""45.6241943"",""9.0296346"",""9.3496346""],""class"":""place"",""display_name"":""Milano, Lombardia, 20122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":1.0590652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":62505581,""osm_type"":""node"",""place_id"":286263950,""type"":""city""},""mode"":""autocomplete""},""description"":""Per il sostegno delle famiglie ucraine ospitate a Milano, il Comune di Milano sta attivando anche una raccolta di beni non deperibili tramite gli Hub Alimentari. Fatta salva la preferenza per le donazioni finanziarie, per le aziende e i privati che desiderano contribuire con beni alimentari non deperibili e beni di prima necessit\u00e0, esclusi vestiti, \u00e8 stata elaborata una guida con le indicazioni sulle tipologie ammesse, sulla modalit\u00e0 di confezionamento dei pacchi e i luoghi dove consegnare impacchi. \nScrivendo alla mail foodpolicy@comune.milano.it si potranno segnalare ulteriori disponibilit\u00e0 di luoghi adatti ad accogliere donazioni, previa verifica della adeguatezza degli spazi.\nAl link tutte le info."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Milano"",""recipients"":"""",""submit"":true,""title"":""Comune di Milano attiva raccolta di beni per i profughi ucraini in citt\u00e0: online la guida con tutte le info"",""type"":""materialGoods"",""url"":""https://foodpolicymilano.org/milano-aiuta-ucraina/""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: Comune di Milano
+title: 'Comune di Milano attiva raccolta di beni per i profughi ucraini in città:
+  online la guida con tutte le info'
+recipients: ''
+description: ""Per il sostegno delle famiglie ucraine ospitate a Milano, il Comune\
+  \ di Milano sta attivando anche una raccolta di beni non deperibili tramite gli\
+  \ Hub Alimentari. Fatta salva la preferenza per le donazioni finanziarie, per le\
+  \ aziende e i privati che desiderano contribuire con beni alimentari non deperibili\
+  \ e beni di prima necessità, esclusi vestiti, è stata elaborata una guida con le\
+  \ indicazioni sulle tipologie ammesse, sulla modalità di confezionamento dei pacchi\
+  \ e i luoghi dove consegnare impacchi. \nScrivendo alla mail foodpolicy@comune.milano.it\
+  \ si potranno segnalare ulteriori disponibilità di luoghi adatti ad accogliere donazioni,\
+  \ previa verifica della adeguatezza degli spazi.\nAl link tutte le info.""
+url: https://foodpolicymilano.org/milano-aiuta-ucraina/
+address:
+  mode: autocomplete
+  address:
+    place_id: 286263950
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 62505581
+    boundingbox:
+    - '45.3041943'
+    - '45.6241943'
+    - '9.0296346'
+    - '9.3496346'
+    lat: '45.4641943'
+    lon: '9.1896346'
+    display_name: Milano, Lombardia, 20122, Italia
+    class: place
+    type: city
+    importance: 1.0590652078701348
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/214,1173801979,2022-03-18 21:27:05,2022-03-18 16:49:36,"Un farmaco per l’Ucraina, raccolta farmaci di Croce Rossa Firenze",,,,,"[""Valid/Accettato"",""materialGoods"",""healtcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""state"":""Toscana""},""boundingbox"":[""43.7258716"",""43.8354631"",""11.1497598"",""11.3389044""],""class"":""boundary"",""display_name"":""Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8105633028502386,""lat"":""43.7806771"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.24376289731579"",""osm_id"":42602,""osm_type"":""relation"",""place_id"":284666342,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Raccolta farmaci e dispositivi sanitari per soccorrere le\npopolazioni coinvolte nell\u2019emergenza umanitaria in Ucraina\nChiedi al tuo farmacista come puoi\ncontribuire alla raccolta\nFarmaci:\nACETILCISTEINA (200MG, buste)\nACIDO ACETILSALICILICO (100 MG, compresse)\nACIDO ACETILSALICILICO (400 MG, compresse)\nPARACETAMOLO (500 MG, compresse)\nPARACETAMOLO (500 MG, buste)\nACETILCISTEINA (200 MG, compresse)\nIBUPROFENE (400 MG, compresse)\nIODOPOVIDONE (soluzione)\nN.BUTILBROMURO DI IOSCINA (compresse)\n VITAMINA B1 (compresse); VITAMINA B12 (compresse)\nDICOFLENAC (25MG, mprese);\nSOLUZIONE FISIOLOGICA (500 ML SACCHE - NO FLEBO)\nSOLUZIONE GLUCOSATA 5% (500 ML, SACCHE - NO FLEBO)\nRINGER LATTATO (500 ML, SACCHE - NO FLEBO)\nPEROSSIDO DI IDROGENO 3%;\nCLOREXIDINA (SOLUZ.DISINFETTANTE); ALCOOL USO MEDICO\nDispositivi medici:\n GLUCOMETRI\nSTRISCE PER GLUCOMETRI\n GARZA IDROFILA (10X10)\nGARZA HYDROGEL (10X10)\nSTERIL STRIP (VARI FORMATI)\n GUANTI CHIRURGICI STERILI (S/M/L/XL)\nGARZA IDROFILA NON STERILE (ROTOLO)\nGARZA IDROFILA COTONE STERILE (7,5X7,5)\nTAMPONI GARZA IDROFILA DI COTONE STERILI\nPORTA AGHI MAYO HEGAR SUSY (150 ML)\nPINZA EMOSTATICA CURVA (TIPO MOSQUITO 125);\nFORCEPS MONOUSO CURVO (200 MM)"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Croce Rossa Italiana Comitato di Firenze"",""recipients"":"""",""submit"":true,""title"":""Un farmaco per l\u2019Ucraina"",""type"":""healthcare"",""url"":""https://crifirenze.it/2019/wp-content/uploads/2022/03/CRI-Farmaci-Ucraina-elenco.pdf""}","<pre><yamldata>
 type: healthcare
 offerFromWho: Croce Rossa Italiana Comitato di Firenze
@@ -174,20 +234,6 @@ address:
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/221,1173844732,2022-03-18 21:06:03,2022-03-18 17:35:14,Compendium of resources for ukranian refugees - Citizens of our Planet,,,,,"[""Valid/Accettato"",""document_data"",""Resources""]",,,"{""description"":""A number of volunteers around the world are working on a comprehensive document with information for Ukrainian refugees and for people wanting to help. Please feel free to use those information to feed your portal. The document is a living document, and is frequently updated."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""www.citizensofourplanet.org/resources"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Compendium of resources for refugees""}","<pre><yamldata>
-title: Compendium of resources for refugees
-description: A number of volunteers around the world are working on a comprehensive
-  document with information for Ukrainian refugees and for people wanting to help.
-  Please feel free to use those information to feed your portal. The document is a
-  living document, and is frequently updated.
-link: www.citizensofourplanet.org/resources
-location:
-  mode: autocomplete
-  address: {}
-label: document_data
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/220,1173836804,2022-03-18 21:04:11,2022-03-18 17:27:31,Caritas Udine raccoglie disponibilità di alloggi per rifugiati ucraini ,,,,,"[""Valid/Accettato"",""Help"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""city"":""Udine"",""country"":""Italia"",""country_code"":""it"",""county"":""Udine"",""postcode"":""33100"",""state"":""Friuli Venezia Giulia""},""boundingbox"":[""45.9034632"",""46.2234632"",""13.0758377"",""13.3958377""],""class"":""place"",""display_name"":""Udine, Friuli Venezia Giulia, 33100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.699677555724844,""lat"":""46.0634632"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.2358377"",""osm_id"":66502664,""osm_type"":""node"",""place_id"":121892,""type"":""city""},""mode"":""autocomplete""},""description"":""Disponibilit\u00e0 di alloggi o di altro genere da parte di privati, congregazioni religiose o enti pubblici, possono essere segnalate via mail all\u2019indirizzo emergenze@diocesiudine.it o telefonando al mattino al centralino della Caritas (tel. 0432-414502), in modo che le volontarie possano prenderne nota. Tali disponibilit\u00e0 saranno raccolte ed, eventualmente, attivate in caso di necessit\u00e0"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Caritas Udine"",""recipients"":"""",""submit"":true,""title"":""Raccolta segnalazioni su disponiilit\u00e0 di alloggi"",""type"":""hospitality"",""url"":""""}","<pre><yamldata>
