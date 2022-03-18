@@ -1,5 +1,48 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/191,1173002359,2022-03-18 16:33:51,2022-03-17 22:50:48,"Terres Des Hommes Italia cerca mediatori linguistici in ucraino a Milano, Monza e Brianza e Udine",,,,,"[""Valid/Accettato"",""Help"",""job""]","Milestone(title=""16 aprile"", number=3)",,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20122"",""state"":""Lombardia""},""boundingbox"":[""45.3041943"",""45.6241943"",""9.0296346"",""9.3496346""],""class"":""place"",""display_name"":""Milano, Milan, Milano, Lombardia, 20122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.8390652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":62505581,""osm_type"":""node"",""place_id"":286263950,""type"":""city""},""mode"":""autocomplete""},""description"":""L'organizzazione Terres Des Hommes cerca per i propri servizi di accoglienza, sportello e inclusione cerca mediatori e mediatrici in lingua ucraina.\nI servizi saranno attivi nelle citt\u00e0 di Milano e dintorni, Monza e Brianza, Udine e Trieste. Si richiede la residenza e il domicilio nelle zone di attivit\u00e0.\nInviare curriculum vitae a: ucraina@tdhitaly.org\n\u00c8 richiesta disponibilit\u00e0 immediata per impiego part-time di almeno 19 ore settimanali.\nScadenza vacancy: 15 aprile 2022"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Terres Des Hommes Italia"",""recipients"":"""",""submit"":true,""title"":""Ricerca mediatori culturali a Milano, Monza e Brianza e Udine"",""type"":""jobOffer"",""url"":""https://terredeshommes.it/chi-siamo/lavora-con-noi/?fbclid=IwAR11P_lEbSb3L14R-tO4xFbr1Crn9FBBZ6--1KlGASfAzs-jVYqx7P-pa8g""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/205,1173699690,2022-03-18 16:39:24,2022-03-18 15:09:53,A Trebissacce (Cosenza) raccolta beni di prima necessità da inviare in Ucraina,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Cosenza"",""postcode"":""87075"",""state"":""Calabria"",""village"":""Trebisacce""},""boundingbox"":[""39.8448012"",""39.9090916"",""16.4778291"",""16.5773263""],""class"":""boundary"",""display_name"":""Trebisacce, Cosenza, Calabria, 87075, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.6069574919488508,""lat"":""39.8701066"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.530667"",""osm_id"":40123,""osm_type"":""relation"",""place_id"":283780300,""type"":""administrative""},""mode"":""autocomplete""},""description"":""L'associazione Passaggi di Trebisacce ha lanciato una raccolta beni di prima necessit\u00e0 da inviare in Ucraina. E' stato gi\u00e0 inviato un primo tir contenente operte, cibo, articoli sanitari e medicinali e si stanno raccogliendo beni per organizzare un secondo invio.\nPer informazioni contattare Associazione Passaggi: passaggi.ass@gmail.com - Caterina De Nardi (presidente) +393405539614'"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Passaggi"",""recipients"":"""",""submit"":true,""title"":""Raccolta beni di prima necessit\u00e0, Trebisacce"",""type"":""materialGoods"",""url"":""https://www.facebook.com/unirelepersoneoltregliostacolielediversita/""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: Associazione Passaggi
+title: Raccolta beni di prima necessità, Trebisacce
+recipients: ''
+description: 'L''associazione Passaggi di Trebisacce ha lanciato una raccolta beni
+  di prima necessità da inviare in Ucraina. E'' stato già inviato un primo tir contenente
+  operte, cibo, articoli sanitari e medicinali e si stanno raccogliendo beni per organizzare
+  un secondo invio.
+
+  Per informazioni contattare Associazione Passaggi: passaggi.ass@gmail.com - Caterina
+  De Nardi (presidente) +393405539614'''
+url: https://www.facebook.com/unirelepersoneoltregliostacolielediversita/
+address:
+  mode: autocomplete
+  address:
+    place_id: 283780300
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 40123
+    boundingbox:
+    - '39.8448012'
+    - '39.9090916'
+    - '16.4778291'
+    - '16.5773263'
+    lat: '39.8701066'
+    lon: '16.530667'
+    display_name: Trebisacce, Cosenza, Calabria, 87075, Italia
+    class: boundary
+    type: administrative
+    importance: 0.6069574919488508
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      village: Trebisacce
+      county: Cosenza
+      state: Calabria
+      postcode: '87075'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/191,1173002359,2022-03-18 16:38:33,2022-03-17 22:50:48,"Terres Des Hommes Italia cerca mediatori linguistici in ucraino a Milano, Monza e Brianza e Udine",,,,,"[""Valid/Accettato"",""Help"",""Translation"",""job"",""telegram-channel"",""tweet""]","Milestone(title=""16 aprile"", number=3)",,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20122"",""state"":""Lombardia""},""boundingbox"":[""45.3041943"",""45.6241943"",""9.0296346"",""9.3496346""],""class"":""place"",""display_name"":""Milano, Milan, Milano, Lombardia, 20122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.8390652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":62505581,""osm_type"":""node"",""place_id"":286263950,""type"":""city""},""mode"":""autocomplete""},""description"":""L'organizzazione Terres Des Hommes cerca per i propri servizi di accoglienza, sportello e inclusione cerca mediatori e mediatrici in lingua ucraina.\nI servizi saranno attivi nelle citt\u00e0 di Milano e dintorni, Monza e Brianza, Udine e Trieste. Si richiede la residenza e il domicilio nelle zone di attivit\u00e0.\nInviare curriculum vitae a: ucraina@tdhitaly.org\n\u00c8 richiesta disponibilit\u00e0 immediata per impiego part-time di almeno 19 ore settimanali.\nScadenza vacancy: 15 aprile 2022"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Terres Des Hommes Italia"",""recipients"":"""",""submit"":true,""title"":""Ricerca mediatori culturali a Milano, Monza e Brianza e Udine"",""type"":""jobOffer"",""url"":""https://terredeshommes.it/chi-siamo/lavora-con-noi/?fbclid=IwAR11P_lEbSb3L14R-tO4xFbr1Crn9FBBZ6--1KlGASfAzs-jVYqx7P-pa8g""}","<pre><yamldata>
 type: jobOffer
 offerFromWho: Terres Des Hommes Italia
 title: Ricerca mediatori culturali a Milano, Monza e Brianza e Udine
@@ -45,6 +88,290 @@ address:
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/68,1165405317,2022-03-18 16:37:53,2022-03-10 15:55:31,A Brescia cooperativa sociale cerca mediatori linguistici di lingua ucraina,45.5324692,10.2303062,Lombardia,Brescia,"[""Valid/Accettato"",""Help"",""Translation"",""job"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.5324692 10.2303062"",""description"":""A Brescia la cooperativa Sociale Tempo Libero cerca mediatori linguistici di lingua ucraina con esperienza in ambito sociale e sanitario."",""email"":""cooptempolibero@pec.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Brescia"",""city_district"":""Zona Centro"",""country"":""Italia"",""country_code"":""it"",""county"":""Brescia"",""postcode"":""25121"",""road"":""Via Spalto San Marco"",""state"":""Lombardia"",""suburb"":""Brescia Antica""},""boundingbox"":[""45.5324258"",""45.5324759"",""10.2302064"",""10.2307232""],""class"":""highway"",""display_name"":""Via Spalto San Marco, Brescia Antica, Zona Centro, Brescia, Lombardia, 25121, Italia"",""importance"":0.6,""lat"":""45.5324692"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.2303062"",""osm_id"":190663187,""osm_type"":""way"",""place_id"":147929114,""type"":""primary""},""mode"":""autocomplete""},""nameSurname"":""Cooperativa Tempo Libero"",""phoneNumber"":""030 2808350"",""recipients"":""Mediatori linguistici"",""submit"":true,""title"":""A Brescia cooperativa sociale cerca mediatori linguistici di lingua ucraina"",""url"":""https://www.coopmatch.it/annuncio-dettaglio.asp?idan=26494&utm_source=dlvr.it&utm_medium=twitter""}","<pre><yamldata>
+nameSurname: Cooperativa Tempo Libero
+phoneNumber: 030 2808350
+email: cooptempolibero@pec.it
+title: A Brescia cooperativa sociale cerca mediatori linguistici di lingua ucraina
+recipients: Mediatori linguistici
+description: A Brescia la cooperativa Sociale Tempo Libero cerca mediatori linguistici
+  di lingua ucraina con esperienza in ambito sociale e sanitario.
+url: https://www.coopmatch.it/annuncio-dettaglio.asp?idan=26494&utm_source=dlvr.it&utm_medium=twitter
+location:
+  mode: autocomplete
+  address:
+    place_id: 147929114
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 190663187
+    boundingbox:
+    - '45.5324258'
+    - '45.5324759'
+    - '10.2302064'
+    - '10.2307232'
+    lat: '45.5324692'
+    lon: '10.2303062'
+    display_name: Via Spalto San Marco, Brescia Antica, Zona Centro, Brescia, Lombardia,
+      25121, Italia
+    class: highway
+    type: primary
+    importance: 0.6
+    address:
+      road: Via Spalto San Marco
+      suburb: Brescia Antica
+      city_district: Zona Centro
+      city: Brescia
+      county: Brescia
+      state: Lombardia
+      postcode: '25121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 45.5324692 10.2303062
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/69,1165421436,2022-03-18 16:37:44,2022-03-10 16:08:00,"La Diaconia Valdese cerca mediatori linguistici di lingua ucraina per Pinerolo (To), Torino, Milano, Genova, Bologna, Firenze, Roma e Napoli",44.8220826,7.2290893,Piemonte,Torino,"[""Valid/Accettato"",""Help"",""Translation"",""job"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""44.8220826 7.2290893"",""description"":""La Diaconia Valdese \u2013 Servizi Inclusione seleziona per i propri servizi di accoglienza e di sportello, mediatori e mediatrici in lingua ucraina.\nI servizi sono attivi nelle citt\u00e0 di Pinerolo (TO), Torino, Milano, Genova, Bologna, Firenze, Roma e Napoli\nInviare curriculum vitae a ricercapersonale@diaconiavaldese.org\nE\u2019 richiesta disponibilit\u00e0 immediata per impiego part-time 19 ore settimanali"",""email"":""ricercapersonale@diaconiavaldese.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""hamlet"":""Simound"",""postcode"":""10066"",""road"":""Via Angrogna"",""state"":""Piemonte"",""village"":""Torre Pellice""},""boundingbox"":[""44.8205961"",""44.8237564"",""7.2286703"",""7.2291968""],""class"":""highway"",""display_name"":""Via Angrogna, Simound, Torre Pellice, Torino, Piemonte, 10066, Italia"",""importance"":0.4,""lat"":""44.8220826"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.2290893"",""osm_id"":143598496,""osm_type"":""way"",""place_id"":136377592,""type"":""residential""},""mode"":""autocomplete""},""nameSurname"":""Diaconia Valdese"",""phoneNumber"":"""",""recipients"":""Mediatori linguistici"",""submit"":true,""title"":""La Diaconia Valdese cerca mediatori linguistici di lingua ucraina per Pinerolo (To), Torino, Milano, Genova, Bologna, Firenze, Roma e Napoli."",""url"":""https://www.job4good.it/offerta-lavoro/mediatori-linguistico-culturali/""}","<pre><yamldata>
+nameSurname: Diaconia Valdese
+phoneNumber: ''
+email: ricercapersonale@diaconiavaldese.org
+title: La Diaconia Valdese cerca mediatori linguistici di lingua ucraina per Pinerolo
+  (To), Torino, Milano, Genova, Bologna, Firenze, Roma e Napoli.
+recipients: Mediatori linguistici
+description: 'La Diaconia Valdese – Servizi Inclusione seleziona per i propri servizi
+  di accoglienza e di sportello, mediatori e mediatrici in lingua ucraina.
+
+  I servizi sono attivi nelle città di Pinerolo (TO), Torino, Milano, Genova, Bologna,
+  Firenze, Roma e Napoli
+
+  Inviare curriculum vitae a ricercapersonale@diaconiavaldese.org
+
+  E’ richiesta disponibilità immediata per impiego part-time 19 ore settimanali'
+url: https://www.job4good.it/offerta-lavoro/mediatori-linguistico-culturali/
+location:
+  mode: autocomplete
+  address:
+    place_id: 136377592
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 143598496
+    boundingbox:
+    - '44.8205961'
+    - '44.8237564'
+    - '7.2286703'
+    - '7.2291968'
+    lat: '44.8220826'
+    lon: '7.2290893'
+    display_name: Via Angrogna, Simound, Torre Pellice, Torino, Piemonte, 10066, Italia
+    class: highway
+    type: residential
+    importance: 0.4
+    address:
+      road: Via Angrogna
+      hamlet: Simound
+      village: Torre Pellice
+      county: Torino
+      state: Piemonte
+      postcode: '10066'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 44.8220826 7.2290893
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/71,1165430680,2022-03-18 16:37:32,2022-03-10 16:16:19,Comune di Rieti cerca mediatori linguistici di lingua ucraina/russa,42.41473635,12.885888076510067,Lazio,Rieti,"[""Valid/Accettato"",""Help"",""Translation"",""job""]",,,"{""Posizione"":""42.41473635 12.885888076510067"",""description"":""Comune di Rieti cerca mediatori linguistici di lingua ucraina/russa per l\u2019accoglienza di cittadini ucraini da utilizzare nell\u2019ambito dei Servizi Sociali professionali e del Pronto Intervento Sociale. \nScadenza Avviso 31 marzo."",""email"":""protocollo@pec.comune.rieti.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Rieti"",""state"":""Lazio""},""boundingbox"":[""42.0889167"",""42.7409686"",""12.4372963"",""13.4099792""],""class"":""boundary"",""display_name"":""Rieti, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.732134276481888,""lat"":""42.41473635"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.885888076510067"",""osm_id"":41781,""osm_type"":""relation"",""place_id"":284337641,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Comune di Rieti"",""phoneNumber"":"""",""recipients"":""mediatori linguistici"",""submit"":true,""title"":""Comune di Rieti cerca mediatori linguistici di lingua ucraina/russa"",""url"":""https://www.comune.rieti.it/article/22/03/emergenza-ucraina-avviso-pubblico-del-comune-di-rieti-costituire-un-elenco-di""}","<pre><yamldata>
+nameSurname: Comune di Rieti
+phoneNumber: ''
+email: protocollo@pec.comune.rieti.it
+title: Comune di Rieti cerca mediatori linguistici di lingua ucraina/russa
+recipients: mediatori linguistici
+description: ""Comune di Rieti cerca mediatori linguistici di lingua ucraina/russa\
+  \ per l’accoglienza di cittadini ucraini da utilizzare nell’ambito dei Servizi Sociali\
+  \ professionali e del Pronto Intervento Sociale. \nScadenza Avviso 31 marzo.""
+url: https://www.comune.rieti.it/article/22/03/emergenza-ucraina-avviso-pubblico-del-comune-di-rieti-costituire-un-elenco-di
+location:
+  mode: autocomplete
+  address:
+    place_id: 284337641
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 41781
+    boundingbox:
+    - '42.0889167'
+    - '42.7409686'
+    - '12.4372963'
+    - '13.4099792'
+    lat: '42.41473635'
+    lon: '12.885888076510067'
+    display_name: Rieti, Lazio, Italia
+    class: boundary
+    type: administrative
+    importance: 0.732134276481888
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Rieti
+      state: Lazio
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 42.41473635 12.885888076510067
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/109,1167410538,2022-03-18 16:37:07,2022-03-12 21:52:19,Protezione civile di Milano cerca traduttori in lingua ucraina per accoglienza profughi,45.4902382,9.1945908,Lombardia,Milano,"[""Valid/Accettato"",""Help"",""Translation"",""job""]",,,"{""Posizione"":""45.4902382 9.1945908"",""description"":""La Protezione civile di Milano cerca traduttori in lingua ucraina per accoglienza profughi."",""email"":""cristiano.cozzi@comune.milano.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""17"",""office"":""Protezione civile"",""postcode"":""20159"",""quarter"":""Isola"",""road"":""Via Ippolito Rosellini"",""state"":""Lombardia"",""suburb"":""Municipio 2""},""boundingbox"":[""45.4901882"",""45.4902882"",""9.1945408"",""9.1946408""],""class"":""office"",""display_name"":""Protezione civile, 17, Via Ippolito Rosellini, Isola, Municipio 2, Milano, Lombardia, 20159, Italia"",""importance"":0.401,""lat"":""45.4902382"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1945908"",""osm_id"":6084251988,""osm_type"":""node"",""place_id"":66708597,""type"":""government""},""mode"":""autocomplete""},""nameSurname"":""Protezione civile Milano"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""traduttori in lingua ucraina per accoglienza profughi"",""url"":""https://twitter.com/ukraineinfohelp/status/1501802781044314115?s=21""}","<pre><yamldata>
+nameSurname: Protezione civile Milano
+phoneNumber: ''
+email: cristiano.cozzi@comune.milano.it
+title: traduttori in lingua ucraina per accoglienza profughi
+recipients: ''
+description: La Protezione civile di Milano cerca traduttori in lingua ucraina per
+  accoglienza profughi.
+url: https://twitter.com/ukraineinfohelp/status/1501802781044314115?s=21
+location:
+  mode: autocomplete
+  address:
+    place_id: 66708597
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 6084251988
+    boundingbox:
+    - '45.4901882'
+    - '45.4902882'
+    - '9.1945408'
+    - '9.1946408'
+    lat: '45.4902382'
+    lon: '9.1945908'
+    display_name: Protezione civile, 17, Via Ippolito Rosellini, Isola, Municipio
+      2, Milano, Lombardia, 20159, Italia
+    class: office
+    type: government
+    importance: 0.401
+    address:
+      office: Protezione civile
+      house_number: '17'
+      road: Via Ippolito Rosellini
+      quarter: Isola
+      suburb: Municipio 2
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20159'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 45.4902382 9.1945908
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/112,1167414735,2022-03-18 16:36:56,2022-03-12 22:16:38,"Comune di Parma cerca per emergenza Ucraina mediatori linguistici, educatori, psicologi, assistenti sociali",44.8094695,10.3275042,Emilia-Romagna,Parma,"[""Valid/Accettato"",""Help"",""Translation"",""job""]",,,"{""Posizione"":""44.8094695 10.3275042"",""description"":""In relazione all\u2019accoglienza dei profughi ucraini, il Comune di Parma  ha attivato, presso il punto informativo e raccolta dati Informastranieri, un'equipe di operatori del Settore Sociale per approfondire il quadro dei bisogni delle persone accolte o che richiedono aiuto e per effettuare l\u2019approfondimento delle disponibilit\u00e0 di accoglienza che vengono espresse dai cittadini. A supporto di tale equipe si ricercano Volontari con le seguenti professionalit\u00e0: Assistenti Sociali, Educatori, Psicologi e Mediatori linguistici (da attivare anche presso le scuole)."",""email"":""informastranieri@comune.parma.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Parma"",""country"":""Italia"",""country_code"":""it"",""county"":""Parma"",""postcode"":""43121"",""road"":""Via Antonio Cecchi"",""state"":""Emilia-Romagna"",""suburb"":""Parma Centro""},""boundingbox"":[""44.8094603"",""44.8097443"",""10.3262362"",""10.3275426""],""class"":""highway"",""display_name"":""Via Antonio Cecchi, Parma Centro, Parma, Emilia-Romagna, 43121, Italia"",""importance"":0.5949999999999999,""lat"":""44.8094695"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.3275042"",""osm_id"":323712841,""osm_type"":""way"",""place_id"":178424191,""type"":""service""},""mode"":""autocomplete""},""nameSurname"":""Comune di Parma"",""phoneNumber"":""351 0986321"",""recipients"":""mediatori linguistici, psicologi, assistenti sociali, educatori"",""submit"":true,""title"":""Comune di Parma cerca per emergenza Ucraina mediatori linguistici, educatori, psicologi, assistenti sociali"",""url"":""https://www.comune.parma.it/notizie/news/WELFARE/2022-03-12/Parma-per-lUcraina-1.aspx""}","<pre><yamldata>
+nameSurname: Comune di Parma
+phoneNumber: 351 0986321
+email: informastranieri@comune.parma.it
+title: Comune di Parma cerca per emergenza Ucraina mediatori linguistici, educatori,
+  psicologi, assistenti sociali
+recipients: mediatori linguistici, psicologi, assistenti sociali, educatori
+description: 'In relazione all’accoglienza dei profughi ucraini, il Comune di Parma  ha
+  attivato, presso il punto informativo e raccolta dati Informastranieri, un''equipe
+  di operatori del Settore Sociale per approfondire il quadro dei bisogni delle persone
+  accolte o che richiedono aiuto e per effettuare l’approfondimento delle disponibilità
+  di accoglienza che vengono espresse dai cittadini. A supporto di tale equipe si
+  ricercano Volontari con le seguenti professionalità: Assistenti Sociali, Educatori,
+  Psicologi e Mediatori linguistici (da attivare anche presso le scuole).'
+url: https://www.comune.parma.it/notizie/news/WELFARE/2022-03-12/Parma-per-lUcraina-1.aspx
+location:
+  mode: autocomplete
+  address:
+    place_id: 178424191
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 323712841
+    boundingbox:
+    - '44.8094603'
+    - '44.8097443'
+    - '10.3262362'
+    - '10.3275426'
+    lat: '44.8094695'
+    lon: '10.3275042'
+    display_name: Via Antonio Cecchi, Parma Centro, Parma, Emilia-Romagna, 43121,
+      Italia
+    class: highway
+    type: service
+    importance: 0.5949999999999999
+    address:
+      road: Via Antonio Cecchi
+      suburb: Parma Centro
+      city: Parma
+      county: Parma
+      state: Emilia-Romagna
+      postcode: '43121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 44.8094695 10.3275042
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/154,1170200396,2022-03-18 16:36:09,2022-03-15 20:25:58,Regione Abruzzo cerca mediatori linguistici e famiglie per accoglienza minori ucraini soli o con famiglia,42.365814400000005,13.374276790275314,Abruzzo,L'Aquila,"[""Valid/Accettato"",""Help"",""hospitality"",""Translation"",""job"",""Children"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""42.365814400000005 13.374276790275314"",""description"":""La Garante dell\u2019Infanzia e dell\u2019Adolescenza della Regione Abruzzo, d\u2019intesa con il Prefetto de L\u2019Aquila e sentito il Presidente del Tribunale de L\u2019Aquila, ha avviato, unitamente alle Caritas Diocesane di L\u2019Aquila, Chieti-Vasto e Teramo, una ricognizione finalizzata alla raccolta delle disponibilit\u00e0 di nuclei famigliari residenti in Abruzzo, all\u2019accoglienza temporanea dei minori non accompagnati e/o delle famiglie con minori in fuga dalle zone del conflitto dell\u2019Ucraina, nonch\u00e9 alla formazione di un elenco di mediatori culturali e linguistici, con il compito di facilitare gli ingressi in famiglia.\nA tal fine chiunque fosse disponibile ad accogliere dei minori o famiglie con minori, per un periodo da definire caso per caso o facilitare, nel ruolo di mediatore culturale, il percorso di inserimento, pu\u00f2 manifestare la propria disponibilit\u00e0 attraverso la compilazione di uno dei due allegati moduli (mediatori culturali o famiglie e singoli) da inviare all\u2019indirizzo di posta elettronica ucraina.garanteinfanzia@crabruzzo.it unitamente ad documento di identit\u00e0 in corso di validit\u00e0.\nAl link i moduli da compilare e ulteriori info."",""email"":""ucraina.garanteinfanzia@crabruzzo.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""building"":""Palazzo Silone"",""city"":""L'Aquila"",""country"":""Italia"",""country_code"":""it"",""county"":""L'Aquila"",""house_number"":""6"",""neighbourhood"":""Contrada Romani"",""postcode"":""67100"",""road"":""Via Leonardo da Vinci"",""state"":""Abruzzo""},""boundingbox"":[""42.365538"",""42.3661063"",""13.3737095"",""13.3747562""],""class"":""building"",""display_name"":""Palazzo Silone, 6, Via Leonardo da Vinci, Contrada Romani, L'Aquila, Abruzzo, 67100, Italia"",""importance"":1.1354342386327727,""lat"":""42.365814400000005"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.374276790275314"",""osm_id"":591326251,""osm_type"":""way"",""place_id"":225266677,""type"":""yes""},""mode"":""autocomplete""},""nameSurname"":""Garante Infanzia Regione Abruzzo"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Regione Abruzzo cerca mediatori linguistici e famiglie per accoglienza minori ucraini soli o con famiglia"",""url"":""https://m.provincia.teramo.it/sala-stampa/emergenza-ucraina-la-regione-abruzzo-cerca-famiglie-volontarie-per-l2019accoglienza-e-mediatori-linguistici/""}","<pre><yamldata>
+nameSurname: Garante Infanzia Regione Abruzzo
+phoneNumber: ''
+email: ucraina.garanteinfanzia@crabruzzo.it
+title: Regione Abruzzo cerca mediatori linguistici e famiglie per accoglienza minori
+  ucraini soli o con famiglia
+recipients: ''
+description: 'La Garante dell’Infanzia e dell’Adolescenza della Regione Abruzzo, d’intesa
+  con il Prefetto de L’Aquila e sentito il Presidente del Tribunale de L’Aquila, ha
+  avviato, unitamente alle Caritas Diocesane di L’Aquila, Chieti-Vasto e Teramo, una
+  ricognizione finalizzata alla raccolta delle disponibilità di nuclei famigliari
+  residenti in Abruzzo, all’accoglienza temporanea dei minori non accompagnati e/o
+  delle famiglie con minori in fuga dalle zone del conflitto dell’Ucraina, nonché
+  alla formazione di un elenco di mediatori culturali e linguistici, con il compito
+  di facilitare gli ingressi in famiglia.
+
+  A tal fine chiunque fosse disponibile ad accogliere dei minori o famiglie con minori,
+  per un periodo da definire caso per caso o facilitare, nel ruolo di mediatore culturale,
+  il percorso di inserimento, può manifestare la propria disponibilità attraverso
+  la compilazione di uno dei due allegati moduli (mediatori culturali o famiglie e
+  singoli) da inviare all’indirizzo di posta elettronica ucraina.garanteinfanzia@crabruzzo.it
+  unitamente ad documento di identità in corso di validità.
+
+  Al link i moduli da compilare e ulteriori info.'
+url: https://m.provincia.teramo.it/sala-stampa/emergenza-ucraina-la-regione-abruzzo-cerca-famiglie-volontarie-per-l2019accoglienza-e-mediatori-linguistici/
+location:
+  mode: autocomplete
+  address:
+    place_id: 225266677
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 591326251
+    boundingbox:
+    - '42.365538'
+    - '42.3661063'
+    - '13.3737095'
+    - '13.3747562'
+    lat: '42.365814400000005'
+    lon: '13.374276790275314'
+    display_name: Palazzo Silone, 6, Via Leonardo da Vinci, Contrada Romani, L'Aquila,
+      Abruzzo, 67100, Italia
+    class: building
+    type: 'yes'
+    importance: 1.1354342386327727
+    address:
+      building: Palazzo Silone
+      house_number: '6'
+      road: Via Leonardo da Vinci
+      neighbourhood: Contrada Romani
+      city: L'Aquila
+      county: L'Aquila
+      state: Abruzzo
+      postcode: '67100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 42.365814400000005 13.374276790275314
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/65,1165382235,2022-03-18 16:31:09,2022-03-10 15:35:53,Comitato Salva Ucraini di Palermo attiva raccolta beni per profughi ucraini e raccoglie disponibilità all'ospitalità,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""postcode"":""90143"",""road"":""Via Generale Eugenio di Maria"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1309854"",""38.1318817"",""13.3425549"",""13.3430888""],""class"":""highway"",""display_name"":""Via Generale Eugenio di Maria, VIII Circoscrizione, Palermo, Sicilia, 90143, Italia"",""importance"":0.61,""lat"":""38.1315461"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3427395"",""osm_id"":86106882,""osm_type"":""way"",""place_id"":121827517,""type"":""residential""},""mode"":""autocomplete""},""description"":""Il Comitato Salva Ucraini di Palermo ha attivato una raccolta di beni per i profughi ucraini, dal luned\u00ec al venerd\u00ec negli orari 10:00 - 13:00 e 17:00 -19:00, in via Eugenio Di Maria n. 25 presso l'associazione Culturale Jim\u00e9nez.\nSi raccolgono i seguenti beni di prima necessit\u00e0 in buono stato di conservazione e pulizia:\n\ud83d\udccc  Vestiario per adulti e bambini (indicando se maschile o femminile, adulto - bambino e la taglia);\n\ud83d\udccc  Generi alimentari a lunga conservazione (no freschi o deperibili);\n\ud83d\udccc  Prodotti di pulizia, igiene e disinfezione;\n\ud83d\udccc  Medicinali da banco ricaricabili senza prescrizione medica;\n\ud83d\udccc  Giocattoli e attrezzature o accessori per la cura dell'infanzia (culle, passeggini etc)\n\ud83d\udccc  Lenzuola, coperte, etc\nDescrivere per favore sul pacco il contenuto (es. \u201cvestiti bimbo 4 anni\u201d o \u201ccoperte per adulti\u201d).\n\nInoltre il comitato cerca famiglie che possano ospitare rifugiati ucraini. Qui il modulo da compilare per offrirsi https://forms.gle/ej6g2XjawiLS2ViX9."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comitato Salva Ucraini Palermo"",""recipients"":""cittadini di Palermo"",""submit"":true,""title"":""Comitato Salva Ucraini di Palermo ha attivato una raccolta di beni per i profughi ucraini"",""type"":""materialGoods"",""url"":""https://t.me/ucraini_a_palermo/""}","<pre><yamldata>
 type: materialGoods
@@ -633,49 +960,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/205,1173699690,2022-03-18 16:13:06,2022-03-18 15:09:53,A Trebissacce (Cosenza) raccolta beni di prima necessità da inviare in Ucraina,,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Cosenza"",""postcode"":""87075"",""state"":""Calabria"",""village"":""Trebisacce""},""boundingbox"":[""39.8448012"",""39.9090916"",""16.4778291"",""16.5773263""],""class"":""boundary"",""display_name"":""Trebisacce, Cosenza, Calabria, 87075, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.6069574919488508,""lat"":""39.8701066"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.530667"",""osm_id"":40123,""osm_type"":""relation"",""place_id"":283780300,""type"":""administrative""},""mode"":""autocomplete""},""description"":""L'associazione Passaggi di Trebisacce ha lanciato una raccolta beni di prima necessit\u00e0 da inviare in Ucraina. E' stato gi\u00e0 inviato un primo tir contenente operte, cibo, articoli sanitari e medicinali e si stanno raccogliendo beni per organizzare un secondo invio.\nPer informazioni contattare Associazione Passaggi: passaggi.ass@gmail.com - Caterina De Nardi (presidente) +393405539614'"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Passaggi"",""recipients"":"""",""submit"":true,""title"":""Raccolta beni di prima necessit\u00e0, Trebisacce"",""type"":""materialGoods"",""url"":""https://www.facebook.com/unirelepersoneoltregliostacolielediversita/""}","<pre><yamldata>
-type: materialGoods
-offerFromWho: Associazione Passaggi
-title: Raccolta beni di prima necessità, Trebisacce
-recipients: ''
-description: 'L''associazione Passaggi di Trebisacce ha lanciato una raccolta beni
-  di prima necessità da inviare in Ucraina. E'' stato già inviato un primo tir contenente
-  operte, cibo, articoli sanitari e medicinali e si stanno raccogliendo beni per organizzare
-  un secondo invio.
-
-  Per informazioni contattare Associazione Passaggi: passaggi.ass@gmail.com - Caterina
-  De Nardi (presidente) +393405539614'''
-url: https://www.facebook.com/unirelepersoneoltregliostacolielediversita/
-address:
-  mode: autocomplete
-  address:
-    place_id: 283780300
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 40123
-    boundingbox:
-    - '39.8448012'
-    - '39.9090916'
-    - '16.4778291'
-    - '16.5773263'
-    lat: '39.8701066'
-    lon: '16.530667'
-    display_name: Trebisacce, Cosenza, Calabria, 87075, Italia
-    class: boundary
-    type: administrative
-    importance: 0.6069574919488508
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      village: Trebisacce
-      county: Cosenza
-      state: Calabria
-      postcode: '87075'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/204,1173440901,2022-03-18 16:10:23,2022-03-18 10:38:49,"Comune di Livorno, censimento online dei cittadini che ospitano o vogliono ospitare rifugiati ucraini",,,,,"[""Valid/Accettato"",""News"",""Services"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Livorno"",""state"":""Toscana""},""boundingbox"":[""42.3133103"",""43.6346331"",""9.7912939"",""10.7962196""],""class"":""boundary"",""display_name"":""Livorno, Toscana, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7291073566920355,""lat"":""42.790216599999994"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.340278678735025"",""osm_id"":42147,""osm_type"":""relation"",""place_id"":284813019,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Questionario da compilare online, dove i cittadini possono indicare quante persone stanno ospitando e dove, oppure se manifestano la loro disponibilit\u00e0 di ospitare e gli spazi di cui dispongono.\nI dati saranno ovviamente trattati dall\u2019Ufficio del Sociale nel rispetto della privacy e delle normative vigenti anche a tutela delle persone profughe. Si tratta in questo momento solo di una ricognizione e non un immediato incrocio domanda offerta, nel caso in cui i cittadini manifestino la loro disponibilit\u00e0 al Comune."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Livorno"",""recipients"":""Censimento online per l\u2019accoglienza sul territorio comunale delle persone profughe dell\u2019Ucraina Ricognizione tesa a programmare eventuali interventi di natura socio-assistenziale"",""submit"":true,""title"":""Censimento online comunale delle persone profughe dell\u2019Ucraina"",""type"":""hospitality"",""url"":""https://servizinew.comune.livorno.it/epaccoglienza/""}","<pre><yamldata>
 type: hospitality
 offerFromWho: Comune di Livorno
@@ -941,66 +1225,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: help
 submit: true
 Posizione: 45.4384958 10.9924122
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/154,1170200396,2022-03-18 13:03:05,2022-03-15 20:25:58,Regione Abruzzo cerca mediatori linguistici e famiglie per accoglienza minori ucraini soli o con famiglia,42.365814400000005,13.374276790275314,Abruzzo,L'Aquila,"[""Valid/Accettato"",""Help"",""hospitality"",""Translation"",""Children"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""42.365814400000005 13.374276790275314"",""description"":""La Garante dell\u2019Infanzia e dell\u2019Adolescenza della Regione Abruzzo, d\u2019intesa con il Prefetto de L\u2019Aquila e sentito il Presidente del Tribunale de L\u2019Aquila, ha avviato, unitamente alle Caritas Diocesane di L\u2019Aquila, Chieti-Vasto e Teramo, una ricognizione finalizzata alla raccolta delle disponibilit\u00e0 di nuclei famigliari residenti in Abruzzo, all\u2019accoglienza temporanea dei minori non accompagnati e/o delle famiglie con minori in fuga dalle zone del conflitto dell\u2019Ucraina, nonch\u00e9 alla formazione di un elenco di mediatori culturali e linguistici, con il compito di facilitare gli ingressi in famiglia.\nA tal fine chiunque fosse disponibile ad accogliere dei minori o famiglie con minori, per un periodo da definire caso per caso o facilitare, nel ruolo di mediatore culturale, il percorso di inserimento, pu\u00f2 manifestare la propria disponibilit\u00e0 attraverso la compilazione di uno dei due allegati moduli (mediatori culturali o famiglie e singoli) da inviare all\u2019indirizzo di posta elettronica ucraina.garanteinfanzia@crabruzzo.it unitamente ad documento di identit\u00e0 in corso di validit\u00e0.\nAl link i moduli da compilare e ulteriori info."",""email"":""ucraina.garanteinfanzia@crabruzzo.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""building"":""Palazzo Silone"",""city"":""L'Aquila"",""country"":""Italia"",""country_code"":""it"",""county"":""L'Aquila"",""house_number"":""6"",""neighbourhood"":""Contrada Romani"",""postcode"":""67100"",""road"":""Via Leonardo da Vinci"",""state"":""Abruzzo""},""boundingbox"":[""42.365538"",""42.3661063"",""13.3737095"",""13.3747562""],""class"":""building"",""display_name"":""Palazzo Silone, 6, Via Leonardo da Vinci, Contrada Romani, L'Aquila, Abruzzo, 67100, Italia"",""importance"":1.1354342386327727,""lat"":""42.365814400000005"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.374276790275314"",""osm_id"":591326251,""osm_type"":""way"",""place_id"":225266677,""type"":""yes""},""mode"":""autocomplete""},""nameSurname"":""Garante Infanzia Regione Abruzzo"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Regione Abruzzo cerca mediatori linguistici e famiglie per accoglienza minori ucraini soli o con famiglia"",""url"":""https://m.provincia.teramo.it/sala-stampa/emergenza-ucraina-la-regione-abruzzo-cerca-famiglie-volontarie-per-l2019accoglienza-e-mediatori-linguistici/""}","<pre><yamldata>
-nameSurname: Garante Infanzia Regione Abruzzo
-phoneNumber: ''
-email: ucraina.garanteinfanzia@crabruzzo.it
-title: Regione Abruzzo cerca mediatori linguistici e famiglie per accoglienza minori
-  ucraini soli o con famiglia
-recipients: ''
-description: 'La Garante dell’Infanzia e dell’Adolescenza della Regione Abruzzo, d’intesa
-  con il Prefetto de L’Aquila e sentito il Presidente del Tribunale de L’Aquila, ha
-  avviato, unitamente alle Caritas Diocesane di L’Aquila, Chieti-Vasto e Teramo, una
-  ricognizione finalizzata alla raccolta delle disponibilità di nuclei famigliari
-  residenti in Abruzzo, all’accoglienza temporanea dei minori non accompagnati e/o
-  delle famiglie con minori in fuga dalle zone del conflitto dell’Ucraina, nonché
-  alla formazione di un elenco di mediatori culturali e linguistici, con il compito
-  di facilitare gli ingressi in famiglia.
-
-  A tal fine chiunque fosse disponibile ad accogliere dei minori o famiglie con minori,
-  per un periodo da definire caso per caso o facilitare, nel ruolo di mediatore culturale,
-  il percorso di inserimento, può manifestare la propria disponibilità attraverso
-  la compilazione di uno dei due allegati moduli (mediatori culturali o famiglie e
-  singoli) da inviare all’indirizzo di posta elettronica ucraina.garanteinfanzia@crabruzzo.it
-  unitamente ad documento di identità in corso di validità.
-
-  Al link i moduli da compilare e ulteriori info.'
-url: https://m.provincia.teramo.it/sala-stampa/emergenza-ucraina-la-regione-abruzzo-cerca-famiglie-volontarie-per-l2019accoglienza-e-mediatori-linguistici/
-location:
-  mode: autocomplete
-  address:
-    place_id: 225266677
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 591326251
-    boundingbox:
-    - '42.365538'
-    - '42.3661063'
-    - '13.3737095'
-    - '13.3747562'
-    lat: '42.365814400000005'
-    lon: '13.374276790275314'
-    display_name: Palazzo Silone, 6, Via Leonardo da Vinci, Contrada Romani, L'Aquila,
-      Abruzzo, 67100, Italia
-    class: building
-    type: 'yes'
-    importance: 1.1354342386327727
-    address:
-      building: Palazzo Silone
-      house_number: '6'
-      road: Via Leonardo da Vinci
-      neighbourhood: Contrada Romani
-      city: L'Aquila
-      county: L'Aquila
-      state: Abruzzo
-      postcode: '67100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 42.365814400000005 13.374276790275314
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/159,1171109809,2022-03-18 13:02:40,2022-03-16 14:34:12,A Milano associazione Rob de Matt cerca furgoni e pulmini (con o senza autista) per consegnare beni alla popolazione ucraina ,45.4984334,9.1744608,Lombardia,Milano,"[""Valid/Accettato"",""Help"",""transport"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.4984334 9.1744608"",""description"":""Per le prossime carovane siamo alla (disperata) ricerca di furgoni/pullmini che possano trasportare merci all'andata e persone al ritorno.\nL'impegno previsto e di 2/3 giorni massimo, li cerchiamo sia con autista che senza autista.\nPer disponibilit\u00e0 vi chiediamo di mandarci un Direct Message su Facebook, con un nome, cognome e numero di telefono, cos\u00ec riusciamo a rispondervi pi\u00f9 agevolmente."",""email"":""info@robdematt.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20158"",""quarter"":""Dergano"",""road"":""Via Enrico Annibale Butti"",""state"":""Lombardia"",""suburb"":""Municipio 9""},""boundingbox"":[""45.4978503"",""45.4993226"",""9.1743614"",""9.1745368""],""class"":""highway"",""display_name"":""Via Enrico Annibale Butti, Dergano, Municipio 9, Milano, Lombardia, 20158, Italia"",""importance"":0.5,""lat"":""45.4984334"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1744608"",""osm_id"":168937643,""osm_type"":""way"",""place_id"":141424527,""type"":""unclassified""},""mode"":""autocomplete""},""nameSurname"":""Associazione Rob de Matt"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""A Milano associazione Rob de Matt cerca furgoni e pulmini (con o senza autista) per trasportare beni di prima necessit\u00e0"",""url"":""https://www.facebook.com/groups/ukrainehelpit/permalink/459548755914078/""}","<pre><yamldata>
 nameSurname: Associazione Rob de Matt
@@ -2011,55 +2235,6 @@ label: fundaraising
 submit: true
 Posizione: 45.7370885 7.3196649
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/69,1165421436,2022-03-17 15:39:50,2022-03-10 16:08:00,"La Diaconia Valdese cerca mediatori linguistici di lingua ucraina per Pinerolo (To), Torino, Milano, Genova, Bologna, Firenze, Roma e Napoli",44.8220826,7.2290893,Piemonte,Torino,"[""Valid/Accettato"",""Help"",""Translation"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""44.8220826 7.2290893"",""description"":""La Diaconia Valdese \u2013 Servizi Inclusione seleziona per i propri servizi di accoglienza e di sportello, mediatori e mediatrici in lingua ucraina.\nI servizi sono attivi nelle citt\u00e0 di Pinerolo (TO), Torino, Milano, Genova, Bologna, Firenze, Roma e Napoli\nInviare curriculum vitae a ricercapersonale@diaconiavaldese.org\nE\u2019 richiesta disponibilit\u00e0 immediata per impiego part-time 19 ore settimanali"",""email"":""ricercapersonale@diaconiavaldese.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""hamlet"":""Simound"",""postcode"":""10066"",""road"":""Via Angrogna"",""state"":""Piemonte"",""village"":""Torre Pellice""},""boundingbox"":[""44.8205961"",""44.8237564"",""7.2286703"",""7.2291968""],""class"":""highway"",""display_name"":""Via Angrogna, Simound, Torre Pellice, Torino, Piemonte, 10066, Italia"",""importance"":0.4,""lat"":""44.8220826"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.2290893"",""osm_id"":143598496,""osm_type"":""way"",""place_id"":136377592,""type"":""residential""},""mode"":""autocomplete""},""nameSurname"":""Diaconia Valdese"",""phoneNumber"":"""",""recipients"":""Mediatori linguistici"",""submit"":true,""title"":""La Diaconia Valdese cerca mediatori linguistici di lingua ucraina per Pinerolo (To), Torino, Milano, Genova, Bologna, Firenze, Roma e Napoli."",""url"":""https://www.job4good.it/offerta-lavoro/mediatori-linguistico-culturali/""}","<pre><yamldata>
-nameSurname: Diaconia Valdese
-phoneNumber: ''
-email: ricercapersonale@diaconiavaldese.org
-title: La Diaconia Valdese cerca mediatori linguistici di lingua ucraina per Pinerolo
-  (To), Torino, Milano, Genova, Bologna, Firenze, Roma e Napoli.
-recipients: Mediatori linguistici
-description: 'La Diaconia Valdese – Servizi Inclusione seleziona per i propri servizi
-  di accoglienza e di sportello, mediatori e mediatrici in lingua ucraina.
-
-  I servizi sono attivi nelle città di Pinerolo (TO), Torino, Milano, Genova, Bologna,
-  Firenze, Roma e Napoli
-
-  Inviare curriculum vitae a ricercapersonale@diaconiavaldese.org
-
-  E’ richiesta disponibilità immediata per impiego part-time 19 ore settimanali'
-url: https://www.job4good.it/offerta-lavoro/mediatori-linguistico-culturali/
-location:
-  mode: autocomplete
-  address:
-    place_id: 136377592
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 143598496
-    boundingbox:
-    - '44.8205961'
-    - '44.8237564'
-    - '7.2286703'
-    - '7.2291968'
-    lat: '44.8220826'
-    lon: '7.2290893'
-    display_name: Via Angrogna, Simound, Torre Pellice, Torino, Piemonte, 10066, Italia
-    class: highway
-    type: residential
-    importance: 0.4
-    address:
-      road: Via Angrogna
-      hamlet: Simound
-      village: Torre Pellice
-      county: Torino
-      state: Piemonte
-      postcode: '10066'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 44.8220826 7.2290893
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/62,1164309482,2022-03-17 15:09:17,2022-03-09 18:45:32,Il Comitato Salva Ucraini di Palermo cerca volontari che parlino ucraino e italiano,38.1112268,13.3524434,Sicilia,Palermo,"[""Valid/Accettato"",""Help"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""38.1112268 13.3524434"",""description"":""Il Comitato Salva Ucraini di Palermo cerca volontari che parlino ucraino e italiano per aiutare i rifugiati ucraini in arrivo a Palermo.\nIl gruppo ha attivato anche una chat Telegram (vedi link)."",""email"":""salva.ucraini.palermo@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""state"":""Sicilia""},""boundingbox"":[""38.0499137"",""38.2245866"",""13.242219"",""13.4520856""],""class"":""boundary"",""display_name"":""Palermo, Sicilia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7661148171447915,""lat"":""38.1112268"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3524434"",""osm_id"":39513,""osm_type"":""relation"",""place_id"":284307182,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Comitato Salva Ucraini Palermo"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Il Comitato Salva Ucraini di Palermo cerca volontari che parlino ucraino e italiano"",""url"":""https://t.me/ucraini_a_palermo""}","<pre><yamldata>
 nameSurname: Comitato Salva Ucraini Palermo
 phoneNumber: ''
@@ -2101,49 +2276,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: help
 submit: true
 Posizione: 38.1112268 13.3524434
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/68,1165405317,2022-03-17 14:37:44,2022-03-10 15:55:31,A Brescia cooperativa sociale cerca mediatori linguistici di lingua ucraina,45.5324692,10.2303062,Lombardia,Brescia,"[""Valid/Accettato"",""Help"",""Translation"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.5324692 10.2303062"",""description"":""A Brescia la cooperativa Sociale Tempo Libero cerca mediatori linguistici di lingua ucraina con esperienza in ambito sociale e sanitario."",""email"":""cooptempolibero@pec.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Brescia"",""city_district"":""Zona Centro"",""country"":""Italia"",""country_code"":""it"",""county"":""Brescia"",""postcode"":""25121"",""road"":""Via Spalto San Marco"",""state"":""Lombardia"",""suburb"":""Brescia Antica""},""boundingbox"":[""45.5324258"",""45.5324759"",""10.2302064"",""10.2307232""],""class"":""highway"",""display_name"":""Via Spalto San Marco, Brescia Antica, Zona Centro, Brescia, Lombardia, 25121, Italia"",""importance"":0.6,""lat"":""45.5324692"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.2303062"",""osm_id"":190663187,""osm_type"":""way"",""place_id"":147929114,""type"":""primary""},""mode"":""autocomplete""},""nameSurname"":""Cooperativa Tempo Libero"",""phoneNumber"":""030 2808350"",""recipients"":""Mediatori linguistici"",""submit"":true,""title"":""A Brescia cooperativa sociale cerca mediatori linguistici di lingua ucraina"",""url"":""https://www.coopmatch.it/annuncio-dettaglio.asp?idan=26494&utm_source=dlvr.it&utm_medium=twitter""}","<pre><yamldata>
-nameSurname: Cooperativa Tempo Libero
-phoneNumber: 030 2808350
-email: cooptempolibero@pec.it
-title: A Brescia cooperativa sociale cerca mediatori linguistici di lingua ucraina
-recipients: Mediatori linguistici
-description: A Brescia la cooperativa Sociale Tempo Libero cerca mediatori linguistici
-  di lingua ucraina con esperienza in ambito sociale e sanitario.
-url: https://www.coopmatch.it/annuncio-dettaglio.asp?idan=26494&utm_source=dlvr.it&utm_medium=twitter
-location:
-  mode: autocomplete
-  address:
-    place_id: 147929114
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 190663187
-    boundingbox:
-    - '45.5324258'
-    - '45.5324759'
-    - '10.2302064'
-    - '10.2307232'
-    lat: '45.5324692'
-    lon: '10.2303062'
-    display_name: Via Spalto San Marco, Brescia Antica, Zona Centro, Brescia, Lombardia,
-      25121, Italia
-    class: highway
-    type: primary
-    importance: 0.6
-    address:
-      road: Via Spalto San Marco
-      suburb: Brescia Antica
-      city_district: Zona Centro
-      city: Brescia
-      county: Brescia
-      state: Lombardia
-      postcode: '25121'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 45.5324692 10.2303062
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/47,1164049917,2022-03-17 12:45:46,2022-03-09 14:57:42,Regione Lazio: informazioni importanti per accoglienza e assistenza profughi ucraini,,,,,"[""Valid/Accettato"",""News"",""Missing position"",""Services"",""hospitality"",""healtcare"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""neighbourhood"":""Ostiense"",""office"":""Regione Lazio"",""postcode"":""00100"",""quarter"":""Garbatella"",""road"":""Via Giovanni Genocchi"",""state"":""Lazio"",""suburb"":""Municipio Roma VIII""},""boundingbox"":[""41.858227"",""41.8597856"",""12.4936462"",""12.4959306""],""class"":""office"",""display_name"":""Regione Lazio, Via Giovanni Genocchi, Garbatella, Ostiense, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00100, Italia"",""importance"":0.32100000000000006,""lat"":""41.8589212"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.495005572708482"",""osm_id"":2858119,""osm_type"":""relation"",""place_id"":327241895,""type"":""government""},""mode"":""autocomplete""},""description"":""Info utili in italiano e ucraino per i cittadini ucraini che arrivano nel Lazio."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Lazio"",""recipients"":"""",""submit"":true,""title"":""Regione Lazio: informazioni per profughi ucraini"",""type"":""legal"",""url"":""https://facebook.com/100069073545055/posts/265699519075831/""}","<pre><yamldata>
 type: legal
@@ -4260,99 +4392,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 41.8894698 12.4828691
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/112,1167414735,2022-03-14 16:32:52,2022-03-12 22:16:38,"Comune di Parma cerca per emergenza Ucraina mediatori linguistici, educatori, psicologi, assistenti sociali",44.8094695,10.3275042,Emilia-Romagna,Parma,"[""Valid/Accettato"",""Help"",""Translation""]",,,"{""Posizione"":""44.8094695 10.3275042"",""description"":""In relazione all\u2019accoglienza dei profughi ucraini, il Comune di Parma  ha attivato, presso il punto informativo e raccolta dati Informastranieri, un'equipe di operatori del Settore Sociale per approfondire il quadro dei bisogni delle persone accolte o che richiedono aiuto e per effettuare l\u2019approfondimento delle disponibilit\u00e0 di accoglienza che vengono espresse dai cittadini. A supporto di tale equipe si ricercano Volontari con le seguenti professionalit\u00e0: Assistenti Sociali, Educatori, Psicologi e Mediatori linguistici (da attivare anche presso le scuole)."",""email"":""informastranieri@comune.parma.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Parma"",""country"":""Italia"",""country_code"":""it"",""county"":""Parma"",""postcode"":""43121"",""road"":""Via Antonio Cecchi"",""state"":""Emilia-Romagna"",""suburb"":""Parma Centro""},""boundingbox"":[""44.8094603"",""44.8097443"",""10.3262362"",""10.3275426""],""class"":""highway"",""display_name"":""Via Antonio Cecchi, Parma Centro, Parma, Emilia-Romagna, 43121, Italia"",""importance"":0.5949999999999999,""lat"":""44.8094695"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.3275042"",""osm_id"":323712841,""osm_type"":""way"",""place_id"":178424191,""type"":""service""},""mode"":""autocomplete""},""nameSurname"":""Comune di Parma"",""phoneNumber"":""351 0986321"",""recipients"":""mediatori linguistici, psicologi, assistenti sociali, educatori"",""submit"":true,""title"":""Comune di Parma cerca per emergenza Ucraina mediatori linguistici, educatori, psicologi, assistenti sociali"",""url"":""https://www.comune.parma.it/notizie/news/WELFARE/2022-03-12/Parma-per-lUcraina-1.aspx""}","<pre><yamldata>
-nameSurname: Comune di Parma
-phoneNumber: 351 0986321
-email: informastranieri@comune.parma.it
-title: Comune di Parma cerca per emergenza Ucraina mediatori linguistici, educatori,
-  psicologi, assistenti sociali
-recipients: mediatori linguistici, psicologi, assistenti sociali, educatori
-description: 'In relazione all’accoglienza dei profughi ucraini, il Comune di Parma  ha
-  attivato, presso il punto informativo e raccolta dati Informastranieri, un''equipe
-  di operatori del Settore Sociale per approfondire il quadro dei bisogni delle persone
-  accolte o che richiedono aiuto e per effettuare l’approfondimento delle disponibilità
-  di accoglienza che vengono espresse dai cittadini. A supporto di tale equipe si
-  ricercano Volontari con le seguenti professionalità: Assistenti Sociali, Educatori,
-  Psicologi e Mediatori linguistici (da attivare anche presso le scuole).'
-url: https://www.comune.parma.it/notizie/news/WELFARE/2022-03-12/Parma-per-lUcraina-1.aspx
-location:
-  mode: autocomplete
-  address:
-    place_id: 178424191
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 323712841
-    boundingbox:
-    - '44.8094603'
-    - '44.8097443'
-    - '10.3262362'
-    - '10.3275426'
-    lat: '44.8094695'
-    lon: '10.3275042'
-    display_name: Via Antonio Cecchi, Parma Centro, Parma, Emilia-Romagna, 43121,
-      Italia
-    class: highway
-    type: service
-    importance: 0.5949999999999999
-    address:
-      road: Via Antonio Cecchi
-      suburb: Parma Centro
-      city: Parma
-      county: Parma
-      state: Emilia-Romagna
-      postcode: '43121'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 44.8094695 10.3275042
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/109,1167410538,2022-03-14 16:32:26,2022-03-12 21:52:19,Protezione civile di Milano cerca traduttori in lingua ucraina per accoglienza profughi,45.4902382,9.1945908,Lombardia,Milano,"[""Valid/Accettato"",""Help"",""Translation""]",,,"{""Posizione"":""45.4902382 9.1945908"",""description"":""La Protezione civile di Milano cerca traduttori in lingua ucraina per accoglienza profughi."",""email"":""cristiano.cozzi@comune.milano.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""17"",""office"":""Protezione civile"",""postcode"":""20159"",""quarter"":""Isola"",""road"":""Via Ippolito Rosellini"",""state"":""Lombardia"",""suburb"":""Municipio 2""},""boundingbox"":[""45.4901882"",""45.4902882"",""9.1945408"",""9.1946408""],""class"":""office"",""display_name"":""Protezione civile, 17, Via Ippolito Rosellini, Isola, Municipio 2, Milano, Lombardia, 20159, Italia"",""importance"":0.401,""lat"":""45.4902382"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1945908"",""osm_id"":6084251988,""osm_type"":""node"",""place_id"":66708597,""type"":""government""},""mode"":""autocomplete""},""nameSurname"":""Protezione civile Milano"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""traduttori in lingua ucraina per accoglienza profughi"",""url"":""https://twitter.com/ukraineinfohelp/status/1501802781044314115?s=21""}","<pre><yamldata>
-nameSurname: Protezione civile Milano
-phoneNumber: ''
-email: cristiano.cozzi@comune.milano.it
-title: traduttori in lingua ucraina per accoglienza profughi
-recipients: ''
-description: La Protezione civile di Milano cerca traduttori in lingua ucraina per
-  accoglienza profughi.
-url: https://twitter.com/ukraineinfohelp/status/1501802781044314115?s=21
-location:
-  mode: autocomplete
-  address:
-    place_id: 66708597
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 6084251988
-    boundingbox:
-    - '45.4901882'
-    - '45.4902882'
-    - '9.1945408'
-    - '9.1946408'
-    lat: '45.4902382'
-    lon: '9.1945908'
-    display_name: Protezione civile, 17, Via Ippolito Rosellini, Isola, Municipio
-      2, Milano, Lombardia, 20159, Italia
-    class: office
-    type: government
-    importance: 0.401
-    address:
-      office: Protezione civile
-      house_number: '17'
-      road: Via Ippolito Rosellini
-      quarter: Isola
-      suburb: Municipio 2
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20159'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 45.4902382 9.1945908
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/82,1167351821,2022-03-14 16:30:12,2022-03-12 17:46:10,Comune di Valsamoggia cerca alloggi per rifugiati ucraini,44.439823649999994,11.059274991313368,Emilia-Romagna,Bologna,"[""Valid/Accettato"",""Help"",""hospitality""]",,,"{""Posizione"":""44.439823649999994 11.059274991313368"",""description"":""\u00c8 possibile segnalare via mail (sindaco@comune.valsamoggia.bo.it) le disponibilit\u00e0 di appartamenti e case vuote, che siano disponibili per un orizzonte temporale di almeno 6 mesi; per accelerare la valutazione, chiediamo di specificare ogni informazione utile (prossimit\u00e0 al trasporto pubblico, eventuali arredi, stato delle utenze...). Tutti gli immobili saranno oggetto di contratto di affitto con il gestore, relative assicurazioni e volture/pagamenti utenze. Una volta inserite, le persone saranno seguite da personale dedicato.\nInoltre il Comune di Valsamoggia sta raccogliendo e monitorando le disponibilit\u00e0 di camere per accogliere persone in famiglia, una possibilit\u00e0 che per\u00f2 sar\u00e0 attivata tramite un percorso (progetto Vesta, gestito da ASP Bologna) gi\u00e0 strutturato sul nostro territorio per l'accoglienza di giovani rifugiati e di minori stranieri non accompagnati, che in questa emergenza \u00e8 diventato il riferimento anche per l'ospitalit\u00e0 di adulti."",""email"":""sindaco@comune.valsamoggia.bo.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Valsamoggia"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""municipality"":""Unione dei comuni Valli del Reno, Lavino e Samoggia"",""postcode"":""40053"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.3113026"",""44.5673929"",""10.9901343"",""11.1834026""],""class"":""boundary"",""display_name"":""Valsamoggia, Unione dei comuni Valli del Reno, Lavino e Samoggia, Bologna, Emilia-Romagna, 40053, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5042581232679697,""lat"":""44.439823649999994"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.059274991313368"",""osm_id"":3411571,""osm_type"":""relation"",""place_id"":285165141,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Comune di Valsamoggia (Bo)"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Comune di Valsamoggia cerca alloggi per rifugiati ucraini"",""url"":""https://www.comune.valsamoggia.bo.it/index.php/comunicazioni/152-news-home/5061-emergenza-ucraina-accoglienza-e-donazioni""}","<pre><yamldata>
 nameSurname: Comune di Valsamoggia (Bo)
 phoneNumber: ''
@@ -5912,45 +5951,6 @@ label: document_data
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 46.006085 11.12844
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/71,1165430680,2022-03-10 22:23:19,2022-03-10 16:16:19,Comune di Rieti cerca mediatori linguistici di lingua ucraina/russa,42.41473635,12.885888076510067,Lazio,Rieti,"[""Valid/Accettato"",""Help"",""Translation""]",,,"{""Posizione"":""42.41473635 12.885888076510067"",""description"":""Comune di Rieti cerca mediatori linguistici di lingua ucraina/russa per l\u2019accoglienza di cittadini ucraini da utilizzare nell\u2019ambito dei Servizi Sociali professionali e del Pronto Intervento Sociale. \nScadenza Avviso 31 marzo."",""email"":""protocollo@pec.comune.rieti.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Rieti"",""state"":""Lazio""},""boundingbox"":[""42.0889167"",""42.7409686"",""12.4372963"",""13.4099792""],""class"":""boundary"",""display_name"":""Rieti, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.732134276481888,""lat"":""42.41473635"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.885888076510067"",""osm_id"":41781,""osm_type"":""relation"",""place_id"":284337641,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Comune di Rieti"",""phoneNumber"":"""",""recipients"":""mediatori linguistici"",""submit"":true,""title"":""Comune di Rieti cerca mediatori linguistici di lingua ucraina/russa"",""url"":""https://www.comune.rieti.it/article/22/03/emergenza-ucraina-avviso-pubblico-del-comune-di-rieti-costituire-un-elenco-di""}","<pre><yamldata>
-nameSurname: Comune di Rieti
-phoneNumber: ''
-email: protocollo@pec.comune.rieti.it
-title: Comune di Rieti cerca mediatori linguistici di lingua ucraina/russa
-recipients: mediatori linguistici
-description: ""Comune di Rieti cerca mediatori linguistici di lingua ucraina/russa\
-  \ per l’accoglienza di cittadini ucraini da utilizzare nell’ambito dei Servizi Sociali\
-  \ professionali e del Pronto Intervento Sociale. \nScadenza Avviso 31 marzo.""
-url: https://www.comune.rieti.it/article/22/03/emergenza-ucraina-avviso-pubblico-del-comune-di-rieti-costituire-un-elenco-di
-location:
-  mode: autocomplete
-  address:
-    place_id: 284337641
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 41781
-    boundingbox:
-    - '42.0889167'
-    - '42.7409686'
-    - '12.4372963'
-    - '13.4099792'
-    lat: '42.41473635'
-    lon: '12.885888076510067'
-    display_name: Rieti, Lazio, Italia
-    class: boundary
-    type: administrative
-    importance: 0.732134276481888
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      county: Rieti
-      state: Lazio
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 42.41473635 12.885888076510067
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/70,1165425801,2022-03-10 22:22:58,2022-03-10 16:12:00,Raccolta fondi Emergenza Ucraina della Federazione Chiese Evangeliche Italia ,41.9032623,12.4931881,Lazio,Roma,"[""Valid/Accettato"",""fundraising""]",,,"{""Posizione"":""41.9032623 12.4931881"",""bicSwift"":"""",""causal"":""Sottoscrizione Ucraina"",""ccPostal"":"""",""description"":""FCEI lancia quindi una sottoscrizione straordinaria * finalizzata a raccogliere fondi da destinare ad azioni di accoglienza, protezione e sostegno dei profughi da realizzarsi primariamente in Italia e in Polonia.\nDonazioni via bonifico e Paypal (vedi link)."",""email"":"""",""heading"":""Federazione delle Chiese Evangeliche in Italia \u2013 Via Firenze 38, 00184 Roma"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT 26 X 02008 05203 000104203419"",""label"":""fundraising"",""link"":""https://www.nev.it/nev/2022/03/01/ucraina-chiese-protestanti-no-alle-armi-aprire-canali-di-protezione-umanitaria-pronti-a-fare-nostra-parte-per-accoglienza/"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""38"",""postcode"":""00187"",""quarter"":""Castro Pretorio"",""road"":""Via Firenze"",""state"":""Lazio"",""suburb"":""Municipio Roma I"",""tourism"":""Oceania""},""boundingbox"":[""41.9032123"",""41.9033123"",""12.4931381"",""12.4932381""],""class"":""tourism"",""display_name"":""Oceania, 38, Via Firenze, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//accommodation_hotel2.p.20.png"",""importance"":0.42099999999999993,""lat"":""41.9032623"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4931881"",""osm_id"":4320231720,""osm_type"":""node"",""place_id"":49160628,""type"":""hotel""},""mode"":""autocomplete""},""submit"":true,""title"":""Federazione Chiese Evangeliche Italia""}","<pre><yamldata>
 title: Federazione Chiese Evangeliche Italia
