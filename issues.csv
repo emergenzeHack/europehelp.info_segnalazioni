@@ -1,4 +1,48 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/204,1173440901,2022-03-18 16:10:23,2022-03-18 10:38:49,"Comune di Livorno, censimento online dei cittadini che ospitano o vogliono ospitare rifugiati ucraini",,,,,"[""Valid/Accettato"",""News"",""Services"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Livorno"",""state"":""Toscana""},""boundingbox"":[""42.3133103"",""43.6346331"",""9.7912939"",""10.7962196""],""class"":""boundary"",""display_name"":""Livorno, Toscana, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7291073566920355,""lat"":""42.790216599999994"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.340278678735025"",""osm_id"":42147,""osm_type"":""relation"",""place_id"":284813019,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Questionario da compilare online, dove i cittadini possono indicare quante persone stanno ospitando e dove, oppure se manifestano la loro disponibilit\u00e0 di ospitare e gli spazi di cui dispongono.\nI dati saranno ovviamente trattati dall\u2019Ufficio del Sociale nel rispetto della privacy e delle normative vigenti anche a tutela delle persone profughe. Si tratta in questo momento solo di una ricognizione e non un immediato incrocio domanda offerta, nel caso in cui i cittadini manifestino la loro disponibilit\u00e0 al Comune."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Livorno"",""recipients"":""Censimento online per l\u2019accoglienza sul territorio comunale delle persone profughe dell\u2019Ucraina Ricognizione tesa a programmare eventuali interventi di natura socio-assistenziale"",""submit"":true,""title"":""Censimento online comunale delle persone profughe dell\u2019Ucraina"",""type"":""hospitality"",""url"":""https://servizinew.comune.livorno.it/epaccoglienza/""}","<pre><yamldata>
+type: hospitality
+offerFromWho: Comune di Livorno
+title: Censimento online comunale delle persone profughe dell’Ucraina
+recipients: Censimento online per l’accoglienza sul territorio comunale delle persone
+  profughe dell’Ucraina Ricognizione tesa a programmare eventuali interventi di natura
+  socio-assistenziale
+description: 'Questionario da compilare online, dove i cittadini possono indicare
+  quante persone stanno ospitando e dove, oppure se manifestano la loro disponibilità
+  di ospitare e gli spazi di cui dispongono.
+
+  I dati saranno ovviamente trattati dall’Ufficio del Sociale nel rispetto della privacy
+  e delle normative vigenti anche a tutela delle persone profughe. Si tratta in questo
+  momento solo di una ricognizione e non un immediato incrocio domanda offerta, nel
+  caso in cui i cittadini manifestino la loro disponibilità al Comune.'
+url: https://servizinew.comune.livorno.it/epaccoglienza/
+address:
+  mode: autocomplete
+  address:
+    place_id: 284813019
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 42147
+    boundingbox:
+    - '42.3133103'
+    - '43.6346331'
+    - '9.7912939'
+    - '10.7962196'
+    lat: '42.790216599999994'
+    lon: '10.340278678735025'
+    display_name: Livorno, Toscana, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7291073566920355
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Livorno
+      state: Toscana
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/203,1173439678,2022-03-18 16:08:22,2022-03-18 10:37:27,"Emergenza Ucraina, in tutta Italia Auser attiva raccolte beni attraverso le sezioni locali",,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Sul sito di Auser info sulle raccolte di beni a sostegno del popolo ucraino attivate sul territorio nazionale dalle sezioni locali."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Auser"",""recipients"":"""",""submit"":true,""title"":""Emergenza Ucraina, in tutta Italia Auser attiva raccolte beni attraverso le sezioni locali"",""type"":""materialGoods"",""url"":""https://t.co/1OZcQk6J7K""}","<pre><yamldata>
 type: materialGoods
 offerFromWho: Auser
