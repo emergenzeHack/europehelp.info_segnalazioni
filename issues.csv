@@ -1,4 +1,76 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/203,1173439678,2022-03-18 16:08:22,2022-03-18 10:37:27,"Emergenza Ucraina, in tutta Italia Auser attiva raccolte beni attraverso le sezioni locali",,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Sul sito di Auser info sulle raccolte di beni a sostegno del popolo ucraino attivate sul territorio nazionale dalle sezioni locali."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Auser"",""recipients"":"""",""submit"":true,""title"":""Emergenza Ucraina, in tutta Italia Auser attiva raccolte beni attraverso le sezioni locali"",""type"":""materialGoods"",""url"":""https://t.co/1OZcQk6J7K""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: Auser
+title: Emergenza Ucraina, in tutta Italia Auser attiva raccolte beni attraverso le
+  sezioni locali
+recipients: ''
+description: Sul sito di Auser info sulle raccolte di beni a sostegno del popolo ucraino
+  attivate sul territorio nazionale dalle sezioni locali.
+url: https://t.co/1OZcQk6J7K
+address:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/202,1173433999,2022-03-18 16:07:51,2022-03-18 10:31:05,"Prato 19 marzo, concerto Coro Maggio Fiorentino a sostegno della raccolta fondi per l’Ucraina di Croce Rossa",43.88142935,11.09951159358597,Toscana,Prato,"[""Valid/Accettato"",""fundraising"",""telegram-channel"",""tweet""]","Milestone(title=""20 marzo"", number=2)",,"{""Posizione"":""43.88142935 11.09951159358597"",""bicSwift"":""Unicritmirnp"",""causal"":""causale Emergenza Ucraina"",""ccPostal"":"""",""description"":""concerto beneficio per l'Ucraina in programma sabato 19 marzo, alle 21, al Politeama pratese. L'iniziativa \u00e8 organizzata da un gruppo di artisti lirici professionisti del coro del Maggio musicale fiorentino, tra i quali molti pratesi e molti vincitori di concorsi nazionali e internazionali. Ad unire il gruppo \u00e8 il desiderio di dare un contributo alla macchina della solidariet\u00e0 che sta aiutando la popolazione ucraina. Il concerto \u00e8 strutturato su una scaletta di opere dell'Ottocento di compositori tra i pi\u00f9 celebri.\nIl ricavato della serata sar\u00e0 devoluto al sostegno dell'Ucraina e ogni spettatore potr\u00e0 contribuire con una donazione diretta partecipando al concerto oppure attraverso un bonifico intestato all'Associazione Croce Rossa italiana"",""email"":"""",""heading"":""Associazione Croce Rossa italiana"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT93H0200803284000105889169"",""label"":""fundraising"",""link"":""http://www.notiziediprato.it/news/gli-artisti-del-maggio-musicale-fiorentino-al-politeama-per-un-concerto-benefico-pro-emergenza-ucraina"",""location"":{""address"":{""address"":{""amenity"":""Politeama"",""city"":""Prato"",""country"":""Italia"",""country_code"":""it"",""county"":""Prato"",""house_number"":""33"",""neighbourhood"":""il Cantiere"",""postcode"":""59100"",""road"":""Via Giuseppe Garibaldi"",""state"":""Toscana""},""boundingbox"":[""43.8812436"",""43.8816433"",""11.0992461"",""11.0998252""],""class"":""amenity"",""display_name"":""Politeama, 33, Via Giuseppe Garibaldi, il Cantiere, Prato, Toscana, 59100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//tourist_theatre.p.20.png"",""importance"":0.2808812954247281,""lat"":""43.88142935"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.09951159358597"",""osm_id"":324533597,""osm_type"":""way"",""place_id"":179411580,""type"":""theatre""},""mode"":""autocomplete""},""submit"":true,""title"":""Artisti Maggio Fiorentino e Croce Rossa italiana""}","<pre><yamldata>
+title: Artisti Maggio Fiorentino e Croce Rossa italiana
+description: 'concerto beneficio per l''Ucraina in programma sabato 19 marzo, alle
+  21, al Politeama pratese. L''iniziativa è organizzata da un gruppo di artisti lirici
+  professionisti del coro del Maggio musicale fiorentino, tra i quali molti pratesi
+  e molti vincitori di concorsi nazionali e internazionali. Ad unire il gruppo è il
+  desiderio di dare un contributo alla macchina della solidarietà che sta aiutando
+  la popolazione ucraina. Il concerto è strutturato su una scaletta di opere dell''Ottocento
+  di compositori tra i più celebri.
+
+  Il ricavato della serata sarà devoluto al sostegno dell''Ucraina e ogni spettatore
+  potrà contribuire con una donazione diretta partecipando al concerto oppure attraverso
+  un bonifico intestato all''Associazione Croce Rossa italiana'
+heading: Associazione Croce Rossa italiana
+iban: IT93H0200803284000105889169
+bicSwift: Unicritmirnp
+ccPostal: ''
+causal: causale Emergenza Ucraina
+link: http://www.notiziediprato.it/news/gli-artisti-del-maggio-musicale-fiorentino-al-politeama-per-un-concerto-benefico-pro-emergenza-ucraina
+email: ''
+location:
+  mode: autocomplete
+  address:
+    place_id: 179411580
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 324533597
+    boundingbox:
+    - '43.8812436'
+    - '43.8816433'
+    - '11.0992461'
+    - '11.0998252'
+    lat: '43.88142935'
+    lon: '11.09951159358597'
+    display_name: Politeama, 33, Via Giuseppe Garibaldi, il Cantiere, Prato, Toscana,
+      59100, Italia
+    class: amenity
+    type: theatre
+    importance: 0.2808812954247281
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//tourist_theatre.p.20.png
+    address:
+      amenity: Politeama
+      house_number: '33'
+      road: Via Giuseppe Garibaldi
+      neighbourhood: il Cantiere
+      city: Prato
+      county: Prato
+      state: Toscana
+      postcode: '59100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+Posizione: 43.88142935 11.09951159358597
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/201,1173399047,2022-03-18 16:04:27,2022-03-18 09:52:34,Civilian Harm in Ukraine [MAP] by Bellingcat,,,,,"[""Valid/Accettato"",""document_data""]",,,"{""description"":""This map plots out and highlights incidents that have resulted in potential civilian impact or harm since Russia began its invasion of Ukraine. The incidents detailed have been collected by Bellingcat researchers. Included in the map are instances where civilian areas and infrastructure have been damaged or destroyed, where the presence of civilian injuries are visible and/or there is the presence of immobile civilian bodies. Collection for the incidences contained in this map began on February 24, 2022. Users can explore incidents by date and location. We intend this to be a living project that will continue to be updated as long as the conflict persists."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://ukraine.bellingcat.com/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Civilian Harm in Ukraine [MAP]""}","<pre><yamldata>
 title: Civilian Harm in Ukraine [MAP]
 description: This map plots out and highlights incidents that have resulted in potential
