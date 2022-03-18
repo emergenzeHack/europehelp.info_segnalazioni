@@ -1,5 +1,112 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/228,1174081720,2022-03-18 22:27:17,2022-03-18 22:26:27,Lecco ospita Ucraina: iniziativa per attivare una rete di ospitalità diffusa per i rifugiati ucraini,45.7460086,9.2798423,Lombardia,Lecco,"[""Valid/Accettato"",""News"",""Help"",""hospitality""]",,,"{""Posizione"":""45.7460086 9.2798423"",""description"":""Distretto di Lecco, Ambiti distrettuali di Bellano, Lecco e Merate, Fondazione comunitaria del Lecchese, CSV Monza Lecco Sondrio e Confcooperative dell\u2019Adda \u2013 in raccordo con la Prefettura \u2013  hanno avviato la campagna \u201cLecco ospita l\u2019Ucraina\u201d, per accogliere le disponibilit\u00e0 dei cittadini o strutture a ad alloggiare rifugiati ucraini, in particolare in appartamenti.\nAl link tutte le info e contatti."",""email"":""segreteria@fondazionelecco.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Lecco"",""postcode"":""23895"",""road"":""Piazza Stazione"",""state"":""Lombardia"",""village"":""Cassago Brianza""},""boundingbox"":[""45.7459825"",""45.7460132"",""9.2797661"",""9.2799254""],""class"":""highway"",""display_name"":""Piazza Stazione, Cassago Brianza, Lecco, Lombardia, 23895, Italia"",""importance"":0.51,""lat"":""45.7460086"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2798423"",""osm_id"":221114276,""osm_type"":""way"",""place_id"":156155759,""type"":""residential""},""mode"":""autocomplete""},""nameSurname"":""Fondazione comunitaria del Lecchese"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Lecco ospita Ucraina: iniziativa per attivare una rete di ospitalit\u00e0 diffusa per i rifugiati ucraini"",""url"":""https://www.fondazionelecco.org/news/entra-nel-vivo-la-campagna-lecco-ospita-lucraina/?s=09""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/157,1170727612,2022-03-18 22:29:18,2022-03-16 09:02:31,"Accoglienza rifugiati ucraini, bando della Regione Lombardia per strutture ricettive",45.486740749999996,9.196137202763207,Lombardia,Milano,"[""Valid/Accettato"",""News"",""hospitality""]",,,"{""Posizione"":""45.486740749999996 9.196137202763207"",""description"":""La Regione Lombardia ha pubblicato una manifestazione di interesse finalizzata ad assicurare l'ospitalit\u00e0 delle persone provenienti dall'Ucraina, in conseguenza della crisi politica e militare in atto, nelle strutture ricettive presenti sul territorio regionale, qualora non sia possibile l\u2019accoglienza tramite le misure ordinarie del CAS (Centro di Accoglienza Straordinario) o del SAI (Sistema di Accoglienza e Integrazione), messe a disposizione dalle Prefetture - Uffici Territoriali del Governo.\n\nPossono partecipare le strutture ricettive, sia alberghiere che non alberghiere, che possono garantire ospitalit\u00e0 con trattamento di pensione completa con le seguenti specifiche:\n-  l\u2019alloggio in camere singole, doppie, triple, appartamenti, residence, e/o altre strutture ricettive, provviste di servizi igienici e dotate di Wi-Fi, TV, riscaldamento/raffrescamento, acqua calda/fredda;\n- gli ordinari servizi di pulizia ed igiene, in base alle specifiche disposizioni vigenti per la categoria ricettiva di appartenenza fatto salvo il cambio della biancheria settimanale e comunque ad ogni check-out.\n\nLe strutture interessate possono aderire alla manifestazione di interesse esclusivamente tramite la piattaforma Bandi Online. Tutte le info al link."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/gWzf8JlVLz"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""1"",""office"":""Palazzo Regione Lombardia"",""postcode"":""20124"",""quarter"":""GARIBALDI REPUBBLICA"",""road"":""Piazza Citt\u00e0 di Lombardia"",""state"":""Lombardia"",""suburb"":""Municipio 9""},""boundingbox"":[""45.4855652"",""45.4879171"",""9.1947702"",""9.1968219""],""class"":""office"",""display_name"":""Palazzo Regione Lombardia, 1, Piazza Citt\u00e0 di Lombardia, GARIBALDI REPUBBLICA, Municipio 9, Milano, Lombardia, 20124, Italia"",""importance"":0.7409999999999999,""lat"":""45.486740749999996"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.196137202763207"",""osm_id"":136077807,""osm_type"":""way"",""place_id"":133697142,""type"":""government""},""mode"":""autocomplete""},""submit"":true,""title"":""Accoglienza rifugiati ucraini, bando della Regione Lombardia per strutture ricettive""}","<pre><yamldata>
+title: Accoglienza rifugiati ucraini, bando della Regione Lombardia per strutture
+  ricettive
+description: 'La Regione Lombardia ha pubblicato una manifestazione di interesse finalizzata
+  ad assicurare l''ospitalità delle persone provenienti dall''Ucraina, in conseguenza
+  della crisi politica e militare in atto, nelle strutture ricettive presenti sul
+  territorio regionale, qualora non sia possibile l’accoglienza tramite le misure
+  ordinarie del CAS (Centro di Accoglienza Straordinario) o del SAI (Sistema di Accoglienza
+  e Integrazione), messe a disposizione dalle Prefetture - Uffici Territoriali del
+  Governo.
+
+
+  Possono partecipare le strutture ricettive, sia alberghiere che non alberghiere,
+  che possono garantire ospitalità con trattamento di pensione completa con le seguenti
+  specifiche:
+
+  -  l’alloggio in camere singole, doppie, triple, appartamenti, residence, e/o altre
+  strutture ricettive, provviste di servizi igienici e dotate di Wi-Fi, TV, riscaldamento/raffrescamento,
+  acqua calda/fredda;
+
+  - gli ordinari servizi di pulizia ed igiene, in base alle specifiche disposizioni
+  vigenti per la categoria ricettiva di appartenenza fatto salvo il cambio della biancheria
+  settimanale e comunque ad ogni check-out.
+
+
+  Le strutture interessate possono aderire alla manifestazione di interesse esclusivamente
+  tramite la piattaforma Bandi Online. Tutte le info al link.'
+link: https://t.co/gWzf8JlVLz
+location:
+  mode: autocomplete
+  address:
+    place_id: 133697142
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 136077807
+    boundingbox:
+    - '45.4855652'
+    - '45.4879171'
+    - '9.1947702'
+    - '9.1968219'
+    lat: '45.486740749999996'
+    lon: '9.196137202763207'
+    display_name: Palazzo Regione Lombardia, 1, Piazza Città di Lombardia, GARIBALDI
+      REPUBBLICA, Municipio 9, Milano, Lombardia, 20124, Italia
+    class: office
+    type: government
+    importance: 0.7409999999999999
+    address:
+      office: Palazzo Regione Lombardia
+      house_number: '1'
+      road: Piazza Città di Lombardia
+      quarter: GARIBALDI REPUBBLICA
+      suburb: Municipio 9
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20124'
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.486740749999996 9.196137202763207
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/175,1171418994,2022-03-18 22:29:05,2022-03-16 18:43:36,Donare buoni carburante per sostenere il trasporto di rifugiati ucraini in Italia,45.4384958,10.9924122,Veneto,Verona,"[""Valid/Accettato"",""fundraising"",""transport"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.4384958 10.9924122"",""description"":""Gruppo di cittadini che organizza viaggi gratuiti tra Polonia e Italia (in particolare Verona e Milano) per portare in Italia rifugiati ucraini chiede aiuto per sostenere le spese di carburante attraverso la donazione di buoni benzina. Tutte le info al link."",""email"":""info@trapolitalia.eu"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Verona"",""country"":""Italia"",""country_code"":""it"",""county"":""Verona"",""postcode"":""37122"",""state"":""Veneto""},""boundingbox"":[""45.2784958"",""45.5984958"",""10.8324122"",""11.1524122""],""class"":""place"",""display_name"":""Verona, Veneto, 37122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7461573888828525,""lat"":""45.4384958"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.9924122"",""osm_id"":64778101,""osm_type"":""node"",""place_id"":286299859,""type"":""city""},""mode"":""autocomplete""},""nameSurname"":""Anna Marta Chelicka Bernardo"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Donare buoni carburante per sostenere il trasporto di rifugiati ucraini in Italia"",""url"":""https://m.facebook.com/story.php?story_fbid=10223089162672302&id=1078189413""}","<pre><yamldata>
+nameSurname: Anna Marta Chelicka Bernardo
+phoneNumber: ''
+email: info@trapolitalia.eu
+title: Donare buoni carburante per sostenere il trasporto di rifugiati ucraini in
+  Italia
+recipients: ''
+description: Gruppo di cittadini che organizza viaggi gratuiti tra Polonia e Italia
+  (in particolare Verona e Milano) per portare in Italia rifugiati ucraini chiede
+  aiuto per sostenere le spese di carburante attraverso la donazione di buoni benzina.
+  Tutte le info al link.
+url: https://m.facebook.com/story.php?story_fbid=10223089162672302&id=1078189413
+location:
+  mode: autocomplete
+  address:
+    place_id: 286299859
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 64778101
+    boundingbox:
+    - '45.2784958'
+    - '45.5984958'
+    - '10.8324122'
+    - '11.1524122'
+    lat: '45.4384958'
+    lon: '10.9924122'
+    display_name: Verona, Veneto, 37122, Italia
+    class: place
+    type: city
+    importance: 0.7461573888828525
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Verona
+      county: Verona
+      state: Veneto
+      postcode: '37122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 45.4384958 10.9924122
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/228,1174081720,2022-03-18 22:28:31,2022-03-18 22:26:27,Lecco ospita Ucraina: iniziativa per attivare una rete di ospitalità diffusa per i rifugiati ucraini,45.7460086,9.2798423,Lombardia,Lecco,"[""Valid/Accettato"",""News"",""hospitality""]",,,"{""Posizione"":""45.7460086 9.2798423"",""description"":""Distretto di Lecco, Ambiti distrettuali di Bellano, Lecco e Merate, Fondazione comunitaria del Lecchese, CSV Monza Lecco Sondrio e Confcooperative dell\u2019Adda \u2013 in raccordo con la Prefettura \u2013  hanno avviato la campagna \u201cLecco ospita l\u2019Ucraina\u201d, per accogliere le disponibilit\u00e0 dei cittadini o strutture a ad alloggiare rifugiati ucraini, in particolare in appartamenti.\nAl link tutte le info e contatti."",""email"":""segreteria@fondazionelecco.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Lecco"",""postcode"":""23895"",""road"":""Piazza Stazione"",""state"":""Lombardia"",""village"":""Cassago Brianza""},""boundingbox"":[""45.7459825"",""45.7460132"",""9.2797661"",""9.2799254""],""class"":""highway"",""display_name"":""Piazza Stazione, Cassago Brianza, Lecco, Lombardia, 23895, Italia"",""importance"":0.51,""lat"":""45.7460086"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2798423"",""osm_id"":221114276,""osm_type"":""way"",""place_id"":156155759,""type"":""residential""},""mode"":""autocomplete""},""nameSurname"":""Fondazione comunitaria del Lecchese"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Lecco ospita Ucraina: iniziativa per attivare una rete di ospitalit\u00e0 diffusa per i rifugiati ucraini"",""url"":""https://www.fondazionelecco.org/news/entra-nel-vivo-la-campagna-lecco-ospita-lucraina/?s=09""}","<pre><yamldata>
 nameSurname: Fondazione comunitaria del Lecchese
 phoneNumber: ''
 email: segreteria@fondazionelecco.org
@@ -1944,49 +2051,6 @@ label: help
 submit: true
 Posizione: 45.4984334 9.1744608
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/175,1171418994,2022-03-18 13:01:59,2022-03-16 18:43:36,Donare buoni carburante per sostenere il trasporto di rifugiati ucraini in Italia,45.4384958,10.9924122,Veneto,Verona,"[""Valid/Accettato"",""Help"",""fundraising"",""transport"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.4384958 10.9924122"",""description"":""Gruppo di cittadini che organizza viaggi gratuiti tra Polonia e Italia (in particolare Verona e Milano) per portare in Italia rifugiati ucraini chiede aiuto per sostenere le spese di carburante attraverso la donazione di buoni benzina. Tutte le info al link."",""email"":""info@trapolitalia.eu"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Verona"",""country"":""Italia"",""country_code"":""it"",""county"":""Verona"",""postcode"":""37122"",""state"":""Veneto""},""boundingbox"":[""45.2784958"",""45.5984958"",""10.8324122"",""11.1524122""],""class"":""place"",""display_name"":""Verona, Veneto, 37122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7461573888828525,""lat"":""45.4384958"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.9924122"",""osm_id"":64778101,""osm_type"":""node"",""place_id"":286299859,""type"":""city""},""mode"":""autocomplete""},""nameSurname"":""Anna Marta Chelicka Bernardo"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Donare buoni carburante per sostenere il trasporto di rifugiati ucraini in Italia"",""url"":""https://m.facebook.com/story.php?story_fbid=10223089162672302&id=1078189413""}","<pre><yamldata>
-nameSurname: Anna Marta Chelicka Bernardo
-phoneNumber: ''
-email: info@trapolitalia.eu
-title: Donare buoni carburante per sostenere il trasporto di rifugiati ucraini in
-  Italia
-recipients: ''
-description: Gruppo di cittadini che organizza viaggi gratuiti tra Polonia e Italia
-  (in particolare Verona e Milano) per portare in Italia rifugiati ucraini chiede
-  aiuto per sostenere le spese di carburante attraverso la donazione di buoni benzina.
-  Tutte le info al link.
-url: https://m.facebook.com/story.php?story_fbid=10223089162672302&id=1078189413
-location:
-  mode: autocomplete
-  address:
-    place_id: 286299859
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 64778101
-    boundingbox:
-    - '45.2784958'
-    - '45.5984958'
-    - '10.8324122'
-    - '11.1524122'
-    lat: '45.4384958'
-    lon: '10.9924122'
-    display_name: Verona, Veneto, 37122, Italia
-    class: place
-    type: city
-    importance: 0.7461573888828525
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
-    address:
-      city: Verona
-      county: Verona
-      state: Veneto
-      postcode: '37122'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 45.4384958 10.9924122
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/199,1173289281,2022-03-18 13:00:38,2022-03-18 07:52:51,A Milano e comuni limitrofi mamma con due bambini fuggita dall'Ucraina cerca alloggio economico,45.4612939,9.172356290785304,Lombardia,Milano,"[""Valid/Accettato"",""Help"",""hospitality"",""Children"",""women"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.4612939 9.172356290785304"",""description"":""Buongiorno, mi chiamo Gaia Gandini e sto ospitando la famiglia Pozniak, mamma con figli di 16 e 9 anni a casa mia, ma riesco fino al 1/4/22. Cercano a Milano e comuni limitrofi alloggio gratuito o molto economico per successivo periodo. Non parlano inglese solo ucraino per questo scrivo io. Grazie!"",""email"":""gaigan@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Milan"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""state"":""Lombardia""},""boundingbox"":[""45.3867381"",""45.5358482"",""9.0408867"",""9.2781103""],""class"":""boundary"",""display_name"":""Milan, Milano, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8490652078701348,""lat"":""45.4612939"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.172356290785304"",""osm_id"":44915,""osm_type"":""relation"",""place_id"":283684439,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Hanna pozniak"",""phoneNumber"":""+393287425807"",""recipients"":"""",""submit"":true,""title"":""Search for house"",""url"":""""}","<pre><yamldata>
 nameSurname: Hanna pozniak
 phoneNumber: '+393287425807'
@@ -3891,70 +3955,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 49.4871968 31.2718321
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/157,1170727612,2022-03-16 13:03:08,2022-03-16 09:02:31,"Accoglienza rifugiati ucraini, bando della Regione Lombardia per strutture ricettive",45.486740749999996,9.196137202763207,Lombardia,Milano,"[""Valid/Accettato"",""News"",""Help"",""hospitality""]",,,"{""Posizione"":""45.486740749999996 9.196137202763207"",""description"":""La Regione Lombardia ha pubblicato una manifestazione di interesse finalizzata ad assicurare l'ospitalit\u00e0 delle persone provenienti dall'Ucraina, in conseguenza della crisi politica e militare in atto, nelle strutture ricettive presenti sul territorio regionale, qualora non sia possibile l\u2019accoglienza tramite le misure ordinarie del CAS (Centro di Accoglienza Straordinario) o del SAI (Sistema di Accoglienza e Integrazione), messe a disposizione dalle Prefetture - Uffici Territoriali del Governo.\n\nPossono partecipare le strutture ricettive, sia alberghiere che non alberghiere, che possono garantire ospitalit\u00e0 con trattamento di pensione completa con le seguenti specifiche:\n-  l\u2019alloggio in camere singole, doppie, triple, appartamenti, residence, e/o altre strutture ricettive, provviste di servizi igienici e dotate di Wi-Fi, TV, riscaldamento/raffrescamento, acqua calda/fredda;\n- gli ordinari servizi di pulizia ed igiene, in base alle specifiche disposizioni vigenti per la categoria ricettiva di appartenenza fatto salvo il cambio della biancheria settimanale e comunque ad ogni check-out.\n\nLe strutture interessate possono aderire alla manifestazione di interesse esclusivamente tramite la piattaforma Bandi Online. Tutte le info al link."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/gWzf8JlVLz"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""1"",""office"":""Palazzo Regione Lombardia"",""postcode"":""20124"",""quarter"":""GARIBALDI REPUBBLICA"",""road"":""Piazza Citt\u00e0 di Lombardia"",""state"":""Lombardia"",""suburb"":""Municipio 9""},""boundingbox"":[""45.4855652"",""45.4879171"",""9.1947702"",""9.1968219""],""class"":""office"",""display_name"":""Palazzo Regione Lombardia, 1, Piazza Citt\u00e0 di Lombardia, GARIBALDI REPUBBLICA, Municipio 9, Milano, Lombardia, 20124, Italia"",""importance"":0.7409999999999999,""lat"":""45.486740749999996"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.196137202763207"",""osm_id"":136077807,""osm_type"":""way"",""place_id"":133697142,""type"":""government""},""mode"":""autocomplete""},""submit"":true,""title"":""Accoglienza rifugiati ucraini, bando della Regione Lombardia per strutture ricettive""}","<pre><yamldata>
-title: Accoglienza rifugiati ucraini, bando della Regione Lombardia per strutture
-  ricettive
-description: 'La Regione Lombardia ha pubblicato una manifestazione di interesse finalizzata
-  ad assicurare l''ospitalità delle persone provenienti dall''Ucraina, in conseguenza
-  della crisi politica e militare in atto, nelle strutture ricettive presenti sul
-  territorio regionale, qualora non sia possibile l’accoglienza tramite le misure
-  ordinarie del CAS (Centro di Accoglienza Straordinario) o del SAI (Sistema di Accoglienza
-  e Integrazione), messe a disposizione dalle Prefetture - Uffici Territoriali del
-  Governo.
-
-
-  Possono partecipare le strutture ricettive, sia alberghiere che non alberghiere,
-  che possono garantire ospitalità con trattamento di pensione completa con le seguenti
-  specifiche:
-
-  -  l’alloggio in camere singole, doppie, triple, appartamenti, residence, e/o altre
-  strutture ricettive, provviste di servizi igienici e dotate di Wi-Fi, TV, riscaldamento/raffrescamento,
-  acqua calda/fredda;
-
-  - gli ordinari servizi di pulizia ed igiene, in base alle specifiche disposizioni
-  vigenti per la categoria ricettiva di appartenenza fatto salvo il cambio della biancheria
-  settimanale e comunque ad ogni check-out.
-
-
-  Le strutture interessate possono aderire alla manifestazione di interesse esclusivamente
-  tramite la piattaforma Bandi Online. Tutte le info al link.'
-link: https://t.co/gWzf8JlVLz
-location:
-  mode: autocomplete
-  address:
-    place_id: 133697142
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 136077807
-    boundingbox:
-    - '45.4855652'
-    - '45.4879171'
-    - '9.1947702'
-    - '9.1968219'
-    lat: '45.486740749999996'
-    lon: '9.196137202763207'
-    display_name: Palazzo Regione Lombardia, 1, Piazza Città di Lombardia, GARIBALDI
-      REPUBBLICA, Municipio 9, Milano, Lombardia, 20124, Italia
-    class: office
-    type: government
-    importance: 0.7409999999999999
-    address:
-      office: Palazzo Regione Lombardia
-      house_number: '1'
-      road: Piazza Città di Lombardia
-      quarter: GARIBALDI REPUBBLICA
-      suburb: Municipio 9
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20124'
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 45.486740749999996 9.196137202763207
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/134,1168644134,2022-03-16 11:11:51,2022-03-14 16:47:07,A Roma attivo help center di Croce Rossa per i rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""materialGoods"",""healtcare"",""Translation""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""18"",""office"":""Associazione della Croce Rossa Italiana - Comitato Municipi 8 - 11 - 12"",""postcode"":""00100"",""road"":""Via Antonio Pacinotti"",""state"":""Lazio"",""suburb"":""Municipio Roma XI""},""boundingbox"":[""41.8709875"",""41.8710875"",""12.4690356"",""12.4691356""],""class"":""office"",""display_name"":""Associazione della Croce Rossa Italiana - Comitato Municipi 8 - 11 - 12, 18, Via Antonio Pacinotti, Municipio Roma XI, Roma, Roma Capitale, Lazio, 00100, Italia"",""importance"":0.42099999999999993,""lat"":""41.8710375"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4690856"",""osm_id"":7924233508,""osm_type"":""node"",""place_id"":81569297,""type"":""association""},""mode"":""autocomplete""},""description"":""A Roma, in via Pacinotti 18, help center di Croce Rossa per i rifugiati ucraini che offre:\n- orientamento ai servizi sul territorio \n- donazione di beni\n- supporto alimentare\n- mediazione linguistica\n\nApertura: luned\u00ec-venerd\u00ec, ore 10-17.\n\nPer contatti: 3428102303 - 06 35403823 - 800 065510"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Croce Rossa Roma"",""recipients"":"""",""submit"":true,""title"":""A Roma attivo help center di Croce Rossa per i rifugiati ucraini"",""type"":""materialGoods"",""url"":""https://twitter.com/ukrinit/status/1503372513228824581?s=21""}","<pre><yamldata>
 type: materialGoods
