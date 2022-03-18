@@ -1,4 +1,39 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/194,1173024620,2022-03-18 05:59:01,2022-03-17 23:32:23,Fiabe per bambini in russo e ucraino su spotify da Caritas Vienna,,,,,"[""Valid/Accettato"",""Children"",""telegram-channel"",""tweet"",""Resources""]",,,"{""address"":{""address"":{""address"":{""country"":""Austria"",""country_code"":""at"",""state"":""Vienna""},""boundingbox"":[""48.1179069"",""48.3226679"",""16.181831"",""16.5775132""],""class"":""boundary"",""display_name"":""Vienna, Austria"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.869412325825045,""lat"":""48.2202097"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.371215973799906"",""osm_id"":109166,""osm_type"":""relation"",""place_id"":284816726,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Playlist su Spotify di fiabe in lingua russa e ucraina, utile per chi ospita bambini/bambine/famiglie"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Caritas di Vienna"",""recipients"":""Bambini"",""submit"":true,""title"":""Fiabe per bambini in russo e ucraino"",""type"":""children"",""url"":""https://lm.facebook.com/l.php?u=https%3A%2F%2Fopen.spotify.com%2Fshow%2F23oWjNmyWAxK9JAjOf5l8A%3Ffbclid%3DIwAR21krXc6D7hF-2x2OMZSqtN3S4dslGYaOSIbBMoICvU8CJyEmHZzTkhS-Q&h=AT2xdJPJqpiYHmr0lJWEbhmWh3GvUlIhFU-sTNFyFrDepyCmAkUco8dtTpPFPPVieAN9Py_pSY-SkRrDCD8Wyh9WPUN73wOCwNgaj2U5IrPUdNmSzp5fPDZYQWpNS5gidYVyoXfP42HvPVLFIGo6""}","<pre><yamldata>
+type: children
+offerFromWho: Caritas di Vienna
+title: Fiabe per bambini in russo e ucraino
+recipients: Bambini
+description: Playlist su Spotify di fiabe in lingua russa e ucraina, utile per chi
+  ospita bambini/bambine/famiglie
+url: https://lm.facebook.com/l.php?u=https%3A%2F%2Fopen.spotify.com%2Fshow%2F23oWjNmyWAxK9JAjOf5l8A%3Ffbclid%3DIwAR21krXc6D7hF-2x2OMZSqtN3S4dslGYaOSIbBMoICvU8CJyEmHZzTkhS-Q&h=AT2xdJPJqpiYHmr0lJWEbhmWh3GvUlIhFU-sTNFyFrDepyCmAkUco8dtTpPFPPVieAN9Py_pSY-SkRrDCD8Wyh9WPUN73wOCwNgaj2U5IrPUdNmSzp5fPDZYQWpNS5gidYVyoXfP42HvPVLFIGo6
+address:
+  mode: autocomplete
+  address:
+    place_id: 284816726
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 109166
+    boundingbox:
+    - '48.1179069'
+    - '48.3226679'
+    - '16.181831'
+    - '16.5775132'
+    lat: '48.2202097'
+    lon: '16.371215973799906'
+    display_name: Vienna, Austria
+    class: boundary
+    type: administrative
+    importance: 0.869412325825045
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      state: Vienna
+      country: Austria
+      country_code: at
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/190,1172902825,2022-03-17 22:18:51,2022-03-17 20:48:45,"Raccolta fondi per rifugiati ucraini di Caritas Diocesana Bergamasca, L’Eco di Bergamo e Fondazione della Comunità Bergamasca",45.756655699999996,9.754219200862249,Lombardia,Bergamo,"[""Valid/Accettato"",""fundraising""]",,,"{""Posizione"":""45.756655699999996 9.754219200862249"",""bicSwift"":""BCITTMM"",""causal"":"""",""ccPostal"":"""",""description"":""Raccolta fondi per il popolo ucraino grazie ad una sottoscrizione per sostenere da un lato l\u2019accoglienza di donne, bambini, anziani costretti a lasciare le proprie case e dall\u2019altra ad azioni dirette sul territorio colpito dalla guerra."",""email"":""bergamo@csvlombardia.it"",""heading"":""Erogazione liberale - Emergenza Ucraina"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT 58 U 03069 09606 100000185910"",""label"":""fundraising"",""link"":""https://www.csvlombardia.it/bergamo/bg-per-approfondire/bg-per-approfondire-eventi/post/ucraina-la-raccolta-fondi-di-caritas-per-sostenere-gli-interventi-di-assistenza-umanitaria-ed-emergenziale/"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bergamo"",""state"":""Lombardia""},""boundingbox"":[""45.4221614"",""46.0912018"",""9.4450549"",""10.2627486""],""class"":""boundary"",""display_name"":""Bergamo, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7460458381268803,""lat"":""45.756655699999996"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.754219200862249"",""osm_id"":44996,""osm_type"":""relation"",""place_id"":284895216,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Caritas Diocesana Bergamasca, L\u2019Eco di Bergamo e Fondazione della Comunit\u00e0 Bergamasca""}","<pre><yamldata>
 title: Caritas Diocesana Bergamasca, L’Eco di Bergamo e Fondazione della Comunità
   Bergamasca
