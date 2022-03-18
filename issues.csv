@@ -1,4 +1,400 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/191,1173002359,2022-03-18 16:33:51,2022-03-17 22:50:48,"Terres Des Hommes Italia cerca mediatori linguistici in ucraino a Milano, Monza e Brianza e Udine",,,,,"[""Valid/Accettato"",""Help"",""job""]","Milestone(title=""16 aprile"", number=3)",,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20122"",""state"":""Lombardia""},""boundingbox"":[""45.3041943"",""45.6241943"",""9.0296346"",""9.3496346""],""class"":""place"",""display_name"":""Milano, Milan, Milano, Lombardia, 20122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.8390652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":62505581,""osm_type"":""node"",""place_id"":286263950,""type"":""city""},""mode"":""autocomplete""},""description"":""L'organizzazione Terres Des Hommes cerca per i propri servizi di accoglienza, sportello e inclusione cerca mediatori e mediatrici in lingua ucraina.\nI servizi saranno attivi nelle citt\u00e0 di Milano e dintorni, Monza e Brianza, Udine e Trieste. Si richiede la residenza e il domicilio nelle zone di attivit\u00e0.\nInviare curriculum vitae a: ucraina@tdhitaly.org\n\u00c8 richiesta disponibilit\u00e0 immediata per impiego part-time di almeno 19 ore settimanali.\nScadenza vacancy: 15 aprile 2022"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Terres Des Hommes Italia"",""recipients"":"""",""submit"":true,""title"":""Ricerca mediatori culturali a Milano, Monza e Brianza e Udine"",""type"":""jobOffer"",""url"":""https://terredeshommes.it/chi-siamo/lavora-con-noi/?fbclid=IwAR11P_lEbSb3L14R-tO4xFbr1Crn9FBBZ6--1KlGASfAzs-jVYqx7P-pa8g""}","<pre><yamldata>
+type: jobOffer
+offerFromWho: Terres Des Hommes Italia
+title: Ricerca mediatori culturali a Milano, Monza e Brianza e Udine
+recipients: ''
+description: 'L''organizzazione Terres Des Hommes cerca per i propri servizi di accoglienza,
+  sportello e inclusione cerca mediatori e mediatrici in lingua ucraina.
+
+  I servizi saranno attivi nelle città di Milano e dintorni, Monza e Brianza, Udine
+  e Trieste. Si richiede la residenza e il domicilio nelle zone di attività.
+
+  Inviare curriculum vitae a: ucraina@tdhitaly.org
+
+  È richiesta disponibilità immediata per impiego part-time di almeno 19 ore settimanali.
+
+  Scadenza vacancy: 15 aprile 2022'
+url: https://terredeshommes.it/chi-siamo/lavora-con-noi/?fbclid=IwAR11P_lEbSb3L14R-tO4xFbr1Crn9FBBZ6--1KlGASfAzs-jVYqx7P-pa8g
+address:
+  mode: autocomplete
+  address:
+    place_id: 286263950
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 62505581
+    boundingbox:
+    - '45.3041943'
+    - '45.6241943'
+    - '9.0296346'
+    - '9.3496346'
+    lat: '45.4641943'
+    lon: '9.1896346'
+    display_name: Milano, Milan, Milano, Lombardia, 20122, Italia
+    class: place
+    type: city
+    importance: 0.8390652078701348
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/65,1165382235,2022-03-18 16:31:09,2022-03-10 15:35:53,Comitato Salva Ucraini di Palermo attiva raccolta beni per profughi ucraini e raccoglie disponibilità all'ospitalità,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""postcode"":""90143"",""road"":""Via Generale Eugenio di Maria"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1309854"",""38.1318817"",""13.3425549"",""13.3430888""],""class"":""highway"",""display_name"":""Via Generale Eugenio di Maria, VIII Circoscrizione, Palermo, Sicilia, 90143, Italia"",""importance"":0.61,""lat"":""38.1315461"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3427395"",""osm_id"":86106882,""osm_type"":""way"",""place_id"":121827517,""type"":""residential""},""mode"":""autocomplete""},""description"":""Il Comitato Salva Ucraini di Palermo ha attivato una raccolta di beni per i profughi ucraini, dal luned\u00ec al venerd\u00ec negli orari 10:00 - 13:00 e 17:00 -19:00, in via Eugenio Di Maria n. 25 presso l'associazione Culturale Jim\u00e9nez.\nSi raccolgono i seguenti beni di prima necessit\u00e0 in buono stato di conservazione e pulizia:\n\ud83d\udccc  Vestiario per adulti e bambini (indicando se maschile o femminile, adulto - bambino e la taglia);\n\ud83d\udccc  Generi alimentari a lunga conservazione (no freschi o deperibili);\n\ud83d\udccc  Prodotti di pulizia, igiene e disinfezione;\n\ud83d\udccc  Medicinali da banco ricaricabili senza prescrizione medica;\n\ud83d\udccc  Giocattoli e attrezzature o accessori per la cura dell'infanzia (culle, passeggini etc)\n\ud83d\udccc  Lenzuola, coperte, etc\nDescrivere per favore sul pacco il contenuto (es. \u201cvestiti bimbo 4 anni\u201d o \u201ccoperte per adulti\u201d).\n\nInoltre il comitato cerca famiglie che possano ospitare rifugiati ucraini. Qui il modulo da compilare per offrirsi https://forms.gle/ej6g2XjawiLS2ViX9."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comitato Salva Ucraini Palermo"",""recipients"":""cittadini di Palermo"",""submit"":true,""title"":""Comitato Salva Ucraini di Palermo ha attivato una raccolta di beni per i profughi ucraini"",""type"":""materialGoods"",""url"":""https://t.me/ucraini_a_palermo/""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: Comitato Salva Ucraini Palermo
+title: Comitato Salva Ucraini di Palermo ha attivato una raccolta di beni per i profughi
+  ucraini
+recipients: cittadini di Palermo
+description: 'Il Comitato Salva Ucraini di Palermo ha attivato una raccolta di beni
+  per i profughi ucraini, dal lunedì al venerdì negli orari 10:00 - 13:00 e 17:00
+  -19:00, in via Eugenio Di Maria n. 25 presso l''associazione Culturale Jiménez.
+
+  Si raccolgono i seguenti beni di prima necessità in buono stato di conservazione
+  e pulizia:
+
+  📌  Vestiario per adulti e bambini (indicando se maschile o femminile, adulto - bambino
+  e la taglia);
+
+  📌  Generi alimentari a lunga conservazione (no freschi o deperibili);
+
+  📌  Prodotti di pulizia, igiene e disinfezione;
+
+  📌  Medicinali da banco ricaricabili senza prescrizione medica;
+
+  📌  Giocattoli e attrezzature o accessori per la cura dell''infanzia (culle, passeggini
+  etc)
+
+  📌  Lenzuola, coperte, etc
+
+  Descrivere per favore sul pacco il contenuto (es. “vestiti bimbo 4 anni” o “coperte
+  per adulti”).
+
+
+Inoltre il comitato cerca famiglie che possano ospitare rifugiati ucraini. Qui il modulo da compilare per offrirsi https://forms.gle/ej6g2XjawiLS2ViX9.'
+url: https://t.me/ucraini_a_palermo/
+address:
+  mode: autocomplete
+  address:
+    place_id: 121827517
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 86106882
+    boundingbox:
+    - '38.1309854'
+    - '38.1318817'
+    - '13.3425549'
+    - '13.3430888'
+    lat: '38.1315461'
+    lon: '13.3427395'
+    display_name: Via Generale Eugenio di Maria, VIII Circoscrizione, Palermo, Sicilia,
+      90143, Italia
+    class: highway
+    type: residential
+    importance: 0.61
+    address:
+      road: Via Generale Eugenio di Maria
+      suburb: VIII Circoscrizione
+      city: Palermo
+      county: Palermo
+      state: Sicilia
+      postcode: '90143'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/61,1164291377,2022-03-18 16:30:48,2022-03-09 18:25:56,A Bari negozio di Wind Tre lancia una speciale promozione telefonica per rifugiati ucraini,,,,,"[""Valid/Accettato"",""News"",""Services"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Bari"",""country"":""Italia"",""country_code"":""it"",""county"":""Bari"",""state"":""Puglia""},""boundingbox"":[""41.0160584"",""41.1697837"",""16.7172376"",""17.0334109""],""class"":""boundary"",""display_name"":""Bari, Puglia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7287183212532693,""lat"":""41.1257843"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.8620293"",""osm_id"":41038,""osm_type"":""relation"",""place_id"":283768030,""type"":""administrative""},""mode"":""autocomplete""},""description"":""A Bari negozio di Wind Tre lancia una speciale promozione telefonica per i rifugiati ucraini."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""WindTre"",""recipients"":"""",""submit"":true,""title"":""A Bari negozio di Wind Tre lancia una speciale promozione telefonica per rifugiati ucraini"",""type"":""materialGoods"",""url"":""https://twitter.com/ukraineinfohelp/status/1501604489115189252?t=zDwb9dEScReeSf9Y3mgeqA&s=19""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: WindTre
+title: A Bari negozio di Wind Tre lancia una speciale promozione telefonica per rifugiati
+  ucraini
+recipients: ''
+description: A Bari negozio di Wind Tre lancia una speciale promozione telefonica
+  per i rifugiati ucraini.
+url: https://twitter.com/ukraineinfohelp/status/1501604489115189252?t=zDwb9dEScReeSf9Y3mgeqA&s=19
+address:
+  mode: autocomplete
+  address:
+    place_id: 283768030
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 41038
+    boundingbox:
+    - '41.0160584'
+    - '41.1697837'
+    - '16.7172376'
+    - '17.0334109'
+    lat: '41.1257843'
+    lon: '16.8620293'
+    display_name: Bari, Puglia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7287183212532693
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Bari
+      county: Bari
+      state: Puglia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/59,1164284993,2022-03-18 16:30:34,2022-03-09 18:19:15,"A Catania raccolta beni per l'Ucraina promossa da Anolf, Anteas, Cisl",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Catania"",""country"":""Italia"",""country_code"":""it"",""county"":""Catania"",""neighbourhood"":""Civita"",""road"":""Via San Gaetano"",""state"":""Sicilia"",""suburb"":""Centro storico""},""boundingbox"":[""37.5014017"",""37.5026924"",""15.0920548"",""15.0923212""],""class"":""highway"",""display_name"":""Via San Gaetano, Civita, Centro storico, Catania, Sicilia, Italia"",""importance"":0.51,""lat"":""37.5020169"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.0921942"",""osm_id"":47367864,""osm_type"":""way"",""place_id"":114046374,""type"":""residential""},""mode"":""autocomplete""},""description"":""A Catania raccolta di beni per l'Ucraina promossa da Anolf, Anteas, Cisl sabato 6 e 12 marzo. Tutte le info al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Anolf"",""recipients"":"""",""submit"":true,""title"":""A Catania raccolta di beni per l'Ucraina promossa da Anolf, Anteas, Cisl"",""type"":""materialGoods"",""url"":""https://twitter.com/AnolfNazionale/status/1500539369026899971?t=9oFLwRUsZbhtsHX6xJ6jvQ&s=19""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: Anolf
+title: A Catania raccolta di beni per l'Ucraina promossa da Anolf, Anteas, Cisl
+recipients: ''
+description: A Catania raccolta di beni per l'Ucraina promossa da Anolf, Anteas, Cisl
+  sabato 6 e 12 marzo. Tutte le info al link.
+url: https://twitter.com/AnolfNazionale/status/1500539369026899971?t=9oFLwRUsZbhtsHX6xJ6jvQ&s=19
+address:
+  mode: autocomplete
+  address:
+    place_id: 114046374
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 47367864
+    boundingbox:
+    - '37.5014017'
+    - '37.5026924'
+    - '15.0920548'
+    - '15.0923212'
+    lat: '37.5020169'
+    lon: '15.0921942'
+    display_name: Via San Gaetano, Civita, Centro storico, Catania, Sicilia, Italia
+    class: highway
+    type: residential
+    importance: 0.51
+    address:
+      road: Via San Gaetano
+      neighbourhood: Civita
+      suburb: Centro storico
+      city: Catania
+      county: Catania
+      state: Sicilia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/57,1164274710,2022-03-18 16:30:21,2022-03-09 18:08:41,Raccolta fondi del Comune di Parma per emergenza Ucraina,44.8013678,10.3280833,Emilia-Romagna,Parma,"[""Valid/Accettato"",""fundraising"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""44.8013678 10.3280833"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""Il Comune di Parma attiva raccolta fondi per emergenza Ucraina. Tutte le info al link."",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":""https://twitter.com/ComuneParma/status/1501478652621561860?t=A9GYiVL7RBN0__ePHNpjzQ&s=19"",""location"":{""address"":{""address"":{""city"":""Parma"",""country"":""Italia"",""country_code"":""it"",""county"":""Parma"",""postcode"":""43121"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.6413678"",""44.9613678"",""10.1680833"",""10.4880833""],""class"":""place"",""display_name"":""Parma, Emilia-Romagna, 43121, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7355734240168408,""lat"":""44.8013678"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.3280833"",""osm_id"":69300007,""osm_type"":""node"",""place_id"":285640881,""type"":""city""},""mode"":""autocomplete""},""submit"":true,""title"":""Comune di Parma""}","<pre><yamldata>
+title: Comune di Parma
+description: Il Comune di Parma attiva raccolta fondi per emergenza Ucraina. Tutte
+  le info al link.
+heading: ''
+iban: ''
+bicSwift: ''
+ccPostal: ''
+causal: ''
+link: https://twitter.com/ComuneParma/status/1501478652621561860?t=A9GYiVL7RBN0__ePHNpjzQ&s=19
+email: ''
+location:
+  mode: autocomplete
+  address:
+    place_id: 285640881
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 69300007
+    boundingbox:
+    - '44.6413678'
+    - '44.9613678'
+    - '10.1680833'
+    - '10.4880833'
+    lat: '44.8013678'
+    lon: '10.3280833'
+    display_name: Parma, Emilia-Romagna, 43121, Italia
+    class: place
+    type: city
+    importance: 0.7355734240168408
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Parma
+      county: Parma
+      state: Emilia-Romagna
+      postcode: '43121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+Posizione: 44.8013678 10.3280833
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/56,1164273182,2022-03-18 16:30:10,2022-03-09 18:07:10,Regione Piemonte raccoglie disponibilità dei cittadini ad accogliere profughi ucraini,,,,,"[""Valid/Accettato"",""Services"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""state"":""Piemonte""},""boundingbox"":[""45.0067924"",""45.1402175"",""7.5778348"",""7.7733388""],""class"":""boundary"",""display_name"":""Torino, Piemonte, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8068062387577691,""lat"":""45.0677551"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6824892"",""osm_id"":43992,""osm_type"":""relation"",""place_id"":284787924,""type"":""administrative""},""mode"":""autocomplete""},""description"":""La Regione Piemonte ha avviato una ricognizione su tutto il territorio delle disponibilit\u00e0 di famiglie e singoli all\u2019accoglienza temporanea dei nuclei famigliari provenienti dell\u2019Ucraina, composti in gran parte da donne (mamme, nonne, e zie) con figli anche minori al seguito, in fuga dalle zone di conflitto.\nChi lo desidera pu\u00f2 manifestare la propria disponibilit\u00e0 all\u2019accoglienza in casa compilando un modulo on line.\n\u00c8 inoltre attiva la mail accoglienza.ucraina@regione.piemonte.it per richieste di informazioni sull\u2019accoglienza di chi sta fuggendo dalla guerra in Ucraina.\nTutte le info al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Piemonte"",""recipients"":"""",""submit"":true,""title"":""Regione Piemonte raccoglie disponibilit\u00e0 dei cittadini ad accogliere profughi ucraini"",""type"":""hospitality"",""url"":""https://www.regione.piemonte.it/web/temi/diritti-politiche-sociali/piemonte-per-lucraina""}","<pre><yamldata>
+type: hospitality
+offerFromWho: Regione Piemonte
+title: Regione Piemonte raccoglie disponibilità dei cittadini ad accogliere profughi
+  ucraini
+recipients: ''
+description: 'La Regione Piemonte ha avviato una ricognizione su tutto il territorio
+  delle disponibilità di famiglie e singoli all’accoglienza temporanea dei nuclei
+  famigliari provenienti dell’Ucraina, composti in gran parte da donne (mamme, nonne,
+  e zie) con figli anche minori al seguito, in fuga dalle zone di conflitto.
+
+  Chi lo desidera può manifestare la propria disponibilità all’accoglienza in casa
+  compilando un modulo on line.
+
+  È inoltre attiva la mail accoglienza.ucraina@regione.piemonte.it per richieste di
+  informazioni sull’accoglienza di chi sta fuggendo dalla guerra in Ucraina.
+
+  Tutte le info al link.'
+url: https://www.regione.piemonte.it/web/temi/diritti-politiche-sociali/piemonte-per-lucraina
+address:
+  mode: autocomplete
+  address:
+    place_id: 284787924
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43992
+    boundingbox:
+    - '45.0067924'
+    - '45.1402175'
+    - '7.5778348'
+    - '7.7733388'
+    lat: '45.0677551'
+    lon: '7.6824892'
+    display_name: Torino, Piemonte, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8068062387577691
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Torino
+      county: Torino
+      state: Piemonte
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/55,1164266014,2022-03-18 16:29:57,2022-03-09 17:59:55,Associazione Nonna Roma attiva raccolta farmaci per Ucraina,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""healtcare"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""hamlet"":""Colombella"",""neighbourhood"":""San Rocco"",""postcode"":""00036"",""road"":""Via Palmiro Togliatti - Tangenziale Valle del Ponte"",""state"":""Lazio"",""town"":""Palestrina""},""boundingbox"":[""41.8356208"",""41.8360418"",""12.883508"",""12.8838463""],""class"":""highway"",""display_name"":""Via Palmiro Togliatti - Tangenziale Valle del Ponte, San Rocco, Colombella, Palestrina, Roma Capitale, Lazio, 00036, Italia"",""importance"":0.4,""lat"":""41.8359909"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.8838054"",""osm_id"":170600188,""osm_type"":""way"",""place_id"":141306985,""type"":""residential""},""mode"":""autocomplete""},""description"":""L'associazione Nonna Roma lancia a Roma una raccolta farmaci che sar\u00e0 destinata alla Croce Rossa Italiana ed inviata in Ucraina.\n\nI punti di raccolta farmaci sono i seguenti:\n\n\ud83d\udccd Sparwasser, via del Pigneto 215, tutte le sere dalle 19 in poi;\n\n\ud83d\udccd Nonna Roma,\nvia Palmiro Togliatti 979\n\u2013 tutti i marted\u00ec h. 15-19,\n\u2013 tutti i mercoled\u00ec h. 10-13 e 15-18,\n\u2013 tutti i venerd\u00ec h. 9-13;\n\n\ud83d\udccd Casale Garibaldi\nvia Romolo Balzani 87\ntutti i marted\u00ec h. 16-19\ntutti i mercoled\u00ec h. 10-13\n\n\ud83d\udccd Officine Civiche\nvia Arturo Malagoli, 16 Ciampino\ngioved\u00ec h. 17 -19."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Nonna Roma"",""recipients"":"""",""submit"":true,""title"":""Associazione Nonna Roma attiva raccolta farmaci per Ucraina"",""type"":""healthcare"",""url"":""https://nonnaroma.it/2022/03/08/raccolta-farmaci-per-la-popolazione-in-ucraina/""}","<pre><yamldata>
+offerFromWho: Associazione Nonna Roma
+title: Associazione Nonna Roma attiva raccolta farmaci per Ucraina
+recipients: ''
+description: 'L''associazione Nonna Roma lancia a Roma una raccolta farmaci che sarà
+  destinata alla Croce Rossa Italiana ed inviata in Ucraina.
+
+
+  I punti di raccolta farmaci sono i seguenti:
+
+
+  📍 Sparwasser, via del Pigneto 215, tutte le sere dalle 19 in poi;
+
+
+  📍 Nonna Roma,
+
+  via Palmiro Togliatti 979
+
+  – tutti i martedì h. 15-19,
+
+  – tutti i mercoledì h. 10-13 e 15-18,
+
+  – tutti i venerdì h. 9-13;
+
+
+  📍 Casale Garibaldi
+
+  via Romolo Balzani 87
+
+  tutti i martedì h. 16-19
+
+  tutti i mercoledì h. 10-13
+
+
+  📍 Officine Civiche
+
+  via Arturo Malagoli, 16 Ciampino
+
+  giovedì h. 17 -19.'
+url: https://nonnaroma.it/2022/03/08/raccolta-farmaci-per-la-popolazione-in-ucraina/
+address:
+  mode: autocomplete
+  address:
+    place_id: 141306985
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 170600188
+    boundingbox:
+    - '41.8356208'
+    - '41.8360418'
+    - '12.883508'
+    - '12.8838463'
+    lat: '41.8359909'
+    lon: '12.8838054'
+    display_name: Via Palmiro Togliatti - Tangenziale Valle del Ponte, San Rocco,
+      Colombella, Palestrina, Roma Capitale, Lazio, 00036, Italia
+    class: highway
+    type: residential
+    importance: 0.4
+    address:
+      road: Via Palmiro Togliatti - Tangenziale Valle del Ponte
+      neighbourhood: San Rocco
+      hamlet: Colombella
+      town: Palestrina
+      county: Roma Capitale
+      state: Lazio
+      postcode: '00036'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+type: healthcare
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/54,1164260772,2022-03-18 16:29:45,2022-03-09 17:54:30,In 215 farmacie della provincia di Bologna raccolta di farmaci per popolo ucraino,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""healtcare"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.421033"",""44.556094"",""11.2296206"",""11.4336295""],""class"":""boundary"",""display_name"":""Bologna, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7905771109268431,""lat"":""44.4938203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.3426327"",""osm_id"":43172,""osm_type"":""relation"",""place_id"":283848615,""type"":""administrative""},""mode"":""autocomplete""},""description"":""In 215 farmacie della provincia di Bologna si pu\u00f2 acquistare un farmaco da banco o un dispositivo medico (tra quelli identificati dalla Croce rossa) per aiutare le vittime della guerra in Ucraina. A chi vorr\u00e0 farlo, la farmacia rilascia uno scontrino con codice fiscale che potr\u00e0 essere detratto nella dichiarazione dei redditi. La Croce rossa provveder\u00e0 a ritirare i farmaci consegnandoli a destinazione. Nel caso si abbia un farmaco non utilizzato ma correttamente conservato, in confezione integra, e con scadenza superiore a sei mesi, se ricompreso nella lista delle richieste della sanit\u00e0 ucraina, la farmacia lo verifica per includerlo nella raccolta."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Federfarma Bologna"",""recipients"":"""",""submit"":true,""title"":""In 215 farmacie della provincia di Bologna raccolta di farmaci per popolo ucraino"",""type"":""materialGoods"",""url"":""https://www.redattoresociale.it/article/notiziario/ucraina_a_bologna_215_farmacie_raccolgono_medicinali_da_donare#""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: Federfarma Bologna
+title: In 215 farmacie della provincia di Bologna raccolta di farmaci per popolo ucraino
+recipients: ''
+description: In 215 farmacie della provincia di Bologna si può acquistare un farmaco
+  da banco o un dispositivo medico (tra quelli identificati dalla Croce rossa) per
+  aiutare le vittime della guerra in Ucraina. A chi vorrà farlo, la farmacia rilascia
+  uno scontrino con codice fiscale che potrà essere detratto nella dichiarazione dei
+  redditi. La Croce rossa provvederà a ritirare i farmaci consegnandoli a destinazione.
+  Nel caso si abbia un farmaco non utilizzato ma correttamente conservato, in confezione
+  integra, e con scadenza superiore a sei mesi, se ricompreso nella lista delle richieste
+  della sanità ucraina, la farmacia lo verifica per includerlo nella raccolta.
+url: https://www.redattoresociale.it/article/notiziario/ucraina_a_bologna_215_farmacie_raccolgono_medicinali_da_donare#
+address:
+  mode: autocomplete
+  address:
+    place_id: 283848615
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43172
+    boundingbox:
+    - '44.421033'
+    - '44.556094'
+    - '11.2296206'
+    - '11.4336295'
+    lat: '44.4938203'
+    lon: '11.3426327'
+    display_name: Bologna, Emilia-Romagna, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7905771109268431
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Bologna
+      county: Bologna
+      state: Emilia-Romagna
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/211,1173738345,2022-03-18 16:19:47,2022-03-18 15:46:59,La storia dei minori ucraini fuggiti dal conflitto e ospitati all’Istituto degli Innocenti di Firenze,43.7763404,11.2609663,Toscana,Firenze,"[""Valid/Accettato"",""News"",""Children""]",,,"{""Posizione"":""43.7763404 11.2609663"",""description"":""Sono 21 bambini e un gatto. \u00c8 il gruppo affiatato dei minori fra i 3 e i 17 anni arrivato dall\u2019Ucraina  e che ora ha trovato \u2018casa\u2019 all\u2019Istuto degli Innocenti che per l\u2019accoglienza ha organizzato camerette, spazi gioco. I tablet con il parental control arriveranno, i bimbi li chiedono, per connettersi fra loro, per stabilire un contatto con l\u2019Ucraina, anche per fare la dad se ancora \u00e8 possibile.\n\nAttivit\u00e0 promossa da \""Save the Children\"", del \""Comune di Firenze\"", dell\u2019\""Istituto degli Innocenti\"", della \""Fondazione Cassa di Risparmio Firenze\"" e del \""Consiglio italiano dei rifugiati\""."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.toscana-notizie.it/-/la-storia-dei-minori-ucraini-fuggiti-dal-conflitto-e-ospitati-a-firenze"",""location"":{""address"":{""address"":{""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""house_number"":""12"",""postcode"":""50112"",""road"":""Piazza della Santissima Annunziata"",""state"":""Toscana"",""suburb"":""Quartiere 1""},""boundingbox"":[""43.7762904"",""43.7763904"",""11.2609163"",""11.2610163""],""class"":""place"",""display_name"":""12, Piazza della Santissima Annunziata, Quartiere 1, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50112, Italia"",""importance"":0.721,""lat"":""43.7763404"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2609663"",""osm_id"":2361666946,""osm_type"":""node"",""place_id"":20880069,""type"":""house""},""mode"":""autocomplete""},""submit"":true,""title"":""La storia dei minori ucraini fuggiti dal conflitto e ospitati a Firenze""}","<pre><yamldata>
 title: La storia dei minori ucraini fuggiti dal conflitto e ospitati a Firenze
 description: 'Sono 21 bambini e un gatto. È il gruppo affiatato dei minori fra i 3
@@ -2877,45 +3273,6 @@ label: document_data
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/59,1164284993,2022-03-16 10:37:01,2022-03-09 18:19:15,"A Catania raccolta beni per l'Ucraina promossa da Anolf, Anteas, Cisl",,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""city"":""Catania"",""country"":""Italia"",""country_code"":""it"",""county"":""Catania"",""neighbourhood"":""Civita"",""road"":""Via San Gaetano"",""state"":""Sicilia"",""suburb"":""Centro storico""},""boundingbox"":[""37.5014017"",""37.5026924"",""15.0920548"",""15.0923212""],""class"":""highway"",""display_name"":""Via San Gaetano, Civita, Centro storico, Catania, Sicilia, Italia"",""importance"":0.51,""lat"":""37.5020169"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.0921942"",""osm_id"":47367864,""osm_type"":""way"",""place_id"":114046374,""type"":""residential""},""mode"":""autocomplete""},""description"":""A Catania raccolta di beni per l'Ucraina promossa da Anolf, Anteas, Cisl sabato 6 e 12 marzo. Tutte le info al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Anolf"",""recipients"":"""",""submit"":true,""title"":""A Catania raccolta di beni per l'Ucraina promossa da Anolf, Anteas, Cisl"",""type"":""materialGoods"",""url"":""https://twitter.com/AnolfNazionale/status/1500539369026899971?t=9oFLwRUsZbhtsHX6xJ6jvQ&s=19""}","<pre><yamldata>
-type: materialGoods
-offerFromWho: Anolf
-title: A Catania raccolta di beni per l'Ucraina promossa da Anolf, Anteas, Cisl
-recipients: ''
-description: A Catania raccolta di beni per l'Ucraina promossa da Anolf, Anteas, Cisl
-  sabato 6 e 12 marzo. Tutte le info al link.
-url: https://twitter.com/AnolfNazionale/status/1500539369026899971?t=9oFLwRUsZbhtsHX6xJ6jvQ&s=19
-address:
-  mode: autocomplete
-  address:
-    place_id: 114046374
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 47367864
-    boundingbox:
-    - '37.5014017'
-    - '37.5026924'
-    - '15.0920548'
-    - '15.0923212'
-    lat: '37.5020169'
-    lon: '15.0921942'
-    display_name: Via San Gaetano, Civita, Centro storico, Catania, Sicilia, Italia
-    class: highway
-    type: residential
-    importance: 0.51
-    address:
-      road: Via San Gaetano
-      neighbourhood: Civita
-      suburb: Centro storico
-      city: Catania
-      county: Catania
-      state: Sicilia
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/86,1167360400,2022-03-16 10:36:44,2022-03-12 18:20:19,A Genova raccolta beni per il popolo ucraino,,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""city"":""Genova"",""country"":""Italia"",""country_code"":""it"",""county"":""Genova"",""neighbourhood"":""Palmaro"",""square"":""Via Nostra Signora Assunta"",""state"":""Liguria"",""suburb"":""Ponente""},""boundingbox"":[""44.4277082"",""44.4278867"",""8.7747206"",""8.7749486""],""class"":""place"",""display_name"":""Via Nostra Signora Assunta, Palmaro, Ponente, Genova, Liguria, Italia"",""importance"":0.635,""lat"":""44.4277812"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.774811722891204"",""osm_id"":224345537,""osm_type"":""way"",""place_id"":155471334,""type"":""square""},""mode"":""autocomplete""},""description"":""La Comunit\u00e0 di Pra, Palmaro e Ca' Nova, in collaborazione con l'associazione Prokrova, sta raccogliendo beni di prima necessit\u00e0 da inviare in Ucraina. Al link l'elenco dei beni necessari e altre info utili."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comunit\u00e0 Pra, Palmaro e Ca' Nova"",""recipients"":"""",""submit"":true,""title"":""A Genova si raccolgono beni per il popolo ucraino"",""type"":""materialGoods"",""url"":""https://www.facebook.com/groups/ukraineinfo.help/permalink/456829446186009/?sfnsn=scwspmo&ref=share""}","<pre><yamldata>
 type: materialGoods
 offerFromWho: Comunità Pra, Palmaro e Ca' Nova
@@ -4381,71 +4738,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 49.4871968 31.2718321
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/65,1165382235,2022-03-13 20:10:31,2022-03-10 15:35:53,Comitato Salva Ucraini di Palermo attiva raccolta beni per profughi ucraini e raccoglie disponibilità all'ospitalità,,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""postcode"":""90143"",""road"":""Via Generale Eugenio di Maria"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1309854"",""38.1318817"",""13.3425549"",""13.3430888""],""class"":""highway"",""display_name"":""Via Generale Eugenio di Maria, VIII Circoscrizione, Palermo, Sicilia, 90143, Italia"",""importance"":0.61,""lat"":""38.1315461"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3427395"",""osm_id"":86106882,""osm_type"":""way"",""place_id"":121827517,""type"":""residential""},""mode"":""autocomplete""},""description"":""Il Comitato Salva Ucraini di Palermo ha attivato una raccolta di beni per i profughi ucraini, dal luned\u00ec al venerd\u00ec negli orari 10:00 - 13:00 e 17:00 -19:00, in via Eugenio Di Maria n. 25 presso l'associazione Culturale Jim\u00e9nez.\nSi raccolgono i seguenti beni di prima necessit\u00e0 in buono stato di conservazione e pulizia:\n\ud83d\udccc  Vestiario per adulti e bambini (indicando se maschile o femminile, adulto - bambino e la taglia);\n\ud83d\udccc  Generi alimentari a lunga conservazione (no freschi o deperibili);\n\ud83d\udccc  Prodotti di pulizia, igiene e disinfezione;\n\ud83d\udccc  Medicinali da banco ricaricabili senza prescrizione medica;\n\ud83d\udccc  Giocattoli e attrezzature o accessori per la cura dell'infanzia (culle, passeggini etc)\n\ud83d\udccc  Lenzuola, coperte, etc\nDescrivere per favore sul pacco il contenuto (es. \u201cvestiti bimbo 4 anni\u201d o \u201ccoperte per adulti\u201d).\n\nInoltre il comitato cerca famiglie che possano ospitare rifugiati ucraini. Qui il modulo da compilare per offrirsi https://forms.gle/ej6g2XjawiLS2ViX9."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comitato Salva Ucraini Palermo"",""recipients"":""cittadini di Palermo"",""submit"":true,""title"":""Comitato Salva Ucraini di Palermo ha attivato una raccolta di beni per i profughi ucraini"",""type"":""materialGoods"",""url"":""https://t.me/ucraini_a_palermo/""}","<pre><yamldata>
-type: materialGoods
-offerFromWho: Comitato Salva Ucraini Palermo
-title: Comitato Salva Ucraini di Palermo ha attivato una raccolta di beni per i profughi
-  ucraini
-recipients: cittadini di Palermo
-description: 'Il Comitato Salva Ucraini di Palermo ha attivato una raccolta di beni
-  per i profughi ucraini, dal lunedì al venerdì negli orari 10:00 - 13:00 e 17:00
-  -19:00, in via Eugenio Di Maria n. 25 presso l''associazione Culturale Jiménez.
-
-  Si raccolgono i seguenti beni di prima necessità in buono stato di conservazione
-  e pulizia:
-
-  📌  Vestiario per adulti e bambini (indicando se maschile o femminile, adulto - bambino
-  e la taglia);
-
-  📌  Generi alimentari a lunga conservazione (no freschi o deperibili);
-
-  📌  Prodotti di pulizia, igiene e disinfezione;
-
-  📌  Medicinali da banco ricaricabili senza prescrizione medica;
-
-  📌  Giocattoli e attrezzature o accessori per la cura dell''infanzia (culle, passeggini
-  etc)
-
-  📌  Lenzuola, coperte, etc
-
-  Descrivere per favore sul pacco il contenuto (es. “vestiti bimbo 4 anni” o “coperte
-  per adulti”).
-
-
-Inoltre il comitato cerca famiglie che possano ospitare rifugiati ucraini. Qui il modulo da compilare per offrirsi https://forms.gle/ej6g2XjawiLS2ViX9.'
-url: https://t.me/ucraini_a_palermo/
-address:
-  mode: autocomplete
-  address:
-    place_id: 121827517
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 86106882
-    boundingbox:
-    - '38.1309854'
-    - '38.1318817'
-    - '13.3425549'
-    - '13.3430888'
-    lat: '38.1315461'
-    lon: '13.3427395'
-    display_name: Via Generale Eugenio di Maria, VIII Circoscrizione, Palermo, Sicilia,
-      90143, Italia
-    class: highway
-    type: residential
-    importance: 0.61
-    address:
-      road: Via Generale Eugenio di Maria
-      suburb: VIII Circoscrizione
-      city: Palermo
-      county: Palermo
-      state: Sicilia
-      postcode: '90143'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/124,1167627305,2022-03-13 16:27:03,2022-03-13 16:26:38,Marino Bus offre viaggi gratuiti ai rifugiati ucraini sulle tratte in Italia,,,,,"[""Valid/Accettato"",""News"",""Services"",""transport""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bari"",""postcode"":""70022"",""state"":""Puglia"",""town"":""Altamura""},""boundingbox"":[""40.7259607"",""40.979833"",""16.3444376"",""16.6989722""],""class"":""boundary"",""display_name"":""Altamura, Bari, Puglia, 70022, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7042276908245931,""lat"":""40.8285595"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.5527314"",""osm_id"":40743,""osm_type"":""relation"",""place_id"":283876132,""type"":""administrative""},""mode"":""autocomplete""},""description"":""C'\u00e8 un momento in cui occorre fare di pi\u00f9. E il momento \u00e8 arrivato.\nTutte le profughe e i profughi dalle zone del conflitto in Ucraina hanno la possibilit\u00e0 di viaggiare gratuitamente sulle tratte MARINOBUS in Italia.\nPer informazioni e per richiedere un trasferimento sar\u00e0 necessario contattare SEMPRE il nostro Servizio Clienti al +39 0803112335.\n\nLe linee esercitate giornalmente da MarinoBus collegano:\n\ud83d\udccd le principali localit\u00e0 del Nord Italia \n\ud83d\udccd per il Centro e Sud Italia \n(quasi 200 localit\u00e0 in Puglia e Basilicata e le principali localit\u00e0 di Campania e Calabria)."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Marino Bus"",""recipients"":"""",""submit"":true,""title"":""Marino Bus offre viaggi gratuiti ai rifugiati ucraini sulle tratte in Italia"",""type"":""travelTransport"",""url"":""https://www.facebook.com/105621949530610/posts/4864086140350810/""}","<pre><yamldata>
 type: travelTransport
 offerFromWho: Marino Bus
@@ -5579,44 +5871,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/61,1164291377,2022-03-10 22:31:37,2022-03-09 18:25:56,A Bari negozio di Wind Tre lancia una speciale promozione telefonica per rifugiati ucraini,,,,,"[""Valid/Accettato"",""News"",""Services""]",,,"{""address"":{""address"":{""address"":{""city"":""Bari"",""country"":""Italia"",""country_code"":""it"",""county"":""Bari"",""state"":""Puglia""},""boundingbox"":[""41.0160584"",""41.1697837"",""16.7172376"",""17.0334109""],""class"":""boundary"",""display_name"":""Bari, Puglia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7287183212532693,""lat"":""41.1257843"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.8620293"",""osm_id"":41038,""osm_type"":""relation"",""place_id"":283768030,""type"":""administrative""},""mode"":""autocomplete""},""description"":""A Bari negozio di Wind Tre lancia una speciale promozione telefonica per i rifugiati ucraini."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""WindTre"",""recipients"":"""",""submit"":true,""title"":""A Bari negozio di Wind Tre lancia una speciale promozione telefonica per rifugiati ucraini"",""type"":""materialGoods"",""url"":""https://twitter.com/ukraineinfohelp/status/1501604489115189252?t=zDwb9dEScReeSf9Y3mgeqA&s=19""}","<pre><yamldata>
-type: materialGoods
-offerFromWho: WindTre
-title: A Bari negozio di Wind Tre lancia una speciale promozione telefonica per rifugiati
-  ucraini
-recipients: ''
-description: A Bari negozio di Wind Tre lancia una speciale promozione telefonica
-  per i rifugiati ucraini.
-url: https://twitter.com/ukraineinfohelp/status/1501604489115189252?t=zDwb9dEScReeSf9Y3mgeqA&s=19
-address:
-  mode: autocomplete
-  address:
-    place_id: 283768030
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 41038
-    boundingbox:
-    - '41.0160584'
-    - '41.1697837'
-    - '16.7172376'
-    - '17.0334109'
-    lat: '41.1257843'
-    lon: '16.8620293'
-    display_name: Bari, Puglia, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7287183212532693
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Bari
-      county: Bari
-      state: Puglia
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/72,1165436880,2022-03-10 22:25:19,2022-03-10 16:19:46,Materiali di Docenti Senza Frontiere per facilitare l'inserimento scolastico di bambini ucraini,46.006085,11.12844,Trentino-Alto Adige,Trento,"[""Valid/Accettato"",""Children"",""document_data""]",,,"{""Posizione"":""46.006085 11.12844"",""description"":""Docenti Senza Frontiere ha raccolto e pubblicato online materiali per agevolare lo scambio linguistico e la conoscenza del sistema scolastico di provenienza e facilitare l'inserimento scolastico di #bambini ucraini rifugiati in Italia."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://t.co/mELJwhEdMz"",""location"":{""address"":{""address"":{""city"":""Trento"",""country"":""Italia"",""country_code"":""it"",""county"":""Provincia di Trento"",""municipality"":""Territorio Val d'Adige"",""postcode"":""38123"",""quarter"":""Mattarello di Sotto"",""road"":""Via Guido Poli"",""state"":""Trentino-Alto Adige"",""village"":""Mattarello""},""boundingbox"":[""46.0058921"",""46.0062362"",""11.1282682"",""11.1287143""],""class"":""highway"",""display_name"":""Via Guido Poli, Mattarello di Sotto, Mattarello, Trento, Territorio Val d'Adige, Provincia di Trento, Trentino-Alto Adige, 38123, Italia"",""importance"":0.5199999999999999,""lat"":""46.006085"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.12844"",""osm_id"":780479136,""osm_type"":""way"",""place_id"":254696017,""type"":""tertiary""},""mode"":""autocomplete""},""submit"":true,""title"":""Materiali di Docenti Senza Frontiere per facilitare l'inserimento scolastico di bambini ucraini rifugiati in Italia""}","<pre><yamldata>
 title: Materiali di Docenti Senza Frontiere per facilitare l'inserimento scolastico
   di bambini ucraini rifugiati in Italia
@@ -5789,211 +6043,4 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: fundraising
 submit: true
 Posizione: 41.8933203 12.4829321
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/57,1164274710,2022-03-10 22:09:16,2022-03-09 18:08:41,Raccolta fondi del Comune di Parma per emergenza Ucraina,44.8013678,10.3280833,Emilia-Romagna,Parma,"[""Valid/Accettato"",""fundraising""]",,,"{""Posizione"":""44.8013678 10.3280833"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""Il Comune di Parma attiva raccolta fondi per emergenza Ucraina. Tutte le info al link."",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":""https://twitter.com/ComuneParma/status/1501478652621561860?t=A9GYiVL7RBN0__ePHNpjzQ&s=19"",""location"":{""address"":{""address"":{""city"":""Parma"",""country"":""Italia"",""country_code"":""it"",""county"":""Parma"",""postcode"":""43121"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.6413678"",""44.9613678"",""10.1680833"",""10.4880833""],""class"":""place"",""display_name"":""Parma, Emilia-Romagna, 43121, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7355734240168408,""lat"":""44.8013678"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.3280833"",""osm_id"":69300007,""osm_type"":""node"",""place_id"":285640881,""type"":""city""},""mode"":""autocomplete""},""submit"":true,""title"":""Comune di Parma""}","<pre><yamldata>
-title: Comune di Parma
-description: Il Comune di Parma attiva raccolta fondi per emergenza Ucraina. Tutte
-  le info al link.
-heading: ''
-iban: ''
-bicSwift: ''
-ccPostal: ''
-causal: ''
-link: https://twitter.com/ComuneParma/status/1501478652621561860?t=A9GYiVL7RBN0__ePHNpjzQ&s=19
-email: ''
-location:
-  mode: autocomplete
-  address:
-    place_id: 285640881
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 69300007
-    boundingbox:
-    - '44.6413678'
-    - '44.9613678'
-    - '10.1680833'
-    - '10.4880833'
-    lat: '44.8013678'
-    lon: '10.3280833'
-    display_name: Parma, Emilia-Romagna, 43121, Italia
-    class: place
-    type: city
-    importance: 0.7355734240168408
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
-    address:
-      city: Parma
-      county: Parma
-      state: Emilia-Romagna
-      postcode: '43121'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: fundraising
-submit: true
-Posizione: 44.8013678 10.3280833
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/56,1164273182,2022-03-10 18:10:34,2022-03-09 18:07:10,Regione Piemonte raccoglie disponibilità dei cittadini ad accogliere profughi ucraini,,,,,"[""Valid/Accettato"",""Services"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""state"":""Piemonte""},""boundingbox"":[""45.0067924"",""45.1402175"",""7.5778348"",""7.7733388""],""class"":""boundary"",""display_name"":""Torino, Piemonte, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8068062387577691,""lat"":""45.0677551"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6824892"",""osm_id"":43992,""osm_type"":""relation"",""place_id"":284787924,""type"":""administrative""},""mode"":""autocomplete""},""description"":""La Regione Piemonte ha avviato una ricognizione su tutto il territorio delle disponibilit\u00e0 di famiglie e singoli all\u2019accoglienza temporanea dei nuclei famigliari provenienti dell\u2019Ucraina, composti in gran parte da donne (mamme, nonne, e zie) con figli anche minori al seguito, in fuga dalle zone di conflitto.\nChi lo desidera pu\u00f2 manifestare la propria disponibilit\u00e0 all\u2019accoglienza in casa compilando un modulo on line.\n\u00c8 inoltre attiva la mail accoglienza.ucraina@regione.piemonte.it per richieste di informazioni sull\u2019accoglienza di chi sta fuggendo dalla guerra in Ucraina.\nTutte le info al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Piemonte"",""recipients"":"""",""submit"":true,""title"":""Regione Piemonte raccoglie disponibilit\u00e0 dei cittadini ad accogliere profughi ucraini"",""type"":""hospitality"",""url"":""https://www.regione.piemonte.it/web/temi/diritti-politiche-sociali/piemonte-per-lucraina""}","<pre><yamldata>
-type: hospitality
-offerFromWho: Regione Piemonte
-title: Regione Piemonte raccoglie disponibilità dei cittadini ad accogliere profughi
-  ucraini
-recipients: ''
-description: 'La Regione Piemonte ha avviato una ricognizione su tutto il territorio
-  delle disponibilità di famiglie e singoli all’accoglienza temporanea dei nuclei
-  famigliari provenienti dell’Ucraina, composti in gran parte da donne (mamme, nonne,
-  e zie) con figli anche minori al seguito, in fuga dalle zone di conflitto.
-
-  Chi lo desidera può manifestare la propria disponibilità all’accoglienza in casa
-  compilando un modulo on line.
-
-  È inoltre attiva la mail accoglienza.ucraina@regione.piemonte.it per richieste di
-  informazioni sull’accoglienza di chi sta fuggendo dalla guerra in Ucraina.
-
-  Tutte le info al link.'
-url: https://www.regione.piemonte.it/web/temi/diritti-politiche-sociali/piemonte-per-lucraina
-address:
-  mode: autocomplete
-  address:
-    place_id: 284787924
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 43992
-    boundingbox:
-    - '45.0067924'
-    - '45.1402175'
-    - '7.5778348'
-    - '7.7733388'
-    lat: '45.0677551'
-    lon: '7.6824892'
-    display_name: Torino, Piemonte, Italia
-    class: boundary
-    type: administrative
-    importance: 0.8068062387577691
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Torino
-      county: Torino
-      state: Piemonte
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/55,1164266014,2022-03-09 18:01:42,2022-03-09 17:59:55,Associazione Nonna Roma attiva raccolta farmaci per Ucraina,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""healtcare""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""hamlet"":""Colombella"",""neighbourhood"":""San Rocco"",""postcode"":""00036"",""road"":""Via Palmiro Togliatti - Tangenziale Valle del Ponte"",""state"":""Lazio"",""town"":""Palestrina""},""boundingbox"":[""41.8356208"",""41.8360418"",""12.883508"",""12.8838463""],""class"":""highway"",""display_name"":""Via Palmiro Togliatti - Tangenziale Valle del Ponte, San Rocco, Colombella, Palestrina, Roma Capitale, Lazio, 00036, Italia"",""importance"":0.4,""lat"":""41.8359909"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.8838054"",""osm_id"":170600188,""osm_type"":""way"",""place_id"":141306985,""type"":""residential""},""mode"":""autocomplete""},""description"":""L'associazione Nonna Roma lancia a Roma una raccolta farmaci che sar\u00e0 destinata alla Croce Rossa Italiana ed inviata in Ucraina.\n\nI punti di raccolta farmaci sono i seguenti:\n\n\ud83d\udccd Sparwasser, via del Pigneto 215, tutte le sere dalle 19 in poi;\n\n\ud83d\udccd Nonna Roma,\nvia Palmiro Togliatti 979\n\u2013 tutti i marted\u00ec h. 15-19,\n\u2013 tutti i mercoled\u00ec h. 10-13 e 15-18,\n\u2013 tutti i venerd\u00ec h. 9-13;\n\n\ud83d\udccd Casale Garibaldi\nvia Romolo Balzani 87\ntutti i marted\u00ec h. 16-19\ntutti i mercoled\u00ec h. 10-13\n\n\ud83d\udccd Officine Civiche\nvia Arturo Malagoli, 16 Ciampino\ngioved\u00ec h. 17 -19."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Nonna Roma"",""recipients"":"""",""submit"":true,""title"":""Associazione Nonna Roma attiva raccolta farmaci per Ucraina"",""type"":""healthcare"",""url"":""https://nonnaroma.it/2022/03/08/raccolta-farmaci-per-la-popolazione-in-ucraina/""}","<pre><yamldata>
-offerFromWho: Associazione Nonna Roma
-title: Associazione Nonna Roma attiva raccolta farmaci per Ucraina
-recipients: ''
-description: 'L''associazione Nonna Roma lancia a Roma una raccolta farmaci che sarà
-  destinata alla Croce Rossa Italiana ed inviata in Ucraina.
-
-
-  I punti di raccolta farmaci sono i seguenti:
-
-
-  📍 Sparwasser, via del Pigneto 215, tutte le sere dalle 19 in poi;
-
-
-  📍 Nonna Roma,
-
-  via Palmiro Togliatti 979
-
-  – tutti i martedì h. 15-19,
-
-  – tutti i mercoledì h. 10-13 e 15-18,
-
-  – tutti i venerdì h. 9-13;
-
-
-  📍 Casale Garibaldi
-
-  via Romolo Balzani 87
-
-  tutti i martedì h. 16-19
-
-  tutti i mercoledì h. 10-13
-
-
-  📍 Officine Civiche
-
-  via Arturo Malagoli, 16 Ciampino
-
-  giovedì h. 17 -19.'
-url: https://nonnaroma.it/2022/03/08/raccolta-farmaci-per-la-popolazione-in-ucraina/
-address:
-  mode: autocomplete
-  address:
-    place_id: 141306985
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 170600188
-    boundingbox:
-    - '41.8356208'
-    - '41.8360418'
-    - '12.883508'
-    - '12.8838463'
-    lat: '41.8359909'
-    lon: '12.8838054'
-    display_name: Via Palmiro Togliatti - Tangenziale Valle del Ponte, San Rocco,
-      Colombella, Palestrina, Roma Capitale, Lazio, 00036, Italia
-    class: highway
-    type: residential
-    importance: 0.4
-    address:
-      road: Via Palmiro Togliatti - Tangenziale Valle del Ponte
-      neighbourhood: San Rocco
-      hamlet: Colombella
-      town: Palestrina
-      county: Roma Capitale
-      state: Lazio
-      postcode: '00036'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-type: healthcare
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/54,1164260772,2022-03-09 18:00:49,2022-03-09 17:54:30,In 215 farmacie della provincia di Bologna raccolta di farmaci per popolo ucraino,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""healtcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.421033"",""44.556094"",""11.2296206"",""11.4336295""],""class"":""boundary"",""display_name"":""Bologna, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7905771109268431,""lat"":""44.4938203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.3426327"",""osm_id"":43172,""osm_type"":""relation"",""place_id"":283848615,""type"":""administrative""},""mode"":""autocomplete""},""description"":""In 215 farmacie della provincia di Bologna si pu\u00f2 acquistare un farmaco da banco o un dispositivo medico (tra quelli identificati dalla Croce rossa) per aiutare le vittime della guerra in Ucraina. A chi vorr\u00e0 farlo, la farmacia rilascia uno scontrino con codice fiscale che potr\u00e0 essere detratto nella dichiarazione dei redditi. La Croce rossa provveder\u00e0 a ritirare i farmaci consegnandoli a destinazione. Nel caso si abbia un farmaco non utilizzato ma correttamente conservato, in confezione integra, e con scadenza superiore a sei mesi, se ricompreso nella lista delle richieste della sanit\u00e0 ucraina, la farmacia lo verifica per includerlo nella raccolta."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Federfarma Bologna"",""recipients"":"""",""submit"":true,""title"":""In 215 farmacie della provincia di Bologna raccolta di farmaci per popolo ucraino"",""type"":""materialGoods"",""url"":""https://www.redattoresociale.it/article/notiziario/ucraina_a_bologna_215_farmacie_raccolgono_medicinali_da_donare#""}","<pre><yamldata>
-type: materialGoods
-offerFromWho: Federfarma Bologna
-title: In 215 farmacie della provincia di Bologna raccolta di farmaci per popolo ucraino
-recipients: ''
-description: In 215 farmacie della provincia di Bologna si può acquistare un farmaco
-  da banco o un dispositivo medico (tra quelli identificati dalla Croce rossa) per
-  aiutare le vittime della guerra in Ucraina. A chi vorrà farlo, la farmacia rilascia
-  uno scontrino con codice fiscale che potrà essere detratto nella dichiarazione dei
-  redditi. La Croce rossa provvederà a ritirare i farmaci consegnandoli a destinazione.
-  Nel caso si abbia un farmaco non utilizzato ma correttamente conservato, in confezione
-  integra, e con scadenza superiore a sei mesi, se ricompreso nella lista delle richieste
-  della sanità ucraina, la farmacia lo verifica per includerlo nella raccolta.
-url: https://www.redattoresociale.it/article/notiziario/ucraina_a_bologna_215_farmacie_raccolgono_medicinali_da_donare#
-address:
-  mode: autocomplete
-  address:
-    place_id: 283848615
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 43172
-    boundingbox:
-    - '44.421033'
-    - '44.556094'
-    - '11.2296206'
-    - '11.4336295'
-    lat: '44.4938203'
-    lon: '11.3426327'
-    display_name: Bologna, Emilia-Romagna, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7905771109268431
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Bologna
-      county: Bologna
-      state: Emilia-Romagna
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
 </yamldata></pre>",open
