@@ -1,4 +1,54 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/195,1173026826,2022-03-18 07:02:17,2022-03-17 23:36:14,"Centro del riuso Pavia offre vestiti, casalinghi e altro per bambini e adulti a famiglie che ospitano profughi ",,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Centro Doposcuola \""Comes\"""",""city"":""Pavia"",""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""postcode"":""27100"",""road"":""Via Fratelli Cervi"",""state"":""Lombardia"",""suburb"":""San Lanfranco""},""boundingbox"":[""45.1999446"",""45.20019"",""9.1297594"",""9.1300994""],""class"":""amenity"",""display_name"":""Centro Doposcuola \""Comes\"", Via Fratelli Cervi, San Lanfranco, Pavia, Lombardia, 27100, Italia"",""importance"":0.30100000000000005,""lat"":""45.200076949999996"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.129929413371872"",""osm_id"":852977210,""osm_type"":""way"",""place_id"":266661095,""type"":""social_centre""},""mode"":""autocomplete""},""description"":""Le famiglie che stanno ospitando profughi possono ritirare presso il centro Comes, in via Fratelli Cervi 9:\n\ud83d\udd38vestiti per bambini e adulti\n\ud83d\udd38giochi \n\ud83d\udd38materiale di cancelleria\n\ud83d\udd38materiale per la casa (lenzuola, coperte, accessori per la prima infanzia, casalinghi) \nIl ritiro pu\u00f2 avvenire in 2 modalit\u00e0:\n \u27a1\ufe0f indicando tipologia di prodotti necessari, et\u00e0 e taglie dei destinatari \ud83d\udc49le volontarie e le operatrici del centro prepareranno i pacchi da destinare alle famiglie che potranno essere ritirati presso il centro;\n\u27a1\ufe0f prenotando direttamente un appuntamento presso il centro del riuso per venire a scegliere il materiale di interesse secondo le proprie necessit\u00e0.\nIn entrambi i casi si pu\u00f2:\n\ud83d\udcdechiamare al numero 0382/529771\n\ud83d\udce7scrivere su whatsapp ai numeri 3783030129 /3783030131 o scrivere una email a babeleonlus@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Centro del riuso Comes (Pavia)"",""recipients"":""Rifugiati, famiglie ospitanti"",""submit"":true,""title"":""Vestiti, casalinghi e altro per bambini e adulti"",""type"":""materialGoods"",""url"":""https://www.facebook.com/Babeleonlus/posts/1761095510896652""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: Centro del riuso Comes (Pavia)
+title: Vestiti, casalinghi e altro per bambini e adulti
+recipients: Rifugiati, famiglie ospitanti
+description: ""Le famiglie che stanno ospitando profughi possono ritirare presso il\
+  \ centro Comes, in via Fratelli Cervi 9:\n\U0001F538vestiti per bambini e adulti\n\
+  \U0001F538giochi \n\U0001F538materiale di cancelleria\n\U0001F538materiale per la\
+  \ casa (lenzuola, coperte, accessori per la prima infanzia, casalinghi) \nIl ritiro\
+  \ può avvenire in 2 modalità:\n ➡️ indicando tipologia di prodotti necessari, età\
+  \ e taglie dei destinatari \U0001F449le volontarie e le operatrici del centro prepareranno\
+  \ i pacchi da destinare alle famiglie che potranno essere ritirati presso il centro;\n\
+  ➡️ prenotando direttamente un appuntamento presso il centro del riuso per venire\
+  \ a scegliere il materiale di interesse secondo le proprie necessità.\nIn entrambi\
+  \ i casi si può:\n\U0001F4DEchiamare al numero 0382/529771\n\U0001F4E7scrivere su\
+  \ whatsapp ai numeri 3783030129 /3783030131 o scrivere una email a babeleonlus@gmail.com""
+url: https://www.facebook.com/Babeleonlus/posts/1761095510896652
+address:
+  mode: autocomplete
+  address:
+    place_id: 266661095
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 852977210
+    boundingbox:
+    - '45.1999446'
+    - '45.20019'
+    - '9.1297594'
+    - '9.1300994'
+    lat: '45.200076949999996'
+    lon: '9.129929413371872'
+    display_name: Centro Doposcuola ""Comes"", Via Fratelli Cervi, San Lanfranco, Pavia,
+      Lombardia, 27100, Italia
+    class: amenity
+    type: social_centre
+    importance: 0.30100000000000005
+    address:
+      amenity: Centro Doposcuola ""Comes""
+      road: Via Fratelli Cervi
+      suburb: San Lanfranco
+      city: Pavia
+      county: Pavia
+      state: Lombardia
+      postcode: '27100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/197,1173247180,2022-03-18 06:59:48,2022-03-18 06:58:37,Raccolta offerte di lavoro in remoto per persone colpite dall’emergenza in Ucraina,,,,,"[""Valid/Accettato"",""job"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Raccolta offerte di lavoro in remoto per persone colpite dall\u2019emergenza in Ucraina"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""https://buildingremotely.com/"",""recipients"":"""",""submit"":true,""title"":""Raccolta offerte di lavoro in remoto per persone colpite dall\u2019emergenza in Ucraina"",""type"":""jobOffer"",""url"":""https://buildingremotely.com/blog/remote-jobs-for-people-affected-by-the-ukrainian-crisis/?fbclid=IwAR05sqjQd7GUrkVLf3XHSnlYm3Ds2fTuTpJ4ijTQ11FlanSbNiQIfQK21ys""}","<pre><yamldata>
 type: jobOffer
 offerFromWho: https://buildingremotely.com/
