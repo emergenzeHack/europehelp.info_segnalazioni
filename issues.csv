@@ -1,4 +1,45 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/222,1173846226,2022-03-18 21:08:27,2022-03-18 17:36:37,"Arci, online Juma Map con info utili per rifugiati e attiva linea telefonica ",,,,,"[""Valid/Accettato"",""News"",""Legal"",""useful contact"",""contact""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8996107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Informazioni utili per l'ingresso in Italia. A breve tutte le informazioni saranno disponibili anche in lingua ucraina, russa ed inglese.\n\nAttivo un numero Verde per Richiedenti Asilo e Rifugiati di Arci, 800 90 55 70 (Lycamobile: 351 1 37 63 35) attivo dal luned\u00ec al venerd\u00ec dalle 9:30 alle 17:30, o scrivere alla mail numeroverderifugiati@arci.it"",""email"":""numeroverderifugiati@arci.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":""800 90 55 70"",""submit"":true,""title"":""ARCI - Juma map"",""url"":""www.jumamap.it/it/2022/02/28/emergenza-ucraina/""}","<pre><yamldata>
+title: ARCI - Juma map
+phoneNumber: 800 90 55 70
+email: numeroverderifugiati@arci.it
+aim: 'Informazioni utili per l''ingresso in Italia. A breve tutte le informazioni
+  saranno disponibili anche in lingua ucraina, russa ed inglese.
+
+
+  Attivo un numero Verde per Richiedenti Asilo e Rifugiati di Arci, 800 90 55 70 (Lycamobile:
+  351 1 37 63 35) attivo dal lunedì al venerdì dalle 9:30 alle 17:30, o scrivere alla
+  mail numeroverderifugiati@arci.it'
+url: www.jumamap.it/it/2022/02/28/emergenza-ucraina/
+address:
+  mode: autocomplete
+  address:
+    place_id: 283767136
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 41485
+    boundingbox:
+    - '41.6556417'
+    - '42.1410285'
+    - '12.2344669'
+    - '12.8557603'
+    lat: '41.8933203'
+    lon: '12.4829321'
+    display_name: Roma, Roma Capitale, Lazio, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8996107180689524
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: contact
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/221,1173844732,2022-03-18 21:06:03,2022-03-18 17:35:14,Compendium of resources for ukranian refugees - Citizens of our Planet,,,,,"[""Valid/Accettato"",""document_data"",""Resources""]",,,"{""description"":""A number of volunteers around the world are working on a comprehensive document with information for Ukrainian refugees and for people wanting to help. Please feel free to use those information to feed your portal. The document is a living document, and is frequently updated."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""www.citizensofourplanet.org/resources"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Compendium of resources for refugees""}","<pre><yamldata>
 title: Compendium of resources for refugees
 description: A number of volunteers around the world are working on a comprehensive
