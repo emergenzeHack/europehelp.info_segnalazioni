@@ -1,4 +1,171 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/221,1173844732,2022-03-18 21:06:03,2022-03-18 17:35:14,Compendium of resources for ukranian refugees - Citizens of our Planet,,,,,"[""Valid/Accettato"",""document_data"",""Resources""]",,,"{""description"":""A number of volunteers around the world are working on a comprehensive document with information for Ukrainian refugees and for people wanting to help. Please feel free to use those information to feed your portal. The document is a living document, and is frequently updated."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""www.citizensofourplanet.org/resources"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Compendium of resources for refugees""}","<pre><yamldata>
+title: Compendium of resources for refugees
+description: A number of volunteers around the world are working on a comprehensive
+  document with information for Ukrainian refugees and for people wanting to help.
+  Please feel free to use those information to feed your portal. The document is a
+  living document, and is frequently updated.
+link: www.citizensofourplanet.org/resources
+location:
+  mode: autocomplete
+  address: {}
+label: document_data
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/220,1173836804,2022-03-18 21:04:11,2022-03-18 17:27:31,Caritas Udine raccoglie disponibilità di alloggi per rifugiati ucraini ,,,,,"[""Valid/Accettato"",""Help"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""city"":""Udine"",""country"":""Italia"",""country_code"":""it"",""county"":""Udine"",""postcode"":""33100"",""state"":""Friuli Venezia Giulia""},""boundingbox"":[""45.9034632"",""46.2234632"",""13.0758377"",""13.3958377""],""class"":""place"",""display_name"":""Udine, Friuli Venezia Giulia, 33100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.699677555724844,""lat"":""46.0634632"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.2358377"",""osm_id"":66502664,""osm_type"":""node"",""place_id"":121892,""type"":""city""},""mode"":""autocomplete""},""description"":""Disponibilit\u00e0 di alloggi o di altro genere da parte di privati, congregazioni religiose o enti pubblici, possono essere segnalate via mail all\u2019indirizzo emergenze@diocesiudine.it o telefonando al mattino al centralino della Caritas (tel. 0432-414502), in modo che le volontarie possano prenderne nota. Tali disponibilit\u00e0 saranno raccolte ed, eventualmente, attivate in caso di necessit\u00e0"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Caritas Udine"",""recipients"":"""",""submit"":true,""title"":""Raccolta segnalazioni su disponiilit\u00e0 di alloggi"",""type"":""hospitality"",""url"":""""}","<pre><yamldata>
+type: hospitality
+offerFromWho: Caritas Udine
+title: Raccolta segnalazioni su disponiilità di alloggi
+recipients: ''
+description: 'Disponibilità di alloggi o di altro genere da parte di privati, congregazioni
+  religiose o enti pubblici, possono essere segnalate via mail all’indirizzo emergenze@diocesiudine.it
+  o telefonando al mattino al centralino della Caritas (tel. 0432-414502), in modo
+  che le volontarie possano prenderne nota.
+  Tali disponibilità saranno raccolte ed, eventualmente, attivate in caso di necessità'
+url: ''
+address:
+  mode: autocomplete
+  address:
+    place_id: 121892
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 66502664
+    boundingbox:
+    - '45.9034632'
+    - '46.2234632'
+    - '13.0758377'
+    - '13.3958377'
+    lat: '46.0634632'
+    lon: '13.2358377'
+    display_name: Udine, Friuli Venezia Giulia, 33100, Italia
+    class: place
+    type: city
+    importance: 0.699677555724844
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Udine
+      county: Udine
+      state: Friuli Venezia Giulia
+      postcode: '33100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/219,1173835601,2022-03-18 21:01:53,2022-03-18 17:26:06,"Ucraina, raccolta fondi Caritas Udine",46.0634632,13.2358377,Friuli Venezia Giulia,Udine,"[""Valid/Accettato"",""fundraising""]",,,"{""Posizione"":""46.0634632 13.2358377"",""bicSwift"":"""",""causal"":""\u201cEuropa/Ucraina\u201d"",""ccPostal"":"""",""description"":""Insieme a tutte le Diocesi e Caritas italiane, anche la Caritas diocesana di Udine promuove la raccolta fondi a sostegno di Caritas Ucraina e delle Caritas dei paesi confinanti, che fin dall\u2019inizio delle ostilit\u00e0 stanno accogliendo le persone in fuga dalla guerra."",""email"":""emergenze@diocesiudine.it"",""heading"":""Centro Caritas dell\u2019Arcidiocesi di Udine ODV"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT45U 02008 12310 000001515712"",""label"":""fundraising"",""link"":""http://www.caritasudine.it/2022/03/01/la-caritas-di-udine-accanto-alla-popolazione-ucraina/?fbclid=IwAR2nQR1Oo9wqxEC7cziT_nf6Z0gxWPZF-gZbOua7-ECr-4bfyU_iNmygmaI"",""location"":{""address"":{""address"":{""city"":""Udine"",""country"":""Italia"",""country_code"":""it"",""county"":""Udine"",""postcode"":""33100"",""state"":""Friuli Venezia Giulia""},""boundingbox"":[""45.9034632"",""46.2234632"",""13.0758377"",""13.3958377""],""class"":""place"",""display_name"":""Udine, Friuli Venezia Giulia, 33100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.699677555724844,""lat"":""46.0634632"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.2358377"",""osm_id"":66502664,""osm_type"":""node"",""place_id"":121892,""type"":""city""},""mode"":""autocomplete""},""submit"":true,""title"":""Raccolta Fondi Caritas Udine""}","<pre><yamldata>
+title: Raccolta Fondi Caritas Udine
+description: Insieme a tutte le Diocesi e Caritas italiane, anche la Caritas diocesana
+  di Udine promuove la raccolta fondi a sostegno di Caritas Ucraina e delle Caritas
+  dei paesi confinanti, che fin dall’inizio delle ostilità stanno accogliendo le persone
+  in fuga dalla guerra.
+heading: Centro Caritas dell’Arcidiocesi di Udine ODV
+iban: IT45U 02008 12310 000001515712
+bicSwift: ''
+ccPostal: ''
+causal: “Europa/Ucraina”
+link: http://www.caritasudine.it/2022/03/01/la-caritas-di-udine-accanto-alla-popolazione-ucraina/?fbclid=IwAR2nQR1Oo9wqxEC7cziT_nf6Z0gxWPZF-gZbOua7-ECr-4bfyU_iNmygmaI
+email: emergenze@diocesiudine.it
+location:
+  mode: autocomplete
+  address:
+    place_id: 121892
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 66502664
+    boundingbox:
+    - '45.9034632'
+    - '46.2234632'
+    - '13.0758377'
+    - '13.3958377'
+    lat: '46.0634632'
+    lon: '13.2358377'
+    display_name: Udine, Friuli Venezia Giulia, 33100, Italia
+    class: place
+    type: city
+    importance: 0.699677555724844
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Udine
+      county: Udine
+      state: Friuli Venezia Giulia
+      postcode: '33100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+Posizione: 46.0634632 13.2358377
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/218,1173832083,2022-03-18 21:01:14,2022-03-18 17:22:04,"Emergenza a Ucraina, raccolta fondi di ANPAS",,,,,"[""Valid/Accettato"",""fundraising""]",,,"{""bicSwift"":""BCITITMM"",""causal"":""emergenza umanitaria Ucraina"",""ccPostal"":"""",""description"":""Anpas - Associazione Nazionale Pubblica Assistenza ha deciso di lanciare a favore della popolazione ucraina una raccolta fondi"",""email"":"""",""heading"":""Banca Intesa San Paolo"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT 56 A 03069 09606 100000067621"",""label"":""fundraising"",""link"":""https://www.anpas.org/categoria-news-generale/3839-raccoltafondi-ucraina.html?fbclid=IwAR1FaX47rRZtFkZf5zrvDE37ihTAPb7576Ezoi07CPk6pgHCbspS3sOrAkE"",""location"":{""address"":{""address1"":""Firenze"",""address2"":"""",""city"":"""",""country"":"""",""state"":"""",""zip"":""""},""mode"":""manual""},""submit"":true,""title"":""ANPAS""}","<pre><yamldata>
+title: ANPAS
+description: Anpas - Associazione Nazionale Pubblica Assistenza ha deciso di lanciare
+  a favore della popolazione ucraina una raccolta fondi
+heading: Banca Intesa San Paolo
+iban: IT 56 A 03069 09606 100000067621
+bicSwift: BCITITMM
+ccPostal: ''
+causal: emergenza umanitaria Ucraina
+link: https://www.anpas.org/categoria-news-generale/3839-raccoltafondi-ucraina.html?fbclid=IwAR1FaX47rRZtFkZf5zrvDE37ihTAPb7576Ezoi07CPk6pgHCbspS3sOrAkE
+email: ''
+location:
+  mode: manual
+  address:
+    address1: Firenze
+    address2: ''
+    city: ''
+    state: ''
+    country: ''
+    zip: ''
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/217,1173815645,2022-03-18 21:00:17,2022-03-18 17:03:03,A Varese associazione Guardavanti cerca persona per mediazione linguistica in attività con bambini ucraini,,,,,"[""Valid/Accettato"",""Help"",""Translation"",""job""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Varese"",""state"":""Lombardia""},""boundingbox"":[""45.5583143"",""46.1222569"",""8.552246"",""9.0662956""],""class"":""boundary"",""display_name"":""Varese, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7303937310744694,""lat"":""45.83971285"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.754157594917665"",""osm_id"":45347,""osm_type"":""relation"",""place_id"":284266553,""type"":""administrative""},""mode"":""autocomplete""},""description"":""L'associazione Guardavanti di Varese cerca una persona per mediazione linguistica-culturale durante le attivit\u00e0 di doposcuola con bambini ucraini neo-arrivati\nDisponibilit\u00e0 richiesta: 2 ore settimanali il venerd\u00ec pomeriggio\nDove: Varese, piazza Buzzi\nLingue: Ucraino e Italiano\nScrivi al pi\u00f9 presto a selezione@guardavanti.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Guardavanti"",""recipients"":"""",""submit"":true,""title"":""Ricerca persona per mediazione linguistica-culturale, Varese"",""type"":""jobOffer"",""url"":""https://www.facebook.com/Guardavanti/""}","<pre><yamldata>
+type: jobOffer
+offerFromWho: Associazione Guardavanti
+title: Ricerca persona per mediazione linguistica-culturale, Varese
+recipients: ''
+description: 'L''associazione Guardavanti di Varese cerca una persona per mediazione
+  linguistica-culturale durante le attività di doposcuola con bambini ucraini neo-arrivati
+
+  Disponibilità richiesta: 2 ore settimanali il venerdì pomeriggio
+
+  Dove: Varese, piazza Buzzi
+
+  Lingue: Ucraino e Italiano
+
+  Scrivi al più presto a selezione@guardavanti.org'
+url: https://www.facebook.com/Guardavanti/
+address:
+  mode: autocomplete
+  address:
+    place_id: 284266553
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 45347
+    boundingbox:
+    - '45.5583143'
+    - '46.1222569'
+    - '8.552246'
+    - '9.0662956'
+    lat: '45.83971285'
+    lon: '8.754157594917665'
+    display_name: Varese, Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7303937310744694
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Varese
+      state: Lombardia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/216,1173811323,2022-03-18 20:57:32,2022-03-18 16:58:06,"Emergenza Ucraina, raccolta fondi Croce Rossa - Comitato di Firenze",43.7806771,11.24376289731579,Toscana,Firenze,"[""Valid/Accettato"",""fundraising""]",,,"{""Posizione"":""43.7806771 11.24376289731579"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""Mancanza di acqua, cibo e assistenza sanitaria stanno colpendo centinaia di migliaia di persone in Ucraina. La Croce Rossa \u00e8 sul posto da sempre e, vista l'escalation di violenze, ha bisogno di tutto il sostegno possibile. Sono decine di migliaia le persone aiutate dai Volontari della Croce Rossa Ucraina, ogni giorno, ma le necessit\u00e0 sono sempre di pi\u00f9. Con il tuo aiuto, insieme, possiamo raggiungere tutti. Dona ora!"",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":""https://dona.cri.it/firenzeemergenzaucraina/~mia-donazione?_cv=1"",""location"":{""address"":{""address"":{""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""state"":""Toscana""},""boundingbox"":[""43.7258716"",""43.8354631"",""11.1497598"",""11.3389044""],""class"":""boundary"",""display_name"":""Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8105633028502386,""lat"":""43.7806771"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.24376289731579"",""osm_id"":42602,""osm_type"":""relation"",""place_id"":284666342,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Croce Rossa Italiana Comitato di Firenze""}","<pre><yamldata>
 title: Croce Rossa Italiana Comitato di Firenze
 description: 'Mancanza di acqua, cibo e assistenza sanitaria stanno colpendo centinaia
