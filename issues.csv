@@ -1,4 +1,68 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/189,1172899501,2022-03-19 13:37:17,2022-03-17 20:44:53,A #Bergamo un servizio di consulenza e affiancamento legale ai richiedenti asilo/TPI e altre forme complementari di protezione,45.6956905,9.6586191,Lombardia,Bergamo,"[""Valid/Accettato"",""Services"",""Legal"",""useful contact"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.6956905 9.6586191"",""description"":""Servizio di consulenza / affiancamento richiedenti asilo/TPI e titolari forme complementari di protezione\nAccompagnamento richiedenti asilo in tutte le fasi della richiesta di protezione\nSegnalazioni per inserimento progetto SPRAR/SIPROIMI\nServizio di consulenza/affiancamento per rimpatri volontari\nServizi per la fruizione dei diritti dei richiedenti asilo/TPI e titolari di forme complementari di protezione"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://www.caritasbergamo.it/casa/protezione/richiedenti-asilo-e-rifugiati/cir-bergamo/"",""location"":{""address"":{""address"":{""city"":""Bergamo"",""country"":""Italia"",""country_code"":""it"",""county"":""Bergamo"",""house_number"":""6b"",""postcode"":""24128"",""road"":""Via Giuseppe Mazzini"",""state"":""Lombardia"",""suburb"":""Citt\u00e0 Alta""},""boundingbox"":[""45.6956405"",""45.6957405"",""9.6585691"",""9.6586691""],""class"":""place"",""display_name"":""6b, Via Giuseppe Mazzini, Finazzi, Citt\u00e0 Alta, Bergamo, Lombardia, 24128, Italia"",""importance"":0.6309999999999999,""lat"":""45.6956905"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.6586191"",""osm_id"":7465011070,""osm_type"":""node"",""place_id"":77974844,""type"":""house""},""mode"":""autocomplete""},""submit"":true,""title"":""CONSIGLIO ITALIANO PER I RIFUGIATI / Bergamo""}","<pre><yamldata>
+title: CONSIGLIO ITALIANO PER I RIFUGIATI / Bergamo
+description: 'Servizio di consulenza / affiancamento richiedenti asilo/TPI e titolari
+  forme complementari di protezione
+
+  Accompagnamento richiedenti asilo in tutte le fasi della richiesta di protezione
+
+  Segnalazioni per inserimento progetto SPRAR/SIPROIMI
+
+  Servizio di consulenza/affiancamento per rimpatri volontari
+
+  Servizi per la fruizione dei diritti dei richiedenti asilo/TPI e titolari di forme
+  complementari di protezione'
+link: https://www.caritasbergamo.it/casa/protezione/richiedenti-asilo-e-rifugiati/cir-bergamo/
+location:
+  mode: autocomplete
+  address:
+    place_id: 77974844
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 7465011070
+    boundingbox:
+    - '45.6956405'
+    - '45.6957405'
+    - '9.6585691'
+    - '9.6586691'
+    lat: '45.6956905'
+    lon: '9.6586191'
+    display_name: 6b, Via Giuseppe Mazzini, Finazzi, Città Alta, Bergamo, Lombardia,
+      24128, Italia
+    class: place
+    type: house
+    importance: 0.6309999999999999
+    address:
+      house_number: 6b
+      road: Via Giuseppe Mazzini
+      suburb: Città Alta
+      city: Bergamo
+      county: Bergamo
+      state: Lombardia
+      postcode: '24128'
+      country: Italia
+      country_code: it
+label: document_data
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.6956905 9.6586191
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/197,1173247180,2022-03-19 13:36:42,2022-03-18 06:58:37,Raccolta offerte di lavoro in remoto per persone colpite dall’emergenza in Ucraina,,,,,"[""Valid/Accettato"",""job"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Raccolta offerte di lavoro in remoto per persone colpite dall\u2019emergenza in Ucraina"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""https://buildingremotely.com/"",""recipients"":"""",""submit"":true,""title"":""Raccolta offerte di lavoro in remoto per persone colpite dall\u2019emergenza in Ucraina"",""type"":""jobOffer"",""url"":""https://buildingremotely.com/blog/remote-jobs-for-people-affected-by-the-ukrainian-crisis/?fbclid=IwAR05sqjQd7GUrkVLf3XHSnlYm3Ds2fTuTpJ4ijTQ11FlanSbNiQIfQK21ys""}","<pre><yamldata>
+type: jobOffer
+offerFromWho: https://buildingremotely.com/
+title: Raccolta offerte di lavoro in remoto per persone colpite dall’emergenza in
+  Ucraina
+recipients: ''
+description: Raccolta offerte di lavoro in remoto per persone colpite dall’emergenza
+  in Ucraina
+url: https://buildingremotely.com/blog/remote-jobs-for-people-affected-by-the-ukrainian-crisis/?fbclid=IwAR05sqjQd7GUrkVLf3XHSnlYm3Ds2fTuTpJ4ijTQ11FlanSbNiQIfQK21ys
+address:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/222,1173846226,2022-03-19 13:35:43,2022-03-18 17:36:37,"Arci, online Juma Map con info utili per rifugiati e attiva linea telefonica ",,,,,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""useful contact"",""contact""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8996107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Informazioni utili per l'ingresso in Italia. A breve tutte le informazioni saranno disponibili anche in lingua ucraina, russa ed inglese.\n\nAttivo un numero Verde per Richiedenti Asilo e Rifugiati di Arci, 800 90 55 70 (Lycamobile: 351 1 37 63 35) attivo dal luned\u00ec al venerd\u00ec dalle 9:30 alle 17:30, o scrivere alla mail numeroverderifugiati@arci.it"",""email"":""numeroverderifugiati@arci.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":""800 90 55 70"",""submit"":true,""title"":""ARCI - Juma map"",""url"":""www.jumamap.it/it/2022/02/28/emergenza-ucraina/""}","<pre><yamldata>
 title: ARCI - Juma map
 phoneNumber: 800 90 55 70
@@ -2456,22 +2520,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/197,1173247180,2022-03-18 06:59:48,2022-03-18 06:58:37,Raccolta offerte di lavoro in remoto per persone colpite dall’emergenza in Ucraina,,,,,"[""Valid/Accettato"",""job"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Raccolta offerte di lavoro in remoto per persone colpite dall\u2019emergenza in Ucraina"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""https://buildingremotely.com/"",""recipients"":"""",""submit"":true,""title"":""Raccolta offerte di lavoro in remoto per persone colpite dall\u2019emergenza in Ucraina"",""type"":""jobOffer"",""url"":""https://buildingremotely.com/blog/remote-jobs-for-people-affected-by-the-ukrainian-crisis/?fbclid=IwAR05sqjQd7GUrkVLf3XHSnlYm3Ds2fTuTpJ4ijTQ11FlanSbNiQIfQK21ys""}","<pre><yamldata>
-type: jobOffer
-offerFromWho: https://buildingremotely.com/
-title: Raccolta offerte di lavoro in remoto per persone colpite dall’emergenza in
-  Ucraina
-recipients: ''
-description: Raccolta offerte di lavoro in remoto per persone colpite dall’emergenza
-  in Ucraina
-url: https://buildingremotely.com/blog/remote-jobs-for-people-affected-by-the-ukrainian-crisis/?fbclid=IwAR05sqjQd7GUrkVLf3XHSnlYm3Ds2fTuTpJ4ijTQ11FlanSbNiQIfQK21ys
-address:
-  mode: autocomplete
-  address: {}
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/196,1173243115,2022-03-18 06:54:49,2022-03-18 06:51:58,Open Arms raccoglie fondi per voli umanitari dall’Ucraina,,,,,"[""Valid/Accettato"",""fundraising"",""transport"",""telegram-channel"",""tweet""]",,,"{""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""Aiutaci ad accogliere in Italia donne, bambini e anziani che hanno dovuto lasciare tutto e fuggire dall'Ucraina. \n\nL'esercito russo continua a colpire obiettivi civili ucraini: \u00e8 la pi\u00f9 grande crisi umanitaria europea dalla Seconda Guerra Mondiale.\n\nSabato \u00e8 partito il primo volo umanitario organizzato da Open Arms grazie al supporto di #Solidaire di Enrique Pinyero.  \n\nAbbiamo portato in salvo dalla Polonia 222 persone rifugiate ora accolte da varie organizzazioni spagnole. \n\nPresto ripartiremo con altri voli per accogliere in Italia chi fugge dalla distruzione e dalla morte.\n\nRendi possibili i nostri voli umanitari!\n\nOrganizzare un volo umanitario \u00e8 un grande sforzo economico per noi, ma con il tuo aiuto possiamo farcela.\n\nDONA ORA \ud83d\udcf2 https://www.openarms.es/ucraina/"",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":""https://www.openarms.es/ucraina/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Open Arms""}","<pre><yamldata>
 title: Open Arms
 description: ""Aiutaci ad accogliere in Italia donne, bambini e anziani che hanno dovuto\
@@ -2667,54 +2715,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: fundraising
 submit: true
 Posizione: 46.4981125 11.3547801
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/189,1172899501,2022-03-17 21:38:44,2022-03-17 20:44:53,A #Bergamo un servizio di consulenza e affiancamento legale ai richiedenti asilo/TPI e altre forme complementari di protezione,45.6956905,9.6586191,Lombardia,Bergamo,"[""Valid/Accettato"",""Legal"",""useful contact"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.6956905 9.6586191"",""description"":""Servizio di consulenza / affiancamento richiedenti asilo/TPI e titolari forme complementari di protezione\nAccompagnamento richiedenti asilo in tutte le fasi della richiesta di protezione\nSegnalazioni per inserimento progetto SPRAR/SIPROIMI\nServizio di consulenza/affiancamento per rimpatri volontari\nServizi per la fruizione dei diritti dei richiedenti asilo/TPI e titolari di forme complementari di protezione"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://www.caritasbergamo.it/casa/protezione/richiedenti-asilo-e-rifugiati/cir-bergamo/"",""location"":{""address"":{""address"":{""city"":""Bergamo"",""country"":""Italia"",""country_code"":""it"",""county"":""Bergamo"",""house_number"":""6b"",""postcode"":""24128"",""road"":""Via Giuseppe Mazzini"",""state"":""Lombardia"",""suburb"":""Citt\u00e0 Alta""},""boundingbox"":[""45.6956405"",""45.6957405"",""9.6585691"",""9.6586691""],""class"":""place"",""display_name"":""6b, Via Giuseppe Mazzini, Finazzi, Citt\u00e0 Alta, Bergamo, Lombardia, 24128, Italia"",""importance"":0.6309999999999999,""lat"":""45.6956905"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.6586191"",""osm_id"":7465011070,""osm_type"":""node"",""place_id"":77974844,""type"":""house""},""mode"":""autocomplete""},""submit"":true,""title"":""CONSIGLIO ITALIANO PER I RIFUGIATI / Bergamo""}","<pre><yamldata>
-title: CONSIGLIO ITALIANO PER I RIFUGIATI / Bergamo
-description: 'Servizio di consulenza / affiancamento richiedenti asilo/TPI e titolari
-  forme complementari di protezione
-
-  Accompagnamento richiedenti asilo in tutte le fasi della richiesta di protezione
-
-  Segnalazioni per inserimento progetto SPRAR/SIPROIMI
-
-  Servizio di consulenza/affiancamento per rimpatri volontari
-
-  Servizi per la fruizione dei diritti dei richiedenti asilo/TPI e titolari di forme
-  complementari di protezione'
-link: https://www.caritasbergamo.it/casa/protezione/richiedenti-asilo-e-rifugiati/cir-bergamo/
-location:
-  mode: autocomplete
-  address:
-    place_id: 77974844
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 7465011070
-    boundingbox:
-    - '45.6956405'
-    - '45.6957405'
-    - '9.6585691'
-    - '9.6586691'
-    lat: '45.6956905'
-    lon: '9.6586191'
-    display_name: 6b, Via Giuseppe Mazzini, Finazzi, Città Alta, Bergamo, Lombardia,
-      24128, Italia
-    class: place
-    type: house
-    importance: 0.6309999999999999
-    address:
-      house_number: 6b
-      road: Via Giuseppe Mazzini
-      suburb: Città Alta
-      city: Bergamo
-      county: Bergamo
-      state: Lombardia
-      postcode: '24128'
-      country: Italia
-      country_code: it
-label: document_data
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 45.6956905 9.6586191
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/179,1172209425,2022-03-17 21:37:49,2022-03-17 10:40:10,Data on Ukraine refugees situation - Dati sui flussi dei rifugiati ucraini (fonti: Unhcr e Viminale),,,,,"[""Valid/Accettato"",""News"",""document_data"",""Resources""]",,,"{""description"":""Collection of data on the migration flow of Ukrainian citizens from:\n1) http://data2.unhcr.org/en/situations/ukraine\n2) https://www.interno.gov.it/it/search?search_fulltext=ucraina (for Italy)"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":"""",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Situation Ukraine refugee situation""}","<pre><yamldata>
 title: Situation Ukraine refugee situation
