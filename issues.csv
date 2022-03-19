@@ -1,4 +1,46 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/233,1174217959,2022-03-19 09:16:53,2022-03-19 09:15:19,Regione Lombardia: avviso pubblico tutori volontari #minori stranieri non accompagnati,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""Children"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""aeroway"":""Regione Lombardia"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20124"",""quarter"":""GARIBALDI REPUBBLICA"",""road"":""Piazza Citt\u00e0 di Lombardia"",""state"":""Lombardia"",""suburb"":""Municipio 9""},""boundingbox"":[""45.485842"",""45.4861511"",""9.1959739"",""9.1964178""],""class"":""aeroway"",""display_name"":""Regione Lombardia, Piazza Citt\u00e0 di Lombardia, GARIBALDI REPUBBLICA, Municipio 9, Milano, Lombardia, 20124, Italia"",""importance"":0.201,""lat"":""45.4859929"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.196196030443867"",""osm_id"":190405923,""osm_type"":""way"",""place_id"":147821966,""type"":""helipad""},""mode"":""autocomplete""},""description"":""avviso pubblico tutori volontari #minori stranieri non accompagnati \n\nhttps://www.consiglio.regione.lombardia.it/wps/portal/crl/home/istituzione/altri-organismi/garante-per-l-infanzia-e-per-l-adolescenza/tutore-minori-stranieri-non-accompagnati"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Lombardia"",""recipients"":""Children"",""submit"":true,""title"":""avviso pubblico tutori volontari #minori stranieri non accompagnati   https://www.consiglio.regione.lombardia.it/wps/portal/crl/home/istituzione/altri-organismi/garante-per-l-infanzia-e-per-l-adolescenza/tutore-minori-stranieri-non-accompagnati"",""type"":""legal"",""url"":""https://www.consiglio.regione.lombardia.it/wps/portal/crl/home/istituzione/altri-organismi/garante-per-l-infanzia-e-per-l-adolescenza/tutore-minori-stranieri-non-accompagnati""}","<pre><yamldata>
+type: legal
+offerFromWho: Regione Lombardia
+title: 'avviso pubblico tutori volontari #minori stranieri non accompagnati   https://www.consiglio.regione.lombardia.it/wps/portal/crl/home/istituzione/altri-organismi/garante-per-l-infanzia-e-per-l-adolescenza/tutore-minori-stranieri-non-accompagnati'
+recipients: Children
+description: ""avviso pubblico tutori volontari #minori stranieri non accompagnati\
+  \ \n\nhttps://www.consiglio.regione.lombardia.it/wps/portal/crl/home/istituzione/altri-organismi/garante-per-l-infanzia-e-per-l-adolescenza/tutore-minori-stranieri-non-accompagnati""
+url: https://www.consiglio.regione.lombardia.it/wps/portal/crl/home/istituzione/altri-organismi/garante-per-l-infanzia-e-per-l-adolescenza/tutore-minori-stranieri-non-accompagnati
+address:
+  mode: autocomplete
+  address:
+    place_id: 147821966
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 190405923
+    boundingbox:
+    - '45.485842'
+    - '45.4861511'
+    - '9.1959739'
+    - '9.1964178'
+    lat: '45.4859929'
+    lon: '9.196196030443867'
+    display_name: Regione Lombardia, Piazza Città di Lombardia, GARIBALDI REPUBBLICA,
+      Municipio 9, Milano, Lombardia, 20124, Italia
+    class: aeroway
+    type: helipad
+    importance: 0.201
+    address:
+      aeroway: Regione Lombardia
+      road: Piazza Città di Lombardia
+      quarter: GARIBALDI REPUBBLICA
+      suburb: Municipio 9
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20124'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/231,1174209429,2022-03-19 08:28:56,2022-03-19 08:27:10,Comune di Vietri di #Potenza avvia una #raccoltafondi per l’Ucraina,40.5986472,15.5072463,Basilicata,Potenza,"[""Valid/Accettato"",""fundraising"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""40.5986472 15.5072463"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""\ud83c\uddfa\ud83c\udde6 VIETRI DI POTENZA A SUPPORTO DEL POPOLO UCRAINO. ATTIVATA UNA RACCOLTA FONDI DAL COMUNE \n\n\ud83d\udce3 Il sindaco, avv. Christian Giordano, comunica che \u00e8 stata attivata una iniziativa a favore della popolazione ucraina. I fondi raccolti verranno utilizzati per supportare le azioni umanitarie a favore del popolo ucraino. Si potr\u00e0 donare versando una somma sul conto del Comune di Vietri di Potenza, inserendo come causale \""Erogazione liberale emergenza Ucraina\"". Si potr\u00e0 donare anche presso l'Ufficio Postale, dove verranno fornite tutte le indicazioni.\n\n\ud83d\udcb0 IBAN del Comune di Vietri di Potenza \n\u27a1\ufe0f IT58T0760103200001046373294\n\n#nowar #prayforukraine #ukraine #stopwar"",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":"""",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Potenza"",""postcode"":""85058"",""state"":""Basilicata"",""village"":""Vietri di Potenza""},""boundingbox"":[""40.5702306"",""40.6396501"",""15.4494721"",""15.592227""],""class"":""boundary"",""display_name"":""Vietri di Potenza, Potenza, Basilicata, 85058, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.784679386419411,""lat"":""40.5986472"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.5072463"",""osm_id"":40618,""osm_type"":""relation"",""place_id"":284027456,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Comune di Vietri di porenza""}","<pre><yamldata>
 title: Comune di Vietri di porenza
 description: ""\U0001F1FA\U0001F1E6 VIETRI DI POTENZA A SUPPORTO DEL POPOLO UCRAINO.\
