@@ -1,4 +1,49 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/237,1174279878,2022-03-19 14:39:32,2022-03-19 14:39:00,"Online SalvaUcraina.it, sito promosso dal Consolato d'Ucraina a Milano che per raccogliere offerte d",45.4967053,9.1391352,Lombardia,Milano,"[""Valid/Accettato"",""News"",""Services"",""fundraising"",""useful contact"",""materialGoods"",""hospitality"",""Resources""]",,,"{""Posizione"":""45.4967053 9.1391352"",""description"":""Sul sito ogni cittadino pu\u00f2 rendersi disponibile a svolgere volontariato in attivit\u00e0 di supporto all\u2019emergenza Ucraina oppure donare beni (online la lista dei beni e farmaci necessari) e denaro o offrire servizi. \u00c8 inoltre possibile comunicare la propria disponibilit\u00e0 ad ospitare rifugiati ucraini o ad offrire appartamenti in affitto."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.salvaucraina.it/"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""11"",""office"":""Consolato Generale dell'Ucraina"",""postcode"":""20156"",""quarter"":""Villapizzone"",""road"":""Via Ludovico di Breme"",""state"":""Lombardia"",""suburb"":""Municipio 8""},""boundingbox"":[""45.4966553"",""45.4967553"",""9.1390852"",""9.1391852""],""class"":""office"",""display_name"":""Consolato Generale dell'Ucraina, 11, Via Ludovico di Breme, Villapizzone, Municipio 8, Milano, Lombardia, 20156, Italia"",""importance"":0.731,""lat"":""45.4967053"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1391352"",""osm_id"":693845180,""osm_type"":""node"",""place_id"":5652117,""type"":""diplomatic""},""mode"":""autocomplete""},""submit"":true,""title"":""Online SalvaUcraina.it, sito promosso dal Consolato d'Ucraina a Milano che per raccogliere offerte di aiuto (beni, alloggi, donazioni, attivit\u00e0 di volontariato)""}","<pre><yamldata>
+title: Online SalvaUcraina.it, sito promosso dal Consolato d'Ucraina a Milano che
+  per raccogliere offerte di aiuto (beni, alloggi, donazioni, attività di volontariato)
+description: Sul sito ogni cittadino può rendersi disponibile a svolgere volontariato
+  in attività di supporto all’emergenza Ucraina oppure donare beni (online la lista
+  dei beni e farmaci necessari) e denaro o offrire servizi. È inoltre possibile comunicare
+  la propria disponibilità ad ospitare rifugiati ucraini o ad offrire appartamenti
+  in affitto.
+link: https://www.salvaucraina.it/
+location:
+  mode: autocomplete
+  address:
+    place_id: 5652117
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 693845180
+    boundingbox:
+    - '45.4966553'
+    - '45.4967553'
+    - '9.1390852'
+    - '9.1391852'
+    lat: '45.4967053'
+    lon: '9.1391352'
+    display_name: Consolato Generale dell'Ucraina, 11, Via Ludovico di Breme, Villapizzone,
+      Municipio 8, Milano, Lombardia, 20156, Italia
+    class: office
+    type: diplomatic
+    importance: 0.731
+    address:
+      office: Consolato Generale dell'Ucraina
+      house_number: '11'
+      road: Via Ludovico di Breme
+      quarter: Villapizzone
+      suburb: Municipio 8
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20156'
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.4967053 9.1391352
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/232,1174215120,2022-03-19 14:29:56,2022-03-19 09:00:25,Corsi di italiano gratuiti della società Dante Alighieri per i profughi ucraini (in tutta Italia),,,,,"[""Valid/Accettato"",""Services"",""translation"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{},""mode"":""autocomplete""},""mode"":""autocomplete""},""description"":""Corsi di lingua italiana gratuiti per permettere ai profughi ucraini accolti in Italia di inserirsi nel nostro tessuto sociale e di affrontare una nuova vita. Li promuove la Societ\u00e0 Dante Alighieri, ente che dal 1889 diffonde la lingua e la cultura italiane nel mondo. La Societ\u00e0 mette a disposizione la propria rete di Sedi e Comitati diffusa su tutto il territorio nazionale per organizzare corsi in presenza oppure on line. L\u2019iniziativa sar\u00e0 sostenuta da un fondo di solidariet\u00e0 che \u00e8 gi\u00e0 stato attivato. Il programma parte con la sede di Roma e ha gi\u00e0 raccolto la piena adesione di numerosi Centri didattici (Benevento, Bolzano, Campobasso, Casarano, Catanzaro, Cosenza, Crotone, Enna, Forl\u00ec-Cesena, Genova, Gorizia, Imola, La Spezia, Merano, Palermo, Perugia, Pordenone, Rovigo, Salerno, Siena, Siracusa, Terni, Trieste, Venezia, Verbania, Vulture) e altri si stanno aggiungendo. Alla fine dei corsi la Dante Alighieri potr\u00e0 anche rilasciare il certificato PLIDA Progetto Lingua Dante Alighieri."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Societ\u00e0 Dante Alighieri"",""recipients"":"""",""submit"":true,""title"":""corsi di italiano gratuiti della societ\u00e0 Dante Alighieri per i profughi"",""type"":""translation"",""url"":""https://www.dante.global/it/area-stampa/comunicati-stampa/ucraina-corsi-italiano-18marzo22?fbclid=IwAR3_w1OXOj4sNouCB53P0a5V-oWQMLYlRl3U7Mo2kZJ1WUP-dqHqJkXzeNw""}","<pre><yamldata>
 type: translation
 offerFromWho: Società Dante Alighieri
