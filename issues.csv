@@ -1,4 +1,48 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/234,1174219555,2022-03-19 09:25:32,2022-03-19 09:24:11,Comune di #Campobasso avvia #raccoltafondi per l’Ucraina,41.5597935,14.6602725,Molise,Campobasso,"[""Valid/Accettato"",""fundraising"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""41.5597935 14.6602725"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""Il Comune di Campobasso ha attivato un conto corrente per raccogliere le eventuali donazioni a favore dei nuclei familiari giunti dall\u2019Ucraina. Chi vuole pu\u00f2 dare il proprio contributo effettuando una donazione sul seguente iban: IT82R0200803813000020016891, inserendo come causale: Emergenza Ucraina \u2013 Comune di Campobasso."",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":""https://www.primonumero.it/2022/03/emergenza-ucraina-il-comune-di-campobasso-apre-un-conto-corrente/1530718072/"",""location"":{""address"":{""address"":{""city"":""Campobasso"",""country"":""Italia"",""country_code"":""it"",""county"":""Campobasso"",""postcode"":""86100"",""state"":""Molise""},""boundingbox"":[""41.3997935"",""41.7197935"",""14.5002725"",""14.8202725""],""class"":""place"",""display_name"":""Campobasso, Molise, 86100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.64915945324463,""lat"":""41.5597935"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.6602725"",""osm_id"":67283748,""osm_type"":""node"",""place_id"":286172926,""type"":""city""},""mode"":""autocomplete""},""submit"":true,""title"":""Comune di Campobasso avvia raccolta fondi per l\u2019Ucraina""}","<pre><yamldata>
+title: Comune di Campobasso avvia raccolta fondi per l’Ucraina
+description: 'Il Comune di Campobasso ha attivato un conto corrente per raccogliere
+  le eventuali donazioni a favore dei nuclei familiari giunti dall’Ucraina. Chi vuole
+  può dare il proprio contributo effettuando una donazione sul seguente iban: IT82R0200803813000020016891,
+  inserendo come causale: Emergenza Ucraina – Comune di Campobasso.'
+heading: ''
+iban: ''
+bicSwift: ''
+ccPostal: ''
+causal: ''
+link: https://www.primonumero.it/2022/03/emergenza-ucraina-il-comune-di-campobasso-apre-un-conto-corrente/1530718072/
+email: ''
+location:
+  mode: autocomplete
+  address:
+    place_id: 286172926
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 67283748
+    boundingbox:
+    - '41.3997935'
+    - '41.7197935'
+    - '14.5002725'
+    - '14.8202725'
+    lat: '41.5597935'
+    lon: '14.6602725'
+    display_name: Campobasso, Molise, 86100, Italia
+    class: place
+    type: city
+    importance: 0.64915945324463
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Campobasso
+      county: Campobasso
+      state: Molise
+      postcode: '86100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+Posizione: 41.5597935 14.6602725
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/233,1174217959,2022-03-19 09:16:53,2022-03-19 09:15:19,Regione Lombardia: avviso pubblico tutori volontari #minori stranieri non accompagnati,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""Children"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""aeroway"":""Regione Lombardia"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20124"",""quarter"":""GARIBALDI REPUBBLICA"",""road"":""Piazza Citt\u00e0 di Lombardia"",""state"":""Lombardia"",""suburb"":""Municipio 9""},""boundingbox"":[""45.485842"",""45.4861511"",""9.1959739"",""9.1964178""],""class"":""aeroway"",""display_name"":""Regione Lombardia, Piazza Citt\u00e0 di Lombardia, GARIBALDI REPUBBLICA, Municipio 9, Milano, Lombardia, 20124, Italia"",""importance"":0.201,""lat"":""45.4859929"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.196196030443867"",""osm_id"":190405923,""osm_type"":""way"",""place_id"":147821966,""type"":""helipad""},""mode"":""autocomplete""},""description"":""avviso pubblico tutori volontari #minori stranieri non accompagnati \n\nhttps://www.consiglio.regione.lombardia.it/wps/portal/crl/home/istituzione/altri-organismi/garante-per-l-infanzia-e-per-l-adolescenza/tutore-minori-stranieri-non-accompagnati"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Lombardia"",""recipients"":""Children"",""submit"":true,""title"":""avviso pubblico tutori volontari #minori stranieri non accompagnati   https://www.consiglio.regione.lombardia.it/wps/portal/crl/home/istituzione/altri-organismi/garante-per-l-infanzia-e-per-l-adolescenza/tutore-minori-stranieri-non-accompagnati"",""type"":""legal"",""url"":""https://www.consiglio.regione.lombardia.it/wps/portal/crl/home/istituzione/altri-organismi/garante-per-l-infanzia-e-per-l-adolescenza/tutore-minori-stranieri-non-accompagnati""}","<pre><yamldata>
 type: legal
 offerFromWho: Regione Lombardia
