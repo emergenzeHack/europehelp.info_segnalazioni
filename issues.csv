@@ -1,46 +1,101 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/230,1174088592,2022-03-19 07:58:37,2022-03-18 22:42:15,"Comune di #Prato attiva pagina web per accoglienza rifugiati, punti di #raccoltabeni, offerta #alloggi",,,,,"[""Valid/Accettato"",""Housing offers"",""materialGoods"",""hospitality"",""telegram-channel""]",,,"{""address"":{""address"":{""address"":{""city"":""Prato"",""country"":""Italia"",""country_code"":""it"",""county"":""Prato"",""neighbourhood"":""Soccorso"",""postcode"":""59100"",""road"":""Via Lazzerini"",""state"":""Toscana""},""boundingbox"":[""43.8745824"",""43.8754983"",""11.0933429"",""11.0940385""],""class"":""highway"",""display_name"":""Via Lazzerini, Soccorso, Prato, Toscana, 59100, Italia"",""importance"":0.5199999999999999,""lat"":""43.8750462"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.0937398"",""osm_id"":28637807,""osm_type"":""way"",""place_id"":108090719,""type"":""unclassified""},""mode"":""autocomplete""},""description"":""Online sul sito del Comune di Prato una pagina web con info e contatti utili su accoglienza rifugiati ucraini, punti di raccolta beni e farmaci, offerta alloggi, assistenza sanitaria e procedure per l\u2019accoglienza."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Prato"",""recipients"":"""",""submit"":true,""title"":""Comune di Prato attiva pagina web con info su accoglienza rifugiati ucraini, punti di raccolta beni, offerta alloggi"",""type"":""materialGoods"",""url"":""http://protezionecivile.comune.prato.it/aiuti-ucraina/pagina257.html""}","<pre><yamldata>
-type: materialGoods
-offerFromWho: Comune di Prato
-title: Comune di Prato attiva pagina web con info su accoglienza rifugiati ucraini,
-  punti di raccolta beni, offerta alloggi
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/212,1173797152,2022-03-19 08:25:33,2022-03-18 16:44:03,"Croce Rossa cerca volontari temporanei per emergenza Ucraina, soprattutto infermieri, chirurghi, psicologi o persone con ottima conoscenza di ucraino/russo",43.7806771,11.24376289731579,Toscana,Firenze,"[""Valid/Accettato"",""Help"",""healtcare"",""job"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""43.7806771 11.24376289731579"",""description"":""Per aumentare la risposta all\u2019emergenza Ucraina, la Croce Rossa Italiana apre nuovamente le iscrizioni ai volontari temporanei: Infermieri, medici chirurghi, psicologi o persone con ottima conoscenza della lingua Russa o Ucraina.\n\n \n\nDopo la grandiosa risposta durante la pandemia, quando moltissimi cittadini si sono messi in moto per fare la propria parte nell\u2019emergenza, oggi si riapre l\u2019opportunit\u00e0 di diventare volontario temporaneo della Croce Rossa. Sono richiesti in particolare medici chirurghi, infermieri, psicologi o persone con ottima conoscenza della lingua Russa o Ucraina da impiegare a seconda delle necessit\u00e0.\nChiunque, in possesso di questi requisiti, pu\u00f2 essere utile alla gestione dell\u2019emergenza. Per dare la propria disponibilit\u00e0 \u00e8 sufficiente leggere attentamente le istruzioni al link https://volontari.cri.it/ e compilare il form in tutti i campi richiesti.\nIl censimento dei volontari temporanei verr\u00e0 effettuato a livello Nazionale per poi essere assegnati ai territori di competenza.\n\nColoro che sceglieranno di dare il proprio contributo mettendosi a disposizione, saranno invitati a seguire un breve corso online strutturato appositamente per i volontari temporanei, in cui verranno approfondite alcune tematiche indispensabili per rafforzare le capacit\u00e0, la conoscenza della CRI e portare avanti il mandato umanitario del movimento. Tra i temi trattati: la salute e la sicurezza durante il servizio, l\u2019organizzazione, la storia e peculiarit\u00e0 del movimento della Croce Rossa, codice etico dell\u2019Associazione."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://volontari.cri.it/"",""location"":{""address"":{""address"":{""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""state"":""Toscana""},""boundingbox"":[""43.7258716"",""43.8354631"",""11.1497598"",""11.3389044""],""class"":""boundary"",""display_name"":""Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8105633028502386,""lat"":""43.7806771"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.24376289731579"",""osm_id"":42602,""osm_type"":""relation"",""place_id"":284666342,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Croce Rossa Italiana cerca Volontari Temporanei""}","<pre><yamldata>
+title: Croce Rossa Italiana cerca Volontari Temporanei
+description: ""Per aumentare la risposta all’emergenza Ucraina, la Croce Rossa Italiana\
+  \ apre nuovamente le iscrizioni ai volontari temporanei: Infermieri, medici chirurghi,\
+  \ psicologi o persone con ottima conoscenza della lingua Russa o Ucraina.\n\n \n\
+  \nDopo la grandiosa risposta durante la pandemia, quando moltissimi cittadini si\
+  \ sono messi in moto per fare la propria parte nell’emergenza, oggi si riapre l’opportunità\
+  \ di diventare volontario temporaneo della Croce Rossa. Sono richiesti in particolare\
+  \ medici chirurghi, infermieri, psicologi o persone con ottima conoscenza della\
+  \ lingua Russa o Ucraina da impiegare a seconda delle necessità.\nChiunque, in possesso\
+  \ di questi requisiti, può essere utile alla gestione dell’emergenza. Per dare la\
+  \ propria disponibilità è sufficiente leggere attentamente le istruzioni al link\
+  \ https://volontari.cri.it/ e compilare il form in tutti i campi richiesti.\nIl\
+  \ censimento dei volontari temporanei verrà effettuato a livello Nazionale per poi\
+  \ essere assegnati ai territori di competenza.\n\nColoro che sceglieranno di dare\
+  \ il proprio contributo mettendosi a disposizione, saranno invitati a seguire un\
+  \ breve corso online strutturato appositamente per i volontari temporanei, in cui\
+  \ verranno approfondite alcune tematiche indispensabili per rafforzare le capacità,\
+  \ la conoscenza della CRI e portare avanti il mandato umanitario del movimento.\
+  \ Tra i temi trattati: la salute e la sicurezza durante il servizio, l’organizzazione,\
+  \ la storia e peculiarità del movimento della Croce Rossa, codice etico dell’Associazione.""
+link: https://volontari.cri.it/
+location:
+  mode: autocomplete
+  address:
+    place_id: 284666342
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 42602
+    boundingbox:
+    - '43.7258716'
+    - '43.8354631'
+    - '11.1497598'
+    - '11.3389044'
+    lat: '43.7806771'
+    lon: '11.24376289731579'
+    display_name: Firenze, Città metropolitana di Firenze, Toscana, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8105633028502386
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Firenze
+      county: Città metropolitana di Firenze
+      state: Toscana
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 43.7806771 11.24376289731579
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/213,1173799564,2022-03-19 08:25:16,2022-03-18 16:46:49,"Rifugiati ucraini, Croce rossa Firenze avvia censimento per individuare disponibilità alloggi",,,,,"[""Valid/Accettato"",""News"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""state"":""Toscana""},""boundingbox"":[""43.7258716"",""43.8354631"",""11.1497598"",""11.3389044""],""class"":""boundary"",""display_name"":""Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8105633028502386,""lat"":""43.7806771"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.24376289731579"",""osm_id"":42602,""osm_type"":""relation"",""place_id"":284666342,""type"":""administrative""},""mode"":""autocomplete""},""description"":""La Croce Rossa Italiana, come membro permanente del Comitato Operativo Regionale del Volontario della Regione Toscana, sta effettuando la raccolta dati per il censimento delle disponibilit\u00e0 di alloggio per i rifugiati durante l\u2019Emergenza Ucraina. I dati forniti saranno elaborati esclusivamente da Croce Rossa Italiana e Prefettura di competenza, per gli scopi collegati all\u2019accoglienza dei profughi dell\u2019Emergenza Ucraina. Per informazioni scrivere a: censimento.alloggi@crifirenze.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Croce Rossa Italiana Comitato di Firenze"",""recipients"":"""",""submit"":true,""title"":""Censimento disponibilit\u00e0 alloggi"",""type"":""hospitality"",""url"":""https://crifirenze.it/""}","<pre><yamldata>
+type: hospitality
+offerFromWho: Croce Rossa Italiana Comitato di Firenze
+title: Censimento disponibilità alloggi
 recipients: ''
-description: Online sul sito del Comune di Prato una pagina web con info e contatti
-  utili su accoglienza rifugiati ucraini, punti di raccolta beni e farmaci, offerta
-  alloggi, assistenza sanitaria e procedure per l’accoglienza.
-url: http://protezionecivile.comune.prato.it/aiuti-ucraina/pagina257.html
+description: 'La Croce Rossa Italiana, come membro permanente del Comitato Operativo
+  Regionale del Volontario della Regione Toscana, sta effettuando la raccolta dati
+  per il censimento delle disponibilità di alloggio per i rifugiati durante l’Emergenza
+  Ucraina.
+  I dati forniti saranno elaborati esclusivamente da Croce Rossa Italiana e Prefettura
+  di competenza, per gli scopi collegati all’accoglienza dei profughi dell’Emergenza
+  Ucraina.
+  Per informazioni scrivere a:
+  censimento.alloggi@crifirenze.it'
+url: https://crifirenze.it/
 address:
   mode: autocomplete
   address:
-    place_id: 108090719
+    place_id: 284666342
     licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 28637807
+    osm_type: relation
+    osm_id: 42602
     boundingbox:
-    - '43.8745824'
-    - '43.8754983'
-    - '11.0933429'
-    - '11.0940385'
-    lat: '43.8750462'
-    lon: '11.0937398'
-    display_name: Via Lazzerini, Soccorso, Prato, Toscana, 59100, Italia
-    class: highway
-    type: unclassified
-    importance: 0.5199999999999999
+    - '43.7258716'
+    - '43.8354631'
+    - '11.1497598'
+    - '11.3389044'
+    lat: '43.7806771'
+    lon: '11.24376289731579'
+    display_name: Firenze, Città metropolitana di Firenze, Toscana, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8105633028502386
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
     address:
-      road: Via Lazzerini
-      neighbourhood: Soccorso
-      city: Prato
-      county: Prato
+      city: Firenze
+      county: Città metropolitana di Firenze
       state: Toscana
-      postcode: '59100'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/217,1173815645,2022-03-18 22:31:51,2022-03-18 17:03:03,A Varese associazione Guardavanti cerca mediatrice/mediatore linguistica/o per attività con bambini ucraini,,,,,"[""Valid/Accettato"",""Help"",""Translation"",""job""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Varese"",""state"":""Lombardia""},""boundingbox"":[""45.5583143"",""46.1222569"",""8.552246"",""9.0662956""],""class"":""boundary"",""display_name"":""Varese, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7303937310744694,""lat"":""45.83971285"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.754157594917665"",""osm_id"":45347,""osm_type"":""relation"",""place_id"":284266553,""type"":""administrative""},""mode"":""autocomplete""},""description"":""L'associazione Guardavanti di Varese cerca una persona per mediazione linguistica-culturale durante le attivit\u00e0 di doposcuola con bambini ucraini neo-arrivati\nDisponibilit\u00e0 richiesta: 2 ore settimanali il venerd\u00ec pomeriggio\nDove: Varese, piazza Buzzi\nLingue: Ucraino e Italiano\nScrivi al pi\u00f9 presto a selezione@guardavanti.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Guardavanti"",""recipients"":"""",""submit"":true,""title"":""Ricerca persona per mediazione linguistica-culturale, Varese"",""type"":""jobOffer"",""url"":""https://www.facebook.com/Guardavanti/""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/217,1173815645,2022-03-19 08:24:53,2022-03-18 17:03:03,A Varese associazione Guardavanti cerca mediatrice/mediatore linguistica/o per attività con bambini ucraini,,,,,"[""Valid/Accettato"",""Help"",""Translation"",""job"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Varese"",""state"":""Lombardia""},""boundingbox"":[""45.5583143"",""46.1222569"",""8.552246"",""9.0662956""],""class"":""boundary"",""display_name"":""Varese, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7303937310744694,""lat"":""45.83971285"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.754157594917665"",""osm_id"":45347,""osm_type"":""relation"",""place_id"":284266553,""type"":""administrative""},""mode"":""autocomplete""},""description"":""L'associazione Guardavanti di Varese cerca una persona per mediazione linguistica-culturale durante le attivit\u00e0 di doposcuola con bambini ucraini neo-arrivati\nDisponibilit\u00e0 richiesta: 2 ore settimanali il venerd\u00ec pomeriggio\nDove: Varese, piazza Buzzi\nLingue: Ucraino e Italiano\nScrivi al pi\u00f9 presto a selezione@guardavanti.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Guardavanti"",""recipients"":"""",""submit"":true,""title"":""Ricerca persona per mediazione linguistica-culturale, Varese"",""type"":""jobOffer"",""url"":""https://www.facebook.com/Guardavanti/""}","<pre><yamldata>
 type: jobOffer
 offerFromWho: Associazione Guardavanti
 title: Ricerca persona per mediazione linguistica-culturale, Varese
@@ -78,6 +133,234 @@ address:
     address:
       county: Varese
       state: Lombardia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/224,1173894681,2022-03-19 08:24:34,2022-03-18 18:35:41,AIL - Associazione italiana contro le leucemie lancia raccolta fondi per garantire continuità di cura ai malati ucraini,41.8814886,12.5382217,Lazio,Roma,"[""Valid/Accettato"",""fundraising"",""healtcare"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""41.8814886 12.5382217"",""bicSwift"":"""",""causal"":""AIL Emergenza Ucraina"",""ccPostal"":"""",""description"":""Ail lancia ancora una volta un appello accorato a tutti i suoi sostenitori, volontari e cittadini che da pi\u00f9 di mezzo secolo sono vicini all\u2019Associazione, affinch\u00e9 ancora una volta dimostrino generosit\u00e0 e solidariet\u00e0 per garantire in questa occasione la continuit\u00e0 delle cure, la messa in sicurezza dei pazienti negli ospedali in Ucraina e provvedere, attraverso canali protetti, alle forniture mediche, ai trattamenti chemioterapici e al reperimento di farmaci che in questo momento scarseggiano, ai pazienti e agli ospedali in stretta sinergia con le Associazioni umanitarie che operano sul campo."",""email"":"""",""heading"":""AIL ONLUS"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT11M0306905084100000007111"",""label"":""fundraising"",""link"":""http://www.vita.it/it/article/2022/03/18/nelle-case-ail-accolti-i-primi-30-pazienti-ucraini/162227/"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00100"",""road"":""Via Casilina"",""state"":""Lazio"",""suburb"":""Tuscolano""},""boundingbox"":[""41.8804526"",""41.8830185"",""12.5335701"",""12.5412858""],""class"":""highway"",""display_name"":""Via Casilina, Tuscolano, Roma, Roma Capitale, Lazio, 00100, Italia"",""importance"":0.41000000000000003,""lat"":""41.8814886"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.5382217"",""osm_id"":221907893,""osm_type"":""way"",""place_id"":155097951,""type"":""secondary""},""mode"":""autocomplete""},""submit"":true,""title"":""AIL - Associazione italiana contro leucemie lancia raccolta fondi per garantire continuit\u00e0 di cura ai malati ucraini""}","<pre><yamldata>
+title: AIL - Associazione italiana contro leucemie lancia raccolta fondi per garantire
+  continuità di cura ai malati ucraini
+description: Ail lancia ancora una volta un appello accorato a tutti i suoi sostenitori,
+  volontari e cittadini che da più di mezzo secolo sono vicini all’Associazione, affinché
+  ancora una volta dimostrino generosità e solidarietà per garantire in questa occasione
+  la continuità delle cure, la messa in sicurezza dei pazienti negli ospedali in Ucraina
+  e provvedere, attraverso canali protetti, alle forniture mediche, ai trattamenti
+  chemioterapici e al reperimento di farmaci che in questo momento scarseggiano, ai
+  pazienti e agli ospedali in stretta sinergia con le Associazioni umanitarie che
+  operano sul campo.
+heading: AIL ONLUS
+iban: IT11M0306905084100000007111
+bicSwift: ''
+ccPostal: ''
+causal: AIL Emergenza Ucraina
+link: http://www.vita.it/it/article/2022/03/18/nelle-case-ail-accolti-i-primi-30-pazienti-ucraini/162227/
+email: ''
+location:
+  mode: autocomplete
+  address:
+    place_id: 155097951
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 221907893
+    boundingbox:
+    - '41.8804526'
+    - '41.8830185'
+    - '12.5335701'
+    - '12.5412858'
+    lat: '41.8814886'
+    lon: '12.5382217'
+    display_name: Via Casilina, Tuscolano, Roma, Roma Capitale, Lazio, 00100, Italia
+    class: highway
+    type: secondary
+    importance: 0.41000000000000003
+    address:
+      road: Via Casilina
+      suburb: Tuscolano
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: '00100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+Posizione: 41.8814886 12.5382217
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/226,1174005533,2022-03-19 08:24:19,2022-03-18 20:44:05,Avviso della Prefettura Bergamo per affidamento servizio di accoglienza e ospitalità di cittadini ucraini,45.756655699999996,9.754219200862249,Lombardia,Bergamo,"[""Valid/Accettato"",""News"",""Services"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.756655699999996 9.754219200862249"",""description"":""Si pubblica avviso esplorativo per l'acquisizione di manifestazioni di interesse finalizzate all'affidamento del servizio di accoglienza di cittadini ucraini in singole unit\u00e0 abitative o in centri collettivi"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""http://www.prefettura.it/bergamo/contenuti/Avviso_esplorativo_per_affidamento_servizio_di_accoglienza_dei_cittadini_ucraini-13402586.htm"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bergamo"",""state"":""Lombardia""},""boundingbox"":[""45.4221614"",""46.0912018"",""9.4450549"",""10.2627486""],""class"":""boundary"",""display_name"":""Bergamo, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7460458381268803,""lat"":""45.756655699999996"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.754219200862249"",""osm_id"":44996,""osm_type"":""relation"",""place_id"":284895216,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Bergamo affidamento del servizio di accoglienza di cittadini ucraini in singole unit\u00e0 abitative o in centri collettivi""}","<pre><yamldata>
+title: Bergamo affidamento del servizio di accoglienza di cittadini ucraini in singole
+  unità abitative o in centri collettivi
+description: Si pubblica avviso esplorativo per l'acquisizione di manifestazioni di
+  interesse finalizzate all'affidamento del servizio di accoglienza di cittadini ucraini
+  in singole unità abitative o in centri collettivi
+link: http://www.prefettura.it/bergamo/contenuti/Avviso_esplorativo_per_affidamento_servizio_di_accoglienza_dei_cittadini_ucraini-13402586.htm
+location:
+  mode: autocomplete
+  address:
+    place_id: 284895216
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 44996
+    boundingbox:
+    - '45.4221614'
+    - '46.0912018'
+    - '9.4450549'
+    - '10.2627486'
+    lat: '45.756655699999996'
+    lon: '9.754219200862249'
+    display_name: Bergamo, Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7460458381268803
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Bergamo
+      state: Lombardia
+      country: Italia
+      country_code: it
+label: document_data
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.756655699999996 9.754219200862249
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/225,1173899426,2022-03-19 08:24:08,2022-03-18 18:42:19,A Milano apre in Stazione Centrale punto di prima accoglienza per i profughi ucraini (h24),45.4876076,9.2038215,Lombardia,Milano,"[""Valid/Accettato"",""News"",""Services"",""useful contact"",""materialGoods"",""healtcare"",""psycologicalSupport"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.4876076 9.2038215"",""description"":""Sar\u00e0 attivo dal 18 marzo il punto di prima accoglienza sanitaria e di registrazione per i profughi dell\u2019Ucraina. Si trova in via Mortirolo, nel sottopasso accanto alla Stazione Centrale. Sar\u00e0 aperto 24 ore su 24 per le attivit\u00e0 di accoglienza e registrazione e saranno presenti neanche mediatori linguistici. Lo spazio per l\u2019effettuazione dei tamponi sar\u00e0 invece attivo dalle 8 alle 20 dal luned\u00ec al sabato. Disponibile anche supporto psicologico, spazio bambini e punto ristoro. Si tratta di un\u2019iniziativa realizzata dalla Regione Lombardia, in collaborazione con il Comune e la Prefettura di Milano e Fondazione \u2018Progetto Arca\u2019. L\u2019Asst Fatebenefratelli Sacco e l\u2019Esercito italiano gestiranno operativamente il sito."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.lombardianotizie.online/ucraina-accoglienza/"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""highway"":""Milano (Stazione Centrale - Malpensa Shuttle)"",""postcode"":""20124"",""quarter"":""Centrale"",""road"":""Via Giovanni Battista Sammartini"",""state"":""Lombardia"",""suburb"":""Municipio 2""},""boundingbox"":[""45.4875576"",""45.4876576"",""9.2037715"",""9.2038715""],""class"":""highway"",""display_name"":""Milano (Stazione Centrale - Malpensa Shuttle), Via Giovanni Battista Sammartini, Centrale, Municipio 2, Milano, Lombardia, 20124, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//transport_bus_stop2.p.20.png"",""importance"":0.31100000000000005,""lat"":""45.4876076"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2038215"",""osm_id"":5403073723,""osm_type"":""node"",""place_id"":60050376,""type"":""bus_stop""},""mode"":""autocomplete""},""submit"":true,""title"":""Ucraina, A Milano, in Stazione Centrale, punto di prima accoglienza per i profughi ucraini (aperto h24)""}","<pre><yamldata>
+title: Ucraina, A Milano, in Stazione Centrale, punto di prima accoglienza per i profughi
+  ucraini (aperto h24)
+description: 'Sarà attivo dal 18 marzo il punto di prima accoglienza sanitaria e di
+  registrazione per i profughi dell’Ucraina. Si trova in via Mortirolo, nel sottopasso
+  accanto alla Stazione Centrale. Sarà aperto 24 ore su 24 per le attività di accoglienza
+  e registrazione e saranno presenti neanche mediatori linguistici. Lo spazio per l’effettuazione dei tamponi sarà invece attivo dalle
+  8 alle 20 dal lunedì al sabato. Disponibile anche supporto psicologico, spazio bambini e punto ristoro.
+  Si tratta di un’iniziativa realizzata dalla Regione Lombardia, in collaborazione
+  con il Comune e la Prefettura di Milano e Fondazione ‘Progetto Arca’. L’Asst Fatebenefratelli
+  Sacco e l’Esercito italiano gestiranno operativamente il sito.'
+link: https://www.lombardianotizie.online/ucraina-accoglienza/
+location:
+  mode: autocomplete
+  address:
+    place_id: 60050376
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 5403073723
+    boundingbox:
+    - '45.4875576'
+    - '45.4876576'
+    - '9.2037715'
+    - '9.2038715'
+    lat: '45.4876076'
+    lon: '9.2038215'
+    display_name: Milano (Stazione Centrale - Malpensa Shuttle), Via Giovanni Battista
+      Sammartini, Centrale, Municipio 2, Milano, Lombardia, 20124, Italia
+    class: highway
+    type: bus_stop
+    importance: 0.31100000000000005
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//transport_bus_stop2.p.20.png
+    address:
+      highway: Milano (Stazione Centrale - Malpensa Shuttle)
+      road: Via Giovanni Battista Sammartini
+      quarter: Centrale
+      suburb: Municipio 2
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20124'
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.4876076 9.2038215
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/229,1174086747,2022-03-19 08:23:34,2022-03-18 22:37:39,Raccolta fondi del Comune di Prato per emergenza Ucraina,43.8750462,11.0937398,Toscana,Prato,"[""Valid/Accettato"",""fundraising""]",,,"{""Posizione"":""43.8750462 11.0937398"",""bicSwift"":"""",""causal"":""Emergenza Ucraina"",""ccPostal"":"""",""description"":""Il Comitato Pro Emergenze del Comune di Prato ha avviato una raccolta fondi aperta a tutta la comunit\u00e0 pratese. Le donazioni serviranno per acquistare i materiali e i beni necessari alla popolazione ucraina.\nAlla raccolta di materiali vari, che in questo momento del conflitto sarebbe complesso trasportare oltre il confine ucraino, il Comitato Pro Emergenze ha preferito una modalit\u00e0 di donazione per mezzo Iban, cos\u00ec da soddisfare in maniera funzionale ed efficiente le esigenze della popolazione ucraina volta per volta e secondo le necessit\u00e0, che cambiano repentinamente (potrebbero ad esempio servire dei generatori elettrici).\nIl Comitato Pro Emergenze sar\u00e0 comunque di supporto per la consegna dei materiali e beni gi\u00e0 raccolti dalla comunit\u00e0 ucraina di Prato"",""email"":""info@pratoproemergenze.it"",""heading"":""Comitato Pro Emergenze Prato"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT31A0306921531100000005806"",""label"":""fundraising"",""link"":""https://www.pratoproemergenze.it/"",""location"":{""address"":{""address"":{""city"":""Prato"",""country"":""Italia"",""country_code"":""it"",""county"":""Prato"",""neighbourhood"":""Soccorso"",""postcode"":""59100"",""road"":""Via Lazzerini"",""state"":""Toscana""},""boundingbox"":[""43.8745824"",""43.8754983"",""11.0933429"",""11.0940385""],""class"":""highway"",""display_name"":""Via Lazzerini, Soccorso, Prato, Toscana, 59100, Italia"",""importance"":0.5199999999999999,""lat"":""43.8750462"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.0937398"",""osm_id"":28637807,""osm_type"":""way"",""place_id"":108090719,""type"":""unclassified""},""mode"":""autocomplete""},""submit"":true,""title"":""Comune di Prato - Comitato Pro Emergenze""}","<pre><yamldata>
+title: Comune di Prato - Comitato Pro Emergenze
+description: 'Il Comitato Pro Emergenze del Comune di Prato ha avviato una raccolta
+  fondi aperta a tutta la comunità pratese. Le donazioni serviranno per acquistare
+  i materiali e i beni necessari alla popolazione ucraina.
+
+  Alla raccolta di materiali vari, che in questo momento del conflitto sarebbe complesso
+  trasportare oltre il confine ucraino, il Comitato Pro Emergenze ha preferito una
+  modalità di donazione per mezzo Iban, così da soddisfare in maniera funzionale ed
+  efficiente le esigenze della popolazione ucraina volta per volta e secondo le necessità,
+  che cambiano repentinamente (potrebbero ad esempio servire dei generatori elettrici).
+
+  Il Comitato Pro Emergenze sarà comunque di supporto per la consegna dei materiali
+  e beni già raccolti dalla comunità ucraina di Prato'
+heading: Comitato Pro Emergenze Prato
+iban: IT31A0306921531100000005806
+bicSwift: ''
+ccPostal: ''
+causal: Emergenza Ucraina
+link: https://www.pratoproemergenze.it/
+email: info@pratoproemergenze.it
+location:
+  mode: autocomplete
+  address:
+    place_id: 108090719
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 28637807
+    boundingbox:
+    - '43.8745824'
+    - '43.8754983'
+    - '11.0933429'
+    - '11.0940385'
+    lat: '43.8750462'
+    lon: '11.0937398'
+    display_name: Via Lazzerini, Soccorso, Prato, Toscana, 59100, Italia
+    class: highway
+    type: unclassified
+    importance: 0.5199999999999999
+    address:
+      road: Via Lazzerini
+      neighbourhood: Soccorso
+      city: Prato
+      county: Prato
+      state: Toscana
+      postcode: '59100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+Posizione: 43.8750462 11.0937398
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/230,1174088592,2022-03-19 07:58:37,2022-03-18 22:42:15,"Comune di #Prato attiva pagina web per accoglienza rifugiati, punti di #raccoltabeni, offerta #alloggi",,,,,"[""Valid/Accettato"",""Housing offers"",""materialGoods"",""hospitality"",""telegram-channel""]",,,"{""address"":{""address"":{""address"":{""city"":""Prato"",""country"":""Italia"",""country_code"":""it"",""county"":""Prato"",""neighbourhood"":""Soccorso"",""postcode"":""59100"",""road"":""Via Lazzerini"",""state"":""Toscana""},""boundingbox"":[""43.8745824"",""43.8754983"",""11.0933429"",""11.0940385""],""class"":""highway"",""display_name"":""Via Lazzerini, Soccorso, Prato, Toscana, 59100, Italia"",""importance"":0.5199999999999999,""lat"":""43.8750462"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.0937398"",""osm_id"":28637807,""osm_type"":""way"",""place_id"":108090719,""type"":""unclassified""},""mode"":""autocomplete""},""description"":""Online sul sito del Comune di Prato una pagina web con info e contatti utili su accoglienza rifugiati ucraini, punti di raccolta beni e farmaci, offerta alloggi, assistenza sanitaria e procedure per l\u2019accoglienza."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Prato"",""recipients"":"""",""submit"":true,""title"":""Comune di Prato attiva pagina web con info su accoglienza rifugiati ucraini, punti di raccolta beni, offerta alloggi"",""type"":""materialGoods"",""url"":""http://protezionecivile.comune.prato.it/aiuti-ucraina/pagina257.html""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: Comune di Prato
+title: Comune di Prato attiva pagina web con info su accoglienza rifugiati ucraini,
+  punti di raccolta beni, offerta alloggi
+recipients: ''
+description: Online sul sito del Comune di Prato una pagina web con info e contatti
+  utili su accoglienza rifugiati ucraini, punti di raccolta beni e farmaci, offerta
+  alloggi, assistenza sanitaria e procedure per l’accoglienza.
+url: http://protezionecivile.comune.prato.it/aiuti-ucraina/pagina257.html
+address:
+  mode: autocomplete
+  address:
+    place_id: 108090719
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 28637807
+    boundingbox:
+    - '43.8745824'
+    - '43.8754983'
+    - '11.0933429'
+    - '11.0940385'
+    lat: '43.8750462'
+    lon: '11.0937398'
+    display_name: Via Lazzerini, Soccorso, Prato, Toscana, 59100, Italia
+    class: highway
+    type: unclassified
+    importance: 0.5199999999999999
+    address:
+      road: Via Lazzerini
+      neighbourhood: Soccorso
+      city: Prato
+      county: Prato
+      state: Toscana
+      postcode: '59100'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
@@ -237,58 +520,6 @@ label: help
 submit: true
 Posizione: 45.7460086 9.2798423
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/212,1173797152,2022-03-18 22:07:42,2022-03-18 16:44:03,"Croce Rossa cerca volontari temporanei per emergenza Ucraina, soprattutto infermieri, chirurghi, psicologi o persone con ottima conoscenza di ucraino/russo",43.7806771,11.24376289731579,Toscana,Firenze,"[""Valid/Accettato"",""Help"",""healtcare"",""job""]",,,"{""Posizione"":""43.7806771 11.24376289731579"",""description"":""Per aumentare la risposta all\u2019emergenza Ucraina, la Croce Rossa Italiana apre nuovamente le iscrizioni ai volontari temporanei: Infermieri, medici chirurghi, psicologi o persone con ottima conoscenza della lingua Russa o Ucraina.\n\n \n\nDopo la grandiosa risposta durante la pandemia, quando moltissimi cittadini si sono messi in moto per fare la propria parte nell\u2019emergenza, oggi si riapre l\u2019opportunit\u00e0 di diventare volontario temporaneo della Croce Rossa. Sono richiesti in particolare medici chirurghi, infermieri, psicologi o persone con ottima conoscenza della lingua Russa o Ucraina da impiegare a seconda delle necessit\u00e0.\nChiunque, in possesso di questi requisiti, pu\u00f2 essere utile alla gestione dell\u2019emergenza. Per dare la propria disponibilit\u00e0 \u00e8 sufficiente leggere attentamente le istruzioni al link https://volontari.cri.it/ e compilare il form in tutti i campi richiesti.\nIl censimento dei volontari temporanei verr\u00e0 effettuato a livello Nazionale per poi essere assegnati ai territori di competenza.\n\nColoro che sceglieranno di dare il proprio contributo mettendosi a disposizione, saranno invitati a seguire un breve corso online strutturato appositamente per i volontari temporanei, in cui verranno approfondite alcune tematiche indispensabili per rafforzare le capacit\u00e0, la conoscenza della CRI e portare avanti il mandato umanitario del movimento. Tra i temi trattati: la salute e la sicurezza durante il servizio, l\u2019organizzazione, la storia e peculiarit\u00e0 del movimento della Croce Rossa, codice etico dell\u2019Associazione."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://volontari.cri.it/"",""location"":{""address"":{""address"":{""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""state"":""Toscana""},""boundingbox"":[""43.7258716"",""43.8354631"",""11.1497598"",""11.3389044""],""class"":""boundary"",""display_name"":""Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8105633028502386,""lat"":""43.7806771"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.24376289731579"",""osm_id"":42602,""osm_type"":""relation"",""place_id"":284666342,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Croce Rossa Italiana cerca Volontari Temporanei""}","<pre><yamldata>
-title: Croce Rossa Italiana cerca Volontari Temporanei
-description: ""Per aumentare la risposta all’emergenza Ucraina, la Croce Rossa Italiana\
-  \ apre nuovamente le iscrizioni ai volontari temporanei: Infermieri, medici chirurghi,\
-  \ psicologi o persone con ottima conoscenza della lingua Russa o Ucraina.\n\n \n\
-  \nDopo la grandiosa risposta durante la pandemia, quando moltissimi cittadini si\
-  \ sono messi in moto per fare la propria parte nell’emergenza, oggi si riapre l’opportunità\
-  \ di diventare volontario temporaneo della Croce Rossa. Sono richiesti in particolare\
-  \ medici chirurghi, infermieri, psicologi o persone con ottima conoscenza della\
-  \ lingua Russa o Ucraina da impiegare a seconda delle necessità.\nChiunque, in possesso\
-  \ di questi requisiti, può essere utile alla gestione dell’emergenza. Per dare la\
-  \ propria disponibilità è sufficiente leggere attentamente le istruzioni al link\
-  \ https://volontari.cri.it/ e compilare il form in tutti i campi richiesti.\nIl\
-  \ censimento dei volontari temporanei verrà effettuato a livello Nazionale per poi\
-  \ essere assegnati ai territori di competenza.\n\nColoro che sceglieranno di dare\
-  \ il proprio contributo mettendosi a disposizione, saranno invitati a seguire un\
-  \ breve corso online strutturato appositamente per i volontari temporanei, in cui\
-  \ verranno approfondite alcune tematiche indispensabili per rafforzare le capacità,\
-  \ la conoscenza della CRI e portare avanti il mandato umanitario del movimento.\
-  \ Tra i temi trattati: la salute e la sicurezza durante il servizio, l’organizzazione,\
-  \ la storia e peculiarità del movimento della Croce Rossa, codice etico dell’Associazione.""
-link: https://volontari.cri.it/
-location:
-  mode: autocomplete
-  address:
-    place_id: 284666342
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 42602
-    boundingbox:
-    - '43.7258716'
-    - '43.8354631'
-    - '11.1497598'
-    - '11.3389044'
-    lat: '43.7806771'
-    lon: '11.24376289731579'
-    display_name: Firenze, Città metropolitana di Firenze, Toscana, Italia
-    class: boundary
-    type: administrative
-    importance: 0.8105633028502386
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Firenze
-      county: Città metropolitana di Firenze
-      state: Toscana
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 43.7806771 11.24376289731579
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/221,1173844732,2022-03-18 21:39:45,2022-03-18 17:35:14,Compendium of resources for ukranian refugees - Citizens of our Planet,,,,,"[""Valid/Accettato"",""News"",""Resources""]",,,"{""description"":""A number of volunteers around the world are working on a comprehensive document with information for Ukrainian refugees and for people wanting to help. Please feel free to use those information to feed your portal. The document is a living document, and is frequently updated."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""www.citizensofourplanet.org/resources"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Compendium of resources for refugees""}","<pre><yamldata>
 title: Compendium of resources for refugees
 description: A number of volunteers around the world are working on a comprehensive
@@ -398,92 +629,6 @@ address:
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/226,1174005533,2022-03-18 21:26:21,2022-03-18 20:44:05,Avviso della Prefettura Bergamo per affidamento servizio di accoglienza e ospitalità di cittadini ucraini,45.756655699999996,9.754219200862249,Lombardia,Bergamo,"[""Valid/Accettato"",""News"",""Services"",""hospitality""]",,,"{""Posizione"":""45.756655699999996 9.754219200862249"",""description"":""Si pubblica avviso esplorativo per l'acquisizione di manifestazioni di interesse finalizzate all'affidamento del servizio di accoglienza di cittadini ucraini in singole unit\u00e0 abitative o in centri collettivi"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""http://www.prefettura.it/bergamo/contenuti/Avviso_esplorativo_per_affidamento_servizio_di_accoglienza_dei_cittadini_ucraini-13402586.htm"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bergamo"",""state"":""Lombardia""},""boundingbox"":[""45.4221614"",""46.0912018"",""9.4450549"",""10.2627486""],""class"":""boundary"",""display_name"":""Bergamo, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7460458381268803,""lat"":""45.756655699999996"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.754219200862249"",""osm_id"":44996,""osm_type"":""relation"",""place_id"":284895216,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Bergamo affidamento del servizio di accoglienza di cittadini ucraini in singole unit\u00e0 abitative o in centri collettivi""}","<pre><yamldata>
-title: Bergamo affidamento del servizio di accoglienza di cittadini ucraini in singole
-  unità abitative o in centri collettivi
-description: Si pubblica avviso esplorativo per l'acquisizione di manifestazioni di
-  interesse finalizzate all'affidamento del servizio di accoglienza di cittadini ucraini
-  in singole unità abitative o in centri collettivi
-link: http://www.prefettura.it/bergamo/contenuti/Avviso_esplorativo_per_affidamento_servizio_di_accoglienza_dei_cittadini_ucraini-13402586.htm
-location:
-  mode: autocomplete
-  address:
-    place_id: 284895216
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 44996
-    boundingbox:
-    - '45.4221614'
-    - '46.0912018'
-    - '9.4450549'
-    - '10.2627486'
-    lat: '45.756655699999996'
-    lon: '9.754219200862249'
-    display_name: Bergamo, Lombardia, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7460458381268803
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      county: Bergamo
-      state: Lombardia
-      country: Italia
-      country_code: it
-label: document_data
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 45.756655699999996 9.754219200862249
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/224,1173894681,2022-03-18 21:24:20,2022-03-18 18:35:41,AIL - Associazione italiana contro le leucemie lancia raccolta fondi per garantire continuità di cura ai malati ucraini,41.8814886,12.5382217,Lazio,Roma,"[""Valid/Accettato"",""fundraising"",""healtcare""]",,,"{""Posizione"":""41.8814886 12.5382217"",""bicSwift"":"""",""causal"":""AIL Emergenza Ucraina"",""ccPostal"":"""",""description"":""Ail lancia ancora una volta un appello accorato a tutti i suoi sostenitori, volontari e cittadini che da pi\u00f9 di mezzo secolo sono vicini all\u2019Associazione, affinch\u00e9 ancora una volta dimostrino generosit\u00e0 e solidariet\u00e0 per garantire in questa occasione la continuit\u00e0 delle cure, la messa in sicurezza dei pazienti negli ospedali in Ucraina e provvedere, attraverso canali protetti, alle forniture mediche, ai trattamenti chemioterapici e al reperimento di farmaci che in questo momento scarseggiano, ai pazienti e agli ospedali in stretta sinergia con le Associazioni umanitarie che operano sul campo."",""email"":"""",""heading"":""AIL ONLUS"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT11M0306905084100000007111"",""label"":""fundraising"",""link"":""http://www.vita.it/it/article/2022/03/18/nelle-case-ail-accolti-i-primi-30-pazienti-ucraini/162227/"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00100"",""road"":""Via Casilina"",""state"":""Lazio"",""suburb"":""Tuscolano""},""boundingbox"":[""41.8804526"",""41.8830185"",""12.5335701"",""12.5412858""],""class"":""highway"",""display_name"":""Via Casilina, Tuscolano, Roma, Roma Capitale, Lazio, 00100, Italia"",""importance"":0.41000000000000003,""lat"":""41.8814886"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.5382217"",""osm_id"":221907893,""osm_type"":""way"",""place_id"":155097951,""type"":""secondary""},""mode"":""autocomplete""},""submit"":true,""title"":""AIL - Associazione italiana contro leucemie lancia raccolta fondi per garantire continuit\u00e0 di cura ai malati ucraini""}","<pre><yamldata>
-title: AIL - Associazione italiana contro leucemie lancia raccolta fondi per garantire
-  continuità di cura ai malati ucraini
-description: Ail lancia ancora una volta un appello accorato a tutti i suoi sostenitori,
-  volontari e cittadini che da più di mezzo secolo sono vicini all’Associazione, affinché
-  ancora una volta dimostrino generosità e solidarietà per garantire in questa occasione
-  la continuità delle cure, la messa in sicurezza dei pazienti negli ospedali in Ucraina
-  e provvedere, attraverso canali protetti, alle forniture mediche, ai trattamenti
-  chemioterapici e al reperimento di farmaci che in questo momento scarseggiano, ai
-  pazienti e agli ospedali in stretta sinergia con le Associazioni umanitarie che
-  operano sul campo.
-heading: AIL ONLUS
-iban: IT11M0306905084100000007111
-bicSwift: ''
-ccPostal: ''
-causal: AIL Emergenza Ucraina
-link: http://www.vita.it/it/article/2022/03/18/nelle-case-ail-accolti-i-primi-30-pazienti-ucraini/162227/
-email: ''
-location:
-  mode: autocomplete
-  address:
-    place_id: 155097951
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 221907893
-    boundingbox:
-    - '41.8804526'
-    - '41.8830185'
-    - '12.5335701'
-    - '12.5412858'
-    lat: '41.8814886'
-    lon: '12.5382217'
-    display_name: Via Casilina, Tuscolano, Roma, Roma Capitale, Lazio, 00100, Italia
-    class: highway
-    type: secondary
-    importance: 0.41000000000000003
-    address:
-      road: Via Casilina
-      suburb: Tuscolano
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      postcode: '00100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: fundraising
-submit: true
-Posizione: 41.8814886 12.5382217
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/222,1173846226,2022-03-18 21:08:27,2022-03-18 17:36:37,"Arci, online Juma Map con info utili per rifugiati e attiva linea telefonica ",,,,,"[""Valid/Accettato"",""News"",""Legal"",""useful contact"",""contact""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8996107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Informazioni utili per l'ingresso in Italia. A breve tutte le informazioni saranno disponibili anche in lingua ucraina, russa ed inglese.\n\nAttivo un numero Verde per Richiedenti Asilo e Rifugiati di Arci, 800 90 55 70 (Lycamobile: 351 1 37 63 35) attivo dal luned\u00ec al venerd\u00ec dalle 9:30 alle 17:30, o scrivere alla mail numeroverderifugiati@arci.it"",""email"":""numeroverderifugiati@arci.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":""800 90 55 70"",""submit"":true,""title"":""ARCI - Juma map"",""url"":""www.jumamap.it/it/2022/02/28/emergenza-ucraina/""}","<pre><yamldata>
 title: ARCI - Juma map
@@ -722,98 +867,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: fundraising
 submit: true
 Posizione: 43.4586541 11.1389204
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/225,1173899426,2022-03-18 20:54:52,2022-03-18 18:42:19,A Milano apre in Stazione Centrale punto di prima accoglienza per i profughi ucraini (h24),45.4876076,9.2038215,Lombardia,Milano,"[""Valid/Accettato"",""News"",""Services"",""useful contact"",""materialGoods"",""healtcare"",""psycologicalSupport""]",,,"{""Posizione"":""45.4876076 9.2038215"",""description"":""Sar\u00e0 attivo dal 18 marzo il punto di prima accoglienza sanitaria e di registrazione per i profughi dell\u2019Ucraina. Si trova in via Mortirolo, nel sottopasso accanto alla Stazione Centrale. Sar\u00e0 aperto 24 ore su 24 per le attivit\u00e0 di accoglienza e registrazione e saranno presenti neanche mediatori linguistici. Lo spazio per l\u2019effettuazione dei tamponi sar\u00e0 invece attivo dalle 8 alle 20 dal luned\u00ec al sabato. Disponibile anche supporto psicologico, spazio bambini e punto ristoro. Si tratta di un\u2019iniziativa realizzata dalla Regione Lombardia, in collaborazione con il Comune e la Prefettura di Milano e Fondazione \u2018Progetto Arca\u2019. L\u2019Asst Fatebenefratelli Sacco e l\u2019Esercito italiano gestiranno operativamente il sito."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.lombardianotizie.online/ucraina-accoglienza/"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""highway"":""Milano (Stazione Centrale - Malpensa Shuttle)"",""postcode"":""20124"",""quarter"":""Centrale"",""road"":""Via Giovanni Battista Sammartini"",""state"":""Lombardia"",""suburb"":""Municipio 2""},""boundingbox"":[""45.4875576"",""45.4876576"",""9.2037715"",""9.2038715""],""class"":""highway"",""display_name"":""Milano (Stazione Centrale - Malpensa Shuttle), Via Giovanni Battista Sammartini, Centrale, Municipio 2, Milano, Lombardia, 20124, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//transport_bus_stop2.p.20.png"",""importance"":0.31100000000000005,""lat"":""45.4876076"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2038215"",""osm_id"":5403073723,""osm_type"":""node"",""place_id"":60050376,""type"":""bus_stop""},""mode"":""autocomplete""},""submit"":true,""title"":""Ucraina, A Milano, in Stazione Centrale, punto di prima accoglienza per i profughi ucraini (aperto h24)""}","<pre><yamldata>
-title: Ucraina, A Milano, in Stazione Centrale, punto di prima accoglienza per i profughi
-  ucraini (aperto h24)
-description: 'Sarà attivo dal 18 marzo il punto di prima accoglienza sanitaria e di
-  registrazione per i profughi dell’Ucraina. Si trova in via Mortirolo, nel sottopasso
-  accanto alla Stazione Centrale. Sarà aperto 24 ore su 24 per le attività di accoglienza
-  e registrazione e saranno presenti neanche mediatori linguistici. Lo spazio per l’effettuazione dei tamponi sarà invece attivo dalle
-  8 alle 20 dal lunedì al sabato. Disponibile anche supporto psicologico, spazio bambini e punto ristoro.
-  Si tratta di un’iniziativa realizzata dalla Regione Lombardia, in collaborazione
-  con il Comune e la Prefettura di Milano e Fondazione ‘Progetto Arca’. L’Asst Fatebenefratelli
-  Sacco e l’Esercito italiano gestiranno operativamente il sito.'
-link: https://www.lombardianotizie.online/ucraina-accoglienza/
-location:
-  mode: autocomplete
-  address:
-    place_id: 60050376
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 5403073723
-    boundingbox:
-    - '45.4875576'
-    - '45.4876576'
-    - '9.2037715'
-    - '9.2038715'
-    lat: '45.4876076'
-    lon: '9.2038215'
-    display_name: Milano (Stazione Centrale - Malpensa Shuttle), Via Giovanni Battista
-      Sammartini, Centrale, Municipio 2, Milano, Lombardia, 20124, Italia
-    class: highway
-    type: bus_stop
-    importance: 0.31100000000000005
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//transport_bus_stop2.p.20.png
-    address:
-      highway: Milano (Stazione Centrale - Malpensa Shuttle)
-      road: Via Giovanni Battista Sammartini
-      quarter: Centrale
-      suburb: Municipio 2
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20124'
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 45.4876076 9.2038215
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/213,1173799564,2022-03-18 18:53:57,2022-03-18 16:46:49,"Rifugiati ucraini, Croce rossa Firenze avvia censimento per individuare disponibilità alloggi",,,,,"[""Valid/Accettato"",""News"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""state"":""Toscana""},""boundingbox"":[""43.7258716"",""43.8354631"",""11.1497598"",""11.3389044""],""class"":""boundary"",""display_name"":""Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8105633028502386,""lat"":""43.7806771"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.24376289731579"",""osm_id"":42602,""osm_type"":""relation"",""place_id"":284666342,""type"":""administrative""},""mode"":""autocomplete""},""description"":""La Croce Rossa Italiana, come membro permanente del Comitato Operativo Regionale del Volontario della Regione Toscana, sta effettuando la raccolta dati per il censimento delle disponibilit\u00e0 di alloggio per i rifugiati durante l\u2019Emergenza Ucraina. I dati forniti saranno elaborati esclusivamente da Croce Rossa Italiana e Prefettura di competenza, per gli scopi collegati all\u2019accoglienza dei profughi dell\u2019Emergenza Ucraina. Per informazioni scrivere a: censimento.alloggi@crifirenze.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Croce Rossa Italiana Comitato di Firenze"",""recipients"":"""",""submit"":true,""title"":""Censimento disponibilit\u00e0 alloggi"",""type"":""hospitality"",""url"":""https://crifirenze.it/""}","<pre><yamldata>
-type: hospitality
-offerFromWho: Croce Rossa Italiana Comitato di Firenze
-title: Censimento disponibilità alloggi
-recipients: ''
-description: 'La Croce Rossa Italiana, come membro permanente del Comitato Operativo
-  Regionale del Volontario della Regione Toscana, sta effettuando la raccolta dati
-  per il censimento delle disponibilità di alloggio per i rifugiati durante l’Emergenza
-  Ucraina.
-  I dati forniti saranno elaborati esclusivamente da Croce Rossa Italiana e Prefettura
-  di competenza, per gli scopi collegati all’accoglienza dei profughi dell’Emergenza
-  Ucraina.
-  Per informazioni scrivere a:
-  censimento.alloggi@crifirenze.it'
-url: https://crifirenze.it/
-address:
-  mode: autocomplete
-  address:
-    place_id: 284666342
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 42602
-    boundingbox:
-    - '43.7258716'
-    - '43.8354631'
-    - '11.1497598'
-    - '11.3389044'
-    lat: '43.7806771'
-    lon: '11.24376289731579'
-    display_name: Firenze, Città metropolitana di Firenze, Toscana, Italia
-    class: boundary
-    type: administrative
-    importance: 0.8105633028502386
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Firenze
-      county: Città metropolitana di Firenze
-      state: Toscana
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/205,1173699690,2022-03-18 16:39:24,2022-03-18 15:09:53,A Trebissacce (Cosenza) raccolta beni di prima necessità da inviare in Ucraina,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Cosenza"",""postcode"":""87075"",""state"":""Calabria"",""village"":""Trebisacce""},""boundingbox"":[""39.8448012"",""39.9090916"",""16.4778291"",""16.5773263""],""class"":""boundary"",""display_name"":""Trebisacce, Cosenza, Calabria, 87075, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.6069574919488508,""lat"":""39.8701066"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.530667"",""osm_id"":40123,""osm_type"":""relation"",""place_id"":283780300,""type"":""administrative""},""mode"":""autocomplete""},""description"":""L'associazione Passaggi di Trebisacce ha lanciato una raccolta beni di prima necessit\u00e0 da inviare in Ucraina. E' stato gi\u00e0 inviato un primo tir contenente operte, cibo, articoli sanitari e medicinali e si stanno raccogliendo beni per organizzare un secondo invio.\nPer informazioni contattare Associazione Passaggi: passaggi.ass@gmail.com - Caterina De Nardi (presidente) +393405539614'"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Passaggi"",""recipients"":"""",""submit"":true,""title"":""Raccolta beni di prima necessit\u00e0, Trebisacce"",""type"":""materialGoods"",""url"":""https://www.facebook.com/unirelepersoneoltregliostacolielediversita/""}","<pre><yamldata>
 type: materialGoods
