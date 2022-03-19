@@ -1,4 +1,138 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/230,1174088592,2022-03-19 14:25:21,2022-03-18 22:42:15,"Comune di Prato attiva pagina web per accoglienza rifugiati, punti di raccolta beni, offerta alloggi",,,,,"[""Valid/Accettato"",""Housing offers"",""Services"",""materialGoods"",""hospitality"",""telegram-channel""]",,,"{""address"":{""address"":{""address"":{""city"":""Prato"",""country"":""Italia"",""country_code"":""it"",""county"":""Prato"",""neighbourhood"":""Soccorso"",""postcode"":""59100"",""road"":""Via Lazzerini"",""state"":""Toscana""},""boundingbox"":[""43.8745824"",""43.8754983"",""11.0933429"",""11.0940385""],""class"":""highway"",""display_name"":""Via Lazzerini, Soccorso, Prato, Toscana, 59100, Italia"",""importance"":0.5199999999999999,""lat"":""43.8750462"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.0937398"",""osm_id"":28637807,""osm_type"":""way"",""place_id"":108090719,""type"":""unclassified""},""mode"":""autocomplete""},""description"":""Online sul sito del Comune di Prato una pagina web con info e contatti utili su accoglienza rifugiati ucraini, punti di raccolta beni e farmaci, offerta alloggi, assistenza sanitaria e procedure per l\u2019accoglienza."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Prato"",""recipients"":"""",""submit"":true,""title"":""Comune di Prato attiva pagina web con info su accoglienza rifugiati ucraini, punti di raccolta beni, offerta alloggi"",""type"":""materialGoods"",""url"":""http://protezionecivile.comune.prato.it/aiuti-ucraina/pagina257.html""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: Comune di Prato
+title: Comune di Prato attiva pagina web con info su accoglienza rifugiati ucraini,
+  punti di raccolta beni, offerta alloggi
+recipients: ''
+description: Online sul sito del Comune di Prato una pagina web con info e contatti
+  utili su accoglienza rifugiati ucraini, punti di raccolta beni e farmaci, offerta
+  alloggi, assistenza sanitaria e procedure per l’accoglienza.
+url: http://protezionecivile.comune.prato.it/aiuti-ucraina/pagina257.html
+address:
+  mode: autocomplete
+  address:
+    place_id: 108090719
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 28637807
+    boundingbox:
+    - '43.8745824'
+    - '43.8754983'
+    - '11.0933429'
+    - '11.0940385'
+    lat: '43.8750462'
+    lon: '11.0937398'
+    display_name: Via Lazzerini, Soccorso, Prato, Toscana, 59100, Italia
+    class: highway
+    type: unclassified
+    importance: 0.5199999999999999
+    address:
+      road: Via Lazzerini
+      neighbourhood: Soccorso
+      city: Prato
+      county: Prato
+      state: Toscana
+      postcode: '59100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/231,1174209429,2022-03-19 14:24:54,2022-03-19 08:27:10,Comune di Vietri di Potenza avvia una raccolta fondi per l’Ucraina,40.5986472,15.5072463,Basilicata,Potenza,"[""Valid/Accettato"",""fundraising"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""40.5986472 15.5072463"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""\ud83c\uddfa\ud83c\udde6 VIETRI DI POTENZA A SUPPORTO DEL POPOLO UCRAINO. ATTIVATA UNA RACCOLTA FONDI DAL COMUNE \n\n\ud83d\udce3 Il sindaco, avv. Christian Giordano, comunica che \u00e8 stata attivata una iniziativa a favore della popolazione ucraina. I fondi raccolti verranno utilizzati per supportare le azioni umanitarie a favore del popolo ucraino. Si potr\u00e0 donare versando una somma sul conto del Comune di Vietri di Potenza, inserendo come causale \""Erogazione liberale emergenza Ucraina\"". Si potr\u00e0 donare anche presso l'Ufficio Postale, dove verranno fornite tutte le indicazioni.\n\n\ud83d\udcb0 IBAN del Comune di Vietri di Potenza \n\u27a1\ufe0f IT58T0760103200001046373294\n\n#nowar #prayforukraine #ukraine #stopwar"",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":"""",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Potenza"",""postcode"":""85058"",""state"":""Basilicata"",""village"":""Vietri di Potenza""},""boundingbox"":[""40.5702306"",""40.6396501"",""15.4494721"",""15.592227""],""class"":""boundary"",""display_name"":""Vietri di Potenza, Potenza, Basilicata, 85058, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.784679386419411,""lat"":""40.5986472"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.5072463"",""osm_id"":40618,""osm_type"":""relation"",""place_id"":284027456,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Comune di Vietri di porenza""}","<pre><yamldata>
+title: Comune di Vietri di porenza
+description: ""\U0001F1FA\U0001F1E6 VIETRI DI POTENZA A SUPPORTO DEL POPOLO UCRAINO.\
+  \ ATTIVATA UNA RACCOLTA FONDI DAL COMUNE \n\n\U0001F4E3 Il sindaco, avv. Christian\
+  \ Giordano, comunica che è stata attivata una iniziativa a favore della popolazione\
+  \ ucraina. I fondi raccolti verranno utilizzati per supportare le azioni umanitarie\
+  \ a favore del popolo ucraino. Si potrà donare versando una somma sul conto del\
+  \ Comune di Vietri di Potenza, inserendo come causale \""Erogazione liberale emergenza\
+  \ Ucraina\"". Si potrà donare anche presso l'Ufficio Postale, dove verranno fornite\
+  \ tutte le indicazioni.\n\n\U0001F4B0 IBAN del Comune di Vietri di Potenza \n➡️\
+  \ IT58T0760103200001046373294\n\n#nowar #prayforukraine #ukraine #stopwar""
+heading: ''
+iban: ''
+bicSwift: ''
+ccPostal: ''
+causal: ''
+link: ''
+email: ''
+location:
+  mode: autocomplete
+  address:
+    place_id: 284027456
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 40618
+    boundingbox:
+    - '40.5702306'
+    - '40.6396501'
+    - '15.4494721'
+    - '15.592227'
+    lat: '40.5986472'
+    lon: '15.5072463'
+    display_name: Vietri di Potenza, Potenza, Basilicata, 85058, Italia
+    class: boundary
+    type: administrative
+    importance: 0.784679386419411
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      village: Vietri di Potenza
+      county: Potenza
+      state: Basilicata
+      postcode: '85058'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+Posizione: 40.5986472 15.5072463
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/234,1174219555,2022-03-19 14:24:29,2022-03-19 09:24:11,Comune di Campobasso avvia raccolta fondi per l’Ucraina,41.5597935,14.6602725,Molise,Campobasso,"[""Valid/Accettato"",""fundraising"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""41.5597935 14.6602725"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""Il Comune di Campobasso ha attivato un conto corrente per raccogliere le eventuali donazioni a favore dei nuclei familiari giunti dall\u2019Ucraina. Chi vuole pu\u00f2 dare il proprio contributo effettuando una donazione sul seguente iban: IT82R0200803813000020016891, inserendo come causale: Emergenza Ucraina \u2013 Comune di Campobasso."",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":""https://www.primonumero.it/2022/03/emergenza-ucraina-il-comune-di-campobasso-apre-un-conto-corrente/1530718072/"",""location"":{""address"":{""address"":{""city"":""Campobasso"",""country"":""Italia"",""country_code"":""it"",""county"":""Campobasso"",""postcode"":""86100"",""state"":""Molise""},""boundingbox"":[""41.3997935"",""41.7197935"",""14.5002725"",""14.8202725""],""class"":""place"",""display_name"":""Campobasso, Molise, 86100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.64915945324463,""lat"":""41.5597935"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.6602725"",""osm_id"":67283748,""osm_type"":""node"",""place_id"":286172926,""type"":""city""},""mode"":""autocomplete""},""submit"":true,""title"":""Comune di Campobasso avvia raccolta fondi per l\u2019Ucraina""}","<pre><yamldata>
+title: Comune di Campobasso avvia raccolta fondi per l’Ucraina
+description: 'Il Comune di Campobasso ha attivato un conto corrente per raccogliere
+  le eventuali donazioni a favore dei nuclei familiari giunti dall’Ucraina. Chi vuole
+  può dare il proprio contributo effettuando una donazione sul seguente iban: IT82R0200803813000020016891,
+  inserendo come causale: Emergenza Ucraina – Comune di Campobasso.'
+heading: ''
+iban: ''
+bicSwift: ''
+ccPostal: ''
+causal: ''
+link: https://www.primonumero.it/2022/03/emergenza-ucraina-il-comune-di-campobasso-apre-un-conto-corrente/1530718072/
+email: ''
+location:
+  mode: autocomplete
+  address:
+    place_id: 286172926
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 67283748
+    boundingbox:
+    - '41.3997935'
+    - '41.7197935'
+    - '14.5002725'
+    - '14.8202725'
+    lat: '41.5597935'
+    lon: '14.6602725'
+    display_name: Campobasso, Molise, 86100, Italia
+    class: place
+    type: city
+    importance: 0.64915945324463
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Campobasso
+      county: Campobasso
+      state: Molise
+      postcode: '86100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+Posizione: 41.5597935 14.6602725
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/232,1174215120,2022-03-19 14:14:18,2022-03-19 09:00:25,Corsi di italiano gratuiti della società Dante Alighieri per i profughi ucraini (in tutta Italia),,,,,"[""Valid/Accettato"",""Services"",""translation"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{},""mode"":""autocomplete""},""mode"":""autocomplete""},""description"":""Corsi di lingua italiana gratuiti per permettere ai profughi ucraini accolti in Italia di inserirsi nel nostro tessuto sociale e di affrontare una nuova vita. La Societ\u00e0 Dante Alighieri, l\u2019Ente presieduto da Andrea Riccardi che dal 1889 diffonde la lingua e la cultura italiane nel mondo, ha deliberato di mettere a disposizione la propria rete di Sedi e Comitati diffusa su tutto il territorio nazionale per organizzare corsi in presenza, nelle diverse sedi, oppure anche on line. L\u2019iniziativa, espressione dell\u2019identit\u00e0 della Dante Alighieri legata alla responsabilit\u00e0 sociale e alle stesse radici statutarie, sar\u00e0 sostenuta da un fondo di solidariet\u00e0 che \u00e8 gi\u00e0 stato attivato. Il programma parte con la sede di Roma e ha gi\u00e0 raccolto la piena adesione di numerosi Centri didattici (Benevento, Bolzano, Campobasso, Casarano, Catanzaro, Cosenza, Crotone, Enna, Forl\u00ec-Cesena, Genova, Gorizia, Imola, La Spezia, Merano, Palermo, Perugia, Pordenone, Rovigo, Salerno, Siena, Siracusa, Terni, Trieste, Venezia, Verbania, Vulture) e altri si stanno aggiungendo. Alla fine dei corsi la Dante Alighieri potr\u00e0 anche rilasciare il certificato PLIDA Progetto Lingua Dante Alighieri."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Societ\u00e0 Dante Alighieri"",""recipients"":"""",""submit"":true,""title"":""corsi di italiano gratuiti della societ\u00e0 Dante Alighieri per i profughi"",""type"":""translation"",""url"":""https://www.dante.global/it/area-stampa/comunicati-stampa/ucraina-corsi-italiano-18marzo22?fbclid=IwAR3_w1OXOj4sNouCB53P0a5V-oWQMLYlRl3U7Mo2kZJ1WUP-dqHqJkXzeNw""}","<pre><yamldata>
 type: translation
 offerFromWho: Società Dante Alighieri
@@ -656,47 +790,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/230,1174088592,2022-03-19 13:30:10,2022-03-18 22:42:15,"Comune di #Prato attiva pagina web per accoglienza rifugiati, punti di #raccoltabeni, offerta #alloggi",,,,,"[""Valid/Accettato"",""Housing offers"",""Services"",""materialGoods"",""hospitality"",""telegram-channel""]",,,"{""address"":{""address"":{""address"":{""city"":""Prato"",""country"":""Italia"",""country_code"":""it"",""county"":""Prato"",""neighbourhood"":""Soccorso"",""postcode"":""59100"",""road"":""Via Lazzerini"",""state"":""Toscana""},""boundingbox"":[""43.8745824"",""43.8754983"",""11.0933429"",""11.0940385""],""class"":""highway"",""display_name"":""Via Lazzerini, Soccorso, Prato, Toscana, 59100, Italia"",""importance"":0.5199999999999999,""lat"":""43.8750462"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.0937398"",""osm_id"":28637807,""osm_type"":""way"",""place_id"":108090719,""type"":""unclassified""},""mode"":""autocomplete""},""description"":""Online sul sito del Comune di Prato una pagina web con info e contatti utili su accoglienza rifugiati ucraini, punti di raccolta beni e farmaci, offerta alloggi, assistenza sanitaria e procedure per l\u2019accoglienza."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Prato"",""recipients"":"""",""submit"":true,""title"":""Comune di Prato attiva pagina web con info su accoglienza rifugiati ucraini, punti di raccolta beni, offerta alloggi"",""type"":""materialGoods"",""url"":""http://protezionecivile.comune.prato.it/aiuti-ucraina/pagina257.html""}","<pre><yamldata>
-type: materialGoods
-offerFromWho: Comune di Prato
-title: Comune di Prato attiva pagina web con info su accoglienza rifugiati ucraini,
-  punti di raccolta beni, offerta alloggi
-recipients: ''
-description: Online sul sito del Comune di Prato una pagina web con info e contatti
-  utili su accoglienza rifugiati ucraini, punti di raccolta beni e farmaci, offerta
-  alloggi, assistenza sanitaria e procedure per l’accoglienza.
-url: http://protezionecivile.comune.prato.it/aiuti-ucraina/pagina257.html
-address:
-  mode: autocomplete
-  address:
-    place_id: 108090719
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 28637807
-    boundingbox:
-    - '43.8745824'
-    - '43.8754983'
-    - '11.0933429'
-    - '11.0940385'
-    lat: '43.8750462'
-    lon: '11.0937398'
-    display_name: Via Lazzerini, Soccorso, Prato, Toscana, 59100, Italia
-    class: highway
-    type: unclassified
-    importance: 0.5199999999999999
-    address:
-      road: Via Lazzerini
-      neighbourhood: Soccorso
-      city: Prato
-      county: Prato
-      state: Toscana
-      postcode: '59100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/228,1174081720,2022-03-19 13:29:49,2022-03-18 22:26:27,Lecco ospita Ucraina: iniziativa per attivare una rete di ospitalità diffusa per i rifugiati ucraini,45.7460086,9.2798423,Lombardia,Lecco,"[""Valid/Accettato"",""News"",""Services"",""hospitality""]",,,"{""Posizione"":""45.7460086 9.2798423"",""description"":""Distretto di Lecco, Ambiti distrettuali di Bellano, Lecco e Merate, Fondazione comunitaria del Lecchese, CSV Monza Lecco Sondrio e Confcooperative dell\u2019Adda \u2013 in raccordo con la Prefettura \u2013  hanno avviato la campagna \u201cLecco ospita l\u2019Ucraina\u201d, per accogliere le disponibilit\u00e0 dei cittadini o strutture a ad alloggiare rifugiati ucraini, in particolare in appartamenti.\nAl link tutte le info e contatti."",""email"":""segreteria@fondazionelecco.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Lecco"",""postcode"":""23895"",""road"":""Piazza Stazione"",""state"":""Lombardia"",""village"":""Cassago Brianza""},""boundingbox"":[""45.7459825"",""45.7460132"",""9.2797661"",""9.2799254""],""class"":""highway"",""display_name"":""Piazza Stazione, Cassago Brianza, Lecco, Lombardia, 23895, Italia"",""importance"":0.51,""lat"":""45.7460086"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2798423"",""osm_id"":221114276,""osm_type"":""way"",""place_id"":156155759,""type"":""residential""},""mode"":""autocomplete""},""nameSurname"":""Fondazione comunitaria del Lecchese"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Lecco ospita Ucraina: iniziativa per attivare una rete di ospitalit\u00e0 diffusa per i rifugiati ucraini"",""url"":""https://www.fondazionelecco.org/news/entra-nel-vivo-la-campagna-lecco-ospita-lucraina/?s=09""}","<pre><yamldata>
 nameSurname: Fondazione comunitaria del Lecchese
 phoneNumber: ''
@@ -742,99 +835,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: help
 submit: true
 Posizione: 45.7460086 9.2798423
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/234,1174219555,2022-03-19 09:25:32,2022-03-19 09:24:11,Comune di #Campobasso avvia #raccoltafondi per l’Ucraina,41.5597935,14.6602725,Molise,Campobasso,"[""Valid/Accettato"",""fundraising"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""41.5597935 14.6602725"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""Il Comune di Campobasso ha attivato un conto corrente per raccogliere le eventuali donazioni a favore dei nuclei familiari giunti dall\u2019Ucraina. Chi vuole pu\u00f2 dare il proprio contributo effettuando una donazione sul seguente iban: IT82R0200803813000020016891, inserendo come causale: Emergenza Ucraina \u2013 Comune di Campobasso."",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":""https://www.primonumero.it/2022/03/emergenza-ucraina-il-comune-di-campobasso-apre-un-conto-corrente/1530718072/"",""location"":{""address"":{""address"":{""city"":""Campobasso"",""country"":""Italia"",""country_code"":""it"",""county"":""Campobasso"",""postcode"":""86100"",""state"":""Molise""},""boundingbox"":[""41.3997935"",""41.7197935"",""14.5002725"",""14.8202725""],""class"":""place"",""display_name"":""Campobasso, Molise, 86100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.64915945324463,""lat"":""41.5597935"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.6602725"",""osm_id"":67283748,""osm_type"":""node"",""place_id"":286172926,""type"":""city""},""mode"":""autocomplete""},""submit"":true,""title"":""Comune di Campobasso avvia raccolta fondi per l\u2019Ucraina""}","<pre><yamldata>
-title: Comune di Campobasso avvia raccolta fondi per l’Ucraina
-description: 'Il Comune di Campobasso ha attivato un conto corrente per raccogliere
-  le eventuali donazioni a favore dei nuclei familiari giunti dall’Ucraina. Chi vuole
-  può dare il proprio contributo effettuando una donazione sul seguente iban: IT82R0200803813000020016891,
-  inserendo come causale: Emergenza Ucraina – Comune di Campobasso.'
-heading: ''
-iban: ''
-bicSwift: ''
-ccPostal: ''
-causal: ''
-link: https://www.primonumero.it/2022/03/emergenza-ucraina-il-comune-di-campobasso-apre-un-conto-corrente/1530718072/
-email: ''
-location:
-  mode: autocomplete
-  address:
-    place_id: 286172926
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 67283748
-    boundingbox:
-    - '41.3997935'
-    - '41.7197935'
-    - '14.5002725'
-    - '14.8202725'
-    lat: '41.5597935'
-    lon: '14.6602725'
-    display_name: Campobasso, Molise, 86100, Italia
-    class: place
-    type: city
-    importance: 0.64915945324463
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
-    address:
-      city: Campobasso
-      county: Campobasso
-      state: Molise
-      postcode: '86100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: fundraising
-submit: true
-Posizione: 41.5597935 14.6602725
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/231,1174209429,2022-03-19 08:28:56,2022-03-19 08:27:10,Comune di Vietri di #Potenza avvia una #raccoltafondi per l’Ucraina,40.5986472,15.5072463,Basilicata,Potenza,"[""Valid/Accettato"",""fundraising"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""40.5986472 15.5072463"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""\ud83c\uddfa\ud83c\udde6 VIETRI DI POTENZA A SUPPORTO DEL POPOLO UCRAINO. ATTIVATA UNA RACCOLTA FONDI DAL COMUNE \n\n\ud83d\udce3 Il sindaco, avv. Christian Giordano, comunica che \u00e8 stata attivata una iniziativa a favore della popolazione ucraina. I fondi raccolti verranno utilizzati per supportare le azioni umanitarie a favore del popolo ucraino. Si potr\u00e0 donare versando una somma sul conto del Comune di Vietri di Potenza, inserendo come causale \""Erogazione liberale emergenza Ucraina\"". Si potr\u00e0 donare anche presso l'Ufficio Postale, dove verranno fornite tutte le indicazioni.\n\n\ud83d\udcb0 IBAN del Comune di Vietri di Potenza \n\u27a1\ufe0f IT58T0760103200001046373294\n\n#nowar #prayforukraine #ukraine #stopwar"",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":"""",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Potenza"",""postcode"":""85058"",""state"":""Basilicata"",""village"":""Vietri di Potenza""},""boundingbox"":[""40.5702306"",""40.6396501"",""15.4494721"",""15.592227""],""class"":""boundary"",""display_name"":""Vietri di Potenza, Potenza, Basilicata, 85058, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.784679386419411,""lat"":""40.5986472"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.5072463"",""osm_id"":40618,""osm_type"":""relation"",""place_id"":284027456,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Comune di Vietri di porenza""}","<pre><yamldata>
-title: Comune di Vietri di porenza
-description: ""\U0001F1FA\U0001F1E6 VIETRI DI POTENZA A SUPPORTO DEL POPOLO UCRAINO.\
-  \ ATTIVATA UNA RACCOLTA FONDI DAL COMUNE \n\n\U0001F4E3 Il sindaco, avv. Christian\
-  \ Giordano, comunica che è stata attivata una iniziativa a favore della popolazione\
-  \ ucraina. I fondi raccolti verranno utilizzati per supportare le azioni umanitarie\
-  \ a favore del popolo ucraino. Si potrà donare versando una somma sul conto del\
-  \ Comune di Vietri di Potenza, inserendo come causale \""Erogazione liberale emergenza\
-  \ Ucraina\"". Si potrà donare anche presso l'Ufficio Postale, dove verranno fornite\
-  \ tutte le indicazioni.\n\n\U0001F4B0 IBAN del Comune di Vietri di Potenza \n➡️\
-  \ IT58T0760103200001046373294\n\n#nowar #prayforukraine #ukraine #stopwar""
-heading: ''
-iban: ''
-bicSwift: ''
-ccPostal: ''
-causal: ''
-link: ''
-email: ''
-location:
-  mode: autocomplete
-  address:
-    place_id: 284027456
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 40618
-    boundingbox:
-    - '40.5702306'
-    - '40.6396501'
-    - '15.4494721'
-    - '15.592227'
-    lat: '40.5986472'
-    lon: '15.5072463'
-    display_name: Vietri di Potenza, Potenza, Basilicata, 85058, Italia
-    class: boundary
-    type: administrative
-    importance: 0.784679386419411
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      village: Vietri di Potenza
-      county: Potenza
-      state: Basilicata
-      postcode: '85058'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: fundraising
-submit: true
-Posizione: 40.5986472 15.5072463
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/58,1164280320,2022-03-19 08:28:39,2022-03-09 18:14:36,Comune di Reggio Emilia si attiva per Emergenza Ucraina: raccolta beni e accoglienza,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Reggio nell'Emilia"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.225466"",""44.9920133"",""10.1423815"",""10.8971498""],""class"":""boundary"",""display_name"":""Reggio nell'Emilia, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8201048725335365,""lat"":""44.608664"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.594796841892734"",""osm_id"":42965,""osm_type"":""relation"",""place_id"":283395957,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Comune di Reggio Emilia ha organizzato un coordinamento cittadino per individuare le risposte pi\u00f9 adeguate per fronteggiare l'emergenza umanitaria, conseguenza della guerra in Ucraina.\n\nIn particolare sono attivi:\n- il centro per la raccolta di beni;\n- il modulo per offrire accoglienza ai profughi ucraini;\n- il numero di telefono unico richiedere informazioni e/o mettere a disposizione alloggi o qualsiasi altro tipo di aiuto per chi, in fuga dalla guerra, dovesse raggiungere Reggio: 0522 456655, attivo dal luned\u00ec al venerd\u00ec dalle 8.30 alle 12.30.\n- raccolta fondi.\n\n Tutte le info al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Reggio Emilia"",""recipients"":"""",""submit"":true,""title"":""Comune di Reggio Emilia si attiva per Emergenza Ucraina: raccolta beni e accoglienza"",""type"":""materialGoods"",""url"":""https://www.comune.re.it/ucraina""}","<pre><yamldata>
 type: materialGoods
