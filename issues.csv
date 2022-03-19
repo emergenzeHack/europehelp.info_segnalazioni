@@ -1,4 +1,434 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/233,1174217959,2022-03-19 13:49:43,2022-03-19 09:15:19,Regione Lombardia: avviso pubblico tutori volontari per minori stranieri non accompagnati,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""Children"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""aeroway"":""Regione Lombardia"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20124"",""quarter"":""GARIBALDI REPUBBLICA"",""road"":""Piazza Citt\u00e0 di Lombardia"",""state"":""Lombardia"",""suburb"":""Municipio 9""},""boundingbox"":[""45.485842"",""45.4861511"",""9.1959739"",""9.1964178""],""class"":""aeroway"",""display_name"":""Regione Lombardia, Piazza Citt\u00e0 di Lombardia, GARIBALDI REPUBBLICA, Municipio 9, Milano, Lombardia, 20124, Italia"",""importance"":0.201,""lat"":""45.4859929"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.196196030443867"",""osm_id"":190405923,""osm_type"":""way"",""place_id"":147821966,""type"":""helipad""},""mode"":""autocomplete""},""description"":""avviso pubblico tutori volontari #minori stranieri non accompagnati \n\nhttps://www.consiglio.regione.lombardia.it/wps/portal/crl/home/istituzione/altri-organismi/garante-per-l-infanzia-e-per-l-adolescenza/tutore-minori-stranieri-non-accompagnati"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Lombardia"",""recipients"":""Children"",""submit"":true,""title"":""avviso pubblico tutori volontari #minori stranieri non accompagnati   https://www.consiglio.regione.lombardia.it/wps/portal/crl/home/istituzione/altri-organismi/garante-per-l-infanzia-e-per-l-adolescenza/tutore-minori-stranieri-non-accompagnati"",""type"":""legal"",""url"":""https://www.consiglio.regione.lombardia.it/wps/portal/crl/home/istituzione/altri-organismi/garante-per-l-infanzia-e-per-l-adolescenza/tutore-minori-stranieri-non-accompagnati""}","<pre><yamldata>
+type: legal
+offerFromWho: Regione Lombardia
+title: 'avviso pubblico tutori volontari #minori stranieri non accompagnati   https://www.consiglio.regione.lombardia.it/wps/portal/crl/home/istituzione/altri-organismi/garante-per-l-infanzia-e-per-l-adolescenza/tutore-minori-stranieri-non-accompagnati'
+recipients: Children
+description: ""avviso pubblico tutori volontari #minori stranieri non accompagnati\
+  \ \n\nhttps://www.consiglio.regione.lombardia.it/wps/portal/crl/home/istituzione/altri-organismi/garante-per-l-infanzia-e-per-l-adolescenza/tutore-minori-stranieri-non-accompagnati""
+url: https://www.consiglio.regione.lombardia.it/wps/portal/crl/home/istituzione/altri-organismi/garante-per-l-infanzia-e-per-l-adolescenza/tutore-minori-stranieri-non-accompagnati
+address:
+  mode: autocomplete
+  address:
+    place_id: 147821966
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 190405923
+    boundingbox:
+    - '45.485842'
+    - '45.4861511'
+    - '9.1959739'
+    - '9.1964178'
+    lat: '45.4859929'
+    lon: '9.196196030443867'
+    display_name: Regione Lombardia, Piazza Città di Lombardia, GARIBALDI REPUBBLICA,
+      Municipio 9, Milano, Lombardia, 20124, Italia
+    class: aeroway
+    type: helipad
+    importance: 0.201
+    address:
+      aeroway: Regione Lombardia
+      road: Piazza Città di Lombardia
+      quarter: GARIBALDI REPUBBLICA
+      suburb: Municipio 9
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20124'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/50,1164063114,2022-03-19 13:48:50,2022-03-09 15:06:31,Online Friendsofukraine.eu che offre servizi di telemedicina a ucraini colpiti dalla guerra,,,,,"[""Valid/Accettato"",""News"",""Services"",""healtcare"",""telegram-channel"",""tweet"",""Resources""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Online la piattaforma friendsofukraine.eu promossa da @Friends_of_UA che offre gratuitamente servizi di #telemedicina e dona dispositivi sanitari popolo ucraino colpito dalla guerra."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Friends of Ukraine"",""recipients"":"""",""submit"":true,""title"":""Online Friendsofukraine.eu che offre servizi di telemidicina a ucraini colpiti dalla guerra"",""type"":""healthcare"",""url"":""https://friendsofukraine.eu/""}","<pre><yamldata>
+type: healthcare
+offerFromWho: Friends of Ukraine
+title: Online Friendsofukraine.eu che offre servizi di telemidicina a ucraini colpiti
+  dalla guerra
+recipients: ''
+description: 'Online la piattaforma friendsofukraine.eu promossa da @Friends_of_UA
+  che offre gratuitamente servizi di #telemedicina e dona dispositivi sanitari popolo
+  ucraino colpito dalla guerra.'
+url: https://friendsofukraine.eu/
+address:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/73,1165441654,2022-03-19 13:48:07,2022-03-10 16:22:08,Online it.eu4ua.org piattaforma europea per offrire alloggio ai rifugiati ucraini (anche in italiano),,,,,"[""Valid/Accettato"",""News"",""Services"",""hospitality"",""Resources""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Online it.eu4ua.org piattaforma europea multilingue, disponibile anche in italiano, che aiuta l'incontro tra ospitanti europei e profughi ucraini in cerca di un #alloggio."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Europe for Uckraine"",""recipients"":"""",""submit"":true,""title"":""Online it.eu4ua.org piattaforma europea multilingue, disponibile anche in italiano, che aiuta l'incontro tra ospitanti europei e profughi ucraini in cerca di alloggio"",""type"":""hospitality"",""url"":""https://it.eu4ua.org""}","<pre><yamldata>
+type: hospitality
+offerFromWho: Europe for Uckraine
+title: Online it.eu4ua.org piattaforma europea multilingue, disponibile anche in italiano,
+  che aiuta l'incontro tra ospitanti europei e profughi ucraini in cerca di alloggio
+recipients: ''
+description: 'Online it.eu4ua.org piattaforma europea multilingue, disponibile anche
+  in italiano, che aiuta l''incontro tra ospitanti europei e profughi ucraini in cerca
+  di un #alloggio.'
+url: https://it.eu4ua.org
+address:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/75,1166626941,2022-03-19 13:47:46,2022-03-11 16:37:00,"UkraineFacts.org, osservatorio internazionale su fake news e guerra in Ucraina",,,,,"[""Valid/Accettato"",""News"",""fakenews"",""Resources""]",,,"{""description"":""Piattaforma promossa dall'International Fact-checking Network Signatories che mappa nel mondo e smonta le fake news relative alla guerra in Ucraina."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""fakenews"",""link"":""https://ukrainefacts.org"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""UkraineFacts.org, osservatorio internazionale su fake news e guerra in Ucraina""}","<pre><yamldata>
+title: UkraineFacts.org, osservatorio internazionale su fake news e guerra in Ucraina
+description: Piattaforma promossa dall'International Fact-checking Network Signatories
+  che mappa nel mondo e smonta le fake news relative alla guerra in Ucraina.
+link: https://ukrainefacts.org
+location:
+  mode: autocomplete
+  address: {}
+label: fakenews
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/77,1166646079,2022-03-19 13:47:27,2022-03-11 16:55:19,"Gruppo Facebook ""Aiuta Profughi Ucraini Italia"" per offrire accoglienza e aiuti",,,,,"[""Valid/Accettato"",""News"",""Services"",""useful contact"",""materialGoods"",""hospitality"",""contact"",""Resources""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20122"",""state"":""Lombardia""},""boundingbox"":[""45.3041943"",""45.6241943"",""9.0296346"",""9.3496346""],""class"":""place"",""display_name"":""Milano, Lombardia, 20122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.8390652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":62505581,""osm_type"":""node"",""place_id"":286263950,""type"":""city""},""mode"":""autocomplete""},""aim"":""Gruppo Facebook, aperto da un gruppo di cittadini ucraini a Milano, che offre info utili e aiuta i profughi ucraini a trovare supporto e accoglienza in Italia, in particolare nord Italia."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":"""",""submit"":true,""title"":""Gruppo Facebook \""Aiuta Profughi Ucraini Italia\"""",""url"":""https://www.facebook.com/groups/1373754006378987/?ref=share""}","<pre><yamldata>
+title: Gruppo Facebook ""Aiuta Profughi Ucraini Italia""
+phoneNumber: ''
+email: ''
+aim: Gruppo Facebook, aperto da un gruppo di cittadini ucraini a Milano, che offre
+  info utili e aiuta i profughi ucraini a trovare supporto e accoglienza in Italia,
+  in particolare nord Italia.
+url: https://www.facebook.com/groups/1373754006378987/?ref=share
+address:
+  mode: autocomplete
+  address:
+    place_id: 286263950
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 62505581
+    boundingbox:
+    - '45.3041943'
+    - '45.6241943'
+    - '9.0296346'
+    - '9.3496346'
+    lat: '45.4641943'
+    lon: '9.1896346'
+    display_name: Milano, Lombardia, 20122, Italia
+    class: place
+    type: city
+    importance: 0.8390652078701348
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/84,1167355829,2022-03-19 13:47:06,2022-03-12 18:04:01,A Milano continua la raccolta beni per rifugiati ucraini di Milano Sospesa,,,,,"[""Valid/Accettato"",""News"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20141"",""quarter"":""Ripamonti"",""road"":""Via Cuore Immacolato di Maria"",""state"":""Lombardia"",""suburb"":""Municipio 5"",""village"":""Vaiano Valle""},""boundingbox"":[""45.4368289"",""45.4368949"",""9.1974967"",""9.1976144""],""class"":""highway"",""display_name"":""Via Cuore Immacolato di Maria, Ripamonti, Municipio 5, Vaiano Valle, Milano, Lombardia, 20141, Italia"",""importance"":0.8099999999999999,""lat"":""45.4368289"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1974967"",""osm_id"":331692065,""osm_type"":""way"",""place_id"":181610307,""type"":""residential""},""mode"":""autocomplete""},""description"":""A Milano continua la raccolta beni per rifugiati ucraini di Milano Sospesa ma si raccolgono solo i seguenti beni:\n\nPOWERBANK\nTORCE\nINTIMO NUOVO BIMBI\nCALZE NUOVE BIMBI\nINTIMO NUOVO ADULTO\nCALZE NUOVE ADULTO\nTAPPETINI campeggio\nSACCHI A PELO\nINTIMO TERMICO\nCALZE TERMICHE\nCAPPELLI E SCIARPE \nBENDE \nEMOSTATICO\nPRODOTTI IGIENE\n\nMEDICINALI FONDAMENTALI IN QUESTO MOMENTO:\n\nnoradrenalina idrotartrato\nsodio fosfocreatina\nTigacile\nComplesso ferro (III) idrossido saccarosio\nNeostigmina metil solfato\nColina alfoscerata\ndopamina cloridrato\n(Sono medicinali ospedalieri)\n\nGENERATORI\nFLEBO\nKIT PRIMO SOCCORSO\nCIBO PRONTO IN BUSTE E CIBO non deperibile\nCIBO COLAZIONE\nBARRETTE ENERGETICHE \nLATTE 1 E 2\n\nDove: VIA CUORE IMMACOLATO DI MARIA 5\nVenerdi 12.00/16.00\nSabato 10.00/13.00\nDomenica 10.00/ 12.30\nMartedi 15.03 - 16.30 /19.00\nGiovedi 17.03 - 16.30 /19.00"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Milano Sospesa"",""recipients"":"""",""submit"":true,""title"":""A Milano continua la raccolta beni per rifugiati ucraini di Milano Sospesa"",""type"":""materialGoods"",""url"":""https://www.facebook.com/groups/ukraineinfo.help/permalink/456862506182703/?sfnsn=scwspmo&ref=share""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: Milano Sospesa
+title: A Milano continua la raccolta beni per rifugiati ucraini di Milano Sospesa
+recipients: ''
+description: ""A Milano continua la raccolta beni per rifugiati ucraini di Milano Sospesa\
+  \ ma si raccolgono solo i seguenti beni:\n\nPOWERBANK\nTORCE\nINTIMO NUOVO BIMBI\n\
+  CALZE NUOVE BIMBI\nINTIMO NUOVO ADULTO\nCALZE NUOVE ADULTO\nTAPPETINI campeggio\n\
+  SACCHI A PELO\nINTIMO TERMICO\nCALZE TERMICHE\nCAPPELLI E SCIARPE \nBENDE \nEMOSTATICO\n\
+  PRODOTTI IGIENE\n\nMEDICINALI FONDAMENTALI IN QUESTO MOMENTO:\n\nnoradrenalina idrotartrato\n\
+  sodio fosfocreatina\nTigacile\nComplesso ferro (III) idrossido saccarosio\nNeostigmina\
+  \ metil solfato\nColina alfoscerata\ndopamina cloridrato\n(Sono medicinali ospedalieri)\n\
+  \nGENERATORI\nFLEBO\nKIT PRIMO SOCCORSO\nCIBO PRONTO IN BUSTE E CIBO non deperibile\n\
+  CIBO COLAZIONE\nBARRETTE ENERGETICHE \nLATTE 1 E 2\n\nDove: VIA CUORE IMMACOLATO\
+  \ DI MARIA 5\nVenerdi 12.00/16.00\nSabato 10.00/13.00\nDomenica 10.00/ 12.30\nMartedi\
+  \ 15.03 - 16.30 /19.00\nGiovedi 17.03 - 16.30 /19.00""
+url: https://www.facebook.com/groups/ukraineinfo.help/permalink/456862506182703/?sfnsn=scwspmo&ref=share
+address:
+  mode: autocomplete
+  address:
+    place_id: 181610307
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 331692065
+    boundingbox:
+    - '45.4368289'
+    - '45.4368949'
+    - '9.1974967'
+    - '9.1976144'
+    lat: '45.4368289'
+    lon: '9.1974967'
+    display_name: Via Cuore Immacolato di Maria, Ripamonti, Municipio 5, Vaiano Valle,
+      Milano, Lombardia, 20141, Italia
+    class: highway
+    type: residential
+    importance: 0.8099999999999999
+    address:
+      road: Via Cuore Immacolato di Maria
+      quarter: Ripamonti
+      suburb: Municipio 5
+      village: Vaiano Valle
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20141'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/88,1167364014,2022-03-19 13:46:23,2022-03-12 18:32:39,Mappare le notizie in ucraino e russo per creare una mappa open data sull'andamento della guerra in Ucraina,,,,,"[""Valid/Accettato"",""News"",""document_data""]",,,"{""description"":""Un professore ceco, che vive e insegna negli Usa, ha sviluppato un algoritmo che estrae e analizza da una serie di testate tutti gli articoli che parlano della guerra in Ucraina.\nIl risultato \u00e8 un'enorme dataset che consente di raccontare l'invasione nel suo insieme."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.wired.it/article/ucraina-guerra-russia-mappa-intelligenza-artificiale/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Mappare le notizie in ucraino e russo per creare una mappa open data sull'andamento della guerra in Ucraina""}","<pre><yamldata>
+title: Mappare le notizie in ucraino e russo per creare una mappa open data sull'andamento
+  della guerra in Ucraina
+description: 'Un professore ceco, che vive e insegna negli Usa, ha sviluppato un algoritmo
+  che estrae e analizza da una serie di testate tutti gli articoli che parlano della
+  guerra in Ucraina.
+
+  Il risultato è un''enorme dataset che consente di raccontare l''invasione nel suo
+  insieme.'
+link: https://www.wired.it/article/ucraina-guerra-russia-mappa-intelligenza-artificiale/
+location:
+  mode: autocomplete
+  address: {}
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/100,1167401631,2022-03-19 13:45:16,2022-03-12 21:11:26,"Puglia, associazione Casa Ucraina organizza rete di ospitalità e bus per portare in Italia rifugiati ucraini",40.9842539,16.6210027,Puglia,Bari,"[""Valid/Accettato"",""News"",""Services"",""hospitality"",""transport""]",,,"{""Posizione"":""40.9842539 16.6210027"",""description"":""In Puglia l'associazione Casa Ucraina sta organizzando una rete di famiglie per ospitare profughi ucraini e bus per portarli in Puglia.\nPer info e adesioni: contact@casaucraina.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""http://dlvr.it/SLVBjH"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Puglia""},""boundingbox"":[""39.7895944"",""42.2264805"",""14.9341858"",""18.5205121""],""class"":""boundary"",""display_name"":""Puglia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7716750421714782,""lat"":""40.9842539"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.6210027"",""osm_id"":40095,""osm_type"":""relation"",""place_id"":283208903,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Puglia, Casa Ucraina organizza rete di ospitalit\u00e0 e bus per portare via rifugiati ucraini""}","<pre><yamldata>
+title: Puglia, Casa Ucraina organizza rete di ospitalità e bus per portare via rifugiati
+  ucraini
+description: 'In Puglia l''associazione Casa Ucraina sta organizzando una rete di
+  famiglie per ospitare profughi ucraini e bus per portarli in Puglia.
+
+  Per info e adesioni: contact@casaucraina.org'
+link: http://dlvr.it/SLVBjH
+location:
+  mode: autocomplete
+  address:
+    place_id: 283208903
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 40095
+    boundingbox:
+    - '39.7895944'
+    - '42.2264805'
+    - '14.9341858'
+    - '18.5205121'
+    lat: '40.9842539'
+    lon: '16.6210027'
+    display_name: Puglia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7716750421714782
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      state: Puglia
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 40.9842539 16.6210027
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/102,1167402531,2022-03-19 13:44:26,2022-03-12 21:17:01,Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio a rifugiati ucraini (anche in Italia),,,,,"[""Valid/Accettato"",""News"",""Services"",""hospitality"",""Resources""]",,,"{""description"":""Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio a rifugiati ucraini anche in Italia. Suggerita anche dall\u2019Ambasciata Ucraina in Italia."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://prykhystok.in.ua/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio a rifugiati ucraini (anche in Italia)""}","<pre><yamldata>
+title: Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio
+  a rifugiati ucraini (anche in Italia)
+description: Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio
+  a rifugiati ucraini anche in Italia. Suggerita anche dall’Ambasciata Ucraina in
+  Italia.
+link: https://prykhystok.in.ua/
+location:
+  mode: autocomplete
+  address: {}
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/103,1167402805,2022-03-19 13:44:08,2022-03-12 21:18:44,"Online jobsforukraine.net, piattaforma internazionale per offrire lavoro ai rifugiati ucraini",,,,,"[""Valid/Accettato"",""News"",""Services"",""job"",""Resources""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Online jobsforukraine.net, piattaforma internazionale per offrire lavoro ai rifugiati ucraini, in particolare in ambito accademico, ricerca scientifica e aziende."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""jobsforukraine.net"",""recipients"":"""",""submit"":true,""title"":""Online jobsforukraine.net, piattaforma internazionale per offrire lavoro ai rifugiati ucraini"",""type"":""jobOffer"",""url"":""https://t.co/WSuw9UvIU1""}","<pre><yamldata>
+type: jobOffer
+offerFromWho: jobsforukraine.net
+title: Online jobsforukraine.net, piattaforma internazionale per offrire lavoro ai
+  rifugiati ucraini
+recipients: ''
+description: Online jobsforukraine.net, piattaforma internazionale per offrire lavoro
+  ai rifugiati ucraini, in particolare in ambito accademico, ricerca scientifica e
+  aziende.
+url: https://t.co/WSuw9UvIU1
+address:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/122,1167625341,2022-03-19 13:43:11,2022-03-13 16:18:21,Online IcanHelp.host piattaforma europea che offre alloggi ai rifugiati ucraini,,,,,"[""Valid/Accettato"",""News"",""Services"",""hospitality"",""Resources""]",,,"{""description"":""Online IcanHelp.host piattaforma europea, creata da un gruppo di attivisti bielorussi, che offre alloggi ai rifugiati ucraini, anche in Italia."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://icanhelp.host/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Online IcanHelp.host piattaforma europea che offre alloggi ai rifugiati ucraini""}","<pre><yamldata>
+title: Online IcanHelp.host piattaforma europea che offre alloggi ai rifugiati ucraini
+description: Online IcanHelp.host piattaforma europea, creata da un gruppo di attivisti
+  bielorussi, che offre alloggi ai rifugiati ucraini, anche in Italia.
+link: https://icanhelp.host/
+location:
+  mode: autocomplete
+  address: {}
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/130,1168429240,2022-03-19 13:42:38,2022-03-14 14:06:23,HelpingToLeave: piattaforma con info aggiornate su trasporti e altro per uscire dall'Ucraina,49.4871968,31.2718321,,,"[""Valid/Accettato"",""News"",""Services"",""useful contact"",""transport"",""Resources""]",,,"{""Posizione"":""49.4871968 31.2718321"",""description"":""Helping to leave, piattaforma ucraina con info aggiornate su trasporti (bus, treni, auto private e altro) e altri servizi per aiutare i cittadini ucraini ad uscire dall'Ucraina. Solo in lingua ucraina.\nDisponibile a che canale Telegram in continuo aggiornamento: https://t.me/huiiivoiiine"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://helpingtoleave.org"",""location"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""44.184598"",""52.3797464"",""22.137059"",""40.2275801""],""class"":""boundary"",""display_name"":""Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8164442439164168,""lat"":""49.4871968"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""31.2718321"",""osm_id"":60199,""osm_type"":""relation"",""place_id"":283553033,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""HelpingToLeave: piattaforma con info aggiornate su trasporti e altro per uscire dall'Ucraina""}","<pre><yamldata>
+title: 'HelpingToLeave: piattaforma con info aggiornate su trasporti e altro per uscire
+  dall''Ucraina'
+description: 'Helping to leave, piattaforma ucraina con info aggiornate su trasporti
+  (bus, treni, auto private e altro) e altri servizi per aiutare i cittadini ucraini
+  ad uscire dall''Ucraina. Solo in lingua ucraina.
+
+  Disponibile a che canale Telegram in continuo aggiornamento: https://t.me/huiiivoiiine'
+link: https://helpingtoleave.org
+location:
+  mode: autocomplete
+  address:
+    place_id: 283553033
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 60199
+    boundingbox:
+    - '44.184598'
+    - '52.3797464'
+    - '22.137059'
+    - '40.2275801'
+    lat: '49.4871968'
+    lon: '31.2718321'
+    display_name: Ucraina
+    class: boundary
+    type: administrative
+    importance: 0.8164442439164168
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      country: Ucraina
+      country_code: ua
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 49.4871968 31.2718321
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/132,1168507644,2022-03-19 13:42:07,2022-03-14 15:02:40,"UAtalents, la piattaforma europea che connette aziende e rifugiati ucraini in cerca di lavoro",,,,,"[""Valid/Accettato"",""News"",""Services"",""job"",""Resources""]",,,"{""address"":{""address"":{""address"":{""place"":""Europa""},""boundingbox"":[""26"",""76"",""-15"",""35""],""class"":""place"",""display_name"":""Europa"",""importance"":0.8207067191883178,""lat"":""51"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10"",""osm_id"":25871341,""osm_type"":""node"",""place_id"":286311057,""type"":""continent""},""mode"":""autocomplete""},""description"":""UA talents is a job platform for displaced persons from and within Ukraine. On UA Talents, companies from all over Europe can advertise their job openings to people from Ukraine who have lost their employment due to the war. We are a team of volunteers, IT entrepreneurs, and experts from Ukraine that live abroad and want to contribute to the defense of European borders in Ukraine as well as support the livelihood of Ukrainian refugees and their families."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""UAtalents"",""recipients"":""Connect employers with Ukrainian people who are looking for a job within EU or remotely"",""submit"":true,""title"":""UAtalents"",""type"":""jobOffer"",""url"":""https://www.uatalents.com/""}","<pre><yamldata>
+type: jobOffer
+offerFromWho: UAtalents
+title: UAtalents
+recipients: Connect employers with Ukrainian people who are looking for a job within EU or remotely
+description: 'UA talents is a job platform for displaced persons from and within Ukraine.
+  On UA Talents, companies from all over Europe can advertise their job openings to
+  people from Ukraine who have lost their employment due to the war.
+  We are a team of volunteers, IT entrepreneurs, and experts from Ukraine that live abroad and want to contribute to the defense of European borders in Ukraine as well as support the livelihood of Ukrainian refugees and their families.'
+url: https://www.uatalents.com/
+address:
+  mode: autocomplete
+  address:
+    place_id: 286311057
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 25871341
+    boundingbox:
+    - '26'
+    - '76'
+    - '-15'
+    - '35'
+    lat: '51'
+    lon: '10'
+    display_name: Europa
+    class: place
+    type: continent
+    importance: 0.8207067191883178
+    address:
+      place: Europa
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/137,1168902959,2022-03-19 13:41:30,2022-03-14 21:05:27,"MapaHelp, mappa di cittadini e enti in Europa (e non solo) che offrono supporto ai rifugiati ucraini (alloggi, trasporti, assistenza sanitaria ecc.)",,,,,"[""Valid/Accettato"",""News"",""Services"",""useful contact"",""materialGoods"",""hospitality"",""transport"",""healtcare"",""psycologicalSupport"",""Resources""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""MapaHelp.me \u00e8 una piattaforma internazionale pensata per i rifugiati ucraini che hanno bisogno di informazioni per localizzare servizi di supporto in Europa e nel mondo, come offerte di alloggi, trasporti, cibo, beni di prima necessit\u00e0, assistenza sanitaria o psicologica e altro. \u00c8 disponibile in tre lingue (ucraino, russo e inglese). Tutti possono inserire una segnalazione anche dall\u2019Italia."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""MapaHelp"",""recipients"":"""",""submit"":true,""title"":""MapaHelp, piattaforma internazionale con info georeferenziate su alloggi, trasporti, cibo, beni, assistenza sanitaria per i rifugiati ucraini"",""type"":""hospitality"",""url"":""https://mapahelp.me""}","<pre><yamldata>
+type: hospitality
+offerFromWho: MapaHelp
+title: MapaHelp, piattaforma internazionale con info georeferenziate su alloggi, trasporti,
+  cibo, beni, assistenza sanitaria per i rifugiati ucraini
+recipients: ''
+description: MapaHelp.me è una piattaforma internazionale pensata per i rifugiati
+  ucraini che hanno bisogno di informazioni per localizzare servizi di supporto in
+  Europa e nel mondo, come offerte di alloggi, trasporti, cibo, beni di prima necessità,
+  assistenza sanitaria o psicologica e altro. È disponibile in tre lingue (ucraino,
+  russo e inglese). Tutti possono inserire una segnalazione anche dall’Italia.
+url: https://mapahelp.me
+address:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/139,1169382593,2022-03-19 13:41:06,2022-03-15 09:08:31,La piattaforma Jooble ha attivato Help Ukranians per aiutare i rifugiati ucraini a trovare lavoro,,,,,"[""Valid/Accettato"",""News"",""Services"",""job"",""Resources""]",,,"{""address"":{""address"":{""address"":{},""mode"":""autocomplete""},""mode"":""autocomplete""},""description"":""La piattaforma Jooble ha attivato il servizio (in lingua ucraina) Help Ukranians per aiutare i rifugiati ucraini a trovare lavoro. Disponibile anche canale in lingua ucraina Telegram https://t.me/helpukrainiansjooble"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Jooble.org"",""recipients"":"""",""submit"":true,""title"":""La piattaforma Jooble ha attivato Help Ukranians per aiutare i rifugiati ucraini a trovare lavoro"",""type"":""jobOffer"",""url"":""https://helpukrainians.jooble.org""}","<pre><yamldata>
+type: jobOffer
+offerFromWho: Jooble.org
+title: La piattaforma Jooble ha attivato Help Ukranians per aiutare i rifugiati ucraini
+  a trovare lavoro
+recipients: ''
+description: La piattaforma Jooble ha attivato il servizio (in lingua ucraina) Help
+  Ukranians per aiutare i rifugiati ucraini a trovare lavoro. Disponibile anche canale
+  in lingua ucraina Telegram https://t.me/helpukrainiansjooble
+url: https://helpukrainians.jooble.org
+address:
+  mode: autocomplete
+  address:
+    mode: autocomplete
+    address: {}
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/153,1170149445,2022-03-19 13:40:08,2022-03-15 19:59:17,"Accoglienza rifugiati ucraini, sul Giornale della Protezione Civile i dati regione per regione",,,,,"[""Valid/Accettato"",""News"",""document_data""]",,,"{""description"":""Accoglienza rifgiati ucraini, sul Giornale della Protezione Civile i dati regione per regione e l'impegno messo in campo.\nI dati sono aggiornati al 14 marzo."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://t.co/umxZ0a7Pgz"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Accoglienza rifgiati ucraini, sul Giornale della Protezione Civile i dati regione per regione""}","<pre><yamldata>
+title: Accoglienza rifgiati ucraini, sul Giornale della Protezione Civile i dati regione
+  per regione
+description: 'Accoglienza rifgiati ucraini, sul Giornale della Protezione Civile i
+  dati regione per regione e l''impegno messo in campo.
+
+  I dati sono aggiornati al 14 marzo.'
+link: https://t.co/umxZ0a7Pgz
+location:
+  mode: autocomplete
+  address: {}
+label: document_data
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/160,1171123941,2022-03-19 13:39:10,2022-03-16 14:45:26,Emergenza Ucraina e persone con disabilità: elenco di risorse utili,49.4871968,31.2718321,,,"[""Valid/Accettato"",""News"",""useful contact"",""disability"",""Resources""]",,,"{""Posizione"":""49.4871968 31.2718321"",""description"":""Su Twitter l\u2019attivista Kimberly St. Julian-Varnon ha elencato una serie di risorse online (associazioni che offrono supporto, farmaci, attrezzature, gruppi di aiuto, contatti per lasciare il paese, ecc.) che possono essere di aiuto alle persone con disabilit\u00e0 o con malattie croniche (es. diabetici) in Ucraina."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://twitter.com/ksvarnon/status/1498392581410934786?s=20&t=sscazmX2h9RxHRq-UXYX4g"",""location"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""44.184598"",""52.3797464"",""22.137059"",""40.2275801""],""class"":""boundary"",""display_name"":""Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9264442439164168,""lat"":""49.4871968"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""31.2718321"",""osm_id"":60199,""osm_type"":""relation"",""place_id"":283553033,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Emergenza Ucraina e persone con disabilit\u00e0: elenco di risorse utili""}","<pre><yamldata>
+title: 'Emergenza Ucraina e persone con disabilità: elenco di risorse utili'
+description: Su Twitter l’attivista Kimberly St. Julian-Varnon ha elencato una serie
+  di risorse online (associazioni che offrono supporto, farmaci, attrezzature, gruppi
+  di aiuto, contatti per lasciare il paese, ecc.) che possono essere di aiuto alle
+  persone con disabilità o con malattie croniche (es. diabetici) in Ucraina.
+link: https://twitter.com/ksvarnon/status/1498392581410934786?s=20&t=sscazmX2h9RxHRq-UXYX4g
+location:
+  mode: autocomplete
+  address:
+    place_id: 283553033
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 60199
+    boundingbox:
+    - '44.184598'
+    - '52.3797464'
+    - '22.137059'
+    - '40.2275801'
+    lat: '49.4871968'
+    lon: '31.2718321'
+    display_name: Ucraina
+    class: boundary
+    type: administrative
+    importance: 0.9264442439164168
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      country: Ucraina
+      country_code: ua
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 49.4871968 31.2718321
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/189,1172899501,2022-03-19 13:37:17,2022-03-17 20:44:53,A #Bergamo un servizio di consulenza e affiancamento legale ai richiedenti asilo/TPI e altre forme complementari di protezione,45.6956905,9.6586191,Lombardia,Bergamo,"[""Valid/Accettato"",""Services"",""Legal"",""useful contact"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.6956905 9.6586191"",""description"":""Servizio di consulenza / affiancamento richiedenti asilo/TPI e titolari forme complementari di protezione\nAccompagnamento richiedenti asilo in tutte le fasi della richiesta di protezione\nSegnalazioni per inserimento progetto SPRAR/SIPROIMI\nServizio di consulenza/affiancamento per rimpatri volontari\nServizi per la fruizione dei diritti dei richiedenti asilo/TPI e titolari di forme complementari di protezione"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://www.caritasbergamo.it/casa/protezione/richiedenti-asilo-e-rifugiati/cir-bergamo/"",""location"":{""address"":{""address"":{""city"":""Bergamo"",""country"":""Italia"",""country_code"":""it"",""county"":""Bergamo"",""house_number"":""6b"",""postcode"":""24128"",""road"":""Via Giuseppe Mazzini"",""state"":""Lombardia"",""suburb"":""Citt\u00e0 Alta""},""boundingbox"":[""45.6956405"",""45.6957405"",""9.6585691"",""9.6586691""],""class"":""place"",""display_name"":""6b, Via Giuseppe Mazzini, Finazzi, Citt\u00e0 Alta, Bergamo, Lombardia, 24128, Italia"",""importance"":0.6309999999999999,""lat"":""45.6956905"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.6586191"",""osm_id"":7465011070,""osm_type"":""node"",""place_id"":77974844,""type"":""house""},""mode"":""autocomplete""},""submit"":true,""title"":""CONSIGLIO ITALIANO PER I RIFUGIATI / Bergamo""}","<pre><yamldata>
 title: CONSIGLIO ITALIANO PER I RIFUGIATI / Bergamo
 description: 'Servizio di consulenza / affiancamento richiedenti asilo/TPI e titolari
@@ -102,48 +532,6 @@ address:
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/233,1174217959,2022-03-19 13:35:06,2022-03-19 09:15:19,Regione Lombardia: avviso pubblico tutori volontari minori stranieri non accompagnati,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""Children"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""aeroway"":""Regione Lombardia"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20124"",""quarter"":""GARIBALDI REPUBBLICA"",""road"":""Piazza Citt\u00e0 di Lombardia"",""state"":""Lombardia"",""suburb"":""Municipio 9""},""boundingbox"":[""45.485842"",""45.4861511"",""9.1959739"",""9.1964178""],""class"":""aeroway"",""display_name"":""Regione Lombardia, Piazza Citt\u00e0 di Lombardia, GARIBALDI REPUBBLICA, Municipio 9, Milano, Lombardia, 20124, Italia"",""importance"":0.201,""lat"":""45.4859929"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.196196030443867"",""osm_id"":190405923,""osm_type"":""way"",""place_id"":147821966,""type"":""helipad""},""mode"":""autocomplete""},""description"":""avviso pubblico tutori volontari #minori stranieri non accompagnati \n\nhttps://www.consiglio.regione.lombardia.it/wps/portal/crl/home/istituzione/altri-organismi/garante-per-l-infanzia-e-per-l-adolescenza/tutore-minori-stranieri-non-accompagnati"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Lombardia"",""recipients"":""Children"",""submit"":true,""title"":""avviso pubblico tutori volontari #minori stranieri non accompagnati   https://www.consiglio.regione.lombardia.it/wps/portal/crl/home/istituzione/altri-organismi/garante-per-l-infanzia-e-per-l-adolescenza/tutore-minori-stranieri-non-accompagnati"",""type"":""legal"",""url"":""https://www.consiglio.regione.lombardia.it/wps/portal/crl/home/istituzione/altri-organismi/garante-per-l-infanzia-e-per-l-adolescenza/tutore-minori-stranieri-non-accompagnati""}","<pre><yamldata>
-type: legal
-offerFromWho: Regione Lombardia
-title: 'avviso pubblico tutori volontari #minori stranieri non accompagnati   https://www.consiglio.regione.lombardia.it/wps/portal/crl/home/istituzione/altri-organismi/garante-per-l-infanzia-e-per-l-adolescenza/tutore-minori-stranieri-non-accompagnati'
-recipients: Children
-description: ""avviso pubblico tutori volontari #minori stranieri non accompagnati\
-  \ \n\nhttps://www.consiglio.regione.lombardia.it/wps/portal/crl/home/istituzione/altri-organismi/garante-per-l-infanzia-e-per-l-adolescenza/tutore-minori-stranieri-non-accompagnati""
-url: https://www.consiglio.regione.lombardia.it/wps/portal/crl/home/istituzione/altri-organismi/garante-per-l-infanzia-e-per-l-adolescenza/tutore-minori-stranieri-non-accompagnati
-address:
-  mode: autocomplete
-  address:
-    place_id: 147821966
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 190405923
-    boundingbox:
-    - '45.485842'
-    - '45.4861511'
-    - '9.1959739'
-    - '9.1964178'
-    lat: '45.4859929'
-    lon: '9.196196030443867'
-    display_name: Regione Lombardia, Piazza Città di Lombardia, GARIBALDI REPUBBLICA,
-      Municipio 9, Milano, Lombardia, 20124, Italia
-    class: aeroway
-    type: helipad
-    importance: 0.201
-    address:
-      aeroway: Regione Lombardia
-      road: Piazza Città di Lombardia
-      quarter: GARIBALDI REPUBBLICA
-      suburb: Municipio 9
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20124'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/213,1173799564,2022-03-19 13:31:17,2022-03-18 16:46:49,"Rifugiati ucraini, Croce rossa Firenze avvia censimento per individuare disponibilità alloggi",,,,,"[""Valid/Accettato"",""News"",""Services"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""state"":""Toscana""},""boundingbox"":[""43.7258716"",""43.8354631"",""11.1497598"",""11.3389044""],""class"":""boundary"",""display_name"":""Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8105633028502386,""lat"":""43.7806771"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.24376289731579"",""osm_id"":42602,""osm_type"":""relation"",""place_id"":284666342,""type"":""administrative""},""mode"":""autocomplete""},""description"":""La Croce Rossa Italiana, come membro permanente del Comitato Operativo Regionale del Volontario della Regione Toscana, sta effettuando la raccolta dati per il censimento delle disponibilit\u00e0 di alloggio per i rifugiati durante l\u2019Emergenza Ucraina. I dati forniti saranno elaborati esclusivamente da Croce Rossa Italiana e Prefettura di competenza, per gli scopi collegati all\u2019accoglienza dei profughi dell\u2019Emergenza Ucraina. Per informazioni scrivere a: censimento.alloggi@crifirenze.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Croce Rossa Italiana Comitato di Firenze"",""recipients"":"""",""submit"":true,""title"":""Censimento disponibilit\u00e0 alloggi"",""type"":""hospitality"",""url"":""https://crifirenze.it/""}","<pre><yamldata>
@@ -3180,23 +3568,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/50,1164063114,2022-03-17 15:42:07,2022-03-09 15:06:31,Online Friendsofukraine.eu che offre servizi di telemedicina a ucraini colpiti dalla guerra,,,,,"[""Valid/Accettato"",""News"",""Services"",""healtcare"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Online la piattaforma friendsofukraine.eu promossa da @Friends_of_UA che offre gratuitamente servizi di #telemedicina e dona dispositivi sanitari popolo ucraino colpito dalla guerra."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Friends of Ukraine"",""recipients"":"""",""submit"":true,""title"":""Online Friendsofukraine.eu che offre servizi di telemidicina a ucraini colpiti dalla guerra"",""type"":""healthcare"",""url"":""https://friendsofukraine.eu/""}","<pre><yamldata>
-type: healthcare
-offerFromWho: Friends of Ukraine
-title: Online Friendsofukraine.eu che offre servizi di telemidicina a ucraini colpiti
-  dalla guerra
-recipients: ''
-description: 'Online la piattaforma friendsofukraine.eu promossa da @Friends_of_UA
-  che offre gratuitamente servizi di #telemedicina e dona dispositivi sanitari popolo
-  ucraino colpito dalla guerra.'
-url: https://friendsofukraine.eu/
-address:
-  mode: autocomplete
-  address: {}
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/49,1164060552,2022-03-17 15:41:06,2022-03-09 15:04:32,A Lodi azienda sanitaria attiva hotspot territoriale di accoglienza per i cittadini ucraini,,,,,"[""Valid/Accettato"",""Missing position"",""Services"",""healtcare"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Lodi"",""neighbourhood"":""Guatra"",""postcode"":""26866"",""road"":""Via Umberto I"",""state"":""Lombardia"",""town"":""Sant'Angelo Lodigiano"",""village"":""Galeotta""},""boundingbox"":[""45.2372892"",""45.2383773"",""9.4090166"",""9.4096631""],""class"":""highway"",""display_name"":""Via Umberto I, Guatra, Galeotta, Sant'Angelo Lodigiano, Lodi, Lombardia, 26866, Italia"",""importance"":0.91,""lat"":""45.2380483"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.4092224"",""osm_id"":240658221,""osm_type"":""way"",""place_id"":161215418,""type"":""tertiary""},""mode"":""autocomplete""},""description"":""Attivato a Lodi un hotspot territoriale di accoglienza per i cittadini ucraini in arrivo in Italia presso il Punto Unico di Accesso della Casa di Comunit\u00e0 di Sant\u2019Angelo Lodigiano."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Azienda Sanitaria di Lodi"",""recipients"":"""",""submit"":true,""title"":""Attivato a Lodi un hotspot territoriale di accoglienza per i cittadini ucraini"",""type"":""healthcare"",""url"":""https://twitter.com/asstlodi/status/1501548401443356673?s=21""}","<pre><yamldata>
 type: healthcare
 offerFromWho: Azienda Sanitaria di Lodi
@@ -4195,40 +4566,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 45.4517761 9.179309
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/160,1171123941,2022-03-16 15:54:39,2022-03-16 14:45:26,Emergenza Ucraina e persone con disabilità: elenco di risorse utili,49.4871968,31.2718321,,,"[""Valid/Accettato"",""News"",""useful contact"",""disability""]",,,"{""Posizione"":""49.4871968 31.2718321"",""description"":""Su Twitter l\u2019attivista Kimberly St. Julian-Varnon ha elencato una serie di risorse online (associazioni che offrono supporto, farmaci, attrezzature, gruppi di aiuto, contatti per lasciare il paese, ecc.) che possono essere di aiuto alle persone con disabilit\u00e0 o con malattie croniche (es. diabetici) in Ucraina."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://twitter.com/ksvarnon/status/1498392581410934786?s=20&t=sscazmX2h9RxHRq-UXYX4g"",""location"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""44.184598"",""52.3797464"",""22.137059"",""40.2275801""],""class"":""boundary"",""display_name"":""Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9264442439164168,""lat"":""49.4871968"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""31.2718321"",""osm_id"":60199,""osm_type"":""relation"",""place_id"":283553033,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Emergenza Ucraina e persone con disabilit\u00e0: elenco di risorse utili""}","<pre><yamldata>
-title: 'Emergenza Ucraina e persone con disabilità: elenco di risorse utili'
-description: Su Twitter l’attivista Kimberly St. Julian-Varnon ha elencato una serie
-  di risorse online (associazioni che offrono supporto, farmaci, attrezzature, gruppi
-  di aiuto, contatti per lasciare il paese, ecc.) che possono essere di aiuto alle
-  persone con disabilità o con malattie croniche (es. diabetici) in Ucraina.
-link: https://twitter.com/ksvarnon/status/1498392581410934786?s=20&t=sscazmX2h9RxHRq-UXYX4g
-location:
-  mode: autocomplete
-  address:
-    place_id: 283553033
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 60199
-    boundingbox:
-    - '44.184598'
-    - '52.3797464'
-    - '22.137059'
-    - '40.2275801'
-    lat: '49.4871968'
-    lon: '31.2718321'
-    display_name: Ucraina
-    class: boundary
-    type: administrative
-    importance: 0.9264442439164168
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      country: Ucraina
-      country_code: ua
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 49.4871968 31.2718321
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/158,1171105306,2022-03-16 15:53:50,2022-03-16 14:30:37,Contatti telefonici di Croce Rossa Ucraina per la ricerca di familiari dispersi,49.4871968,31.2718321,,,"[""Valid/Accettato"",""News"",""Services"",""useful contact""]",,,"{""Posizione"":""49.4871968 31.2718321"",""description"":""Nel caso in cui perdiate i contatti con i vostri cari, potete contattare il servizio di ricerca della Croce Rossa dell'Ucraina ai numeri sotto indicati:\n\u25ab\ufe0fKiev 096 304 4375, 066 250 9957\n\u25ab\ufe0fLviv 095 250 1274\n\u25ab\ufe0fKharkiv 099 206 5493\n\u25ab\ufe0fDnipro 095 250 1181\n\u25ab\ufe0fKramatorsk 095 250 1229"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.facebook.com/groups/ukrainehelpit/permalink/458942835974670/"",""location"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""44.184598"",""52.3797464"",""22.137059"",""40.2275801""],""class"":""boundary"",""display_name"":""Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8164442439164168,""lat"":""49.4871968"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""31.2718321"",""osm_id"":60199,""osm_type"":""relation"",""place_id"":283553033,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Contatti telefonici di Croce Rossa Ucraina per la ricerca di familiari dispersi""}","<pre><yamldata>
 title: Contatti telefonici di Croce Rossa Ucraina per la ricerca di familiari dispersi
 description: 'Nel caso in cui perdiate i contatti con i vostri cari, potete contattare
@@ -4858,21 +5195,6 @@ label: help
 submit: true
 Posizione: 45.930394 13.6194937
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/153,1170149445,2022-03-16 09:35:18,2022-03-15 19:59:17,"Accoglienza rifugiati ucraini, sul Giornale della Protezione Civile i dati regione per regione",,,,,"[""Valid/Accettato"",""News"",""Services"",""document_data""]",,,"{""description"":""Accoglienza rifgiati ucraini, sul Giornale della Protezione Civile i dati regione per regione e l'impegno messo in campo.\nI dati sono aggiornati al 14 marzo."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://t.co/umxZ0a7Pgz"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Accoglienza rifgiati ucraini, sul Giornale della Protezione Civile i dati regione per regione""}","<pre><yamldata>
-title: Accoglienza rifgiati ucraini, sul Giornale della Protezione Civile i dati regione
-  per regione
-description: 'Accoglienza rifgiati ucraini, sul Giornale della Protezione Civile i
-  dati regione per regione e l''impegno messo in campo.
-
-  I dati sono aggiornati al 14 marzo.'
-link: https://t.co/umxZ0a7Pgz
-location:
-  mode: autocomplete
-  address: {}
-label: document_data
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/156,1170721596,2022-03-16 09:33:50,2022-03-16 08:56:19,"Emergenza Ucraina, raccolta fondi della Regione Emilia Romagna",44.5086078,11.3633696,Emilia-Romagna,Bologna,"[""Valid/Accettato"",""fundraising""]",,,"{""Posizione"":""44.5086078 11.3633696"",""bicSwift"":""UNCRITM1BA2"",""causal"":""EMERGENZA UCRAINA"",""ccPostal"":"""",""description"":""Raccolta fondi per l'emergenza in Ucraina."",""email"":""procivsegr@regione.emilia-romagna.it"",""heading"":""Agenzia per la sicurezza territoriale e la protezione civile dell\u2019Emilia-Romagna"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT69G0200802435000104428964"",""label"":""fundraising"",""link"":""https://t.co/PRsSRsL22j?s=09"",""location"":{""address"":{""address"":{""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""house_number"":""52"",""office"":""URP Regione Emilia-Romagna"",""postcode"":""14007"",""road"":""Viale Aldo Moro"",""state"":""Emilia-Romagna"",""suburb"":""San Donato"",""village"":""San Nicol\u00f2 di Villola""},""boundingbox"":[""44.5085578"",""44.5086578"",""11.3633196"",""11.3634196""],""class"":""office"",""display_name"":""URP Regione Emilia-Romagna, 52, Viale Aldo Moro, San Donato, San Donato-San Vitale, San Nicol\u00f2 di Villola, Bologna, Emilia-Romagna, 14007, Italia"",""importance"":0.5209999999999999,""lat"":""44.5086078"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.3633696"",""osm_id"":4152700305,""osm_type"":""node"",""place_id"":47977253,""type"":""government""},""mode"":""autocomplete""},""submit"":true,""title"":""Emergenza Ucraina, raccolta fondi della Regione Emilia Romagna""}","<pre><yamldata>
 title: Emergenza Ucraina, raccolta fondi della Regione Emilia Romagna
 description: Raccolta fondi per l'emergenza in Ucraina.
@@ -5268,25 +5590,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/139,1169382593,2022-03-15 09:17:21,2022-03-15 09:08:31,La piattaforma Jooble ha attivato Help Ukranians per aiutare i rifugiati ucraini a trovare lavoro,,,,,"[""Valid/Accettato"",""News"",""Services"",""job""]",,,"{""address"":{""address"":{""address"":{},""mode"":""autocomplete""},""mode"":""autocomplete""},""description"":""La piattaforma Jooble ha attivato il servizio (in lingua ucraina) Help Ukranians per aiutare i rifugiati ucraini a trovare lavoro. Disponibile anche canale in lingua ucraina Telegram https://t.me/helpukrainiansjooble"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Jooble.org"",""recipients"":"""",""submit"":true,""title"":""La piattaforma Jooble ha attivato Help Ukranians per aiutare i rifugiati ucraini a trovare lavoro"",""type"":""jobOffer"",""url"":""https://helpukrainians.jooble.org""}","<pre><yamldata>
-type: jobOffer
-offerFromWho: Jooble.org
-title: La piattaforma Jooble ha attivato Help Ukranians per aiutare i rifugiati ucraini
-  a trovare lavoro
-recipients: ''
-description: La piattaforma Jooble ha attivato il servizio (in lingua ucraina) Help
-  Ukranians per aiutare i rifugiati ucraini a trovare lavoro. Disponibile anche canale
-  in lingua ucraina Telegram https://t.me/helpukrainiansjooble
-url: https://helpukrainians.jooble.org
-address:
-  mode: autocomplete
-  address:
-    mode: autocomplete
-    address: {}
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/136,1168870625,2022-03-14 22:46:29,2022-03-14 20:28:50,Vocabolario Interattivo Parlante Ucraino - italiano- inglese per i bambini e gli insegnanti ,,,,,"[""Valid/Accettato"",""Services"",""Translation"",""Children""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Vocabolario Interattivo Parlante. \nLeggete con attenzione le istruzioni inserite all\u2019interno della risorsa!\nCliccando sui vari oggetti presenti nelle varie stanze potrete ascoltare l\u2019audio della parola in italiano e potrete leggere la rispettiva parola in italiano, in ucraino e inglese. L\u2019audio, al momento, non \u00e8 attivo da dispositivi mobili Apple."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Play and Learn Italy"",""recipients"":""Bambini"",""submit"":true,""title"":""Vocabolario Interattivo Parlante Ucraino - italiano- inglese per le scuole"",""type"":""children"",""url"":""https://playandlearnitalia.com/vocabolario-interattivo-parlante-italo-ucraino/""}","<pre><yamldata>
 type: children
 offerFromWho: Play and Learn Italy
@@ -5298,25 +5601,6 @@ description: ""Vocabolario Interattivo Parlante. \nLeggete con attenzione le ist
   \ la rispettiva parola in italiano, in ucraino e inglese. L’audio, al momento, non\
   \ è attivo da dispositivi mobili Apple.""
 url: https://playandlearnitalia.com/vocabolario-interattivo-parlante-italo-ucraino/
-address:
-  mode: autocomplete
-  address: {}
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/137,1168902959,2022-03-14 21:25:16,2022-03-14 21:05:27,"MapaHelp, mappa di cittadini e enti in Europa (e non solo) che offrono supporto ai rifugiati ucraini (alloggi, trasporti, assistenza sanitaria ecc.)",,,,,"[""Valid/Accettato"",""News"",""Services"",""useful contact"",""materialGoods"",""hospitality"",""transport"",""healtcare"",""psycologicalSupport""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""MapaHelp.me \u00e8 una piattaforma internazionale pensata per i rifugiati ucraini che hanno bisogno di informazioni per localizzare servizi di supporto in Europa e nel mondo, come offerte di alloggi, trasporti, cibo, beni di prima necessit\u00e0, assistenza sanitaria o psicologica e altro. \u00c8 disponibile in tre lingue (ucraino, russo e inglese). Tutti possono inserire una segnalazione anche dall\u2019Italia."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""MapaHelp"",""recipients"":"""",""submit"":true,""title"":""MapaHelp, piattaforma internazionale con info georeferenziate su alloggi, trasporti, cibo, beni, assistenza sanitaria per i rifugiati ucraini"",""type"":""hospitality"",""url"":""https://mapahelp.me""}","<pre><yamldata>
-type: hospitality
-offerFromWho: MapaHelp
-title: MapaHelp, piattaforma internazionale con info georeferenziate su alloggi, trasporti,
-  cibo, beni, assistenza sanitaria per i rifugiati ucraini
-recipients: ''
-description: MapaHelp.me è una piattaforma internazionale pensata per i rifugiati
-  ucraini che hanno bisogno di informazioni per localizzare servizi di supporto in
-  Europa e nel mondo, come offerte di alloggi, trasporti, cibo, beni di prima necessità,
-  assistenza sanitaria o psicologica e altro. È disponibile in tre lingue (ucraino,
-  russo e inglese). Tutti possono inserire una segnalazione anche dall’Italia.
-url: https://mapahelp.me
 address:
   mode: autocomplete
   address: {}
@@ -5543,40 +5827,6 @@ label: document_data
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/132,1168507644,2022-03-14 15:20:59,2022-03-14 15:02:40,"UAtalents, la piattaforma europea che connette aziende e rifugiati ucraini in cerca di lavoro",,,,,"[""Valid/Accettato"",""News"",""Services"",""job""]",,,"{""address"":{""address"":{""address"":{""place"":""Europa""},""boundingbox"":[""26"",""76"",""-15"",""35""],""class"":""place"",""display_name"":""Europa"",""importance"":0.8207067191883178,""lat"":""51"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10"",""osm_id"":25871341,""osm_type"":""node"",""place_id"":286311057,""type"":""continent""},""mode"":""autocomplete""},""description"":""UA talents is a job platform for displaced persons from and within Ukraine. On UA Talents, companies from all over Europe can advertise their job openings to people from Ukraine who have lost their employment due to the war. We are a team of volunteers, IT entrepreneurs, and experts from Ukraine that live abroad and want to contribute to the defense of European borders in Ukraine as well as support the livelihood of Ukrainian refugees and their families."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""UAtalents"",""recipients"":""Connect employers with Ukrainian people who are looking for a job within EU or remotely"",""submit"":true,""title"":""UAtalents"",""type"":""jobOffer"",""url"":""https://www.uatalents.com/""}","<pre><yamldata>
-type: jobOffer
-offerFromWho: UAtalents
-title: UAtalents
-recipients: Connect employers with Ukrainian people who are looking for a job within EU or remotely
-description: 'UA talents is a job platform for displaced persons from and within Ukraine.
-  On UA Talents, companies from all over Europe can advertise their job openings to
-  people from Ukraine who have lost their employment due to the war.
-  We are a team of volunteers, IT entrepreneurs, and experts from Ukraine that live abroad and want to contribute to the defense of European borders in Ukraine as well as support the livelihood of Ukrainian refugees and their families.'
-url: https://www.uatalents.com/
-address:
-  mode: autocomplete
-  address:
-    place_id: 286311057
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 25871341
-    boundingbox:
-    - '26'
-    - '76'
-    - '-15'
-    - '35'
-    lat: '51'
-    lon: '10'
-    display_name: Europa
-    class: place
-    type: continent
-    importance: 0.8207067191883178
-    address:
-      place: Europa
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/131,1168459023,2022-03-14 15:18:41,2022-03-14 14:26:01,"Host a sister, la rete di donne che offre ospitalità gratuita si attiva per le rifugiate ucraine",,,,,"[""Valid/Accettato"",""News"",""Services"",""hospitality"",""women""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Host a sister, rete internazionale di ospitalit\u00e0 per donne e persone non binarie fondata nel 2019, offre alloggi gratuiti e sicuri alle rifugiate ucraine sole o con figlie/i."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Host a sister"",""recipients"":""rifugiate ucraine sole o con figli/e"",""submit"":true,""title"":""Host a sister, la rete di donne che offre ospitalit\u00e0 gratuita si attiva per le rifugiate ucraine"",""type"":""hospitality"",""url"":""https://www.facebook.com/hostasister/""}","<pre><yamldata>
 type: hospitality
 offerFromWho: Host a sister
@@ -5593,42 +5843,6 @@ address:
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/130,1168429240,2022-03-14 15:15:49,2022-03-14 14:06:23,HelpingToLeave: piattaforma con info aggiornate su trasporti e altro per uscire dall'Ucraina,49.4871968,31.2718321,,,"[""Valid/Accettato"",""News"",""Services"",""useful contact"",""transport""]",,,"{""Posizione"":""49.4871968 31.2718321"",""description"":""Helping to leave, piattaforma ucraina con info aggiornate su trasporti (bus, treni, auto private e altro) e altri servizi per aiutare i cittadini ucraini ad uscire dall'Ucraina. Solo in lingua ucraina.\nDisponibile a che canale Telegram in continuo aggiornamento: https://t.me/huiiivoiiine"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://helpingtoleave.org"",""location"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""44.184598"",""52.3797464"",""22.137059"",""40.2275801""],""class"":""boundary"",""display_name"":""Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8164442439164168,""lat"":""49.4871968"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""31.2718321"",""osm_id"":60199,""osm_type"":""relation"",""place_id"":283553033,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""HelpingToLeave: piattaforma con info aggiornate su trasporti e altro per uscire dall'Ucraina""}","<pre><yamldata>
-title: 'HelpingToLeave: piattaforma con info aggiornate su trasporti e altro per uscire
-  dall''Ucraina'
-description: 'Helping to leave, piattaforma ucraina con info aggiornate su trasporti
-  (bus, treni, auto private e altro) e altri servizi per aiutare i cittadini ucraini
-  ad uscire dall''Ucraina. Solo in lingua ucraina.
-
-  Disponibile a che canale Telegram in continuo aggiornamento: https://t.me/huiiivoiiine'
-link: https://helpingtoleave.org
-location:
-  mode: autocomplete
-  address:
-    place_id: 283553033
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 60199
-    boundingbox:
-    - '44.184598'
-    - '52.3797464'
-    - '22.137059'
-    - '40.2275801'
-    lat: '49.4871968'
-    lon: '31.2718321'
-    display_name: Ucraina
-    class: boundary
-    type: administrative
-    importance: 0.8164442439164168
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      country: Ucraina
-      country_code: ua
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 49.4871968 31.2718321
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/129,1168401820,2022-03-14 15:14:57,2022-03-14 13:45:26,Comune di Milano: info per rifugiati ucraini che cercano alloggio,,,,,"[""Valid/Accettato"",""News"",""Services"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""12"",""neighbourhood"":""Duomo"",""postcode"":""20122"",""road"":""Piazza del Duomo"",""state"":""Lombardia"",""suburb"":""Municipio 1"",""tourism"":""Palazzo Reale""},""boundingbox"":[""45.4630907"",""45.4631907"",""9.1911802"",""9.1912802""],""class"":""tourism"",""display_name"":""Palazzo Reale, 12, Piazza del Duomo, Duomo, Municipio 1, Milano, Lombardia, 20122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//tourist_museum.p.20.png"",""importance"":0.6382492632678067,""lat"":""45.4631407"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1912302"",""osm_id"":9551908512,""osm_type"":""node"",""place_id"":331963027,""type"":""museum""},""mode"":""autocomplete""},""description"":""Le persone ucraine che hanno necessit\u00e0 di essere alloggiate, dovranno contattare la centrale operativa regionale al numero verde 800-894545 e fornire informazioni relative al nucleo familiare da accogliere.\nLa gestione dell\u2019accoglienza sar\u00e0 poi assicurata dalle Prefetture lombarde competenti, anche sulla base di eventuali legami amicali o familiari presenti sul territorio regionale.\n\n    Per i cittadini ucraini che arrivano spontaneamente in Stazione Centrale \u00e8 presente H24 un InfoPoint della Protezione Civile, e da luned\u00ec anche un punto tamponi, che fornisce tutte le informazioni di base e provvede a segnalare eventuali necessit\u00e0 alloggiative alla Prefettura di Milano, per la successiva gestione.\n\nPer i cittadini ucraini che arrivano in pullman, eventuali passaggieri che necessitano di accoglienza dovranno contattare il numero verde regionale in modo da segnalare eventuali esigenze alloggiative e contatti personali che verranno poi trasmessi alla Prefettura in modo da consentire l\u2019individuazione di una soluzione alloggiativa adeguata.\n\nOltre al numero regionale \u00e8 possibile contattare anche il numero di telefono 02.02.02 del Comune di Milano, che provveder\u00e0 ad assicurare ogni utile informazione e a fornire i contatti degli enti competenti per i differenti profili."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Milano"",""recipients"":"""",""submit"":true,""title"":""Comune di Milano: info per rifugiati ucraini che cercano alloggio"",""type"":""hospitality"",""url"":""https://www.comune.milano.it/web/milanoaiuta/per-chi-cerca-un-alloggio""}","<pre><yamldata>
 type: hospitality
@@ -5816,18 +6030,6 @@ label: document_data
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/122,1167625341,2022-03-13 16:19:02,2022-03-13 16:18:21,Online IcanHelp.host piattaforma europea che offre alloggi ai rifugiati ucraini,,,,,"[""Valid/Accettato"",""News"",""Services"",""hospitality""]",,,"{""description"":""Online IcanHelp.host piattaforma europea, creata da un gruppo di attivisti bielorussi, che offre alloggi ai rifugiati ucraini, anche in Italia."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://icanhelp.host/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Online IcanHelp.host piattaforma europea che offre alloggi ai rifugiati ucraini""}","<pre><yamldata>
-title: Online IcanHelp.host piattaforma europea che offre alloggi ai rifugiati ucraini
-description: Online IcanHelp.host piattaforma europea, creata da un gruppo di attivisti
-  bielorussi, che offre alloggi ai rifugiati ucraini, anche in Italia.
-link: https://icanhelp.host/
-location:
-  mode: autocomplete
-  address: {}
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/117,1167609194,2022-03-13 15:53:47,2022-03-13 15:15:59,E' guerra di fake news sulle macerie di Mariupol,,,,,"[""Valid/Accettato"",""fakenews""]",,,"{""description"":""Ricostruzione di Ansa delle fake news sui bombardamenti dell\u2019ospedale pediatrico di Mariupol e l\u2019immagine di una donna incinta portata via in barella dai soccorritori tra le rovine fumanti dell'ospedale pediatrico di Mariupol appena bombardato."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""fakenews"",""link"":""https://t.co/s9bXxPiZtE"",""location"":{""address"":{""address"":{},""mode"":""autocomplete""},""mode"":""autocomplete""},""submit"":true,""title"":""E' guerra di fake news sulle macerie di Mariupol""}","<pre><yamldata>
 title: E' guerra di fake news sulle macerie di Mariupol
 description: Ricostruzione di Ansa delle fake news sui bombardamenti dell’ospedale
@@ -5904,37 +6106,6 @@ address:
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/88,1167364014,2022-03-12 22:52:35,2022-03-12 18:32:39,Mappare le notizie in ucraino e russo per creare una mappa open data sull'andamento della guerra in Ucraina,,,,,"[""Valid/Accettato"",""News""]",,,"{""description"":""Un professore ceco, che vive e insegna negli Usa, ha sviluppato un algoritmo che estrae e analizza da una serie di testate tutti gli articoli che parlano della guerra in Ucraina.\nIl risultato \u00e8 un'enorme dataset che consente di raccontare l'invasione nel suo insieme."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.wired.it/article/ucraina-guerra-russia-mappa-intelligenza-artificiale/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Mappare le notizie in ucraino e russo per creare una mappa open data sull'andamento della guerra in Ucraina""}","<pre><yamldata>
-title: Mappare le notizie in ucraino e russo per creare una mappa open data sull'andamento
-  della guerra in Ucraina
-description: 'Un professore ceco, che vive e insegna negli Usa, ha sviluppato un algoritmo
-  che estrae e analizza da una serie di testate tutti gli articoli che parlano della
-  guerra in Ucraina.
-
-  Il risultato è un''enorme dataset che consente di raccontare l''invasione nel suo
-  insieme.'
-link: https://www.wired.it/article/ucraina-guerra-russia-mappa-intelligenza-artificiale/
-location:
-  mode: autocomplete
-  address: {}
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/102,1167402531,2022-03-12 22:52:03,2022-03-12 21:17:01,Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio a rifugiati ucraini (anche in Italia),,,,,"[""Valid/Accettato"",""News"",""Services"",""hospitality""]",,,"{""description"":""Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio a rifugiati ucraini anche in Italia. Suggerita anche dall\u2019Ambasciata Ucraina in Italia."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://prykhystok.in.ua/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio a rifugiati ucraini (anche in Italia)""}","<pre><yamldata>
-title: Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio
-  a rifugiati ucraini (anche in Italia)
-description: Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio
-  a rifugiati ucraini anche in Italia. Suggerita anche dall’Ambasciata Ucraina in
-  Italia.
-link: https://prykhystok.in.ua/
-location:
-  mode: autocomplete
-  address: {}
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/111,1167414010,2022-03-12 22:51:20,2022-03-12 22:12:37,Il Comune di Parma ha attivato uno sportello per offrire aiuti al popolo ucraino,44.8094695,10.3275042,Emilia-Romagna,Parma,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""materialGoods"",""hospitality"",""healtcare""]",,,"{""Posizione"":""44.8094695 10.3275042"",""description"":""Il Comune di Parma ha attivato uno sportello per offrire aiuti al popolo ucraino  presso l\u2019Ufficio Stranieri. Tel. 351 0986321."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://twitter.com/comuneparma/status/1501478652621561860?s=21"",""location"":{""address"":{""address"":{""city"":""Parma"",""country"":""Italia"",""country_code"":""it"",""county"":""Parma"",""postcode"":""43121"",""road"":""Via Antonio Cecchi"",""state"":""Emilia-Romagna"",""suburb"":""Parma Centro""},""boundingbox"":[""44.8094603"",""44.8097443"",""10.3262362"",""10.3275426""],""class"":""highway"",""display_name"":""Via Antonio Cecchi, Parma Centro, Parma, Emilia-Romagna, 43121, Italia"",""importance"":0.5949999999999999,""lat"":""44.8094695"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.3275042"",""osm_id"":323712841,""osm_type"":""way"",""place_id"":178424191,""type"":""service""},""mode"":""autocomplete""},""submit"":true,""title"":""Il Comune di Parma ha attivato uno sportello per offrire aiuti al popolo ucraino""}","<pre><yamldata>
@@ -6063,59 +6234,6 @@ address:
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/103,1167402805,2022-03-12 22:47:17,2022-03-12 21:18:44,"Online jobsforukraine.net, piattaforma internazionale per offrire lavoro ai rifugiati ucraini",,,,,"[""Valid/Accettato"",""News"",""Services"",""job""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Online jobsforukraine.net, piattaforma internazionale per offrire lavoro ai rifugiati ucraini, in particolare in ambito accademico, ricerca scientifica e aziende."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""jobsforukraine.net"",""recipients"":"""",""submit"":true,""title"":""Online jobsforukraine.net, piattaforma internazionale per offrire lavoro ai rifugiati ucraini"",""type"":""jobOffer"",""url"":""https://t.co/WSuw9UvIU1""}","<pre><yamldata>
-type: jobOffer
-offerFromWho: jobsforukraine.net
-title: Online jobsforukraine.net, piattaforma internazionale per offrire lavoro ai
-  rifugiati ucraini
-recipients: ''
-description: Online jobsforukraine.net, piattaforma internazionale per offrire lavoro
-  ai rifugiati ucraini, in particolare in ambito accademico, ricerca scientifica e
-  aziende.
-url: https://t.co/WSuw9UvIU1
-address:
-  mode: autocomplete
-  address: {}
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/100,1167401631,2022-03-12 22:46:00,2022-03-12 21:11:26,"Puglia, Casa Ucraina organizza rete di ospitalità e bus per portare via rifugiati ucraini",40.9842539,16.6210027,Puglia,Bari,"[""Valid/Accettato"",""News"",""Services"",""hospitality"",""transport""]",,,"{""Posizione"":""40.9842539 16.6210027"",""description"":""In Puglia l'associazione Casa Ucraina sta organizzando una rete di famiglie per ospitare profughi ucraini e bus per portarli in Puglia.\nPer info e adesioni: contact@casaucraina.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""http://dlvr.it/SLVBjH"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Puglia""},""boundingbox"":[""39.7895944"",""42.2264805"",""14.9341858"",""18.5205121""],""class"":""boundary"",""display_name"":""Puglia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7716750421714782,""lat"":""40.9842539"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.6210027"",""osm_id"":40095,""osm_type"":""relation"",""place_id"":283208903,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Puglia, Casa Ucraina organizza rete di ospitalit\u00e0 e bus per portare via rifugiati ucraini""}","<pre><yamldata>
-title: Puglia, Casa Ucraina organizza rete di ospitalità e bus per portare via rifugiati
-  ucraini
-description: 'In Puglia l''associazione Casa Ucraina sta organizzando una rete di
-  famiglie per ospitare profughi ucraini e bus per portarli in Puglia.
-
-  Per info e adesioni: contact@casaucraina.org'
-link: http://dlvr.it/SLVBjH
-location:
-  mode: autocomplete
-  address:
-    place_id: 283208903
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 40095
-    boundingbox:
-    - '39.7895944'
-    - '42.2264805'
-    - '14.9341858'
-    - '18.5205121'
-    lat: '40.9842539'
-    lon: '16.6210027'
-    display_name: Puglia, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7716750421714782
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      state: Puglia
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 40.9842539 16.6210027
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/99,1167401150,2022-03-12 22:45:13,2022-03-12 21:08:51,A Rende (Cosenza) attivo info point per i rifugiati ucraini che offre supporto psicologico e info ,,,,,"[""Valid/Accettato"",""Services"",""healtcare"",""psycologicalSupport""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Cosenza"",""office"":""Uffici Comune di Rende"",""postcode"":""87036"",""road"":""Via Don Minzoni"",""state"":""Calabria"",""town"":""Rende"",""village"":""Roges""},""boundingbox"":[""39.3330195"",""39.3334401"",""16.2423494"",""16.2429487""],""class"":""office"",""display_name"":""Uffici Comune di Rende, Via Don Minzoni, Roges, Rende, Cosenza, Calabria, 87036, Italia"",""importance"":0.31100000000000005,""lat"":""39.33332335"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.24286572992532"",""osm_id"":259887767,""osm_type"":""way"",""place_id"":167031715,""type"":""government""},""mode"":""autocomplete""},""description"":""Su iniziativa degli assessorati alle politiche sociali e ai diritti civili del Conune di Rende, partir\u00e0 da luned\u00ec mattina all\u2019interno della casa comunale l\u2019Info point emergenza Ucraina. Lo sportello fornir\u00e0 informazioni su accoglienza servizi sanitari, supporto psicologico.\nIl luned\u00ec dalle 10,00 alle 12,00 e il gioved\u00ec dalle 15,30 alle 18,00 al piano terra del municipio a Piazza Borromeo sar\u00e0 possibile rivolgersi al personale dell\u2019\u00e9quipe dei servizi sociali supportati dalle operatrici e dagli operatori di Arci RED e dell\u2019Associazione ucraina-calabrese S.A.L.O..\n\nIl comune ha infatti sottoscritto un protocollo d\u2019intesa con Arci RED per offrire maggiore continuit\u00e0 di servizio in modo da ottimizzare al meglio l\u2019intermediazione tra domanda e offerta.\nArci RED, nello specifico, svolger\u00e0 attivit\u00e0 condivise a favore di rifugiati, migranti, richiedenti e titolari di protezione internazionale, delle donne e delle fasce pi\u00f9 deboli della popolazione, rivolte alla loro integrazione, inserimento e reinserimento socio-economico nel contesto locale. ARCI RED si avvarr\u00e0 della collaborazione delle Associazioni ucraine presenti sul territorio, in particolare l\u2019Associazione ucraina-calabrese S.A.L.O. che potr\u00e0 svolgere il ruolo fondamentale di intermediazione linguistica e culturale nell\u2019ambito delle attivit\u00e0 di sportello previste dall\u2019Info point Emergenza Ucraina."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Rende"",""recipients"":"""",""submit"":true,""title"":""A Rende (Cosenza) attivo info point per i rifugiati ucraini che offre supporto psicologico e info su assistenza sanitaria"",""type"":""psychologicalSupport"",""url"":""https://www.calabriadirettanews.com/2022/03/10/rende-da-lunedi-attivo-linfo-point-emergenza-ucraina/""}","<pre><yamldata>
 type: psychologicalSupport
@@ -6574,57 +6692,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: contact
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/84,1167355829,2022-03-12 22:34:04,2022-03-12 18:04:01,A Milano continua la raccolta beni per rifugiati ucraini di Milano Sospesa,,,,,"[""Valid/Accettato"",""News"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20141"",""quarter"":""Ripamonti"",""road"":""Via Cuore Immacolato di Maria"",""state"":""Lombardia"",""suburb"":""Municipio 5"",""village"":""Vaiano Valle""},""boundingbox"":[""45.4368289"",""45.4368949"",""9.1974967"",""9.1976144""],""class"":""highway"",""display_name"":""Via Cuore Immacolato di Maria, Ripamonti, Municipio 5, Vaiano Valle, Milano, Lombardia, 20141, Italia"",""importance"":0.8099999999999999,""lat"":""45.4368289"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1974967"",""osm_id"":331692065,""osm_type"":""way"",""place_id"":181610307,""type"":""residential""},""mode"":""autocomplete""},""description"":""A Milano continua la raccolta beni per rifugiati ucraini di Milano Sospesa ma si raccolgono solo i seguenti beni:\n\nPOWERBANK\nTORCE\nINTIMO NUOVO BIMBI\nCALZE NUOVE BIMBI\nINTIMO NUOVO ADULTO\nCALZE NUOVE ADULTO\nTAPPETINI campeggio\nSACCHI A PELO\nINTIMO TERMICO\nCALZE TERMICHE\nCAPPELLI E SCIARPE \nBENDE \nEMOSTATICO\nPRODOTTI IGIENE\n\nMEDICINALI FONDAMENTALI IN QUESTO MOMENTO:\n\nnoradrenalina idrotartrato\nsodio fosfocreatina\nTigacile\nComplesso ferro (III) idrossido saccarosio\nNeostigmina metil solfato\nColina alfoscerata\ndopamina cloridrato\n(Sono medicinali ospedalieri)\n\nGENERATORI\nFLEBO\nKIT PRIMO SOCCORSO\nCIBO PRONTO IN BUSTE E CIBO non deperibile\nCIBO COLAZIONE\nBARRETTE ENERGETICHE \nLATTE 1 E 2\n\nDove: VIA CUORE IMMACOLATO DI MARIA 5\nVenerdi 12.00/16.00\nSabato 10.00/13.00\nDomenica 10.00/ 12.30\nMartedi 15.03 - 16.30 /19.00\nGiovedi 17.03 - 16.30 /19.00"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Milano Sospesa"",""recipients"":"""",""submit"":true,""title"":""A Milano continua la raccolta beni per rifugiati ucraini di Milano Sospesa"",""type"":""materialGoods"",""url"":""https://www.facebook.com/groups/ukraineinfo.help/permalink/456862506182703/?sfnsn=scwspmo&ref=share""}","<pre><yamldata>
-type: materialGoods
-offerFromWho: Milano Sospesa
-title: A Milano continua la raccolta beni per rifugiati ucraini di Milano Sospesa
-recipients: ''
-description: ""A Milano continua la raccolta beni per rifugiati ucraini di Milano Sospesa\
-  \ ma si raccolgono solo i seguenti beni:\n\nPOWERBANK\nTORCE\nINTIMO NUOVO BIMBI\n\
-  CALZE NUOVE BIMBI\nINTIMO NUOVO ADULTO\nCALZE NUOVE ADULTO\nTAPPETINI campeggio\n\
-  SACCHI A PELO\nINTIMO TERMICO\nCALZE TERMICHE\nCAPPELLI E SCIARPE \nBENDE \nEMOSTATICO\n\
-  PRODOTTI IGIENE\n\nMEDICINALI FONDAMENTALI IN QUESTO MOMENTO:\n\nnoradrenalina idrotartrato\n\
-  sodio fosfocreatina\nTigacile\nComplesso ferro (III) idrossido saccarosio\nNeostigmina\
-  \ metil solfato\nColina alfoscerata\ndopamina cloridrato\n(Sono medicinali ospedalieri)\n\
-  \nGENERATORI\nFLEBO\nKIT PRIMO SOCCORSO\nCIBO PRONTO IN BUSTE E CIBO non deperibile\n\
-  CIBO COLAZIONE\nBARRETTE ENERGETICHE \nLATTE 1 E 2\n\nDove: VIA CUORE IMMACOLATO\
-  \ DI MARIA 5\nVenerdi 12.00/16.00\nSabato 10.00/13.00\nDomenica 10.00/ 12.30\nMartedi\
-  \ 15.03 - 16.30 /19.00\nGiovedi 17.03 - 16.30 /19.00""
-url: https://www.facebook.com/groups/ukraineinfo.help/permalink/456862506182703/?sfnsn=scwspmo&ref=share
-address:
-  mode: autocomplete
-  address:
-    place_id: 181610307
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 331692065
-    boundingbox:
-    - '45.4368289'
-    - '45.4368949'
-    - '9.1974967'
-    - '9.1976144'
-    lat: '45.4368289'
-    lon: '9.1974967'
-    display_name: Via Cuore Immacolato di Maria, Ripamonti, Municipio 5, Vaiano Valle,
-      Milano, Lombardia, 20141, Italia
-    class: highway
-    type: residential
-    importance: 0.8099999999999999
-    address:
-      road: Via Cuore Immacolato di Maria
-      quarter: Ripamonti
-      suburb: Municipio 5
-      village: Vaiano Valle
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20141'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/80,1167333697,2022-03-12 22:31:54,2022-03-12 16:30:04,"Ucraina, le dieci bufale russe: il genocidio, il nazismo, l’asilo bombardato nel Lugansk",,,,,"[""Valid/Accettato"",""fakenews""]",,,"{""description"":""Su ProfessioneRepoter.eu 10 bufale sul conflitto in Ucraine diffuse da siti russi governativi e non ."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""fakenews"",""link"":""https://www.professionereporter.eu/2022/03/ucraina-le-dieci-bufale-russe-dal-genocidio-al-nazismo-allasilo-bombardato/?fbclid=IwAR3SN6xL3OBtwbuhdGUnl9ZAGHGOS32ZCVeYhxZxyygYc1SXKCazET5-JIE"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Ucraina, le dieci bufale russe: il genocidio, il nazismo, l\u2019asilo bombardato nel Lugansk""}","<pre><yamldata>
 title: 'Ucraina, le dieci bufale russe: il genocidio, il nazismo, l’asilo bombardato
   nel Lugansk'
@@ -6679,56 +6746,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: fundraising
 submit: true
 Posizione: 45.4641943 9.1896346
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/77,1166646079,2022-03-12 10:55:52,2022-03-11 16:55:19,"Gruppo Facebook ""Aiuta Profughi Ucraini Italia"" per offrire accoglienza e aiuti",,,,,"[""Valid/Accettato"",""News"",""Services"",""useful contact"",""materialGoods"",""hospitality"",""contact""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20122"",""state"":""Lombardia""},""boundingbox"":[""45.3041943"",""45.6241943"",""9.0296346"",""9.3496346""],""class"":""place"",""display_name"":""Milano, Lombardia, 20122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.8390652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":62505581,""osm_type"":""node"",""place_id"":286263950,""type"":""city""},""mode"":""autocomplete""},""aim"":""Gruppo Facebook, aperto da un gruppo di cittadini ucraini a Milano, che offre info utili e aiuta i profughi ucraini a trovare supporto e accoglienza in Italia, in particolare nord Italia."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":"""",""submit"":true,""title"":""Gruppo Facebook \""Aiuta Profughi Ucraini Italia\"""",""url"":""https://www.facebook.com/groups/1373754006378987/?ref=share""}","<pre><yamldata>
-title: Gruppo Facebook ""Aiuta Profughi Ucraini Italia""
-phoneNumber: ''
-email: ''
-aim: Gruppo Facebook, aperto da un gruppo di cittadini ucraini a Milano, che offre
-  info utili e aiuta i profughi ucraini a trovare supporto e accoglienza in Italia,
-  in particolare nord Italia.
-url: https://www.facebook.com/groups/1373754006378987/?ref=share
-address:
-  mode: autocomplete
-  address:
-    place_id: 286263950
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 62505581
-    boundingbox:
-    - '45.3041943'
-    - '45.6241943'
-    - '9.0296346'
-    - '9.3496346'
-    lat: '45.4641943'
-    lon: '9.1896346'
-    display_name: Milano, Lombardia, 20122, Italia
-    class: place
-    type: city
-    importance: 0.8390652078701348
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
-    address:
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20122'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/75,1166626941,2022-03-12 10:53:41,2022-03-11 16:37:00,"UkraineFacts.org, osservatorio internazionale su fake news e guerra in Ucraina",,,,,"[""Valid/Accettato"",""News"",""fakenews""]",,,"{""description"":""Piattaforma promossa dall'International Fact-checking Network Signatories che mappa nel mondo e smonta le fake news relative alla guerra in Ucraina."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""fakenews"",""link"":""https://ukrainefacts.org"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""UkraineFacts.org, osservatorio internazionale su fake news e guerra in Ucraina""}","<pre><yamldata>
-title: UkraineFacts.org, osservatorio internazionale su fake news e guerra in Ucraina
-description: Piattaforma promossa dall'International Fact-checking Network Signatories
-  che mappa nel mondo e smonta le fake news relative alla guerra in Ucraina.
-link: https://ukrainefacts.org
-location:
-  mode: autocomplete
-  address: {}
-label: fakenews
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/60,1164287782,2022-03-10 22:40:13,2022-03-09 18:22:14,Cgil Nazionale attiva raccolta fondi per emergenza Ucraina ,,,,,"[""Valid/Accettato"",""fundraising""]",,,"{""bicSwift"":"""",""causal"":""EMERGENZA UCRAINA"",""ccPostal"":"""",""description"":""Cgil attiva raccolta fondi per emergenza Ucraina."",""email"":"""",""heading"":""CGIL Nazionale"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT18Y0103003201000007777787"",""label"":""fundraising"",""link"":""https://t.co/0AcmLZ8DWQ"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Cgil Nazionale""}","<pre><yamldata>
 title: Cgil Nazionale
@@ -6786,23 +6803,6 @@ address:
       postcode: '1023'
       country: Italia
       country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/73,1165441654,2022-03-10 22:38:36,2022-03-10 16:22:08,Online it.eu4ua.org piattaforma europea per offrire alloggio ai rifugiati ucraini (anche in italiano),,,,,"[""Valid/Accettato"",""News"",""Services"",""hospitality""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Online it.eu4ua.org piattaforma europea multilingue, disponibile anche in italiano, che aiuta l'incontro tra ospitanti europei e profughi ucraini in cerca di un #alloggio."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Europe for Uckraine"",""recipients"":"""",""submit"":true,""title"":""Online it.eu4ua.org piattaforma europea multilingue, disponibile anche in italiano, che aiuta l'incontro tra ospitanti europei e profughi ucraini in cerca di alloggio"",""type"":""hospitality"",""url"":""https://it.eu4ua.org""}","<pre><yamldata>
-type: hospitality
-offerFromWho: Europe for Uckraine
-title: Online it.eu4ua.org piattaforma europea multilingue, disponibile anche in italiano,
-  che aiuta l'incontro tra ospitanti europei e profughi ucraini in cerca di alloggio
-recipients: ''
-description: 'Online it.eu4ua.org piattaforma europea multilingue, disponibile anche
-  in italiano, che aiuta l''incontro tra ospitanti europei e profughi ucraini in cerca
-  di un #alloggio.'
-url: https://it.eu4ua.org
-address:
-  mode: autocomplete
-  address: {}
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
