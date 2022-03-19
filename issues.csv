@@ -1,4 +1,45 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/230,1174088592,2022-03-19 07:58:37,2022-03-18 22:42:15,"Comune di #Prato attiva pagina web per accoglienza rifugiati, punti di #raccoltabeni, offerta #alloggi",,,,,"[""Valid/Accettato"",""Housing offers"",""materialGoods"",""hospitality"",""telegram-channel""]",,,"{""address"":{""address"":{""address"":{""city"":""Prato"",""country"":""Italia"",""country_code"":""it"",""county"":""Prato"",""neighbourhood"":""Soccorso"",""postcode"":""59100"",""road"":""Via Lazzerini"",""state"":""Toscana""},""boundingbox"":[""43.8745824"",""43.8754983"",""11.0933429"",""11.0940385""],""class"":""highway"",""display_name"":""Via Lazzerini, Soccorso, Prato, Toscana, 59100, Italia"",""importance"":0.5199999999999999,""lat"":""43.8750462"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.0937398"",""osm_id"":28637807,""osm_type"":""way"",""place_id"":108090719,""type"":""unclassified""},""mode"":""autocomplete""},""description"":""Online sul sito del Comune di Prato una pagina web con info e contatti utili su accoglienza rifugiati ucraini, punti di raccolta beni e farmaci, offerta alloggi, assistenza sanitaria e procedure per l\u2019accoglienza."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Prato"",""recipients"":"""",""submit"":true,""title"":""Comune di Prato attiva pagina web con info su accoglienza rifugiati ucraini, punti di raccolta beni, offerta alloggi"",""type"":""materialGoods"",""url"":""http://protezionecivile.comune.prato.it/aiuti-ucraina/pagina257.html""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: Comune di Prato
+title: Comune di Prato attiva pagina web con info su accoglienza rifugiati ucraini,
+  punti di raccolta beni, offerta alloggi
+recipients: ''
+description: Online sul sito del Comune di Prato una pagina web con info e contatti
+  utili su accoglienza rifugiati ucraini, punti di raccolta beni e farmaci, offerta
+  alloggi, assistenza sanitaria e procedure per l’accoglienza.
+url: http://protezionecivile.comune.prato.it/aiuti-ucraina/pagina257.html
+address:
+  mode: autocomplete
+  address:
+    place_id: 108090719
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 28637807
+    boundingbox:
+    - '43.8745824'
+    - '43.8754983'
+    - '11.0933429'
+    - '11.0940385'
+    lat: '43.8750462'
+    lon: '11.0937398'
+    display_name: Via Lazzerini, Soccorso, Prato, Toscana, 59100, Italia
+    class: highway
+    type: unclassified
+    importance: 0.5199999999999999
+    address:
+      road: Via Lazzerini
+      neighbourhood: Soccorso
+      city: Prato
+      county: Prato
+      state: Toscana
+      postcode: '59100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/217,1173815645,2022-03-18 22:31:51,2022-03-18 17:03:03,A Varese associazione Guardavanti cerca mediatrice/mediatore linguistica/o per attività con bambini ucraini,,,,,"[""Valid/Accettato"",""Help"",""Translation"",""job""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Varese"",""state"":""Lombardia""},""boundingbox"":[""45.5583143"",""46.1222569"",""8.552246"",""9.0662956""],""class"":""boundary"",""display_name"":""Varese, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7303937310744694,""lat"":""45.83971285"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.754157594917665"",""osm_id"":45347,""osm_type"":""relation"",""place_id"":284266553,""type"":""administrative""},""mode"":""autocomplete""},""description"":""L'associazione Guardavanti di Varese cerca una persona per mediazione linguistica-culturale durante le attivit\u00e0 di doposcuola con bambini ucraini neo-arrivati\nDisponibilit\u00e0 richiesta: 2 ore settimanali il venerd\u00ec pomeriggio\nDove: Varese, piazza Buzzi\nLingue: Ucraino e Italiano\nScrivi al pi\u00f9 presto a selezione@guardavanti.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Guardavanti"",""recipients"":"""",""submit"":true,""title"":""Ricerca persona per mediazione linguistica-culturale, Varese"",""type"":""jobOffer"",""url"":""https://www.facebook.com/Guardavanti/""}","<pre><yamldata>
 type: jobOffer
 offerFromWho: Associazione Guardavanti
