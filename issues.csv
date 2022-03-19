@@ -1,4 +1,87 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/222,1173846226,2022-03-19 13:35:43,2022-03-18 17:36:37,"Arci, online Juma Map con info utili per rifugiati e attiva linea telefonica ",,,,,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""useful contact"",""contact""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8996107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Informazioni utili per l'ingresso in Italia. A breve tutte le informazioni saranno disponibili anche in lingua ucraina, russa ed inglese.\n\nAttivo un numero Verde per Richiedenti Asilo e Rifugiati di Arci, 800 90 55 70 (Lycamobile: 351 1 37 63 35) attivo dal luned\u00ec al venerd\u00ec dalle 9:30 alle 17:30, o scrivere alla mail numeroverderifugiati@arci.it"",""email"":""numeroverderifugiati@arci.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":""800 90 55 70"",""submit"":true,""title"":""ARCI - Juma map"",""url"":""www.jumamap.it/it/2022/02/28/emergenza-ucraina/""}","<pre><yamldata>
+title: ARCI - Juma map
+phoneNumber: 800 90 55 70
+email: numeroverderifugiati@arci.it
+aim: 'Informazioni utili per l''ingresso in Italia. A breve tutte le informazioni
+  saranno disponibili anche in lingua ucraina, russa ed inglese.
+
+
+  Attivo un numero Verde per Richiedenti Asilo e Rifugiati di Arci, 800 90 55 70 (Lycamobile:
+  351 1 37 63 35) attivo dal lunedì al venerdì dalle 9:30 alle 17:30, o scrivere alla
+  mail numeroverderifugiati@arci.it'
+url: www.jumamap.it/it/2022/02/28/emergenza-ucraina/
+address:
+  mode: autocomplete
+  address:
+    place_id: 283767136
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 41485
+    boundingbox:
+    - '41.6556417'
+    - '42.1410285'
+    - '12.2344669'
+    - '12.8557603'
+    lat: '41.8933203'
+    lon: '12.4829321'
+    display_name: Roma, Roma Capitale, Lazio, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8996107180689524
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/233,1174217959,2022-03-19 13:35:06,2022-03-19 09:15:19,Regione Lombardia: avviso pubblico tutori volontari minori stranieri non accompagnati,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""Children"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""aeroway"":""Regione Lombardia"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20124"",""quarter"":""GARIBALDI REPUBBLICA"",""road"":""Piazza Citt\u00e0 di Lombardia"",""state"":""Lombardia"",""suburb"":""Municipio 9""},""boundingbox"":[""45.485842"",""45.4861511"",""9.1959739"",""9.1964178""],""class"":""aeroway"",""display_name"":""Regione Lombardia, Piazza Citt\u00e0 di Lombardia, GARIBALDI REPUBBLICA, Municipio 9, Milano, Lombardia, 20124, Italia"",""importance"":0.201,""lat"":""45.4859929"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.196196030443867"",""osm_id"":190405923,""osm_type"":""way"",""place_id"":147821966,""type"":""helipad""},""mode"":""autocomplete""},""description"":""avviso pubblico tutori volontari #minori stranieri non accompagnati \n\nhttps://www.consiglio.regione.lombardia.it/wps/portal/crl/home/istituzione/altri-organismi/garante-per-l-infanzia-e-per-l-adolescenza/tutore-minori-stranieri-non-accompagnati"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Lombardia"",""recipients"":""Children"",""submit"":true,""title"":""avviso pubblico tutori volontari #minori stranieri non accompagnati   https://www.consiglio.regione.lombardia.it/wps/portal/crl/home/istituzione/altri-organismi/garante-per-l-infanzia-e-per-l-adolescenza/tutore-minori-stranieri-non-accompagnati"",""type"":""legal"",""url"":""https://www.consiglio.regione.lombardia.it/wps/portal/crl/home/istituzione/altri-organismi/garante-per-l-infanzia-e-per-l-adolescenza/tutore-minori-stranieri-non-accompagnati""}","<pre><yamldata>
+type: legal
+offerFromWho: Regione Lombardia
+title: 'avviso pubblico tutori volontari #minori stranieri non accompagnati   https://www.consiglio.regione.lombardia.it/wps/portal/crl/home/istituzione/altri-organismi/garante-per-l-infanzia-e-per-l-adolescenza/tutore-minori-stranieri-non-accompagnati'
+recipients: Children
+description: ""avviso pubblico tutori volontari #minori stranieri non accompagnati\
+  \ \n\nhttps://www.consiglio.regione.lombardia.it/wps/portal/crl/home/istituzione/altri-organismi/garante-per-l-infanzia-e-per-l-adolescenza/tutore-minori-stranieri-non-accompagnati""
+url: https://www.consiglio.regione.lombardia.it/wps/portal/crl/home/istituzione/altri-organismi/garante-per-l-infanzia-e-per-l-adolescenza/tutore-minori-stranieri-non-accompagnati
+address:
+  mode: autocomplete
+  address:
+    place_id: 147821966
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 190405923
+    boundingbox:
+    - '45.485842'
+    - '45.4861511'
+    - '9.1959739'
+    - '9.1964178'
+    lat: '45.4859929'
+    lon: '9.196196030443867'
+    display_name: Regione Lombardia, Piazza Città di Lombardia, GARIBALDI REPUBBLICA,
+      Municipio 9, Milano, Lombardia, 20124, Italia
+    class: aeroway
+    type: helipad
+    importance: 0.201
+    address:
+      aeroway: Regione Lombardia
+      road: Piazza Città di Lombardia
+      quarter: GARIBALDI REPUBBLICA
+      suburb: Municipio 9
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20124'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/213,1173799564,2022-03-19 13:31:17,2022-03-18 16:46:49,"Rifugiati ucraini, Croce rossa Firenze avvia censimento per individuare disponibilità alloggi",,,,,"[""Valid/Accettato"",""News"",""Services"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""state"":""Toscana""},""boundingbox"":[""43.7258716"",""43.8354631"",""11.1497598"",""11.3389044""],""class"":""boundary"",""display_name"":""Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8105633028502386,""lat"":""43.7806771"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.24376289731579"",""osm_id"":42602,""osm_type"":""relation"",""place_id"":284666342,""type"":""administrative""},""mode"":""autocomplete""},""description"":""La Croce Rossa Italiana, come membro permanente del Comitato Operativo Regionale del Volontario della Regione Toscana, sta effettuando la raccolta dati per il censimento delle disponibilit\u00e0 di alloggio per i rifugiati durante l\u2019Emergenza Ucraina. I dati forniti saranno elaborati esclusivamente da Croce Rossa Italiana e Prefettura di competenza, per gli scopi collegati all\u2019accoglienza dei profughi dell\u2019Emergenza Ucraina. Per informazioni scrivere a: censimento.alloggi@crifirenze.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Croce Rossa Italiana Comitato di Firenze"",""recipients"":"""",""submit"":true,""title"":""Censimento disponibilit\u00e0 alloggi"",""type"":""hospitality"",""url"":""https://crifirenze.it/""}","<pre><yamldata>
 type: hospitality
 offerFromWho: Croce Rossa Italiana Comitato di Firenze
@@ -223,48 +306,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: fundraising
 submit: true
 Posizione: 41.5597935 14.6602725
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/233,1174217959,2022-03-19 09:16:53,2022-03-19 09:15:19,Regione Lombardia: avviso pubblico tutori volontari #minori stranieri non accompagnati,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""Children"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""aeroway"":""Regione Lombardia"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20124"",""quarter"":""GARIBALDI REPUBBLICA"",""road"":""Piazza Citt\u00e0 di Lombardia"",""state"":""Lombardia"",""suburb"":""Municipio 9""},""boundingbox"":[""45.485842"",""45.4861511"",""9.1959739"",""9.1964178""],""class"":""aeroway"",""display_name"":""Regione Lombardia, Piazza Citt\u00e0 di Lombardia, GARIBALDI REPUBBLICA, Municipio 9, Milano, Lombardia, 20124, Italia"",""importance"":0.201,""lat"":""45.4859929"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.196196030443867"",""osm_id"":190405923,""osm_type"":""way"",""place_id"":147821966,""type"":""helipad""},""mode"":""autocomplete""},""description"":""avviso pubblico tutori volontari #minori stranieri non accompagnati \n\nhttps://www.consiglio.regione.lombardia.it/wps/portal/crl/home/istituzione/altri-organismi/garante-per-l-infanzia-e-per-l-adolescenza/tutore-minori-stranieri-non-accompagnati"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Lombardia"",""recipients"":""Children"",""submit"":true,""title"":""avviso pubblico tutori volontari #minori stranieri non accompagnati   https://www.consiglio.regione.lombardia.it/wps/portal/crl/home/istituzione/altri-organismi/garante-per-l-infanzia-e-per-l-adolescenza/tutore-minori-stranieri-non-accompagnati"",""type"":""legal"",""url"":""https://www.consiglio.regione.lombardia.it/wps/portal/crl/home/istituzione/altri-organismi/garante-per-l-infanzia-e-per-l-adolescenza/tutore-minori-stranieri-non-accompagnati""}","<pre><yamldata>
-type: legal
-offerFromWho: Regione Lombardia
-title: 'avviso pubblico tutori volontari #minori stranieri non accompagnati   https://www.consiglio.regione.lombardia.it/wps/portal/crl/home/istituzione/altri-organismi/garante-per-l-infanzia-e-per-l-adolescenza/tutore-minori-stranieri-non-accompagnati'
-recipients: Children
-description: ""avviso pubblico tutori volontari #minori stranieri non accompagnati\
-  \ \n\nhttps://www.consiglio.regione.lombardia.it/wps/portal/crl/home/istituzione/altri-organismi/garante-per-l-infanzia-e-per-l-adolescenza/tutore-minori-stranieri-non-accompagnati""
-url: https://www.consiglio.regione.lombardia.it/wps/portal/crl/home/istituzione/altri-organismi/garante-per-l-infanzia-e-per-l-adolescenza/tutore-minori-stranieri-non-accompagnati
-address:
-  mode: autocomplete
-  address:
-    place_id: 147821966
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 190405923
-    boundingbox:
-    - '45.485842'
-    - '45.4861511'
-    - '9.1959739'
-    - '9.1964178'
-    lat: '45.4859929'
-    lon: '9.196196030443867'
-    display_name: Regione Lombardia, Piazza Città di Lombardia, GARIBALDI REPUBBLICA,
-      Municipio 9, Milano, Lombardia, 20124, Italia
-    class: aeroway
-    type: helipad
-    importance: 0.201
-    address:
-      aeroway: Regione Lombardia
-      road: Piazza Città di Lombardia
-      quarter: GARIBALDI REPUBBLICA
-      suburb: Municipio 9
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20124'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/231,1174209429,2022-03-19 08:28:56,2022-03-19 08:27:10,Comune di Vietri di #Potenza avvia una #raccoltafondi per l’Ucraina,40.5986472,15.5072463,Basilicata,Potenza,"[""Valid/Accettato"",""fundraising"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""40.5986472 15.5072463"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""\ud83c\uddfa\ud83c\udde6 VIETRI DI POTENZA A SUPPORTO DEL POPOLO UCRAINO. ATTIVATA UNA RACCOLTA FONDI DAL COMUNE \n\n\ud83d\udce3 Il sindaco, avv. Christian Giordano, comunica che \u00e8 stata attivata una iniziativa a favore della popolazione ucraina. I fondi raccolti verranno utilizzati per supportare le azioni umanitarie a favore del popolo ucraino. Si potr\u00e0 donare versando una somma sul conto del Comune di Vietri di Potenza, inserendo come causale \""Erogazione liberale emergenza Ucraina\"". Si potr\u00e0 donare anche presso l'Ufficio Postale, dove verranno fornite tutte le indicazioni.\n\n\ud83d\udcb0 IBAN del Comune di Vietri di Potenza \n\u27a1\ufe0f IT58T0760103200001046373294\n\n#nowar #prayforukraine #ukraine #stopwar"",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":"""",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Potenza"",""postcode"":""85058"",""state"":""Basilicata"",""village"":""Vietri di Potenza""},""boundingbox"":[""40.5702306"",""40.6396501"",""15.4494721"",""15.592227""],""class"":""boundary"",""display_name"":""Vietri di Potenza, Potenza, Basilicata, 85058, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.784679386419411,""lat"":""40.5986472"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.5072463"",""osm_id"":40618,""osm_type"":""relation"",""place_id"":284027456,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Comune di Vietri di porenza""}","<pre><yamldata>
 title: Comune di Vietri di porenza
@@ -849,47 +890,6 @@ address:
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/222,1173846226,2022-03-18 21:08:27,2022-03-18 17:36:37,"Arci, online Juma Map con info utili per rifugiati e attiva linea telefonica ",,,,,"[""Valid/Accettato"",""News"",""Legal"",""useful contact"",""contact""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8996107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Informazioni utili per l'ingresso in Italia. A breve tutte le informazioni saranno disponibili anche in lingua ucraina, russa ed inglese.\n\nAttivo un numero Verde per Richiedenti Asilo e Rifugiati di Arci, 800 90 55 70 (Lycamobile: 351 1 37 63 35) attivo dal luned\u00ec al venerd\u00ec dalle 9:30 alle 17:30, o scrivere alla mail numeroverderifugiati@arci.it"",""email"":""numeroverderifugiati@arci.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":""800 90 55 70"",""submit"":true,""title"":""ARCI - Juma map"",""url"":""www.jumamap.it/it/2022/02/28/emergenza-ucraina/""}","<pre><yamldata>
-title: ARCI - Juma map
-phoneNumber: 800 90 55 70
-email: numeroverderifugiati@arci.it
-aim: 'Informazioni utili per l''ingresso in Italia. A breve tutte le informazioni
-  saranno disponibili anche in lingua ucraina, russa ed inglese.
-
-
-  Attivo un numero Verde per Richiedenti Asilo e Rifugiati di Arci, 800 90 55 70 (Lycamobile:
-  351 1 37 63 35) attivo dal lunedì al venerdì dalle 9:30 alle 17:30, o scrivere alla
-  mail numeroverderifugiati@arci.it'
-url: www.jumamap.it/it/2022/02/28/emergenza-ucraina/
-address:
-  mode: autocomplete
-  address:
-    place_id: 283767136
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 41485
-    boundingbox:
-    - '41.6556417'
-    - '42.1410285'
-    - '12.2344669'
-    - '12.8557603'
-    lat: '41.8933203'
-    lon: '12.4829321'
-    display_name: Roma, Roma Capitale, Lazio, Italia
-    class: boundary
-    type: administrative
-    importance: 0.8996107180689524
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: contact
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/220,1173836804,2022-03-18 21:04:11,2022-03-18 17:27:31,Caritas Udine raccoglie disponibilità di alloggi per rifugiati ucraini ,,,,,"[""Valid/Accettato"",""Help"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""city"":""Udine"",""country"":""Italia"",""country_code"":""it"",""county"":""Udine"",""postcode"":""33100"",""state"":""Friuli Venezia Giulia""},""boundingbox"":[""45.9034632"",""46.2234632"",""13.0758377"",""13.3958377""],""class"":""place"",""display_name"":""Udine, Friuli Venezia Giulia, 33100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.699677555724844,""lat"":""46.0634632"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.2358377"",""osm_id"":66502664,""osm_type"":""node"",""place_id"":121892,""type"":""city""},""mode"":""autocomplete""},""description"":""Disponibilit\u00e0 di alloggi o di altro genere da parte di privati, congregazioni religiose o enti pubblici, possono essere segnalate via mail all\u2019indirizzo emergenze@diocesiudine.it o telefonando al mattino al centralino della Caritas (tel. 0432-414502), in modo che le volontarie possano prenderne nota. Tali disponibilit\u00e0 saranno raccolte ed, eventualmente, attivate in caso di necessit\u00e0"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Caritas Udine"",""recipients"":"""",""submit"":true,""title"":""Raccolta segnalazioni su disponiilit\u00e0 di alloggi"",""type"":""hospitality"",""url"":""""}","<pre><yamldata>
