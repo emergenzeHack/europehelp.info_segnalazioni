@@ -1,4 +1,185 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/213,1173799564,2022-03-19 13:31:17,2022-03-18 16:46:49,"Rifugiati ucraini, Croce rossa Firenze avvia censimento per individuare disponibilità alloggi",,,,,"[""Valid/Accettato"",""News"",""Services"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""state"":""Toscana""},""boundingbox"":[""43.7258716"",""43.8354631"",""11.1497598"",""11.3389044""],""class"":""boundary"",""display_name"":""Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8105633028502386,""lat"":""43.7806771"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.24376289731579"",""osm_id"":42602,""osm_type"":""relation"",""place_id"":284666342,""type"":""administrative""},""mode"":""autocomplete""},""description"":""La Croce Rossa Italiana, come membro permanente del Comitato Operativo Regionale del Volontario della Regione Toscana, sta effettuando la raccolta dati per il censimento delle disponibilit\u00e0 di alloggio per i rifugiati durante l\u2019Emergenza Ucraina. I dati forniti saranno elaborati esclusivamente da Croce Rossa Italiana e Prefettura di competenza, per gli scopi collegati all\u2019accoglienza dei profughi dell\u2019Emergenza Ucraina. Per informazioni scrivere a: censimento.alloggi@crifirenze.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Croce Rossa Italiana Comitato di Firenze"",""recipients"":"""",""submit"":true,""title"":""Censimento disponibilit\u00e0 alloggi"",""type"":""hospitality"",""url"":""https://crifirenze.it/""}","<pre><yamldata>
+type: hospitality
+offerFromWho: Croce Rossa Italiana Comitato di Firenze
+title: Censimento disponibilità alloggi
+recipients: ''
+description: 'La Croce Rossa Italiana, come membro permanente del Comitato Operativo
+  Regionale del Volontario della Regione Toscana, sta effettuando la raccolta dati
+  per il censimento delle disponibilità di alloggio per i rifugiati durante l’Emergenza
+  Ucraina.
+  I dati forniti saranno elaborati esclusivamente da Croce Rossa Italiana e Prefettura
+  di competenza, per gli scopi collegati all’accoglienza dei profughi dell’Emergenza
+  Ucraina.
+  Per informazioni scrivere a:
+  censimento.alloggi@crifirenze.it'
+url: https://crifirenze.it/
+address:
+  mode: autocomplete
+  address:
+    place_id: 284666342
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 42602
+    boundingbox:
+    - '43.7258716'
+    - '43.8354631'
+    - '11.1497598'
+    - '11.3389044'
+    lat: '43.7806771'
+    lon: '11.24376289731579'
+    display_name: Firenze, Città metropolitana di Firenze, Toscana, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8105633028502386
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Firenze
+      county: Città metropolitana di Firenze
+      state: Toscana
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/214,1173801979,2022-03-19 13:30:54,2022-03-18 16:49:36,"Un farmaco per l’Ucraina, raccolta farmaci di Croce Rossa Firenze",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""healtcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""state"":""Toscana""},""boundingbox"":[""43.7258716"",""43.8354631"",""11.1497598"",""11.3389044""],""class"":""boundary"",""display_name"":""Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8105633028502386,""lat"":""43.7806771"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.24376289731579"",""osm_id"":42602,""osm_type"":""relation"",""place_id"":284666342,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Raccolta farmaci e dispositivi sanitari per soccorrere le\npopolazioni coinvolte nell\u2019emergenza umanitaria in Ucraina\nChiedi al tuo farmacista come puoi\ncontribuire alla raccolta\nFarmaci:\nACETILCISTEINA (200MG, buste)\nACIDO ACETILSALICILICO (100 MG, compresse)\nACIDO ACETILSALICILICO (400 MG, compresse)\nPARACETAMOLO (500 MG, compresse)\nPARACETAMOLO (500 MG, buste)\nACETILCISTEINA (200 MG, compresse)\nIBUPROFENE (400 MG, compresse)\nIODOPOVIDONE (soluzione)\nN.BUTILBROMURO DI IOSCINA (compresse)\n VITAMINA B1 (compresse); VITAMINA B12 (compresse)\nDICOFLENAC (25MG, mprese);\nSOLUZIONE FISIOLOGICA (500 ML SACCHE - NO FLEBO)\nSOLUZIONE GLUCOSATA 5% (500 ML, SACCHE - NO FLEBO)\nRINGER LATTATO (500 ML, SACCHE - NO FLEBO)\nPEROSSIDO DI IDROGENO 3%;\nCLOREXIDINA (SOLUZ.DISINFETTANTE); ALCOOL USO MEDICO\nDispositivi medici:\n GLUCOMETRI\nSTRISCE PER GLUCOMETRI\n GARZA IDROFILA (10X10)\nGARZA HYDROGEL (10X10)\nSTERIL STRIP (VARI FORMATI)\n GUANTI CHIRURGICI STERILI (S/M/L/XL)\nGARZA IDROFILA NON STERILE (ROTOLO)\nGARZA IDROFILA COTONE STERILE (7,5X7,5)\nTAMPONI GARZA IDROFILA DI COTONE STERILI\nPORTA AGHI MAYO HEGAR SUSY (150 ML)\nPINZA EMOSTATICA CURVA (TIPO MOSQUITO 125);\nFORCEPS MONOUSO CURVO (200 MM)"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Croce Rossa Italiana Comitato di Firenze"",""recipients"":"""",""submit"":true,""title"":""Un farmaco per l\u2019Ucraina"",""type"":""healthcare"",""url"":""https://crifirenze.it/2019/wp-content/uploads/2022/03/CRI-Farmaci-Ucraina-elenco.pdf""}","<pre><yamldata>
+type: healthcare
+offerFromWho: Croce Rossa Italiana Comitato di Firenze
+title: Un farmaco per l’Ucraina
+recipients: ''
+description: ""Raccolta farmaci e dispositivi sanitari per soccorrere le\npopolazioni\
+  \ coinvolte nell’emergenza umanitaria in Ucraina\nChiedi al tuo farmacista come\
+  \ puoi\ncontribuire alla raccolta\nFarmaci:\nACETILCISTEINA (200MG, buste)\nACIDO\
+  \ ACETILSALICILICO (100 MG, compresse)\nACIDO ACETILSALICILICO (400 MG, compresse)\n\
+  PARACETAMOLO (500 MG, compresse)\nPARACETAMOLO (500 MG, buste)\nACETILCISTEINA (200\
+  \ MG, compresse)\nIBUPROFENE (400 MG, compresse)\nIODOPOVIDONE (soluzione)\nN.BUTILBROMURO\
+  \ DI IOSCINA (compresse)\n VITAMINA B1 (compresse); VITAMINA B12 (compresse)\nDICOFLENAC\
+  \ (25MG, mprese);\nSOLUZIONE FISIOLOGICA (500 ML SACCHE - NO FLEBO)\nSOLUZIONE GLUCOSATA\
+  \ 5% (500 ML, SACCHE - NO FLEBO)\nRINGER LATTATO (500 ML, SACCHE - NO FLEBO)\nPEROSSIDO\
+  \ DI IDROGENO 3%;\nCLOREXIDINA (SOLUZ.DISINFETTANTE); ALCOOL USO MEDICO\nDispositivi\
+  \ medici:\n GLUCOMETRI\nSTRISCE PER GLUCOMETRI\n GARZA IDROFILA (10X10)\nGARZA HYDROGEL\
+  \ (10X10)\nSTERIL STRIP (VARI FORMATI)\n GUANTI CHIRURGICI STERILI (S/M/L/XL)\n\
+  GARZA IDROFILA NON STERILE (ROTOLO)\nGARZA IDROFILA COTONE STERILE (7,5X7,5)\nTAMPONI\
+  \ GARZA IDROFILA DI COTONE STERILI\nPORTA AGHI MAYO HEGAR SUSY (150 ML)\nPINZA EMOSTATICA\
+  \ CURVA (TIPO MOSQUITO 125);\nFORCEPS MONOUSO CURVO (200 MM)""
+url: https://crifirenze.it/2019/wp-content/uploads/2022/03/CRI-Farmaci-Ucraina-elenco.pdf
+address:
+  mode: autocomplete
+  address:
+    place_id: 284666342
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 42602
+    boundingbox:
+    - '43.7258716'
+    - '43.8354631'
+    - '11.1497598'
+    - '11.3389044'
+    lat: '43.7806771'
+    lon: '11.24376289731579'
+    display_name: Firenze, Città metropolitana di Firenze, Toscana, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8105633028502386
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Firenze
+      county: Città metropolitana di Firenze
+      state: Toscana
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/230,1174088592,2022-03-19 13:30:10,2022-03-18 22:42:15,"Comune di #Prato attiva pagina web per accoglienza rifugiati, punti di #raccoltabeni, offerta #alloggi",,,,,"[""Valid/Accettato"",""Housing offers"",""Services"",""materialGoods"",""hospitality"",""telegram-channel""]",,,"{""address"":{""address"":{""address"":{""city"":""Prato"",""country"":""Italia"",""country_code"":""it"",""county"":""Prato"",""neighbourhood"":""Soccorso"",""postcode"":""59100"",""road"":""Via Lazzerini"",""state"":""Toscana""},""boundingbox"":[""43.8745824"",""43.8754983"",""11.0933429"",""11.0940385""],""class"":""highway"",""display_name"":""Via Lazzerini, Soccorso, Prato, Toscana, 59100, Italia"",""importance"":0.5199999999999999,""lat"":""43.8750462"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.0937398"",""osm_id"":28637807,""osm_type"":""way"",""place_id"":108090719,""type"":""unclassified""},""mode"":""autocomplete""},""description"":""Online sul sito del Comune di Prato una pagina web con info e contatti utili su accoglienza rifugiati ucraini, punti di raccolta beni e farmaci, offerta alloggi, assistenza sanitaria e procedure per l\u2019accoglienza."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Prato"",""recipients"":"""",""submit"":true,""title"":""Comune di Prato attiva pagina web con info su accoglienza rifugiati ucraini, punti di raccolta beni, offerta alloggi"",""type"":""materialGoods"",""url"":""http://protezionecivile.comune.prato.it/aiuti-ucraina/pagina257.html""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: Comune di Prato
+title: Comune di Prato attiva pagina web con info su accoglienza rifugiati ucraini,
+  punti di raccolta beni, offerta alloggi
+recipients: ''
+description: Online sul sito del Comune di Prato una pagina web con info e contatti
+  utili su accoglienza rifugiati ucraini, punti di raccolta beni e farmaci, offerta
+  alloggi, assistenza sanitaria e procedure per l’accoglienza.
+url: http://protezionecivile.comune.prato.it/aiuti-ucraina/pagina257.html
+address:
+  mode: autocomplete
+  address:
+    place_id: 108090719
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 28637807
+    boundingbox:
+    - '43.8745824'
+    - '43.8754983'
+    - '11.0933429'
+    - '11.0940385'
+    lat: '43.8750462'
+    lon: '11.0937398'
+    display_name: Via Lazzerini, Soccorso, Prato, Toscana, 59100, Italia
+    class: highway
+    type: unclassified
+    importance: 0.5199999999999999
+    address:
+      road: Via Lazzerini
+      neighbourhood: Soccorso
+      city: Prato
+      county: Prato
+      state: Toscana
+      postcode: '59100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/228,1174081720,2022-03-19 13:29:49,2022-03-18 22:26:27,Lecco ospita Ucraina: iniziativa per attivare una rete di ospitalità diffusa per i rifugiati ucraini,45.7460086,9.2798423,Lombardia,Lecco,"[""Valid/Accettato"",""News"",""Services"",""hospitality""]",,,"{""Posizione"":""45.7460086 9.2798423"",""description"":""Distretto di Lecco, Ambiti distrettuali di Bellano, Lecco e Merate, Fondazione comunitaria del Lecchese, CSV Monza Lecco Sondrio e Confcooperative dell\u2019Adda \u2013 in raccordo con la Prefettura \u2013  hanno avviato la campagna \u201cLecco ospita l\u2019Ucraina\u201d, per accogliere le disponibilit\u00e0 dei cittadini o strutture a ad alloggiare rifugiati ucraini, in particolare in appartamenti.\nAl link tutte le info e contatti."",""email"":""segreteria@fondazionelecco.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Lecco"",""postcode"":""23895"",""road"":""Piazza Stazione"",""state"":""Lombardia"",""village"":""Cassago Brianza""},""boundingbox"":[""45.7459825"",""45.7460132"",""9.2797661"",""9.2799254""],""class"":""highway"",""display_name"":""Piazza Stazione, Cassago Brianza, Lecco, Lombardia, 23895, Italia"",""importance"":0.51,""lat"":""45.7460086"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2798423"",""osm_id"":221114276,""osm_type"":""way"",""place_id"":156155759,""type"":""residential""},""mode"":""autocomplete""},""nameSurname"":""Fondazione comunitaria del Lecchese"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Lecco ospita Ucraina: iniziativa per attivare una rete di ospitalit\u00e0 diffusa per i rifugiati ucraini"",""url"":""https://www.fondazionelecco.org/news/entra-nel-vivo-la-campagna-lecco-ospita-lucraina/?s=09""}","<pre><yamldata>
+nameSurname: Fondazione comunitaria del Lecchese
+phoneNumber: ''
+email: segreteria@fondazionelecco.org
+title: 'Lecco ospita Ucraina: iniziativa per attivare una rete di ospitalità diffusa
+  per i rifugiati ucraini'
+recipients: ''
+description: 'Distretto di Lecco, Ambiti distrettuali di Bellano, Lecco e Merate,
+  Fondazione comunitaria del Lecchese, CSV Monza Lecco Sondrio e Confcooperative dell’Adda
+  – in raccordo con la Prefettura –  hanno avviato la campagna “Lecco ospita l’Ucraina”,
+  per accogliere le disponibilità dei cittadini o strutture a ad alloggiare rifugiati
+  ucraini, in particolare in appartamenti.
+
+  Al link tutte le info e contatti.'
+url: https://www.fondazionelecco.org/news/entra-nel-vivo-la-campagna-lecco-ospita-lucraina/?s=09
+location:
+  mode: autocomplete
+  address:
+    place_id: 156155759
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 221114276
+    boundingbox:
+    - '45.7459825'
+    - '45.7460132'
+    - '9.2797661'
+    - '9.2799254'
+    lat: '45.7460086'
+    lon: '9.2798423'
+    display_name: Piazza Stazione, Cassago Brianza, Lecco, Lombardia, 23895, Italia
+    class: highway
+    type: residential
+    importance: 0.51
+    address:
+      road: Piazza Stazione
+      village: Cassago Brianza
+      county: Lecco
+      state: Lombardia
+      postcode: '23895'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 45.7460086 9.2798423
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/234,1174219555,2022-03-19 09:25:32,2022-03-19 09:24:11,Comune di #Campobasso avvia #raccoltafondi per l’Ucraina,41.5597935,14.6602725,Molise,Campobasso,"[""Valid/Accettato"",""fundraising"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""41.5597935 14.6602725"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""Il Comune di Campobasso ha attivato un conto corrente per raccogliere le eventuali donazioni a favore dei nuclei familiari giunti dall\u2019Ucraina. Chi vuole pu\u00f2 dare il proprio contributo effettuando una donazione sul seguente iban: IT82R0200803813000020016891, inserendo come causale: Emergenza Ucraina \u2013 Comune di Campobasso."",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":""https://www.primonumero.it/2022/03/emergenza-ucraina-il-comune-di-campobasso-apre-un-conto-corrente/1530718072/"",""location"":{""address"":{""address"":{""city"":""Campobasso"",""country"":""Italia"",""country_code"":""it"",""county"":""Campobasso"",""postcode"":""86100"",""state"":""Molise""},""boundingbox"":[""41.3997935"",""41.7197935"",""14.5002725"",""14.8202725""],""class"":""place"",""display_name"":""Campobasso, Molise, 86100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.64915945324463,""lat"":""41.5597935"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.6602725"",""osm_id"":67283748,""osm_type"":""node"",""place_id"":286172926,""type"":""city""},""mode"":""autocomplete""},""submit"":true,""title"":""Comune di Campobasso avvia raccolta fondi per l\u2019Ucraina""}","<pre><yamldata>
 title: Comune di Campobasso avvia raccolta fondi per l’Ucraina
 description: 'Il Comune di Campobasso ha attivato un conto corrente per raccogliere
@@ -272,50 +453,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 43.7806771 11.24376289731579
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/213,1173799564,2022-03-19 08:25:16,2022-03-18 16:46:49,"Rifugiati ucraini, Croce rossa Firenze avvia censimento per individuare disponibilità alloggi",,,,,"[""Valid/Accettato"",""News"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""state"":""Toscana""},""boundingbox"":[""43.7258716"",""43.8354631"",""11.1497598"",""11.3389044""],""class"":""boundary"",""display_name"":""Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8105633028502386,""lat"":""43.7806771"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.24376289731579"",""osm_id"":42602,""osm_type"":""relation"",""place_id"":284666342,""type"":""administrative""},""mode"":""autocomplete""},""description"":""La Croce Rossa Italiana, come membro permanente del Comitato Operativo Regionale del Volontario della Regione Toscana, sta effettuando la raccolta dati per il censimento delle disponibilit\u00e0 di alloggio per i rifugiati durante l\u2019Emergenza Ucraina. I dati forniti saranno elaborati esclusivamente da Croce Rossa Italiana e Prefettura di competenza, per gli scopi collegati all\u2019accoglienza dei profughi dell\u2019Emergenza Ucraina. Per informazioni scrivere a: censimento.alloggi@crifirenze.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Croce Rossa Italiana Comitato di Firenze"",""recipients"":"""",""submit"":true,""title"":""Censimento disponibilit\u00e0 alloggi"",""type"":""hospitality"",""url"":""https://crifirenze.it/""}","<pre><yamldata>
-type: hospitality
-offerFromWho: Croce Rossa Italiana Comitato di Firenze
-title: Censimento disponibilità alloggi
-recipients: ''
-description: 'La Croce Rossa Italiana, come membro permanente del Comitato Operativo
-  Regionale del Volontario della Regione Toscana, sta effettuando la raccolta dati
-  per il censimento delle disponibilità di alloggio per i rifugiati durante l’Emergenza
-  Ucraina.
-  I dati forniti saranno elaborati esclusivamente da Croce Rossa Italiana e Prefettura
-  di competenza, per gli scopi collegati all’accoglienza dei profughi dell’Emergenza
-  Ucraina.
-  Per informazioni scrivere a:
-  censimento.alloggi@crifirenze.it'
-url: https://crifirenze.it/
-address:
-  mode: autocomplete
-  address:
-    place_id: 284666342
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 42602
-    boundingbox:
-    - '43.7258716'
-    - '43.8354631'
-    - '11.1497598'
-    - '11.3389044'
-    lat: '43.7806771'
-    lon: '11.24376289731579'
-    display_name: Firenze, Città metropolitana di Firenze, Toscana, Italia
-    class: boundary
-    type: administrative
-    importance: 0.8105633028502386
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Firenze
-      county: Città metropolitana di Firenze
-      state: Toscana
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/217,1173815645,2022-03-19 08:24:53,2022-03-18 17:03:03,A Varese associazione Guardavanti cerca mediatrice/mediatore linguistica/o per attività con bambini ucraini,,,,,"[""Valid/Accettato"",""Help"",""Translation"",""job"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Varese"",""state"":""Lombardia""},""boundingbox"":[""45.5583143"",""46.1222569"",""8.552246"",""9.0662956""],""class"":""boundary"",""display_name"":""Varese, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7303937310744694,""lat"":""45.83971285"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.754157594917665"",""osm_id"":45347,""osm_type"":""relation"",""place_id"":284266553,""type"":""administrative""},""mode"":""autocomplete""},""description"":""L'associazione Guardavanti di Varese cerca una persona per mediazione linguistica-culturale durante le attivit\u00e0 di doposcuola con bambini ucraini neo-arrivati\nDisponibilit\u00e0 richiesta: 2 ore settimanali il venerd\u00ec pomeriggio\nDove: Varese, piazza Buzzi\nLingue: Ucraino e Italiano\nScrivi al pi\u00f9 presto a selezione@guardavanti.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Guardavanti"",""recipients"":"""",""submit"":true,""title"":""Ricerca persona per mediazione linguistica-culturale, Varese"",""type"":""jobOffer"",""url"":""https://www.facebook.com/Guardavanti/""}","<pre><yamldata>
 type: jobOffer
 offerFromWho: Associazione Guardavanti
@@ -547,47 +684,6 @@ label: fundraising
 submit: true
 Posizione: 43.8750462 11.0937398
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/230,1174088592,2022-03-19 07:58:37,2022-03-18 22:42:15,"Comune di #Prato attiva pagina web per accoglienza rifugiati, punti di #raccoltabeni, offerta #alloggi",,,,,"[""Valid/Accettato"",""Housing offers"",""materialGoods"",""hospitality"",""telegram-channel""]",,,"{""address"":{""address"":{""address"":{""city"":""Prato"",""country"":""Italia"",""country_code"":""it"",""county"":""Prato"",""neighbourhood"":""Soccorso"",""postcode"":""59100"",""road"":""Via Lazzerini"",""state"":""Toscana""},""boundingbox"":[""43.8745824"",""43.8754983"",""11.0933429"",""11.0940385""],""class"":""highway"",""display_name"":""Via Lazzerini, Soccorso, Prato, Toscana, 59100, Italia"",""importance"":0.5199999999999999,""lat"":""43.8750462"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.0937398"",""osm_id"":28637807,""osm_type"":""way"",""place_id"":108090719,""type"":""unclassified""},""mode"":""autocomplete""},""description"":""Online sul sito del Comune di Prato una pagina web con info e contatti utili su accoglienza rifugiati ucraini, punti di raccolta beni e farmaci, offerta alloggi, assistenza sanitaria e procedure per l\u2019accoglienza."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Prato"",""recipients"":"""",""submit"":true,""title"":""Comune di Prato attiva pagina web con info su accoglienza rifugiati ucraini, punti di raccolta beni, offerta alloggi"",""type"":""materialGoods"",""url"":""http://protezionecivile.comune.prato.it/aiuti-ucraina/pagina257.html""}","<pre><yamldata>
-type: materialGoods
-offerFromWho: Comune di Prato
-title: Comune di Prato attiva pagina web con info su accoglienza rifugiati ucraini,
-  punti di raccolta beni, offerta alloggi
-recipients: ''
-description: Online sul sito del Comune di Prato una pagina web con info e contatti
-  utili su accoglienza rifugiati ucraini, punti di raccolta beni e farmaci, offerta
-  alloggi, assistenza sanitaria e procedure per l’accoglienza.
-url: http://protezionecivile.comune.prato.it/aiuti-ucraina/pagina257.html
-address:
-  mode: autocomplete
-  address:
-    place_id: 108090719
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 28637807
-    boundingbox:
-    - '43.8745824'
-    - '43.8754983'
-    - '11.0933429'
-    - '11.0940385'
-    lat: '43.8750462'
-    lon: '11.0937398'
-    display_name: Via Lazzerini, Soccorso, Prato, Toscana, 59100, Italia
-    class: highway
-    type: unclassified
-    importance: 0.5199999999999999
-    address:
-      road: Via Lazzerini
-      neighbourhood: Soccorso
-      city: Prato
-      county: Prato
-      state: Toscana
-      postcode: '59100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/157,1170727612,2022-03-18 22:29:18,2022-03-16 09:02:31,"Accoglienza rifugiati ucraini, bando della Regione Lombardia per strutture ricettive",45.486740749999996,9.196137202763207,Lombardia,Milano,"[""Valid/Accettato"",""News"",""hospitality""]",,,"{""Posizione"":""45.486740749999996 9.196137202763207"",""description"":""La Regione Lombardia ha pubblicato una manifestazione di interesse finalizzata ad assicurare l'ospitalit\u00e0 delle persone provenienti dall'Ucraina, in conseguenza della crisi politica e militare in atto, nelle strutture ricettive presenti sul territorio regionale, qualora non sia possibile l\u2019accoglienza tramite le misure ordinarie del CAS (Centro di Accoglienza Straordinario) o del SAI (Sistema di Accoglienza e Integrazione), messe a disposizione dalle Prefetture - Uffici Territoriali del Governo.\n\nPossono partecipare le strutture ricettive, sia alberghiere che non alberghiere, che possono garantire ospitalit\u00e0 con trattamento di pensione completa con le seguenti specifiche:\n-  l\u2019alloggio in camere singole, doppie, triple, appartamenti, residence, e/o altre strutture ricettive, provviste di servizi igienici e dotate di Wi-Fi, TV, riscaldamento/raffrescamento, acqua calda/fredda;\n- gli ordinari servizi di pulizia ed igiene, in base alle specifiche disposizioni vigenti per la categoria ricettiva di appartenenza fatto salvo il cambio della biancheria settimanale e comunque ad ogni check-out.\n\nLe strutture interessate possono aderire alla manifestazione di interesse esclusivamente tramite la piattaforma Bandi Online. Tutte le info al link."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/gWzf8JlVLz"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""1"",""office"":""Palazzo Regione Lombardia"",""postcode"":""20124"",""quarter"":""GARIBALDI REPUBBLICA"",""road"":""Piazza Citt\u00e0 di Lombardia"",""state"":""Lombardia"",""suburb"":""Municipio 9""},""boundingbox"":[""45.4855652"",""45.4879171"",""9.1947702"",""9.1968219""],""class"":""office"",""display_name"":""Palazzo Regione Lombardia, 1, Piazza Citt\u00e0 di Lombardia, GARIBALDI REPUBBLICA, Municipio 9, Milano, Lombardia, 20124, Italia"",""importance"":0.7409999999999999,""lat"":""45.486740749999996"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.196137202763207"",""osm_id"":136077807,""osm_type"":""way"",""place_id"":133697142,""type"":""government""},""mode"":""autocomplete""},""submit"":true,""title"":""Accoglienza rifugiati ucraini, bando della Regione Lombardia per strutture ricettive""}","<pre><yamldata>
 title: Accoglienza rifugiati ucraini, bando della Regione Lombardia per strutture
   ricettive
@@ -695,52 +791,6 @@ label: help
 submit: true
 Posizione: 45.4384958 10.9924122
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/228,1174081720,2022-03-18 22:28:31,2022-03-18 22:26:27,Lecco ospita Ucraina: iniziativa per attivare una rete di ospitalità diffusa per i rifugiati ucraini,45.7460086,9.2798423,Lombardia,Lecco,"[""Valid/Accettato"",""News"",""hospitality""]",,,"{""Posizione"":""45.7460086 9.2798423"",""description"":""Distretto di Lecco, Ambiti distrettuali di Bellano, Lecco e Merate, Fondazione comunitaria del Lecchese, CSV Monza Lecco Sondrio e Confcooperative dell\u2019Adda \u2013 in raccordo con la Prefettura \u2013  hanno avviato la campagna \u201cLecco ospita l\u2019Ucraina\u201d, per accogliere le disponibilit\u00e0 dei cittadini o strutture a ad alloggiare rifugiati ucraini, in particolare in appartamenti.\nAl link tutte le info e contatti."",""email"":""segreteria@fondazionelecco.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Lecco"",""postcode"":""23895"",""road"":""Piazza Stazione"",""state"":""Lombardia"",""village"":""Cassago Brianza""},""boundingbox"":[""45.7459825"",""45.7460132"",""9.2797661"",""9.2799254""],""class"":""highway"",""display_name"":""Piazza Stazione, Cassago Brianza, Lecco, Lombardia, 23895, Italia"",""importance"":0.51,""lat"":""45.7460086"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2798423"",""osm_id"":221114276,""osm_type"":""way"",""place_id"":156155759,""type"":""residential""},""mode"":""autocomplete""},""nameSurname"":""Fondazione comunitaria del Lecchese"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Lecco ospita Ucraina: iniziativa per attivare una rete di ospitalit\u00e0 diffusa per i rifugiati ucraini"",""url"":""https://www.fondazionelecco.org/news/entra-nel-vivo-la-campagna-lecco-ospita-lucraina/?s=09""}","<pre><yamldata>
-nameSurname: Fondazione comunitaria del Lecchese
-phoneNumber: ''
-email: segreteria@fondazionelecco.org
-title: 'Lecco ospita Ucraina: iniziativa per attivare una rete di ospitalità diffusa
-  per i rifugiati ucraini'
-recipients: ''
-description: 'Distretto di Lecco, Ambiti distrettuali di Bellano, Lecco e Merate,
-  Fondazione comunitaria del Lecchese, CSV Monza Lecco Sondrio e Confcooperative dell’Adda
-  – in raccordo con la Prefettura –  hanno avviato la campagna “Lecco ospita l’Ucraina”,
-  per accogliere le disponibilità dei cittadini o strutture a ad alloggiare rifugiati
-  ucraini, in particolare in appartamenti.
-
-  Al link tutte le info e contatti.'
-url: https://www.fondazionelecco.org/news/entra-nel-vivo-la-campagna-lecco-ospita-lucraina/?s=09
-location:
-  mode: autocomplete
-  address:
-    place_id: 156155759
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 221114276
-    boundingbox:
-    - '45.7459825'
-    - '45.7460132'
-    - '9.2797661'
-    - '9.2799254'
-    lat: '45.7460086'
-    lon: '9.2798423'
-    display_name: Piazza Stazione, Cassago Brianza, Lecco, Lombardia, 23895, Italia
-    class: highway
-    type: residential
-    importance: 0.51
-    address:
-      road: Piazza Stazione
-      village: Cassago Brianza
-      county: Lecco
-      state: Lombardia
-      postcode: '23895'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 45.7460086 9.2798423
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/221,1173844732,2022-03-18 21:39:45,2022-03-18 17:35:14,Compendium of resources for ukranian refugees - Citizens of our Planet,,,,,"[""Valid/Accettato"",""News"",""Resources""]",,,"{""description"":""A number of volunteers around the world are working on a comprehensive document with information for Ukrainian refugees and for people wanting to help. Please feel free to use those information to feed your portal. The document is a living document, and is frequently updated."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""www.citizensofourplanet.org/resources"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Compendium of resources for refugees""}","<pre><yamldata>
 title: Compendium of resources for refugees
 description: A number of volunteers around the world are working on a comprehensive
@@ -795,56 +845,6 @@ address:
       county: Milano
       state: Lombardia
       postcode: '20122'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/214,1173801979,2022-03-18 21:27:05,2022-03-18 16:49:36,"Un farmaco per l’Ucraina, raccolta farmaci di Croce Rossa Firenze",,,,,"[""Valid/Accettato"",""materialGoods"",""healtcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""state"":""Toscana""},""boundingbox"":[""43.7258716"",""43.8354631"",""11.1497598"",""11.3389044""],""class"":""boundary"",""display_name"":""Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8105633028502386,""lat"":""43.7806771"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.24376289731579"",""osm_id"":42602,""osm_type"":""relation"",""place_id"":284666342,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Raccolta farmaci e dispositivi sanitari per soccorrere le\npopolazioni coinvolte nell\u2019emergenza umanitaria in Ucraina\nChiedi al tuo farmacista come puoi\ncontribuire alla raccolta\nFarmaci:\nACETILCISTEINA (200MG, buste)\nACIDO ACETILSALICILICO (100 MG, compresse)\nACIDO ACETILSALICILICO (400 MG, compresse)\nPARACETAMOLO (500 MG, compresse)\nPARACETAMOLO (500 MG, buste)\nACETILCISTEINA (200 MG, compresse)\nIBUPROFENE (400 MG, compresse)\nIODOPOVIDONE (soluzione)\nN.BUTILBROMURO DI IOSCINA (compresse)\n VITAMINA B1 (compresse); VITAMINA B12 (compresse)\nDICOFLENAC (25MG, mprese);\nSOLUZIONE FISIOLOGICA (500 ML SACCHE - NO FLEBO)\nSOLUZIONE GLUCOSATA 5% (500 ML, SACCHE - NO FLEBO)\nRINGER LATTATO (500 ML, SACCHE - NO FLEBO)\nPEROSSIDO DI IDROGENO 3%;\nCLOREXIDINA (SOLUZ.DISINFETTANTE); ALCOOL USO MEDICO\nDispositivi medici:\n GLUCOMETRI\nSTRISCE PER GLUCOMETRI\n GARZA IDROFILA (10X10)\nGARZA HYDROGEL (10X10)\nSTERIL STRIP (VARI FORMATI)\n GUANTI CHIRURGICI STERILI (S/M/L/XL)\nGARZA IDROFILA NON STERILE (ROTOLO)\nGARZA IDROFILA COTONE STERILE (7,5X7,5)\nTAMPONI GARZA IDROFILA DI COTONE STERILI\nPORTA AGHI MAYO HEGAR SUSY (150 ML)\nPINZA EMOSTATICA CURVA (TIPO MOSQUITO 125);\nFORCEPS MONOUSO CURVO (200 MM)"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Croce Rossa Italiana Comitato di Firenze"",""recipients"":"""",""submit"":true,""title"":""Un farmaco per l\u2019Ucraina"",""type"":""healthcare"",""url"":""https://crifirenze.it/2019/wp-content/uploads/2022/03/CRI-Farmaci-Ucraina-elenco.pdf""}","<pre><yamldata>
-type: healthcare
-offerFromWho: Croce Rossa Italiana Comitato di Firenze
-title: Un farmaco per l’Ucraina
-recipients: ''
-description: ""Raccolta farmaci e dispositivi sanitari per soccorrere le\npopolazioni\
-  \ coinvolte nell’emergenza umanitaria in Ucraina\nChiedi al tuo farmacista come\
-  \ puoi\ncontribuire alla raccolta\nFarmaci:\nACETILCISTEINA (200MG, buste)\nACIDO\
-  \ ACETILSALICILICO (100 MG, compresse)\nACIDO ACETILSALICILICO (400 MG, compresse)\n\
-  PARACETAMOLO (500 MG, compresse)\nPARACETAMOLO (500 MG, buste)\nACETILCISTEINA (200\
-  \ MG, compresse)\nIBUPROFENE (400 MG, compresse)\nIODOPOVIDONE (soluzione)\nN.BUTILBROMURO\
-  \ DI IOSCINA (compresse)\n VITAMINA B1 (compresse); VITAMINA B12 (compresse)\nDICOFLENAC\
-  \ (25MG, mprese);\nSOLUZIONE FISIOLOGICA (500 ML SACCHE - NO FLEBO)\nSOLUZIONE GLUCOSATA\
-  \ 5% (500 ML, SACCHE - NO FLEBO)\nRINGER LATTATO (500 ML, SACCHE - NO FLEBO)\nPEROSSIDO\
-  \ DI IDROGENO 3%;\nCLOREXIDINA (SOLUZ.DISINFETTANTE); ALCOOL USO MEDICO\nDispositivi\
-  \ medici:\n GLUCOMETRI\nSTRISCE PER GLUCOMETRI\n GARZA IDROFILA (10X10)\nGARZA HYDROGEL\
-  \ (10X10)\nSTERIL STRIP (VARI FORMATI)\n GUANTI CHIRURGICI STERILI (S/M/L/XL)\n\
-  GARZA IDROFILA NON STERILE (ROTOLO)\nGARZA IDROFILA COTONE STERILE (7,5X7,5)\nTAMPONI\
-  \ GARZA IDROFILA DI COTONE STERILI\nPORTA AGHI MAYO HEGAR SUSY (150 ML)\nPINZA EMOSTATICA\
-  \ CURVA (TIPO MOSQUITO 125);\nFORCEPS MONOUSO CURVO (200 MM)""
-url: https://crifirenze.it/2019/wp-content/uploads/2022/03/CRI-Farmaci-Ucraina-elenco.pdf
-address:
-  mode: autocomplete
-  address:
-    place_id: 284666342
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 42602
-    boundingbox:
-    - '43.7258716'
-    - '43.8354631'
-    - '11.1497598'
-    - '11.3389044'
-    lat: '43.7806771'
-    lon: '11.24376289731579'
-    display_name: Firenze, Città metropolitana di Firenze, Toscana, Italia
-    class: boundary
-    type: administrative
-    importance: 0.8105633028502386
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Firenze
-      county: Città metropolitana di Firenze
-      state: Toscana
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
