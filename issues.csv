@@ -1,5 +1,5 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/242,1174495285,2022-03-20 19:26:56,2022-03-20 10:13:06,A Pavia e dintorni associazione Amici del Sorriso raccoglie disponibilità ad ospitare rifugiati ucraini ,,,,,"[""Valid/Accettato"",""Services"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""city"":""Pavia"",""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""postcode"":""27100"",""state"":""Lombardia""},""boundingbox"":[""45.1557408"",""45.2333058"",""9.09038"",""9.2405513""],""class"":""boundary"",""display_name"":""Pavia, Lombardia, 27100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7074054594962236,""lat"":""45.1860043"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1546375"",""osm_id"":44383,""osm_type"":""relation"",""place_id"":284936095,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Gli Amici del Sorriso (MerenDONA del Sorriso e Amici del 4 Piano), in collaborazione con altre associazioni sul territorio pavese, si preparano a dare una prima accoglienza ai profughi. Allertiamo sulla necessit\u00e0 di alloggi, sia per le famiglie che per gli orfani che arriveranno e chiediamo a tutti voi di darci una mano a costruire un database che possa essere immediatamente utilizzabile da noi e dalle altre associazioni per rispondere alle imminenti richieste. Chiediamo a tutte le persone che ci hanno contattato in questi giorni di compilare il modulo (vedi link) cos\u00ec da inserirle nel database."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Amici del Sorriso - Merendona del Sorriso e Amici del quarto piano"",""recipients"":""Persone in arrivo dall'Ucraina"",""submit"":true,""title"":""Raccolta disponibilit\u00e0 di accoglienza per rifugiati Ucraini a Pavia"",""type"":""hospitality"",""url"":""https://docs.google.com/forms/d/e/1FAIpQLSc9XS3XzbRwm1Tut9zTVm4xIDesZ4YvW1C7DGq-p1IcRm_ynw/viewform?usp=sf_link""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/242,1174495285,2022-03-20 19:32:32,2022-03-20 10:13:06,A Pavia e dintorni associazione Amici del Sorriso raccoglie disponibilità ad ospitare rifugiati ucraini ,,,,,"[""Valid/Accettato"",""Services"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Pavia"",""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""postcode"":""27100"",""state"":""Lombardia""},""boundingbox"":[""45.1557408"",""45.2333058"",""9.09038"",""9.2405513""],""class"":""boundary"",""display_name"":""Pavia, Lombardia, 27100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7074054594962236,""lat"":""45.1860043"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1546375"",""osm_id"":44383,""osm_type"":""relation"",""place_id"":284936095,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Gli Amici del Sorriso (MerenDONA del Sorriso e Amici del 4 Piano), in collaborazione con altre associazioni sul territorio pavese, si preparano a dare una prima accoglienza ai profughi. Allertiamo sulla necessit\u00e0 di alloggi, sia per le famiglie che per gli orfani che arriveranno e chiediamo a tutti voi di darci una mano a costruire un database che possa essere immediatamente utilizzabile da noi e dalle altre associazioni per rispondere alle imminenti richieste. Chiediamo a tutte le persone che ci hanno contattato in questi giorni di compilare il modulo (vedi link) cos\u00ec da inserirle nel database."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Amici del Sorriso - Merendona del Sorriso e Amici del quarto piano"",""recipients"":""Persone in arrivo dall'Ucraina"",""submit"":true,""title"":""Raccolta disponibilit\u00e0 di accoglienza per rifugiati Ucraini a Pavia"",""type"":""hospitality"",""url"":""https://docs.google.com/forms/d/e/1FAIpQLSc9XS3XzbRwm1Tut9zTVm4xIDesZ4YvW1C7DGq-p1IcRm_ynw/viewform?usp=sf_link""}","<pre><yamldata>
 type: hospitality
 offerFromWho: Amici del Sorriso - Merendona del Sorriso e Amici del quarto piano
 title: Raccolta disponibilità di accoglienza per rifugiati Ucraini a Pavia
@@ -40,6 +40,55 @@ address:
       postcode: '27100'
       country: Italia
       country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/243,1174499138,2022-03-20 19:32:09,2022-03-20 10:26:54,Regione Sicilia attiva modulo online per mappare disponibilità all’accoglienza dei profughi ucraini,37.587794,14.155048,Sicilia,Caltanissetta,"[""Valid/Accettato"",""News"",""Services"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""37.587794 14.155048"",""description"":""News che contiene link a form gestito dalla Regione Siciliana al fine di individuare i servizi disponibili sul territorio per accogliere i rifugiati ucraini che arrivano in Sicilia."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.regione.sicilia.it/la-regione-informa/ucraina-musumeci-piattaforma-mappare-l-accoglienza-profughi"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Sicilia""},""boundingbox"":[""35.4929521"",""38.8176638"",""11.9258571"",""15.6530796""],""class"":""boundary"",""display_name"":""Sicilia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8164403209694491,""lat"":""37.587794"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.155048"",""osm_id"":39152,""osm_type"":""relation"",""place_id"":284505770,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Ucraina, Musumeci: \u00abVia a piattaforma per mappare l\u2019accoglienza dei profughi\u00bb""}","<pre><yamldata>
+title: 'Ucraina, Musumeci: «Via a piattaforma per mappare l’accoglienza dei profughi»'
+description: News che contiene link a form gestito dalla Regione Siciliana al fine
+  di individuare i servizi disponibili sul territorio per accogliere i rifugiati ucraini che arrivano in Sicilia.
+link: https://www.regione.sicilia.it/la-regione-informa/ucraina-musumeci-piattaforma-mappare-l-accoglienza-profughi
+location:
+  mode: autocomplete
+  address:
+    place_id: 284505770
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 39152
+    boundingbox:
+    - '35.4929521'
+    - '38.8176638'
+    - '11.9258571'
+    - '15.6530796'
+    lat: '37.587794'
+    lon: '14.155048'
+    display_name: Sicilia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8164403209694491
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      state: Sicilia
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 37.587794 14.155048
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/232,1174215120,2022-03-20 19:31:25,2022-03-19 09:00:25,Corsi di italiano gratuiti della Società Dante Alighieri per i profughi ucraini (in tutta Italia),,,,,"[""Valid/Accettato"",""Services"",""translation"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{},""mode"":""autocomplete""},""mode"":""autocomplete""},""description"":""Corsi di lingua italiana gratuiti per permettere ai profughi ucraini accolti in Italia di inserirsi nel nostro tessuto sociale e di affrontare una nuova vita. Li promuove la Societ\u00e0 Dante Alighieri, ente che dal 1889 diffonde la lingua e la cultura italiane nel mondo. La Societ\u00e0 mette a disposizione la propria rete di Sedi e Comitati diffusa su tutto il territorio nazionale per organizzare corsi in presenza oppure on line. L\u2019iniziativa sar\u00e0 sostenuta da un fondo di solidariet\u00e0 che \u00e8 gi\u00e0 stato attivato. Il programma parte con la sede di Roma e ha gi\u00e0 raccolto la piena adesione di numerosi Centri didattici (Benevento, Bolzano, Campobasso, Casarano, Catanzaro, Cosenza, Crotone, Enna, Forl\u00ec-Cesena, Genova, Gorizia, Imola, La Spezia, Merano, Palermo, Perugia, Pordenone, Rovigo, Salerno, Siena, Siracusa, Terni, Trieste, Venezia, Verbania, Vulture) e altri si stanno aggiungendo. Alla fine dei corsi la Dante Alighieri potr\u00e0 anche rilasciare il certificato PLIDA Progetto Lingua Dante Alighieri."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Societ\u00e0 Dante Alighieri"",""recipients"":"""",""submit"":true,""title"":""corsi di italiano gratuiti della societ\u00e0 Dante Alighieri per i profughi"",""type"":""translation"",""url"":""https://www.dante.global/it/area-stampa/comunicati-stampa/ucraina-corsi-italiano-18marzo22?fbclid=IwAR3_w1OXOj4sNouCB53P0a5V-oWQMLYlRl3U7Mo2kZJ1WUP-dqHqJkXzeNw""}","<pre><yamldata>
+type: translation
+offerFromWho: Società Dante Alighieri
+title: corsi di italiano gratuiti della società Dante Alighieri per i profughi
+recipients: ''
+description: 'Corsi di lingua italiana gratuiti per permettere ai profughi ucraini accolti in Italia di inserirsi nel nostro tessuto sociale e di affrontare una nuova vita. Li promuove la Società Dante Alighieri, ente che dal 1889 diffonde la lingua e la cultura italiane nel mondo. La Società mette a disposizione la propria rete di Sedi e Comitati diffusa su tutto il territorio nazionale per organizzare corsi in presenza oppure on line. L’iniziativa sarà sostenuta da un fondo di solidarietà che è già stato attivato. Il programma parte con la sede di Roma e ha già raccolto la piena adesione di numerosi Centri didattici (Benevento, Bolzano, Campobasso, Casarano, Catanzaro, Cosenza, Crotone, Enna, Forlì-Cesena, Genova, Gorizia, Imola, La Spezia, Merano, Palermo, Perugia, Pordenone, Rovigo, Salerno, Siena, Siracusa, Terni, Trieste, Venezia, Verbania, Vulture) e altri si stanno aggiungendo. Alla fine dei corsi la Dante Alighieri potrà anche rilasciare il certificato PLIDA Progetto Lingua Dante Alighieri.'
+url: https://www.dante.global/it/area-stampa/comunicati-stampa/ucraina-corsi-italiano-18marzo22?fbclid=IwAR3_w1OXOj4sNouCB53P0a5V-oWQMLYlRl3U7Mo2kZJ1WUP-dqHqJkXzeNw
+address:
+  mode: autocomplete
+  address:
+    mode: autocomplete
+    address: {}
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
@@ -550,39 +599,6 @@ address:
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/243,1174499138,2022-03-20 10:56:04,2022-03-20 10:26:54,Regione Sicilia attiva modulo online per mappare disponibilità all’accoglienza dei profughi ucraini,37.587794,14.155048,Sicilia,Caltanissetta,"[""Valid/Accettato"",""News"",""Services"",""hospitality""]",,,"{""Posizione"":""37.587794 14.155048"",""description"":""News che contiene link a form gestito dalla Regione Siciliana al fine di individuare i servizi disponibili sul territorio per accogliere i rifugiati ucraini che arrivano in Sicilia."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.regione.sicilia.it/la-regione-informa/ucraina-musumeci-piattaforma-mappare-l-accoglienza-profughi"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Sicilia""},""boundingbox"":[""35.4929521"",""38.8176638"",""11.9258571"",""15.6530796""],""class"":""boundary"",""display_name"":""Sicilia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8164403209694491,""lat"":""37.587794"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.155048"",""osm_id"":39152,""osm_type"":""relation"",""place_id"":284505770,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Ucraina, Musumeci: \u00abVia a piattaforma per mappare l\u2019accoglienza dei profughi\u00bb""}","<pre><yamldata>
-title: 'Ucraina, Musumeci: «Via a piattaforma per mappare l’accoglienza dei profughi»'
-description: News che contiene link a form gestito dalla Regione Siciliana al fine
-  di individuare i servizi disponibili sul territorio per accogliere i rifugiati ucraini che arrivano in Sicilia.
-link: https://www.regione.sicilia.it/la-regione-informa/ucraina-musumeci-piattaforma-mappare-l-accoglienza-profughi
-location:
-  mode: autocomplete
-  address:
-    place_id: 284505770
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 39152
-    boundingbox:
-    - '35.4929521'
-    - '38.8176638'
-    - '11.9258571'
-    - '15.6530796'
-    lat: '37.587794'
-    lon: '14.155048'
-    display_name: Sicilia, Italia
-    class: boundary
-    type: administrative
-    importance: 0.8164403209694491
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      state: Sicilia
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 37.587794 14.155048
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/241,1174484945,2022-03-20 10:51:11,2022-03-20 09:24:27,Municipio9 Milano si attiva per l’accoglienza diffusa e cerca disponibilità alloggi e volontari,,,,,"[""Valid/Accettato"",""Help"",""Services"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""state"":""Lombardia"",""suburb"":""Municipio 9""},""boundingbox"":[""45.4794074"",""45.5358482"",""9.1430802"",""9.2227238""],""class"":""boundary"",""display_name"":""Municipio 9, Milano, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.6655154633214481,""lat"":""45.5077041"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.17941004494827"",""osm_id"":3953734,""osm_type"":""relation"",""place_id"":285746219,""type"":""administrative""},""mode"":""autocomplete""},""description"":""\ud83e\udd17 Vogliamo partecipare all\u2019accoglienza diffusa dei profughi in arrivo dall'Ucraina, quartiere per quartiere. \n\n\ud83e\udd1d Se il Comune insieme a Prefettura e autorit\u00e0 sanitarie si occuperanno del necessario, noi vorremmo abbracciare chi arriva facendolo sentire subito parte della nostra comunit\u00e0. Per questo ci sar\u00e0 bisogno della collaborazione di tutte e tutti. Come cominciare? Innanzitutto capendo le energie  che possiamo mettere in campo. Vi invitiamo allora a compilare questi due form. \n\n\ud83d\ude4c\ud83c\udffb Il primo \u00e8 dedicato ad associazioni, enti, parrocchie, aziende, per indicarci che attivit\u00e0 potrebbero mettere in campo a questo link \u27a1\ufe0f https://forms.gle/6oW1wMq7dTXXLbxRA\n\n\ud83d\udc50\ud83c\udffb Il secondo a chi vorr\u00e0 donare il suo tempo, poco o tanto che sia, per accogliere chi arriva a questo link \u27a1\ufe0f https://forms.gle/dd8AGBRZJPf8tjAA8"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Municipio 9 Milano"",""recipients"":"""",""submit"":true,""title"":""#Municipio9 #Milano si attiva per l\u2019accoglienza diffusa e cerca disponibilit\u00e0 #alloggi e volontari per l\u2019inclusione"",""type"":""hospitality"",""url"":""https://forms.gle/dd8AGBRZJPf8tjAA8""}","<pre><yamldata>
 type: hospitality
@@ -1239,22 +1255,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 45.4967053 9.1391352
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/232,1174215120,2022-03-19 14:29:56,2022-03-19 09:00:25,Corsi di italiano gratuiti della società Dante Alighieri per i profughi ucraini (in tutta Italia),,,,,"[""Valid/Accettato"",""Services"",""translation"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{},""mode"":""autocomplete""},""mode"":""autocomplete""},""description"":""Corsi di lingua italiana gratuiti per permettere ai profughi ucraini accolti in Italia di inserirsi nel nostro tessuto sociale e di affrontare una nuova vita. Li promuove la Societ\u00e0 Dante Alighieri, ente che dal 1889 diffonde la lingua e la cultura italiane nel mondo. La Societ\u00e0 mette a disposizione la propria rete di Sedi e Comitati diffusa su tutto il territorio nazionale per organizzare corsi in presenza oppure on line. L\u2019iniziativa sar\u00e0 sostenuta da un fondo di solidariet\u00e0 che \u00e8 gi\u00e0 stato attivato. Il programma parte con la sede di Roma e ha gi\u00e0 raccolto la piena adesione di numerosi Centri didattici (Benevento, Bolzano, Campobasso, Casarano, Catanzaro, Cosenza, Crotone, Enna, Forl\u00ec-Cesena, Genova, Gorizia, Imola, La Spezia, Merano, Palermo, Perugia, Pordenone, Rovigo, Salerno, Siena, Siracusa, Terni, Trieste, Venezia, Verbania, Vulture) e altri si stanno aggiungendo. Alla fine dei corsi la Dante Alighieri potr\u00e0 anche rilasciare il certificato PLIDA Progetto Lingua Dante Alighieri."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Societ\u00e0 Dante Alighieri"",""recipients"":"""",""submit"":true,""title"":""corsi di italiano gratuiti della societ\u00e0 Dante Alighieri per i profughi"",""type"":""translation"",""url"":""https://www.dante.global/it/area-stampa/comunicati-stampa/ucraina-corsi-italiano-18marzo22?fbclid=IwAR3_w1OXOj4sNouCB53P0a5V-oWQMLYlRl3U7Mo2kZJ1WUP-dqHqJkXzeNw""}","<pre><yamldata>
-type: translation
-offerFromWho: Società Dante Alighieri
-title: corsi di italiano gratuiti della società Dante Alighieri per i profughi
-recipients: ''
-description: 'Corsi di lingua italiana gratuiti per permettere ai profughi ucraini accolti in Italia di inserirsi nel nostro tessuto sociale e di affrontare una nuova vita. Li promuove la Società Dante Alighieri, ente che dal 1889 diffonde la lingua e la cultura italiane nel mondo. La Società mette a disposizione la propria rete di Sedi e Comitati diffusa su tutto il territorio nazionale per organizzare corsi in presenza oppure on line. L’iniziativa sarà sostenuta da un fondo di solidarietà che è già stato attivato. Il programma parte con la sede di Roma e ha già raccolto la piena adesione di numerosi Centri didattici (Benevento, Bolzano, Campobasso, Casarano, Catanzaro, Cosenza, Crotone, Enna, Forlì-Cesena, Genova, Gorizia, Imola, La Spezia, Merano, Palermo, Perugia, Pordenone, Rovigo, Salerno, Siena, Siracusa, Terni, Trieste, Venezia, Verbania, Vulture) e altri si stanno aggiungendo. Alla fine dei corsi la Dante Alighieri potrà anche rilasciare il certificato PLIDA Progetto Lingua Dante Alighieri.'
-url: https://www.dante.global/it/area-stampa/comunicati-stampa/ucraina-corsi-italiano-18marzo22?fbclid=IwAR3_w1OXOj4sNouCB53P0a5V-oWQMLYlRl3U7Mo2kZJ1WUP-dqHqJkXzeNw
-address:
-  mode: autocomplete
-  address:
-    mode: autocomplete
-    address: {}
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/231,1174209429,2022-03-19 14:24:54,2022-03-19 08:27:10,Comune di Vietri di Potenza avvia una raccolta fondi per l’Ucraina,40.5986472,15.5072463,Basilicata,Potenza,"[""Valid/Accettato"",""fundraising"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""40.5986472 15.5072463"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""\ud83c\uddfa\ud83c\udde6 VIETRI DI POTENZA A SUPPORTO DEL POPOLO UCRAINO. ATTIVATA UNA RACCOLTA FONDI DAL COMUNE \n\n\ud83d\udce3 Il sindaco, avv. Christian Giordano, comunica che \u00e8 stata attivata una iniziativa a favore della popolazione ucraina. I fondi raccolti verranno utilizzati per supportare le azioni umanitarie a favore del popolo ucraino. Si potr\u00e0 donare versando una somma sul conto del Comune di Vietri di Potenza, inserendo come causale \""Erogazione liberale emergenza Ucraina\"". Si potr\u00e0 donare anche presso l'Ufficio Postale, dove verranno fornite tutte le indicazioni.\n\n\ud83d\udcb0 IBAN del Comune di Vietri di Potenza \n\u27a1\ufe0f IT58T0760103200001046373294\n\n#nowar #prayforukraine #ukraine #stopwar"",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":"""",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Potenza"",""postcode"":""85058"",""state"":""Basilicata"",""village"":""Vietri di Potenza""},""boundingbox"":[""40.5702306"",""40.6396501"",""15.4494721"",""15.592227""],""class"":""boundary"",""display_name"":""Vietri di Potenza, Potenza, Basilicata, 85058, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.784679386419411,""lat"":""40.5986472"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.5072463"",""osm_id"":40618,""osm_type"":""relation"",""place_id"":284027456,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Comune di Vietri di porenza""}","<pre><yamldata>
 title: Comune di Vietri di porenza
