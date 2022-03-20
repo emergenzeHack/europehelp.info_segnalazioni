@@ -1,4 +1,46 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/247,1174667581,2022-03-20 20:15:02,2022-03-20 20:03:10,A San Martino Siccomario (Pavia) associazione Merendona del Sorriso distribuisce beni di prima necessità a profughi ucraini (anche giochi) e cerca volontari,,,,,"[""Valid/Accettato"",""Help"",""Services"",""materialGoods"",""Children""]",,,"{""address"":{""address"":{""address"":{""city"":""San Martino Siccomario"",""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""hamlet"":""Cascina Campeggia"",""postcode"":""27028"",""road"":""Via Pablo Neruda"",""state"":""Lombardia""},""boundingbox"":[""45.1579714"",""45.1581518"",""9.1332555"",""9.1333802""],""class"":""highway"",""display_name"":""Via Pablo Neruda, Cascina Campeggia, San Martino Siccomario, Pavia, Lombardia, 27028, Italia"",""importance"":0.6,""lat"":""45.1579714"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1333802"",""osm_id"":241371686,""osm_type"":""way"",""place_id"":162427365,""type"":""residential""},""mode"":""autocomplete""},""description"":""Disponibili beni di prima necessit\u00e0 (vestiti, cibo, giochi, coperte) presso la Sala Calabresi in Via Neruda, 1 a San Martino Siccomario (Pv). Cerchiamo volontari che possano aiutare nelle operazioni di sistemazione e smistamento dalle 15 alle 17 tutti i giorni (da luned\u00ec a domenica)."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Merendona del Sorriso"",""recipients"":""Persone in arrivo dall'Ucraina"",""submit"":true,""title"":""Distribuzione abiti coperte giochi per profughi + ricerca volontari"",""type"":""materialGoods"",""url"":""https://www.facebook.com/merendonadelsorriso/posts/3225278561086747""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: Merendona del Sorriso
+title: Distribuzione abiti coperte giochi per profughi + ricerca volontari
+recipients: Persone in arrivo dall'Ucraina
+description: Disponibili beni di prima necessità (vestiti, cibo, giochi, coperte)
+  presso la Sala Calabresi in Via Neruda, 1 a San Martino Siccomario (Pv). Cerchiamo
+  volontari che possano aiutare nelle operazioni di sistemazione e smistamento dalle
+  15 alle 17 tutti i giorni (da lunedì a domenica).
+url: https://www.facebook.com/merendonadelsorriso/posts/3225278561086747
+address:
+  mode: autocomplete
+  address:
+    place_id: 162427365
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 241371686
+    boundingbox:
+    - '45.1579714'
+    - '45.1581518'
+    - '9.1332555'
+    - '9.1333802'
+    lat: '45.1579714'
+    lon: '9.1333802'
+    display_name: Via Pablo Neruda, Cascina Campeggia, San Martino Siccomario, Pavia,
+      Lombardia, 27028, Italia
+    class: highway
+    type: residential
+    importance: 0.6
+    address:
+      road: Via Pablo Neruda
+      hamlet: Cascina Campeggia
+      city: San Martino Siccomario
+      county: Pavia
+      state: Lombardia
+      postcode: '27028'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/242,1174495285,2022-03-20 19:32:32,2022-03-20 10:13:06,A Pavia e dintorni associazione Amici del Sorriso raccoglie disponibilità ad ospitare rifugiati ucraini ,,,,,"[""Valid/Accettato"",""Services"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Pavia"",""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""postcode"":""27100"",""state"":""Lombardia""},""boundingbox"":[""45.1557408"",""45.2333058"",""9.09038"",""9.2405513""],""class"":""boundary"",""display_name"":""Pavia, Lombardia, 27100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7074054594962236,""lat"":""45.1860043"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1546375"",""osm_id"":44383,""osm_type"":""relation"",""place_id"":284936095,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Gli Amici del Sorriso (MerenDONA del Sorriso e Amici del 4 Piano), in collaborazione con altre associazioni sul territorio pavese, si preparano a dare una prima accoglienza ai profughi. Allertiamo sulla necessit\u00e0 di alloggi, sia per le famiglie che per gli orfani che arriveranno e chiediamo a tutti voi di darci una mano a costruire un database che possa essere immediatamente utilizzabile da noi e dalle altre associazioni per rispondere alle imminenti richieste. Chiediamo a tutte le persone che ci hanno contattato in questi giorni di compilare il modulo (vedi link) cos\u00ec da inserirle nel database."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Amici del Sorriso - Merendona del Sorriso e Amici del quarto piano"",""recipients"":""Persone in arrivo dall'Ucraina"",""submit"":true,""title"":""Raccolta disponibilit\u00e0 di accoglienza per rifugiati Ucraini a Pavia"",""type"":""hospitality"",""url"":""https://docs.google.com/forms/d/e/1FAIpQLSc9XS3XzbRwm1Tut9zTVm4xIDesZ4YvW1C7DGq-p1IcRm_ynw/viewform?usp=sf_link""}","<pre><yamldata>
 type: hospitality
 offerFromWho: Amici del Sorriso - Merendona del Sorriso e Amici del quarto piano
