@@ -1,4 +1,37 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/243,1174499138,2022-03-20 10:56:04,2022-03-20 10:26:54,Regione Sicilia attiva modulo online per mappare disponibilità all’accoglienza dei profughi ucraini,37.587794,14.155048,Sicilia,Caltanissetta,"[""Valid/Accettato"",""News"",""Services"",""hospitality""]",,,"{""Posizione"":""37.587794 14.155048"",""description"":""News che contiene link a form gestito dalla Regione Siciliana al fine di individuare i servizi disponibili sul territorio per accogliere i rifugiati ucraini che arrivano in Sicilia."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.regione.sicilia.it/la-regione-informa/ucraina-musumeci-piattaforma-mappare-l-accoglienza-profughi"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Sicilia""},""boundingbox"":[""35.4929521"",""38.8176638"",""11.9258571"",""15.6530796""],""class"":""boundary"",""display_name"":""Sicilia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8164403209694491,""lat"":""37.587794"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.155048"",""osm_id"":39152,""osm_type"":""relation"",""place_id"":284505770,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Ucraina, Musumeci: \u00abVia a piattaforma per mappare l\u2019accoglienza dei profughi\u00bb""}","<pre><yamldata>
+title: 'Ucraina, Musumeci: «Via a piattaforma per mappare l’accoglienza dei profughi»'
+description: News che contiene link a form gestito dalla Regione Siciliana al fine
+  di individuare i servizi disponibili sul territorio per accogliere i rifugiati ucraini che arrivano in Sicilia.
+link: https://www.regione.sicilia.it/la-regione-informa/ucraina-musumeci-piattaforma-mappare-l-accoglienza-profughi
+location:
+  mode: autocomplete
+  address:
+    place_id: 284505770
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 39152
+    boundingbox:
+    - '35.4929521'
+    - '38.8176638'
+    - '11.9258571'
+    - '15.6530796'
+    lat: '37.587794'
+    lon: '14.155048'
+    display_name: Sicilia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8164403209694491
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      state: Sicilia
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 37.587794 14.155048
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/239,1174473171,2022-03-20 10:51:39,2022-03-20 08:24:51,Strumenti per l’inclusione delle persone con disabilità negli aiuti umanitari e nella risposta alle emergenze,,,,,"[""Valid/Accettato"",""Services"",""disability"",""document_data"",""telegram-channel"",""tweet"",""Resources""]",,,"{""address"":{""address"":{""address"":{""city"":""Bruxelles"",""country"":""Belgio"",""country_code"":""be"",""county"":""Brussel-Hoofdstad - Bruxelles-Capitale"",""municipality"":""Ville de Bruxelles - Stad Brussel"",""postcode"":""1000"",""region"":""R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest"",""road"":""Avenue des Arts - Kunstlaan""},""boundingbox"":[""50.8474475"",""50.8480852"",""4.369463"",""4.3695736""],""class"":""highway"",""display_name"":""Avenue des Arts - Kunstlaan, Bruxelles, Ville de Bruxelles - Stad Brussel, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, Belgio"",""importance"":0.5,""lat"":""50.847765"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""4.3695509"",""osm_id"":146245730,""osm_type"":""way"",""place_id"":135434746,""type"":""primary""},""mode"":""autocomplete""},""description"":""Strumenti per l\u2019Inclusione delle persone con disabilit\u00e0 negli aiuti umanitari i e nella risposta alle emergenze"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""\u2013 Forum europeo sulla disabilit\u00e0"",""recipients"":"""",""submit"":true,""title"":""Forum europeo sulla disabilit\u00e0"",""type"":""disabilityServices"",""url"":""https://www.edf-feph.org/inclusive-emergency-response/""}","<pre><yamldata>
 type: disabilityServices
 offerFromWho: – Forum europeo sulla disabilità
