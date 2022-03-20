@@ -1,4 +1,54 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/245,1174546568,2022-03-20 13:25:59,2022-03-20 13:24:32,Formazione per tutori volontari e famiglie affidatarie di minori,,,,,"[""Valid/Accettato"",""Services"",""Children"",""Resources""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20127"",""quarter"":""Padova"",""road"":""Via Eleonora Fonseca Pimentel"",""state"":""Lombardia"",""suburb"":""Municipio 2""},""boundingbox"":[""45.4972689"",""45.497378"",""9.2236825"",""9.2236942""],""class"":""highway"",""display_name"":""Via Eleonora Fonseca Pimentel, Padova, Municipio 2, Milano, Lombardia, 20127, Italia"",""importance"":0.5,""lat"":""45.4973278"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2236942"",""osm_id"":270535512,""osm_type"":""way"",""place_id"":169530520,""type"":""residential""},""mode"":""autocomplete""},""description"":""Un breve percorso informativo rivolto a cittadini e operatori interessati a rispondere in modo accogliente e consapevole all'emergenza che deriva dalla guerra.\nUn servizio per i diversi territori per poter offrire a chi accoglie e a chi viene accolto un servizio utile e sensato.\nPartecipazione libera tramite iscrizione\nPer ogni info 3387540204\nAffido@coopcomin.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Coopcomin.org"",""recipients"":"""",""submit"":true,""title"":""Formazione per tutori volontari e famiglie affidatarie di minori"",""type"":""children"",""url"":""https://www.coopcomin.org/news-eventi-cooperativa-comin.html""}","<pre><yamldata>
+type: children
+offerFromWho: Coopcomin.org
+title: Formazione per tutori volontari e famiglie affidatarie di minori
+recipients: ''
+description: 'Un breve percorso informativo rivolto a cittadini e operatori interessati
+  a rispondere in modo accogliente e consapevole all''emergenza che deriva dalla guerra.
+
+  Un servizio per i diversi territori per poter offrire a chi accoglie e a chi viene
+  accolto un servizio utile e sensato.
+
+  Partecipazione libera tramite iscrizione
+
+  Per ogni info 3387540204
+
+  Affido@coopcomin.org'
+url: https://www.coopcomin.org/news-eventi-cooperativa-comin.html
+address:
+  mode: autocomplete
+  address:
+    place_id: 169530520
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 270535512
+    boundingbox:
+    - '45.4972689'
+    - '45.497378'
+    - '9.2236825'
+    - '9.2236942'
+    lat: '45.4973278'
+    lon: '9.2236942'
+    display_name: Via Eleonora Fonseca Pimentel, Padova, Municipio 2, Milano, Lombardia,
+      20127, Italia
+    class: highway
+    type: residential
+    importance: 0.5
+    address:
+      road: Via Eleonora Fonseca Pimentel
+      quarter: Padova
+      suburb: Municipio 2
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20127'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/243,1174499138,2022-03-20 10:56:04,2022-03-20 10:26:54,Regione Sicilia attiva modulo online per mappare disponibilità all’accoglienza dei profughi ucraini,37.587794,14.155048,Sicilia,Caltanissetta,"[""Valid/Accettato"",""News"",""Services"",""hospitality""]",,,"{""Posizione"":""37.587794 14.155048"",""description"":""News che contiene link a form gestito dalla Regione Siciliana al fine di individuare i servizi disponibili sul territorio per accogliere i rifugiati ucraini che arrivano in Sicilia."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.regione.sicilia.it/la-regione-informa/ucraina-musumeci-piattaforma-mappare-l-accoglienza-profughi"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Sicilia""},""boundingbox"":[""35.4929521"",""38.8176638"",""11.9258571"",""15.6530796""],""class"":""boundary"",""display_name"":""Sicilia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8164403209694491,""lat"":""37.587794"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.155048"",""osm_id"":39152,""osm_type"":""relation"",""place_id"":284505770,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Ucraina, Musumeci: \u00abVia a piattaforma per mappare l\u2019accoglienza dei profughi\u00bb""}","<pre><yamldata>
 title: 'Ucraina, Musumeci: «Via a piattaforma per mappare l’accoglienza dei profughi»'
 description: News che contiene link a form gestito dalla Regione Siciliana al fine
