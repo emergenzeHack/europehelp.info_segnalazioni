@@ -1,4 +1,105 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/247,1174667581,2022-03-20 20:49:00,2022-03-20 20:03:10,A San Martino Siccomario (Pavia) associazione Merendona del Sorriso distribuisce beni di prima necessità a profughi ucraini (anche giochi) e cerca volontari,,,,,"[""Valid/Accettato"",""Help"",""Services"",""materialGoods"",""Children"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""San Martino Siccomario"",""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""hamlet"":""Cascina Campeggia"",""postcode"":""27028"",""road"":""Via Pablo Neruda"",""state"":""Lombardia""},""boundingbox"":[""45.1579714"",""45.1581518"",""9.1332555"",""9.1333802""],""class"":""highway"",""display_name"":""Via Pablo Neruda, Cascina Campeggia, San Martino Siccomario, Pavia, Lombardia, 27028, Italia"",""importance"":0.6,""lat"":""45.1579714"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1333802"",""osm_id"":241371686,""osm_type"":""way"",""place_id"":162427365,""type"":""residential""},""mode"":""autocomplete""},""description"":""Disponibili beni di prima necessit\u00e0 (vestiti, cibo, giochi, coperte) presso la Sala Calabresi in Via Neruda, 1 a San Martino Siccomario (Pv). Cerchiamo volontari che possano aiutare nelle operazioni di sistemazione e smistamento dalle 15 alle 17 tutti i giorni (da luned\u00ec a domenica)."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Merendona del Sorriso"",""recipients"":""Persone in arrivo dall'Ucraina"",""submit"":true,""title"":""Distribuzione abiti coperte giochi per profughi + ricerca volontari"",""type"":""materialGoods"",""url"":""https://www.facebook.com/merendonadelsorriso/posts/3225278561086747""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: Merendona del Sorriso
+title: Distribuzione abiti coperte giochi per profughi + ricerca volontari
+recipients: Persone in arrivo dall'Ucraina
+description: Disponibili beni di prima necessità (vestiti, cibo, giochi, coperte)
+  presso la Sala Calabresi in Via Neruda, 1 a San Martino Siccomario (Pv). Cerchiamo
+  volontari che possano aiutare nelle operazioni di sistemazione e smistamento dalle
+  15 alle 17 tutti i giorni (da lunedì a domenica).
+url: https://www.facebook.com/merendonadelsorriso/posts/3225278561086747
+address:
+  mode: autocomplete
+  address:
+    place_id: 162427365
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 241371686
+    boundingbox:
+    - '45.1579714'
+    - '45.1581518'
+    - '9.1332555'
+    - '9.1333802'
+    lat: '45.1579714'
+    lon: '9.1333802'
+    display_name: Via Pablo Neruda, Cascina Campeggia, San Martino Siccomario, Pavia,
+      Lombardia, 27028, Italia
+    class: highway
+    type: residential
+    importance: 0.6
+    address:
+      road: Via Pablo Neruda
+      hamlet: Cascina Campeggia
+      city: San Martino Siccomario
+      county: Pavia
+      state: Lombardia
+      postcode: '27028'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/248,1174675218,2022-03-20 20:48:11,2022-03-20 20:29:08,"l'associazione amici della mongolfiera cerca volontari per attività a supporto di donne, bambini e adolescenti ucraini rifugiati",45.1909364,9.1614949,Lombardia,Pavia,"[""Valid/Accettato"",""Help"",""Children"",""women""]",,,"{""Posizione"":""45.1909364 9.1614949"",""description"":""l'associazione sta accogliendo numerose donne, bambini e adolescenti ucraini e cerca volontari maggiorenni che possano dare una mano nelle seguenti attivit\u00e0:\n\nsupporto durante i corsi di italiano per donne straniere (gioved\u00ec mattina dalle 10 alle 12 in Corso Garibaldi 20/N a Pavia) e le attivit\u00e0 di conoscenza del territorio (giorni e orari da concordare);\naiuto compiti, mercoled\u00ec e venerd\u00ec pomeriggio presso il Circolo ARCI Via D\u2019Acqua, in Viale Bligny 83:\ndalle 14.30 alle 16.30 per gli studenti di scuola media e superiore;\ndalle 16.30 alle 18.00 per gli studenti della scuola elementare.\naffiancamento ai bambini ucraini nell'inserimento a scuola."",""email"":""amicimongolfiera@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""amenity"":""Circolo Via d'acqua (ARCI)"",""city"":""Pavia"",""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""house_number"":""83"",""postcode"":""27100"",""road"":""Viale Bligny"",""state"":""Lombardia"",""suburb"":""Citt\u00e0 Giardino""},""boundingbox"":[""45.1908864"",""45.1909864"",""9.1614449"",""9.1615449""],""class"":""amenity"",""display_name"":""Circolo Via d'acqua (ARCI), 83, Viale Bligny, Citt\u00e0 Giardino, Pavia, Lombardia, 27100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//food_restaurant.p.20.png"",""importance"":0.411,""lat"":""45.1909364"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1614949"",""osm_id"":2882416108,""osm_type"":""node"",""place_id"":33708904,""type"":""restaurant""},""mode"":""autocomplete""},""nameSurname"":""Amici della Mongolfiera"",""phoneNumber"":""+393802193536 - +39038221970"",""recipients"":"""",""submit"":true,""title"":""volontari"",""url"":""https://www.csvlombardia.it/pavia/pv-per-i-cittadini/pv-per-i-cittadini-volontariato-cercasi/post/amici-della-mongolfiera-cerca-volontari-per-gestione-emergenza-ucraina-pavia/""}","<pre><yamldata>
+nameSurname: Amici della Mongolfiera
+phoneNumber: +393802193536 - +39038221970
+email: amicimongolfiera@gmail.com
+title: volontari
+recipients: ''
+description: 'l''associazione sta accogliendo numerose donne, bambini e adolescenti
+  ucraini e cerca volontari maggiorenni che possano dare una mano nelle seguenti attività:
+
+
+  supporto durante i corsi di italiano per donne straniere (giovedì mattina dalle
+  10 alle 12 in Corso Garibaldi 20/N a Pavia) e le attività di conoscenza del territorio
+  (giorni e orari da concordare);
+
+  aiuto compiti, mercoledì e venerdì pomeriggio presso il Circolo ARCI Via D’Acqua,
+  in Viale Bligny 83:
+
+  dalle 14.30 alle 16.30 per gli studenti di scuola media e superiore;
+
+  dalle 16.30 alle 18.00 per gli studenti della scuola elementare.
+
+  affiancamento ai bambini ucraini nell''inserimento a scuola.'
+url: https://www.csvlombardia.it/pavia/pv-per-i-cittadini/pv-per-i-cittadini-volontariato-cercasi/post/amici-della-mongolfiera-cerca-volontari-per-gestione-emergenza-ucraina-pavia/
+location:
+  mode: autocomplete
+  address:
+    place_id: 33708904
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 2882416108
+    boundingbox:
+    - '45.1908864'
+    - '45.1909864'
+    - '9.1614449'
+    - '9.1615449'
+    lat: '45.1909364'
+    lon: '9.1614949'
+    display_name: Circolo Via d'acqua (ARCI), 83, Viale Bligny, Città Giardino, Pavia,
+      Lombardia, 27100, Italia
+    class: amenity
+    type: restaurant
+    importance: 0.411
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//food_restaurant.p.20.png
+    address:
+      amenity: Circolo Via d'acqua (ARCI)
+      house_number: '83'
+      road: Viale Bligny
+      suburb: Città Giardino
+      city: Pavia
+      county: Pavia
+      state: Lombardia
+      postcode: '27100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 45.1909364 9.1614949
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/249,1174676443,2022-03-20 20:36:47,2022-03-20 20:33:30, Conflavoro PMI apre un canale verificato per offrire lavoro agli ucraini giunti in Italia,,,,,"[""Valid/Accettato"",""Services"",""job"",""Resources""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00193"",""quarter"":""Ponte"",""road"":""Via del Consolato"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.8996225"",""41.8997391"",""12.4652004"",""12.4659634""],""class"":""highway"",""display_name"":""Via del Consolato, Ponte, Municipio Roma I, Roma, Roma Capitale, Lazio, 00193, Italia"",""importance"":0.475,""lat"":""41.8996786"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4655859"",""osm_id"":50885099,""osm_type"":""way"",""place_id"":114849251,""type"":""service""},""mode"":""autocomplete""},""description"":""\u2b55 Possiedi un'attivit\u00e0? \u2b55\nOffri un posto di lavoro e dona speranza al popolo ucraino in difficolt\u00e0.\n\nCi sono persone che hanno perso tutto e ora hanno bisogno di te. \u00c8 il momento di avere coraggio e di fare la tua parte.\n\nComunica le tue disponibilit\u00e0 sul portale Conflavoro per l'Ucraina: il canale verificato per offrire lavoro agli ucraini giunti in Italia. \ud83c\uddee\ud83c\uddf9 \ud83e\udd1d \ud83c\uddfa\ud83c\udde6\n\nHai una grande responsabilit\u00e0, ma anche una splendida opportunit\u00e0 di salvare il futuro di qualcuno. \ud83c\udf97"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Conflavoro PMI"",""recipients"":"""",""submit"":true,""title"":""portale Conflavoro per l'Ucraina: il canale verificato per offrire lavoro agli ucraini giunti in Italia"",""type"":""jobOffer"",""url"":""https://ucraina.conflavoro.it/offri-un-lavoro/?fbclid=IwAR0yAbkieAKRDbR3oCuSzRCDVP-Tg-YLPlt0pBTrO1nIZFDMvXawLfRI20o_aem_AQqIceE77yQKuiWuVZrN8mbAo8rUfe45YOkYjSQkI0JkxL79-q9UVLDnHu9JSEMCxr_J5l19aV_9fl_AHfN2XDroeZp037CvopD628dbRBuSTmTY_l3b0HDNjGfZJcbROMY""}","<pre><yamldata>
 type: jobOffer
 offerFromWho: Conflavoro PMI
@@ -48,48 +149,6 @@ address:
       county: Roma Capitale
       state: Lazio
       postcode: 00193
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/247,1174667581,2022-03-20 20:15:02,2022-03-20 20:03:10,A San Martino Siccomario (Pavia) associazione Merendona del Sorriso distribuisce beni di prima necessità a profughi ucraini (anche giochi) e cerca volontari,,,,,"[""Valid/Accettato"",""Help"",""Services"",""materialGoods"",""Children""]",,,"{""address"":{""address"":{""address"":{""city"":""San Martino Siccomario"",""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""hamlet"":""Cascina Campeggia"",""postcode"":""27028"",""road"":""Via Pablo Neruda"",""state"":""Lombardia""},""boundingbox"":[""45.1579714"",""45.1581518"",""9.1332555"",""9.1333802""],""class"":""highway"",""display_name"":""Via Pablo Neruda, Cascina Campeggia, San Martino Siccomario, Pavia, Lombardia, 27028, Italia"",""importance"":0.6,""lat"":""45.1579714"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1333802"",""osm_id"":241371686,""osm_type"":""way"",""place_id"":162427365,""type"":""residential""},""mode"":""autocomplete""},""description"":""Disponibili beni di prima necessit\u00e0 (vestiti, cibo, giochi, coperte) presso la Sala Calabresi in Via Neruda, 1 a San Martino Siccomario (Pv). Cerchiamo volontari che possano aiutare nelle operazioni di sistemazione e smistamento dalle 15 alle 17 tutti i giorni (da luned\u00ec a domenica)."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Merendona del Sorriso"",""recipients"":""Persone in arrivo dall'Ucraina"",""submit"":true,""title"":""Distribuzione abiti coperte giochi per profughi + ricerca volontari"",""type"":""materialGoods"",""url"":""https://www.facebook.com/merendonadelsorriso/posts/3225278561086747""}","<pre><yamldata>
-type: materialGoods
-offerFromWho: Merendona del Sorriso
-title: Distribuzione abiti coperte giochi per profughi + ricerca volontari
-recipients: Persone in arrivo dall'Ucraina
-description: Disponibili beni di prima necessità (vestiti, cibo, giochi, coperte)
-  presso la Sala Calabresi in Via Neruda, 1 a San Martino Siccomario (Pv). Cerchiamo
-  volontari che possano aiutare nelle operazioni di sistemazione e smistamento dalle
-  15 alle 17 tutti i giorni (da lunedì a domenica).
-url: https://www.facebook.com/merendonadelsorriso/posts/3225278561086747
-address:
-  mode: autocomplete
-  address:
-    place_id: 162427365
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 241371686
-    boundingbox:
-    - '45.1579714'
-    - '45.1581518'
-    - '9.1332555'
-    - '9.1333802'
-    lat: '45.1579714'
-    lon: '9.1333802'
-    display_name: Via Pablo Neruda, Cascina Campeggia, San Martino Siccomario, Pavia,
-      Lombardia, 27028, Italia
-    class: highway
-    type: residential
-    importance: 0.6
-    address:
-      road: Via Pablo Neruda
-      hamlet: Cascina Campeggia
-      city: San Martino Siccomario
-      county: Pavia
-      state: Lombardia
-      postcode: '27028'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
