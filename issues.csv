@@ -1,4 +1,45 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/239,1174473171,2022-03-20 08:28:23,2022-03-20 08:24:51,Strumenti per l’Inclusione delle persone con disabilità negli aiuti umanitari e nella risposta alle emergenze,,,,,"[""Valid/Accettato"",""Services"",""disability"",""document_data"",""telegram-channel"",""tweet"",""Resources""]",,,"{""address"":{""address"":{""address"":{""city"":""Bruxelles"",""country"":""Belgio"",""country_code"":""be"",""county"":""Brussel-Hoofdstad - Bruxelles-Capitale"",""municipality"":""Ville de Bruxelles - Stad Brussel"",""postcode"":""1000"",""region"":""R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest"",""road"":""Avenue des Arts - Kunstlaan""},""boundingbox"":[""50.8474475"",""50.8480852"",""4.369463"",""4.3695736""],""class"":""highway"",""display_name"":""Avenue des Arts - Kunstlaan, Bruxelles, Ville de Bruxelles - Stad Brussel, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, Belgio"",""importance"":0.5,""lat"":""50.847765"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""4.3695509"",""osm_id"":146245730,""osm_type"":""way"",""place_id"":135434746,""type"":""primary""},""mode"":""autocomplete""},""description"":""Strumenti per l\u2019Inclusione delle persone con disabilit\u00e0 negli aiuti umanitari i e nella risposta alle emergenze"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""\u2013 Forum europeo sulla disabilit\u00e0"",""recipients"":"""",""submit"":true,""title"":""Forum europeo sulla disabilit\u00e0"",""type"":""disabilityServices"",""url"":""https://www.edf-feph.org/inclusive-emergency-response/""}","<pre><yamldata>
+type: disabilityServices
+offerFromWho: – Forum europeo sulla disabilità
+title: Forum europeo sulla disabilità
+recipients: ''
+description: Strumenti per l’Inclusione delle persone con disabilità negli aiuti umanitari
+  i e nella risposta alle emergenze
+url: https://www.edf-feph.org/inclusive-emergency-response/
+address:
+  mode: autocomplete
+  address:
+    place_id: 135434746
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 146245730
+    boundingbox:
+    - '50.8474475'
+    - '50.8480852'
+    - '4.369463'
+    - '4.3695736'
+    lat: '50.847765'
+    lon: '4.3695509'
+    display_name: Avenue des Arts - Kunstlaan, Bruxelles, Ville de Bruxelles - Stad
+      Brussel, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale
+      - Brussels Hoofdstedelijk Gewest, 1000, Belgio
+    class: highway
+    type: primary
+    importance: 0.5
+    address:
+      road: Avenue des Arts - Kunstlaan
+      city: Bruxelles
+      municipality: Ville de Bruxelles - Stad Brussel
+      county: Brussel-Hoofdstad - Bruxelles-Capitale
+      region: Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+      postcode: '1000'
+      country: Belgio
+      country_code: be
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/168,1171254389,2022-03-20 07:31:05,2022-03-16 16:23:05,Su InclusionPeople.eu informazioni sulla situazione delle persone con disabilità in Ucraina e su come dare un aiuto,,,,,"[""Valid/Accettato"",""News"",""fundraising"",""disability"",""telegram-channel"",""tweet""]",,,"{""description"":""Su InclusionPeople.eu, sito dell\u2019associazione europea per l\u2019inclusione delle persone con disabilit\u00e0 intellettiva, informazioni sulla situazione delle persone con disabilit\u00e0 in Ucraina e su come poter essere di aiuto anche con raccolte fondi."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.inclusion-europe.eu/ukraine-people-with-intellectual-disabilities-mustnt-be-abandoned/?fbclid=IwAR1PiijnJsiSlkCp82J5QmryeEZyz85p_FiTeIVfCiUSf-Xzw0BzTs2BI8U"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Su InclusionPeople.eu informazioni sulla situazione delle persone con disabilit\u00e0 in Ucraina e su come poter essere di aiuto""}","<pre><yamldata>
 title: Su InclusionPeople.eu informazioni sulla situazione delle persone con disabilità
   in Ucraina e su come poter essere di aiuto
