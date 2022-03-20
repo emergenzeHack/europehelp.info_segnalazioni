@@ -1,4 +1,49 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/242,1174495285,2022-03-20 19:26:56,2022-03-20 10:13:06,A Pavia e dintorni associazione Amici del Sorriso raccoglie disponibilità ad ospitare rifugiati ucraini ,,,,,"[""Valid/Accettato"",""Services"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""city"":""Pavia"",""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""postcode"":""27100"",""state"":""Lombardia""},""boundingbox"":[""45.1557408"",""45.2333058"",""9.09038"",""9.2405513""],""class"":""boundary"",""display_name"":""Pavia, Lombardia, 27100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7074054594962236,""lat"":""45.1860043"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1546375"",""osm_id"":44383,""osm_type"":""relation"",""place_id"":284936095,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Gli Amici del Sorriso (MerenDONA del Sorriso e Amici del 4 Piano), in collaborazione con altre associazioni sul territorio pavese, si preparano a dare una prima accoglienza ai profughi. Allertiamo sulla necessit\u00e0 di alloggi, sia per le famiglie che per gli orfani che arriveranno e chiediamo a tutti voi di darci una mano a costruire un database che possa essere immediatamente utilizzabile da noi e dalle altre associazioni per rispondere alle imminenti richieste. Chiediamo a tutte le persone che ci hanno contattato in questi giorni di compilare il modulo (vedi link) cos\u00ec da inserirle nel database."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Amici del Sorriso - Merendona del Sorriso e Amici del quarto piano"",""recipients"":""Persone in arrivo dall'Ucraina"",""submit"":true,""title"":""Raccolta disponibilit\u00e0 di accoglienza per rifugiati Ucraini a Pavia"",""type"":""hospitality"",""url"":""https://docs.google.com/forms/d/e/1FAIpQLSc9XS3XzbRwm1Tut9zTVm4xIDesZ4YvW1C7DGq-p1IcRm_ynw/viewform?usp=sf_link""}","<pre><yamldata>
+type: hospitality
+offerFromWho: Amici del Sorriso - Merendona del Sorriso e Amici del quarto piano
+title: Raccolta disponibilità di accoglienza per rifugiati Ucraini a Pavia
+recipients: Persone in arrivo dall'Ucraina
+description: 'Gli Amici del Sorriso (MerenDONA del Sorriso e Amici del 4 Piano),
+  in collaborazione con altre associazioni sul territorio pavese, si preparano a
+  dare una prima accoglienza ai profughi.
+Allertiamo sulla necessità di alloggi, sia per le famiglie che per gli orfani che
+  arriveranno e chiediamo a tutti voi di darci una mano a costruire un database che
+  possa essere immediatamente utilizzabile da noi e dalle altre associazioni per rispondere
+  alle imminenti richieste.
+Chiediamo a tutte le persone che ci hanno contattato in questi giorni di compilare
+  il modulo (vedi link) così da inserirle nel database.'
+url: https://docs.google.com/forms/d/e/1FAIpQLSc9XS3XzbRwm1Tut9zTVm4xIDesZ4YvW1C7DGq-p1IcRm_ynw/viewform?usp=sf_link
+address:
+  mode: autocomplete
+  address:
+    place_id: 284936095
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 44383
+    boundingbox:
+    - '45.1557408'
+    - '45.2333058'
+    - '9.09038'
+    - '9.2405513'
+    lat: '45.1860043'
+    lon: '9.1546375'
+    display_name: Pavia, Lombardia, 27100, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7074054594962236
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Pavia
+      county: Pavia
+      state: Lombardia
+      postcode: '27100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/240,1174473884,2022-03-20 19:22:11,2022-03-20 08:29:01,A Milano Sant'Egidio e Chiese protestanti raccolgono farmaci e materiale sanitario da inviare in Ucraina,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""healtcare""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Raccolta medicinali da inviare in Ucraina \nPunto raccolta anche presso chiesa Valdese di Milano via SForza 12 prima e dopo culto domenicale 20 e 27 marzo"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Sant\u2019Egidio e le chiese protestanti di Milano"",""recipients"":"""",""submit"":true,""title"":""Esclusivamente medicinali e materiale sanitario nella lista al link"",""type"":""healthcare"",""url"":""https://mcusercontent.com/dd042c603ca0ac54ddbd2cce7/images/c3d3aa12-ab65-ed28-f341-50d767a42dee.jpeg""}","<pre><yamldata>
 type: healthcare
 offerFromWho: Sant’Egidio e le chiese protestanti di Milano
