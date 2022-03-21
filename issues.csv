@@ -1,8 +1,64 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/259,1175336086,2022-03-21 14:46:52,2022-03-21 12:47:15,Sul sito del Forum trentino per la pace e i diritti umani info sull'emergenza in Ucraina e su come aiutare,46.102817,11.129543099871789,Trentino-Alto Adige,Trento,"[""Valid/Accettato"",""News"",""Services""]",,,"{""Posizione"":""46.102817 11.129543099871789"",""description"":""Informazioni su come aiutare, eventi, manifestazioni."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.forumpace.it/speciale-ucraina/"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Provincia di Trento"",""state"":""Trentino-Alto Adige""},""boundingbox"":[""45.6728669"",""46.5327643"",""10.4522048"",""11.9628023""],""class"":""boundary"",""display_name"":""Provincia di Trento, Trentino-Alto Adige, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7380075390399246,""lat"":""46.102817"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.129543099871789"",""osm_id"":45756,""osm_type"":""relation"",""place_id"":283226448,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Pagina del \""Forum trentino per la pace e i diritti umani\"" con informazioni sull'emergenza in Ucraina""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/261,1175469638,2022-03-21 14:52:11,2022-03-21 14:27:59,Asvi attiva Sportello HelpUkraine per offrire supporto a rifugiati ucraini e a famiglie italiane disponibili all’accoglienza,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""9"",""postcode"":""20161"",""road"":""Via Casarsa"",""state"":""Lombardia"",""suburb"":""Bruzzano""},""boundingbox"":[""45.5244428"",""45.5245428"",""9.1745146"",""9.1746146""],""class"":""place"",""display_name"":""9, Via Casarsa, Bruzzano, Municipio 9, Milano, Lombardia, 20161, Italia"",""importance"":0.5309999999999999,""lat"":""45.5244928"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1745646"",""osm_id"":5157972784,""osm_type"":""node"",""place_id"":56855868,""type"":""house""},""mode"":""autocomplete""},""description"":""\u201cHelpUkraine\u201d, un punto di informazione e coordinamento per aiutare i rifugiati ucraini nel nostro Paese: a lanciarlo \u00e8 l\u2019organizzazione non profit, Avsi, che in tal modo intende rispondere alle numerose richieste dei profughi in arrivo dall\u2019Ucraina e coordinare l\u2019offerta di accoglienza di famiglie italiane. L\u2019iniziativa nasce grazie al supporto, oltre di Avsi, di Associazione Famiglie per l\u2019Accoglienza, Associazione San Martino, Fondazione Franco Verga, Associazione I Bambini dell\u2019Est, la ong ucraina Emmaus, e Medici in Famiglia Impresa Sociale. Il progetto \u00e8 partito il 16 marzo e offre un servizio concreto, uno sportello aperto in modo costante e in grado di rispondere a domande anche specifiche (per esempio come ottenere il titolo di soggiorno o come inserire i bambini a scuola), e per fare gli abbinamenti tra chi cerca ospitalit\u00e0 e chi la offre. Il neonato Info Point nasce con questo duplice obiettivo: favorire l\u2019accoglienza e l\u2019integrazione di cittadini ucraini che arrivano in Italia in fuga dal conflitto e sostenere le famiglie residenti in Italia disponibili a fornire aiuto nel processo di accoglienza e integrazione. \nPer contattare l\u2019Info point Help Ukraine: +39.02.674988368 in ucraino e inglese; +39.02.674988369 in italiano \u2013 HelpUkraine@avsi.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Asvi"",""recipients"":""Rifugiati ucraini e famiglie italiane"",""submit"":true,""title"":""Asvi attiva Sportello HelpUkraine per offrire supporto a rifugiati ucraini e a famiglie italiane disponibili all\u2019accoglienza di adulti e minori"",""type"":""legal"",""url"":""https://www.agensir.it/quotidiano/2022/3/17/ucraina-avsi-helpukraine-un-info-point-per-aiutare-i-rifugiati-ucraini-in-arrivo-in-italia/""}","<pre><yamldata>
+type: legal
+offerFromWho: Asvi
+title: Asvi attiva Sportello HelpUkraine per offrire supporto a rifugiati ucraini
+  e a famiglie italiane disponibili all’accoglienza di adulti e minori
+recipients: Rifugiati ucraini e famiglie italiane
+description: ""“HelpUkraine”, un punto di informazione e coordinamento per aiutare\
+  \ i rifugiati ucraini nel nostro Paese: a lanciarlo è l’organizzazione non profit,\
+  \ Avsi, che in tal modo intende rispondere alle numerose richieste dei profughi\
+  \ in arrivo dall’Ucraina e coordinare l’offerta di accoglienza di famiglie italiane.\
+  \ L’iniziativa nasce grazie al supporto, oltre di Avsi, di Associazione Famiglie\
+  \ per l’Accoglienza, Associazione San Martino, Fondazione Franco Verga, Associazione\
+  \ I Bambini dell’Est, la ong ucraina Emmaus, e Medici in Famiglia Impresa Sociale.\
+  \ Il progetto è partito il 16 marzo e offre un servizio concreto, uno sportello\
+  \ aperto in modo costante e in grado di rispondere a domande anche specifiche (per\
+  \ esempio come ottenere il titolo di soggiorno o come inserire i bambini a scuola),\
+  \ e per fare gli abbinamenti tra chi cerca ospitalità e chi la offre. Il neonato\
+  \ Info Point nasce con questo duplice obiettivo: favorire l’accoglienza e l’integrazione\
+  \ di cittadini ucraini che arrivano in Italia in fuga dal conflitto e sostenere\
+  \ le famiglie residenti in Italia disponibili a fornire aiuto nel processo di accoglienza\
+  \ e integrazione. \nPer contattare l’Info point Help Ukraine: +39.02.674988368 in\
+  \ ucraino e inglese; +39.02.674988369 in italiano – HelpUkraine@avsi.org""
+url: https://www.agensir.it/quotidiano/2022/3/17/ucraina-avsi-helpukraine-un-info-point-per-aiutare-i-rifugiati-ucraini-in-arrivo-in-italia/
+address:
+  mode: autocomplete
+  address:
+    place_id: 56855868
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 5157972784
+    boundingbox:
+    - '45.5244428'
+    - '45.5245428'
+    - '9.1745146'
+    - '9.1746146'
+    lat: '45.5244928'
+    lon: '9.1745646'
+    display_name: 9, Via Casarsa, Bruzzano, Municipio 9, Milano, Lombardia, 20161,
+      Italia
+    class: place
+    type: house
+    importance: 0.5309999999999999
+    address:
+      house_number: '9'
+      road: Via Casarsa
+      suburb: Bruzzano
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20161'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/259,1175336086,2022-03-21 14:51:21,2022-03-21 12:47:15,Sul sito del Forum trentino per la pace e i diritti umani info sull'emergenza in Ucraina e su come aiutare,46.102817,11.129543099871789,Trentino-Alto Adige,Trento,"[""Valid/Accettato"",""News"",""Services"",""fundraising"",""materialGoods"",""Children""]",,,"{""Posizione"":""46.102817 11.129543099871789"",""description"":""online informazioni su come aiutare (punti di raccolta beni, raccolte fondi ecc), eventi per la pace e strumenti per i bambini."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.forumpace.it/speciale-ucraina/"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Provincia di Trento"",""state"":""Trentino-Alto Adige""},""boundingbox"":[""45.6728669"",""46.5327643"",""10.4522048"",""11.9628023""],""class"":""boundary"",""display_name"":""Provincia di Trento, Trentino-Alto Adige, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7380075390399246,""lat"":""46.102817"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.129543099871789"",""osm_id"":45756,""osm_type"":""relation"",""place_id"":283226448,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Pagina del \""Forum trentino per la pace e i diritti umani\"" con informazioni sull'emergenza in Ucraina""}","<pre><yamldata>
 title: Pagina del ""Forum trentino per la pace e i diritti umani"" con informazioni
   sull'emergenza in Ucraina
-description: Informazioni su come aiutare, eventi, manifestazioni.
+description: online informazioni su come aiutare (punti di raccolta beni, raccolte fondi ecc), eventi per la pace e strumenti per i bambini.
 link: https://www.forumpace.it/speciale-ucraina/
 location:
   mode: autocomplete
@@ -32,6 +88,20 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 46.102817 11.129543099871789
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/260,1175337648,2022-03-21 14:50:54,2022-03-21 12:48:35,Raccontare la guerra ai bambini: strumenti utili proposti dal Forum trentino per la pace e i diritti umani,,,,,"[""Valid/Accettato"",""News"",""Services"",""Children""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Forum trentino per la pace e i diritti umani"",""recipients"":"""",""submit"":true,""title"":""Raccontare la guerra ai bambini: strumenti utili"",""type"":""children"",""url"":""https://www.forumpace.it/raccontare-la-guerra-ai-bambini-strumenti-utili/""}","<pre><yamldata>
+type: children
+offerFromWho: Forum trentino per la pace e i diritti umani
+title: 'Raccontare la guerra ai bambini: strumenti utili'
+recipients: ''
+description: ''
+url: https://www.forumpace.it/raccontare-la-guerra-ai-bambini-strumenti-utili/
+address:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/258,1175326354,2022-03-21 14:45:18,2022-03-21 12:39:29,Raccolta fondi del Comune di Trento per supportare le famiglie di profughi ucraini ,46.0664228,11.1257601,Trentino-Alto Adige,Trento,"[""Valid/Accettato"",""fundraising""]",,,"{""Posizione"":""46.0664228 11.1257601"",""bicSwift"":"""",""causal"":""Progetto fondo di solidariet\u00e0 Citt\u00e0 di Trento"",""ccPostal"":"""",""description"":""Raccolta fondi per supportare l'accoglienza a Trento delle famiglie in fuga.\nPer rendere pi\u00f9 agevoli le donazioni, il conto corrente \u00e8 collegato alla piattaforma GoFundMe https://www.gofundme.com/f/meglio-muoversi-che-commuoversi"",""email"":"""",""heading"":""Cooperativa sociale Villa S.Ignazio"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT87Y0830401811000045356565"",""label"":""fundraising"",""link"":""https://www.comune.trento.it/Comunicazione/Il-Comune-informa/Ufficio-stampa/Comunicati-stampa/Raccolta-fondi-per-le-famiglie-in-fuga-dalla-guerra"",""location"":{""address"":{""address"":{""city"":""Trento"",""country"":""Italia"",""country_code"":""it"",""county"":""Provincia di Trento"",""municipality"":""Territorio Val d'Adige"",""postcode"":""38122"",""state"":""Trentino-Alto Adige""},""boundingbox"":[""45.9064228"",""46.2264228"",""10.9657601"",""11.2857601""],""class"":""place"",""display_name"":""Trento, Territorio Val d'Adige, Provincia di Trento, Trentino-Alto Adige, 38122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7125285311246988,""lat"":""46.0664228"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.1257601"",""osm_id"":64776484,""osm_type"":""node"",""place_id"":285860881,""type"":""city""},""mode"":""autocomplete""},""submit"":true,""title"":""Comune di Trento in collaborazione con il Tavolo per la solidariet\u00e0 responsabile""}","<pre><yamldata>
 title: Comune di Trento in collaborazione con il Tavolo per la solidarietà responsabile
