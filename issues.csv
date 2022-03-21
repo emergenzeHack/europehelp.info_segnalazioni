@@ -1,4 +1,211 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/161,1171133127,2022-03-21 10:54:56,2022-03-16 14:52:25,Brigate volontarie per l’emergenza Milano: online i punti di raccolta beni per emergenza Ucraina,45.4517761,9.179309,Lombardia,Milano,"[""Valid/Accettato"",""News"",""Services"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.4517761 9.179309"",""description"":""Tra pochi giorni partir\u00e0 un primo convoglio di supporto umanitario organizzato da BVE e diretto verso il confine tra Polonia e Ucraina per andare a dare il nostro contributo.\nSiamo in stretto contatto con attivisti sul terreno \u2013 nostri fratelli e sorelle \u2013 e sappiamo cosa stiamo facendo, dove e a chi stiamo portando i nostri aiuti. Abbiamo indicazioni precise sulle necessit\u00e0 pi\u00f9 impellenti.\n\nSe vuoi donare del materiale a Milano raccogliamo:\nAbbigliamento tecnico invernale\nScarponcini\nMateriale da campeggio (sacchi a pelo, tende, coperte termiche)\nKit di pronto soccorso\nFarmaci da banco (antinfiammatori e antidolorifici)\nBende compressive e lacci emostatici (tourniquets)\nTest Covid-19\nAlimenti inscatolati (carne, pesce, omogeneizzati)\nPannolini\nAssorbenti\n\nI punti di raccolta si trovano presso le Case delle Brigate o luoghi amici.\nPer consegnare contattaci prima alla mail donazioni@brigatevolontarie.org, oppure scrivi alla pagina Facebook o Instagram di BVE.\nIn alternativa, recati direttamente presso il bar Vetra Navigli x Recicli in Corso Luigi Manusardi, 3."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.brigatevolontarie.org/cosa-facciamo/emergenze/campagna-ucraina/"",""location"":{""address"":{""address"":{""amenity"":""REcicli Bikes & Caf\u00e9"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""3"",""postcode"":""20136"",""quarter"":""Ticinese"",""road"":""Corso Luigi Manusardi"",""state"":""Lombardia"",""suburb"":""Municipio 5""},""boundingbox"":[""45.4517261"",""45.4518261"",""9.179259"",""9.179359""],""class"":""amenity"",""display_name"":""REcicli Bikes & Caf\u00e9, 3, Corso Luigi Manusardi, Ticinese, Municipio 5, Milano, Lombardia, 20136, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//food_bar.p.20.png"",""importance"":0.5209999999999999,""lat"":""45.4517761"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.179309"",""osm_id"":5615366545,""osm_type"":""node"",""place_id"":62211293,""type"":""bar""},""mode"":""autocomplete""},""submit"":true,""title"":""Brigate volontarie per l\u2019emergenza Milano: online i punti di raccolta beni per emergenza Ucraina""}","<pre><yamldata>
+title: 'Brigate volontarie per l’emergenza Milano: online i punti di raccolta beni
+  per emergenza Ucraina'
+description: 'Tra pochi giorni partirà un primo convoglio di supporto umanitario organizzato
+  da BVE e diretto verso il confine tra Polonia e Ucraina per andare a dare il nostro
+  contributo.
+
+  Siamo in stretto contatto con attivisti sul terreno – nostri fratelli e sorelle
+  – e sappiamo cosa stiamo facendo, dove e a chi stiamo portando i nostri aiuti. Abbiamo
+  indicazioni precise sulle necessità più impellenti.
+
+
+  Se vuoi donare del materiale a Milano raccogliamo:
+
+  Abbigliamento tecnico invernale
+
+  Scarponcini
+
+  Materiale da campeggio (sacchi a pelo, tende, coperte termiche)
+
+  Kit di pronto soccorso
+
+  Farmaci da banco (antinfiammatori e antidolorifici)
+
+  Bende compressive e lacci emostatici (tourniquets)
+
+  Test Covid-19
+
+  Alimenti inscatolati (carne, pesce, omogeneizzati)
+
+  Pannolini
+
+  Assorbenti
+
+
+  I punti di raccolta si trovano presso le Case delle Brigate o luoghi amici.
+
+  Per consegnare contattaci prima alla mail donazioni@brigatevolontarie.org, oppure
+  scrivi alla pagina Facebook o Instagram di BVE.
+
+  In alternativa, recati direttamente presso il bar Vetra Navigli x Recicli in Corso
+  Luigi Manusardi, 3.'
+link: https://www.brigatevolontarie.org/cosa-facciamo/emergenze/campagna-ucraina/
+location:
+  mode: autocomplete
+  address:
+    place_id: 62211293
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 5615366545
+    boundingbox:
+    - '45.4517261'
+    - '45.4518261'
+    - '9.179259'
+    - '9.179359'
+    lat: '45.4517761'
+    lon: '9.179309'
+    display_name: REcicli Bikes & Café, 3, Corso Luigi Manusardi, Ticinese, Municipio
+      5, Milano, Lombardia, 20136, Italia
+    class: amenity
+    type: bar
+    importance: 0.5209999999999999
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//food_bar.p.20.png
+    address:
+      amenity: REcicli Bikes & Café
+      house_number: '3'
+      road: Corso Luigi Manusardi
+      quarter: Ticinese
+      suburb: Municipio 5
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20136'
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.4517761 9.179309
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/163,1171148725,2022-03-21 10:54:24,2022-03-16 15:04:11,La Chiesa Santi Giacomo e Giovanni a Milano organizza raccolta beni e offre supporto ai rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""materialGoods"",""hospitality"",""contact"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""50"",""postcode"":""20136"",""quarter"":""Tibaldi"",""road"":""Via Giuseppe Meda"",""state"":""Lombardia"",""suburb"":""Municipio 5""},""boundingbox"":[""45.4388542"",""45.4389542"",""9.1782737"",""9.1783737""],""class"":""place"",""display_name"":""50, Via Giuseppe Meda, Tibaldi, Municipio 5, Milano, Lombardia, 20136, Italia"",""importance"":0.5209999999999999,""lat"":""45.4389042"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1783237"",""osm_id"":8279923214,""osm_type"":""node"",""place_id"":82572869,""type"":""house""},""mode"":""autocomplete""},""aim"":""La Chiesa Santi Giacomo e Giovanni, in via Meda 50, \u00e8 un importante punto di riferimento della comunit\u00e0 ucraina a Milano. Qui vengono raccolti beni di prima necessit\u00e0 (in particolare farmaci) per la popolazione ucraina e periodicamente vengono organizzati spedizioni umanitarie. Offre anche aiuto e assistenza ai rifugiati ucraini che arrivano a Milano."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":"""",""submit"":true,""title"":""Chiesa Santi Giacomo e Giovanni a Milano"",""url"":""http://www.ssgiacomoegiovanni.it/index.php/it/""}","<pre><yamldata>
+title: Chiesa Santi Giacomo e Giovanni a Milano
+phoneNumber: ''
+email: ''
+aim: La Chiesa Santi Giacomo e Giovanni, in via Meda 50, è un importante punto di
+  riferimento della comunità ucraina a Milano. Qui vengono raccolti beni di prima
+  necessità (in particolare farmaci) per la popolazione ucraina e periodicamente vengono
+  organizzati spedizioni umanitarie. Offre anche aiuto e assistenza ai rifugiati ucraini
+  che arrivano a Milano.
+url: http://www.ssgiacomoegiovanni.it/index.php/it/
+address:
+  mode: autocomplete
+  address:
+    place_id: 82572869
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 8279923214
+    boundingbox:
+    - '45.4388542'
+    - '45.4389542'
+    - '9.1782737'
+    - '9.1783737'
+    lat: '45.4389042'
+    lon: '9.1783237'
+    display_name: 50, Via Giuseppe Meda, Tibaldi, Municipio 5, Milano, Lombardia,
+      20136, Italia
+    class: place
+    type: house
+    importance: 0.5209999999999999
+    address:
+      house_number: '50'
+      road: Via Giuseppe Meda
+      quarter: Tibaldi
+      suburb: Municipio 5
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20136'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/166,1171190535,2022-03-21 10:53:57,2022-03-16 15:32:41,Taxi Service For Peace gruppo che aiuta i profughi ucraini a raggiungere gratuitamente paesi europei,,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""transport"",""contact"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Germania"",""country_code"":""de""},""boundingbox"":[""47.2701114"",""55.099161"",""5.8663153"",""15.0419309""],""class"":""boundary"",""display_name"":""Germania"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9996814891722549,""lat"":""51.0834196"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.4234469"",""osm_id"":51477,""osm_type"":""relation"",""place_id"":283355336,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Gruppo di volontari con base in Germania che offre trasporto gratuito a rifugiati, profughi e persone in stato di necessit\u00e0. Offre anche aiuto nella ricerca di alloggio. Con la guerra in Ucraina si \u00e8 attivato per aiutare le persone che dai confini ucraini intendono arrivare in altri paesi europei."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":"""",""submit"":true,""title"":""Taxi Service For Peace"",""url"":""https://www.facebook.com/groups/1646669812353707/?ref=share""}","<pre><yamldata>
+title: Taxi Service For Peace
+phoneNumber: ''
+email: ''
+aim: Gruppo di volontari con base in Germania che offre trasporto gratuito a rifugiati,
+  profughi e persone in stato di necessità. Offre anche aiuto nella ricerca di alloggio.
+  Con la guerra in Ucraina si è attivato per aiutare le persone che dai confini ucraini
+  intendono arrivare in altri paesi europei.
+url: https://www.facebook.com/groups/1646669812353707/?ref=share
+address:
+  mode: autocomplete
+  address:
+    place_id: 283355336
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 51477
+    boundingbox:
+    - '47.2701114'
+    - '55.099161'
+    - '5.8663153'
+    - '15.0419309'
+    lat: '51.0834196'
+    lon: '10.4234469'
+    display_name: Germania
+    class: boundary
+    type: administrative
+    importance: 0.9996814891722549
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      country: Germania
+      country_code: de
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/167,1171194894,2022-03-21 10:53:34,2022-03-16 15:36:10,"Documento con info utili, contatti e risorse a supporto delle persone Lgbtqi ucraine",49.4871968,31.2718321,,,"[""Valid/Accettato"",""News"",""useful contact"",""document_data"",""telegram-channel"",""tweet"",""Lgbtqi""]",,,"{""Posizione"":""49.4871968 31.2718321"",""description"":""Creato da Nino Ugrekhelidze (@nii_ugre su twitter e @niiugre su IG), attivista ucraino di base in Spagna, insieme a Kailiq,ax (@_x_kai su instagram, host del podcast @ost.gayze che parla di cultura queer dall\u2019Europa dell\u2019Est).\nIl documento \u00e8  in continuo aggiornamento e contiene:\n- Informazioni su come lasciare il paese per persone trans con documenti maschili\n- Contatti per cercare aiuto alla frontiera (alla frontiera Slovacca sono state riportate aggressioni transfobiche)\n- Raccolte fondi a supporto della comunit\u00e0 LGBTIQ+\n- Organizzazioni a cui donare che agiscono direttamente in campo\n- Lista di rifugi LGBTIQ+ in loco e in Europa (Soprattutto Germania / Moldavia, Repubblica Ceca / Latvia / Ungheria)."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://docs.google.com/document/d/12iSFcOUc5RpLM_fyBgfB0v1vVA9rhP_H7hAF4NPq-M8/mobilebasic"",""location"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""44.184598"",""52.3797464"",""22.137059"",""40.2275801""],""class"":""boundary"",""display_name"":""Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9264442439164168,""lat"":""49.4871968"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""31.2718321"",""osm_id"":60199,""osm_type"":""relation"",""place_id"":283553033,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Documento con info utili, contatti e risorse a supporto delle persone Lgbtqi ucraine""}","<pre><yamldata>
+title: Documento con info utili, contatti e risorse a supporto delle persone Lgbtqi
+  ucraine
+description: 'Creato da Nino Ugrekhelidze (@nii_ugre su twitter e @niiugre su IG),
+  attivista ucraino di base in Spagna, insieme a Kailiq,ax (@_x_kai su instagram,
+  host del podcast @ost.gayze che parla di cultura queer dall’Europa dell’Est).
+
+  Il documento è  in continuo aggiornamento e contiene:
+
+  - Informazioni su come lasciare il paese per persone trans con documenti maschili
+
+  - Contatti per cercare aiuto alla frontiera (alla frontiera Slovacca sono state
+  riportate aggressioni transfobiche)
+
+  - Raccolte fondi a supporto della comunità LGBTIQ+
+
+  - Organizzazioni a cui donare che agiscono direttamente in campo
+
+  - Lista di rifugi LGBTIQ+ in loco e in Europa (Soprattutto Germania / Moldavia,
+  Repubblica Ceca / Latvia / Ungheria).'
+link: https://docs.google.com/document/d/12iSFcOUc5RpLM_fyBgfB0v1vVA9rhP_H7hAF4NPq-M8/mobilebasic
+location:
+  mode: autocomplete
+  address:
+    place_id: 283553033
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 60199
+    boundingbox:
+    - '44.184598'
+    - '52.3797464'
+    - '22.137059'
+    - '40.2275801'
+    lat: '49.4871968'
+    lon: '31.2718321'
+    display_name: Ucraina
+    class: boundary
+    type: administrative
+    importance: 0.9264442439164168
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      country: Ucraina
+      country_code: ua
+label: document_data
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 49.4871968 31.2718321
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/210,1173730141,2022-03-21 10:52:09,2022-03-18 15:38:33,Comune di Bari attiva raccolta fondi per supportare i rifugiati ucraini residenti in città ,41.09296415,16.876808262923625,Puglia,Bari,"[""Valid/Accettato"",""fundraising"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""41.09296415 16.876808262923625"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""Il Comune di Bari, per sostenere i rifugiati ucraini attualmente accolti nella citt\u00e0 di Bari, ha messo a disposizione un conto corrente utile a raccogliere fondi per far fronte alle necessit\u00e0 quotidiane delle persone ucraine che si trovano in citt\u00e0, cos\u00ec da garantire percorsi di autonomia di famiglie e minori che versano in situazione di vulnerabilit\u00e0.\n\nI fondi raccolti - precisa una nota - saranno utilizzati per l'acquisto di forniture, servizi, beni di prima necessit\u00e0 o buoni spesa da distribuire tra quanti ne faranno richiesta attraverso le stesse modalit\u00e0 previste per i cittadini vulnerabili residenti in citt\u00e0."",""email"":"""",""heading"":""Unicredit"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT 35 G 02008 04030 000106360539"",""label"":""fundraising"",""link"":"""",""location"":{""address"":{""address"":{""city"":""Bari"",""country"":""Italia"",""country_code"":""it"",""county"":""Bari"",""state"":""Puglia""},""boundingbox"":[""41.0160584"",""41.1697837"",""16.7172376"",""17.0334109""],""class"":""boundary"",""display_name"":""Bari, Puglia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7287183212532693,""lat"":""41.09296415"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.876808262923625"",""osm_id"":41038,""osm_type"":""relation"",""place_id"":283768030,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Comune di Bari""}","<pre><yamldata>
 title: Comune di Bari
 description: 'Il Comune di Bari, per sostenere i rifugiati ucraini attualmente accolti
@@ -5053,41 +5260,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/166,1171190535,2022-03-16 18:46:28,2022-03-16 15:32:41,Taxi Service For Peace gruppo che aiuta i profughi ucraini a raggiungere gratuitamente paesi europei,,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""transport"",""contact""]",,,"{""address"":{""address"":{""address"":{""country"":""Germania"",""country_code"":""de""},""boundingbox"":[""47.2701114"",""55.099161"",""5.8663153"",""15.0419309""],""class"":""boundary"",""display_name"":""Germania"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9996814891722549,""lat"":""51.0834196"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.4234469"",""osm_id"":51477,""osm_type"":""relation"",""place_id"":283355336,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Gruppo di volontari con base in Germania che offre trasporto gratuito a rifugiati, profughi e persone in stato di necessit\u00e0. Offre anche aiuto nella ricerca di alloggio. Con la guerra in Ucraina si \u00e8 attivato per aiutare le persone che dai confini ucraini intendono arrivare in altri paesi europei."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":"""",""submit"":true,""title"":""Taxi Service For Peace"",""url"":""https://www.facebook.com/groups/1646669812353707/?ref=share""}","<pre><yamldata>
-title: Taxi Service For Peace
-phoneNumber: ''
-email: ''
-aim: Gruppo di volontari con base in Germania che offre trasporto gratuito a rifugiati,
-  profughi e persone in stato di necessità. Offre anche aiuto nella ricerca di alloggio.
-  Con la guerra in Ucraina si è attivato per aiutare le persone che dai confini ucraini
-  intendono arrivare in altri paesi europei.
-url: https://www.facebook.com/groups/1646669812353707/?ref=share
-address:
-  mode: autocomplete
-  address:
-    place_id: 283355336
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 51477
-    boundingbox:
-    - '47.2701114'
-    - '55.099161'
-    - '5.8663153'
-    - '15.0419309'
-    lat: '51.0834196'
-    lon: '10.4234469'
-    display_name: Germania
-    class: boundary
-    type: administrative
-    importance: 0.9996814891722549
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      country: Germania
-      country_code: de
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: contact
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/162,1171137950,2022-03-16 18:46:00,2022-03-16 14:55:57,Raccolta fondi di Brigate volontarie per l’emergenza (Milano) per portare aiuti umanitari al confine polacco-ucraino,45.45338155,9.181942044940254,Lombardia,Milano,"[""Valid/Accettato"",""fundraising""]",,,"{""Posizione"":""45.45338155 9.181942044940254"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""Tra pochi giorni partir\u00e0 un primo convoglio di supporto umanitario organizzato da BVE e diretto verso il confine tra Polonia e Ucraina per andare a dare il nostro contributo.\nSiamo in stretto contatto con attivisti sul terreno \u2013 nostri fratelli e sorelle \u2013 e sappiamo cosa stiamo facendo, dove e a chi stiamo portando i nostri aiuti. Abbiamo indicazioni precise sulle necessit\u00e0 pi\u00f9 impellenti.\nVi invitiamo a contribuire all\u2019IBAN IT52T0521601616000000002472, oppure tramite Paypal al link https://www.brigatevolontarie.org/cosa-puoi-fare/sostieni/\nGrazie al vostro sostegno potremo comprare il materiale pi\u00f9 necessario e organizzare il trasporto."",""email"":""info@brigatevolontarie.org"",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT52T0521601616000000002472"",""label"":""fundraising"",""link"":""https://www.brigatevolontarie.org/cosa-facciamo/emergenze/campagna-ucraina/"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""19"",""office"":""Casa Emergency"",""postcode"":""20136"",""quarter"":""Ticinese"",""road"":""Via Santa Croce"",""state"":""Lombardia"",""suburb"":""Municipio 1""},""boundingbox"":[""45.4532434"",""45.453506"",""9.181625"",""9.1822541""],""class"":""office"",""display_name"":""Casa Emergency, 19, Via Santa Croce, Ticinese, Municipio 1, Milano, Lombardia, 20136, Italia"",""importance"":0.5209999999999999,""lat"":""45.45338155"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.181942044940254"",""osm_id"":500699143,""osm_type"":""way"",""place_id"":210921399,""type"":""ngo""},""mode"":""autocomplete""},""submit"":true,""title"":""Raccolta fondi di Brigate volontarie per l\u2019emergenza Milano""}","<pre><yamldata>
 title: Raccolta fondi di Brigate volontarie per l’emergenza Milano
 description: 'Tra pochi giorni partirà un primo convoglio di supporto umanitario organizzato
@@ -5158,54 +5330,6 @@ location:
 label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/167,1171194894,2022-03-16 16:02:54,2022-03-16 15:36:10,"Documento con info utili, contatti e risorse a supporto delle persone Lgbtqi ucraine",49.4871968,31.2718321,,,"[""Valid/Accettato"",""News"",""useful contact"",""document_data"",""Lgbtqi""]",,,"{""Posizione"":""49.4871968 31.2718321"",""description"":""Creato da Nino Ugrekhelidze (@nii_ugre su twitter e @niiugre su IG), attivista ucraino di base in Spagna, insieme a Kailiq,ax (@_x_kai su instagram, host del podcast @ost.gayze che parla di cultura queer dall\u2019Europa dell\u2019Est).\nIl documento \u00e8  in continuo aggiornamento e contiene:\n- Informazioni su come lasciare il paese per persone trans con documenti maschili\n- Contatti per cercare aiuto alla frontiera (alla frontiera Slovacca sono state riportate aggressioni transfobiche)\n- Raccolte fondi a supporto della comunit\u00e0 LGBTIQ+\n- Organizzazioni a cui donare che agiscono direttamente in campo\n- Lista di rifugi LGBTIQ+ in loco e in Europa (Soprattutto Germania / Moldavia, Repubblica Ceca / Latvia / Ungheria)."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://docs.google.com/document/d/12iSFcOUc5RpLM_fyBgfB0v1vVA9rhP_H7hAF4NPq-M8/mobilebasic"",""location"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""44.184598"",""52.3797464"",""22.137059"",""40.2275801""],""class"":""boundary"",""display_name"":""Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9264442439164168,""lat"":""49.4871968"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""31.2718321"",""osm_id"":60199,""osm_type"":""relation"",""place_id"":283553033,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Documento con info utili, contatti e risorse a supporto delle persone Lgbtqi ucraine""}","<pre><yamldata>
-title: Documento con info utili, contatti e risorse a supporto delle persone Lgbtqi
-  ucraine
-description: 'Creato da Nino Ugrekhelidze (@nii_ugre su twitter e @niiugre su IG),
-  attivista ucraino di base in Spagna, insieme a Kailiq,ax (@_x_kai su instagram,
-  host del podcast @ost.gayze che parla di cultura queer dall’Europa dell’Est).
-
-  Il documento è  in continuo aggiornamento e contiene:
-
-  - Informazioni su come lasciare il paese per persone trans con documenti maschili
-
-  - Contatti per cercare aiuto alla frontiera (alla frontiera Slovacca sono state
-  riportate aggressioni transfobiche)
-
-  - Raccolte fondi a supporto della comunità LGBTIQ+
-
-  - Organizzazioni a cui donare che agiscono direttamente in campo
-
-  - Lista di rifugi LGBTIQ+ in loco e in Europa (Soprattutto Germania / Moldavia,
-  Repubblica Ceca / Latvia / Ungheria).'
-link: https://docs.google.com/document/d/12iSFcOUc5RpLM_fyBgfB0v1vVA9rhP_H7hAF4NPq-M8/mobilebasic
-location:
-  mode: autocomplete
-  address:
-    place_id: 283553033
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 60199
-    boundingbox:
-    - '44.184598'
-    - '52.3797464'
-    - '22.137059'
-    - '40.2275801'
-    lat: '49.4871968'
-    lon: '31.2718321'
-    display_name: Ucraina
-    class: boundary
-    type: administrative
-    importance: 0.9264442439164168
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      country: Ucraina
-      country_code: ua
-label: document_data
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 49.4871968 31.2718321
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/165,1171168636,2022-03-16 16:00:31,2022-03-16 15:19:21,Documento con info e contatti utili per attraversare i confini dell’Ucraina e ricevere aiuto,49.4871968,31.2718321,,,"[""Valid/Accettato"",""News"",""useful contact"",""hospitality"",""transport"",""Lgbtqi""]",,,"{""Posizione"":""49.4871968 31.2718321"",""description"":""Documento condiviso, in inglese e ucraino, realizzato dall\u2019attivista polacca Amanda Waliszewska con info, risorse online e contatti telefonici per uscire dall\u2019Ucraina, attraversare i confini, trovare passaggi e rifugi. Con informazioni anche per persone nere e Lgbtq."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://docs.google.com/document/d/1cn-P1cM3KVGhsAzb11Jy9rT6g7QTDHC0CCgULqsSG2c/mobilebasic?urp=gmail_link"",""location"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""44.184598"",""52.3797464"",""22.137059"",""40.2275801""],""class"":""boundary"",""display_name"":""Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9264442439164168,""lat"":""49.4871968"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""31.2718321"",""osm_id"":60199,""osm_type"":""relation"",""place_id"":283553033,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Documento condiviso con info e contatti utili per attraversare i confini dell\u2019Ucraina e ricevere aiuto""}","<pre><yamldata>
 title: Documento condiviso con info e contatti utili per attraversare i confini dell’Ucraina
@@ -5286,130 +5410,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: fundraising
 submit: true
 Posizione: 49.4871968 31.2718321
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/163,1171148725,2022-03-16 15:57:07,2022-03-16 15:04:11,La Chiesa Santi Giacomo e Giovanni a Milano organizza raccolta beni e offre supporto ai rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""materialGoods"",""hospitality"",""contact""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""50"",""postcode"":""20136"",""quarter"":""Tibaldi"",""road"":""Via Giuseppe Meda"",""state"":""Lombardia"",""suburb"":""Municipio 5""},""boundingbox"":[""45.4388542"",""45.4389542"",""9.1782737"",""9.1783737""],""class"":""place"",""display_name"":""50, Via Giuseppe Meda, Tibaldi, Municipio 5, Milano, Lombardia, 20136, Italia"",""importance"":0.5209999999999999,""lat"":""45.4389042"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1783237"",""osm_id"":8279923214,""osm_type"":""node"",""place_id"":82572869,""type"":""house""},""mode"":""autocomplete""},""aim"":""La Chiesa Santi Giacomo e Giovanni, in via Meda 50, \u00e8 un importante punto di riferimento della comunit\u00e0 ucraina a Milano. Qui vengono raccolti beni di prima necessit\u00e0 (in particolare farmaci) per la popolazione ucraina e periodicamente vengono organizzati spedizioni umanitarie. Offre anche aiuto e assistenza ai rifugiati ucraini che arrivano a Milano."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":"""",""submit"":true,""title"":""Chiesa Santi Giacomo e Giovanni a Milano"",""url"":""http://www.ssgiacomoegiovanni.it/index.php/it/""}","<pre><yamldata>
-title: Chiesa Santi Giacomo e Giovanni a Milano
-phoneNumber: ''
-email: ''
-aim: La Chiesa Santi Giacomo e Giovanni, in via Meda 50, è un importante punto di
-  riferimento della comunità ucraina a Milano. Qui vengono raccolti beni di prima
-  necessità (in particolare farmaci) per la popolazione ucraina e periodicamente vengono
-  organizzati spedizioni umanitarie. Offre anche aiuto e assistenza ai rifugiati ucraini
-  che arrivano a Milano.
-url: http://www.ssgiacomoegiovanni.it/index.php/it/
-address:
-  mode: autocomplete
-  address:
-    place_id: 82572869
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 8279923214
-    boundingbox:
-    - '45.4388542'
-    - '45.4389542'
-    - '9.1782737'
-    - '9.1783737'
-    lat: '45.4389042'
-    lon: '9.1783237'
-    display_name: 50, Via Giuseppe Meda, Tibaldi, Municipio 5, Milano, Lombardia,
-      20136, Italia
-    class: place
-    type: house
-    importance: 0.5209999999999999
-    address:
-      house_number: '50'
-      road: Via Giuseppe Meda
-      quarter: Tibaldi
-      suburb: Municipio 5
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20136'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/161,1171133127,2022-03-16 15:55:02,2022-03-16 14:52:25,Brigate volontarie per l’emergenza Milano: online i punti di raccolta beni per emergenza Ucraina,45.4517761,9.179309,Lombardia,Milano,"[""Valid/Accettato"",""News"",""Services"",""materialGoods""]",,,"{""Posizione"":""45.4517761 9.179309"",""description"":""Tra pochi giorni partir\u00e0 un primo convoglio di supporto umanitario organizzato da BVE e diretto verso il confine tra Polonia e Ucraina per andare a dare il nostro contributo.\nSiamo in stretto contatto con attivisti sul terreno \u2013 nostri fratelli e sorelle \u2013 e sappiamo cosa stiamo facendo, dove e a chi stiamo portando i nostri aiuti. Abbiamo indicazioni precise sulle necessit\u00e0 pi\u00f9 impellenti.\n\nSe vuoi donare del materiale a Milano raccogliamo:\nAbbigliamento tecnico invernale\nScarponcini\nMateriale da campeggio (sacchi a pelo, tende, coperte termiche)\nKit di pronto soccorso\nFarmaci da banco (antinfiammatori e antidolorifici)\nBende compressive e lacci emostatici (tourniquets)\nTest Covid-19\nAlimenti inscatolati (carne, pesce, omogeneizzati)\nPannolini\nAssorbenti\n\nI punti di raccolta si trovano presso le Case delle Brigate o luoghi amici.\nPer consegnare contattaci prima alla mail donazioni@brigatevolontarie.org, oppure scrivi alla pagina Facebook o Instagram di BVE.\nIn alternativa, recati direttamente presso il bar Vetra Navigli x Recicli in Corso Luigi Manusardi, 3."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.brigatevolontarie.org/cosa-facciamo/emergenze/campagna-ucraina/"",""location"":{""address"":{""address"":{""amenity"":""REcicli Bikes & Caf\u00e9"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""3"",""postcode"":""20136"",""quarter"":""Ticinese"",""road"":""Corso Luigi Manusardi"",""state"":""Lombardia"",""suburb"":""Municipio 5""},""boundingbox"":[""45.4517261"",""45.4518261"",""9.179259"",""9.179359""],""class"":""amenity"",""display_name"":""REcicli Bikes & Caf\u00e9, 3, Corso Luigi Manusardi, Ticinese, Municipio 5, Milano, Lombardia, 20136, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//food_bar.p.20.png"",""importance"":0.5209999999999999,""lat"":""45.4517761"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.179309"",""osm_id"":5615366545,""osm_type"":""node"",""place_id"":62211293,""type"":""bar""},""mode"":""autocomplete""},""submit"":true,""title"":""Brigate volontarie per l\u2019emergenza Milano: online i punti di raccolta beni per emergenza Ucraina""}","<pre><yamldata>
-title: 'Brigate volontarie per l’emergenza Milano: online i punti di raccolta beni
-  per emergenza Ucraina'
-description: 'Tra pochi giorni partirà un primo convoglio di supporto umanitario organizzato
-  da BVE e diretto verso il confine tra Polonia e Ucraina per andare a dare il nostro
-  contributo.
-
-  Siamo in stretto contatto con attivisti sul terreno – nostri fratelli e sorelle
-  – e sappiamo cosa stiamo facendo, dove e a chi stiamo portando i nostri aiuti. Abbiamo
-  indicazioni precise sulle necessità più impellenti.
-
-
-  Se vuoi donare del materiale a Milano raccogliamo:
-
-  Abbigliamento tecnico invernale
-
-  Scarponcini
-
-  Materiale da campeggio (sacchi a pelo, tende, coperte termiche)
-
-  Kit di pronto soccorso
-
-  Farmaci da banco (antinfiammatori e antidolorifici)
-
-  Bende compressive e lacci emostatici (tourniquets)
-
-  Test Covid-19
-
-  Alimenti inscatolati (carne, pesce, omogeneizzati)
-
-  Pannolini
-
-  Assorbenti
-
-
-  I punti di raccolta si trovano presso le Case delle Brigate o luoghi amici.
-
-  Per consegnare contattaci prima alla mail donazioni@brigatevolontarie.org, oppure
-  scrivi alla pagina Facebook o Instagram di BVE.
-
-  In alternativa, recati direttamente presso il bar Vetra Navigli x Recicli in Corso
-  Luigi Manusardi, 3.'
-link: https://www.brigatevolontarie.org/cosa-facciamo/emergenze/campagna-ucraina/
-location:
-  mode: autocomplete
-  address:
-    place_id: 62211293
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 5615366545
-    boundingbox:
-    - '45.4517261'
-    - '45.4518261'
-    - '9.179259'
-    - '9.179359'
-    lat: '45.4517761'
-    lon: '9.179309'
-    display_name: REcicli Bikes & Café, 3, Corso Luigi Manusardi, Ticinese, Municipio
-      5, Milano, Lombardia, 20136, Italia
-    class: amenity
-    type: bar
-    importance: 0.5209999999999999
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//food_bar.p.20.png
-    address:
-      amenity: REcicli Bikes & Café
-      house_number: '3'
-      road: Corso Luigi Manusardi
-      quarter: Ticinese
-      suburb: Municipio 5
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20136'
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 45.4517761 9.179309
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/158,1171105306,2022-03-16 15:53:50,2022-03-16 14:30:37,Contatti telefonici di Croce Rossa Ucraina per la ricerca di familiari dispersi,49.4871968,31.2718321,,,"[""Valid/Accettato"",""News"",""Services"",""useful contact""]",,,"{""Posizione"":""49.4871968 31.2718321"",""description"":""Nel caso in cui perdiate i contatti con i vostri cari, potete contattare il servizio di ricerca della Croce Rossa dell'Ucraina ai numeri sotto indicati:\n\u25ab\ufe0fKiev 096 304 4375, 066 250 9957\n\u25ab\ufe0fLviv 095 250 1274\n\u25ab\ufe0fKharkiv 099 206 5493\n\u25ab\ufe0fDnipro 095 250 1181\n\u25ab\ufe0fKramatorsk 095 250 1229"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.facebook.com/groups/ukrainehelpit/permalink/458942835974670/"",""location"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""44.184598"",""52.3797464"",""22.137059"",""40.2275801""],""class"":""boundary"",""display_name"":""Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8164442439164168,""lat"":""49.4871968"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""31.2718321"",""osm_id"":60199,""osm_type"":""relation"",""place_id"":283553033,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Contatti telefonici di Croce Rossa Ucraina per la ricerca di familiari dispersi""}","<pre><yamldata>
 title: Contatti telefonici di Croce Rossa Ucraina per la ricerca di familiari dispersi
