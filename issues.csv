@@ -1,4 +1,141 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/256,1175310026,2022-03-21 14:41:23,2022-03-21 12:26:25,"Emergenza Ucraina, raccolta fondi della Provincia Autonoma di Trento",46.0664228,11.1257601,Trentino-Alto Adige,Trento,"[""Valid/Accettato"",""fundraising""]",,,"{""Posizione"":""46.0664228 11.1257601"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""Istruzioni su come effettuare donazioni tramite il portale dei pagamenti Mypay o con versamento diretto alla Provincia di Trento per emergenza Ucraina."",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":""https://www.ufficiostampa.provincia.tn.it/Comunicati/Donazioni-in-favore-dell-emergenza-in-Ucraina-le-modalita-per-fare-i-versamenti"",""location"":{""address"":{""address"":{""city"":""Trento"",""country"":""Italia"",""country_code"":""it"",""county"":""Provincia di Trento"",""municipality"":""Territorio Val d'Adige"",""postcode"":""38122"",""state"":""Trentino-Alto Adige""},""boundingbox"":[""45.9064228"",""46.2264228"",""10.9657601"",""11.2857601""],""class"":""place"",""display_name"":""Trento, Territorio Val d'Adige, Provincia di Trento, Trentino-Alto Adige, 38122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7125285311246988,""lat"":""46.0664228"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.1257601"",""osm_id"":64776484,""osm_type"":""node"",""place_id"":285860881,""type"":""city""},""mode"":""autocomplete""},""submit"":true,""title"":""Provincia Autonoma di Trento""}","<pre><yamldata>
+title: Provincia Autonoma di Trento
+description: Istruzioni su come effettuare donazioni tramite il portale dei pagamenti
+  Mypay o con versamento diretto alla Provincia di Trento per emergenza Ucraina.
+heading: ''
+iban: ''
+bicSwift: ''
+ccPostal: ''
+causal: ''
+link: https://www.ufficiostampa.provincia.tn.it/Comunicati/Donazioni-in-favore-dell-emergenza-in-Ucraina-le-modalita-per-fare-i-versamenti
+email: ''
+location:
+  mode: autocomplete
+  address:
+    place_id: 285860881
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 64776484
+    boundingbox:
+    - '45.9064228'
+    - '46.2264228'
+    - '10.9657601'
+    - '11.2857601'
+    lat: '46.0664228'
+    lon: '11.1257601'
+    display_name: Trento, Territorio Val d'Adige, Provincia di Trento, Trentino-Alto
+      Adige, 38122, Italia
+    class: place
+    type: city
+    importance: 0.7125285311246988
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Trento
+      municipality: Territorio Val d'Adige
+      county: Provincia di Trento
+      state: Trentino-Alto Adige
+      postcode: '38122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+Posizione: 46.0664228 11.1257601
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/255,1175290069,2022-03-21 14:40:11,2022-03-21 12:07:36,"Emergenza Ucraina, vademecum del Comune di Merano (BZ) per chi cerca e chi offre aiuto",46.65565535,11.178973767312643,Trentino-Alto Adige,Bolzano,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality""]",,,"{""Posizione"":""46.65565535 11.178973767312643"",""description"":""Vademecum e moduli predisposti dal Comune di Merano riguardo la prima accoglienza e offerta di abitazioni."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.gemeinde.meran.bz.it/it/helpukraina_info_e_contatti_utili"",""location"":{""address"":{""address"":{""city"":""Merano"",""country"":""Italia"",""country_code"":""it"",""county"":""Bolzano"",""municipality"":""Burgraviato"",""postcode"":""39012"",""state"":""Trentino-Alto Adige""},""boundingbox"":[""46.6168347"",""46.6944533"",""11.1364291"",""11.2397148""],""class"":""boundary"",""display_name"":""Merano, Burgraviato, Bolzano, Trentino-Alto Adige, 39012, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.6706045519980116,""lat"":""46.65565535"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.178973767312643"",""osm_id"":47283,""osm_type"":""relation"",""place_id"":284323068,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Vademecum del Comune di Merano (BZ) per chi cerca e chi offre aiuto""}","<pre><yamldata>
+title: Vademecum del Comune di Merano (BZ) per chi cerca e chi offre aiuto
+description: Vademecum e moduli predisposti dal Comune di Merano riguardo la prima
+  accoglienza e offerta di abitazioni.
+link: https://www.gemeinde.meran.bz.it/it/helpukraina_info_e_contatti_utili
+location:
+  mode: autocomplete
+  address:
+    place_id: 284323068
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 47283
+    boundingbox:
+    - '46.6168347'
+    - '46.6944533'
+    - '11.1364291'
+    - '11.2397148'
+    lat: '46.65565535'
+    lon: '11.178973767312643'
+    display_name: Merano, Burgraviato, Bolzano, Trentino-Alto Adige, 39012, Italia
+    class: boundary
+    type: administrative
+    importance: 0.6706045519980116
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Merano
+      municipality: Burgraviato
+      county: Bolzano
+      state: Trentino-Alto Adige
+      postcode: '39012'
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 46.65565535 11.178973767312643
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/251,1174686063,2022-03-21 14:38:29,2022-03-20 21:08:04,Laga Italiana Fibrosi Cistica raccoglie farmaci per cittadini ucraini malati di fibrosi cistica,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""healtcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20122"",""state"":""Lombardia""},""boundingbox"":[""45.3041943"",""45.6241943"",""9.0296346"",""9.3496346""],""class"":""place"",""display_name"":""Milano, Milan, Milano, Lombardia, 20122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.8390652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":62505581,""osm_type"":""node"",""place_id"":286263950,""type"":""city""},""mode"":""autocomplete""},""description"":""Raccolta farmaci promossa dalla Lega Italiana Fibrosi Cistica per chi, oltre alla paura, deve anche affrontare la malattia. Insieme ad altre realt\u00e0 a livello europeo siamo entrati in contatto con un\u2019organizzazione non governativa, la All-Ukrainian Association of care of patients with cystic fibrosis, che ha esplicitato i bisogni pi\u00f9 urgenti dei loro 995 pazienti.\nCi hanno comunicato che \u00e8 assolutamente necessario raccogliere farmaci e dispositivi che vi elenchiamo di seguito: Enzimi pancreatici (Creon) \u2013 urgente Antibiotici Vitamine Ursofalk (nome generico: Ursochol) Soluzione salina ipertonica 3, 6 o 7% Nebulizzatori portatili Concentratori di ossigeno portatili\n\u00c8 possibile contattare le Associazioni Regionali LIFC per organizzare localmente la raccolta di questi beni che saranno poi inviati in Polonia dove opera la Matio Foundation che si sta occupando dell\u2019assistenza e del supporto alle associazioni ucraine."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Lega Italiana Fibrosi Cistica"",""recipients"":"""",""submit"":true,""title"":""Raccolta farmaci per persone malate di fibrosi cistica -Nazionale"",""type"":""healthcare"",""url"":""https://www.fibrosicistica.it/un-aiuto-per-lucraina/""}","<pre><yamldata>
+type: healthcare
+offerFromWho: Lega Italiana Fibrosi Cistica
+title: Raccolta farmaci per persone malate di fibrosi cistica -Nazionale
+recipients: ''
+description: 'Raccolta farmaci promossa dalla Lega Italiana Fibrosi Cistica per chi,
+  oltre alla paura, deve anche affrontare la malattia. Insieme ad altre realtà a livello
+  europeo siamo entrati in contatto con un’organizzazione non governativa, la All-Ukrainian
+  Association of care of patients with cystic fibrosis, che ha esplicitato i bisogni
+  più urgenti dei loro 995 pazienti.
+  
+  Ci hanno comunicato che è assolutamente necessario raccogliere farmaci e dispositivi
+  che vi elenchiamo di seguito:
+  Enzimi pancreatici (Creon) – urgente
+  Antibiotici
+  Vitamine
+  Ursofalk (nome generico: Ursochol)
+  Soluzione salina ipertonica 3, 6 o 7%
+  Nebulizzatori portatili
+  Concentratori di ossigeno portatili
+
+  È possibile contattare le Associazioni Regionali LIFC per organizzare localmente
+  la raccolta di questi beni che saranno poi inviati in Polonia dove opera la Matio
+  Foundation che si sta occupando dell’assistenza e del supporto alle associazioni
+  ucraine.'
+url: https://www.fibrosicistica.it/un-aiuto-per-lucraina/
+address:
+  mode: autocomplete
+  address:
+    place_id: 286263950
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 62505581
+    boundingbox:
+    - '45.3041943'
+    - '45.6241943'
+    - '9.0296346'
+    - '9.3496346'
+    lat: '45.4641943'
+    lon: '9.1896346'
+    display_name: Milano, Milan, Milano, Lombardia, 20122, Italia
+    class: place
+    type: city
+    importance: 0.8390652078701348
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/250,1174676859,2022-03-21 14:31:31,2022-03-20 20:34:57,Acli Pavia organizza corso gratuito di italiano per profughi ucraini (inizio 5 aprile),,,,,"[""Valid/Accettato"",""Services"",""translation""]","Milestone(title=""16 aprile"", number=3)",,"{""address"":{""address"":{""address"":{""city"":""Pavia"",""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""office"":""ACLI Pavia"",""postcode"":""27100"",""road"":""Viale Cesare Battisti"",""state"":""Lombardia"",""suburb"":""Ticinello""},""boundingbox"":[""45.1893437"",""45.1894437"",""9.1483341"",""9.1484341""],""class"":""office"",""display_name"":""ACLI Pavia, Viale Cesare Battisti, Ticinello, Pavia, Lombardia, 27100, Italia"",""importance"":0.611,""lat"":""45.1893937"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1483841"",""osm_id"":3030681209,""osm_type"":""node"",""place_id"":36788835,""type"":""association""},""mode"":""autocomplete""},""description"":""Acli Pavia - Sezione Provinciale nell'ambito del progetto Legami Solidali, organizza un corso gratuito di lingua italiana per i profughi provenienti dall'Ucraina a causa dell'emergenza in atto. Il corso si terr\u00e0 dal 5 aprile al 7 luglio 2022, ore 09.00/11.00 in viale Cesare Battisti 142, Pavia"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Acli Pavia"",""recipients"":""Persone in arrivo dall'Ucraina"",""submit"":true,""title"":""Corso di italiano"",""type"":""translation"",""url"":""https://www.aclipavia.it/corso-italiano-profughi-ucraini/""}","<pre><yamldata>
 type: translation
 offerFromWho: Acli Pavia
