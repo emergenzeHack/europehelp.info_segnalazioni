@@ -1,4 +1,138 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/261,1175469638,2022-03-22 09:47:16,2022-03-21 14:27:59,Asvi attiva Sportello HelpUkraine per offrire supporto a rifugiati ucraini e a famiglie italiane disponibili all’accoglienza,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""9"",""postcode"":""20161"",""road"":""Via Casarsa"",""state"":""Lombardia"",""suburb"":""Bruzzano""},""boundingbox"":[""45.5244428"",""45.5245428"",""9.1745146"",""9.1746146""],""class"":""place"",""display_name"":""9, Via Casarsa, Bruzzano, Municipio 9, Milano, Lombardia, 20161, Italia"",""importance"":0.5309999999999999,""lat"":""45.5244928"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1745646"",""osm_id"":5157972784,""osm_type"":""node"",""place_id"":56855868,""type"":""house""},""mode"":""autocomplete""},""description"":""\u201cHelpUkraine\u201d, un punto di informazione e coordinamento per aiutare i rifugiati ucraini nel nostro Paese: a lanciarlo \u00e8 l\u2019organizzazione non profit, Avsi, che in tal modo intende rispondere alle numerose richieste dei profughi in arrivo dall\u2019Ucraina e coordinare l\u2019offerta di accoglienza di famiglie italiane. L\u2019iniziativa nasce grazie al supporto, oltre di Avsi, di Associazione Famiglie per l\u2019Accoglienza, Associazione San Martino, Fondazione Franco Verga, Associazione I Bambini dell\u2019Est, la ong ucraina Emmaus, e Medici in Famiglia Impresa Sociale. Il progetto \u00e8 partito il 16 marzo e offre un servizio concreto, uno sportello aperto in modo costante e in grado di rispondere a domande anche specifiche (per esempio come ottenere il titolo di soggiorno o come inserire i bambini a scuola), e per fare gli abbinamenti tra chi cerca ospitalit\u00e0 e chi la offre. Il neonato Info Point nasce con questo duplice obiettivo: favorire l\u2019accoglienza e l\u2019integrazione di cittadini ucraini che arrivano in Italia in fuga dal conflitto e sostenere le famiglie residenti in Italia disponibili a fornire aiuto nel processo di accoglienza e integrazione. \nPer contattare l\u2019Info point Help Ukraine: +39.02.674988368 in ucraino e inglese; +39.02.674988369 in italiano \u2013 HelpUkraine@avsi.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Asvi"",""recipients"":""Rifugiati ucraini e famiglie italiane"",""submit"":true,""title"":""Asvi attiva Sportello HelpUkraine per offrire supporto a rifugiati ucraini e a famiglie italiane disponibili all\u2019accoglienza di adulti e minori"",""type"":""legal"",""url"":""https://www.agensir.it/quotidiano/2022/3/17/ucraina-avsi-helpukraine-un-info-point-per-aiutare-i-rifugiati-ucraini-in-arrivo-in-italia/""}","<pre><yamldata>
+type: legal
+offerFromWho: Asvi
+title: Asvi attiva Sportello HelpUkraine per offrire supporto a rifugiati ucraini
+  e a famiglie italiane disponibili all’accoglienza di adulti e minori
+recipients: Rifugiati ucraini e famiglie italiane
+description: ""“HelpUkraine”, un punto di informazione e coordinamento per aiutare\
+  \ i rifugiati ucraini nel nostro Paese: a lanciarlo è l’organizzazione non profit,\
+  \ Avsi, che in tal modo intende rispondere alle numerose richieste dei profughi\
+  \ in arrivo dall’Ucraina e coordinare l’offerta di accoglienza di famiglie italiane.\
+  \ L’iniziativa nasce grazie al supporto, oltre di Avsi, di Associazione Famiglie\
+  \ per l’Accoglienza, Associazione San Martino, Fondazione Franco Verga, Associazione\
+  \ I Bambini dell’Est, la ong ucraina Emmaus, e Medici in Famiglia Impresa Sociale.\
+  \ Il progetto è partito il 16 marzo e offre un servizio concreto, uno sportello\
+  \ aperto in modo costante e in grado di rispondere a domande anche specifiche (per\
+  \ esempio come ottenere il titolo di soggiorno o come inserire i bambini a scuola),\
+  \ e per fare gli abbinamenti tra chi cerca ospitalità e chi la offre. Il neonato\
+  \ Info Point nasce con questo duplice obiettivo: favorire l’accoglienza e l’integrazione\
+  \ di cittadini ucraini che arrivano in Italia in fuga dal conflitto e sostenere\
+  \ le famiglie residenti in Italia disponibili a fornire aiuto nel processo di accoglienza\
+  \ e integrazione. \nPer contattare l’Info point Help Ukraine: +39.02.674988368 in\
+  \ ucraino e inglese; +39.02.674988369 in italiano – HelpUkraine@avsi.org""
+url: https://www.agensir.it/quotidiano/2022/3/17/ucraina-avsi-helpukraine-un-info-point-per-aiutare-i-rifugiati-ucraini-in-arrivo-in-italia/
+address:
+  mode: autocomplete
+  address:
+    place_id: 56855868
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 5157972784
+    boundingbox:
+    - '45.5244428'
+    - '45.5245428'
+    - '9.1745146'
+    - '9.1746146'
+    lat: '45.5244928'
+    lon: '9.1745646'
+    display_name: 9, Via Casarsa, Bruzzano, Municipio 9, Milano, Lombardia, 20161,
+      Italia
+    class: place
+    type: house
+    importance: 0.5309999999999999
+    address:
+      house_number: '9'
+      road: Via Casarsa
+      suburb: Bruzzano
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20161'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/264,1175593084,2022-03-22 09:46:48,2022-03-21 15:56:47,"A #Milano Decanato dei Navigli attiva rete di interpreti, medici, farmacisti e avvocati a supporto delle famiglie che accolgono rifugiati ucraini",45.4286826,9.1755405,Lombardia,Milano,"[""Valid/Accettato"",""Services"",""Legal"",""healtcare"",""translation"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.4286826 9.1755405"",""description"":""Le parrocchie del Decanato dei Navigli ha creato una rete di interpreti, medici, farmacisti e avvocati a supporto delle famiglie che accolgono rifugiati per risolvere domande, dubbi e difficolt\u00e0 che sopravvengono durante l\u2019esperienza di accoglienza. Indispensabile per coloro che accolgono senza passare per vie istituzionali, al fine di ottenere le indispensabili informazioni sulle procedure sanitarie/legali da seguire. L\u2019intento \u00e8 quello di rendere l\u2019accoglienza un percorso condiviso con tutta la comunit\u00e0 del territorio."",""email"":""retedecanatonavigliucraina@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20142"",""quarter"":""Stadera"",""road"":""Via Santa Teresa"",""state"":""Lombardia"",""suburb"":""Chiesa Rossa""},""boundingbox"":[""45.4286826"",""45.4290962"",""9.1755405"",""9.1755949""],""class"":""highway"",""display_name"":""Via Santa Teresa, Stadera, Chiesa Rossa, Milano, Lombardia, 20142, Italia"",""importance"":0.6199999999999999,""lat"":""45.4286826"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1755405"",""osm_id"":442737967,""osm_type"":""way"",""place_id"":200281397,""type"":""residential""},""mode"":""autocomplete""},""nameSurname"":""Parrocchie Decanato dei Navigli Milano"",""phoneNumber"":"""",""recipients"":""Famiglie che ospitano rifugiati ucraini"",""submit"":true,""title"":""A Milano Decanato dei Navigli attiva rete di interpreti, medici, farmacisti e avvocati a supporto delle famiglie che accolgono rifugiati ucraini"",""url"":""https://www.milanosud.it/emergenza-profughi-le-reti-territoriali-sud-milano-cercano-abitazioni-temporanee-per-chi-arriva-in-citta/""}","<pre><yamldata>
+nameSurname: Parrocchie Decanato dei Navigli Milano
+phoneNumber: ''
+email: retedecanatonavigliucraina@gmail.com
+title: A Milano Decanato dei Navigli attiva rete di interpreti, medici, farmacisti
+  e avvocati a supporto delle famiglie che accolgono rifugiati ucraini
+recipients: Famiglie che ospitano rifugiati ucraini
+description: Le parrocchie del Decanato dei Navigli ha creato una rete di interpreti,
+  medici, farmacisti e avvocati a supporto delle famiglie che accolgono rifugiati
+  per risolvere domande, dubbi e difficoltà che sopravvengono durante l’esperienza
+  di accoglienza. Indispensabile per coloro che accolgono senza passare per vie istituzionali,
+  al fine di ottenere le indispensabili informazioni sulle procedure sanitarie/legali
+  da seguire. L’intento è quello di rendere l’accoglienza un percorso condiviso con
+  tutta la comunità del territorio.
+url: https://www.milanosud.it/emergenza-profughi-le-reti-territoriali-sud-milano-cercano-abitazioni-temporanee-per-chi-arriva-in-citta/
+location:
+  mode: autocomplete
+  address:
+    place_id: 200281397
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 442737967
+    boundingbox:
+    - '45.4286826'
+    - '45.4290962'
+    - '9.1755405'
+    - '9.1755949'
+    lat: '45.4286826'
+    lon: '9.1755405'
+    display_name: Via Santa Teresa, Stadera, Chiesa Rossa, Milano, Lombardia, 20142,
+      Italia
+    class: highway
+    type: residential
+    importance: 0.6199999999999999
+    address:
+      road: Via Santa Teresa
+      quarter: Stadera
+      suburb: Chiesa Rossa
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20142'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 45.4286826 9.1755405
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/267,1175796082,2022-03-22 09:46:21,2022-03-21 18:44:29,Gruppi Telegram per ucraini in Italia,,,,,"[""Valid/Accettato"",""News"",""useful contact"",""hospitality"",""telegram-channel"",""tweet"",""Resources""]",,,"{""description"":""https://t.me/italia_ucraina_kanal\nhttps://t.me/dodomu_italia_ucraina\nhttps://t.me/ucrainiitalia"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":"""",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Canali Telegram per ucraini in Italia""}","<pre><yamldata>
+title: Canali Telegram per ucraini in Italia
+description: 'https://t.me/italia_ucraina_kanal
+
+  https://t.me/dodomu_italia_ucraina
+
+  https://t.me/ucrainiitalia'
+link: ''
+location:
+  mode: autocomplete
+  address: {}
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/268,1175847180,2022-03-22 09:46:05,2022-03-21 19:30:12,Chat Whatsapp di aiuto ai profughi ucraini in Italia,,,,,"[""Valid/Accettato"",""News"",""useful contact"",""hospitality"",""telegram-channel"",""tweet"",""Resources""]",,,"{""description"":""Ospitalit\u00e0 Profughi Ucraini\nhttps://chat.whatsapp.com/EmNbFZ7Dnb31WIcnPArDVo\n\nAiuto per Ucraina \nhttps://chat.whatsapp.com/K6pGarqrfSp9hT8chenQKa\n\nFonti: \n1. https://m.facebook.com/groups/59931907857/permalink/10158966802972858/?sfnsn=scwspmo&ref=share \n2. https://m.facebook.com/groups/59931907857/permalink/10158960316277858/?sfnsn=scwspmo&ref=share"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":"""",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Chat Whatsapp di aiuto ai profughi ucraini in Italia""}","<pre><yamldata>
+title: Chat Whatsapp di aiuto ai profughi ucraini in Italia
+description: ""Ospitalità Profughi Ucraini\nhttps://chat.whatsapp.com/EmNbFZ7Dnb31WIcnPArDVo\n\
+  \nAiuto per Ucraina \nhttps://chat.whatsapp.com/K6pGarqrfSp9hT8chenQKa\n\nFonti:\
+  \ \n1. https://m.facebook.com/groups/59931907857/permalink/10158966802972858/?sfnsn=scwspmo&ref=share\
+  \ \n2. https://m.facebook.com/groups/59931907857/permalink/10158960316277858/?sfnsn=scwspmo&ref=share""
+link: ''
+location:
+  mode: autocomplete
+  address: {}
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/279,1176351895,2022-03-22 07:03:10,2022-03-22 07:01:44,ATS Brianza: Informazioni sanitarie per i rifugiati dall’Ucraina(lingua UA),45.639544,9.278869369225038,Lombardia,Monza e della Brianza,"[""Valid/Accettato"",""News"",""healtcare"",""document_data""]",,,"{""Posizione"":""45.639544 9.278869369225038"",""description"":""Informazioni su prima visita, quarantena e vaccinazioni"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://www.ats-brianza.it/it/azienda/news-online/148-master-category/servizi-ai-cittadini/2607-emergenza-ucraina.html"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Monza e della Brianza"",""state"":""Lombardia""},""boundingbox"":[""45.5367099"",""45.7424391"",""9.0505698"",""9.4974636""],""class"":""boundary"",""display_name"":""Monza e della Brianza, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7207566855039824,""lat"":""45.639544"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.278869369225038"",""osm_id"":251419,""osm_type"":""relation"",""place_id"":284109714,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""ATS Brianza: Informazioni sanitarie per i rifugiati dall\u2019Ucraina(lingua UA)""}","<pre><yamldata>
 title: 'ATS Brianza: Informazioni sanitarie per i rifugiati dall’Ucraina(lingua UA)'
 description: Informazioni su prima visita, quarantena e vaccinazioni
@@ -221,69 +355,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 41.8933203 12.4829321
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/268,1175847180,2022-03-21 20:53:45,2022-03-21 19:30:12,Chat Whatsapp di aiuto ai profughi ucraini in Italia,,,,,"[""Valid/Accettato"",""News"",""useful contact"",""hospitality"",""telegram-channel"",""Resources""]",,,"{""description"":""Ospitalit\u00e0 Profughi Ucraini\nhttps://chat.whatsapp.com/EmNbFZ7Dnb31WIcnPArDVo\n\nAiuto per Ucraina \nhttps://chat.whatsapp.com/K6pGarqrfSp9hT8chenQKa\n\nFonti: \n1. https://m.facebook.com/groups/59931907857/permalink/10158966802972858/?sfnsn=scwspmo&ref=share \n2. https://m.facebook.com/groups/59931907857/permalink/10158960316277858/?sfnsn=scwspmo&ref=share"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":"""",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Chat Whatsapp di aiuto ai profughi ucraini in Italia""}","<pre><yamldata>
-title: Chat Whatsapp di aiuto ai profughi ucraini in Italia
-description: ""Ospitalità Profughi Ucraini\nhttps://chat.whatsapp.com/EmNbFZ7Dnb31WIcnPArDVo\n\
-  \nAiuto per Ucraina \nhttps://chat.whatsapp.com/K6pGarqrfSp9hT8chenQKa\n\nFonti:\
-  \ \n1. https://m.facebook.com/groups/59931907857/permalink/10158966802972858/?sfnsn=scwspmo&ref=share\
-  \ \n2. https://m.facebook.com/groups/59931907857/permalink/10158960316277858/?sfnsn=scwspmo&ref=share""
-link: ''
-location:
-  mode: autocomplete
-  address: {}
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/264,1175593084,2022-03-21 20:52:29,2022-03-21 15:56:47,"A #Milano Decanato dei Navigli attiva rete di interpreti, medici, farmacisti e avvocati a supporto delle famiglie che accolgono rifugiati ucraini",45.4286826,9.1755405,Lombardia,Milano,"[""Valid/Accettato"",""Services"",""Legal"",""healtcare"",""translation""]",,,"{""Posizione"":""45.4286826 9.1755405"",""description"":""Le parrocchie del Decanato dei Navigli ha creato una rete di interpreti, medici, farmacisti e avvocati a supporto delle famiglie che accolgono rifugiati per risolvere domande, dubbi e difficolt\u00e0 che sopravvengono durante l\u2019esperienza di accoglienza. Indispensabile per coloro che accolgono senza passare per vie istituzionali, al fine di ottenere le indispensabili informazioni sulle procedure sanitarie/legali da seguire. L\u2019intento \u00e8 quello di rendere l\u2019accoglienza un percorso condiviso con tutta la comunit\u00e0 del territorio."",""email"":""retedecanatonavigliucraina@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20142"",""quarter"":""Stadera"",""road"":""Via Santa Teresa"",""state"":""Lombardia"",""suburb"":""Chiesa Rossa""},""boundingbox"":[""45.4286826"",""45.4290962"",""9.1755405"",""9.1755949""],""class"":""highway"",""display_name"":""Via Santa Teresa, Stadera, Chiesa Rossa, Milano, Lombardia, 20142, Italia"",""importance"":0.6199999999999999,""lat"":""45.4286826"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1755405"",""osm_id"":442737967,""osm_type"":""way"",""place_id"":200281397,""type"":""residential""},""mode"":""autocomplete""},""nameSurname"":""Parrocchie Decanato dei Navigli Milano"",""phoneNumber"":"""",""recipients"":""Famiglie che ospitano rifugiati ucraini"",""submit"":true,""title"":""A Milano Decanato dei Navigli attiva rete di interpreti, medici, farmacisti e avvocati a supporto delle famiglie che accolgono rifugiati ucraini"",""url"":""https://www.milanosud.it/emergenza-profughi-le-reti-territoriali-sud-milano-cercano-abitazioni-temporanee-per-chi-arriva-in-citta/""}","<pre><yamldata>
-nameSurname: Parrocchie Decanato dei Navigli Milano
-phoneNumber: ''
-email: retedecanatonavigliucraina@gmail.com
-title: A Milano Decanato dei Navigli attiva rete di interpreti, medici, farmacisti
-  e avvocati a supporto delle famiglie che accolgono rifugiati ucraini
-recipients: Famiglie che ospitano rifugiati ucraini
-description: Le parrocchie del Decanato dei Navigli ha creato una rete di interpreti,
-  medici, farmacisti e avvocati a supporto delle famiglie che accolgono rifugiati
-  per risolvere domande, dubbi e difficoltà che sopravvengono durante l’esperienza
-  di accoglienza. Indispensabile per coloro che accolgono senza passare per vie istituzionali,
-  al fine di ottenere le indispensabili informazioni sulle procedure sanitarie/legali
-  da seguire. L’intento è quello di rendere l’accoglienza un percorso condiviso con
-  tutta la comunità del territorio.
-url: https://www.milanosud.it/emergenza-profughi-le-reti-territoriali-sud-milano-cercano-abitazioni-temporanee-per-chi-arriva-in-citta/
-location:
-  mode: autocomplete
-  address:
-    place_id: 200281397
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 442737967
-    boundingbox:
-    - '45.4286826'
-    - '45.4290962'
-    - '9.1755405'
-    - '9.1755949'
-    lat: '45.4286826'
-    lon: '9.1755405'
-    display_name: Via Santa Teresa, Stadera, Chiesa Rossa, Milano, Lombardia, 20142,
-      Italia
-    class: highway
-    type: residential
-    importance: 0.6199999999999999
-    address:
-      road: Via Santa Teresa
-      quarter: Stadera
-      suburb: Chiesa Rossa
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20142'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 45.4286826 9.1755405
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/266,1175742725,2022-03-21 20:50:03,2022-03-21 17:56:15,Libera Università di #Bolzano: accesso ai corsi di studio e all’insegnamento per i rifugiati dall’Ucraina,,,,,"[""Valid/Accettato"",""Services"",""job""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bolzano"",""state"":""Trentino-Alto Adige""},""boundingbox"":[""46.2197712"",""47.0921462"",""10.3817965"",""12.4779676""],""class"":""boundary"",""display_name"":""Bolzano, Trentino-Alto Adige, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7589076281878143,""lat"":""46.65594215"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.229637264169462"",""osm_id"":47046,""osm_type"":""relation"",""place_id"":284985164,""type"":""administrative""},""mode"":""autocomplete""},""description"":""L'ateneo offre l'accesso alle lezioni, all\u2019insegnamento e alla ricerca ai rifugiati."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Libera Universit\u00e0 di Bolzano"",""recipients"":""studenti e professori universitari"",""submit"":true,""title"":""Libera Universit\u00e0 di Bolzano: accesso ai corsi di studio e all\u2019insegnamento per i rifugiati* dall\u2019Ucraina"",""type"":""jobOffer"",""url"":""https://www.unibz.it/it/home/newsroom/press-releases/62384fe54eddc""}","<pre><yamldata>
 type: jobOffer
 offerFromWho: Libera Università di Bolzano
@@ -374,21 +445,6 @@ address:
     zip: ''
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/267,1175796082,2022-03-21 19:33:02,2022-03-21 18:44:29,Gruppi Telegram per ucraini in Italia,,,,,"[""Valid/Accettato"",""News"",""useful contact"",""hospitality"",""Resources""]",,,"{""description"":""https://t.me/italia_ucraina_kanal\nhttps://t.me/dodomu_italia_ucraina\nhttps://t.me/ucrainiitalia"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":"""",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Canali Telegram per ucraini in Italia""}","<pre><yamldata>
-title: Canali Telegram per ucraini in Italia
-description: 'https://t.me/italia_ucraina_kanal
-
-  https://t.me/dodomu_italia_ucraina
-
-  https://t.me/ucrainiitalia'
-link: ''
-location:
-  mode: autocomplete
-  address: {}
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/100,1167401631,2022-03-21 16:35:59,2022-03-12 21:11:26,"Puglia, associazione Casa Ucraina organizza rete di ospitalità e bus per portare in Italia rifugiati ucraini",40.9842539,16.6210027,Puglia,Bari,"[""Valid/Accettato"",""News"",""Services"",""hospitality"",""transport"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""40.9842539 16.6210027"",""description"":""In Puglia l'associazione Casa Ucraina sta organizzando una rete di famiglie per ospitare profughi ucraini e bus per portarli in Puglia.\nPer info e adesioni: contact@casaucraina.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""http://dlvr.it/SLVBjH"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Puglia""},""boundingbox"":[""39.7895944"",""42.2264805"",""14.9341858"",""18.5205121""],""class"":""boundary"",""display_name"":""Puglia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7716750421714782,""lat"":""40.9842539"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.6210027"",""osm_id"":40095,""osm_type"":""relation"",""place_id"":283208903,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Puglia, Casa Ucraina organizza rete di ospitalit\u00e0 e bus per portare via rifugiati ucraini""}","<pre><yamldata>
@@ -916,62 +972,6 @@ address:
       county: Roma Capitale
       state: Lazio
       postcode: '00100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/261,1175469638,2022-03-21 14:52:11,2022-03-21 14:27:59,Asvi attiva Sportello HelpUkraine per offrire supporto a rifugiati ucraini e a famiglie italiane disponibili all’accoglienza,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""9"",""postcode"":""20161"",""road"":""Via Casarsa"",""state"":""Lombardia"",""suburb"":""Bruzzano""},""boundingbox"":[""45.5244428"",""45.5245428"",""9.1745146"",""9.1746146""],""class"":""place"",""display_name"":""9, Via Casarsa, Bruzzano, Municipio 9, Milano, Lombardia, 20161, Italia"",""importance"":0.5309999999999999,""lat"":""45.5244928"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1745646"",""osm_id"":5157972784,""osm_type"":""node"",""place_id"":56855868,""type"":""house""},""mode"":""autocomplete""},""description"":""\u201cHelpUkraine\u201d, un punto di informazione e coordinamento per aiutare i rifugiati ucraini nel nostro Paese: a lanciarlo \u00e8 l\u2019organizzazione non profit, Avsi, che in tal modo intende rispondere alle numerose richieste dei profughi in arrivo dall\u2019Ucraina e coordinare l\u2019offerta di accoglienza di famiglie italiane. L\u2019iniziativa nasce grazie al supporto, oltre di Avsi, di Associazione Famiglie per l\u2019Accoglienza, Associazione San Martino, Fondazione Franco Verga, Associazione I Bambini dell\u2019Est, la ong ucraina Emmaus, e Medici in Famiglia Impresa Sociale. Il progetto \u00e8 partito il 16 marzo e offre un servizio concreto, uno sportello aperto in modo costante e in grado di rispondere a domande anche specifiche (per esempio come ottenere il titolo di soggiorno o come inserire i bambini a scuola), e per fare gli abbinamenti tra chi cerca ospitalit\u00e0 e chi la offre. Il neonato Info Point nasce con questo duplice obiettivo: favorire l\u2019accoglienza e l\u2019integrazione di cittadini ucraini che arrivano in Italia in fuga dal conflitto e sostenere le famiglie residenti in Italia disponibili a fornire aiuto nel processo di accoglienza e integrazione. \nPer contattare l\u2019Info point Help Ukraine: +39.02.674988368 in ucraino e inglese; +39.02.674988369 in italiano \u2013 HelpUkraine@avsi.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Asvi"",""recipients"":""Rifugiati ucraini e famiglie italiane"",""submit"":true,""title"":""Asvi attiva Sportello HelpUkraine per offrire supporto a rifugiati ucraini e a famiglie italiane disponibili all\u2019accoglienza di adulti e minori"",""type"":""legal"",""url"":""https://www.agensir.it/quotidiano/2022/3/17/ucraina-avsi-helpukraine-un-info-point-per-aiutare-i-rifugiati-ucraini-in-arrivo-in-italia/""}","<pre><yamldata>
-type: legal
-offerFromWho: Asvi
-title: Asvi attiva Sportello HelpUkraine per offrire supporto a rifugiati ucraini
-  e a famiglie italiane disponibili all’accoglienza di adulti e minori
-recipients: Rifugiati ucraini e famiglie italiane
-description: ""“HelpUkraine”, un punto di informazione e coordinamento per aiutare\
-  \ i rifugiati ucraini nel nostro Paese: a lanciarlo è l’organizzazione non profit,\
-  \ Avsi, che in tal modo intende rispondere alle numerose richieste dei profughi\
-  \ in arrivo dall’Ucraina e coordinare l’offerta di accoglienza di famiglie italiane.\
-  \ L’iniziativa nasce grazie al supporto, oltre di Avsi, di Associazione Famiglie\
-  \ per l’Accoglienza, Associazione San Martino, Fondazione Franco Verga, Associazione\
-  \ I Bambini dell’Est, la ong ucraina Emmaus, e Medici in Famiglia Impresa Sociale.\
-  \ Il progetto è partito il 16 marzo e offre un servizio concreto, uno sportello\
-  \ aperto in modo costante e in grado di rispondere a domande anche specifiche (per\
-  \ esempio come ottenere il titolo di soggiorno o come inserire i bambini a scuola),\
-  \ e per fare gli abbinamenti tra chi cerca ospitalità e chi la offre. Il neonato\
-  \ Info Point nasce con questo duplice obiettivo: favorire l’accoglienza e l’integrazione\
-  \ di cittadini ucraini che arrivano in Italia in fuga dal conflitto e sostenere\
-  \ le famiglie residenti in Italia disponibili a fornire aiuto nel processo di accoglienza\
-  \ e integrazione. \nPer contattare l’Info point Help Ukraine: +39.02.674988368 in\
-  \ ucraino e inglese; +39.02.674988369 in italiano – HelpUkraine@avsi.org""
-url: https://www.agensir.it/quotidiano/2022/3/17/ucraina-avsi-helpukraine-un-info-point-per-aiutare-i-rifugiati-ucraini-in-arrivo-in-italia/
-address:
-  mode: autocomplete
-  address:
-    place_id: 56855868
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 5157972784
-    boundingbox:
-    - '45.5244428'
-    - '45.5245428'
-    - '9.1745146'
-    - '9.1746146'
-    lat: '45.5244928'
-    lon: '9.1745646'
-    display_name: 9, Via Casarsa, Bruzzano, Municipio 9, Milano, Lombardia, 20161,
-      Italia
-    class: place
-    type: house
-    importance: 0.5309999999999999
-    address:
-      house_number: '9'
-      road: Via Casarsa
-      suburb: Bruzzano
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20161'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
