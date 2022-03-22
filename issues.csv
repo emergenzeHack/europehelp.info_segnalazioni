@@ -1,4 +1,436 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/199,1173289281,2022-03-22 17:08:12,2022-03-18 07:52:51,A Milano e comuni limitrofi mamma con due bambini fuggita dall'Ucraina cerca alloggio economico,45.4612939,9.172356290785304,Lombardia,Milano,"[""Valid/Accettato"",""Help"",""hospitality"",""Children"",""women"",""Closed"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.4612939 9.172356290785304"",""description"":""Buongiorno, mi chiamo Gaia Gandini e sto ospitando la famiglia Pozniak, mamma con figli di 16 e 9 anni a casa mia, ma riesco fino al 1/4/22. Cercano a Milano e comuni limitrofi alloggio gratuito o molto economico per successivo periodo. Non parlano inglese solo ucraino per questo scrivo io. Grazie!"",""email"":""gaigan@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Milan"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""state"":""Lombardia""},""boundingbox"":[""45.3867381"",""45.5358482"",""9.0408867"",""9.2781103""],""class"":""boundary"",""display_name"":""Milan, Milano, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8490652078701348,""lat"":""45.4612939"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.172356290785304"",""osm_id"":44915,""osm_type"":""relation"",""place_id"":283684439,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Hanna Pozniak"",""phoneNumber"":""+393287425807"",""recipients"":"""",""submit"":true,""title"":""Search for house"",""url"":""""}","<pre><yamldata>
+nameSurname: Hanna Pozniak
+phoneNumber: '+393287425807'
+email: gaigan@gmail.com
+title: Search for house
+recipients: ''
+description: Buongiorno, mi chiamo Gaia Gandini e sto ospitando la famiglia Pozniak,
+  mamma con figli di 16 e 9 anni a casa mia, ma riesco fino al 1/4/22. Cercano a Milano e comuni limitrofi alloggio gratuito o molto economico per successivo periodo. Non parlano inglese solo ucraino
+  per questo scrivo io. Grazie!
+url: ''
+location:
+  mode: autocomplete
+  address:
+    place_id: 283684439
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 44915
+    boundingbox:
+    - '45.3867381'
+    - '45.5358482'
+    - '9.0408867'
+    - '9.2781103'
+    lat: '45.4612939'
+    lon: '9.172356290785304'
+    display_name: Milan, Milano, Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8490652078701348
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Milan
+      county: Milano
+      state: Lombardia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 45.4612939 9.172356290785304
+</yamldata></pre>",closed
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/104,1167407569,2022-03-22 17:06:24,2022-03-12 21:35:48,A Roma la Chiesa di Santa Sofia cerca medici e studenti di medicina per selezionare e inscatolare farmaci,41.91169555,12.397510616030669,Lazio,Roma,"[""Valid/Accettato"",""Help"",""healtcare"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""41.91169555 12.397510616030669"",""description"":""A Roma la Chiesa di Santa Sofia cerca medici, specializzandi e studenti di medicina per selezionare e suddividere per tipologie i medicinali raccolti e preparare le scatole da inviare in Ucraina."",""email"":""basilicadisantasofia@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""amenity"":""Basilica di Santa Sofia"",""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""478"",""postcode"":""00166"",""road"":""Via di Boccea"",""state"":""Lazio"",""suburb"":""Municipio Roma XIII""},""boundingbox"":[""41.911607"",""41.9117849"",""12.3973441"",""12.3976718""],""class"":""amenity"",""display_name"":""Basilica di Santa Sofia, 478, Via di Boccea, Municipio Roma XIII, Roma, Roma Capitale, Lazio, 00166, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//place_of_worship_unknown3.p.20.png"",""importance"":0.511,""lat"":""41.91169555"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.397510616030669"",""osm_id"":380373490,""osm_type"":""way"",""place_id"":189984097,""type"":""place_of_worship""},""mode"":""autocomplete""},""nameSurname"":""Basilica di Santa Sofia Roma"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""A Roma la Chiesa di Santa Sofia cerca medici e studenti di medicina per selezionare e inscatolare farmaci"",""url"":""https://www.facebook.com/100000516996321/posts/5658514257509085/""}","<pre><yamldata>
+nameSurname: Basilica di Santa Sofia Roma
+phoneNumber: ''
+email: basilicadisantasofia@gmail.com
+title: A Roma la Chiesa di Santa Sofia cerca medici e studenti di medicina per selezionare
+  e inscatolare farmaci
+recipients: ''
+description: A Roma la Chiesa di Santa Sofia cerca medici, specializzandi e studenti
+  di medicina per selezionare e suddividere per tipologie i medicinali raccolti e
+  preparare le scatole da inviare in Ucraina.
+url: https://www.facebook.com/100000516996321/posts/5658514257509085/
+location:
+  mode: autocomplete
+  address:
+    place_id: 189984097
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 380373490
+    boundingbox:
+    - '41.911607'
+    - '41.9117849'
+    - '12.3973441'
+    - '12.3976718'
+    lat: '41.91169555'
+    lon: '12.397510616030669'
+    display_name: Basilica di Santa Sofia, 478, Via di Boccea, Municipio Roma XIII,
+      Roma, Roma Capitale, Lazio, 00166, Italia
+    class: amenity
+    type: place_of_worship
+    importance: 0.511
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//place_of_worship_unknown3.p.20.png
+    address:
+      amenity: Basilica di Santa Sofia
+      house_number: '478'
+      road: Via di Boccea
+      suburb: Municipio Roma XIII
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: '00166'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 41.91169555 12.397510616030669
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/102,1167402531,2022-03-22 17:06:09,2022-03-12 21:17:01,Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio a rifugiati ucraini (anche in Italia),,,,,"[""Valid/Accettato"",""News"",""Services"",""hospitality"",""telegram-channel"",""tweet"",""Resources""]",,,"{""description"":""Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio a rifugiati ucraini anche in Italia. Suggerita anche dall\u2019Ambasciata Ucraina in Italia."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://prykhystok.in.ua/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio a rifugiati ucraini (anche in Italia)""}","<pre><yamldata>
+title: Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio
+  a rifugiati ucraini (anche in Italia)
+description: Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio
+  a rifugiati ucraini anche in Italia. Suggerita anche dall’Ambasciata Ucraina in
+  Italia.
+link: https://prykhystok.in.ua/
+location:
+  mode: autocomplete
+  address: {}
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/101,1167402127,2022-03-22 17:05:47,2022-03-12 21:14:31,A Bari studenti universitari attivano raccolta beni per emergenza Ucraina,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bari"",""road"":""Via Domenico Nicolai"",""state"":""Puglia"",""town"":""Adelfia""},""boundingbox"":[""40.9988396"",""41.0022608"",""16.8661527"",""16.8664384""],""class"":""highway"",""display_name"":""Via Domenico Nicolai, Adelfia, Bari, Puglia, Italia"",""importance"":0.41000000000000003,""lat"":""41.000707"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.8663036"",""osm_id"":40403571,""osm_type"":""way"",""place_id"":113732026,""type"":""residential""},""mode"":""autocomplete""},""description"":""A Bari l\u2019associazione universitaria Studenti Indipendenti organizza raccolta di beni per il popolo ucraino in due punti della citt\u00e0. Al link le info."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione universitaria Studenti Indipendenti"",""recipients"":"""",""submit"":true,""title"":""A Bari studenti universitari raccolgono beni per popolo ucraino"",""type"":""materialGoods"",""url"":""https://twitter.com/ukraineinfohelp/status/1502234356286435328?s=21""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: Associazione universitaria Studenti Indipendenti
+title: A Bari studenti universitari raccolgono beni per popolo ucraino
+recipients: ''
+description: A Bari l’associazione universitaria Studenti Indipendenti organizza raccolta
+  di beni per il popolo ucraino in due punti della città. Al link le info.
+url: https://twitter.com/ukraineinfohelp/status/1502234356286435328?s=21
+address:
+  mode: autocomplete
+  address:
+    place_id: 113732026
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 40403571
+    boundingbox:
+    - '40.9988396'
+    - '41.0022608'
+    - '16.8661527'
+    - '16.8664384'
+    lat: '41.000707'
+    lon: '16.8663036'
+    display_name: Via Domenico Nicolai, Adelfia, Bari, Puglia, Italia
+    class: highway
+    type: residential
+    importance: 0.41000000000000003
+    address:
+      road: Via Domenico Nicolai
+      town: Adelfia
+      county: Bari
+      state: Puglia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/98,1167400443,2022-03-22 17:05:16,2022-03-12 21:05:41,15 borse di studio per studenti ucraini promosse dall'Università della Calabria,,,,,"[""Valid/Accettato"",""News"",""Services"",""job"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Universit\u00e0 della Calabria"",""country"":""Italia"",""country_code"":""it"",""county"":""Cosenza"",""postcode"":""87036"",""road"":""Unical Campus"",""state"":""Calabria"",""town"":""Rende""},""boundingbox"":[""39.3557691"",""39.3688203"",""16.219811"",""16.2279511""],""class"":""amenity"",""display_name"":""Universit\u00e0 della Calabria, Unical Campus, Rende, Cosenza, Calabria, 87036, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//education_university.p.20.png"",""importance"":0.7250690427980546,""lat"":""39.36233015"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.22349291436983"",""osm_id"":932949985,""osm_type"":""way"",""place_id"":275216324,""type"":""university""},""mode"":""autocomplete""},""description"":""Universit\u00e0 della Calabria offre 15 borse di studio a studenti ucraini in fuga dalla guerra."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Universita della Calabria"",""recipients"":"""",""submit"":true,""title"":""15 borse di studio per studenti ucraini promosse dall'Universit\u00e0 della #Calabria."",""type"":""jobOffer"",""url"":""https://www.unical.it/contents/news/view/solidarieta-al-popolo-ucraino-unical-pronta-ad-accogliere-studenti-in-fuga-con-15-borse-di-studio-speciali""}","<pre><yamldata>
+type: jobOffer
+offerFromWho: Universita della Calabria
+title: '15 borse di studio per studenti ucraini promosse dall''Università della #Calabria.'
+recipients: ''
+description: Università della Calabria offre 15 borse di studio a studenti ucraini
+  in fuga dalla guerra.
+url: https://www.unical.it/contents/news/view/solidarieta-al-popolo-ucraino-unical-pronta-ad-accogliere-studenti-in-fuga-con-15-borse-di-studio-speciali
+address:
+  mode: autocomplete
+  address:
+    place_id: 275216324
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 932949985
+    boundingbox:
+    - '39.3557691'
+    - '39.3688203'
+    - '16.219811'
+    - '16.2279511'
+    lat: '39.36233015'
+    lon: '16.22349291436983'
+    display_name: Università della Calabria, Unical Campus, Rende, Cosenza, Calabria,
+      87036, Italia
+    class: amenity
+    type: university
+    importance: 0.7250690427980546
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//education_university.p.20.png
+    address:
+      amenity: Università della Calabria
+      road: Unical Campus
+      town: Rende
+      county: Cosenza
+      state: Calabria
+      postcode: '87036'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/97,1167399966,2022-03-22 17:05:05,2022-03-12 21:03:13,"Genova, info su emergenza Ucraina: raccolta beni, assistenza profughi, alloggi",44.40726,8.9338624,Liguria,Genova,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""materialGoods"",""hospitality"",""healtcare"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""44.40726 8.9338624"",""description"":""Al link varie info su emergenza Ucraina per chi vive a Genova e per i rifugiati che sono giunti in citt\u00e0: raccolta beni, assistenza profughi, alloggi e altro."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""http://dlvr.it/SL187L"",""location"":{""address"":{""address"":{""city"":""Genova"",""country"":""Italia"",""country_code"":""it"",""county"":""Genova"",""state"":""Liguria""},""boundingbox"":[""44.3784709"",""44.5198419"",""8.6657444"",""9.0955805""],""class"":""boundary"",""display_name"":""Genova, Liguria, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7921779665930816,""lat"":""44.40726"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.9338624"",""osm_id"":44875,""osm_type"":""relation"",""place_id"":283489351,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Genova, info su emergenza Ucraina: raccolta beni, assistenza profughi, alloggi""}","<pre><yamldata>
+title: 'Genova, info su emergenza Ucraina: raccolta beni, assistenza profughi, alloggi'
+description: 'Al link varie info su emergenza Ucraina per chi vive a Genova e per
+  i rifugiati che sono giunti in città: raccolta beni, assistenza profughi, alloggi
+  e altro.'
+link: http://dlvr.it/SL187L
+location:
+  mode: autocomplete
+  address:
+    place_id: 283489351
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 44875
+    boundingbox:
+    - '44.3784709'
+    - '44.5198419'
+    - '8.6657444'
+    - '9.0955805'
+    lat: '44.40726'
+    lon: '8.9338624'
+    display_name: Genova, Liguria, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7921779665930816
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Genova
+      county: Genova
+      state: Liguria
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 44.40726 8.9338624
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/95,1167398784,2022-03-22 17:04:40,2022-03-12 20:57:23,Raccolta fondi di Mediterranea Saving Humans per aiuti umanitari e convoglio che porti i rifugiati ucraini in Italia  ,,,,,"[""Valid/Accettato"",""fundraising"",""telegram-channel"",""tweet""]",,,"{""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""Parte #SafePassage di Mediterranea Saving Humans: un convoglio di pullman e furgoni attrezzati, con medici e mediatori culturali, che arrivi al confine polacco-ucraino, per consegnare aiuti e portare in Italia chi fugge. Attivata raccolta fondi online a sostegno dell\u2019iniziativa."",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":""https://www.produzionidalbasso.com/project/missione-safe-passage-in-ucraina/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Mediterranea Saving Humans""}","<pre><yamldata>
+title: Mediterranea Saving Humans
+description: 'Parte #SafePassage di Mediterranea Saving Humans: un convoglio di pullman
+  e furgoni attrezzati, con medici e mediatori culturali, che arrivi al confine polacco-ucraino,
+  per consegnare aiuti e portare in Italia chi fugge. Attivata raccolta fondi online
+  a sostegno dell’iniziativa.'
+heading: ''
+iban: ''
+bicSwift: ''
+ccPostal: ''
+causal: ''
+link: https://www.produzionidalbasso.com/project/missione-safe-passage-in-ucraina/
+email: ''
+location:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/92,1167382848,2022-03-22 17:04:24,2022-03-12 19:55:35,Ospedale Buzzi Milano offre visite gratuite a donne ucraine incinte,,,,,"[""Valid/Accettato"",""Services"",""healtcare"",""women"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Ospedale dei Bambini \""Vittore Buzzi\"""",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""28"",""postcode"":""20154"",""quarter"":""Sarpi"",""road"":""Via Lodovico Castelvetro"",""state"":""Lombardia"",""suburb"":""Municipio 8""},""boundingbox"":[""45.4848213"",""45.4865785"",""9.1653918"",""9.1678818""],""class"":""amenity"",""display_name"":""Ospedale dei Bambini \""Vittore Buzzi\"", 28, Via Lodovico Castelvetro, Sarpi, Municipio 8, Milano, Lombardia, 20154, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//health_hospital.p.20.png"",""importance"":0.31100000000000005,""lat"":""45.4858443"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.166968895924526"",""osm_id"":478299137,""osm_type"":""way"",""place_id"":208609040,""type"":""hospital""},""mode"":""autocomplete""},""description"":""Presso l'Ospedale dei Bambini \""Vittore Buzzi\"", a Milano in: Via Lodovico Castelvetro 32. Padiglione C, Piano -1, Spazio IV trimestre, ogni gioved\u00ec dalle 13:30 alle 15:30 ci sar\u00e0 una visita gratuita per le donne incinta costrette ad abbandonare le loro case a causa della guerra in Ucraina. Il nostro ospedale \u00e8 pronto ad assistere nella gestione completa di una gravidanza. Verr\u00e0 effettuata la prima visita e rilasciato il codice STP del sistema sanitario nazionale, per la successiva gestione gratuita della gravidanza (con una gamma completa di test ed ecografie), del parto e del periodo postpartum. \nNumero di telefono per informazioni dettagliate: 02 6363.6023 / 5213.\n\n\u0423 \u0433\u043e\u0441\u043f\u0456\u0442\u0430\u043b\u0456 Ospedale dei Bambini \""Vittore Buzzi\"" , \u044f\u043a\u0438\u0439 \u0437\u043d\u0430\u0445\u043e\u0434\u0438\u0442\u044c\u0441\u044f \u0432 \u041c\u0456\u043b\u0430\u043d\u0456 \u0437\u0430 \u0430\u0434\u0440\u0435\u0441\u043e\u044e: Via Lodovico Castelvetro 32. \u041f\u0430\u0432\u0456\u043b\u044c\u0439\u043e\u043d \u0421, \u041f\u043e\u0432\u0435\u0440\u0445-1, Spazio IV trimestre \u041a\u043e\u0436\u0435\u043d \u0447\u0435\u0442\u0432\u0435\u0440 \u0437 13:30 \u0434\u043e 15:30 \u0431\u0443\u0434\u0435 \u0432\u0435\u0441\u0442\u0438\u0441\u044c \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u0438\u0439 \u043f\u0440\u0438\u0439\u043e\u043c \u0434\u043b\u044f \u0432\u0430\u0433\u0456\u0442\u043d\u0438\u0445 \u0436\u0456\u043d\u043e\u043a, \u044f\u043a\u0456 \u0447\u0435\u0440\u0435\u0437 \u0432\u0456\u0439\u043d\u0443 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456 \u0437\u043c\u0443\u0448\u0435\u043d\u0456 \u0431\u0443\u043b\u0438 \u043f\u043e\u043a\u0438\u043d\u0443\u0442\u0438 \u0441\u0432\u043e\u0457 \u0434\u043e\u043c\u0456\u0432\u043a\u0438. \u041d\u0430\u0448 \u0433\u043e\u0441\u043f\u0456\u0442\u0430\u043b\u044c \u0433\u043e\u0442\u043e\u0432\u0438\u0439 \u043d\u0430\u0434\u0430\u0442\u0438 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0443 \u0443 \u0432\u0435\u0434\u0435\u043d\u043d\u0456 \u043f\u043e\u0432\u043d\u043e\u0433\u043e \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441\u0443 \u0432\u0430\u0433\u0456\u0442\u043d\u043e\u0441\u0442\u0456. \u0411\u0443\u0434\u0435  \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0439 \u043f\u0435\u0440\u0448\u0438\u0439 \u043e\u0433\u043b\u044f\u0434 \u0456 \u0432\u0438\u0434\u0430\u043d\u0438\u0439 \u043a\u043e\u0434 STP \u043d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0457 \u0441\u0438\u0441\u0442\u0435\u043c\u0438 \u043e\u0445\u043e\u0440\u043e\u043d\u0438 \u0437\u0434\u043e\u0440\u043e\u0432'\u044f, \u0434\u043b\u044f \u0431\u0435\u0437\u043e\u043f\u043b\u0430\u0442\u043d\u043e\u0457 \u043f\u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0438 \u043d\u0430 \u043e\u0431\u043b\u0456\u043a \u0456 \u043f\u043e\u0434\u0430\u043b\u044c\u0448\u043e\u0433\u043e \u0432\u0435\u0434\u0435\u043d\u043d\u044f \u0432\u0430\u0433\u0456\u0442\u043d\u043e\u0441\u0442\u0456( \u0437 \u043f\u043e\u0432\u043d\u0438\u043c \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441\u043e\u043c  \u0430\u043d\u0430\u043b\u0456\u0437\u0456\u0432 \u0442\u0430 \u0443\u0437\u0456) , \u043f\u043e\u043b\u043e\u0433\u0456\u0432 \u0442\u0430 \u043f\u0456\u0441\u043b\u044f\u043f\u043e\u043b\u043e\u0433\u043e\u0432\u043e\u0433\u043e \u043f\u0435\u0440\u0456\u043e\u0434\u0443. \u041d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443 \u0434\u043b\u044f \u0434\u0435\u0442\u0430\u043b\u044c\u043d\u043e\u0457 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u0457: 02 6363.6023/5213.\n\nLa nostra Associazione mette a disposizione delle donne quanto necessario per la gravidanza, gentilmente offerto dai tanti amici che in questa settimana si sono presentati in OBM."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ospedale Buzzi Milano"",""recipients"":""donne ucraine incinte"",""submit"":true,""title"":""Ospedale Buzzi Milano offre visite gratuite a donne ucraine incinte"",""type"":""healthcare"",""url"":""https://www.facebook.com/400453129313/posts/10160275267644314/?sfnsn=scwspmo""}","<pre><yamldata>
+type: healthcare
+offerFromWho: Ospedale Buzzi Milano
+title: Ospedale Buzzi Milano offre visite gratuite a donne ucraine incinte
+recipients: donne ucraine incinte
+description: ""Presso l'Ospedale dei Bambini \""Vittore Buzzi\"", a Milano in: Via Lodovico\
+  \ Castelvetro 32. Padiglione C, Piano -1, Spazio IV trimestre, ogni giovedì dalle\
+  \ 13:30 alle 15:30 ci sarà una visita gratuita per le donne incinta costrette ad\
+  \ abbandonare le loro case a causa della guerra in Ucraina. Il nostro ospedale è\
+  \ pronto ad assistere nella gestione completa di una gravidanza. Verrà effettuata\
+  \ la prima visita e rilasciato il codice STP del sistema sanitario nazionale, per\
+  \ la successiva gestione gratuita della gravidanza (con una gamma completa di test\
+  \ ed ecografie), del parto e del periodo postpartum. \nNumero di telefono per informazioni\
+  \ dettagliate: 02 6363.6023 / 5213.\n\nУ госпіталі Ospedale dei Bambini \""Vittore\
+  \ Buzzi\"" , який знаходиться в Мілані за адресою: Via Lodovico Castelvetro 32. Павільйон\
+  \ С, Поверх-1, Spazio IV trimestre Кожен четвер з 13:30 до 15:30 буде вестись безкоштовний\
+  \ прийом для вагітних жінок, які через війну в Україні змушені були покинути свої\
+  \ домівки. Наш госпіталь готовий надати допомогу у веденні повного комплексу вагітності.\
+  \ Буде  проведений перший огляд і виданий код STP національної системи охорони здоров'я,\
+  \ для безоплатної постановки на облік і подальшого ведення вагітності( з повним\
+  \ комплексом  аналізів та узі) , пологів та післяпологового періоду. Номер телефону\
+  \ для детальної інформації: 02 6363.6023/5213.\n\nLa nostra Associazione mette a\
+  \ disposizione delle donne quanto necessario per la gravidanza, gentilmente offerto\
+  \ dai tanti amici che in questa settimana si sono presentati in OBM.""
+url: https://www.facebook.com/400453129313/posts/10160275267644314/?sfnsn=scwspmo
+address:
+  mode: autocomplete
+  address:
+    place_id: 208609040
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 478299137
+    boundingbox:
+    - '45.4848213'
+    - '45.4865785'
+    - '9.1653918'
+    - '9.1678818'
+    lat: '45.4858443'
+    lon: '9.166968895924526'
+    display_name: Ospedale dei Bambini ""Vittore Buzzi"", 28, Via Lodovico Castelvetro,
+      Sarpi, Municipio 8, Milano, Lombardia, 20154, Italia
+    class: amenity
+    type: hospital
+    importance: 0.31100000000000005
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//health_hospital.p.20.png
+    address:
+      amenity: Ospedale dei Bambini ""Vittore Buzzi""
+      house_number: '28'
+      road: Via Lodovico Castelvetro
+      quarter: Sarpi
+      suburb: Municipio 8
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20154'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/64,1164580112,2022-03-22 17:02:32,2022-03-10 00:03:59,Raccolta medicinali e materiali sanitari nelle farmacie di Roma   e provincia - dal 9 al 16 marzo,,,,,"[""Valid/Accettato"",""Services"",""healtcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8996107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Raccolta medicinali e materiali sanitari in tutte le farmacie di Roma e provincia - dal 9 al 16 marzo"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Federfarma Roma"",""recipients"":"""",""submit"":true,""title"":""Farmacisti per l'Ucraina"",""type"":""healthcare"",""url"":""https://twitter.com/ukraineinfohelp/status/1501526286585499649?t=gG4S2XxlCPzIjVTQO5XYVQ&s=19""}","<pre><yamldata>
+type: healthcare
+offerFromWho: Federfarma Roma
+title: Farmacisti per l'Ucraina
+recipients: ''
+description: Raccolta medicinali e materiali sanitari in tutte le farmacie di Roma
+  e provincia - dal 9 al 16 marzo
+url: 'https://twitter.com/ukraineinfohelp/status/1501526286585499649?t=gG4S2XxlCPzIjVTQO5XYVQ&s=19'
+address:
+  mode: autocomplete
+  address:
+    place_id: 283767136
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 41485
+    boundingbox:
+    - '41.6556417'
+    - '42.1410285'
+    - '12.2344669'
+    - '12.8557603'
+    lat: '41.8933203'
+    lon: '12.4829321'
+    display_name: Roma, Roma Capitale, Lazio, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8996107180689524
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",closed
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/202,1173433999,2022-03-22 17:02:00,2022-03-18 10:31:05,"Prato 19 marzo, concerto Coro Maggio Fiorentino a sostegno della raccolta fondi per l’Ucraina di Croce Rossa",43.88142935,11.09951159358597,Toscana,Prato,"[""Valid/Accettato"",""fundraising"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""43.88142935 11.09951159358597"",""bicSwift"":""Unicritmirnp"",""causal"":""causale Emergenza Ucraina"",""ccPostal"":"""",""description"":""concerto beneficio per l'Ucraina in programma sabato 19 marzo, alle 21, al Politeama pratese. L'iniziativa \u00e8 organizzata da un gruppo di artisti lirici professionisti del coro del Maggio musicale fiorentino, tra i quali molti pratesi e molti vincitori di concorsi nazionali e internazionali. Ad unire il gruppo \u00e8 il desiderio di dare un contributo alla macchina della solidariet\u00e0 che sta aiutando la popolazione ucraina. Il concerto \u00e8 strutturato su una scaletta di opere dell'Ottocento di compositori tra i pi\u00f9 celebri.\nIl ricavato della serata sar\u00e0 devoluto al sostegno dell'Ucraina e ogni spettatore potr\u00e0 contribuire con una donazione diretta partecipando al concerto oppure attraverso un bonifico intestato all'Associazione Croce Rossa italiana"",""email"":"""",""heading"":""Associazione Croce Rossa italiana"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT93H0200803284000105889169"",""label"":""fundraising"",""link"":""http://www.notiziediprato.it/news/gli-artisti-del-maggio-musicale-fiorentino-al-politeama-per-un-concerto-benefico-pro-emergenza-ucraina"",""location"":{""address"":{""address"":{""amenity"":""Politeama"",""city"":""Prato"",""country"":""Italia"",""country_code"":""it"",""county"":""Prato"",""house_number"":""33"",""neighbourhood"":""il Cantiere"",""postcode"":""59100"",""road"":""Via Giuseppe Garibaldi"",""state"":""Toscana""},""boundingbox"":[""43.8812436"",""43.8816433"",""11.0992461"",""11.0998252""],""class"":""amenity"",""display_name"":""Politeama, 33, Via Giuseppe Garibaldi, il Cantiere, Prato, Toscana, 59100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//tourist_theatre.p.20.png"",""importance"":0.2808812954247281,""lat"":""43.88142935"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.09951159358597"",""osm_id"":324533597,""osm_type"":""way"",""place_id"":179411580,""type"":""theatre""},""mode"":""autocomplete""},""submit"":true,""title"":""Artisti Maggio Fiorentino e Croce Rossa italiana""}","<pre><yamldata>
+title: Artisti Maggio Fiorentino e Croce Rossa italiana
+description: 'concerto beneficio per l''Ucraina in programma sabato 19 marzo, alle
+  21, al Politeama pratese. L''iniziativa è organizzata da un gruppo di artisti lirici
+  professionisti del coro del Maggio musicale fiorentino, tra i quali molti pratesi
+  e molti vincitori di concorsi nazionali e internazionali. Ad unire il gruppo è il
+  desiderio di dare un contributo alla macchina della solidarietà che sta aiutando
+  la popolazione ucraina. Il concerto è strutturato su una scaletta di opere dell''Ottocento
+  di compositori tra i più celebri.
+
+  Il ricavato della serata sarà devoluto al sostegno dell''Ucraina e ogni spettatore
+  potrà contribuire con una donazione diretta partecipando al concerto oppure attraverso
+  un bonifico intestato all''Associazione Croce Rossa italiana'
+heading: Associazione Croce Rossa italiana
+iban: IT93H0200803284000105889169
+bicSwift: Unicritmirnp
+ccPostal: ''
+causal: causale Emergenza Ucraina
+link: http://www.notiziediprato.it/news/gli-artisti-del-maggio-musicale-fiorentino-al-politeama-per-un-concerto-benefico-pro-emergenza-ucraina
+email: ''
+location:
+  mode: autocomplete
+  address:
+    place_id: 179411580
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 324533597
+    boundingbox:
+    - '43.8812436'
+    - '43.8816433'
+    - '11.0992461'
+    - '11.0998252'
+    lat: '43.88142935'
+    lon: '11.09951159358597'
+    display_name: Politeama, 33, Via Giuseppe Garibaldi, il Cantiere, Prato, Toscana,
+      59100, Italia
+    class: amenity
+    type: theatre
+    importance: 0.2808812954247281
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//tourist_theatre.p.20.png
+    address:
+      amenity: Politeama
+      house_number: '33'
+      road: Via Giuseppe Garibaldi
+      neighbourhood: il Cantiere
+      city: Prato
+      county: Prato
+      state: Toscana
+      postcode: '59100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+Posizione: 43.88142935 11.09951159358597
+</yamldata></pre>",closed
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/250,1174676859,2022-03-22 17:01:10,2022-03-20 20:34:57,Acli Pavia organizza corso gratuito di italiano per profughi ucraini (inizio 5 aprile),,,,,"[""Valid/Accettato"",""Services"",""translation"",""telegram-channel"",""tweet""]","Milestone(title=""6 aprile"", number=4)",,"{""address"":{""address"":{""address"":{""city"":""Pavia"",""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""office"":""ACLI Pavia"",""postcode"":""27100"",""road"":""Viale Cesare Battisti"",""state"":""Lombardia"",""suburb"":""Ticinello""},""boundingbox"":[""45.1893437"",""45.1894437"",""9.1483341"",""9.1484341""],""class"":""office"",""display_name"":""ACLI Pavia, Viale Cesare Battisti, Ticinello, Pavia, Lombardia, 27100, Italia"",""importance"":0.611,""lat"":""45.1893937"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1483841"",""osm_id"":3030681209,""osm_type"":""node"",""place_id"":36788835,""type"":""association""},""mode"":""autocomplete""},""description"":""Acli Pavia - Sezione Provinciale nell'ambito del progetto Legami Solidali, organizza un corso gratuito di lingua italiana per i profughi provenienti dall'Ucraina a causa dell'emergenza in atto. Il corso si terr\u00e0 dal 5 aprile al 7 luglio 2022, ore 09.00/11.00 in viale Cesare Battisti 142, Pavia"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Acli Pavia"",""recipients"":""Persone in arrivo dall'Ucraina"",""submit"":true,""title"":""Corso di italiano"",""type"":""translation"",""url"":""https://www.aclipavia.it/corso-italiano-profughi-ucraini/""}","<pre><yamldata>
+type: translation
+offerFromWho: Acli Pavia
+title: Corso di italiano
+recipients: Persone in arrivo dall'Ucraina
+description: Acli Pavia - Sezione Provinciale nell'ambito del progetto Legami Solidali,
+  organizza un corso gratuito di lingua italiana per i profughi provenienti dall'Ucraina
+  a causa dell'emergenza in atto. Il corso si terrà dal 5 aprile al 7 luglio 2022,
+  ore 09.00/11.00 in viale Cesare Battisti 142, Pavia
+url: https://www.aclipavia.it/corso-italiano-profughi-ucraini/
+address:
+  mode: autocomplete
+  address:
+    place_id: 36788835
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 3030681209
+    boundingbox:
+    - '45.1893437'
+    - '45.1894437'
+    - '9.1483341'
+    - '9.1484341'
+    lat: '45.1893937'
+    lon: '9.1483841'
+    display_name: ACLI Pavia, Viale Cesare Battisti, Ticinello, Pavia, Lombardia,
+      27100, Italia
+    class: office
+    type: association
+    importance: 0.611
+    address:
+      office: ACLI Pavia
+      road: Viale Cesare Battisti
+      suburb: Ticinello
+      city: Pavia
+      county: Pavia
+      state: Lombardia
+      postcode: '27100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/158,1171105306,2022-03-22 10:02:05,2022-03-16 14:30:37,Contatti telefonici di Croce Rossa Ucraina per la ricerca di familiari dispersi a causa del conflitto,49.4871968,31.2718321,,,"[""Valid/Accettato"",""News"",""Services"",""useful contact"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""49.4871968 31.2718321"",""description"":""Nel caso in cui perdiate i contatti con i vostri cari, potete contattare il servizio di ricerca della Croce Rossa dell'Ucraina ai numeri sotto indicati:\n\u25ab\ufe0fKiev 096 304 4375, 066 250 9957\n\u25ab\ufe0fLviv 095 250 1274\n\u25ab\ufe0fKharkiv 099 206 5493\n\u25ab\ufe0fDnipro 095 250 1181\n\u25ab\ufe0fKramatorsk 095 250 1229"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.facebook.com/groups/ukrainehelpit/permalink/458942835974670/"",""location"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""44.184598"",""52.3797464"",""22.137059"",""40.2275801""],""class"":""boundary"",""display_name"":""Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8164442439164168,""lat"":""49.4871968"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""31.2718321"",""osm_id"":60199,""osm_type"":""relation"",""place_id"":283553033,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Contatti telefonici di Croce Rossa Ucraina per la ricerca di familiari dispersi""}","<pre><yamldata>
 title: Contatti telefonici di Croce Rossa Ucraina per la ricerca di familiari dispersi
 description: 'Nel caso in cui perdiate i contatti con i vostri cari, potete contattare
@@ -1096,49 +1528,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 46.102817 11.129543099871789
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/250,1174676859,2022-03-21 16:30:45,2022-03-20 20:34:57,Acli Pavia organizza corso gratuito di italiano per profughi ucraini (inizio 5 aprile),,,,,"[""Valid/Accettato"",""Services"",""translation"",""telegram-channel"",""tweet""]","Milestone(title=""16 aprile"", number=3)",,"{""address"":{""address"":{""address"":{""city"":""Pavia"",""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""office"":""ACLI Pavia"",""postcode"":""27100"",""road"":""Viale Cesare Battisti"",""state"":""Lombardia"",""suburb"":""Ticinello""},""boundingbox"":[""45.1893437"",""45.1894437"",""9.1483341"",""9.1484341""],""class"":""office"",""display_name"":""ACLI Pavia, Viale Cesare Battisti, Ticinello, Pavia, Lombardia, 27100, Italia"",""importance"":0.611,""lat"":""45.1893937"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1483841"",""osm_id"":3030681209,""osm_type"":""node"",""place_id"":36788835,""type"":""association""},""mode"":""autocomplete""},""description"":""Acli Pavia - Sezione Provinciale nell'ambito del progetto Legami Solidali, organizza un corso gratuito di lingua italiana per i profughi provenienti dall'Ucraina a causa dell'emergenza in atto. Il corso si terr\u00e0 dal 5 aprile al 7 luglio 2022, ore 09.00/11.00 in viale Cesare Battisti 142, Pavia"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Acli Pavia"",""recipients"":""Persone in arrivo dall'Ucraina"",""submit"":true,""title"":""Corso di italiano"",""type"":""translation"",""url"":""https://www.aclipavia.it/corso-italiano-profughi-ucraini/""}","<pre><yamldata>
-type: translation
-offerFromWho: Acli Pavia
-title: Corso di italiano
-recipients: Persone in arrivo dall'Ucraina
-description: Acli Pavia - Sezione Provinciale nell'ambito del progetto Legami Solidali,
-  organizza un corso gratuito di lingua italiana per i profughi provenienti dall'Ucraina
-  a causa dell'emergenza in atto. Il corso si terrà dal 5 aprile al 7 luglio 2022,
-  ore 09.00/11.00 in viale Cesare Battisti 142, Pavia
-url: https://www.aclipavia.it/corso-italiano-profughi-ucraini/
-address:
-  mode: autocomplete
-  address:
-    place_id: 36788835
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 3030681209
-    boundingbox:
-    - '45.1893437'
-    - '45.1894437'
-    - '9.1483341'
-    - '9.1484341'
-    lat: '45.1893937'
-    lon: '9.1483841'
-    display_name: ACLI Pavia, Viale Cesare Battisti, Ticinello, Pavia, Lombardia,
-      27100, Italia
-    class: office
-    type: association
-    importance: 0.611
-    address:
-      office: ACLI Pavia
-      road: Viale Cesare Battisti
-      suburb: Ticinello
-      city: Pavia
-      county: Pavia
-      state: Lombardia
-      postcode: '27100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/238,1174469488,2022-03-21 15:35:44,2022-03-20 08:06:33,Comune di Bagno di Romagna avvia raccolta disponibilità #alloggi per cittadini ucraini ,,,,,"[""Valid/Accettato"",""Help"",""Services"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""postcode"":""47021"",""province"":""Forl\u00ec-Cesena"",""state"":""Emilia-Romagna"",""village"":""Bagno di Romagna""},""boundingbox"":[""43.7869827"",""43.9515076"",""11.7884626"",""12.1134496""],""class"":""boundary"",""display_name"":""Bagno di Romagna, Forl\u00ec-Cesena, Emilia-Romagna, 47021, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7340329938443138,""lat"":""43.8352272"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.9595985"",""osm_id"":42639,""osm_type"":""relation"",""place_id"":284245489,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Facilitare il censimento dei cittadini ucraini che approdano nel territorio del Comune termale d\u2019Alto Savio e alfine di fornire un punto di riferimento a tutte le famiglie che intendono ospitare le persone ucraine, ha attivato il numero di telefono 0547603555 e un indirizzo di posta elettronica dedicato: accoglienza.ucraina@unionevallesavio.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Bagno di Romagna"",""recipients"":"""",""submit"":true,""title"":""Censimento dei cittadini ucraini che approdano nel territorio del Comune"",""type"":""hospitality"",""url"":""https://www.ilrestodelcarlino.it/cesena/cronaca/case-aperte-ai-rifugiati-1.7484887?utm_source=twitter&utm_medium=rss-feed&utm_campaign=twitter-account""}","<pre><yamldata>
 type: hospitality
@@ -2745,46 +3134,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/199,1173289281,2022-03-19 18:08:11,2022-03-18 07:52:51,A Milano e comuni limitrofi mamma con due bambini fuggita dall'Ucraina cerca alloggio economico,45.4612939,9.172356290785304,Lombardia,Milano,"[""Valid/Accettato"",""Help"",""hospitality"",""Children"",""women"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.4612939 9.172356290785304"",""description"":""Buongiorno, mi chiamo Gaia Gandini e sto ospitando la famiglia Pozniak, mamma con figli di 16 e 9 anni a casa mia, ma riesco fino al 1/4/22. Cercano a Milano e comuni limitrofi alloggio gratuito o molto economico per successivo periodo. Non parlano inglese solo ucraino per questo scrivo io. Grazie!"",""email"":""gaigan@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Milan"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""state"":""Lombardia""},""boundingbox"":[""45.3867381"",""45.5358482"",""9.0408867"",""9.2781103""],""class"":""boundary"",""display_name"":""Milan, Milano, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8490652078701348,""lat"":""45.4612939"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.172356290785304"",""osm_id"":44915,""osm_type"":""relation"",""place_id"":283684439,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Hanna pozniak"",""phoneNumber"":""+393287425807"",""recipients"":"""",""submit"":true,""title"":""Search for house"",""url"":""""}","<pre><yamldata>
-nameSurname: Hanna pozniak
-phoneNumber: '+393287425807'
-email: gaigan@gmail.com
-title: Search for house
-recipients: ''
-description: Buongiorno, mi chiamo Gaia Gandini e sto ospitando la famiglia Pozniak,
-  mamma con figli di 16 e 9 anni a casa mia, ma riesco fino al 1/4/22. Cercano a Milano e comuni limitrofi alloggio gratuito o molto economico per successivo periodo. Non parlano inglese solo ucraino
-  per questo scrivo io. Grazie!
-url: ''
-location:
-  mode: autocomplete
-  address:
-    place_id: 283684439
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 44915
-    boundingbox:
-    - '45.3867381'
-    - '45.5358482'
-    - '9.0408867'
-    - '9.2781103'
-    lat: '45.4612939'
-    lon: '9.172356290785304'
-    display_name: Milan, Milano, Lombardia, Italia
-    class: boundary
-    type: administrative
-    importance: 0.8490652078701348
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Milan
-      county: Milano
-      state: Lombardia
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 45.4612939 9.172356290785304
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/204,1173440901,2022-03-19 18:07:12,2022-03-18 10:38:49,"Comune di Livorno, censimento online dei cittadini che ospitano o vogliono ospitare rifugiati ucraini",,,,,"[""Valid/Accettato"",""News"",""Services"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Livorno"",""state"":""Toscana""},""boundingbox"":[""42.3133103"",""43.6346331"",""9.7912939"",""10.7962196""],""class"":""boundary"",""display_name"":""Livorno, Toscana, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7291073566920355,""lat"":""42.790216599999994"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.340278678735025"",""osm_id"":42147,""osm_type"":""relation"",""place_id"":284813019,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Questionario da compilare online, dove i cittadini possono indicare quante persone stanno ospitando e dove, oppure se manifestano la loro disponibilit\u00e0 di ospitare e gli spazi di cui dispongono.\nI dati saranno ovviamente trattati dall\u2019Ufficio del Sociale nel rispetto della privacy e delle normative vigenti anche a tutela delle persone profughe. Si tratta in questo momento solo di una ricognizione e non un immediato incrocio domanda offerta, nel caso in cui i cittadini manifestino la loro disponibilit\u00e0 al Comune."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Livorno"",""recipients"":""Censimento online per l\u2019accoglienza sul territorio comunale delle persone profughe dell\u2019Ucraina Ricognizione tesa a programmare eventuali interventi di natura socio-assistenziale"",""submit"":true,""title"":""Censimento online comunale delle persone profughe dell\u2019Ucraina"",""type"":""hospitality"",""url"":""https://servizinew.comune.livorno.it/epaccoglienza/""}","<pre><yamldata>
 type: hospitality
 offerFromWho: Comune di Livorno
@@ -3151,20 +3500,6 @@ address:
   address: {}
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/102,1167402531,2022-03-19 13:44:26,2022-03-12 21:17:01,Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio a rifugiati ucraini (anche in Italia),,,,,"[""Valid/Accettato"",""News"",""Services"",""hospitality"",""Resources""]",,,"{""description"":""Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio a rifugiati ucraini anche in Italia. Suggerita anche dall\u2019Ambasciata Ucraina in Italia."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://prykhystok.in.ua/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio a rifugiati ucraini (anche in Italia)""}","<pre><yamldata>
-title: Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio
-  a rifugiati ucraini (anche in Italia)
-description: Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio
-  a rifugiati ucraini anche in Italia. Suggerita anche dall’Ambasciata Ucraina in
-  Italia.
-link: https://prykhystok.in.ua/
-location:
-  mode: autocomplete
-  address: {}
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/103,1167402805,2022-03-19 13:44:08,2022-03-12 21:18:44,"Online jobsforukraine.net, piattaforma internazionale per offrire lavoro ai rifugiati ucraini",,,,,"[""Valid/Accettato"",""News"",""Services"",""job"",""Resources""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Online jobsforukraine.net, piattaforma internazionale per offrire lavoro ai rifugiati ucraini, in particolare in ambito accademico, ricerca scientifica e aziende."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""jobsforukraine.net"",""recipients"":"""",""submit"":true,""title"":""Online jobsforukraine.net, piattaforma internazionale per offrire lavoro ai rifugiati ucraini"",""type"":""jobOffer"",""url"":""https://t.co/WSuw9UvIU1""}","<pre><yamldata>
@@ -5020,62 +5355,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/202,1173433999,2022-03-18 16:07:51,2022-03-18 10:31:05,"Prato 19 marzo, concerto Coro Maggio Fiorentino a sostegno della raccolta fondi per l’Ucraina di Croce Rossa",43.88142935,11.09951159358597,Toscana,Prato,"[""Valid/Accettato"",""fundraising"",""telegram-channel"",""tweet""]","Milestone(title=""20 marzo"", number=2)",,"{""Posizione"":""43.88142935 11.09951159358597"",""bicSwift"":""Unicritmirnp"",""causal"":""causale Emergenza Ucraina"",""ccPostal"":"""",""description"":""concerto beneficio per l'Ucraina in programma sabato 19 marzo, alle 21, al Politeama pratese. L'iniziativa \u00e8 organizzata da un gruppo di artisti lirici professionisti del coro del Maggio musicale fiorentino, tra i quali molti pratesi e molti vincitori di concorsi nazionali e internazionali. Ad unire il gruppo \u00e8 il desiderio di dare un contributo alla macchina della solidariet\u00e0 che sta aiutando la popolazione ucraina. Il concerto \u00e8 strutturato su una scaletta di opere dell'Ottocento di compositori tra i pi\u00f9 celebri.\nIl ricavato della serata sar\u00e0 devoluto al sostegno dell'Ucraina e ogni spettatore potr\u00e0 contribuire con una donazione diretta partecipando al concerto oppure attraverso un bonifico intestato all'Associazione Croce Rossa italiana"",""email"":"""",""heading"":""Associazione Croce Rossa italiana"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT93H0200803284000105889169"",""label"":""fundraising"",""link"":""http://www.notiziediprato.it/news/gli-artisti-del-maggio-musicale-fiorentino-al-politeama-per-un-concerto-benefico-pro-emergenza-ucraina"",""location"":{""address"":{""address"":{""amenity"":""Politeama"",""city"":""Prato"",""country"":""Italia"",""country_code"":""it"",""county"":""Prato"",""house_number"":""33"",""neighbourhood"":""il Cantiere"",""postcode"":""59100"",""road"":""Via Giuseppe Garibaldi"",""state"":""Toscana""},""boundingbox"":[""43.8812436"",""43.8816433"",""11.0992461"",""11.0998252""],""class"":""amenity"",""display_name"":""Politeama, 33, Via Giuseppe Garibaldi, il Cantiere, Prato, Toscana, 59100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//tourist_theatre.p.20.png"",""importance"":0.2808812954247281,""lat"":""43.88142935"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.09951159358597"",""osm_id"":324533597,""osm_type"":""way"",""place_id"":179411580,""type"":""theatre""},""mode"":""autocomplete""},""submit"":true,""title"":""Artisti Maggio Fiorentino e Croce Rossa italiana""}","<pre><yamldata>
-title: Artisti Maggio Fiorentino e Croce Rossa italiana
-description: 'concerto beneficio per l''Ucraina in programma sabato 19 marzo, alle
-  21, al Politeama pratese. L''iniziativa è organizzata da un gruppo di artisti lirici
-  professionisti del coro del Maggio musicale fiorentino, tra i quali molti pratesi
-  e molti vincitori di concorsi nazionali e internazionali. Ad unire il gruppo è il
-  desiderio di dare un contributo alla macchina della solidarietà che sta aiutando
-  la popolazione ucraina. Il concerto è strutturato su una scaletta di opere dell''Ottocento
-  di compositori tra i più celebri.
-
-  Il ricavato della serata sarà devoluto al sostegno dell''Ucraina e ogni spettatore
-  potrà contribuire con una donazione diretta partecipando al concerto oppure attraverso
-  un bonifico intestato all''Associazione Croce Rossa italiana'
-heading: Associazione Croce Rossa italiana
-iban: IT93H0200803284000105889169
-bicSwift: Unicritmirnp
-ccPostal: ''
-causal: causale Emergenza Ucraina
-link: http://www.notiziediprato.it/news/gli-artisti-del-maggio-musicale-fiorentino-al-politeama-per-un-concerto-benefico-pro-emergenza-ucraina
-email: ''
-location:
-  mode: autocomplete
-  address:
-    place_id: 179411580
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 324533597
-    boundingbox:
-    - '43.8812436'
-    - '43.8816433'
-    - '11.0992461'
-    - '11.0998252'
-    lat: '43.88142935'
-    lon: '11.09951159358597'
-    display_name: Politeama, 33, Via Giuseppe Garibaldi, il Cantiere, Prato, Toscana,
-      59100, Italia
-    class: amenity
-    type: theatre
-    importance: 0.2808812954247281
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//tourist_theatre.p.20.png
-    address:
-      amenity: Politeama
-      house_number: '33'
-      road: Via Giuseppe Garibaldi
-      neighbourhood: il Cantiere
-      city: Prato
-      county: Prato
-      state: Toscana
-      postcode: '59100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: fundraising
-submit: true
-Posizione: 43.88142935 11.09951159358597
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/201,1173399047,2022-03-18 16:04:27,2022-03-18 09:52:34,Civilian Harm in Ukraine [MAP] by Bellingcat,,,,,"[""Valid/Accettato"",""document_data""]",,,"{""description"":""This map plots out and highlights incidents that have resulted in potential civilian impact or harm since Russia began its invasion of Ukraine. The incidents detailed have been collected by Bellingcat researchers. Included in the map are instances where civilian areas and infrastructure have been damaged or destroyed, where the presence of civilian injuries are visible and/or there is the presence of immobile civilian bodies. Collection for the incidences contained in this map began on February 24, 2022. Users can explore incidents by date and location. We intend this to be a living project that will continue to be updated as long as the conflict persists."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://ukraine.bellingcat.com/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Civilian Harm in Ukraine [MAP]""}","<pre><yamldata>
 title: Civilian Harm in Ukraine [MAP]
 description: This map plots out and highlights incidents that have resulted in potential
@@ -5802,47 +6081,6 @@ label: fundraising
 submit: true
 Posizione: 46.65594215 11.229637264169462
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/98,1167400443,2022-03-17 15:59:37,2022-03-12 21:05:41,15 borse di studio per studenti ucraini promosse dall'Università della Calabria,,,,,"[""Valid/Accettato"",""News"",""Services"",""job""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Universit\u00e0 della Calabria"",""country"":""Italia"",""country_code"":""it"",""county"":""Cosenza"",""postcode"":""87036"",""road"":""Unical Campus"",""state"":""Calabria"",""town"":""Rende""},""boundingbox"":[""39.3557691"",""39.3688203"",""16.219811"",""16.2279511""],""class"":""amenity"",""display_name"":""Universit\u00e0 della Calabria, Unical Campus, Rende, Cosenza, Calabria, 87036, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//education_university.p.20.png"",""importance"":0.7250690427980546,""lat"":""39.36233015"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.22349291436983"",""osm_id"":932949985,""osm_type"":""way"",""place_id"":275216324,""type"":""university""},""mode"":""autocomplete""},""description"":""Universit\u00e0 della Calabria offre 15 borse di studio a studenti ucraini in fuga dalla guerra."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Universita della Calabria"",""recipients"":"""",""submit"":true,""title"":""15 borse di studio per studenti ucraini promosse dall'Universit\u00e0 della #Calabria."",""type"":""jobOffer"",""url"":""https://www.unical.it/contents/news/view/solidarieta-al-popolo-ucraino-unical-pronta-ad-accogliere-studenti-in-fuga-con-15-borse-di-studio-speciali""}","<pre><yamldata>
-type: jobOffer
-offerFromWho: Universita della Calabria
-title: '15 borse di studio per studenti ucraini promosse dall''Università della #Calabria.'
-recipients: ''
-description: Università della Calabria offre 15 borse di studio a studenti ucraini
-  in fuga dalla guerra.
-url: https://www.unical.it/contents/news/view/solidarieta-al-popolo-ucraino-unical-pronta-ad-accogliere-studenti-in-fuga-con-15-borse-di-studio-speciali
-address:
-  mode: autocomplete
-  address:
-    place_id: 275216324
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 932949985
-    boundingbox:
-    - '39.3557691'
-    - '39.3688203'
-    - '16.219811'
-    - '16.2279511'
-    lat: '39.36233015'
-    lon: '16.22349291436983'
-    display_name: Università della Calabria, Unical Campus, Rende, Cosenza, Calabria,
-      87036, Italia
-    class: amenity
-    type: university
-    importance: 0.7250690427980546
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//education_university.p.20.png
-    address:
-      amenity: Università della Calabria
-      road: Unical Campus
-      town: Rende
-      county: Cosenza
-      state: Calabria
-      postcode: '87036'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/53,1164074825,2022-03-17 15:44:16,2022-03-09 15:15:17,"Save the children Italia attiva Help Line per minori ucraini, famiglie e enti impegnati nell’accoglienza",,,,,"[""Valid/Accettato"",""Missing position"",""Services"",""hospitality"",""Children"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""9"",""office"":""Save the Children Italia"",""postcode"":""00184"",""quarter"":""Monti"",""road"":""Piazza di San Francesco di Paola"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.8939153"",""41.8940153"",""12.4916895"",""12.4917895""],""class"":""office"",""display_name"":""Save the Children Italia, 9, Piazza di San Francesco di Paola, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia"",""importance"":0.9309999999999999,""lat"":""41.8939653"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4917395"",""osm_id"":9094641317,""osm_type"":""node"",""place_id"":95476703,""type"":""ngo""},""mode"":""autocomplete""},""description"":""Helpine di SaveChildren a sostegno di bambini ucraini soli o con le loro famiglie, associazioni, Asl ed enti locali impegnati nell'accoglienza.\n Tel. 351 2202016. Ulteriori le info al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Save The children Italia"",""recipients"":""Minori e famiglie ucraine"",""submit"":true,""title"":""Save The children attiva help Line per minori ucraini, famiglie e enti impegnati nell\u2019accoglienza"",""type"":""children"",""url"":""https://www.facebook.com/46590675335/posts/10159891711955336/""}","<pre><yamldata>
 type: children
 offerFromWho: Save The children Italia
@@ -6337,43 +6575,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/64,1164580112,2022-03-17 07:18:27,2022-03-10 00:03:59,Raccolta medicinali e materiali sanitari nelle farmacie di Roma   e provincia - dal 9 al 16 marzo,,,,,"[""Valid/Accettato"",""Services"",""healtcare""]","Milestone(title=""17 marzo"", number=1)",,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8996107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Raccolta medicinali e materiali sanitari in tutte le farmacie di Roma e provincia - dal 9 al 16 marzo"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Federfarma Roma"",""recipients"":"""",""submit"":true,""title"":""Farmacisti per l'Ucraina"",""type"":""healthcare"",""url"":""https://twitter.com/ukraineinfohelp/status/1501526286585499649?t=gG4S2XxlCPzIjVTQO5XYVQ&s=19""}","<pre><yamldata>
-type: healthcare
-offerFromWho: Federfarma Roma
-title: Farmacisti per l'Ucraina
-recipients: ''
-description: Raccolta medicinali e materiali sanitari in tutte le farmacie di Roma
-  e provincia - dal 9 al 16 marzo
-url: 'https://twitter.com/ukraineinfohelp/status/1501526286585499649?t=gG4S2XxlCPzIjVTQO5XYVQ&s=19'
-address:
-  mode: autocomplete
-  address:
-    place_id: 283767136
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 41485
-    boundingbox:
-    - '41.6556417'
-    - '42.1410285'
-    - '12.2344669'
-    - '12.8557603'
-    lat: '41.8933203'
-    lon: '12.4829321'
-    display_name: Roma, Roma Capitale, Lazio, Italia
-    class: boundary
-    type: administrative
-    importance: 0.8996107180689524
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",closed
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/176,1171605958,2022-03-16 22:40:31,2022-03-16 22:08:09,Su PeaceLink mappa dei comitati italiani per la pace e calendario delle mobilitazioni per la pace in Ucraina,,,,,"[""Valid/Accettato"",""News"",""Resources""]",,,"{""description"":""Sul sito di PeaceLink la mappa dei comitati per la pace in Italia e il calendario delle mobilitazioni per la pace in Ucraina."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.peacelink.it/pace/a/49053.html"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Su PeaceLink mappa comitati per la pace e calendario delle mobilitazioni per la pace in Ucraina""}","<pre><yamldata>
 title: Su PeaceLink mappa comitati per la pace e calendario delle mobilitazioni per
   la pace in Ucraina
@@ -6586,43 +6787,6 @@ address:
       city: Genova
       county: Genova
       state: Liguria
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/101,1167402127,2022-03-16 10:36:17,2022-03-12 21:14:31,A Bari studenti universitari attivano raccolta beni per popolo ucraino,,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bari"",""road"":""Via Domenico Nicolai"",""state"":""Puglia"",""town"":""Adelfia""},""boundingbox"":[""40.9988396"",""41.0022608"",""16.8661527"",""16.8664384""],""class"":""highway"",""display_name"":""Via Domenico Nicolai, Adelfia, Bari, Puglia, Italia"",""importance"":0.41000000000000003,""lat"":""41.000707"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.8663036"",""osm_id"":40403571,""osm_type"":""way"",""place_id"":113732026,""type"":""residential""},""mode"":""autocomplete""},""description"":""A Bari l\u2019associazione universitaria Studenti Indipendenti organizza raccolta di beni per il popolo ucraino in due punti della citt\u00e0. Al link le info."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione universitaria Studenti Indipendenti"",""recipients"":"""",""submit"":true,""title"":""A Bari studenti universitari raccolgono beni per popolo ucraino"",""type"":""materialGoods"",""url"":""https://twitter.com/ukraineinfohelp/status/1502234356286435328?s=21""}","<pre><yamldata>
-type: materialGoods
-offerFromWho: Associazione universitaria Studenti Indipendenti
-title: A Bari studenti universitari raccolgono beni per popolo ucraino
-recipients: ''
-description: A Bari l’associazione universitaria Studenti Indipendenti organizza raccolta
-  di beni per il popolo ucraino in due punti della città. Al link le info.
-url: https://twitter.com/ukraineinfohelp/status/1502234356286435328?s=21
-address:
-  mode: autocomplete
-  address:
-    place_id: 113732026
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 40403571
-    boundingbox:
-    - '40.9988396'
-    - '41.0022608'
-    - '16.8661527'
-    - '16.8664384'
-    lat: '41.000707'
-    lon: '16.8663036'
-    display_name: Via Domenico Nicolai, Adelfia, Bari, Puglia, Italia
-    class: highway
-    type: residential
-    importance: 0.41000000000000003
-    address:
-      road: Via Domenico Nicolai
-      town: Adelfia
-      county: Bari
-      state: Puglia
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
@@ -7177,26 +7341,6 @@ label: fundraising
 submit: true
 Posizione: 45.4645403 9.1698691
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/95,1167398784,2022-03-15 13:50:26,2022-03-12 20:57:23,Raccolta fondi di Mediterranea Saving Humans per aiuti umanitari e convoglio che porti i rifugiati ucraini in Italia  ,,,,,"[""Valid/Accettato"",""fundraising""]",,,"{""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""Parte #SafePassage di Mediterranea Saving Humans: un convoglio di pullman e furgoni attrezzati, con medici e mediatori culturali, che arrivi al confine polacco-ucraino, per consegnare aiuti e portare in Italia chi fugge. Attivata raccolta fondi online a sostegno dell\u2019iniziativa."",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":""https://www.produzionidalbasso.com/project/missione-safe-passage-in-ucraina/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Mediterranea Saving Humans""}","<pre><yamldata>
-title: Mediterranea Saving Humans
-description: 'Parte #SafePassage di Mediterranea Saving Humans: un convoglio di pullman
-  e furgoni attrezzati, con medici e mediatori culturali, che arrivi al confine polacco-ucraino,
-  per consegnare aiuti e portare in Italia chi fugge. Attivata raccolta fondi online
-  a sostegno dell’iniziativa.'
-heading: ''
-iban: ''
-bicSwift: ''
-ccPostal: ''
-causal: ''
-link: https://www.produzionidalbasso.com/project/missione-safe-passage-in-ucraina/
-email: ''
-location:
-  mode: autocomplete
-  address: {}
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: fundraising
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/147,1169492892,2022-03-15 12:43:46,2022-03-15 10:43:05,"Lucca, info e contatti per emergenza Ucraina: raccolta beni, offerta alloggi e altro",44.017763900000006,10.454430026192636,Toscana,Lucca,"[""Valid/Accettato"",""News"",""Services"",""useful contact"",""materialGoods"",""hospitality""]",,,"{""Posizione"":""44.017763900000006 10.454430026192636"",""description"":""Il Comune di Lucca fa sapere che per le raccolte di beni, al momento servono soprattutto materiali sanitari. E\u2019 importante che il materiale raccolto sia diviso e inscatolato con precise indicazioni del contenuto dei vari colli: nel caso di donazioni di questo tipo il riferimento a cui rivolgersi \u00e8 la Protezione civile: protezionecivile@comune.lucca.it. \n\nPer segnalare invece la disponibilit\u00e0 di alloggi, il riferimento \u00e8 sprar@comune.lucca.it. Le segnalazioni che arriveranno saranno fatte pervenire ai gestori dei Cas per la verifica della situazione degli alloggi, dell\u2019agibilit\u00e0 e della possibilit\u00e0 di usarli effettivamente per l\u2019accoglienza, in modo che la Prefettura possa attivarli.\n\nInoltre l\u2019amministrazione \u00e8 in costante contatto con don Volodymyr Lyupak, sacerdote dell\u2019esarcato apostolico punto di riferimento per i cattolici ucraini di rito bizantino della Toscana e il Segretariato sociale \u00e8 a disposizione per dare informazioni a chi arriva spontaneamente e a chi accoglie spontaneamente nella comunit\u00e0 ucraina. \nQuesti tutti i numeri telefonici ai quali \u00e8 possibile rivolgersi: 0583.442933, 0583.442810 \u2013 334.1122415, 0583.442554 \u2013 334.1121396, 0583.445954 \u2013 335.336509, 0583.442810 \u2013 334.1155320."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/FcF3Ebnfks"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Lucca"",""state"":""Toscana""},""boundingbox"":[""43.7493355"",""44.2861712"",""10.1433617"",""10.7375468""],""class"":""boundary"",""display_name"":""Lucca, Toscana, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7314094070760778,""lat"":""44.017763900000006"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.454430026192636"",""osm_id"":42614,""osm_type"":""relation"",""place_id"":284649472,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Lucca, info e contatti per emergenza Ucraina: raccolta beni, offerta alloggi e altro""}","<pre><yamldata>
 title: 'Lucca, info e contatti per emergenza Ucraina: raccolta beni, offerta alloggi
   e altro'
@@ -7485,53 +7629,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 41.8894698 12.4828691
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/104,1167407569,2022-03-14 16:29:08,2022-03-12 21:35:48,A Roma la Chiesa di Santa Sofia cerca medici e studenti di medicina per selezionare e inscatolare farmaci,41.91169555,12.397510616030669,Lazio,Roma,"[""Valid/Accettato"",""Help"",""healtcare""]",,,"{""Posizione"":""41.91169555 12.397510616030669"",""description"":""A Roma la Chiesa di Santa Sofia cerca medici, specializzandi e studenti di medicina per selezionare e suddividere per tipologie i medicinali raccolti e preparare le scatole da inviare in Ucraina."",""email"":""basilicadisantasofia@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""amenity"":""Basilica di Santa Sofia"",""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""478"",""postcode"":""00166"",""road"":""Via di Boccea"",""state"":""Lazio"",""suburb"":""Municipio Roma XIII""},""boundingbox"":[""41.911607"",""41.9117849"",""12.3973441"",""12.3976718""],""class"":""amenity"",""display_name"":""Basilica di Santa Sofia, 478, Via di Boccea, Municipio Roma XIII, Roma, Roma Capitale, Lazio, 00166, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//place_of_worship_unknown3.p.20.png"",""importance"":0.511,""lat"":""41.91169555"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.397510616030669"",""osm_id"":380373490,""osm_type"":""way"",""place_id"":189984097,""type"":""place_of_worship""},""mode"":""autocomplete""},""nameSurname"":""Basilica di Santa Sofia Roma"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""A Roma la Chiesa di Santa Sofia cerca medici e studenti di medicina per selezionare e inscatolare farmaci"",""url"":""https://www.facebook.com/100000516996321/posts/5658514257509085/""}","<pre><yamldata>
-nameSurname: Basilica di Santa Sofia Roma
-phoneNumber: ''
-email: basilicadisantasofia@gmail.com
-title: A Roma la Chiesa di Santa Sofia cerca medici e studenti di medicina per selezionare
-  e inscatolare farmaci
-recipients: ''
-description: A Roma la Chiesa di Santa Sofia cerca medici, specializzandi e studenti
-  di medicina per selezionare e suddividere per tipologie i medicinali raccolti e
-  preparare le scatole da inviare in Ucraina.
-url: https://www.facebook.com/100000516996321/posts/5658514257509085/
-location:
-  mode: autocomplete
-  address:
-    place_id: 189984097
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 380373490
-    boundingbox:
-    - '41.911607'
-    - '41.9117849'
-    - '12.3973441'
-    - '12.3976718'
-    lat: '41.91169555'
-    lon: '12.397510616030669'
-    display_name: Basilica di Santa Sofia, 478, Via di Boccea, Municipio Roma XIII,
-      Roma, Roma Capitale, Lazio, 00166, Italia
-    class: amenity
-    type: place_of_worship
-    importance: 0.511
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//place_of_worship_unknown3.p.20.png
-    address:
-      amenity: Basilica di Santa Sofia
-      house_number: '478'
-      road: Via di Boccea
-      suburb: Municipio Roma XIII
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      postcode: '00166'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 41.91169555 12.397510616030669
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/133,1168620253,2022-03-14 16:26:01,2022-03-14 16:25:30,"Dipartimento nazionale della Protezione civile, ordinanza sui trasporti per i rifugiati ucraini in Italia",,,,,"[""Valid/Accettato"",""News"",""transport"",""document_data""]",,,"{""description"":""Cittadini provenienti dall\u2019Ucraina potranno viaggiare gratuitamente sul territorio italiano, entro 5 giorni massimo dall\u2019ingresso in Italia, per raggiungere il primo luogo di destinazione o di accoglienza. Lo prevede un\u2019ordinanza del Dipartimento nazionale della Protezione civile. Nel testo anche indicazioni su trattamento dati e altro."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""http://bit.ly/OrdinanzaTrasporti"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Dipartimento nazionale della Protezione civile, ordinanza sui trasporti per i rifugiati ucraini in Italia""}","<pre><yamldata>
 title: Dipartimento nazionale della Protezione civile, ordinanza sui trasporti per
@@ -7975,42 +8072,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/97,1167399966,2022-03-12 22:44:05,2022-03-12 21:03:13,"Genova, info su emergenza Ucraina: raccolta beni, assistenza profughi, alloggi",44.40726,8.9338624,Liguria,Genova,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""materialGoods"",""hospitality"",""healtcare""]",,,"{""Posizione"":""44.40726 8.9338624"",""description"":""Al link varie info su emergenza Ucraina per chi vive a Genova e per i rifugiati che sono giunti in citt\u00e0: raccolta beni, assistenza profughi, alloggi e altro."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""http://dlvr.it/SL187L"",""location"":{""address"":{""address"":{""city"":""Genova"",""country"":""Italia"",""country_code"":""it"",""county"":""Genova"",""state"":""Liguria""},""boundingbox"":[""44.3784709"",""44.5198419"",""8.6657444"",""9.0955805""],""class"":""boundary"",""display_name"":""Genova, Liguria, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7921779665930816,""lat"":""44.40726"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.9338624"",""osm_id"":44875,""osm_type"":""relation"",""place_id"":283489351,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Genova, info su emergenza Ucraina: raccolta beni, assistenza profughi, alloggi""}","<pre><yamldata>
-title: 'Genova, info su emergenza Ucraina: raccolta beni, assistenza profughi, alloggi'
-description: 'Al link varie info su emergenza Ucraina per chi vive a Genova e per
-  i rifugiati che sono giunti in città: raccolta beni, assistenza profughi, alloggi
-  e altro.'
-link: http://dlvr.it/SL187L
-location:
-  mode: autocomplete
-  address:
-    place_id: 283489351
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 44875
-    boundingbox:
-    - '44.3784709'
-    - '44.5198419'
-    - '8.6657444'
-    - '9.0955805'
-    lat: '44.40726'
-    lon: '8.9338624'
-    display_name: Genova, Liguria, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7921779665930816
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Genova
-      county: Genova
-      state: Liguria
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 44.40726 8.9338624
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/93,1167383724,2022-03-12 22:41:40,2022-03-12 19:59:46,Ospedale San Paolo Milano offre supporto sanitario a rifugiate ucraine in gravidanza,,,,,"[""Valid/Accettato"",""Services"",""healtcare"",""women""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Ospedale San Paolo"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20142"",""quarter"":""Barona"",""road"":""Via Antonio di Rudin\u00ec"",""state"":""Lombardia"",""suburb"":""Barona""},""boundingbox"":[""45.4331889"",""45.43522"",""9.1587933"",""9.1608926""],""class"":""amenity"",""display_name"":""Ospedale San Paolo, Via Antonio di Rudin\u00ec, Barona, Milano, Lombardia, 20142, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//health_hospital.p.20.png"",""importance"":0.6373544917529019,""lat"":""45.43415665"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.159426508616571"",""osm_id"":24694987,""osm_type"":""way"",""place_id"":108024252,""type"":""hospital""},""mode"":""autocomplete""},""description"":""Ospedale San Paolo Milano offre supporto sanitario alle donne ucraine rifugiate in gravidanza. \nTel. 02 81843875"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ospedale San Paolo Milano"",""recipients"":""Donne rifugiate ucraine incinte"",""submit"":true,""title"":""Ospedale San Paolo Milano offre supporto sanitario alle donne ucraine rifugiate in gravidanza"",""type"":""healthcare"",""url"":""https://www.facebook.com/groups/ukraineinfo.help/permalink/455973459604941/?sfnsn=scwspmo&ref=share""}","<pre><yamldata>
 type: healthcare
 offerFromWho: Ospedale San Paolo Milano
@@ -8049,67 +8110,6 @@ address:
       county: Milano
       state: Lombardia
       postcode: '20142'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/92,1167382848,2022-03-12 22:40:53,2022-03-12 19:55:35,Ospedale Buzzi Milano offre visite gratuite a donne ucraine incinte,,,,,"[""Valid/Accettato"",""Services"",""healtcare"",""women""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Ospedale dei Bambini \""Vittore Buzzi\"""",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""28"",""postcode"":""20154"",""quarter"":""Sarpi"",""road"":""Via Lodovico Castelvetro"",""state"":""Lombardia"",""suburb"":""Municipio 8""},""boundingbox"":[""45.4848213"",""45.4865785"",""9.1653918"",""9.1678818""],""class"":""amenity"",""display_name"":""Ospedale dei Bambini \""Vittore Buzzi\"", 28, Via Lodovico Castelvetro, Sarpi, Municipio 8, Milano, Lombardia, 20154, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//health_hospital.p.20.png"",""importance"":0.31100000000000005,""lat"":""45.4858443"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.166968895924526"",""osm_id"":478299137,""osm_type"":""way"",""place_id"":208609040,""type"":""hospital""},""mode"":""autocomplete""},""description"":""Presso l'Ospedale dei Bambini \""Vittore Buzzi\"", a Milano in: Via Lodovico Castelvetro 32. Padiglione C, Piano -1, Spazio IV trimestre, ogni gioved\u00ec dalle 13:30 alle 15:30 ci sar\u00e0 una visita gratuita per le donne incinta costrette ad abbandonare le loro case a causa della guerra in Ucraina. Il nostro ospedale \u00e8 pronto ad assistere nella gestione completa di una gravidanza. Verr\u00e0 effettuata la prima visita e rilasciato il codice STP del sistema sanitario nazionale, per la successiva gestione gratuita della gravidanza (con una gamma completa di test ed ecografie), del parto e del periodo postpartum. \nNumero di telefono per informazioni dettagliate: 02 6363.6023 / 5213.\n\n\u0423 \u0433\u043e\u0441\u043f\u0456\u0442\u0430\u043b\u0456 Ospedale dei Bambini \""Vittore Buzzi\"" , \u044f\u043a\u0438\u0439 \u0437\u043d\u0430\u0445\u043e\u0434\u0438\u0442\u044c\u0441\u044f \u0432 \u041c\u0456\u043b\u0430\u043d\u0456 \u0437\u0430 \u0430\u0434\u0440\u0435\u0441\u043e\u044e: Via Lodovico Castelvetro 32. \u041f\u0430\u0432\u0456\u043b\u044c\u0439\u043e\u043d \u0421, \u041f\u043e\u0432\u0435\u0440\u0445-1, Spazio IV trimestre \u041a\u043e\u0436\u0435\u043d \u0447\u0435\u0442\u0432\u0435\u0440 \u0437 13:30 \u0434\u043e 15:30 \u0431\u0443\u0434\u0435 \u0432\u0435\u0441\u0442\u0438\u0441\u044c \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u0438\u0439 \u043f\u0440\u0438\u0439\u043e\u043c \u0434\u043b\u044f \u0432\u0430\u0433\u0456\u0442\u043d\u0438\u0445 \u0436\u0456\u043d\u043e\u043a, \u044f\u043a\u0456 \u0447\u0435\u0440\u0435\u0437 \u0432\u0456\u0439\u043d\u0443 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456 \u0437\u043c\u0443\u0448\u0435\u043d\u0456 \u0431\u0443\u043b\u0438 \u043f\u043e\u043a\u0438\u043d\u0443\u0442\u0438 \u0441\u0432\u043e\u0457 \u0434\u043e\u043c\u0456\u0432\u043a\u0438. \u041d\u0430\u0448 \u0433\u043e\u0441\u043f\u0456\u0442\u0430\u043b\u044c \u0433\u043e\u0442\u043e\u0432\u0438\u0439 \u043d\u0430\u0434\u0430\u0442\u0438 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0443 \u0443 \u0432\u0435\u0434\u0435\u043d\u043d\u0456 \u043f\u043e\u0432\u043d\u043e\u0433\u043e \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441\u0443 \u0432\u0430\u0433\u0456\u0442\u043d\u043e\u0441\u0442\u0456. \u0411\u0443\u0434\u0435  \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0439 \u043f\u0435\u0440\u0448\u0438\u0439 \u043e\u0433\u043b\u044f\u0434 \u0456 \u0432\u0438\u0434\u0430\u043d\u0438\u0439 \u043a\u043e\u0434 STP \u043d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0457 \u0441\u0438\u0441\u0442\u0435\u043c\u0438 \u043e\u0445\u043e\u0440\u043e\u043d\u0438 \u0437\u0434\u043e\u0440\u043e\u0432'\u044f, \u0434\u043b\u044f \u0431\u0435\u0437\u043e\u043f\u043b\u0430\u0442\u043d\u043e\u0457 \u043f\u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0438 \u043d\u0430 \u043e\u0431\u043b\u0456\u043a \u0456 \u043f\u043e\u0434\u0430\u043b\u044c\u0448\u043e\u0433\u043e \u0432\u0435\u0434\u0435\u043d\u043d\u044f \u0432\u0430\u0433\u0456\u0442\u043d\u043e\u0441\u0442\u0456( \u0437 \u043f\u043e\u0432\u043d\u0438\u043c \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441\u043e\u043c  \u0430\u043d\u0430\u043b\u0456\u0437\u0456\u0432 \u0442\u0430 \u0443\u0437\u0456) , \u043f\u043e\u043b\u043e\u0433\u0456\u0432 \u0442\u0430 \u043f\u0456\u0441\u043b\u044f\u043f\u043e\u043b\u043e\u0433\u043e\u0432\u043e\u0433\u043e \u043f\u0435\u0440\u0456\u043e\u0434\u0443. \u041d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443 \u0434\u043b\u044f \u0434\u0435\u0442\u0430\u043b\u044c\u043d\u043e\u0457 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u0457: 02 6363.6023/5213.\n\nLa nostra Associazione mette a disposizione delle donne quanto necessario per la gravidanza, gentilmente offerto dai tanti amici che in questa settimana si sono presentati in OBM."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ospedale Buzzi Milano"",""recipients"":""donne ucraine incinte"",""submit"":true,""title"":""Ospedale Buzzi Milano offre visite gratuite a donne ucraine incinte"",""type"":""healthcare"",""url"":""https://www.facebook.com/400453129313/posts/10160275267644314/?sfnsn=scwspmo""}","<pre><yamldata>
-type: healthcare
-offerFromWho: Ospedale Buzzi Milano
-title: Ospedale Buzzi Milano offre visite gratuite a donne ucraine incinte
-recipients: donne ucraine incinte
-description: ""Presso l'Ospedale dei Bambini \""Vittore Buzzi\"", a Milano in: Via Lodovico\
-  \ Castelvetro 32. Padiglione C, Piano -1, Spazio IV trimestre, ogni giovedì dalle\
-  \ 13:30 alle 15:30 ci sarà una visita gratuita per le donne incinta costrette ad\
-  \ abbandonare le loro case a causa della guerra in Ucraina. Il nostro ospedale è\
-  \ pronto ad assistere nella gestione completa di una gravidanza. Verrà effettuata\
-  \ la prima visita e rilasciato il codice STP del sistema sanitario nazionale, per\
-  \ la successiva gestione gratuita della gravidanza (con una gamma completa di test\
-  \ ed ecografie), del parto e del periodo postpartum. \nNumero di telefono per informazioni\
-  \ dettagliate: 02 6363.6023 / 5213.\n\nУ госпіталі Ospedale dei Bambini \""Vittore\
-  \ Buzzi\"" , який знаходиться в Мілані за адресою: Via Lodovico Castelvetro 32. Павільйон\
-  \ С, Поверх-1, Spazio IV trimestre Кожен четвер з 13:30 до 15:30 буде вестись безкоштовний\
-  \ прийом для вагітних жінок, які через війну в Україні змушені були покинути свої\
-  \ домівки. Наш госпіталь готовий надати допомогу у веденні повного комплексу вагітності.\
-  \ Буде  проведений перший огляд і виданий код STP національної системи охорони здоров'я,\
-  \ для безоплатної постановки на облік і подальшого ведення вагітності( з повним\
-  \ комплексом  аналізів та узі) , пологів та післяпологового періоду. Номер телефону\
-  \ для детальної інформації: 02 6363.6023/5213.\n\nLa nostra Associazione mette a\
-  \ disposizione delle donne quanto necessario per la gravidanza, gentilmente offerto\
-  \ dai tanti amici che in questa settimana si sono presentati in OBM.""
-url: https://www.facebook.com/400453129313/posts/10160275267644314/?sfnsn=scwspmo
-address:
-  mode: autocomplete
-  address:
-    place_id: 208609040
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 478299137
-    boundingbox:
-    - '45.4848213'
-    - '45.4865785'
-    - '9.1653918'
-    - '9.1678818'
-    lat: '45.4858443'
-    lon: '9.166968895924526'
-    display_name: Ospedale dei Bambini ""Vittore Buzzi"", 28, Via Lodovico Castelvetro,
-      Sarpi, Municipio 8, Milano, Lombardia, 20154, Italia
-    class: amenity
-    type: hospital
-    importance: 0.31100000000000005
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//health_hospital.p.20.png
-    address:
-      amenity: Ospedale dei Bambini ""Vittore Buzzi""
-      house_number: '28'
-      road: Via Lodovico Castelvetro
-      quarter: Sarpi
-      suburb: Municipio 8
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20154'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
