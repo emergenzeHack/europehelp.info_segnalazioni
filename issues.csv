@@ -1,4 +1,149 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/158,1171105306,2022-03-22 10:02:05,2022-03-16 14:30:37,Contatti telefonici di Croce Rossa Ucraina per la ricerca di familiari dispersi a causa del conflitto,49.4871968,31.2718321,,,"[""Valid/Accettato"",""News"",""Services"",""useful contact"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""49.4871968 31.2718321"",""description"":""Nel caso in cui perdiate i contatti con i vostri cari, potete contattare il servizio di ricerca della Croce Rossa dell'Ucraina ai numeri sotto indicati:\n\u25ab\ufe0fKiev 096 304 4375, 066 250 9957\n\u25ab\ufe0fLviv 095 250 1274\n\u25ab\ufe0fKharkiv 099 206 5493\n\u25ab\ufe0fDnipro 095 250 1181\n\u25ab\ufe0fKramatorsk 095 250 1229"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.facebook.com/groups/ukrainehelpit/permalink/458942835974670/"",""location"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""44.184598"",""52.3797464"",""22.137059"",""40.2275801""],""class"":""boundary"",""display_name"":""Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8164442439164168,""lat"":""49.4871968"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""31.2718321"",""osm_id"":60199,""osm_type"":""relation"",""place_id"":283553033,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Contatti telefonici di Croce Rossa Ucraina per la ricerca di familiari dispersi""}","<pre><yamldata>
+title: Contatti telefonici di Croce Rossa Ucraina per la ricerca di familiari dispersi
+description: 'Nel caso in cui perdiate i contatti con i vostri cari, potete contattare
+  il servizio di ricerca della Croce Rossa dell''Ucraina ai numeri sotto indicati:
+
+  ▫️Kiev 096 304 4375, 066 250 9957
+
+  ▫️Lviv 095 250 1274
+
+  ▫️Kharkiv 099 206 5493
+
+  ▫️Dnipro 095 250 1181
+
+  ▫️Kramatorsk 095 250 1229'
+link: https://www.facebook.com/groups/ukrainehelpit/permalink/458942835974670/
+location:
+  mode: autocomplete
+  address:
+    place_id: 283553033
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 60199
+    boundingbox:
+    - '44.184598'
+    - '52.3797464'
+    - '22.137059'
+    - '40.2275801'
+    lat: '49.4871968'
+    lon: '31.2718321'
+    display_name: Ucraina
+    class: boundary
+    type: administrative
+    importance: 0.8164442439164168
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      country: Ucraina
+      country_code: ua
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 49.4871968 31.2718321
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/162,1171137950,2022-03-22 10:01:16,2022-03-16 14:55:57,Raccolta fondi di Brigate volontarie per l’emergenza (Milano) per portare aiuti umanitari al confine polacco-ucraino,45.45338155,9.181942044940254,Lombardia,Milano,"[""Valid/Accettato"",""fundraising"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.45338155 9.181942044940254"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""Tra pochi giorni partir\u00e0 un primo convoglio di supporto umanitario organizzato da BVE e diretto verso il confine tra Polonia e Ucraina per andare a dare il nostro contributo.\nSiamo in stretto contatto con attivisti sul terreno \u2013 nostri fratelli e sorelle \u2013 e sappiamo cosa stiamo facendo, dove e a chi stiamo portando i nostri aiuti. Abbiamo indicazioni precise sulle necessit\u00e0 pi\u00f9 impellenti.\nVi invitiamo a contribuire all\u2019IBAN IT52T0521601616000000002472, oppure tramite Paypal al link https://www.brigatevolontarie.org/cosa-puoi-fare/sostieni/\nGrazie al vostro sostegno potremo comprare il materiale pi\u00f9 necessario e organizzare il trasporto."",""email"":""info@brigatevolontarie.org"",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT52T0521601616000000002472"",""label"":""fundraising"",""link"":""https://www.brigatevolontarie.org/cosa-facciamo/emergenze/campagna-ucraina/"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""19"",""office"":""Casa Emergency"",""postcode"":""20136"",""quarter"":""Ticinese"",""road"":""Via Santa Croce"",""state"":""Lombardia"",""suburb"":""Municipio 1""},""boundingbox"":[""45.4532434"",""45.453506"",""9.181625"",""9.1822541""],""class"":""office"",""display_name"":""Casa Emergency, 19, Via Santa Croce, Ticinese, Municipio 1, Milano, Lombardia, 20136, Italia"",""importance"":0.5209999999999999,""lat"":""45.45338155"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.181942044940254"",""osm_id"":500699143,""osm_type"":""way"",""place_id"":210921399,""type"":""ngo""},""mode"":""autocomplete""},""submit"":true,""title"":""Raccolta fondi di Brigate volontarie per l\u2019emergenza Milano""}","<pre><yamldata>
+title: Raccolta fondi di Brigate volontarie per l’emergenza Milano
+description: 'Tra pochi giorni partirà un primo convoglio di supporto umanitario organizzato
+  da BVE e diretto verso il confine tra Polonia e Ucraina per andare a dare il nostro
+  contributo.
+
+  Siamo in stretto contatto con attivisti sul terreno – nostri fratelli e sorelle
+  – e sappiamo cosa stiamo facendo, dove e a chi stiamo portando i nostri aiuti. Abbiamo
+  indicazioni precise sulle necessità più impellenti.
+
+  Vi invitiamo a contribuire all’IBAN IT52T0521601616000000002472, oppure tramite
+  Paypal al link https://www.brigatevolontarie.org/cosa-puoi-fare/sostieni/
+
+  Grazie al vostro sostegno potremo comprare il materiale più necessario e organizzare
+  il trasporto.'
+heading: ''
+iban: IT52T0521601616000000002472
+bicSwift: ''
+ccPostal: ''
+causal: ''
+link: https://www.brigatevolontarie.org/cosa-facciamo/emergenze/campagna-ucraina/
+email: info@brigatevolontarie.org
+location:
+  mode: autocomplete
+  address:
+    place_id: 210921399
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 500699143
+    boundingbox:
+    - '45.4532434'
+    - '45.453506'
+    - '9.181625'
+    - '9.1822541'
+    lat: '45.45338155'
+    lon: '9.181942044940254'
+    display_name: Casa Emergency, 19, Via Santa Croce, Ticinese, Municipio 1, Milano,
+      Lombardia, 20136, Italia
+    class: office
+    type: ngo
+    importance: 0.5209999999999999
+    address:
+      office: Casa Emergency
+      house_number: '19'
+      road: Via Santa Croce
+      quarter: Ticinese
+      suburb: Municipio 1
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20136'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+Posizione: 45.45338155 9.181942044940254
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/164,1171160990,2022-03-22 10:01:00,2022-03-16 15:13:43,Kyiv Pride e Insight Ukraine lanciano la raccolta fondi online “All Out” per sostenere le persone Lgbtqi,49.4871968,31.2718321,,,"[""Valid/Accettato"",""fundraising"",""telegram-channel"",""tweet"",""Lgbtqi""]",,,"{""Posizione"":""49.4871968 31.2718321"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""La comunit\u00e0 LGBT+ era gi\u00e0 vulnerabile prima dell'attacco, e ora \u00e8 ancora pi\u00f9 a rischio di abusi dei diritti umani da parte delle truppe russe. Scappare \u00e8 difficile e le condizioni sono caotiche. \nKyiv Pride, Insight Ukraine e altre organizzazioni partner stanno offrendo il loro supporto per trasferire le persone LGBT+ al sicuro fuori dal paese e fornire risorse essenziali a coloro che devono rimanere. \nI prossimi giorni sono cruciali. Ogni donazione aiuter\u00e0 a salvare delle vite e a fornire protezione. \nAiuta le organizzazioni LGBT+ locali a offrire sicurezza, rifugio e supporto alle persone LGBT+ ucraine ora!"",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":""https://campaigns.allout.org/it/ukraine-fundraiser?akid=62057.5443126.rnu_pE&one_time=20&preselected=1&rd=1&t=1&utm_campaign=ukraine-fundraiser&utm_medium=email&utm_source=email"",""location"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""44.184598"",""52.3797464"",""22.137059"",""40.2275801""],""class"":""boundary"",""display_name"":""Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9264442439164168,""lat"":""49.4871968"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""31.2718321"",""osm_id"":60199,""osm_type"":""relation"",""place_id"":283553033,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Kyiv Pride e Insight Ukraine lanciano online una raccolta fondi \u201cAll Out\u201d per sostenere le persone Lgbtqi in Ucraina""}","<pre><yamldata>
+title: Kyiv Pride e Insight Ukraine lanciano online una raccolta fondi “All Out” per
+  sostenere le persone Lgbtqi in Ucraina
+description: ""La comunità LGBT+ era già vulnerabile prima dell'attacco, e ora è ancora\
+  \ più a rischio di abusi dei diritti umani da parte delle truppe russe. Scappare\
+  \ è difficile e le condizioni sono caotiche. \nKyiv Pride, Insight Ukraine e altre\
+  \ organizzazioni partner stanno offrendo il loro supporto per trasferire le persone\
+  \ LGBT+ al sicuro fuori dal paese e fornire risorse essenziali a coloro che devono\
+  \ rimanere. \nI prossimi giorni sono cruciali. Ogni donazione aiuterà a salvare\
+  \ delle vite e a fornire protezione. \nAiuta le organizzazioni LGBT+ locali a offrire\
+  \ sicurezza, rifugio e supporto alle persone LGBT+ ucraine ora!""
+heading: ''
+iban: ''
+bicSwift: ''
+ccPostal: ''
+causal: ''
+link: https://campaigns.allout.org/it/ukraine-fundraiser?akid=62057.5443126.rnu_pE&one_time=20&preselected=1&rd=1&t=1&utm_campaign=ukraine-fundraiser&utm_medium=email&utm_source=email
+email: ''
+location:
+  mode: autocomplete
+  address:
+    place_id: 283553033
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 60199
+    boundingbox:
+    - '44.184598'
+    - '52.3797464'
+    - '22.137059'
+    - '40.2275801'
+    lat: '49.4871968'
+    lon: '31.2718321'
+    display_name: Ucraina
+    class: boundary
+    type: administrative
+    importance: 0.9264442439164168
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      country: Ucraina
+      country_code: ua
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+Posizione: 49.4871968 31.2718321
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/248,1174675218,2022-03-22 09:51:59,2022-03-20 20:29:08,"A Pavia associazione Amici della mongolfiera cerca volontari per attività di supporto a donne, bambini e adolescenti ucraini rifugiati",45.1909364,9.1614949,Lombardia,Pavia,"[""Valid/Accettato"",""Help"",""Children"",""women"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.1909364 9.1614949"",""description"":""L'associazione sta accogliendo numerose donne, bambini e adolescenti ucraini e cerca volontari maggiorenni che possano dare una mano nelle seguenti attivit\u00e0:\nsupporto durante i corsi di italiano per donne straniere (gioved\u00ec mattina dalle 10 alle 12 in Corso Garibaldi 20/N a Pavia) e le attivit\u00e0 di conoscenza del territorio (giorni e orari da concordare);\naiuto compiti, mercoled\u00ec e venerd\u00ec pomeriggio presso il Circolo ARCI Via D\u2019Acqua, in Viale Bligny 83:\ndalle 14.30 alle 16.30 per gli studenti di scuola media e superiore;\ndalle 16.30 alle 18.00 per gli studenti della scuola elementare.\naffiancamento ai bambini ucraini nell'inserimento a scuola."",""email"":""amicimongolfiera@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""amenity"":""Circolo Via d'acqua (ARCI)"",""city"":""Pavia"",""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""house_number"":""83"",""postcode"":""27100"",""road"":""Viale Bligny"",""state"":""Lombardia"",""suburb"":""Citt\u00e0 Giardino""},""boundingbox"":[""45.1908864"",""45.1909864"",""9.1614449"",""9.1615449""],""class"":""amenity"",""display_name"":""Circolo Via d'acqua (ARCI), 83, Viale Bligny, Citt\u00e0 Giardino, Pavia, Lombardia, 27100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//food_restaurant.p.20.png"",""importance"":0.411,""lat"":""45.1909364"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1614949"",""osm_id"":2882416108,""osm_type"":""node"",""place_id"":33708904,""type"":""restaurant""},""mode"":""autocomplete""},""nameSurname"":""Amici della Mongolfiera"",""phoneNumber"":""+393802193536 - +39038221970"",""recipients"":"""",""submit"":true,""title"":""volontari"",""url"":""https://www.csvlombardia.it/pavia/pv-per-i-cittadini/pv-per-i-cittadini-volontariato-cercasi/post/amici-della-mongolfiera-cerca-volontari-per-gestione-emergenza-ucraina-pavia/""}","<pre><yamldata>
 nameSurname: Amici della Mongolfiera
 phoneNumber: +393802193536 - +39038221970
@@ -6242,64 +6387,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/162,1171137950,2022-03-16 18:46:00,2022-03-16 14:55:57,Raccolta fondi di Brigate volontarie per l’emergenza (Milano) per portare aiuti umanitari al confine polacco-ucraino,45.45338155,9.181942044940254,Lombardia,Milano,"[""Valid/Accettato"",""fundraising""]",,,"{""Posizione"":""45.45338155 9.181942044940254"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""Tra pochi giorni partir\u00e0 un primo convoglio di supporto umanitario organizzato da BVE e diretto verso il confine tra Polonia e Ucraina per andare a dare il nostro contributo.\nSiamo in stretto contatto con attivisti sul terreno \u2013 nostri fratelli e sorelle \u2013 e sappiamo cosa stiamo facendo, dove e a chi stiamo portando i nostri aiuti. Abbiamo indicazioni precise sulle necessit\u00e0 pi\u00f9 impellenti.\nVi invitiamo a contribuire all\u2019IBAN IT52T0521601616000000002472, oppure tramite Paypal al link https://www.brigatevolontarie.org/cosa-puoi-fare/sostieni/\nGrazie al vostro sostegno potremo comprare il materiale pi\u00f9 necessario e organizzare il trasporto."",""email"":""info@brigatevolontarie.org"",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT52T0521601616000000002472"",""label"":""fundraising"",""link"":""https://www.brigatevolontarie.org/cosa-facciamo/emergenze/campagna-ucraina/"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""19"",""office"":""Casa Emergency"",""postcode"":""20136"",""quarter"":""Ticinese"",""road"":""Via Santa Croce"",""state"":""Lombardia"",""suburb"":""Municipio 1""},""boundingbox"":[""45.4532434"",""45.453506"",""9.181625"",""9.1822541""],""class"":""office"",""display_name"":""Casa Emergency, 19, Via Santa Croce, Ticinese, Municipio 1, Milano, Lombardia, 20136, Italia"",""importance"":0.5209999999999999,""lat"":""45.45338155"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.181942044940254"",""osm_id"":500699143,""osm_type"":""way"",""place_id"":210921399,""type"":""ngo""},""mode"":""autocomplete""},""submit"":true,""title"":""Raccolta fondi di Brigate volontarie per l\u2019emergenza Milano""}","<pre><yamldata>
-title: Raccolta fondi di Brigate volontarie per l’emergenza Milano
-description: 'Tra pochi giorni partirà un primo convoglio di supporto umanitario organizzato
-  da BVE e diretto verso il confine tra Polonia e Ucraina per andare a dare il nostro
-  contributo.
-
-  Siamo in stretto contatto con attivisti sul terreno – nostri fratelli e sorelle
-  – e sappiamo cosa stiamo facendo, dove e a chi stiamo portando i nostri aiuti. Abbiamo
-  indicazioni precise sulle necessità più impellenti.
-
-  Vi invitiamo a contribuire all’IBAN IT52T0521601616000000002472, oppure tramite
-  Paypal al link https://www.brigatevolontarie.org/cosa-puoi-fare/sostieni/
-
-  Grazie al vostro sostegno potremo comprare il materiale più necessario e organizzare
-  il trasporto.'
-heading: ''
-iban: IT52T0521601616000000002472
-bicSwift: ''
-ccPostal: ''
-causal: ''
-link: https://www.brigatevolontarie.org/cosa-facciamo/emergenze/campagna-ucraina/
-email: info@brigatevolontarie.org
-location:
-  mode: autocomplete
-  address:
-    place_id: 210921399
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 500699143
-    boundingbox:
-    - '45.4532434'
-    - '45.453506'
-    - '9.181625'
-    - '9.1822541'
-    lat: '45.45338155'
-    lon: '9.181942044940254'
-    display_name: Casa Emergency, 19, Via Santa Croce, Ticinese, Municipio 1, Milano,
-      Lombardia, 20136, Italia
-    class: office
-    type: ngo
-    importance: 0.5209999999999999
-    address:
-      office: Casa Emergency
-      house_number: '19'
-      road: Via Santa Croce
-      quarter: Ticinese
-      suburb: Municipio 1
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20136'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: fundraising
-submit: true
-Posizione: 45.45338155 9.181942044940254
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/170,1171344558,2022-03-16 18:17:16,2022-03-16 17:41:51,Sul sito della Commissione Europea pagina di info utili per i rifugiati ucraini,,,,,"[""Valid/Accettato"",""News"",""Legal""]",,,"{""description"":""Onlinr Umuna pagina ufficiale della Commissione Europea con informazioni utili per chi arriva dall'Ucraina, in pi\u00f9 lingue: trasporti, documenti necessari, diritti e altro."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://ec.europa.eu/info/strategy/priorities-2019-2024/stronger-europe-world/eu-solidarity-ukraine/eu-assistance-ukraine/information-people-fleeing-war-ukraine_en#onward-travel-in-the-eu"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Sul sito della Commissione Europea pagina di info utili per i rifugiati ucraini""}","<pre><yamldata>
 title: Sul sito della Commissione Europea pagina di info utili per i rifugiati ucraini
 description: 'Onlinr Umuna pagina ufficiale della Commissione Europea con informazioni
@@ -6339,93 +6426,6 @@ location:
     class: boundary
     type: administrative
     importance: 0.9264442439164168
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      country: Ucraina
-      country_code: ua
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 49.4871968 31.2718321
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/164,1171160990,2022-03-16 15:59:25,2022-03-16 15:13:43,Kyiv Pride e Insight Ukraine lanciano la raccolta fondi online “All Out” per sostenere le persone Lgbtqi,49.4871968,31.2718321,,,"[""Valid/Accettato"",""fundraising"",""Lgbtqi""]",,,"{""Posizione"":""49.4871968 31.2718321"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""La comunit\u00e0 LGBT+ era gi\u00e0 vulnerabile prima dell'attacco, e ora \u00e8 ancora pi\u00f9 a rischio di abusi dei diritti umani da parte delle truppe russe. Scappare \u00e8 difficile e le condizioni sono caotiche. \nKyiv Pride, Insight Ukraine e altre organizzazioni partner stanno offrendo il loro supporto per trasferire le persone LGBT+ al sicuro fuori dal paese e fornire risorse essenziali a coloro che devono rimanere. \nI prossimi giorni sono cruciali. Ogni donazione aiuter\u00e0 a salvare delle vite e a fornire protezione. \nAiuta le organizzazioni LGBT+ locali a offrire sicurezza, rifugio e supporto alle persone LGBT+ ucraine ora!"",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":""https://campaigns.allout.org/it/ukraine-fundraiser?akid=62057.5443126.rnu_pE&one_time=20&preselected=1&rd=1&t=1&utm_campaign=ukraine-fundraiser&utm_medium=email&utm_source=email"",""location"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""44.184598"",""52.3797464"",""22.137059"",""40.2275801""],""class"":""boundary"",""display_name"":""Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9264442439164168,""lat"":""49.4871968"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""31.2718321"",""osm_id"":60199,""osm_type"":""relation"",""place_id"":283553033,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Kyiv Pride e Insight Ukraine lanciano online una raccolta fondi \u201cAll Out\u201d per sostenere le persone Lgbtqi in Ucraina""}","<pre><yamldata>
-title: Kyiv Pride e Insight Ukraine lanciano online una raccolta fondi “All Out” per
-  sostenere le persone Lgbtqi in Ucraina
-description: ""La comunità LGBT+ era già vulnerabile prima dell'attacco, e ora è ancora\
-  \ più a rischio di abusi dei diritti umani da parte delle truppe russe. Scappare\
-  \ è difficile e le condizioni sono caotiche. \nKyiv Pride, Insight Ukraine e altre\
-  \ organizzazioni partner stanno offrendo il loro supporto per trasferire le persone\
-  \ LGBT+ al sicuro fuori dal paese e fornire risorse essenziali a coloro che devono\
-  \ rimanere. \nI prossimi giorni sono cruciali. Ogni donazione aiuterà a salvare\
-  \ delle vite e a fornire protezione. \nAiuta le organizzazioni LGBT+ locali a offrire\
-  \ sicurezza, rifugio e supporto alle persone LGBT+ ucraine ora!""
-heading: ''
-iban: ''
-bicSwift: ''
-ccPostal: ''
-causal: ''
-link: https://campaigns.allout.org/it/ukraine-fundraiser?akid=62057.5443126.rnu_pE&one_time=20&preselected=1&rd=1&t=1&utm_campaign=ukraine-fundraiser&utm_medium=email&utm_source=email
-email: ''
-location:
-  mode: autocomplete
-  address:
-    place_id: 283553033
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 60199
-    boundingbox:
-    - '44.184598'
-    - '52.3797464'
-    - '22.137059'
-    - '40.2275801'
-    lat: '49.4871968'
-    lon: '31.2718321'
-    display_name: Ucraina
-    class: boundary
-    type: administrative
-    importance: 0.9264442439164168
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      country: Ucraina
-      country_code: ua
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: fundraising
-submit: true
-Posizione: 49.4871968 31.2718321
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/158,1171105306,2022-03-16 15:53:50,2022-03-16 14:30:37,Contatti telefonici di Croce Rossa Ucraina per la ricerca di familiari dispersi,49.4871968,31.2718321,,,"[""Valid/Accettato"",""News"",""Services"",""useful contact""]",,,"{""Posizione"":""49.4871968 31.2718321"",""description"":""Nel caso in cui perdiate i contatti con i vostri cari, potete contattare il servizio di ricerca della Croce Rossa dell'Ucraina ai numeri sotto indicati:\n\u25ab\ufe0fKiev 096 304 4375, 066 250 9957\n\u25ab\ufe0fLviv 095 250 1274\n\u25ab\ufe0fKharkiv 099 206 5493\n\u25ab\ufe0fDnipro 095 250 1181\n\u25ab\ufe0fKramatorsk 095 250 1229"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.facebook.com/groups/ukrainehelpit/permalink/458942835974670/"",""location"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""44.184598"",""52.3797464"",""22.137059"",""40.2275801""],""class"":""boundary"",""display_name"":""Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8164442439164168,""lat"":""49.4871968"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""31.2718321"",""osm_id"":60199,""osm_type"":""relation"",""place_id"":283553033,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Contatti telefonici di Croce Rossa Ucraina per la ricerca di familiari dispersi""}","<pre><yamldata>
-title: Contatti telefonici di Croce Rossa Ucraina per la ricerca di familiari dispersi
-description: 'Nel caso in cui perdiate i contatti con i vostri cari, potete contattare
-  il servizio di ricerca della Croce Rossa dell''Ucraina ai numeri sotto indicati:
-
-  ▫️Kiev 096 304 4375, 066 250 9957
-
-  ▫️Lviv 095 250 1274
-
-  ▫️Kharkiv 099 206 5493
-
-  ▫️Dnipro 095 250 1181
-
-  ▫️Kramatorsk 095 250 1229'
-link: https://www.facebook.com/groups/ukrainehelpit/permalink/458942835974670/
-location:
-  mode: autocomplete
-  address:
-    place_id: 283553033
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 60199
-    boundingbox:
-    - '44.184598'
-    - '52.3797464'
-    - '22.137059'
-    - '40.2275801'
-    lat: '49.4871968'
-    lon: '31.2718321'
-    display_name: Ucraina
-    class: boundary
-    type: administrative
-    importance: 0.8164442439164168
     icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
     address:
       country: Ucraina
