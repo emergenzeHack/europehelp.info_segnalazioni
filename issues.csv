@@ -1,4 +1,163 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/272,1176006734,2022-03-22 21:29:56,2022-03-21 22:14:48,A Roma la Parrocchia Santa Maria delle Grazie organizza scuola ucraina e corsi di lingua italiana per profughi ucraini,,,,,"[""Valid/Accettato"",""Services"",""translation""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Santa Maria delle Grazie al Trionfale"",""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""5"",""postcode"":""00136"",""road"":""Piazza Santa Maria delle Grazie"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.9068563"",""41.9073277"",""12.4486098"",""12.4493045""],""class"":""amenity"",""display_name"":""Santa Maria delle Grazie al Trionfale, 5, Piazza Santa Maria delle Grazie, Municipio Roma I, Roma, Roma Capitale, Lazio, 00136, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//place_of_worship_unknown3.p.20.png"",""importance"":1.0365480119372577,""lat"":""41.907095049999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.448959748467473"",""osm_id"":137178554,""osm_type"":""way"",""place_id"":132738508,""type"":""place_of_worship""},""mode"":""autocomplete""},""description"":""Corsi di lingua italiana e scuola ucraina per bambini e adulti. Da luned\u00ec 21 marzo alle ore 9.00 in Piazza santa Maria delle Grazie 5, fermata metro Cipro, Roma"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Parrocchia Santa Maria delle Grazie, Roma"",""recipients"":""bambini e adulti"",""submit"":true,""title"":""Corsi di lingua italiana e scuola ucraina - Roma"",""type"":""translation"",""url"":""""}","<pre><yamldata>
+type: translation
+offerFromWho: Parrocchia Santa Maria delle Grazie, Roma
+title: Corsi di lingua italiana e scuola ucraina - Roma
+recipients: bambini e adulti
+description: Corsi di lingua italiana e scuola ucraina per bambini e adulti. Da lunedì
+  21 marzo alle ore 9.00 in Piazza santa Maria delle Grazie 5, fermata metro Cipro,
+  Roma
+url: ''
+address:
+  mode: autocomplete
+  address:
+    place_id: 132738508
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 137178554
+    boundingbox:
+    - '41.9068563'
+    - '41.9073277'
+    - '12.4486098'
+    - '12.4493045'
+    lat: '41.907095049999995'
+    lon: '12.448959748467473'
+    display_name: Santa Maria delle Grazie al Trionfale, 5, Piazza Santa Maria delle
+      Grazie, Municipio Roma I, Roma, Roma Capitale, Lazio, 00136, Italia
+    class: amenity
+    type: place_of_worship
+    importance: 1.0365480119372577
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//place_of_worship_unknown3.p.20.png
+    address:
+      amenity: Santa Maria delle Grazie al Trionfale
+      house_number: '5'
+      road: Piazza Santa Maria delle Grazie
+      suburb: Municipio Roma I
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: '00136'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/265,1175611948,2022-03-22 21:27:59,2022-03-21 16:10:24,Profughi ucraini: Rete Piccoli Comuni Welcome lancia progetto di accoglienza diffusa e cerca adesioni,,,,,"[""Valid/Accettato"",""News"",""Help"",""hospitality""]",,,"{""description"":""La rete dei Piccoli Comuni del Welcome lancia un appello ai sindaci dei comuni italiani sotto i 5mila abitanti perch\u00e9 aderiscano al progetto \u201cPollicino fugge dalla guerra\u201d per create una rete di accoglienza diffusa dei profughi ucraini nei piccoli comuni"",""email"":""comunicazione@piccolicomunidelwelcome.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{},""mode"":""autocomplete""},""nameSurname"":""Rete Piccoli Comuni del Welcome"",""phoneNumber"":""+39 333 226 9134"",""recipients"":""Comuni italiani sotto 5mila abitanti"",""submit"":true,""title"":""Accoglienza profughi ucraini: Rete Piccoli Comuni Welcome lancia progetto di accoglienza diffusa nei comuni sotto 5mila abitanti e chiede adesioni"",""url"":""https://piccolicomuniwelcome.it/pollicino-e-il-colibri/""}","<pre><yamldata>
+nameSurname: Rete Piccoli Comuni del Welcome
+phoneNumber: +39 333 226 9134
+email: comunicazione@piccolicomunidelwelcome.it
+title: 'Accoglienza profughi ucraini: Rete Piccoli Comuni Welcome lancia progetto
+  di accoglienza diffusa nei comuni sotto 5mila abitanti e chiede adesioni'
+recipients: Comuni italiani sotto 5mila abitanti
+description: La rete dei Piccoli Comuni del Welcome lancia un appello ai sindaci dei
+  comuni italiani sotto i 5mila abitanti perché aderiscano al progetto “Pollicino
+  fugge dalla guerra” per create una rete di accoglienza diffusa dei profughi ucraini
+  nei piccoli comuni
+url: https://piccolicomuniwelcome.it/pollicino-e-il-colibri/
+location:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/263,1175575571,2022-03-22 21:25:41,2022-03-21 15:43:35,La Rete Territoriale Sud Milano cerca case in affitto e famiglie ospitante per i rifugiati ucraini,45.4286826,9.1755405,Lombardia,Milano,"[""Valid/Accettato"",""Help"",""hospitality""]",,,"{""Posizione"":""45.4286826 9.1755405"",""description"":""La Rete Territoriale Sud Milano, creata dalle parrocchie del Gratosoglio e altri enti, cerca case in affitto (gratuito o a quota simbolica) e famiglie ospitanti (segnalare a don Giovanni Salatino, dongiovanni.s@email.com) per accogliere i rifugiati ucraini che arrivano a Milano."",""email"":""dongiovanni.s@email.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20142"",""quarter"":""Stadera"",""road"":""Via Santa Teresa"",""state"":""Lombardia"",""suburb"":""Chiesa Rossa""},""boundingbox"":[""45.4286826"",""45.4290962"",""9.1755405"",""9.1755949""],""class"":""highway"",""display_name"":""Via Santa Teresa, Stadera, Chiesa Rossa, Milano, Lombardia, 20142, Italia"",""importance"":0.6199999999999999,""lat"":""45.4286826"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1755405"",""osm_id"":442737967,""osm_type"":""way"",""place_id"":200281397,""type"":""residential""},""mode"":""autocomplete""},""nameSurname"":""Rete Territoriale Sud Milano"",""phoneNumber"":"""",""recipients"":""Famiglie e cittadini di Milano"",""submit"":true,""title"":""La Rete Territoriale Sud Milano cerca case in affitto e famiglie ospitante per i rifugiati ucraini"",""url"":""https://www.milanosud.it/emergenza-profughi-le-reti-territoriali-sud-milano-cercano-abitazioni-temporanee-per-chi-arriva-in-citta/""}","<pre><yamldata>
+nameSurname: Rete Territoriale Sud Milano
+phoneNumber: ''
+email: dongiovanni.s@email.com
+title: La Rete Territoriale Sud Milano cerca case in affitto e famiglie ospitante
+  per i rifugiati ucraini
+recipients: Famiglie e cittadini di Milano
+description: La Rete Territoriale Sud Milano, creata dalle parrocchie del Gratosoglio
+  e altri enti, cerca case in affitto (gratuito o a quota simbolica) e famiglie ospitanti
+  (segnalare a don Giovanni Salatino, dongiovanni.s@email.com) per accogliere i rifugiati
+  ucraini che arrivano a Milano.
+url: https://www.milanosud.it/emergenza-profughi-le-reti-territoriali-sud-milano-cercano-abitazioni-temporanee-per-chi-arriva-in-citta/
+location:
+  mode: autocomplete
+  address:
+    place_id: 200281397
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 442737967
+    boundingbox:
+    - '45.4286826'
+    - '45.4290962'
+    - '9.1755405'
+    - '9.1755949'
+    lat: '45.4286826'
+    lon: '9.1755405'
+    display_name: Via Santa Teresa, Stadera, Chiesa Rossa, Milano, Lombardia, 20142,
+      Italia
+    class: highway
+    type: residential
+    importance: 0.6199999999999999
+    address:
+      road: Via Santa Teresa
+      quarter: Stadera
+      suburb: Chiesa Rossa
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20142'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 45.4286826 9.1755405
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/262,1175549377,2022-03-22 21:25:05,2022-03-21 15:24:01,A Roma in via Gregoriana raccolta beni e farmaci per emergenza Ucraina,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""healtcare""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""19"",""postcode"":""00044"",""road"":""Via Gregoriana"",""state"":""Lazio"",""town"":""Frascati""},""boundingbox"":[""41.8111982"",""41.8112982"",""12.6819796"",""12.6820796""],""class"":""place"",""display_name"":""19, Via Gregoriana, Frascati, Roma Capitale, Lazio, 00044, Italia"",""importance"":0.31100000000000005,""lat"":""41.8112482"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.6820296"",""osm_id"":8629296467,""osm_type"":""node"",""place_id"":89114397,""type"":""house""},""mode"":""autocomplete""},""description"":""In collaborazione con la Basilica di Santa Sofia e grazie alla concessione di uno spazio da parte della B2B COMMUNICATION, noi di Green Atlas e abbiamo deciso di aprire un altro punto di raccolta per le vostre donazioni.\nSar\u00e0 possibile consegnare il materiale tutti i giorni dalle 18 alle 21, presso il magazzino in Via Gregoriana 19, zona Piazza di Spagna.\n\nCOSA DONARE? \n(Questa lista sar\u00e0 aggiornata costantemente grazie alle indicazioni della Basilica di Santa Sofia) \n\nMaterassini gonfiabili\nMaterassini stile yoga\nSacchi a pelo\nTende da campeggio \nCoperte e Abbigliamento termico\n\nPasta\nOlio di Oliva\nOlio di girasole\nRiso\nCaff\u00e8\nTe\nFette biscottate\nNutella\nMerendine \nTonno\nBarattoli di conserve \nFormaggi sottovuoto\n(alimenti a lunga conservazione in generale)\n\nOki task\nAspirina\nTachipirina\nIbuprofene\nbende \nSiringhe\nSiringhe per coaugulazuone del sangue\nBende elastiche\nPampers\nTeli antigelo\nAntidolorifici\nAntinfiammatori\nInsulina (lunga durata)\nMetformina\nVitamine"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Green Atlas"",""recipients"":"""",""submit"":true,""title"":""A Roma raccolta beni e farmaci per emergenza Ucraina in via Gregoriana"",""type"":""materialGoods"",""url"":""https://t.me/romaucraina/5""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: Green Atlas
+title: A Roma raccolta beni e farmaci per emergenza Ucraina in via Gregoriana
+recipients: ''
+description: ""In collaborazione con la Basilica di Santa Sofia e grazie alla concessione\
+  \ di uno spazio da parte della B2B COMMUNICATION, noi di Green Atlas e abbiamo deciso\
+  \ di aprire un altro punto di raccolta per le vostre donazioni.\nSarà possibile\
+  \ consegnare il materiale tutti i giorni dalle 18 alle 21, presso il magazzino in\
+  \ Via Gregoriana 19, zona Piazza di Spagna.\n\nCOSA DONARE? \n(Questa lista sarà\
+  \ aggiornata costantemente grazie alle indicazioni della Basilica di Santa Sofia)\
+  \ \n\nMaterassini gonfiabili\nMaterassini stile yoga\nSacchi a pelo\nTende da campeggio\
+  \ \nCoperte e Abbigliamento termico\n\nPasta\nOlio di Oliva\nOlio di girasole\n\
+  Riso\nCaffè\nTe\nFette biscottate\nNutella\nMerendine \nTonno\nBarattoli di conserve\
+  \ \nFormaggi sottovuoto\n(alimenti a lunga conservazione in generale)\n\nOki task\n\
+  Aspirina\nTachipirina\nIbuprofene\nbende \nSiringhe\nSiringhe per coaugulazuone\
+  \ del sangue\nBende elastiche\nPampers\nTeli antigelo\nAntidolorifici\nAntinfiammatori\n\
+  Insulina (lunga durata)\nMetformina\nVitamine""
+url: https://t.me/romaucraina/5
+address:
+  mode: autocomplete
+  address:
+    place_id: 89114397
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 8629296467
+    boundingbox:
+    - '41.8111982'
+    - '41.8112982'
+    - '12.6819796'
+    - '12.6820796'
+    lat: '41.8112482'
+    lon: '12.6820296'
+    display_name: 19, Via Gregoriana, Frascati, Roma Capitale, Lazio, 00044, Italia
+    class: place
+    type: house
+    importance: 0.31100000000000005
+    address:
+      house_number: '19'
+      road: Via Gregoriana
+      town: Frascati
+      county: Roma Capitale
+      state: Lazio
+      postcode: '00044'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/164,1171160990,2022-03-22 20:46:42,2022-03-16 15:13:43,Kyiv Pride e Insight Ukraine lanciano la raccolta fondi online “All Out” per sostenere le persone Lgbtqi,49.4871968,31.2718321,,,"[""Valid/Accettato"",""fundraising"",""telegram-channel"",""tweet"",""Lgbtqi""]",,,"{""Posizione"":""49.4871968 31.2718321"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""La comunit\u00e0 LGBT+ era gi\u00e0 vulnerabile prima dell'attacco, e ora \u00e8 ancora pi\u00f9 a rischio di abusi dei diritti umani da parte delle truppe russe. Scappare \u00e8 difficile e le condizioni sono caotiche. \nKyiv Pride, Insight Ukraine e altre organizzazioni partner stanno offrendo il loro supporto per trasferire le persone LGBT+ al sicuro fuori dal paese e fornire risorse essenziali a coloro che devono rimanere. \nI prossimi giorni sono cruciali. Ogni donazione aiuter\u00e0 a salvare delle vite e a fornire protezione. \nAiuta le organizzazioni LGBT+ locali a offrire sicurezza, rifugio e supporto alle persone LGBT+ ucraine ora!"",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":""https://campaigns.allout.org/it/ukraine-fundraiser?akid=62057.5443126.rnu_pE&one_time=20&preselected=1&rd=1&t=1&utm_campaign=ukraine-fundraiser&utm_medium=email&utm_source=email"",""location"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""44.184598"",""52.3797464"",""22.137059"",""40.2275801""],""class"":""boundary"",""display_name"":""Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9264442439164168,""lat"":""49.4871968"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""31.2718321"",""osm_id"":60199,""osm_type"":""relation"",""place_id"":283553033,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Kyiv Pride e Insight Ukraine lanciano online una raccolta fondi \u201cAll Out\u201d per sostenere le persone Lgbtqi in Ucraina""}","<pre><yamldata>
 title: Kyiv Pride e Insight Ukraine lanciano online una raccolta fondi “All Out” per
   sostenere le persone Lgbtqi in Ucraina
