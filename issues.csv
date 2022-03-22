@@ -1,4 +1,37 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/279,1176351895,2022-03-22 07:03:10,2022-03-22 07:01:44,ATS Brianza: Informazioni sanitarie per i rifugiati dall’Ucraina(lingua UA),45.639544,9.278869369225038,Lombardia,Monza e della Brianza,"[""Valid/Accettato"",""News"",""healtcare"",""document_data""]",,,"{""Posizione"":""45.639544 9.278869369225038"",""description"":""Informazioni su prima visita, quarantena e vaccinazioni"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://www.ats-brianza.it/it/azienda/news-online/148-master-category/servizi-ai-cittadini/2607-emergenza-ucraina.html"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Monza e della Brianza"",""state"":""Lombardia""},""boundingbox"":[""45.5367099"",""45.7424391"",""9.0505698"",""9.4974636""],""class"":""boundary"",""display_name"":""Monza e della Brianza, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7207566855039824,""lat"":""45.639544"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.278869369225038"",""osm_id"":251419,""osm_type"":""relation"",""place_id"":284109714,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""ATS Brianza: Informazioni sanitarie per i rifugiati dall\u2019Ucraina(lingua UA)""}","<pre><yamldata>
+title: 'ATS Brianza: Informazioni sanitarie per i rifugiati dall’Ucraina(lingua UA)'
+description: Informazioni su prima visita, quarantena e vaccinazioni
+link: https://www.ats-brianza.it/it/azienda/news-online/148-master-category/servizi-ai-cittadini/2607-emergenza-ucraina.html
+location:
+  mode: autocomplete
+  address:
+    place_id: 284109714
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 251419
+    boundingbox:
+    - '45.5367099'
+    - '45.7424391'
+    - '9.0505698'
+    - '9.4974636'
+    lat: '45.639544'
+    lon: '9.278869369225038'
+    display_name: Monza e della Brianza, Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7207566855039824
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Monza e della Brianza
+      state: Lombardia
+      country: Italia
+      country_code: it
+label: document_data
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.639544 9.278869369225038
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/88,1167364014,2022-03-22 06:54:35,2022-03-12 18:32:39,Mappa #opendata delle notizie in ucraino e russo sull'andamento della guerra in Ucraina,,,,,"[""Valid/Accettato"",""News"",""document_data""]",,,"{""description"":""Un professore ceco, che vive e insegna negli Usa, ha sviluppato un algoritmo che estrae e analizza da una serie di testate tutti gli articoli che parlano della guerra in Ucraina.\nIl risultato \u00e8 un'enorme dataset che consente di raccontare l'invasione nel suo insieme."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.wired.it/article/ucraina-guerra-russia-mappa-intelligenza-artificiale/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Mappare le notizie in ucraino e russo per creare una mappa open data sull'andamento della guerra in Ucraina""}","<pre><yamldata>
 title: Mappare le notizie in ucraino e russo per creare una mappa open data sull'andamento
   della guerra in Ucraina
