@@ -1,4 +1,72 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/280,1176411085,2022-03-22 21:40:22,2022-03-22 08:04:30,"Piemonte, attivo call center regionale in lingua ucraina per supportare i rifugiati",,,,,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""useful contact"",""hospitality"",""healtcare""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Piemonte""},""boundingbox"":[""44.0597158"",""46.4642213"",""6.6272658"",""9.2142404""],""class"":""boundary"",""display_name"":""Piemonte, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8065629521628248,""lat"":""45.060735"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.923549"",""osm_id"":44874,""osm_type"":""relation"",""place_id"":283826885,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Attivo da Mercoled\u00ec 23 Marzo il numero del Call Center regionale aperto dalle ore 08:00 alle ore 20:00 dedicato alle informazioni per i rifugiati ucraini in Piemonte, realizzato grazie alla collaborazione tra Protezione Civile, Consolato Onorario di Ucraina a Torino e la Onlus Danish Refugee Council Italia. Il numero \u00e8 011.4326700 ed \u00e8 attivo dal luned\u00ec al venerd\u00ec, dalle 8.00 alle 20.00: otto operatori di madrelingua ucraina rispondono alle richieste di informazioni e approfondimenti da parte dei profughi e delle famiglie che li accolgono."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Protezione Civile"",""recipients"":""Rifugiati Ucraina"",""submit"":true,""title"":""Call center regionale in ucraino"",""type"":""translation"",""url"":""https://www.targatocn.it/2022/03/22/leggi-notizia/argomenti/attualita/articolo/ucraina-cirio-pronte-le-linee-guida-per-laccesso-dei-bambini-a-scuola-1.html""}","<pre><yamldata>
+type: translation
+offerFromWho: Protezione Civile
+title: Call center regionale in ucraino
+recipients: Rifugiati Ucraina
+description: 'Attivo da Mercoledì 23 Marzo il numero del Call Center regionale aperto
+  dalle ore 08:00 alle ore 20:00 dedicato alle informazioni per i rifugiati ucraini
+  in Piemonte, realizzato grazie alla collaborazione tra Protezione Civile, Consolato
+  Onorario di Ucraina a Torino e la Onlus Danish Refugee Council Italia. Il numero
+  è 011.4326700 ed è attivo dal lunedì al venerdì, dalle 8.00 alle 20.00: otto operatori
+  di madrelingua ucraina rispondono alle richieste di informazioni e approfondimenti
+  da parte dei profughi e delle famiglie che li accolgono.'
+url: https://www.targatocn.it/2022/03/22/leggi-notizia/argomenti/attualita/articolo/ucraina-cirio-pronte-le-linee-guida-per-laccesso-dei-bambini-a-scuola-1.html
+address:
+  mode: autocomplete
+  address:
+    place_id: 283826885
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 44874
+    boundingbox:
+    - '44.0597158'
+    - '46.4642213'
+    - '6.6272658'
+    - '9.2142404'
+    lat: '45.060735'
+    lon: '7.923549'
+    display_name: Piemonte, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8065629521628248
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      state: Piemonte
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/276,1176032769,2022-03-22 21:38:19,2022-03-21 22:44:59,A Verona raccolta fondi della Fondazione Europea DBA per aiutare due famiglie ucraine con bambini DBA ,,,,,"[""Valid/Accettato"",""fundraising"",""healtcare"",""Children""]",,,"{""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""La Fondazione Europea DBA Onlus ha deciso di aiutare due famiglie ucraine con bambini DBA che ora sono a Verona presso il Reparto di Onco Ematologia Pediatrica. La gestione di un paziente straniero per cure innesca una serie di bisogni che normalmente non sono riscontrati per un paziente residente in Italia: - bisogno comunicativo: necessit\u00e0 di comprendere la lingua italiana e la scrittura italiana per relazionarsi con medici, infermieri, volontari, conoscenti sia durante il ricovero ospedaliero sia durante la permanenza a Verona nel tempo non in ricovero. - alloggio a Verona per lunghi periodi. La Fondazione Europea DBA Onlus vuole attivarsi per contribuire a risolvere il problema abitativo e di cura dei piccoli pazienti ucraini e delle loro famiglie rimborsando le spese di alloggio e bisogni primari. TOTALE DA RACCOGLIERE PER DUE FAMIGLIE \u20ac 5.000,00"",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":""https://amici.fondazionedba.org/dona-ora-famiglie-ucraine-bambini-dba/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Fondazione Europea DBA Onlus""}","<pre><yamldata>
+title: Fondazione Europea DBA Onlus
+description: 'La Fondazione Europea DBA Onlus ha deciso di aiutare due famiglie ucraine
+  con bambini DBA che ora sono a Verona presso il Reparto di Onco Ematologia Pediatrica.
+  La gestione di un paziente straniero per cure innesca una serie di bisogni che normalmente
+  non sono riscontrati per un paziente residente in Italia:
+  - bisogno comunicativo: necessità di comprendere la lingua italiana e la scrittura
+  italiana per relazionarsi con medici, infermieri, volontari, conoscenti sia durante
+  il ricovero ospedaliero sia durante la permanenza a Verona nel tempo non in ricovero.
+ - alloggio a Verona per lunghi periodi.
+  La Fondazione Europea DBA Onlus vuole attivarsi per contribuire a risolvere il problema
+  abitativo e di cura dei piccoli pazienti ucraini e delle loro famiglie rimborsando
+  le spese di alloggio e bisogni primari.
+  TOTALE DA RACCOGLIERE PER DUE FAMIGLIE € 5.000,00'
+heading: ''
+iban: ''
+bicSwift: ''
+ccPostal: ''
+causal: ''
+link: https://amici.fondazionedba.org/dona-ora-famiglie-ucraine-bambini-dba/
+email: ''
+location:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/283,1177331135,2022-03-22 21:35:32,2022-03-22 21:32:01,ANIMALI DI AFFEZIONE AL SEGUITO DI RIFUGIATI IN ITALIA DALL'UCRAINA: ECCO COSA FARE,41.8933203,12.4829321,Lazio,Roma,"[""Valid/Accettato"",""News"",""Legal"",""healtcare""]",,,"{""Posizione"":""41.8933203 12.4829321"",""description"":""Il Ministero della Salute, anche al fine di tutelare il rispetto del benessere degli animali, ha tempestivamente autorizzato (Misure eccezionali per l\u2019ingresso nell'UE di animali domestici movimentati al seguito di rifugiati provenienti dall'Ucraina) gi\u00e0 dal 28 febbraio scorso l'introduzione in Italia di animali provenienti dall'Ucraina anche se sprovvisti della documentazione necessaria. La disposizione \u00e8 generale e individua nei Servizi Veterinari pubblici del territorio dove dimora il/la rifugiato/a ucraino/a il riferimento pubblico necessario a realizzare il percorso di \u201cregolarizzazione\u201d che gli animali devono seguire una volta raggiuto il nostro Paese, necessario perch\u00e9 per essere movimentati gli animali devono essere identificati - ai sensi del Regolamento europeo 576 del 2013 - con il microchip, essere in regola con la vaccinazione contro la rabbia e avere il passaporto per animali da compagnia.\n\nIn considerazione di ci\u00f2, e salvo il fatto che i cittadini Ucraini con animali al seguito hanno il diritto/dovere di segnalare ai servizi veterinari pubblici competenti per territorio la presenza dell\u2019animale,"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.lav.it/news/animali-ucraina-cosa-fare"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7896107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""ANIMALI RIFUGIATI IN ITALIA DALL'UCRAINA: ECCO COSA FARE""}","<pre><yamldata>
 title: 'ANIMALI RIFUGIATI IN ITALIA DALL''UCRAINA: ECCO COSA FARE'
 description: 'Il Ministero della Salute, anche al fine di tutelare il rispetto del
