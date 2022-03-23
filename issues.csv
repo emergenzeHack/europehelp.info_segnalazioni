@@ -1,4 +1,45 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/230,1174088592,2022-03-23 20:43:17,2022-03-18 22:42:15,"Comune di Prato attiva pagina web per accoglienza rifugiati, punti di raccolta beni, offerta alloggi",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Prato"",""country"":""Italia"",""country_code"":""it"",""county"":""Prato"",""neighbourhood"":""Soccorso"",""postcode"":""59100"",""road"":""Via Lazzerini"",""state"":""Toscana""},""boundingbox"":[""43.8745824"",""43.8754983"",""11.0933429"",""11.0940385""],""class"":""highway"",""display_name"":""Via Lazzerini, Soccorso, Prato, Toscana, 59100, Italia"",""importance"":0.5199999999999999,""lat"":""43.8750462"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.0937398"",""osm_id"":28637807,""osm_type"":""way"",""place_id"":108090719,""type"":""unclassified""},""mode"":""autocomplete""},""description"":""Online sul sito del Comune di Prato una pagina web con info e contatti utili su accoglienza rifugiati ucraini, punti di raccolta beni e farmaci, offerta alloggi, assistenza sanitaria e procedure per l\u2019accoglienza."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Prato"",""recipients"":"""",""submit"":true,""title"":""Comune di Prato attiva pagina web con info su accoglienza rifugiati ucraini, punti di raccolta beni, offerta alloggi"",""type"":""materialGoods"",""url"":""http://protezionecivile.comune.prato.it/aiuti-ucraina/pagina257.html""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: Comune di Prato
+title: Comune di Prato attiva pagina web con info su accoglienza rifugiati ucraini,
+  punti di raccolta beni, offerta alloggi
+recipients: ''
+description: Online sul sito del Comune di Prato una pagina web con info e contatti
+  utili su accoglienza rifugiati ucraini, punti di raccolta beni e farmaci, offerta
+  alloggi, assistenza sanitaria e procedure per l’accoglienza.
+url: http://protezionecivile.comune.prato.it/aiuti-ucraina/pagina257.html
+address:
+  mode: autocomplete
+  address:
+    place_id: 108090719
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 28637807
+    boundingbox:
+    - '43.8745824'
+    - '43.8754983'
+    - '11.0933429'
+    - '11.0940385'
+    lat: '43.8750462'
+    lon: '11.0937398'
+    display_name: Via Lazzerini, Soccorso, Prato, Toscana, 59100, Italia
+    class: highway
+    type: unclassified
+    importance: 0.5199999999999999
+    address:
+      road: Via Lazzerini
+      neighbourhood: Soccorso
+      city: Prato
+      county: Prato
+      state: Toscana
+      postcode: '59100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/304,1178499663,2022-03-23 18:30:53,2022-03-23 18:22:06,"Napoli, alla Mostra d’Oltremare centro di accoglienza sanitaria per i profughi ucraini",,,,,"[""Valid/Accettato"",""Services"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""building"":""Mostra d'Oltremare"",""city"":""Napoli"",""country"":""Italia"",""country_code"":""it"",""county"":""Napoli"",""postcode"":""80125"",""road"":""Piazzale Vincenzo Tecchio"",""state"":""Campania"",""suburb"":""Fuorigrotta""},""boundingbox"":[""40.8240788"",""40.8241788"",""14.1915383"",""14.1916383""],""class"":""building"",""display_name"":""Mostra d'Oltremare, Piazzale Vincenzo Tecchio, Fuorigrotta, Municipalit\u00e0 10, Napoli, Campania, 80125, Italia"",""importance"":0.411,""lat"":""40.8241288"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.1915883"",""osm_id"":4177685298,""osm_type"":""node"",""place_id"":48008434,""type"":""yes""},""mode"":""autocomplete""},""description"":""Un nuovo centro di accoglienza sanitaria per i profughi ucraini a Napoli, alla Mostra d'Oltremare, dove saranno attivati degli sportelli di competenza sanitaria dell'Asl Napoli 1 con la generazione di codice straniero temporaneamente presente (Stp), con il tampone per il covid e offerta dei vaccini anticovid.\n\nCon quindici mediatrici culturali e medici dell\u2019Asl, alla Mostra d'Oltremare ci saranno due ingressi diversi per gli italiani che arrivano per i vaccini e gli ucraini che entrano nell'assistenza sanitaria dell'Asl."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Napoli"",""recipients"":"""",""submit"":true,""title"":""Napoli, alla Mostra d\u2019Oltremare centro di accoglienza sanitaria per i profughi ucraini"",""type"":""healthcare"",""url"":""http://www.napolicittasolidale.it/portal/news/11117-ucraina,-centro-di-accoglienza-sanitaria-alla-mostra-d%E2%80%99oltremare.html""}","<pre><yamldata>
 type: healthcare
 offerFromWho: Comune di Napoli
@@ -4319,47 +4360,6 @@ address:
       county: Milano
       state: Lombardia
       postcode: '20122'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/230,1174088592,2022-03-19 18:05:37,2022-03-18 22:42:15,"Comune di Prato attiva pagina web per accoglienza rifugiati, punti di raccolta beni, offerta alloggi",,,,,"[""Valid/Accettato"",""Housing offers"",""Services"",""materialGoods"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Prato"",""country"":""Italia"",""country_code"":""it"",""county"":""Prato"",""neighbourhood"":""Soccorso"",""postcode"":""59100"",""road"":""Via Lazzerini"",""state"":""Toscana""},""boundingbox"":[""43.8745824"",""43.8754983"",""11.0933429"",""11.0940385""],""class"":""highway"",""display_name"":""Via Lazzerini, Soccorso, Prato, Toscana, 59100, Italia"",""importance"":0.5199999999999999,""lat"":""43.8750462"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.0937398"",""osm_id"":28637807,""osm_type"":""way"",""place_id"":108090719,""type"":""unclassified""},""mode"":""autocomplete""},""description"":""Online sul sito del Comune di Prato una pagina web con info e contatti utili su accoglienza rifugiati ucraini, punti di raccolta beni e farmaci, offerta alloggi, assistenza sanitaria e procedure per l\u2019accoglienza."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Prato"",""recipients"":"""",""submit"":true,""title"":""Comune di Prato attiva pagina web con info su accoglienza rifugiati ucraini, punti di raccolta beni, offerta alloggi"",""type"":""materialGoods"",""url"":""http://protezionecivile.comune.prato.it/aiuti-ucraina/pagina257.html""}","<pre><yamldata>
-type: materialGoods
-offerFromWho: Comune di Prato
-title: Comune di Prato attiva pagina web con info su accoglienza rifugiati ucraini,
-  punti di raccolta beni, offerta alloggi
-recipients: ''
-description: Online sul sito del Comune di Prato una pagina web con info e contatti
-  utili su accoglienza rifugiati ucraini, punti di raccolta beni e farmaci, offerta
-  alloggi, assistenza sanitaria e procedure per l’accoglienza.
-url: http://protezionecivile.comune.prato.it/aiuti-ucraina/pagina257.html
-address:
-  mode: autocomplete
-  address:
-    place_id: 108090719
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 28637807
-    boundingbox:
-    - '43.8745824'
-    - '43.8754983'
-    - '11.0933429'
-    - '11.0940385'
-    lat: '43.8750462'
-    lon: '11.0937398'
-    display_name: Via Lazzerini, Soccorso, Prato, Toscana, 59100, Italia
-    class: highway
-    type: unclassified
-    importance: 0.5199999999999999
-    address:
-      road: Via Lazzerini
-      neighbourhood: Soccorso
-      city: Prato
-      county: Prato
-      state: Toscana
-      postcode: '59100'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
