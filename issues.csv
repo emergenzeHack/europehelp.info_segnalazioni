@@ -1,4 +1,39 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/284,1177938930,2022-03-23 13:04:21,2022-03-23 10:44:44,Bergamo per l’Ucraina: attivo sito del Comune rivolto ai rifugiati ucraini e ai cittadini che vogliono offrire aiuto,45.6944947,9.6698727,Lombardia,Bergamo,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""fundraising"",""materialGoods"",""hospitality"",""healtcare"",""psycologicalSupport"",""Children"",""Resources""]",,,"{""Posizione"":""45.6944947 9.6698727"",""description"":""Sito con informazioni utili per i cittadini ucraini in fuga dalla guerra che si trovano a Bergamo (permessi di soggiorno, alloggio, scuola, assistenza sanitaria, supporto psicologico, contatti utili) e per i cittadini bergamaschi interessati a dare il proprio aiuto con raccolte beni, fondi, volontariato, offerta alloggi."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://www.bergamoucraina.it/"",""location"":{""address"":{""address"":{""city"":""Bergamo"",""country"":""Italia"",""country_code"":""it"",""county"":""Bergamo"",""state"":""Lombardia""},""boundingbox"":[""45.6554235"",""45.7314001"",""9.6193564"",""9.7137063""],""class"":""boundary"",""display_name"":""Bergamo, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7343868864872226,""lat"":""45.6944947"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.6698727"",""osm_id"":45681,""osm_type"":""relation"",""place_id"":284892335,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Bergamo per l\u2019Ucraina""}","<pre><yamldata>
+title: Bergamo per l’Ucraina
+description: Sito con informazioni utili per i cittadini ucraini in fuga dalla guerra che si
+  trovano a Bergamo (permessi di soggiorno, alloggio, scuola, assistenza sanitaria, supporto psicologico, contatti utili) e per i cittadini bergamaschi interessati a dare il proprio aiuto con raccolte beni, fondi, volontariato, offerta alloggi.
+link: https://www.bergamoucraina.it/
+location:
+  mode: autocomplete
+  address:
+    place_id: 284892335
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 45681
+    boundingbox:
+    - '45.6554235'
+    - '45.7314001'
+    - '9.6193564'
+    - '9.7137063'
+    lat: '45.6944947'
+    lon: '9.6698727'
+    display_name: Bergamo, Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7343868864872226
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Bergamo
+      county: Bergamo
+      state: Lombardia
+      country: Italia
+      country_code: it
+label: document_data
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.6944947 9.6698727
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/265,1175611948,2022-03-23 08:58:14,2022-03-21 16:10:24,Profughi ucraini: Rete Piccoli Comuni Welcome lancia progetto di accoglienza diffusa e cerca adesioni,,,,,"[""Valid/Accettato"",""News"",""Help"",""Services"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""description"":""La rete dei Piccoli Comuni del Welcome lancia un appello ai sindaci dei comuni italiani sotto i 5mila abitanti perch\u00e9 aderiscano al progetto \u201cPollicino fugge dalla guerra\u201d per create una rete di accoglienza diffusa dei profughi ucraini nei piccoli comuni"",""email"":""comunicazione@piccolicomunidelwelcome.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{},""mode"":""autocomplete""},""nameSurname"":""Rete Piccoli Comuni del Welcome"",""phoneNumber"":""+39 333 226 9134"",""recipients"":""Comuni italiani sotto 5mila abitanti"",""submit"":true,""title"":""Accoglienza profughi ucraini: Rete Piccoli Comuni Welcome lancia progetto di accoglienza diffusa nei comuni sotto 5mila abitanti e chiede adesioni"",""url"":""https://piccolicomuniwelcome.it/pollicino-e-il-colibri/""}","<pre><yamldata>
 nameSurname: Rete Piccoli Comuni del Welcome
 phoneNumber: +39 333 226 9134
