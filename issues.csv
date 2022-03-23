@@ -1,4 +1,60 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/314,1178711201,2022-03-23 22:02:25,2022-03-23 21:55:48,Raccolta farmaci per malati di fibrosi cistica in territori di guerra ,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20158"",""quarter"":""Dergano"",""road"":""Via Livigno"",""state"":""Lombardia"",""suburb"":""Municipio 9""},""boundingbox"":[""45.5022759"",""45.5023344"",""9.1780562"",""9.1780625""],""class"":""highway"",""display_name"":""Via Livigno, Dergano, Municipio 9, Milano, Lombardia, 20158, Italia"",""importance"":0.5,""lat"":""45.5022759"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1780625"",""osm_id"":767874824,""osm_type"":""way"",""place_id"":250863372,""type"":""unclassified""},""mode"":""autocomplete""},""description"":""Combattere contro una malattia che ha bisogno di cure costanti \u00e8 gi\u00e0 di per s\u00e9 complicato.\n\nFarlo mentre si scappa dalla guerra, lasciandosi dietro la propria vita \u00e8 a dir poco drammatico.\n\nPer queste ragioni, DergaNOborders partecipa  alla raccolta farmaci promossa dalla Lega Italiana Fibrosi Cistica \ntutte le informazioni legate a quest'iniziativa umanitaria qui:\n\nhttps://www.fibrosicistica.it/un-aiuto-per-lucraina/\n\nLista farmaci al link sotto \n\nVi aspettiamo tutte le domeniche dalle 10.30 alle 13.00 a Nuovo Armenia in via Livigno 9 a Milano."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""DergaNOBorders"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Raccolta farmaci per fibrosi cistica"",""url"":""https://www.facebook.com/241808161103593/posts/367354455215629/?d=n""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: true
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+offerFromWho: DergaNOBorders
+title: Raccolta farmaci per fibrosi cistica
+recipients: ''
+description: ""Combattere contro una malattia che ha bisogno di cure costanti è già\
+  \ di per sé complicato.\n\nFarlo mentre si scappa dalla guerra, lasciandosi dietro\
+  \ la propria vita è a dir poco drammatico.\n\nPer queste ragioni, DergaNOborders\
+  \ partecipa  alla raccolta farmaci promossa dalla Lega Italiana Fibrosi Cistica\
+  \ \ntutte le informazioni legate a quest'iniziativa umanitaria qui:\n\nhttps://www.fibrosicistica.it/un-aiuto-per-lucraina/\n\
+  \nLista farmaci al link sotto \n\nVi aspettiamo tutte le domeniche dalle 10.30 alle\
+  \ 13.00 a Nuovo Armenia in via Livigno 9 a Milano.""
+url: https://www.facebook.com/241808161103593/posts/367354455215629/?d=n
+address:
+  mode: autocomplete
+  address:
+    place_id: 250863372
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 767874824
+    boundingbox:
+    - '45.5022759'
+    - '45.5023344'
+    - '9.1780562'
+    - '9.1780625'
+    lat: '45.5022759'
+    lon: '9.1780625'
+    display_name: Via Livigno, Dergano, Municipio 9, Milano, Lombardia, 20158, Italia
+    class: highway
+    type: unclassified
+    importance: 0.5
+    address:
+      road: Via Livigno
+      quarter: Dergano
+      suburb: Municipio 9
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20158'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/313,1178702626,2022-03-23 21:46:03,2022-03-23 21:44:45,#Milano: aperto a Lampugnano un nuovo punto di primo contatto e orientamento per i profughi,45.4866108,9.1250144,Lombardia,Milano,"[""Valid/Accettato"",""News""]",,,"{""Posizione"":""45.4866108 9.1250144"",""description"":""\u00c8 attivo - dalle 12 alle 22 -  a Lampugnano un nuovo punto di primo contatto e orientamento per i profughi ucraini che arrivano in citt\u00e0, un punto strategico soprattutto per coloro che raggiungono Milano in pullman. \u00c8 gestito dalla Protezione civile del Comune di Milano, in collaborazione con EMERGENCY  che si occuper\u00e0 dell\u2019effettuazione dei tamponi. \nCome gi\u00e0 avviene da qualche giorno nell\u2019hub di via Mortirolo, i cittadini ucraini verranno accompagnati nella registrazione, e orientati verso le offerte alloggiative a disposizione.\nIl Comune sta lavorando per facilitare il pi\u00f9 possibile l\u2019inserimento e l\u2019integrazione dei profughi ucraini moltiplicando i punti di accesso in cui si possono ottenere informazioni. \nSul sito \u00e8 possibile trovare anche un vademecum aggiornato: https://www.comune.milano.it/web/milanoaiuta"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""\u00c8 attivo - dalle 12 alle 22 -  a Lampugnano un nuovo punto di primo contatto e orientamento per i profughi ucraini che arrivano in citt\u00e0, un punto strategico soprattutto per coloro che raggiungono Milano in pullman. \u00c8 gestito dalla Protezione civile del Comune di Milano, in collaborazione con EMERGENCY  che si occuper\u00e0 dell\u2019effettuazione dei tamponi.  Come gi\u00e0 avviene da qualche giorno nell\u2019hub di via Mortirolo, i cittadini ucraini verranno accompagnati nella registrazione, e orientati verso le offerte alloggiative a disposizione. Il Comune sta lavorando per facilitare il pi\u00f9 possibile l\u2019inserimento e l\u2019integrazione dei profughi ucraini moltiplicando i punti di accesso in cui si possono ottenere informazioni.  Sul sito \u00e8 possibile trovare anche un vademecum aggiornato: https://www.comune.milano.it/web/milanoaiuta"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""state"":""Lombardia"",""suburb"":""Lampugnano""},""boundingbox"":[""45.4788081"",""45.4922131"",""9.1068773"",""9.1318813""],""class"":""place"",""display_name"":""Lampugnano, Municipio 8, Milano, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png"",""importance"":0.5545859424692052,""lat"":""45.4866108"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1250144"",""osm_id"":6711805,""osm_type"":""relation"",""place_id"":285112401,""type"":""suburb""},""mode"":""autocomplete""},""submit"":true,""title"":""Milano: aperto a Lampugnano un nuovo punto di primo contatto e orientamento per i profughi""}","<pre><yamldata>
 title: 'Milano: aperto a Lampugnano un nuovo punto di primo contatto e orientamento
   per i profughi'
