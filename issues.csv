@@ -1,4 +1,56 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/302,1178492285,2022-03-23 18:24:51,2022-03-23 18:14:30,"Comune di Napoli, online modulo per ospitare profughi ucraini, offrire supporto psicologico e mediazione linguistica",,,,,"[""Valid/Accettato"",""Services"",""hospitality"",""translation"",""psychologicalSupport""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Palazzo San Giacomo (Municipio)"",""city"":""Napoli"",""country"":""Italia"",""country_code"":""it"",""county"":""Napoli"",""house_number"":""22"",""postcode"":""80133"",""road"":""Piazza Municipio"",""state"":""Campania"",""suburb"":""San Ferdinando""},""boundingbox"":[""40.8398829"",""40.8406363"",""14.2495749"",""14.2506532""],""class"":""amenity"",""display_name"":""Palazzo San Giacomo (Municipio), 22, Piazza Municipio, San Ferdinando, Municipalit\u00e0 1, Napoli, Campania, 80133, Italia"",""importance"":1.0627181510659862,""lat"":""40.8402643"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.25009426338531"",""osm_id"":3346542,""osm_type"":""relation"",""place_id"":284808001,""type"":""townhall""},""mode"":""autocomplete""},""description"":""Per aiutare donne, bambini e tutti coloro che sono arrivati e che giungeranno in citt\u00e0, si possono mettere a disposizione alloggi privati, strutture alberghiere ed extra alberghiere, posti in comunit\u00e0, stanze in conventi. Ma non solo. Si potr\u00e0 contribuire alla raccolta di farmaci, proporsi come volontari per traduzione, mediazione culturale e supporto psicologico.\nL\u2019iniziativa \u00e8 partita dal Comune di Napoli, che in queste ore ha accolto le numerosissime sollecitazioni di cittadini, associazioni e professionisti, e ha pubblicato sul sito istituzionale un modulo da compilare per poter offrire il proprio aiuto. Non sono richiesti generi alimentari, abiti e giocattoli, la cui raccolta \u00e8 partita nei giorni scorsi in vari punti del territorio."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Napoli"",""recipients"":""Cittadini"",""submit"":true,""title"":""Comune di Napoli, online modulo per offrire disponibilit\u00e0 a ospitare profughi ucraini e offrire altri servizi"",""type"":""hospitality"",""url"":""https://www.comune.napoli.it/aiuto-ucraina""}","<pre><yamldata>
+type: hospitality
+offerFromWho: Comune di Napoli
+title: Comune di Napoli, online modulo per offrire disponibilità a ospitare profughi
+  ucraini e offrire altri servizi
+recipients: Cittadini
+description: 'Per aiutare donne, bambini e tutti coloro che sono arrivati e che giungeranno
+  in città, si possono mettere a disposizione alloggi privati, strutture alberghiere
+  ed extra alberghiere, posti in comunità, stanze in conventi. Ma non solo. Si potrà
+  contribuire alla raccolta di farmaci, proporsi come volontari per traduzione, mediazione
+  culturale e supporto psicologico.
+
+  L’iniziativa è partita dal Comune di Napoli, che in queste ore ha accolto le numerosissime
+  sollecitazioni di cittadini, associazioni e professionisti, e ha pubblicato sul
+  sito istituzionale un modulo da compilare per poter offrire il proprio aiuto. Non
+  sono richiesti generi alimentari, abiti e giocattoli, la cui raccolta è partita
+  nei giorni scorsi in vari punti del territorio.'
+url: https://www.comune.napoli.it/aiuto-ucraina
+address:
+  mode: autocomplete
+  address:
+    place_id: 284808001
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 3346542
+    boundingbox:
+    - '40.8398829'
+    - '40.8406363'
+    - '14.2495749'
+    - '14.2506532'
+    lat: '40.8402643'
+    lon: '14.25009426338531'
+    display_name: Palazzo San Giacomo (Municipio), 22, Piazza Municipio, San Ferdinando,
+      Municipalità 1, Napoli, Campania, 80133, Italia
+    class: amenity
+    type: townhall
+    importance: 1.0627181510659862
+    address:
+      amenity: Palazzo San Giacomo (Municipio)
+      house_number: '22'
+      road: Piazza Municipio
+      suburb: San Ferdinando
+      city: Napoli
+      county: Napoli
+      state: Campania
+      postcode: '80133'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/263,1175575571,2022-03-23 18:03:53,2022-03-21 15:43:35,La Rete Territoriale Sud Milano cerca case in affitto e famiglie ospitante per i rifugiati ucraini,45.4286826,9.1755405,Lombardia,Milano,"[""Valid/Accettato"",""Help"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.4286826 9.1755405"",""description"":""La Rete Territoriale Sud Milano, creata dalle parrocchie del Gratosoglio e altri enti, cerca case in affitto (gratuito o a quota simbolica) e famiglie ospitanti (segnalare a don Giovanni Salatino, dongiovanni.s@email.com) per accogliere i rifugiati ucraini che arrivano a Milano."",""email"":""dongiovanni.s@email.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20142"",""quarter"":""Stadera"",""road"":""Via Santa Teresa"",""state"":""Lombardia"",""suburb"":""Chiesa Rossa""},""boundingbox"":[""45.4286826"",""45.4290962"",""9.1755405"",""9.1755949""],""class"":""highway"",""display_name"":""Via Santa Teresa, Stadera, Chiesa Rossa, Milano, Lombardia, 20142, Italia"",""importance"":0.6199999999999999,""lat"":""45.4286826"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1755405"",""osm_id"":442737967,""osm_type"":""way"",""place_id"":200281397,""type"":""residential""},""mode"":""autocomplete""},""nameSurname"":""Rete Territoriale Sud Milano"",""phoneNumber"":"""",""recipients"":""Famiglie e cittadini di Milano"",""submit"":true,""title"":""La Rete Territoriale Sud Milano cerca case in affitto e famiglie ospitante per i rifugiati ucraini"",""url"":""https://www.milanosud.it/emergenza-profughi-le-reti-territoriali-sud-milano-cercano-abitazioni-temporanee-per-chi-arriva-in-citta/""}","<pre><yamldata>
 nameSurname: Rete Territoriale Sud Milano
 phoneNumber: ''
