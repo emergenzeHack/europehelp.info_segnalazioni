@@ -1,4 +1,64 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/289,1178107527,2022-03-23 13:19:42,2022-03-23 13:14:08,"Corigliano Rossano orientamento ai servizi pubblici, assistenza legale, mediazione sociale, beni di prima necessità",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""translation"",""job"",""women"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Cosenza"",""municipality"":""Corigliano-Rossano"",""postcode"":""87064"",""state"":""Calabria""},""boundingbox"":[""39.4851769"",""39.7244355"",""16.3336668"",""16.7702189""],""class"":""boundary"",""display_name"":""Corigliano-Rossano, Cosenza, Calabria, 87064, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5919557965128309,""lat"":""39.616315"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.5778956"",""osm_id"":8164150,""osm_type"":""relation"",""place_id"":285216680,""type"":""administrative""},""mode"":""autocomplete""},""description"":""In Calabria, nell\u2019area di Corigliano-Rossano esiste uno spazio che fa da punto di riferimento innanzitutto per le donne, in particolare per le lavoratrici agricole, chiamato \""Cittadella della condivisione\"". Alla sua nascita hanno lavorato pi\u00f9 di dieci associazioni insieme alle donne Leader del progetto BRIGHT. E' un luogo di confronto, sperimentazione, elaborazione delle politiche locali sensibili al genere e alla cultura che veda come protagoniste innanzitutto le donne accanto alle imprese, al Terzo settore, alle istituzioni, ai cittadini.\n\nAlla Cittadella della condivisione \u00e8 anche attivo uno sportello di orientamento ai servizi pubblici (tessera STP, registrazione permanenza, raccolta fabbisogni, socio-sanitario), orientamento e supporto legale sui temi del lavoro, mediazione sociale in lingua ucraina, corsi italiano, distribuzione kit beni di prima necessit\u00e0.\nLa Cittadella \u00e8 aperta nei seguenti giorni: luned\u00ec, gioved\u00ec e sabato dalle 16:00 alle 19:00\n\nPer qualsiasi informazione contattare Viola 3319865205\nPiazza Santa Maria ad Nives\nSchiavonea, Corigliano-Rossano"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Cittadella della Condivisione"",""recipients"":"""",""submit"":true,""title"":""Servizio gratuito di orientamento ai servizi, assistenza legale, mediazione sociale, distribuzione beni"",""type"":""legal"",""url"":""""}","<pre><yamldata>
+offerFromWho: Cittadella della Condivisione
+title: Servizio gratuito di orientamento ai servizi, assistenza legale, mediazione
+  sociale, distribuzione beni
+recipients: ''
+description: 'In Calabria, nell’area di Corigliano-Rossano esiste uno spazio che fa
+  da punto di riferimento innanzitutto per le donne, in particolare per le lavoratrici
+  agricole, chiamato ""Cittadella della condivisione"". Alla sua nascita hanno lavorato
+  più di dieci associazioni insieme alle donne Leader del progetto BRIGHT. E'' un
+  luogo di confronto, sperimentazione, elaborazione delle politiche locali sensibili
+  al genere e alla cultura che veda come protagoniste innanzitutto le donne accanto
+  alle imprese, al Terzo settore, alle istituzioni, ai cittadini.
+
+
+  Alla Cittadella della condivisione è anche attivo uno sportello di orientamento
+  ai servizi pubblici (tessera STP, registrazione permanenza, raccolta fabbisogni,
+  socio-sanitario), orientamento e supporto legale sui temi del lavoro, mediazione
+  sociale in lingua ucraina, corsi italiano, distribuzione kit beni di prima necessità.
+
+  La Cittadella è aperta nei seguenti giorni: lunedì, giovedì e sabato dalle 16:00
+  alle 19:00
+
+
+  Per qualsiasi informazione contattare Viola 3319865205
+
+  Piazza Santa Maria ad Nives
+
+  Schiavonea, Corigliano-Rossano'
+url: ''
+address:
+  mode: autocomplete
+  address:
+    place_id: 285216680
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 8164150
+    boundingbox:
+    - '39.4851769'
+    - '39.7244355'
+    - '16.3336668'
+    - '16.7702189'
+    lat: '39.616315'
+    lon: '16.5778956'
+    display_name: Corigliano-Rossano, Cosenza, Calabria, 87064, Italia
+    class: boundary
+    type: administrative
+    importance: 0.5919557965128309
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      municipality: Corigliano-Rossano
+      county: Cosenza
+      state: Calabria
+      postcode: '87064'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+type: legal
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/287,1178000801,2022-03-23 13:08:04,2022-03-23 11:41:03,Regione Abruzzo: online info per accoglienza e assistenza profughi ucraini (in italiano e ucraino),42.365814400000005,13.374276790275314,Abruzzo,L'Aquila,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""hospitality"",""healtcare""]",,,"{""Posizione"":""42.365814400000005 13.374276790275314"",""description"":""Sul sito della Regione Abruzzo sono online tutte le info sull'accoglienza e assistenza dei profughi ucraini (alloggi, assistenza sanitaria e altro) e per le famiglie che ospitano o desiderano ospitare minori e famigulie ucraine.\nPagina in italiano e ucraino, con info anche per singole citt\u00e0."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.regione.abruzzo.it/content/emergenza-ucraina"",""location"":{""address"":{""address"":{""building"":""Palazzo Silone"",""city"":""L'Aquila"",""country"":""Italia"",""country_code"":""it"",""county"":""L'Aquila"",""house_number"":""6"",""neighbourhood"":""Contrada Romani"",""postcode"":""67100"",""road"":""Via Leonardo da Vinci"",""state"":""Abruzzo""},""boundingbox"":[""42.365538"",""42.3661063"",""13.3737095"",""13.3747562""],""class"":""building"",""display_name"":""Palazzo Silone, 6, Via Leonardo da Vinci, Contrada Romani, L'Aquila, Abruzzo, 67100, Italia"",""importance"":1.1354342386327727,""lat"":""42.365814400000005"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.374276790275314"",""osm_id"":591326251,""osm_type"":""way"",""place_id"":225266677,""type"":""yes""},""mode"":""autocomplete""},""submit"":true,""title"":""Regione Abruzzo: online info per accoglienza e assistenza profughi ucraini (in italiano e ucraino)""}","<pre><yamldata>
 title: 'Regione Abruzzo: online info per accoglienza e assistenza profughi ucraini
   (in italiano e ucraino)'
