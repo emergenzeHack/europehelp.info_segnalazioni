@@ -1,4 +1,134 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/304,1178499663,2022-03-23 18:30:53,2022-03-23 18:22:06,"Napoli, alla Mostra d’Oltremare centro di accoglienza sanitaria per i profughi ucraini",,,,,"[""Valid/Accettato"",""Services"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""building"":""Mostra d'Oltremare"",""city"":""Napoli"",""country"":""Italia"",""country_code"":""it"",""county"":""Napoli"",""postcode"":""80125"",""road"":""Piazzale Vincenzo Tecchio"",""state"":""Campania"",""suburb"":""Fuorigrotta""},""boundingbox"":[""40.8240788"",""40.8241788"",""14.1915383"",""14.1916383""],""class"":""building"",""display_name"":""Mostra d'Oltremare, Piazzale Vincenzo Tecchio, Fuorigrotta, Municipalit\u00e0 10, Napoli, Campania, 80125, Italia"",""importance"":0.411,""lat"":""40.8241288"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.1915883"",""osm_id"":4177685298,""osm_type"":""node"",""place_id"":48008434,""type"":""yes""},""mode"":""autocomplete""},""description"":""Un nuovo centro di accoglienza sanitaria per i profughi ucraini a Napoli, alla Mostra d'Oltremare, dove saranno attivati degli sportelli di competenza sanitaria dell'Asl Napoli 1 con la generazione di codice straniero temporaneamente presente (Stp), con il tampone per il covid e offerta dei vaccini anticovid.\n\nCon quindici mediatrici culturali e medici dell\u2019Asl, alla Mostra d'Oltremare ci saranno due ingressi diversi per gli italiani che arrivano per i vaccini e gli ucraini che entrano nell'assistenza sanitaria dell'Asl."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Napoli"",""recipients"":"""",""submit"":true,""title"":""Napoli, alla Mostra d\u2019Oltremare centro di accoglienza sanitaria per i profughi ucraini"",""type"":""healthcare"",""url"":""http://www.napolicittasolidale.it/portal/news/11117-ucraina,-centro-di-accoglienza-sanitaria-alla-mostra-d%E2%80%99oltremare.html""}","<pre><yamldata>
+type: healthcare
+offerFromWho: Comune di Napoli
+title: Napoli, alla Mostra d’Oltremare centro di accoglienza sanitaria per i profughi
+  ucraini
+recipients: ''
+description: 'Un nuovo centro di accoglienza sanitaria per i profughi ucraini a Napoli,
+  alla Mostra d''Oltremare, dove saranno attivati degli sportelli di competenza sanitaria
+  dell''Asl Napoli 1 con la generazione di codice straniero temporaneamente presente
+  (Stp), con il tampone per il covid e offerta dei vaccini anticovid.
+
+
+  Con quindici mediatrici culturali e medici dell’Asl, alla Mostra d''Oltremare ci
+  saranno due ingressi diversi per gli italiani che arrivano per i vaccini e gli ucraini
+  che entrano nell''assistenza sanitaria dell''Asl.'
+url: http://www.napolicittasolidale.it/portal/news/11117-ucraina,-centro-di-accoglienza-sanitaria-alla-mostra-d%E2%80%99oltremare.html
+address:
+  mode: autocomplete
+  address:
+    place_id: 48008434
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 4177685298
+    boundingbox:
+    - '40.8240788'
+    - '40.8241788'
+    - '14.1915383'
+    - '14.1916383'
+    lat: '40.8241288'
+    lon: '14.1915883'
+    display_name: Mostra d'Oltremare, Piazzale Vincenzo Tecchio, Fuorigrotta, Municipalità
+      10, Napoli, Campania, 80125, Italia
+    class: building
+    type: 'yes'
+    importance: 0.411
+    address:
+      building: Mostra d'Oltremare
+      road: Piazzale Vincenzo Tecchio
+      suburb: Fuorigrotta
+      city: Napoli
+      county: Napoli
+      state: Campania
+      postcode: '80125'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/303,1178496896,2022-03-23 18:30:34,2022-03-23 18:19:23,"Napoli Città Solidale, online info su raccolte beni e farmaci a sostegno del popolo ucraino",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Napoli"",""country"":""Italia"",""country_code"":""it"",""county"":""Napoli"",""neighbourhood"":""Rione Sant'Alfonso"",""postcode"":""80100"",""road"":""Via vicinale Santa Maria del Pianto"",""state"":""Campania"",""suburb"":""Municipalit\u00e0 4""},""boundingbox"":[""40.8638307"",""40.8659546"",""14.2835705"",""14.2853246""],""class"":""highway"",""display_name"":""Via vicinale Santa Maria del Pianto, Rione Sant'Alfonso, Municipalit\u00e0 4, Napoli, Campania, 80100, Italia"",""importance"":0.8099999999999999,""lat"":""40.8649252"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.2844352"",""osm_id"":165015990,""osm_type"":""way"",""place_id"":141479692,""type"":""residential""},""mode"":""autocomplete""},""description"":""Sul sito di Napoli Citt\u00e0 Solidale info utili sui centri di raccolta in citt\u00e0 di beni e farmaci per l\u2019Ucraina."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Napoli Citt\u00e0 Solidale"",""recipients"":""Cittadini"",""submit"":true,""title"":""Napoli Citt\u00e0 Solidale, online info sulle raccolte beni e farmaci a sostegno del popolo ucraino"",""type"":""materialGoods"",""url"":""http://www.napolicittasolidale.it/portal/primo-piano/11108-ucraina,-dall%E2%80%99accoglienza-agli-aiuti-in-campania-ecco-come-fare.html""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: Napoli Città Solidale
+title: Napoli Città Solidale, online info sulle raccolte beni e farmaci a sostegno
+  del popolo ucraino
+recipients: Cittadini
+description: Sul sito di Napoli Città Solidale info utili sui centri di raccolta in
+  città di beni e farmaci per l’Ucraina.
+url: http://www.napolicittasolidale.it/portal/primo-piano/11108-ucraina,-dall%E2%80%99accoglienza-agli-aiuti-in-campania-ecco-come-fare.html
+address:
+  mode: autocomplete
+  address:
+    place_id: 141479692
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 165015990
+    boundingbox:
+    - '40.8638307'
+    - '40.8659546'
+    - '14.2835705'
+    - '14.2853246'
+    lat: '40.8649252'
+    lon: '14.2844352'
+    display_name: Via vicinale Santa Maria del Pianto, Rione Sant'Alfonso, Municipalità
+      4, Napoli, Campania, 80100, Italia
+    class: highway
+    type: residential
+    importance: 0.8099999999999999
+    address:
+      road: Via vicinale Santa Maria del Pianto
+      neighbourhood: Rione Sant'Alfonso
+      suburb: Municipalità 4
+      city: Napoli
+      county: Napoli
+      state: Campania
+      postcode: '80100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/301,1178490222,2022-03-23 18:29:54,2022-03-23 18:12:14,Mamma con due bambini fuggita dall’Ucraina cerca casa e lavoro a Pavia e dintorni,45.036854649999995,9.137825082826026,Lombardia,Pavia,"[""Valid/Accettato"",""Help"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.036854649999995 9.137825082826026"",""description"":""Il numero di telefono \u00e8 dell'amica che li ospita, parla italiano. la mail di una volontaria che li sta aiutando, Maria Teresa Oldani"",""email"":""mtroldy.gas@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""state"":""Lombardia""},""boundingbox"":[""44.6799091"",""45.393838"",""8.4978518"",""9.5505475""],""class"":""boundary"",""display_name"":""Pavia, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7322019961097704,""lat"":""45.036854649999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.137825082826026"",""osm_id"":43483,""osm_type"":""relation"",""place_id"":283772748,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Shpirka Diana"",""phoneNumber"":""+39 340 3943816"",""recipients"":"""",""submit"":true,""title"":""Cerca una casa per s\u00e8 e due bambini, possibilmente a Pavia o dintorni. E' ospitata attualmente da un'amica in un monolocale. Cerca anche lavoro"",""url"":""""}","<pre><yamldata>
+nameSurname: Shpirka Diana
+phoneNumber: +39 340 3943816
+email: mtroldy.gas@gmail.com
+title: Cerca una casa per sè e due bambini, possibilmente a Pavia o dintorni. E' ospitata
+  attualmente da un'amica in un monolocale. Cerca anche lavoro
+recipients: ''
+description: Il numero di telefono è dell'amica che li ospita, parla italiano. la
+  mail di una volontaria che li sta aiutando, Maria Teresa Oldani
+url: ''
+location:
+  mode: autocomplete
+  address:
+    place_id: 283772748
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43483
+    boundingbox:
+    - '44.6799091'
+    - '45.393838'
+    - '8.4978518'
+    - '9.5505475'
+    lat: '45.036854649999995'
+    lon: '9.137825082826026'
+    display_name: Pavia, Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7322019961097704
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Pavia
+      state: Lombardia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 45.036854649999995 9.137825082826026
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/302,1178492285,2022-03-23 18:24:51,2022-03-23 18:14:30,"Comune di Napoli, online modulo per ospitare profughi ucraini, offrire supporto psicologico e mediazione linguistica",,,,,"[""Valid/Accettato"",""Services"",""hospitality"",""translation"",""psychologicalSupport""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Palazzo San Giacomo (Municipio)"",""city"":""Napoli"",""country"":""Italia"",""country_code"":""it"",""county"":""Napoli"",""house_number"":""22"",""postcode"":""80133"",""road"":""Piazza Municipio"",""state"":""Campania"",""suburb"":""San Ferdinando""},""boundingbox"":[""40.8398829"",""40.8406363"",""14.2495749"",""14.2506532""],""class"":""amenity"",""display_name"":""Palazzo San Giacomo (Municipio), 22, Piazza Municipio, San Ferdinando, Municipalit\u00e0 1, Napoli, Campania, 80133, Italia"",""importance"":1.0627181510659862,""lat"":""40.8402643"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.25009426338531"",""osm_id"":3346542,""osm_type"":""relation"",""place_id"":284808001,""type"":""townhall""},""mode"":""autocomplete""},""description"":""Per aiutare donne, bambini e tutti coloro che sono arrivati e che giungeranno in citt\u00e0, si possono mettere a disposizione alloggi privati, strutture alberghiere ed extra alberghiere, posti in comunit\u00e0, stanze in conventi. Ma non solo. Si potr\u00e0 contribuire alla raccolta di farmaci, proporsi come volontari per traduzione, mediazione culturale e supporto psicologico.\nL\u2019iniziativa \u00e8 partita dal Comune di Napoli, che in queste ore ha accolto le numerosissime sollecitazioni di cittadini, associazioni e professionisti, e ha pubblicato sul sito istituzionale un modulo da compilare per poter offrire il proprio aiuto. Non sono richiesti generi alimentari, abiti e giocattoli, la cui raccolta \u00e8 partita nei giorni scorsi in vari punti del territorio."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Napoli"",""recipients"":""Cittadini"",""submit"":true,""title"":""Comune di Napoli, online modulo per offrire disponibilit\u00e0 a ospitare profughi ucraini e offrire altri servizi"",""type"":""hospitality"",""url"":""https://www.comune.napoli.it/aiuto-ucraina""}","<pre><yamldata>
 type: hospitality
 offerFromWho: Comune di Napoli
