@@ -327,15 +327,6 @@ if __name__ == "__main__":
             logger.info("Issue body %s", issue.body)
             continue
 
-        if labels == ["Services"]:
-            if "type" in data:
-                labels=[];
-                for k,v in data["type"].items():
-                    if v:
-                        labels.append(k)
-
-        logger.info("labels for services replaced by {}".format(labels))
-
         for posName in POSIZIONE_NAMES:
             if posName in data:
                 try:
