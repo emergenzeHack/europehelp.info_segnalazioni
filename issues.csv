@@ -1,4 +1,135 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/322,1179641625,2022-03-24 22:01:04,2022-03-24 15:01:05,Comune di Pesaro attiva linea telefonica e email SOS Ucraina,,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""materialGoods"",""hospitality"",""contact""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Municipio di Pesaro"",""city"":""Pesaro"",""country"":""Italia"",""country_code"":""it"",""county"":""Pesaro e Urbino"",""house_number"":""1"",""postcode"":""61121"",""quarter"":""Centro Storico"",""road"":""Piazza del Popolo"",""state"":""Marche"",""suburb"":""Pantano""},""boundingbox"":[""43.9099326"",""43.9100326"",""12.9132202"",""12.9133202""],""class"":""amenity"",""display_name"":""Municipio di Pesaro, 1, Piazza del Popolo, Centro Storico, Pantano, Pesaro, Pesaro e Urbino, Marche, 61121, Italia"",""importance"":1.7810000000000001,""lat"":""43.9099826"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.9132702"",""osm_id"":5665557322,""osm_type"":""node"",""place_id"":63279142,""type"":""townhall""},""mode"":""autocomplete""},""aim"":""L\u2019obiettivo \u00e8 coordinare gli aiuti, le donazioni e le offerte di alloggio che stanno giungendo da tutta la citt\u00e0 di Pesaro. Il Comune ha quindi attivato un numero di telefono, lo 0721.387616, che risponder\u00e0 dalle 9 alle 11 e dalle 17 alle 19, e una mail protezione.2@comune.pesaro.pu.it"",""email"":""protezione.2@comune.pesaro.pu.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":""+390721387616"",""submit"":true,""title"":""Linea diretta Comune di Pesaro SOS Ucraina"",""url"":""http://www.comune.pesaro.pu.it/novita-in-comune/dettaglio/news/sos-ucraina-la-linea-diretta-del-comune-per-coordinare-gli-aiuti/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=7299a4f17cca58e7ebd2de8aa9741b23""}","<pre><yamldata>
+title: Linea diretta Comune di Pesaro SOS Ucraina
+phoneNumber: '+390721387616'
+email: protezione.2@comune.pesaro.pu.it
+aim: L’obiettivo è coordinare gli aiuti, le donazioni e le offerte di alloggio che
+  stanno giungendo da tutta la città di Pesaro. Il Comune ha quindi attivato un numero di telefono, lo 0721.387616, che risponderà dalle 9 alle 11 e dalle 17 alle 19, e una mail protezione.2@comune.pesaro.pu.it
+url: http://www.comune.pesaro.pu.it/novita-in-comune/dettaglio/news/sos-ucraina-la-linea-diretta-del-comune-per-coordinare-gli-aiuti/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=7299a4f17cca58e7ebd2de8aa9741b23
+address:
+  mode: autocomplete
+  address:
+    place_id: 63279142
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 5665557322
+    boundingbox:
+    - '43.9099326'
+    - '43.9100326'
+    - '12.9132202'
+    - '12.9133202'
+    lat: '43.9099826'
+    lon: '12.9132702'
+    display_name: Municipio di Pesaro, 1, Piazza del Popolo, Centro Storico, Pantano,
+      Pesaro, Pesaro e Urbino, Marche, 61121, Italia
+    class: amenity
+    type: townhall
+    importance: 1.7810000000000001
+    address:
+      amenity: Municipio di Pesaro
+      house_number: '1'
+      road: Piazza del Popolo
+      quarter: Centro Storico
+      suburb: Pantano
+      city: Pesaro
+      county: Pesaro e Urbino
+      state: Marche
+      postcode: '61121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/323,1180075024,2022-03-24 21:55:55,2022-03-24 21:28:49,A Milano corso di Italiano Intensivo per rifugiate e rifugiati ucraini (con servizio di baby sitting),,,,,"[""Valid/Accettato"",""Services"",""translation"",""women""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""state"":""Lombardia""},""boundingbox"":[""45.3867381"",""45.5358482"",""9.0408867"",""9.2781103""],""class"":""boundary"",""display_name"":""Milano, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8490652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":44915,""osm_type"":""relation"",""place_id"":283684439,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Corso di italiano intensivo di 50 ore destinato a rifugiate e rifugiati ucraini. Il corso sar\u00e0 tenuto da insegnanti qualificati affiancati da una figura di supporto madrelingua ucraina. Disponibile un servizio baby sitting per bambini in et\u00e0 pre-scolare Metodologia didattica adattata in base al target (adulti, bambini, ragazzi) Per informazioni chiamare 028693194 - 3791195239, formazione@fondazioneverga.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""AVSI, Associazione San Martino, Fondazione Franco Verga"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Corsi di Italiano Intensivi - Milano"",""url"":""""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: true
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+offerFromWho: AVSI, Associazione San Martino, Fondazione Franco Verga
+title: Corsi di Italiano Intensivi - Milano
+recipients: ''
+description: 'Corso di italiano intensivo di 50 ore destinato a rifugiate e rifugiati ucraini.
+Il corso sarà tenuto da insegnanti qualificati affiancati da una figura di supporto
+  madrelingua ucraina.
+Disponibile un servizio baby sitting per bambini in età pre-scolare
+Metodologia didattica adattata in base al target (adulti, bambini, ragazzi)
+  Per informazioni chiamare 028693194 - 3791195239, formazione@fondazioneverga.org'
+url: ''
+address:
+  mode: autocomplete
+  address:
+    place_id: 283684439
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 44915
+    boundingbox:
+    - '45.3867381'
+    - '45.5358482'
+    - '9.0408867'
+    - '9.2781103'
+    lat: '45.4641943'
+    lon: '9.1896346'
+    display_name: Milano, Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8490652078701348
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Milano
+      county: Milano
+      state: Lombardia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/325,1180084879,2022-03-24 21:51:24,2022-03-24 21:42:34,"Sucho, progetto internazionale per salvare il patrimonio culturale online dell'Ucraina",,,,,"[""Valid/Accettato"",""News"",""document_data"",""Resources""]",,,"{""description"":""Salvare il patrimonio culturale online dell'Ucraina. Questk lo scopo dei volontari di \""SUCHO - Saving Ukrainian Cultural Heritage Online\"", progetto internazionale creato da bibliotecari, archivisti e programmatori.\nAttraverso la combinazione di tecnologie di scansione e archiviazione di siti e contenuti, tra cui Wayback Machine di Internet Archive, il crawler Browsertrix e l\u2019estensione del browser ArchiveWeb, centinaia di volontari in tutto il mondo stanno raccogliendo e archiviando il patrimonio culturale digitale dell'Ucraina.\nTutte le info sul progetto e sulle modalit\u00e0 di partecipazione sul sito Sucho.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.sucho.org"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Sucho, progetto internazionale per salvare il patrimonio culturale online dell'Ucraina""}","<pre><yamldata>
+title: Sucho, progetto internazionale per salvare il patrimonio culturale online dell'Ucraina
+description: 'Salvare il patrimonio culturale online dell''Ucraina. Questk lo scopo
+  dei volontari di ""SUCHO - Saving Ukrainian Cultural Heritage Online"", progetto internazionale
+  creato da bibliotecari, archivisti e programmatori.
+
+  Attraverso la combinazione di tecnologie di scansione e archiviazione di siti e
+  contenuti, tra cui Wayback Machine di Internet Archive, il crawler Browsertrix e
+  l’estensione del browser ArchiveWeb, centinaia di volontari in tutto il mondo stanno
+  raccogliendo e archiviando il patrimonio culturale digitale dell''Ucraina.
+
+  Tutte le info sul progetto e sulle modalità di partecipazione sul sito Sucho.org'
+link: https://www.sucho.org
+location:
+  mode: autocomplete
+  address: {}
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/324,1180077575,2022-03-24 21:50:24,2022-03-24 21:32:17,Su Rainews24 il primo tg italiano in lingua ucraina dedicato alla guerra in corso,,,,,"[""Valid/Accettato"",""News"",""translation""]",,,"{""description"":""Rainews24 fornir\u00e0 dal 25 marzo un telegiornale in lingua ucraina con aggiornamenti sulla guerra che \u00e8 in corso a causa dell\u2019invasione russa. Per cinque minuti, dalle ore 15, verr\u00e0 mandato in onda un notiziario nella lingua dei rifugiati che hanno trovato riparo nelle ultime settimane in Italia e in altri Paesi. Nella parte conclusiva la trasmissione prevede un punto sulla situazione militare e sui contatti internazionali delle ore precedenti affidato a una giornalista o un giornalista della redazione Esteri."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.rai.it/ufficiostampa/assets/template/us-articolo.html?ssiPath=/articoli/2022/03/Rai-da-domani-su-Rainews24-il-primo-tg-italiano-in-lingua-ucraina-85b946a9-40ec-46b8-a623-50dcd77b3c05-ssi.html"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Su Rainews24 il primo tg italiano in lingua ucraina""}","<pre><yamldata>
+title: Su Rainews24 il primo tg italiano in lingua ucraina
+description: 'Rainews24 fornirà dal 25 marzo un telegiornale
+  in lingua ucraina con aggiornamenti sulla guerra che è in corso a causa dell’invasione
+  russa. Per cinque minuti, dalle ore 15, verrà mandato in onda un notiziario nella
+  lingua dei rifugiati che hanno trovato riparo nelle ultime settimane in Italia e
+  in altri Paesi. Nella parte conclusiva la trasmissione prevede un punto sulla situazione
+  militare e sui contatti internazionali delle ore precedenti affidato a una giornalista
+  o un giornalista della redazione Esteri.'
+link: https://www.rai.it/ufficiostampa/assets/template/us-articolo.html?ssiPath=/articoli/2022/03/Rai-da-domani-su-Rainews24-il-primo-tg-italiano-in-lingua-ucraina-85b946a9-40ec-46b8-a623-50dcd77b3c05-ssi.html
+location:
+  mode: autocomplete
+  address: {}
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/152,1169990552,2022-03-24 16:57:41,2022-03-15 17:44:21,"Western Union, MoneyGram, Ria Money Transfer, INTELEXPRESS, TransferGo aboliscono le spese di commissione per l’invio di denaro in Ucraina",,,,,"[""Valid/Accettato"",""News"",""Services"",""telegram-channel"",""tweet""]",,,"{""description"":""Western Union, MoneyGram, Ria Money Transfer, Intelexpress, TransferGo hanno abolito le spese di commissione per l\u2019invio di denaro in Ucraina. Lo riferisce la Banca nazionale dell\u2019Ucraina."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://twitter.com/hromadske/status/1501897876171112451?s=21"",""location"":{""address"":{""address"":{},""mode"":""autocomplete""},""mode"":""autocomplete""},""submit"":true,""title"":""Western Union, MoneyGram, Ria Money Transfer, INTELEXPRESS, TransferGo hanno abolito le spese di commissione per l\u2019invio di denaro in Ucraina""}","<pre><yamldata>
 title: Western Union, MoneyGram, Ria Money Transfer, INTELEXPRESS, TransferGo hanno
   abolito le spese di commissione per l’invio di denaro in Ucraina
