@@ -1,4 +1,19 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/138,1168909012,2022-03-24 13:32:47,2022-03-14 21:10:28,"UkraineTakeShelter, piattaforma in 12 lingue che offre ospitalità ai rifugiati ucraini",,,,,"[""Valid/Accettato"",""News"",""Services"",""useful contact"",""hospitality"",""Resources""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""UkraineTakeShelter, piattaforma in 12 lingue creata da due studenti di Harvard, Avi Schiffman e Marco Burstein, dove i profughi ucraini in fuga dalla guerra possono trovare ospiti disponibili ad accoglierli."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""UkraineTakeShelter"",""recipients"":"""",""submit"":true,""title"":""UkraineTakeShelter, piattaforma in 12 lingue che offre ospitalit\u00e0 ai rifugiati ucraini"",""type"":""hospitality"",""url"":""https://www.ukrainetakeshelter.com""}","<pre><yamldata>
+type: hospitality
+offerFromWho: UkraineTakeShelter
+title: UkraineTakeShelter, piattaforma in 12 lingue che offre ospitalità ai rifugiati
+  ucraini
+recipients: ''
+description: 'UkraineTakeShelter, piattaforma in 12 lingue creata da due studenti di Harvard, Avi Schiffman e Marco Burstein, dove i profughi ucraini in fuga dalla guerra possono trovare ospiti disponibili ad accoglierli.'
+url: https://www.ukrainetakeshelter.com
+address:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/297,1178426570,2022-03-24 09:07:08,2022-03-23 17:21:59,"Medici e sanitari ucraini potranno esercitare la professione in Italia (Decreto Ucraina, 21 marzo)",,,,,"[""Valid/Accettato"",""News"",""job"",""telegram-channel"",""tweet""]",,,"{""description"":""Roma, 22 marzo 2022 \u2013 Medici e professionisti sanitari ucraini potranno esercitare (da oggi e fino al 4 marzo 2023) la professione in Italia in via temporanea. Lo prevede il decreto \u2018Misure urgenti\u2019 per l\u2019Ucraina pubblicato nella Gazzetta del 21/3. \u201cE\u2019 consentito l\u2019esercizio temporaneo delle qualifiche professionali sanitarie e della qualifica di operatore socio-sanitario ai professionisti cittadini ucraini residenti in Ucraina prima del 24/2/22 che intendono esercitare nel territorio nazionale, in strutture sanitarie pubbliche o private, una professione sanitaria o socio sanitaria in base a qualifica conseguita all\u2019estero regolata da direttive Ue\u201d."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://stranieriinitalia.it/attualita/decreto-in-gazzetta-da-oggi-i-medici-ucraini-potranno-esercitare-in-italia/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Medici e professionisti sanitari ucraini potranno esercitare la professione in Italia (Decreto Ucraina, 21 marzo)""}","<pre><yamldata>
 title: Medici e professionisti sanitari ucraini potranno esercitare la professione
   in Italia (Decreto Ucraina, 21 marzo)
@@ -8166,21 +8181,6 @@ address:
       state: Veneto
       country: Italia
       country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/138,1168909012,2022-03-17 12:41:31,2022-03-14 21:10:28,"UkraineTakeShelter, piattaforma in 12 lingue che offre ospitalità ai rifugiati ucraini",,,,,"[""Valid/Accettato"",""News"",""Services"",""useful contact"",""hospitality""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""UkraineTakeShelter, piattaforma in 12 lingue creata da due studenti di Harvard, Avi Schiffman e Marco Burstein, dove i profughi ucraini in fuga dalla guerra possono trovare ospiti disponibili ad accoglierli."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""UkraineTakeShelter"",""recipients"":"""",""submit"":true,""title"":""UkraineTakeShelter, piattaforma in 12 lingue che offre ospitalit\u00e0 ai rifugiati ucraini"",""type"":""hospitality"",""url"":""https://www.ukrainetakeshelter.com""}","<pre><yamldata>
-type: hospitality
-offerFromWho: UkraineTakeShelter
-title: UkraineTakeShelter, piattaforma in 12 lingue che offre ospitalità ai rifugiati
-  ucraini
-recipients: ''
-description: 'UkraineTakeShelter, piattaforma in 12 lingue creata da due studenti di Harvard, Avi Schiffman e Marco Burstein, dove i profughi ucraini in fuga dalla guerra possono trovare ospiti disponibili ad accoglierli.'
-url: https://www.ukrainetakeshelter.com
-address:
-  mode: autocomplete
-  address: {}
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
