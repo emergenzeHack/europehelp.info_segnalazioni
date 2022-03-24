@@ -1,4 +1,67 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/320,1178741901,2022-03-24 15:07:42,2022-03-23 22:38:13,"Ambasciata Ucraina in Italia, raccolta di risorse e servizi online per bambini e scolari ucraini",,,,,"[""Valid/Accettato"",""Services"",""Children""]",,,"{""address"":{""address"":{""address"":{""city"":""Kiev"",""country"":""Ucraina"",""country_code"":""ua"",""postcode"":""1001""},""boundingbox"":[""50.2900336"",""50.6100336"",""30.3641361"",""30.6841361""],""class"":""place"",""display_name"":""Kiev, Kyiv, 1001, Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.8358572961698041,""lat"":""50.4500336"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""30.5241361"",""osm_id"":26150422,""osm_type"":""node"",""place_id"":285620529,""type"":""city""},""mode"":""autocomplete""},""description"":""\u2705Scuola ucraina online: https://lms.e-school.net.ua/guide Per comodit\u00e0, \u00e8 stata sviluppata un app per cellulare oltre a un canale YouTube.\n\u2705Programma online ucraino: https://mon.gov.ua/ua/vseukrayinskij-rozklad Contiene collegamenti a materiali provenienti da varie risorse.\n\u2705Sulle piattaforme TV MEGOGO, video 1+1, Kievstar TV, dolce.TV.\n\u2705Per i bambini dell'infanzia iniziati i lavori dell'asilo nido online NUMO - piattaforma dove vengono raccolte video lezioni per bambini dai 3 ai 6 anni. La visione \u00e8 disponibile sui canali YouTube di MON ( https://bit.ly/3JqnY1P ) e UNICEF https://bit.ly/3JqnY1P e sulla piattaforma MEGOGO.\n\u2705 Vi ricordiamo anche le serie educative per bambini di qualsiasi et\u00e0 sulla piattaforma Azione. Educazione digitale: https://osvita.diia.gov.ua/about\nPuoi visionare il materiale ovunque e in qualsiasi momento assolutamente gratuitamente."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ambasciata Ucraina in Italia"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Raccolta di servizi online per la didattica a distanza per bambini e scolari ucraini"",""url"":""https://www.facebook.com/100064521677450/posts/337988131695240/?d=n""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+offerFromWho: Ambasciata Ucraina in Italia
+title: Raccolta di servizi online per la didattica a distanza per bambini e scolari
+  ucraini
+recipients: ''
+description: '✅Scuola ucraina online: https://lms.e-school.net.ua/guide Per comodità,
+  è stata sviluppata un app per cellulare oltre a un canale YouTube.
+
+  ✅Programma online ucraino: https://mon.gov.ua/ua/vseukrayinskij-rozklad Contiene
+  collegamenti a materiali provenienti da varie risorse.
+
+  ✅Sulle piattaforme TV MEGOGO, video 1+1, Kievstar TV, dolce.TV.
+
+  ✅Per i bambini dell''infanzia iniziati i lavori dell''asilo nido online NUMO - piattaforma
+  dove vengono raccolte video lezioni per bambini dai 3 ai 6 anni. La visione è disponibile
+  sui canali YouTube di MON ( https://bit.ly/3JqnY1P ) e UNICEF https://bit.ly/3JqnY1P
+  e sulla piattaforma MEGOGO.
+
+  ✅ Vi ricordiamo anche le serie educative per bambini di qualsiasi età sulla piattaforma
+  Azione. Educazione digitale: https://osvita.diia.gov.ua/about
+
+  Puoi visionare il materiale ovunque e in qualsiasi momento assolutamente gratuitamente.'
+url: https://www.facebook.com/100064521677450/posts/337988131695240/?d=n
+address:
+  mode: autocomplete
+  address:
+    place_id: 285620529
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 26150422
+    boundingbox:
+    - '50.2900336'
+    - '50.6100336'
+    - '30.3641361'
+    - '30.6841361'
+    lat: '50.4500336'
+    lon: '30.5241361'
+    display_name: Kiev, Kyiv, 1001, Ucraina
+    class: place
+    type: city
+    importance: 0.8358572961698041
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Kiev
+      postcode: '1001'
+      country: Ucraina
+      country_code: ua
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/138,1168909012,2022-03-24 13:32:47,2022-03-14 21:10:28,"UkraineTakeShelter, piattaforma in 12 lingue che offre ospitalità ai rifugiati ucraini",,,,,"[""Valid/Accettato"",""News"",""Services"",""useful contact"",""hospitality"",""Resources""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""UkraineTakeShelter, piattaforma in 12 lingue creata da due studenti di Harvard, Avi Schiffman e Marco Burstein, dove i profughi ucraini in fuga dalla guerra possono trovare ospiti disponibili ad accoglierli."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""UkraineTakeShelter"",""recipients"":"""",""submit"":true,""title"":""UkraineTakeShelter, piattaforma in 12 lingue che offre ospitalit\u00e0 ai rifugiati ucraini"",""type"":""hospitality"",""url"":""https://www.ukrainetakeshelter.com""}","<pre><yamldata>
 type: hospitality
 offerFromWho: UkraineTakeShelter
@@ -365,73 +428,6 @@ location:
   address: {}
 label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/320,1178741901,2022-03-23 22:40:03,2022-03-23 22:38:13,Raccolta di servizi online per la didattica a distanza per bambini e scolari ucraini,,,,,"[""Valid/Accettato"",""Services"",""Children""]",,,"{""address"":{""address"":{""address"":{""city"":""Kiev"",""country"":""Ucraina"",""country_code"":""ua"",""postcode"":""1001""},""boundingbox"":[""50.2900336"",""50.6100336"",""30.3641361"",""30.6841361""],""class"":""place"",""display_name"":""Kiev, Kyiv, 1001, Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.8358572961698041,""lat"":""50.4500336"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""30.5241361"",""osm_id"":26150422,""osm_type"":""node"",""place_id"":285620529,""type"":""city""},""mode"":""autocomplete""},""description"":""\u2705Scuola ucraina online: https://lms.e-school.net.ua/guide Per comodit\u00e0, \u00e8 stata sviluppata un app per cellulare oltre a un canale YouTube.\n\n\u2705Programma online ucraino: https://mon.gov.ua/ua/vseukrayinskij-rozklad Contiene collegamenti a materiali provenienti da varie risorse.\n\n\u2705Sulle piattaforme TV MEGOGO, video 1+1, Kievstar TV, dolce. TV.\n\n\u2705Per i bambini dell'infanzia iniziati i lavori dell'asilo nido online NUMO - piattaforma dove vengono raccolte video lezioni per bambini dai 3 ai 6 anni. La visione \u00e8 disponibile sui canali YouTube di MON ( https://bit.ly/3JqnY1P ) e UNICEF https://bit.ly/3JqnY1P e sulla piattaforma MEGOGO.\n\n\u2705 Vi ricordiamo anche le serie educative per bambini di qualsiasi et\u00e0 sulla piattaforma Azione. Educazione digitale: https://osvita.diia.gov.ua/about\nPuoi visionare il materiale ovunque e in qualsiasi momento assolutamente gratuitamente."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Governo Ucraino"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Raccolta di servizi online per la didattica a distanza per bambini e scolari ucraini"",""url"":""https://www.facebook.com/100064521677450/posts/337988131695240/?d=n""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: true
-  disability: false
-  women: false
-offerFromWho: Governo Ucraino
-title: Raccolta di servizi online per la didattica a distanza per bambini e scolari
-  ucraini
-recipients: ''
-description: '✅Scuola ucraina online: https://lms.e-school.net.ua/guide Per comodità,
-  è stata sviluppata un app per cellulare oltre a un canale YouTube.
-
-
-  ✅Programma online ucraino: https://mon.gov.ua/ua/vseukrayinskij-rozklad Contiene
-  collegamenti a materiali provenienti da varie risorse.
-
-
-  ✅Sulle piattaforme TV MEGOGO, video 1+1, Kievstar TV, dolce. TV.
-
-
-  ✅Per i bambini dell''infanzia iniziati i lavori dell''asilo nido online NUMO - piattaforma
-  dove vengono raccolte video lezioni per bambini dai 3 ai 6 anni. La visione è disponibile
-  sui canali YouTube di MON ( https://bit.ly/3JqnY1P ) e UNICEF https://bit.ly/3JqnY1P
-  e sulla piattaforma MEGOGO.
-
-
-  ✅ Vi ricordiamo anche le serie educative per bambini di qualsiasi età sulla piattaforma
-  Azione. Educazione digitale: https://osvita.diia.gov.ua/about
-
-  Puoi visionare il materiale ovunque e in qualsiasi momento assolutamente gratuitamente.'
-url: https://www.facebook.com/100064521677450/posts/337988131695240/?d=n
-address:
-  mode: autocomplete
-  address:
-    place_id: 285620529
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 26150422
-    boundingbox:
-    - '50.2900336'
-    - '50.6100336'
-    - '30.3641361'
-    - '30.6841361'
-    lat: '50.4500336'
-    lon: '30.5241361'
-    display_name: Kiev, Kyiv, 1001, Ucraina
-    class: place
-    type: city
-    importance: 0.8358572961698041
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
-    address:
-      city: Kiev
-      postcode: '1001'
-      country: Ucraina
-      country_code: ua
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/318,1178727608,2022-03-23 22:26:42,2022-03-23 22:17:36,"Comune di Macerata, online pagina dedicata all’accoglienza dei rifugiati ucraini",,,,,"[""Valid/Accettato"",""Services"",""fundraising"",""hospitality"",""translation""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Municipio"",""country"":""Italia"",""country_code"":""it"",""county"":""Macerata"",""house_number"":""3"",""postcode"":""62100"",""road"":""Piazza della Libert\u00e0"",""state"":""Marche"",""suburb"":""Centro storico"",""town"":""Macerata""},""boundingbox"":[""43.3000865"",""43.3001865"",""13.4528554"",""13.4529554""],""class"":""amenity"",""display_name"":""Municipio, 3, Piazza della Libert\u00e0, Centro storico, Macerata, Marche, 62100, Italia"",""importance"":0.5209999999999999,""lat"":""43.3001365"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.4529054"",""osm_id"":2323789411,""osm_type"":""node"",""place_id"":20282683,""type"":""townhall""},""mode"":""autocomplete""},""description"":""Sul sito del Comune di Macerata sezione (in italiano e ucraino) dedicata all\u2019accoglienza dei rifugiati ucraini con info utili e modulo da compilare se si vuole offrire ospitalit\u00e0 e servizi di mediazione linguistica. Online anche info sulla raccolta fondi attivata dal Comune per sostenere l\u2019accoglienza dei rifugiati ucraini."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Macerata"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Macerata, online pagina dedicata all\u2019accoglienza dei rifugiati ucraini"",""url"":""https://www.comune.macerata.it/servizi/politiche-sociali/emergenza-ucraina/#1647593867285-fba0563f-565d""}","<pre><yamldata>
