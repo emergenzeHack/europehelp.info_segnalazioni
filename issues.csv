@@ -1,5 +1,257 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/327,1180095337,2022-03-24 23:25:02,2022-03-24 21:57:38,Comune di Bari cerca interpreti volontari e mediatori culturali di lingua ucraina,,,,,"[""Valid/Accettato"",""Help"",""translation"",""job""]","Milestone(title=""25 aprile"", number=5)",,"{""address"":{""address"":{""address"":{""city"":""Bari"",""country"":""Italia"",""country_code"":""it"",""county"":""Bari"",""postcode"":""70122"",""state"":""Puglia""},""boundingbox"":[""40.9657843"",""41.2857843"",""16.7020293"",""17.0220293""],""class"":""place"",""display_name"":""Bari, Puglia, 70122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7287183212532693,""lat"":""41.1257843"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.8620293"",""osm_id"":68528585,""osm_type"":""node"",""place_id"":285627565,""type"":""city""},""mode"":""autocomplete""},""description"":""Il Comune di Bari ha lanciato un avviso pubblico per la costituzione di: 1) short list di interpreti volontari di lingua ucraina per fini di solidarieta\u2019 2) short list di mediatori linguistico culturali di lingua ucraina per il superamento della barriera linguistica volta all\u2019attivazione di tutti i servizi funzionali all\u2019accoglienza ed all\u2019inclusione dei profughi ucraini che stanno giungendo sul territorio cittadino.\nScadenza: 24 aprile 2022"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Bari"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""healthcare"":false,""hospitality"":false,""job"":true,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Bari, Comune ricerca interpreti e mediatori"",""url"":""https://www.comune.bari.it/-/2022-03-22-avviso-interpreti-e-mediatori-ucraina?fbclid=IwAR0waqAsGGB16inlSJPSw6dTLRjOVA_QlYQTJrmN85xM_WFtdoqukvVFUds""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/307,1178524960,2022-03-25 07:24:45,2022-03-23 18:45:57,A Napoli tre centri di riferimento per i rifugiati ucraini per assistenza sanitaria e supporto legale,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Napoli"",""country"":""Italia"",""country_code"":""it"",""county"":""Napoli"",""postcode"":""80100"",""state"":""Campania""},""boundingbox"":[""40.6758846"",""40.9958846"",""14.0887679"",""14.4087679""],""class"":""place"",""display_name"":""Napoli, Campania, 80100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.8193506544188203,""lat"":""40.8358846"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.2487679"",""osm_id"":428339558,""osm_type"":""node"",""place_id"":3232112,""type"":""city""},""mode"":""autocomplete""},""description"":""Sono tre i centri di riferimento per i cittadini ucraini che arrivano in Campania, attivati dalla Regione, attraverso la Protezione Civile e l\u2019Asl Napoli 1 Centro: garantiscono lo screening sanitario e il rilascio della certificazione per ottenere l\u2019assistenza sanitaria. In tutti e tre i centri sono presenti mediatori linguistici e personale della Polizia di Stato per la raccolta delle dichiarazioni sul territorio italiano.\n- Residence dell\u2019Ospedale del Mare Il primo \u00e8 un hub al Residence dell\u2019Ospedale del Mare a Napoli (in via Luca Pacioli angolo viale delle Metamorfosi, Ponticelli). Il centro \u00e8 aperto dalle 9 alle 18 e dispone di uno sportello/ufficio immigrazione della Polizia di Stato, di uno sportello dell\u2019ASL Napoli 1 Centro che servir\u00e0 a generare il codice STP (Straniero Temporaneamente Presente) valido 30 giorni, di uno sportello informazioni e di una postazione per tamponi (tampone antigenico per ricerca eventuale positivit\u00e0 al Covid).\n-  Sede del Consolato Ucraino di Napoli Il secondo centro \u00e8 stato attivato al Consolato dell\u2019Ucraina di Napoli (Centro Direzionale isola B3, primo piano) che \u00e8 aperto dalle 9 alle 18. Dispone di uno sportello dell\u2019ASL Napoli 1 Centro per generazione del codice STP (Straniero Temporaneamente Presente) valido 30 giorni, di uno sportello informazioni e di una postazione per tamponi (tampone antigenico per ricerca eventuale positivit\u00e0 al Covid). Questo il link attivato dal consolato ucraino per la registrazione di coloro che intendono raggiungere l\u2019Italia https://forms.gle/bQCZf6SWCt17kDdTA Contatti 081 7875433\n- Caritas di Somma Vesuviana Il terzo centro \u00e8 stato attivato presso la struttura della Caritas di Somma Vesuviana (Napoli), in via Trentola 10, dove opera l\u2019Asl Napoli 3 Sud."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Campania"",""recipients"":"""",""submit"":true,""title"":""A Napoli tre centri di riferimento per i rifugiati ucraini per assistenza sanitaria e supporto legale"",""type"":""healthcare"",""url"":""http://www.napolicittasolidale.it/portal/news/11115-ucraina,-i-centri-e-le-scuole-per-chi-arriva-in-campania.html""}","<pre><yamldata>
+type: healthcare
+offerFromWho: Regione Campania
+title: A Napoli tre centri di riferimento per i rifugiati ucraini per assistenza sanitaria
+  e supporto legale
+recipients: ''
+description: 'Sono tre i centri di riferimento per i cittadini ucraini che arrivano
+  in Campania, attivati dalla Regione, attraverso la Protezione Civile e l’Asl Napoli
+  1 Centro: garantiscono lo screening sanitario e il rilascio della certificazione
+  per ottenere l’assistenza sanitaria. In tutti e tre i centri sono presenti mediatori
+  linguistici e personale della Polizia di Stato per la raccolta delle dichiarazioni
+  sul territorio italiano.
+
+  - Residence dell’Ospedale del Mare
+  Il primo è un hub al Residence dell’Ospedale del Mare a Napoli (in via Luca Pacioli
+  angolo viale delle Metamorfosi, Ponticelli). Il centro è aperto dalle 9 alle 18
+  e dispone di uno sportello/ufficio immigrazione della Polizia di Stato, di uno sportello
+  dell’ASL Napoli 1 Centro che servirà a generare il codice STP (Straniero Temporaneamente
+  Presente) valido 30 giorni, di uno sportello informazioni e di una postazione per
+  tamponi (tampone antigenico per ricerca eventuale positività al Covid).
+
+  -  Sede del Consolato Ucraino di Napoli
+  Il secondo centro è stato attivato al Consolato dell’Ucraina di Napoli (Centro Direzionale
+  isola B3, primo piano) che è aperto dalle 9 alle 18. Dispone di uno sportello dell’ASL
+  Napoli 1 Centro per generazione del codice STP (Straniero Temporaneamente Presente)
+  valido 30 giorni, di uno sportello informazioni e di una postazione per tamponi
+  (tampone antigenico per ricerca eventuale positività al Covid). Questo il link attivato
+  dal consolato ucraino per la registrazione di coloro che intendono raggiungere l’Italia
+  https://forms.gle/bQCZf6SWCt17kDdTA
+  Contatti 081 7875433
+
+  - Caritas di Somma Vesuviana
+  Il terzo centro è stato attivato presso la struttura della Caritas di Somma Vesuviana
+  (Napoli), in via Trentola 10, dove opera l’Asl Napoli 3 Sud.'
+url: http://www.napolicittasolidale.it/portal/news/11115-ucraina,-i-centri-e-le-scuole-per-chi-arriva-in-campania.html
+address:
+  mode: autocomplete
+  address:
+    place_id: 3232112
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 428339558
+    boundingbox:
+    - '40.6758846'
+    - '40.9958846'
+    - '14.0887679'
+    - '14.4087679'
+    lat: '40.8358846'
+    lon: '14.2487679'
+    display_name: Napoli, Campania, 80100, Italia
+    class: place
+    type: city
+    importance: 0.8193506544188203
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Napoli
+      county: Napoli
+      state: Campania
+      postcode: '80100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/324,1180077575,2022-03-25 07:24:05,2022-03-24 21:32:17,Su Rainews24 il primo tg italiano in lingua ucraina dedicato alla guerra in corso,,,,,"[""Valid/Accettato"",""News"",""translation"",""telegram-channel"",""tweet""]",,,"{""description"":""Rainews24 fornir\u00e0 dal 25 marzo un telegiornale in lingua ucraina con aggiornamenti sulla guerra che \u00e8 in corso a causa dell\u2019invasione russa. Per cinque minuti, dalle ore 15, verr\u00e0 mandato in onda un notiziario nella lingua dei rifugiati che hanno trovato riparo nelle ultime settimane in Italia e in altri Paesi. Nella parte conclusiva la trasmissione prevede un punto sulla situazione militare e sui contatti internazionali delle ore precedenti affidato a una giornalista o un giornalista della redazione Esteri."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.rai.it/ufficiostampa/assets/template/us-articolo.html?ssiPath=/articoli/2022/03/Rai-da-domani-su-Rainews24-il-primo-tg-italiano-in-lingua-ucraina-85b946a9-40ec-46b8-a623-50dcd77b3c05-ssi.html"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Su Rainews24 il primo tg italiano in lingua ucraina""}","<pre><yamldata>
+title: Su Rainews24 il primo tg italiano in lingua ucraina
+description: 'Rainews24 fornirà dal 25 marzo un telegiornale
+  in lingua ucraina con aggiornamenti sulla guerra che è in corso a causa dell’invasione
+  russa. Per cinque minuti, dalle ore 15, verrà mandato in onda un notiziario nella
+  lingua dei rifugiati che hanno trovato riparo nelle ultime settimane in Italia e
+  in altri Paesi. Nella parte conclusiva la trasmissione prevede un punto sulla situazione
+  militare e sui contatti internazionali delle ore precedenti affidato a una giornalista
+  o un giornalista della redazione Esteri.'
+link: https://www.rai.it/ufficiostampa/assets/template/us-articolo.html?ssiPath=/articoli/2022/03/Rai-da-domani-su-Rainews24-il-primo-tg-italiano-in-lingua-ucraina-85b946a9-40ec-46b8-a623-50dcd77b3c05-ssi.html
+location:
+  mode: autocomplete
+  address: {}
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/318,1178727608,2022-03-25 07:22:45,2022-03-23 22:17:36,"Comune di Macerata, online pagina dedicata all’accoglienza dei rifugiati ucraini",,,,,"[""Valid/Accettato"",""Services"",""fundraising"",""hospitality"",""translation"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Municipio"",""country"":""Italia"",""country_code"":""it"",""county"":""Macerata"",""house_number"":""3"",""postcode"":""62100"",""road"":""Piazza della Libert\u00e0"",""state"":""Marche"",""suburb"":""Centro storico"",""town"":""Macerata""},""boundingbox"":[""43.3000865"",""43.3001865"",""13.4528554"",""13.4529554""],""class"":""amenity"",""display_name"":""Municipio, 3, Piazza della Libert\u00e0, Centro storico, Macerata, Marche, 62100, Italia"",""importance"":0.5209999999999999,""lat"":""43.3001365"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.4529054"",""osm_id"":2323789411,""osm_type"":""node"",""place_id"":20282683,""type"":""townhall""},""mode"":""autocomplete""},""description"":""Sul sito del Comune di Macerata sezione (in italiano e ucraino) dedicata all\u2019accoglienza dei rifugiati ucraini con info utili e modulo da compilare se si vuole offrire ospitalit\u00e0 e servizi di mediazione linguistica. Online anche info sulla raccolta fondi attivata dal Comune per sostenere l\u2019accoglienza dei rifugiati ucraini."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Macerata"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Macerata, online pagina dedicata all\u2019accoglienza dei rifugiati ucraini"",""url"":""https://www.comune.macerata.it/servizi/politiche-sociali/emergenza-ucraina/#1647593867285-fba0563f-565d""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: true
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+offerFromWho: Comune di Macerata
+title: Comune di Macerata, online pagina dedicata all’accoglienza dei rifugiati ucraini
+recipients: ''
+description: Sul sito del Comune di Macerata sezione (in italiano e ucraino) dedicata
+  all’accoglienza dei rifugiati ucraini con info utili e modulo da compilare se si
+  vuole offrire ospitalità e servizi di mediazione linguistica. Online anche info
+  sulla raccolta fondi attivata dal Comune per sostenere l’accoglienza dei rifugiati
+  ucraini.
+url: https://www.comune.macerata.it/servizi/politiche-sociali/emergenza-ucraina/#1647593867285-fba0563f-565d
+address:
+  mode: autocomplete
+  address:
+    place_id: 20282683
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 2323789411
+    boundingbox:
+    - '43.3000865'
+    - '43.3001865'
+    - '13.4528554'
+    - '13.4529554'
+    lat: '43.3001365'
+    lon: '13.4529054'
+    display_name: Municipio, 3, Piazza della Libertà, Centro storico, Macerata, Marche,
+      62100, Italia
+    class: amenity
+    type: townhall
+    importance: 0.5209999999999999
+    address:
+      amenity: Municipio
+      house_number: '3'
+      road: Piazza della Libertà
+      suburb: Centro storico
+      town: Macerata
+      county: Macerata
+      state: Marche
+      postcode: '62100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/323,1180075024,2022-03-25 07:22:27,2022-03-24 21:28:49,A Milano corso di Italiano Intensivo per rifugiate e rifugiati ucraini (con servizio di baby sitting),,,,,"[""Valid/Accettato"",""Services"",""translation"",""women"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""state"":""Lombardia""},""boundingbox"":[""45.3867381"",""45.5358482"",""9.0408867"",""9.2781103""],""class"":""boundary"",""display_name"":""Milano, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8490652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":44915,""osm_type"":""relation"",""place_id"":283684439,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Corso di italiano intensivo di 50 ore destinato a rifugiate e rifugiati ucraini. Il corso sar\u00e0 tenuto da insegnanti qualificati affiancati da una figura di supporto madrelingua ucraina. Disponibile un servizio baby sitting per bambini in et\u00e0 pre-scolare Metodologia didattica adattata in base al target (adulti, bambini, ragazzi) Per informazioni chiamare 028693194 - 3791195239, formazione@fondazioneverga.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""AVSI, Associazione San Martino, Fondazione Franco Verga"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Corsi di Italiano Intensivi - Milano"",""url"":""""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: true
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+offerFromWho: AVSI, Associazione San Martino, Fondazione Franco Verga
+title: Corsi di Italiano Intensivi - Milano
+recipients: ''
+description: 'Corso di italiano intensivo di 50 ore destinato a rifugiate e rifugiati ucraini.
+Il corso sarà tenuto da insegnanti qualificati affiancati da una figura di supporto
+  madrelingua ucraina.
+Disponibile un servizio baby sitting per bambini in età pre-scolare
+Metodologia didattica adattata in base al target (adulti, bambini, ragazzi)
+  Per informazioni chiamare 028693194 - 3791195239, formazione@fondazioneverga.org'
+url: ''
+address:
+  mode: autocomplete
+  address:
+    place_id: 283684439
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 44915
+    boundingbox:
+    - '45.3867381'
+    - '45.5358482'
+    - '9.0408867'
+    - '9.2781103'
+    lat: '45.4641943'
+    lon: '9.1896346'
+    display_name: Milano, Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8490652078701348
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Milano
+      county: Milano
+      state: Lombardia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/322,1179641625,2022-03-25 07:22:15,2022-03-24 15:01:05,Comune di Pesaro attiva linea telefonica e email SOS Ucraina,,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""materialGoods"",""hospitality"",""contact"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Municipio di Pesaro"",""city"":""Pesaro"",""country"":""Italia"",""country_code"":""it"",""county"":""Pesaro e Urbino"",""house_number"":""1"",""postcode"":""61121"",""quarter"":""Centro Storico"",""road"":""Piazza del Popolo"",""state"":""Marche"",""suburb"":""Pantano""},""boundingbox"":[""43.9099326"",""43.9100326"",""12.9132202"",""12.9133202""],""class"":""amenity"",""display_name"":""Municipio di Pesaro, 1, Piazza del Popolo, Centro Storico, Pantano, Pesaro, Pesaro e Urbino, Marche, 61121, Italia"",""importance"":1.7810000000000001,""lat"":""43.9099826"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.9132702"",""osm_id"":5665557322,""osm_type"":""node"",""place_id"":63279142,""type"":""townhall""},""mode"":""autocomplete""},""aim"":""L\u2019obiettivo \u00e8 coordinare gli aiuti, le donazioni e le offerte di alloggio che stanno giungendo da tutta la citt\u00e0 di Pesaro. Il Comune ha quindi attivato un numero di telefono, lo 0721.387616, che risponder\u00e0 dalle 9 alle 11 e dalle 17 alle 19, e una mail protezione.2@comune.pesaro.pu.it"",""email"":""protezione.2@comune.pesaro.pu.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":""+390721387616"",""submit"":true,""title"":""Linea diretta Comune di Pesaro SOS Ucraina"",""url"":""http://www.comune.pesaro.pu.it/novita-in-comune/dettaglio/news/sos-ucraina-la-linea-diretta-del-comune-per-coordinare-gli-aiuti/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=7299a4f17cca58e7ebd2de8aa9741b23""}","<pre><yamldata>
+title: Linea diretta Comune di Pesaro SOS Ucraina
+phoneNumber: '+390721387616'
+email: protezione.2@comune.pesaro.pu.it
+aim: L’obiettivo è coordinare gli aiuti, le donazioni e le offerte di alloggio che
+  stanno giungendo da tutta la città di Pesaro. Il Comune ha quindi attivato un numero di telefono, lo 0721.387616, che risponderà dalle 9 alle 11 e dalle 17 alle 19, e una mail protezione.2@comune.pesaro.pu.it
+url: http://www.comune.pesaro.pu.it/novita-in-comune/dettaglio/news/sos-ucraina-la-linea-diretta-del-comune-per-coordinare-gli-aiuti/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=7299a4f17cca58e7ebd2de8aa9741b23
+address:
+  mode: autocomplete
+  address:
+    place_id: 63279142
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 5665557322
+    boundingbox:
+    - '43.9099326'
+    - '43.9100326'
+    - '12.9132202'
+    - '12.9133202'
+    lat: '43.9099826'
+    lon: '12.9132702'
+    display_name: Municipio di Pesaro, 1, Piazza del Popolo, Centro Storico, Pantano,
+      Pesaro, Pesaro e Urbino, Marche, 61121, Italia
+    class: amenity
+    type: townhall
+    importance: 1.7810000000000001
+    address:
+      amenity: Municipio di Pesaro
+      house_number: '1'
+      road: Piazza del Popolo
+      quarter: Centro Storico
+      suburb: Pantano
+      city: Pesaro
+      county: Pesaro e Urbino
+      state: Marche
+      postcode: '61121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/325,1180084879,2022-03-25 07:21:55,2022-03-24 21:42:34,"Sucho, progetto internazionale per salvare il patrimonio culturale online dell'Ucraina",,,,,"[""Valid/Accettato"",""News"",""document_data"",""telegram-channel"",""tweet"",""Resources""]",,,"{""description"":""Salvare il patrimonio culturale online dell'Ucraina. Questk lo scopo dei volontari di \""SUCHO - Saving Ukrainian Cultural Heritage Online\"", progetto internazionale creato da bibliotecari, archivisti e programmatori.\nAttraverso la combinazione di tecnologie di scansione e archiviazione di siti e contenuti, tra cui Wayback Machine di Internet Archive, il crawler Browsertrix e l\u2019estensione del browser ArchiveWeb, centinaia di volontari in tutto il mondo stanno raccogliendo e archiviando il patrimonio culturale digitale dell'Ucraina.\nTutte le info sul progetto e sulle modalit\u00e0 di partecipazione sul sito Sucho.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.sucho.org"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Sucho, progetto internazionale per salvare il patrimonio culturale online dell'Ucraina""}","<pre><yamldata>
+title: Sucho, progetto internazionale per salvare il patrimonio culturale online dell'Ucraina
+description: 'Salvare il patrimonio culturale online dell''Ucraina. Questk lo scopo
+  dei volontari di ""SUCHO - Saving Ukrainian Cultural Heritage Online"", progetto internazionale
+  creato da bibliotecari, archivisti e programmatori.
+
+  Attraverso la combinazione di tecnologie di scansione e archiviazione di siti e
+  contenuti, tra cui Wayback Machine di Internet Archive, il crawler Browsertrix e
+  l’estensione del browser ArchiveWeb, centinaia di volontari in tutto il mondo stanno
+  raccogliendo e archiviando il patrimonio culturale digitale dell''Ucraina.
+
+  Tutte le info sul progetto e sulle modalità di partecipazione sul sito Sucho.org'
+link: https://www.sucho.org
+location:
+  mode: autocomplete
+  address: {}
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/327,1180095337,2022-03-25 07:21:32,2022-03-24 21:57:38,Comune di Bari cerca interpreti volontari e mediatori culturali di lingua ucraina,,,,,"[""Valid/Accettato"",""Help"",""translation"",""job"",""telegram-channel"",""tweet""]","Milestone(title=""25 aprile"", number=5)",,"{""address"":{""address"":{""address"":{""city"":""Bari"",""country"":""Italia"",""country_code"":""it"",""county"":""Bari"",""postcode"":""70122"",""state"":""Puglia""},""boundingbox"":[""40.9657843"",""41.2857843"",""16.7020293"",""17.0220293""],""class"":""place"",""display_name"":""Bari, Puglia, 70122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7287183212532693,""lat"":""41.1257843"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.8620293"",""osm_id"":68528585,""osm_type"":""node"",""place_id"":285627565,""type"":""city""},""mode"":""autocomplete""},""description"":""Il Comune di Bari ha lanciato un avviso pubblico per la costituzione di: 1) short list di interpreti volontari di lingua ucraina per fini di solidarieta\u2019 2) short list di mediatori linguistico culturali di lingua ucraina per il superamento della barriera linguistica volta all\u2019attivazione di tutti i servizi funzionali all\u2019accoglienza ed all\u2019inclusione dei profughi ucraini che stanno giungendo sul territorio cittadino.\nScadenza: 24 aprile 2022"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Bari"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""healthcare"":false,""hospitality"":false,""job"":true,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Bari, Comune ricerca interpreti e mediatori"",""url"":""https://www.comune.bari.it/-/2022-03-22-avviso-interpreti-e-mediatori-ucraina?fbclid=IwAR0waqAsGGB16inlSJPSw6dTLRjOVA_QlYQTJrmN85xM_WFtdoqukvVFUds""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
   hospitality: false
@@ -53,7 +305,7 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/331,1180154792,2022-03-24 23:19:57,2022-03-24 23:18:46,"A Empoli con ""Digitale Civile"" si possono donare computer a bambini e famiglie ucraine rifugiate ",43.7191153,10.9472269,Toscana,Firenze,"[""Valid/Accettato"",""News"",""Services"",""materialGoods"",""Children""]",,,"{""Posizione"":""43.7191153 10.9472269"",""description"":""\u2018Digitale Civile\u2019, progetto del Distretto dell\u2019Economia Civile di Empoli, scende in campo a sostegno delle famiglie e dei loro bambini che stanno scappando dai bombardamenti e che verranno accolti in citt\u00e0.\nAvranno bisogno di comunicare con i loro parenti rimasti nel paese ormai dilaniato dalla guerra e i bambini dovranno proseguire le lezioni in collegamento da remoto. Ma quei dispositivi che potevano avere sicuramente non li hanno portati con s\u00e9.\nPer questo Comune di Empoli, Golem, ARCI, Auser Filo d'Argento, Cowo di E, Legambiente, Coeso Empoli, Croce Rossa Italiana, Misericordia e Pubbliche Assistenze Riunite, ancora una volta insieme si appellano alla solidariet\u00e0 della popolazione, per dare una risposta concreta attraverso \u2018Digitale Civile\u2019.\nL\u2019obiettivo \u00e8 reperire, rigenerare e donare dispositivi e strumenti oggi necessari in questa nuova e terribile emergenza.\nL\u2019associazione Golem si occuper\u00e0 di rigenerarli per metterli a disposizione dei cittadini. Il Comune raccoglier\u00e0 le richieste.\nPossono presentare domanda anche i cittadini compilando il modulo online sul sito di Digitale Civile oppure negli sportelli messi a disposizione da ARCI Empolese Valdelsa (0571 84 42 79), Auser Filo d'Argento Empoli ODV (0571 711 112) e Cowo di E (345 178 18 36).\n\nCOME DONARE - I cittadini, ma anche aziende o altre realt\u00e0, possono donare i propri personal computer accedendo al sito http://digitalecivile.golem.linux.it."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/f4xVbghGes"",""location"":{""address"":{""address"":{""amenity"":""Ufficio Relazioni con il Pubblico (URP)"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""house_number"":""41"",""postcode"":""50053"",""road"":""Via Giuseppe del Papa"",""state"":""Toscana"",""town"":""Empoli"",""village"":""Spicchio-Sovigliana""},""boundingbox"":[""43.7190653"",""43.7191653"",""10.9471769"",""10.9472769""],""class"":""amenity"",""display_name"":""Ufficio Relazioni con il Pubblico (URP), 41, Via Giuseppe del Papa, Spicchio-Sovigliana, Empoli, Citt\u00e0 metropolitana di Firenze, Toscana, 50053, Italia"",""importance"":0.731,""lat"":""43.7191153"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.9472269"",""osm_id"":1698428038,""osm_type"":""node"",""place_id"":15533657,""type"":""townhall""},""mode"":""autocomplete""},""submit"":true,""title"":""A Empoli con \""Digitale Civile\"" si possono donare computer a bambini e famiglie ucraine rifugiate in Italia""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/331,1180154792,2022-03-25 07:21:15,2022-03-24 23:18:46,"A Empoli con ""Digitale Civile"" si possono donare computer a bambini e famiglie ucraine rifugiate ",43.7191153,10.9472269,Toscana,Firenze,"[""Valid/Accettato"",""News"",""Services"",""materialGoods"",""Children"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""43.7191153 10.9472269"",""description"":""\u2018Digitale Civile\u2019, progetto del Distretto dell\u2019Economia Civile di Empoli, scende in campo a sostegno delle famiglie e dei loro bambini che stanno scappando dai bombardamenti e che verranno accolti in citt\u00e0.\nAvranno bisogno di comunicare con i loro parenti rimasti nel paese ormai dilaniato dalla guerra e i bambini dovranno proseguire le lezioni in collegamento da remoto. Ma quei dispositivi che potevano avere sicuramente non li hanno portati con s\u00e9.\nPer questo Comune di Empoli, Golem, ARCI, Auser Filo d'Argento, Cowo di E, Legambiente, Coeso Empoli, Croce Rossa Italiana, Misericordia e Pubbliche Assistenze Riunite, ancora una volta insieme si appellano alla solidariet\u00e0 della popolazione, per dare una risposta concreta attraverso \u2018Digitale Civile\u2019.\nL\u2019obiettivo \u00e8 reperire, rigenerare e donare dispositivi e strumenti oggi necessari in questa nuova e terribile emergenza.\nL\u2019associazione Golem si occuper\u00e0 di rigenerarli per metterli a disposizione dei cittadini. Il Comune raccoglier\u00e0 le richieste.\nPossono presentare domanda anche i cittadini compilando il modulo online sul sito di Digitale Civile oppure negli sportelli messi a disposizione da ARCI Empolese Valdelsa (0571 84 42 79), Auser Filo d'Argento Empoli ODV (0571 711 112) e Cowo di E (345 178 18 36).\n\nCOME DONARE - I cittadini, ma anche aziende o altre realt\u00e0, possono donare i propri personal computer accedendo al sito http://digitalecivile.golem.linux.it."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/f4xVbghGes"",""location"":{""address"":{""address"":{""amenity"":""Ufficio Relazioni con il Pubblico (URP)"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""house_number"":""41"",""postcode"":""50053"",""road"":""Via Giuseppe del Papa"",""state"":""Toscana"",""town"":""Empoli"",""village"":""Spicchio-Sovigliana""},""boundingbox"":[""43.7190653"",""43.7191653"",""10.9471769"",""10.9472769""],""class"":""amenity"",""display_name"":""Ufficio Relazioni con il Pubblico (URP), 41, Via Giuseppe del Papa, Spicchio-Sovigliana, Empoli, Citt\u00e0 metropolitana di Firenze, Toscana, 50053, Italia"",""importance"":0.731,""lat"":""43.7191153"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.9472269"",""osm_id"":1698428038,""osm_type"":""node"",""place_id"":15533657,""type"":""townhall""},""mode"":""autocomplete""},""submit"":true,""title"":""A Empoli con \""Digitale Civile\"" si possono donare computer a bambini e famiglie ucraine rifugiate in Italia""}","<pre><yamldata>
 title: A Empoli con ""Digitale Civile"" si possono donare computer a bambini e famiglie
   ucraine rifugiate in Italia
 description: '‘Digitale Civile’, progetto del Distretto dell’Economia Civile di Empoli,
@@ -119,6 +371,52 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 43.7191153 10.9472269
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/106,1167408345,2022-03-25 07:20:56,2022-03-12 21:40:43,"Marsala, aiuti all’Ucraina: attivo il centro comunale di raccolta beni",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Trapani"",""postcode"":""91025"",""road"":""Via Giuseppe Garibaldi"",""state"":""Sicilia"",""tourism"":""Quartiere Spagnoli (sede comune)"",""town"":""Marsala""},""boundingbox"":[""37.7980608"",""37.7981608"",""12.4337596"",""12.4338596""],""class"":""tourism"",""display_name"":""Quartiere Spagnoli (sede comune), Via Giuseppe Garibaldi, Marsala, Trapani, Sicilia, 91025, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_point_of_interest.p.20.png"",""importance"":0.31100000000000005,""lat"":""37.7981108"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4338096"",""osm_id"":5296364723,""osm_type"":""node"",""place_id"":59038724,""type"":""attraction""},""mode"":""autocomplete""},""description"":""Il Comune di Marsala informa che \u00e8 attivo il Centro di Raccolta comunale presso i locali di via Ernesto del Giudice (ex Ufficio Commercio). Il Centro \u00e8 aperto nei giorni di luned\u00ec, mercoled\u00ec e venerd\u00ec, dalle ore 9.00 alle ore 13.00 e dalle ore 15 alle 17 grazie alla disponibilit\u00e0 delle Associazioni di Volontariato marsalesi che si occupano di raccogliere e inventariare tutte le donazioni: non si accettano donazioni in denaro. I beni presi in consegna dalle Associazioni verranno destinati alla popolazione Ucraina solo attraverso i canali istituzionali riconosciuti."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Marsala"",""recipients"":"""",""submit"":true,""title"":""Marsala, aiuti all\u2019Ucraina: attivo il centro di raccolta comunale"",""type"":""materialGoods"",""url"":""https://www.siciliaogginotizie.it/2022/03/10/marsalaaiuti-allucraina-attivo-il-centro-di-raccolta-comunale/""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: Comune di Marsala
+title: 'Marsala, aiuti all’Ucraina: attivo il centro di raccolta comunale'
+recipients: ''
+description: 'Il Comune di Marsala informa che è attivo il Centro di Raccolta comunale
+  presso i locali di via Ernesto del Giudice (ex Ufficio Commercio). Il Centro è aperto
+  nei giorni di lunedì, mercoledì e venerdì, dalle ore 9.00 alle ore 13.00 e dalle
+  ore 15 alle 17 grazie alla disponibilità delle Associazioni di Volontariato marsalesi
+  che si occupano di raccogliere e inventariare tutte le donazioni: non si accettano
+  donazioni in denaro. I beni presi in consegna dalle Associazioni verranno destinati
+  alla popolazione Ucraina solo attraverso i canali istituzionali riconosciuti.'
+url: https://www.siciliaogginotizie.it/2022/03/10/marsalaaiuti-allucraina-attivo-il-centro-di-raccolta-comunale/
+address:
+  mode: autocomplete
+  address:
+    place_id: 59038724
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 5296364723
+    boundingbox:
+    - '37.7980608'
+    - '37.7981608'
+    - '12.4337596'
+    - '12.4338596'
+    lat: '37.7981108'
+    lon: '12.4338096'
+    display_name: Quartiere Spagnoli (sede comune), Via Giuseppe Garibaldi, Marsala,
+      Trapani, Sicilia, 91025, Italia
+    class: tourism
+    type: attraction
+    importance: 0.31100000000000005
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_point_of_interest.p.20.png
+    address:
+      tourism: Quartiere Spagnoli (sede comune)
+      road: Via Giuseppe Garibaldi
+      town: Marsala
+      county: Trapani
+      state: Sicilia
+      postcode: '91025'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/329,1180102594,2022-03-24 22:50:07,2022-03-24 22:05:50,Mamachat attiva supporto psicologico online gratuito per donne ucraine in Italia e italiane in Ucraina,,,,,"[""Valid/Accettato"",""Services"",""psychologicalSupport"",""women""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Mama Chat \u00e8 un servizio online di supporto psicologico per donne che si trovano in difficolt\u00e0. Offre aiuto, gratuitamente, a donne, ragazze e mamme.\nLo sportello \u00e8 rivolto a:\nucraine che si trovano in Italia;\nitaliane che si trovano in Ucraina.\ned \u00e8 aperto dal luned\u00ec al venerd\u00ec, dalle 9.00 alle 13.30 e dalle 15.00 alle 19.00\nPer potersi rivolgere a questo sportello e parlare con una psicologa vanno seguiti i seguenti step:\nscrivere in chat in maniera anonima e senza fornire dati personali;\nattendere la chiamata di una delle psicologhe del team che risponder\u00e0 alle diverse richieste;\nse nessuna professionista \u00e8 online, \u00e8 possibile scrivere un'email a info@mamachat.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Mama Chat"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Supporto psicologico gratuito"",""url"":""https://mamachat.org/""}","<pre><yamldata>
 servicetypes:
@@ -221,137 +519,6 @@ address:
   address: {}
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/322,1179641625,2022-03-24 22:01:04,2022-03-24 15:01:05,Comune di Pesaro attiva linea telefonica e email SOS Ucraina,,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""materialGoods"",""hospitality"",""contact""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Municipio di Pesaro"",""city"":""Pesaro"",""country"":""Italia"",""country_code"":""it"",""county"":""Pesaro e Urbino"",""house_number"":""1"",""postcode"":""61121"",""quarter"":""Centro Storico"",""road"":""Piazza del Popolo"",""state"":""Marche"",""suburb"":""Pantano""},""boundingbox"":[""43.9099326"",""43.9100326"",""12.9132202"",""12.9133202""],""class"":""amenity"",""display_name"":""Municipio di Pesaro, 1, Piazza del Popolo, Centro Storico, Pantano, Pesaro, Pesaro e Urbino, Marche, 61121, Italia"",""importance"":1.7810000000000001,""lat"":""43.9099826"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.9132702"",""osm_id"":5665557322,""osm_type"":""node"",""place_id"":63279142,""type"":""townhall""},""mode"":""autocomplete""},""aim"":""L\u2019obiettivo \u00e8 coordinare gli aiuti, le donazioni e le offerte di alloggio che stanno giungendo da tutta la citt\u00e0 di Pesaro. Il Comune ha quindi attivato un numero di telefono, lo 0721.387616, che risponder\u00e0 dalle 9 alle 11 e dalle 17 alle 19, e una mail protezione.2@comune.pesaro.pu.it"",""email"":""protezione.2@comune.pesaro.pu.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":""+390721387616"",""submit"":true,""title"":""Linea diretta Comune di Pesaro SOS Ucraina"",""url"":""http://www.comune.pesaro.pu.it/novita-in-comune/dettaglio/news/sos-ucraina-la-linea-diretta-del-comune-per-coordinare-gli-aiuti/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=7299a4f17cca58e7ebd2de8aa9741b23""}","<pre><yamldata>
-title: Linea diretta Comune di Pesaro SOS Ucraina
-phoneNumber: '+390721387616'
-email: protezione.2@comune.pesaro.pu.it
-aim: L’obiettivo è coordinare gli aiuti, le donazioni e le offerte di alloggio che
-  stanno giungendo da tutta la città di Pesaro. Il Comune ha quindi attivato un numero di telefono, lo 0721.387616, che risponderà dalle 9 alle 11 e dalle 17 alle 19, e una mail protezione.2@comune.pesaro.pu.it
-url: http://www.comune.pesaro.pu.it/novita-in-comune/dettaglio/news/sos-ucraina-la-linea-diretta-del-comune-per-coordinare-gli-aiuti/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=7299a4f17cca58e7ebd2de8aa9741b23
-address:
-  mode: autocomplete
-  address:
-    place_id: 63279142
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 5665557322
-    boundingbox:
-    - '43.9099326'
-    - '43.9100326'
-    - '12.9132202'
-    - '12.9133202'
-    lat: '43.9099826'
-    lon: '12.9132702'
-    display_name: Municipio di Pesaro, 1, Piazza del Popolo, Centro Storico, Pantano,
-      Pesaro, Pesaro e Urbino, Marche, 61121, Italia
-    class: amenity
-    type: townhall
-    importance: 1.7810000000000001
-    address:
-      amenity: Municipio di Pesaro
-      house_number: '1'
-      road: Piazza del Popolo
-      quarter: Centro Storico
-      suburb: Pantano
-      city: Pesaro
-      county: Pesaro e Urbino
-      state: Marche
-      postcode: '61121'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/323,1180075024,2022-03-24 21:55:55,2022-03-24 21:28:49,A Milano corso di Italiano Intensivo per rifugiate e rifugiati ucraini (con servizio di baby sitting),,,,,"[""Valid/Accettato"",""Services"",""translation"",""women""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""state"":""Lombardia""},""boundingbox"":[""45.3867381"",""45.5358482"",""9.0408867"",""9.2781103""],""class"":""boundary"",""display_name"":""Milano, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8490652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":44915,""osm_type"":""relation"",""place_id"":283684439,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Corso di italiano intensivo di 50 ore destinato a rifugiate e rifugiati ucraini. Il corso sar\u00e0 tenuto da insegnanti qualificati affiancati da una figura di supporto madrelingua ucraina. Disponibile un servizio baby sitting per bambini in et\u00e0 pre-scolare Metodologia didattica adattata in base al target (adulti, bambini, ragazzi) Per informazioni chiamare 028693194 - 3791195239, formazione@fondazioneverga.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""AVSI, Associazione San Martino, Fondazione Franco Verga"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Corsi di Italiano Intensivi - Milano"",""url"":""""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: true
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-offerFromWho: AVSI, Associazione San Martino, Fondazione Franco Verga
-title: Corsi di Italiano Intensivi - Milano
-recipients: ''
-description: 'Corso di italiano intensivo di 50 ore destinato a rifugiate e rifugiati ucraini.
-Il corso sarà tenuto da insegnanti qualificati affiancati da una figura di supporto
-  madrelingua ucraina.
-Disponibile un servizio baby sitting per bambini in età pre-scolare
-Metodologia didattica adattata in base al target (adulti, bambini, ragazzi)
-  Per informazioni chiamare 028693194 - 3791195239, formazione@fondazioneverga.org'
-url: ''
-address:
-  mode: autocomplete
-  address:
-    place_id: 283684439
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 44915
-    boundingbox:
-    - '45.3867381'
-    - '45.5358482'
-    - '9.0408867'
-    - '9.2781103'
-    lat: '45.4641943'
-    lon: '9.1896346'
-    display_name: Milano, Lombardia, Italia
-    class: boundary
-    type: administrative
-    importance: 0.8490652078701348
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Milano
-      county: Milano
-      state: Lombardia
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/325,1180084879,2022-03-24 21:51:24,2022-03-24 21:42:34,"Sucho, progetto internazionale per salvare il patrimonio culturale online dell'Ucraina",,,,,"[""Valid/Accettato"",""News"",""document_data"",""Resources""]",,,"{""description"":""Salvare il patrimonio culturale online dell'Ucraina. Questk lo scopo dei volontari di \""SUCHO - Saving Ukrainian Cultural Heritage Online\"", progetto internazionale creato da bibliotecari, archivisti e programmatori.\nAttraverso la combinazione di tecnologie di scansione e archiviazione di siti e contenuti, tra cui Wayback Machine di Internet Archive, il crawler Browsertrix e l\u2019estensione del browser ArchiveWeb, centinaia di volontari in tutto il mondo stanno raccogliendo e archiviando il patrimonio culturale digitale dell'Ucraina.\nTutte le info sul progetto e sulle modalit\u00e0 di partecipazione sul sito Sucho.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.sucho.org"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Sucho, progetto internazionale per salvare il patrimonio culturale online dell'Ucraina""}","<pre><yamldata>
-title: Sucho, progetto internazionale per salvare il patrimonio culturale online dell'Ucraina
-description: 'Salvare il patrimonio culturale online dell''Ucraina. Questk lo scopo
-  dei volontari di ""SUCHO - Saving Ukrainian Cultural Heritage Online"", progetto internazionale
-  creato da bibliotecari, archivisti e programmatori.
-
-  Attraverso la combinazione di tecnologie di scansione e archiviazione di siti e
-  contenuti, tra cui Wayback Machine di Internet Archive, il crawler Browsertrix e
-  l’estensione del browser ArchiveWeb, centinaia di volontari in tutto il mondo stanno
-  raccogliendo e archiviando il patrimonio culturale digitale dell''Ucraina.
-
-  Tutte le info sul progetto e sulle modalità di partecipazione sul sito Sucho.org'
-link: https://www.sucho.org
-location:
-  mode: autocomplete
-  address: {}
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/324,1180077575,2022-03-24 21:50:24,2022-03-24 21:32:17,Su Rainews24 il primo tg italiano in lingua ucraina dedicato alla guerra in corso,,,,,"[""Valid/Accettato"",""News"",""translation""]",,,"{""description"":""Rainews24 fornir\u00e0 dal 25 marzo un telegiornale in lingua ucraina con aggiornamenti sulla guerra che \u00e8 in corso a causa dell\u2019invasione russa. Per cinque minuti, dalle ore 15, verr\u00e0 mandato in onda un notiziario nella lingua dei rifugiati che hanno trovato riparo nelle ultime settimane in Italia e in altri Paesi. Nella parte conclusiva la trasmissione prevede un punto sulla situazione militare e sui contatti internazionali delle ore precedenti affidato a una giornalista o un giornalista della redazione Esteri."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.rai.it/ufficiostampa/assets/template/us-articolo.html?ssiPath=/articoli/2022/03/Rai-da-domani-su-Rainews24-il-primo-tg-italiano-in-lingua-ucraina-85b946a9-40ec-46b8-a623-50dcd77b3c05-ssi.html"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Su Rainews24 il primo tg italiano in lingua ucraina""}","<pre><yamldata>
-title: Su Rainews24 il primo tg italiano in lingua ucraina
-description: 'Rainews24 fornirà dal 25 marzo un telegiornale
-  in lingua ucraina con aggiornamenti sulla guerra che è in corso a causa dell’invasione
-  russa. Per cinque minuti, dalle ore 15, verrà mandato in onda un notiziario nella
-  lingua dei rifugiati che hanno trovato riparo nelle ultime settimane in Italia e
-  in altri Paesi. Nella parte conclusiva la trasmissione prevede un punto sulla situazione
-  militare e sui contatti internazionali delle ore precedenti affidato a una giornalista
-  o un giornalista della redazione Esteri.'
-link: https://www.rai.it/ufficiostampa/assets/template/us-articolo.html?ssiPath=/articoli/2022/03/Rai-da-domani-su-Rainews24-il-primo-tg-italiano-in-lingua-ucraina-85b946a9-40ec-46b8-a623-50dcd77b3c05-ssi.html
-location:
-  mode: autocomplete
-  address: {}
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/152,1169990552,2022-03-24 16:57:41,2022-03-15 17:44:21,"Western Union, MoneyGram, Ria Money Transfer, INTELEXPRESS, TransferGo aboliscono le spese di commissione per l’invio di denaro in Ucraina",,,,,"[""Valid/Accettato"",""News"",""Services"",""telegram-channel"",""tweet""]",,,"{""description"":""Western Union, MoneyGram, Ria Money Transfer, Intelexpress, TransferGo hanno abolito le spese di commissione per l\u2019invio di denaro in Ucraina. Lo riferisce la Banca nazionale dell\u2019Ucraina."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://twitter.com/hromadske/status/1501897876171112451?s=21"",""location"":{""address"":{""address"":{},""mode"":""autocomplete""},""mode"":""autocomplete""},""submit"":true,""title"":""Western Union, MoneyGram, Ria Money Transfer, INTELEXPRESS, TransferGo hanno abolito le spese di commissione per l\u2019invio di denaro in Ucraina""}","<pre><yamldata>
@@ -1148,62 +1315,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/318,1178727608,2022-03-23 22:26:42,2022-03-23 22:17:36,"Comune di Macerata, online pagina dedicata all’accoglienza dei rifugiati ucraini",,,,,"[""Valid/Accettato"",""Services"",""fundraising"",""hospitality"",""translation""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Municipio"",""country"":""Italia"",""country_code"":""it"",""county"":""Macerata"",""house_number"":""3"",""postcode"":""62100"",""road"":""Piazza della Libert\u00e0"",""state"":""Marche"",""suburb"":""Centro storico"",""town"":""Macerata""},""boundingbox"":[""43.3000865"",""43.3001865"",""13.4528554"",""13.4529554""],""class"":""amenity"",""display_name"":""Municipio, 3, Piazza della Libert\u00e0, Centro storico, Macerata, Marche, 62100, Italia"",""importance"":0.5209999999999999,""lat"":""43.3001365"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.4529054"",""osm_id"":2323789411,""osm_type"":""node"",""place_id"":20282683,""type"":""townhall""},""mode"":""autocomplete""},""description"":""Sul sito del Comune di Macerata sezione (in italiano e ucraino) dedicata all\u2019accoglienza dei rifugiati ucraini con info utili e modulo da compilare se si vuole offrire ospitalit\u00e0 e servizi di mediazione linguistica. Online anche info sulla raccolta fondi attivata dal Comune per sostenere l\u2019accoglienza dei rifugiati ucraini."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Macerata"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Macerata, online pagina dedicata all\u2019accoglienza dei rifugiati ucraini"",""url"":""https://www.comune.macerata.it/servizi/politiche-sociali/emergenza-ucraina/#1647593867285-fba0563f-565d""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: true
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: true
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-offerFromWho: Comune di Macerata
-title: Comune di Macerata, online pagina dedicata all’accoglienza dei rifugiati ucraini
-recipients: ''
-description: Sul sito del Comune di Macerata sezione (in italiano e ucraino) dedicata
-  all’accoglienza dei rifugiati ucraini con info utili e modulo da compilare se si
-  vuole offrire ospitalità e servizi di mediazione linguistica. Online anche info
-  sulla raccolta fondi attivata dal Comune per sostenere l’accoglienza dei rifugiati
-  ucraini.
-url: https://www.comune.macerata.it/servizi/politiche-sociali/emergenza-ucraina/#1647593867285-fba0563f-565d
-address:
-  mode: autocomplete
-  address:
-    place_id: 20282683
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 2323789411
-    boundingbox:
-    - '43.3000865'
-    - '43.3001865'
-    - '13.4528554'
-    - '13.4529554'
-    lat: '43.3001365'
-    lon: '13.4529054'
-    display_name: Municipio, 3, Piazza della Libertà, Centro storico, Macerata, Marche,
-      62100, Italia
-    class: amenity
-    type: townhall
-    importance: 0.5209999999999999
-    address:
-      amenity: Municipio
-      house_number: '3'
-      road: Piazza della Libertà
-      suburb: Centro storico
-      town: Macerata
-      county: Macerata
-      state: Marche
-      postcode: '62100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/315,1178712576,2022-03-23 22:25:49,2022-03-23 21:57:36,Giornale di Brescia apre una rubrica online in lingua ucraina con notizie e info utili per i rifugiati ucraini,45.5321684,10.2203166,Lombardia,Brescia,"[""Valid/Accettato"",""News"",""Resources""]",,,"{""Posizione"":""45.5321684 10.2203166"",""description"":""Il Giornale di Brescia apre una rubrica online in lingua ucraina dove ogni giorno sono pubblicate notizie e info utili per i rifugiati ucraini che si sono trasferiti a Brescia."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.giornaledibrescia.it/rubriche/benvenuti-ucraini"",""location"":{""address"":{""address"":{""city"":""Brescia"",""city_district"":""Zona Centro"",""country"":""Italia"",""country_code"":""it"",""county"":""Brescia"",""postcode"":""25100"",""road"":""Via Solferino"",""state"":""Lombardia"",""suburb"":""Centro Storico Sud""},""boundingbox"":[""45.5321405"",""45.5321915"",""10.2201492"",""10.2205083""],""class"":""highway"",""display_name"":""Via Solferino, Centro Storico Sud, Zona Centro, Brescia, Lombardia, 25100, Italia"",""importance"":0.41000000000000003,""lat"":""45.5321684"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.2203166"",""osm_id"":117946887,""osm_type"":""way"",""place_id"":129402346,""type"":""tertiary""},""mode"":""autocomplete""},""submit"":true,""title"":""Giornale di Brescia apre una rubrica online in lingua ucraina con notizie e info utili per i rifugiati""}","<pre><yamldata>
 title: Giornale di Brescia apre una rubrica online in lingua ucraina con notizie e
   info utili per i rifugiati
@@ -1289,71 +1400,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 45.4866108 9.1250144
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/307,1178524960,2022-03-23 22:21:52,2022-03-23 18:45:57,A Napoli tre centri di riferimento per i rifugiati ucraini per assistenza sanitaria e supporto legale,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Napoli"",""country"":""Italia"",""country_code"":""it"",""county"":""Napoli"",""postcode"":""80100"",""state"":""Campania""},""boundingbox"":[""40.6758846"",""40.9958846"",""14.0887679"",""14.4087679""],""class"":""place"",""display_name"":""Napoli, Campania, 80100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.8193506544188203,""lat"":""40.8358846"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.2487679"",""osm_id"":428339558,""osm_type"":""node"",""place_id"":3232112,""type"":""city""},""mode"":""autocomplete""},""description"":""Sono tre i centri di riferimento per i cittadini ucraini che arrivano in Campania, attivati dalla Regione, attraverso la Protezione Civile e l\u2019Asl Napoli 1 Centro: garantiscono lo screening sanitario e il rilascio della certificazione per ottenere l\u2019assistenza sanitaria. In tutti e tre i centri sono presenti mediatori linguistici e personale della Polizia di Stato per la raccolta delle dichiarazioni sul territorio italiano.\n- Residence dell\u2019Ospedale del Mare Il primo \u00e8 un hub al Residence dell\u2019Ospedale del Mare a Napoli (in via Luca Pacioli angolo viale delle Metamorfosi, Ponticelli). Il centro \u00e8 aperto dalle 9 alle 18 e dispone di uno sportello/ufficio immigrazione della Polizia di Stato, di uno sportello dell\u2019ASL Napoli 1 Centro che servir\u00e0 a generare il codice STP (Straniero Temporaneamente Presente) valido 30 giorni, di uno sportello informazioni e di una postazione per tamponi (tampone antigenico per ricerca eventuale positivit\u00e0 al Covid).\n-  Sede del Consolato Ucraino di Napoli Il secondo centro \u00e8 stato attivato al Consolato dell\u2019Ucraina di Napoli (Centro Direzionale isola B3, primo piano) che \u00e8 aperto dalle 9 alle 18. Dispone di uno sportello dell\u2019ASL Napoli 1 Centro per generazione del codice STP (Straniero Temporaneamente Presente) valido 30 giorni, di uno sportello informazioni e di una postazione per tamponi (tampone antigenico per ricerca eventuale positivit\u00e0 al Covid). Questo il link attivato dal consolato ucraino per la registrazione di coloro che intendono raggiungere l\u2019Italia https://forms.gle/bQCZf6SWCt17kDdTA Contatti 081 7875433\n- Caritas di Somma Vesuviana Il terzo centro \u00e8 stato attivato presso la struttura della Caritas di Somma Vesuviana (Napoli), in via Trentola 10, dove opera l\u2019Asl Napoli 3 Sud."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Campania"",""recipients"":"""",""submit"":true,""title"":""A Napoli tre centri di riferimento per i rifugiati ucraini per assistenza sanitaria e supporto legale"",""type"":""healthcare"",""url"":""http://www.napolicittasolidale.it/portal/news/11115-ucraina,-i-centri-e-le-scuole-per-chi-arriva-in-campania.html""}","<pre><yamldata>
-type: healthcare
-offerFromWho: Regione Campania
-title: A Napoli tre centri di riferimento per i rifugiati ucraini per assistenza sanitaria
-  e supporto legale
-recipients: ''
-description: 'Sono tre i centri di riferimento per i cittadini ucraini che arrivano
-  in Campania, attivati dalla Regione, attraverso la Protezione Civile e l’Asl Napoli
-  1 Centro: garantiscono lo screening sanitario e il rilascio della certificazione
-  per ottenere l’assistenza sanitaria. In tutti e tre i centri sono presenti mediatori
-  linguistici e personale della Polizia di Stato per la raccolta delle dichiarazioni
-  sul territorio italiano.
-
-  - Residence dell’Ospedale del Mare
-  Il primo è un hub al Residence dell’Ospedale del Mare a Napoli (in via Luca Pacioli
-  angolo viale delle Metamorfosi, Ponticelli). Il centro è aperto dalle 9 alle 18
-  e dispone di uno sportello/ufficio immigrazione della Polizia di Stato, di uno sportello
-  dell’ASL Napoli 1 Centro che servirà a generare il codice STP (Straniero Temporaneamente
-  Presente) valido 30 giorni, di uno sportello informazioni e di una postazione per
-  tamponi (tampone antigenico per ricerca eventuale positività al Covid).
-
-  -  Sede del Consolato Ucraino di Napoli
-  Il secondo centro è stato attivato al Consolato dell’Ucraina di Napoli (Centro Direzionale
-  isola B3, primo piano) che è aperto dalle 9 alle 18. Dispone di uno sportello dell’ASL
-  Napoli 1 Centro per generazione del codice STP (Straniero Temporaneamente Presente)
-  valido 30 giorni, di uno sportello informazioni e di una postazione per tamponi
-  (tampone antigenico per ricerca eventuale positività al Covid). Questo il link attivato
-  dal consolato ucraino per la registrazione di coloro che intendono raggiungere l’Italia
-  https://forms.gle/bQCZf6SWCt17kDdTA
-  Contatti 081 7875433
-
-  - Caritas di Somma Vesuviana
-  Il terzo centro è stato attivato presso la struttura della Caritas di Somma Vesuviana
-  (Napoli), in via Trentola 10, dove opera l’Asl Napoli 3 Sud.'
-url: http://www.napolicittasolidale.it/portal/news/11115-ucraina,-i-centri-e-le-scuole-per-chi-arriva-in-campania.html
-address:
-  mode: autocomplete
-  address:
-    place_id: 3232112
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 428339558
-    boundingbox:
-    - '40.6758846'
-    - '40.9958846'
-    - '14.0887679'
-    - '14.4087679'
-    lat: '40.8358846'
-    lon: '14.2487679'
-    display_name: Napoli, Campania, 80100, Italia
-    class: place
-    type: city
-    importance: 0.8193506544188203
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
-    address:
-      city: Napoli
-      county: Napoli
-      state: Campania
-      postcode: '80100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/305,1178515936,2022-03-23 21:35:15,2022-03-23 18:38:48,"#Napoli, punti di raccolta beni e corsi di italiano per rifugiati ucraini a Forcella",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""translation""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Santa Maria della Pace"",""city"":""Napoli"",""country"":""Italia"",""country_code"":""it"",""county"":""Napoli"",""postcode"":""80139"",""road"":""Via dei Tribunali"",""state"":""Campania"",""suburb"":""San Lorenzo""},""boundingbox"":[""40.8520942"",""40.8525011"",""14.2617887"",""14.2621931""],""class"":""amenity"",""display_name"":""Santa Maria della Pace, Via dei Tribunali, San Lorenzo, Municipalit\u00e0 4, Napoli, Campania, 80139, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//place_of_worship_unknown3.p.20.png"",""importance"":0.8607105064618923,""lat"":""40.852331500000005"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.26197419863412"",""osm_id"":183749378,""osm_type"":""way"",""place_id"":145636181,""type"":""place_of_worship""},""mode"":""autocomplete""},""description"":""Ecco dove a Forcella (Napoli) si raccolgono beni umanitari per l\u2019emergenza Ucraina e si offrono servizi di supporto ai profughi ucraini:\n\n- Gli studenti dell\u2019Istituto Comprensivo Adelaide Ristori (via L. D\u2019Alagno 16) stanno raccogliendo, insieme alle loro famiglie, aiuti per i profughi. Dopo averli raccolti all\u2019interno dell\u2019Istituto verranno consegnati ai centri di smistamento per raggiungere le popolazioni colpite dalla guerra. Gli studenti stanno anche preparando dei messaggi di solidariet\u00e0 per accogliere i bambini rifugiati.\n\n- Nella Chiesa di Santa Maria del Rifugio (via dei Tribunali 188), utilizzata dall\u2019Associazione Samb e Diop per l\u2019integrazione dei migranti, si fornisce assistenza e vestiario per i profughi provenienti dai paesi in guerra e si organizzano corsi di lingua italiana.\n\n- Nella Chiesa di Santa Maria della Pace (via dei Tribunali 181), affidata alla comunit\u00e0 ucraina di rito bizantino, ogni marted\u00ec e sabato dalle ore 9 alle ore 16 vengono raccolti alimenti a lunga conservazione, medicinali di prima necessit\u00e0, pannolini per bambini e prodotti per l\u2019igiene da spedire in Ucraina."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazioni di Forcella (Na)"",""recipients"":"""",""submit"":true,""title"":""Napoli, punti di raccolta beni e corsi di italiano per rifugiati ucraini a Forcella"",""type"":""materialGoods"",""url"":""http://www.napolicittasolidale.it/portal/news/11135-attivit%C3%A0-di-accoglienza-e-supporto-della-comunit%C3%A0-di-forcella-per-la-pace.html""}","<pre><yamldata>
 type: materialGoods
@@ -8837,52 +8883,6 @@ address:
       city: Genova
       county: Genova
       state: Liguria
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/106,1167408345,2022-03-16 10:35:55,2022-03-12 21:40:43,"Marsala, aiuti all’Ucraina: attivo il centro comunale di raccolta beni",,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Trapani"",""postcode"":""91025"",""road"":""Via Giuseppe Garibaldi"",""state"":""Sicilia"",""tourism"":""Quartiere Spagnoli (sede comune)"",""town"":""Marsala""},""boundingbox"":[""37.7980608"",""37.7981608"",""12.4337596"",""12.4338596""],""class"":""tourism"",""display_name"":""Quartiere Spagnoli (sede comune), Via Giuseppe Garibaldi, Marsala, Trapani, Sicilia, 91025, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_point_of_interest.p.20.png"",""importance"":0.31100000000000005,""lat"":""37.7981108"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4338096"",""osm_id"":5296364723,""osm_type"":""node"",""place_id"":59038724,""type"":""attraction""},""mode"":""autocomplete""},""description"":""Il Comune di Marsala informa che \u00e8 attivo il Centro di Raccolta comunale presso i locali di via Ernesto del Giudice (ex Ufficio Commercio). Il Centro \u00e8 aperto nei giorni di luned\u00ec, mercoled\u00ec e venerd\u00ec, dalle ore 9.00 alle ore 13.00 e dalle ore 15 alle 17 grazie alla disponibilit\u00e0 delle Associazioni di Volontariato marsalesi che si occupano di raccogliere e inventariare tutte le donazioni: non si accettano donazioni in denaro. I beni presi in consegna dalle Associazioni verranno destinati alla popolazione Ucraina solo attraverso i canali istituzionali riconosciuti."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Marsala"",""recipients"":"""",""submit"":true,""title"":""Marsala, aiuti all\u2019Ucraina: attivo il centro di raccolta comunale"",""type"":""materialGoods"",""url"":""https://www.siciliaogginotizie.it/2022/03/10/marsalaaiuti-allucraina-attivo-il-centro-di-raccolta-comunale/""}","<pre><yamldata>
-type: materialGoods
-offerFromWho: Comune di Marsala
-title: 'Marsala, aiuti all’Ucraina: attivo il centro di raccolta comunale'
-recipients: ''
-description: 'Il Comune di Marsala informa che è attivo il Centro di Raccolta comunale
-  presso i locali di via Ernesto del Giudice (ex Ufficio Commercio). Il Centro è aperto
-  nei giorni di lunedì, mercoledì e venerdì, dalle ore 9.00 alle ore 13.00 e dalle
-  ore 15 alle 17 grazie alla disponibilità delle Associazioni di Volontariato marsalesi
-  che si occupano di raccogliere e inventariare tutte le donazioni: non si accettano
-  donazioni in denaro. I beni presi in consegna dalle Associazioni verranno destinati
-  alla popolazione Ucraina solo attraverso i canali istituzionali riconosciuti.'
-url: https://www.siciliaogginotizie.it/2022/03/10/marsalaaiuti-allucraina-attivo-il-centro-di-raccolta-comunale/
-address:
-  mode: autocomplete
-  address:
-    place_id: 59038724
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 5296364723
-    boundingbox:
-    - '37.7980608'
-    - '37.7981608'
-    - '12.4337596'
-    - '12.4338596'
-    lat: '37.7981108'
-    lon: '12.4338096'
-    display_name: Quartiere Spagnoli (sede comune), Via Giuseppe Garibaldi, Marsala,
-      Trapani, Sicilia, 91025, Italia
-    class: tourism
-    type: attraction
-    importance: 0.31100000000000005
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_point_of_interest.p.20.png
-    address:
-      tourism: Quartiere Spagnoli (sede comune)
-      road: Via Giuseppe Garibaldi
-      town: Marsala
-      county: Trapani
-      state: Sicilia
-      postcode: '91025'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
