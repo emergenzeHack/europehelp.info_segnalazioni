@@ -1,4 +1,373 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/344,1180979844,2022-03-25 16:37:48,2022-03-25 16:10:53,CSV Abruzzo: elenco delle azioni in corso in Abruzzo per fundraising e raccolta beni materiali per i rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""fundraising"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""L'Aquila"",""state"":""Abruzzo""},""boundingbox"":[""41.6820382"",""42.5912825"",""13.0189718"",""14.2297358""],""class"":""boundary"",""display_name"":""L'Aquila, Abruzzo, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9265055278596535,""lat"":""42.1368853"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.610341022538911"",""osm_id"":167044,""osm_type"":""relation"",""place_id"":283747468,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""DONARE FONDI, MATERIALE SANITARIO E BENI DI PRIMA NECEssita' tramite le associazioni della regione"",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":"""",""submit"":true,""title"":""CSV Abruzzo"",""url"":""https://www.csvabruzzo.it/wp-content/uploads/2022/03/crisi_umanitaria_in_ucraina_1.pdf""}","<pre><yamldata>
+title: CSV Abruzzo
+phoneNumber: ''
+email: ''
+aim: DONARE FONDI, MATERIALE SANITARIO E BENI DI PRIMA NECEssita' tramite le associazioni
+  della regione
+url: https://www.csvabruzzo.it/wp-content/uploads/2022/03/crisi_umanitaria_in_ucraina_1.pdf
+address:
+  mode: autocomplete
+  address:
+    place_id: 283747468
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 167044
+    boundingbox:
+    - '41.6820382'
+    - '42.5912825'
+    - '13.0189718'
+    - '14.2297358'
+    lat: '42.1368853'
+    lon: '13.610341022538911'
+    display_name: L'Aquila, Abruzzo, Italia
+    class: boundary
+    type: administrative
+    importance: 0.9265055278596535
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: L'Aquila
+      state: Abruzzo
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/336,1180633329,2022-03-25 16:36:55,2022-03-25 10:47:17,A Treviso Caritas raccoglie disponibilità ad offrire appartamenti ai rifugiati ucraini,,,,,"[""Valid/Accettato"",""Help"",""Services"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Treviso"",""neighbourhood"":""Ai Tre Venti"",""postcode"":""31029"",""road"":""Via Giampaolo Malanotti"",""state"":""Veneto"",""suburb"":""C\u00e8neda"",""town"":""Vittorio Veneto"",""village"":""Soffratta""},""boundingbox"":[""45.9746363"",""45.976424"",""12.2894635"",""12.2926766""],""class"":""highway"",""display_name"":""Via Giampaolo Malanotti, Ai Tre Venti, C\u00e8neda, Soffratta, Vittorio Veneto, Treviso, Veneto, 31029, Italia"",""importance"":0.6199999999999999,""lat"":""45.9748095"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.2897586"",""osm_id"":144340143,""osm_type"":""way"",""place_id"":136661433,""type"":""residential""},""mode"":""autocomplete""},""description"":""Chi nella provincia di Treviso vuole mettere a disposizione una casa o un appartamento indipendente per i rifugiati ucraini pu\u00f2 contattare i referenti Caritas, il cui elenco \u00e8 disponibile al link suddiviso per comuni."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Caritas Vittorio Veneto"",""recipients"":null,""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Accoglienza nelle case e raccolta offerte nella provincia di Treviso"",""url"":""http://www.caritasvittorioveneto.it/images/emergenza_ucraina_come_aiutare08.03.22""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Caritas Vittorio Veneto
+title: Accoglienza nelle case e raccolta offerte nella provincia di Treviso
+recipients:
+description: 'Chi nella provincia di Treviso vuole mettere a disposizione una casa o un appartamento indipendente per i rifugiati ucraini può contattare i referenti Caritas, il cui elenco è disponibile al link suddiviso per comuni.'
+url: http://www.caritasvittorioveneto.it/images/emergenza_ucraina_come_aiutare08.03.22
+address:
+  mode: autocomplete
+  address:
+    place_id: 136661433
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 144340143
+    boundingbox:
+    - '45.9746363'
+    - '45.976424'
+    - '12.2894635'
+    - '12.2926766'
+    lat: '45.9748095'
+    lon: '12.2897586'
+    display_name: Via Giampaolo Malanotti, Ai Tre Venti, Cèneda, Soffratta, Vittorio
+      Veneto, Treviso, Veneto, 31029, Italia
+    class: highway
+    type: residential
+    importance: 0.6199999999999999
+    address:
+      road: Via Giampaolo Malanotti
+      neighbourhood: Ai Tre Venti
+      suburb: Cèneda
+      village: Soffratta
+      town: Vittorio Veneto
+      county: Treviso
+      state: Veneto
+      postcode: '31029'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/339,1180663594,2022-03-25 16:36:05,2022-03-25 11:13:57,Comune di Ferrara raccoglie disponibilità di enti e cittadini ad ospitare rifugiati ucraini,,,,,"[""Valid/Accettato"",""Help"",""Services"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""city"":""Ferrara"",""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""house_number"":""1"",""neighbourhood"":""Villa Fulvia"",""postcode"":""44124"",""road"":""Via Boschetto"",""state"":""Emilia-Romagna"",""suburb"":""Quacchio""},""boundingbox"":[""44.8221799"",""44.8222799"",""11.6317788"",""11.6318788""],""class"":""place"",""display_name"":""1, Via Boschetto, Villa Fulvia, Quacchio, Ferrara, Emilia-Romagna, 44124, Italia"",""importance"":0.5309999999999999,""lat"":""44.8222299"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.6318288"",""osm_id"":4761949611,""osm_type"":""node"",""place_id"":54313083,""type"":""house""},""mode"":""autocomplete""},""description"":""Se sei di Ferrara e sei disposto ad ospitare rifugiati ucraini, puoi scrivere a: emergenzaucraina@comune.fe.it A questa casella di posta, privati cittadini o enti, possono manifestare la propria disponibilit\u00e0 a offrire appartamenti che verranno messi a disposizione dei soggetti gestori dei centri di accoglienza per incrementare la capienza. Tali manifestazioni andranno ad alimentare una banca dati gestita dalla Protezione Civile per conto della Prefettura e dei Comuni della provincia per cui si richiede di specificare, contestualmente, anche il consenso al trattamento dei dati personali per le finalit\u00e0 indicate."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ibo Italia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Ferrara Ibo Italia raccoglie disponibilit\u00e0 di enti e cittadini ad ospitare rifugiati ucraini"",""url"":""https://www.comune.fe.it/it/b/13403/emergenza-ucraina""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Ibo Italia
+title: A Ferrara Ibo Italia raccoglie disponibilità di enti e cittadini ad ospitare
+  rifugiati ucraini
+recipients: ''
+description: 'Se sei di Ferrara e sei disposto ad ospitare rifugiati ucraini, puoi
+  scrivere a: emergenzaucraina@comune.fe.it
+  A questa casella di posta, privati cittadini o enti, possono manifestare la propria
+  disponibilità a offrire appartamenti che verranno messi a disposizione dei soggetti
+  gestori dei centri di accoglienza per incrementare la capienza. Tali manifestazioni
+  andranno ad alimentare una banca dati gestita dalla Protezione Civile per conto
+  della Prefettura e dei Comuni della provincia per cui si richiede di specificare,
+  contestualmente, anche il consenso al trattamento dei dati personali per le finalità
+  indicate.'
+url: https://www.comune.fe.it/it/b/13403/emergenza-ucraina
+address:
+  mode: autocomplete
+  address:
+    place_id: 54313083
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 4761949611
+    boundingbox:
+    - '44.8221799'
+    - '44.8222799'
+    - '11.6317788'
+    - '11.6318788'
+    lat: '44.8222299'
+    lon: '11.6318288'
+    display_name: 1, Via Boschetto, Villa Fulvia, Quacchio, Ferrara, Emilia-Romagna,
+      44124, Italia
+    class: place
+    type: house
+    importance: 0.5309999999999999
+    address:
+      house_number: '1'
+      road: Via Boschetto
+      neighbourhood: Villa Fulvia
+      suburb: Quacchio
+      city: Ferrara
+      county: Ferrara
+      state: Emilia-Romagna
+      postcode: '44124'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/343,1180702305,2022-03-25 16:35:31,2022-03-25 11:51:12,Sul sito del Centro servizi volontariato Ferrara info e contatti utili su accoglienza e assistenza profughi ucraini in città e nei comuni della provincia ,,,,,"[""Valid/Accettato"",""Services"",""fundraising"",""materialGoods"",""hospitality"",""healthcare"",""psychologicalSupport"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Ferrara"",""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""neighbourhood"":""Villa Fulvia"",""postcode"":""44124"",""road"":""Via Ravenna"",""state"":""Emilia-Romagna"",""suburb"":""Quacchio""},""boundingbox"":[""44.8185385"",""44.8196504"",""11.6263621"",""11.6277005""],""class"":""highway"",""display_name"":""Via Ravenna, Villa Fulvia, Quacchio, Ferrara, Emilia-Romagna, 44124, Italia"",""importance"":0.5199999999999999,""lat"":""44.8188831"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.6267135"",""osm_id"":310392642,""osm_type"":""way"",""place_id"":177315370,""type"":""track""},""mode"":""autocomplete""},""description"":""Sul sito del Centro servizi volontariato Ferrara pagine ded8cata a emergenza Ucraina (in aggiornamento) con info e contatti utili su accoglienza e assistenza profughi ucraini a Ferrara e nei comuni della provincia ferrarese: raccolte fondi, raccolte beni e farmaci, offerta alloggi, assistenza sanitaria, inserimento scolastico, supporto rifugiati sordi, punti informativi sul territorio e altro.\nPer ulteriori info, segnalare iniziative in corso e aggiornamenti scrivere all\u2019indirizzo: francesca.gallini@csvterrestensi.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Centro servizi volontariato Ferrara"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Sul sito del Centro servizi volontariato Ferrara info e contatti utili su accoglienza e assistenza profughi ucraini a Ferrara e nei comuni della provincia ferrarese"",""url"":""https://ferrara.csvterrestensi.it/news/solidarieta-da-ferrara-e-provincia-per-lucraina-come-aiutare/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: true
+  transport: false
+  healthcare: true
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: true
+  Children: true
+  disability: false
+  women: false
+  education: true
+offerFromWho: Centro servizi volontariato Ferrara
+title: Sul sito del Centro servizi volontariato Ferrara info e contatti utili su accoglienza
+  e assistenza profughi ucraini a Ferrara e nei comuni della provincia ferrarese
+recipients: ''
+description: 'Sul sito del Centro servizi volontariato Ferrara pagine ded8cata a emergenza
+  Ucraina (in aggiornamento) con info e contatti utili su accoglienza e assistenza
+  profughi ucraini a Ferrara e nei comuni della provincia ferrarese: raccolte fondi,
+  raccolte beni e farmaci, offerta alloggi, assistenza sanitaria, inserimento scolastico,
+  supporto rifugiati sordi, punti informativi sul territorio e altro.
+
+  Per ulteriori info, segnalare iniziative in corso e aggiornamenti scrivere all’indirizzo:
+  francesca.gallini@csvterrestensi.it'
+url: https://ferrara.csvterrestensi.it/news/solidarieta-da-ferrara-e-provincia-per-lucraina-come-aiutare/
+address:
+  mode: autocomplete
+  address:
+    place_id: 177315370
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 310392642
+    boundingbox:
+    - '44.8185385'
+    - '44.8196504'
+    - '11.6263621'
+    - '11.6277005'
+    lat: '44.8188831'
+    lon: '11.6267135'
+    display_name: Via Ravenna, Villa Fulvia, Quacchio, Ferrara, Emilia-Romagna, 44124,
+      Italia
+    class: highway
+    type: track
+    importance: 0.5199999999999999
+    address:
+      road: Via Ravenna
+      neighbourhood: Villa Fulvia
+      suburb: Quacchio
+      city: Ferrara
+      county: Ferrara
+      state: Emilia-Romagna
+      postcode: '44124'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/342,1180690539,2022-03-25 16:34:25,2022-03-25 11:37:44,Caritas Ferrara cerca appartamenti per l’accoglienza dei profughi ucraini,44.8295403,11.6273477,Emilia-Romagna,Ferrara,"[""Valid/Accettato"",""Help"",""hospitality""]",,,"{""Posizione"":""44.8295403 11.6273477"",""description"":""Caritas Ferrara cerca unit\u00e0 abitative autonome per l\u2019accoglienza dei profughi ucraini. Clicca QUI per ulteriori informazioni. Chi vuole mettere a disposizione uno spazio nel territorio ferrarese pu\u00f2 contattare caritasfe@libero.it indicando come oggetto \u201cDisponibilit\u00e0 per profughi ucraini\u201d"",""email"":""caritasfe@libero.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Ferrara"",""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""house_number"":""19"",""neighbourhood"":""Centro cittadino"",""postcode"":""44121"",""road"":""Via Brasavola"",""state"":""Emilia-Romagna"",""suburb"":""Quacchio""},""boundingbox"":[""44.8294903"",""44.8295903"",""11.6272977"",""11.6273977""],""class"":""place"",""display_name"":""19, Via Brasavola, Centro cittadino, Quacchio, Ferrara, Emilia-Romagna, 44121, Italia"",""importance"":0.5309999999999999,""lat"":""44.8295403"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.6273477"",""osm_id"":4761953354,""osm_type"":""node"",""place_id"":54053938,""type"":""house""},""mode"":""autocomplete""},""nameSurname"":""Caritas Ferrara"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Caritas Ferrara cerca appartamenti per l\u2019accoglienza dei profughi ucraini"",""url"":""https://www.caritasfe.it/cercasi-appartamenti-profughi-ucraini/""}","<pre><yamldata>
+nameSurname: Caritas Ferrara
+phoneNumber: ''
+email: caritasfe@libero.it
+title: Caritas Ferrara cerca appartamenti per l’accoglienza dei profughi ucraini
+recipients: ''
+description: Caritas Ferrara cerca unità abitative autonome per l’accoglienza dei
+  profughi ucraini. Clicca QUI per ulteriori informazioni. Chi vuole mettere a disposizione
+  uno spazio nel territorio ferrarese può contattare caritasfe@libero.it indicando
+  come oggetto “Disponibilità per profughi ucraini”
+url: https://www.caritasfe.it/cercasi-appartamenti-profughi-ucraini/
+location:
+  mode: autocomplete
+  address:
+    place_id: 54053938
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 4761953354
+    boundingbox:
+    - '44.8294903'
+    - '44.8295903'
+    - '11.6272977'
+    - '11.6273977'
+    lat: '44.8295403'
+    lon: '11.6273477'
+    display_name: 19, Via Brasavola, Centro cittadino, Quacchio, Ferrara, Emilia-Romagna,
+      44121, Italia
+    class: place
+    type: house
+    importance: 0.5309999999999999
+    address:
+      house_number: '19'
+      road: Via Brasavola
+      neighbourhood: Centro cittadino
+      suburb: Quacchio
+      city: Ferrara
+      county: Ferrara
+      state: Emilia-Romagna
+      postcode: '44121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 44.8295403 11.6273477
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/341,1180686751,2022-03-25 16:34:07,2022-03-25 11:34:47,"Comune di Ferrara, online info e contatti utili per accoglienza e assistenza profughi ucraini, raccolta farmaci e fondi",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""hospitality"",""healthcare"",""disability"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Ferrara"",""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""house_number"":""2"",""postcode"":""44121"",""residential"":""ZTL Duomo"",""road"":""Piazza del Municipio"",""state"":""Emilia-Romagna"",""suburb"":""Giardino""},""boundingbox"":[""44.8360043"",""44.8361043"",""11.619083"",""11.619183""],""class"":""place"",""display_name"":""2, Piazza del Municipio, ZTL Duomo, Giardino, Ferrara, Emilia-Romagna, 44121, Italia"",""importance"":0.6309999999999999,""lat"":""44.8360543"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.619133"",""osm_id"":4762043389,""osm_type"":""node"",""place_id"":54848297,""type"":""house""},""mode"":""autocomplete""},""description"":""Sul sito del Comune di Ferrara pagina dedicata all\u2019emergenza Ucraina con info e contatti utili per accoglienza profughi (anche sordi), assistenza sanitaria, inserimento scolastico di minori ucraini, alloggi, punti informativi, raccolta farmaci in citt\u00e0 e raccolte fondi."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Ferrara"",""recipients"":""Profughi ucraini e cittadini di Ferrara"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":true,""education"":true,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Ferrara, online info e contatti utili per accoglienza e assistenza profughi ucraini, raccolta farmaci e fondi"",""url"":""https://www.comune.fe.it/it/b/13403/emergenza-ucraina""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: true
+  transport: false
+  healthcare: true
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: true
+  women: false
+  education: true
+offerFromWho: Comune di Ferrara
+title: Comune di Ferrara, online info e contatti utili per accoglienza e assistenza
+  profughi ucraini, raccolta farmaci e fondi
+recipients: Profughi ucraini e cittadini di Ferrara
+description: Sul sito del Comune di Ferrara pagina dedicata all’emergenza Ucraina
+  con info e contatti utili per accoglienza profughi (anche sordi), assistenza sanitaria,
+  inserimento scolastico di minori ucraini, alloggi, punti informativi, raccolta farmaci
+  in città e raccolte fondi.
+url: https://www.comune.fe.it/it/b/13403/emergenza-ucraina
+address:
+  mode: autocomplete
+  address:
+    place_id: 54848297
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 4762043389
+    boundingbox:
+    - '44.8360043'
+    - '44.8361043'
+    - '11.619083'
+    - '11.619183'
+    lat: '44.8360543'
+    lon: '11.619133'
+    display_name: 2, Piazza del Municipio, ZTL Duomo, Giardino, Ferrara, Emilia-Romagna,
+      44121, Italia
+    class: place
+    type: house
+    importance: 0.6309999999999999
+    address:
+      house_number: '2'
+      road: Piazza del Municipio
+      residential: ZTL Duomo
+      suburb: Giardino
+      city: Ferrara
+      county: Ferrara
+      state: Emilia-Romagna
+      postcode: '44121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/340,1180674914,2022-03-25 16:33:27,2022-03-25 11:25:20,Accoglienza rifugiati ucraini sordi: Ens Emilia Romagna mette a disposizione interpreti e mediatori nella lingua dei segni ucraina e internazionale ,,,,,"[""Valid/Accettato"",""Services"",""translation"",""disability""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Emilia-Romagna""},""boundingbox"":[""43.7318997"",""45.1395001"",""9.1979117"",""12.7559006""],""class"":""boundary"",""display_name"":""Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8658836089993998,""lat"":""44.525696"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.039437"",""osm_id"":42611,""osm_type"":""relation"",""place_id"":284957631,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Per facilitare la comunicazione tra le persone sorde ucraine e gli enti locali, uffici pubblici, servizi di assistenza e accoglienza, etc. Ens Emilia Romagna mette a disposizione interpreti e mediatori sordi che conoscono la Lingua dei Segni ucraina e/o internazionale.\nPer attivare il servizio contattare il Consiglio Regionale ENS Emilia-Romagna all\u2019email emiliaromagna@ens.it oppure telefonicamente o tramite videochiamata ai numeri 3471608710 e 3492921556 o 3456863379 (solo videochiamata o sms).\nPer altre info sul servizio attivato anche in altre regioni, vedi sito di Ens https://www.ens.it/notizie/9718-sosteniamo-i-diritti-delle-persone-sorde-in-ucraina-e-dei-rifugiati-sordi"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ens Emilia Romagna"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":true,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Accoglienza rifugiati ucraini sordi: Ens Emilia Romagna mette a disposizione interpreti e mediatori in Lis ucraina e/o internazionale"",""url"":""https://www.comune.fe.it/it/b/13403/emergenza-ucraina""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: true
+  women: false
+  education: false
+offerFromWho: Ens Emilia Romagna
+title: 'Accoglienza rifugiati ucraini sordi: Ens Emilia Romagna mette a disposizione
+  interpreti e mediatori in Lis ucraina e/o internazionale'
+recipients: ''
+description: 'Per facilitare la comunicazione tra le persone sorde ucraine e gli enti
+  locali, uffici pubblici, servizi di assistenza e accoglienza, etc. Ens Emilia Romagna
+  mette a disposizione interpreti e mediatori sordi che conoscono la Lingua dei Segni
+  ucraina e/o internazionale.
+
+  Per attivare il servizio contattare il Consiglio Regionale ENS Emilia-Romagna all’email
+  emiliaromagna@ens.it oppure telefonicamente o tramite videochiamata ai numeri 3471608710
+  e 3492921556 o 3456863379 (solo videochiamata o sms).
+
+  Per altre info sul servizio attivato anche in altre regioni, vedi sito di Ens https://www.ens.it/notizie/9718-sosteniamo-i-diritti-delle-persone-sorde-in-ucraina-e-dei-rifugiati-sordi'
+url: https://www.comune.fe.it/it/b/13403/emergenza-ucraina
+address:
+  mode: autocomplete
+  address:
+    place_id: 284957631
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 42611
+    boundingbox:
+    - '43.7318997'
+    - '45.1395001'
+    - '9.1979117'
+    - '12.7559006'
+    lat: '44.525696'
+    lon: '11.039437'
+    display_name: Emilia-Romagna, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8658836089993998
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      state: Emilia-Romagna
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/338,1180660445,2022-03-25 16:05:51,2022-03-25 11:10:55,A Ferrara Ibo Italia raccoglie beni e farmaci per l’Ucraina,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Ferrara"",""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""house_number"":""1"",""neighbourhood"":""Villa Fulvia"",""postcode"":""44124"",""road"":""Via Boschetto"",""state"":""Emilia-Romagna"",""suburb"":""Quacchio""},""boundingbox"":[""44.8221799"",""44.8222799"",""11.6317788"",""11.6318788""],""class"":""place"",""display_name"":""1, Via Boschetto, Villa Fulvia, Quacchio, Ferrara, Emilia-Romagna, 44124, Italia"",""importance"":0.5309999999999999,""lat"":""44.8222299"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.6318288"",""osm_id"":4761949611,""osm_type"":""node"",""place_id"":54313083,""type"":""house""},""mode"":""autocomplete""},""description"":""A Ferrara Ibo Italia raccoglie beni e farmaci per l\u2019Ucraina. Sul sito dell\u2019associazione elenco dei beni e dei farmaci richiesti. \nPer info: emergenze.ucraina@iboitalia.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ibo Italia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Ferrara Ibo Italia raccoglie beni e farmaci per l\u2019Ucraina"",""url"":""https://iboitalia.org/wp-content/uploads/2022/03/Lista-Materiali-Donazioni-Ucraina-SITO.pdf""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
@@ -121,59 +490,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/336,1180633329,2022-03-25 16:04:07,2022-03-25 10:47:17,A Treviso Caritas raccoglie disponibilità ad offrire appartamenti ai rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Treviso"",""neighbourhood"":""Ai Tre Venti"",""postcode"":""31029"",""road"":""Via Giampaolo Malanotti"",""state"":""Veneto"",""suburb"":""C\u00e8neda"",""town"":""Vittorio Veneto"",""village"":""Soffratta""},""boundingbox"":[""45.9746363"",""45.976424"",""12.2894635"",""12.2926766""],""class"":""highway"",""display_name"":""Via Giampaolo Malanotti, Ai Tre Venti, C\u00e8neda, Soffratta, Vittorio Veneto, Treviso, Veneto, 31029, Italia"",""importance"":0.6199999999999999,""lat"":""45.9748095"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.2897586"",""osm_id"":144340143,""osm_type"":""way"",""place_id"":136661433,""type"":""residential""},""mode"":""autocomplete""},""description"":""Chi nella provincia di Treviso vuole mettere a disposizione una casa o un appartamento indipendente per i rifugiati ucraini pu\u00f2 contattare i referenti Caritas, il cui elenco \u00e8 disponibile al link suddiviso per comuni."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Caritas Vittorio Veneto"",""recipients"":null,""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Accoglienza nelle case e raccolta offerte nella provincia di Treviso"",""url"":""http://www.caritasvittorioveneto.it/images/emergenza_ucraina_come_aiutare08.03.22""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: true
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Caritas Vittorio Veneto
-title: Accoglienza nelle case e raccolta offerte nella provincia di Treviso
-recipients:
-description: 'Chi nella provincia di Treviso vuole mettere a disposizione una casa o un appartamento indipendente per i rifugiati ucraini può contattare i referenti Caritas, il cui elenco è disponibile al link suddiviso per comuni.'
-url: http://www.caritasvittorioveneto.it/images/emergenza_ucraina_come_aiutare08.03.22
-address:
-  mode: autocomplete
-  address:
-    place_id: 136661433
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 144340143
-    boundingbox:
-    - '45.9746363'
-    - '45.976424'
-    - '12.2894635'
-    - '12.2926766'
-    lat: '45.9748095'
-    lon: '12.2897586'
-    display_name: Via Giampaolo Malanotti, Ai Tre Venti, Cèneda, Soffratta, Vittorio
-      Veneto, Treviso, Veneto, 31029, Italia
-    class: highway
-    type: residential
-    importance: 0.6199999999999999
-    address:
-      road: Via Giampaolo Malanotti
-      neighbourhood: Ai Tre Venti
-      suburb: Cèneda
-      village: Soffratta
-      town: Vittorio Veneto
-      county: Treviso
-      state: Veneto
-      postcode: '31029'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/335,1180624799,2022-03-25 15:57:06,2022-03-25 10:39:22,"Treviso, attivo ambulatorio per assistenza sanitaria ai rifugiati ",,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Treviso"",""country"":""Italia"",""country_code"":""it"",""county"":""Treviso"",""postcode"":""31100"",""road"":""Via Sant'Ambrogio di Fiera"",""state"":""Veneto"",""suburb"":""Fiera""},""boundingbox"":[""45.6611856"",""45.6614167"",""12.2643319"",""12.2650204""],""class"":""highway"",""display_name"":""Via Sant'Ambrogio di Fiera, Fiera, Treviso, Veneto, 31100, Italia"",""importance"":0.9299999999999999,""lat"":""45.661284"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.2647307"",""osm_id"":689141361,""osm_type"":""way"",""place_id"":237440871,""type"":""residential""},""mode"":""autocomplete""},""aim"":""Assistenza sanitaria stranieri temporaneamente presenti Dal luned\u00ec al sabato \u2013 dalle 08.00 alle 20.00"",""email"":""sispmalattieinfettive@aulss2.veneto.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":""+390422323831"",""submit"":true,""title"":""Ambulatorio Servizio Igiene e Sanit\u00e0 Pubblica - ULSS2 Marca Trevigiana"",""url"":""https://www.aulss2.veneto.it/documents/6017636/18856243/Emergenza+Ucraina+numeri+utili/96b3bf4f-498a-4b66-acd1-f3c0f4e4fd83""}","<pre><yamldata>
 title: Ambulatorio Servizio Igiene e Sanità Pubblica - ULSS2 Marca Trevigiana
 phoneNumber: '+390422323831'
@@ -261,68 +577,6 @@ address:
       county: Venezia
       state: Veneto
       postcode: '30170'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/339,1180663594,2022-03-25 11:17:08,2022-03-25 11:13:57,Comune di Ferrara raccoglie disponibilità di enti e cittadini ad ospitare rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""city"":""Ferrara"",""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""house_number"":""1"",""neighbourhood"":""Villa Fulvia"",""postcode"":""44124"",""road"":""Via Boschetto"",""state"":""Emilia-Romagna"",""suburb"":""Quacchio""},""boundingbox"":[""44.8221799"",""44.8222799"",""11.6317788"",""11.6318788""],""class"":""place"",""display_name"":""1, Via Boschetto, Villa Fulvia, Quacchio, Ferrara, Emilia-Romagna, 44124, Italia"",""importance"":0.5309999999999999,""lat"":""44.8222299"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.6318288"",""osm_id"":4761949611,""osm_type"":""node"",""place_id"":54313083,""type"":""house""},""mode"":""autocomplete""},""description"":""Se sei di Ferrara e sei disposto ad ospitare rifugiati ucraini, puoi scrivere a: emergenzaucraina@comune.fe.it A questa casella di posta, privati cittadini o enti, possono manifestare la propria disponibilit\u00e0 a offrire appartamenti che verranno messi a disposizione dei soggetti gestori dei centri di accoglienza per incrementare la capienza. Tali manifestazioni andranno ad alimentare una banca dati gestita dalla Protezione Civile per conto della Prefettura e dei Comuni della provincia per cui si richiede di specificare, contestualmente, anche il consenso al trattamento dei dati personali per le finalit\u00e0 indicate."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ibo Italia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Ferrara Ibo Italia raccoglie disponibilit\u00e0 di enti e cittadini ad ospitare rifugiati ucraini"",""url"":""https://www.comune.fe.it/it/b/13403/emergenza-ucraina""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: true
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Ibo Italia
-title: A Ferrara Ibo Italia raccoglie disponibilità di enti e cittadini ad ospitare
-  rifugiati ucraini
-recipients: ''
-description: 'Se sei di Ferrara e sei disposto ad ospitare rifugiati ucraini, puoi
-  scrivere a: emergenzaucraina@comune.fe.it
-  A questa casella di posta, privati cittadini o enti, possono manifestare la propria
-  disponibilità a offrire appartamenti che verranno messi a disposizione dei soggetti
-  gestori dei centri di accoglienza per incrementare la capienza. Tali manifestazioni
-  andranno ad alimentare una banca dati gestita dalla Protezione Civile per conto
-  della Prefettura e dei Comuni della provincia per cui si richiede di specificare,
-  contestualmente, anche il consenso al trattamento dei dati personali per le finalità
-  indicate.'
-url: https://www.comune.fe.it/it/b/13403/emergenza-ucraina
-address:
-  mode: autocomplete
-  address:
-    place_id: 54313083
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 4761949611
-    boundingbox:
-    - '44.8221799'
-    - '44.8222799'
-    - '11.6317788'
-    - '11.6318788'
-    lat: '44.8222299'
-    lon: '11.6318288'
-    display_name: 1, Via Boschetto, Villa Fulvia, Quacchio, Ferrara, Emilia-Romagna,
-      44124, Italia
-    class: place
-    type: house
-    importance: 0.5309999999999999
-    address:
-      house_number: '1'
-      road: Via Boschetto
-      neighbourhood: Villa Fulvia
-      suburb: Quacchio
-      city: Ferrara
-      county: Ferrara
-      state: Emilia-Romagna
-      postcode: '44124'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
