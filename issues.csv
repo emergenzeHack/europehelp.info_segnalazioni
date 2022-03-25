@@ -1,5 +1,46 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/344,1180979844,2022-03-25 16:37:48,2022-03-25 16:10:53,CSV Abruzzo: elenco delle azioni in corso in Abruzzo per fundraising e raccolta beni materiali per i rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""fundraising"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""L'Aquila"",""state"":""Abruzzo""},""boundingbox"":[""41.6820382"",""42.5912825"",""13.0189718"",""14.2297358""],""class"":""boundary"",""display_name"":""L'Aquila, Abruzzo, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9265055278596535,""lat"":""42.1368853"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.610341022538911"",""osm_id"":167044,""osm_type"":""relation"",""place_id"":283747468,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""DONARE FONDI, MATERIALE SANITARIO E BENI DI PRIMA NECEssita' tramite le associazioni della regione"",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":"""",""submit"":true,""title"":""CSV Abruzzo"",""url"":""https://www.csvabruzzo.it/wp-content/uploads/2022/03/crisi_umanitaria_in_ucraina_1.pdf""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/315,1178712576,2022-03-25 16:42:58,2022-03-23 21:57:36,Giornale di Brescia apre una rubrica online in lingua ucraina con notizie e info utili per i rifugiati ucraini,45.5321684,10.2203166,Lombardia,Brescia,"[""Valid/Accettato"",""News"",""telegram-channel"",""tweet"",""Resources""]",,,"{""Posizione"":""45.5321684 10.2203166"",""description"":""Il Giornale di Brescia apre una rubrica online in lingua ucraina dove ogni giorno sono pubblicate notizie e info utili per i rifugiati ucraini che si sono trasferiti a Brescia."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.giornaledibrescia.it/rubriche/benvenuti-ucraini"",""location"":{""address"":{""address"":{""city"":""Brescia"",""city_district"":""Zona Centro"",""country"":""Italia"",""country_code"":""it"",""county"":""Brescia"",""postcode"":""25100"",""road"":""Via Solferino"",""state"":""Lombardia"",""suburb"":""Centro Storico Sud""},""boundingbox"":[""45.5321405"",""45.5321915"",""10.2201492"",""10.2205083""],""class"":""highway"",""display_name"":""Via Solferino, Centro Storico Sud, Zona Centro, Brescia, Lombardia, 25100, Italia"",""importance"":0.41000000000000003,""lat"":""45.5321684"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.2203166"",""osm_id"":117946887,""osm_type"":""way"",""place_id"":129402346,""type"":""tertiary""},""mode"":""autocomplete""},""submit"":true,""title"":""Giornale di Brescia apre una rubrica online in lingua ucraina con notizie e info utili per i rifugiati""}","<pre><yamldata>
+title: Giornale di Brescia apre una rubrica online in lingua ucraina con notizie e
+  info utili per i rifugiati
+description: Il Giornale di Brescia apre una rubrica online in lingua ucraina dove
+  ogni giorno sono pubblicate notizie e info utili per i rifugiati ucraini che si
+  sono trasferiti a Brescia.
+link: https://www.giornaledibrescia.it/rubriche/benvenuti-ucraini
+location:
+  mode: autocomplete
+  address:
+    place_id: 129402346
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 117946887
+    boundingbox:
+    - '45.5321405'
+    - '45.5321915'
+    - '10.2201492'
+    - '10.2205083'
+    lat: '45.5321684'
+    lon: '10.2203166'
+    display_name: Via Solferino, Centro Storico Sud, Zona Centro, Brescia, Lombardia,
+      25100, Italia
+    class: highway
+    type: tertiary
+    importance: 0.41000000000000003
+    address:
+      road: Via Solferino
+      suburb: Centro Storico Sud
+      city_district: Zona Centro
+      city: Brescia
+      county: Brescia
+      state: Lombardia
+      postcode: '25100'
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.5321684 10.2203166
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/344,1180979844,2022-03-25 16:42:38,2022-03-25 16:10:53,CSV Abruzzo: elenco delle azioni in corso in Abruzzo per fundraising e raccolta beni materiali per i rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""fundraising"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""L'Aquila"",""state"":""Abruzzo""},""boundingbox"":[""41.6820382"",""42.5912825"",""13.0189718"",""14.2297358""],""class"":""boundary"",""display_name"":""L'Aquila, Abruzzo, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9265055278596535,""lat"":""42.1368853"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.610341022538911"",""osm_id"":167044,""osm_type"":""relation"",""place_id"":283747468,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""DONARE FONDI, MATERIALE SANITARIO E BENI DI PRIMA NECEssita' tramite le associazioni della regione"",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":"""",""submit"":true,""title"":""CSV Abruzzo"",""url"":""https://www.csvabruzzo.it/wp-content/uploads/2022/03/crisi_umanitaria_in_ucraina_1.pdf""}","<pre><yamldata>
 title: CSV Abruzzo
 phoneNumber: ''
 email: ''
@@ -34,7 +75,117 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: contact
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/336,1180633329,2022-03-25 16:36:55,2022-03-25 10:47:17,A Treviso Caritas raccoglie disponibilità ad offrire appartamenti ai rifugiati ucraini,,,,,"[""Valid/Accettato"",""Help"",""Services"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Treviso"",""neighbourhood"":""Ai Tre Venti"",""postcode"":""31029"",""road"":""Via Giampaolo Malanotti"",""state"":""Veneto"",""suburb"":""C\u00e8neda"",""town"":""Vittorio Veneto"",""village"":""Soffratta""},""boundingbox"":[""45.9746363"",""45.976424"",""12.2894635"",""12.2926766""],""class"":""highway"",""display_name"":""Via Giampaolo Malanotti, Ai Tre Venti, C\u00e8neda, Soffratta, Vittorio Veneto, Treviso, Veneto, 31029, Italia"",""importance"":0.6199999999999999,""lat"":""45.9748095"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.2897586"",""osm_id"":144340143,""osm_type"":""way"",""place_id"":136661433,""type"":""residential""},""mode"":""autocomplete""},""description"":""Chi nella provincia di Treviso vuole mettere a disposizione una casa o un appartamento indipendente per i rifugiati ucraini pu\u00f2 contattare i referenti Caritas, il cui elenco \u00e8 disponibile al link suddiviso per comuni."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Caritas Vittorio Veneto"",""recipients"":null,""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Accoglienza nelle case e raccolta offerte nella provincia di Treviso"",""url"":""http://www.caritasvittorioveneto.it/images/emergenza_ucraina_come_aiutare08.03.22""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/338,1180660445,2022-03-25 16:42:25,2022-03-25 11:10:55,A Ferrara Ibo Italia raccoglie beni e farmaci per l’Ucraina,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Ferrara"",""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""house_number"":""1"",""neighbourhood"":""Villa Fulvia"",""postcode"":""44124"",""road"":""Via Boschetto"",""state"":""Emilia-Romagna"",""suburb"":""Quacchio""},""boundingbox"":[""44.8221799"",""44.8222799"",""11.6317788"",""11.6318788""],""class"":""place"",""display_name"":""1, Via Boschetto, Villa Fulvia, Quacchio, Ferrara, Emilia-Romagna, 44124, Italia"",""importance"":0.5309999999999999,""lat"":""44.8222299"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.6318288"",""osm_id"":4761949611,""osm_type"":""node"",""place_id"":54313083,""type"":""house""},""mode"":""autocomplete""},""description"":""A Ferrara Ibo Italia raccoglie beni e farmaci per l\u2019Ucraina. Sul sito dell\u2019associazione elenco dei beni e dei farmaci richiesti. \nPer info: emergenze.ucraina@iboitalia.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ibo Italia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Ferrara Ibo Italia raccoglie beni e farmaci per l\u2019Ucraina"",""url"":""https://iboitalia.org/wp-content/uploads/2022/03/Lista-Materiali-Donazioni-Ucraina-SITO.pdf""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Ibo Italia
+title: A Ferrara Ibo Italia raccoglie beni e farmaci per l’Ucraina
+recipients: ''
+description: ""A Ferrara Ibo Italia raccoglie beni e farmaci per l’Ucraina. Sul sito\
+  \ dell’associazione elenco dei beni e dei farmaci richiesti. \nPer info: emergenze.ucraina@iboitalia.org""
+url: https://iboitalia.org/wp-content/uploads/2022/03/Lista-Materiali-Donazioni-Ucraina-SITO.pdf
+address:
+  mode: autocomplete
+  address:
+    place_id: 54313083
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 4761949611
+    boundingbox:
+    - '44.8221799'
+    - '44.8222799'
+    - '11.6317788'
+    - '11.6318788'
+    lat: '44.8222299'
+    lon: '11.6318288'
+    display_name: 1, Via Boschetto, Villa Fulvia, Quacchio, Ferrara, Emilia-Romagna,
+      44124, Italia
+    class: place
+    type: house
+    importance: 0.5309999999999999
+    address:
+      house_number: '1'
+      road: Via Boschetto
+      neighbourhood: Villa Fulvia
+      suburb: Quacchio
+      city: Ferrara
+      county: Ferrara
+      state: Emilia-Romagna
+      postcode: '44124'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/340,1180674914,2022-03-25 16:41:52,2022-03-25 11:25:20,Accoglienza rifugiati ucraini sordi: Ens Emilia Romagna mette a disposizione interpreti e mediatori nella lingua dei segni ucraina e internazionale ,,,,,"[""Valid/Accettato"",""Services"",""translation"",""disability"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Emilia-Romagna""},""boundingbox"":[""43.7318997"",""45.1395001"",""9.1979117"",""12.7559006""],""class"":""boundary"",""display_name"":""Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8658836089993998,""lat"":""44.525696"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.039437"",""osm_id"":42611,""osm_type"":""relation"",""place_id"":284957631,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Per facilitare la comunicazione tra le persone sorde ucraine e gli enti locali, uffici pubblici, servizi di assistenza e accoglienza, etc. Ens Emilia Romagna mette a disposizione interpreti e mediatori sordi che conoscono la Lingua dei Segni ucraina e/o internazionale.\nPer attivare il servizio contattare il Consiglio Regionale ENS Emilia-Romagna all\u2019email emiliaromagna@ens.it oppure telefonicamente o tramite videochiamata ai numeri 3471608710 e 3492921556 o 3456863379 (solo videochiamata o sms).\nPer altre info sul servizio attivato anche in altre regioni, vedi sito di Ens https://www.ens.it/notizie/9718-sosteniamo-i-diritti-delle-persone-sorde-in-ucraina-e-dei-rifugiati-sordi"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ens Emilia Romagna"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":true,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Accoglienza rifugiati ucraini sordi: Ens Emilia Romagna mette a disposizione interpreti e mediatori in Lis ucraina e/o internazionale"",""url"":""https://www.comune.fe.it/it/b/13403/emergenza-ucraina""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: true
+  women: false
+  education: false
+offerFromWho: Ens Emilia Romagna
+title: 'Accoglienza rifugiati ucraini sordi: Ens Emilia Romagna mette a disposizione
+  interpreti e mediatori in Lis ucraina e/o internazionale'
+recipients: ''
+description: 'Per facilitare la comunicazione tra le persone sorde ucraine e gli enti
+  locali, uffici pubblici, servizi di assistenza e accoglienza, etc. Ens Emilia Romagna
+  mette a disposizione interpreti e mediatori sordi che conoscono la Lingua dei Segni
+  ucraina e/o internazionale.
+
+  Per attivare il servizio contattare il Consiglio Regionale ENS Emilia-Romagna all’email
+  emiliaromagna@ens.it oppure telefonicamente o tramite videochiamata ai numeri 3471608710
+  e 3492921556 o 3456863379 (solo videochiamata o sms).
+
+  Per altre info sul servizio attivato anche in altre regioni, vedi sito di Ens https://www.ens.it/notizie/9718-sosteniamo-i-diritti-delle-persone-sorde-in-ucraina-e-dei-rifugiati-sordi'
+url: https://www.comune.fe.it/it/b/13403/emergenza-ucraina
+address:
+  mode: autocomplete
+  address:
+    place_id: 284957631
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 42611
+    boundingbox:
+    - '43.7318997'
+    - '45.1395001'
+    - '9.1979117'
+    - '12.7559006'
+    lat: '44.525696'
+    lon: '11.039437'
+    display_name: Emilia-Romagna, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8658836089993998
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      state: Emilia-Romagna
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/336,1180633329,2022-03-25 16:41:31,2022-03-25 10:47:17,A Treviso Caritas raccoglie disponibilità ad offrire appartamenti ai rifugiati ucraini,,,,,"[""Valid/Accettato"",""Help"",""Services"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Treviso"",""neighbourhood"":""Ai Tre Venti"",""postcode"":""31029"",""road"":""Via Giampaolo Malanotti"",""state"":""Veneto"",""suburb"":""C\u00e8neda"",""town"":""Vittorio Veneto"",""village"":""Soffratta""},""boundingbox"":[""45.9746363"",""45.976424"",""12.2894635"",""12.2926766""],""class"":""highway"",""display_name"":""Via Giampaolo Malanotti, Ai Tre Venti, C\u00e8neda, Soffratta, Vittorio Veneto, Treviso, Veneto, 31029, Italia"",""importance"":0.6199999999999999,""lat"":""45.9748095"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.2897586"",""osm_id"":144340143,""osm_type"":""way"",""place_id"":136661433,""type"":""residential""},""mode"":""autocomplete""},""description"":""Chi nella provincia di Treviso vuole mettere a disposizione una casa o un appartamento indipendente per i rifugiati ucraini pu\u00f2 contattare i referenti Caritas, il cui elenco \u00e8 disponibile al link suddiviso per comuni."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Caritas Vittorio Veneto"",""recipients"":null,""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Accoglienza nelle case e raccolta offerte nella provincia di Treviso"",""url"":""http://www.caritasvittorioveneto.it/images/emergenza_ucraina_come_aiutare08.03.22""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
   hospitality: true
@@ -86,6 +237,112 @@ address:
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/334,1180618396,2022-03-25 16:41:11,2022-03-25 10:33:04,"Regione Veneto, online materiale informativo per l’inserimento scolastico dei minori ucraini",,,,,"[""Valid/Accettato"",""Services"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Mestre"",""country"":""Italia"",""country_code"":""it"",""county"":""Venezia"",""neighbourhood"":""Cannaregio"",""postcode"":""30170"",""road"":""Fondamenta Santa Lucia"",""state"":""Veneto"",""suburb"":""Venezia-Murano-Burano""},""boundingbox"":[""45.4401931"",""45.441356"",""12.3205532"",""12.3221223""],""class"":""highway"",""display_name"":""Fondamenta Santa Lucia, Cannaregio, Venezia-Murano-Burano, Mestre, Venezia, Veneto, 30170, Italia"",""importance"":0.6199999999999999,""lat"":""45.4407929"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.321455763307872"",""osm_id"":7932730,""osm_type"":""relation"",""place_id"":285398559,""type"":""pedestrian""},""mode"":""autocomplete""},""description"":""La Direzione Prevenzione della Regione del Veneto ha predisposto materiale informativo contenente le raccomandazioni per iniziare la frequenza scolastica, rivolto alle persone in arrivo dall\u2019Ucraina oltre che alla popolazione e alle istituzioni coinvolte nell\u2019assistenza o nell\u2019accoglienza."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione del Veneto - Direzione prevenzione sicurezza alimentare e veterinaria"",""recipients"":""Studenti ucraini"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Frequenza scolastica per profughi ucraini nella Regione Veneto"",""url"":""https://www.aulss2.veneto.it/documents/6017636/9be3e1fa-4a9c-49eb-b52b-93642a4b8a79""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: true
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Regione del Veneto - Direzione prevenzione sicurezza alimentare e veterinaria
+title: Frequenza scolastica per profughi ucraini nella Regione Veneto
+recipients: Studenti ucraini
+description: La Direzione Prevenzione della Regione del Veneto ha predisposto materiale
+  informativo contenente le raccomandazioni per iniziare la frequenza scolastica,
+  rivolto alle persone in arrivo dall’Ucraina oltre che alla popolazione e alle istituzioni
+  coinvolte nell’assistenza o nell’accoglienza.
+url: https://www.aulss2.veneto.it/documents/6017636/9be3e1fa-4a9c-49eb-b52b-93642a4b8a79
+address:
+  mode: autocomplete
+  address:
+    place_id: 285398559
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 7932730
+    boundingbox:
+    - '45.4401931'
+    - '45.441356'
+    - '12.3205532'
+    - '12.3221223'
+    lat: '45.4407929'
+    lon: '12.321455763307872'
+    display_name: Fondamenta Santa Lucia, Cannaregio, Venezia-Murano-Burano, Mestre,
+      Venezia, Veneto, 30170, Italia
+    class: highway
+    type: pedestrian
+    importance: 0.6199999999999999
+    address:
+      road: Fondamenta Santa Lucia
+      neighbourhood: Cannaregio
+      suburb: Venezia-Murano-Burano
+      city: Mestre
+      county: Venezia
+      state: Veneto
+      postcode: '30170'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/345,1180993790,2022-03-25 16:39:59,2022-03-25 16:24:57,A Bastia Umbra uova pasquali pro emergenza Ucraina,43.0677554,12.5495816,Umbria,Perugia,"[""Valid/Accettato"",""Services"",""fundraising""]",,,"{""Posizione"":""43.0677554 12.5495816"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""BASTIA UMBRA \u2013 Iniziativa di solidariet\u00e0 pro emergenza Ucraina\nL\u2019associazione di accoglienza e solidariet\u00e0 internazionale Orizzonti Assisi, supportata dal Cesvol Umbria e con il patrocinio del Comune di Bastia Umbra, promuove una raccolta fondi attraverso la proposta di acquisto solidale di uova di Pasqua, il cui ricavato sar\u00e0 destinato all\u2019ospitalit\u00e0 dei profughi ucraini.\n\nPer prenotazioni delle uova al latte e al cioccolato fondente \u00e8 possibile contattare i numeri 3389609785 /075 8018203."",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":""https://www.cesvolumbria.org/news/un-uovo-sorpresa-gioia-di-donare/"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Perugia"",""postcode"":""06083"",""state"":""Umbria"",""town"":""Bastia Umbra""},""boundingbox"":[""43.031678"",""43.0913888"",""12.4904338"",""12.5721251""],""class"":""boundary"",""display_name"":""Bastia Umbra, Perugia, Umbria, 06083, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.6933899802161939,""lat"":""43.0677554"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.5495816"",""osm_id"":42302,""osm_type"":""relation"",""place_id"":283842069,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""L\u2019associazione di accoglienza e solidariet\u00e0 internazionale Orizzonti Assisi, supportata dal Cesvol Umbria e con il patrocinio del Comune di Bastia Umbra""}","<pre><yamldata>
+title: L’associazione di accoglienza e solidarietà internazionale Orizzonti Assisi,
+  supportata dal Cesvol Umbria e con il patrocinio del Comune di Bastia Umbra
+description: 'BASTIA UMBRA – Iniziativa di solidarietà pro emergenza Ucraina
+
+  L’associazione di accoglienza e solidarietà internazionale Orizzonti Assisi, supportata
+  dal Cesvol Umbria e con il patrocinio del Comune di Bastia Umbra, promuove una raccolta
+  fondi attraverso la proposta di acquisto solidale di uova di Pasqua, il cui ricavato
+  sarà destinato all’ospitalità dei profughi ucraini.
+
+
+  Per prenotazioni delle uova al latte e al cioccolato fondente è possibile contattare
+  i numeri 3389609785 /075 8018203.'
+heading: ''
+iban: ''
+bicSwift: ''
+ccPostal: ''
+causal: ''
+link: https://www.cesvolumbria.org/news/un-uovo-sorpresa-gioia-di-donare/
+email: ''
+location:
+  mode: autocomplete
+  address:
+    place_id: 283842069
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 42302
+    boundingbox:
+    - '43.031678'
+    - '43.0913888'
+    - '12.4904338'
+    - '12.5721251'
+    lat: '43.0677554'
+    lon: '12.5495816'
+    display_name: Bastia Umbra, Perugia, Umbria, 06083, Italia
+    class: boundary
+    type: administrative
+    importance: 0.6933899802161939
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      town: Bastia Umbra
+      county: Perugia
+      state: Umbria
+      postcode: 06083
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+Posizione: 43.0677554 12.5495816
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/339,1180663594,2022-03-25 16:36:05,2022-03-25 11:13:57,Comune di Ferrara raccoglie disponibilità di enti e cittadini ad ospitare rifugiati ucraini,,,,,"[""Valid/Accettato"",""Help"",""Services"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""city"":""Ferrara"",""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""house_number"":""1"",""neighbourhood"":""Villa Fulvia"",""postcode"":""44124"",""road"":""Via Boschetto"",""state"":""Emilia-Romagna"",""suburb"":""Quacchio""},""boundingbox"":[""44.8221799"",""44.8222799"",""11.6317788"",""11.6318788""],""class"":""place"",""display_name"":""1, Via Boschetto, Villa Fulvia, Quacchio, Ferrara, Emilia-Romagna, 44124, Italia"",""importance"":0.5309999999999999,""lat"":""44.8222299"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.6318288"",""osm_id"":4761949611,""osm_type"":""node"",""place_id"":54313083,""type"":""house""},""mode"":""autocomplete""},""description"":""Se sei di Ferrara e sei disposto ad ospitare rifugiati ucraini, puoi scrivere a: emergenzaucraina@comune.fe.it A questa casella di posta, privati cittadini o enti, possono manifestare la propria disponibilit\u00e0 a offrire appartamenti che verranno messi a disposizione dei soggetti gestori dei centri di accoglienza per incrementare la capienza. Tali manifestazioni andranno ad alimentare una banca dati gestita dalla Protezione Civile per conto della Prefettura e dei Comuni della provincia per cui si richiede di specificare, contestualmente, anche il consenso al trattamento dei dati personali per le finalit\u00e0 indicate."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ibo Italia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Ferrara Ibo Italia raccoglie disponibilit\u00e0 di enti e cittadini ad ospitare rifugiati ucraini"",""url"":""https://www.comune.fe.it/it/b/13403/emergenza-ucraina""}","<pre><yamldata>
 servicetypes:
@@ -312,116 +569,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/340,1180674914,2022-03-25 16:33:27,2022-03-25 11:25:20,Accoglienza rifugiati ucraini sordi: Ens Emilia Romagna mette a disposizione interpreti e mediatori nella lingua dei segni ucraina e internazionale ,,,,,"[""Valid/Accettato"",""Services"",""translation"",""disability""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Emilia-Romagna""},""boundingbox"":[""43.7318997"",""45.1395001"",""9.1979117"",""12.7559006""],""class"":""boundary"",""display_name"":""Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8658836089993998,""lat"":""44.525696"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.039437"",""osm_id"":42611,""osm_type"":""relation"",""place_id"":284957631,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Per facilitare la comunicazione tra le persone sorde ucraine e gli enti locali, uffici pubblici, servizi di assistenza e accoglienza, etc. Ens Emilia Romagna mette a disposizione interpreti e mediatori sordi che conoscono la Lingua dei Segni ucraina e/o internazionale.\nPer attivare il servizio contattare il Consiglio Regionale ENS Emilia-Romagna all\u2019email emiliaromagna@ens.it oppure telefonicamente o tramite videochiamata ai numeri 3471608710 e 3492921556 o 3456863379 (solo videochiamata o sms).\nPer altre info sul servizio attivato anche in altre regioni, vedi sito di Ens https://www.ens.it/notizie/9718-sosteniamo-i-diritti-delle-persone-sorde-in-ucraina-e-dei-rifugiati-sordi"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ens Emilia Romagna"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":true,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Accoglienza rifugiati ucraini sordi: Ens Emilia Romagna mette a disposizione interpreti e mediatori in Lis ucraina e/o internazionale"",""url"":""https://www.comune.fe.it/it/b/13403/emergenza-ucraina""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: true
-  women: false
-  education: false
-offerFromWho: Ens Emilia Romagna
-title: 'Accoglienza rifugiati ucraini sordi: Ens Emilia Romagna mette a disposizione
-  interpreti e mediatori in Lis ucraina e/o internazionale'
-recipients: ''
-description: 'Per facilitare la comunicazione tra le persone sorde ucraine e gli enti
-  locali, uffici pubblici, servizi di assistenza e accoglienza, etc. Ens Emilia Romagna
-  mette a disposizione interpreti e mediatori sordi che conoscono la Lingua dei Segni
-  ucraina e/o internazionale.
-
-  Per attivare il servizio contattare il Consiglio Regionale ENS Emilia-Romagna all’email
-  emiliaromagna@ens.it oppure telefonicamente o tramite videochiamata ai numeri 3471608710
-  e 3492921556 o 3456863379 (solo videochiamata o sms).
-
-  Per altre info sul servizio attivato anche in altre regioni, vedi sito di Ens https://www.ens.it/notizie/9718-sosteniamo-i-diritti-delle-persone-sorde-in-ucraina-e-dei-rifugiati-sordi'
-url: https://www.comune.fe.it/it/b/13403/emergenza-ucraina
-address:
-  mode: autocomplete
-  address:
-    place_id: 284957631
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 42611
-    boundingbox:
-    - '43.7318997'
-    - '45.1395001'
-    - '9.1979117'
-    - '12.7559006'
-    lat: '44.525696'
-    lon: '11.039437'
-    display_name: Emilia-Romagna, Italia
-    class: boundary
-    type: administrative
-    importance: 0.8658836089993998
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      state: Emilia-Romagna
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/338,1180660445,2022-03-25 16:05:51,2022-03-25 11:10:55,A Ferrara Ibo Italia raccoglie beni e farmaci per l’Ucraina,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Ferrara"",""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""house_number"":""1"",""neighbourhood"":""Villa Fulvia"",""postcode"":""44124"",""road"":""Via Boschetto"",""state"":""Emilia-Romagna"",""suburb"":""Quacchio""},""boundingbox"":[""44.8221799"",""44.8222799"",""11.6317788"",""11.6318788""],""class"":""place"",""display_name"":""1, Via Boschetto, Villa Fulvia, Quacchio, Ferrara, Emilia-Romagna, 44124, Italia"",""importance"":0.5309999999999999,""lat"":""44.8222299"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.6318288"",""osm_id"":4761949611,""osm_type"":""node"",""place_id"":54313083,""type"":""house""},""mode"":""autocomplete""},""description"":""A Ferrara Ibo Italia raccoglie beni e farmaci per l\u2019Ucraina. Sul sito dell\u2019associazione elenco dei beni e dei farmaci richiesti. \nPer info: emergenze.ucraina@iboitalia.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ibo Italia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Ferrara Ibo Italia raccoglie beni e farmaci per l\u2019Ucraina"",""url"":""https://iboitalia.org/wp-content/uploads/2022/03/Lista-Materiali-Donazioni-Ucraina-SITO.pdf""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Ibo Italia
-title: A Ferrara Ibo Italia raccoglie beni e farmaci per l’Ucraina
-recipients: ''
-description: ""A Ferrara Ibo Italia raccoglie beni e farmaci per l’Ucraina. Sul sito\
-  \ dell’associazione elenco dei beni e dei farmaci richiesti. \nPer info: emergenze.ucraina@iboitalia.org""
-url: https://iboitalia.org/wp-content/uploads/2022/03/Lista-Materiali-Donazioni-Ucraina-SITO.pdf
-address:
-  mode: autocomplete
-  address:
-    place_id: 54313083
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 4761949611
-    boundingbox:
-    - '44.8221799'
-    - '44.8222799'
-    - '11.6317788'
-    - '11.6318788'
-    lat: '44.8222299'
-    lon: '11.6318288'
-    display_name: 1, Via Boschetto, Villa Fulvia, Quacchio, Ferrara, Emilia-Romagna,
-      44124, Italia
-    class: place
-    type: house
-    importance: 0.5309999999999999
-    address:
-      house_number: '1'
-      road: Via Boschetto
-      neighbourhood: Villa Fulvia
-      suburb: Quacchio
-      city: Ferrara
-      county: Ferrara
-      state: Emilia-Romagna
-      postcode: '44124'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/337,1180644235,2022-03-25 16:05:24,2022-03-25 10:59:03,A Ferrara attivato Punto Unico di Assistenza Sanitaria per i profughi ucraini,,,,,"[""Valid/Accettato"",""Services"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Ferrara"",""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""house_number"":""11"",""postcode"":""44124"",""road"":""Via della Fiera"",""state"":""Emilia-Romagna"",""suburb"":""Villaggio Satellite"",""village"":""Chiesuol del Fosso""},""boundingbox"":[""44.8139041"",""44.8140041"",""11.5849403"",""11.5850403""],""class"":""place"",""display_name"":""11, Via della Fiera, Villaggio Satellite, Chiesuol del Fosso, Ferrara, Emilia-Romagna, 44124, Italia"",""importance"":0.5209999999999999,""lat"":""44.8139541"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.5849903"",""osm_id"":4762035311,""osm_type"":""node"",""place_id"":53655779,""type"":""house""},""mode"":""autocomplete""},""description"":""\u00c8 attivo un Punto Assistenza Unico presso il Centro Fiere di Ferrara, in Via della Fiera n. 11 presso il quale saranno assicurati, con l\u2019ausilio di mediatori culturali e interpreti e modulistica bilingue, i seguenti servizi:\n\nServizi sanitari, accessibili dalle 8.00 alle 20.00 tutti i giorni, anche la domenica, per:\n- Rilascio tesserino Stp per l\u2019accesso alle cure\n- Tamponi per accertamento positivit\u00e0 al Covid ed eventuale percorso di isolamento in caso di positivit\u00e0\n- Vaccinazione anti Covid 19 per adulti e bambini\n- Valutazione della situazione rispetto alle altre vaccinazioni obbligatorie per adulti e bambini, ed eventuale somministrazione (anti-poliomielitica, anti-difterica, anti-tetanica, anti-epatite B, anti-pertosse, anti-Haemophilus influenzae tipo b, anti-morbillo, anti-rosolia, anti-parotite e anti-varicella)\n- Test mantoux (screening tubercolare)\n- Distribuzione mascherine Ffp2\n\nSportello della Questura, accessibile dalle 8.30 alle 13.30 dal luned\u00ec al sabato, per:             \n- Dichiarazione di presenza in Italia (che lo straniero deve effettuare per legge entro 8 giorni      dall\u2019ingresso in Italia)\n- Informazioni sul rilascio del permesso di soggiorno per protezione temporanea\n- Orientamento all\u2019accoglienza in collegamento con la Prefettura"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Azienda USL di Ferrara"",""recipients"":""Profughi ucraini"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Centro di Assistenza sanitaria ai profughi"",""url"":""https://www.ausl.fe.it/emergenza-ucraina-assistenza-sanitaria-ai-profughi""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -526,61 +673,6 @@ address:
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/334,1180618396,2022-03-25 15:55:42,2022-03-25 10:33:04,"Regione Veneto, online materiale informativo per l’inserimento scolastico dei minori ucraini",,,,,"[""Valid/Accettato"",""Services"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Mestre"",""country"":""Italia"",""country_code"":""it"",""county"":""Venezia"",""neighbourhood"":""Cannaregio"",""postcode"":""30170"",""road"":""Fondamenta Santa Lucia"",""state"":""Veneto"",""suburb"":""Venezia-Murano-Burano""},""boundingbox"":[""45.4401931"",""45.441356"",""12.3205532"",""12.3221223""],""class"":""highway"",""display_name"":""Fondamenta Santa Lucia, Cannaregio, Venezia-Murano-Burano, Mestre, Venezia, Veneto, 30170, Italia"",""importance"":0.6199999999999999,""lat"":""45.4407929"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.321455763307872"",""osm_id"":7932730,""osm_type"":""relation"",""place_id"":285398559,""type"":""pedestrian""},""mode"":""autocomplete""},""description"":""La Direzione Prevenzione della Regione del Veneto ha predisposto materiale informativo contenente le raccomandazioni per iniziare la frequenza scolastica, rivolto alle persone in arrivo dall\u2019Ucraina oltre che alla popolazione e alle istituzioni coinvolte nell\u2019assistenza o nell\u2019accoglienza."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione del Veneto - Direzione prevenzione sicurezza alimentare e veterinaria"",""recipients"":""Studenti ucraini"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Frequenza scolastica per profughi ucraini nella Regione Veneto"",""url"":""https://www.aulss2.veneto.it/documents/6017636/9be3e1fa-4a9c-49eb-b52b-93642a4b8a79""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: true
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: true
-offerFromWho: Regione del Veneto - Direzione prevenzione sicurezza alimentare e veterinaria
-title: Frequenza scolastica per profughi ucraini nella Regione Veneto
-recipients: Studenti ucraini
-description: La Direzione Prevenzione della Regione del Veneto ha predisposto materiale
-  informativo contenente le raccomandazioni per iniziare la frequenza scolastica,
-  rivolto alle persone in arrivo dall’Ucraina oltre che alla popolazione e alle istituzioni
-  coinvolte nell’assistenza o nell’accoglienza.
-url: https://www.aulss2.veneto.it/documents/6017636/9be3e1fa-4a9c-49eb-b52b-93642a4b8a79
-address:
-  mode: autocomplete
-  address:
-    place_id: 285398559
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 7932730
-    boundingbox:
-    - '45.4401931'
-    - '45.441356'
-    - '12.3205532'
-    - '12.3221223'
-    lat: '45.4407929'
-    lon: '12.321455763307872'
-    display_name: Fondamenta Santa Lucia, Cannaregio, Venezia-Murano-Burano, Mestre,
-      Venezia, Veneto, 30170, Italia
-    class: highway
-    type: pedestrian
-    importance: 0.6199999999999999
-    address:
-      road: Fondamenta Santa Lucia
-      neighbourhood: Cannaregio
-      suburb: Venezia-Murano-Burano
-      city: Mestre
-      county: Venezia
-      state: Veneto
-      postcode: '30170'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/72,1165436880,2022-03-25 10:57:39,2022-03-10 16:19:46,Materiali di Docenti Senza Frontiere per facilitare l'inserimento scolastico di bambini ucraini,46.006085,11.12844,Trentino-Alto Adige,Trento,"[""Valid/Accettato"",""Children"",""document_data"",""telegram-channel"",""tweet"",""education""]",,,"{""Posizione"":""46.006085 11.12844"",""description"":""Docenti Senza Frontiere ha raccolto e pubblicato online materiali per agevolare lo scambio linguistico e la conoscenza del sistema scolastico di provenienza e facilitare l'inserimento scolastico di #bambini ucraini rifugiati in Italia."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://t.co/mELJwhEdMz"",""location"":{""address"":{""address"":{""city"":""Trento"",""country"":""Italia"",""country_code"":""it"",""county"":""Provincia di Trento"",""municipality"":""Territorio Val d'Adige"",""postcode"":""38123"",""quarter"":""Mattarello di Sotto"",""road"":""Via Guido Poli"",""state"":""Trentino-Alto Adige"",""village"":""Mattarello""},""boundingbox"":[""46.0058921"",""46.0062362"",""11.1282682"",""11.1287143""],""class"":""highway"",""display_name"":""Via Guido Poli, Mattarello di Sotto, Mattarello, Trento, Territorio Val d'Adige, Provincia di Trento, Trentino-Alto Adige, 38123, Italia"",""importance"":0.5199999999999999,""lat"":""46.006085"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.12844"",""osm_id"":780479136,""osm_type"":""way"",""place_id"":254696017,""type"":""tertiary""},""mode"":""autocomplete""},""submit"":true,""title"":""Materiali di Docenti Senza Frontiere per facilitare l'inserimento scolastico di bambini ucraini rifugiati in Italia""}","<pre><yamldata>
@@ -2462,47 +2554,6 @@ location:
 label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/315,1178712576,2022-03-23 22:25:49,2022-03-23 21:57:36,Giornale di Brescia apre una rubrica online in lingua ucraina con notizie e info utili per i rifugiati ucraini,45.5321684,10.2203166,Lombardia,Brescia,"[""Valid/Accettato"",""News"",""Resources""]",,,"{""Posizione"":""45.5321684 10.2203166"",""description"":""Il Giornale di Brescia apre una rubrica online in lingua ucraina dove ogni giorno sono pubblicate notizie e info utili per i rifugiati ucraini che si sono trasferiti a Brescia."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.giornaledibrescia.it/rubriche/benvenuti-ucraini"",""location"":{""address"":{""address"":{""city"":""Brescia"",""city_district"":""Zona Centro"",""country"":""Italia"",""country_code"":""it"",""county"":""Brescia"",""postcode"":""25100"",""road"":""Via Solferino"",""state"":""Lombardia"",""suburb"":""Centro Storico Sud""},""boundingbox"":[""45.5321405"",""45.5321915"",""10.2201492"",""10.2205083""],""class"":""highway"",""display_name"":""Via Solferino, Centro Storico Sud, Zona Centro, Brescia, Lombardia, 25100, Italia"",""importance"":0.41000000000000003,""lat"":""45.5321684"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.2203166"",""osm_id"":117946887,""osm_type"":""way"",""place_id"":129402346,""type"":""tertiary""},""mode"":""autocomplete""},""submit"":true,""title"":""Giornale di Brescia apre una rubrica online in lingua ucraina con notizie e info utili per i rifugiati""}","<pre><yamldata>
-title: Giornale di Brescia apre una rubrica online in lingua ucraina con notizie e
-  info utili per i rifugiati
-description: Il Giornale di Brescia apre una rubrica online in lingua ucraina dove
-  ogni giorno sono pubblicate notizie e info utili per i rifugiati ucraini che si
-  sono trasferiti a Brescia.
-link: https://www.giornaledibrescia.it/rubriche/benvenuti-ucraini
-location:
-  mode: autocomplete
-  address:
-    place_id: 129402346
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 117946887
-    boundingbox:
-    - '45.5321405'
-    - '45.5321915'
-    - '10.2201492'
-    - '10.2205083'
-    lat: '45.5321684'
-    lon: '10.2203166'
-    display_name: Via Solferino, Centro Storico Sud, Zona Centro, Brescia, Lombardia,
-      25100, Italia
-    class: highway
-    type: tertiary
-    importance: 0.41000000000000003
-    address:
-      road: Via Solferino
-      suburb: Centro Storico Sud
-      city_district: Zona Centro
-      city: Brescia
-      county: Brescia
-      state: Lombardia
-      postcode: '25100'
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 45.5321684 10.2203166
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/313,1178702626,2022-03-23 22:23:53,2022-03-23 21:44:45,#Milano: aperto a Lampugnano un nuovo punto di primo contatto e orientamento per i profughi,45.4866108,9.1250144,Lombardia,Milano,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality"",""healthcare""]",,,"{""Posizione"":""45.4866108 9.1250144"",""description"":""\u00c8 attivo - dalle 12 alle 22 -  a Lampugnano un nuovo punto di primo contatto e orientamento per i profughi ucraini che arrivano in citt\u00e0, un punto strategico soprattutto per coloro che raggiungono Milano in pullman. \u00c8 gestito dalla Protezione civile del Comune di Milano, in collaborazione con EMERGENCY  che si occuper\u00e0 dell\u2019effettuazione dei tamponi. \nCome gi\u00e0 avviene da qualche giorno nell\u2019hub di via Mortirolo, i cittadini ucraini verranno accompagnati nella registrazione, e orientati verso le offerte alloggiative a disposizione.\nIl Comune sta lavorando per facilitare il pi\u00f9 possibile l\u2019inserimento e l\u2019integrazione dei profughi ucraini moltiplicando i punti di accesso in cui si possono ottenere informazioni. \nSul sito \u00e8 possibile trovare anche un vademecum aggiornato: https://www.comune.milano.it/web/milanoaiuta"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.comune.milano.it/web/milanoaiuta"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""state"":""Lombardia"",""suburb"":""Lampugnano""},""boundingbox"":[""45.4788081"",""45.4922131"",""9.1068773"",""9.1318813""],""class"":""place"",""display_name"":""Lampugnano, Municipio 8, Milano, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png"",""importance"":0.5545859424692052,""lat"":""45.4866108"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1250144"",""osm_id"":6711805,""osm_type"":""relation"",""place_id"":285112401,""type"":""suburb""},""mode"":""autocomplete""},""submit"":true,""title"":""Milano: aperto a Lampugnano un nuovo punto di primo contatto e orientamento per i profughi""}","<pre><yamldata>
 title: 'Milano: aperto a Lampugnano un nuovo punto di primo contatto e orientamento
