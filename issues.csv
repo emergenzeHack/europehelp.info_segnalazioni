@@ -1,4 +1,71 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/348,1181355543,2022-03-25 23:25:29,2022-03-25 23:25:06,"A Palermo biglietti aerei sospesi per profughi ucraini, l’iniziativa dell’agenzia Manfrè Viaggi",,,,,"[""Valid/Accettato"",""Services"",""transport""]",,,"{""address"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""hamlet"":""Quartiere Matteotti"",""postcode"":""90144"",""road"":""Via Empedocle Restivo"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1418507"",""38.1422777"",""13.3370385"",""13.3372359""],""class"":""highway"",""display_name"":""Via Empedocle Restivo, Quartiere Matteotti, VIII Circoscrizione, Palermo, Sicilia, 90144, Italia"",""importance"":0.51,""lat"":""38.1419885"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3371606"",""osm_id"":526088542,""osm_type"":""way"",""place_id"":213266908,""type"":""secondary""},""mode"":""autocomplete""},""description"":""L\u2019agenzia di viaggi palermitana Manfr\u00e8 Viaggi ha deciso di lanciare l\u2019iniziativa \u201cPalermo per l\u2019Ucraina\u201d in collaborazione con il Centro di raccolta umanitario per l\u2019Ucraina di Palermo.\nTutti i clienti dell\u2019adv, ma non solo, possono contribuire con un\u2019offerta libera per l\u2019acquisto di un biglietto aereo \u2018sospeso\u2019 da donare ai profughi ucraini che da Cracovia vogliono raggiungere l\u2019Italia. \nChi vuole pu\u00f2 lasciare la propra offerta nella sede dell\u2019agenzia in via Empedocle Restivo, 34/36, dal luned\u00ec al vanerd\u00ec dalle 9.30 alle 12.30 e dalle 16-30 alle 18.30. Tel. 091 525442.\n\nL\u2019idea nasce da un cittadino palermitano, Ciccio Gangi, che voleva andare con il suo furgone a Cracovia per portare viveri, vestiti e tornare a Palermo con una famiglia di rifugiati. Ma facendo i calcoli, tra spese di viaggio e tempistiche, ha capito che conveniva fare arrivare la famiglia con l'aereo. Cos\u00ec, sulla scia del caff\u00e8 sospeso napoletano, Ciccio Gangi ha pagato un volo. A ruota l'hanno seguito anche i suoi amici e, biglietto dopo biglietto, hanno dato vita all'iniziativa \""il volo sospeso\"" che ora \u00e8 sostenuta anche dall\u2019agenzia di viaggi Manfr\u00e8 (qui il racconto https://palermo.gds.it/video/cronaca/2022/03/22/palermitani-acquistano-biglietti-aerei-per-i-profughi-ucraini-ecco-come-aderire-alliniziativa-il-volo-sospeso-a1607f15-189c-4ae7-9148-43ca6bea7860/)"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Manfr\u00e8 Viaggi Palermo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""A Palermo biglietti aerei sospesi per profughi ucraini, l\u2019iniziativa dell\u2019agenzia Manfr\u00e8 Viaggi"",""url"":""https://www.facebook.com/manfre.viaggi/photos/a.1982521235156384/6991928720882252/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: true
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Manfrè Viaggi Palermo
+title: A Palermo biglietti aerei sospesi per profughi ucraini, l’iniziativa dell’agenzia
+  Manfrè Viaggi
+recipients: ''
+description: ""L’agenzia di viaggi palermitana Manfrè Viaggi ha deciso di lanciare\
+  \ l’iniziativa “Palermo per l’Ucraina” in collaborazione con il Centro di raccolta\
+  \ umanitario per l’Ucraina di Palermo.\nTutti i clienti dell’adv, ma non solo, possono\
+  \ contribuire con un’offerta libera per l’acquisto di un biglietto aereo ‘sospeso’\
+  \ da donare ai profughi ucraini che da Cracovia vogliono raggiungere l’Italia. \n\
+  Chi vuole può lasciare la propra offerta nella sede dell’agenzia in via Empedocle\
+  \ Restivo, 34/36, dal lunedì al vanerdì dalle 9.30 alle 12.30 e dalle 16-30 alle\
+  \ 18.30. Tel. 091 525442.\n\nL’idea nasce da un cittadino palermitano, Ciccio Gangi,\
+  \ che voleva andare con il suo furgone a Cracovia per portare viveri, vestiti e\
+  \ tornare a Palermo con una famiglia di rifugiati. Ma facendo i calcoli, tra spese\
+  \ di viaggio e tempistiche, ha capito che conveniva fare arrivare la famiglia con\
+  \ l'aereo. Così, sulla scia del caffè sospeso napoletano, Ciccio Gangi ha pagato\
+  \ un volo. A ruota l'hanno seguito anche i suoi amici e, biglietto dopo biglietto,\
+  \ hanno dato vita all'iniziativa \""il volo sospeso\"" che ora è sostenuta anche dall’agenzia\
+  \ di viaggi Manfrè (qui il racconto https://palermo.gds.it/video/cronaca/2022/03/22/palermitani-acquistano-biglietti-aerei-per-i-profughi-ucraini-ecco-come-aderire-alliniziativa-il-volo-sospeso-a1607f15-189c-4ae7-9148-43ca6bea7860/)""
+url: https://www.facebook.com/manfre.viaggi/photos/a.1982521235156384/6991928720882252/
+address:
+  mode: autocomplete
+  address:
+    place_id: 213266908
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 526088542
+    boundingbox:
+    - '38.1418507'
+    - '38.1422777'
+    - '13.3370385'
+    - '13.3372359'
+    lat: '38.1419885'
+    lon: '13.3371606'
+    display_name: Via Empedocle Restivo, Quartiere Matteotti, VIII Circoscrizione,
+      Palermo, Sicilia, 90144, Italia
+    class: highway
+    type: secondary
+    importance: 0.51
+    address:
+      road: Via Empedocle Restivo
+      hamlet: Quartiere Matteotti
+      suburb: VIII Circoscrizione
+      city: Palermo
+      county: Palermo
+      state: Sicilia
+      postcode: '90144'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/344,1180979844,2022-03-25 23:07:39,2022-03-25 16:10:53,CSV Abruzzo: elenco delle azioni in corso in Abruzzo per fundraising e raccolta beni per i rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""fundraising"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""L'Aquila"",""state"":""Abruzzo""},""boundingbox"":[""41.6820382"",""42.5912825"",""13.0189718"",""14.2297358""],""class"":""boundary"",""display_name"":""L'Aquila, Abruzzo, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9265055278596535,""lat"":""42.1368853"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.610341022538911"",""osm_id"":167044,""osm_type"":""relation"",""place_id"":283747468,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""DONARE FONDI, MATERIALE SANITARIO E BENI DI PRIMA NECEssita' tramite le associazioni della regione"",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":"""",""submit"":true,""title"":""CSV Abruzzo"",""url"":""https://www.csvabruzzo.it/wp-content/uploads/2022/03/crisi_umanitaria_in_ucraina_1.pdf""}","<pre><yamldata>
 title: CSV Abruzzo
 phoneNumber: ''
