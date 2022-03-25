@@ -1,4 +1,97 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/335,1180624799,2022-03-25 15:57:06,2022-03-25 10:39:22,"Treviso, attivo ambulatorio per assistenza sanitaria ai rifugiati ",,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Treviso"",""country"":""Italia"",""country_code"":""it"",""county"":""Treviso"",""postcode"":""31100"",""road"":""Via Sant'Ambrogio di Fiera"",""state"":""Veneto"",""suburb"":""Fiera""},""boundingbox"":[""45.6611856"",""45.6614167"",""12.2643319"",""12.2650204""],""class"":""highway"",""display_name"":""Via Sant'Ambrogio di Fiera, Fiera, Treviso, Veneto, 31100, Italia"",""importance"":0.9299999999999999,""lat"":""45.661284"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.2647307"",""osm_id"":689141361,""osm_type"":""way"",""place_id"":237440871,""type"":""residential""},""mode"":""autocomplete""},""aim"":""Assistenza sanitaria stranieri temporaneamente presenti Dal luned\u00ec al sabato \u2013 dalle 08.00 alle 20.00"",""email"":""sispmalattieinfettive@aulss2.veneto.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":""+390422323831"",""submit"":true,""title"":""Ambulatorio Servizio Igiene e Sanit\u00e0 Pubblica - ULSS2 Marca Trevigiana"",""url"":""https://www.aulss2.veneto.it/documents/6017636/18856243/Emergenza+Ucraina+numeri+utili/96b3bf4f-498a-4b66-acd1-f3c0f4e4fd83""}","<pre><yamldata>
+title: Ambulatorio Servizio Igiene e Sanità Pubblica - ULSS2 Marca Trevigiana
+phoneNumber: '+390422323831'
+email: sispmalattieinfettive@aulss2.veneto.it
+aim: 'Assistenza sanitaria stranieri temporaneamente presenti
+  Dal lunedì al sabato – dalle 08.00 alle 20.00'
+url: https://www.aulss2.veneto.it/documents/6017636/18856243/Emergenza+Ucraina+numeri+utili/96b3bf4f-498a-4b66-acd1-f3c0f4e4fd83
+address:
+  mode: autocomplete
+  address:
+    place_id: 237440871
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 689141361
+    boundingbox:
+    - '45.6611856'
+    - '45.6614167'
+    - '12.2643319'
+    - '12.2650204'
+    lat: '45.661284'
+    lon: '12.2647307'
+    display_name: Via Sant'Ambrogio di Fiera, Fiera, Treviso, Veneto, 31100, Italia
+    class: highway
+    type: residential
+    importance: 0.9299999999999999
+    address:
+      road: Via Sant'Ambrogio di Fiera
+      suburb: Fiera
+      city: Treviso
+      county: Treviso
+      state: Veneto
+      postcode: '31100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/334,1180618396,2022-03-25 15:55:42,2022-03-25 10:33:04,"Regione Veneto, online materiale informativo per l’inserimento scolastico dei minori ucraini",,,,,"[""Valid/Accettato"",""Services"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Mestre"",""country"":""Italia"",""country_code"":""it"",""county"":""Venezia"",""neighbourhood"":""Cannaregio"",""postcode"":""30170"",""road"":""Fondamenta Santa Lucia"",""state"":""Veneto"",""suburb"":""Venezia-Murano-Burano""},""boundingbox"":[""45.4401931"",""45.441356"",""12.3205532"",""12.3221223""],""class"":""highway"",""display_name"":""Fondamenta Santa Lucia, Cannaregio, Venezia-Murano-Burano, Mestre, Venezia, Veneto, 30170, Italia"",""importance"":0.6199999999999999,""lat"":""45.4407929"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.321455763307872"",""osm_id"":7932730,""osm_type"":""relation"",""place_id"":285398559,""type"":""pedestrian""},""mode"":""autocomplete""},""description"":""La Direzione Prevenzione della Regione del Veneto ha predisposto materiale informativo contenente le raccomandazioni per iniziare la frequenza scolastica, rivolto alle persone in arrivo dall\u2019Ucraina oltre che alla popolazione e alle istituzioni coinvolte nell\u2019assistenza o nell\u2019accoglienza."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione del Veneto - Direzione prevenzione sicurezza alimentare e veterinaria"",""recipients"":""Studenti ucraini"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Frequenza scolastica per profughi ucraini nella Regione Veneto"",""url"":""https://www.aulss2.veneto.it/documents/6017636/9be3e1fa-4a9c-49eb-b52b-93642a4b8a79""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: true
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Regione del Veneto - Direzione prevenzione sicurezza alimentare e veterinaria
+title: Frequenza scolastica per profughi ucraini nella Regione Veneto
+recipients: Studenti ucraini
+description: La Direzione Prevenzione della Regione del Veneto ha predisposto materiale
+  informativo contenente le raccomandazioni per iniziare la frequenza scolastica,
+  rivolto alle persone in arrivo dall’Ucraina oltre che alla popolazione e alle istituzioni
+  coinvolte nell’assistenza o nell’accoglienza.
+url: https://www.aulss2.veneto.it/documents/6017636/9be3e1fa-4a9c-49eb-b52b-93642a4b8a79
+address:
+  mode: autocomplete
+  address:
+    place_id: 285398559
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 7932730
+    boundingbox:
+    - '45.4401931'
+    - '45.441356'
+    - '12.3205532'
+    - '12.3221223'
+    lat: '45.4407929'
+    lon: '12.321455763307872'
+    display_name: Fondamenta Santa Lucia, Cannaregio, Venezia-Murano-Burano, Mestre,
+      Venezia, Veneto, 30170, Italia
+    class: highway
+    type: pedestrian
+    importance: 0.6199999999999999
+    address:
+      road: Fondamenta Santa Lucia
+      neighbourhood: Cannaregio
+      suburb: Venezia-Murano-Burano
+      city: Mestre
+      county: Venezia
+      state: Veneto
+      postcode: '30170'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/339,1180663594,2022-03-25 11:17:08,2022-03-25 11:13:57,Comune di Ferrara raccoglie disponibilità di enti e cittadini ad ospitare rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""city"":""Ferrara"",""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""house_number"":""1"",""neighbourhood"":""Villa Fulvia"",""postcode"":""44124"",""road"":""Via Boschetto"",""state"":""Emilia-Romagna"",""suburb"":""Quacchio""},""boundingbox"":[""44.8221799"",""44.8222799"",""11.6317788"",""11.6318788""],""class"":""place"",""display_name"":""1, Via Boschetto, Villa Fulvia, Quacchio, Ferrara, Emilia-Romagna, 44124, Italia"",""importance"":0.5309999999999999,""lat"":""44.8222299"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.6318288"",""osm_id"":4761949611,""osm_type"":""node"",""place_id"":54313083,""type"":""house""},""mode"":""autocomplete""},""description"":""Se sei di Ferrara e sei disposto ad ospitare rifugiati ucraini, puoi scrivere a: emergenzaucraina@comune.fe.it A questa casella di posta, privati cittadini o enti, possono manifestare la propria disponibilit\u00e0 a offrire appartamenti che verranno messi a disposizione dei soggetti gestori dei centri di accoglienza per incrementare la capienza. Tali manifestazioni andranno ad alimentare una banca dati gestita dalla Protezione Civile per conto della Prefettura e dei Comuni della provincia per cui si richiede di specificare, contestualmente, anche il consenso al trattamento dei dati personali per le finalit\u00e0 indicate."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ibo Italia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Ferrara Ibo Italia raccoglie disponibilit\u00e0 di enti e cittadini ad ospitare rifugiati ucraini"",""url"":""https://www.comune.fe.it/it/b/13403/emergenza-ucraina""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
