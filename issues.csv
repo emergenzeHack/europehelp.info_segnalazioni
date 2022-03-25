@@ -1,4 +1,86 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/266,1175742725,2022-03-25 16:47:02,2022-03-21 17:56:15,Libera Università di #Bolzano: accesso ai corsi di studio e all’insegnamento per i rifugiati dall’Ucraina,,,,,"[""Valid/Accettato"",""Services"",""job"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bolzano"",""state"":""Trentino-Alto Adige""},""boundingbox"":[""46.2197712"",""47.0921462"",""10.3817965"",""12.4779676""],""class"":""boundary"",""display_name"":""Bolzano, Trentino-Alto Adige, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7589076281878143,""lat"":""46.65594215"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.229637264169462"",""osm_id"":47046,""osm_type"":""relation"",""place_id"":284985164,""type"":""administrative""},""mode"":""autocomplete""},""description"":""L'ateneo offre l'accesso alle lezioni, all\u2019insegnamento e alla ricerca ai rifugiati."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Libera Universit\u00e0 di Bolzano"",""recipients"":""studenti e professori universitari"",""submit"":true,""title"":""Libera Universit\u00e0 di Bolzano: accesso ai corsi di studio e all\u2019insegnamento per i rifugiati* dall\u2019Ucraina"",""type"":""jobOffer"",""url"":""https://www.unibz.it/it/home/newsroom/press-releases/62384fe54eddc""}","<pre><yamldata>
+type: jobOffer
+offerFromWho: Libera Università di Bolzano
+title: 'Libera Università di Bolzano: accesso ai corsi di studio e all’insegnamento
+  per i rifugiati* dall’Ucraina'
+recipients: studenti e professori universitari
+description: L'ateneo offre l'accesso alle lezioni, all’insegnamento e alla ricerca
+  ai rifugiati.
+url: https://www.unibz.it/it/home/newsroom/press-releases/62384fe54eddc
+address:
+  mode: autocomplete
+  address:
+    place_id: 284985164
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 47046
+    boundingbox:
+    - '46.2197712'
+    - '47.0921462'
+    - '10.3817965'
+    - '12.4779676'
+    lat: '46.65594215'
+    lon: '11.229637264169462'
+    display_name: Bolzano, Trentino-Alto Adige, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7589076281878143
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Bolzano
+      state: Trentino-Alto Adige
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/313,1178702626,2022-03-25 16:46:12,2022-03-23 21:44:45,#Milano: aperto a Lampugnano un nuovo punto di primo contatto e orientamento per i profughi,45.4866108,9.1250144,Lombardia,Milano,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.4866108 9.1250144"",""description"":""\u00c8 attivo - dalle 12 alle 22 -  a Lampugnano un nuovo punto di primo contatto e orientamento per i profughi ucraini che arrivano in citt\u00e0, un punto strategico soprattutto per coloro che raggiungono Milano in pullman. \u00c8 gestito dalla Protezione civile del Comune di Milano, in collaborazione con EMERGENCY  che si occuper\u00e0 dell\u2019effettuazione dei tamponi. \nCome gi\u00e0 avviene da qualche giorno nell\u2019hub di via Mortirolo, i cittadini ucraini verranno accompagnati nella registrazione, e orientati verso le offerte alloggiative a disposizione.\nIl Comune sta lavorando per facilitare il pi\u00f9 possibile l\u2019inserimento e l\u2019integrazione dei profughi ucraini moltiplicando i punti di accesso in cui si possono ottenere informazioni. \nSul sito \u00e8 possibile trovare anche un vademecum aggiornato: https://www.comune.milano.it/web/milanoaiuta"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.comune.milano.it/web/milanoaiuta"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""state"":""Lombardia"",""suburb"":""Lampugnano""},""boundingbox"":[""45.4788081"",""45.4922131"",""9.1068773"",""9.1318813""],""class"":""place"",""display_name"":""Lampugnano, Municipio 8, Milano, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png"",""importance"":0.5545859424692052,""lat"":""45.4866108"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1250144"",""osm_id"":6711805,""osm_type"":""relation"",""place_id"":285112401,""type"":""suburb""},""mode"":""autocomplete""},""submit"":true,""title"":""Milano: aperto a Lampugnano un nuovo punto di primo contatto e orientamento per i profughi""}","<pre><yamldata>
+title: 'Milano: aperto a Lampugnano un nuovo punto di primo contatto e orientamento
+  per i profughi'
+description: ""È attivo - dalle 12 alle 22 -  a Lampugnano un nuovo punto di primo\
+  \ contatto e orientamento per i profughi ucraini che arrivano in città, un punto\
+  \ strategico soprattutto per coloro che raggiungono Milano in pullman. È gestito\
+  \ dalla Protezione civile del Comune di Milano, in collaborazione con EMERGENCY\
+  \  che si occuperà dell’effettuazione dei tamponi. \nCome già avviene da qualche\
+  \ giorno nell’hub di via Mortirolo, i cittadini ucraini verranno accompagnati nella\
+  \ registrazione, e orientati verso le offerte alloggiative a disposizione.\nIl Comune\
+  \ sta lavorando per facilitare il più possibile l’inserimento e l’integrazione dei\
+  \ profughi ucraini moltiplicando i punti di accesso in cui si possono ottenere informazioni.\
+  \ \nSul sito è possibile trovare anche un vademecum aggiornato: https://www.comune.milano.it/web/milanoaiuta""
+link: 'https://www.comune.milano.it/web/milanoaiuta'
+location:
+  mode: autocomplete
+  address:
+    place_id: 285112401
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 6711805
+    boundingbox:
+    - '45.4788081'
+    - '45.4922131'
+    - '9.1068773'
+    - '9.1318813'
+    lat: '45.4866108'
+    lon: '9.1250144'
+    display_name: Lampugnano, Municipio 8, Milano, Lombardia, Italia
+    class: place
+    type: suburb
+    importance: 0.5545859424692052
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png
+    address:
+      suburb: Lampugnano
+      city: Milano
+      county: Milano
+      state: Lombardia
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.4866108 9.1250144
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/315,1178712576,2022-03-25 16:42:58,2022-03-23 21:57:36,Giornale di Brescia apre una rubrica online in lingua ucraina con notizie e info utili per i rifugiati ucraini,45.5321684,10.2203166,Lombardia,Brescia,"[""Valid/Accettato"",""News"",""telegram-channel"",""tweet"",""Resources""]",,,"{""Posizione"":""45.5321684 10.2203166"",""description"":""Il Giornale di Brescia apre una rubrica online in lingua ucraina dove ogni giorno sono pubblicate notizie e info utili per i rifugiati ucraini che si sono trasferiti a Brescia."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.giornaledibrescia.it/rubriche/benvenuti-ucraini"",""location"":{""address"":{""address"":{""city"":""Brescia"",""city_district"":""Zona Centro"",""country"":""Italia"",""country_code"":""it"",""county"":""Brescia"",""postcode"":""25100"",""road"":""Via Solferino"",""state"":""Lombardia"",""suburb"":""Centro Storico Sud""},""boundingbox"":[""45.5321405"",""45.5321915"",""10.2201492"",""10.2205083""],""class"":""highway"",""display_name"":""Via Solferino, Centro Storico Sud, Zona Centro, Brescia, Lombardia, 25100, Italia"",""importance"":0.41000000000000003,""lat"":""45.5321684"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.2203166"",""osm_id"":117946887,""osm_type"":""way"",""place_id"":129402346,""type"":""tertiary""},""mode"":""autocomplete""},""submit"":true,""title"":""Giornale di Brescia apre una rubrica online in lingua ucraina con notizie e info utili per i rifugiati""}","<pre><yamldata>
 title: Giornale di Brescia apre una rubrica online in lingua ucraina con notizie e
   info utili per i rifugiati
@@ -2555,51 +2637,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/313,1178702626,2022-03-23 22:23:53,2022-03-23 21:44:45,#Milano: aperto a Lampugnano un nuovo punto di primo contatto e orientamento per i profughi,45.4866108,9.1250144,Lombardia,Milano,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality"",""healthcare""]",,,"{""Posizione"":""45.4866108 9.1250144"",""description"":""\u00c8 attivo - dalle 12 alle 22 -  a Lampugnano un nuovo punto di primo contatto e orientamento per i profughi ucraini che arrivano in citt\u00e0, un punto strategico soprattutto per coloro che raggiungono Milano in pullman. \u00c8 gestito dalla Protezione civile del Comune di Milano, in collaborazione con EMERGENCY  che si occuper\u00e0 dell\u2019effettuazione dei tamponi. \nCome gi\u00e0 avviene da qualche giorno nell\u2019hub di via Mortirolo, i cittadini ucraini verranno accompagnati nella registrazione, e orientati verso le offerte alloggiative a disposizione.\nIl Comune sta lavorando per facilitare il pi\u00f9 possibile l\u2019inserimento e l\u2019integrazione dei profughi ucraini moltiplicando i punti di accesso in cui si possono ottenere informazioni. \nSul sito \u00e8 possibile trovare anche un vademecum aggiornato: https://www.comune.milano.it/web/milanoaiuta"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.comune.milano.it/web/milanoaiuta"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""state"":""Lombardia"",""suburb"":""Lampugnano""},""boundingbox"":[""45.4788081"",""45.4922131"",""9.1068773"",""9.1318813""],""class"":""place"",""display_name"":""Lampugnano, Municipio 8, Milano, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png"",""importance"":0.5545859424692052,""lat"":""45.4866108"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1250144"",""osm_id"":6711805,""osm_type"":""relation"",""place_id"":285112401,""type"":""suburb""},""mode"":""autocomplete""},""submit"":true,""title"":""Milano: aperto a Lampugnano un nuovo punto di primo contatto e orientamento per i profughi""}","<pre><yamldata>
-title: 'Milano: aperto a Lampugnano un nuovo punto di primo contatto e orientamento
-  per i profughi'
-description: ""È attivo - dalle 12 alle 22 -  a Lampugnano un nuovo punto di primo\
-  \ contatto e orientamento per i profughi ucraini che arrivano in città, un punto\
-  \ strategico soprattutto per coloro che raggiungono Milano in pullman. È gestito\
-  \ dalla Protezione civile del Comune di Milano, in collaborazione con EMERGENCY\
-  \  che si occuperà dell’effettuazione dei tamponi. \nCome già avviene da qualche\
-  \ giorno nell’hub di via Mortirolo, i cittadini ucraini verranno accompagnati nella\
-  \ registrazione, e orientati verso le offerte alloggiative a disposizione.\nIl Comune\
-  \ sta lavorando per facilitare il più possibile l’inserimento e l’integrazione dei\
-  \ profughi ucraini moltiplicando i punti di accesso in cui si possono ottenere informazioni.\
-  \ \nSul sito è possibile trovare anche un vademecum aggiornato: https://www.comune.milano.it/web/milanoaiuta""
-link: 'https://www.comune.milano.it/web/milanoaiuta'
-location:
-  mode: autocomplete
-  address:
-    place_id: 285112401
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 6711805
-    boundingbox:
-    - '45.4788081'
-    - '45.4922131'
-    - '9.1068773'
-    - '9.1318813'
-    lat: '45.4866108'
-    lon: '9.1250144'
-    display_name: Lampugnano, Municipio 8, Milano, Lombardia, Italia
-    class: place
-    type: suburb
-    importance: 0.5545859424692052
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png
-    address:
-      suburb: Lampugnano
-      city: Milano
-      county: Milano
-      state: Lombardia
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 45.4866108 9.1250144
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/230,1174088592,2022-03-23 20:43:17,2022-03-18 22:42:15,"Comune di Prato attiva pagina web per accoglienza rifugiati, punti di raccolta beni, offerta alloggi",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Prato"",""country"":""Italia"",""country_code"":""it"",""county"":""Prato"",""neighbourhood"":""Soccorso"",""postcode"":""59100"",""road"":""Via Lazzerini"",""state"":""Toscana""},""boundingbox"":[""43.8745824"",""43.8754983"",""11.0933429"",""11.0940385""],""class"":""highway"",""display_name"":""Via Lazzerini, Soccorso, Prato, Toscana, 59100, Italia"",""importance"":0.5199999999999999,""lat"":""43.8750462"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.0937398"",""osm_id"":28637807,""osm_type"":""way"",""place_id"":108090719,""type"":""unclassified""},""mode"":""autocomplete""},""description"":""Online sul sito del Comune di Prato una pagina web con info e contatti utili su accoglienza rifugiati ucraini, punti di raccolta beni e farmaci, offerta alloggi, assistenza sanitaria e procedure per l\u2019accoglienza."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Prato"",""recipients"":"""",""submit"":true,""title"":""Comune di Prato attiva pagina web con info su accoglienza rifugiati ucraini, punti di raccolta beni, offerta alloggi"",""type"":""materialGoods"",""url"":""http://protezionecivile.comune.prato.it/aiuti-ucraina/pagina257.html""}","<pre><yamldata>
 type: materialGoods
 offerFromWho: Comune di Prato
@@ -4351,43 +4388,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: fundraising
 submit: true
 Posizione: 45.639544 9.278869369225038
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/266,1175742725,2022-03-21 20:50:03,2022-03-21 17:56:15,Libera Università di #Bolzano: accesso ai corsi di studio e all’insegnamento per i rifugiati dall’Ucraina,,,,,"[""Valid/Accettato"",""Services"",""job""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bolzano"",""state"":""Trentino-Alto Adige""},""boundingbox"":[""46.2197712"",""47.0921462"",""10.3817965"",""12.4779676""],""class"":""boundary"",""display_name"":""Bolzano, Trentino-Alto Adige, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7589076281878143,""lat"":""46.65594215"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.229637264169462"",""osm_id"":47046,""osm_type"":""relation"",""place_id"":284985164,""type"":""administrative""},""mode"":""autocomplete""},""description"":""L'ateneo offre l'accesso alle lezioni, all\u2019insegnamento e alla ricerca ai rifugiati."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Libera Universit\u00e0 di Bolzano"",""recipients"":""studenti e professori universitari"",""submit"":true,""title"":""Libera Universit\u00e0 di Bolzano: accesso ai corsi di studio e all\u2019insegnamento per i rifugiati* dall\u2019Ucraina"",""type"":""jobOffer"",""url"":""https://www.unibz.it/it/home/newsroom/press-releases/62384fe54eddc""}","<pre><yamldata>
-type: jobOffer
-offerFromWho: Libera Università di Bolzano
-title: 'Libera Università di Bolzano: accesso ai corsi di studio e all’insegnamento
-  per i rifugiati* dall’Ucraina'
-recipients: studenti e professori universitari
-description: L'ateneo offre l'accesso alle lezioni, all’insegnamento e alla ricerca
-  ai rifugiati.
-url: https://www.unibz.it/it/home/newsroom/press-releases/62384fe54eddc
-address:
-  mode: autocomplete
-  address:
-    place_id: 284985164
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 47046
-    boundingbox:
-    - '46.2197712'
-    - '47.0921462'
-    - '10.3817965'
-    - '12.4779676'
-    lat: '46.65594215'
-    lon: '11.229637264169462'
-    display_name: Bolzano, Trentino-Alto Adige, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7589076281878143
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      county: Bolzano
-      state: Trentino-Alto Adige
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/246,1174558677,2022-03-21 20:39:14,2022-03-20 14:02:27,Associazione Passaggi raccoglie a #Cosenza  aiuti per la comunità ucraina,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""Closed"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Cosenza"",""postcode"":""87075"",""state"":""Calabria"",""village"":""Trebisacce""},""boundingbox"":[""39.70663749"",""40.02663749"",""16.371731963905"",""16.691731963905""],""class"":""place"",""display_name"":""Trebisacce, Cosenza, Calabria, 87075, Italia"",""importance"":0.445,""lat"":""39.86663749"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.531731963904594"",""place_id"":288292969,""type"":""postcode""},""mode"":""autocomplete""},""description"":""Raccogliamo viveri,articoli per l'igiene della persona, medicinali, dispositivi medici, coperte."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Passaggi"",""recipients"":""Cittadi ucraini vittime della guerra"",""submit"":true,""title"":""Raccogliamo e inviamo aiuti insieme alla comunit\u00e0 ucraina"",""type"":""materialGoods"",""url"":""""}","<pre><yamldata>
 offerFromWho: Associazione Passaggi
