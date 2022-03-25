@@ -1,4 +1,83 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/344,1180979844,2022-03-25 23:07:39,2022-03-25 16:10:53,CSV Abruzzo: elenco delle azioni in corso in Abruzzo per fundraising e raccolta beni per i rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""fundraising"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""L'Aquila"",""state"":""Abruzzo""},""boundingbox"":[""41.6820382"",""42.5912825"",""13.0189718"",""14.2297358""],""class"":""boundary"",""display_name"":""L'Aquila, Abruzzo, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9265055278596535,""lat"":""42.1368853"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.610341022538911"",""osm_id"":167044,""osm_type"":""relation"",""place_id"":283747468,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""DONARE FONDI, MATERIALE SANITARIO E BENI DI PRIMA NECEssita' tramite le associazioni della regione"",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":"""",""submit"":true,""title"":""CSV Abruzzo"",""url"":""https://www.csvabruzzo.it/wp-content/uploads/2022/03/crisi_umanitaria_in_ucraina_1.pdf""}","<pre><yamldata>
+title: CSV Abruzzo
+phoneNumber: ''
+email: ''
+aim: DONARE FONDI, MATERIALE SANITARIO E BENI DI PRIMA NECEssita' tramite le associazioni
+  della regione
+url: https://www.csvabruzzo.it/wp-content/uploads/2022/03/crisi_umanitaria_in_ucraina_1.pdf
+address:
+  mode: autocomplete
+  address:
+    place_id: 283747468
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 167044
+    boundingbox:
+    - '41.6820382'
+    - '42.5912825'
+    - '13.0189718'
+    - '14.2297358'
+    lat: '42.1368853'
+    lon: '13.610341022538911'
+    display_name: L'Aquila, Abruzzo, Italia
+    class: boundary
+    type: administrative
+    importance: 0.9265055278596535
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: L'Aquila
+      state: Abruzzo
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/347,1181346213,2022-03-25 23:07:16,2022-03-25 23:06:43,Comitato Salva Ucraini Palermo ha urgente bisogno di 4-5 computer per profughi ucraini,38.1312509,13.3522947,Sicilia,Palermo,"[""Valid/Accettato"",""Help"",""materialGoods""]",,,"{""Posizione"":""38.1312509 13.3522947"",""description"":""Comitato Salva Ucraini Palermo ha urgente bisogno di 4-5 computer in buono stato per alcuni profughi ucraini che sta accogliendo. Grazie!"",""email"":""salva.ucraini.palermo@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""leisure"":""Giardino Inglese"",""postcode"":""90138"",""road"":""Via della Libert\u00e0"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1312009"",""38.1313009"",""13.3522447"",""13.3523447""],""class"":""leisure"",""display_name"":""Giardino Inglese, Via della Libert\u00e0, VIII Circoscrizione, Palermo, Sicilia, 90138, Italia"",""importance"":0.31100000000000005,""lat"":""38.1312509"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3522947"",""osm_id"":5276120124,""osm_type"":""node"",""place_id"":57665019,""type"":""playground""},""mode"":""autocomplete""},""nameSurname"":""Comitato Salva Ucraini Palermo"",""phoneNumber"":""3809044804 (Yuliia)"",""recipients"":"""",""submit"":true,""title"":""Comitato Salva Ucraini Palermo ha urgente bisogno di 4-5 computer per profughi ucraini"",""url"":""""}","<pre><yamldata>
+nameSurname: Comitato Salva Ucraini Palermo
+phoneNumber: 3809044804 (Yuliia)
+email: salva.ucraini.palermo@gmail.com
+title: Comitato Salva Ucraini Palermo ha urgente bisogno di 4-5 computer per profughi
+  ucraini
+recipients: ''
+description: Comitato Salva Ucraini Palermo ha urgente bisogno di 4-5 computer in
+  buono stato per alcuni profughi ucraini che sta accogliendo. Grazie!
+url: ''
+location:
+  mode: autocomplete
+  address:
+    place_id: 57665019
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 5276120124
+    boundingbox:
+    - '38.1312009'
+    - '38.1313009'
+    - '13.3522447'
+    - '13.3523447'
+    lat: '38.1312509'
+    lon: '13.3522947'
+    display_name: Giardino Inglese, Via della Libertà, VIII Circoscrizione, Palermo,
+      Sicilia, 90138, Italia
+    class: leisure
+    type: playground
+    importance: 0.31100000000000005
+    address:
+      leisure: Giardino Inglese
+      road: Via della Libertà
+      suburb: VIII Circoscrizione
+      city: Palermo
+      county: Palermo
+      state: Sicilia
+      postcode: '90138'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 38.1312509 13.3522947
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/331,1180154792,2022-03-25 23:01:17,2022-03-24 23:18:46,"A Empoli con ""Digitale Civile"" si possono donare computer a bambini e famiglie ucraine rifugiate ",43.7191153,10.9472269,Toscana,Firenze,"[""Valid/Accettato"",""News"",""Services"",""materialGoods"",""Children"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""43.7191153 10.9472269"",""description"":""\u2018Digitale Civile\u2019, progetto del Distretto dell\u2019Economia Civile di Empoli, scende in campo a sostegno delle famiglie e dei loro bambini che stanno scappando dai bombardamenti e che verranno accolti in citt\u00e0.\nAvranno bisogno di comunicare con i loro parenti rimasti nel paese ormai dilaniato dalla guerra e i bambini dovranno proseguire le lezioni in collegamento da remoto. Ma quei dispositivi che potevano avere sicuramente non li hanno portati con s\u00e9.\nPer questo Comune di Empoli, Golem, ARCI, Auser Filo d'Argento, Cowo di E, Legambiente, Coeso Empoli, Croce Rossa Italiana, Misericordia e Pubbliche Assistenze Riunite, ancora una volta insieme si appellano alla solidariet\u00e0 della popolazione, per dare una risposta concreta attraverso \u2018Digitale Civile\u2019.\nL\u2019obiettivo \u00e8 reperire, rigenerare e donare dispositivi e strumenti oggi necessari in questa nuova e terribile emergenza.\nL\u2019associazione Golem si occuper\u00e0 di rigenerarli per metterli a disposizione dei cittadini. Il Comune raccoglier\u00e0 le richieste.\nPossono presentare domanda anche i cittadini compilando il modulo online sul sito di Digitale Civile oppure negli sportelli messi a disposizione da ARCI Empolese Valdelsa (0571 84 42 79), Auser Filo d'Argento Empoli ODV (0571 711 112) e Cowo di E (345 178 18 36).\n\nCOME DONARE - I cittadini, ma anche aziende o altre realt\u00e0, possono donare i propri personal computer accedendo al sito http://digitalecivile.golem.linux.it."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/f4xVbghGes"",""location"":{""address"":{""address"":{""amenity"":""Ufficio Relazioni con il Pubblico (URP)"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""house_number"":""41"",""postcode"":""50053"",""road"":""Via Giuseppe del Papa"",""state"":""Toscana"",""town"":""Empoli"",""village"":""Spicchio-Sovigliana""},""boundingbox"":[""43.7190653"",""43.7191653"",""10.9471769"",""10.9472769""],""class"":""amenity"",""display_name"":""Ufficio Relazioni con il Pubblico (URP), 41, Via Giuseppe del Papa, Spicchio-Sovigliana, Empoli, Citt\u00e0 metropolitana di Firenze, Toscana, 50053, Italia"",""importance"":0.731,""lat"":""43.7191153"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.9472269"",""osm_id"":1698428038,""osm_type"":""node"",""place_id"":15533657,""type"":""townhall""},""mode"":""autocomplete""},""submit"":true,""title"":""A Empoli con \""Digitale Civile\"" si possono donare computer a bambini e famiglie ucraine rifugiate in Italia""}","<pre><yamldata>
 title: A Empoli con ""Digitale Civile"" si possono donare computer a bambini e famiglie
   ucraine rifugiate in Italia
@@ -375,41 +454,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 45.5321684 10.2203166
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/344,1180979844,2022-03-25 16:42:38,2022-03-25 16:10:53,CSV Abruzzo: elenco delle azioni in corso in Abruzzo per fundraising e raccolta beni materiali per i rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""fundraising"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""L'Aquila"",""state"":""Abruzzo""},""boundingbox"":[""41.6820382"",""42.5912825"",""13.0189718"",""14.2297358""],""class"":""boundary"",""display_name"":""L'Aquila, Abruzzo, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9265055278596535,""lat"":""42.1368853"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.610341022538911"",""osm_id"":167044,""osm_type"":""relation"",""place_id"":283747468,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""DONARE FONDI, MATERIALE SANITARIO E BENI DI PRIMA NECEssita' tramite le associazioni della regione"",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":"""",""submit"":true,""title"":""CSV Abruzzo"",""url"":""https://www.csvabruzzo.it/wp-content/uploads/2022/03/crisi_umanitaria_in_ucraina_1.pdf""}","<pre><yamldata>
-title: CSV Abruzzo
-phoneNumber: ''
-email: ''
-aim: DONARE FONDI, MATERIALE SANITARIO E BENI DI PRIMA NECEssita' tramite le associazioni
-  della regione
-url: https://www.csvabruzzo.it/wp-content/uploads/2022/03/crisi_umanitaria_in_ucraina_1.pdf
-address:
-  mode: autocomplete
-  address:
-    place_id: 283747468
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 167044
-    boundingbox:
-    - '41.6820382'
-    - '42.5912825'
-    - '13.0189718'
-    - '14.2297358'
-    lat: '42.1368853'
-    lon: '13.610341022538911'
-    display_name: L'Aquila, Abruzzo, Italia
-    class: boundary
-    type: administrative
-    importance: 0.9265055278596535
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      county: L'Aquila
-      state: Abruzzo
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: contact
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/338,1180660445,2022-03-25 16:42:25,2022-03-25 11:10:55,A Ferrara Ibo Italia raccoglie beni e farmaci per l’Ucraina,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Ferrara"",""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""house_number"":""1"",""neighbourhood"":""Villa Fulvia"",""postcode"":""44124"",""road"":""Via Boschetto"",""state"":""Emilia-Romagna"",""suburb"":""Quacchio""},""boundingbox"":[""44.8221799"",""44.8222799"",""11.6317788"",""11.6318788""],""class"":""place"",""display_name"":""1, Via Boschetto, Villa Fulvia, Quacchio, Ferrara, Emilia-Romagna, 44124, Italia"",""importance"":0.5309999999999999,""lat"":""44.8222299"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.6318288"",""osm_id"":4761949611,""osm_type"":""node"",""place_id"":54313083,""type"":""house""},""mode"":""autocomplete""},""description"":""A Ferrara Ibo Italia raccoglie beni e farmaci per l\u2019Ucraina. Sul sito dell\u2019associazione elenco dei beni e dei farmaci richiesti. \nPer info: emergenze.ucraina@iboitalia.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ibo Italia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Ferrara Ibo Italia raccoglie beni e farmaci per l\u2019Ucraina"",""url"":""https://iboitalia.org/wp-content/uploads/2022/03/Lista-Materiali-Donazioni-Ucraina-SITO.pdf""}","<pre><yamldata>
 servicetypes:
