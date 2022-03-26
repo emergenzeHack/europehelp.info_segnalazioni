@@ -1,4 +1,333 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/341,1180686751,2022-03-26 13:31:27,2022-03-25 11:34:47,"Comune di Ferrara, online info e contatti utili per accoglienza e assistenza profughi ucraini, raccolta farmaci e fondi",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""hospitality"",""healthcare"",""disability"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Ferrara"",""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""house_number"":""2"",""postcode"":""44121"",""residential"":""ZTL Duomo"",""road"":""Piazza del Municipio"",""state"":""Emilia-Romagna"",""suburb"":""Giardino""},""boundingbox"":[""44.8360043"",""44.8361043"",""11.619083"",""11.619183""],""class"":""place"",""display_name"":""2, Piazza del Municipio, ZTL Duomo, Giardino, Ferrara, Emilia-Romagna, 44121, Italia"",""importance"":0.6309999999999999,""lat"":""44.8360543"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.619133"",""osm_id"":4762043389,""osm_type"":""node"",""place_id"":54848297,""type"":""house""},""mode"":""autocomplete""},""description"":""Sul sito del Comune di Ferrara pagina dedicata all\u2019emergenza Ucraina con info e contatti utili per accoglienza profughi (anche sordi), assistenza sanitaria, inserimento scolastico di minori ucraini, alloggi, punti informativi, raccolta farmaci in citt\u00e0 e raccolte fondi."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Ferrara"",""recipients"":""Profughi ucraini e cittadini di Ferrara"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":true,""education"":true,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Ferrara, online info e contatti utili per accoglienza e assistenza profughi ucraini, raccolta farmaci e fondi"",""url"":""https://www.comune.fe.it/it/b/13403/emergenza-ucraina""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: true
+  transport: false
+  healthcare: true
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: true
+  women: false
+  education: true
+offerFromWho: Comune di Ferrara
+title: Comune di Ferrara, online info e contatti utili per accoglienza e assistenza
+  profughi ucraini, raccolta farmaci e fondi
+recipients: Profughi ucraini e cittadini di Ferrara
+description: Sul sito del Comune di Ferrara pagina dedicata all’emergenza Ucraina
+  con info e contatti utili per accoglienza profughi (anche sordi), assistenza sanitaria,
+  inserimento scolastico di minori ucraini, alloggi, punti informativi, raccolta farmaci
+  in città e raccolte fondi.
+url: https://www.comune.fe.it/it/b/13403/emergenza-ucraina
+address:
+  mode: autocomplete
+  address:
+    place_id: 54848297
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 4762043389
+    boundingbox:
+    - '44.8360043'
+    - '44.8361043'
+    - '11.619083'
+    - '11.619183'
+    lat: '44.8360543'
+    lon: '11.619133'
+    display_name: 2, Piazza del Municipio, ZTL Duomo, Giardino, Ferrara, Emilia-Romagna,
+      44121, Italia
+    class: place
+    type: house
+    importance: 0.6309999999999999
+    address:
+      house_number: '2'
+      road: Piazza del Municipio
+      residential: ZTL Duomo
+      suburb: Giardino
+      city: Ferrara
+      county: Ferrara
+      state: Emilia-Romagna
+      postcode: '44121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/335,1180624799,2022-03-26 13:31:01,2022-03-25 10:39:22,"Treviso, attivo ambulatorio per assistenza sanitaria ai rifugiati ",,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Treviso"",""country"":""Italia"",""country_code"":""it"",""county"":""Treviso"",""postcode"":""31100"",""road"":""Via Sant'Ambrogio di Fiera"",""state"":""Veneto"",""suburb"":""Fiera""},""boundingbox"":[""45.6611856"",""45.6614167"",""12.2643319"",""12.2650204""],""class"":""highway"",""display_name"":""Via Sant'Ambrogio di Fiera, Fiera, Treviso, Veneto, 31100, Italia"",""importance"":0.9299999999999999,""lat"":""45.661284"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.2647307"",""osm_id"":689141361,""osm_type"":""way"",""place_id"":237440871,""type"":""residential""},""mode"":""autocomplete""},""aim"":""Assistenza sanitaria stranieri temporaneamente presenti Dal luned\u00ec al sabato \u2013 dalle 08.00 alle 20.00"",""email"":""sispmalattieinfettive@aulss2.veneto.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":""+390422323831"",""submit"":true,""title"":""Ambulatorio Servizio Igiene e Sanit\u00e0 Pubblica - ULSS2 Marca Trevigiana"",""url"":""https://www.aulss2.veneto.it/documents/6017636/18856243/Emergenza+Ucraina+numeri+utili/96b3bf4f-498a-4b66-acd1-f3c0f4e4fd83""}","<pre><yamldata>
+title: Ambulatorio Servizio Igiene e Sanità Pubblica - ULSS2 Marca Trevigiana
+phoneNumber: '+390422323831'
+email: sispmalattieinfettive@aulss2.veneto.it
+aim: 'Assistenza sanitaria stranieri temporaneamente presenti
+  Dal lunedì al sabato – dalle 08.00 alle 20.00'
+url: https://www.aulss2.veneto.it/documents/6017636/18856243/Emergenza+Ucraina+numeri+utili/96b3bf4f-498a-4b66-acd1-f3c0f4e4fd83
+address:
+  mode: autocomplete
+  address:
+    place_id: 237440871
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 689141361
+    boundingbox:
+    - '45.6611856'
+    - '45.6614167'
+    - '12.2643319'
+    - '12.2650204'
+    lat: '45.661284'
+    lon: '12.2647307'
+    display_name: Via Sant'Ambrogio di Fiera, Fiera, Treviso, Veneto, 31100, Italia
+    class: highway
+    type: residential
+    importance: 0.9299999999999999
+    address:
+      road: Via Sant'Ambrogio di Fiera
+      suburb: Fiera
+      city: Treviso
+      county: Treviso
+      state: Veneto
+      postcode: '31100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/348,1181355543,2022-03-26 13:30:13,2022-03-25 23:25:06,"A Palermo biglietti aerei sospesi per profughi ucraini, l’iniziativa dell’agenzia Manfrè Viaggi",,,,,"[""Valid/Accettato"",""Services"",""transport"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""hamlet"":""Quartiere Matteotti"",""postcode"":""90144"",""road"":""Via Empedocle Restivo"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1418507"",""38.1422777"",""13.3370385"",""13.3372359""],""class"":""highway"",""display_name"":""Via Empedocle Restivo, Quartiere Matteotti, VIII Circoscrizione, Palermo, Sicilia, 90144, Italia"",""importance"":0.51,""lat"":""38.1419885"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3371606"",""osm_id"":526088542,""osm_type"":""way"",""place_id"":213266908,""type"":""secondary""},""mode"":""autocomplete""},""description"":""L\u2019agenzia di viaggi palermitana Manfr\u00e8 Viaggi ha deciso di lanciare l\u2019iniziativa \u201cPalermo per l\u2019Ucraina\u201d in collaborazione con il Centro di raccolta umanitario per l\u2019Ucraina di Palermo.\nTutti i clienti dell\u2019adv, ma non solo, possono contribuire con un\u2019offerta libera per l\u2019acquisto di un biglietto aereo \u2018sospeso\u2019 da donare ai profughi ucraini che da Cracovia vogliono raggiungere l\u2019Italia. \nChi vuole pu\u00f2 lasciare la propra offerta nella sede dell\u2019agenzia in via Empedocle Restivo, 34/36, dal luned\u00ec al vanerd\u00ec dalle 9.30 alle 12.30 e dalle 16-30 alle 18.30. Tel. 091 525442.\n\nL\u2019idea nasce da un cittadino palermitano, Ciccio Gangi, che voleva andare con il suo furgone a Cracovia per portare viveri, vestiti e tornare a Palermo con una famiglia di rifugiati. Ma facendo i calcoli, tra spese di viaggio e tempistiche, ha capito che conveniva fare arrivare la famiglia con l'aereo. Cos\u00ec, sulla scia del caff\u00e8 sospeso napoletano, Ciccio Gangi ha pagato un volo. A ruota l'hanno seguito anche i suoi amici e, biglietto dopo biglietto, hanno dato vita all'iniziativa \""il volo sospeso\"" che ora \u00e8 sostenuta anche dall\u2019agenzia di viaggi Manfr\u00e8 (qui il racconto https://palermo.gds.it/video/cronaca/2022/03/22/palermitani-acquistano-biglietti-aerei-per-i-profughi-ucraini-ecco-come-aderire-alliniziativa-il-volo-sospeso-a1607f15-189c-4ae7-9148-43ca6bea7860/)"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Manfr\u00e8 Viaggi Palermo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""A Palermo biglietti aerei sospesi per profughi ucraini, l\u2019iniziativa dell\u2019agenzia Manfr\u00e8 Viaggi"",""url"":""https://www.facebook.com/manfre.viaggi/photos/a.1982521235156384/6991928720882252/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: true
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Manfrè Viaggi Palermo
+title: A Palermo biglietti aerei sospesi per profughi ucraini, l’iniziativa dell’agenzia
+  Manfrè Viaggi
+recipients: ''
+description: ""L’agenzia di viaggi palermitana Manfrè Viaggi ha deciso di lanciare\
+  \ l’iniziativa “Palermo per l’Ucraina” in collaborazione con il Centro di raccolta\
+  \ umanitario per l’Ucraina di Palermo.\nTutti i clienti dell’adv, ma non solo, possono\
+  \ contribuire con un’offerta libera per l’acquisto di un biglietto aereo ‘sospeso’\
+  \ da donare ai profughi ucraini che da Cracovia vogliono raggiungere l’Italia. \n\
+  Chi vuole può lasciare la propra offerta nella sede dell’agenzia in via Empedocle\
+  \ Restivo, 34/36, dal lunedì al vanerdì dalle 9.30 alle 12.30 e dalle 16-30 alle\
+  \ 18.30. Tel. 091 525442.\n\nL’idea nasce da un cittadino palermitano, Ciccio Gangi,\
+  \ che voleva andare con il suo furgone a Cracovia per portare viveri, vestiti e\
+  \ tornare a Palermo con una famiglia di rifugiati. Ma facendo i calcoli, tra spese\
+  \ di viaggio e tempistiche, ha capito che conveniva fare arrivare la famiglia con\
+  \ l'aereo. Così, sulla scia del caffè sospeso napoletano, Ciccio Gangi ha pagato\
+  \ un volo. A ruota l'hanno seguito anche i suoi amici e, biglietto dopo biglietto,\
+  \ hanno dato vita all'iniziativa \""il volo sospeso\"" che ora è sostenuta anche dall’agenzia\
+  \ di viaggi Manfrè (qui il racconto https://palermo.gds.it/video/cronaca/2022/03/22/palermitani-acquistano-biglietti-aerei-per-i-profughi-ucraini-ecco-come-aderire-alliniziativa-il-volo-sospeso-a1607f15-189c-4ae7-9148-43ca6bea7860/)""
+url: https://www.facebook.com/manfre.viaggi/photos/a.1982521235156384/6991928720882252/
+address:
+  mode: autocomplete
+  address:
+    place_id: 213266908
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 526088542
+    boundingbox:
+    - '38.1418507'
+    - '38.1422777'
+    - '13.3370385'
+    - '13.3372359'
+    lat: '38.1419885'
+    lon: '13.3371606'
+    display_name: Via Empedocle Restivo, Quartiere Matteotti, VIII Circoscrizione,
+      Palermo, Sicilia, 90144, Italia
+    class: highway
+    type: secondary
+    importance: 0.51
+    address:
+      road: Via Empedocle Restivo
+      hamlet: Quartiere Matteotti
+      suburb: VIII Circoscrizione
+      city: Palermo
+      county: Palermo
+      state: Sicilia
+      postcode: '90144'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/150,1169710804,2022-03-26 13:29:03,2022-03-15 13:56:32,"Le iniziative in Toscana a sostegno dell'Ucraina, online la mappatura di Cesvot su donazioni, raccolta beni, accoglienza",43.7740709,11.2564938,Toscana,Firenze,"[""Valid/Accettato"",""News"",""Services"",""fundraising"",""useful contact"",""materialGoods"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""43.7740709 11.2564938"",""description"":""Sul sito di Cesvot - Centro Servizi Volontariato Toscana la mappatura delle iniziative di solidariet\u00e0 a sostegno del popolo ucraino promossa dagli enti non profit della Toscana. In continuo aggiornamento."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/HbMj27uYjb"",""location"":{""address"":{""address"":{""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""house_number"":""8"",""postcode"":""50112"",""road"":""Via Ricasoli"",""state"":""Toscana"",""suburb"":""Quartiere 1""},""boundingbox"":[""43.7740209"",""43.7741209"",""11.2564438"",""11.2565438""],""class"":""place"",""display_name"":""8, Via Ricasoli, Quartiere 1, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50112, Italia"",""importance"":0.411,""lat"":""43.7740709"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2564938"",""osm_id"":2361938334,""osm_type"":""node"",""place_id"":20686466,""type"":""house""},""mode"":""autocomplete""},""submit"":true,""title"":""Le iniziative in Toscana a sostegno dell'Ucraina, online la mappatura di Cesvot (in aggiornamento)""}","<pre><yamldata>
+title: Le iniziative in Toscana a sostegno dell'Ucraina, online la mappatura di Cesvot
+  (in aggiornamento)
+description: Sul sito di Cesvot - Centro Servizi Volontariato Toscana la mappatura
+  delle iniziative di solidarietà a sostegno del popolo ucraino promossa dagli enti
+  non profit della Toscana. In continuo aggiornamento.
+link: https://t.co/HbMj27uYjb
+location:
+  mode: autocomplete
+  address:
+    place_id: 20686466
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 2361938334
+    boundingbox:
+    - '43.7740209'
+    - '43.7741209'
+    - '11.2564438'
+    - '11.2565438'
+    lat: '43.7740709'
+    lon: '11.2564938'
+    display_name: 8, Via Ricasoli, Quartiere 1, Firenze, Città metropolitana di Firenze,
+      Toscana, 50112, Italia
+    class: place
+    type: house
+    importance: 0.411
+    address:
+      house_number: '8'
+      road: Via Ricasoli
+      suburb: Quartiere 1
+      city: Firenze
+      county: Città metropolitana di Firenze
+      state: Toscana
+      postcode: '50112'
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 43.7740709 11.2564938
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/313,1178702626,2022-03-26 13:27:56,2022-03-23 21:44:45,#Milano: aperto a Lampugnano un nuovo punto di primo contatto e orientamento per i profughi,45.4866108,9.1250144,Lombardia,Milano,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.4866108 9.1250144"",""description"":""\u00c8 attivo - dalle 12 alle 22 -  a Lampugnano un nuovo punto di primo contatto e orientamento per i profughi ucraini che arrivano in citt\u00e0, un punto strategico soprattutto per coloro che raggiungono Milano in pullman. \u00c8 gestito dalla Protezione civile del Comune di Milano, in collaborazione con EMERGENCY  che si occuper\u00e0 dell\u2019effettuazione dei tamponi. \nCome gi\u00e0 avviene da qualche giorno nell\u2019hub di via Mortirolo, i cittadini ucraini verranno accompagnati nella registrazione, e orientati verso le offerte alloggiative a disposizione.\nIl Comune sta lavorando per facilitare il pi\u00f9 possibile l\u2019inserimento e l\u2019integrazione dei profughi ucraini moltiplicando i punti di accesso in cui si possono ottenere informazioni. \nSul sito \u00e8 possibile trovare anche un vademecum aggiornato: https://www.comune.milano.it/web/milanoaiuta"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.comune.milano.it/web/milanoaiuta"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""state"":""Lombardia"",""suburb"":""Lampugnano""},""boundingbox"":[""45.4788081"",""45.4922131"",""9.1068773"",""9.1318813""],""class"":""place"",""display_name"":""Lampugnano, Municipio 8, Milano, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png"",""importance"":0.5545859424692052,""lat"":""45.4866108"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1250144"",""osm_id"":6711805,""osm_type"":""relation"",""place_id"":285112401,""type"":""suburb""},""mode"":""autocomplete""},""submit"":true,""title"":""Milano: aperto a Lampugnano un nuovo punto di primo contatto e orientamento per i profughi""}","<pre><yamldata>
+title: 'Milano: aperto a Lampugnano un nuovo punto di primo contatto e orientamento
+  per i profughi'
+description: ""È attivo - dalle 12 alle 22 -  a Lampugnano un nuovo punto di primo\
+  \ contatto e orientamento per i profughi ucraini che arrivano in città, un punto\
+  \ strategico soprattutto per coloro che raggiungono Milano in pullman. È gestito\
+  \ dalla Protezione civile del Comune di Milano, in collaborazione con EMERGENCY\
+  \  che si occuperà dell’effettuazione dei tamponi. \nCome già avviene da qualche\
+  \ giorno nell’hub di via Mortirolo, i cittadini ucraini verranno accompagnati nella\
+  \ registrazione, e orientati verso le offerte alloggiative a disposizione.\nIl Comune\
+  \ sta lavorando per facilitare il più possibile l’inserimento e l’integrazione dei\
+  \ profughi ucraini moltiplicando i punti di accesso in cui si possono ottenere informazioni.\
+  \ \nSul sito è possibile trovare anche un vademecum aggiornato: https://www.comune.milano.it/web/milanoaiuta""
+link: 'https://www.comune.milano.it/web/milanoaiuta'
+location:
+  mode: autocomplete
+  address:
+    place_id: 285112401
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 6711805
+    boundingbox:
+    - '45.4788081'
+    - '45.4922131'
+    - '9.1068773'
+    - '9.1318813'
+    lat: '45.4866108'
+    lon: '9.1250144'
+    display_name: Lampugnano, Municipio 8, Milano, Lombardia, Italia
+    class: place
+    type: suburb
+    importance: 0.5545859424692052
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png
+    address:
+      suburb: Lampugnano
+      city: Milano
+      county: Milano
+      state: Lombardia
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.4866108 9.1250144
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/149,1169700034,2022-03-26 13:26:35,2022-03-15 13:47:32,Dire - Donne in rete contro la violenza attiva raccolta fondi per donne ucraine,41.8966062,12.4644247,Lazio,Roma,"[""Valid/Accettato"",""fundraising"",""women"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""41.8966062 12.4644247"",""bicSwift"":""ROMAITRRXXX"",""causal"":""SOSTEGNO UCRAINA"",""ccPostal"":"""",""description"":""La rete nazionale dei centri antiviolenza Dire ha attivato il Fondo Emergenza Ucraina per sostenere 3 organizzazioni di WAVE Europe che operano sostegno delle donne ucraine. \nSono possibili donazioni online (vedi link) e via Iban."",""email"":"""",""heading"":""ASSOCIAZIONE DONNE IN RETE CONTRO LA VIOLENZA"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT 65 X 08327 03239 00000000 2299"",""label"":""fundraising"",""link"":""https://www.direcontrolaviolenza.it/sostienici/"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00193"",""quarter"":""Trastevere"",""road"":""Via della Lungara"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.8953296"",""41.8982611"",""12.4632179"",""12.4654552""],""class"":""highway"",""display_name"":""Via della Lungara, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00193, Italia"",""importance"":0.61,""lat"":""41.8966062"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4644247"",""osm_id"":28213811,""osm_type"":""way"",""place_id"":109246959,""type"":""residential""},""mode"":""autocomplete""},""submit"":true,""title"":""Dire - Donne in rete contro la violenza""}","<pre><yamldata>
+title: Dire - Donne in rete contro la violenza
+description: ""La rete nazionale dei centri antiviolenza Dire ha attivato il Fondo\
+  \ Emergenza Ucraina per sostenere 3 organizzazioni di WAVE Europe che operano sostegno\
+  \ delle donne ucraine. \nSono possibili donazioni online (vedi link) e via Iban.""
+heading: ASSOCIAZIONE DONNE IN RETE CONTRO LA VIOLENZA
+iban: IT 65 X 08327 03239 00000000 2299
+bicSwift: ROMAITRRXXX
+ccPostal: ''
+causal: SOSTEGNO UCRAINA
+link: https://www.direcontrolaviolenza.it/sostienici/
+email: ''
+location:
+  mode: autocomplete
+  address:
+    place_id: 109246959
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 28213811
+    boundingbox:
+    - '41.8953296'
+    - '41.8982611'
+    - '12.4632179'
+    - '12.4654552'
+    lat: '41.8966062'
+    lon: '12.4644247'
+    display_name: Via della Lungara, Trastevere, Municipio Roma I, Roma, Roma Capitale,
+      Lazio, 00193, Italia
+    class: highway
+    type: residential
+    importance: 0.61
+    address:
+      road: Via della Lungara
+      quarter: Trastevere
+      suburb: Municipio Roma I
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: 00193
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+Posizione: 41.8966062 12.4644247
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/344,1180979844,2022-03-26 13:25:55,2022-03-25 16:10:53,CSV Abruzzo: elenco delle azioni in corso in Abruzzo per fundraising e raccolta beni per i rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""fundraising"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""L'Aquila"",""state"":""Abruzzo""},""boundingbox"":[""41.6820382"",""42.5912825"",""13.0189718"",""14.2297358""],""class"":""boundary"",""display_name"":""L'Aquila, Abruzzo, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9265055278596535,""lat"":""42.1368853"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.610341022538911"",""osm_id"":167044,""osm_type"":""relation"",""place_id"":283747468,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""DONARE FONDI, MATERIALE SANITARIO E BENI DI PRIMA NECEssita' tramite le associazioni della regione"",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":"""",""submit"":true,""title"":""CSV Abruzzo"",""url"":""https://www.csvabruzzo.it/wp-content/uploads/2022/03/crisi_umanitaria_in_ucraina_1.pdf""}","<pre><yamldata>
+title: CSV Abruzzo
+phoneNumber: ''
+email: ''
+aim: DONARE FONDI, MATERIALE SANITARIO E BENI DI PRIMA NECEssita' tramite le associazioni
+  della regione
+url: https://www.csvabruzzo.it/wp-content/uploads/2022/03/crisi_umanitaria_in_ucraina_1.pdf
+address:
+  mode: autocomplete
+  address:
+    place_id: 283747468
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 167044
+    boundingbox:
+    - '41.6820382'
+    - '42.5912825'
+    - '13.0189718'
+    - '14.2297358'
+    lat: '42.1368853'
+    lon: '13.610341022538911'
+    display_name: L'Aquila, Abruzzo, Italia
+    class: boundary
+    type: administrative
+    importance: 0.9265055278596535
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: L'Aquila
+      state: Abruzzo
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: contact
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/354,1181671695,2022-03-26 11:05:51,2022-03-26 11:05:01,Partnership Nova Ukraine - Airbnb: voucher gratuiti per rifugiati ucraini per alloggiare 2-3 settimane ovunque nel mondo,,,,,"[""Valid/Accettato"",""Services"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""44.184598"",""52.3797464"",""22.137059"",""40.2275801""],""class"":""boundary"",""display_name"":""Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9164442439164168,""lat"":""49.4871968"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""31.2718321"",""osm_id"":60199,""osm_type"":""relation"",""place_id"":283553033,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Per coloro che sono partiti o stanno pianificando di lasciare l'Ucraina - Airbnb ha firmato una partnership con la ong Nova Ukraine, che consente di ricevere un voucher per un alloggio gratuito per 2-3 settimane in qualsiasi paese del mondo (tranne Ucraina e Russia).\nPer ottenere questo aiuto, si prega di compilare il modulo al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Nova Ukraine - Airbnb"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Partnership Nova Ukraine - Airbnb: voucher gratuiti per rifugiati ucraini per alloggiare 2-3 settimane in qualsiasi paese del mondo"",""url"":""https://novaukraine.org/airbnb/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -358,108 +687,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/348,1181355543,2022-03-25 23:25:29,2022-03-25 23:25:06,"A Palermo biglietti aerei sospesi per profughi ucraini, l’iniziativa dell’agenzia Manfrè Viaggi",,,,,"[""Valid/Accettato"",""Services"",""transport""]",,,"{""address"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""hamlet"":""Quartiere Matteotti"",""postcode"":""90144"",""road"":""Via Empedocle Restivo"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1418507"",""38.1422777"",""13.3370385"",""13.3372359""],""class"":""highway"",""display_name"":""Via Empedocle Restivo, Quartiere Matteotti, VIII Circoscrizione, Palermo, Sicilia, 90144, Italia"",""importance"":0.51,""lat"":""38.1419885"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3371606"",""osm_id"":526088542,""osm_type"":""way"",""place_id"":213266908,""type"":""secondary""},""mode"":""autocomplete""},""description"":""L\u2019agenzia di viaggi palermitana Manfr\u00e8 Viaggi ha deciso di lanciare l\u2019iniziativa \u201cPalermo per l\u2019Ucraina\u201d in collaborazione con il Centro di raccolta umanitario per l\u2019Ucraina di Palermo.\nTutti i clienti dell\u2019adv, ma non solo, possono contribuire con un\u2019offerta libera per l\u2019acquisto di un biglietto aereo \u2018sospeso\u2019 da donare ai profughi ucraini che da Cracovia vogliono raggiungere l\u2019Italia. \nChi vuole pu\u00f2 lasciare la propra offerta nella sede dell\u2019agenzia in via Empedocle Restivo, 34/36, dal luned\u00ec al vanerd\u00ec dalle 9.30 alle 12.30 e dalle 16-30 alle 18.30. Tel. 091 525442.\n\nL\u2019idea nasce da un cittadino palermitano, Ciccio Gangi, che voleva andare con il suo furgone a Cracovia per portare viveri, vestiti e tornare a Palermo con una famiglia di rifugiati. Ma facendo i calcoli, tra spese di viaggio e tempistiche, ha capito che conveniva fare arrivare la famiglia con l'aereo. Cos\u00ec, sulla scia del caff\u00e8 sospeso napoletano, Ciccio Gangi ha pagato un volo. A ruota l'hanno seguito anche i suoi amici e, biglietto dopo biglietto, hanno dato vita all'iniziativa \""il volo sospeso\"" che ora \u00e8 sostenuta anche dall\u2019agenzia di viaggi Manfr\u00e8 (qui il racconto https://palermo.gds.it/video/cronaca/2022/03/22/palermitani-acquistano-biglietti-aerei-per-i-profughi-ucraini-ecco-come-aderire-alliniziativa-il-volo-sospeso-a1607f15-189c-4ae7-9148-43ca6bea7860/)"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Manfr\u00e8 Viaggi Palermo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""A Palermo biglietti aerei sospesi per profughi ucraini, l\u2019iniziativa dell\u2019agenzia Manfr\u00e8 Viaggi"",""url"":""https://www.facebook.com/manfre.viaggi/photos/a.1982521235156384/6991928720882252/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: true
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Manfrè Viaggi Palermo
-title: A Palermo biglietti aerei sospesi per profughi ucraini, l’iniziativa dell’agenzia
-  Manfrè Viaggi
-recipients: ''
-description: ""L’agenzia di viaggi palermitana Manfrè Viaggi ha deciso di lanciare\
-  \ l’iniziativa “Palermo per l’Ucraina” in collaborazione con il Centro di raccolta\
-  \ umanitario per l’Ucraina di Palermo.\nTutti i clienti dell’adv, ma non solo, possono\
-  \ contribuire con un’offerta libera per l’acquisto di un biglietto aereo ‘sospeso’\
-  \ da donare ai profughi ucraini che da Cracovia vogliono raggiungere l’Italia. \n\
-  Chi vuole può lasciare la propra offerta nella sede dell’agenzia in via Empedocle\
-  \ Restivo, 34/36, dal lunedì al vanerdì dalle 9.30 alle 12.30 e dalle 16-30 alle\
-  \ 18.30. Tel. 091 525442.\n\nL’idea nasce da un cittadino palermitano, Ciccio Gangi,\
-  \ che voleva andare con il suo furgone a Cracovia per portare viveri, vestiti e\
-  \ tornare a Palermo con una famiglia di rifugiati. Ma facendo i calcoli, tra spese\
-  \ di viaggio e tempistiche, ha capito che conveniva fare arrivare la famiglia con\
-  \ l'aereo. Così, sulla scia del caffè sospeso napoletano, Ciccio Gangi ha pagato\
-  \ un volo. A ruota l'hanno seguito anche i suoi amici e, biglietto dopo biglietto,\
-  \ hanno dato vita all'iniziativa \""il volo sospeso\"" che ora è sostenuta anche dall’agenzia\
-  \ di viaggi Manfrè (qui il racconto https://palermo.gds.it/video/cronaca/2022/03/22/palermitani-acquistano-biglietti-aerei-per-i-profughi-ucraini-ecco-come-aderire-alliniziativa-il-volo-sospeso-a1607f15-189c-4ae7-9148-43ca6bea7860/)""
-url: https://www.facebook.com/manfre.viaggi/photos/a.1982521235156384/6991928720882252/
-address:
-  mode: autocomplete
-  address:
-    place_id: 213266908
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 526088542
-    boundingbox:
-    - '38.1418507'
-    - '38.1422777'
-    - '13.3370385'
-    - '13.3372359'
-    lat: '38.1419885'
-    lon: '13.3371606'
-    display_name: Via Empedocle Restivo, Quartiere Matteotti, VIII Circoscrizione,
-      Palermo, Sicilia, 90144, Italia
-    class: highway
-    type: secondary
-    importance: 0.51
-    address:
-      road: Via Empedocle Restivo
-      hamlet: Quartiere Matteotti
-      suburb: VIII Circoscrizione
-      city: Palermo
-      county: Palermo
-      state: Sicilia
-      postcode: '90144'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/344,1180979844,2022-03-25 23:07:39,2022-03-25 16:10:53,CSV Abruzzo: elenco delle azioni in corso in Abruzzo per fundraising e raccolta beni per i rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""fundraising"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""L'Aquila"",""state"":""Abruzzo""},""boundingbox"":[""41.6820382"",""42.5912825"",""13.0189718"",""14.2297358""],""class"":""boundary"",""display_name"":""L'Aquila, Abruzzo, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9265055278596535,""lat"":""42.1368853"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.610341022538911"",""osm_id"":167044,""osm_type"":""relation"",""place_id"":283747468,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""DONARE FONDI, MATERIALE SANITARIO E BENI DI PRIMA NECEssita' tramite le associazioni della regione"",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":"""",""submit"":true,""title"":""CSV Abruzzo"",""url"":""https://www.csvabruzzo.it/wp-content/uploads/2022/03/crisi_umanitaria_in_ucraina_1.pdf""}","<pre><yamldata>
-title: CSV Abruzzo
-phoneNumber: ''
-email: ''
-aim: DONARE FONDI, MATERIALE SANITARIO E BENI DI PRIMA NECEssita' tramite le associazioni
-  della regione
-url: https://www.csvabruzzo.it/wp-content/uploads/2022/03/crisi_umanitaria_in_ucraina_1.pdf
-address:
-  mode: autocomplete
-  address:
-    place_id: 283747468
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 167044
-    boundingbox:
-    - '41.6820382'
-    - '42.5912825'
-    - '13.0189718'
-    - '14.2297358'
-    lat: '42.1368853'
-    lon: '13.610341022538911'
-    display_name: L'Aquila, Abruzzo, Italia
-    class: boundary
-    type: administrative
-    importance: 0.9265055278596535
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      county: L'Aquila
-      state: Abruzzo
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: contact
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/331,1180154792,2022-03-25 23:01:17,2022-03-24 23:18:46,"A Empoli con ""Digitale Civile"" si possono donare computer a bambini e famiglie ucraine rifugiate ",43.7191153,10.9472269,Toscana,Firenze,"[""Valid/Accettato"",""News"",""Services"",""materialGoods"",""Children"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""43.7191153 10.9472269"",""description"":""\u2018Digitale Civile\u2019, progetto del Distretto dell\u2019Economia Civile di Empoli, scende in campo a sostegno delle famiglie e dei loro bambini che stanno scappando dai bombardamenti e che verranno accolti in citt\u00e0.\nAvranno bisogno di comunicare con i loro parenti rimasti nel paese ormai dilaniato dalla guerra e i bambini dovranno proseguire le lezioni in collegamento da remoto. Ma quei dispositivi che potevano avere sicuramente non li hanno portati con s\u00e9.\nPer questo Comune di Empoli, Golem, ARCI, Auser Filo d'Argento, Cowo di E, Legambiente, Coeso Empoli, Croce Rossa Italiana, Misericordia e Pubbliche Assistenze Riunite, ancora una volta insieme si appellano alla solidariet\u00e0 della popolazione, per dare una risposta concreta attraverso \u2018Digitale Civile\u2019.\nL\u2019obiettivo \u00e8 reperire, rigenerare e donare dispositivi e strumenti oggi necessari in questa nuova e terribile emergenza.\nL\u2019associazione Golem si occuper\u00e0 di rigenerarli per metterli a disposizione dei cittadini. Il Comune raccoglier\u00e0 le richieste.\nPossono presentare domanda anche i cittadini compilando il modulo online sul sito di Digitale Civile oppure negli sportelli messi a disposizione da ARCI Empolese Valdelsa (0571 84 42 79), Auser Filo d'Argento Empoli ODV (0571 711 112) e Cowo di E (345 178 18 36).\n\nCOME DONARE - I cittadini, ma anche aziende o altre realt\u00e0, possono donare i propri personal computer accedendo al sito http://digitalecivile.golem.linux.it."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/f4xVbghGes"",""location"":{""address"":{""address"":{""amenity"":""Ufficio Relazioni con il Pubblico (URP)"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""house_number"":""41"",""postcode"":""50053"",""road"":""Via Giuseppe del Papa"",""state"":""Toscana"",""town"":""Empoli"",""village"":""Spicchio-Sovigliana""},""boundingbox"":[""43.7190653"",""43.7191653"",""10.9471769"",""10.9472769""],""class"":""amenity"",""display_name"":""Ufficio Relazioni con il Pubblico (URP), 41, Via Giuseppe del Papa, Spicchio-Sovigliana, Empoli, Citt\u00e0 metropolitana di Firenze, Toscana, 50053, Italia"",""importance"":0.731,""lat"":""43.7191153"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.9472269"",""osm_id"":1698428038,""osm_type"":""node"",""place_id"":15533657,""type"":""townhall""},""mode"":""autocomplete""},""submit"":true,""title"":""A Empoli con \""Digitale Civile\"" si possono donare computer a bambini e famiglie ucraine rifugiate in Italia""}","<pre><yamldata>
 title: A Empoli con ""Digitale Civile"" si possono donare computer a bambini e famiglie
   ucraine rifugiate in Italia
@@ -575,52 +802,6 @@ label: fundraising
 submit: true
 Posizione: 43.0677554 12.5495816
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/149,1169700034,2022-03-25 18:42:56,2022-03-15 13:47:32,Dire - Donne in rete contro la violenza attiva raccolta fondi per donne ucraine,41.8966062,12.4644247,Lazio,Roma,"[""Valid/Accettato"",""fundraising"",""women"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""41.8966062 12.4644247"",""bicSwift"":""ROMAITRRXXX"",""causal"":""SOSTEGNO UCRAINA"",""ccPostal"":"""",""description"":""La rete nazionale dei centri antiviolenza Dire ha attivato il Fondo Emergenza Ucraina per sostenere 3 organizzazioni di WAVE Europe che operano sostegno delle donne ucraine. \nSono possibili donazioni online (vedi link) e via Iban."",""email"":"""",""heading"":""ASSOCIAZIONE DONNE IN RETE CONTRO LA VIOLENZA"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT 65 X 08327 03239 00000000 2299"",""label"":""fundraising"",""link"":""https://www.direcontrolaviolenza.it/sostienici/"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00193"",""quarter"":""Trastevere"",""road"":""Via della Lungara"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.8953296"",""41.8982611"",""12.4632179"",""12.4654552""],""class"":""highway"",""display_name"":""Via della Lungara, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00193, Italia"",""importance"":0.61,""lat"":""41.8966062"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4644247"",""osm_id"":28213811,""osm_type"":""way"",""place_id"":109246959,""type"":""residential""},""mode"":""autocomplete""},""submit"":true,""title"":""Dire - Donne in rete contro la violenza""}","<pre><yamldata>
-title: Dire - Donne in rete contro la violenza
-description: ""La rete nazionale dei centri antiviolenza Dire ha attivato il Fondo\
-  \ Emergenza Ucraina per sostenere 3 organizzazioni di WAVE Europe che operano sostegno\
-  \ delle donne ucraine. \nSono possibili donazioni online (vedi link) e via Iban.""
-heading: ASSOCIAZIONE DONNE IN RETE CONTRO LA VIOLENZA
-iban: IT 65 X 08327 03239 00000000 2299
-bicSwift: ROMAITRRXXX
-ccPostal: ''
-causal: SOSTEGNO UCRAINA
-link: https://www.direcontrolaviolenza.it/sostienici/
-email: ''
-location:
-  mode: autocomplete
-  address:
-    place_id: 109246959
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 28213811
-    boundingbox:
-    - '41.8953296'
-    - '41.8982611'
-    - '12.4632179'
-    - '12.4654552'
-    lat: '41.8966062'
-    lon: '12.4644247'
-    display_name: Via della Lungara, Trastevere, Municipio Roma I, Roma, Roma Capitale,
-      Lazio, 00193, Italia
-    class: highway
-    type: residential
-    importance: 0.61
-    address:
-      road: Via della Lungara
-      quarter: Trastevere
-      suburb: Municipio Roma I
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      postcode: 00193
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: fundraising
-submit: true
-Posizione: 41.8966062 12.4644247
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/212,1173797152,2022-03-25 16:59:41,2022-03-18 16:44:03,"Croce Rossa cerca volontari temporanei per emergenza Ucraina, soprattutto infermieri, chirurghi, psicologi o persone con ottima conoscenza di ucraino/russo",43.7806771,11.24376289731579,Toscana,Firenze,"[""Valid/Accettato"",""Help"",""healthcare"",""job"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""43.7806771 11.24376289731579"",""description"":""Per aumentare la risposta all\u2019emergenza Ucraina, la Croce Rossa Italiana apre nuovamente le iscrizioni ai volontari temporanei: Infermieri, medici chirurghi, psicologi o persone con ottima conoscenza della lingua Russa o Ucraina.\n\n \n\nDopo la grandiosa risposta durante la pandemia, quando moltissimi cittadini si sono messi in moto per fare la propria parte nell\u2019emergenza, oggi si riapre l\u2019opportunit\u00e0 di diventare volontario temporaneo della Croce Rossa. Sono richiesti in particolare medici chirurghi, infermieri, psicologi o persone con ottima conoscenza della lingua Russa o Ucraina da impiegare a seconda delle necessit\u00e0.\nChiunque, in possesso di questi requisiti, pu\u00f2 essere utile alla gestione dell\u2019emergenza. Per dare la propria disponibilit\u00e0 \u00e8 sufficiente leggere attentamente le istruzioni al link https://volontari.cri.it/ e compilare il form in tutti i campi richiesti.\nIl censimento dei volontari temporanei verr\u00e0 effettuato a livello Nazionale per poi essere assegnati ai territori di competenza.\n\nColoro che sceglieranno di dare il proprio contributo mettendosi a disposizione, saranno invitati a seguire un breve corso online strutturato appositamente per i volontari temporanei, in cui verranno approfondite alcune tematiche indispensabili per rafforzare le capacit\u00e0, la conoscenza della CRI e portare avanti il mandato umanitario del movimento. Tra i temi trattati: la salute e la sicurezza durante il servizio, l\u2019organizzazione, la storia e peculiarit\u00e0 del movimento della Croce Rossa, codice etico dell\u2019Associazione."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://volontari.cri.it/"",""location"":{""address"":{""address"":{""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""state"":""Toscana""},""boundingbox"":[""43.7258716"",""43.8354631"",""11.1497598"",""11.3389044""],""class"":""boundary"",""display_name"":""Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8105633028502386,""lat"":""43.7806771"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.24376289731579"",""osm_id"":42602,""osm_type"":""relation"",""place_id"":284666342,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Croce Rossa Italiana cerca Volontari Temporanei""}","<pre><yamldata>
 title: Croce Rossa Italiana cerca Volontari Temporanei
 description: ""Per aumentare la risposta all’emergenza Ucraina, la Croce Rossa Italiana\
@@ -673,47 +854,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 43.7806771 11.24376289731579
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/150,1169710804,2022-03-25 16:51:31,2022-03-15 13:56:32,"Le iniziative in Toscana a sostegno dell'Ucraina, online la mappatura di Cesvot su donazioni, raccolta beni, accoglienza",43.7740709,11.2564938,Toscana,Firenze,"[""Valid/Accettato"",""News"",""Services"",""fundraising"",""useful contact"",""materialGoods"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""43.7740709 11.2564938"",""description"":""Sul sito di Cesvot - Centro Servizi Volontariato Toscana la mappatura delle iniziative di solidariet\u00e0 a sostegno del popolo ucraino promossa dagli enti non profit della Toscana. In continuo aggiornamento."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/HbMj27uYjb"",""location"":{""address"":{""address"":{""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""house_number"":""8"",""postcode"":""50112"",""road"":""Via Ricasoli"",""state"":""Toscana"",""suburb"":""Quartiere 1""},""boundingbox"":[""43.7740209"",""43.7741209"",""11.2564438"",""11.2565438""],""class"":""place"",""display_name"":""8, Via Ricasoli, Quartiere 1, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50112, Italia"",""importance"":0.411,""lat"":""43.7740709"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2564938"",""osm_id"":2361938334,""osm_type"":""node"",""place_id"":20686466,""type"":""house""},""mode"":""autocomplete""},""submit"":true,""title"":""Le iniziative in Toscana a sostegno dell'Ucraina, online la mappatura di Cesvot (in aggiornamento)""}","<pre><yamldata>
-title: Le iniziative in Toscana a sostegno dell'Ucraina, online la mappatura di Cesvot
-  (in aggiornamento)
-description: Sul sito di Cesvot - Centro Servizi Volontariato Toscana la mappatura
-  delle iniziative di solidarietà a sostegno del popolo ucraino promossa dagli enti
-  non profit della Toscana. In continuo aggiornamento.
-link: https://t.co/HbMj27uYjb
-location:
-  mode: autocomplete
-  address:
-    place_id: 20686466
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 2361938334
-    boundingbox:
-    - '43.7740209'
-    - '43.7741209'
-    - '11.2564438'
-    - '11.2565438'
-    lat: '43.7740709'
-    lon: '11.2564938'
-    display_name: 8, Via Ricasoli, Quartiere 1, Firenze, Città metropolitana di Firenze,
-      Toscana, 50112, Italia
-    class: place
-    type: house
-    importance: 0.411
-    address:
-      house_number: '8'
-      road: Via Ricasoli
-      suburb: Quartiere 1
-      city: Firenze
-      county: Città metropolitana di Firenze
-      state: Toscana
-      postcode: '50112'
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 43.7740709 11.2564938
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/266,1175742725,2022-03-25 16:47:02,2022-03-21 17:56:15,Libera Università di #Bolzano: accesso ai corsi di studio e all’insegnamento per i rifugiati dall’Ucraina,,,,,"[""Valid/Accettato"",""Services"",""job"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bolzano"",""state"":""Trentino-Alto Adige""},""boundingbox"":[""46.2197712"",""47.0921462"",""10.3817965"",""12.4779676""],""class"":""boundary"",""display_name"":""Bolzano, Trentino-Alto Adige, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7589076281878143,""lat"":""46.65594215"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.229637264169462"",""osm_id"":47046,""osm_type"":""relation"",""place_id"":284985164,""type"":""administrative""},""mode"":""autocomplete""},""description"":""L'ateneo offre l'accesso alle lezioni, all\u2019insegnamento e alla ricerca ai rifugiati."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Libera Universit\u00e0 di Bolzano"",""recipients"":""studenti e professori universitari"",""submit"":true,""title"":""Libera Universit\u00e0 di Bolzano: accesso ai corsi di studio e all\u2019insegnamento per i rifugiati* dall\u2019Ucraina"",""type"":""jobOffer"",""url"":""https://www.unibz.it/it/home/newsroom/press-releases/62384fe54eddc""}","<pre><yamldata>
 type: jobOffer
 offerFromWho: Libera Università di Bolzano
@@ -750,51 +890,6 @@ address:
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/313,1178702626,2022-03-25 16:46:12,2022-03-23 21:44:45,#Milano: aperto a Lampugnano un nuovo punto di primo contatto e orientamento per i profughi,45.4866108,9.1250144,Lombardia,Milano,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.4866108 9.1250144"",""description"":""\u00c8 attivo - dalle 12 alle 22 -  a Lampugnano un nuovo punto di primo contatto e orientamento per i profughi ucraini che arrivano in citt\u00e0, un punto strategico soprattutto per coloro che raggiungono Milano in pullman. \u00c8 gestito dalla Protezione civile del Comune di Milano, in collaborazione con EMERGENCY  che si occuper\u00e0 dell\u2019effettuazione dei tamponi. \nCome gi\u00e0 avviene da qualche giorno nell\u2019hub di via Mortirolo, i cittadini ucraini verranno accompagnati nella registrazione, e orientati verso le offerte alloggiative a disposizione.\nIl Comune sta lavorando per facilitare il pi\u00f9 possibile l\u2019inserimento e l\u2019integrazione dei profughi ucraini moltiplicando i punti di accesso in cui si possono ottenere informazioni. \nSul sito \u00e8 possibile trovare anche un vademecum aggiornato: https://www.comune.milano.it/web/milanoaiuta"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.comune.milano.it/web/milanoaiuta"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""state"":""Lombardia"",""suburb"":""Lampugnano""},""boundingbox"":[""45.4788081"",""45.4922131"",""9.1068773"",""9.1318813""],""class"":""place"",""display_name"":""Lampugnano, Municipio 8, Milano, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png"",""importance"":0.5545859424692052,""lat"":""45.4866108"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1250144"",""osm_id"":6711805,""osm_type"":""relation"",""place_id"":285112401,""type"":""suburb""},""mode"":""autocomplete""},""submit"":true,""title"":""Milano: aperto a Lampugnano un nuovo punto di primo contatto e orientamento per i profughi""}","<pre><yamldata>
-title: 'Milano: aperto a Lampugnano un nuovo punto di primo contatto e orientamento
-  per i profughi'
-description: ""È attivo - dalle 12 alle 22 -  a Lampugnano un nuovo punto di primo\
-  \ contatto e orientamento per i profughi ucraini che arrivano in città, un punto\
-  \ strategico soprattutto per coloro che raggiungono Milano in pullman. È gestito\
-  \ dalla Protezione civile del Comune di Milano, in collaborazione con EMERGENCY\
-  \  che si occuperà dell’effettuazione dei tamponi. \nCome già avviene da qualche\
-  \ giorno nell’hub di via Mortirolo, i cittadini ucraini verranno accompagnati nella\
-  \ registrazione, e orientati verso le offerte alloggiative a disposizione.\nIl Comune\
-  \ sta lavorando per facilitare il più possibile l’inserimento e l’integrazione dei\
-  \ profughi ucraini moltiplicando i punti di accesso in cui si possono ottenere informazioni.\
-  \ \nSul sito è possibile trovare anche un vademecum aggiornato: https://www.comune.milano.it/web/milanoaiuta""
-link: 'https://www.comune.milano.it/web/milanoaiuta'
-location:
-  mode: autocomplete
-  address:
-    place_id: 285112401
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 6711805
-    boundingbox:
-    - '45.4788081'
-    - '45.4922131'
-    - '9.1068773'
-    - '9.1318813'
-    lat: '45.4866108'
-    lon: '9.1250144'
-    display_name: Lampugnano, Municipio 8, Milano, Lombardia, Italia
-    class: place
-    type: suburb
-    importance: 0.5545859424692052
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png
-    address:
-      suburb: Lampugnano
-      city: Milano
-      county: Milano
-      state: Lombardia
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 45.4866108 9.1250144
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/315,1178712576,2022-03-25 16:42:58,2022-03-23 21:57:36,Giornale di Brescia apre una rubrica online in lingua ucraina con notizie e info utili per i rifugiati ucraini,45.5321684,10.2203166,Lombardia,Brescia,"[""Valid/Accettato"",""News"",""telegram-channel"",""tweet"",""Resources""]",,,"{""Posizione"":""45.5321684 10.2203166"",""description"":""Il Giornale di Brescia apre una rubrica online in lingua ucraina dove ogni giorno sono pubblicate notizie e info utili per i rifugiati ucraini che si sono trasferiti a Brescia."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.giornaledibrescia.it/rubriche/benvenuti-ucraini"",""location"":{""address"":{""address"":{""city"":""Brescia"",""city_district"":""Zona Centro"",""country"":""Italia"",""country_code"":""it"",""county"":""Brescia"",""postcode"":""25100"",""road"":""Via Solferino"",""state"":""Lombardia"",""suburb"":""Centro Storico Sud""},""boundingbox"":[""45.5321405"",""45.5321915"",""10.2201492"",""10.2205083""],""class"":""highway"",""display_name"":""Via Solferino, Centro Storico Sud, Zona Centro, Brescia, Lombardia, 25100, Italia"",""importance"":0.41000000000000003,""lat"":""45.5321684"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.2203166"",""osm_id"":117946887,""osm_type"":""way"",""place_id"":129402346,""type"":""tertiary""},""mode"":""autocomplete""},""submit"":true,""title"":""Giornale di Brescia apre una rubrica online in lingua ucraina con notizie e info utili per i rifugiati""}","<pre><yamldata>
 title: Giornale di Brescia apre una rubrica online in lingua ucraina con notizie e
@@ -1223,63 +1318,6 @@ label: help
 submit: true
 Posizione: 44.8295403 11.6273477
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/341,1180686751,2022-03-25 16:34:07,2022-03-25 11:34:47,"Comune di Ferrara, online info e contatti utili per accoglienza e assistenza profughi ucraini, raccolta farmaci e fondi",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""hospitality"",""healthcare"",""disability"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Ferrara"",""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""house_number"":""2"",""postcode"":""44121"",""residential"":""ZTL Duomo"",""road"":""Piazza del Municipio"",""state"":""Emilia-Romagna"",""suburb"":""Giardino""},""boundingbox"":[""44.8360043"",""44.8361043"",""11.619083"",""11.619183""],""class"":""place"",""display_name"":""2, Piazza del Municipio, ZTL Duomo, Giardino, Ferrara, Emilia-Romagna, 44121, Italia"",""importance"":0.6309999999999999,""lat"":""44.8360543"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.619133"",""osm_id"":4762043389,""osm_type"":""node"",""place_id"":54848297,""type"":""house""},""mode"":""autocomplete""},""description"":""Sul sito del Comune di Ferrara pagina dedicata all\u2019emergenza Ucraina con info e contatti utili per accoglienza profughi (anche sordi), assistenza sanitaria, inserimento scolastico di minori ucraini, alloggi, punti informativi, raccolta farmaci in citt\u00e0 e raccolte fondi."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Ferrara"",""recipients"":""Profughi ucraini e cittadini di Ferrara"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":true,""education"":true,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Ferrara, online info e contatti utili per accoglienza e assistenza profughi ucraini, raccolta farmaci e fondi"",""url"":""https://www.comune.fe.it/it/b/13403/emergenza-ucraina""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: true
-  transport: false
-  healthcare: true
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: true
-  women: false
-  education: true
-offerFromWho: Comune di Ferrara
-title: Comune di Ferrara, online info e contatti utili per accoglienza e assistenza
-  profughi ucraini, raccolta farmaci e fondi
-recipients: Profughi ucraini e cittadini di Ferrara
-description: Sul sito del Comune di Ferrara pagina dedicata all’emergenza Ucraina
-  con info e contatti utili per accoglienza profughi (anche sordi), assistenza sanitaria,
-  inserimento scolastico di minori ucraini, alloggi, punti informativi, raccolta farmaci
-  in città e raccolte fondi.
-url: https://www.comune.fe.it/it/b/13403/emergenza-ucraina
-address:
-  mode: autocomplete
-  address:
-    place_id: 54848297
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 4762043389
-    boundingbox:
-    - '44.8360043'
-    - '44.8361043'
-    - '11.619083'
-    - '11.619183'
-    lat: '44.8360543'
-    lon: '11.619133'
-    display_name: 2, Piazza del Municipio, ZTL Duomo, Giardino, Ferrara, Emilia-Romagna,
-      44121, Italia
-    class: place
-    type: house
-    importance: 0.6309999999999999
-    address:
-      house_number: '2'
-      road: Piazza del Municipio
-      residential: ZTL Duomo
-      suburb: Giardino
-      city: Ferrara
-      county: Ferrara
-      state: Emilia-Romagna
-      postcode: '44121'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/337,1180644235,2022-03-25 16:05:24,2022-03-25 10:59:03,A Ferrara attivato Punto Unico di Assistenza Sanitaria per i profughi ucraini,,,,,"[""Valid/Accettato"",""Services"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Ferrara"",""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""house_number"":""11"",""postcode"":""44124"",""road"":""Via della Fiera"",""state"":""Emilia-Romagna"",""suburb"":""Villaggio Satellite"",""village"":""Chiesuol del Fosso""},""boundingbox"":[""44.8139041"",""44.8140041"",""11.5849403"",""11.5850403""],""class"":""place"",""display_name"":""11, Via della Fiera, Villaggio Satellite, Chiesuol del Fosso, Ferrara, Emilia-Romagna, 44124, Italia"",""importance"":0.5209999999999999,""lat"":""44.8139541"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.5849903"",""osm_id"":4762035311,""osm_type"":""node"",""place_id"":53655779,""type"":""house""},""mode"":""autocomplete""},""description"":""\u00c8 attivo un Punto Assistenza Unico presso il Centro Fiere di Ferrara, in Via della Fiera n. 11 presso il quale saranno assicurati, con l\u2019ausilio di mediatori culturali e interpreti e modulistica bilingue, i seguenti servizi:\n\nServizi sanitari, accessibili dalle 8.00 alle 20.00 tutti i giorni, anche la domenica, per:\n- Rilascio tesserino Stp per l\u2019accesso alle cure\n- Tamponi per accertamento positivit\u00e0 al Covid ed eventuale percorso di isolamento in caso di positivit\u00e0\n- Vaccinazione anti Covid 19 per adulti e bambini\n- Valutazione della situazione rispetto alle altre vaccinazioni obbligatorie per adulti e bambini, ed eventuale somministrazione (anti-poliomielitica, anti-difterica, anti-tetanica, anti-epatite B, anti-pertosse, anti-Haemophilus influenzae tipo b, anti-morbillo, anti-rosolia, anti-parotite e anti-varicella)\n- Test mantoux (screening tubercolare)\n- Distribuzione mascherine Ffp2\n\nSportello della Questura, accessibile dalle 8.30 alle 13.30 dal luned\u00ec al sabato, per:             \n- Dichiarazione di presenza in Italia (che lo straniero deve effettuare per legge entro 8 giorni      dall\u2019ingresso in Italia)\n- Informazioni sul rilascio del permesso di soggiorno per protezione temporanea\n- Orientamento all\u2019accoglienza in collegamento con la Prefettura"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Azienda USL di Ferrara"",""recipients"":""Profughi ucraini"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Centro di Assistenza sanitaria ai profughi"",""url"":""https://www.ausl.fe.it/emergenza-ucraina-assistenza-sanitaria-ai-profughi""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -1346,44 +1384,6 @@ address:
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/335,1180624799,2022-03-25 15:57:06,2022-03-25 10:39:22,"Treviso, attivo ambulatorio per assistenza sanitaria ai rifugiati ",,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Treviso"",""country"":""Italia"",""country_code"":""it"",""county"":""Treviso"",""postcode"":""31100"",""road"":""Via Sant'Ambrogio di Fiera"",""state"":""Veneto"",""suburb"":""Fiera""},""boundingbox"":[""45.6611856"",""45.6614167"",""12.2643319"",""12.2650204""],""class"":""highway"",""display_name"":""Via Sant'Ambrogio di Fiera, Fiera, Treviso, Veneto, 31100, Italia"",""importance"":0.9299999999999999,""lat"":""45.661284"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.2647307"",""osm_id"":689141361,""osm_type"":""way"",""place_id"":237440871,""type"":""residential""},""mode"":""autocomplete""},""aim"":""Assistenza sanitaria stranieri temporaneamente presenti Dal luned\u00ec al sabato \u2013 dalle 08.00 alle 20.00"",""email"":""sispmalattieinfettive@aulss2.veneto.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":""+390422323831"",""submit"":true,""title"":""Ambulatorio Servizio Igiene e Sanit\u00e0 Pubblica - ULSS2 Marca Trevigiana"",""url"":""https://www.aulss2.veneto.it/documents/6017636/18856243/Emergenza+Ucraina+numeri+utili/96b3bf4f-498a-4b66-acd1-f3c0f4e4fd83""}","<pre><yamldata>
-title: Ambulatorio Servizio Igiene e Sanità Pubblica - ULSS2 Marca Trevigiana
-phoneNumber: '+390422323831'
-email: sispmalattieinfettive@aulss2.veneto.it
-aim: 'Assistenza sanitaria stranieri temporaneamente presenti
-  Dal lunedì al sabato – dalle 08.00 alle 20.00'
-url: https://www.aulss2.veneto.it/documents/6017636/18856243/Emergenza+Ucraina+numeri+utili/96b3bf4f-498a-4b66-acd1-f3c0f4e4fd83
-address:
-  mode: autocomplete
-  address:
-    place_id: 237440871
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 689141361
-    boundingbox:
-    - '45.6611856'
-    - '45.6614167'
-    - '12.2643319'
-    - '12.2650204'
-    lat: '45.661284'
-    lon: '12.2647307'
-    display_name: Via Sant'Ambrogio di Fiera, Fiera, Treviso, Veneto, 31100, Italia
-    class: highway
-    type: residential
-    importance: 0.9299999999999999
-    address:
-      road: Via Sant'Ambrogio di Fiera
-      suburb: Fiera
-      city: Treviso
-      county: Treviso
-      state: Veneto
-      postcode: '31100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: contact
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/72,1165436880,2022-03-25 10:57:39,2022-03-10 16:19:46,Materiali di Docenti Senza Frontiere per facilitare l'inserimento scolastico di bambini ucraini,46.006085,11.12844,Trentino-Alto Adige,Trento,"[""Valid/Accettato"",""Children"",""document_data"",""telegram-channel"",""tweet"",""education""]",,,"{""Posizione"":""46.006085 11.12844"",""description"":""Docenti Senza Frontiere ha raccolto e pubblicato online materiali per agevolare lo scambio linguistico e la conoscenza del sistema scolastico di provenienza e facilitare l'inserimento scolastico di #bambini ucraini rifugiati in Italia."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://t.co/mELJwhEdMz"",""location"":{""address"":{""address"":{""city"":""Trento"",""country"":""Italia"",""country_code"":""it"",""county"":""Provincia di Trento"",""municipality"":""Territorio Val d'Adige"",""postcode"":""38123"",""quarter"":""Mattarello di Sotto"",""road"":""Via Guido Poli"",""state"":""Trentino-Alto Adige"",""village"":""Mattarello""},""boundingbox"":[""46.0058921"",""46.0062362"",""11.1282682"",""11.1287143""],""class"":""highway"",""display_name"":""Via Guido Poli, Mattarello di Sotto, Mattarello, Trento, Territorio Val d'Adige, Provincia di Trento, Trentino-Alto Adige, 38123, Italia"",""importance"":0.5199999999999999,""lat"":""46.006085"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.12844"",""osm_id"":780479136,""osm_type"":""way"",""place_id"":254696017,""type"":""tertiary""},""mode"":""autocomplete""},""submit"":true,""title"":""Materiali di Docenti Senza Frontiere per facilitare l'inserimento scolastico di bambini ucraini rifugiati in Italia""}","<pre><yamldata>
