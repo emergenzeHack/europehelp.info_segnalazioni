@@ -1,4 +1,48 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/347,1181346213,2022-03-26 07:20:18,2022-03-25 23:06:43,Comitato Salva Ucraini Palermo ha urgente bisogno di 4-5 computer per profughi ucraini,38.1312509,13.3522947,Sicilia,Palermo,"[""Valid/Accettato"",""Help"",""materialGoods""]",,,"{""Posizione"":""38.1312509 13.3522947"",""description"":""Comitato Salva Ucraini Palermo ha urgente bisogno di 4-5 computer in buono stato, meglio se portatili, per alcuni profughi ucraini che sta accogliendo. Grazie!"",""email"":""salva.ucraini.palermo@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""leisure"":""Giardino Inglese"",""postcode"":""90138"",""road"":""Via della Libert\u00e0"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1312009"",""38.1313009"",""13.3522447"",""13.3523447""],""class"":""leisure"",""display_name"":""Giardino Inglese, Via della Libert\u00e0, VIII Circoscrizione, Palermo, Sicilia, 90138, Italia"",""importance"":0.31100000000000005,""lat"":""38.1312509"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3522947"",""osm_id"":5276120124,""osm_type"":""node"",""place_id"":57665019,""type"":""playground""},""mode"":""autocomplete""},""nameSurname"":""Comitato Salva Ucraini Palermo"",""phoneNumber"":""3809044804 (Yuliia)"",""recipients"":"""",""submit"":true,""title"":""Comitato Salva Ucraini Palermo ha urgente bisogno di 4-5 computer per profughi ucraini"",""url"":""""}","<pre><yamldata>
+nameSurname: Comitato Salva Ucraini Palermo
+phoneNumber: 3809044804 (Yuliia)
+email: salva.ucraini.palermo@gmail.com
+title: Comitato Salva Ucraini Palermo ha urgente bisogno di 4-5 computer per profughi
+  ucraini
+recipients: ''
+description: Comitato Salva Ucraini Palermo ha urgente bisogno di 4-5 computer in
+  buono stato, meglio se portatili, per alcuni profughi ucraini che sta accogliendo. Grazie!
+url: ''
+location:
+  mode: autocomplete
+  address:
+    place_id: 57665019
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 5276120124
+    boundingbox:
+    - '38.1312009'
+    - '38.1313009'
+    - '13.3522447'
+    - '13.3523447'
+    lat: '38.1312509'
+    lon: '13.3522947'
+    display_name: Giardino Inglese, Via della Libertà, VIII Circoscrizione, Palermo,
+      Sicilia, 90138, Italia
+    class: leisure
+    type: playground
+    importance: 0.31100000000000005
+    address:
+      leisure: Giardino Inglese
+      road: Via della Libertà
+      suburb: VIII Circoscrizione
+      city: Palermo
+      county: Palermo
+      state: Sicilia
+      postcode: '90138'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 38.1312509 13.3522947
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/349,1181504925,2022-03-26 07:12:55,2022-03-26 04:05:56,A Modena Caleidos Coop sociale e Arcigay Modena aprono Rainbow house - Casa rifugio richiedenti asilo LGBT,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality"",""translation"",""psychologicalSupport"",""Lgbtqi""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Modena"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.114152"",""44.9629506"",""10.4698307"",""11.3689308""],""class"":""boundary"",""display_name"":""Modena, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7330141041633007,""lat"":""44.5384728"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.935960870530739"",""osm_id"":42884,""osm_type"":""relation"",""place_id"":284605129,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il progetto Rainbow house \u00e8 pensato per migranti e richiedenti asilo LGBT e pu\u00f2 offrire diversi servizi tra cui ospitalit\u00e0, informazioni e supporto legale, servizio psicologico, corsi di alfabetizzazione, interpretariato e mediazione linguistica culturale, orientamento al lavoro, ecc.\nPer informazioni: WhatsApp 33860604057"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Caleidos Coop sociale e Arcigay Modena"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":true,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Rainbow house - Casa rifugio richiedenti asilo LGBT"",""url"":""""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -193,50 +237,6 @@ address:
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: contact
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/347,1181346213,2022-03-25 23:07:16,2022-03-25 23:06:43,Comitato Salva Ucraini Palermo ha urgente bisogno di 4-5 computer per profughi ucraini,38.1312509,13.3522947,Sicilia,Palermo,"[""Valid/Accettato"",""Help"",""materialGoods""]",,,"{""Posizione"":""38.1312509 13.3522947"",""description"":""Comitato Salva Ucraini Palermo ha urgente bisogno di 4-5 computer in buono stato per alcuni profughi ucraini che sta accogliendo. Grazie!"",""email"":""salva.ucraini.palermo@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""leisure"":""Giardino Inglese"",""postcode"":""90138"",""road"":""Via della Libert\u00e0"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1312009"",""38.1313009"",""13.3522447"",""13.3523447""],""class"":""leisure"",""display_name"":""Giardino Inglese, Via della Libert\u00e0, VIII Circoscrizione, Palermo, Sicilia, 90138, Italia"",""importance"":0.31100000000000005,""lat"":""38.1312509"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3522947"",""osm_id"":5276120124,""osm_type"":""node"",""place_id"":57665019,""type"":""playground""},""mode"":""autocomplete""},""nameSurname"":""Comitato Salva Ucraini Palermo"",""phoneNumber"":""3809044804 (Yuliia)"",""recipients"":"""",""submit"":true,""title"":""Comitato Salva Ucraini Palermo ha urgente bisogno di 4-5 computer per profughi ucraini"",""url"":""""}","<pre><yamldata>
-nameSurname: Comitato Salva Ucraini Palermo
-phoneNumber: 3809044804 (Yuliia)
-email: salva.ucraini.palermo@gmail.com
-title: Comitato Salva Ucraini Palermo ha urgente bisogno di 4-5 computer per profughi
-  ucraini
-recipients: ''
-description: Comitato Salva Ucraini Palermo ha urgente bisogno di 4-5 computer in
-  buono stato per alcuni profughi ucraini che sta accogliendo. Grazie!
-url: ''
-location:
-  mode: autocomplete
-  address:
-    place_id: 57665019
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 5276120124
-    boundingbox:
-    - '38.1312009'
-    - '38.1313009'
-    - '13.3522447'
-    - '13.3523447'
-    lat: '38.1312509'
-    lon: '13.3522947'
-    display_name: Giardino Inglese, Via della Libertà, VIII Circoscrizione, Palermo,
-      Sicilia, 90138, Italia
-    class: leisure
-    type: playground
-    importance: 0.31100000000000005
-    address:
-      leisure: Giardino Inglese
-      road: Via della Libertà
-      suburb: VIII Circoscrizione
-      city: Palermo
-      county: Palermo
-      state: Sicilia
-      postcode: '90138'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 38.1312509 13.3522947
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/331,1180154792,2022-03-25 23:01:17,2022-03-24 23:18:46,"A Empoli con ""Digitale Civile"" si possono donare computer a bambini e famiglie ucraine rifugiate ",43.7191153,10.9472269,Toscana,Firenze,"[""Valid/Accettato"",""News"",""Services"",""materialGoods"",""Children"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""43.7191153 10.9472269"",""description"":""\u2018Digitale Civile\u2019, progetto del Distretto dell\u2019Economia Civile di Empoli, scende in campo a sostegno delle famiglie e dei loro bambini che stanno scappando dai bombardamenti e che verranno accolti in citt\u00e0.\nAvranno bisogno di comunicare con i loro parenti rimasti nel paese ormai dilaniato dalla guerra e i bambini dovranno proseguire le lezioni in collegamento da remoto. Ma quei dispositivi che potevano avere sicuramente non li hanno portati con s\u00e9.\nPer questo Comune di Empoli, Golem, ARCI, Auser Filo d'Argento, Cowo di E, Legambiente, Coeso Empoli, Croce Rossa Italiana, Misericordia e Pubbliche Assistenze Riunite, ancora una volta insieme si appellano alla solidariet\u00e0 della popolazione, per dare una risposta concreta attraverso \u2018Digitale Civile\u2019.\nL\u2019obiettivo \u00e8 reperire, rigenerare e donare dispositivi e strumenti oggi necessari in questa nuova e terribile emergenza.\nL\u2019associazione Golem si occuper\u00e0 di rigenerarli per metterli a disposizione dei cittadini. Il Comune raccoglier\u00e0 le richieste.\nPossono presentare domanda anche i cittadini compilando il modulo online sul sito di Digitale Civile oppure negli sportelli messi a disposizione da ARCI Empolese Valdelsa (0571 84 42 79), Auser Filo d'Argento Empoli ODV (0571 711 112) e Cowo di E (345 178 18 36).\n\nCOME DONARE - I cittadini, ma anche aziende o altre realt\u00e0, possono donare i propri personal computer accedendo al sito http://digitalecivile.golem.linux.it."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/f4xVbghGes"",""location"":{""address"":{""address"":{""amenity"":""Ufficio Relazioni con il Pubblico (URP)"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""house_number"":""41"",""postcode"":""50053"",""road"":""Via Giuseppe del Papa"",""state"":""Toscana"",""town"":""Empoli"",""village"":""Spicchio-Sovigliana""},""boundingbox"":[""43.7190653"",""43.7191653"",""10.9471769"",""10.9472769""],""class"":""amenity"",""display_name"":""Ufficio Relazioni con il Pubblico (URP), 41, Via Giuseppe del Papa, Spicchio-Sovigliana, Empoli, Citt\u00e0 metropolitana di Firenze, Toscana, 50053, Italia"",""importance"":0.731,""lat"":""43.7191153"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.9472269"",""osm_id"":1698428038,""osm_type"":""node"",""place_id"":15533657,""type"":""townhall""},""mode"":""autocomplete""},""submit"":true,""title"":""A Empoli con \""Digitale Civile\"" si possono donare computer a bambini e famiglie ucraine rifugiate in Italia""}","<pre><yamldata>
 title: A Empoli con ""Digitale Civile"" si possono donare computer a bambini e famiglie
