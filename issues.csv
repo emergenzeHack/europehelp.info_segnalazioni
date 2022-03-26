@@ -1,4 +1,401 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/362,1181855307,2022-03-26 17:45:42,2022-03-26 15:47:13,A Napoli continua la raccolta di beni di prima necessità e farmaci per l'Ucraina,,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""city"":""Napoli"",""country"":""Italia"",""country_code"":""it"",""county"":""Napoli"",""postcode"":""80131"",""road"":""Via Giulio Palermo"",""state"":""Campania"",""suburb"":""Arenella""},""boundingbox"":[""40.8607557"",""40.8610254"",""14.2210715"",""14.2219686""],""class"":""highway"",""display_name"":""Via Giulio Palermo, Arenella, Municipalit\u00e0 5, Napoli, Campania, 80131, Italia"",""importance"":0.51,""lat"":""40.8608674"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.2215969"",""osm_id"":183428498,""osm_type"":""way"",""place_id"":146134032,""type"":""residential""},""mode"":""autocomplete""},""description"":""Il gruppo Sos Sfollati Ucraina a Napoli raccoglie con urgenza beni di prima necessit\u00e0 da spedire in Ucraina. \nI punti di raccolta sono in via Giulio Palermo, presso la Parafarmacia Occhini (dott.ssa Ilaria) e MC Revolution. \nStiamo raccogliendo:\n- alimenti: cibo in scatola (tonno, carne, legumi), latte a lunga conservazione, biscotti secchi, pasta\n- medicine: analgesici, antidolorifici, antiepiretici antibiotici, sciroppo per la tosse (bambini e adulto) vitamine\n- prodotti per l'igiene: carta igienica, bagno schiuma, shampoo, dentifricio, spazzolino, assorbenti donna, pannoloni per disabili\n\u274cprodotti per l'infanzia: pannolini, crema cambio, latte in polvere, omogeneizzati, pastina formato piccolo, crema di riso liofilizzato, crema di mais liofilizzato.\n\nI beni saranno poi inviati in Ucraina attraverso la Fondazione Lanificio Sava e/o distribuiti tra le famiglie rifugiate arrivate a Napoli."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Gruppo Sos Sfollati Ucraini a Napoli"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Napoli continua la raccolta di beni di prima necessit\u00e0 e farmaci per l'Ucraina"",""url"":""https://www.facebook.com/groups/3928798184012882/permalink/3945941625631871/?sfnsn=scwspmo&ref=share""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Gruppo Sos Sfollati Ucraini a Napoli
+title: A Napoli continua la raccolta di beni di prima necessità e farmaci per l'Ucraina
+recipients: ''
+description: ""Il gruppo Sos Sfollati Ucraina a Napoli raccoglie con urgenza beni di\
+  \ prima necessità da spedire in Ucraina. \nI punti di raccolta sono in via Giulio\
+  \ Palermo, presso la Parafarmacia Occhini (dott.ssa Ilaria) e MC Revolution. \n\
+  Stiamo raccogliendo:\n- alimenti: cibo in scatola (tonno, carne, legumi), latte\
+  \ a lunga conservazione, biscotti secchi, pasta\n- medicine: analgesici, antidolorifici,\
+  \ antiepiretici antibiotici, sciroppo per la tosse (bambini e adulto) vitamine\n\
+  - prodotti per l'igiene: carta igienica, bagno schiuma, shampoo, dentifricio, spazzolino,\
+  \ assorbenti donna, pannoloni per disabili\n❌prodotti per l'infanzia: pannolini,\
+  \ crema cambio, latte in polvere, omogeneizzati, pastina formato piccolo, crema\
+  \ di riso liofilizzato, crema di mais liofilizzato.\n\nI beni saranno poi inviati\
+  \ in Ucraina attraverso la Fondazione Lanificio Sava e/o distribuiti tra le famiglie\
+  \ rifugiate arrivate a Napoli.""
+url: https://www.facebook.com/groups/3928798184012882/permalink/3945941625631871/?sfnsn=scwspmo&ref=share
+address:
+  mode: autocomplete
+  address:
+    place_id: 146134032
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 183428498
+    boundingbox:
+    - '40.8607557'
+    - '40.8610254'
+    - '14.2210715'
+    - '14.2219686'
+    lat: '40.8608674'
+    lon: '14.2215969'
+    display_name: Via Giulio Palermo, Arenella, Municipalità 5, Napoli, Campania,
+      80131, Italia
+    class: highway
+    type: residential
+    importance: 0.51
+    address:
+      road: Via Giulio Palermo
+      suburb: Arenella
+      city: Napoli
+      county: Napoli
+      state: Campania
+      postcode: '80131'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/361,1181852464,2022-03-26 17:45:08,2022-03-26 15:43:00,"A Milano Terres des Hommes offre servizi di prima accoglienza a donne e minori (visite mediche, cibo, beni, mediazione linguistica, supporto psicologico)",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""healthcare"",""translation"",""psychologicalSupport"",""Children"",""women"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20016"",""quarter"":""Gallaratese"",""road"":""Via Appennini"",""state"":""Lombardia"",""suburb"":""Quartiere Gallaratese""},""boundingbox"":[""45.506373"",""45.5065396"",""9.0976711"",""9.0977629""],""class"":""highway"",""display_name"":""Via Appennini, Gallaratese, Quartiere Gallaratese, Milano, Lombardia, 20016, Italia"",""importance"":0.4,""lat"":""45.506373"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.0976711"",""osm_id"":282060659,""osm_type"":""way"",""place_id"":170099285,""type"":""tertiary""},""mode"":""autocomplete""},""description"":""Terres des hommes offre servizi di prima accoglienza per dare informazioni, ascolto e prientamento a donne e minori. \nPresso lo  spazio \""Indifesa\"" \u00e8 possibile trovare:\n- distribuzione cibo e beni di prima necessit\u00e0\n- visite mediche e pediatriche\n- sportello di supporto psicologico\n- mediazione culturale\n- corsi di italiano per bambini e adulti\n\nper informazioni contattare lo spazio Indifesa al numero whatsapp (solo messaggi) 3756573747 o scrivendo una mail a spazioindifesa@tdhitaly.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Terres des hommes"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":true},""submit"":true,""title"":""Servizi di prima accoglienza per donne e minori a Milano"",""url"":""""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: true
+  education: false
+offerFromWho: Terres des hommes
+title: Servizi di prima accoglienza per donne e minori a Milano
+recipients: ''
+description: ""Terres des hommes offre servizi di prima accoglienza per dare informazioni,\
+  \ ascolto e prientamento a donne e minori. \nPresso lo  spazio \""Indifesa\"" è possibile\
+  \ trovare:\n- distribuzione cibo e beni di prima necessità\n- visite mediche e pediatriche\n\
+  - sportello di supporto psicologico\n- mediazione culturale\n- corsi di italiano\
+  \ per bambini e adulti\n\nper informazioni contattare lo spazio Indifesa al numero\
+  \ whatsapp (solo messaggi) 3756573747 o scrivendo una mail a spazioindifesa@tdhitaly.org""
+url: ''
+address:
+  mode: autocomplete
+  address:
+    place_id: 170099285
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 282060659
+    boundingbox:
+    - '45.506373'
+    - '45.5065396'
+    - '9.0976711'
+    - '9.0977629'
+    lat: '45.506373'
+    lon: '9.0976711'
+    display_name: Via Appennini, Gallaratese, Quartiere Gallaratese, Milano, Lombardia,
+      20016, Italia
+    class: highway
+    type: tertiary
+    importance: 0.4
+    address:
+      road: Via Appennini
+      quarter: Gallaratese
+      suburb: Quartiere Gallaratese
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20016'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/360,1181830683,2022-03-26 17:41:56,2022-03-26 15:09:48,All'Università L'Orientale di Napoli corsi gratuiti online di italiano per profughi ucraini over 16,,,,,"[""Valid/Accettato"",""Services"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Universit\u00e0 degli Studi di Napoli \""L'Orientale\"""",""city"":""Napoli"",""country"":""Italia"",""country_code"":""it"",""county"":""Napoli"",""postcode"":""80133"",""road"":""Calata Santi Cosma e Damiano"",""state"":""Campania"",""suburb"":""Porto""},""boundingbox"":[""40.8454807"",""40.8455807"",""14.2550606"",""14.2551606""],""class"":""amenity"",""display_name"":""Universit\u00e0 degli Studi di Napoli \""L'Orientale\"", Calata Santi Cosma e Damiano, Porto, Municipalit\u00e0 2, Napoli, Campania, 80133, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//education_university.p.20.png"",""importance"":0.718827330844798,""lat"":""40.8455307"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.2551106"",""osm_id"":4508575948,""osm_type"":""node"",""place_id"":51096359,""type"":""university""},""mode"":""autocomplete""},""description"":""Al via da luned\u00ec 28 marzo la possibilit\u00e0 per cittadine e cittadini ucraini, a partire dai 16 anni in su, arrivati in Italia per fuggire dalla guerra, di iscriversi gratuitamente ai corsi di italiano organizzati dal centro linguistico d\u2019Ateneo.\nI corsi, in modalit\u00e0 a distanza su piattaforma online, sono tenuti da esperti in didattica di Italiano come lingua straniera. Tutto il materiale didattico \u00e8 a carico dell\u2019Ateneo, che alla fine del corso, della durata di tre mesi per lezioni di tre ore a settimana, rilascia regolare attestato di partecipazione con il livello raggiunto.  \n\nPer iscriversi inviare una mail con i propri dati a claor.self@unior.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Universit\u00e0 L'Orientale di Napoli"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""All'Universit\u00e0 L'Orientale di Napoli corsi gratuiti online di italiano per i profughi ucraini dai 16 anni in su"",""url"":""http://www.informazione.campania.it/napoli/228280-napoli-all-universita-l-orientale-corsi-gratuiti-di-italiano-per-i-rifugiati-di-guerra-ucraini.html""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Università L'Orientale di Napoli
+title: All'Università L'Orientale di Napoli corsi gratuiti online di italiano per
+  i profughi ucraini dai 16 anni in su
+recipients: ''
+description: ""Al via da lunedì 28 marzo la possibilità per cittadine e cittadini ucraini,\
+  \ a partire dai 16 anni in su, arrivati in Italia per fuggire dalla guerra, di iscriversi\
+  \ gratuitamente ai corsi di italiano organizzati dal centro linguistico d’Ateneo.\n\
+  I corsi, in modalità a distanza su piattaforma online, sono tenuti da esperti in\
+  \ didattica di Italiano come lingua straniera. Tutto il materiale didattico è a\
+  \ carico dell’Ateneo, che alla fine del corso, della durata di tre mesi per lezioni\
+  \ di tre ore a settimana, rilascia regolare attestato di partecipazione con il livello\
+  \ raggiunto.  \n\nPer iscriversi inviare una mail con i propri dati a claor.self@unior.it""
+url: http://www.informazione.campania.it/napoli/228280-napoli-all-universita-l-orientale-corsi-gratuiti-di-italiano-per-i-rifugiati-di-guerra-ucraini.html
+address:
+  mode: autocomplete
+  address:
+    place_id: 51096359
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 4508575948
+    boundingbox:
+    - '40.8454807'
+    - '40.8455807'
+    - '14.2550606'
+    - '14.2551606'
+    lat: '40.8455307'
+    lon: '14.2551106'
+    display_name: Università degli Studi di Napoli ""L'Orientale"", Calata Santi Cosma
+      e Damiano, Porto, Municipalità 2, Napoli, Campania, 80133, Italia
+    class: amenity
+    type: university
+    importance: 0.718827330844798
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//education_university.p.20.png
+    address:
+      amenity: Università degli Studi di Napoli ""L'Orientale""
+      road: Calata Santi Cosma e Damiano
+      suburb: Porto
+      city: Napoli
+      county: Napoli
+      state: Campania
+      postcode: '80133'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/359,1181825914,2022-03-26 17:41:17,2022-03-26 15:02:35,"Comune di Brindisi, modulo online per raccogliere disponibilità degli enti del terzo settore ad accogliere rifugiati ucraini ",,,,,"[""Valid/Accettato"",""Services"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Municipio"",""city"":""Brindisi"",""country"":""Italia"",""country_code"":""it"",""county"":""Brindisi"",""postcode"":""72100"",""road"":""Via Filomeno Consiglio"",""state"":""Puglia"",""suburb"":""Centro""},""boundingbox"":[""40.6383236"",""40.6387491"",""17.9455482"",""17.9461836""],""class"":""amenity"",""display_name"":""Municipio, Via Filomeno Consiglio, Centro, Brindisi, Puglia, 72100, Italia"",""importance"":0.21100000000000002,""lat"":""40.63852935"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""17.94607110072617"",""osm_id"":264520183,""osm_type"":""way"",""place_id"":167104198,""type"":""townhall""},""mode"":""autocomplete""},""description"":""L\u2019Assessorato al Welfare ha pubblicato un avviso, rivolto agli Enti del Terzo Settore, per raccogliere le disponibilit\u00e0 all\u2019accoglienza dei profughi provenienti dall\u2019Ucraina e che raggiungono il territorio pugliese.\nLe Organizzazioni di Volontariato, le Associazioni di promozione sociale, le Cooperative sociali, le Fondazioni, le Onlus, le Imprese sociali, gli Enti filantropici, le Societ\u00e0 di mutuo soccorso, le Reti associative, gli Enti religiosi civilmente riconosciuti, possono manifestare la propria disponibilit\u00e0 ad accogliere nuclei familiari o singoli profughi all\u2019interno di strutture nelle propria disponibilit\u00e0.\nOnline (vedi link) il modulo da compilare per indicare il numero dei posti di accoglienza disponibili e la tipologia delle relative strutture in cui si intende realizzare l\u2019ospitalit\u00e0."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Brindisi"",""recipients"":""Enti terzo settore Brindisi"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Brindisi, modulo online per raccogliere disponibilit\u00e0 degli enti del terzo settore ad accogliere profughi ucraini"",""url"":""https://app.sistema.puglia.it/ords/f?p=10000:530""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Comune di Brindisi
+title: Comune di Brindisi, modulo online per raccogliere disponibilità degli enti
+  del terzo settore ad accogliere profughi ucraini
+recipients: Enti terzo settore Brindisi
+description: 'L’Assessorato al Welfare ha pubblicato un avviso, rivolto agli Enti
+  del Terzo Settore, per raccogliere le disponibilità all’accoglienza dei profughi
+  provenienti dall’Ucraina e che raggiungono il territorio pugliese.
+
+  Le Organizzazioni di Volontariato, le Associazioni di promozione sociale, le Cooperative
+  sociali, le Fondazioni, le Onlus, le Imprese sociali, gli Enti filantropici, le
+  Società di mutuo soccorso, le Reti associative, gli Enti religiosi civilmente riconosciuti,
+  possono manifestare la propria disponibilità ad accogliere nuclei familiari o singoli
+  profughi all’interno di strutture nelle propria disponibilità.
+
+  Online (vedi link) il modulo da compilare per indicare il numero dei posti di accoglienza
+  disponibili e la tipologia delle relative strutture in cui si intende realizzare
+  l’ospitalità.'
+url: https://app.sistema.puglia.it/ords/f?p=10000:530
+address:
+  mode: autocomplete
+  address:
+    place_id: 167104198
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 264520183
+    boundingbox:
+    - '40.6383236'
+    - '40.6387491'
+    - '17.9455482'
+    - '17.9461836'
+    lat: '40.63852935'
+    lon: '17.94607110072617'
+    display_name: Municipio, Via Filomeno Consiglio, Centro, Brindisi, Puglia, 72100,
+      Italia
+    class: amenity
+    type: townhall
+    importance: 0.21100000000000002
+    address:
+      amenity: Municipio
+      road: Via Filomeno Consiglio
+      suburb: Centro
+      city: Brindisi
+      county: Brindisi
+      state: Puglia
+      postcode: '72100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/358,1181816044,2022-03-26 17:40:54,2022-03-26 14:46:49,"Centro sportivo italiano, in tutte sedi sul territorio nazionale attività sportive gratuite per i rifugiati ucraini ",,,,,"[""Valid/Accettato"",""Services"",""Children"",""education""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Tutte le sedi locali di Csi - Centro sportivo italiano sono autorizzate a tesserare gratuitamente i rifugiati ucraini che quindi in tutta Italia potranno svolgere attivit\u00e0 sportive gratis."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Csi - Centro sportivo italiano"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Centro sportivo italiano, in tutte sedi sul territorio nazionale attivit\u00e0 sportive gratuite per i rifugiati ucraini"",""url"":""https://twitter.com/CSInazionale/status/1501162402766888965?t=zWW6y7Sp1oKeAnVvpPCxWA&s=19""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: true
+offerFromWho: Csi - Centro sportivo italiano
+title: Centro sportivo italiano, in tutte sedi sul territorio nazionale attività sportive
+  gratuite per i rifugiati ucraini
+recipients: ''
+description: Tutte le sedi locali di Csi - Centro sportivo italiano sono autorizzate
+  a tesserare gratuitamente i rifugiati ucraini che quindi in tutta Italia potranno
+  svolgere attività sportive gratis.
+url: https://twitter.com/CSInazionale/status/1501162402766888965?t=zWW6y7Sp1oKeAnVvpPCxWA&s=19
+address:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/357,1181805259,2022-03-26 17:40:30,2022-03-26 14:30:09,"Agrigento, attivati 4 ambulatori di supporto psicologico e psichiatrici per minori e adulti fuggiti dall’Ucraina",,,,,"[""Valid/Accettato"",""Services"",""psychologicalSupport"",""Children""]",,,"{""address"":{""address"":{""address"":{""city"":""Agrigento"",""country"":""Italia"",""country_code"":""it"",""county"":""Agrigento"",""postcode"":""92100"",""state"":""Sicilia""},""boundingbox"":[""37.189677"",""37.4406445"",""13.3966521"",""13.7486235""],""class"":""boundary"",""display_name"":""Agrigento, Sicilia, 92100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.6701119619547669,""lat"":""37.3122991"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.57465"",""osm_id"":39202,""osm_type"":""relation"",""place_id"":284336657,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Quattro gli ambulatori dattivi all\u2019Asp di Agrigento di supporto psicologico e psichiatrici per i profughi ucraini: due dedicati agli adulti e due ai minori. L\u2019equipe psichiatria adulti 1 \u00e8 operativa presso il Servizio psichiatrico diagnosi e cura (Spdc) dell\u2019ospedale di Agrigento il mercoled\u00ec e il venerd\u00ec dalle ore 14,30 alle ore 18,30 (telefoni 0922/442168 o 3270213846), mentre l\u2019equipe psichiatria adulti 2 si trova presso i Centri di Salute mentale di Canicatt\u00ec e Licata l\u2019intera giornata del luned\u00ec e il marted\u00ec dalle 14 alle 19.\nPer i minori i servizi sono disponibili presso la sede della Neuropsichiatria infantile dell\u2019ex ospedale di via Giovanni XXIII ad Agrigento (il mercoled\u00ec dalle 15 alle 20, 0922/407777 o 3343191151) e di Licata e Palma di Montechiaro (rispettivamente il venerd\u00ec e il mercoled\u00ec dalle 15 alle 19 \u2013 0922/869425, 0922/790254 o 3393240461).\n\nNel caso in cui ci siano difficolt\u00e0 a raggiungere le sedi, \u00e8 attiva anche un\u2019unit\u00e0 mobile a supporto degli ambulatori con base operativa presso il Sert della Cittadella sanitaria Agrigento (mercoled\u00ec e venerd\u00ec dalle ore 14,30 alle ore 19,30 \u2013 0922/407600 o 3206273697)."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Azienda Sanitaria Agrigento"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Agrigento, attivati 4 ambulatori di supporto psicologico e psichiatrici per minori e adulti fuggiti dall'Ucraina"",""url"":""https://qds.it/agrigento-servizi-supporto-psicologico-ucraina-profughi/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: true
+  Children: true
+  disability: false
+  women: false
+  education: false
+offerFromWho: Azienda Sanitaria Agrigento
+title: Agrigento, attivati 4 ambulatori di supporto psicologico e psichiatrici per
+  minori e adulti fuggiti dall'Ucraina
+recipients: ''
+description: 'Quattro gli ambulatori dattivi all’Asp di Agrigento di supporto psicologico
+  e psichiatrici per i profughi ucraini: due dedicati agli adulti e due ai minori.
+  L’equipe psichiatria adulti 1 è operativa presso il Servizio psichiatrico diagnosi
+  e cura (Spdc) dell’ospedale di Agrigento il mercoledì e il venerdì dalle ore 14,30
+  alle ore 18,30 (telefoni 0922/442168 o 3270213846), mentre l’equipe psichiatria
+  adulti 2 si trova presso i Centri di Salute mentale di Canicattì e Licata l’intera
+  giornata del lunedì e il martedì dalle 14 alle 19.
+
+  Per i minori i servizi sono disponibili presso la sede della Neuropsichiatria infantile
+  dell’ex ospedale di via Giovanni XXIII ad Agrigento (il mercoledì dalle 15 alle
+  20, 0922/407777 o 3343191151) e di Licata e Palma di Montechiaro (rispettivamente
+  il venerdì e il mercoledì dalle 15 alle 19 – 0922/869425, 0922/790254 o 3393240461).
+
+
+  Nel caso in cui ci siano difficoltà a raggiungere le sedi, è attiva anche un’unità
+  mobile a supporto degli ambulatori con base operativa presso il Sert della Cittadella
+  sanitaria Agrigento (mercoledì e venerdì dalle ore 14,30 alle ore 19,30 – 0922/407600
+  o 3206273697).'
+url: https://qds.it/agrigento-servizi-supporto-psicologico-ucraina-profughi/
+address:
+  mode: autocomplete
+  address:
+    place_id: 284336657
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 39202
+    boundingbox:
+    - '37.189677'
+    - '37.4406445'
+    - '13.3966521'
+    - '13.7486235'
+    lat: '37.3122991'
+    lon: '13.57465'
+    display_name: Agrigento, Sicilia, 92100, Italia
+    class: boundary
+    type: administrative
+    importance: 0.6701119619547669
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Agrigento
+      county: Agrigento
+      state: Sicilia
+      postcode: '92100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/355,1181791483,2022-03-26 17:39:59,2022-03-26 14:08:46,"Avvocato di strada, online Faq di supporto legale e contatti utili (regione per regione) per accoglienza rifugiati ucraini",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""useful contact"",""hospitality"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""house_number"":""3"",""postcode"":""40121"",""road"":""Via Malcontenti"",""state"":""Emilia-Romagna"",""suburb"":""Irnerio""},""boundingbox"":[""44.4977263"",""44.4978263"",""11.3438047"",""11.3439047""],""class"":""place"",""display_name"":""3, Via Malcontenti, Irnerio, Santo Stefano, Bologna, Emilia-Romagna, 40121, Italia"",""importance"":0.5309999999999999,""lat"":""44.4977763"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.3438547"",""osm_id"":1704269133,""osm_type"":""node"",""place_id"":15600746,""type"":""house""},""mode"":""autocomplete""},""description"":""Sul sito di Avvocato di strada sono online una serie Faq che offrono risposte sulle normative che riguardano i profughi ucraini. Sono inoltre disponibili info e contatti utili, suddivisi per regione e per provincia, sui servizi di accoglienza dei profughi ucraini. Infine \u00e8 attiva la mail emergenza@avvocatodistrada.it per info e supporto legale."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Avvocato di strada"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Avvocato di strada, online Faq di supporto legale e contatti utili (regione per regione) per accoglienza profughi ucraini"",""url"":""https://www.avvocatodistrada.it/faq-emergenza-ucraina-2022/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Avvocato di strada
+title: Avvocato di strada, online Faq di supporto legale e contatti utili (regione
+  per regione) per accoglienza profughi ucraini
+recipients: ''
+description: Sul sito di Avvocato di strada sono online una serie Faq che offrono
+  risposte sulle normative che riguardano i profughi ucraini. Sono inoltre disponibili
+  info e contatti utili, suddivisi per regione e per provincia, sui servizi di accoglienza
+  dei profughi ucraini. Infine è attiva la mail emergenza@avvocatodistrada.it per info e supporto legale.
+url: https://www.avvocatodistrada.it/faq-emergenza-ucraina-2022/
+address:
+  mode: autocomplete
+  address:
+    place_id: 15600746
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 1704269133
+    boundingbox:
+    - '44.4977263'
+    - '44.4978263'
+    - '11.3438047'
+    - '11.3439047'
+    lat: '44.4977763'
+    lon: '11.3438547'
+    display_name: 3, Via Malcontenti, Irnerio, Santo Stefano, Bologna, Emilia-Romagna,
+      40121, Italia
+    class: place
+    type: house
+    importance: 0.5309999999999999
+    address:
+      house_number: '3'
+      road: Via Malcontenti
+      suburb: Irnerio
+      city: Bologna
+      county: Bologna
+      state: Emilia-Romagna
+      postcode: '40121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/341,1180686751,2022-03-26 13:31:27,2022-03-25 11:34:47,"Comune di Ferrara, online info e contatti utili per accoglienza e assistenza profughi ucraini, raccolta farmaci e fondi",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""hospitality"",""healthcare"",""disability"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Ferrara"",""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""house_number"":""2"",""postcode"":""44121"",""residential"":""ZTL Duomo"",""road"":""Piazza del Municipio"",""state"":""Emilia-Romagna"",""suburb"":""Giardino""},""boundingbox"":[""44.8360043"",""44.8361043"",""11.619083"",""11.619183""],""class"":""place"",""display_name"":""2, Piazza del Municipio, ZTL Duomo, Giardino, Ferrara, Emilia-Romagna, 44121, Italia"",""importance"":0.6309999999999999,""lat"":""44.8360543"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.619133"",""osm_id"":4762043389,""osm_type"":""node"",""place_id"":54848297,""type"":""house""},""mode"":""autocomplete""},""description"":""Sul sito del Comune di Ferrara pagina dedicata all\u2019emergenza Ucraina con info e contatti utili per accoglienza profughi (anche sordi), assistenza sanitaria, inserimento scolastico di minori ucraini, alloggi, punti informativi, raccolta farmaci in citt\u00e0 e raccolte fondi."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Ferrara"",""recipients"":""Profughi ucraini e cittadini di Ferrara"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":true,""education"":true,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Ferrara, online info e contatti utili per accoglienza e assistenza profughi ucraini, raccolta farmaci e fondi"",""url"":""https://www.comune.fe.it/it/b/13403/emergenza-ucraina""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
@@ -582,58 +979,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: help
 submit: true
 Posizione: 45.4906144 9.2206645
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/352,1181579295,2022-03-26 07:52:21,2022-03-26 07:51:00,Terre des Hommes offre a Milano supporto a minori e famiglie rifugiate,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""translation"",""psychologicalSupport"",""Children""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20016"",""quarter"":""Gallaratese"",""road"":""Via Appennini"",""state"":""Lombardia"",""suburb"":""Quartiere Gallaratese""},""boundingbox"":[""45.506373"",""45.5065396"",""9.0976711"",""9.0977629""],""class"":""highway"",""display_name"":""Via Appennini, Gallaratese, Quartiere Gallaratese, Milano, Lombardia, 20016, Italia"",""importance"":0.4,""lat"":""45.506373"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.0976711"",""osm_id"":282060659,""osm_type"":""way"",""place_id"":170099285,""type"":""tertiary""},""mode"":""autocomplete""},""description"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Terre des Hommes"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Terre des Hommes offre a Milano supporto a minori e famiglie"",""url"":""https://www.facebook.com/groups/ukrainehelpit/permalink/466764085192545/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: true
-  translation: false
-  job: false
-  psychologicalSupport: true
-  Children: true
-  disability: false
-  women: false
-  education: false
-offerFromWho: Terre des Hommes
-title: Terre des Hommes offre a Milano supporto a minori e famiglie
-recipients: ''
-description: ''
-url: https://www.facebook.com/groups/ukrainehelpit/permalink/466764085192545/
-address:
-  mode: autocomplete
-  address:
-    place_id: 170099285
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 282060659
-    boundingbox:
-    - '45.506373'
-    - '45.5065396'
-    - '9.0976711'
-    - '9.0977629'
-    lat: '45.506373'
-    lon: '9.0976711'
-    display_name: Via Appennini, Gallaratese, Quartiere Gallaratese, Milano, Lombardia,
-      20016, Italia
-    class: highway
-    type: tertiary
-    importance: 0.4
-    address:
-      road: Via Appennini
-      quarter: Gallaratese
-      suburb: Quartiere Gallaratese
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20016'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/349,1181504925,2022-03-26 07:22:05,2022-03-26 04:05:56,A Modena coop. sociale Caleidos e Arcigay aprono Rainbow House - Casa rifugio per richiedenti asilo LGBT,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality"",""translation"",""psychologicalSupport"",""Lgbtqi""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Modena"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.114152"",""44.9629506"",""10.4698307"",""11.3689308""],""class"":""boundary"",""display_name"":""Modena, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7330141041633007,""lat"":""44.5384728"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.935960870530739"",""osm_id"":42884,""osm_type"":""relation"",""place_id"":284605129,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il progetto Rainbow house \u00e8 pensato per migranti e richiedenti asilo LGBT e pu\u00f2 offrire diversi servizi tra cui ospitalit\u00e0, informazioni e supporto legale, servizio psicologico, corsi di alfabetizzazione, interpretariato e mediazione linguistica culturale, orientamento al lavoro, ecc.\nPer informazioni: WhatsApp 33860604057"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Caleidos Coop sociale e Arcigay Modena"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":true,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Rainbow house - Casa rifugio richiedenti asilo LGBT"",""url"":""""}","<pre><yamldata>
 servicetypes:
