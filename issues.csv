@@ -1,4 +1,55 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/354,1181671695,2022-03-26 11:05:51,2022-03-26 11:05:01,Partnership Nova Ukraine - Airbnb: voucher gratuiti per rifugiati ucraini per alloggiare 2-3 settimane ovunque nel mondo,,,,,"[""Valid/Accettato"",""Services"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""44.184598"",""52.3797464"",""22.137059"",""40.2275801""],""class"":""boundary"",""display_name"":""Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9164442439164168,""lat"":""49.4871968"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""31.2718321"",""osm_id"":60199,""osm_type"":""relation"",""place_id"":283553033,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Per coloro che sono partiti o stanno pianificando di lasciare l'Ucraina - Airbnb ha firmato una partnership con la ong Nova Ukraine, che consente di ricevere un voucher per un alloggio gratuito per 2-3 settimane in qualsiasi paese del mondo (tranne Ucraina e Russia).\nPer ottenere questo aiuto, si prega di compilare il modulo al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Nova Ukraine - Airbnb"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Partnership Nova Ukraine - Airbnb: voucher gratuiti per rifugiati ucraini per alloggiare 2-3 settimane in qualsiasi paese del mondo"",""url"":""https://novaukraine.org/airbnb/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Nova Ukraine - Airbnb
+title: 'Partnership Nova Ukraine - Airbnb: voucher gratuiti per rifugiati ucraini
+  per alloggiare 2-3 settimane in qualsiasi paese del mondo'
+recipients: ''
+description: 'Per coloro che sono partiti o stanno pianificando di lasciare l''Ucraina
+  - Airbnb ha firmato una partnership con la ong Nova Ukraine, che consente di ricevere
+  un voucher per un alloggio gratuito per 2-3 settimane in qualsiasi paese del mondo
+  (tranne Ucraina e Russia).
+
+  Per ottenere questo aiuto, si prega di compilare il modulo al link.'
+url: https://novaukraine.org/airbnb/
+address:
+  mode: autocomplete
+  address:
+    place_id: 283553033
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 60199
+    boundingbox:
+    - '44.184598'
+    - '52.3797464'
+    - '22.137059'
+    - '40.2275801'
+    lat: '49.4871968'
+    lon: '31.2718321'
+    display_name: Ucraina
+    class: boundary
+    type: administrative
+    importance: 0.9164442439164168
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      country: Ucraina
+      country_code: ua
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/347,1181346213,2022-03-26 09:20:21,2022-03-25 23:06:43,Comitato Salva Ucraini Palermo ha urgente bisogno di 4-5 computer per profughi ucraini,38.1312509,13.3522947,Sicilia,Palermo,"[""Valid/Accettato"",""Help"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""38.1312509 13.3522947"",""description"":""Comitato Salva Ucraini Palermo ha urgente bisogno di 4-5 computer in buono stato, meglio se portatili, per alcuni profughi ucraini che sta accogliendo. Grazie!"",""email"":""salva.ucraini.palermo@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""leisure"":""Giardino Inglese"",""postcode"":""90138"",""road"":""Via della Libert\u00e0"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1312009"",""38.1313009"",""13.3522447"",""13.3523447""],""class"":""leisure"",""display_name"":""Giardino Inglese, Via della Libert\u00e0, VIII Circoscrizione, Palermo, Sicilia, 90138, Italia"",""importance"":0.31100000000000005,""lat"":""38.1312509"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3522947"",""osm_id"":5276120124,""osm_type"":""node"",""place_id"":57665019,""type"":""playground""},""mode"":""autocomplete""},""nameSurname"":""Comitato Salva Ucraini Palermo"",""phoneNumber"":""3809044804 (Yuliia)"",""recipients"":"""",""submit"":true,""title"":""Comitato Salva Ucraini Palermo ha urgente bisogno di 4-5 computer per profughi ucraini"",""url"":""""}","<pre><yamldata>
 nameSurname: Comitato Salva Ucraini Palermo
 phoneNumber: 3809044804 (Yuliia)
