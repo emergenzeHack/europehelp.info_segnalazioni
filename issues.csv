@@ -1,4 +1,45 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/350,1181555398,2022-03-26 07:23:25,2022-03-26 06:43:47,"PagoPA attiva su appIO fundraising per Croce Rossa Italiana, Fondazione   AVSI, Fondazione Soleterre e Save the Children,",41.8933203,12.4829321,Lazio,Roma,"[""Valid/Accettato"",""News"",""fundraising""]",,,"{""Posizione"":""41.8933203 12.4829321"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""PagoPA attiva su appIO fundraising per Croce Rossa Italiana, Fondazione AVSI, Fondazione Soleterre e Save the Children,"",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":""https://io.italia.it/donazioni-ucraina"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7896107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""PagoPA""}","<pre><yamldata>
+title: PagoPA
+description: PagoPA attiva su appIO fundraising per Croce Rossa Italiana, Fondazione
+  AVSI, Fondazione Soleterre e Save the Children,
+heading: ''
+iban: ''
+bicSwift: ''
+ccPostal: ''
+causal: ''
+link: https://io.italia.it/donazioni-ucraina
+email: ''
+location:
+  mode: autocomplete
+  address:
+    place_id: 283767136
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 41485
+    boundingbox:
+    - '41.6556417'
+    - '42.1410285'
+    - '12.2344669'
+    - '12.8557603'
+    lat: '41.8933203'
+    lon: '12.4829321'
+    display_name: Roma, Roma Capitale, Lazio, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7896107180689524
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+Posizione: 41.8933203 12.4829321
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/349,1181504925,2022-03-26 07:22:05,2022-03-26 04:05:56,A Modena coop. sociale Caleidos e Arcigay aprono Rainbow House - Casa rifugio per richiedenti asilo LGBT,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality"",""translation"",""psychologicalSupport"",""Lgbtqi""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Modena"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.114152"",""44.9629506"",""10.4698307"",""11.3689308""],""class"":""boundary"",""display_name"":""Modena, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7330141041633007,""lat"":""44.5384728"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.935960870530739"",""osm_id"":42884,""osm_type"":""relation"",""place_id"":284605129,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il progetto Rainbow house \u00e8 pensato per migranti e richiedenti asilo LGBT e pu\u00f2 offrire diversi servizi tra cui ospitalit\u00e0, informazioni e supporto legale, servizio psicologico, corsi di alfabetizzazione, interpretariato e mediazione linguistica culturale, orientamento al lavoro, ecc.\nPer informazioni: WhatsApp 33860604057"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Caleidos Coop sociale e Arcigay Modena"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":true,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Rainbow house - Casa rifugio richiedenti asilo LGBT"",""url"":""""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -94,47 +135,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: help
 submit: true
 Posizione: 38.1312509 13.3522947
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/350,1181555398,2022-03-26 07:09:41,2022-03-26 06:43:47,"PagoPA attiva su appIO fundraising per Croce Rossa Italiana, Fondazione   AVSI, Fondazione Soleterre e Save the Children,",41.8933203,12.4829321,Lazio,Roma,"[""Valid/Accettato"",""fundraising""]",,,"{""Posizione"":""41.8933203 12.4829321"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""PagoPA attiva su appIO fundraising per Croce Rossa Italiana, Fondazione AVSI, Fondazione Soleterre e Save the Children,"",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":""https://io.italia.it/donazioni-ucraina"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7896107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""PagoPA""}","<pre><yamldata>
-title: PagoPA
-description: PagoPA attiva su appIO fundraising per Croce Rossa Italiana, Fondazione
-  AVSI, Fondazione Soleterre e Save the Children,
-heading: ''
-iban: ''
-bicSwift: ''
-ccPostal: ''
-causal: ''
-link: https://io.italia.it/donazioni-ucraina
-email: ''
-location:
-  mode: autocomplete
-  address:
-    place_id: 283767136
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 41485
-    boundingbox:
-    - '41.6556417'
-    - '42.1410285'
-    - '12.2344669'
-    - '12.8557603'
-    lat: '41.8933203'
-    lon: '12.4829321'
-    display_name: Roma, Roma Capitale, Lazio, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7896107180689524
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: fundraising
-submit: true
-Posizione: 41.8933203 12.4829321
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/348,1181355543,2022-03-25 23:25:29,2022-03-25 23:25:06,"A Palermo biglietti aerei sospesi per profughi ucraini, l’iniziativa dell’agenzia Manfrè Viaggi",,,,,"[""Valid/Accettato"",""Services"",""transport""]",,,"{""address"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""hamlet"":""Quartiere Matteotti"",""postcode"":""90144"",""road"":""Via Empedocle Restivo"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1418507"",""38.1422777"",""13.3370385"",""13.3372359""],""class"":""highway"",""display_name"":""Via Empedocle Restivo, Quartiere Matteotti, VIII Circoscrizione, Palermo, Sicilia, 90144, Italia"",""importance"":0.51,""lat"":""38.1419885"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3371606"",""osm_id"":526088542,""osm_type"":""way"",""place_id"":213266908,""type"":""secondary""},""mode"":""autocomplete""},""description"":""L\u2019agenzia di viaggi palermitana Manfr\u00e8 Viaggi ha deciso di lanciare l\u2019iniziativa \u201cPalermo per l\u2019Ucraina\u201d in collaborazione con il Centro di raccolta umanitario per l\u2019Ucraina di Palermo.\nTutti i clienti dell\u2019adv, ma non solo, possono contribuire con un\u2019offerta libera per l\u2019acquisto di un biglietto aereo \u2018sospeso\u2019 da donare ai profughi ucraini che da Cracovia vogliono raggiungere l\u2019Italia. \nChi vuole pu\u00f2 lasciare la propra offerta nella sede dell\u2019agenzia in via Empedocle Restivo, 34/36, dal luned\u00ec al vanerd\u00ec dalle 9.30 alle 12.30 e dalle 16-30 alle 18.30. Tel. 091 525442.\n\nL\u2019idea nasce da un cittadino palermitano, Ciccio Gangi, che voleva andare con il suo furgone a Cracovia per portare viveri, vestiti e tornare a Palermo con una famiglia di rifugiati. Ma facendo i calcoli, tra spese di viaggio e tempistiche, ha capito che conveniva fare arrivare la famiglia con l'aereo. Cos\u00ec, sulla scia del caff\u00e8 sospeso napoletano, Ciccio Gangi ha pagato un volo. A ruota l'hanno seguito anche i suoi amici e, biglietto dopo biglietto, hanno dato vita all'iniziativa \""il volo sospeso\"" che ora \u00e8 sostenuta anche dall\u2019agenzia di viaggi Manfr\u00e8 (qui il racconto https://palermo.gds.it/video/cronaca/2022/03/22/palermitani-acquistano-biglietti-aerei-per-i-profughi-ucraini-ecco-come-aderire-alliniziativa-il-volo-sospeso-a1607f15-189c-4ae7-9148-43ca6bea7860/)"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Manfr\u00e8 Viaggi Palermo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""A Palermo biglietti aerei sospesi per profughi ucraini, l\u2019iniziativa dell\u2019agenzia Manfr\u00e8 Viaggi"",""url"":""https://www.facebook.com/manfre.viaggi/photos/a.1982521235156384/6991928720882252/""}","<pre><yamldata>
 servicetypes:
