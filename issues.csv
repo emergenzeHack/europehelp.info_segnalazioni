@@ -1,49 +1,5 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/347,1181346213,2022-03-26 07:20:18,2022-03-25 23:06:43,Comitato Salva Ucraini Palermo ha urgente bisogno di 4-5 computer per profughi ucraini,38.1312509,13.3522947,Sicilia,Palermo,"[""Valid/Accettato"",""Help"",""materialGoods""]",,,"{""Posizione"":""38.1312509 13.3522947"",""description"":""Comitato Salva Ucraini Palermo ha urgente bisogno di 4-5 computer in buono stato, meglio se portatili, per alcuni profughi ucraini che sta accogliendo. Grazie!"",""email"":""salva.ucraini.palermo@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""leisure"":""Giardino Inglese"",""postcode"":""90138"",""road"":""Via della Libert\u00e0"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1312009"",""38.1313009"",""13.3522447"",""13.3523447""],""class"":""leisure"",""display_name"":""Giardino Inglese, Via della Libert\u00e0, VIII Circoscrizione, Palermo, Sicilia, 90138, Italia"",""importance"":0.31100000000000005,""lat"":""38.1312509"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3522947"",""osm_id"":5276120124,""osm_type"":""node"",""place_id"":57665019,""type"":""playground""},""mode"":""autocomplete""},""nameSurname"":""Comitato Salva Ucraini Palermo"",""phoneNumber"":""3809044804 (Yuliia)"",""recipients"":"""",""submit"":true,""title"":""Comitato Salva Ucraini Palermo ha urgente bisogno di 4-5 computer per profughi ucraini"",""url"":""""}","<pre><yamldata>
-nameSurname: Comitato Salva Ucraini Palermo
-phoneNumber: 3809044804 (Yuliia)
-email: salva.ucraini.palermo@gmail.com
-title: Comitato Salva Ucraini Palermo ha urgente bisogno di 4-5 computer per profughi
-  ucraini
-recipients: ''
-description: Comitato Salva Ucraini Palermo ha urgente bisogno di 4-5 computer in
-  buono stato, meglio se portatili, per alcuni profughi ucraini che sta accogliendo. Grazie!
-url: ''
-location:
-  mode: autocomplete
-  address:
-    place_id: 57665019
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 5276120124
-    boundingbox:
-    - '38.1312009'
-    - '38.1313009'
-    - '13.3522447'
-    - '13.3523447'
-    lat: '38.1312509'
-    lon: '13.3522947'
-    display_name: Giardino Inglese, Via della Libertà, VIII Circoscrizione, Palermo,
-      Sicilia, 90138, Italia
-    class: leisure
-    type: playground
-    importance: 0.31100000000000005
-    address:
-      leisure: Giardino Inglese
-      road: Via della Libertà
-      suburb: VIII Circoscrizione
-      city: Palermo
-      county: Palermo
-      state: Sicilia
-      postcode: '90138'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 38.1312509 13.3522947
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/349,1181504925,2022-03-26 07:12:55,2022-03-26 04:05:56,A Modena Caleidos Coop sociale e Arcigay Modena aprono Rainbow house - Casa rifugio richiedenti asilo LGBT,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality"",""translation"",""psychologicalSupport"",""Lgbtqi""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Modena"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.114152"",""44.9629506"",""10.4698307"",""11.3689308""],""class"":""boundary"",""display_name"":""Modena, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7330141041633007,""lat"":""44.5384728"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.935960870530739"",""osm_id"":42884,""osm_type"":""relation"",""place_id"":284605129,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il progetto Rainbow house \u00e8 pensato per migranti e richiedenti asilo LGBT e pu\u00f2 offrire diversi servizi tra cui ospitalit\u00e0, informazioni e supporto legale, servizio psicologico, corsi di alfabetizzazione, interpretariato e mediazione linguistica culturale, orientamento al lavoro, ecc.\nPer informazioni: WhatsApp 33860604057"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Caleidos Coop sociale e Arcigay Modena"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":true,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Rainbow house - Casa rifugio richiedenti asilo LGBT"",""url"":""""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/349,1181504925,2022-03-26 07:22:05,2022-03-26 04:05:56,A Modena coop. sociale Caleidos e Arcigay aprono Rainbow House - Casa rifugio per richiedenti asilo LGBT,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality"",""translation"",""psychologicalSupport"",""Lgbtqi""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Modena"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.114152"",""44.9629506"",""10.4698307"",""11.3689308""],""class"":""boundary"",""display_name"":""Modena, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7330141041633007,""lat"":""44.5384728"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.935960870530739"",""osm_id"":42884,""osm_type"":""relation"",""place_id"":284605129,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il progetto Rainbow house \u00e8 pensato per migranti e richiedenti asilo LGBT e pu\u00f2 offrire diversi servizi tra cui ospitalit\u00e0, informazioni e supporto legale, servizio psicologico, corsi di alfabetizzazione, interpretariato e mediazione linguistica culturale, orientamento al lavoro, ecc.\nPer informazioni: WhatsApp 33860604057"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Caleidos Coop sociale e Arcigay Modena"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":true,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Rainbow house - Casa rifugio richiedenti asilo LGBT"",""url"":""""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
   hospitality: true
@@ -94,6 +50,50 @@ address:
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/347,1181346213,2022-03-26 07:20:18,2022-03-25 23:06:43,Comitato Salva Ucraini Palermo ha urgente bisogno di 4-5 computer per profughi ucraini,38.1312509,13.3522947,Sicilia,Palermo,"[""Valid/Accettato"",""Help"",""materialGoods""]",,,"{""Posizione"":""38.1312509 13.3522947"",""description"":""Comitato Salva Ucraini Palermo ha urgente bisogno di 4-5 computer in buono stato, meglio se portatili, per alcuni profughi ucraini che sta accogliendo. Grazie!"",""email"":""salva.ucraini.palermo@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""leisure"":""Giardino Inglese"",""postcode"":""90138"",""road"":""Via della Libert\u00e0"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1312009"",""38.1313009"",""13.3522447"",""13.3523447""],""class"":""leisure"",""display_name"":""Giardino Inglese, Via della Libert\u00e0, VIII Circoscrizione, Palermo, Sicilia, 90138, Italia"",""importance"":0.31100000000000005,""lat"":""38.1312509"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3522947"",""osm_id"":5276120124,""osm_type"":""node"",""place_id"":57665019,""type"":""playground""},""mode"":""autocomplete""},""nameSurname"":""Comitato Salva Ucraini Palermo"",""phoneNumber"":""3809044804 (Yuliia)"",""recipients"":"""",""submit"":true,""title"":""Comitato Salva Ucraini Palermo ha urgente bisogno di 4-5 computer per profughi ucraini"",""url"":""""}","<pre><yamldata>
+nameSurname: Comitato Salva Ucraini Palermo
+phoneNumber: 3809044804 (Yuliia)
+email: salva.ucraini.palermo@gmail.com
+title: Comitato Salva Ucraini Palermo ha urgente bisogno di 4-5 computer per profughi
+  ucraini
+recipients: ''
+description: Comitato Salva Ucraini Palermo ha urgente bisogno di 4-5 computer in
+  buono stato, meglio se portatili, per alcuni profughi ucraini che sta accogliendo. Grazie!
+url: ''
+location:
+  mode: autocomplete
+  address:
+    place_id: 57665019
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 5276120124
+    boundingbox:
+    - '38.1312009'
+    - '38.1313009'
+    - '13.3522447'
+    - '13.3523447'
+    lat: '38.1312509'
+    lon: '13.3522947'
+    display_name: Giardino Inglese, Via della Libertà, VIII Circoscrizione, Palermo,
+      Sicilia, 90138, Italia
+    class: leisure
+    type: playground
+    importance: 0.31100000000000005
+    address:
+      leisure: Giardino Inglese
+      road: Via della Libertà
+      suburb: VIII Circoscrizione
+      city: Palermo
+      county: Palermo
+      state: Sicilia
+      postcode: '90138'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 38.1312509 13.3522947
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/350,1181555398,2022-03-26 07:09:41,2022-03-26 06:43:47,"PagoPA attiva su appIO fundraising per Croce Rossa Italiana, Fondazione   AVSI, Fondazione Soleterre e Save the Children,",41.8933203,12.4829321,Lazio,Roma,"[""Valid/Accettato"",""fundraising""]",,,"{""Posizione"":""41.8933203 12.4829321"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""PagoPA attiva su appIO fundraising per Croce Rossa Italiana, Fondazione AVSI, Fondazione Soleterre e Save the Children,"",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":""https://io.italia.it/donazioni-ucraina"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7896107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""PagoPA""}","<pre><yamldata>
 title: PagoPA
