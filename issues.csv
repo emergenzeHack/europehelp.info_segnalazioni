@@ -1,4 +1,60 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/261,1175469638,2022-03-26 18:19:41,2022-03-21 14:27:59,Fondazione Avsi attiva Sportello HelpUkraine per offrire supporto a rifugiati ucraini e a famiglie italiane disponibili all’accoglienza,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""9"",""postcode"":""20161"",""road"":""Via Casarsa"",""state"":""Lombardia"",""suburb"":""Bruzzano""},""boundingbox"":[""45.5244428"",""45.5245428"",""9.1745146"",""9.1746146""],""class"":""place"",""display_name"":""9, Via Casarsa, Bruzzano, Municipio 9, Milano, Lombardia, 20161, Italia"",""importance"":0.5309999999999999,""lat"":""45.5244928"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1745646"",""osm_id"":5157972784,""osm_type"":""node"",""place_id"":56855868,""type"":""house""},""mode"":""autocomplete""},""description"":""\u201cHelpUkraine\u201d, un punto di informazione e coordinamento per aiutare i rifugiati ucraini nel nostro Paese: a lanciarlo \u00e8 l\u2019organizzazione non profit, Avsi, che in tal modo intende rispondere alle numerose richieste dei profughi in arrivo dall\u2019Ucraina e coordinare l\u2019offerta di accoglienza di famiglie italiane. L\u2019iniziativa nasce grazie al supporto, oltre di Avsi, di Associazione Famiglie per l\u2019Accoglienza, Associazione San Martino, Fondazione Franco Verga, Associazione I Bambini dell\u2019Est, la ong ucraina Emmaus, e Medici in Famiglia Impresa Sociale. Il progetto \u00e8 partito il 16 marzo e offre un servizio concreto, uno sportello aperto in modo costante e in grado di rispondere a domande anche specifiche (per esempio come ottenere il titolo di soggiorno o come inserire i bambini a scuola), e per fare gli abbinamenti tra chi cerca ospitalit\u00e0 e chi la offre. Il neonato Info Point nasce con questo duplice obiettivo: favorire l\u2019accoglienza e l\u2019integrazione di cittadini ucraini che arrivano in Italia in fuga dal conflitto e sostenere le famiglie residenti in Italia disponibili a fornire aiuto nel processo di accoglienza e integrazione. \nPer contattare l\u2019Info point Help Ukraine: +39.02.674988368 in ucraino e inglese; +39.02.674988369 in italiano \u2013 HelpUkraine@avsi.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Asvi"",""recipients"":""Rifugiati ucraini e famiglie italiane"",""submit"":true,""title"":""Avsi attiva Sportello HelpUkraine per offrire supporto a rifugiati ucraini e a famiglie italiane disponibili all\u2019accoglienza di adulti e minori"",""type"":""legal"",""url"":""https://www.agensir.it/quotidiano/2022/3/17/ucraina-avsi-helpukraine-un-info-point-per-aiutare-i-rifugiati-ucraini-in-arrivo-in-italia/""}","<pre><yamldata>
+type: legal
+offerFromWho: Asvi
+title: Avsi attiva Sportello HelpUkraine per offrire supporto a rifugiati ucraini
+  e a famiglie italiane disponibili all’accoglienza di adulti e minori
+recipients: Rifugiati ucraini e famiglie italiane
+description: ""“HelpUkraine”, un punto di informazione e coordinamento per aiutare\
+  \ i rifugiati ucraini nel nostro Paese: a lanciarlo è l’organizzazione non profit,\
+  \ Avsi, che in tal modo intende rispondere alle numerose richieste dei profughi\
+  \ in arrivo dall’Ucraina e coordinare l’offerta di accoglienza di famiglie italiane.\
+  \ L’iniziativa nasce grazie al supporto, oltre di Avsi, di Associazione Famiglie\
+  \ per l’Accoglienza, Associazione San Martino, Fondazione Franco Verga, Associazione\
+  \ I Bambini dell’Est, la ong ucraina Emmaus, e Medici in Famiglia Impresa Sociale.\
+  \ Il progetto è partito il 16 marzo e offre un servizio concreto, uno sportello\
+  \ aperto in modo costante e in grado di rispondere a domande anche specifiche (per\
+  \ esempio come ottenere il titolo di soggiorno o come inserire i bambini a scuola),\
+  \ e per fare gli abbinamenti tra chi cerca ospitalità e chi la offre. Il neonato\
+  \ Info Point nasce con questo duplice obiettivo: favorire l’accoglienza e l’integrazione\
+  \ di cittadini ucraini che arrivano in Italia in fuga dal conflitto e sostenere\
+  \ le famiglie residenti in Italia disponibili a fornire aiuto nel processo di accoglienza\
+  \ e integrazione. \nPer contattare l’Info point Help Ukraine: +39.02.674988368 in\
+  \ ucraino e inglese; +39.02.674988369 in italiano – HelpUkraine@avsi.org""
+url: https://www.agensir.it/quotidiano/2022/3/17/ucraina-avsi-helpukraine-un-info-point-per-aiutare-i-rifugiati-ucraini-in-arrivo-in-italia/
+address:
+  mode: autocomplete
+  address:
+    place_id: 56855868
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 5157972784
+    boundingbox:
+    - '45.5244428'
+    - '45.5245428'
+    - '9.1745146'
+    - '9.1746146'
+    lat: '45.5244928'
+    lon: '9.1745646'
+    display_name: 9, Via Casarsa, Bruzzano, Municipio 9, Milano, Lombardia, 20161,
+      Italia
+    class: place
+    type: house
+    importance: 0.5309999999999999
+    address:
+      house_number: '9'
+      road: Via Casarsa
+      suburb: Bruzzano
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20161'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/359,1181825914,2022-03-26 17:51:08,2022-03-26 15:02:35,"Comune di Brindisi, modulo online per raccogliere disponibilità degli enti del terzo settore ad accogliere rifugiati ucraini ",,,,,"[""Valid/Accettato"",""Services"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Municipio"",""city"":""Brindisi"",""country"":""Italia"",""country_code"":""it"",""county"":""Brindisi"",""postcode"":""72100"",""road"":""Via Filomeno Consiglio"",""state"":""Puglia"",""suburb"":""Centro""},""boundingbox"":[""40.6383236"",""40.6387491"",""17.9455482"",""17.9461836""],""class"":""amenity"",""display_name"":""Municipio, Via Filomeno Consiglio, Centro, Brindisi, Puglia, 72100, Italia"",""importance"":0.21100000000000002,""lat"":""40.63852935"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""17.94607110072617"",""osm_id"":264520183,""osm_type"":""way"",""place_id"":167104198,""type"":""townhall""},""mode"":""autocomplete""},""description"":""L\u2019Assessorato al Welfare ha pubblicato un avviso, rivolto agli Enti del Terzo Settore, per raccogliere le disponibilit\u00e0 all\u2019accoglienza dei profughi provenienti dall\u2019Ucraina e che raggiungono il territorio pugliese.\nLe Organizzazioni di Volontariato, le Associazioni di promozione sociale, le Cooperative sociali, le Fondazioni, le Onlus, le Imprese sociali, gli Enti filantropici, le Societ\u00e0 di mutuo soccorso, le Reti associative, gli Enti religiosi civilmente riconosciuti, possono manifestare la propria disponibilit\u00e0 ad accogliere nuclei familiari o singoli profughi all\u2019interno di strutture nelle propria disponibilit\u00e0.\nOnline (vedi link) il modulo da compilare per indicare il numero dei posti di accoglienza disponibili e la tipologia delle relative strutture in cui si intende realizzare l\u2019ospitalit\u00e0."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Brindisi"",""recipients"":""Enti terzo settore Brindisi"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Brindisi, modulo online per raccogliere disponibilit\u00e0 degli enti del terzo settore ad accogliere profughi ucraini"",""url"":""https://app.sistema.puglia.it/ords/f?p=10000:530""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -5143,62 +5199,6 @@ address:
       county: Milano
       state: Lombardia
       postcode: '20122'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/261,1175469638,2022-03-22 09:47:16,2022-03-21 14:27:59,Asvi attiva Sportello HelpUkraine per offrire supporto a rifugiati ucraini e a famiglie italiane disponibili all’accoglienza,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""9"",""postcode"":""20161"",""road"":""Via Casarsa"",""state"":""Lombardia"",""suburb"":""Bruzzano""},""boundingbox"":[""45.5244428"",""45.5245428"",""9.1745146"",""9.1746146""],""class"":""place"",""display_name"":""9, Via Casarsa, Bruzzano, Municipio 9, Milano, Lombardia, 20161, Italia"",""importance"":0.5309999999999999,""lat"":""45.5244928"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1745646"",""osm_id"":5157972784,""osm_type"":""node"",""place_id"":56855868,""type"":""house""},""mode"":""autocomplete""},""description"":""\u201cHelpUkraine\u201d, un punto di informazione e coordinamento per aiutare i rifugiati ucraini nel nostro Paese: a lanciarlo \u00e8 l\u2019organizzazione non profit, Avsi, che in tal modo intende rispondere alle numerose richieste dei profughi in arrivo dall\u2019Ucraina e coordinare l\u2019offerta di accoglienza di famiglie italiane. L\u2019iniziativa nasce grazie al supporto, oltre di Avsi, di Associazione Famiglie per l\u2019Accoglienza, Associazione San Martino, Fondazione Franco Verga, Associazione I Bambini dell\u2019Est, la ong ucraina Emmaus, e Medici in Famiglia Impresa Sociale. Il progetto \u00e8 partito il 16 marzo e offre un servizio concreto, uno sportello aperto in modo costante e in grado di rispondere a domande anche specifiche (per esempio come ottenere il titolo di soggiorno o come inserire i bambini a scuola), e per fare gli abbinamenti tra chi cerca ospitalit\u00e0 e chi la offre. Il neonato Info Point nasce con questo duplice obiettivo: favorire l\u2019accoglienza e l\u2019integrazione di cittadini ucraini che arrivano in Italia in fuga dal conflitto e sostenere le famiglie residenti in Italia disponibili a fornire aiuto nel processo di accoglienza e integrazione. \nPer contattare l\u2019Info point Help Ukraine: +39.02.674988368 in ucraino e inglese; +39.02.674988369 in italiano \u2013 HelpUkraine@avsi.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Asvi"",""recipients"":""Rifugiati ucraini e famiglie italiane"",""submit"":true,""title"":""Asvi attiva Sportello HelpUkraine per offrire supporto a rifugiati ucraini e a famiglie italiane disponibili all\u2019accoglienza di adulti e minori"",""type"":""legal"",""url"":""https://www.agensir.it/quotidiano/2022/3/17/ucraina-avsi-helpukraine-un-info-point-per-aiutare-i-rifugiati-ucraini-in-arrivo-in-italia/""}","<pre><yamldata>
-type: legal
-offerFromWho: Asvi
-title: Asvi attiva Sportello HelpUkraine per offrire supporto a rifugiati ucraini
-  e a famiglie italiane disponibili all’accoglienza di adulti e minori
-recipients: Rifugiati ucraini e famiglie italiane
-description: ""“HelpUkraine”, un punto di informazione e coordinamento per aiutare\
-  \ i rifugiati ucraini nel nostro Paese: a lanciarlo è l’organizzazione non profit,\
-  \ Avsi, che in tal modo intende rispondere alle numerose richieste dei profughi\
-  \ in arrivo dall’Ucraina e coordinare l’offerta di accoglienza di famiglie italiane.\
-  \ L’iniziativa nasce grazie al supporto, oltre di Avsi, di Associazione Famiglie\
-  \ per l’Accoglienza, Associazione San Martino, Fondazione Franco Verga, Associazione\
-  \ I Bambini dell’Est, la ong ucraina Emmaus, e Medici in Famiglia Impresa Sociale.\
-  \ Il progetto è partito il 16 marzo e offre un servizio concreto, uno sportello\
-  \ aperto in modo costante e in grado di rispondere a domande anche specifiche (per\
-  \ esempio come ottenere il titolo di soggiorno o come inserire i bambini a scuola),\
-  \ e per fare gli abbinamenti tra chi cerca ospitalità e chi la offre. Il neonato\
-  \ Info Point nasce con questo duplice obiettivo: favorire l’accoglienza e l’integrazione\
-  \ di cittadini ucraini che arrivano in Italia in fuga dal conflitto e sostenere\
-  \ le famiglie residenti in Italia disponibili a fornire aiuto nel processo di accoglienza\
-  \ e integrazione. \nPer contattare l’Info point Help Ukraine: +39.02.674988368 in\
-  \ ucraino e inglese; +39.02.674988369 in italiano – HelpUkraine@avsi.org""
-url: https://www.agensir.it/quotidiano/2022/3/17/ucraina-avsi-helpukraine-un-info-point-per-aiutare-i-rifugiati-ucraini-in-arrivo-in-italia/
-address:
-  mode: autocomplete
-  address:
-    place_id: 56855868
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 5157972784
-    boundingbox:
-    - '45.5244428'
-    - '45.5245428'
-    - '9.1745146'
-    - '9.1746146'
-    lat: '45.5244928'
-    lon: '9.1745646'
-    display_name: 9, Via Casarsa, Bruzzano, Municipio 9, Milano, Lombardia, 20161,
-      Italia
-    class: place
-    type: house
-    importance: 0.5309999999999999
-    address:
-      house_number: '9'
-      road: Via Casarsa
-      suburb: Bruzzano
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20161'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
