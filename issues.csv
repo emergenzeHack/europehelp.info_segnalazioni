@@ -1,4 +1,67 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/353,1181583195,2022-03-26 08:07:08,2022-03-26 08:03:49,Santagostino lancia una call to action per realizzare un servizio di medicina di base a Milano con e per i rifugiati ucraini ,45.4906144,9.2206645,Lombardia,Milano,"[""Valid/Accettato"",""Help"",""healthcare"",""job""]",,,"{""Posizione"":""45.4906144 9.2206645"",""description"":""Santagostino, ha lanciato oggi una call to action per realizzare un servizio di medicina di base con e per i profughi ucraini. Il primo obiettivo \u00e8 l\u2019organizzazione di un ambulatorio a Milano con professionisti ucraini, in particolare per la medicina di base, le vaccinazioni necessarie per l\u2019inserimento a scuola e nel lavoro, il supporto psicologico.\n\nSantagostino si rivolge alle associazioni che stanno censendo questo fiume di famiglie e individui in arrivo a Milano, alle Fondazioni e ai privati, per dare una solida base economica al progetto. \u00abInvitiamo tutti a segnalarci la presenza di queste figure professionali tra i profughi. Ma tutti possiamo contribuire, ad esempio donando, attraverso la onlus Ascolto, una visita a chi ne ha pi\u00f9 bisogno\u00bb. La onlus Ascolto (ascoltoets@gmail.com) \u00e8 da anni partner di Santagostino in progetti sociali: opera stipulando accordi con le associazioni territoriali (per esempio, ci sono state Caritas Ambrosiana, Associazione Don Gino Rigoldi, WeWorld Onlus, Fondazione Sicomoro\u2026). Le associazioni raccolgono le esigenze di salute degli assistiti e inviano i casi di fragilit\u00e0 che non riescono ad accedere al servizio pubblico ad Ascolto, che li prende in carico gratuitamente attraverso le strutture Santagostino e si occupa della remunerazione dei professionisti clinici."",""email"":""informazioni@santagostino.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20131"",""quarter"":""Loreto"",""road"":""Via Temperanza"",""state"":""Lombardia"",""suburb"":""Municipio 2""},""boundingbox"":[""45.4896607"",""45.4906772"",""9.2200819"",""9.220686""],""class"":""highway"",""display_name"":""Via Temperanza, Loreto, Municipio 2, Milano, Lombardia, 20131, Italia"",""importance"":0.4,""lat"":""45.4906144"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2206645"",""osm_id"":24443460,""osm_type"":""way"",""place_id"":106504581,""type"":""unclassified""},""mode"":""autocomplete""},""nameSurname"":""Santagostino"",""phoneNumber"":"""",""recipients"":""Medici, infermieri, psicologi ucraini"",""submit"":true,""title"":""Santagostino, ha lanciato una call to action per realizzare un servizio di medicina di base con e per i profughi ucraini. Il primo obiettivo \u00e8 l\u2019organizzazione di un ambulatorio a Milano con professionisti ucraini, in particolare per la medicina di base, le vaccinazioni necessarie per l\u2019inserimento a scuola e nel lavoro, il supporto psicologico."",""url"":""https://www.santagostino.it/it""}","<pre><yamldata>
+nameSurname: Santagostino
+phoneNumber: ''
+email: informazioni@santagostino.it
+title: Santagostino, ha lanciato una call to action per realizzare un servizio di
+  medicina di base con e per i profughi ucraini. Il primo obiettivo è l’organizzazione
+  di un ambulatorio a Milano con professionisti ucraini, in particolare per la medicina
+  di base, le vaccinazioni necessarie per l’inserimento a scuola e nel lavoro, il
+  supporto psicologico.
+recipients: Medici, infermieri, psicologi ucraini
+description: 'Santagostino, ha lanciato oggi una call to action per realizzare un
+  servizio di medicina di base con e per i profughi ucraini. Il primo obiettivo è
+  l’organizzazione di un ambulatorio a Milano con professionisti ucraini, in particolare
+  per la medicina di base, le vaccinazioni necessarie per l’inserimento a scuola e
+  nel lavoro, il supporto psicologico.
+
+
+  Santagostino si rivolge alle associazioni che stanno censendo questo fiume di famiglie
+  e individui in arrivo a Milano, alle Fondazioni e ai privati, per dare una solida
+  base economica al progetto. «Invitiamo tutti a segnalarci la presenza di queste
+  figure professionali tra i profughi. Ma tutti possiamo contribuire, ad esempio donando,
+  attraverso la onlus Ascolto, una visita a chi ne ha più bisogno». La onlus Ascolto
+  (ascoltoets@gmail.com) è da anni partner di Santagostino in progetti sociali: opera
+  stipulando accordi con le associazioni territoriali (per esempio, ci sono state
+  Caritas Ambrosiana, Associazione Don Gino Rigoldi, WeWorld Onlus, Fondazione Sicomoro…).
+  Le associazioni raccolgono le esigenze di salute degli assistiti e inviano i casi
+  di fragilità che non riescono ad accedere al servizio pubblico ad Ascolto, che li
+  prende in carico gratuitamente attraverso le strutture Santagostino e si occupa
+  della remunerazione dei professionisti clinici.'
+url: https://www.santagostino.it/it
+location:
+  mode: autocomplete
+  address:
+    place_id: 106504581
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 24443460
+    boundingbox:
+    - '45.4896607'
+    - '45.4906772'
+    - '9.2200819'
+    - '9.220686'
+    lat: '45.4906144'
+    lon: '9.2206645'
+    display_name: Via Temperanza, Loreto, Municipio 2, Milano, Lombardia, 20131, Italia
+    class: highway
+    type: unclassified
+    importance: 0.4
+    address:
+      road: Via Temperanza
+      quarter: Loreto
+      suburb: Municipio 2
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20131'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 45.4906144 9.2206645
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/352,1181579295,2022-03-26 07:52:21,2022-03-26 07:51:00,Terre des Hommes offre a Milano supporto a minori e famiglie rifugiate,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""translation"",""psychologicalSupport"",""Children""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20016"",""quarter"":""Gallaratese"",""road"":""Via Appennini"",""state"":""Lombardia"",""suburb"":""Quartiere Gallaratese""},""boundingbox"":[""45.506373"",""45.5065396"",""9.0976711"",""9.0977629""],""class"":""highway"",""display_name"":""Via Appennini, Gallaratese, Quartiere Gallaratese, Milano, Lombardia, 20016, Italia"",""importance"":0.4,""lat"":""45.506373"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.0976711"",""osm_id"":282060659,""osm_type"":""way"",""place_id"":170099285,""type"":""tertiary""},""mode"":""autocomplete""},""description"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Terre des Hommes"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Terre des Hommes offre a Milano supporto a minori e famiglie"",""url"":""https://www.facebook.com/groups/ukrainehelpit/permalink/466764085192545/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
