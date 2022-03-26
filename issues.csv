@@ -1,4 +1,60 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/351,1181575340,2022-03-26 07:37:37,2022-03-26 07:36:57,La voce dei bambini onlus Ancona Offre supporto psicologico ai bambini rifugiati e supporto alle fam,,,,,"[""Valid/Accettato"",""Services"",""psychologicalSupport""]",,,"{""address"":{""address"":{""address"":{""city"":""Ancona"",""country"":""Italia"",""country_code"":""it"",""county"":""Ancona"",""highway"":""Via Giannelli"",""postcode"":""60122"",""quarter"":""Borgo Rodi"",""road"":""Via Antonio Giannelli"",""state"":""Marche""},""boundingbox"":[""43.615301"",""43.615401"",""13.518675"",""13.518775""],""class"":""highway"",""display_name"":""Via Giannelli, Via Antonio Giannelli, Borgo Rodi, Ancona, Marche, 60122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//transport_bus_stop2.p.20.png"",""importance"":0.30100000000000005,""lat"":""43.615351"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.518725"",""osm_id"":1311371863,""osm_type"":""node"",""place_id"":12744993,""type"":""bus_stop""},""mode"":""autocomplete""},""description"":""L\u2019associazione mette a disposizione gratuitamente psicologhe specializzate in traumi infantili e apre uno sportello di as loro per le famiglie ospitanti. Contatti al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""La voce dei bambini onlus Ancona"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""La voce dei bambini onlus Ancona Offre supporto psicologico ai bambini rifugiati e supporto alle famiglie ospitanti"",""url"":""https://www.facebook.com/groups/ukrainehelpit/permalink/466719258530361/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: true
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: La voce dei bambini onlus Ancona
+title: La voce dei bambini onlus Ancona Offre supporto psicologico ai bambini rifugiati
+  e supporto alle famiglie ospitanti
+recipients: ''
+description: L’associazione mette a disposizione gratuitamente psicologhe specializzate
+  in traumi infantili e apre uno sportello di as loro per le famiglie ospitanti. Contatti
+  al link.
+url: https://www.facebook.com/groups/ukrainehelpit/permalink/466719258530361/
+address:
+  mode: autocomplete
+  address:
+    place_id: 12744993
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 1311371863
+    boundingbox:
+    - '43.615301'
+    - '43.615401'
+    - '13.518675'
+    - '13.518775'
+    lat: '43.615351'
+    lon: '13.518725'
+    display_name: Via Giannelli, Via Antonio Giannelli, Borgo Rodi, Ancona, Marche,
+      60122, Italia
+    class: highway
+    type: bus_stop
+    importance: 0.30100000000000005
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//transport_bus_stop2.p.20.png
+    address:
+      highway: Via Giannelli
+      road: Via Antonio Giannelli
+      quarter: Borgo Rodi
+      city: Ancona
+      county: Ancona
+      state: Marche
+      postcode: '60122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/350,1181555398,2022-03-26 07:23:25,2022-03-26 06:43:47,"PagoPA attiva su appIO fundraising per Croce Rossa Italiana, Fondazione   AVSI, Fondazione Soleterre e Save the Children,",41.8933203,12.4829321,Lazio,Roma,"[""Valid/Accettato"",""News"",""fundraising""]",,,"{""Posizione"":""41.8933203 12.4829321"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""PagoPA attiva su appIO fundraising per Croce Rossa Italiana, Fondazione AVSI, Fondazione Soleterre e Save the Children,"",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":""https://io.italia.it/donazioni-ucraina"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7896107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""PagoPA""}","<pre><yamldata>
 title: PagoPA
 description: PagoPA attiva su appIO fundraising per Croce Rossa Italiana, Fondazione
