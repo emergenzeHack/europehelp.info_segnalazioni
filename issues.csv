@@ -1,4 +1,122 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/364,1182068403,2022-03-26 22:05:16,2022-03-26 20:54:00,A Livorno continua la raccolta beni alimentari e farmaci promossa dalla comunità Ucraina,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Livorno"",""country"":""Italia"",""country_code"":""it"",""county"":""Livorno"",""postcode"":""57123"",""road"":""Scali Finocchietti"",""state"":""Toscana""},""boundingbox"":[""43.5528479"",""43.5531128"",""10.3080889"",""10.3090125""],""class"":""highway"",""display_name"":""Scali Finocchietti, Livorno, Toscana, 57123, Italia"",""importance"":0.41000000000000003,""lat"":""43.5528479"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.3080889"",""osm_id"":268453917,""osm_type"":""way"",""place_id"":167331051,""type"":""residential""},""mode"":""autocomplete""},""description"":""A Livorno continua la raccolta di generi alimentari e medicinali presso la Sala Simonini sugli Scali Finocchietti, concessa dal Comune alla Comunit\u00e0 Ucraina livornese. Cambiano per\u00f2 gli orari. La sala sar\u00e0 aperta dal luned\u00ec al venerd\u00ec dalle 14 alle 18."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comunit\u00e0 Ucraina e Comune di Livorno"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Livorno continua la raccolta di generi alimentari e medicinali promossa dalla comunit\u00e0 Ucraina, in collaborazione con il Comune"",""url"":""https://www.comune.livorno.it/articolo/continua-raccolta-cibo-medicinali-lucraina-ma-cambiano-gli-orari-apertura""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Comunità Ucraina e Comune di Livorno
+title: A Livorno continua la raccolta di generi alimentari e medicinali promossa dalla
+  comunità Ucraina, in collaborazione con il Comune
+recipients: ''
+description: A Livorno continua la raccolta di generi alimentari e medicinali presso
+  la Sala Simonini sugli Scali Finocchietti, concessa dal Comune alla Comunità Ucraina
+  livornese. Cambiano però gli orari. La sala sarà aperta dal lunedì al venerdì dalle
+  14 alle 18.
+url: https://www.comune.livorno.it/articolo/continua-raccolta-cibo-medicinali-lucraina-ma-cambiano-gli-orari-apertura
+address:
+  mode: autocomplete
+  address:
+    place_id: 167331051
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 268453917
+    boundingbox:
+    - '43.5528479'
+    - '43.5531128'
+    - '10.3080889'
+    - '10.3090125'
+    lat: '43.5528479'
+    lon: '10.3080889'
+    display_name: Scali Finocchietti, Livorno, Toscana, 57123, Italia
+    class: highway
+    type: residential
+    importance: 0.41000000000000003
+    address:
+      road: Scali Finocchietti
+      city: Livorno
+      county: Livorno
+      state: Toscana
+      postcode: '57123'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/363,1181997964,2022-03-26 22:03:19,2022-03-26 19:14:20,"Emilia Romagna, contributi in denaro e servizi per gli studenti ucraini",,,,,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""house_number"":""4"",""postcode"":""40121"",""road"":""Via Santa Maria Maggiore"",""state"":""Emilia-Romagna"",""suburb"":""Marconi""},""boundingbox"":[""44.4983378"",""44.4984378"",""11.3406174"",""11.3407174""],""class"":""place"",""display_name"":""4, Via Santa Maria Maggiore, Marconi, Saragozza-Porto, Bologna, Emilia-Romagna, 40121, Italia"",""importance"":0.731,""lat"":""44.4983878"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.3406674"",""osm_id"":1704726251,""osm_type"":""node"",""place_id"":15620299,""type"":""house""},""mode"":""autocomplete""},""description"":""La Regione Emilia Romagna, ER.GO \u2013 Azienda Regionale per il Diritto agli Studi Superiori dell\u2019Emilia - Romagna e le Universit\u00e0 di Bologna, di Ferrara, di Modena e Reggio Emilia, di Parma, l\u2019Universit\u00e0 Cattolica del Sacro Cuore di Milano sede di Piacenza e il Politecnico di Milano sede di Piacenza mettono a disposizione misure straordinarie in denaro e servizi a favore di studenti ucraini. In particolare: contributo per alloggio, servizi di ristorazione, borse di studio.\nSar\u00e0 possibile presentare domanda dal 23/03/2022. Scadenza 29 aprile.\n \nThe Region Emilia Romagna and ER.GO \u2013 Azienda Regionale per il Diritto agli Studi Superiori dell\u2019Emilia \u2013 Romagna, along with the Universities of Bologna, Ferrara, Modena and Reggio Emilia, Parma, Universit\u00e0 Cattolica del Sacro Cuore of Milan (campus of Piacenza) and Politecnico of Milano (campus of Piacenza) provide special cash and service measures for Ukrainian students \nStudents will be able to apply from 23/03/2022. Deadline 29/04/2022."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Emilia Romagna, ER.GO \u2013 Azienda Regionale per il Diritto agli Studi Superiori dell\u2019Emilia Romagna e altri"",""recipients"":""Studenti ucraini"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Emilia Romagna, contributi in denaro e servizi per gli studenti ucraini"",""url"":""http://www.er-go.it/index.php?id=5866&tx_ttnews%5Btt_news%5D=3006&tx_ttnews%5BbackPid%5D=5886&cHash=6715020f0e7e3dae32de467b77acc1e0""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Regione Emilia Romagna, ER.GO – Azienda Regionale per il Diritto agli
+  Studi Superiori dell’Emilia Romagna e altri
+title: Emilia Romagna, contributi in denaro e servizi per gli studenti ucraini
+recipients: Studenti ucraini
+description: ""La Regione Emilia Romagna, ER.GO – Azienda Regionale per il Diritto\
+  \ agli Studi Superiori dell’Emilia - Romagna e le Università di Bologna, di Ferrara,\
+  \ di Modena e Reggio Emilia, di Parma, l’Università Cattolica del Sacro Cuore di\
+  \ Milano sede di Piacenza e il Politecnico di Milano sede di Piacenza mettono a\
+  \ disposizione misure straordinarie in denaro e servizi a favore di studenti ucraini.\
+  \ In particolare: contributo per alloggio, servizi di ristorazione, borse di studio.\n\
+  Sarà possibile presentare domanda dal 23/03/2022. Scadenza 29 aprile.\n \nThe Region\
+  \ Emilia Romagna and ER.GO – Azienda Regionale per il Diritto agli Studi Superiori\
+  \ dell’Emilia – Romagna, along with the Universities of Bologna, Ferrara, Modena\
+  \ and Reggio Emilia, Parma, Università Cattolica del Sacro Cuore of Milan (campus\
+  \ of Piacenza) and Politecnico of Milano (campus of Piacenza) provide special cash\
+  \ and service measures for Ukrainian students \nStudents will be able to apply from\
+  \ 23/03/2022. Deadline 29/04/2022.""
+url: http://www.er-go.it/index.php?id=5866&tx_ttnews%5Btt_news%5D=3006&tx_ttnews%5BbackPid%5D=5886&cHash=6715020f0e7e3dae32de467b77acc1e0
+address:
+  mode: autocomplete
+  address:
+    place_id: 15620299
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 1704726251
+    boundingbox:
+    - '44.4983378'
+    - '44.4984378'
+    - '11.3406174'
+    - '11.3407174'
+    lat: '44.4983878'
+    lon: '11.3406674'
+    display_name: 4, Via Santa Maria Maggiore, Marconi, Saragozza-Porto, Bologna,
+      Emilia-Romagna, 40121, Italia
+    class: place
+    type: house
+    importance: 0.731
+    address:
+      house_number: '4'
+      road: Via Santa Maria Maggiore
+      suburb: Marconi
+      city: Bologna
+      county: Bologna
+      state: Emilia-Romagna
+      postcode: '40121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/261,1175469638,2022-03-26 18:19:41,2022-03-21 14:27:59,Fondazione Avsi attiva Sportello HelpUkraine per offrire supporto a rifugiati ucraini e a famiglie italiane disponibili all’accoglienza,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""9"",""postcode"":""20161"",""road"":""Via Casarsa"",""state"":""Lombardia"",""suburb"":""Bruzzano""},""boundingbox"":[""45.5244428"",""45.5245428"",""9.1745146"",""9.1746146""],""class"":""place"",""display_name"":""9, Via Casarsa, Bruzzano, Municipio 9, Milano, Lombardia, 20161, Italia"",""importance"":0.5309999999999999,""lat"":""45.5244928"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1745646"",""osm_id"":5157972784,""osm_type"":""node"",""place_id"":56855868,""type"":""house""},""mode"":""autocomplete""},""description"":""\u201cHelpUkraine\u201d, un punto di informazione e coordinamento per aiutare i rifugiati ucraini nel nostro Paese: a lanciarlo \u00e8 l\u2019organizzazione non profit, Avsi, che in tal modo intende rispondere alle numerose richieste dei profughi in arrivo dall\u2019Ucraina e coordinare l\u2019offerta di accoglienza di famiglie italiane. L\u2019iniziativa nasce grazie al supporto, oltre di Avsi, di Associazione Famiglie per l\u2019Accoglienza, Associazione San Martino, Fondazione Franco Verga, Associazione I Bambini dell\u2019Est, la ong ucraina Emmaus, e Medici in Famiglia Impresa Sociale. Il progetto \u00e8 partito il 16 marzo e offre un servizio concreto, uno sportello aperto in modo costante e in grado di rispondere a domande anche specifiche (per esempio come ottenere il titolo di soggiorno o come inserire i bambini a scuola), e per fare gli abbinamenti tra chi cerca ospitalit\u00e0 e chi la offre. Il neonato Info Point nasce con questo duplice obiettivo: favorire l\u2019accoglienza e l\u2019integrazione di cittadini ucraini che arrivano in Italia in fuga dal conflitto e sostenere le famiglie residenti in Italia disponibili a fornire aiuto nel processo di accoglienza e integrazione. \nPer contattare l\u2019Info point Help Ukraine: +39.02.674988368 in ucraino e inglese; +39.02.674988369 in italiano \u2013 HelpUkraine@avsi.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Asvi"",""recipients"":""Rifugiati ucraini e famiglie italiane"",""submit"":true,""title"":""Avsi attiva Sportello HelpUkraine per offrire supporto a rifugiati ucraini e a famiglie italiane disponibili all\u2019accoglienza di adulti e minori"",""type"":""legal"",""url"":""https://www.agensir.it/quotidiano/2022/3/17/ucraina-avsi-helpukraine-un-info-point-per-aiutare-i-rifugiati-ucraini-in-arrivo-in-italia/""}","<pre><yamldata>
 type: legal
 offerFromWho: Asvi
