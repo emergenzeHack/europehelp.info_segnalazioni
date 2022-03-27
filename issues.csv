@@ -1,5 +1,5 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/364,1182068403,2022-03-26 22:05:16,2022-03-26 20:54:00,A Livorno continua la raccolta beni alimentari e farmaci promossa dalla comunità Ucraina,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Livorno"",""country"":""Italia"",""country_code"":""it"",""county"":""Livorno"",""postcode"":""57123"",""road"":""Scali Finocchietti"",""state"":""Toscana""},""boundingbox"":[""43.5528479"",""43.5531128"",""10.3080889"",""10.3090125""],""class"":""highway"",""display_name"":""Scali Finocchietti, Livorno, Toscana, 57123, Italia"",""importance"":0.41000000000000003,""lat"":""43.5528479"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.3080889"",""osm_id"":268453917,""osm_type"":""way"",""place_id"":167331051,""type"":""residential""},""mode"":""autocomplete""},""description"":""A Livorno continua la raccolta di generi alimentari e medicinali presso la Sala Simonini sugli Scali Finocchietti, concessa dal Comune alla Comunit\u00e0 Ucraina livornese. Cambiano per\u00f2 gli orari. La sala sar\u00e0 aperta dal luned\u00ec al venerd\u00ec dalle 14 alle 18."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comunit\u00e0 Ucraina e Comune di Livorno"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Livorno continua la raccolta di generi alimentari e medicinali promossa dalla comunit\u00e0 Ucraina, in collaborazione con il Comune"",""url"":""https://www.comune.livorno.it/articolo/continua-raccolta-cibo-medicinali-lucraina-ma-cambiano-gli-orari-apertura""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/364,1182068403,2022-03-27 06:36:00,2022-03-26 20:54:00,A Livorno continua la raccolta beni alimentari e farmaci promossa dalla comunità ucraina,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Livorno"",""country"":""Italia"",""country_code"":""it"",""county"":""Livorno"",""postcode"":""57123"",""road"":""Scali Finocchietti"",""state"":""Toscana""},""boundingbox"":[""43.5528479"",""43.5531128"",""10.3080889"",""10.3090125""],""class"":""highway"",""display_name"":""Scali Finocchietti, Livorno, Toscana, 57123, Italia"",""importance"":0.41000000000000003,""lat"":""43.5528479"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.3080889"",""osm_id"":268453917,""osm_type"":""way"",""place_id"":167331051,""type"":""residential""},""mode"":""autocomplete""},""description"":""A Livorno continua la raccolta di generi alimentari e medicinali presso la Sala Simonini sugli Scali Finocchietti, concessa dal Comune alla Comunit\u00e0 Ucraina livornese. Cambiano per\u00f2 gli orari. La sala sar\u00e0 aperta dal luned\u00ec al venerd\u00ec dalle 14 alle 18."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comunit\u00e0 Ucraina e Comune di Livorno"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Livorno continua la raccolta di generi alimentari e medicinali promossa dalla comunit\u00e0 Ucraina, in collaborazione con il Comune"",""url"":""https://www.comune.livorno.it/articolo/continua-raccolta-cibo-medicinali-lucraina-ma-cambiano-gli-orari-apertura""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
   hospitality: false
@@ -46,6 +46,270 @@ address:
       county: Livorno
       state: Toscana
       postcode: '57123'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/365,1182129844,2022-03-27 06:35:12,2022-03-26 22:20:34,"Bologna, servizi educativo-scolastici gratuiti per i minori ucraini profughi",,,,,"[""Valid/Accettato"",""Services"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.421033"",""44.556094"",""11.2296206"",""11.4336079""],""class"":""boundary"",""display_name"":""Bologna, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7805771109268431,""lat"":""44.4938203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.3426327"",""osm_id"":43172,""osm_type"":""relation"",""place_id"":283848615,""type"":""administrative""},""mode"":""autocomplete""},""description"":""La giunta del Comune di Bologna ha deciso di esentare dal pagamento delle tariffe dei servizi educativi e scolastici comunali i minori provenienti dall'Ucraina in possesso del titolo di Protezione Temporanea rilasciato dalla Prefettura.\nIl Comune si far\u00e0 carico anche del pagamento della refezione scolastica e dei servizi integrativi."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Bologna"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Bologna, servizi educativo-scolastici gratuiti per i minori ucraini profughi"",""url"":""https://www.redattoresociale.it/article/notiziario/ucraina_servizi_educativo-scolastici_di_bologna_gratuiti_per_i_minori_profughi""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: true
+offerFromWho: Comune di Bologna
+title: Bologna, servizi educativo-scolastici gratuiti per i minori ucraini profughi
+recipients: ''
+description: 'La giunta del Comune di Bologna ha deciso di esentare dal pagamento
+  delle tariffe dei servizi educativi e scolastici comunali i minori provenienti dall''Ucraina
+  in possesso del titolo di Protezione Temporanea rilasciato dalla Prefettura.
+
+  Il Comune si farà carico anche del pagamento della refezione scolastica e dei servizi
+  integrativi.'
+url: https://www.redattoresociale.it/article/notiziario/ucraina_servizi_educativo-scolastici_di_bologna_gratuiti_per_i_minori_profughi
+address:
+  mode: autocomplete
+  address:
+    place_id: 283848615
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43172
+    boundingbox:
+    - '44.421033'
+    - '44.556094'
+    - '11.2296206'
+    - '11.4336079'
+    lat: '44.4938203'
+    lon: '11.3426327'
+    display_name: Bologna, Emilia-Romagna, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7805771109268431
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Bologna
+      county: Bologna
+      state: Emilia-Romagna
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/366,1182142266,2022-03-27 06:34:53,2022-03-26 22:42:38,A Pisa cercasi mediatori linguistici ucraini,,,,,"[""Valid/Accettato"",""Help"",""Services"",""translation"",""job""]",,,"{""address"":{""address"":{""address"":{""city"":""Pisa"",""country"":""Italia"",""country_code"":""it"",""county"":""Pisa"",""house_number"":""8"",""postcode"":""56125"",""road"":""Via Giovanni Pascoli"",""shop"":""Pam"",""state"":""Toscana"",""suburb"":""San Martino""},""boundingbox"":[""43.7119722"",""43.7120722"",""10.4006478"",""10.4007478""],""class"":""shop"",""display_name"":""Pam, 8, Via Giovanni Pascoli, San Martino, Pisa, Toscana, 56125, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//shopping_supermarket.p.20.png"",""importance"":0.5209999999999999,""lat"":""43.7120222"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.4006978"",""osm_id"":2584396643,""osm_type"":""node"",""place_id"":23269333,""type"":""supermarket""},""mode"":""autocomplete""},""description"":""Il Centro Linguistico Interculturale ALIF di Pisa cerca mediatori linguistici ucraini.\nPer chi fosse interessato pu\u00f2 contattarci via tel allo 050.3191932 o via mail all'indirizzo alifpisa@yahoo.it\nGrazie!"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Centro Linguistico Interculturale ALIF"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":true,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""A Pisa cercasi mediatori linguistici ucraini"",""url"":""https://www.facebook.com/1430400046985430/posts/7853072464718124/?sfnsn=scwspmo""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: true
+  job: true
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Centro Linguistico Interculturale ALIF
+title: A Pisa cercasi mediatori linguistici ucraini
+recipients: ''
+description: 'Il Centro Linguistico Interculturale ALIF di Pisa cerca mediatori linguistici
+  ucraini.
+
+  Per chi fosse interessato può contattarci via tel allo 050.3191932 o via mail all''indirizzo
+  alifpisa@yahoo.it
+
+  Grazie!'
+url: https://www.facebook.com/1430400046985430/posts/7853072464718124/?sfnsn=scwspmo
+address:
+  mode: autocomplete
+  address:
+    place_id: 23269333
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 2584396643
+    boundingbox:
+    - '43.7119722'
+    - '43.7120722'
+    - '10.4006478'
+    - '10.4007478'
+    lat: '43.7120222'
+    lon: '10.4006978'
+    display_name: Pam, 8, Via Giovanni Pascoli, San Martino, Pisa, Toscana, 56125,
+      Italia
+    class: shop
+    type: supermarket
+    importance: 0.5209999999999999
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//shopping_supermarket.p.20.png
+    address:
+      shop: Pam
+      house_number: '8'
+      road: Via Giovanni Pascoli
+      suburb: San Martino
+      city: Pisa
+      county: Pisa
+      state: Toscana
+      postcode: '56125'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/367,1182148287,2022-03-27 06:34:26,2022-03-26 22:52:49,"Catanzaro, falsi volontari della Croce Rossa chiedono denaro per profughi ucraini",38.82996034999999,16.43155687627833,Calabria,Catanzaro,"[""Valid/Accettato"",""fakenews""]",,,"{""Posizione"":""38.82996034999999 16.43155687627833"",""description"":""In diversi quartieri di Catanzaro, spacciandosi per volontari della Croce Rossa Italiana, con tanto di divise taroccate, tre uomini stanno girando tra le abitazioni, col classico modus operandi del \u2018porta a porta\u2019, chiedendo offerte libere da destinare \u2013 a loro dire \u2013 ai profughi in fuga dall\u2019Ucraina."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""fakenews"",""link"":""https://calabria7.it/chiedono-offerte-per-i-profughi-ucraini-ma-sono-falsi-volontari-e-allarme-a-catanzaro/"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Catanzaro"",""state"":""Calabria""},""boundingbox"":[""38.4633398"",""39.1942391"",""16.0957168"",""16.9205972""],""class"":""boundary"",""display_name"":""Catanzaro, Calabria, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7316511232379147,""lat"":""38.82996034999999"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.43155687627833"",""osm_id"":39637,""osm_type"":""relation"",""place_id"":283899205,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Catanzaro, falsi volontari della Croce Rossa chiedono denaro per profughi ucraini""}","<pre><yamldata>
+title: Catanzaro, falsi volontari della Croce Rossa chiedono denaro per profughi ucraini
+description: In diversi quartieri di Catanzaro, spacciandosi per volontari della Croce
+  Rossa Italiana, con tanto di divise taroccate, tre uomini stanno girando tra le
+  abitazioni, col classico modus operandi del ‘porta a porta’, chiedendo offerte libere
+  da destinare – a loro dire – ai profughi in fuga dall’Ucraina.
+link: https://calabria7.it/chiedono-offerte-per-i-profughi-ucraini-ma-sono-falsi-volontari-e-allarme-a-catanzaro/
+location:
+  mode: autocomplete
+  address:
+    place_id: 283899205
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 39637
+    boundingbox:
+    - '38.4633398'
+    - '39.1942391'
+    - '16.0957168'
+    - '16.9205972'
+    lat: '38.82996034999999'
+    lon: '16.43155687627833'
+    display_name: Catanzaro, Calabria, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7316511232379147
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Catanzaro
+      state: Calabria
+      country: Italia
+      country_code: it
+label: fakenews
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 38.82996034999999 16.43155687627833
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/368,1182155303,2022-03-27 06:34:11,2022-03-26 23:03:56,"Emergenza Ucraina, attenzione alle false donazioni online",,,,,"[""Valid/Accettato"",""fakenews""]",,,"{""description"":""Su QuiFinanza approfondimento sulle false donazioni online che stanno circolando in occasione dell'emergenza Ucraina con alcuni consigli su come difendersi."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""fakenews"",""link"":""https://quifinanza.it/info-utili/video/donazioni-ucraina-attenzione-truffe/626465/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Emergenza Ucraina, attenzione alle false donazioni online""}","<pre><yamldata>
+title: Emergenza Ucraina, attenzione alle false donazioni online
+description: Su QuiFinanza approfondimento sulle false donazioni online che stanno
+  circolando in occasione dell'emergenza Ucraina con alcuni consigli su come difendersi.
+link: https://quifinanza.it/info-utili/video/donazioni-ucraina-attenzione-truffe/626465/
+location:
+  mode: autocomplete
+  address: {}
+label: fakenews
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/369,1182157092,2022-03-27 06:33:56,2022-03-26 23:06:33,"Torino, sportelli sociali e punti informativi per stranieri",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""psychologicalSupport"",""women""]",,,"{""address"":{""address"":{""address"":{""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""state"":""Piemonte""},""boundingbox"":[""45.0067924"",""45.1402175"",""7.5778348"",""7.7733388""],""class"":""boundary"",""display_name"":""Torino, Piemonte, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8068062387577691,""lat"":""45.0677551"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6824892"",""osm_id"":43992,""osm_type"":""relation"",""place_id"":284787924,""type"":""administrative""},""mode"":""autocomplete""},""description"":""In tutte le Case del Quartiere sono presenti spazi di ascolto, accoglienza e orientamento:\n- sportelli sociali,\n- punti informativi dedicati alla popolazione straniera.\nSe hai bisogno di supporto nello svolgimento di pratiche burocratiche o conosci qualcuno in difficolt\u00e0 vieni nelle Case DelQuartiere o prendi un appuntamento con i nostri operatori! \nQui orari e contatti dei servizi su > http://www.retecasedelquartiere.org/servizi.../accoglienza/"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Rete delle Case del quartiere"",""recipients"":""popolazione straniera"",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":true},""submit"":true,""title"":""Torino - Sportelli sociali e punti informativi"",""url"":""http://www.retecasedelquartiere.org/servizi.../accoglienza/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: true
+  Children: false
+  disability: false
+  women: true
+  education: false
+offerFromWho: Rete delle Case del quartiere
+title: Torino - Sportelli sociali e punti informativi
+recipients: popolazione straniera
+description: ""In tutte le Case del Quartiere sono presenti spazi di ascolto, accoglienza\
+  \ e orientamento:\n- sportelli sociali,\n- punti informativi dedicati alla popolazione\
+  \ straniera.\nSe hai bisogno di supporto nello svolgimento di pratiche burocratiche\
+  \ o conosci qualcuno in difficoltà vieni nelle Case DelQuartiere o prendi un appuntamento\
+  \ con i nostri operatori! \nQui orari e contatti dei servizi su > http://www.retecasedelquartiere.org/servizi.../accoglienza/""
+url: http://www.retecasedelquartiere.org/servizi.../accoglienza/
+address:
+  mode: autocomplete
+  address:
+    place_id: 284787924
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43992
+    boundingbox:
+    - '45.0067924'
+    - '45.1402175'
+    - '7.5778348'
+    - '7.7733388'
+    lat: '45.0677551'
+    lon: '7.6824892'
+    display_name: Torino, Piemonte, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8068062387577691
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Torino
+      county: Torino
+      state: Piemonte
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/370,1182173893,2022-03-27 06:31:42,2022-03-26 23:29:55,"A Scalea (Cosenza) corsi di Italiano, supporto scolastico e attività educative per bambini ucraini",,,,,"[""Valid/Accettato"",""Services"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Cosenza"",""postcode"":""87029"",""road"":""Via Piave"",""state"":""Calabria"",""town"":""Scalea""},""boundingbox"":[""39.7931916"",""39.7960033"",""15.797485"",""15.80751""],""class"":""highway"",""display_name"":""Via Piave, Scalea, Cosenza, Calabria, 87029, Italia"",""importance"":0.51,""lat"":""39.7941908"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.8029711"",""osm_id"":172145955,""osm_type"":""way"",""place_id"":141508347,""type"":""residential""},""mode"":""autocomplete""},""description"":""Presso il punto Luce di Scalea sono attivi i corsi di italiano per minori ucraini e attivit\u00e0 educative, ricreative, sportive propedeutiche all'iscrizione a scuola."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Gianfrancesco Serio - Punto Luce Scalea"",""recipients"":""bambini, bambine e adolescenti"",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Corsi di Italiano, supporto scolastico e attivit\u00e0 educative a Scalea"",""url"":""https://www.facebook.com/Punto-Luce-Scalea-1103953659622654/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: true
+offerFromWho: Associazione Gianfrancesco Serio - Punto Luce Scalea
+title: Corsi di Italiano, supporto scolastico e attività educative a Scalea
+recipients: bambini, bambine e adolescenti
+description: Presso il punto Luce di Scalea sono attivi i corsi di italiano per minori
+  ucraini e attività educative, ricreative, sportive propedeutiche all'iscrizione
+  a scuola.
+url: https://www.facebook.com/Punto-Luce-Scalea-1103953659622654/
+address:
+  mode: autocomplete
+  address:
+    place_id: 141508347
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 172145955
+    boundingbox:
+    - '39.7931916'
+    - '39.7960033'
+    - '15.797485'
+    - '15.80751'
+    lat: '39.7941908'
+    lon: '15.8029711'
+    display_name: Via Piave, Scalea, Cosenza, Calabria, 87029, Italia
+    class: highway
+    type: residential
+    importance: 0.51
+    address:
+      road: Via Piave
+      town: Scalea
+      county: Cosenza
+      state: Calabria
+      postcode: '87029'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
