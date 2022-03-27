@@ -1,4 +1,253 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/365,1182129844,2022-03-27 09:38:11,2022-03-26 22:20:34,"Bologna, servizi educativo-scolastici gratuiti per i minori ucraini profughi",,,,,"[""Valid/Accettato"",""Services"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.421033"",""44.556094"",""11.2296206"",""11.4336079""],""class"":""boundary"",""display_name"":""Bologna, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7805771109268431,""lat"":""44.4938203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.3426327"",""osm_id"":43172,""osm_type"":""relation"",""place_id"":283848615,""type"":""administrative""},""mode"":""autocomplete""},""description"":""La giunta del Comune di Bologna ha deciso di esentare dal pagamento delle tariffe dei servizi educativi e scolastici comunali i minori provenienti dall'Ucraina in possesso del titolo di Protezione Temporanea rilasciato dalla Prefettura.\nIl Comune si far\u00e0 carico anche del pagamento della refezione scolastica e dei servizi integrativi."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Bologna"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Bologna, servizi educativo-scolastici gratuiti per i minori ucraini profughi"",""url"":""https://www.redattoresociale.it/article/notiziario/ucraina_servizi_educativo-scolastici_di_bologna_gratuiti_per_i_minori_profughi""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: true
+offerFromWho: Comune di Bologna
+title: Bologna, servizi educativo-scolastici gratuiti per i minori ucraini profughi
+recipients: ''
+description: 'La giunta del Comune di Bologna ha deciso di esentare dal pagamento
+  delle tariffe dei servizi educativi e scolastici comunali i minori provenienti dall''Ucraina
+  in possesso del titolo di Protezione Temporanea rilasciato dalla Prefettura.
+
+  Il Comune si farà carico anche del pagamento della refezione scolastica e dei servizi
+  integrativi.'
+url: https://www.redattoresociale.it/article/notiziario/ucraina_servizi_educativo-scolastici_di_bologna_gratuiti_per_i_minori_profughi
+address:
+  mode: autocomplete
+  address:
+    place_id: 283848615
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43172
+    boundingbox:
+    - '44.421033'
+    - '44.556094'
+    - '11.2296206'
+    - '11.4336079'
+    lat: '44.4938203'
+    lon: '11.3426327'
+    display_name: Bologna, Emilia-Romagna, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7805771109268431
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Bologna
+      county: Bologna
+      state: Emilia-Romagna
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/368,1182155303,2022-03-27 09:37:50,2022-03-26 23:03:56,"Emergenza Ucraina, attenzione alle false donazioni online",,,,,"[""Valid/Accettato"",""fakenews"",""telegram-channel"",""tweet""]",,,"{""description"":""Su QuiFinanza approfondimento sulle false donazioni online che stanno circolando in occasione dell'emergenza Ucraina con alcuni consigli su come difendersi."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""fakenews"",""link"":""https://quifinanza.it/info-utili/video/donazioni-ucraina-attenzione-truffe/626465/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Emergenza Ucraina, attenzione alle false donazioni online""}","<pre><yamldata>
+title: Emergenza Ucraina, attenzione alle false donazioni online
+description: Su QuiFinanza approfondimento sulle false donazioni online che stanno
+  circolando in occasione dell'emergenza Ucraina con alcuni consigli su come difendersi.
+link: https://quifinanza.it/info-utili/video/donazioni-ucraina-attenzione-truffe/626465/
+location:
+  mode: autocomplete
+  address: {}
+label: fakenews
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/339,1180663594,2022-03-27 09:37:20,2022-03-25 11:13:57,Comune di Ferrara raccoglie disponibilità di enti e cittadini ad ospitare rifugiati ucraini,,,,,"[""Valid/Accettato"",""Help"",""Services"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Ferrara"",""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""house_number"":""1"",""neighbourhood"":""Villa Fulvia"",""postcode"":""44124"",""road"":""Via Boschetto"",""state"":""Emilia-Romagna"",""suburb"":""Quacchio""},""boundingbox"":[""44.8221799"",""44.8222799"",""11.6317788"",""11.6318788""],""class"":""place"",""display_name"":""1, Via Boschetto, Villa Fulvia, Quacchio, Ferrara, Emilia-Romagna, 44124, Italia"",""importance"":0.5309999999999999,""lat"":""44.8222299"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.6318288"",""osm_id"":4761949611,""osm_type"":""node"",""place_id"":54313083,""type"":""house""},""mode"":""autocomplete""},""description"":""Se sei di Ferrara e sei disposto ad ospitare rifugiati ucraini, puoi scrivere a: emergenzaucraina@comune.fe.it A questa casella di posta, privati cittadini o enti, possono manifestare la propria disponibilit\u00e0 a offrire appartamenti che verranno messi a disposizione dei soggetti gestori dei centri di accoglienza per incrementare la capienza. Tali manifestazioni andranno ad alimentare una banca dati gestita dalla Protezione Civile per conto della Prefettura e dei Comuni della provincia per cui si richiede di specificare, contestualmente, anche il consenso al trattamento dei dati personali per le finalit\u00e0 indicate."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ibo Italia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Ferrara Ibo Italia raccoglie disponibilit\u00e0 di enti e cittadini ad ospitare rifugiati ucraini"",""url"":""https://www.comune.fe.it/it/b/13403/emergenza-ucraina""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Ibo Italia
+title: A Ferrara Ibo Italia raccoglie disponibilità di enti e cittadini ad ospitare
+  rifugiati ucraini
+recipients: ''
+description: 'Se sei di Ferrara e sei disposto ad ospitare rifugiati ucraini, puoi
+  scrivere a: emergenzaucraina@comune.fe.it
+  A questa casella di posta, privati cittadini o enti, possono manifestare la propria
+  disponibilità a offrire appartamenti che verranno messi a disposizione dei soggetti
+  gestori dei centri di accoglienza per incrementare la capienza. Tali manifestazioni
+  andranno ad alimentare una banca dati gestita dalla Protezione Civile per conto
+  della Prefettura e dei Comuni della provincia per cui si richiede di specificare,
+  contestualmente, anche il consenso al trattamento dei dati personali per le finalità
+  indicate.'
+url: https://www.comune.fe.it/it/b/13403/emergenza-ucraina
+address:
+  mode: autocomplete
+  address:
+    place_id: 54313083
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 4761949611
+    boundingbox:
+    - '44.8221799'
+    - '44.8222799'
+    - '11.6317788'
+    - '11.6318788'
+    lat: '44.8222299'
+    lon: '11.6318288'
+    display_name: 1, Via Boschetto, Villa Fulvia, Quacchio, Ferrara, Emilia-Romagna,
+      44124, Italia
+    class: place
+    type: house
+    importance: 0.5309999999999999
+    address:
+      house_number: '1'
+      road: Via Boschetto
+      neighbourhood: Villa Fulvia
+      suburb: Quacchio
+      city: Ferrara
+      county: Ferrara
+      state: Emilia-Romagna
+      postcode: '44124'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/328,1180096668,2022-03-27 09:37:00,2022-03-24 21:59:51,Diaconia Valdese cerca operatrice/ore per progetto di accoglienza diffusa a Campobasso,,,,,"[""Valid/Accettato"",""Help"",""job"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""La Diaconia Valdese \u2013 Servizi Inclusione seleziona un\u2019operatrice/ore per un progetto di accoglienza diffusa a Campobasso, nell\u2019ambito dei corridoi umanitari. Nella fase di avvio il progetto si rivolger\u00e0 prevalentemente a nuclei monoparentali provenienti dall\u2019Ucraina.\nSi richiedono esperienza pregressa nel settore di almeno due anni, buone capacit\u00e0 di autonomia e problem solving, residenza sul territorio di Campobasso e conoscenza della lingua inglese."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Diaconia Valdese"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""healthcare"":false,""hospitality"":false,""job"":true,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Ricerca Operatrice/ore per un progetto di #accoglienza diffusa a Campobasso"",""url"":""https://www.nev.it/nev/2022/03/21/bando-di-ricerca-per-unoperatrice-ore-per-accoglienza-diffusa-campobasso/?fbclid=IwAR13LjqcOFzAVVCsc9FLdYUJrhpf9DyM3reuyQ-Cl5SvrTiDr69WIm49XHA""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: true
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+offerFromWho: Diaconia Valdese
+title: 'Ricerca Operatrice/ore per un progetto di #accoglienza diffusa a Campobasso'
+recipients: ''
+description: 'La Diaconia Valdese – Servizi Inclusione seleziona un’operatrice/ore
+  per un progetto di accoglienza diffusa a Campobasso, nell’ambito dei corridoi umanitari.
+  Nella fase di avvio il progetto si rivolgerà prevalentemente a nuclei monoparentali
+  provenienti dall’Ucraina.
+
+  Si richiedono esperienza pregressa nel settore di almeno due anni, buone capacità
+  di autonomia e problem solving, residenza sul territorio di Campobasso e conoscenza
+  della lingua inglese.'
+url: https://www.nev.it/nev/2022/03/21/bando-di-ricerca-per-unoperatrice-ore-per-accoglienza-diffusa-campobasso/?fbclid=IwAR13LjqcOFzAVVCsc9FLdYUJrhpf9DyM3reuyQ-Cl5SvrTiDr69WIm49XHA
+address:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/326,1180088696,2022-03-27 09:36:47,2022-03-24 21:48:13,"Digitalsme.eu, portale di opportunità digitali di lavoro e formazione per rifugiati",,,,,"[""Valid/Accettato"",""Services"",""job"",""telegram-channel"",""tweet"",""Resources""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Portale di opportunit\u00e0 digitali per fornire ai rifugiati lavoro, formazione e competenze. Questa piattaforma \u00e8 liberamente disponibile per tutte le aziende e i fornitori di formazione per contribuire pubblicando le loro opportunit\u00e0."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Alleanza DIGITAL SME Europea"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""healthcare"":false,""hospitality"":false,""job"":true,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Portale di opportunit\u00e0 digitali di lavoro e formazione"",""url"":""https://www.digitalsme.eu/digital-opportunities-for-refugees/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: true
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+offerFromWho: Alleanza DIGITAL SME Europea
+title: Portale di opportunità digitali di lavoro e formazione
+recipients: ''
+description: 'Portale di opportunità digitali per fornire ai rifugiati lavoro, formazione
+  e competenze. Questa piattaforma è liberamente disponibile per tutte le aziende
+  e i fornitori di formazione per contribuire pubblicando le loro opportunità.'
+url: https://www.digitalsme.eu/digital-opportunities-for-refugees/
+address:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/320,1178741901,2022-03-27 09:36:24,2022-03-23 22:38:13,"Ambasciata Ucraina in Italia, raccolta di risorse e servizi online per bambini e scolari ucraini",,,,,"[""Valid/Accettato"",""Services"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Kiev"",""country"":""Ucraina"",""country_code"":""ua"",""postcode"":""1001""},""boundingbox"":[""50.2900336"",""50.6100336"",""30.3641361"",""30.6841361""],""class"":""place"",""display_name"":""Kiev, Kyiv, 1001, Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.8358572961698041,""lat"":""50.4500336"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""30.5241361"",""osm_id"":26150422,""osm_type"":""node"",""place_id"":285620529,""type"":""city""},""mode"":""autocomplete""},""description"":""\u2705Scuola ucraina online: https://lms.e-school.net.ua/guide Per comodit\u00e0, \u00e8 stata sviluppata un app per cellulare oltre a un canale YouTube.\n\u2705Programma online ucraino: https://mon.gov.ua/ua/vseukrayinskij-rozklad Contiene collegamenti a materiali provenienti da varie risorse.\n\u2705Sulle piattaforme TV MEGOGO, video 1+1, Kievstar TV, dolce.TV.\n\u2705Per i bambini dell'infanzia iniziati i lavori dell'asilo nido online NUMO - piattaforma dove vengono raccolte video lezioni per bambini dai 3 ai 6 anni. La visione \u00e8 disponibile sui canali YouTube di MON ( https://bit.ly/3JqnY1P ) e UNICEF https://bit.ly/3JqnY1P e sulla piattaforma MEGOGO.\n\u2705 Vi ricordiamo anche le serie educative per bambini di qualsiasi et\u00e0 sulla piattaforma Azione. Educazione digitale: https://osvita.diia.gov.ua/about\nPuoi visionare il materiale ovunque e in qualsiasi momento assolutamente gratuitamente."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ambasciata Ucraina in Italia"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Raccolta di servizi online per la didattica a distanza per bambini e scolari ucraini"",""url"":""https://www.facebook.com/100064521677450/posts/337988131695240/?d=n""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+offerFromWho: Ambasciata Ucraina in Italia
+title: Raccolta di servizi online per la didattica a distanza per bambini e scolari
+  ucraini
+recipients: ''
+description: '✅Scuola ucraina online: https://lms.e-school.net.ua/guide Per comodità,
+  è stata sviluppata un app per cellulare oltre a un canale YouTube.
+
+  ✅Programma online ucraino: https://mon.gov.ua/ua/vseukrayinskij-rozklad Contiene
+  collegamenti a materiali provenienti da varie risorse.
+
+  ✅Sulle piattaforme TV MEGOGO, video 1+1, Kievstar TV, dolce.TV.
+
+  ✅Per i bambini dell''infanzia iniziati i lavori dell''asilo nido online NUMO - piattaforma
+  dove vengono raccolte video lezioni per bambini dai 3 ai 6 anni. La visione è disponibile
+  sui canali YouTube di MON ( https://bit.ly/3JqnY1P ) e UNICEF https://bit.ly/3JqnY1P
+  e sulla piattaforma MEGOGO.
+
+  ✅ Vi ricordiamo anche le serie educative per bambini di qualsiasi età sulla piattaforma
+  Azione. Educazione digitale: https://osvita.diia.gov.ua/about
+
+  Puoi visionare il materiale ovunque e in qualsiasi momento assolutamente gratuitamente.'
+url: https://www.facebook.com/100064521677450/posts/337988131695240/?d=n
+address:
+  mode: autocomplete
+  address:
+    place_id: 285620529
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 26150422
+    boundingbox:
+    - '50.2900336'
+    - '50.6100336'
+    - '30.3641361'
+    - '30.6841361'
+    lat: '50.4500336'
+    lon: '30.5241361'
+    display_name: Kiev, Kyiv, 1001, Ucraina
+    class: place
+    type: city
+    importance: 0.8358572961698041
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Kiev
+      postcode: '1001'
+      country: Ucraina
+      country_code: ua
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/364,1182068403,2022-03-27 06:36:00,2022-03-26 20:54:00,A Livorno continua la raccolta beni alimentari e farmaci promossa dalla comunità ucraina,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Livorno"",""country"":""Italia"",""country_code"":""it"",""county"":""Livorno"",""postcode"":""57123"",""road"":""Scali Finocchietti"",""state"":""Toscana""},""boundingbox"":[""43.5528479"",""43.5531128"",""10.3080889"",""10.3090125""],""class"":""highway"",""display_name"":""Scali Finocchietti, Livorno, Toscana, 57123, Italia"",""importance"":0.41000000000000003,""lat"":""43.5528479"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.3080889"",""osm_id"":268453917,""osm_type"":""way"",""place_id"":167331051,""type"":""residential""},""mode"":""autocomplete""},""description"":""A Livorno continua la raccolta di generi alimentari e medicinali presso la Sala Simonini sugli Scali Finocchietti, concessa dal Comune alla Comunit\u00e0 Ucraina livornese. Cambiano per\u00f2 gli orari. La sala sar\u00e0 aperta dal luned\u00ec al venerd\u00ec dalle 14 alle 18."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comunit\u00e0 Ucraina e Comune di Livorno"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Livorno continua la raccolta di generi alimentari e medicinali promossa dalla comunit\u00e0 Ucraina, in collaborazione con il Comune"",""url"":""https://www.comune.livorno.it/articolo/continua-raccolta-cibo-medicinali-lucraina-ma-cambiano-gli-orari-apertura""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
@@ -46,59 +295,6 @@ address:
       county: Livorno
       state: Toscana
       postcode: '57123'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/365,1182129844,2022-03-27 06:35:12,2022-03-26 22:20:34,"Bologna, servizi educativo-scolastici gratuiti per i minori ucraini profughi",,,,,"[""Valid/Accettato"",""Services"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.421033"",""44.556094"",""11.2296206"",""11.4336079""],""class"":""boundary"",""display_name"":""Bologna, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7805771109268431,""lat"":""44.4938203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.3426327"",""osm_id"":43172,""osm_type"":""relation"",""place_id"":283848615,""type"":""administrative""},""mode"":""autocomplete""},""description"":""La giunta del Comune di Bologna ha deciso di esentare dal pagamento delle tariffe dei servizi educativi e scolastici comunali i minori provenienti dall'Ucraina in possesso del titolo di Protezione Temporanea rilasciato dalla Prefettura.\nIl Comune si far\u00e0 carico anche del pagamento della refezione scolastica e dei servizi integrativi."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Bologna"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Bologna, servizi educativo-scolastici gratuiti per i minori ucraini profughi"",""url"":""https://www.redattoresociale.it/article/notiziario/ucraina_servizi_educativo-scolastici_di_bologna_gratuiti_per_i_minori_profughi""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: true
-  disability: false
-  women: false
-  education: true
-offerFromWho: Comune di Bologna
-title: Bologna, servizi educativo-scolastici gratuiti per i minori ucraini profughi
-recipients: ''
-description: 'La giunta del Comune di Bologna ha deciso di esentare dal pagamento
-  delle tariffe dei servizi educativi e scolastici comunali i minori provenienti dall''Ucraina
-  in possesso del titolo di Protezione Temporanea rilasciato dalla Prefettura.
-
-  Il Comune si farà carico anche del pagamento della refezione scolastica e dei servizi
-  integrativi.'
-url: https://www.redattoresociale.it/article/notiziario/ucraina_servizi_educativo-scolastici_di_bologna_gratuiti_per_i_minori_profughi
-address:
-  mode: autocomplete
-  address:
-    place_id: 283848615
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 43172
-    boundingbox:
-    - '44.421033'
-    - '44.556094'
-    - '11.2296206'
-    - '11.4336079'
-    lat: '44.4938203'
-    lon: '11.3426327'
-    display_name: Bologna, Emilia-Romagna, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7805771109268431
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Bologna
-      county: Bologna
-      state: Emilia-Romagna
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
@@ -200,18 +396,6 @@ label: fakenews
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 38.82996034999999 16.43155687627833
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/368,1182155303,2022-03-27 06:34:11,2022-03-26 23:03:56,"Emergenza Ucraina, attenzione alle false donazioni online",,,,,"[""Valid/Accettato"",""fakenews""]",,,"{""description"":""Su QuiFinanza approfondimento sulle false donazioni online che stanno circolando in occasione dell'emergenza Ucraina con alcuni consigli su come difendersi."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""fakenews"",""link"":""https://quifinanza.it/info-utili/video/donazioni-ucraina-attenzione-truffe/626465/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Emergenza Ucraina, attenzione alle false donazioni online""}","<pre><yamldata>
-title: Emergenza Ucraina, attenzione alle false donazioni online
-description: Su QuiFinanza approfondimento sulle false donazioni online che stanno
-  circolando in occasione dell'emergenza Ucraina con alcuni consigli su come difendersi.
-link: https://quifinanza.it/info-utili/video/donazioni-ucraina-attenzione-truffe/626465/
-location:
-  mode: autocomplete
-  address: {}
-label: fakenews
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/369,1182157092,2022-03-27 06:33:56,2022-03-26 23:06:33,"Torino, sportelli sociali e punti informativi per stranieri",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""psychologicalSupport"",""women""]",,,"{""address"":{""address"":{""address"":{""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""state"":""Piemonte""},""boundingbox"":[""45.0067924"",""45.1402175"",""7.5778348"",""7.7733388""],""class"":""boundary"",""display_name"":""Torino, Piemonte, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8068062387577691,""lat"":""45.0677551"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6824892"",""osm_id"":43992,""osm_type"":""relation"",""place_id"":284787924,""type"":""administrative""},""mode"":""autocomplete""},""description"":""In tutte le Case del Quartiere sono presenti spazi di ascolto, accoglienza e orientamento:\n- sportelli sociali,\n- punti informativi dedicati alla popolazione straniera.\nSe hai bisogno di supporto nello svolgimento di pratiche burocratiche o conosci qualcuno in difficolt\u00e0 vieni nelle Case DelQuartiere o prendi un appuntamento con i nostri operatori! \nQui orari e contatti dei servizi su > http://www.retecasedelquartiere.org/servizi.../accoglienza/"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Rete delle Case del quartiere"",""recipients"":""popolazione straniera"",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":true},""submit"":true,""title"":""Torino - Sportelli sociali e punti informativi"",""url"":""http://www.retecasedelquartiere.org/servizi.../accoglienza/""}","<pre><yamldata>
 servicetypes:
@@ -1993,68 +2177,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/339,1180663594,2022-03-25 16:36:05,2022-03-25 11:13:57,Comune di Ferrara raccoglie disponibilità di enti e cittadini ad ospitare rifugiati ucraini,,,,,"[""Valid/Accettato"",""Help"",""Services"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""city"":""Ferrara"",""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""house_number"":""1"",""neighbourhood"":""Villa Fulvia"",""postcode"":""44124"",""road"":""Via Boschetto"",""state"":""Emilia-Romagna"",""suburb"":""Quacchio""},""boundingbox"":[""44.8221799"",""44.8222799"",""11.6317788"",""11.6318788""],""class"":""place"",""display_name"":""1, Via Boschetto, Villa Fulvia, Quacchio, Ferrara, Emilia-Romagna, 44124, Italia"",""importance"":0.5309999999999999,""lat"":""44.8222299"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.6318288"",""osm_id"":4761949611,""osm_type"":""node"",""place_id"":54313083,""type"":""house""},""mode"":""autocomplete""},""description"":""Se sei di Ferrara e sei disposto ad ospitare rifugiati ucraini, puoi scrivere a: emergenzaucraina@comune.fe.it A questa casella di posta, privati cittadini o enti, possono manifestare la propria disponibilit\u00e0 a offrire appartamenti che verranno messi a disposizione dei soggetti gestori dei centri di accoglienza per incrementare la capienza. Tali manifestazioni andranno ad alimentare una banca dati gestita dalla Protezione Civile per conto della Prefettura e dei Comuni della provincia per cui si richiede di specificare, contestualmente, anche il consenso al trattamento dei dati personali per le finalit\u00e0 indicate."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ibo Italia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Ferrara Ibo Italia raccoglie disponibilit\u00e0 di enti e cittadini ad ospitare rifugiati ucraini"",""url"":""https://www.comune.fe.it/it/b/13403/emergenza-ucraina""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: true
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Ibo Italia
-title: A Ferrara Ibo Italia raccoglie disponibilità di enti e cittadini ad ospitare
-  rifugiati ucraini
-recipients: ''
-description: 'Se sei di Ferrara e sei disposto ad ospitare rifugiati ucraini, puoi
-  scrivere a: emergenzaucraina@comune.fe.it
-  A questa casella di posta, privati cittadini o enti, possono manifestare la propria
-  disponibilità a offrire appartamenti che verranno messi a disposizione dei soggetti
-  gestori dei centri di accoglienza per incrementare la capienza. Tali manifestazioni
-  andranno ad alimentare una banca dati gestita dalla Protezione Civile per conto
-  della Prefettura e dei Comuni della provincia per cui si richiede di specificare,
-  contestualmente, anche il consenso al trattamento dei dati personali per le finalità
-  indicate.'
-url: https://www.comune.fe.it/it/b/13403/emergenza-ucraina
-address:
-  mode: autocomplete
-  address:
-    place_id: 54313083
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 4761949611
-    boundingbox:
-    - '44.8221799'
-    - '44.8222799'
-    - '11.6317788'
-    - '11.6318788'
-    lat: '44.8222299'
-    lon: '11.6318288'
-    display_name: 1, Via Boschetto, Villa Fulvia, Quacchio, Ferrara, Emilia-Romagna,
-      44124, Italia
-    class: place
-    type: house
-    importance: 0.5309999999999999
-    address:
-      house_number: '1'
-      road: Via Boschetto
-      neighbourhood: Villa Fulvia
-      suburb: Quacchio
-      city: Ferrara
-      county: Ferrara
-      state: Emilia-Romagna
-      postcode: '44124'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/342,1180690539,2022-03-25 16:34:25,2022-03-25 11:37:44,Caritas Ferrara cerca appartamenti per l’accoglienza dei profughi ucraini,44.8295403,11.6273477,Emilia-Romagna,Ferrara,"[""Valid/Accettato"",""Help"",""hospitality""]",,,"{""Posizione"":""44.8295403 11.6273477"",""description"":""Caritas Ferrara cerca unit\u00e0 abitative autonome per l\u2019accoglienza dei profughi ucraini. Clicca QUI per ulteriori informazioni. Chi vuole mettere a disposizione uno spazio nel territorio ferrarese pu\u00f2 contattare caritasfe@libero.it indicando come oggetto \u201cDisponibilit\u00e0 per profughi ucraini\u201d"",""email"":""caritasfe@libero.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Ferrara"",""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""house_number"":""19"",""neighbourhood"":""Centro cittadino"",""postcode"":""44121"",""road"":""Via Brasavola"",""state"":""Emilia-Romagna"",""suburb"":""Quacchio""},""boundingbox"":[""44.8294903"",""44.8295903"",""11.6272977"",""11.6273977""],""class"":""place"",""display_name"":""19, Via Brasavola, Centro cittadino, Quacchio, Ferrara, Emilia-Romagna, 44121, Italia"",""importance"":0.5309999999999999,""lat"":""44.8295403"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.6273477"",""osm_id"":4761953354,""osm_type"":""node"",""place_id"":54053938,""type"":""house""},""mode"":""autocomplete""},""nameSurname"":""Caritas Ferrara"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Caritas Ferrara cerca appartamenti per l\u2019accoglienza dei profughi ucraini"",""url"":""https://www.caritasfe.it/cercasi-appartamenti-profughi-ucraini/""}","<pre><yamldata>
 nameSurname: Caritas Ferrara
 phoneNumber: ''
@@ -2508,69 +2630,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 type: children
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/320,1178741901,2022-03-25 10:54:56,2022-03-23 22:38:13,"Ambasciata Ucraina in Italia, raccolta di risorse e servizi online per bambini e scolari ucraini",,,,,"[""Valid/Accettato"",""Services"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Kiev"",""country"":""Ucraina"",""country_code"":""ua"",""postcode"":""1001""},""boundingbox"":[""50.2900336"",""50.6100336"",""30.3641361"",""30.6841361""],""class"":""place"",""display_name"":""Kiev, Kyiv, 1001, Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.8358572961698041,""lat"":""50.4500336"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""30.5241361"",""osm_id"":26150422,""osm_type"":""node"",""place_id"":285620529,""type"":""city""},""mode"":""autocomplete""},""description"":""\u2705Scuola ucraina online: https://lms.e-school.net.ua/guide Per comodit\u00e0, \u00e8 stata sviluppata un app per cellulare oltre a un canale YouTube.\n\u2705Programma online ucraino: https://mon.gov.ua/ua/vseukrayinskij-rozklad Contiene collegamenti a materiali provenienti da varie risorse.\n\u2705Sulle piattaforme TV MEGOGO, video 1+1, Kievstar TV, dolce.TV.\n\u2705Per i bambini dell'infanzia iniziati i lavori dell'asilo nido online NUMO - piattaforma dove vengono raccolte video lezioni per bambini dai 3 ai 6 anni. La visione \u00e8 disponibile sui canali YouTube di MON ( https://bit.ly/3JqnY1P ) e UNICEF https://bit.ly/3JqnY1P e sulla piattaforma MEGOGO.\n\u2705 Vi ricordiamo anche le serie educative per bambini di qualsiasi et\u00e0 sulla piattaforma Azione. Educazione digitale: https://osvita.diia.gov.ua/about\nPuoi visionare il materiale ovunque e in qualsiasi momento assolutamente gratuitamente."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ambasciata Ucraina in Italia"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Raccolta di servizi online per la didattica a distanza per bambini e scolari ucraini"",""url"":""https://www.facebook.com/100064521677450/posts/337988131695240/?d=n""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: true
-  disability: false
-  women: false
-offerFromWho: Ambasciata Ucraina in Italia
-title: Raccolta di servizi online per la didattica a distanza per bambini e scolari
-  ucraini
-recipients: ''
-description: '✅Scuola ucraina online: https://lms.e-school.net.ua/guide Per comodità,
-  è stata sviluppata un app per cellulare oltre a un canale YouTube.
-
-  ✅Programma online ucraino: https://mon.gov.ua/ua/vseukrayinskij-rozklad Contiene
-  collegamenti a materiali provenienti da varie risorse.
-
-  ✅Sulle piattaforme TV MEGOGO, video 1+1, Kievstar TV, dolce.TV.
-
-  ✅Per i bambini dell''infanzia iniziati i lavori dell''asilo nido online NUMO - piattaforma
-  dove vengono raccolte video lezioni per bambini dai 3 ai 6 anni. La visione è disponibile
-  sui canali YouTube di MON ( https://bit.ly/3JqnY1P ) e UNICEF https://bit.ly/3JqnY1P
-  e sulla piattaforma MEGOGO.
-
-  ✅ Vi ricordiamo anche le serie educative per bambini di qualsiasi età sulla piattaforma
-  Azione. Educazione digitale: https://osvita.diia.gov.ua/about
-
-  Puoi visionare il materiale ovunque e in qualsiasi momento assolutamente gratuitamente.'
-url: https://www.facebook.com/100064521677450/posts/337988131695240/?d=n
-address:
-  mode: autocomplete
-  address:
-    place_id: 285620529
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 26150422
-    boundingbox:
-    - '50.2900336'
-    - '50.6100336'
-    - '30.3641361'
-    - '30.6841361'
-    lat: '50.4500336'
-    lon: '30.5241361'
-    display_name: Kiev, Kyiv, 1001, Ucraina
-    class: place
-    type: city
-    importance: 0.8358572961698041
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
-    address:
-      city: Kiev
-      postcode: '1001'
-      country: Ucraina
-      country_code: ua
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/112,1167414735,2022-03-25 10:54:31,2022-03-12 22:16:38,"Comune di Parma cerca per emergenza Ucraina mediatori linguistici, educatori, psicologi, assistenti sociali",44.8094695,10.3275042,Emilia-Romagna,Parma,"[""Valid/Accettato"",""Help"",""translation"",""job"",""education""]",,,"{""Posizione"":""44.8094695 10.3275042"",""description"":""In relazione all\u2019accoglienza dei profughi ucraini, il Comune di Parma  ha attivato, presso il punto informativo e raccolta dati Informastranieri, un'equipe di operatori del Settore Sociale per approfondire il quadro dei bisogni delle persone accolte o che richiedono aiuto e per effettuare l\u2019approfondimento delle disponibilit\u00e0 di accoglienza che vengono espresse dai cittadini. A supporto di tale equipe si ricercano Volontari con le seguenti professionalit\u00e0: Assistenti Sociali, Educatori, Psicologi e Mediatori linguistici (da attivare anche presso le scuole)."",""email"":""informastranieri@comune.parma.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Parma"",""country"":""Italia"",""country_code"":""it"",""county"":""Parma"",""postcode"":""43121"",""road"":""Via Antonio Cecchi"",""state"":""Emilia-Romagna"",""suburb"":""Parma Centro""},""boundingbox"":[""44.8094603"",""44.8097443"",""10.3262362"",""10.3275426""],""class"":""highway"",""display_name"":""Via Antonio Cecchi, Parma Centro, Parma, Emilia-Romagna, 43121, Italia"",""importance"":0.5949999999999999,""lat"":""44.8094695"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.3275042"",""osm_id"":323712841,""osm_type"":""way"",""place_id"":178424191,""type"":""service""},""mode"":""autocomplete""},""nameSurname"":""Comune di Parma"",""phoneNumber"":""351 0986321"",""recipients"":""mediatori linguistici, psicologi, assistenti sociali, educatori"",""submit"":true,""title"":""Comune di Parma cerca per emergenza Ucraina mediatori linguistici, educatori, psicologi, assistenti sociali"",""url"":""https://www.comune.parma.it/notizie/news/WELFARE/2022-03-12/Parma-per-lUcraina-1.aspx""}","<pre><yamldata>
 nameSurname: Comune di Parma
@@ -3299,65 +3358,6 @@ description: 'Mama Chat è un servizio online di supporto psicologico per donne 
 
   se nessuna professionista è online, è possibile scrivere un''email a info@mamachat.org'
 url: https://mamachat.org/
-address:
-  mode: autocomplete
-  address: {}
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/328,1180096668,2022-03-24 22:44:26,2022-03-24 21:59:51,Diaconia Valdese cerca operatrice/ore per progetto di accoglienza diffusa a Campobasso,,,,,"[""Valid/Accettato"",""Help"",""job""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""La Diaconia Valdese \u2013 Servizi Inclusione seleziona un\u2019operatrice/ore per un progetto di accoglienza diffusa a Campobasso, nell\u2019ambito dei corridoi umanitari. Nella fase di avvio il progetto si rivolger\u00e0 prevalentemente a nuclei monoparentali provenienti dall\u2019Ucraina.\nSi richiedono esperienza pregressa nel settore di almeno due anni, buone capacit\u00e0 di autonomia e problem solving, residenza sul territorio di Campobasso e conoscenza della lingua inglese."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Diaconia Valdese"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""healthcare"":false,""hospitality"":false,""job"":true,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Ricerca Operatrice/ore per un progetto di #accoglienza diffusa a Campobasso"",""url"":""https://www.nev.it/nev/2022/03/21/bando-di-ricerca-per-unoperatrice-ore-per-accoglienza-diffusa-campobasso/?fbclid=IwAR13LjqcOFzAVVCsc9FLdYUJrhpf9DyM3reuyQ-Cl5SvrTiDr69WIm49XHA""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: true
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-offerFromWho: Diaconia Valdese
-title: 'Ricerca Operatrice/ore per un progetto di #accoglienza diffusa a Campobasso'
-recipients: ''
-description: 'La Diaconia Valdese – Servizi Inclusione seleziona un’operatrice/ore
-  per un progetto di accoglienza diffusa a Campobasso, nell’ambito dei corridoi umanitari.
-  Nella fase di avvio il progetto si rivolgerà prevalentemente a nuclei monoparentali
-  provenienti dall’Ucraina.
-
-  Si richiedono esperienza pregressa nel settore di almeno due anni, buone capacità
-  di autonomia e problem solving, residenza sul territorio di Campobasso e conoscenza
-  della lingua inglese.'
-url: https://www.nev.it/nev/2022/03/21/bando-di-ricerca-per-unoperatrice-ore-per-accoglienza-diffusa-campobasso/?fbclid=IwAR13LjqcOFzAVVCsc9FLdYUJrhpf9DyM3reuyQ-Cl5SvrTiDr69WIm49XHA
-address:
-  mode: autocomplete
-  address: {}
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/326,1180088696,2022-03-24 22:40:10,2022-03-24 21:48:13,"Digitalsme.eu, portale di opportunità digitali di lavoro e formazione per rifugiati",,,,,"[""Valid/Accettato"",""Services"",""job"",""Resources""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Portale di opportunit\u00e0 digitali per fornire ai rifugiati lavoro, formazione e competenze. Questa piattaforma \u00e8 liberamente disponibile per tutte le aziende e i fornitori di formazione per contribuire pubblicando le loro opportunit\u00e0."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Alleanza DIGITAL SME Europea"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""healthcare"":false,""hospitality"":false,""job"":true,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Portale di opportunit\u00e0 digitali di lavoro e formazione"",""url"":""https://www.digitalsme.eu/digital-opportunities-for-refugees/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: true
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-offerFromWho: Alleanza DIGITAL SME Europea
-title: Portale di opportunità digitali di lavoro e formazione
-recipients: ''
-description: 'Portale di opportunità digitali per fornire ai rifugiati lavoro, formazione
-  e competenze. Questa piattaforma è liberamente disponibile per tutte le aziende
-  e i fornitori di formazione per contribuire pubblicando le loro opportunità.'
-url: https://www.digitalsme.eu/digital-opportunities-for-refugees/
 address:
   mode: autocomplete
   address: {}
