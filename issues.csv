@@ -1,4 +1,56 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/376,1182675301,2022-03-27 21:53:51,2022-03-27 21:53:35,A Prato corsi gratuiti di italiano per profughi ucraini,,,,,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Prato"",""country"":""Italia"",""country_code"":""it"",""county"":""Prato"",""neighbourhood"":""il Cantiere"",""postcode"":""59100"",""road"":""Via del Carmine"",""state"":""Toscana"",""suburb"":""I lecci""},""boundingbox"":[""43.8796714"",""43.8797041"",""11.1017519"",""11.1017938""],""class"":""highway"",""display_name"":""Via del Carmine, il Cantiere, I lecci, Prato, Toscana, 59100, Italia"",""importance"":0.5,""lat"":""43.8797041"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.1017938"",""osm_id"":810705866,""osm_type"":""way"",""place_id"":258121428,""type"":""residential""},""mode"":""autocomplete""},""description"":""Presso la Chiesa di S. Bartolomeo a Prato corsi gratuiti di italiano per profughi ucraini marted\u00ec e gioved\u00ec, ore 9.30-11.30 e 15.00-17.00."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Parrocchia San Bartolomeo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Prato corsi gratuiti di italiano per profughi ucraini"",""url"":""https://t.me/+PvNrxFL5_nU0NzQy""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Parrocchia San Bartolomeo
+title: A Prato corsi gratuiti di italiano per profughi ucraini
+recipients: ''
+description: Presso la Chiesa di S. Bartolomeo a Prato corsi gratuiti di italiano
+  per profughi ucraini martedì e giovedì, ore 9.30-11.30 e 15.00-17.00.
+url: https://t.me/+PvNrxFL5_nU0NzQy
+address:
+  mode: autocomplete
+  address:
+    place_id: 258121428
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 810705866
+    boundingbox:
+    - '43.8796714'
+    - '43.8797041'
+    - '11.1017519'
+    - '11.1017938'
+    lat: '43.8797041'
+    lon: '11.1017938'
+    display_name: Via del Carmine, il Cantiere, I lecci, Prato, Toscana, 59100, Italia
+    class: highway
+    type: residential
+    importance: 0.5
+    address:
+      road: Via del Carmine
+      neighbourhood: il Cantiere
+      suburb: I lecci
+      city: Prato
+      county: Prato
+      state: Toscana
+      postcode: '59100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/375,1182671718,2022-03-27 21:42:41,2022-03-27 21:39:22,"Job for Ukrainians, canale Telegram in ucraino con offerte di lavoro in Europa e Nord America ",,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""job"",""Resources""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""aim"":""Canale Telegram in ucraino dedicato ad offerte di lavoro in Europa e Nord America per profughi ucraini. Disponibile anche bot @jobforukrainiansvacancy_bot per inviare le offerte di lavoro (in ucraino e inglese)."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":"""",""submit"":true,""title"":""Canale Telegram Job for Ukrainians"",""url"":""https://t.me/jobforukrainians""}","<pre><yamldata>
 title: Canale Telegram Job for Ukrainians
 phoneNumber: ''
