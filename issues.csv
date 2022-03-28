@@ -1,4 +1,60 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/351,1181575340,2022-03-28 13:30:48,2022-03-26 07:36:57,La voce dei bambini onlus Ancona offre supporto psicologico ai bambini rifugiati e aiuto alle famiglie ospitanti ,,,,,"[""Valid/Accettato"",""Services"",""psychologicalSupport"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Ancona"",""country"":""Italia"",""country_code"":""it"",""county"":""Ancona"",""highway"":""Via Giannelli"",""postcode"":""60122"",""quarter"":""Borgo Rodi"",""road"":""Via Antonio Giannelli"",""state"":""Marche""},""boundingbox"":[""43.615301"",""43.615401"",""13.518675"",""13.518775""],""class"":""highway"",""display_name"":""Via Giannelli, Via Antonio Giannelli, Borgo Rodi, Ancona, Marche, 60122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//transport_bus_stop2.p.20.png"",""importance"":0.30100000000000005,""lat"":""43.615351"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.518725"",""osm_id"":1311371863,""osm_type"":""node"",""place_id"":12744993,""type"":""bus_stop""},""mode"":""autocomplete""},""description"":""L\u2019associazione mette a disposizione gratuitamente psicologhe specializzate in traumi infantili e apre uno sportello di as loro per le famiglie ospitanti. Contatti al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""La voce dei bambini onlus Ancona"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""La voce dei bambini onlus Ancona Offre supporto psicologico ai bambini rifugiati e supporto alle famiglie ospitanti"",""url"":""https://www.facebook.com/groups/ukrainehelpit/permalink/466719258530361/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: true
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: La voce dei bambini onlus Ancona
+title: La voce dei bambini onlus Ancona Offre supporto psicologico ai bambini rifugiati
+  e supporto alle famiglie ospitanti
+recipients: ''
+description: L’associazione mette a disposizione gratuitamente psicologhe specializzate
+  in traumi infantili e apre uno sportello di as loro per le famiglie ospitanti. Contatti
+  al link.
+url: https://www.facebook.com/groups/ukrainehelpit/permalink/466719258530361/
+address:
+  mode: autocomplete
+  address:
+    place_id: 12744993
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 1311371863
+    boundingbox:
+    - '43.615301'
+    - '43.615401'
+    - '13.518675'
+    - '13.518775'
+    lat: '43.615351'
+    lon: '13.518725'
+    display_name: Via Giannelli, Via Antonio Giannelli, Borgo Rodi, Ancona, Marche,
+      60122, Italia
+    class: highway
+    type: bus_stop
+    importance: 0.30100000000000005
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//transport_bus_stop2.p.20.png
+    address:
+      highway: Via Giannelli
+      road: Via Antonio Giannelli
+      quarter: Borgo Rodi
+      city: Ancona
+      county: Ancona
+      state: Marche
+      postcode: '60122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/42,1162736087,2022-03-28 13:20:43,2022-03-08 14:39:12,Comune di Venezia attiva sportello Emergenza Ucraina per info e accoglienza profughi ucraini,,,,,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Comune di Venezia"",""city"":""Venezia"",""country"":""Italia"",""country_code"":""it"",""county"":""Venezia"",""road"":""Calle Chiesa Ognissanti"",""state"":""Veneto"",""suburb"":""Lido-Pellestrina"",""village"":""Pellestrina""},""boundingbox"":[""45.2731957"",""45.2732957"",""12.3009922"",""12.3010922""],""class"":""amenity"",""display_name"":""Comune di Venezia, Calle Chiesa Ognissanti, Lido-Pellestrina, Pellestrina, Venezia, Veneto, Italia"",""importance"":0.31100000000000005,""lat"":""45.2732457"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.3010422"",""osm_id"":6958414086,""osm_type"":""node"",""place_id"":74210873,""type"":""townhall""},""mode"":""autocomplete""},""description"":""A Venezia attivo sportello Emergenza Ucraina del Comune che offre info,\\ \\ supporto, assistenza ai rifugiati ucraini e alle famiglie italiane ospitanti.\\n\\ Tel. 041041 (DIME), lun-ven ore 8-20. \\nEmail ucraina@comune.venezia.it \\n(In lingua\\ \\ italiana e ucraina)."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Venezia"",""recipients"":""Rifugiati ucraini, famiglie ospitanti, cittadini"",""submit"":true,""title"":""Comune di #Venezia attiva Sportello Emergenza #Ucraina"",""type"":""legal"",""url"":""https://live.comune.venezia.it/it/2022/03/informazioni-le-persone-provenienti-dallucraina-e-le-famiglie-ospitanti""}","<pre><yamldata>
 type: legal
 offerFromWho: Comune di Venezia
@@ -2285,62 +2341,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: fundraising
 submit: true
 Posizione: 41.8933203 12.4829321
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/351,1181575340,2022-03-26 09:19:39,2022-03-26 07:36:57,La voce dei bambini onlus Ancona offre supporto psicologico ai bambini rifugiati e supporto alle famiglie ospitanti ,,,,,"[""Valid/Accettato"",""Services"",""psychologicalSupport"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Ancona"",""country"":""Italia"",""country_code"":""it"",""county"":""Ancona"",""highway"":""Via Giannelli"",""postcode"":""60122"",""quarter"":""Borgo Rodi"",""road"":""Via Antonio Giannelli"",""state"":""Marche""},""boundingbox"":[""43.615301"",""43.615401"",""13.518675"",""13.518775""],""class"":""highway"",""display_name"":""Via Giannelli, Via Antonio Giannelli, Borgo Rodi, Ancona, Marche, 60122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//transport_bus_stop2.p.20.png"",""importance"":0.30100000000000005,""lat"":""43.615351"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.518725"",""osm_id"":1311371863,""osm_type"":""node"",""place_id"":12744993,""type"":""bus_stop""},""mode"":""autocomplete""},""description"":""L\u2019associazione mette a disposizione gratuitamente psicologhe specializzate in traumi infantili e apre uno sportello di as loro per le famiglie ospitanti. Contatti al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""La voce dei bambini onlus Ancona"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""La voce dei bambini onlus Ancona Offre supporto psicologico ai bambini rifugiati e supporto alle famiglie ospitanti"",""url"":""https://www.facebook.com/groups/ukrainehelpit/permalink/466719258530361/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: true
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: La voce dei bambini onlus Ancona
-title: La voce dei bambini onlus Ancona Offre supporto psicologico ai bambini rifugiati
-  e supporto alle famiglie ospitanti
-recipients: ''
-description: L’associazione mette a disposizione gratuitamente psicologhe specializzate
-  in traumi infantili e apre uno sportello di as loro per le famiglie ospitanti. Contatti
-  al link.
-url: https://www.facebook.com/groups/ukrainehelpit/permalink/466719258530361/
-address:
-  mode: autocomplete
-  address:
-    place_id: 12744993
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 1311371863
-    boundingbox:
-    - '43.615301'
-    - '43.615401'
-    - '13.518675'
-    - '13.518775'
-    lat: '43.615351'
-    lon: '13.518725'
-    display_name: Via Giannelli, Via Antonio Giannelli, Borgo Rodi, Ancona, Marche,
-      60122, Italia
-    class: highway
-    type: bus_stop
-    importance: 0.30100000000000005
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//transport_bus_stop2.p.20.png
-    address:
-      highway: Via Giannelli
-      road: Via Antonio Giannelli
-      quarter: Borgo Rodi
-      city: Ancona
-      county: Ancona
-      state: Marche
-      postcode: '60122'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/353,1181583195,2022-03-26 09:19:22,2022-03-26 08:03:49,Santagostino lancia una call to action per realizzare un servizio di medicina di base a Milano con e per i rifugiati ucraini ,45.4906144,9.2206645,Lombardia,Milano,"[""Valid/Accettato"",""Help"",""healthcare"",""job"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.4906144 9.2206645"",""description"":""Santagostino, ha lanciato oggi una call to action per realizzare un servizio di medicina di base con e per i profughi ucraini. Il primo obiettivo \u00e8 l\u2019organizzazione di un ambulatorio a Milano con professionisti ucraini, in particolare per la medicina di base, le vaccinazioni necessarie per l\u2019inserimento a scuola e nel lavoro, il supporto psicologico.\n\nSantagostino si rivolge alle associazioni che stanno censendo questo fiume di famiglie e individui in arrivo a Milano, alle Fondazioni e ai privati, per dare una solida base economica al progetto. \u00abInvitiamo tutti a segnalarci la presenza di queste figure professionali tra i profughi. Ma tutti possiamo contribuire, ad esempio donando, attraverso la onlus Ascolto, una visita a chi ne ha pi\u00f9 bisogno\u00bb. La onlus Ascolto (ascoltoets@gmail.com) \u00e8 da anni partner di Santagostino in progetti sociali: opera stipulando accordi con le associazioni territoriali (per esempio, ci sono state Caritas Ambrosiana, Associazione Don Gino Rigoldi, WeWorld Onlus, Fondazione Sicomoro\u2026). Le associazioni raccolgono le esigenze di salute degli assistiti e inviano i casi di fragilit\u00e0 che non riescono ad accedere al servizio pubblico ad Ascolto, che li prende in carico gratuitamente attraverso le strutture Santagostino e si occupa della remunerazione dei professionisti clinici."",""email"":""informazioni@santagostino.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20131"",""quarter"":""Loreto"",""road"":""Via Temperanza"",""state"":""Lombardia"",""suburb"":""Municipio 2""},""boundingbox"":[""45.4896607"",""45.4906772"",""9.2200819"",""9.220686""],""class"":""highway"",""display_name"":""Via Temperanza, Loreto, Municipio 2, Milano, Lombardia, 20131, Italia"",""importance"":0.4,""lat"":""45.4906144"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2206645"",""osm_id"":24443460,""osm_type"":""way"",""place_id"":106504581,""type"":""unclassified""},""mode"":""autocomplete""},""nameSurname"":""Santagostino"",""phoneNumber"":"""",""recipients"":""Medici, infermieri, psicologi ucraini"",""submit"":true,""title"":""Santagostino, ha lanciato una call to action per realizzare un servizio di medicina di base con e per i profughi ucraini. Il primo obiettivo \u00e8 l\u2019organizzazione di un ambulatorio a Milano con professionisti ucraini, in particolare per la medicina di base, le vaccinazioni necessarie per l\u2019inserimento a scuola e nel lavoro, il supporto psicologico."",""url"":""https://www.santagostino.it/it""}","<pre><yamldata>
 nameSurname: Santagostino
