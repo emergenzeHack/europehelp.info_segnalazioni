@@ -1,4 +1,124 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/384,1183818484,2022-03-28 19:48:10,2022-03-28 18:23:26,Confindustria Ucraina attiva help desk per le imprese italiane in Ucraina,,,,,"[""Valid/Accettato"",""Services"",""job""]",,,"{""address"":{""address"":{""address"":{""borough"":""\u0428\u0435\u0432\u0447\u0435\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"",""building"":""\u0422\u043e\u0440\u0433\u043e\u0432\u043e-\u043f\u0440\u043e\u043c\u0438\u0441\u043b\u043e\u0432\u0430 \u043f\u0430\u043b\u0430\u0442\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0438"",""city"":""Kyiv"",""country"":""Ucraina"",""country_code"":""ua"",""house_number"":""33"",""postcode"":""01601"",""quarter"":""\u0421\u0442\u0430\u0440\u0438\u0439 \u041a\u0438\u0457\u0432"",""road"":""\u0412\u0435\u043b\u0438\u043a\u0430 \u0416\u0438\u0442\u043e\u043c\u0438\u0440\u0441\u044c\u043a\u0430 \u0432\u0443\u043b\u0438\u0446\u044f""},""boundingbox"":[""50.4544447"",""50.4550947"",""30.5093447"",""30.5104515""],""class"":""building"",""display_name"":""\u0422\u043e\u0440\u0433\u043e\u0432\u043e-\u043f\u0440\u043e\u043c\u0438\u0441\u043b\u043e\u0432\u0430 \u043f\u0430\u043b\u0430\u0442\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0438, 33, \u0412\u0435\u043b\u0438\u043a\u0430 \u0416\u0438\u0442\u043e\u043c\u0438\u0440\u0441\u044c\u043a\u0430 \u0432\u0443\u043b\u0438\u0446\u044f, \u0421\u0442\u0430\u0440\u0438\u0439 \u041a\u0438\u0457\u0432, \u0428\u0435\u0432\u0447\u0435\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, Kyiv, 01601, Ucraina"",""importance"":0.22100000000000003,""lat"":""50.4547399"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""30.509806830870446"",""osm_id"":113480835,""osm_type"":""way"",""place_id"":128478184,""type"":""commercial""},""mode"":""autocomplete""},""description"":""Confindustria Ucraina a Kyev in collaborazione con l\u2019Ambasciata Italiana rimane operativa e segue assiduamente l\u2019evolversi della situazione in Ucraina a tutela dell\u2019incolumit\u00e0 e della sicurezza dei connazionali Italiani e delle loro attivit\u00e0 sul territorio.\n\nPer offrire un supporto agli imprenditori Italiani presenti in Ucraina o che hanno relazioni commerciali con la stessa, Confindustria Ucraina apre uno sportello HELP DESK volto a raccogliere informazioni per dare indicazioni.\nNumero di emergenza: +39 3898745065.\nConfindustria Ucraina, inoltre, invita tutte le imprese italiane che sono presenti in Ucraina o che hanno rapporti commerciali con la stessa a compilare urgentemente il format disponibile online al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Confindustria Ucraina"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":true,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Confindustria Ucraina attiva help desk per le imprese italiane in Ucraina"",""url"":""https://www.confindustriaucraina.com/it/eventi/emergency-desk-ukraine""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: true
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Confindustria Ucraina
+title: Confindustria Ucraina attiva help desk per le imprese italiane in Ucraina
+recipients: ''
+description: 'Confindustria Ucraina a Kyev in collaborazione con l’Ambasciata Italiana
+  rimane operativa e segue assiduamente l’evolversi della situazione in Ucraina a
+  tutela dell’incolumità e della sicurezza dei connazionali Italiani e delle loro
+  attività sul territorio.
+
+
+  Per offrire un supporto agli imprenditori Italiani presenti in Ucraina o che hanno
+  relazioni commerciali con la stessa, Confindustria Ucraina apre uno sportello HELP
+  DESK volto a raccogliere informazioni per dare indicazioni.
+
+  Numero di emergenza: +39 3898745065.
+
+  Confindustria Ucraina, inoltre, invita tutte le imprese italiane che sono presenti
+  in Ucraina o che hanno rapporti commerciali con la stessa a compilare urgentemente
+  il format disponibile online al link.'
+url: https://www.confindustriaucraina.com/it/eventi/emergency-desk-ukraine
+address:
+  mode: autocomplete
+  address:
+    place_id: 128478184
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 113480835
+    boundingbox:
+    - '50.4544447'
+    - '50.4550947'
+    - '30.5093447'
+    - '30.5104515'
+    lat: '50.4547399'
+    lon: '30.509806830870446'
+    display_name: Торгово-промислова палата України, 33, Велика Житомирська вулиця,
+      Старий Київ, Шевченківський район, Kyiv, 01601, Ucraina
+    class: building
+    type: commercial
+    importance: 0.22100000000000003
+    address:
+      building: Торгово-промислова палата України
+      house_number: '33'
+      road: Велика Житомирська вулиця
+      quarter: Старий Київ
+      borough: Шевченківський район
+      city: Kyiv
+      postcode: '01601'
+      country: Ucraina
+      country_code: ua
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/382,1183776045,2022-03-28 19:46:52,2022-03-28 17:45:51,A Padova Vides attiva corsi di italiano gratuiti per donne e minori ucraini,,,,,"[""Valid/Accettato"",""Services"",""Children"",""women"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Padova"",""country"":""Italia"",""country_code"":""it"",""county"":""Padova"",""postcode"":""35100"",""state"":""Veneto""},""boundingbox"":[""45.2477172"",""45.5677172"",""11.7134455"",""12.0334455""],""class"":""place"",""display_name"":""Padova, Veneto, 35100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7435563013929846,""lat"":""45.4077172"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.8734455"",""osm_id"":406747508,""osm_type"":""node"",""place_id"":2885944,""type"":""city""},""mode"":""autocomplete""},""description"":""L\u2019associazione Vides Veneto ha avviato a Padova il primo corso di italiano come L2 per donne e ragazzi ucraini.\nIl corso (gratuito) si svolger\u00e0 online, 4 ore alla settimana, fino a giugno. Le persone interessate possono scrivere a videsveneto@gmail.com per ricevere tutte le informazioni utili."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Vides Veneto"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":true},""submit"":true,""title"":""A Padova Vides attiva corsi di italiano gratuiti per donne e minori ucraini"",""url"":""https://t.co/zkRy7JUvJ9""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: true
+  education: true
+offerFromWho: Vides Veneto
+title: A Padova Vides attiva corsi di italiano gratuiti per donne e minori ucraini
+recipients: ''
+description: 'L’associazione Vides Veneto ha avviato a Padova il primo corso di italiano
+  come L2 per donne e ragazzi ucraini.
+
+  Il corso (gratuito) si svolgerà online, 4 ore alla settimana, fino a giugno. Le
+  persone interessate possono scrivere a videsveneto@gmail.com per ricevere tutte
+  le informazioni utili.'
+url: https://t.co/zkRy7JUvJ9
+address:
+  mode: autocomplete
+  address:
+    place_id: 2885944
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 406747508
+    boundingbox:
+    - '45.2477172'
+    - '45.5677172'
+    - '11.7134455'
+    - '12.0334455'
+    lat: '45.4077172'
+    lon: '11.8734455'
+    display_name: Padova, Veneto, 35100, Italia
+    class: place
+    type: city
+    importance: 0.7435563013929846
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Padova
+      county: Padova
+      state: Veneto
+      postcode: '35100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/383,1183809862,2022-03-28 19:44:13,2022-03-28 18:16:03,"Online HopeUkraine.it, sito con info su raccolta beni e accoglienza dei rifugiati ucraini in Veneto ",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Veneto""},""boundingbox"":[""44.7924256"",""46.6806162"",""10.6231032"",""13.1021703""],""class"":""boundary"",""display_name"":""Veneto, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7790742334161929,""lat"":""45.6476663"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.8665254"",""osm_id"":43648,""osm_type"":""relation"",""place_id"":285035361,""type"":""administrative""},""mode"":""autocomplete""},""description"":""E\u2019 online il sito Hope Ukraine, promosso in collaborazione con il Consolato Onorario di Ucraina per Veneto, Friuli-Venezia Giulia, Trentino Alto Adige e Confindustria Ucraina. All\u2019interno delle pagine del sito si possono trovare le informazioni utili per la raccolta di beni di prima necessit\u00e0 in Veneto e Friuli, come richiedere o attivare un alloggio, e tutti i numeri di telefono e indirizzi mail per l\u2019emergenza."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Consolato Onorario di Ucraina per Veneto, Friuli-Venezia Giulia, Trentino Alto Adige e Confindustria Ucraina"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Online HopeUkraine.it, sito con info su raccolta beni e accoglienza dei rifugiati ucraini in Veneto e Friuli"",""url"":""https://hopeukraine.it""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
