@@ -1,5 +1,80 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/377,1182681372,2022-03-27 22:18:23,2022-03-27 22:15:52,Raccolta fondi dell’associazione ucraina Lilea di Firenze per acquisto ambulanza e farmaci,43.7649054,11.2599974,Toscana,Firenze,"[""Valid/Accettato"",""fundraising""]",,,"{""Posizione"":""43.7649054 11.2599974"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""Cari amici!!! GRAZIE A TUTTI PER IL SOSTEGNO E PER L'AIUTO! La nostra associazione insieme con la comunit\u00e0 ucraina a Firenze CONTINUA la raccolta dei fondi per l'emergenza causata dall'invasione dell'Ucraina. Gli aiuti verranno destinati per l'aiuto umanitario per il popolo ucraino. IN QUESTO MOMENTO STIAMO RACCOGLIENDO I FONDI PER UN AUTO AMBULANZA E DEI MEDICINALI DI PRIMO SOCCORSO DA INVIARE URGENTEMENTE IN UCRAINA. Chiediamo il vostro contributo! Ogni contributo \u00e8 un grande aiuto per noi!!! IL TUO AIUTO FA LA DIFFERENZA!\nPer le ricevute inviare la mail con il nome/cognome, residenza, codice fiscale, l'importo e data del bonifico alla mail: associazione.lilea@gmail.com Per info e contatti: cell. 328/\u202a3070803\u202c Yuliya Muts."",""email"":""associazione.lilea@gmail.com"",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IBAN IT 11 X 01030 02818 000000677579"",""label"":""fundraising"",""link"":""https://www.facebook.com/associazionelilea"",""location"":{""address"":{""address"":{""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""house_number"":""11"",""neighbourhood"":""San Niccol\u00f2"",""postcode"":""50122"",""road"":""Via dei Renai"",""state"":""Toscana"",""suburb"":""Quartiere 1""},""boundingbox"":[""43.7648554"",""43.7649554"",""11.2599474"",""11.2600474""],""class"":""place"",""display_name"":""11, Via dei Renai, San Niccol\u00f2, Quartiere 1, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50122, Italia"",""importance"":0.5209999999999999,""lat"":""43.7649054"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2599974"",""osm_id"":2361660158,""osm_type"":""node"",""place_id"":20589344,""type"":""house""},""mode"":""autocomplete""},""submit"":true,""title"":""ASSOCIAZIONE UCRAINA - FIRENZE \""LILEA\"" ONLUS""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/373,1182648399,2022-03-28 08:23:27,2022-03-27 20:11:24,"A Varese associazione Anna-Sofia organizza corsi gratuiti di italiano per rifugiati ucraini, raccolte beni e supporto ai nuovi arrivati",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Varese"",""postcode"":""21025"",""road"":""Via Maspero"",""state"":""Lombardia"",""village"":""Morosolo""},""boundingbox"":[""45.8246617"",""45.8249428"",""8.7635748"",""8.763835""],""class"":""highway"",""display_name"":""Via Maspero, Morosolo, Casciago, Varese, Lombardia, 21025, Italia"",""importance"":0.4,""lat"":""45.8249428"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.763835"",""osm_id"":31894980,""osm_type"":""way"",""place_id"":109212353,""type"":""residential""},""mode"":""autocomplete""},""description"":""L'associazione di ucraini Anna-Sofia organizza corsi gratuiti di italiano ogni gioved\u00ec e sabato dalle ore 14 alle 16.\nRaccoglie inoltre beni di prima necessit\u00e0 da spedire in Ucraina e offre supporto ai rifugiati ucraini che arrivano a Varese."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Anna-Sofia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Varese associazione Anna-Sofia organizza corsi gratuiti di italiano per i rifugiati ucraini, raccoglie beni e offre supporto ai nuovi arrivati"",""url"":""https://www.facebook.com/105701451315204/posts/430134785538534/?sfnsn=scwspmo""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Associazione Anna-Sofia
+title: A Varese associazione Anna-Sofia organizza corsi gratuiti di italiano per i
+  rifugiati ucraini, raccoglie beni e offre supporto ai nuovi arrivati
+recipients: ''
+description: 'L''associazione di ucraini Anna-Sofia organizza corsi gratuiti di italiano
+  ogni giovedì e sabato dalle ore 14 alle 16.
+
+  Raccoglie inoltre beni di prima necessità da spedire in Ucraina e offre supporto
+  ai rifugiati ucraini che arrivano a Varese.'
+url: https://www.facebook.com/105701451315204/posts/430134785538534/?sfnsn=scwspmo
+address:
+  mode: autocomplete
+  address:
+    place_id: 109212353
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 31894980
+    boundingbox:
+    - '45.8246617'
+    - '45.8249428'
+    - '8.7635748'
+    - '8.763835'
+    lat: '45.8249428'
+    lon: '8.763835'
+    display_name: Via Maspero, Morosolo, Casciago, Varese, Lombardia, 21025, Italia
+    class: highway
+    type: residential
+    importance: 0.4
+    address:
+      road: Via Maspero
+      village: Morosolo
+      county: Varese
+      state: Lombardia
+      postcode: '21025'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/374,1182667358,2022-03-28 08:23:07,2022-03-27 21:23:39,Patente ucraina convertibile in Italia senza necessità di sostenere esami,,,,,"[""Valid/Accettato"",""News"",""transport"",""telegram-channel"",""tweet""]",,,"{""description"":""La patente ucraina torna ad essere convertibile in Italia dal 2022. Dopo la scadenza del precedente accordo, avvenuta lo scorso 29 maggio, il governo della RepubblicaItaliana e il gabinetto dei ministri dell\u2019Ucraina hanno raggiunto una nuova intesa sul reciproco riconoscimento in materia di conversione delle patenti di guida. Pertanto gli ucraini residenti in Italia, in possesso dei requisiti richiesti, possono nuovamente convertire la patente conseguita nel Paese d\u2019origine in una patente italiana senza la necessit\u00e0 di rifare gli esami. Lo stesso vale ovviamente per i nostri connazionali che vivono in Ucraina.\nAl link tutte le info sulle procedure da sostenere per la conversione."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.sicurauto.it/guide-utili/patente/patente-ucraina-convertibile-in-italia-dal-2022-come-e-quando/amp/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Fino al 2027 patente ucraina convertibile in Italia senza necessit\u00e0 di sostenere esami""}","<pre><yamldata>
+title: Fino al 2027 patente ucraina convertibile in Italia senza necessità di sostenere
+  esami
+description: 'La patente ucraina torna ad essere convertibile in Italia dal 2022.
+  Dopo la scadenza del precedente accordo, avvenuta lo scorso 29 maggio, il governo
+  della RepubblicaItaliana e il gabinetto dei ministri dell’Ucraina hanno raggiunto
+  una nuova intesa sul reciproco riconoscimento in materia di conversione delle patenti
+  di guida. Pertanto gli ucraini residenti in Italia, in possesso dei requisiti richiesti,
+  possono nuovamente convertire la patente conseguita nel Paese d’origine in una patente
+  italiana senza la necessità di rifare gli esami. Lo stesso vale ovviamente per i
+  nostri connazionali che vivono in Ucraina.
+
+  Al link tutte le info sulle procedure da sostenere per la conversione.'
+link: https://www.sicurauto.it/guide-utili/patente/patente-ucraina-convertibile-in-italia-dal-2022-come-e-quando/amp/
+location:
+  mode: autocomplete
+  address: {}
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/377,1182681372,2022-03-28 08:22:52,2022-03-27 22:15:52,Raccolta fondi dell’associazione ucraina Lilea di Firenze per acquisto ambulanza e farmaci,43.7649054,11.2599974,Toscana,Firenze,"[""Valid/Accettato"",""fundraising"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""43.7649054 11.2599974"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""Cari amici!!! GRAZIE A TUTTI PER IL SOSTEGNO E PER L'AIUTO! La nostra associazione insieme con la comunit\u00e0 ucraina a Firenze CONTINUA la raccolta dei fondi per l'emergenza causata dall'invasione dell'Ucraina. Gli aiuti verranno destinati per l'aiuto umanitario per il popolo ucraino. IN QUESTO MOMENTO STIAMO RACCOGLIENDO I FONDI PER UN AUTO AMBULANZA E DEI MEDICINALI DI PRIMO SOCCORSO DA INVIARE URGENTEMENTE IN UCRAINA. Chiediamo il vostro contributo! Ogni contributo \u00e8 un grande aiuto per noi!!! IL TUO AIUTO FA LA DIFFERENZA!\nPer le ricevute inviare la mail con il nome/cognome, residenza, codice fiscale, l'importo e data del bonifico alla mail: associazione.lilea@gmail.com Per info e contatti: cell. 328/\u202a3070803\u202c Yuliya Muts."",""email"":""associazione.lilea@gmail.com"",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IBAN IT 11 X 01030 02818 000000677579"",""label"":""fundraising"",""link"":""https://www.facebook.com/associazionelilea"",""location"":{""address"":{""address"":{""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""house_number"":""11"",""neighbourhood"":""San Niccol\u00f2"",""postcode"":""50122"",""road"":""Via dei Renai"",""state"":""Toscana"",""suburb"":""Quartiere 1""},""boundingbox"":[""43.7648554"",""43.7649554"",""11.2599474"",""11.2600474""],""class"":""place"",""display_name"":""11, Via dei Renai, San Niccol\u00f2, Quartiere 1, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50122, Italia"",""importance"":0.5209999999999999,""lat"":""43.7649054"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2599974"",""osm_id"":2361660158,""osm_type"":""node"",""place_id"":20589344,""type"":""house""},""mode"":""autocomplete""},""submit"":true,""title"":""ASSOCIAZIONE UCRAINA - FIRENZE \""LILEA\"" ONLUS""}","<pre><yamldata>
 title: ASSOCIAZIONE UCRAINA - FIRENZE ""LILEA"" ONLUS
 description: 'Cari amici!!!
   GRAZIE A TUTTI PER IL SOSTEGNO E PER L''AIUTO!
@@ -55,6 +130,198 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: fundraising
 submit: true
 Posizione: 43.7649054 11.2599974
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/357,1181805259,2022-03-28 08:22:28,2022-03-26 14:30:09,"Agrigento, attivati 4 ambulatori di supporto psicologico e psichiatrici per minori e adulti fuggiti dall’Ucraina",,,,,"[""Valid/Accettato"",""Services"",""psychologicalSupport"",""Children"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Agrigento"",""country"":""Italia"",""country_code"":""it"",""county"":""Agrigento"",""postcode"":""92100"",""state"":""Sicilia""},""boundingbox"":[""37.189677"",""37.4406445"",""13.3966521"",""13.7486235""],""class"":""boundary"",""display_name"":""Agrigento, Sicilia, 92100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.6701119619547669,""lat"":""37.3122991"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.57465"",""osm_id"":39202,""osm_type"":""relation"",""place_id"":284336657,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Quattro gli ambulatori dattivi all\u2019Asp di Agrigento di supporto psicologico e psichiatrici per i profughi ucraini: due dedicati agli adulti e due ai minori. L\u2019equipe psichiatria adulti 1 \u00e8 operativa presso il Servizio psichiatrico diagnosi e cura (Spdc) dell\u2019ospedale di Agrigento il mercoled\u00ec e il venerd\u00ec dalle ore 14,30 alle ore 18,30 (telefoni 0922/442168 o 3270213846), mentre l\u2019equipe psichiatria adulti 2 si trova presso i Centri di Salute mentale di Canicatt\u00ec e Licata l\u2019intera giornata del luned\u00ec e il marted\u00ec dalle 14 alle 19.\nPer i minori i servizi sono disponibili presso la sede della Neuropsichiatria infantile dell\u2019ex ospedale di via Giovanni XXIII ad Agrigento (il mercoled\u00ec dalle 15 alle 20, 0922/407777 o 3343191151) e di Licata e Palma di Montechiaro (rispettivamente il venerd\u00ec e il mercoled\u00ec dalle 15 alle 19 \u2013 0922/869425, 0922/790254 o 3393240461).\n\nNel caso in cui ci siano difficolt\u00e0 a raggiungere le sedi, \u00e8 attiva anche un\u2019unit\u00e0 mobile a supporto degli ambulatori con base operativa presso il Sert della Cittadella sanitaria Agrigento (mercoled\u00ec e venerd\u00ec dalle ore 14,30 alle ore 19,30 \u2013 0922/407600 o 3206273697)."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Azienda Sanitaria Agrigento"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Agrigento, attivati 4 ambulatori di supporto psicologico e psichiatrici per minori e adulti fuggiti dall'Ucraina"",""url"":""https://qds.it/agrigento-servizi-supporto-psicologico-ucraina-profughi/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: true
+  Children: true
+  disability: false
+  women: false
+  education: false
+offerFromWho: Azienda Sanitaria Agrigento
+title: Agrigento, attivati 4 ambulatori di supporto psicologico e psichiatrici per
+  minori e adulti fuggiti dall'Ucraina
+recipients: ''
+description: 'Quattro gli ambulatori dattivi all’Asp di Agrigento di supporto psicologico
+  e psichiatrici per i profughi ucraini: due dedicati agli adulti e due ai minori.
+  L’equipe psichiatria adulti 1 è operativa presso il Servizio psichiatrico diagnosi
+  e cura (Spdc) dell’ospedale di Agrigento il mercoledì e il venerdì dalle ore 14,30
+  alle ore 18,30 (telefoni 0922/442168 o 3270213846), mentre l’equipe psichiatria
+  adulti 2 si trova presso i Centri di Salute mentale di Canicattì e Licata l’intera
+  giornata del lunedì e il martedì dalle 14 alle 19.
+
+  Per i minori i servizi sono disponibili presso la sede della Neuropsichiatria infantile
+  dell’ex ospedale di via Giovanni XXIII ad Agrigento (il mercoledì dalle 15 alle
+  20, 0922/407777 o 3343191151) e di Licata e Palma di Montechiaro (rispettivamente
+  il venerdì e il mercoledì dalle 15 alle 19 – 0922/869425, 0922/790254 o 3393240461).
+
+
+  Nel caso in cui ci siano difficoltà a raggiungere le sedi, è attiva anche un’unità
+  mobile a supporto degli ambulatori con base operativa presso il Sert della Cittadella
+  sanitaria Agrigento (mercoledì e venerdì dalle ore 14,30 alle ore 19,30 – 0922/407600
+  o 3206273697).'
+url: https://qds.it/agrigento-servizi-supporto-psicologico-ucraina-profughi/
+address:
+  mode: autocomplete
+  address:
+    place_id: 284336657
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 39202
+    boundingbox:
+    - '37.189677'
+    - '37.4406445'
+    - '13.3966521'
+    - '13.7486235'
+    lat: '37.3122991'
+    lon: '13.57465'
+    display_name: Agrigento, Sicilia, 92100, Italia
+    class: boundary
+    type: administrative
+    importance: 0.6701119619547669
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Agrigento
+      county: Agrigento
+      state: Sicilia
+      postcode: '92100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/363,1181997964,2022-03-28 08:22:03,2022-03-26 19:14:20,"Emilia Romagna, contributi in denaro e servizi per gli studenti ucraini",,,,,"[""Valid/Accettato"",""Services"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""house_number"":""4"",""postcode"":""40121"",""road"":""Via Santa Maria Maggiore"",""state"":""Emilia-Romagna"",""suburb"":""Marconi""},""boundingbox"":[""44.4983378"",""44.4984378"",""11.3406174"",""11.3407174""],""class"":""place"",""display_name"":""4, Via Santa Maria Maggiore, Marconi, Saragozza-Porto, Bologna, Emilia-Romagna, 40121, Italia"",""importance"":0.731,""lat"":""44.4983878"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.3406674"",""osm_id"":1704726251,""osm_type"":""node"",""place_id"":15620299,""type"":""house""},""mode"":""autocomplete""},""description"":""La Regione Emilia Romagna, ER.GO \u2013 Azienda Regionale per il Diritto agli Studi Superiori dell\u2019Emilia - Romagna e le Universit\u00e0 di Bologna, di Ferrara, di Modena e Reggio Emilia, di Parma, l\u2019Universit\u00e0 Cattolica del Sacro Cuore di Milano sede di Piacenza e il Politecnico di Milano sede di Piacenza mettono a disposizione misure straordinarie in denaro e servizi a favore di studenti ucraini. In particolare: contributo per alloggio, servizi di ristorazione, borse di studio.\nSar\u00e0 possibile presentare domanda dal 23/03/2022. Scadenza 29 aprile.\n \nThe Region Emilia Romagna and ER.GO \u2013 Azienda Regionale per il Diritto agli Studi Superiori dell\u2019Emilia \u2013 Romagna, along with the Universities of Bologna, Ferrara, Modena and Reggio Emilia, Parma, Universit\u00e0 Cattolica del Sacro Cuore of Milan (campus of Piacenza) and Politecnico of Milano (campus of Piacenza) provide special cash and service measures for Ukrainian students \nStudents will be able to apply from 23/03/2022. Deadline 29/04/2022."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Emilia Romagna, ER.GO \u2013 Azienda Regionale per il Diritto agli Studi Superiori dell\u2019Emilia Romagna e altri"",""recipients"":""Studenti ucraini"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Emilia Romagna, contributi in denaro e servizi per gli studenti ucraini"",""url"":""http://www.er-go.it/index.php?id=5866&tx_ttnews%5Btt_news%5D=3006&tx_ttnews%5BbackPid%5D=5886&cHash=6715020f0e7e3dae32de467b77acc1e0""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Regione Emilia Romagna, ER.GO – Azienda Regionale per il Diritto agli
+  Studi Superiori dell’Emilia Romagna e altri
+title: Emilia Romagna, contributi in denaro e servizi per gli studenti ucraini
+recipients: Studenti ucraini
+description: ""La Regione Emilia Romagna, ER.GO – Azienda Regionale per il Diritto\
+  \ agli Studi Superiori dell’Emilia - Romagna e le Università di Bologna, di Ferrara,\
+  \ di Modena e Reggio Emilia, di Parma, l’Università Cattolica del Sacro Cuore di\
+  \ Milano sede di Piacenza e il Politecnico di Milano sede di Piacenza mettono a\
+  \ disposizione misure straordinarie in denaro e servizi a favore di studenti ucraini.\
+  \ In particolare: contributo per alloggio, servizi di ristorazione, borse di studio.\n\
+  Sarà possibile presentare domanda dal 23/03/2022. Scadenza 29 aprile.\n \nThe Region\
+  \ Emilia Romagna and ER.GO – Azienda Regionale per il Diritto agli Studi Superiori\
+  \ dell’Emilia – Romagna, along with the Universities of Bologna, Ferrara, Modena\
+  \ and Reggio Emilia, Parma, Università Cattolica del Sacro Cuore of Milan (campus\
+  \ of Piacenza) and Politecnico of Milano (campus of Piacenza) provide special cash\
+  \ and service measures for Ukrainian students \nStudents will be able to apply from\
+  \ 23/03/2022. Deadline 29/04/2022.""
+url: http://www.er-go.it/index.php?id=5866&tx_ttnews%5Btt_news%5D=3006&tx_ttnews%5BbackPid%5D=5886&cHash=6715020f0e7e3dae32de467b77acc1e0
+address:
+  mode: autocomplete
+  address:
+    place_id: 15620299
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 1704726251
+    boundingbox:
+    - '44.4983378'
+    - '44.4984378'
+    - '11.3406174'
+    - '11.3407174'
+    lat: '44.4983878'
+    lon: '11.3406674'
+    display_name: 4, Via Santa Maria Maggiore, Marconi, Saragozza-Porto, Bologna,
+      Emilia-Romagna, 40121, Italia
+    class: place
+    type: house
+    importance: 0.731
+    address:
+      house_number: '4'
+      road: Via Santa Maria Maggiore
+      suburb: Marconi
+      city: Bologna
+      county: Bologna
+      state: Emilia-Romagna
+      postcode: '40121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/366,1182142266,2022-03-28 08:21:49,2022-03-26 22:42:38,A Pisa cercasi mediatori linguistici ucraini,,,,,"[""Valid/Accettato"",""Help"",""Services"",""translation"",""job"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Pisa"",""country"":""Italia"",""country_code"":""it"",""county"":""Pisa"",""house_number"":""8"",""postcode"":""56125"",""road"":""Via Giovanni Pascoli"",""shop"":""Pam"",""state"":""Toscana"",""suburb"":""San Martino""},""boundingbox"":[""43.7119722"",""43.7120722"",""10.4006478"",""10.4007478""],""class"":""shop"",""display_name"":""Pam, 8, Via Giovanni Pascoli, San Martino, Pisa, Toscana, 56125, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//shopping_supermarket.p.20.png"",""importance"":0.5209999999999999,""lat"":""43.7120222"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.4006978"",""osm_id"":2584396643,""osm_type"":""node"",""place_id"":23269333,""type"":""supermarket""},""mode"":""autocomplete""},""description"":""Il Centro Linguistico Interculturale ALIF di Pisa cerca mediatori linguistici ucraini.\nPer chi fosse interessato pu\u00f2 contattarci via tel allo 050.3191932 o via mail all'indirizzo alifpisa@yahoo.it\nGrazie!"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Centro Linguistico Interculturale ALIF"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":true,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""A Pisa cercasi mediatori linguistici ucraini"",""url"":""https://www.facebook.com/1430400046985430/posts/7853072464718124/?sfnsn=scwspmo""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: true
+  job: true
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Centro Linguistico Interculturale ALIF
+title: A Pisa cercasi mediatori linguistici ucraini
+recipients: ''
+description: 'Il Centro Linguistico Interculturale ALIF di Pisa cerca mediatori linguistici
+  ucraini.
+
+  Per chi fosse interessato può contattarci via tel allo 050.3191932 o via mail all''indirizzo
+  alifpisa@yahoo.it
+
+  Grazie!'
+url: https://www.facebook.com/1430400046985430/posts/7853072464718124/?sfnsn=scwspmo
+address:
+  mode: autocomplete
+  address:
+    place_id: 23269333
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 2584396643
+    boundingbox:
+    - '43.7119722'
+    - '43.7120722'
+    - '10.4006478'
+    - '10.4007478'
+    lat: '43.7120222'
+    lon: '10.4006978'
+    display_name: Pam, 8, Via Giovanni Pascoli, San Martino, Pisa, Toscana, 56125,
+      Italia
+    class: shop
+    type: supermarket
+    importance: 0.5209999999999999
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//shopping_supermarket.p.20.png
+    address:
+      shop: Pam
+      house_number: '8'
+      road: Via Giovanni Pascoli
+      suburb: San Martino
+      city: Pisa
+      county: Pisa
+      state: Toscana
+      postcode: '56125'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/376,1182675301,2022-03-27 21:53:51,2022-03-27 21:53:35,A Prato corsi gratuiti di italiano per profughi ucraini,,,,,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Prato"",""country"":""Italia"",""country_code"":""it"",""county"":""Prato"",""neighbourhood"":""il Cantiere"",""postcode"":""59100"",""road"":""Via del Carmine"",""state"":""Toscana"",""suburb"":""I lecci""},""boundingbox"":[""43.8796714"",""43.8797041"",""11.1017519"",""11.1017938""],""class"":""highway"",""display_name"":""Via del Carmine, il Cantiere, I lecci, Prato, Toscana, 59100, Italia"",""importance"":0.5,""lat"":""43.8797041"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.1017938"",""osm_id"":810705866,""osm_type"":""way"",""place_id"":258121428,""type"":""residential""},""mode"":""autocomplete""},""description"":""Presso la Chiesa di S. Bartolomeo a Prato corsi gratuiti di italiano per profughi ucraini marted\u00ec e gioved\u00ec, ore 9.30-11.30 e 15.00-17.00."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Parrocchia San Bartolomeo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Prato corsi gratuiti di italiano per profughi ucraini"",""url"":""https://t.me/+PvNrxFL5_nU0NzQy""}","<pre><yamldata>
 servicetypes:
@@ -121,141 +388,6 @@ address:
   address: {}
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/374,1182667358,2022-03-27 21:30:28,2022-03-27 21:23:39,Patente ucraina convertibile in Italia senza necessità di sostenere esami,,,,,"[""Valid/Accettato"",""News"",""transport""]",,,"{""description"":""La patente ucraina torna ad essere convertibile in Italia dal 2022. Dopo la scadenza del precedente accordo, avvenuta lo scorso 29 maggio, il governo della RepubblicaItaliana e il gabinetto dei ministri dell\u2019Ucraina hanno raggiunto una nuova intesa sul reciproco riconoscimento in materia di conversione delle patenti di guida. Pertanto gli ucraini residenti in Italia, in possesso dei requisiti richiesti, possono nuovamente convertire la patente conseguita nel Paese d\u2019origine in una patente italiana senza la necessit\u00e0 di rifare gli esami. Lo stesso vale ovviamente per i nostri connazionali che vivono in Ucraina.\nAl link tutte le info sulle procedure da sostenere per la conversione."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.sicurauto.it/guide-utili/patente/patente-ucraina-convertibile-in-italia-dal-2022-come-e-quando/amp/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Fino al 2027 patente ucraina convertibile in Italia senza necessit\u00e0 di sostenere esami""}","<pre><yamldata>
-title: Fino al 2027 patente ucraina convertibile in Italia senza necessità di sostenere
-  esami
-description: 'La patente ucraina torna ad essere convertibile in Italia dal 2022.
-  Dopo la scadenza del precedente accordo, avvenuta lo scorso 29 maggio, il governo
-  della RepubblicaItaliana e il gabinetto dei ministri dell’Ucraina hanno raggiunto
-  una nuova intesa sul reciproco riconoscimento in materia di conversione delle patenti
-  di guida. Pertanto gli ucraini residenti in Italia, in possesso dei requisiti richiesti,
-  possono nuovamente convertire la patente conseguita nel Paese d’origine in una patente
-  italiana senza la necessità di rifare gli esami. Lo stesso vale ovviamente per i
-  nostri connazionali che vivono in Ucraina.
-
-  Al link tutte le info sulle procedure da sostenere per la conversione.'
-link: https://www.sicurauto.it/guide-utili/patente/patente-ucraina-convertibile-in-italia-dal-2022-come-e-quando/amp/
-location:
-  mode: autocomplete
-  address: {}
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/373,1182648399,2022-03-27 21:29:55,2022-03-27 20:11:24,"A Varese associazione Anna-Sofia organizza corsi gratuiti di italiano per rifugiati ucraini, raccolte beni e supporto ai nuovi arrivati",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Varese"",""postcode"":""21025"",""road"":""Via Maspero"",""state"":""Lombardia"",""village"":""Morosolo""},""boundingbox"":[""45.8246617"",""45.8249428"",""8.7635748"",""8.763835""],""class"":""highway"",""display_name"":""Via Maspero, Morosolo, Casciago, Varese, Lombardia, 21025, Italia"",""importance"":0.4,""lat"":""45.8249428"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.763835"",""osm_id"":31894980,""osm_type"":""way"",""place_id"":109212353,""type"":""residential""},""mode"":""autocomplete""},""description"":""L'associazione di ucraini Anna-Sofia organizza corsi gratuiti di italiano ogni gioved\u00ec e sabato dalle ore 14 alle 16.\nRaccoglie inoltre beni di prima necessit\u00e0 da spedire in Ucraina e offre supporto ai rifugiati ucraini che arrivano a Varese."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Anna-Sofia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Varese associazione Anna-Sofia organizza corsi gratuiti di italiano per i rifugiati ucraini, raccoglie beni e offre supporto ai nuovi arrivati"",""url"":""https://www.facebook.com/105701451315204/posts/430134785538534/?sfnsn=scwspmo""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: true
-offerFromWho: Associazione Anna-Sofia
-title: A Varese associazione Anna-Sofia organizza corsi gratuiti di italiano per i
-  rifugiati ucraini, raccoglie beni e offre supporto ai nuovi arrivati
-recipients: ''
-description: 'L''associazione di ucraini Anna-Sofia organizza corsi gratuiti di italiano
-  ogni giovedì e sabato dalle ore 14 alle 16.
-
-  Raccoglie inoltre beni di prima necessità da spedire in Ucraina e offre supporto
-  ai rifugiati ucraini che arrivano a Varese.'
-url: https://www.facebook.com/105701451315204/posts/430134785538534/?sfnsn=scwspmo
-address:
-  mode: autocomplete
-  address:
-    place_id: 109212353
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 31894980
-    boundingbox:
-    - '45.8246617'
-    - '45.8249428'
-    - '8.7635748'
-    - '8.763835'
-    lat: '45.8249428'
-    lon: '8.763835'
-    display_name: Via Maspero, Morosolo, Casciago, Varese, Lombardia, 21025, Italia
-    class: highway
-    type: residential
-    importance: 0.4
-    address:
-      road: Via Maspero
-      village: Morosolo
-      county: Varese
-      state: Lombardia
-      postcode: '21025'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/366,1182142266,2022-03-27 18:55:51,2022-03-26 22:42:38,A Pisa cercasi mediatori linguistici ucraini,,,,,"[""Valid/Accettato"",""Help"",""Services"",""translation"",""job"",""telegram-channel""]",,,"{""address"":{""address"":{""address"":{""city"":""Pisa"",""country"":""Italia"",""country_code"":""it"",""county"":""Pisa"",""house_number"":""8"",""postcode"":""56125"",""road"":""Via Giovanni Pascoli"",""shop"":""Pam"",""state"":""Toscana"",""suburb"":""San Martino""},""boundingbox"":[""43.7119722"",""43.7120722"",""10.4006478"",""10.4007478""],""class"":""shop"",""display_name"":""Pam, 8, Via Giovanni Pascoli, San Martino, Pisa, Toscana, 56125, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//shopping_supermarket.p.20.png"",""importance"":0.5209999999999999,""lat"":""43.7120222"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.4006978"",""osm_id"":2584396643,""osm_type"":""node"",""place_id"":23269333,""type"":""supermarket""},""mode"":""autocomplete""},""description"":""Il Centro Linguistico Interculturale ALIF di Pisa cerca mediatori linguistici ucraini.\nPer chi fosse interessato pu\u00f2 contattarci via tel allo 050.3191932 o via mail all'indirizzo alifpisa@yahoo.it\nGrazie!"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Centro Linguistico Interculturale ALIF"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":true,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""A Pisa cercasi mediatori linguistici ucraini"",""url"":""https://www.facebook.com/1430400046985430/posts/7853072464718124/?sfnsn=scwspmo""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: true
-  job: true
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Centro Linguistico Interculturale ALIF
-title: A Pisa cercasi mediatori linguistici ucraini
-recipients: ''
-description: 'Il Centro Linguistico Interculturale ALIF di Pisa cerca mediatori linguistici
-  ucraini.
-
-  Per chi fosse interessato può contattarci via tel allo 050.3191932 o via mail all''indirizzo
-  alifpisa@yahoo.it
-
-  Grazie!'
-url: https://www.facebook.com/1430400046985430/posts/7853072464718124/?sfnsn=scwspmo
-address:
-  mode: autocomplete
-  address:
-    place_id: 23269333
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 2584396643
-    boundingbox:
-    - '43.7119722'
-    - '43.7120722'
-    - '10.4006478'
-    - '10.4007478'
-    lat: '43.7120222'
-    lon: '10.4006978'
-    display_name: Pam, 8, Via Giovanni Pascoli, San Martino, Pisa, Toscana, 56125,
-      Italia
-    class: shop
-    type: supermarket
-    importance: 0.5209999999999999
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//shopping_supermarket.p.20.png
-    address:
-      shop: Pam
-      house_number: '8'
-      road: Via Giovanni Pascoli
-      suburb: San Martino
-      city: Pisa
-      county: Pisa
-      state: Toscana
-      postcode: '56125'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/222,1173846226,2022-03-27 17:31:36,2022-03-18 17:36:37,"Arci, online Juma Map con info utili per rifugiati e attiva linea telefonica ",,,,,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""useful contact"",""contact"",""Resources""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8996107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Informazioni utili per l'ingresso in Italia. A breve tutte le informazioni saranno disponibili anche in lingua ucraina, russa ed inglese.\n\nAttivo un numero Verde per Richiedenti Asilo e Rifugiati di Arci, 800 90 55 70 (Lycamobile: 351 1 37 63 35) attivo dal luned\u00ec al venerd\u00ec dalle 9:30 alle 17:30, o scrivere alla mail numeroverderifugiati@arci.it"",""email"":""numeroverderifugiati@arci.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":""800 90 55 70"",""submit"":true,""title"":""ARCI - Juma map"",""url"":""www.jumamap.it/it/2022/02/28/emergenza-ucraina/""}","<pre><yamldata>
@@ -740,71 +872,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/363,1181997964,2022-03-26 22:03:19,2022-03-26 19:14:20,"Emilia Romagna, contributi in denaro e servizi per gli studenti ucraini",,,,,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""house_number"":""4"",""postcode"":""40121"",""road"":""Via Santa Maria Maggiore"",""state"":""Emilia-Romagna"",""suburb"":""Marconi""},""boundingbox"":[""44.4983378"",""44.4984378"",""11.3406174"",""11.3407174""],""class"":""place"",""display_name"":""4, Via Santa Maria Maggiore, Marconi, Saragozza-Porto, Bologna, Emilia-Romagna, 40121, Italia"",""importance"":0.731,""lat"":""44.4983878"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.3406674"",""osm_id"":1704726251,""osm_type"":""node"",""place_id"":15620299,""type"":""house""},""mode"":""autocomplete""},""description"":""La Regione Emilia Romagna, ER.GO \u2013 Azienda Regionale per il Diritto agli Studi Superiori dell\u2019Emilia - Romagna e le Universit\u00e0 di Bologna, di Ferrara, di Modena e Reggio Emilia, di Parma, l\u2019Universit\u00e0 Cattolica del Sacro Cuore di Milano sede di Piacenza e il Politecnico di Milano sede di Piacenza mettono a disposizione misure straordinarie in denaro e servizi a favore di studenti ucraini. In particolare: contributo per alloggio, servizi di ristorazione, borse di studio.\nSar\u00e0 possibile presentare domanda dal 23/03/2022. Scadenza 29 aprile.\n \nThe Region Emilia Romagna and ER.GO \u2013 Azienda Regionale per il Diritto agli Studi Superiori dell\u2019Emilia \u2013 Romagna, along with the Universities of Bologna, Ferrara, Modena and Reggio Emilia, Parma, Universit\u00e0 Cattolica del Sacro Cuore of Milan (campus of Piacenza) and Politecnico of Milano (campus of Piacenza) provide special cash and service measures for Ukrainian students \nStudents will be able to apply from 23/03/2022. Deadline 29/04/2022."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Emilia Romagna, ER.GO \u2013 Azienda Regionale per il Diritto agli Studi Superiori dell\u2019Emilia Romagna e altri"",""recipients"":""Studenti ucraini"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Emilia Romagna, contributi in denaro e servizi per gli studenti ucraini"",""url"":""http://www.er-go.it/index.php?id=5866&tx_ttnews%5Btt_news%5D=3006&tx_ttnews%5BbackPid%5D=5886&cHash=6715020f0e7e3dae32de467b77acc1e0""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: true
-offerFromWho: Regione Emilia Romagna, ER.GO – Azienda Regionale per il Diritto agli
-  Studi Superiori dell’Emilia Romagna e altri
-title: Emilia Romagna, contributi in denaro e servizi per gli studenti ucraini
-recipients: Studenti ucraini
-description: ""La Regione Emilia Romagna, ER.GO – Azienda Regionale per il Diritto\
-  \ agli Studi Superiori dell’Emilia - Romagna e le Università di Bologna, di Ferrara,\
-  \ di Modena e Reggio Emilia, di Parma, l’Università Cattolica del Sacro Cuore di\
-  \ Milano sede di Piacenza e il Politecnico di Milano sede di Piacenza mettono a\
-  \ disposizione misure straordinarie in denaro e servizi a favore di studenti ucraini.\
-  \ In particolare: contributo per alloggio, servizi di ristorazione, borse di studio.\n\
-  Sarà possibile presentare domanda dal 23/03/2022. Scadenza 29 aprile.\n \nThe Region\
-  \ Emilia Romagna and ER.GO – Azienda Regionale per il Diritto agli Studi Superiori\
-  \ dell’Emilia – Romagna, along with the Universities of Bologna, Ferrara, Modena\
-  \ and Reggio Emilia, Parma, Università Cattolica del Sacro Cuore of Milan (campus\
-  \ of Piacenza) and Politecnico of Milano (campus of Piacenza) provide special cash\
-  \ and service measures for Ukrainian students \nStudents will be able to apply from\
-  \ 23/03/2022. Deadline 29/04/2022.""
-url: http://www.er-go.it/index.php?id=5866&tx_ttnews%5Btt_news%5D=3006&tx_ttnews%5BbackPid%5D=5886&cHash=6715020f0e7e3dae32de467b77acc1e0
-address:
-  mode: autocomplete
-  address:
-    place_id: 15620299
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 1704726251
-    boundingbox:
-    - '44.4983378'
-    - '44.4984378'
-    - '11.3406174'
-    - '11.3407174'
-    lat: '44.4983878'
-    lon: '11.3406674'
-    display_name: 4, Via Santa Maria Maggiore, Marconi, Saragozza-Porto, Bologna,
-      Emilia-Romagna, 40121, Italia
-    class: place
-    type: house
-    importance: 0.731
-    address:
-      house_number: '4'
-      road: Via Santa Maria Maggiore
-      suburb: Marconi
-      city: Bologna
-      county: Bologna
-      state: Emilia-Romagna
-      postcode: '40121'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/261,1175469638,2022-03-26 18:19:41,2022-03-21 14:27:59,Fondazione Avsi attiva Sportello HelpUkraine per offrire supporto a rifugiati ucraini e a famiglie italiane disponibili all’accoglienza,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""9"",""postcode"":""20161"",""road"":""Via Casarsa"",""state"":""Lombardia"",""suburb"":""Bruzzano""},""boundingbox"":[""45.5244428"",""45.5245428"",""9.1745146"",""9.1746146""],""class"":""place"",""display_name"":""9, Via Casarsa, Bruzzano, Municipio 9, Milano, Lombardia, 20161, Italia"",""importance"":0.5309999999999999,""lat"":""45.5244928"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1745646"",""osm_id"":5157972784,""osm_type"":""node"",""place_id"":56855868,""type"":""house""},""mode"":""autocomplete""},""description"":""\u201cHelpUkraine\u201d, un punto di informazione e coordinamento per aiutare i rifugiati ucraini nel nostro Paese: a lanciarlo \u00e8 l\u2019organizzazione non profit, Avsi, che in tal modo intende rispondere alle numerose richieste dei profughi in arrivo dall\u2019Ucraina e coordinare l\u2019offerta di accoglienza di famiglie italiane. L\u2019iniziativa nasce grazie al supporto, oltre di Avsi, di Associazione Famiglie per l\u2019Accoglienza, Associazione San Martino, Fondazione Franco Verga, Associazione I Bambini dell\u2019Est, la ong ucraina Emmaus, e Medici in Famiglia Impresa Sociale. Il progetto \u00e8 partito il 16 marzo e offre un servizio concreto, uno sportello aperto in modo costante e in grado di rispondere a domande anche specifiche (per esempio come ottenere il titolo di soggiorno o come inserire i bambini a scuola), e per fare gli abbinamenti tra chi cerca ospitalit\u00e0 e chi la offre. Il neonato Info Point nasce con questo duplice obiettivo: favorire l\u2019accoglienza e l\u2019integrazione di cittadini ucraini che arrivano in Italia in fuga dal conflitto e sostenere le famiglie residenti in Italia disponibili a fornire aiuto nel processo di accoglienza e integrazione. \nPer contattare l\u2019Info point Help Ukraine: +39.02.674988368 in ucraino e inglese; +39.02.674988369 in italiano \u2013 HelpUkraine@avsi.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Asvi"",""recipients"":""Rifugiati ucraini e famiglie italiane"",""submit"":true,""title"":""Avsi attiva Sportello HelpUkraine per offrire supporto a rifugiati ucraini e a famiglie italiane disponibili all\u2019accoglienza di adulti e minori"",""type"":""legal"",""url"":""https://www.agensir.it/quotidiano/2022/3/17/ucraina-avsi-helpukraine-un-info-point-per-aiutare-i-rifugiati-ucraini-in-arrivo-in-italia/""}","<pre><yamldata>
 type: legal
 offerFromWho: Asvi
@@ -1240,73 +1307,6 @@ address:
       county: Milano
       state: Lombardia
       postcode: '20016'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/357,1181805259,2022-03-26 17:40:30,2022-03-26 14:30:09,"Agrigento, attivati 4 ambulatori di supporto psicologico e psichiatrici per minori e adulti fuggiti dall’Ucraina",,,,,"[""Valid/Accettato"",""Services"",""psychologicalSupport"",""Children""]",,,"{""address"":{""address"":{""address"":{""city"":""Agrigento"",""country"":""Italia"",""country_code"":""it"",""county"":""Agrigento"",""postcode"":""92100"",""state"":""Sicilia""},""boundingbox"":[""37.189677"",""37.4406445"",""13.3966521"",""13.7486235""],""class"":""boundary"",""display_name"":""Agrigento, Sicilia, 92100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.6701119619547669,""lat"":""37.3122991"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.57465"",""osm_id"":39202,""osm_type"":""relation"",""place_id"":284336657,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Quattro gli ambulatori dattivi all\u2019Asp di Agrigento di supporto psicologico e psichiatrici per i profughi ucraini: due dedicati agli adulti e due ai minori. L\u2019equipe psichiatria adulti 1 \u00e8 operativa presso il Servizio psichiatrico diagnosi e cura (Spdc) dell\u2019ospedale di Agrigento il mercoled\u00ec e il venerd\u00ec dalle ore 14,30 alle ore 18,30 (telefoni 0922/442168 o 3270213846), mentre l\u2019equipe psichiatria adulti 2 si trova presso i Centri di Salute mentale di Canicatt\u00ec e Licata l\u2019intera giornata del luned\u00ec e il marted\u00ec dalle 14 alle 19.\nPer i minori i servizi sono disponibili presso la sede della Neuropsichiatria infantile dell\u2019ex ospedale di via Giovanni XXIII ad Agrigento (il mercoled\u00ec dalle 15 alle 20, 0922/407777 o 3343191151) e di Licata e Palma di Montechiaro (rispettivamente il venerd\u00ec e il mercoled\u00ec dalle 15 alle 19 \u2013 0922/869425, 0922/790254 o 3393240461).\n\nNel caso in cui ci siano difficolt\u00e0 a raggiungere le sedi, \u00e8 attiva anche un\u2019unit\u00e0 mobile a supporto degli ambulatori con base operativa presso il Sert della Cittadella sanitaria Agrigento (mercoled\u00ec e venerd\u00ec dalle ore 14,30 alle ore 19,30 \u2013 0922/407600 o 3206273697)."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Azienda Sanitaria Agrigento"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Agrigento, attivati 4 ambulatori di supporto psicologico e psichiatrici per minori e adulti fuggiti dall'Ucraina"",""url"":""https://qds.it/agrigento-servizi-supporto-psicologico-ucraina-profughi/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: true
-  Children: true
-  disability: false
-  women: false
-  education: false
-offerFromWho: Azienda Sanitaria Agrigento
-title: Agrigento, attivati 4 ambulatori di supporto psicologico e psichiatrici per
-  minori e adulti fuggiti dall'Ucraina
-recipients: ''
-description: 'Quattro gli ambulatori dattivi all’Asp di Agrigento di supporto psicologico
-  e psichiatrici per i profughi ucraini: due dedicati agli adulti e due ai minori.
-  L’equipe psichiatria adulti 1 è operativa presso il Servizio psichiatrico diagnosi
-  e cura (Spdc) dell’ospedale di Agrigento il mercoledì e il venerdì dalle ore 14,30
-  alle ore 18,30 (telefoni 0922/442168 o 3270213846), mentre l’equipe psichiatria
-  adulti 2 si trova presso i Centri di Salute mentale di Canicattì e Licata l’intera
-  giornata del lunedì e il martedì dalle 14 alle 19.
-
-  Per i minori i servizi sono disponibili presso la sede della Neuropsichiatria infantile
-  dell’ex ospedale di via Giovanni XXIII ad Agrigento (il mercoledì dalle 15 alle
-  20, 0922/407777 o 3343191151) e di Licata e Palma di Montechiaro (rispettivamente
-  il venerdì e il mercoledì dalle 15 alle 19 – 0922/869425, 0922/790254 o 3393240461).
-
-
-  Nel caso in cui ci siano difficoltà a raggiungere le sedi, è attiva anche un’unità
-  mobile a supporto degli ambulatori con base operativa presso il Sert della Cittadella
-  sanitaria Agrigento (mercoledì e venerdì dalle ore 14,30 alle ore 19,30 – 0922/407600
-  o 3206273697).'
-url: https://qds.it/agrigento-servizi-supporto-psicologico-ucraina-profughi/
-address:
-  mode: autocomplete
-  address:
-    place_id: 284336657
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 39202
-    boundingbox:
-    - '37.189677'
-    - '37.4406445'
-    - '13.3966521'
-    - '13.7486235'
-    lat: '37.3122991'
-    lon: '13.57465'
-    display_name: Agrigento, Sicilia, 92100, Italia
-    class: boundary
-    type: administrative
-    importance: 0.6701119619547669
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Agrigento
-      county: Agrigento
-      state: Sicilia
-      postcode: '92100'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
