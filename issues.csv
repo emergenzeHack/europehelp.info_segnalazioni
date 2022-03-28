@@ -1,4 +1,548 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/42,1162736087,2022-03-28 13:20:43,2022-03-08 14:39:12,Comune di Venezia attiva sportello Emergenza Ucraina per info e accoglienza profughi ucraini,,,,,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Comune di Venezia"",""city"":""Venezia"",""country"":""Italia"",""country_code"":""it"",""county"":""Venezia"",""road"":""Calle Chiesa Ognissanti"",""state"":""Veneto"",""suburb"":""Lido-Pellestrina"",""village"":""Pellestrina""},""boundingbox"":[""45.2731957"",""45.2732957"",""12.3009922"",""12.3010922""],""class"":""amenity"",""display_name"":""Comune di Venezia, Calle Chiesa Ognissanti, Lido-Pellestrina, Pellestrina, Venezia, Veneto, Italia"",""importance"":0.31100000000000005,""lat"":""45.2732457"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.3010422"",""osm_id"":6958414086,""osm_type"":""node"",""place_id"":74210873,""type"":""townhall""},""mode"":""autocomplete""},""description"":""A Venezia attivo sportello Emergenza Ucraina del Comune che offre info,\\ \\ supporto, assistenza ai rifugiati ucraini e alle famiglie italiane ospitanti.\\n\\ Tel. 041041 (DIME), lun-ven ore 8-20. \\nEmail ucraina@comune.venezia.it \\n(In lingua\\ \\ italiana e ucraina)."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Venezia"",""recipients"":""Rifugiati ucraini, famiglie ospitanti, cittadini"",""submit"":true,""title"":""Comune di #Venezia attiva Sportello Emergenza #Ucraina"",""type"":""legal"",""url"":""https://live.comune.venezia.it/it/2022/03/informazioni-le-persone-provenienti-dallucraina-e-le-famiglie-ospitanti""}","<pre><yamldata>
+type: legal
+offerFromWho: Comune di Venezia
+title: 'Comune di #Venezia attiva Sportello Emergenza #Ucraina'
+recipients: Rifugiati ucraini, famiglie ospitanti, cittadini
+description: A Venezia attivo sportello Emergenza Ucraina del Comune che offre info,\
+  \ supporto, assistenza ai rifugiati ucraini e alle famiglie italiane ospitanti.\n\
+  Tel. 041041 (DIME), lun-ven ore 8-20. \nEmail ucraina@comune.venezia.it \n(In lingua\
+  \ italiana e ucraina).
+url: https://live.comune.venezia.it/it/2022/03/informazioni-le-persone-provenienti-dallucraina-e-le-famiglie-ospitanti
+address:
+  mode: autocomplete
+  address:
+    place_id: 74210873
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 6958414086
+    boundingbox:
+    - '45.2731957'
+    - '45.2732957'
+    - '12.3009922'
+    - '12.3010922'
+    lat: '45.2732457'
+    lon: '12.3010422'
+    display_name: Comune di Venezia, Calle Chiesa Ognissanti, Lido-Pellestrina, Pellestrina,
+      Venezia, Veneto, Italia
+    class: amenity
+    type: townhall
+    importance: 0.31100000000000005
+    address:
+      amenity: Comune di Venezia
+      road: Calle Chiesa Ognissanti
+      suburb: Lido-Pellestrina
+      village: Pellestrina
+      city: Venezia
+      county: Venezia
+      state: Veneto
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/44,1163143188,2022-03-28 13:20:27,2022-03-08 21:22:17,Ospedale Buzzi Milano attiva raccolta beni (vestiti e accessori) per bambini e mamme ucraine,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""Children"",""women"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Ospedale dei Bambini \""Vittore Buzzi\"""",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""28"",""postcode"":""20154"",""quarter"":""Sarpi"",""road"":""Via Lodovico Castelvetro"",""state"":""Lombardia"",""suburb"":""Municipio 8""},""boundingbox"":[""45.4848213"",""45.4865785"",""9.1653918"",""9.1678818""],""class"":""amenity"",""display_name"":""Ospedale dei Bambini \""Vittore Buzzi\"", 28, Via Lodovico Castelvetro, Sarpi, Municipio 8, Milano, Lombardia, 20154, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//health_hospital.p.20.png"",""importance"":0.31100000000000005,""lat"":""45.4858443"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.166968895924526"",""osm_id"":478299137,""osm_type"":""way"",""place_id"":208609040,""type"":""hospital""},""mode"":""autocomplete""},""description"":""All'ospedale Buzzi di Milano si raccolgono vestiti e accessori per bambini  (2 anni in su) e mamme ucraine. \nLa raccolta \u00e8 in via Castelvetro 22, angolo via Fauch\u00e8, ore 9.30-17.30 dal luned\u00ec al venerd\u00ec."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ospedale Buzzi di Milano"",""recipients"":""Cittadini"",""submit"":true,""title"":""Ospedale Buzzi Milano raccoglie vestiti e accessori per bambini e mamme ucraine"",""type"":""materialGoods"",""url"":""https://www.milanotoday.it/attualita/bambini-profughi-buzzi.html""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: Ospedale Buzzi di Milano
+title: Ospedale Buzzi Milano raccoglie vestiti e accessori per bambini e mamme ucraine
+recipients: Cittadini
+description: ""All'ospedale Buzzi di Milano si raccolgono vestiti e accessori per bambini  (2 anni in su) e mamme ucraine. \nLa raccolta è in via Castelvetro 22, angolo\
+  \ via Fauchè, ore 9.30-17.30 dal lunedì al venerdì.""
+url: https://www.milanotoday.it/attualita/bambini-profughi-buzzi.html
+address:
+  mode: autocomplete
+  address:
+    place_id: 208609040
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 478299137
+    boundingbox:
+    - '45.4848213'
+    - '45.4865785'
+    - '9.1653918'
+    - '9.1678818'
+    lat: '45.4858443'
+    lon: '9.166968895924526'
+    display_name: Ospedale dei Bambini ""Vittore Buzzi"", 28, Via Lodovico Castelvetro,
+      Sarpi, Municipio 8, Milano, Lombardia, 20154, Italia
+    class: amenity
+    type: hospital
+    importance: 0.31100000000000005
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//health_hospital.p.20.png
+    address:
+      amenity: Ospedale dei Bambini ""Vittore Buzzi""
+      house_number: '28'
+      road: Via Lodovico Castelvetro
+      quarter: Sarpi
+      suburb: Municipio 8
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20154'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/47,1164049917,2022-03-28 13:20:06,2022-03-09 14:57:42,Regione Lazio: informazioni importanti per accoglienza e assistenza profughi ucraini,,,,,"[""Valid/Accettato"",""News"",""Services"",""hospitality"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""neighbourhood"":""Ostiense"",""office"":""Regione Lazio"",""postcode"":""00100"",""quarter"":""Garbatella"",""road"":""Via Giovanni Genocchi"",""state"":""Lazio"",""suburb"":""Municipio Roma VIII""},""boundingbox"":[""41.858227"",""41.8597856"",""12.4936462"",""12.4959306""],""class"":""office"",""display_name"":""Regione Lazio, Via Giovanni Genocchi, Garbatella, Ostiense, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00100, Italia"",""importance"":0.32100000000000006,""lat"":""41.8589212"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.495005572708482"",""osm_id"":2858119,""osm_type"":""relation"",""place_id"":327241895,""type"":""government""},""mode"":""autocomplete""},""description"":""Info utili in italiano e ucraino per i cittadini ucraini che arrivano nel Lazio."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Lazio"",""recipients"":"""",""submit"":true,""title"":""Regione Lazio: informazioni per profughi ucraini"",""type"":""legal"",""url"":""https://facebook.com/100069073545055/posts/265699519075831/""}","<pre><yamldata>
+type: legal
+offerFromWho: Regione Lazio
+title: 'Regione Lazio: informazioni per profughi ucraini'
+recipients: ''
+description: Info utili in italiano e ucraino per i cittadini ucraini che arrivano
+  nel Lazio.
+url: https://facebook.com/100069073545055/posts/265699519075831/
+address:
+  mode: autocomplete
+  address:
+    place_id: 327241895
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 2858119
+    boundingbox:
+    - '41.858227'
+    - '41.8597856'
+    - '12.4936462'
+    - '12.4959306'
+    lat: '41.8589212'
+    lon: '12.495005572708482'
+    display_name: Regione Lazio, Via Giovanni Genocchi, Garbatella, Ostiense, Municipio
+      Roma VIII, Roma, Roma Capitale, Lazio, 00100, Italia
+    class: office
+    type: government
+    importance: 0.32100000000000006
+    address:
+      office: Regione Lazio
+      road: Via Giovanni Genocchi
+      quarter: Garbatella
+      neighbourhood: Ostiense
+      suburb: Municipio Roma VIII
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: '00100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/49,1164060552,2022-03-28 13:19:50,2022-03-09 15:04:32,A Lodi azienda sanitaria attiva hotspot territoriale di accoglienza per i cittadini ucraini,,,,,"[""Valid/Accettato"",""Services"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Lodi"",""neighbourhood"":""Guatra"",""postcode"":""26866"",""road"":""Via Umberto I"",""state"":""Lombardia"",""town"":""Sant'Angelo Lodigiano"",""village"":""Galeotta""},""boundingbox"":[""45.2372892"",""45.2383773"",""9.4090166"",""9.4096631""],""class"":""highway"",""display_name"":""Via Umberto I, Guatra, Galeotta, Sant'Angelo Lodigiano, Lodi, Lombardia, 26866, Italia"",""importance"":0.91,""lat"":""45.2380483"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.4092224"",""osm_id"":240658221,""osm_type"":""way"",""place_id"":161215418,""type"":""tertiary""},""mode"":""autocomplete""},""description"":""Attivato a Lodi un hotspot territoriale di accoglienza per i cittadini ucraini in arrivo in Italia presso il Punto Unico di Accesso della Casa di Comunit\u00e0 di Sant\u2019Angelo Lodigiano."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Azienda Sanitaria di Lodi"",""recipients"":"""",""submit"":true,""title"":""Attivato a Lodi un hotspot territoriale di accoglienza per i cittadini ucraini"",""type"":""healthcare"",""url"":""https://twitter.com/asstlodi/status/1501548401443356673?s=21""}","<pre><yamldata>
+type: healthcare
+offerFromWho: Azienda Sanitaria di Lodi
+title: Attivato a Lodi un hotspot territoriale di accoglienza per i cittadini ucraini
+recipients: ''
+description: Attivato a Lodi un hotspot territoriale di accoglienza per i cittadini
+  ucraini in arrivo in Italia presso il Punto Unico di Accesso della Casa di Comunità
+  di Sant’Angelo Lodigiano.
+url: https://twitter.com/asstlodi/status/1501548401443356673?s=21
+address:
+  mode: autocomplete
+  address:
+    place_id: 161215418
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 240658221
+    boundingbox:
+    - '45.2372892'
+    - '45.2383773'
+    - '9.4090166'
+    - '9.4096631'
+    lat: '45.2380483'
+    lon: '9.4092224'
+    display_name: Via Umberto I, Guatra, Galeotta, Sant'Angelo Lodigiano, Lodi, Lombardia,
+      26866, Italia
+    class: highway
+    type: tertiary
+    importance: 0.91
+    address:
+      road: Via Umberto I
+      neighbourhood: Guatra
+      village: Galeotta
+      town: Sant'Angelo Lodigiano
+      county: Lodi
+      state: Lombardia
+      postcode: '26866'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/53,1164074825,2022-03-28 13:19:29,2022-03-09 15:15:17,"Save the children Italia attiva Help Line per minori ucraini, famiglie e enti impegnati nell’accoglienza",,,,,"[""Valid/Accettato"",""Services"",""hospitality"",""Children"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""9"",""office"":""Save the Children Italia"",""postcode"":""00184"",""quarter"":""Monti"",""road"":""Piazza di San Francesco di Paola"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.8939153"",""41.8940153"",""12.4916895"",""12.4917895""],""class"":""office"",""display_name"":""Save the Children Italia, 9, Piazza di San Francesco di Paola, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia"",""importance"":0.9309999999999999,""lat"":""41.8939653"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4917395"",""osm_id"":9094641317,""osm_type"":""node"",""place_id"":95476703,""type"":""ngo""},""mode"":""autocomplete""},""description"":""Helpine di SaveChildren a sostegno di bambini ucraini soli o con le loro famiglie, associazioni, Asl ed enti locali impegnati nell'accoglienza.\n Tel. 351 2202016. Ulteriori le info al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Save The children Italia"",""recipients"":""Minori e famiglie ucraine"",""submit"":true,""title"":""Save The children attiva help Line per minori ucraini, famiglie e enti impegnati nell\u2019accoglienza"",""type"":""children"",""url"":""https://www.facebook.com/46590675335/posts/10159891711955336/""}","<pre><yamldata>
+type: children
+offerFromWho: Save The children Italia
+title: Save The children attiva help Line per minori ucraini, famiglie e enti impegnati
+  nell’accoglienza
+recipients: Minori e famiglie ucraine
+description: ""Helpine di SaveChildren a sostegno di bambini ucraini soli o con le\
+  \ loro famiglie, associazioni, Asl ed enti locali impegnati nell'accoglienza.\n\
+  \ Tel. 351 2202016. Ulteriori le info al link.""
+url: https://www.facebook.com/46590675335/posts/10159891711955336/
+address:
+  mode: autocomplete
+  address:
+    place_id: 95476703
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 9094641317
+    boundingbox:
+    - '41.8939153'
+    - '41.8940153'
+    - '12.4916895'
+    - '12.4917895'
+    lat: '41.8939653'
+    lon: '12.4917395'
+    display_name: Save the Children Italia, 9, Piazza di San Francesco di Paola, Monti,
+      Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia
+    class: office
+    type: ngo
+    importance: 0.9309999999999999
+    address:
+      office: Save the Children Italia
+      house_number: '9'
+      road: Piazza di San Francesco di Paola
+      quarter: Monti
+      suburb: Municipio Roma I
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: 00184
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/89,1167365024,2022-03-28 13:17:59,2022-03-12 18:36:53,Online pagina web del Comune di Bovezzo dedicata all'emergenza Ucraina,,,,,"[""Valid/Accettato"",""News"",""Services"",""fundraising"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Municipio di Bovezzo"",""country"":""Italia"",""country_code"":""it"",""county"":""Brescia"",""hamlet"":""Terzago"",""house_number"":""28"",""municipality"":""Comunit\u00e0 montana della valle Trompia"",""neighbourhood"":""Villaggio del Sole"",""postcode"":""25073"",""road"":""Via Vittorio Veneto"",""state"":""Lombardia"",""village"":""Bovezzo""},""boundingbox"":[""45.5911637"",""45.5915655"",""10.2429166"",""10.2431527""],""class"":""amenity"",""display_name"":""Municipio di Bovezzo, 28, Via Vittorio Veneto, Villaggio del Sole, Terzago, Bovezzo, Comunit\u00e0 montana della valle Trompia, Brescia, Lombardia, 25073, Italia"",""importance"":1.1536899109801708,""lat"":""45.591349550000004"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.243048460056496"",""osm_id"":164173124,""osm_type"":""way"",""place_id"":141637877,""type"":""townhall""},""mode"":""autocomplete""},""aim"":""Online pagina web del Comune di Bovezzo dedicata all'emergenza Ucraina con info per offrire case vuote o ospitalit\u00e0 in famiglia, effettuare donazioni, partecipare ad altre iniziative."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":"""",""submit"":true,""title"":""Comune di Bovezzo (Bs)"",""url"":""https://www.comune.bovezzo.bs.it/Novita/Avvisi/Emergenza-Ucraina""}","<pre><yamldata>
+title: Comune di Bovezzo (Bs)
+phoneNumber: ''
+email: ''
+aim: Online pagina web del Comune di Bovezzo dedicata all'emergenza Ucraina con info
+  per offrire case vuote o ospitalità in famiglia, effettuare donazioni, partecipare
+  ad altre iniziative.
+url: https://www.comune.bovezzo.bs.it/Novita/Avvisi/Emergenza-Ucraina
+address:
+  mode: autocomplete
+  address:
+    place_id: 141637877
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 164173124
+    boundingbox:
+    - '45.5911637'
+    - '45.5915655'
+    - '10.2429166'
+    - '10.2431527'
+    lat: '45.591349550000004'
+    lon: '10.243048460056496'
+    display_name: Municipio di Bovezzo, 28, Via Vittorio Veneto, Villaggio del Sole,
+      Terzago, Bovezzo, Comunità montana della valle Trompia, Brescia, Lombardia,
+      25073, Italia
+    class: amenity
+    type: townhall
+    importance: 1.1536899109801708
+    address:
+      amenity: Municipio di Bovezzo
+      house_number: '28'
+      road: Via Vittorio Veneto
+      neighbourhood: Villaggio del Sole
+      hamlet: Terzago
+      village: Bovezzo
+      municipality: Comunità montana della valle Trompia
+      county: Brescia
+      state: Lombardia
+      postcode: '25073'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/87,1167362795,2022-03-28 13:17:59,2022-03-12 18:27:43,"Help Ukraine, attivo sito web della Regione Lazio dedicato ai rifugiati ucraini con info utili",,,,,"[""Valid/Accettato"",""News"",""Services"",""useful contact"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""neighbourhood"":""Ostiense"",""office"":""Regione Lazio"",""postcode"":""00100"",""quarter"":""Garbatella"",""road"":""Via Giovanni Genocchi"",""state"":""Lazio"",""suburb"":""Municipio Roma VIII""},""boundingbox"":[""41.858227"",""41.8597856"",""12.4936462"",""12.4959306""],""class"":""office"",""display_name"":""Regione Lazio, Via Giovanni Genocchi, Garbatella, Ostiense, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00100, Italia"",""importance"":0.21100000000000002,""lat"":""41.8589212"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.495005572708482"",""osm_id"":2858119,""osm_type"":""relation"",""place_id"":327241895,""type"":""government""},""mode"":""autocomplete""},""aim"":""Al link sito web della Regione Lazio dedicato ai rifugiati ucraini con info utili anche in ucraino su procedure legali per permesso di soggiorno, assistenza sanitaria, tamponi Covid, alloggi, trasporti, ecc."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":"""",""submit"":true,""title"":""Help Ukraine, sito web della Regione Lazio dedicato ai rifugiati ucraini con info utili"",""url"":""https://www.regione.lazio.it/helpukraine""}","<pre><yamldata>
+title: Help Ukraine, sito web della Regione Lazio dedicato ai rifugiati ucraini con
+  info utili
+phoneNumber: ''
+email: ''
+aim: Al link sito web della Regione Lazio dedicato ai rifugiati ucraini con info utili
+  anche in ucraino su procedure legali per permesso di soggiorno, assistenza sanitaria,
+  tamponi Covid, alloggi, trasporti, ecc.
+url: https://www.regione.lazio.it/helpukraine
+address:
+  mode: autocomplete
+  address:
+    place_id: 327241895
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 2858119
+    boundingbox:
+    - '41.858227'
+    - '41.8597856'
+    - '12.4936462'
+    - '12.4959306'
+    lat: '41.8589212'
+    lon: '12.495005572708482'
+    display_name: Regione Lazio, Via Giovanni Genocchi, Garbatella, Ostiense, Municipio
+      Roma VIII, Roma, Roma Capitale, Lazio, 00100, Italia
+    class: office
+    type: government
+    importance: 0.21100000000000002
+    address:
+      office: Regione Lazio
+      road: Via Giovanni Genocchi
+      quarter: Garbatella
+      neighbourhood: Ostiense
+      suburb: Municipio Roma VIII
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: '00100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/77,1166646079,2022-03-28 13:17:59,2022-03-11 16:55:19,"Attivo Gruppo Facebook ""Aiuta Profughi Ucraini Italia"" per offrire accoglienza e aiuti",,,,,"[""Valid/Accettato"",""News"",""Services"",""useful contact"",""materialGoods"",""hospitality"",""Resources""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20122"",""state"":""Lombardia""},""boundingbox"":[""45.3041943"",""45.6241943"",""9.0296346"",""9.3496346""],""class"":""place"",""display_name"":""Milano, Lombardia, 20122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.8390652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":62505581,""osm_type"":""node"",""place_id"":286263950,""type"":""city""},""mode"":""autocomplete""},""aim"":""Gruppo Facebook, aperto da un gruppo di cittadini ucraini a Milano, che offre info utili e aiuta i profughi ucraini a trovare supporto e accoglienza in Italia, in particolare nord Italia."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":"""",""submit"":true,""title"":""Gruppo Facebook \""Aiuta Profughi Ucraini Italia\"""",""url"":""https://www.facebook.com/groups/1373754006378987/?ref=share""}","<pre><yamldata>
+title: Gruppo Facebook ""Aiuta Profughi Ucraini Italia""
+phoneNumber: ''
+email: ''
+aim: Gruppo Facebook, aperto da un gruppo di cittadini ucraini a Milano, che offre
+  info utili e aiuta i profughi ucraini a trovare supporto e accoglienza in Italia,
+  in particolare nord Italia.
+url: https://www.facebook.com/groups/1373754006378987/?ref=share
+address:
+  mode: autocomplete
+  address:
+    place_id: 286263950
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 62505581
+    boundingbox:
+    - '45.3041943'
+    - '45.6241943'
+    - '9.0296346'
+    - '9.3496346'
+    lat: '45.4641943'
+    lon: '9.1896346'
+    display_name: Milano, Lombardia, 20122, Italia
+    class: place
+    type: city
+    importance: 0.8390652078701348
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/166,1171190535,2022-03-28 13:17:58,2022-03-16 15:32:41,Taxi Service For Peace gruppo che aiuta i profughi ucraini a raggiungere gratuitamente paesi europei,,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""transport"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Germania"",""country_code"":""de""},""boundingbox"":[""47.2701114"",""55.099161"",""5.8663153"",""15.0419309""],""class"":""boundary"",""display_name"":""Germania"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9996814891722549,""lat"":""51.0834196"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.4234469"",""osm_id"":51477,""osm_type"":""relation"",""place_id"":283355336,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Gruppo di volontari con base in Germania che offre trasporto gratuito a rifugiati, profughi e persone in stato di necessit\u00e0. Offre anche aiuto nella ricerca di alloggio. Con la guerra in Ucraina si \u00e8 attivato per aiutare le persone che dai confini ucraini intendono arrivare in altri paesi europei."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":"""",""submit"":true,""title"":""Taxi Service For Peace"",""url"":""https://www.facebook.com/groups/1646669812353707/?ref=share""}","<pre><yamldata>
+title: Taxi Service For Peace
+phoneNumber: ''
+email: ''
+aim: Gruppo di volontari con base in Germania che offre trasporto gratuito a rifugiati,
+  profughi e persone in stato di necessità. Offre anche aiuto nella ricerca di alloggio.
+  Con la guerra in Ucraina si è attivato per aiutare le persone che dai confini ucraini
+  intendono arrivare in altri paesi europei.
+url: https://www.facebook.com/groups/1646669812353707/?ref=share
+address:
+  mode: autocomplete
+  address:
+    place_id: 283355336
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 51477
+    boundingbox:
+    - '47.2701114'
+    - '55.099161'
+    - '5.8663153'
+    - '15.0419309'
+    lat: '51.0834196'
+    lon: '10.4234469'
+    display_name: Germania
+    class: boundary
+    type: administrative
+    importance: 0.9996814891722549
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      country: Germania
+      country_code: de
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/163,1171148725,2022-03-28 13:17:58,2022-03-16 15:04:11,La Chiesa Santi Giacomo e Giovanni a Milano organizza raccolta beni e offre supporto ai rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""materialGoods"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""50"",""postcode"":""20136"",""quarter"":""Tibaldi"",""road"":""Via Giuseppe Meda"",""state"":""Lombardia"",""suburb"":""Municipio 5""},""boundingbox"":[""45.4388542"",""45.4389542"",""9.1782737"",""9.1783737""],""class"":""place"",""display_name"":""50, Via Giuseppe Meda, Tibaldi, Municipio 5, Milano, Lombardia, 20136, Italia"",""importance"":0.5209999999999999,""lat"":""45.4389042"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1783237"",""osm_id"":8279923214,""osm_type"":""node"",""place_id"":82572869,""type"":""house""},""mode"":""autocomplete""},""aim"":""La Chiesa Santi Giacomo e Giovanni, in via Meda 50, \u00e8 un importante punto di riferimento della comunit\u00e0 ucraina a Milano. Qui vengono raccolti beni di prima necessit\u00e0 (in particolare farmaci) per la popolazione ucraina e periodicamente vengono organizzati spedizioni umanitarie. Offre anche aiuto e assistenza ai rifugiati ucraini che arrivano a Milano."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":"""",""submit"":true,""title"":""Chiesa Santi Giacomo e Giovanni a Milano"",""url"":""http://www.ssgiacomoegiovanni.it/index.php/it/""}","<pre><yamldata>
+title: Chiesa Santi Giacomo e Giovanni a Milano
+phoneNumber: ''
+email: ''
+aim: La Chiesa Santi Giacomo e Giovanni, in via Meda 50, è un importante punto di
+  riferimento della comunità ucraina a Milano. Qui vengono raccolti beni di prima
+  necessità (in particolare farmaci) per la popolazione ucraina e periodicamente vengono
+  organizzati spedizioni umanitarie. Offre anche aiuto e assistenza ai rifugiati ucraini
+  che arrivano a Milano.
+url: http://www.ssgiacomoegiovanni.it/index.php/it/
+address:
+  mode: autocomplete
+  address:
+    place_id: 82572869
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 8279923214
+    boundingbox:
+    - '45.4388542'
+    - '45.4389542'
+    - '9.1782737'
+    - '9.1783737'
+    lat: '45.4389042'
+    lon: '9.1783237'
+    display_name: 50, Via Giuseppe Meda, Tibaldi, Municipio 5, Milano, Lombardia,
+      20136, Italia
+    class: place
+    type: house
+    importance: 0.5209999999999999
+    address:
+      house_number: '50'
+      road: Via Giuseppe Meda
+      quarter: Tibaldi
+      suburb: Municipio 5
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20136'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/322,1179641625,2022-03-28 13:17:57,2022-03-24 15:01:05,Comune di Pesaro attiva linea telefonica e email SOS Ucraina,,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""materialGoods"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Municipio di Pesaro"",""city"":""Pesaro"",""country"":""Italia"",""country_code"":""it"",""county"":""Pesaro e Urbino"",""house_number"":""1"",""postcode"":""61121"",""quarter"":""Centro Storico"",""road"":""Piazza del Popolo"",""state"":""Marche"",""suburb"":""Pantano""},""boundingbox"":[""43.9099326"",""43.9100326"",""12.9132202"",""12.9133202""],""class"":""amenity"",""display_name"":""Municipio di Pesaro, 1, Piazza del Popolo, Centro Storico, Pantano, Pesaro, Pesaro e Urbino, Marche, 61121, Italia"",""importance"":1.7810000000000001,""lat"":""43.9099826"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.9132702"",""osm_id"":5665557322,""osm_type"":""node"",""place_id"":63279142,""type"":""townhall""},""mode"":""autocomplete""},""aim"":""L\u2019obiettivo \u00e8 coordinare gli aiuti, le donazioni e le offerte di alloggio che stanno giungendo da tutta la citt\u00e0 di Pesaro. Il Comune ha quindi attivato un numero di telefono, lo 0721.387616, che risponder\u00e0 dalle 9 alle 11 e dalle 17 alle 19, e una mail protezione.2@comune.pesaro.pu.it"",""email"":""protezione.2@comune.pesaro.pu.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":""+390721387616"",""submit"":true,""title"":""Linea diretta Comune di Pesaro SOS Ucraina"",""url"":""http://www.comune.pesaro.pu.it/novita-in-comune/dettaglio/news/sos-ucraina-la-linea-diretta-del-comune-per-coordinare-gli-aiuti/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=7299a4f17cca58e7ebd2de8aa9741b23""}","<pre><yamldata>
+title: Linea diretta Comune di Pesaro SOS Ucraina
+phoneNumber: '+390721387616'
+email: protezione.2@comune.pesaro.pu.it
+aim: L’obiettivo è coordinare gli aiuti, le donazioni e le offerte di alloggio che
+  stanno giungendo da tutta la città di Pesaro. Il Comune ha quindi attivato un numero di telefono, lo 0721.387616, che risponderà dalle 9 alle 11 e dalle 17 alle 19, e una mail protezione.2@comune.pesaro.pu.it
+url: http://www.comune.pesaro.pu.it/novita-in-comune/dettaglio/news/sos-ucraina-la-linea-diretta-del-comune-per-coordinare-gli-aiuti/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=7299a4f17cca58e7ebd2de8aa9741b23
+address:
+  mode: autocomplete
+  address:
+    place_id: 63279142
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 5665557322
+    boundingbox:
+    - '43.9099326'
+    - '43.9100326'
+    - '12.9132202'
+    - '12.9133202'
+    lat: '43.9099826'
+    lon: '12.9132702'
+    display_name: Municipio di Pesaro, 1, Piazza del Popolo, Centro Storico, Pantano,
+      Pesaro, Pesaro e Urbino, Marche, 61121, Italia
+    class: amenity
+    type: townhall
+    importance: 1.7810000000000001
+    address:
+      amenity: Municipio di Pesaro
+      house_number: '1'
+      road: Piazza del Popolo
+      quarter: Centro Storico
+      suburb: Pantano
+      city: Pesaro
+      county: Pesaro e Urbino
+      state: Marche
+      postcode: '61121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/222,1173846226,2022-03-28 13:17:57,2022-03-18 17:36:37,"Arci, online Juma Map con info utili per rifugiati e attiva linea telefonica ",,,,,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""useful contact"",""Resources""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8996107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Informazioni utili per l'ingresso in Italia. A breve tutte le informazioni saranno disponibili anche in lingua ucraina, russa ed inglese.\n\nAttivo un numero Verde per Richiedenti Asilo e Rifugiati di Arci, 800 90 55 70 (Lycamobile: 351 1 37 63 35) attivo dal luned\u00ec al venerd\u00ec dalle 9:30 alle 17:30, o scrivere alla mail numeroverderifugiati@arci.it"",""email"":""numeroverderifugiati@arci.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":""800 90 55 70"",""submit"":true,""title"":""ARCI - Juma map"",""url"":""www.jumamap.it/it/2022/02/28/emergenza-ucraina/""}","<pre><yamldata>
+title: ARCI - Juma map
+phoneNumber: 800 90 55 70
+email: numeroverderifugiati@arci.it
+aim: 'Informazioni utili per l''ingresso in Italia. A breve tutte le informazioni
+  saranno disponibili anche in lingua ucraina, russa ed inglese.
+
+
+  Attivo un numero Verde per Richiedenti Asilo e Rifugiati di Arci, 800 90 55 70 (Lycamobile:
+  351 1 37 63 35) attivo dal lunedì al venerdì dalle 9:30 alle 17:30, o scrivere alla
+  mail numeroverderifugiati@arci.it'
+url: www.jumamap.it/it/2022/02/28/emergenza-ucraina/
+address:
+  mode: autocomplete
+  address:
+    place_id: 283767136
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 41485
+    boundingbox:
+    - '41.6556417'
+    - '42.1410285'
+    - '12.2344669'
+    - '12.8557603'
+    lat: '41.8933203'
+    lon: '12.4829321'
+    display_name: Roma, Roma Capitale, Lazio, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8996107180689524
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/181,1172358929,2022-03-28 13:17:57,2022-03-17 13:03:37,Informazioni della Provincia autonoma di Bolzano su aiuti per l'Ucraina e accoglienza profughi,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""fundraising"",""useful contact"",""hospitality"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bolzano"",""state"":""Trentino-Alto Adige""},""boundingbox"":[""46.2197712"",""47.0921462"",""10.3817965"",""12.4779676""],""class"":""boundary"",""display_name"":""Bolzano, Trentino-Alto Adige, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7589076281878143,""lat"":""46.65594215"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.229637264169462"",""osm_id"":47046,""osm_type"":""relation"",""place_id"":284985164,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Al link informazioni utili per le persone provenienti dall'Ucraina (assistenza medica, alloggi, info legali, ecc) e informazioni per tutti coloro che desiderano sostenere e accogliere i rifugiati dall'Ucraina. Le informazioni sono fornite da Ripartizione politiche sociali e la Protezione civile della Provincia Autonoma di Bolzano."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":""800751751"",""submit"":true,""title"":""Informazioni della Provincia autonoma di Bolzano su aiuti per l'Ucraina e accoglienza profughi"",""url"":""https://www.provincia.bz.it/famiglia-sociale-comunita/persone-in-difficolta/richiedenti-asilo-profughi/aiuti-ucraina.asp""}","<pre><yamldata>
+title: Informazioni della Provincia autonoma di Bolzano su aiuti per l'Ucraina e accoglienza
+  profughi
+phoneNumber: '800751751'
+email: ''
+aim: Al link informazioni utili per le persone provenienti dall'Ucraina (assistenza medica, alloggi, info legali, ecc) e informazioni per tutti
+  coloro che desiderano sostenere e accogliere i rifugiati dall'Ucraina. Le informazioni sono fornite
+  da Ripartizione politiche sociali e la Protezione civile della Provincia Autonoma
+  di Bolzano.
+url: https://www.provincia.bz.it/famiglia-sociale-comunita/persone-in-difficolta/richiedenti-asilo-profughi/aiuti-ucraina.asp
+address:
+  mode: autocomplete
+  address:
+    place_id: 284985164
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 47046
+    boundingbox:
+    - '46.2197712'
+    - '47.0921462'
+    - '10.3817965'
+    - '12.4779676'
+    lat: '46.65594215'
+    lon: '11.229637264169462'
+    display_name: Bolzano, Trentino-Alto Adige, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7589076281878143
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Bolzano
+      state: Trentino-Alto Adige
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: contact
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/373,1182648399,2022-03-28 08:23:27,2022-03-27 20:11:24,"A Varese associazione Anna-Sofia organizza corsi gratuiti di italiano per rifugiati ucraini, raccolte beni e supporto ai nuovi arrivati",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Varese"",""postcode"":""21025"",""road"":""Via Maspero"",""state"":""Lombardia"",""village"":""Morosolo""},""boundingbox"":[""45.8246617"",""45.8249428"",""8.7635748"",""8.763835""],""class"":""highway"",""display_name"":""Via Maspero, Morosolo, Casciago, Varese, Lombardia, 21025, Italia"",""importance"":0.4,""lat"":""45.8249428"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.763835"",""osm_id"":31894980,""osm_type"":""way"",""place_id"":109212353,""type"":""residential""},""mode"":""autocomplete""},""description"":""L'associazione di ucraini Anna-Sofia organizza corsi gratuiti di italiano ogni gioved\u00ec e sabato dalle ore 14 alle 16.\nRaccoglie inoltre beni di prima necessit\u00e0 da spedire in Ucraina e offre supporto ai rifugiati ucraini che arrivano a Varese."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Anna-Sofia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Varese associazione Anna-Sofia organizza corsi gratuiti di italiano per i rifugiati ucraini, raccoglie beni e offre supporto ai nuovi arrivati"",""url"":""https://www.facebook.com/105701451315204/posts/430134785538534/?sfnsn=scwspmo""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
@@ -386,47 +930,6 @@ url: https://t.me/jobforukrainians
 address:
   mode: autocomplete
   address: {}
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/222,1173846226,2022-03-27 17:31:36,2022-03-18 17:36:37,"Arci, online Juma Map con info utili per rifugiati e attiva linea telefonica ",,,,,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""useful contact"",""contact"",""Resources""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8996107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Informazioni utili per l'ingresso in Italia. A breve tutte le informazioni saranno disponibili anche in lingua ucraina, russa ed inglese.\n\nAttivo un numero Verde per Richiedenti Asilo e Rifugiati di Arci, 800 90 55 70 (Lycamobile: 351 1 37 63 35) attivo dal luned\u00ec al venerd\u00ec dalle 9:30 alle 17:30, o scrivere alla mail numeroverderifugiati@arci.it"",""email"":""numeroverderifugiati@arci.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":""800 90 55 70"",""submit"":true,""title"":""ARCI - Juma map"",""url"":""www.jumamap.it/it/2022/02/28/emergenza-ucraina/""}","<pre><yamldata>
-title: ARCI - Juma map
-phoneNumber: 800 90 55 70
-email: numeroverderifugiati@arci.it
-aim: 'Informazioni utili per l''ingresso in Italia. A breve tutte le informazioni
-  saranno disponibili anche in lingua ucraina, russa ed inglese.
-
-
-  Attivo un numero Verde per Richiedenti Asilo e Rifugiati di Arci, 800 90 55 70 (Lycamobile:
-  351 1 37 63 35) attivo dal lunedì al venerdì dalle 9:30 alle 17:30, o scrivere alla
-  mail numeroverderifugiati@arci.it'
-url: www.jumamap.it/it/2022/02/28/emergenza-ucraina/
-address:
-  mode: autocomplete
-  address:
-    place_id: 283767136
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 41485
-    boundingbox:
-    - '41.6556417'
-    - '42.1410285'
-    - '12.2344669'
-    - '12.8557603'
-    lat: '41.8933203'
-    lon: '12.4829321'
-    display_name: Roma, Roma Capitale, Lazio, Italia
-    class: boundary
-    type: administrative
-    importance: 0.8996107180689524
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      country: Italia
-      country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: contact
 submit: true
@@ -3399,48 +3902,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/322,1179641625,2022-03-25 07:22:15,2022-03-24 15:01:05,Comune di Pesaro attiva linea telefonica e email SOS Ucraina,,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""materialGoods"",""hospitality"",""contact"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Municipio di Pesaro"",""city"":""Pesaro"",""country"":""Italia"",""country_code"":""it"",""county"":""Pesaro e Urbino"",""house_number"":""1"",""postcode"":""61121"",""quarter"":""Centro Storico"",""road"":""Piazza del Popolo"",""state"":""Marche"",""suburb"":""Pantano""},""boundingbox"":[""43.9099326"",""43.9100326"",""12.9132202"",""12.9133202""],""class"":""amenity"",""display_name"":""Municipio di Pesaro, 1, Piazza del Popolo, Centro Storico, Pantano, Pesaro, Pesaro e Urbino, Marche, 61121, Italia"",""importance"":1.7810000000000001,""lat"":""43.9099826"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.9132702"",""osm_id"":5665557322,""osm_type"":""node"",""place_id"":63279142,""type"":""townhall""},""mode"":""autocomplete""},""aim"":""L\u2019obiettivo \u00e8 coordinare gli aiuti, le donazioni e le offerte di alloggio che stanno giungendo da tutta la citt\u00e0 di Pesaro. Il Comune ha quindi attivato un numero di telefono, lo 0721.387616, che risponder\u00e0 dalle 9 alle 11 e dalle 17 alle 19, e una mail protezione.2@comune.pesaro.pu.it"",""email"":""protezione.2@comune.pesaro.pu.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":""+390721387616"",""submit"":true,""title"":""Linea diretta Comune di Pesaro SOS Ucraina"",""url"":""http://www.comune.pesaro.pu.it/novita-in-comune/dettaglio/news/sos-ucraina-la-linea-diretta-del-comune-per-coordinare-gli-aiuti/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=7299a4f17cca58e7ebd2de8aa9741b23""}","<pre><yamldata>
-title: Linea diretta Comune di Pesaro SOS Ucraina
-phoneNumber: '+390721387616'
-email: protezione.2@comune.pesaro.pu.it
-aim: L’obiettivo è coordinare gli aiuti, le donazioni e le offerte di alloggio che
-  stanno giungendo da tutta la città di Pesaro. Il Comune ha quindi attivato un numero di telefono, lo 0721.387616, che risponderà dalle 9 alle 11 e dalle 17 alle 19, e una mail protezione.2@comune.pesaro.pu.it
-url: http://www.comune.pesaro.pu.it/novita-in-comune/dettaglio/news/sos-ucraina-la-linea-diretta-del-comune-per-coordinare-gli-aiuti/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=7299a4f17cca58e7ebd2de8aa9741b23
-address:
-  mode: autocomplete
-  address:
-    place_id: 63279142
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 5665557322
-    boundingbox:
-    - '43.9099326'
-    - '43.9100326'
-    - '12.9132202'
-    - '12.9133202'
-    lat: '43.9099826'
-    lon: '12.9132702'
-    display_name: Municipio di Pesaro, 1, Piazza del Popolo, Centro Storico, Pantano,
-      Pesaro, Pesaro e Urbino, Marche, 61121, Italia
-    class: amenity
-    type: townhall
-    importance: 1.7810000000000001
-    address:
-      amenity: Municipio di Pesaro
-      house_number: '1'
-      road: Piazza del Popolo
-      quarter: Centro Storico
-      suburb: Pantano
-      city: Pesaro
-      county: Pesaro e Urbino
-      state: Marche
-      postcode: '61121'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: contact
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/325,1180084879,2022-03-25 07:21:55,2022-03-24 21:42:34,"Sucho, progetto internazionale per salvare il patrimonio culturale online dell'Ucraina",,,,,"[""Valid/Accettato"",""News"",""document_data"",""telegram-channel"",""tweet"",""Resources""]",,,"{""description"":""Salvare il patrimonio culturale online dell'Ucraina. Questk lo scopo dei volontari di \""SUCHO - Saving Ukrainian Cultural Heritage Online\"", progetto internazionale creato da bibliotecari, archivisti e programmatori.\nAttraverso la combinazione di tecnologie di scansione e archiviazione di siti e contenuti, tra cui Wayback Machine di Internet Archive, il crawler Browsertrix e l\u2019estensione del browser ArchiveWeb, centinaia di volontari in tutto il mondo stanno raccogliendo e archiviando il patrimonio culturale digitale dell'Ucraina.\nTutte le info sul progetto e sulle modalit\u00e0 di partecipazione sul sito Sucho.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.sucho.org"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Sucho, progetto internazionale per salvare il patrimonio culturale online dell'Ucraina""}","<pre><yamldata>
 title: Sucho, progetto internazionale per salvare il patrimonio culturale online dell'Ucraina
 description: 'Salvare il patrimonio culturale online dell''Ucraina. Questk lo scopo
@@ -6112,50 +6573,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 45.484845899999996 9.200942264373898
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/87,1167362795,2022-03-21 16:34:31,2022-03-12 18:27:43,"Help Ukraine, attivo sito web della Regione Lazio dedicato ai rifugiati ucraini con info utili",,,,,"[""Valid/Accettato"",""News"",""Services"",""useful contact"",""contact"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""neighbourhood"":""Ostiense"",""office"":""Regione Lazio"",""postcode"":""00100"",""quarter"":""Garbatella"",""road"":""Via Giovanni Genocchi"",""state"":""Lazio"",""suburb"":""Municipio Roma VIII""},""boundingbox"":[""41.858227"",""41.8597856"",""12.4936462"",""12.4959306""],""class"":""office"",""display_name"":""Regione Lazio, Via Giovanni Genocchi, Garbatella, Ostiense, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00100, Italia"",""importance"":0.21100000000000002,""lat"":""41.8589212"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.495005572708482"",""osm_id"":2858119,""osm_type"":""relation"",""place_id"":327241895,""type"":""government""},""mode"":""autocomplete""},""aim"":""Al link sito web della Regione Lazio dedicato ai rifugiati ucraini con info utili anche in ucraino su procedure legali per permesso di soggiorno, assistenza sanitaria, tamponi Covid, alloggi, trasporti, ecc."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":"""",""submit"":true,""title"":""Help Ukraine, sito web della Regione Lazio dedicato ai rifugiati ucraini con info utili"",""url"":""https://www.regione.lazio.it/helpukraine""}","<pre><yamldata>
-title: Help Ukraine, sito web della Regione Lazio dedicato ai rifugiati ucraini con
-  info utili
-phoneNumber: ''
-email: ''
-aim: Al link sito web della Regione Lazio dedicato ai rifugiati ucraini con info utili
-  anche in ucraino su procedure legali per permesso di soggiorno, assistenza sanitaria,
-  tamponi Covid, alloggi, trasporti, ecc.
-url: https://www.regione.lazio.it/helpukraine
-address:
-  mode: autocomplete
-  address:
-    place_id: 327241895
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 2858119
-    boundingbox:
-    - '41.858227'
-    - '41.8597856'
-    - '12.4936462'
-    - '12.4959306'
-    lat: '41.8589212'
-    lon: '12.495005572708482'
-    display_name: Regione Lazio, Via Giovanni Genocchi, Garbatella, Ostiense, Municipio
-      Roma VIII, Roma, Roma Capitale, Lazio, 00100, Italia
-    class: office
-    type: government
-    importance: 0.21100000000000002
-    address:
-      office: Regione Lazio
-      road: Via Giovanni Genocchi
-      quarter: Garbatella
-      neighbourhood: Ostiense
-      suburb: Municipio Roma VIII
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      postcode: '00100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: contact
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/85,1167358729,2022-03-21 16:33:42,2022-03-12 18:14:48,A Genova Caritas cerca volontari e alloggi per rifugiati ucraini,44.4072169,8.9312225,Liguria,Genova,"[""Valid/Accettato"",""Help"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""44.4072169 8.9312225"",""description"":""A Genova Caritas Diocesana cerca volontari per accogliere e supportare i rifugiati ucraini e cerca appartamenti e famiglie disposte ad ospitare. Prevede di accogliere circa 100 rifugiati e c'\u00e8 bisogno di reperire almeno 30 appartamenti vuoti (canoniche o altro) in comodato d'uso per circa tre mesi con rimborso delle spese vive. Sono tutte donne e bambini.\nPer informazioni e adesioni telefonare in Caritas tutte le mattine:\n010.2477015 - 010.2477018\noppure scrivere a segreteria@caritasgenova.it indicando la disponibilit\u00e0."",""email"":""segreteria@caritasgrnova.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Genova"",""country"":""Italia"",""country_code"":""it"",""county"":""Genova"",""postcode"":""16100"",""road"":""Via di Canneto il Lungo"",""state"":""Liguria"",""suburb"":""Molo""},""boundingbox"":[""44.4067366"",""44.4076384"",""8.9300645"",""8.9322206""],""class"":""highway"",""display_name"":""Via di Canneto il Lungo, Molo, Centro Est, Genova, Liguria, 16100, Italia"",""importance"":0.585,""lat"":""44.4072169"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.9312225"",""osm_id"":164602158,""osm_type"":""way"",""place_id"":140486684,""type"":""footway""},""mode"":""autocomplete""},""nameSurname"":""Caritas Genova"",""phoneNumber"":""010 2477015 - 010 2477018"",""recipients"":""cittadini di Genova"",""submit"":true,""title"":""A Genova Caritas cerca volontari e alloggi per rifugiati ucraini"",""url"":""http://www.caritasgenova.it/emergenza-ucraina-volontari-alloggi-donazioni/""}","<pre><yamldata>
 nameSurname: Caritas Genova
 phoneNumber: 010 2477015 - 010 2477018
@@ -6256,44 +6673,6 @@ address:
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/77,1166646079,2022-03-21 16:32:26,2022-03-11 16:55:19,"Attivo Gruppo Facebook ""Aiuta Profughi Ucraini Italia"" per offrire accoglienza e aiuti",,,,,"[""Valid/Accettato"",""News"",""Services"",""useful contact"",""materialGoods"",""hospitality"",""contact"",""Resources""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20122"",""state"":""Lombardia""},""boundingbox"":[""45.3041943"",""45.6241943"",""9.0296346"",""9.3496346""],""class"":""place"",""display_name"":""Milano, Lombardia, 20122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.8390652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":62505581,""osm_type"":""node"",""place_id"":286263950,""type"":""city""},""mode"":""autocomplete""},""aim"":""Gruppo Facebook, aperto da un gruppo di cittadini ucraini a Milano, che offre info utili e aiuta i profughi ucraini a trovare supporto e accoglienza in Italia, in particolare nord Italia."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":"""",""submit"":true,""title"":""Gruppo Facebook \""Aiuta Profughi Ucraini Italia\"""",""url"":""https://www.facebook.com/groups/1373754006378987/?ref=share""}","<pre><yamldata>
-title: Gruppo Facebook ""Aiuta Profughi Ucraini Italia""
-phoneNumber: ''
-email: ''
-aim: Gruppo Facebook, aperto da un gruppo di cittadini ucraini a Milano, che offre
-  info utili e aiuta i profughi ucraini a trovare supporto e accoglienza in Italia,
-  in particolare nord Italia.
-url: https://www.facebook.com/groups/1373754006378987/?ref=share
-address:
-  mode: autocomplete
-  address:
-    place_id: 286263950
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 62505581
-    boundingbox:
-    - '45.3041943'
-    - '45.6241943'
-    - '9.0296346'
-    - '9.3496346'
-    lat: '45.4641943'
-    lon: '9.1896346'
-    display_name: Milano, Lombardia, 20122, Italia
-    class: place
-    type: city
-    importance: 0.8390652078701348
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
-    address:
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20122'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: contact
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/75,1166626941,2022-03-21 16:32:05,2022-03-11 16:37:00,"UkraineFacts.org, osservatorio internazionale su fake news e guerra in Ucraina",,,,,"[""Valid/Accettato"",""News"",""fakenews"",""telegram-channel"",""tweet"",""Resources""]",,,"{""description"":""Piattaforma promossa dall'International Fact-checking Network Signatories che mappa nel mondo e smonta le fake news relative alla guerra in Ucraina."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""fakenews"",""link"":""https://ukrainefacts.org"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""UkraineFacts.org, osservatorio internazionale su fake news e guerra in Ucraina""}","<pre><yamldata>
@@ -6645,85 +7024,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 45.4517761 9.179309
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/163,1171148725,2022-03-21 10:54:24,2022-03-16 15:04:11,La Chiesa Santi Giacomo e Giovanni a Milano organizza raccolta beni e offre supporto ai rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""materialGoods"",""hospitality"",""contact"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""50"",""postcode"":""20136"",""quarter"":""Tibaldi"",""road"":""Via Giuseppe Meda"",""state"":""Lombardia"",""suburb"":""Municipio 5""},""boundingbox"":[""45.4388542"",""45.4389542"",""9.1782737"",""9.1783737""],""class"":""place"",""display_name"":""50, Via Giuseppe Meda, Tibaldi, Municipio 5, Milano, Lombardia, 20136, Italia"",""importance"":0.5209999999999999,""lat"":""45.4389042"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1783237"",""osm_id"":8279923214,""osm_type"":""node"",""place_id"":82572869,""type"":""house""},""mode"":""autocomplete""},""aim"":""La Chiesa Santi Giacomo e Giovanni, in via Meda 50, \u00e8 un importante punto di riferimento della comunit\u00e0 ucraina a Milano. Qui vengono raccolti beni di prima necessit\u00e0 (in particolare farmaci) per la popolazione ucraina e periodicamente vengono organizzati spedizioni umanitarie. Offre anche aiuto e assistenza ai rifugiati ucraini che arrivano a Milano."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":"""",""submit"":true,""title"":""Chiesa Santi Giacomo e Giovanni a Milano"",""url"":""http://www.ssgiacomoegiovanni.it/index.php/it/""}","<pre><yamldata>
-title: Chiesa Santi Giacomo e Giovanni a Milano
-phoneNumber: ''
-email: ''
-aim: La Chiesa Santi Giacomo e Giovanni, in via Meda 50, è un importante punto di
-  riferimento della comunità ucraina a Milano. Qui vengono raccolti beni di prima
-  necessità (in particolare farmaci) per la popolazione ucraina e periodicamente vengono
-  organizzati spedizioni umanitarie. Offre anche aiuto e assistenza ai rifugiati ucraini
-  che arrivano a Milano.
-url: http://www.ssgiacomoegiovanni.it/index.php/it/
-address:
-  mode: autocomplete
-  address:
-    place_id: 82572869
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 8279923214
-    boundingbox:
-    - '45.4388542'
-    - '45.4389542'
-    - '9.1782737'
-    - '9.1783737'
-    lat: '45.4389042'
-    lon: '9.1783237'
-    display_name: 50, Via Giuseppe Meda, Tibaldi, Municipio 5, Milano, Lombardia,
-      20136, Italia
-    class: place
-    type: house
-    importance: 0.5209999999999999
-    address:
-      house_number: '50'
-      road: Via Giuseppe Meda
-      quarter: Tibaldi
-      suburb: Municipio 5
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20136'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/166,1171190535,2022-03-21 10:53:57,2022-03-16 15:32:41,Taxi Service For Peace gruppo che aiuta i profughi ucraini a raggiungere gratuitamente paesi europei,,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""transport"",""contact"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Germania"",""country_code"":""de""},""boundingbox"":[""47.2701114"",""55.099161"",""5.8663153"",""15.0419309""],""class"":""boundary"",""display_name"":""Germania"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9996814891722549,""lat"":""51.0834196"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.4234469"",""osm_id"":51477,""osm_type"":""relation"",""place_id"":283355336,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Gruppo di volontari con base in Germania che offre trasporto gratuito a rifugiati, profughi e persone in stato di necessit\u00e0. Offre anche aiuto nella ricerca di alloggio. Con la guerra in Ucraina si \u00e8 attivato per aiutare le persone che dai confini ucraini intendono arrivare in altri paesi europei."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":"""",""submit"":true,""title"":""Taxi Service For Peace"",""url"":""https://www.facebook.com/groups/1646669812353707/?ref=share""}","<pre><yamldata>
-title: Taxi Service For Peace
-phoneNumber: ''
-email: ''
-aim: Gruppo di volontari con base in Germania che offre trasporto gratuito a rifugiati,
-  profughi e persone in stato di necessità. Offre anche aiuto nella ricerca di alloggio.
-  Con la guerra in Ucraina si è attivato per aiutare le persone che dai confini ucraini
-  intendono arrivare in altri paesi europei.
-url: https://www.facebook.com/groups/1646669812353707/?ref=share
-address:
-  mode: autocomplete
-  address:
-    place_id: 283355336
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 51477
-    boundingbox:
-    - '47.2701114'
-    - '55.099161'
-    - '5.8663153'
-    - '15.0419309'
-    lat: '51.0834196'
-    lon: '10.4234469'
-    display_name: Germania
-    class: boundary
-    type: administrative
-    importance: 0.9996814891722549
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      country: Germania
-      country_code: de
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: contact
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/167,1171194894,2022-03-21 10:53:34,2022-03-16 15:36:10,"Documento con info utili, contatti e risorse a supporto delle persone Lgbtqi ucraine",49.4871968,31.2718321,,,"[""Valid/Accettato"",""News"",""useful contact"",""document_data"",""telegram-channel"",""tweet"",""Lgbtqi""]",,,"{""Posizione"":""49.4871968 31.2718321"",""description"":""Creato da Nino Ugrekhelidze (@nii_ugre su twitter e @niiugre su IG), attivista ucraino di base in Spagna, insieme a Kailiq,ax (@_x_kai su instagram, host del podcast @ost.gayze che parla di cultura queer dall\u2019Europa dell\u2019Est).\nIl documento \u00e8  in continuo aggiornamento e contiene:\n- Informazioni su come lasciare il paese per persone trans con documenti maschili\n- Contatti per cercare aiuto alla frontiera (alla frontiera Slovacca sono state riportate aggressioni transfobiche)\n- Raccolte fondi a supporto della comunit\u00e0 LGBTIQ+\n- Organizzazioni a cui donare che agiscono direttamente in campo\n- Lista di rifugi LGBTIQ+ in loco e in Europa (Soprattutto Germania / Moldavia, Repubblica Ceca / Latvia / Ungheria)."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://docs.google.com/document/d/12iSFcOUc5RpLM_fyBgfB0v1vVA9rhP_H7hAF4NPq-M8/mobilebasic"",""location"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""44.184598"",""52.3797464"",""22.137059"",""40.2275801""],""class"":""boundary"",""display_name"":""Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9264442439164168,""lat"":""49.4871968"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""31.2718321"",""osm_id"":60199,""osm_type"":""relation"",""place_id"":283553033,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Documento con info utili, contatti e risorse a supporto delle persone Lgbtqi ucraine""}","<pre><yamldata>
 title: Documento con info utili, contatti e risorse a supporto delle persone Lgbtqi
@@ -10198,44 +10498,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 45.756655699999996 9.754219200862249
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/181,1172358929,2022-03-17 17:44:43,2022-03-17 13:03:37,Informazioni della Provincia autonoma di Bolzano su aiuti per l'Ucraina e accoglienza profughi,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""fundraising"",""useful contact"",""hospitality"",""healthcare"",""contact"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bolzano"",""state"":""Trentino-Alto Adige""},""boundingbox"":[""46.2197712"",""47.0921462"",""10.3817965"",""12.4779676""],""class"":""boundary"",""display_name"":""Bolzano, Trentino-Alto Adige, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7589076281878143,""lat"":""46.65594215"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.229637264169462"",""osm_id"":47046,""osm_type"":""relation"",""place_id"":284985164,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Al link informazioni utili per le persone provenienti dall'Ucraina (assistenza medica, alloggi, info legali, ecc) e informazioni per tutti coloro che desiderano sostenere e accogliere i rifugiati dall'Ucraina. Le informazioni sono fornite da Ripartizione politiche sociali e la Protezione civile della Provincia Autonoma di Bolzano."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":""800751751"",""submit"":true,""title"":""Informazioni della Provincia autonoma di Bolzano su aiuti per l'Ucraina e accoglienza profughi"",""url"":""https://www.provincia.bz.it/famiglia-sociale-comunita/persone-in-difficolta/richiedenti-asilo-profughi/aiuti-ucraina.asp""}","<pre><yamldata>
-title: Informazioni della Provincia autonoma di Bolzano su aiuti per l'Ucraina e accoglienza
-  profughi
-phoneNumber: '800751751'
-email: ''
-aim: Al link informazioni utili per le persone provenienti dall'Ucraina (assistenza medica, alloggi, info legali, ecc) e informazioni per tutti
-  coloro che desiderano sostenere e accogliere i rifugiati dall'Ucraina. Le informazioni sono fornite
-  da Ripartizione politiche sociali e la Protezione civile della Provincia Autonoma
-  di Bolzano.
-url: https://www.provincia.bz.it/famiglia-sociale-comunita/persone-in-difficolta/richiedenti-asilo-profughi/aiuti-ucraina.asp
-address:
-  mode: autocomplete
-  address:
-    place_id: 284985164
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 47046
-    boundingbox:
-    - '46.2197712'
-    - '47.0921462'
-    - '10.3817965'
-    - '12.4779676'
-    lat: '46.65594215'
-    lon: '11.229637264169462'
-    display_name: Bolzano, Trentino-Alto Adige, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7589076281878143
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      county: Bolzano
-      state: Trentino-Alto Adige
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: contact
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/180,1172340278,2022-03-17 17:44:21,2022-03-17 12:48:31,Raccolta fondi emergenza Ucraina di Croce Bianca Bolzano,46.5001371,11.311174,Trentino-Alto Adige,Bolzano,"[""Valid/Accettato"",""fundraising"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""46.5001371 11.311174"",""bicSwift"":""RZSBIT2B"",""causal"":""Sostegno per l\u2019Ucraina"",""ccPostal"":"""",""description"":""Grazie a Samaritan International, una rete europea della quale fa parte anche la Croce Bianca, l\u2019Associazione provinciale di soccorso ha un rapporto stretto con l\u2019Unione Samaritana Ucraina SSU a Kiev e ha quindi un contatto diretto con la regione.\nSecondo le organizzazioni, ci troviamo di fronte un\u2019emergenza umanitaria sia all\u2019interno dei confini ucraini che nelle regioni di confine con l\u2019Europa centrale. Dimostrare solidariet\u00e0 \u00e8 l\u2019unica cosa che possiamo fare al momento e anche noi come Croce Bianca faremo la nostra parte.\nDa parte della Croce Bianca \u00e8 stato attivato un conto di solidariet\u00e0 per l\u2019intervento in Ucraina e nei paesi limitrofi."",""email"":"""",""heading"":""Croce Bianca"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT29C0349311600000300058998"",""label"":""fundraising"",""link"":""https://www.crocebianca.bz.it/it/vorrei-aiutare/donazioni-ucraina-2354.html"",""location"":{""address"":{""address"":{""city"":""Bolzano"",""country"":""Italia"",""country_code"":""it"",""county"":""Bolzano"",""postcode"":""39100"",""road"":""Via Lorenz B\u00f6hler"",""state"":""Trentino-Alto Adige"",""suburb"":""San Maurizio""},""boundingbox"":[""46.4998167"",""46.5002673"",""11.3100854"",""11.3114063""],""class"":""highway"",""display_name"":""Via Lorenz B\u00f6hler, Gries-San Quirino, San Maurizio, Bolzano, Trentino-Alto Adige, 39100, Italia"",""importance"":0.4,""lat"":""46.5001371"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.311174"",""osm_id"":1020494815,""osm_type"":""way"",""place_id"":327308307,""type"":""secondary""},""mode"":""autocomplete""},""submit"":true,""title"":""Associazione provinciale di soccorso Croce Bianca, Bolzano""}","<pre><yamldata>
 title: Associazione provinciale di soccorso Croce Bianca, Bolzano
 description: 'Grazie a Samaritan International, una rete europea della quale fa parte
@@ -10329,51 +10591,6 @@ label: fundraising
 submit: true
 Posizione: 46.65594215 11.229637264169462
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/53,1164074825,2022-03-17 15:44:16,2022-03-09 15:15:17,"Save the children Italia attiva Help Line per minori ucraini, famiglie e enti impegnati nell’accoglienza",,,,,"[""Valid/Accettato"",""Missing position"",""Services"",""hospitality"",""Children"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""9"",""office"":""Save the Children Italia"",""postcode"":""00184"",""quarter"":""Monti"",""road"":""Piazza di San Francesco di Paola"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.8939153"",""41.8940153"",""12.4916895"",""12.4917895""],""class"":""office"",""display_name"":""Save the Children Italia, 9, Piazza di San Francesco di Paola, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia"",""importance"":0.9309999999999999,""lat"":""41.8939653"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4917395"",""osm_id"":9094641317,""osm_type"":""node"",""place_id"":95476703,""type"":""ngo""},""mode"":""autocomplete""},""description"":""Helpine di SaveChildren a sostegno di bambini ucraini soli o con le loro famiglie, associazioni, Asl ed enti locali impegnati nell'accoglienza.\n Tel. 351 2202016. Ulteriori le info al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Save The children Italia"",""recipients"":""Minori e famiglie ucraine"",""submit"":true,""title"":""Save The children attiva help Line per minori ucraini, famiglie e enti impegnati nell\u2019accoglienza"",""type"":""children"",""url"":""https://www.facebook.com/46590675335/posts/10159891711955336/""}","<pre><yamldata>
-type: children
-offerFromWho: Save The children Italia
-title: Save The children attiva help Line per minori ucraini, famiglie e enti impegnati
-  nell’accoglienza
-recipients: Minori e famiglie ucraine
-description: ""Helpine di SaveChildren a sostegno di bambini ucraini soli o con le\
-  \ loro famiglie, associazioni, Asl ed enti locali impegnati nell'accoglienza.\n\
-  \ Tel. 351 2202016. Ulteriori le info al link.""
-url: https://www.facebook.com/46590675335/posts/10159891711955336/
-address:
-  mode: autocomplete
-  address:
-    place_id: 95476703
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 9094641317
-    boundingbox:
-    - '41.8939153'
-    - '41.8940153'
-    - '12.4916895'
-    - '12.4917895'
-    lat: '41.8939653'
-    lon: '12.4917395'
-    display_name: Save the Children Italia, 9, Piazza di San Francesco di Paola, Monti,
-      Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia
-    class: office
-    type: ngo
-    importance: 0.9309999999999999
-    address:
-      office: Save the Children Italia
-      house_number: '9'
-      road: Piazza di San Francesco di Paola
-      quarter: Monti
-      suburb: Municipio Roma I
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      postcode: 00184
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/52,1164068578,2022-03-17 15:44:00,2022-03-09 15:10:26,A Bergamo raccolta fondi a sostegno del popolo ucraino promossa da Caritas,45.6876737,9.6758972,Lombardia,Bergamo,"[""Valid/Accettato"",""fundraising"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.6876737 9.6758972"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""A Bergamo raccolta fondi a sostegno del popolo ucraino promossa da Caritas. Tutte le info al link."",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundaraising"",""link"":""https://www.caritasbergamo.it/ucraina-fermiamo-la-guerra-caritas-ha-avviato-una-raccolta-fondi-per-sostenere-gli-interventi-di-assistenza-umanitaria-ed-emergenziale/"",""location"":{""address"":{""address"":{""city"":""Bergamo"",""country"":""Italia"",""country_code"":""it"",""county"":""Bergamo"",""house_number"":""8"",""postcode"":""24125"",""road"":""Via del Conventino"",""state"":""Lombardia"",""suburb"":""Malpensata""},""boundingbox"":[""45.6876237"",""45.6877237"",""9.6758472"",""9.6759472""],""class"":""place"",""display_name"":""8, Via del Conventino, Malpensata, Bergamo, Lombardia, 24125, Italia"",""importance"":0.6309999999999999,""lat"":""45.6876737"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.6758972"",""osm_id"":4287453851,""osm_type"":""node"",""place_id"":50087161,""type"":""house""},""mode"":""autocomplete""},""submit"":true,""title"":""Caritas Bergamo""}","<pre><yamldata>
 title: Caritas Bergamo
 description: 'A Bergamo raccolta fondi a sostegno del popolo ucraino promossa da
@@ -10433,48 +10650,6 @@ location:
     address: {}
 label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/49,1164060552,2022-03-17 15:41:06,2022-03-09 15:04:32,A Lodi azienda sanitaria attiva hotspot territoriale di accoglienza per i cittadini ucraini,,,,,"[""Valid/Accettato"",""Missing position"",""Services"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Lodi"",""neighbourhood"":""Guatra"",""postcode"":""26866"",""road"":""Via Umberto I"",""state"":""Lombardia"",""town"":""Sant'Angelo Lodigiano"",""village"":""Galeotta""},""boundingbox"":[""45.2372892"",""45.2383773"",""9.4090166"",""9.4096631""],""class"":""highway"",""display_name"":""Via Umberto I, Guatra, Galeotta, Sant'Angelo Lodigiano, Lodi, Lombardia, 26866, Italia"",""importance"":0.91,""lat"":""45.2380483"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.4092224"",""osm_id"":240658221,""osm_type"":""way"",""place_id"":161215418,""type"":""tertiary""},""mode"":""autocomplete""},""description"":""Attivato a Lodi un hotspot territoriale di accoglienza per i cittadini ucraini in arrivo in Italia presso il Punto Unico di Accesso della Casa di Comunit\u00e0 di Sant\u2019Angelo Lodigiano."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Azienda Sanitaria di Lodi"",""recipients"":"""",""submit"":true,""title"":""Attivato a Lodi un hotspot territoriale di accoglienza per i cittadini ucraini"",""type"":""healthcare"",""url"":""https://twitter.com/asstlodi/status/1501548401443356673?s=21""}","<pre><yamldata>
-type: healthcare
-offerFromWho: Azienda Sanitaria di Lodi
-title: Attivato a Lodi un hotspot territoriale di accoglienza per i cittadini ucraini
-recipients: ''
-description: Attivato a Lodi un hotspot territoriale di accoglienza per i cittadini
-  ucraini in arrivo in Italia presso il Punto Unico di Accesso della Casa di Comunità
-  di Sant’Angelo Lodigiano.
-url: https://twitter.com/asstlodi/status/1501548401443356673?s=21
-address:
-  mode: autocomplete
-  address:
-    place_id: 161215418
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 240658221
-    boundingbox:
-    - '45.2372892'
-    - '45.2383773'
-    - '9.4090166'
-    - '9.4096631'
-    lat: '45.2380483'
-    lon: '9.4092224'
-    display_name: Via Umberto I, Guatra, Galeotta, Sant'Angelo Lodigiano, Lodi, Lombardia,
-      26866, Italia
-    class: highway
-    type: tertiary
-    importance: 0.91
-    address:
-      road: Via Umberto I
-      neighbourhood: Guatra
-      village: Galeotta
-      town: Sant'Angelo Lodigiano
-      county: Lodi
-      state: Lombardia
-      postcode: '26866'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/48,1164054881,2022-03-17 15:40:47,2022-03-09 15:00:41,Regione Valle D’Aosta attiva raccolta fondi per Ucraina,45.7370885,7.3196649,Valle d'Aosta,Aosta,"[""Valid/Accettato"",""fundraising"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.7370885 7.3196649"",""bicSwift"":"""",""causal"":""Emergenza Ucraina"",""ccPostal"":"""",""description"":""Come puoi aiutare l'accoglienza dei profughi ucraini in Valle d'Aosta? \nCon una donazione all\u2019IBAN\nIT73 G 03069 09606 100000005667\nintestato a Fondazione comunitaria della Valle d\u2019Aosta, causale 'Emergenza Ucraina'.\n\n\u260e\ufe0f Per informazioni numero verde 800 99 55 54"",""email"":"""",""heading"":""Fondazione comunitaria della Valle d\u2019Aosta"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT73 G 03069 09606 100000005667"",""label"":""fundaraising"",""link"":""https://twitter.com/ustampavda/status/1501481384996704262?s=21"",""location"":{""address"":{""address"":{""city"":""Aosta"",""country"":""Italia"",""country_code"":""it"",""postcode"":""11100"",""state"":""Valle d'Aosta""},""boundingbox"":[""45.5770885"",""45.8970885"",""7.1596649"",""7.4796649""],""class"":""place"",""display_name"":""Aosta, Valle d'Aosta, 11100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.9769168953273978,""lat"":""45.7370885"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.3196649"",""osm_id"":252686619,""osm_type"":""node"",""place_id"":439149,""type"":""city""},""mode"":""autocomplete""},""submit"":true,""title"":""Regione Valle d'Aosta""}","<pre><yamldata>
@@ -10562,49 +10737,6 @@ label: help
 submit: true
 Posizione: 38.1112268 13.3524434
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/47,1164049917,2022-03-17 12:45:46,2022-03-09 14:57:42,Regione Lazio: informazioni importanti per accoglienza e assistenza profughi ucraini,,,,,"[""Valid/Accettato"",""News"",""Missing position"",""Services"",""hospitality"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""neighbourhood"":""Ostiense"",""office"":""Regione Lazio"",""postcode"":""00100"",""quarter"":""Garbatella"",""road"":""Via Giovanni Genocchi"",""state"":""Lazio"",""suburb"":""Municipio Roma VIII""},""boundingbox"":[""41.858227"",""41.8597856"",""12.4936462"",""12.4959306""],""class"":""office"",""display_name"":""Regione Lazio, Via Giovanni Genocchi, Garbatella, Ostiense, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00100, Italia"",""importance"":0.32100000000000006,""lat"":""41.8589212"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.495005572708482"",""osm_id"":2858119,""osm_type"":""relation"",""place_id"":327241895,""type"":""government""},""mode"":""autocomplete""},""description"":""Info utili in italiano e ucraino per i cittadini ucraini che arrivano nel Lazio."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Lazio"",""recipients"":"""",""submit"":true,""title"":""Regione Lazio: informazioni per profughi ucraini"",""type"":""legal"",""url"":""https://facebook.com/100069073545055/posts/265699519075831/""}","<pre><yamldata>
-type: legal
-offerFromWho: Regione Lazio
-title: 'Regione Lazio: informazioni per profughi ucraini'
-recipients: ''
-description: Info utili in italiano e ucraino per i cittadini ucraini che arrivano
-  nel Lazio.
-url: https://facebook.com/100069073545055/posts/265699519075831/
-address:
-  mode: autocomplete
-  address:
-    place_id: 327241895
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 2858119
-    boundingbox:
-    - '41.858227'
-    - '41.8597856'
-    - '12.4936462'
-    - '12.4959306'
-    lat: '41.8589212'
-    lon: '12.495005572708482'
-    display_name: Regione Lazio, Via Giovanni Genocchi, Garbatella, Ostiense, Municipio
-      Roma VIII, Roma, Roma Capitale, Lazio, 00100, Italia
-    class: office
-    type: government
-    importance: 0.32100000000000006
-    address:
-      office: Regione Lazio
-      road: Via Giovanni Genocchi
-      quarter: Garbatella
-      neighbourhood: Ostiense
-      suburb: Municipio Roma VIII
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      postcode: '00100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/46,1164025461,2022-03-17 12:44:47,2022-03-09 14:39:41,Brochure multilingue del Ministero dell’Interno per profughi ucraini in Italia,,,,,"[""Valid/Accettato"",""News"",""Services"",""hospitality"",""document_data"",""telegram-channel"",""tweet""]",,,"{""description"":""Per tutti i cittadini ucraini che sono entrati e stanno entrando in Italia, il Dipartimento della Protezione Civile \u2013 in collaborazione con il Ministero dell\u2019Interno, le Prefetture, le Regioni e gli Enti Locali \u2013 sta predisponendo un piano di prima accoglienza per permettere loro la regolare permanenza sul territorio italiano.\n \nTutte le informazioni al riguardo sono contenute in una scheda, disponibile anche in lingua ucraina e inglese, che illustra gli obblighi sanitari da rispettare per far fronte alla pandemia, a chi rivolgersi per usufruire di un alloggio, le modalit\u00e0 per regolarizzare la propria posizione in Italia, e altre indicazioni utili.\n\nAl link la brochure."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://www.poliziadistato.it/articolo/386227a1a62155d822008675"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Brochure multilingue del Ministero dell\u2019Interno per profughi ucraini in Italia""}","<pre><yamldata>
 title: Brochure multilingue del Ministero dell’Interno per profughi ucraini in Italia
 description: ""Per tutti i cittadini ucraini che sono entrati e stanno entrando in\
@@ -10660,50 +10792,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 41.7675656 12.2339473
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/44,1163143188,2022-03-17 12:44:16,2022-03-08 21:22:17,Ospedale Buzzi Milano attiva raccolta beni (vestiti e accessori) per bambini e mamme ucraine,,,,,"[""Valid/Accettato"",""Missing position"",""Services"",""materialGoods"",""Children"",""women"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Ospedale dei Bambini \""Vittore Buzzi\"""",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""28"",""postcode"":""20154"",""quarter"":""Sarpi"",""road"":""Via Lodovico Castelvetro"",""state"":""Lombardia"",""suburb"":""Municipio 8""},""boundingbox"":[""45.4848213"",""45.4865785"",""9.1653918"",""9.1678818""],""class"":""amenity"",""display_name"":""Ospedale dei Bambini \""Vittore Buzzi\"", 28, Via Lodovico Castelvetro, Sarpi, Municipio 8, Milano, Lombardia, 20154, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//health_hospital.p.20.png"",""importance"":0.31100000000000005,""lat"":""45.4858443"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.166968895924526"",""osm_id"":478299137,""osm_type"":""way"",""place_id"":208609040,""type"":""hospital""},""mode"":""autocomplete""},""description"":""All'ospedale Buzzi di Milano si raccolgono vestiti e accessori per bambini  (2 anni in su) e mamme ucraine. \nLa raccolta \u00e8 in via Castelvetro 22, angolo via Fauch\u00e8, ore 9.30-17.30 dal luned\u00ec al venerd\u00ec."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ospedale Buzzi di Milano"",""recipients"":""Cittadini"",""submit"":true,""title"":""Ospedale Buzzi Milano raccoglie vestiti e accessori per bambini e mamme ucraine"",""type"":""materialGoods"",""url"":""https://www.milanotoday.it/attualita/bambini-profughi-buzzi.html""}","<pre><yamldata>
-type: materialGoods
-offerFromWho: Ospedale Buzzi di Milano
-title: Ospedale Buzzi Milano raccoglie vestiti e accessori per bambini e mamme ucraine
-recipients: Cittadini
-description: ""All'ospedale Buzzi di Milano si raccolgono vestiti e accessori per bambini  (2 anni in su) e mamme ucraine. \nLa raccolta è in via Castelvetro 22, angolo\
-  \ via Fauchè, ore 9.30-17.30 dal lunedì al venerdì.""
-url: https://www.milanotoday.it/attualita/bambini-profughi-buzzi.html
-address:
-  mode: autocomplete
-  address:
-    place_id: 208609040
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 478299137
-    boundingbox:
-    - '45.4848213'
-    - '45.4865785'
-    - '9.1653918'
-    - '9.1678818'
-    lat: '45.4858443'
-    lon: '9.166968895924526'
-    display_name: Ospedale dei Bambini ""Vittore Buzzi"", 28, Via Lodovico Castelvetro,
-      Sarpi, Municipio 8, Milano, Lombardia, 20154, Italia
-    class: amenity
-    type: hospital
-    importance: 0.31100000000000005
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//health_hospital.p.20.png
-    address:
-      amenity: Ospedale dei Bambini ""Vittore Buzzi""
-      house_number: '28'
-      road: Via Lodovico Castelvetro
-      quarter: Sarpi
-      suburb: Municipio 8
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20154'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/43,1162811173,2022-03-17 12:43:27,2022-03-08 15:41:44,"Documento condiviso con aggiornamenti dai confini ucraini (tempi di attesa, altre info). In inglese",,,,,"[""Valid/Accettato"",""News"",""transport"",""telegram-channel"",""tweet""]",,,"{""description"":""Sul gruppo Telegram Italiani in Ucraina (https://t.me/italianiucraina/8874) pubblicato un Googlesheet con aggiornamenti dai confini ucraini, con tempi di attesa e chat di info.\n(Qui link al post originale https://t.me/italianiucraina/8874)"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://docs.google.com/spreadsheets/d/e/2PACX-1vTmKNAxZn2cPpBqPHnRx9Hc_GPzfi7U92h05hkNuES6pA8l7IcbfdRELMkTBWGcBFoRkUdwlnfX889X/pubhtml?gid=0&single=true&fbclid=IwAR1qTqmfhHYDYFB_N14kCXweiK3BWVGzSfIYlpnD1UhYU33c-Tm0LJQYSuw"",""location"":{""address"":{""address"":{},""mode"":""autocomplete""},""mode"":""autocomplete""},""submit"":true,""title"":""File condiviso con aggiornamenti dai confini ucraini (tempi di attesa, altre info)""}","<pre><yamldata>
 title: File condiviso con aggiornamenti dai confini ucraini (tempi di attesa, altre
   info)
@@ -10720,49 +10808,6 @@ location:
     address: {}
 label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/42,1162736087,2022-03-17 12:42:44,2022-03-08 14:39:12,Comune di Venezia attiva sportello Emergenza Ucraina per info e accoglienza profughi ucraini,,,,,"[""Valid/Accettato"",""News"",""Missing position"",""Services"",""Legal"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Comune di Venezia"",""city"":""Venezia"",""country"":""Italia"",""country_code"":""it"",""county"":""Venezia"",""road"":""Calle Chiesa Ognissanti"",""state"":""Veneto"",""suburb"":""Lido-Pellestrina"",""village"":""Pellestrina""},""boundingbox"":[""45.2731957"",""45.2732957"",""12.3009922"",""12.3010922""],""class"":""amenity"",""display_name"":""Comune di Venezia, Calle Chiesa Ognissanti, Lido-Pellestrina, Pellestrina, Venezia, Veneto, Italia"",""importance"":0.31100000000000005,""lat"":""45.2732457"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.3010422"",""osm_id"":6958414086,""osm_type"":""node"",""place_id"":74210873,""type"":""townhall""},""mode"":""autocomplete""},""description"":""A Venezia attivo sportello Emergenza Ucraina del Comune che offre info,\\ \\ supporto, assistenza ai rifugiati ucraini e alle famiglie italiane ospitanti.\\n\\ Tel. 041041 (DIME), lun-ven ore 8-20. \\nEmail ucraina@comune.venezia.it \\n(In lingua\\ \\ italiana e ucraina)."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Venezia"",""recipients"":""Rifugiati ucraini, famiglie ospitanti, cittadini"",""submit"":true,""title"":""Comune di #Venezia attiva Sportello Emergenza #Ucraina"",""type"":""legal"",""url"":""https://live.comune.venezia.it/it/2022/03/informazioni-le-persone-provenienti-dallucraina-e-le-famiglie-ospitanti""}","<pre><yamldata>
-type: legal
-offerFromWho: Comune di Venezia
-title: 'Comune di #Venezia attiva Sportello Emergenza #Ucraina'
-recipients: Rifugiati ucraini, famiglie ospitanti, cittadini
-description: A Venezia attivo sportello Emergenza Ucraina del Comune che offre info,\
-  \ supporto, assistenza ai rifugiati ucraini e alle famiglie italiane ospitanti.\n\
-  Tel. 041041 (DIME), lun-ven ore 8-20. \nEmail ucraina@comune.venezia.it \n(In lingua\
-  \ italiana e ucraina).
-url: https://live.comune.venezia.it/it/2022/03/informazioni-le-persone-provenienti-dallucraina-e-le-famiglie-ospitanti
-address:
-  mode: autocomplete
-  address:
-    place_id: 74210873
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 6958414086
-    boundingbox:
-    - '45.2731957'
-    - '45.2732957'
-    - '12.3009922'
-    - '12.3010922'
-    lat: '45.2732457'
-    lon: '12.3010422'
-    display_name: Comune di Venezia, Calle Chiesa Ognissanti, Lido-Pellestrina, Pellestrina,
-      Venezia, Veneto, Italia
-    class: amenity
-    type: townhall
-    importance: 0.31100000000000005
-    address:
-      amenity: Comune di Venezia
-      road: Calle Chiesa Ognissanti
-      suburb: Lido-Pellestrina
-      village: Pellestrina
-      city: Venezia
-      county: Venezia
-      state: Veneto
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/40,1161949488,2022-03-17 12:40:30,2022-03-07 21:34:37,Ukranian sign language services to support deaf refugees - Comune di Reggio Emilia,,,,,"[""Valid/Accettato"",""News"",""Services"",""disability"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Reggio nell'Emilia"",""country"":""Italia"",""country_code"":""it"",""county"":""Reggio nell'Emilia"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.6244638"",""44.7744479"",""10.4910178"",""10.7733414""],""class"":""boundary"",""display_name"":""Reggio nell'Emilia, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.6725411725065691,""lat"":""44.6978389"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.6304971"",""osm_id"":43415,""osm_type"":""relation"",""place_id"":284543523,""type"":""administrative""},""mode"":""autocomplete""},""description"":""has set up a network of regional community/communication services to support Ukraine deaf refugees arriving in the Emilia Romagna region. These services aim to facilitate communication with local public bodies and public services thanks to deaf interpreters and mediators who know Ukrainian Sign Language.   Further info at emiliaromagna@ens.it  They released this signed video here attached: [https://youtube.com/watch?v=604vD8haZh8&feature=share](https://youtube.com/watch?v=604vD8haZh8&feature=share&fbclid=IwAR1_Pd9g8BXcSeZXSCrEU_1FrCxlhXs01r6TgXeNOo6NVzNfrFOm_LqBkos) EUD - The European Union of the Deaf  Christian Rathmann Debra Russell Arunas Brazas NRW: Deaf Refugees World Federation of the Deaf Ry Lorraine Leeson Anna Komarova Igor Chavrot"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":"". The Emilia-Romagna Regional Branch of the Italian Deaf Association  (ENS)"",""recipients"":""Deaf"",""submit"":true,""title"":""LIS Service to support deaf refugees"",""type"":""disabilityServices"",""url"":""https://www.facebook.com/groups/ukraineinfo.help/permalink/451623253373295/""}","<pre><yamldata>
@@ -12131,51 +12176,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 45.4451631 9.1808968
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/89,1167365024,2022-03-12 22:37:56,2022-03-12 18:36:53,Online pagina web del Comune di Bovezzo dedicata all'emergenza Ucraina,,,,,"[""Valid/Accettato"",""News"",""Services"",""fundraising"",""hospitality"",""contact""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Municipio di Bovezzo"",""country"":""Italia"",""country_code"":""it"",""county"":""Brescia"",""hamlet"":""Terzago"",""house_number"":""28"",""municipality"":""Comunit\u00e0 montana della valle Trompia"",""neighbourhood"":""Villaggio del Sole"",""postcode"":""25073"",""road"":""Via Vittorio Veneto"",""state"":""Lombardia"",""village"":""Bovezzo""},""boundingbox"":[""45.5911637"",""45.5915655"",""10.2429166"",""10.2431527""],""class"":""amenity"",""display_name"":""Municipio di Bovezzo, 28, Via Vittorio Veneto, Villaggio del Sole, Terzago, Bovezzo, Comunit\u00e0 montana della valle Trompia, Brescia, Lombardia, 25073, Italia"",""importance"":1.1536899109801708,""lat"":""45.591349550000004"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.243048460056496"",""osm_id"":164173124,""osm_type"":""way"",""place_id"":141637877,""type"":""townhall""},""mode"":""autocomplete""},""aim"":""Online pagina web del Comune di Bovezzo dedicata all'emergenza Ucraina con info per offrire case vuote o ospitalit\u00e0 in famiglia, effettuare donazioni, partecipare ad altre iniziative."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":"""",""submit"":true,""title"":""Comune di Bovezzo (Bs)"",""url"":""https://www.comune.bovezzo.bs.it/Novita/Avvisi/Emergenza-Ucraina""}","<pre><yamldata>
-title: Comune di Bovezzo (Bs)
-phoneNumber: ''
-email: ''
-aim: Online pagina web del Comune di Bovezzo dedicata all'emergenza Ucraina con info
-  per offrire case vuote o ospitalità in famiglia, effettuare donazioni, partecipare
-  ad altre iniziative.
-url: https://www.comune.bovezzo.bs.it/Novita/Avvisi/Emergenza-Ucraina
-address:
-  mode: autocomplete
-  address:
-    place_id: 141637877
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 164173124
-    boundingbox:
-    - '45.5911637'
-    - '45.5915655'
-    - '10.2429166'
-    - '10.2431527'
-    lat: '45.591349550000004'
-    lon: '10.243048460056496'
-    display_name: Municipio di Bovezzo, 28, Via Vittorio Veneto, Villaggio del Sole,
-      Terzago, Bovezzo, Comunità montana della valle Trompia, Brescia, Lombardia,
-      25073, Italia
-    class: amenity
-    type: townhall
-    importance: 1.1536899109801708
-    address:
-      amenity: Municipio di Bovezzo
-      house_number: '28'
-      road: Via Vittorio Veneto
-      neighbourhood: Villaggio del Sole
-      hamlet: Terzago
-      village: Bovezzo
-      municipality: Comunità montana della valle Trompia
-      county: Brescia
-      state: Lombardia
-      postcode: '25073'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: contact
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/80,1167333697,2022-03-12 22:31:54,2022-03-12 16:30:04,"Ucraina, le dieci bufale russe: il genocidio, il nazismo, l’asilo bombardato nel Lugansk",,,,,"[""Valid/Accettato"",""fakenews""]",,,"{""description"":""Su ProfessioneRepoter.eu 10 bufale sul conflitto in Ucraine diffuse da siti russi governativi e non ."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""fakenews"",""link"":""https://www.professionereporter.eu/2022/03/ucraina-le-dieci-bufale-russe-dal-genocidio-al-nazismo-allasilo-bombardato/?fbclid=IwAR3SN6xL3OBtwbuhdGUnl9ZAGHGOS32ZCVeYhxZxyygYc1SXKCazET5-JIE"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Ucraina, le dieci bufale russe: il genocidio, il nazismo, l\u2019asilo bombardato nel Lugansk""}","<pre><yamldata>
 title: 'Ucraina, le dieci bufale russe: il genocidio, il nazismo, l’asilo bombardato
