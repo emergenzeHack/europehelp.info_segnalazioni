@@ -1,4 +1,96 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/387,1183987866,2022-03-28 21:46:43,2022-03-28 21:02:20,Raccolta fondi di Baobab experience per supportare i rifugiati ucraini ,41.8933203,12.4829321,Lazio,Roma,"[""Valid/Accettato"",""fundraising""]",,,"{""Posizione"":""41.8933203 12.4829321"",""bicSwift"":""CCRTIT2TXXX"",""causal"":""Baobab 4 Ucraina"",""ccPostal"":"""",""description"":""Baobab Experience \u00e8 una realt\u00e0 grass roots, un\u2019associazione che nasce dal basso, dalla cittadinanza attiva e dal senso di umanit\u00e0 e responsabilit\u00e0 sociale di donne e uomini, ragazze e ragazzi.\nAlcuni di loro sono adesso a Palanca, al confine tra Ucraina e Moldavia per conoscere le esigenze delle persone in movimento e organizzare i passaggi sicuri per l'Italia.\nInoltre, con il supporto di altre associazioni, sono attivi per per l'evacuazione di alcuni studenti nigeriani rimasti intrappolatati in Ucraina."",""email"":"""",""heading"":""BAOBAB EXPERIENCE"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT60I0501803200000016788945"",""label"":""fundraising"",""link"":""https://baobabexperience.org/supporta/"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8896107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Baobab experience""}","<pre><yamldata>
+title: Baobab experience
+description: 'Baobab Experience è una realtà grass roots, un’associazione che nasce
+  dal basso, dalla cittadinanza attiva e dal senso di umanità e responsabilità sociale
+  di donne e uomini, ragazze e ragazzi.
+
+  Alcuni di loro sono adesso a Palanca, al confine tra Ucraina e Moldavia per conoscere
+  le esigenze delle persone in movimento e organizzare i passaggi sicuri per l''Italia.
+
+  Inoltre, con il supporto di altre associazioni, sono attivi per per l''evacuazione
+  di alcuni studenti nigeriani rimasti intrappolatati in Ucraina.'
+heading: BAOBAB EXPERIENCE
+iban: IT60I0501803200000016788945
+bicSwift: CCRTIT2TXXX
+ccPostal: ''
+causal: Baobab 4 Ucraina
+link: https://baobabexperience.org/supporta/
+email: ''
+location:
+  mode: autocomplete
+  address:
+    place_id: 283767136
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 41485
+    boundingbox:
+    - '41.6556417'
+    - '42.1410285'
+    - '12.2344669'
+    - '12.8557603'
+    lat: '41.8933203'
+    lon: '12.4829321'
+    display_name: Roma, Roma Capitale, Lazio, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8896107180689524
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+Posizione: 41.8933203 12.4829321
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/386,1183983959,2022-03-28 21:45:22,2022-03-28 20:57:57,"Pad ""Info&Solidarity_against_War"" con info e contatti utili sul territorio milanese e non solo per emergenza Ucraina ",45.4641943,9.1896346,Lombardia,Milano,"[""Valid/Accettato"",""materialGoods"",""hospitality"",""healthcare"",""document_data"",""Resources""]",,,"{""Posizione"":""45.4641943 9.1896346"",""description"":""A seguito dell'attuale crisi umanitaria che si \u00e8 scatenata con l\u2019invasione dell'Ucraina da parte della Russia, la rete Mutualismo solidale contro la guerra in Ucraina ha creato uno strumento per promuovere e orientarsi nel mondo della solidariet\u00e0, dell'informazione e delle proteste in corso contro la guerra. \nNel pad, sempre in aggiornamento, troverai quindi:\n- una selezione di canali di aiuto verificati e presenti sul territorio milanese ed europeo, sia relativi al soccorso sanitario, economico e di beni essenziali, sia relativi ai circuiti dell'accoglienza, con particolare attenzione alle categorie sociali pi\u00f9 fragili.\n- una rassegna di media indipendenti, di appelli e di iniziative di protesta contro la guerra.\nSe vuoi segnalare canali di aiuto o di informazione che non sono presenti nel pad, scrivi alla pagina in dm o condividi sulla bacheca."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://tinyurl.com/InfoandsolidarityAgainstWar"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""state"":""Lombardia""},""boundingbox"":[""45.3867381"",""45.5358482"",""9.0408867"",""9.2781103""],""class"":""boundary"",""display_name"":""Milano, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8390652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":44915,""osm_type"":""relation"",""place_id"":283684439,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""PAD \""Info&Solidarity_against_War\""""}","<pre><yamldata>
+title: PAD ""Info&Solidarity_against_War""
+description: ""A seguito dell'attuale crisi umanitaria che si è scatenata con l’invasione\
+  \ dell'Ucraina da parte della Russia, la rete Mutualismo solidale contro la guerra\
+  \ in Ucraina ha creato uno strumento per promuovere e orientarsi nel mondo della\
+  \ solidarietà, dell'informazione e delle proteste in corso contro la guerra. \n\
+  Nel pad, sempre in aggiornamento, troverai quindi:\n- una selezione di canali di\
+  \ aiuto verificati e presenti sul territorio milanese ed europeo, sia relativi al\
+  \ soccorso sanitario, economico e di beni essenziali, sia relativi ai circuiti dell'accoglienza,\
+  \ con particolare attenzione alle categorie sociali più fragili.\n- una rassegna\
+  \ di media indipendenti, di appelli e di iniziative di protesta contro la guerra.\n\
+  Se vuoi segnalare canali di aiuto o di informazione che non sono presenti nel pad,\
+  \ scrivi alla pagina in dm o condividi sulla bacheca.""
+link: https://tinyurl.com/InfoandsolidarityAgainstWar
+location:
+  mode: autocomplete
+  address:
+    place_id: 283684439
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 44915
+    boundingbox:
+    - '45.3867381'
+    - '45.5358482'
+    - '9.0408867'
+    - '9.2781103'
+    lat: '45.4641943'
+    lon: '9.1896346'
+    display_name: Milano, Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8390652078701348
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Milano
+      county: Milano
+      state: Lombardia
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.4641943 9.1896346
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/383,1183809862,2022-03-28 21:41:35,2022-03-28 18:16:03,"Online HopeUkraine.it, sito con info su raccolta beni e accoglienza dei rifugiati ucraini in Veneto e Friuli",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Veneto""},""boundingbox"":[""44.7924256"",""46.6806162"",""10.6231032"",""13.1021703""],""class"":""boundary"",""display_name"":""Veneto, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7790742334161929,""lat"":""45.6476663"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.8665254"",""osm_id"":43648,""osm_type"":""relation"",""place_id"":285035361,""type"":""administrative""},""mode"":""autocomplete""},""description"":""E\u2019 online il sito Hope Ukraine, promosso in collaborazione con il Consolato Onorario di Ucraina per Veneto, Friuli-Venezia Giulia, Trentino Alto Adige e Confindustria Ucraina. All\u2019interno delle pagine del sito si possono trovare le informazioni utili per la raccolta di beni di prima necessit\u00e0 in Veneto e Friuli, come richiedere o attivare un alloggio, e tutti i numeri di telefono e indirizzi mail per l\u2019emergenza."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Consolato Onorario di Ucraina per Veneto, Friuli-Venezia Giulia, Trentino Alto Adige e Confindustria Ucraina"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Online HopeUkraine.it, sito con info su raccolta beni e accoglienza dei rifugiati ucraini in Veneto e Friuli"",""url"":""https://hopeukraine.it""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
