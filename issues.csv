@@ -1,4 +1,131 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/389,1183997828,2022-03-28 21:51:22,2022-03-28 21:11:41,A Milano la comunità di Sant’Egidio organizza corsi di italiano gratuiti per profughi ucraini,,,,,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""3"",""office"":""Comunit\u00e0 di Sant'Egidio"",""postcode"":""20123"",""quarter"":""Magenta - San Vittore"",""road"":""Via degli Olivetani"",""state"":""Lombardia"",""suburb"":""Municipio 1""},""boundingbox"":[""45.4622518"",""45.4623518"",""9.1692368"",""9.1693368""],""class"":""office"",""display_name"":""Comunit\u00e0 di Sant'Egidio, 3, Via degli Olivetani, Magenta - San Vittore, Municipio 1, Milano, Lombardia, 20123, Italia"",""importance"":0.411,""lat"":""45.4623018"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1692868"",""osm_id"":5747868526,""osm_type"":""node"",""place_id"":62532919,""type"":""association""},""mode"":""autocomplete""},""description"":""Corsi di Italiano gratuiti per chi fugge dalla guerra in Ucraina organizzati dalla Comunit\u00e0 di Sant\u2019Egidio. Iscrizioni sabato 2 aprile dalle 11.30 in Via Olivetani 3, Milano."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Sant'Egidio Milano"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Corsi di italiano"",""url"":""""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Sant'Egidio Milano
+title: Corsi di italiano
+recipients: ''
+description: 'Corsi di Italiano gratuiti per chi fugge dalla guerra in Ucraina organizzati dalla Comunità di Sant’Egidio. Iscrizioni sabato 2 aprile dalle 11.30 in Via Olivetani 3, Milano.'
+url: ''
+address:
+  mode: autocomplete
+  address:
+    place_id: 62532919
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 5747868526
+    boundingbox:
+    - '45.4622518'
+    - '45.4623518'
+    - '9.1692368'
+    - '9.1693368'
+    lat: '45.4623018'
+    lon: '9.1692868'
+    display_name: Comunità di Sant'Egidio, 3, Via degli Olivetani, Magenta - San Vittore,
+      Municipio 1, Milano, Lombardia, 20123, Italia
+    class: office
+    type: association
+    importance: 0.411
+    address:
+      office: Comunità di Sant'Egidio
+      house_number: '3'
+      road: Via degli Olivetani
+      quarter: Magenta - San Vittore
+      suburb: Municipio 1
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20123'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/388,1183993988,2022-03-28 21:49:21,2022-03-28 21:07:46,Raccolta fondi di Fondazione AVSI per emergenza Ucraina,45.4641943,9.1896346,Lombardia,Milano,"[""Valid/Accettato"",""fundraising""]",,,"{""Posizione"":""45.4641943 9.1896346"",""bicSwift"":""UNCRITMM"",""causal"":""\u201cEmergenza Ucraina\u201d"",""ccPostal"":"""",""description"":""Operativa in Ucraina dal 2014, grazie alla collaborazione con Emmaus, un\u2019organizzazione locale, ha mantenuto negli anni un rapporto di vicinanza con la popolazione ucraina. Sono state avviate e sono in avvio attivit\u00e0 diverse con un approccio multisettoriale flessibile in base all\u2019evoluzione della crisi e dei bisogni localmente riscontrati quali: - Fornitura e trasporto di beni, all'interno della Polonia e dalla Polonia all'Ucraina: - prodotti alimentari e non alimentari salvavita; - distribuzione di kit per l'igiene - personale e di kit di protezione COVID-19; - Terapia e servizi di recupero per i bambini, in particolare i bambini con disabilit\u00e0; - Supporto per il trasporto degli sfollati dal confine ai centri di transito e accoglienza; - Supporto al coordinamento dei volontari coinvolti nelle operazioni di prima accoglienza; - Supporto al censimento e alla registrazione delle famiglie presenti nei centri di -  accoglienza per garantire la tracciabilit\u00e0 e il sostegno personalizzato; -  Supporto ai casi speciali: identificazione, accompagnamento e referral di casi con bisogni speciali o particolari vulnerabilit\u00e0, per una presa in carico personalizzata (donne, minori separati o non accompagnati, disabili) - Allestimento di spazi a misura di bambino all'interno dei centri di accoglienza temporanea e a breve/medio termine per i rifugiati ucraini; - Servizi di traduzione e informazione per l'orientamento e l\u2019integrazione. - Organizzazione di corsi di lingua per facilitare l'integrazione sociale temporanea o di medio termine per gli sfollati nei paesi ospitanti; - Sostegno economico per le spese di affitto alle famiglie ospitanti in risposta alle esigenze abitative; - Sostegno alle famiglie ospitanti -  Buoni pasto da spendere nell'area di intervento\nPer questo allo scoppio della guerra ha organizzato subito interventi di emergenza nelle zone di confine: in Polonia, Romania, Ucraina e Moldavia.\nIl 16 marzo \u00e8 stato attivato un punto di informazione e coordinamento per rispondere alle numerose richieste dei profughi in arrivo dall\u2019Ucraina e per coordinare l\u2019offerta di accoglienza di famiglie italiane."",""email"":"""",""heading"":""FONDAZIONE AVSI"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT 22 T 02008 01603 000102945081"",""label"":""fundraising"",""link"":""https://www.avsi.org/it/campaign/emergenza-ucraina-helpukraine/88/"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""state"":""Lombardia""},""boundingbox"":[""45.3867381"",""45.5358482"",""9.0408867"",""9.2781103""],""class"":""boundary"",""display_name"":""Milano, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8490652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":44915,""osm_type"":""relation"",""place_id"":283684439,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""AVSI""}","<pre><yamldata>
+title: AVSI
+description: 'Operativa in Ucraina dal 2014, grazie alla collaborazione con Emmaus,
+  un’organizzazione locale, ha mantenuto negli anni un rapporto di vicinanza con la
+  popolazione ucraina.
+  Sono state avviate e sono in avvio attività diverse con un approccio multisettoriale
+  flessibile in base all’evoluzione della crisi e dei bisogni localmente riscontrati
+  quali:
+  - Fornitura e trasporto di beni, all''interno della Polonia e dalla Polonia all''Ucraina:
+  - prodotti alimentari e non alimentari salvavita; 
+  - distribuzione di kit per l''igiene
+  - personale e di kit di protezione COVID-19;
+  - Terapia e servizi di recupero per i bambini, in particolare i bambini con disabilità;
+  - Supporto per il trasporto degli sfollati dal confine ai centri di transito e accoglienza;
+  - Supporto al coordinamento dei volontari coinvolti nelle operazioni di prima accoglienza;
+ - Supporto al censimento e alla registrazione delle famiglie presenti nei centri di
+-  accoglienza per garantire la tracciabilità e il sostegno personalizzato;
+-  Supporto ai casi speciali: identificazione, accompagnamento e referral di casi con
+  bisogni speciali o particolari vulnerabilità, per una presa in carico personalizzata
+  (donne, minori separati o non accompagnati, disabili)
+ - Allestimento di spazi a misura di bambino all''interno dei centri di accoglienza
+  temporanea e a breve/medio termine per i rifugiati ucraini;
+ - Servizi di traduzione e informazione per l''orientamento e l’integrazione.
+ - Organizzazione di corsi di lingua per facilitare l''integrazione sociale temporanea
+  o di medio termine per gli sfollati nei paesi ospitanti;
+ - Sostegno economico per le spese di affitto alle famiglie ospitanti in risposta alle
+  esigenze abitative;
+ - Sostegno alle famiglie ospitanti
+-  Buoni pasto da spendere nell''area di intervento
+
+  Per questo allo scoppio della guerra ha organizzato subito interventi di emergenza
+  nelle zone di confine: in Polonia, Romania, Ucraina e Moldavia.
+
+  Il 16 marzo è stato attivato un punto di informazione e coordinamento per rispondere
+  alle numerose richieste dei profughi in arrivo dall’Ucraina e per coordinare l’offerta
+  di accoglienza di famiglie italiane.'
+heading: FONDAZIONE AVSI
+iban: IT 22 T 02008 01603 000102945081
+bicSwift: UNCRITMM
+ccPostal: ''
+causal: “Emergenza Ucraina”
+link: https://www.avsi.org/it/campaign/emergenza-ucraina-helpukraine/88/
+email: ''
+location:
+  mode: autocomplete
+  address:
+    place_id: 283684439
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 44915
+    boundingbox:
+    - '45.3867381'
+    - '45.5358482'
+    - '9.0408867'
+    - '9.2781103'
+    lat: '45.4641943'
+    lon: '9.1896346'
+    display_name: Milano, Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8490652078701348
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Milano
+      county: Milano
+      state: Lombardia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+Posizione: 45.4641943 9.1896346
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/387,1183987866,2022-03-28 21:46:43,2022-03-28 21:02:20,Raccolta fondi di Baobab experience per supportare i rifugiati ucraini ,41.8933203,12.4829321,Lazio,Roma,"[""Valid/Accettato"",""fundraising""]",,,"{""Posizione"":""41.8933203 12.4829321"",""bicSwift"":""CCRTIT2TXXX"",""causal"":""Baobab 4 Ucraina"",""ccPostal"":"""",""description"":""Baobab Experience \u00e8 una realt\u00e0 grass roots, un\u2019associazione che nasce dal basso, dalla cittadinanza attiva e dal senso di umanit\u00e0 e responsabilit\u00e0 sociale di donne e uomini, ragazze e ragazzi.\nAlcuni di loro sono adesso a Palanca, al confine tra Ucraina e Moldavia per conoscere le esigenze delle persone in movimento e organizzare i passaggi sicuri per l'Italia.\nInoltre, con il supporto di altre associazioni, sono attivi per per l'evacuazione di alcuni studenti nigeriani rimasti intrappolatati in Ucraina."",""email"":"""",""heading"":""BAOBAB EXPERIENCE"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT60I0501803200000016788945"",""label"":""fundraising"",""link"":""https://baobabexperience.org/supporta/"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8896107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Baobab experience""}","<pre><yamldata>
 title: Baobab experience
 description: 'Baobab Experience è una realtà grass roots, un’associazione che nasce
