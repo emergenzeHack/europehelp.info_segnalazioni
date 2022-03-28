@@ -1,4 +1,332 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/305,1178515936,2022-03-28 15:50:33,2022-03-23 18:38:48,"#Napoli, punti di raccolta beni e corsi di italiano per rifugiati ucraini a Forcella",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Santa Maria della Pace"",""city"":""Napoli"",""country"":""Italia"",""country_code"":""it"",""county"":""Napoli"",""postcode"":""80139"",""road"":""Via dei Tribunali"",""state"":""Campania"",""suburb"":""San Lorenzo""},""boundingbox"":[""40.8520942"",""40.8525011"",""14.2617887"",""14.2621931""],""class"":""amenity"",""display_name"":""Santa Maria della Pace, Via dei Tribunali, San Lorenzo, Municipalit\u00e0 4, Napoli, Campania, 80139, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//place_of_worship_unknown3.p.20.png"",""importance"":0.8607105064618923,""lat"":""40.852331500000005"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.26197419863412"",""osm_id"":183749378,""osm_type"":""way"",""place_id"":145636181,""type"":""place_of_worship""},""mode"":""autocomplete""},""description"":""Ecco dove a Forcella (Napoli) si raccolgono beni umanitari per l\u2019emergenza Ucraina e si offrono servizi di supporto ai profughi ucraini:\n\n- Gli studenti dell\u2019Istituto Comprensivo Adelaide Ristori (via L. D\u2019Alagno 16) stanno raccogliendo, insieme alle loro famiglie, aiuti per i profughi. Dopo averli raccolti all\u2019interno dell\u2019Istituto verranno consegnati ai centri di smistamento per raggiungere le popolazioni colpite dalla guerra. Gli studenti stanno anche preparando dei messaggi di solidariet\u00e0 per accogliere i bambini rifugiati.\n\n- Nella Chiesa di Santa Maria del Rifugio (via dei Tribunali 188), utilizzata dall\u2019Associazione Samb e Diop per l\u2019integrazione dei migranti, si fornisce assistenza e vestiario per i profughi provenienti dai paesi in guerra e si organizzano corsi di lingua italiana.\n\n- Nella Chiesa di Santa Maria della Pace (via dei Tribunali 181), affidata alla comunit\u00e0 ucraina di rito bizantino, ogni marted\u00ec e sabato dalle ore 9 alle ore 16 vengono raccolti alimenti a lunga conservazione, medicinali di prima necessit\u00e0, pannolini per bambini e prodotti per l\u2019igiene da spedire in Ucraina."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazioni di Forcella (Na)"",""recipients"":"""",""submit"":true,""title"":""Napoli, punti di raccolta beni e corsi di italiano per rifugiati ucraini a Forcella"",""type"":""materialGoods"",""url"":""http://www.napolicittasolidale.it/portal/news/11135-attivit%C3%A0-di-accoglienza-e-supporto-della-comunit%C3%A0-di-forcella-per-la-pace.html""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: Associazioni di Forcella (Na)
+title: Napoli, punti di raccolta beni e corsi di italiano per rifugiati ucraini a
+  Forcella
+recipients: ''
+description: 'Ecco dove a Forcella (Napoli) si raccolgono beni umanitari per l’emergenza
+  Ucraina e si offrono servizi di supporto ai profughi ucraini:
+
+
+  - Gli studenti dell’Istituto Comprensivo Adelaide Ristori (via L. D’Alagno 16) stanno
+  raccogliendo, insieme alle loro famiglie, aiuti per i profughi. Dopo averli raccolti
+  all’interno dell’Istituto verranno consegnati ai centri di smistamento per raggiungere
+  le popolazioni colpite dalla guerra. Gli studenti stanno anche preparando dei messaggi
+  di solidarietà per accogliere i bambini rifugiati.
+
+
+  - Nella Chiesa di Santa Maria del Rifugio (via dei Tribunali 188), utilizzata dall’Associazione
+  Samb e Diop per l’integrazione dei migranti, si fornisce assistenza e vestiario
+  per i profughi provenienti dai paesi in guerra e si organizzano corsi di lingua
+  italiana.
+
+
+  - Nella Chiesa di Santa Maria della Pace (via dei Tribunali 181), affidata alla
+  comunità ucraina di rito bizantino, ogni martedì e sabato dalle ore 9 alle ore 16
+  vengono raccolti alimenti a lunga conservazione, medicinali di prima necessità,
+  pannolini per bambini e prodotti per l’igiene da spedire in Ucraina.'
+url: http://www.napolicittasolidale.it/portal/news/11135-attivit%C3%A0-di-accoglienza-e-supporto-della-comunit%C3%A0-di-forcella-per-la-pace.html
+address:
+  mode: autocomplete
+  address:
+    place_id: 145636181
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 183749378
+    boundingbox:
+    - '40.8520942'
+    - '40.8525011'
+    - '14.2617887'
+    - '14.2621931'
+    lat: '40.852331500000005'
+    lon: '14.26197419863412'
+    display_name: Santa Maria della Pace, Via dei Tribunali, San Lorenzo, Municipalità
+      4, Napoli, Campania, 80139, Italia
+    class: amenity
+    type: place_of_worship
+    importance: 0.8607105064618923
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//place_of_worship_unknown3.p.20.png
+    address:
+      amenity: Santa Maria della Pace
+      road: Via dei Tribunali
+      suburb: San Lorenzo
+      city: Napoli
+      county: Napoli
+      state: Campania
+      postcode: '80139'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/342,1180690539,2022-03-28 15:49:50,2022-03-25 11:37:44,Caritas Ferrara cerca appartamenti per l’accoglienza dei profughi ucraini,44.8295403,11.6273477,Emilia-Romagna,Ferrara,"[""Valid/Accettato"",""Help"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""44.8295403 11.6273477"",""description"":""Caritas Ferrara cerca unit\u00e0 abitative autonome per l\u2019accoglienza dei profughi ucraini. Clicca QUI per ulteriori informazioni. Chi vuole mettere a disposizione uno spazio nel territorio ferrarese pu\u00f2 contattare caritasfe@libero.it indicando come oggetto \u201cDisponibilit\u00e0 per profughi ucraini\u201d"",""email"":""caritasfe@libero.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Ferrara"",""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""house_number"":""19"",""neighbourhood"":""Centro cittadino"",""postcode"":""44121"",""road"":""Via Brasavola"",""state"":""Emilia-Romagna"",""suburb"":""Quacchio""},""boundingbox"":[""44.8294903"",""44.8295903"",""11.6272977"",""11.6273977""],""class"":""place"",""display_name"":""19, Via Brasavola, Centro cittadino, Quacchio, Ferrara, Emilia-Romagna, 44121, Italia"",""importance"":0.5309999999999999,""lat"":""44.8295403"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.6273477"",""osm_id"":4761953354,""osm_type"":""node"",""place_id"":54053938,""type"":""house""},""mode"":""autocomplete""},""nameSurname"":""Caritas Ferrara"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Caritas Ferrara cerca appartamenti per l\u2019accoglienza dei profughi ucraini"",""url"":""https://www.caritasfe.it/cercasi-appartamenti-profughi-ucraini/""}","<pre><yamldata>
+nameSurname: Caritas Ferrara
+phoneNumber: ''
+email: caritasfe@libero.it
+title: Caritas Ferrara cerca appartamenti per l’accoglienza dei profughi ucraini
+recipients: ''
+description: Caritas Ferrara cerca unità abitative autonome per l’accoglienza dei
+  profughi ucraini. Clicca QUI per ulteriori informazioni. Chi vuole mettere a disposizione
+  uno spazio nel territorio ferrarese può contattare caritasfe@libero.it indicando
+  come oggetto “Disponibilità per profughi ucraini”
+url: https://www.caritasfe.it/cercasi-appartamenti-profughi-ucraini/
+location:
+  mode: autocomplete
+  address:
+    place_id: 54053938
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 4761953354
+    boundingbox:
+    - '44.8294903'
+    - '44.8295903'
+    - '11.6272977'
+    - '11.6273977'
+    lat: '44.8295403'
+    lon: '11.6273477'
+    display_name: 19, Via Brasavola, Centro cittadino, Quacchio, Ferrara, Emilia-Romagna,
+      44121, Italia
+    class: place
+    type: house
+    importance: 0.5309999999999999
+    address:
+      house_number: '19'
+      road: Via Brasavola
+      neighbourhood: Centro cittadino
+      suburb: Quacchio
+      city: Ferrara
+      county: Ferrara
+      state: Emilia-Romagna
+      postcode: '44121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 44.8295403 11.6273477
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/361,1181852464,2022-03-28 15:48:54,2022-03-26 15:43:00,"A Milano Terres des Hommes offre servizi di prima accoglienza a donne e minori (visite mediche, cibo, beni, mediazione linguistica, supporto psicologico)",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""healthcare"",""translation"",""psychologicalSupport"",""Children"",""women"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20016"",""quarter"":""Gallaratese"",""road"":""Via Appennini"",""state"":""Lombardia"",""suburb"":""Quartiere Gallaratese""},""boundingbox"":[""45.506373"",""45.5065396"",""9.0976711"",""9.0977629""],""class"":""highway"",""display_name"":""Via Appennini, Gallaratese, Quartiere Gallaratese, Milano, Lombardia, 20016, Italia"",""importance"":0.4,""lat"":""45.506373"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.0976711"",""osm_id"":282060659,""osm_type"":""way"",""place_id"":170099285,""type"":""tertiary""},""mode"":""autocomplete""},""description"":""Terres des hommes offre servizi di prima accoglienza per dare informazioni, ascolto e prientamento a donne e minori. \nPresso lo  spazio \""Indifesa\"" \u00e8 possibile trovare:\n- distribuzione cibo e beni di prima necessit\u00e0\n- visite mediche e pediatriche\n- sportello di supporto psicologico\n- mediazione culturale\n- corsi di italiano per bambini e adulti\n\nper informazioni contattare lo spazio Indifesa al numero whatsapp (solo messaggi) 3756573747 o scrivendo una mail a spazioindifesa@tdhitaly.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Terres des hommes"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":true},""submit"":true,""title"":""Servizi di prima accoglienza per donne e minori a Milano"",""url"":""https://www.facebook.com/groups/ukrainehelpit/permalink/466764085192545/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: true
+  education: false
+offerFromWho: Terres des hommes
+title: Servizi di prima accoglienza per donne e minori a Milano
+recipients: ''
+description: ""Terres des hommes offre servizi di prima accoglienza per dare informazioni,\
+  \ ascolto e prientamento a donne e minori. \nPresso lo  spazio \""Indifesa\"" è possibile\
+  \ trovare:\n- distribuzione cibo e beni di prima necessità\n- visite mediche e pediatriche\n\
+  - sportello di supporto psicologico\n- mediazione culturale\n- corsi di italiano\
+  \ per bambini e adulti\n\nper informazioni contattare lo spazio Indifesa al numero\
+  \ whatsapp (solo messaggi) 3756573747 o scrivendo una mail a spazioindifesa@tdhitaly.org""
+url: 'https://www.facebook.com/groups/ukrainehelpit/permalink/466764085192545/'
+address:
+  mode: autocomplete
+  address:
+    place_id: 170099285
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 282060659
+    boundingbox:
+    - '45.506373'
+    - '45.5065396'
+    - '9.0976711'
+    - '9.0977629'
+    lat: '45.506373'
+    lon: '9.0976711'
+    display_name: Via Appennini, Gallaratese, Quartiere Gallaratese, Milano, Lombardia,
+      20016, Italia
+    class: highway
+    type: tertiary
+    importance: 0.4
+    address:
+      road: Via Appennini
+      quarter: Gallaratese
+      suburb: Quartiere Gallaratese
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20016'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/367,1182148287,2022-03-28 15:48:31,2022-03-26 22:52:49,"Catanzaro, falsi volontari della Croce Rossa chiedono denaro per profughi ucraini",38.82996034999999,16.43155687627833,Calabria,Catanzaro,"[""Valid/Accettato"",""fakenews"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""38.82996034999999 16.43155687627833"",""description"":""In diversi quartieri di Catanzaro, spacciandosi per volontari della Croce Rossa Italiana, con tanto di divise taroccate, tre uomini stanno girando tra le abitazioni, col classico modus operandi del \u2018porta a porta\u2019, chiedendo offerte libere da destinare \u2013 a loro dire \u2013 ai profughi in fuga dall\u2019Ucraina."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""fakenews"",""link"":""https://calabria7.it/chiedono-offerte-per-i-profughi-ucraini-ma-sono-falsi-volontari-e-allarme-a-catanzaro/"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Catanzaro"",""state"":""Calabria""},""boundingbox"":[""38.4633398"",""39.1942391"",""16.0957168"",""16.9205972""],""class"":""boundary"",""display_name"":""Catanzaro, Calabria, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7316511232379147,""lat"":""38.82996034999999"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.43155687627833"",""osm_id"":39637,""osm_type"":""relation"",""place_id"":283899205,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Catanzaro, falsi volontari della Croce Rossa chiedono denaro per profughi ucraini""}","<pre><yamldata>
+title: Catanzaro, falsi volontari della Croce Rossa chiedono denaro per profughi ucraini
+description: In diversi quartieri di Catanzaro, spacciandosi per volontari della Croce
+  Rossa Italiana, con tanto di divise taroccate, tre uomini stanno girando tra le
+  abitazioni, col classico modus operandi del ‘porta a porta’, chiedendo offerte libere
+  da destinare – a loro dire – ai profughi in fuga dall’Ucraina.
+link: https://calabria7.it/chiedono-offerte-per-i-profughi-ucraini-ma-sono-falsi-volontari-e-allarme-a-catanzaro/
+location:
+  mode: autocomplete
+  address:
+    place_id: 283899205
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 39637
+    boundingbox:
+    - '38.4633398'
+    - '39.1942391'
+    - '16.0957168'
+    - '16.9205972'
+    lat: '38.82996034999999'
+    lon: '16.43155687627833'
+    display_name: Catanzaro, Calabria, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7316511232379147
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Catanzaro
+      state: Calabria
+      country: Italia
+      country_code: it
+label: fakenews
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 38.82996034999999 16.43155687627833
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/376,1182675301,2022-03-28 15:47:51,2022-03-27 21:53:35,A Prato corsi gratuiti di italiano per profughi ucraini,,,,,"[""Valid/Accettato"",""Services"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Prato"",""country"":""Italia"",""country_code"":""it"",""county"":""Prato"",""neighbourhood"":""il Cantiere"",""postcode"":""59100"",""road"":""Via del Carmine"",""state"":""Toscana"",""suburb"":""I lecci""},""boundingbox"":[""43.8796714"",""43.8797041"",""11.1017519"",""11.1017938""],""class"":""highway"",""display_name"":""Via del Carmine, il Cantiere, I lecci, Prato, Toscana, 59100, Italia"",""importance"":0.5,""lat"":""43.8797041"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.1017938"",""osm_id"":810705866,""osm_type"":""way"",""place_id"":258121428,""type"":""residential""},""mode"":""autocomplete""},""description"":""Presso la Chiesa di S. Bartolomeo a Prato corsi gratuiti di italiano per profughi ucraini marted\u00ec e gioved\u00ec, ore 9.30-11.30 e 15.00-17.00."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Parrocchia San Bartolomeo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Prato corsi gratuiti di italiano per profughi ucraini"",""url"":""https://t.me/+PvNrxFL5_nU0NzQy""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Parrocchia San Bartolomeo
+title: A Prato corsi gratuiti di italiano per profughi ucraini
+recipients: ''
+description: Presso la Chiesa di S. Bartolomeo a Prato corsi gratuiti di italiano
+  per profughi ucraini martedì e giovedì, ore 9.30-11.30 e 15.00-17.00.
+url: https://t.me/+PvNrxFL5_nU0NzQy
+address:
+  mode: autocomplete
+  address:
+    place_id: 258121428
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 810705866
+    boundingbox:
+    - '43.8796714'
+    - '43.8797041'
+    - '11.1017519'
+    - '11.1017938'
+    lat: '43.8797041'
+    lon: '11.1017938'
+    display_name: Via del Carmine, il Cantiere, I lecci, Prato, Toscana, 59100, Italia
+    class: highway
+    type: residential
+    importance: 0.5
+    address:
+      road: Via del Carmine
+      neighbourhood: il Cantiere
+      suburb: I lecci
+      city: Prato
+      county: Prato
+      state: Toscana
+      postcode: '59100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/375,1182671718,2022-03-28 15:47:38,2022-03-27 21:39:22,"Job for Ukrainians, canale Telegram in ucraino con offerte di lavoro in Europa e Nord America ",,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""job"",""telegram-channel"",""tweet"",""Resources""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""aim"":""Canale Telegram in ucraino dedicato ad offerte di lavoro in Europa e Nord America per profughi ucraini. Disponibile anche bot @jobforukrainiansvacancy_bot per inviare le offerte di lavoro (in ucraino e inglese)."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":"""",""submit"":true,""title"":""Canale Telegram Job for Ukrainians"",""url"":""https://t.me/jobforukrainians""}","<pre><yamldata>
+title: Canale Telegram Job for Ukrainians
+phoneNumber: ''
+email: ''
+aim: Canale Telegram in ucraino dedicato ad offerte di lavoro in Europa e Nord America per profughi
+  ucraini. Disponibile anche bot @jobforukrainiansvacancy_bot per inviare le offerte
+  di lavoro (in ucraino e inglese).
+url: https://t.me/jobforukrainians
+address:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/379,1183478145,2022-03-28 15:47:08,2022-03-28 13:52:47,Comuni del Rhodense (Milano) aprono sportello di informazione e orientamento per rifugiati ucraini e per cittadini che vogliono accogliere,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Rho"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20017"",""state"":""Lombardia""},""boundingbox"":[""45.5023371"",""45.5597497"",""9.0064843"",""9.0963721""],""class"":""boundary"",""display_name"":""Rho, Milano, Lombardia, 20017, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.6191776974939128,""lat"":""45.531035450000005"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.046346923178804"",""osm_id"":45188,""osm_type"":""relation"",""place_id"":283848081,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Sercop ha attivato uno SPORTELLO di informazione e orientamento sia per cittadini ucraini sia per cittadini residenti nel Rhodense che li stanno ospitando\n\nPer ricevere assistenza scrivi a emergenza.ucraina@sercop.it oppure chiama il numero verde 800 744 088 dal luned\u00ec al venerd\u00ec dalle ore 9.00 alle ore 16.00\n\nIl numero verde \u00e8 attivo da luned\u00ec 14 marzo\n\nSar\u00e0 possibile rivolgersi allo sportello per ricevere informazioni su:\n\nProcedure di registrazione e di denuncia della presenza sul territorio\nScreening sanitario e vaccinazione Covid-19 presso il PUNTO UNICO DI ACCESSO della ASST RHODENSE\nLo sportello si trova c/o Auditorium di via Meda, 20 a Rho. L'accesso al pubblico \u00e8 solo su appuntamento \n\nGli operatori dello sportello sono a disposizione per prendere in carico le vostre richieste e orientare verso le soluzioni pi\u00f9 adeguate sul territorio"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comuni del Rhodense"",""recipients"":""Cittadini Ucraini e cittadini Rhodensi che stanno ospitando cittadini Ucraini"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""I comuni del Rhodense aprono uno sportello di informazione e orientamento"",""url"":""http://www.sercop.it/index.php?section_id=919&p=articles&o=view&article_id=625""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: false
+  healthcare: true
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Comuni del Rhodense
+title: I comuni del Rhodense aprono uno sportello di informazione e orientamento
+recipients: Cittadini Ucraini e cittadini Rhodensi che stanno ospitando cittadini
+  Ucraini
+description: ""Sercop ha attivato uno SPORTELLO di informazione e orientamento sia\
+  \ per cittadini ucraini sia per cittadini residenti nel Rhodense che li stanno ospitando\n\
+  \nPer ricevere assistenza scrivi a emergenza.ucraina@sercop.it oppure chiama il\
+  \ numero verde 800 744 088 dal lunedì al venerdì dalle ore 9.00 alle ore 16.00\n\
+  \nIl numero verde è attivo da lunedì 14 marzo\n\nSarà possibile rivolgersi allo\
+  \ sportello per ricevere informazioni su:\n\nProcedure di registrazione e di denuncia\
+  \ della presenza sul territorio\nScreening sanitario e vaccinazione Covid-19 presso\
+  \ il PUNTO UNICO DI ACCESSO della ASST RHODENSE\nLo sportello si trova c/o Auditorium\
+  \ di via Meda, 20 a Rho. L'accesso al pubblico è solo su appuntamento \n\nGli operatori\
+  \ dello sportello sono a disposizione per prendere in carico le vostre richieste\
+  \ e orientare verso le soluzioni più adeguate sul territorio""
+url: http://www.sercop.it/index.php?section_id=919&p=articles&o=view&article_id=625
+address:
+  mode: autocomplete
+  address:
+    place_id: 283848081
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 45188
+    boundingbox:
+    - '45.5023371'
+    - '45.5597497'
+    - '9.0064843'
+    - '9.0963721'
+    lat: '45.531035450000005'
+    lon: '9.046346923178804'
+    display_name: Rho, Milano, Lombardia, 20017, Italia
+    class: boundary
+    type: administrative
+    importance: 0.6191776974939128
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Rho
+      county: Milano
+      state: Lombardia
+      postcode: '20017'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/351,1181575340,2022-03-28 13:30:48,2022-03-26 07:36:57,La voce dei bambini onlus Ancona offre supporto psicologico ai bambini rifugiati e aiuto alle famiglie ospitanti ,,,,,"[""Valid/Accettato"",""Services"",""psychologicalSupport"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Ancona"",""country"":""Italia"",""country_code"":""it"",""county"":""Ancona"",""highway"":""Via Giannelli"",""postcode"":""60122"",""quarter"":""Borgo Rodi"",""road"":""Via Antonio Giannelli"",""state"":""Marche""},""boundingbox"":[""43.615301"",""43.615401"",""13.518675"",""13.518775""],""class"":""highway"",""display_name"":""Via Giannelli, Via Antonio Giannelli, Borgo Rodi, Ancona, Marche, 60122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//transport_bus_stop2.p.20.png"",""importance"":0.30100000000000005,""lat"":""43.615351"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.518725"",""osm_id"":1311371863,""osm_type"":""node"",""place_id"":12744993,""type"":""bus_stop""},""mode"":""autocomplete""},""description"":""L\u2019associazione mette a disposizione gratuitamente psicologhe specializzate in traumi infantili e apre uno sportello di as loro per le famiglie ospitanti. Contatti al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""La voce dei bambini onlus Ancona"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""La voce dei bambini onlus Ancona Offre supporto psicologico ai bambini rifugiati e supporto alle famiglie ospitanti"",""url"":""https://www.facebook.com/groups/ukrainehelpit/permalink/466719258530361/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -923,73 +1251,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/376,1182675301,2022-03-27 21:53:51,2022-03-27 21:53:35,A Prato corsi gratuiti di italiano per profughi ucraini,,,,,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Prato"",""country"":""Italia"",""country_code"":""it"",""county"":""Prato"",""neighbourhood"":""il Cantiere"",""postcode"":""59100"",""road"":""Via del Carmine"",""state"":""Toscana"",""suburb"":""I lecci""},""boundingbox"":[""43.8796714"",""43.8797041"",""11.1017519"",""11.1017938""],""class"":""highway"",""display_name"":""Via del Carmine, il Cantiere, I lecci, Prato, Toscana, 59100, Italia"",""importance"":0.5,""lat"":""43.8797041"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.1017938"",""osm_id"":810705866,""osm_type"":""way"",""place_id"":258121428,""type"":""residential""},""mode"":""autocomplete""},""description"":""Presso la Chiesa di S. Bartolomeo a Prato corsi gratuiti di italiano per profughi ucraini marted\u00ec e gioved\u00ec, ore 9.30-11.30 e 15.00-17.00."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Parrocchia San Bartolomeo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Prato corsi gratuiti di italiano per profughi ucraini"",""url"":""https://t.me/+PvNrxFL5_nU0NzQy""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: true
-offerFromWho: Parrocchia San Bartolomeo
-title: A Prato corsi gratuiti di italiano per profughi ucraini
-recipients: ''
-description: Presso la Chiesa di S. Bartolomeo a Prato corsi gratuiti di italiano
-  per profughi ucraini martedì e giovedì, ore 9.30-11.30 e 15.00-17.00.
-url: https://t.me/+PvNrxFL5_nU0NzQy
-address:
-  mode: autocomplete
-  address:
-    place_id: 258121428
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 810705866
-    boundingbox:
-    - '43.8796714'
-    - '43.8797041'
-    - '11.1017519'
-    - '11.1017938'
-    lat: '43.8797041'
-    lon: '11.1017938'
-    display_name: Via del Carmine, il Cantiere, I lecci, Prato, Toscana, 59100, Italia
-    class: highway
-    type: residential
-    importance: 0.5
-    address:
-      road: Via del Carmine
-      neighbourhood: il Cantiere
-      suburb: I lecci
-      city: Prato
-      county: Prato
-      state: Toscana
-      postcode: '59100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/375,1182671718,2022-03-27 21:42:41,2022-03-27 21:39:22,"Job for Ukrainians, canale Telegram in ucraino con offerte di lavoro in Europa e Nord America ",,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""job"",""Resources""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""aim"":""Canale Telegram in ucraino dedicato ad offerte di lavoro in Europa e Nord America per profughi ucraini. Disponibile anche bot @jobforukrainiansvacancy_bot per inviare le offerte di lavoro (in ucraino e inglese)."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":"""",""submit"":true,""title"":""Canale Telegram Job for Ukrainians"",""url"":""https://t.me/jobforukrainians""}","<pre><yamldata>
-title: Canale Telegram Job for Ukrainians
-phoneNumber: ''
-email: ''
-aim: Canale Telegram in ucraino dedicato ad offerte di lavoro in Europa e Nord America per profughi
-  ucraini. Disponibile anche bot @jobforukrainiansvacancy_bot per inviare le offerte
-  di lavoro (in ucraino e inglese).
-url: https://t.me/jobforukrainians
-address:
-  mode: autocomplete
-  address: {}
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: contact
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/365,1182129844,2022-03-27 09:38:11,2022-03-26 22:20:34,"Bologna, servizi educativo-scolastici gratuiti per i minori ucraini profughi",,,,,"[""Valid/Accettato"",""Services"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.421033"",""44.556094"",""11.2296206"",""11.4336079""],""class"":""boundary"",""display_name"":""Bologna, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7805771109268431,""lat"":""44.4938203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.3426327"",""osm_id"":43172,""osm_type"":""relation"",""place_id"":283848615,""type"":""administrative""},""mode"":""autocomplete""},""description"":""La giunta del Comune di Bologna ha deciso di esentare dal pagamento delle tariffe dei servizi educativi e scolastici comunali i minori provenienti dall'Ucraina in possesso del titolo di Protezione Temporanea rilasciato dalla Prefettura.\nIl Comune si far\u00e0 carico anche del pagamento della refezione scolastica e dei servizi integrativi."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Bologna"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Bologna, servizi educativo-scolastici gratuiti per i minori ucraini profughi"",""url"":""https://www.redattoresociale.it/article/notiziario/ucraina_servizi_educativo-scolastici_di_bologna_gratuiti_per_i_minori_profughi""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -1291,42 +1552,6 @@ address:
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/367,1182148287,2022-03-27 06:34:26,2022-03-26 22:52:49,"Catanzaro, falsi volontari della Croce Rossa chiedono denaro per profughi ucraini",38.82996034999999,16.43155687627833,Calabria,Catanzaro,"[""Valid/Accettato"",""fakenews""]",,,"{""Posizione"":""38.82996034999999 16.43155687627833"",""description"":""In diversi quartieri di Catanzaro, spacciandosi per volontari della Croce Rossa Italiana, con tanto di divise taroccate, tre uomini stanno girando tra le abitazioni, col classico modus operandi del \u2018porta a porta\u2019, chiedendo offerte libere da destinare \u2013 a loro dire \u2013 ai profughi in fuga dall\u2019Ucraina."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""fakenews"",""link"":""https://calabria7.it/chiedono-offerte-per-i-profughi-ucraini-ma-sono-falsi-volontari-e-allarme-a-catanzaro/"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Catanzaro"",""state"":""Calabria""},""boundingbox"":[""38.4633398"",""39.1942391"",""16.0957168"",""16.9205972""],""class"":""boundary"",""display_name"":""Catanzaro, Calabria, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7316511232379147,""lat"":""38.82996034999999"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.43155687627833"",""osm_id"":39637,""osm_type"":""relation"",""place_id"":283899205,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Catanzaro, falsi volontari della Croce Rossa chiedono denaro per profughi ucraini""}","<pre><yamldata>
-title: Catanzaro, falsi volontari della Croce Rossa chiedono denaro per profughi ucraini
-description: In diversi quartieri di Catanzaro, spacciandosi per volontari della Croce
-  Rossa Italiana, con tanto di divise taroccate, tre uomini stanno girando tra le
-  abitazioni, col classico modus operandi del ‘porta a porta’, chiedendo offerte libere
-  da destinare – a loro dire – ai profughi in fuga dall’Ucraina.
-link: https://calabria7.it/chiedono-offerte-per-i-profughi-ucraini-ma-sono-falsi-volontari-e-allarme-a-catanzaro/
-location:
-  mode: autocomplete
-  address:
-    place_id: 283899205
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 39637
-    boundingbox:
-    - '38.4633398'
-    - '39.1942391'
-    - '16.0957168'
-    - '16.9205972'
-    lat: '38.82996034999999'
-    lon: '16.43155687627833'
-    display_name: Catanzaro, Calabria, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7316511232379147
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      county: Catanzaro
-      state: Calabria
-      country: Italia
-      country_code: it
-label: fakenews
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 38.82996034999999 16.43155687627833
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/369,1182157092,2022-03-27 06:33:56,2022-03-26 23:06:33,"Torino, sportelli sociali e punti informativi per stranieri",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""psychologicalSupport"",""women""]",,,"{""address"":{""address"":{""address"":{""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""state"":""Piemonte""},""boundingbox"":[""45.0067924"",""45.1402175"",""7.5778348"",""7.7733388""],""class"":""boundary"",""display_name"":""Torino, Piemonte, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8068062387577691,""lat"":""45.0677551"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6824892"",""osm_id"":43992,""osm_type"":""relation"",""place_id"":284787924,""type"":""administrative""},""mode"":""autocomplete""},""description"":""In tutte le Case del Quartiere sono presenti spazi di ascolto, accoglienza e orientamento:\n- sportelli sociali,\n- punti informativi dedicati alla popolazione straniera.\nSe hai bisogno di supporto nello svolgimento di pratiche burocratiche o conosci qualcuno in difficolt\u00e0 vieni nelle Case DelQuartiere o prendi un appuntamento con i nostri operatori! \nQui orari e contatti dei servizi su > http://www.retecasedelquartiere.org/servizi.../accoglienza/"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Rete delle Case del quartiere"",""recipients"":""popolazione straniera"",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":true},""submit"":true,""title"":""Torino - Sportelli sociali e punti informativi"",""url"":""http://www.retecasedelquartiere.org/servizi.../accoglienza/""}","<pre><yamldata>
 servicetypes:
@@ -1809,63 +2034,6 @@ address:
       county: Ferrara
       state: Emilia-Romagna
       postcode: '44124'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/361,1181852464,2022-03-26 17:48:38,2022-03-26 15:43:00,"A Milano Terres des Hommes offre servizi di prima accoglienza a donne e minori (visite mediche, cibo, beni, mediazione linguistica, supporto psicologico)",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""healthcare"",""translation"",""psychologicalSupport"",""Children"",""women"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20016"",""quarter"":""Gallaratese"",""road"":""Via Appennini"",""state"":""Lombardia"",""suburb"":""Quartiere Gallaratese""},""boundingbox"":[""45.506373"",""45.5065396"",""9.0976711"",""9.0977629""],""class"":""highway"",""display_name"":""Via Appennini, Gallaratese, Quartiere Gallaratese, Milano, Lombardia, 20016, Italia"",""importance"":0.4,""lat"":""45.506373"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.0976711"",""osm_id"":282060659,""osm_type"":""way"",""place_id"":170099285,""type"":""tertiary""},""mode"":""autocomplete""},""description"":""Terres des hommes offre servizi di prima accoglienza per dare informazioni, ascolto e prientamento a donne e minori. \nPresso lo  spazio \""Indifesa\"" \u00e8 possibile trovare:\n- distribuzione cibo e beni di prima necessit\u00e0\n- visite mediche e pediatriche\n- sportello di supporto psicologico\n- mediazione culturale\n- corsi di italiano per bambini e adulti\n\nper informazioni contattare lo spazio Indifesa al numero whatsapp (solo messaggi) 3756573747 o scrivendo una mail a spazioindifesa@tdhitaly.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Terres des hommes"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":true},""submit"":true,""title"":""Servizi di prima accoglienza per donne e minori a Milano"",""url"":""https://www.facebook.com/groups/ukrainehelpit/permalink/466764085192545/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: true
-  disability: false
-  women: true
-  education: false
-offerFromWho: Terres des hommes
-title: Servizi di prima accoglienza per donne e minori a Milano
-recipients: ''
-description: ""Terres des hommes offre servizi di prima accoglienza per dare informazioni,\
-  \ ascolto e prientamento a donne e minori. \nPresso lo  spazio \""Indifesa\"" è possibile\
-  \ trovare:\n- distribuzione cibo e beni di prima necessità\n- visite mediche e pediatriche\n\
-  - sportello di supporto psicologico\n- mediazione culturale\n- corsi di italiano\
-  \ per bambini e adulti\n\nper informazioni contattare lo spazio Indifesa al numero\
-  \ whatsapp (solo messaggi) 3756573747 o scrivendo una mail a spazioindifesa@tdhitaly.org""
-url: 'https://www.facebook.com/groups/ukrainehelpit/permalink/466764085192545/'
-address:
-  mode: autocomplete
-  address:
-    place_id: 170099285
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 282060659
-    boundingbox:
-    - '45.506373'
-    - '45.5065396'
-    - '9.0976711'
-    - '9.0977629'
-    lat: '45.506373'
-    lon: '9.0976711'
-    display_name: Via Appennini, Gallaratese, Quartiere Gallaratese, Milano, Lombardia,
-      20016, Italia
-    class: highway
-    type: tertiary
-    importance: 0.4
-    address:
-      road: Via Appennini
-      quarter: Gallaratese
-      suburb: Quartiere Gallaratese
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20016'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
@@ -2920,52 +3088,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/342,1180690539,2022-03-25 16:34:25,2022-03-25 11:37:44,Caritas Ferrara cerca appartamenti per l’accoglienza dei profughi ucraini,44.8295403,11.6273477,Emilia-Romagna,Ferrara,"[""Valid/Accettato"",""Help"",""hospitality""]",,,"{""Posizione"":""44.8295403 11.6273477"",""description"":""Caritas Ferrara cerca unit\u00e0 abitative autonome per l\u2019accoglienza dei profughi ucraini. Clicca QUI per ulteriori informazioni. Chi vuole mettere a disposizione uno spazio nel territorio ferrarese pu\u00f2 contattare caritasfe@libero.it indicando come oggetto \u201cDisponibilit\u00e0 per profughi ucraini\u201d"",""email"":""caritasfe@libero.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Ferrara"",""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""house_number"":""19"",""neighbourhood"":""Centro cittadino"",""postcode"":""44121"",""road"":""Via Brasavola"",""state"":""Emilia-Romagna"",""suburb"":""Quacchio""},""boundingbox"":[""44.8294903"",""44.8295903"",""11.6272977"",""11.6273977""],""class"":""place"",""display_name"":""19, Via Brasavola, Centro cittadino, Quacchio, Ferrara, Emilia-Romagna, 44121, Italia"",""importance"":0.5309999999999999,""lat"":""44.8295403"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.6273477"",""osm_id"":4761953354,""osm_type"":""node"",""place_id"":54053938,""type"":""house""},""mode"":""autocomplete""},""nameSurname"":""Caritas Ferrara"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Caritas Ferrara cerca appartamenti per l\u2019accoglienza dei profughi ucraini"",""url"":""https://www.caritasfe.it/cercasi-appartamenti-profughi-ucraini/""}","<pre><yamldata>
-nameSurname: Caritas Ferrara
-phoneNumber: ''
-email: caritasfe@libero.it
-title: Caritas Ferrara cerca appartamenti per l’accoglienza dei profughi ucraini
-recipients: ''
-description: Caritas Ferrara cerca unità abitative autonome per l’accoglienza dei
-  profughi ucraini. Clicca QUI per ulteriori informazioni. Chi vuole mettere a disposizione
-  uno spazio nel territorio ferrarese può contattare caritasfe@libero.it indicando
-  come oggetto “Disponibilità per profughi ucraini”
-url: https://www.caritasfe.it/cercasi-appartamenti-profughi-ucraini/
-location:
-  mode: autocomplete
-  address:
-    place_id: 54053938
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 4761953354
-    boundingbox:
-    - '44.8294903'
-    - '44.8295903'
-    - '11.6272977'
-    - '11.6273977'
-    lat: '44.8295403'
-    lon: '11.6273477'
-    display_name: 19, Via Brasavola, Centro cittadino, Quacchio, Ferrara, Emilia-Romagna,
-      44121, Italia
-    class: place
-    type: house
-    importance: 0.5309999999999999
-    address:
-      house_number: '19'
-      road: Via Brasavola
-      neighbourhood: Centro cittadino
-      suburb: Quacchio
-      city: Ferrara
-      county: Ferrara
-      state: Emilia-Romagna
-      postcode: '44121'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 44.8295403 11.6273477
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/337,1180644235,2022-03-25 16:05:24,2022-03-25 10:59:03,A Ferrara attivato Punto Unico di Assistenza Sanitaria per i profughi ucraini,,,,,"[""Valid/Accettato"",""Services"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Ferrara"",""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""house_number"":""11"",""postcode"":""44124"",""road"":""Via della Fiera"",""state"":""Emilia-Romagna"",""suburb"":""Villaggio Satellite"",""village"":""Chiesuol del Fosso""},""boundingbox"":[""44.8139041"",""44.8140041"",""11.5849403"",""11.5850403""],""class"":""place"",""display_name"":""11, Via della Fiera, Villaggio Satellite, Chiesuol del Fosso, Ferrara, Emilia-Romagna, 44124, Italia"",""importance"":0.5209999999999999,""lat"":""44.8139541"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.5849903"",""osm_id"":4762035311,""osm_type"":""node"",""place_id"":53655779,""type"":""house""},""mode"":""autocomplete""},""description"":""\u00c8 attivo un Punto Assistenza Unico presso il Centro Fiere di Ferrara, in Via della Fiera n. 11 presso il quale saranno assicurati, con l\u2019ausilio di mediatori culturali e interpreti e modulistica bilingue, i seguenti servizi:\n\nServizi sanitari, accessibili dalle 8.00 alle 20.00 tutti i giorni, anche la domenica, per:\n- Rilascio tesserino Stp per l\u2019accesso alle cure\n- Tamponi per accertamento positivit\u00e0 al Covid ed eventuale percorso di isolamento in caso di positivit\u00e0\n- Vaccinazione anti Covid 19 per adulti e bambini\n- Valutazione della situazione rispetto alle altre vaccinazioni obbligatorie per adulti e bambini, ed eventuale somministrazione (anti-poliomielitica, anti-difterica, anti-tetanica, anti-epatite B, anti-pertosse, anti-Haemophilus influenzae tipo b, anti-morbillo, anti-rosolia, anti-parotite e anti-varicella)\n- Test mantoux (screening tubercolare)\n- Distribuzione mascherine Ffp2\n\nSportello della Questura, accessibile dalle 8.30 alle 13.30 dal luned\u00ec al sabato, per:             \n- Dichiarazione di presenza in Italia (che lo straniero deve effettuare per legge entro 8 giorni      dall\u2019ingresso in Italia)\n- Informazioni sul rilascio del permesso di soggiorno per protezione temporanea\n- Orientamento all\u2019accoglienza in collegamento con la Prefettura"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Azienda USL di Ferrara"",""recipients"":""Profughi ucraini"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Centro di Assistenza sanitaria ai profughi"",""url"":""https://www.ausl.fe.it/emergenza-ucraina-assistenza-sanitaria-ai-profughi""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -3644,68 +3766,6 @@ address:
       county: Roma Capitale
       state: Lazio
       postcode: '00136'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/305,1178515936,2022-03-25 10:51:34,2022-03-23 18:38:48,"#Napoli, punti di raccolta beni e corsi di italiano per rifugiati ucraini a Forcella",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""education""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Santa Maria della Pace"",""city"":""Napoli"",""country"":""Italia"",""country_code"":""it"",""county"":""Napoli"",""postcode"":""80139"",""road"":""Via dei Tribunali"",""state"":""Campania"",""suburb"":""San Lorenzo""},""boundingbox"":[""40.8520942"",""40.8525011"",""14.2617887"",""14.2621931""],""class"":""amenity"",""display_name"":""Santa Maria della Pace, Via dei Tribunali, San Lorenzo, Municipalit\u00e0 4, Napoli, Campania, 80139, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//place_of_worship_unknown3.p.20.png"",""importance"":0.8607105064618923,""lat"":""40.852331500000005"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.26197419863412"",""osm_id"":183749378,""osm_type"":""way"",""place_id"":145636181,""type"":""place_of_worship""},""mode"":""autocomplete""},""description"":""Ecco dove a Forcella (Napoli) si raccolgono beni umanitari per l\u2019emergenza Ucraina e si offrono servizi di supporto ai profughi ucraini:\n\n- Gli studenti dell\u2019Istituto Comprensivo Adelaide Ristori (via L. D\u2019Alagno 16) stanno raccogliendo, insieme alle loro famiglie, aiuti per i profughi. Dopo averli raccolti all\u2019interno dell\u2019Istituto verranno consegnati ai centri di smistamento per raggiungere le popolazioni colpite dalla guerra. Gli studenti stanno anche preparando dei messaggi di solidariet\u00e0 per accogliere i bambini rifugiati.\n\n- Nella Chiesa di Santa Maria del Rifugio (via dei Tribunali 188), utilizzata dall\u2019Associazione Samb e Diop per l\u2019integrazione dei migranti, si fornisce assistenza e vestiario per i profughi provenienti dai paesi in guerra e si organizzano corsi di lingua italiana.\n\n- Nella Chiesa di Santa Maria della Pace (via dei Tribunali 181), affidata alla comunit\u00e0 ucraina di rito bizantino, ogni marted\u00ec e sabato dalle ore 9 alle ore 16 vengono raccolti alimenti a lunga conservazione, medicinali di prima necessit\u00e0, pannolini per bambini e prodotti per l\u2019igiene da spedire in Ucraina."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazioni di Forcella (Na)"",""recipients"":"""",""submit"":true,""title"":""Napoli, punti di raccolta beni e corsi di italiano per rifugiati ucraini a Forcella"",""type"":""materialGoods"",""url"":""http://www.napolicittasolidale.it/portal/news/11135-attivit%C3%A0-di-accoglienza-e-supporto-della-comunit%C3%A0-di-forcella-per-la-pace.html""}","<pre><yamldata>
-type: materialGoods
-offerFromWho: Associazioni di Forcella (Na)
-title: Napoli, punti di raccolta beni e corsi di italiano per rifugiati ucraini a
-  Forcella
-recipients: ''
-description: 'Ecco dove a Forcella (Napoli) si raccolgono beni umanitari per l’emergenza
-  Ucraina e si offrono servizi di supporto ai profughi ucraini:
-
-
-  - Gli studenti dell’Istituto Comprensivo Adelaide Ristori (via L. D’Alagno 16) stanno
-  raccogliendo, insieme alle loro famiglie, aiuti per i profughi. Dopo averli raccolti
-  all’interno dell’Istituto verranno consegnati ai centri di smistamento per raggiungere
-  le popolazioni colpite dalla guerra. Gli studenti stanno anche preparando dei messaggi
-  di solidarietà per accogliere i bambini rifugiati.
-
-
-  - Nella Chiesa di Santa Maria del Rifugio (via dei Tribunali 188), utilizzata dall’Associazione
-  Samb e Diop per l’integrazione dei migranti, si fornisce assistenza e vestiario
-  per i profughi provenienti dai paesi in guerra e si organizzano corsi di lingua
-  italiana.
-
-
-  - Nella Chiesa di Santa Maria della Pace (via dei Tribunali 181), affidata alla
-  comunità ucraina di rito bizantino, ogni martedì e sabato dalle ore 9 alle ore 16
-  vengono raccolti alimenti a lunga conservazione, medicinali di prima necessità,
-  pannolini per bambini e prodotti per l’igiene da spedire in Ucraina.'
-url: http://www.napolicittasolidale.it/portal/news/11135-attivit%C3%A0-di-accoglienza-e-supporto-della-comunit%C3%A0-di-forcella-per-la-pace.html
-address:
-  mode: autocomplete
-  address:
-    place_id: 145636181
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 183749378
-    boundingbox:
-    - '40.8520942'
-    - '40.8525011'
-    - '14.2617887'
-    - '14.2621931'
-    lat: '40.852331500000005'
-    lon: '14.26197419863412'
-    display_name: Santa Maria della Pace, Via dei Tribunali, San Lorenzo, Municipalità
-      4, Napoli, Campania, 80139, Italia
-    class: amenity
-    type: place_of_worship
-    importance: 0.8607105064618923
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//place_of_worship_unknown3.p.20.png
-    address:
-      amenity: Santa Maria della Pace
-      road: Via dei Tribunali
-      suburb: San Lorenzo
-      city: Napoli
-      county: Napoli
-      state: Campania
-      postcode: '80139'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
