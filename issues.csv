@@ -1,5 +1,46 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/389,1183997828,2022-03-28 21:51:22,2022-03-28 21:11:41,A Milano la comunità di Sant’Egidio organizza corsi di italiano gratuiti per profughi ucraini,,,,,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""3"",""office"":""Comunit\u00e0 di Sant'Egidio"",""postcode"":""20123"",""quarter"":""Magenta - San Vittore"",""road"":""Via degli Olivetani"",""state"":""Lombardia"",""suburb"":""Municipio 1""},""boundingbox"":[""45.4622518"",""45.4623518"",""9.1692368"",""9.1693368""],""class"":""office"",""display_name"":""Comunit\u00e0 di Sant'Egidio, 3, Via degli Olivetani, Magenta - San Vittore, Municipio 1, Milano, Lombardia, 20123, Italia"",""importance"":0.411,""lat"":""45.4623018"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1692868"",""osm_id"":5747868526,""osm_type"":""node"",""place_id"":62532919,""type"":""association""},""mode"":""autocomplete""},""description"":""Corsi di Italiano gratuiti per chi fugge dalla guerra in Ucraina organizzati dalla Comunit\u00e0 di Sant\u2019Egidio. Iscrizioni sabato 2 aprile dalle 11.30 in Via Olivetani 3, Milano."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Sant'Egidio Milano"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Corsi di italiano"",""url"":""""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/390,1184002101,2022-03-28 21:58:38,2022-03-28 21:16:07,Caritas di Bari e Bitonto cerca volontari per accoglienza profughi ucraini,41.1257843,16.8620293,Puglia,Bari,"[""Valid/Accettato"",""Help""]",,,"{""Posizione"":""41.1257843 16.8620293"",""description"":""La Caritas diocesiana di Bari e Bitonto cerca volontari per le attivit\u00e0 di supporto alle persone ucraine. Per dare disponibilit\u00e0, compilare questo form https://forms.gle/nKj57iYjzNFVqtLc9"",""email"":""comunicazione@caritasbaribitonto.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Bari"",""country"":""Italia"",""country_code"":""it"",""county"":""Bari"",""postcode"":""70122"",""state"":""Puglia""},""boundingbox"":[""40.9657843"",""41.2857843"",""16.7020293"",""17.0220293""],""class"":""place"",""display_name"":""Bari, Puglia, 70122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7187183212532693,""lat"":""41.1257843"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.8620293"",""osm_id"":68528585,""osm_type"":""node"",""place_id"":285627565,""type"":""city""},""mode"":""autocomplete""},""nameSurname"":""Caritas Bari e Bitonto"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Ricerca volontari"",""url"":""https://www.caritasbaribitonto.it/public/home/2022/03/emergenza-ucraina-disponibilita-volontari/?fbclid=IwAR2K3NTOKUIyhxTRvbDlbtjD7UVPSEoPJvsckPm82si3mOZ5a3VUeYplqVE""}","<pre><yamldata>
+nameSurname: Caritas Bari e Bitonto
+phoneNumber: ''
+email: comunicazione@caritasbaribitonto.it
+title: Ricerca volontari
+recipients: ''
+description: La Caritas diocesiana di Bari e Bitonto cerca volontari per le attività
+  di supporto alle persone ucraine. Per dare disponibilità, compilare questo form
+  https://forms.gle/nKj57iYjzNFVqtLc9
+url: https://www.caritasbaribitonto.it/public/home/2022/03/emergenza-ucraina-disponibilita-volontari/?fbclid=IwAR2K3NTOKUIyhxTRvbDlbtjD7UVPSEoPJvsckPm82si3mOZ5a3VUeYplqVE
+location:
+  mode: autocomplete
+  address:
+    place_id: 285627565
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 68528585
+    boundingbox:
+    - '40.9657843'
+    - '41.2857843'
+    - '16.7020293'
+    - '17.0220293'
+    lat: '41.1257843'
+    lon: '16.8620293'
+    display_name: Bari, Puglia, 70122, Italia
+    class: place
+    type: city
+    importance: 0.7187183212532693
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Bari
+      county: Bari
+      state: Puglia
+      postcode: '70122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 41.1257843 16.8620293
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/389,1183997828,2022-03-28 21:57:03,2022-03-28 21:11:41,A Milano la comunità di Sant’Egidio organizza corsi di italiano gratuiti per profughi ucraini,,,,,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""3"",""office"":""Comunit\u00e0 di Sant'Egidio"",""postcode"":""20123"",""quarter"":""Magenta - San Vittore"",""road"":""Via degli Olivetani"",""state"":""Lombardia"",""suburb"":""Municipio 1""},""boundingbox"":[""45.4622518"",""45.4623518"",""9.1692368"",""9.1693368""],""class"":""office"",""display_name"":""Comunit\u00e0 di Sant'Egidio, 3, Via degli Olivetani, Magenta - San Vittore, Municipio 1, Milano, Lombardia, 20123, Italia"",""importance"":0.411,""lat"":""45.4623018"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1692868"",""osm_id"":5747868526,""osm_type"":""node"",""place_id"":62532919,""type"":""association""},""mode"":""autocomplete""},""description"":""Corsi di Italiano gratuiti per chi fugge dalla guerra in Ucraina organizzati dalla Comunit\u00e0 di Sant\u2019Egidio. Iscrizioni sabato 2 aprile dalle 11.30 in Via Olivetani 3, Milano."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Sant'Egidio Milano"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Corsi di italiano"",""url"":""https://www.facebook.com/groups/ukrainehelpit/permalink/467778281757792/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
   hospitality: false
@@ -17,7 +58,7 @@ offerFromWho: Sant'Egidio Milano
 title: Corsi di italiano
 recipients: ''
 description: 'Corsi di Italiano gratuiti per chi fugge dalla guerra in Ucraina organizzati dalla Comunità di Sant’Egidio. Iscrizioni sabato 2 aprile dalle 11.30 in Via Olivetani 3, Milano.'
-url: ''
+url: 'https://www.facebook.com/groups/ukrainehelpit/permalink/467778281757792/'
 address:
   mode: autocomplete
   address:
