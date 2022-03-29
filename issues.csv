@@ -1,4 +1,103 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/407,1185379561,2022-03-29 22:11:21,2022-03-29 20:30:50,"Avvocato di Strada, sportelli legali in molte città d'Italia a supporto dei profughi ucraini",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""telegram-channel""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it""},""boundingbox"":[""35.2889616"",""47.0921462"",""6.6272658"",""18.7844746""],""class"":""boundary"",""display_name"":""Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9931019031440554,""lat"":""42.6384261"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.674297"",""osm_id"":365331,""osm_type"":""relation"",""place_id"":284007015,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Presso le sedi locali di Avvocato di strada (vedere link), \u00e8 attivo uno sportello di orientamento e supporto legale per i profughi ucraini. Molti volontari, inoltre, hanno dato al proprio consiglio dell\u2019ordine territoriale disponibilit\u00e0 a partecipare ad attivit\u00e0 di tutela legale dei profughi e a creare contact point presso gli ordini. Per richieste di informazioni a carattere generale, orientamento ai servizi sul territorio o altre necessit\u00e0 che riguardano la guerra in Ucraina \u00e8 attiva la mail emergenza@avvocatodistrada.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Avvocato di strada"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Sportelli legali in molte citt\u00e0 d'Italia"",""url"":""https://www.avvocatodistrada.it/sedi-locali/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Associazione Avvocato di strada
+title: Sportelli legali in molte città d'Italia
+recipients: ''
+description: 'Presso le sedi locali di Avvocato di strada (vedere link), è attivo
+  uno sportello di orientamento e supporto legale per i profughi ucraini. Molti volontari, inoltre, hanno
+  dato al proprio consiglio dell’ordine territoriale disponibilità a partecipare
+  ad attività di tutela legale dei profughi e a creare contact point presso gli
+  ordini.
+  Per richieste di informazioni a carattere generale, orientamento ai servizi sul
+  territorio o altre necessità che riguardano la guerra in Ucraina è attiva la mail
+  emergenza@avvocatodistrada.it'
+url: https://www.avvocatodistrada.it/sedi-locali/
+address:
+  mode: autocomplete
+  address:
+    place_id: 284007015
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 365331
+    boundingbox:
+    - '35.2889616'
+    - '47.0921462'
+    - '6.6272658'
+    - '18.7844746'
+    lat: '42.6384261'
+    lon: '12.674297'
+    display_name: Italia
+    class: boundary
+    type: administrative
+    importance: 0.9931019031440554
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/405,1185365442,2022-03-29 22:09:41,2022-03-29 20:17:26,"Comune di Catania, elenco delle strutture del privato sociale che hanno dato disponibilità all’accoglienza della popolazione ucraina ",37.50570535,14.944202334712783,Sicilia,Catania,"[""Valid/Accettato"",""News"",""hospitality""]",,,"{""Posizione"":""37.50570535 14.944202334712783"",""description"":""a Direzione comunale Famiglia e Politiche Sociali e gli Enti del Terzo Settore, insieme ai funzionari della Prefettura e agli assessori comunali con delega ai Servizi Sociali e alla Protezione Civile, hanno delineato le procedure di accoglienza della popolazione ucraina duramente colpita dal conflitto bellico, con regole prestabilite finalizzate alla tutela delle persone in arrivo.\nLe strutture ricettive del privato sociale, presenti sul territorio, che hanno dato la disponibilit\u00e0 ad accogliere cittadini ucraini sono: Locanda del Samaritano, Cope, Cooperativa Sociale Mosaico, Associazione Meta Cometa, Associazione Spazio 47, Fondazione Ebbene, Refugees Welcome, Centro Astalli.\nCordoni umanitari saranno organizzati anche da Caritas, Croce rossa e Comunit\u00e0 Sant\u2019Egidio; anche il Villaggio Turistico internazionale \u201cLa Playa\u201d ha dato la disponibilit\u00e0 all\u2019accoglienza."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.comune.catania.it/informazioni/news/politiche-sociali/politiche-sociali-2022-news/default.aspx?news=83290"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Catania"",""state"":""Sicilia""},""boundingbox"":[""37.050297"",""37.961106"",""14.3517735"",""15.2580859""],""class"":""boundary"",""display_name"":""Catania, Sicilia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5678626077791631,""lat"":""37.50570535"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.944202334712783"",""osm_id"":39181,""osm_type"":""relation"",""place_id"":283168968,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Catania - Comune e Terzo Settore hanno delineato le procedure di accoglienza della popolazione ucraina""}","<pre><yamldata>
+title: Catania - Comune e Terzo Settore hanno delineato le procedure di accoglienza
+  della popolazione ucraina
+description: 'a Direzione comunale Famiglia e Politiche Sociali e gli Enti del Terzo
+  Settore, insieme ai funzionari della Prefettura e agli assessori comunali con delega
+  ai Servizi Sociali e alla Protezione Civile, hanno delineato le procedure di accoglienza
+  della popolazione ucraina duramente colpita dal conflitto bellico, con regole prestabilite
+  finalizzate alla tutela delle persone in arrivo.
+
+  Le strutture ricettive del privato sociale, presenti sul territorio, che hanno dato
+  la disponibilità ad accogliere cittadini ucraini sono: Locanda del Samaritano, Cope,
+  Cooperativa Sociale Mosaico, Associazione Meta Cometa, Associazione Spazio 47, Fondazione
+  Ebbene, Refugees Welcome, Centro Astalli.
+
+  Cordoni umanitari saranno organizzati anche da Caritas, Croce rossa e Comunità Sant’Egidio;
+  anche il Villaggio Turistico internazionale “La Playa” ha dato la disponibilità
+  all’accoglienza.'
+link: https://www.comune.catania.it/informazioni/news/politiche-sociali/politiche-sociali-2022-news/default.aspx?news=83290
+location:
+  mode: autocomplete
+  address:
+    place_id: 283168968
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 39181
+    boundingbox:
+    - '37.050297'
+    - '37.961106'
+    - '14.3517735'
+    - '15.2580859'
+    lat: '37.50570535'
+    lon: '14.944202334712783'
+    display_name: Catania, Sicilia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.5678626077791631
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Catania
+      state: Sicilia
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 37.50570535 14.944202334712783
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/403,1185360350,2022-03-29 22:03:52,2022-03-29 20:11:57,A Catania apre punto di raccolta di beni essenziali,,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""city"":""Catania"",""country"":""Italia"",""country_code"":""it"",""county"":""Catania"",""postcode"":""95121"",""state"":""Sicilia""},""boundingbox"":[""37.3582971"",""37.562386"",""14.9358674"",""15.125794""],""class"":""boundary"",""display_name"":""Catania, Sicilia, 95121, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7221226378988357,""lat"":""37.5023612"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.0873718"",""osm_id"":39230,""osm_type"":""relation"",""place_id"":284352873,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Attivato anche il coordinamento unico della Protezione Civile comunale per il reperimento e la spedizione di beni di prima necessit\u00e0 con alcuni cittadini che hanno offerto aiuti per le popolazioni ucraine. Un punto di raccolta di beni essenziali (cibo non deperibile/medicinali - indumenti nuovi - materiale sanitario) \u00e8 attivo nella sede della Protezione Civile Comunale con sede in via Leopoldo Nobili 28, dal luned\u00ec al venerd\u00ec dalle ore 9,00 alle ore 13,00 e dalle ore 14,00 alle ore 18,00 e sabato dalle ore 8,30 alle ore 12,00. Protezione Civile Comunale Tel. 095484000 \u2013 0957425148 per informazioni ed eventuali disponibilit\u00e0 alla raccolta a domicilio."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Catania"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Punto di raccolta di beni essenziali"",""url"":""https://www.comune.catania.it/informazioni/news/politiche-sociali/politiche-sociali-2022-news/default.aspx?news=83290""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
@@ -299,60 +398,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 43.9470982 12.630768610516004
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/407,1185379561,2022-03-29 20:56:27,2022-03-29 20:30:50,"Avvocati di Strada, Sportelli legali in molte città d'Italia",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""telegram-channel""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it""},""boundingbox"":[""35.2889616"",""47.0921462"",""6.6272658"",""18.7844746""],""class"":""boundary"",""display_name"":""Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9931019031440554,""lat"":""42.6384261"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.674297"",""osm_id"":365331,""osm_type"":""relation"",""place_id"":284007015,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Presso le sedi locali di Avvocato di strada (vedere link), \u00e8 attivo uno sportello di orientamento e supporto legale. Molti volontari, inoltre, hanno dato al proprio consiglio dell\u2019ordine territoriale una disponibilit\u00e0 per partecipare ad attivit\u00e0 di tutela legale dei profughi e per creare contact point presso gli ordini.\n\nPer richieste di informazioni a carattere generale, orientamento ai servizi sul territorio o altre necessit\u00e0 che riguardano la guerra in Ucraina \u00e8 attiva la mail emergenza@avvocatodistrada.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Avvocato di strada"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Sportelli legali in molte citt\u00e0 d'Italia"",""url"":""https://www.avvocatodistrada.it/sedi-locali/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: true
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Associazione Avvocato di strada
-title: Sportelli legali in molte città d'Italia
-recipients: ''
-description: 'Presso le sedi locali di Avvocato di strada (vedere link), è attivo
-  uno sportello di orientamento e supporto legale. Molti volontari, inoltre, hanno
-  dato al proprio consiglio dell’ordine territoriale una disponibilità per partecipare
-  ad attività di tutela legale dei profughi e per creare contact point presso gli
-  ordini.
-
-
-  Per richieste di informazioni a carattere generale, orientamento ai servizi sul
-  territorio o altre necessità che riguardano la guerra in Ucraina è attiva la mail
-  emergenza@avvocatodistrada.it'
-url: https://www.avvocatodistrada.it/sedi-locali/
-address:
-  mode: autocomplete
-  address:
-    place_id: 284007015
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 365331
-    boundingbox:
-    - '35.2889616'
-    - '47.0921462'
-    - '6.6272658'
-    - '18.7844746'
-    lat: '42.6384261'
-    lon: '12.674297'
-    display_name: Italia
-    class: boundary
-    type: administrative
-    importance: 0.9931019031440554
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/410,1185391419,2022-03-29 20:44:48,2022-03-29 20:42:38,Animali d'affezione al seguito dei profughi provenienti dall'Ucraina: obbligo di segnalazione all'ATS Brianza ,45.6183103,9.2081245,Lombardia,Monza e della Brianza,"[""Valid/Accettato"",""News"",""healthcare""]",,,"{""Posizione"":""45.6183103 9.2081245"",""description"":""Animali d'affezione al seguito dei profughi provenienti dall'Ucraina: obbligo di segnalazione all'ATS Brianza"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.comune.desio.mb.it/it/news/animali-d-affezione-al-seguito-dei-profughi-provenienti-dall-ucraina"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Monza e della Brianza"",""postcode"":""20832"",""state"":""Lombardia"",""town"":""Desio""},""boundingbox"":[""45.5960657"",""45.6365128"",""9.174791"",""9.2349795""],""class"":""boundary"",""display_name"":""Desio, Monza e della Brianza, Lombardia, 20832, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.59470306841754,""lat"":""45.6183103"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2081245"",""osm_id"":45466,""osm_type"":""relation"",""place_id"":284616605,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Animali d'affezione al seguito dei profughi provenienti dall'Ucraina: obbligo di segnalazione all'ATS Brianza""}","<pre><yamldata>
 title: 'Animali d''affezione al seguito dei profughi provenienti dall''Ucraina: obbligo
