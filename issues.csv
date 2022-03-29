@@ -1,4 +1,118 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/406,1185373688,2022-03-29 20:30:48,2022-03-29 20:26:08,FAQ e orientamento per tutela legale profughi a cura di ‘Avvocati di Strada’,,,,,"[""Invalid/Non Accettato"",""Valid/Accettato"",""Services"",""Legal"",""Resources""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it""},""boundingbox"":[""35.2889616"",""47.0921462"",""6.6272658"",""18.7844746""],""class"":""boundary"",""display_name"":""Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9831019031440554,""lat"":""42.6384261"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.674297"",""osm_id"":365331,""osm_type"":""relation"",""place_id"":284007015,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Avvocato di strada ha attivato una mail per richieste di informazioni a carattere generale, orientamento ai servizi sul territorio o altre necessit\u00e0 che riguardano la guerra in Ucraina: emergenza@avvocatodistrada.it.\n\nSulla base delle domande fatte pi\u00f9 comunemente, e sulle informazioni che abbiamo raccolto in queste settimane, hanno creato queste FAQ per fornire le informazioni generali per capire gli istituti giuridici applicabili alla situazione e raccogliere i contatti utili su tutto il territorio nazionale e che mettiamo a disposizione di istituzioni, associazioni, operatori e semplici cittadini."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Avvocato di strada"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""FAQ e orientamento per tutela legale profughi"",""url"":""https://www.avvocatodistrada.it/faq-emergenza-ucraina-2022/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Avvocato di strada
+title: FAQ e orientamento per tutela legale profughi
+recipients: ''
+description: 'Avvocato di strada ha attivato una mail per richieste di informazioni
+  a carattere generale, orientamento ai servizi sul territorio o altre necessità che
+  riguardano la guerra in Ucraina: emergenza@avvocatodistrada.it.
+
+
+  Sulla base delle domande fatte più comunemente, e sulle informazioni che abbiamo
+  raccolto in queste settimane, hanno creato queste FAQ per fornire le informazioni
+  generali per capire gli istituti giuridici applicabili alla situazione e raccogliere
+  i contatti utili su tutto il territorio nazionale e che mettiamo a disposizione
+  di istituzioni, associazioni, operatori e semplici cittadini.'
+url: https://www.avvocatodistrada.it/faq-emergenza-ucraina-2022/
+address:
+  mode: autocomplete
+  address:
+    place_id: 284007015
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 365331
+    boundingbox:
+    - '35.2889616'
+    - '47.0921462'
+    - '6.6272658'
+    - '18.7844746'
+    lat: '42.6384261'
+    lon: '12.674297'
+    display_name: Italia
+    class: boundary
+    type: administrative
+    importance: 0.9831019031440554
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/403,1185360350,2022-03-29 20:27:43,2022-03-29 20:11:57,A Catania apre punto di raccolta di beni essenziali,,,,,"[""Valid/Accettato"",""Help"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""city"":""Catania"",""country"":""Italia"",""country_code"":""it"",""county"":""Catania"",""postcode"":""95121"",""state"":""Sicilia""},""boundingbox"":[""37.3582971"",""37.562386"",""14.9358674"",""15.125794""],""class"":""boundary"",""display_name"":""Catania, Sicilia, 95121, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7221226378988357,""lat"":""37.5023612"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.0873718"",""osm_id"":39230,""osm_type"":""relation"",""place_id"":284352873,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Attivato anche il coordinamento unico della Protezione Civile comunale per il reperimento e la spedizione di beni di prima necessit\u00e0 con alcuni cittadini che hanno offerto aiuti per le popolazioni ucraine.\nUn punto di raccolta di beni essenziali (cibo non deperibile/medicinali - indumenti nuovi - materiale sanitario) \u00e8 attivo nella sede della Protezione Civile Comunale con sede in via Leopoldo Nobili 28, dal luned\u00ec al venerd\u00ec dalle ore 9,00 alle ore 13,00 e dalle ore 14,00 alle ore 18,00 e sabato dalle ore 8,30 alle ore 12,00.\n\nProtezione Civile Comunale Tel. 095484000 \u2013 0957425148 per informazioni ed eventuali disponibilit\u00e0 alla raccolta a domicilio."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Catania"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Punto di raccolta di beni essenziali"",""url"":""https://www.comune.catania.it/informazioni/news/politiche-sociali/politiche-sociali-2022-news/default.aspx?news=83290""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Comune di Catania
+title: Punto di raccolta di beni essenziali
+recipients: ''
+description: 'Attivato anche il coordinamento unico della Protezione Civile comunale
+  per il reperimento e la spedizione di beni di prima necessità con alcuni cittadini
+  che hanno offerto aiuti per le popolazioni ucraine.
+
+  Un punto di raccolta di beni essenziali (cibo non deperibile/medicinali - indumenti
+  nuovi - materiale sanitario) è attivo nella sede della Protezione Civile Comunale
+  con sede in via Leopoldo Nobili 28, dal lunedì al venerdì dalle ore 9,00 alle ore
+  13,00 e dalle ore 14,00 alle ore 18,00 e sabato dalle ore 8,30 alle ore 12,00.
+
+
+  Protezione Civile Comunale Tel. 095484000 – 0957425148 per informazioni ed eventuali
+  disponibilità alla raccolta a domicilio.'
+url: https://www.comune.catania.it/informazioni/news/politiche-sociali/politiche-sociali-2022-news/default.aspx?news=83290
+address:
+  mode: autocomplete
+  address:
+    place_id: 284352873
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 39230
+    boundingbox:
+    - '37.3582971'
+    - '37.562386'
+    - '14.9358674'
+    - '15.125794'
+    lat: '37.5023612'
+    lon: '15.0873718'
+    display_name: Catania, Sicilia, 95121, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7221226378988357
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Catania
+      county: Catania
+      state: Sicilia
+      postcode: '95121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/401,1185357869,2022-03-29 20:19:36,2022-03-29 20:09:19,A Cento ‘Facciamo rete - coordinamento solidale per l’integrazione’ offre  servizi ai rifugiati dall’Ucraina,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""hospitality"",""translation"",""psychologicalSupport"",""Children""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""municipality"":""Unione Alto Ferrarese"",""state"":""Emilia-Romagna"",""town"":""Cento""},""boundingbox"":[""44.705628"",""44.8381841"",""11.2461129"",""11.3880712""],""class"":""boundary"",""display_name"":""Cento, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5919924514729962,""lat"":""44.7274395"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2903029"",""osm_id"":43506,""osm_type"":""relation"",""place_id"":283662905,""type"":""administrative""},""mode"":""autocomplete""},""description"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Facciamo rete accoglienza solidale a Cento"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":true,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""A Cento \u2018Facciamo rete\u2019 - accoglienza solidale offre  servizi ai rifugiati dall\u2019Ucraina"",""url"":""https://www.facebook.com/groups/ukrainehelpit/permalink/468223791713241/""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
