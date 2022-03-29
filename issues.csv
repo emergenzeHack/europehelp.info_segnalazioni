@@ -1,4 +1,94 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/399,1185341282,2022-03-29 20:04:21,2022-03-29 19:51:31,Comune di Palermo attiva una mail dedicata per aiuti alle persone in arrivo dall’Ucraina,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""state"":""Sicilia""},""boundingbox"":[""38.0499137"",""38.2245866"",""13.242219"",""13.4520856""],""class"":""boundary"",""display_name"":""Palermo, Sicilia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7661148171447915,""lat"":""38.1112268"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3524434"",""osm_id"":39513,""osm_type"":""relation"",""place_id"":284307182,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Comune di Palermo ha attivato l'indirizzo mail aiutiucraina@comune.palermo.it\ndedicato alla situazione ucraina per accompagnare e facilitare le pratiche di ricongiungimenti e mettere in collegamento i profughi con le associazioni del terzo settore e con privati cittadini che, in alcuni casi, hanno gi\u00e0 espresso ed intendono dare la loro disponibilit\u00e0 per accoglierli."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Palermo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Palermo attiva una mail dedicata per aiuti alle persone in arrivo"",""url"":""https://www.comune.palermo.it/palermo-informa-dettaglio.php?id=34071&tipo=1""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Comune di Palermo
+title: Comune di Palermo attiva una mail dedicata per aiuti alle persone in arrivo
+recipients: ''
+description: 'Il Comune di Palermo ha attivato l''indirizzo mail aiutiucraina@comune.palermo.it
+
+  dedicato alla situazione ucraina per accompagnare e facilitare le pratiche di ricongiungimenti
+  e mettere in collegamento i profughi con le associazioni del terzo settore e con
+  privati cittadini che, in alcuni casi, hanno già espresso ed intendono dare la loro
+  disponibilità per accoglierli.'
+url: https://www.comune.palermo.it/palermo-informa-dettaglio.php?id=34071&tipo=1
+address:
+  mode: autocomplete
+  address:
+    place_id: 284307182
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 39513
+    boundingbox:
+    - '38.0499137'
+    - '38.2245866'
+    - '13.242219'
+    - '13.4520856'
+    lat: '38.1112268'
+    lon: '13.3524434'
+    display_name: Palermo, Sicilia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7661148171447915
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Palermo
+      county: Palermo
+      state: Sicilia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/400,1185349079,2022-03-29 20:03:38,2022-03-29 20:00:13,A Palermo apre centro accoglienza profughi ucraini alla Fiera del Mediterraneo,37.8819449,13.609543686318478,Sicilia,Palermo,"[""Valid/Accettato"",""News""]",,,"{""Posizione"":""37.8819449 13.609543686318478"",""description"":""Inaugurato il centro di prima accoglienza per i profughi ucraini alla Fiera del Mediterraneo. La struttura sorge al padiglione 4 della Fiera: un locale a due piani interamente rimesso a nuovo grazie al lavoro dei volontari della protezione civile comunale che prestano servizio all\u2019hub."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.comune.palermo.it/palermo-informa-dettaglio.php?tp=1&id=34283"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""state"":""Sicilia""},""boundingbox"":[""37.5393034"",""38.7206781"",""12.9287426"",""14.2943904""],""class"":""boundary"",""display_name"":""Palermo, Sicilia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5763208078597727,""lat"":""37.8819449"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.609543686318478"",""osm_id"":39295,""osm_type"":""relation"",""place_id"":283839135,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Palermo - Inaugurazione centro accoglienza profughi ucraini alla Fiera del Mediterraneo""}","<pre><yamldata>
+title: Palermo - Inaugurazione centro accoglienza profughi ucraini alla Fiera del
+  Mediterraneo
+description: 'Inaugurato il centro di prima accoglienza per i profughi ucraini alla
+  Fiera del Mediterraneo. La struttura sorge al padiglione 4 della Fiera: un locale
+  a due piani interamente rimesso a nuovo grazie al lavoro dei volontari della protezione
+  civile comunale che prestano servizio all’hub.'
+link: https://www.comune.palermo.it/palermo-informa-dettaglio.php?tp=1&id=34283
+location:
+  mode: autocomplete
+  address:
+    place_id: 283839135
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 39295
+    boundingbox:
+    - '37.5393034'
+    - '38.7206781'
+    - '12.9287426'
+    - '14.2943904'
+    lat: '37.8819449'
+    lon: '13.609543686318478'
+    display_name: Palermo, Sicilia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.5763208078597727
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Palermo
+      state: Sicilia
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 37.8819449 13.609543686318478
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/398,1185252778,2022-03-29 18:28:16,2022-03-29 18:26:10,"Firmata l’ordinanza n. 881 del Dipartimento Nazionale Protezione Civile che disciplina l’accoglienza, il soccorso e l’assistenza alla popolazione ucraina in Italia",41.9039826,12.4719209,Lazio,Roma,"[""Valid/Accettato"",""News"",""hospitality"",""document_data"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""41.9039826 12.4719209"",""description"":""Il Capo del Dipartimento della Protezione civile, Fabrizio Curcio, ha firmato un\u2019ordinanza che disciplina l\u2019accoglienza, il soccorso e l\u2019assistenza alla popolazione ucraina in Italia (Ordinanza n. 881 del 29 marzo 2022 \u201cUlteriori disposizioni urgenti di protezione civile per assicurare, sul territorio nazionale, l\u2019accoglienza, il soccorso e l\u2019assistenza alla popolazione in conseguenza degli accadimenti in atto nel territorio dell\u2019Ucraina\u201d).\nL\u2019ordinanza regola le modalit\u00e0 di attuazione dell\u2019accoglienza diffusa, tramite gli avvisi di manifestazioni di interesse rivolti a enti del Terzo Settore, ai Centri di servizio per il volontariato, agli enti e alle associazioni iscritte al registro di cui all\u2019articolo 42 del decreto legislativo n. 286 del 1998 e agli enti religiosi civilmente riconosciuti, a beneficio delle persone richiedenti la protezione temporanea. Le procedure degli avvisi di manifestazioni di interesse prevedranno forme e modalit\u00e0 per offrire, ai soggetti beneficiari, servizi di assistenza e accoglienza, attivabili nel limite massimo di 15mila posti. L\u2019ordinanza riconosce alle persone richiedenti la protezione temporanea un contributo di sostentamento pari a 300 euro mensili pro capite e, in presenza di minori, \u00e8 riconosciuto un contributo addizionale mensile di 150 euro per ciascun figlio di et\u00e0 inferiore a 18 anni."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://www.protezionecivile.gov.it/it/normativa/ocdpc-n-881-del-29-marzo-2022-0"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""11"",""office"":""Dipartimento della Protezione Civile"",""postcode"":""00186"",""quarter"":""Prati"",""road"":""Via Ulpiano"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.9039326"",""41.9040326"",""12.4718709"",""12.4719709""],""class"":""office"",""display_name"":""Dipartimento della Protezione Civile, 11, Via Ulpiano, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia"",""importance"":0.42099999999999993,""lat"":""41.9039826"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4719209"",""osm_id"":5462543512,""osm_type"":""node"",""place_id"":59550508,""type"":""government""},""mode"":""autocomplete""},""submit"":true,""title"":""Firmata l\u2019ordinanza n. 881 del Dipartimento Nazionale Protezione Civile che disciplina l\u2019accoglienza, il soccorso e l\u2019assistenza alla popolazione ucraina in Italia""}","<pre><yamldata>
 title: Firmata l’ordinanza n. 881 del Dipartimento Nazionale Protezione Civile che
   disciplina l’accoglienza, il soccorso e l’assistenza alla popolazione ucraina in
