@@ -1,5 +1,114 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/401,1185357869,2022-03-29 21:44:15,2022-03-29 20:09:19,A Cento (Ferrara) ‘Facciamo rete - Coordinamento solidale per l’integrazione’ offre  servizi ai rifugiati dall’Ucraina,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""hospitality"",""translation"",""psychologicalSupport"",""Children""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""municipality"":""Unione Alto Ferrarese"",""state"":""Emilia-Romagna"",""town"":""Cento""},""boundingbox"":[""44.705628"",""44.8381841"",""11.2461129"",""11.3880712""],""class"":""boundary"",""display_name"":""Cento, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5919924514729962,""lat"":""44.7274395"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2903029"",""osm_id"":43506,""osm_type"":""relation"",""place_id"":283662905,""type"":""administrative""},""mode"":""autocomplete""},""description"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Facciamo rete accoglienza solidale a Cento"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":true,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""A Cento \u2018Facciamo rete\u2019 - accoglienza solidale offre  servizi ai rifugiati dall\u2019Ucraina"",""url"":""https://www.facebook.com/groups/ukrainehelpit/permalink/468223791713241/""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/403,1185360350,2022-03-29 22:03:52,2022-03-29 20:11:57,A Catania apre punto di raccolta di beni essenziali,,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""city"":""Catania"",""country"":""Italia"",""country_code"":""it"",""county"":""Catania"",""postcode"":""95121"",""state"":""Sicilia""},""boundingbox"":[""37.3582971"",""37.562386"",""14.9358674"",""15.125794""],""class"":""boundary"",""display_name"":""Catania, Sicilia, 95121, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7221226378988357,""lat"":""37.5023612"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.0873718"",""osm_id"":39230,""osm_type"":""relation"",""place_id"":284352873,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Attivato anche il coordinamento unico della Protezione Civile comunale per il reperimento e la spedizione di beni di prima necessit\u00e0 con alcuni cittadini che hanno offerto aiuti per le popolazioni ucraine. Un punto di raccolta di beni essenziali (cibo non deperibile/medicinali - indumenti nuovi - materiale sanitario) \u00e8 attivo nella sede della Protezione Civile Comunale con sede in via Leopoldo Nobili 28, dal luned\u00ec al venerd\u00ec dalle ore 9,00 alle ore 13,00 e dalle ore 14,00 alle ore 18,00 e sabato dalle ore 8,30 alle ore 12,00. Protezione Civile Comunale Tel. 095484000 \u2013 0957425148 per informazioni ed eventuali disponibilit\u00e0 alla raccolta a domicilio."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Catania"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Punto di raccolta di beni essenziali"",""url"":""https://www.comune.catania.it/informazioni/news/politiche-sociali/politiche-sociali-2022-news/default.aspx?news=83290""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Comune di Catania
+title: Punto di raccolta di beni essenziali
+recipients: ''
+description: 'Attivato anche il coordinamento unico della Protezione Civile comunale
+  per il reperimento e la spedizione di beni di prima necessità con alcuni cittadini
+  che hanno offerto aiuti per le popolazioni ucraine.
+  Un punto di raccolta di beni essenziali (cibo non deperibile/medicinali - indumenti
+  nuovi - materiale sanitario) è attivo nella sede della Protezione Civile Comunale
+  con sede in via Leopoldo Nobili 28, dal lunedì al venerdì dalle ore 9,00 alle ore
+  13,00 e dalle ore 14,00 alle ore 18,00 e sabato dalle ore 8,30 alle ore 12,00.
+  Protezione Civile Comunale Tel. 095484000 – 0957425148 per informazioni ed eventuali
+  disponibilità alla raccolta a domicilio.'
+url: https://www.comune.catania.it/informazioni/news/politiche-sociali/politiche-sociali-2022-news/default.aspx?news=83290
+address:
+  mode: autocomplete
+  address:
+    place_id: 284352873
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 39230
+    boundingbox:
+    - '37.3582971'
+    - '37.562386'
+    - '14.9358674'
+    - '15.125794'
+    lat: '37.5023612'
+    lon: '15.0873718'
+    display_name: Catania, Sicilia, 95121, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7221226378988357
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Catania
+      county: Catania
+      state: Sicilia
+      postcode: '95121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/402,1185358928,2022-03-29 22:03:03,2022-03-29 20:10:27,Comune di Catania attiva indirizzo mail per raccogliere disponibilità ad ospitare profughi ucraini,,,,,"[""Valid/Accettato"",""Services"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""city"":""Catania"",""country"":""Italia"",""country_code"":""it"",""county"":""Catania"",""postcode"":""95121"",""state"":""Sicilia""},""boundingbox"":[""37.3582971"",""37.562386"",""14.9358674"",""15.125794""],""class"":""boundary"",""display_name"":""Catania, Sicilia, 95121, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7221226378988357,""lat"":""37.5023612"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.0873718"",""osm_id"":39230,""osm_type"":""relation"",""place_id"":284352873,""type"":""administrative""},""mode"":""autocomplete""},""description"":""L\u2019Amministrazione Comunale, allo scopo di raccogliere le disponibilit\u00e0 di alloggi per famiglie ucraine, ha attivato la mail: emergenza.ucraina@comune.catania.it in cui dovranno essere indicati nel modo pi\u00f9 specifico possibile gli alloggi con il referente proprietario dell\u2019abitazione."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Catania"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Catania apre mail per segnalare disponibilit\u00e0 alloggi"",""url"":""https://www.comune.catania.it/informazioni/news/politiche-sociali/politiche-sociali-2022-news/default.aspx?news=83290""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Comune di Catania
+title: Comune di Catania apre mail per segnalare disponibilità alloggi
+recipients: ''
+description: 'L’Amministrazione Comunale, allo scopo di raccogliere le disponibilità
+  di alloggi per famiglie ucraine, ha attivato la mail: emergenza.ucraina@comune.catania.it
+  in cui dovranno essere indicati nel modo più specifico possibile gli alloggi con
+  il referente proprietario dell’abitazione.'
+url: https://www.comune.catania.it/informazioni/news/politiche-sociali/politiche-sociali-2022-news/default.aspx?news=83290
+address:
+  mode: autocomplete
+  address:
+    place_id: 284352873
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 39230
+    boundingbox:
+    - '37.3582971'
+    - '37.562386'
+    - '14.9358674'
+    - '15.125794'
+    lat: '37.5023612'
+    lon: '15.0873718'
+    display_name: Catania, Sicilia, 95121, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7221226378988357
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Catania
+      county: Catania
+      state: Sicilia
+      postcode: '95121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/401,1185357869,2022-03-29 22:00:52,2022-03-29 20:09:19,"A Cento (Ferrara) ‘Facciamo rete’, Coordinamento solidale per l’integrazione dei bambini e bambine ucraine",,,,,"[""Valid/Accettato"",""Services"",""Children""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""municipality"":""Unione Alto Ferrarese"",""state"":""Emilia-Romagna"",""town"":""Cento""},""boundingbox"":[""44.705628"",""44.8381841"",""11.2461129"",""11.3880712""],""class"":""boundary"",""display_name"":""Cento, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5919924514729962,""lat"":""44.7274395"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2903029"",""osm_id"":43506,""osm_type"":""relation"",""place_id"":283662905,""type"":""administrative""},""mode"":""autocomplete""},""description"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Facciamo rete accoglienza solidale a Cento"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":true,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""A Cento \u2018Facciamo rete\u2019 - accoglienza solidale offre  servizi ai rifugiati dall\u2019Ucraina"",""url"":""https://www.facebook.com/groups/ukrainehelpit/permalink/468223791713241/""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
   hospitality: true
@@ -382,66 +491,6 @@ address:
       city: Milano
       county: Milano
       state: Lombardia
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/403,1185360350,2022-03-29 20:27:43,2022-03-29 20:11:57,A Catania apre punto di raccolta di beni essenziali,,,,,"[""Valid/Accettato"",""Help"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""city"":""Catania"",""country"":""Italia"",""country_code"":""it"",""county"":""Catania"",""postcode"":""95121"",""state"":""Sicilia""},""boundingbox"":[""37.3582971"",""37.562386"",""14.9358674"",""15.125794""],""class"":""boundary"",""display_name"":""Catania, Sicilia, 95121, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7221226378988357,""lat"":""37.5023612"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.0873718"",""osm_id"":39230,""osm_type"":""relation"",""place_id"":284352873,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Attivato anche il coordinamento unico della Protezione Civile comunale per il reperimento e la spedizione di beni di prima necessit\u00e0 con alcuni cittadini che hanno offerto aiuti per le popolazioni ucraine.\nUn punto di raccolta di beni essenziali (cibo non deperibile/medicinali - indumenti nuovi - materiale sanitario) \u00e8 attivo nella sede della Protezione Civile Comunale con sede in via Leopoldo Nobili 28, dal luned\u00ec al venerd\u00ec dalle ore 9,00 alle ore 13,00 e dalle ore 14,00 alle ore 18,00 e sabato dalle ore 8,30 alle ore 12,00.\n\nProtezione Civile Comunale Tel. 095484000 \u2013 0957425148 per informazioni ed eventuali disponibilit\u00e0 alla raccolta a domicilio."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Catania"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Punto di raccolta di beni essenziali"",""url"":""https://www.comune.catania.it/informazioni/news/politiche-sociali/politiche-sociali-2022-news/default.aspx?news=83290""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Comune di Catania
-title: Punto di raccolta di beni essenziali
-recipients: ''
-description: 'Attivato anche il coordinamento unico della Protezione Civile comunale
-  per il reperimento e la spedizione di beni di prima necessità con alcuni cittadini
-  che hanno offerto aiuti per le popolazioni ucraine.
-
-  Un punto di raccolta di beni essenziali (cibo non deperibile/medicinali - indumenti
-  nuovi - materiale sanitario) è attivo nella sede della Protezione Civile Comunale
-  con sede in via Leopoldo Nobili 28, dal lunedì al venerdì dalle ore 9,00 alle ore
-  13,00 e dalle ore 14,00 alle ore 18,00 e sabato dalle ore 8,30 alle ore 12,00.
-
-
-  Protezione Civile Comunale Tel. 095484000 – 0957425148 per informazioni ed eventuali
-  disponibilità alla raccolta a domicilio.'
-url: https://www.comune.catania.it/informazioni/news/politiche-sociali/politiche-sociali-2022-news/default.aspx?news=83290
-address:
-  mode: autocomplete
-  address:
-    place_id: 284352873
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 39230
-    boundingbox:
-    - '37.3582971'
-    - '37.562386'
-    - '14.9358674'
-    - '15.125794'
-    lat: '37.5023612'
-    lon: '15.0873718'
-    display_name: Catania, Sicilia, 95121, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7221226378988357
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Catania
-      county: Catania
-      state: Sicilia
-      postcode: '95121'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
