@@ -1,4 +1,57 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/399,1185341282,2022-03-29 21:40:14,2022-03-29 19:51:31,Comune di Palermo attiva indirizzo email per supporto e accoglienza delle persone in arrivo dall’Ucraina,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""state"":""Sicilia""},""boundingbox"":[""38.0499137"",""38.2245866"",""13.242219"",""13.4520856""],""class"":""boundary"",""display_name"":""Palermo, Sicilia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7661148171447915,""lat"":""38.1112268"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3524434"",""osm_id"":39513,""osm_type"":""relation"",""place_id"":284307182,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Comune di Palermo ha attivato l'indirizzo mail aiutiucraina@comune.palermo.it\ndedicato alla situazione ucraina per accompagnare e facilitare le pratiche di ricongiungimenti e mettere in collegamento i profughi con le associazioni del terzo settore e con privati cittadini che, in alcuni casi, hanno gi\u00e0 espresso ed intendono dare la loro disponibilit\u00e0 per accoglierli."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Palermo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Palermo attiva una mail dedicata per aiuti alle persone in arrivo"",""url"":""https://www.comune.palermo.it/palermo-informa-dettaglio.php?id=34071&tipo=1""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Comune di Palermo
+title: Comune di Palermo attiva una mail dedicata per aiuti alle persone in arrivo
+recipients: ''
+description: 'Il Comune di Palermo ha attivato l''indirizzo mail aiutiucraina@comune.palermo.it
+
+  dedicato alla situazione ucraina per accompagnare e facilitare le pratiche di ricongiungimenti
+  e mettere in collegamento i profughi con le associazioni del terzo settore e con
+  privati cittadini che, in alcuni casi, hanno già espresso ed intendono dare la loro
+  disponibilità per accoglierli.'
+url: https://www.comune.palermo.it/palermo-informa-dettaglio.php?id=34071&tipo=1
+address:
+  mode: autocomplete
+  address:
+    place_id: 284307182
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 39513
+    boundingbox:
+    - '38.0499137'
+    - '38.2245866'
+    - '13.242219'
+    - '13.4520856'
+    lat: '38.1112268'
+    lon: '13.3524434'
+    display_name: Palermo, Sicilia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7661148171447915
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Palermo
+      county: Palermo
+      state: Sicilia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/412,1185393030,2022-03-29 21:36:32,2022-03-29 20:44:22,"Rimini, governo decide di trasferire i profughi ucraini in altre regioni ma la gran parte non vuole andarsene",43.9470982,12.630768610516004,Emilia-Romagna,Rimini,"[""Valid/Accettato"",""News"",""Legal"",""AA Violation""]",,,"{""Posizione"":""43.9470982 12.630768610516004"",""description"":""Sabato 26 marzo \u00e8 partita, alle 8 del mattino, l\u2019operazione di trasferimento che avrebbe dovuto portare 400 rifugiati, ospitati negli hotel di Rimini, in ben 7 regioni italiane (si parla di Liguria, Piemonte, Molise, Abruzzo, Marche, Basilicata e Puglia). A prendere questa decisione \u00e8 stato il ministero dell\u2019Interno per \u201calleggerire\u201d i territori con pi\u00f9 alta concentrazione di donne, bambini e anziani fuggiti dall\u2019Ucraina, assediata dai russi (mentre il governo sta studiando un piano tutto italiano per l\u2019accoglienza). Riviera Sicura e Prefettura di Rimini, tra l\u2019altro, hanno fatto in modo di non separare le famiglie n\u00e9 di trasferire persone con problemi di salute. Il risultato? In 128 hanno accettato il trasferimento, gli altri 700 no spiegando di aver scelto Rimini \u00abper ricongiungimento con familiari o amici\u00bb. Nessuno dei rifugiati \u00e8 arrivato \u00abqui per caso o attirato dall\u2019ospitalit\u00e0 degli hotel\u00bb. \u00abA Rimini risiede una comunit\u00e0 ucraina (di circa 5 mila persone, ndr) estremamente ampia e quasi tutti hanno un parente o una amica che scappa dalla guerra. Stimiamo, infatti, in almeno 2 mila il numero di rifugiati attualmente ospitati da amici e parenti. Sapevamo gi\u00e0 delle resistenze che avremmo trovato e lo avevamo preannunciato alle istituzioni; il risultato era assolutamente scontato fin dalla vigilia\u00bb, ha aggiunto. \u00abUn\u2019altra caratteristica esclusiva di questa emergenza \u00e8 data dal probabile breve periodo della permanenza: secondo un\u2019indagine, infatti, oltre il 90 per cento dei rifugiati far\u00e0 immediatamente ritorno nel proprio paese non appena le condizioni lo consentiranno\u00bb, ha spiegato Giosu\u00e8 Salomone, presidente di Riviera Sicura."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.open.online/2022/03/28/ucraina-profughi-hotel-rimini/amp/"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Rimini"",""state"":""Emilia-Romagna""},""boundingbox"":[""43.7318997"",""44.1622868"",""12.0961656"",""12.7559006""],""class"":""boundary"",""display_name"":""Rimini, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7275060732242618,""lat"":""43.9470982"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.630768610516004"",""osm_id"":42661,""osm_type"":""relation"",""place_id"":283529298,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Situazione profughi a Rimini""}","<pre><yamldata>
 title: Situazione profughi a Rimini
 description: 'Sabato 26 marzo è partita, alle 8 del mattino, l’operazione di trasferimento
@@ -451,59 +504,6 @@ address:
       country_code: ua
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: useful contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/399,1185341282,2022-03-29 20:04:21,2022-03-29 19:51:31,Comune di Palermo attiva una mail dedicata per aiuti alle persone in arrivo dall’Ucraina,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""state"":""Sicilia""},""boundingbox"":[""38.0499137"",""38.2245866"",""13.242219"",""13.4520856""],""class"":""boundary"",""display_name"":""Palermo, Sicilia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7661148171447915,""lat"":""38.1112268"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3524434"",""osm_id"":39513,""osm_type"":""relation"",""place_id"":284307182,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Comune di Palermo ha attivato l'indirizzo mail aiutiucraina@comune.palermo.it\ndedicato alla situazione ucraina per accompagnare e facilitare le pratiche di ricongiungimenti e mettere in collegamento i profughi con le associazioni del terzo settore e con privati cittadini che, in alcuni casi, hanno gi\u00e0 espresso ed intendono dare la loro disponibilit\u00e0 per accoglierli."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Palermo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Palermo attiva una mail dedicata per aiuti alle persone in arrivo"",""url"":""https://www.comune.palermo.it/palermo-informa-dettaglio.php?id=34071&tipo=1""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: true
-  transport: false
-  healthcare: false
-  Legal: true
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Comune di Palermo
-title: Comune di Palermo attiva una mail dedicata per aiuti alle persone in arrivo
-recipients: ''
-description: 'Il Comune di Palermo ha attivato l''indirizzo mail aiutiucraina@comune.palermo.it
-
-  dedicato alla situazione ucraina per accompagnare e facilitare le pratiche di ricongiungimenti
-  e mettere in collegamento i profughi con le associazioni del terzo settore e con
-  privati cittadini che, in alcuni casi, hanno già espresso ed intendono dare la loro
-  disponibilità per accoglierli.'
-url: https://www.comune.palermo.it/palermo-informa-dettaglio.php?id=34071&tipo=1
-address:
-  mode: autocomplete
-  address:
-    place_id: 284307182
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 39513
-    boundingbox:
-    - '38.0499137'
-    - '38.2245866'
-    - '13.242219'
-    - '13.4520856'
-    lat: '38.1112268'
-    lon: '13.3524434'
-    display_name: Palermo, Sicilia, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7661148171447915
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Palermo
-      county: Palermo
-      state: Sicilia
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/400,1185349079,2022-03-29 20:03:38,2022-03-29 20:00:13,A Palermo apre centro accoglienza profughi ucraini alla Fiera del Mediterraneo,37.8819449,13.609543686318478,Sicilia,Palermo,"[""Valid/Accettato"",""News""]",,,"{""Posizione"":""37.8819449 13.609543686318478"",""description"":""Inaugurato il centro di prima accoglienza per i profughi ucraini alla Fiera del Mediterraneo. La struttura sorge al padiglione 4 della Fiera: un locale a due piani interamente rimesso a nuovo grazie al lavoro dei volontari della protezione civile comunale che prestano servizio all\u2019hub."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.comune.palermo.it/palermo-informa-dettaglio.php?tp=1&id=34283"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""state"":""Sicilia""},""boundingbox"":[""37.5393034"",""38.7206781"",""12.9287426"",""14.2943904""],""class"":""boundary"",""display_name"":""Palermo, Sicilia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5763208078597727,""lat"":""37.8819449"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.609543686318478"",""osm_id"":39295,""osm_type"":""relation"",""place_id"":283839135,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Palermo - Inaugurazione centro accoglienza profughi ucraini alla Fiera del Mediterraneo""}","<pre><yamldata>
