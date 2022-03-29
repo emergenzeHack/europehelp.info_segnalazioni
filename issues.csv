@@ -1,4 +1,58 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/407,1185379561,2022-03-29 20:51:56,2022-03-29 20:30:50,"Avvocati di Strada, Sportelli legali in molte città d'Italia",,,,,"[""Valid/Accettato"",""Services"",""Legal""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it""},""boundingbox"":[""35.2889616"",""47.0921462"",""6.6272658"",""18.7844746""],""class"":""boundary"",""display_name"":""Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9931019031440554,""lat"":""42.6384261"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.674297"",""osm_id"":365331,""osm_type"":""relation"",""place_id"":284007015,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Presso le sedi locali di Avvocato di strada (vedere link), \u00e8 attivo uno sportello di orientamento e supporto legale. Molti volontari, inoltre, hanno dato al proprio consiglio dell\u2019ordine territoriale una disponibilit\u00e0 per partecipare ad attivit\u00e0 di tutela legale dei profughi e per creare contact point presso gli ordini.\n\nPer richieste di informazioni a carattere generale, orientamento ai servizi sul territorio o altre necessit\u00e0 che riguardano la guerra in Ucraina \u00e8 attiva la mail emergenza@avvocatodistrada.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Avvocato di strada"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Sportelli legali in molte citt\u00e0 d'Italia"",""url"":""https://www.avvocatodistrada.it/sedi-locali/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Associazione Avvocato di strada
+title: Sportelli legali in molte città d'Italia
+recipients: ''
+description: 'Presso le sedi locali di Avvocato di strada (vedere link), è attivo
+  uno sportello di orientamento e supporto legale. Molti volontari, inoltre, hanno
+  dato al proprio consiglio dell’ordine territoriale una disponibilità per partecipare
+  ad attività di tutela legale dei profughi e per creare contact point presso gli
+  ordini.
+
+
+  Per richieste di informazioni a carattere generale, orientamento ai servizi sul
+  territorio o altre necessità che riguardano la guerra in Ucraina è attiva la mail
+  emergenza@avvocatodistrada.it'
+url: https://www.avvocatodistrada.it/sedi-locali/
+address:
+  mode: autocomplete
+  address:
+    place_id: 284007015
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 365331
+    boundingbox:
+    - '35.2889616'
+    - '47.0921462'
+    - '6.6272658'
+    - '18.7844746'
+    lat: '42.6384261'
+    lon: '12.674297'
+    display_name: Italia
+    class: boundary
+    type: administrative
+    importance: 0.9931019031440554
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/412,1185393030,2022-03-29 20:45:19,2022-03-29 20:44:22,Situazione profughi a Rimini,43.9470982,12.630768610516004,Emilia-Romagna,Rimini,"[""Valid/Accettato"",""News"",""Legal"",""telegram-channel"",""tweet"",""AA Violation""]",,,"{""Posizione"":""43.9470982 12.630768610516004"",""description"":""Sabato 26 marzo \u00e8 partita, alle 8 del mattino, l\u2019operazione di trasferimento che avrebbe dovuto portare 400 rifugiati, ospitati negli hotel di Rimini, in ben 7 regioni italiane (si parla di Liguria, Piemonte, Molise, Abruzzo, Marche, Basilicata e Puglia). A prendere questa decisione \u00e8 stato il ministero dell\u2019Interno per \u201calleggerire\u201d i territori con pi\u00f9 alta concentrazione di donne, bambini e anziani fuggiti dall\u2019Ucraina, assediata dai russi (mentre il governo sta studiando un piano tutto italiano per l\u2019accoglienza). Riviera Sicura e Prefettura di Rimini, tra l\u2019altro, hanno fatto in modo di non separare le famiglie n\u00e9 di trasferire persone con problemi di salute. Il risultato? In 128 hanno accettato il trasferimento, gli altri 700 no spiegando di aver scelto Rimini \u00abper ricongiungimento con familiari o amici\u00bb.\n\nNessuno dei rifugiati \u00e8 arrivato \u00abqui per caso o attirato dall\u2019ospitalit\u00e0 degli hotel\u00bb. \u00abA Rimini risiede una comunit\u00e0 ucraina (di circa 5 mila persone, ndr) estremamente ampia e quasi tutti hanno un parente o una amica che scappa dalla guerra. Stimiamo, infatti, in almeno 2 mila il numero di rifugiati attualmente ospitati da amici e parenti. Sapevamo gi\u00e0 delle resistenze che avremmo trovato e lo avevamo preannunciato alle istituzioni; il risultato era assolutamente scontato fin dalla vigilia\u00bb, ha aggiunto. \u00abUn\u2019altra caratteristica esclusiva di questa emergenza \u00e8 data dal probabile breve periodo della permanenza: secondo un\u2019indagine, infatti, oltre il 90 per cento dei rifugiati far\u00e0 immediatamente ritorno nel proprio paese non appena le condizioni lo consentiranno\u00bb, ha spiegato Giosu\u00e8 Salomone, presidente di Riviera Sicura."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.open.online/2022/03/28/ucraina-profughi-hotel-rimini/amp/"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Rimini"",""state"":""Emilia-Romagna""},""boundingbox"":[""43.7318997"",""44.1622868"",""12.0961656"",""12.7559006""],""class"":""boundary"",""display_name"":""Rimini, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7275060732242618,""lat"":""43.9470982"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.630768610516004"",""osm_id"":42661,""osm_type"":""relation"",""place_id"":283529298,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Situazione profughi a Rimini""}","<pre><yamldata>
 title: Situazione profughi a Rimini
 description: 'Sabato 26 marzo è partita, alle 8 del mattino, l’operazione di trasferimento
