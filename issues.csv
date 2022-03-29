@@ -1,4 +1,209 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/403,1185360350,2022-03-29 22:19:42,2022-03-29 20:11:57,A Catania apre punto di raccolta di beni essenziali per emergenza Ucraina,,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""city"":""Catania"",""country"":""Italia"",""country_code"":""it"",""county"":""Catania"",""postcode"":""95121"",""state"":""Sicilia""},""boundingbox"":[""37.3582971"",""37.562386"",""14.9358674"",""15.125794""],""class"":""boundary"",""display_name"":""Catania, Sicilia, 95121, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7221226378988357,""lat"":""37.5023612"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.0873718"",""osm_id"":39230,""osm_type"":""relation"",""place_id"":284352873,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Attivato anche il coordinamento unico della Protezione Civile comunale per il reperimento e la spedizione di beni di prima necessit\u00e0 con alcuni cittadini che hanno offerto aiuti per le popolazioni ucraine. Un punto di raccolta di beni essenziali (cibo non deperibile/medicinali - indumenti nuovi - materiale sanitario) \u00e8 attivo nella sede della Protezione Civile Comunale con sede in via Leopoldo Nobili 28, dal luned\u00ec al venerd\u00ec dalle ore 9,00 alle ore 13,00 e dalle ore 14,00 alle ore 18,00 e sabato dalle ore 8,30 alle ore 12,00. Protezione Civile Comunale Tel. 095484000 \u2013 0957425148 per informazioni ed eventuali disponibilit\u00e0 alla raccolta a domicilio."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Catania"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Punto di raccolta di beni essenziali"",""url"":""https://www.comune.catania.it/informazioni/news/politiche-sociali/politiche-sociali-2022-news/default.aspx?news=83290""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Comune di Catania
+title: Punto di raccolta di beni essenziali
+recipients: ''
+description: 'Attivato anche il coordinamento unico della Protezione Civile comunale
+  per il reperimento e la spedizione di beni di prima necessità con alcuni cittadini
+  che hanno offerto aiuti per le popolazioni ucraine.
+  Un punto di raccolta di beni essenziali (cibo non deperibile/medicinali - indumenti
+  nuovi - materiale sanitario) è attivo nella sede della Protezione Civile Comunale
+  con sede in via Leopoldo Nobili 28, dal lunedì al venerdì dalle ore 9,00 alle ore
+  13,00 e dalle ore 14,00 alle ore 18,00 e sabato dalle ore 8,30 alle ore 12,00.
+  Protezione Civile Comunale Tel. 095484000 – 0957425148 per informazioni ed eventuali
+  disponibilità alla raccolta a domicilio.'
+url: https://www.comune.catania.it/informazioni/news/politiche-sociali/politiche-sociali-2022-news/default.aspx?news=83290
+address:
+  mode: autocomplete
+  address:
+    place_id: 284352873
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 39230
+    boundingbox:
+    - '37.3582971'
+    - '37.562386'
+    - '14.9358674'
+    - '15.125794'
+    lat: '37.5023612'
+    lon: '15.0873718'
+    display_name: Catania, Sicilia, 95121, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7221226378988357
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Catania
+      county: Catania
+      state: Sicilia
+      postcode: '95121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/412,1185393030,2022-03-29 22:18:36,2022-03-29 20:44:22,"Rimini, governo decide di trasferire i profughi ucraini in altre regioni ma la gran parte non vuole andarsene",43.9470982,12.630768610516004,Emilia-Romagna,Rimini,"[""Valid/Accettato"",""News"",""AA Violation""]",,,"{""Posizione"":""43.9470982 12.630768610516004"",""description"":""Sabato 26 marzo \u00e8 partita, alle 8 del mattino, l\u2019operazione di trasferimento che avrebbe dovuto portare 400 rifugiati, ospitati negli hotel di Rimini, in ben 7 regioni italiane (si parla di Liguria, Piemonte, Molise, Abruzzo, Marche, Basilicata e Puglia). A prendere questa decisione \u00e8 stato il ministero dell\u2019Interno per \u201calleggerire\u201d i territori con pi\u00f9 alta concentrazione di donne, bambini e anziani fuggiti dall\u2019Ucraina, assediata dai russi (mentre il governo sta studiando un piano tutto italiano per l\u2019accoglienza). Riviera Sicura e Prefettura di Rimini, tra l\u2019altro, hanno fatto in modo di non separare le famiglie n\u00e9 di trasferire persone con problemi di salute. Il risultato? In 128 hanno accettato il trasferimento, gli altri 700 no spiegando di aver scelto Rimini \u00abper ricongiungimento con familiari o amici\u00bb. Nessuno dei rifugiati \u00e8 arrivato \u00abqui per caso o attirato dall\u2019ospitalit\u00e0 degli hotel\u00bb. \u00abA Rimini risiede una comunit\u00e0 ucraina (di circa 5 mila persone, ndr) estremamente ampia e quasi tutti hanno un parente o una amica che scappa dalla guerra. Stimiamo, infatti, in almeno 2 mila il numero di rifugiati attualmente ospitati da amici e parenti. Sapevamo gi\u00e0 delle resistenze che avremmo trovato e lo avevamo preannunciato alle istituzioni; il risultato era assolutamente scontato fin dalla vigilia\u00bb, ha aggiunto. \u00abUn\u2019altra caratteristica esclusiva di questa emergenza \u00e8 data dal probabile breve periodo della permanenza: secondo un\u2019indagine, infatti, oltre il 90 per cento dei rifugiati far\u00e0 immediatamente ritorno nel proprio paese non appena le condizioni lo consentiranno\u00bb, ha spiegato Giosu\u00e8 Salomone, presidente di Riviera Sicura."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.open.online/2022/03/28/ucraina-profughi-hotel-rimini/amp/"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Rimini"",""state"":""Emilia-Romagna""},""boundingbox"":[""43.7318997"",""44.1622868"",""12.0961656"",""12.7559006""],""class"":""boundary"",""display_name"":""Rimini, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7275060732242618,""lat"":""43.9470982"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.630768610516004"",""osm_id"":42661,""osm_type"":""relation"",""place_id"":283529298,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Situazione profughi a Rimini""}","<pre><yamldata>
+title: Situazione profughi a Rimini
+description: 'Sabato 26 marzo è partita, alle 8 del mattino, l’operazione di trasferimento
+  che avrebbe dovuto portare 400 rifugiati, ospitati negli hotel di Rimini, in ben
+  7 regioni italiane (si parla di Liguria, Piemonte, Molise, Abruzzo, Marche, Basilicata
+  e Puglia). A prendere questa decisione è stato il ministero dell’Interno per “alleggerire”
+  i territori con più alta concentrazione di donne, bambini e anziani fuggiti dall’Ucraina,
+  assediata dai russi (mentre il governo sta studiando un piano tutto italiano per
+  l’accoglienza). Riviera Sicura e Prefettura di Rimini, tra l’altro, hanno fatto
+  in modo di non separare le famiglie né di trasferire persone con problemi di salute.
+  Il risultato? In 128 hanno accettato il trasferimento, gli altri 700 no spiegando
+  di aver scelto Rimini «per ricongiungimento con familiari o amici».
+  Nessuno dei rifugiati è arrivato «qui per caso o attirato dall’ospitalità degli
+  hotel». «A Rimini risiede una comunità ucraina (di circa 5 mila persone, ndr) estremamente
+  ampia e quasi tutti hanno un parente o una amica che scappa dalla guerra. Stimiamo,
+  infatti, in almeno 2 mila il numero di rifugiati attualmente ospitati da amici e
+  parenti. Sapevamo già delle resistenze che avremmo trovato e lo avevamo preannunciato
+  alle istituzioni; il risultato era assolutamente scontato fin dalla vigilia», ha
+  aggiunto. «Un’altra caratteristica esclusiva di questa emergenza è data dal probabile
+  breve periodo della permanenza: secondo un’indagine, infatti, oltre il 90 per cento
+  dei rifugiati farà immediatamente ritorno nel proprio paese non appena le condizioni
+  lo consentiranno», ha spiegato Giosuè Salomone, presidente di Riviera Sicura.'
+link: https://www.open.online/2022/03/28/ucraina-profughi-hotel-rimini/amp/
+location:
+  mode: autocomplete
+  address:
+    place_id: 283529298
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 42661
+    boundingbox:
+    - '43.7318997'
+    - '44.1622868'
+    - '12.0961656'
+    - '12.7559006'
+    lat: '43.9470982'
+    lon: '12.630768610516004'
+    display_name: Rimini, Emilia-Romagna, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7275060732242618
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Rimini
+      state: Emilia-Romagna
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 43.9470982 12.630768610516004
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/413,1185394141,2022-03-29 22:18:18,2022-03-29 20:45:35,Comune di Cento (Ferrara) cerca volontari bilingue italiano/ucraino per attività di integrazione per minori,44.7274395,11.2903029,Emilia-Romagna,Ferrara,"[""Valid/Accettato"",""Help"",""Children""]",,,"{""Posizione"":""44.7274395 11.2903029"",""description"":""Il Comune di Cento \u00e8 alla ricerca di volontari bilingue per realizzare attivit\u00e0 di integrazione per minori. Se parli l'italiano e l'ucraino e ti va di donare un p\u00f2 del tuo tempo contatta: facciamorete@comune.cento.fe.it"",""email"":""facciamorete@comune.cento.fe.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""municipality"":""Unione Alto Ferrarese"",""state"":""Emilia-Romagna"",""town"":""Cento""},""boundingbox"":[""44.705628"",""44.8381841"",""11.2461129"",""11.3880712""],""class"":""boundary"",""display_name"":""Cento, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5919924514729962,""lat"":""44.7274395"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2903029"",""osm_id"":43506,""osm_type"":""relation"",""place_id"":283662905,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Comune di Cento"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Ricerca volontari bilingue"",""url"":""https://www.comune.cento.fe.it/aree-tematiche/volontariato-e-associazionismo/facciamo-rete-coordinamento-solidale-lintegrazione""}","<pre><yamldata>
+nameSurname: Comune di Cento
+phoneNumber: ''
+email: facciamorete@comune.cento.fe.it
+title: Ricerca volontari bilingue
+recipients: ''
+description: 'Il Comune di Cento è alla ricerca di volontari bilingue per realizzare
+  attività di integrazione per minori. Se parli l''italiano e l''ucraino e ti va di
+  donare un pò del tuo tempo contatta: facciamorete@comune.cento.fe.it'
+url: https://www.comune.cento.fe.it/aree-tematiche/volontariato-e-associazionismo/facciamo-rete-coordinamento-solidale-lintegrazione
+location:
+  mode: autocomplete
+  address:
+    place_id: 283662905
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43506
+    boundingbox:
+    - '44.705628'
+    - '44.8381841'
+    - '11.2461129'
+    - '11.3880712'
+    lat: '44.7274395'
+    lon: '11.2903029'
+    display_name: Cento, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, Italia
+    class: boundary
+    type: administrative
+    importance: 0.5919924514729962
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      town: Cento
+      municipality: Unione Alto Ferrarese
+      county: Ferrara
+      state: Emilia-Romagna
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 44.7274395 11.2903029
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/408,1185385495,2022-03-29 22:14:54,2022-03-29 20:36:59,"Milano, attivato hotspot pediatrico per minori ucraini all’Ospedale Fatebenefratelli",,,,,"[""Valid/Accettato"",""Services"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""state"":""Lombardia""},""boundingbox"":[""45.3867381"",""45.5358482"",""9.0408867"",""9.2781103""],""class"":""boundary"",""display_name"":""Milano, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8490652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":44915,""osm_type"":""relation"",""place_id"":283684439,""type"":""administrative""},""mode"":""autocomplete""},""description"":""AGGIORNAMENTI EMERGENZA UCRAINA. \u00c8 stato attivato un hotspot dedicato all'area pediatrica presso l'Ospedale Fatebenefratelli, piazza Principessa Clotilde n. 3, Palazzina delle Medicine, primo piano. Inoltre, sul sito dell'Agenzia sono disponibili informazioni utili per i profughi ucraini in fuga con i propri animali d\u2019affezione. Per tutte le informazioni sull'assistenza sanitaria ai profughi ucraini, consultare la pagina dedicata sul sito di ATS."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""ATS Milano: informazioni sull\u2019assistenza sanitaria ai profughi"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""ATS Milano: informazioni sull\u2019assistenza sanitaria ai profughi"",""url"":""https://www.ats-milano.it/notizie/indicazioni-assistenza-sanitaria-ai-profughi-ucraini""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: true
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: 'ATS Milano: informazioni sull’assistenza sanitaria ai profughi'
+title: 'ATS Milano: informazioni sull’assistenza sanitaria ai profughi'
+recipients: ''
+description: 'AGGIORNAMENTI EMERGENZA UCRAINA.
+È stato attivato un hotspot dedicato all''area pediatrica presso l''Ospedale
+  Fatebenefratelli, piazza Principessa Clotilde n. 3, Palazzina delle Medicine, primo
+  piano.
+Inoltre, sul sito dell''Agenzia sono disponibili informazioni utili per i profughi ucraini
+  in fuga con i propri animali d’affezione.
+  Per tutte le informazioni sull''assistenza sanitaria ai profughi ucraini, consultare
+  la pagina dedicata sul sito di ATS.'
+url: https://www.ats-milano.it/notizie/indicazioni-assistenza-sanitaria-ai-profughi-ucraini
+address:
+  mode: autocomplete
+  address:
+    place_id: 283684439
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 44915
+    boundingbox:
+    - '45.3867381'
+    - '45.5358482'
+    - '9.0408867'
+    - '9.2781103'
+    lat: '45.4641943'
+    lon: '9.1896346'
+    display_name: Milano, Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8490652078701348
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Milano
+      county: Milano
+      state: Lombardia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/407,1185379561,2022-03-29 22:11:21,2022-03-29 20:30:50,"Avvocato di Strada, sportelli legali in molte città d'Italia a supporto dei profughi ucraini",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""telegram-channel""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it""},""boundingbox"":[""35.2889616"",""47.0921462"",""6.6272658"",""18.7844746""],""class"":""boundary"",""display_name"":""Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9931019031440554,""lat"":""42.6384261"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.674297"",""osm_id"":365331,""osm_type"":""relation"",""place_id"":284007015,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Presso le sedi locali di Avvocato di strada (vedere link), \u00e8 attivo uno sportello di orientamento e supporto legale per i profughi ucraini. Molti volontari, inoltre, hanno dato al proprio consiglio dell\u2019ordine territoriale disponibilit\u00e0 a partecipare ad attivit\u00e0 di tutela legale dei profughi e a creare contact point presso gli ordini. Per richieste di informazioni a carattere generale, orientamento ai servizi sul territorio o altre necessit\u00e0 che riguardano la guerra in Ucraina \u00e8 attiva la mail emergenza@avvocatodistrada.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Avvocato di strada"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Sportelli legali in molte citt\u00e0 d'Italia"",""url"":""https://www.avvocatodistrada.it/sedi-locali/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -97,63 +302,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 37.50570535 14.944202334712783
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/403,1185360350,2022-03-29 22:03:52,2022-03-29 20:11:57,A Catania apre punto di raccolta di beni essenziali,,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""city"":""Catania"",""country"":""Italia"",""country_code"":""it"",""county"":""Catania"",""postcode"":""95121"",""state"":""Sicilia""},""boundingbox"":[""37.3582971"",""37.562386"",""14.9358674"",""15.125794""],""class"":""boundary"",""display_name"":""Catania, Sicilia, 95121, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7221226378988357,""lat"":""37.5023612"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.0873718"",""osm_id"":39230,""osm_type"":""relation"",""place_id"":284352873,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Attivato anche il coordinamento unico della Protezione Civile comunale per il reperimento e la spedizione di beni di prima necessit\u00e0 con alcuni cittadini che hanno offerto aiuti per le popolazioni ucraine. Un punto di raccolta di beni essenziali (cibo non deperibile/medicinali - indumenti nuovi - materiale sanitario) \u00e8 attivo nella sede della Protezione Civile Comunale con sede in via Leopoldo Nobili 28, dal luned\u00ec al venerd\u00ec dalle ore 9,00 alle ore 13,00 e dalle ore 14,00 alle ore 18,00 e sabato dalle ore 8,30 alle ore 12,00. Protezione Civile Comunale Tel. 095484000 \u2013 0957425148 per informazioni ed eventuali disponibilit\u00e0 alla raccolta a domicilio."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Catania"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Punto di raccolta di beni essenziali"",""url"":""https://www.comune.catania.it/informazioni/news/politiche-sociali/politiche-sociali-2022-news/default.aspx?news=83290""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Comune di Catania
-title: Punto di raccolta di beni essenziali
-recipients: ''
-description: 'Attivato anche il coordinamento unico della Protezione Civile comunale
-  per il reperimento e la spedizione di beni di prima necessità con alcuni cittadini
-  che hanno offerto aiuti per le popolazioni ucraine.
-  Un punto di raccolta di beni essenziali (cibo non deperibile/medicinali - indumenti
-  nuovi - materiale sanitario) è attivo nella sede della Protezione Civile Comunale
-  con sede in via Leopoldo Nobili 28, dal lunedì al venerdì dalle ore 9,00 alle ore
-  13,00 e dalle ore 14,00 alle ore 18,00 e sabato dalle ore 8,30 alle ore 12,00.
-  Protezione Civile Comunale Tel. 095484000 – 0957425148 per informazioni ed eventuali
-  disponibilità alla raccolta a domicilio.'
-url: https://www.comune.catania.it/informazioni/news/politiche-sociali/politiche-sociali-2022-news/default.aspx?news=83290
-address:
-  mode: autocomplete
-  address:
-    place_id: 284352873
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 39230
-    boundingbox:
-    - '37.3582971'
-    - '37.562386'
-    - '14.9358674'
-    - '15.125794'
-    lat: '37.5023612'
-    lon: '15.0873718'
-    display_name: Catania, Sicilia, 95121, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7221226378988357
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Catania
-      county: Catania
-      state: Sicilia
-      postcode: '95121'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/402,1185358928,2022-03-29 22:03:03,2022-03-29 20:10:27,Comune di Catania attiva indirizzo mail per raccogliere disponibilità ad ospitare profughi ucraini,,,,,"[""Valid/Accettato"",""Services"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""city"":""Catania"",""country"":""Italia"",""country_code"":""it"",""county"":""Catania"",""postcode"":""95121"",""state"":""Sicilia""},""boundingbox"":[""37.3582971"",""37.562386"",""14.9358674"",""15.125794""],""class"":""boundary"",""display_name"":""Catania, Sicilia, 95121, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7221226378988357,""lat"":""37.5023612"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.0873718"",""osm_id"":39230,""osm_type"":""relation"",""place_id"":284352873,""type"":""administrative""},""mode"":""autocomplete""},""description"":""L\u2019Amministrazione Comunale, allo scopo di raccogliere le disponibilit\u00e0 di alloggi per famiglie ucraine, ha attivato la mail: emergenza.ucraina@comune.catania.it in cui dovranno essere indicati nel modo pi\u00f9 specifico possibile gli alloggi con il referente proprietario dell\u2019abitazione."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Catania"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Catania apre mail per segnalare disponibilit\u00e0 alloggi"",""url"":""https://www.comune.catania.it/informazioni/news/politiche-sociali/politiche-sociali-2022-news/default.aspx?news=83290""}","<pre><yamldata>
 servicetypes:
@@ -347,58 +495,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/412,1185393030,2022-03-29 21:36:32,2022-03-29 20:44:22,"Rimini, governo decide di trasferire i profughi ucraini in altre regioni ma la gran parte non vuole andarsene",43.9470982,12.630768610516004,Emilia-Romagna,Rimini,"[""Valid/Accettato"",""News"",""Legal"",""AA Violation""]",,,"{""Posizione"":""43.9470982 12.630768610516004"",""description"":""Sabato 26 marzo \u00e8 partita, alle 8 del mattino, l\u2019operazione di trasferimento che avrebbe dovuto portare 400 rifugiati, ospitati negli hotel di Rimini, in ben 7 regioni italiane (si parla di Liguria, Piemonte, Molise, Abruzzo, Marche, Basilicata e Puglia). A prendere questa decisione \u00e8 stato il ministero dell\u2019Interno per \u201calleggerire\u201d i territori con pi\u00f9 alta concentrazione di donne, bambini e anziani fuggiti dall\u2019Ucraina, assediata dai russi (mentre il governo sta studiando un piano tutto italiano per l\u2019accoglienza). Riviera Sicura e Prefettura di Rimini, tra l\u2019altro, hanno fatto in modo di non separare le famiglie n\u00e9 di trasferire persone con problemi di salute. Il risultato? In 128 hanno accettato il trasferimento, gli altri 700 no spiegando di aver scelto Rimini \u00abper ricongiungimento con familiari o amici\u00bb. Nessuno dei rifugiati \u00e8 arrivato \u00abqui per caso o attirato dall\u2019ospitalit\u00e0 degli hotel\u00bb. \u00abA Rimini risiede una comunit\u00e0 ucraina (di circa 5 mila persone, ndr) estremamente ampia e quasi tutti hanno un parente o una amica che scappa dalla guerra. Stimiamo, infatti, in almeno 2 mila il numero di rifugiati attualmente ospitati da amici e parenti. Sapevamo gi\u00e0 delle resistenze che avremmo trovato e lo avevamo preannunciato alle istituzioni; il risultato era assolutamente scontato fin dalla vigilia\u00bb, ha aggiunto. \u00abUn\u2019altra caratteristica esclusiva di questa emergenza \u00e8 data dal probabile breve periodo della permanenza: secondo un\u2019indagine, infatti, oltre il 90 per cento dei rifugiati far\u00e0 immediatamente ritorno nel proprio paese non appena le condizioni lo consentiranno\u00bb, ha spiegato Giosu\u00e8 Salomone, presidente di Riviera Sicura."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.open.online/2022/03/28/ucraina-profughi-hotel-rimini/amp/"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Rimini"",""state"":""Emilia-Romagna""},""boundingbox"":[""43.7318997"",""44.1622868"",""12.0961656"",""12.7559006""],""class"":""boundary"",""display_name"":""Rimini, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7275060732242618,""lat"":""43.9470982"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.630768610516004"",""osm_id"":42661,""osm_type"":""relation"",""place_id"":283529298,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Situazione profughi a Rimini""}","<pre><yamldata>
-title: Situazione profughi a Rimini
-description: 'Sabato 26 marzo è partita, alle 8 del mattino, l’operazione di trasferimento
-  che avrebbe dovuto portare 400 rifugiati, ospitati negli hotel di Rimini, in ben
-  7 regioni italiane (si parla di Liguria, Piemonte, Molise, Abruzzo, Marche, Basilicata
-  e Puglia). A prendere questa decisione è stato il ministero dell’Interno per “alleggerire”
-  i territori con più alta concentrazione di donne, bambini e anziani fuggiti dall’Ucraina,
-  assediata dai russi (mentre il governo sta studiando un piano tutto italiano per
-  l’accoglienza). Riviera Sicura e Prefettura di Rimini, tra l’altro, hanno fatto
-  in modo di non separare le famiglie né di trasferire persone con problemi di salute.
-  Il risultato? In 128 hanno accettato il trasferimento, gli altri 700 no spiegando
-  di aver scelto Rimini «per ricongiungimento con familiari o amici».
-  Nessuno dei rifugiati è arrivato «qui per caso o attirato dall’ospitalità degli
-  hotel». «A Rimini risiede una comunità ucraina (di circa 5 mila persone, ndr) estremamente
-  ampia e quasi tutti hanno un parente o una amica che scappa dalla guerra. Stimiamo,
-  infatti, in almeno 2 mila il numero di rifugiati attualmente ospitati da amici e
-  parenti. Sapevamo già delle resistenze che avremmo trovato e lo avevamo preannunciato
-  alle istituzioni; il risultato era assolutamente scontato fin dalla vigilia», ha
-  aggiunto. «Un’altra caratteristica esclusiva di questa emergenza è data dal probabile
-  breve periodo della permanenza: secondo un’indagine, infatti, oltre il 90 per cento
-  dei rifugiati farà immediatamente ritorno nel proprio paese non appena le condizioni
-  lo consentiranno», ha spiegato Giosuè Salomone, presidente di Riviera Sicura.'
-link: https://www.open.online/2022/03/28/ucraina-profughi-hotel-rimini/amp/
-location:
-  mode: autocomplete
-  address:
-    place_id: 283529298
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 42661
-    boundingbox:
-    - '43.7318997'
-    - '44.1622868'
-    - '12.0961656'
-    - '12.7559006'
-    lat: '43.9470982'
-    lon: '12.630768610516004'
-    display_name: Rimini, Emilia-Romagna, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7275060732242618
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      county: Rimini
-      state: Emilia-Romagna
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 43.9470982 12.630768610516004
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/410,1185391419,2022-03-29 20:44:48,2022-03-29 20:42:38,Animali d'affezione al seguito dei profughi provenienti dall'Ucraina: obbligo di segnalazione all'ATS Brianza ,45.6183103,9.2081245,Lombardia,Monza e della Brianza,"[""Valid/Accettato"",""News"",""healthcare""]",,,"{""Posizione"":""45.6183103 9.2081245"",""description"":""Animali d'affezione al seguito dei profughi provenienti dall'Ucraina: obbligo di segnalazione all'ATS Brianza"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.comune.desio.mb.it/it/news/animali-d-affezione-al-seguito-dei-profughi-provenienti-dall-ucraina"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Monza e della Brianza"",""postcode"":""20832"",""state"":""Lombardia"",""town"":""Desio""},""boundingbox"":[""45.5960657"",""45.6365128"",""9.174791"",""9.2349795""],""class"":""boundary"",""display_name"":""Desio, Monza e della Brianza, Lombardia, 20832, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.59470306841754,""lat"":""45.6183103"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2081245"",""osm_id"":45466,""osm_type"":""relation"",""place_id"":284616605,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Animali d'affezione al seguito dei profughi provenienti dall'Ucraina: obbligo di segnalazione all'ATS Brianza""}","<pre><yamldata>
 title: 'Animali d''affezione al seguito dei profughi provenienti dall''Ucraina: obbligo
   di segnalazione all''ATS Brianza'
@@ -435,112 +531,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 45.6183103 9.2081245
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/409,1185389355,2022-03-29 20:43:41,2022-03-29 20:40:24,Il comune di Cento raccoglie disponibilità per organizzare iniziative per l'integrazione di bambine ,44.7274395,11.2903029,Emilia-Romagna,Ferrara,"[""Valid/Accettato"",""Help"",""Children""]",,,"{""Posizione"":""44.7274395 11.2903029"",""description"":""Il Comune di Cento vuole o di favorire l'integrazione dei bambini accolti sul territorio raccogliendo la disponibilit\u00e0 ad organizzare o condividere le proprie iniziative. In questa fase il Comune \u00e8 anche in cerca di un aiuto per comprendere la lingua e diffondere meglio queste attivit\u00e0.\nSi possono segnalare idee e disponibilit\u00e0 a facciamorete@comune.cento.fe.it"",""email"":""facciamorete@comune.cento.fe.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""municipality"":""Unione Alto Ferrarese"",""state"":""Emilia-Romagna"",""town"":""Cento""},""boundingbox"":[""44.705628"",""44.8381841"",""11.2461129"",""11.3880712""],""class"":""boundary"",""display_name"":""Cento, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5819924514729962,""lat"":""44.7274395"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2903029"",""osm_id"":43506,""osm_type"":""relation"",""place_id"":283662905,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Comune di Cento"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Il comune di Cento raccoglie disponibilit\u00e0 per organizzare iniziative per l'integrazione di bambine e bambini"",""url"":""https://www.comune.cento.fe.it/aree-tematiche/volontariato-e-associazionismo/facciamo-rete-coordinamento-solidale-lintegrazione""}","<pre><yamldata>
-nameSurname: Comune di Cento
-phoneNumber: ''
-email: facciamorete@comune.cento.fe.it
-title: Il comune di Cento raccoglie disponibilità per organizzare iniziative per l'integrazione
-  di bambine e bambini
-recipients: ''
-description: 'Il Comune di Cento vuole o di favorire l''integrazione dei bambini accolti
-  sul territorio raccogliendo la disponibilità ad organizzare o condividere le proprie
-  iniziative. In questa fase il Comune è anche in cerca di un aiuto per comprendere
-  la lingua e diffondere meglio queste attività.
-
-  Si possono segnalare idee e disponibilità a facciamorete@comune.cento.fe.it'
-url: https://www.comune.cento.fe.it/aree-tematiche/volontariato-e-associazionismo/facciamo-rete-coordinamento-solidale-lintegrazione
-location:
-  mode: autocomplete
-  address:
-    place_id: 283662905
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 43506
-    boundingbox:
-    - '44.705628'
-    - '44.8381841'
-    - '11.2461129'
-    - '11.3880712'
-    lat: '44.7274395'
-    lon: '11.2903029'
-    display_name: Cento, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, Italia
-    class: boundary
-    type: administrative
-    importance: 0.5819924514729962
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      town: Cento
-      municipality: Unione Alto Ferrarese
-      county: Ferrara
-      state: Emilia-Romagna
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 44.7274395 11.2903029
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/408,1185385495,2022-03-29 20:38:34,2022-03-29 20:36:59,ATS Milano: informazioni sull’assistenza sanitaria ai profughi,,,,,"[""Valid/Accettato"",""Services"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""state"":""Lombardia""},""boundingbox"":[""45.3867381"",""45.5358482"",""9.0408867"",""9.2781103""],""class"":""boundary"",""display_name"":""Milano, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8490652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":44915,""osm_type"":""relation"",""place_id"":283684439,""type"":""administrative""},""mode"":""autocomplete""},""description"":""\ud83d\udfe2 AGGIORNAMENTI EMERGENZA UCRAINA\n\n\ud83d\udc36\ud83d\udc31 Sul sito dell'Agenzia sono disponibili informazioni utili per i profughi ucraini in fuga con i propri animali d\u2019affezione.\n\n\ud83c\udfe5 \u00c8 stato inoltre attivato un hotspot dedicato all'area pediatrica presso l'Ospedale Fatebenefratelli, piazza Principessa Clotilde n. 3, Palazzina delle Medicine, primo piano.\n\nPer tutte le informazioni sull'assistenza sanitaria ai profughi ucraini, puoi consultare la pagina dedicata sul sito di ATS \ud83d\udc47"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""ATS Milano: informazioni sull\u2019assistenza sanitaria ai profughi"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""ATS Milano: informazioni sull\u2019assistenza sanitaria ai profughi"",""url"":""https://www.ats-milano.it/notizie/indicazioni-assistenza-sanitaria-ai-profughi-ucraini""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: true
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: 'ATS Milano: informazioni sull’assistenza sanitaria ai profughi'
-title: 'ATS Milano: informazioni sull’assistenza sanitaria ai profughi'
-recipients: ''
-description: '🟢 AGGIORNAMENTI EMERGENZA UCRAINA
-
-
-  🐶🐱 Sul sito dell''Agenzia sono disponibili informazioni utili per i profughi ucraini
-  in fuga con i propri animali d’affezione.
-
-
-  🏥 È stato inoltre attivato un hotspot dedicato all''area pediatrica presso l''Ospedale
-  Fatebenefratelli, piazza Principessa Clotilde n. 3, Palazzina delle Medicine, primo
-  piano.
-
-
-  Per tutte le informazioni sull''assistenza sanitaria ai profughi ucraini, puoi consultare
-  la pagina dedicata sul sito di ATS 👇'
-url: https://www.ats-milano.it/notizie/indicazioni-assistenza-sanitaria-ai-profughi-ucraini
-address:
-  mode: autocomplete
-  address:
-    place_id: 283684439
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 44915
-    boundingbox:
-    - '45.3867381'
-    - '45.5358482'
-    - '9.0408867'
-    - '9.2781103'
-    lat: '45.4641943'
-    lon: '9.1896346'
-    display_name: Milano, Lombardia, Italia
-    class: boundary
-    type: administrative
-    importance: 0.8490652078701348
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Milano
-      county: Milano
-      state: Lombardia
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/398,1185252778,2022-03-29 18:28:16,2022-03-29 18:26:10,"Firmata l’ordinanza n. 881 del Dipartimento Nazionale Protezione Civile che disciplina l’accoglienza, il soccorso e l’assistenza alla popolazione ucraina in Italia",41.9039826,12.4719209,Lazio,Roma,"[""Valid/Accettato"",""News"",""hospitality"",""document_data"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""41.9039826 12.4719209"",""description"":""Il Capo del Dipartimento della Protezione civile, Fabrizio Curcio, ha firmato un\u2019ordinanza che disciplina l\u2019accoglienza, il soccorso e l\u2019assistenza alla popolazione ucraina in Italia (Ordinanza n. 881 del 29 marzo 2022 \u201cUlteriori disposizioni urgenti di protezione civile per assicurare, sul territorio nazionale, l\u2019accoglienza, il soccorso e l\u2019assistenza alla popolazione in conseguenza degli accadimenti in atto nel territorio dell\u2019Ucraina\u201d).\nL\u2019ordinanza regola le modalit\u00e0 di attuazione dell\u2019accoglienza diffusa, tramite gli avvisi di manifestazioni di interesse rivolti a enti del Terzo Settore, ai Centri di servizio per il volontariato, agli enti e alle associazioni iscritte al registro di cui all\u2019articolo 42 del decreto legislativo n. 286 del 1998 e agli enti religiosi civilmente riconosciuti, a beneficio delle persone richiedenti la protezione temporanea. Le procedure degli avvisi di manifestazioni di interesse prevedranno forme e modalit\u00e0 per offrire, ai soggetti beneficiari, servizi di assistenza e accoglienza, attivabili nel limite massimo di 15mila posti. L\u2019ordinanza riconosce alle persone richiedenti la protezione temporanea un contributo di sostentamento pari a 300 euro mensili pro capite e, in presenza di minori, \u00e8 riconosciuto un contributo addizionale mensile di 150 euro per ciascun figlio di et\u00e0 inferiore a 18 anni."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://www.protezionecivile.gov.it/it/normativa/ocdpc-n-881-del-29-marzo-2022-0"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""11"",""office"":""Dipartimento della Protezione Civile"",""postcode"":""00186"",""quarter"":""Prati"",""road"":""Via Ulpiano"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.9039326"",""41.9040326"",""12.4718709"",""12.4719709""],""class"":""office"",""display_name"":""Dipartimento della Protezione Civile, 11, Via Ulpiano, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia"",""importance"":0.42099999999999993,""lat"":""41.9039826"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4719209"",""osm_id"":5462543512,""osm_type"":""node"",""place_id"":59550508,""type"":""government""},""mode"":""autocomplete""},""submit"":true,""title"":""Firmata l\u2019ordinanza n. 881 del Dipartimento Nazionale Protezione Civile che disciplina l\u2019accoglienza, il soccorso e l\u2019assistenza alla popolazione ucraina in Italia""}","<pre><yamldata>
 title: Firmata l’ordinanza n. 881 del Dipartimento Nazionale Protezione Civile che
