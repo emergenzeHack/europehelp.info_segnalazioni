@@ -1,4 +1,140 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/412,1185393030,2022-03-29 20:45:19,2022-03-29 20:44:22,Situazione profughi a Rimini,43.9470982,12.630768610516004,Emilia-Romagna,Rimini,"[""Valid/Accettato"",""News"",""Legal"",""telegram-channel"",""tweet"",""AA Violation""]",,,"{""Posizione"":""43.9470982 12.630768610516004"",""description"":""Sabato 26 marzo \u00e8 partita, alle 8 del mattino, l\u2019operazione di trasferimento che avrebbe dovuto portare 400 rifugiati, ospitati negli hotel di Rimini, in ben 7 regioni italiane (si parla di Liguria, Piemonte, Molise, Abruzzo, Marche, Basilicata e Puglia). A prendere questa decisione \u00e8 stato il ministero dell\u2019Interno per \u201calleggerire\u201d i territori con pi\u00f9 alta concentrazione di donne, bambini e anziani fuggiti dall\u2019Ucraina, assediata dai russi (mentre il governo sta studiando un piano tutto italiano per l\u2019accoglienza). Riviera Sicura e Prefettura di Rimini, tra l\u2019altro, hanno fatto in modo di non separare le famiglie n\u00e9 di trasferire persone con problemi di salute. Il risultato? In 128 hanno accettato il trasferimento, gli altri 700 no spiegando di aver scelto Rimini \u00abper ricongiungimento con familiari o amici\u00bb.\n\nNessuno dei rifugiati \u00e8 arrivato \u00abqui per caso o attirato dall\u2019ospitalit\u00e0 degli hotel\u00bb. \u00abA Rimini risiede una comunit\u00e0 ucraina (di circa 5 mila persone, ndr) estremamente ampia e quasi tutti hanno un parente o una amica che scappa dalla guerra. Stimiamo, infatti, in almeno 2 mila il numero di rifugiati attualmente ospitati da amici e parenti. Sapevamo gi\u00e0 delle resistenze che avremmo trovato e lo avevamo preannunciato alle istituzioni; il risultato era assolutamente scontato fin dalla vigilia\u00bb, ha aggiunto. \u00abUn\u2019altra caratteristica esclusiva di questa emergenza \u00e8 data dal probabile breve periodo della permanenza: secondo un\u2019indagine, infatti, oltre il 90 per cento dei rifugiati far\u00e0 immediatamente ritorno nel proprio paese non appena le condizioni lo consentiranno\u00bb, ha spiegato Giosu\u00e8 Salomone, presidente di Riviera Sicura."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.open.online/2022/03/28/ucraina-profughi-hotel-rimini/amp/"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Rimini"",""state"":""Emilia-Romagna""},""boundingbox"":[""43.7318997"",""44.1622868"",""12.0961656"",""12.7559006""],""class"":""boundary"",""display_name"":""Rimini, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7275060732242618,""lat"":""43.9470982"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.630768610516004"",""osm_id"":42661,""osm_type"":""relation"",""place_id"":283529298,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Situazione profughi a Rimini""}","<pre><yamldata>
+title: Situazione profughi a Rimini
+description: 'Sabato 26 marzo è partita, alle 8 del mattino, l’operazione di trasferimento
+  che avrebbe dovuto portare 400 rifugiati, ospitati negli hotel di Rimini, in ben
+  7 regioni italiane (si parla di Liguria, Piemonte, Molise, Abruzzo, Marche, Basilicata
+  e Puglia). A prendere questa decisione è stato il ministero dell’Interno per “alleggerire”
+  i territori con più alta concentrazione di donne, bambini e anziani fuggiti dall’Ucraina,
+  assediata dai russi (mentre il governo sta studiando un piano tutto italiano per
+  l’accoglienza). Riviera Sicura e Prefettura di Rimini, tra l’altro, hanno fatto
+  in modo di non separare le famiglie né di trasferire persone con problemi di salute.
+  Il risultato? In 128 hanno accettato il trasferimento, gli altri 700 no spiegando
+  di aver scelto Rimini «per ricongiungimento con familiari o amici».
+
+
+  Nessuno dei rifugiati è arrivato «qui per caso o attirato dall’ospitalità degli
+  hotel». «A Rimini risiede una comunità ucraina (di circa 5 mila persone, ndr) estremamente
+  ampia e quasi tutti hanno un parente o una amica che scappa dalla guerra. Stimiamo,
+  infatti, in almeno 2 mila il numero di rifugiati attualmente ospitati da amici e
+  parenti. Sapevamo già delle resistenze che avremmo trovato e lo avevamo preannunciato
+  alle istituzioni; il risultato era assolutamente scontato fin dalla vigilia», ha
+  aggiunto. «Un’altra caratteristica esclusiva di questa emergenza è data dal probabile
+  breve periodo della permanenza: secondo un’indagine, infatti, oltre il 90 per cento
+  dei rifugiati farà immediatamente ritorno nel proprio paese non appena le condizioni
+  lo consentiranno», ha spiegato Giosuè Salomone, presidente di Riviera Sicura.'
+link: https://www.open.online/2022/03/28/ucraina-profughi-hotel-rimini/amp/
+location:
+  mode: autocomplete
+  address:
+    place_id: 283529298
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 42661
+    boundingbox:
+    - '43.7318997'
+    - '44.1622868'
+    - '12.0961656'
+    - '12.7559006'
+    lat: '43.9470982'
+    lon: '12.630768610516004'
+    display_name: Rimini, Emilia-Romagna, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7275060732242618
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Rimini
+      state: Emilia-Romagna
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 43.9470982 12.630768610516004
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/410,1185391419,2022-03-29 20:44:48,2022-03-29 20:42:38,Animali d'affezione al seguito dei profughi provenienti dall'Ucraina: obbligo di segnalazione all'ATS Brianza ,45.6183103,9.2081245,Lombardia,Monza e della Brianza,"[""Valid/Accettato"",""News"",""healthcare""]",,,"{""Posizione"":""45.6183103 9.2081245"",""description"":""Animali d'affezione al seguito dei profughi provenienti dall'Ucraina: obbligo di segnalazione all'ATS Brianza"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.comune.desio.mb.it/it/news/animali-d-affezione-al-seguito-dei-profughi-provenienti-dall-ucraina"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Monza e della Brianza"",""postcode"":""20832"",""state"":""Lombardia"",""town"":""Desio""},""boundingbox"":[""45.5960657"",""45.6365128"",""9.174791"",""9.2349795""],""class"":""boundary"",""display_name"":""Desio, Monza e della Brianza, Lombardia, 20832, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.59470306841754,""lat"":""45.6183103"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2081245"",""osm_id"":45466,""osm_type"":""relation"",""place_id"":284616605,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Animali d'affezione al seguito dei profughi provenienti dall'Ucraina: obbligo di segnalazione all'ATS Brianza""}","<pre><yamldata>
+title: 'Animali d''affezione al seguito dei profughi provenienti dall''Ucraina: obbligo
+  di segnalazione all''ATS Brianza'
+description: 'Animali d''affezione al seguito dei profughi provenienti dall''Ucraina:
+  obbligo di segnalazione all''ATS Brianza'
+link: https://www.comune.desio.mb.it/it/news/animali-d-affezione-al-seguito-dei-profughi-provenienti-dall-ucraina
+location:
+  mode: autocomplete
+  address:
+    place_id: 284616605
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 45466
+    boundingbox:
+    - '45.5960657'
+    - '45.6365128'
+    - '9.174791'
+    - '9.2349795'
+    lat: '45.6183103'
+    lon: '9.2081245'
+    display_name: Desio, Monza e della Brianza, Lombardia, 20832, Italia
+    class: boundary
+    type: administrative
+    importance: 0.59470306841754
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      town: Desio
+      county: Monza e della Brianza
+      state: Lombardia
+      postcode: '20832'
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.6183103 9.2081245
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/409,1185389355,2022-03-29 20:43:41,2022-03-29 20:40:24,Il comune di Cento raccoglie disponibilità per organizzare iniziative per l'integrazione di bambine ,44.7274395,11.2903029,Emilia-Romagna,Ferrara,"[""Valid/Accettato"",""Help"",""Children""]",,,"{""Posizione"":""44.7274395 11.2903029"",""description"":""Il Comune di Cento vuole o di favorire l'integrazione dei bambini accolti sul territorio raccogliendo la disponibilit\u00e0 ad organizzare o condividere le proprie iniziative. In questa fase il Comune \u00e8 anche in cerca di un aiuto per comprendere la lingua e diffondere meglio queste attivit\u00e0.\nSi possono segnalare idee e disponibilit\u00e0 a facciamorete@comune.cento.fe.it"",""email"":""facciamorete@comune.cento.fe.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""municipality"":""Unione Alto Ferrarese"",""state"":""Emilia-Romagna"",""town"":""Cento""},""boundingbox"":[""44.705628"",""44.8381841"",""11.2461129"",""11.3880712""],""class"":""boundary"",""display_name"":""Cento, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5819924514729962,""lat"":""44.7274395"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2903029"",""osm_id"":43506,""osm_type"":""relation"",""place_id"":283662905,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Comune di Cento"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Il comune di Cento raccoglie disponibilit\u00e0 per organizzare iniziative per l'integrazione di bambine e bambini"",""url"":""https://www.comune.cento.fe.it/aree-tematiche/volontariato-e-associazionismo/facciamo-rete-coordinamento-solidale-lintegrazione""}","<pre><yamldata>
+nameSurname: Comune di Cento
+phoneNumber: ''
+email: facciamorete@comune.cento.fe.it
+title: Il comune di Cento raccoglie disponibilità per organizzare iniziative per l'integrazione
+  di bambine e bambini
+recipients: ''
+description: 'Il Comune di Cento vuole o di favorire l''integrazione dei bambini accolti
+  sul territorio raccogliendo la disponibilità ad organizzare o condividere le proprie
+  iniziative. In questa fase il Comune è anche in cerca di un aiuto per comprendere
+  la lingua e diffondere meglio queste attività.
+
+  Si possono segnalare idee e disponibilità a facciamorete@comune.cento.fe.it'
+url: https://www.comune.cento.fe.it/aree-tematiche/volontariato-e-associazionismo/facciamo-rete-coordinamento-solidale-lintegrazione
+location:
+  mode: autocomplete
+  address:
+    place_id: 283662905
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43506
+    boundingbox:
+    - '44.705628'
+    - '44.8381841'
+    - '11.2461129'
+    - '11.3880712'
+    lat: '44.7274395'
+    lon: '11.2903029'
+    display_name: Cento, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, Italia
+    class: boundary
+    type: administrative
+    importance: 0.5819924514729962
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      town: Cento
+      municipality: Unione Alto Ferrarese
+      county: Ferrara
+      state: Emilia-Romagna
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 44.7274395 11.2903029
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/408,1185385495,2022-03-29 20:38:34,2022-03-29 20:36:59,ATS Milano: informazioni sull’assistenza sanitaria ai profughi,,,,,"[""Valid/Accettato"",""Services"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""state"":""Lombardia""},""boundingbox"":[""45.3867381"",""45.5358482"",""9.0408867"",""9.2781103""],""class"":""boundary"",""display_name"":""Milano, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8490652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":44915,""osm_type"":""relation"",""place_id"":283684439,""type"":""administrative""},""mode"":""autocomplete""},""description"":""\ud83d\udfe2 AGGIORNAMENTI EMERGENZA UCRAINA\n\n\ud83d\udc36\ud83d\udc31 Sul sito dell'Agenzia sono disponibili informazioni utili per i profughi ucraini in fuga con i propri animali d\u2019affezione.\n\n\ud83c\udfe5 \u00c8 stato inoltre attivato un hotspot dedicato all'area pediatrica presso l'Ospedale Fatebenefratelli, piazza Principessa Clotilde n. 3, Palazzina delle Medicine, primo piano.\n\nPer tutte le informazioni sull'assistenza sanitaria ai profughi ucraini, puoi consultare la pagina dedicata sul sito di ATS \ud83d\udc47"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""ATS Milano: informazioni sull\u2019assistenza sanitaria ai profughi"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""ATS Milano: informazioni sull\u2019assistenza sanitaria ai profughi"",""url"":""https://www.ats-milano.it/notizie/indicazioni-assistenza-sanitaria-ai-profughi-ucraini""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
