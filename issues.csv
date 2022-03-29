@@ -1,5 +1,244 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/397,1185031874,2022-03-29 18:03:03,2022-03-29 15:18:15,"Università di Trento, online info su raccolta beni e farmaci, eventi sulla guerra in Ucraina",,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""city"":""Trento"",""country"":""Italia"",""country_code"":""it"",""county"":""Provincia di Trento"",""municipality"":""Territorio Val d'Adige"",""postcode"":""38122"",""state"":""Trentino-Alto Adige""},""boundingbox"":[""45.9064228"",""46.2264228"",""10.9657601"",""11.2857601""],""class"":""place"",""display_name"":""Trento, Territorio Val d'Adige, Provincia di Trento, Trentino-Alto Adige, 38122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7125285311246988,""lat"":""46.0664228"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.1257601"",""osm_id"":64776484,""osm_type"":""node"",""place_id"":285860881,""type"":""city""},""mode"":""autocomplete""},""description"":""Pagina con le iniziative dell'Universit\u00e0 di Trento come la raccolta di beni di prima necessit\u00e0, la raccolta di prodotti sanitari, eventi e conferenze sulla guerra in Ucraina."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Universit\u00e0 di Trento"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Le iniziative dell'Universit\u00e0 di Trento"",""url"":""https://www.unitn.it/ateneo/104617/la-guerra-in-ucraina-le-iniziative-delluniversita-di-trento""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/143,1169422914,2022-03-29 18:08:54,2022-03-15 09:46:36,A Udine l'associazione Ospiti in arrivo cerca nuovi volontari per emergenza Ucraina,46.0592223,13.2457107,Friuli Venezia Giulia,Udine,"[""Valid/Accettato"",""Help"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""46.0592223 13.2457107"",""description"":""A Udine l'associazione Ospiti in arrivo cerca nuovi volontari per le attivit\u00e0 di supporto ai rifugiati ucraini, in particolare per l'attivit\u00e0 scuola."",""email"":""info@ospitinarrivo.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Udine"",""country"":""Italia"",""country_code"":""it"",""county"":""Udine"",""house_number"":""38"",""neighbourhood"":""Borgo Aquileia"",""postcode"":""33100"",""road"":""Via Bertaldia"",""state"":""Friuli Venezia Giulia""},""boundingbox"":[""46.0591723"",""46.0592723"",""13.2456607"",""13.2457607""],""class"":""place"",""display_name"":""38, Via Bertaldia, Borgo Aquileia, Udine, Friuli Venezia Giulia, 33100, Italia"",""importance"":0.5309999999999999,""lat"":""46.0592223"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.2457107"",""osm_id"":3748989602,""osm_type"":""node"",""place_id"":44475981,""type"":""house""},""mode"":""autocomplete""},""nameSurname"":""Associazione Ospiti in Arrivo"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""A Udine l'associazione Ospiti in arrivo cerca nuovi volontari per emergenza Ucraina"",""url"":""https://twitter.com/OiA_Udine/status/1502635270860165122?t=zFZvR35d2gcLyyqXZPtAiA&s=19""}","<pre><yamldata>
+nameSurname: Associazione Ospiti in Arrivo
+phoneNumber: ''
+email: info@ospitinarrivo.org
+title: A Udine l'associazione Ospiti in arrivo cerca nuovi volontari per emergenza
+  Ucraina
+recipients: ''
+description: A Udine l'associazione Ospiti in arrivo cerca nuovi volontari per le
+  attività di supporto ai rifugiati ucraini, in particolare per l'attività scuola.
+url: https://twitter.com/OiA_Udine/status/1502635270860165122?t=zFZvR35d2gcLyyqXZPtAiA&s=19
+location:
+  mode: autocomplete
+  address:
+    place_id: 44475981
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 3748989602
+    boundingbox:
+    - '46.0591723'
+    - '46.0592723'
+    - '13.2456607'
+    - '13.2457607'
+    lat: '46.0592223'
+    lon: '13.2457107'
+    display_name: 38, Via Bertaldia, Borgo Aquileia, Udine, Friuli Venezia Giulia,
+      33100, Italia
+    class: place
+    type: house
+    importance: 0.5309999999999999
+    address:
+      house_number: '38'
+      road: Via Bertaldia
+      neighbourhood: Borgo Aquileia
+      city: Udine
+      county: Udine
+      state: Friuli Venezia Giulia
+      postcode: '33100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 46.0592223 13.2457107
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/112,1167414735,2022-03-29 18:08:21,2022-03-12 22:16:38,"Comune di Parma cerca per emergenza Ucraina mediatori linguistici, educatori, psicologi, assistenti sociali",44.8094695,10.3275042,Emilia-Romagna,Parma,"[""Valid/Accettato"",""Help"",""translation"",""job"",""telegram-channel"",""tweet"",""education""]",,,"{""Posizione"":""44.8094695 10.3275042"",""description"":""In relazione all\u2019accoglienza dei profughi ucraini, il Comune di Parma  ha attivato, presso il punto informativo e raccolta dati Informastranieri, un'equipe di operatori del Settore Sociale per approfondire il quadro dei bisogni delle persone accolte o che richiedono aiuto e per effettuare l\u2019approfondimento delle disponibilit\u00e0 di accoglienza che vengono espresse dai cittadini. A supporto di tale equipe si ricercano Volontari con le seguenti professionalit\u00e0: Assistenti Sociali, Educatori, Psicologi e Mediatori linguistici (da attivare anche presso le scuole)."",""email"":""informastranieri@comune.parma.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Parma"",""country"":""Italia"",""country_code"":""it"",""county"":""Parma"",""postcode"":""43121"",""road"":""Via Antonio Cecchi"",""state"":""Emilia-Romagna"",""suburb"":""Parma Centro""},""boundingbox"":[""44.8094603"",""44.8097443"",""10.3262362"",""10.3275426""],""class"":""highway"",""display_name"":""Via Antonio Cecchi, Parma Centro, Parma, Emilia-Romagna, 43121, Italia"",""importance"":0.5949999999999999,""lat"":""44.8094695"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.3275042"",""osm_id"":323712841,""osm_type"":""way"",""place_id"":178424191,""type"":""service""},""mode"":""autocomplete""},""nameSurname"":""Comune di Parma"",""phoneNumber"":""351 0986321"",""recipients"":""mediatori linguistici, psicologi, assistenti sociali, educatori"",""submit"":true,""title"":""Comune di Parma cerca per emergenza Ucraina mediatori linguistici, educatori, psicologi, assistenti sociali"",""url"":""https://www.comune.parma.it/notizie/news/WELFARE/2022-03-12/Parma-per-lUcraina-1.aspx""}","<pre><yamldata>
+nameSurname: Comune di Parma
+phoneNumber: 351 0986321
+email: informastranieri@comune.parma.it
+title: Comune di Parma cerca per emergenza Ucraina mediatori linguistici, educatori,
+  psicologi, assistenti sociali
+recipients: mediatori linguistici, psicologi, assistenti sociali, educatori
+description: 'In relazione all’accoglienza dei profughi ucraini, il Comune di Parma  ha
+  attivato, presso il punto informativo e raccolta dati Informastranieri, un''equipe
+  di operatori del Settore Sociale per approfondire il quadro dei bisogni delle persone
+  accolte o che richiedono aiuto e per effettuare l’approfondimento delle disponibilità
+  di accoglienza che vengono espresse dai cittadini. A supporto di tale equipe si
+  ricercano Volontari con le seguenti professionalità: Assistenti Sociali, Educatori,
+  Psicologi e Mediatori linguistici (da attivare anche presso le scuole).'
+url: https://www.comune.parma.it/notizie/news/WELFARE/2022-03-12/Parma-per-lUcraina-1.aspx
+location:
+  mode: autocomplete
+  address:
+    place_id: 178424191
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 323712841
+    boundingbox:
+    - '44.8094603'
+    - '44.8097443'
+    - '10.3262362'
+    - '10.3275426'
+    lat: '44.8094695'
+    lon: '10.3275042'
+    display_name: Via Antonio Cecchi, Parma Centro, Parma, Emilia-Romagna, 43121,
+      Italia
+    class: highway
+    type: service
+    importance: 0.5949999999999999
+    address:
+      road: Via Antonio Cecchi
+      suburb: Parma Centro
+      city: Parma
+      county: Parma
+      state: Emilia-Romagna
+      postcode: '43121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 44.8094695 10.3275042
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/389,1183997828,2022-03-29 18:07:19,2022-03-28 21:11:41,A Milano la comunità di Sant’Egidio organizza corsi di italiano gratuiti per profughi ucraini,,,,,"[""Valid/Accettato"",""Services"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""3"",""office"":""Comunit\u00e0 di Sant'Egidio"",""postcode"":""20123"",""quarter"":""Magenta - San Vittore"",""road"":""Via degli Olivetani"",""state"":""Lombardia"",""suburb"":""Municipio 1""},""boundingbox"":[""45.4622518"",""45.4623518"",""9.1692368"",""9.1693368""],""class"":""office"",""display_name"":""Comunit\u00e0 di Sant'Egidio, 3, Via degli Olivetani, Magenta - San Vittore, Municipio 1, Milano, Lombardia, 20123, Italia"",""importance"":0.411,""lat"":""45.4623018"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1692868"",""osm_id"":5747868526,""osm_type"":""node"",""place_id"":62532919,""type"":""association""},""mode"":""autocomplete""},""description"":""Corsi di Italiano gratuiti per chi fugge dalla guerra in Ucraina organizzati dalla Comunit\u00e0 di Sant\u2019Egidio. Iscrizioni sabato 2 aprile dalle 11.30 in Via Olivetani 3, Milano."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Sant'Egidio Milano"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Corsi di italiano"",""url"":""https://www.facebook.com/groups/ukrainehelpit/permalink/467778281757792/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Sant'Egidio Milano
+title: Corsi di italiano
+recipients: ''
+description: 'Corsi di Italiano gratuiti per chi fugge dalla guerra in Ucraina organizzati dalla Comunità di Sant’Egidio. Iscrizioni sabato 2 aprile dalle 11.30 in Via Olivetani 3, Milano.'
+url: 'https://www.facebook.com/groups/ukrainehelpit/permalink/467778281757792/'
+address:
+  mode: autocomplete
+  address:
+    place_id: 62532919
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 5747868526
+    boundingbox:
+    - '45.4622518'
+    - '45.4623518'
+    - '9.1692368'
+    - '9.1693368'
+    lat: '45.4623018'
+    lon: '9.1692868'
+    display_name: Comunità di Sant'Egidio, 3, Via degli Olivetani, Magenta - San Vittore,
+      Municipio 1, Milano, Lombardia, 20123, Italia
+    class: office
+    type: association
+    importance: 0.411
+    address:
+      office: Comunità di Sant'Egidio
+      house_number: '3'
+      road: Via degli Olivetani
+      quarter: Magenta - San Vittore
+      suburb: Municipio 1
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20123'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/395,1184757461,2022-03-29 18:06:47,2022-03-29 12:00:25,"A Napoli attivi gli sportelli di Action Aid che offrono orientamento e aiuto concreto a chi arriva dell'Ucraina (beni, supporto legale e psicologico, mediazione linguistica, inserimento abitativo e altro)",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""hospitality"",""translation"",""job"",""psychologicalSupport"",""Children"",""women"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Napoli"",""country"":""Italia"",""country_code"":""it"",""county"":""Napoli"",""postcode"":""80139"",""road"":""Via Santa Sofia"",""state"":""Campania"",""suburb"":""San Lorenzo""},""boundingbox"":[""40.8543232"",""40.8547895"",""14.2616648"",""14.2621505""],""class"":""highway"",""display_name"":""Via Santa Sofia, San Lorenzo, Municipalit\u00e0 4, Napoli, Campania, 80139, Italia"",""importance"":0.51,""lat"":""40.854569"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.2619864"",""osm_id"":286930966,""osm_type"":""way"",""place_id"":170144935,""type"":""residential""},""mode"":""autocomplete""},""description"":""A Napoli sono attivi gli sportelli di Action Aid per l'accoglienza dei profughi ucraini, presso la Mediateca Santa Sofia (via Santa Sofia, 7) tutti i gioved\u00ec (14.00 \u2013 18.00) e venerd\u00ec (10.00 \u2013 18.00). \n\nOffriamo un aiuto concreto alle persone in arrivo attraverso la distribuzione di beni materiali e risorse immateriali, supporto psicologico, mediazione linguistico-culturale, orientamento legale, all\u2019inserimento lavorativo, abitativo e scolastico. Le donne delle comunit\u00e0 interessate dal conflitto e coinvolte nei percorsi di ActionAid partecipano in prima persona alle attivit\u00e0 di accoglienza e ricostruzione di legami di fiducia"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""ActionAid presso Mediateca Santo Sofia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":true,""job"":true,""materialGoods"":true,""psychologicalSupport"":true,""translation"":true,""transport"":false,""women"":true},""submit"":true,""title"":""Sportello gratuito di servizi per offrire orientamento e aiuto concreto"",""url"":""https://www.facebook.com/actionaidnapoli/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: true
+  translation: true
+  job: true
+  psychologicalSupport: true
+  Children: false
+  disability: false
+  women: true
+  education: true
+offerFromWho: ActionAid presso Mediateca Santo Sofia
+title: Sportello gratuito di servizi per offrire orientamento e aiuto concreto
+recipients: ''
+description: ""A Napoli sono attivi gli sportelli di Action Aid per l'accoglienza dei profughi ucraini, presso la Mediateca Santa Sofia\
+  \ (via Santa Sofia, 7) tutti i giovedì (14.00 – 18.00) e venerdì (10.00 – 18.00).\
+  \ \n\nOffriamo un aiuto concreto alle persone in arrivo attraverso la distribuzione\
+  \ di beni materiali e risorse immateriali, supporto psicologico, mediazione linguistico-culturale,\
+  \ orientamento legale, all’inserimento lavorativo, abitativo e scolastico. Le donne\
+  \ delle comunità interessate dal conflitto e coinvolte nei percorsi di ActionAid\
+  \ partecipano in prima persona alle attività di accoglienza e ricostruzione di legami\
+  \ di fiducia""
+url: https://www.facebook.com/actionaidnapoli/
+address:
+  mode: autocomplete
+  address:
+    place_id: 170144935
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 286930966
+    boundingbox:
+    - '40.8543232'
+    - '40.8547895'
+    - '14.2616648'
+    - '14.2621505'
+    lat: '40.854569'
+    lon: '14.2619864'
+    display_name: Via Santa Sofia, San Lorenzo, Municipalità 4, Napoli, Campania,
+      80139, Italia
+    class: highway
+    type: residential
+    importance: 0.51
+    address:
+      road: Via Santa Sofia
+      suburb: San Lorenzo
+      city: Napoli
+      county: Napoli
+      state: Campania
+      postcode: '80139'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/396,1184759723,2022-03-29 18:06:37,2022-03-29 12:02:22,"Ministero della Salute Ucraino, lista dei farmaci di cui hanno bisogno gli ospedali in Ucraina",50.4500336,30.5241361,,,"[""Valid/Accettato"",""News"",""Help"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""50.4500336 30.5241361"",""description"":""Sul.sito del Ministerodella Salute Ucraino pubblicata la lista dei farmaci e dei dispositivi medici di cui hanno bisogno gli ospedali ucraini."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/DaFNzl5gB5"",""location"":{""address"":{""address"":{""city"":""Kiev"",""country"":""Ucraina"",""country_code"":""ua"",""postcode"":""1001""},""boundingbox"":[""50.2900336"",""50.6100336"",""30.3641361"",""30.6841361""],""class"":""place"",""display_name"":""Kiev, Kyiv, 1001, Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.9258572961698042,""lat"":""50.4500336"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""30.5241361"",""osm_id"":26150422,""osm_type"":""node"",""place_id"":285620529,""type"":""city""},""mode"":""autocomplete""},""submit"":true,""title"":""Ministero della Salute Ucraino, lista dei farmaci di cui hanno bisogno gli ospedali in Ucraina""}","<pre><yamldata>
+title: Ministero della Salute Ucraino, lista dei farmaci di cui hanno bisogno gli
+  ospedali in Ucraina
+description: Sul.sito del Ministerodella Salute Ucraino pubblicata la lista dei farmaci
+  e dei dispositivi medici di cui hanno bisogno gli ospedali ucraini.
+link: https://t.co/DaFNzl5gB5
+location:
+  mode: autocomplete
+  address:
+    place_id: 285620529
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 26150422
+    boundingbox:
+    - '50.2900336'
+    - '50.6100336'
+    - '30.3641361'
+    - '30.6841361'
+    lat: '50.4500336'
+    lon: '30.5241361'
+    display_name: Kiev, Kyiv, 1001, Ucraina
+    class: place
+    type: city
+    importance: 0.9258572961698042
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Kiev
+      postcode: '1001'
+      country: Ucraina
+      country_code: ua
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 50.4500336 30.5241361
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/397,1185031874,2022-03-29 18:06:26,2022-03-29 15:18:15,"Università di Trento, online info su raccolta beni e farmaci, eventi sulla guerra in Ucraina",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Trento"",""country"":""Italia"",""country_code"":""it"",""county"":""Provincia di Trento"",""municipality"":""Territorio Val d'Adige"",""postcode"":""38122"",""state"":""Trentino-Alto Adige""},""boundingbox"":[""45.9064228"",""46.2264228"",""10.9657601"",""11.2857601""],""class"":""place"",""display_name"":""Trento, Territorio Val d'Adige, Provincia di Trento, Trentino-Alto Adige, 38122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7125285311246988,""lat"":""46.0664228"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.1257601"",""osm_id"":64776484,""osm_type"":""node"",""place_id"":285860881,""type"":""city""},""mode"":""autocomplete""},""description"":""Pagina con le iniziative dell'Universit\u00e0 di Trento per l\u2019emergenza Ucraina, con info sui punti di raccolta di beni di prima necessit\u00e0, di farmaci e prodotti sanitari, e poi eventi e conferenze dedicati alla guerra in Ucraina."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Universit\u00e0 di Trento"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Le iniziative dell'Universit\u00e0 di Trento"",""url"":""https://www.unitn.it/ateneo/104617/la-guerra-in-ucraina-le-iniziative-delluniversita-di-trento""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
   hospitality: false
@@ -16,9 +255,7 @@ servicetypes:
 offerFromWho: Università di Trento
 title: Le iniziative dell'Università di Trento
 recipients: ''
-description: Pagina con le iniziative dell'Università di Trento come la raccolta di
-  beni di prima necessità, la raccolta di prodotti sanitari, eventi e conferenze sulla
-  guerra in Ucraina.
+description: Pagina con le iniziative dell'Università di Trento per l’emergenza Ucraina, con info sui punti di raccolta di beni di prima necessità, di farmaci e prodotti sanitari, e poi eventi e conferenze dedicati alla guerra in Ucraina.
 url: https://www.unitn.it/ateneo/104617/la-guerra-in-ucraina-le-iniziative-delluniversita-di-trento
 address:
   mode: autocomplete
@@ -91,99 +328,6 @@ label: document_data
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 40.860672 14.843984
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/395,1184757461,2022-03-29 12:13:50,2022-03-29 12:00:25,"A Napoli attivi gli sportelli di Action Aid che offrono orientamento e aiuto concreto a chi arriva dell'Ucraina (beni, supporto legale e psicologico, mediazione linguistica, inserimento abitativo e altro)",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""hospitality"",""translation"",""job"",""psychologicalSupport"",""Children"",""women"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Napoli"",""country"":""Italia"",""country_code"":""it"",""county"":""Napoli"",""postcode"":""80139"",""road"":""Via Santa Sofia"",""state"":""Campania"",""suburb"":""San Lorenzo""},""boundingbox"":[""40.8543232"",""40.8547895"",""14.2616648"",""14.2621505""],""class"":""highway"",""display_name"":""Via Santa Sofia, San Lorenzo, Municipalit\u00e0 4, Napoli, Campania, 80139, Italia"",""importance"":0.51,""lat"":""40.854569"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.2619864"",""osm_id"":286930966,""osm_type"":""way"",""place_id"":170144935,""type"":""residential""},""mode"":""autocomplete""},""description"":""A Napoli sono attivi gli sportelli di Action Aid per l'accoglienza dei profughi ucraini, presso la Mediateca Santa Sofia (via Santa Sofia, 7) tutti i gioved\u00ec (14.00 \u2013 18.00) e venerd\u00ec (10.00 \u2013 18.00). \n\nOffriamo un aiuto concreto alle persone in arrivo attraverso la distribuzione di beni materiali e risorse immateriali, supporto psicologico, mediazione linguistico-culturale, orientamento legale, all\u2019inserimento lavorativo, abitativo e scolastico. Le donne delle comunit\u00e0 interessate dal conflitto e coinvolte nei percorsi di ActionAid partecipano in prima persona alle attivit\u00e0 di accoglienza e ricostruzione di legami di fiducia"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""ActionAid presso Mediateca Santo Sofia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":true,""job"":true,""materialGoods"":true,""psychologicalSupport"":true,""translation"":true,""transport"":false,""women"":true},""submit"":true,""title"":""Sportello gratuito di servizi per offrire orientamento e aiuto concreto"",""url"":""https://www.facebook.com/actionaidnapoli/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: true
-  transport: false
-  healthcare: false
-  Legal: true
-  translation: true
-  job: true
-  psychologicalSupport: true
-  Children: false
-  disability: false
-  women: true
-  education: true
-offerFromWho: ActionAid presso Mediateca Santo Sofia
-title: Sportello gratuito di servizi per offrire orientamento e aiuto concreto
-recipients: ''
-description: ""A Napoli sono attivi gli sportelli di Action Aid per l'accoglienza dei profughi ucraini, presso la Mediateca Santa Sofia\
-  \ (via Santa Sofia, 7) tutti i giovedì (14.00 – 18.00) e venerdì (10.00 – 18.00).\
-  \ \n\nOffriamo un aiuto concreto alle persone in arrivo attraverso la distribuzione\
-  \ di beni materiali e risorse immateriali, supporto psicologico, mediazione linguistico-culturale,\
-  \ orientamento legale, all’inserimento lavorativo, abitativo e scolastico. Le donne\
-  \ delle comunità interessate dal conflitto e coinvolte nei percorsi di ActionAid\
-  \ partecipano in prima persona alle attività di accoglienza e ricostruzione di legami\
-  \ di fiducia""
-url: https://www.facebook.com/actionaidnapoli/
-address:
-  mode: autocomplete
-  address:
-    place_id: 170144935
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 286930966
-    boundingbox:
-    - '40.8543232'
-    - '40.8547895'
-    - '14.2616648'
-    - '14.2621505'
-    lat: '40.854569'
-    lon: '14.2619864'
-    display_name: Via Santa Sofia, San Lorenzo, Municipalità 4, Napoli, Campania,
-      80139, Italia
-    class: highway
-    type: residential
-    importance: 0.51
-    address:
-      road: Via Santa Sofia
-      suburb: San Lorenzo
-      city: Napoli
-      county: Napoli
-      state: Campania
-      postcode: '80139'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/396,1184759723,2022-03-29 12:13:24,2022-03-29 12:02:22,"Ministero della Salute Ucraino, lista dei farmaci di cui hanno bisogno gli ospedali in Ucraina",50.4500336,30.5241361,,,"[""Valid/Accettato"",""News"",""Help"",""healthcare""]",,,"{""Posizione"":""50.4500336 30.5241361"",""description"":""Sul.sito del Ministerodella Salute Ucraino pubblicata la lista dei farmaci e dei dispositivi medici di cui hanno bisogno gli ospedali ucraini."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/DaFNzl5gB5"",""location"":{""address"":{""address"":{""city"":""Kiev"",""country"":""Ucraina"",""country_code"":""ua"",""postcode"":""1001""},""boundingbox"":[""50.2900336"",""50.6100336"",""30.3641361"",""30.6841361""],""class"":""place"",""display_name"":""Kiev, Kyiv, 1001, Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.9258572961698042,""lat"":""50.4500336"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""30.5241361"",""osm_id"":26150422,""osm_type"":""node"",""place_id"":285620529,""type"":""city""},""mode"":""autocomplete""},""submit"":true,""title"":""Ministero della Salute Ucraino, lista dei farmaci di cui hanno bisogno gli ospedali in Ucraina""}","<pre><yamldata>
-title: Ministero della Salute Ucraino, lista dei farmaci di cui hanno bisogno gli
-  ospedali in Ucraina
-description: Sul.sito del Ministerodella Salute Ucraino pubblicata la lista dei farmaci
-  e dei dispositivi medici di cui hanno bisogno gli ospedali ucraini.
-link: https://t.co/DaFNzl5gB5
-location:
-  mode: autocomplete
-  address:
-    place_id: 285620529
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 26150422
-    boundingbox:
-    - '50.2900336'
-    - '50.6100336'
-    - '30.3641361'
-    - '30.6841361'
-    lat: '50.4500336'
-    lon: '30.5241361'
-    display_name: Kiev, Kyiv, 1001, Ucraina
-    class: place
-    type: city
-    importance: 0.9258572961698042
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
-    address:
-      city: Kiev
-      postcode: '1001'
-      country: Ucraina
-      country_code: ua
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 50.4500336 30.5241361
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/362,1181855307,2022-03-29 09:06:24,2022-03-26 15:47:13,A Napoli continua la raccolta di beni di prima necessità e farmaci per l'Ucraina,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Napoli"",""country"":""Italia"",""country_code"":""it"",""county"":""Napoli"",""postcode"":""80131"",""road"":""Via Giulio Palermo"",""state"":""Campania"",""suburb"":""Arenella""},""boundingbox"":[""40.8607557"",""40.8610254"",""14.2210715"",""14.2219686""],""class"":""highway"",""display_name"":""Via Giulio Palermo, Arenella, Municipalit\u00e0 5, Napoli, Campania, 80131, Italia"",""importance"":0.51,""lat"":""40.8608674"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.2215969"",""osm_id"":183428498,""osm_type"":""way"",""place_id"":146134032,""type"":""residential""},""mode"":""autocomplete""},""description"":""Il gruppo Sos Sfollati Ucraina a Napoli raccoglie con urgenza beni di prima necessit\u00e0 da spedire in Ucraina. \nI punti di raccolta sono in via Giulio Palermo, presso la Parafarmacia Occhini (dott.ssa Ilaria) e MC Revolution. \nStiamo raccogliendo:\n- alimenti: cibo in scatola (tonno, carne, legumi), latte a lunga conservazione, biscotti secchi, pasta\n- medicine: analgesici, antidolorifici, antiepiretici antibiotici, sciroppo per la tosse (bambini e adulto) vitamine\n- prodotti per l'igiene: carta igienica, bagno schiuma, shampoo, dentifricio, spazzolino, assorbenti donna, pannoloni per disabili\n  - prodotti per l'infanzia: pannolini, crema cambio, latte in polvere, omogeneizzati, pastina formato piccolo, crema di riso liofilizzato, crema di mais liofilizzato.\n\nI beni saranno poi inviati in Ucraina attraverso la Fondazione Lanificio Sava e/o distribuiti tra le famiglie rifugiate arrivate a Napoli."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Gruppo Sos Sfollati Ucraini a Napoli"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Napoli continua la raccolta di beni di prima necessit\u00e0 e farmaci per l'Ucraina"",""url"":""https://www.facebook.com/groups/3928798184012882/permalink/3945941625631871/?sfnsn=scwspmo&ref=share""}","<pre><yamldata>
 servicetypes:
@@ -848,60 +992,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: help
 submit: true
 Posizione: 45.4641943 9.1896346
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/389,1183997828,2022-03-28 21:57:03,2022-03-28 21:11:41,A Milano la comunità di Sant’Egidio organizza corsi di italiano gratuiti per profughi ucraini,,,,,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""3"",""office"":""Comunit\u00e0 di Sant'Egidio"",""postcode"":""20123"",""quarter"":""Magenta - San Vittore"",""road"":""Via degli Olivetani"",""state"":""Lombardia"",""suburb"":""Municipio 1""},""boundingbox"":[""45.4622518"",""45.4623518"",""9.1692368"",""9.1693368""],""class"":""office"",""display_name"":""Comunit\u00e0 di Sant'Egidio, 3, Via degli Olivetani, Magenta - San Vittore, Municipio 1, Milano, Lombardia, 20123, Italia"",""importance"":0.411,""lat"":""45.4623018"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1692868"",""osm_id"":5747868526,""osm_type"":""node"",""place_id"":62532919,""type"":""association""},""mode"":""autocomplete""},""description"":""Corsi di Italiano gratuiti per chi fugge dalla guerra in Ucraina organizzati dalla Comunit\u00e0 di Sant\u2019Egidio. Iscrizioni sabato 2 aprile dalle 11.30 in Via Olivetani 3, Milano."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Sant'Egidio Milano"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Corsi di italiano"",""url"":""https://www.facebook.com/groups/ukrainehelpit/permalink/467778281757792/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: true
-offerFromWho: Sant'Egidio Milano
-title: Corsi di italiano
-recipients: ''
-description: 'Corsi di Italiano gratuiti per chi fugge dalla guerra in Ucraina organizzati dalla Comunità di Sant’Egidio. Iscrizioni sabato 2 aprile dalle 11.30 in Via Olivetani 3, Milano.'
-url: 'https://www.facebook.com/groups/ukrainehelpit/permalink/467778281757792/'
-address:
-  mode: autocomplete
-  address:
-    place_id: 62532919
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 5747868526
-    boundingbox:
-    - '45.4622518'
-    - '45.4623518'
-    - '9.1692368'
-    - '9.1693368'
-    lat: '45.4623018'
-    lon: '9.1692868'
-    display_name: Comunità di Sant'Egidio, 3, Via degli Olivetani, Magenta - San Vittore,
-      Municipio 1, Milano, Lombardia, 20123, Italia
-    class: office
-    type: association
-    importance: 0.411
-    address:
-      office: Comunità di Sant'Egidio
-      house_number: '3'
-      road: Via degli Olivetani
-      quarter: Magenta - San Vittore
-      suburb: Municipio 1
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20123'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/388,1183993988,2022-03-28 21:49:21,2022-03-28 21:07:46,Raccolta fondi di Fondazione AVSI per emergenza Ucraina,45.4641943,9.1896346,Lombardia,Milano,"[""Valid/Accettato"",""fundraising""]",,,"{""Posizione"":""45.4641943 9.1896346"",""bicSwift"":""UNCRITMM"",""causal"":""\u201cEmergenza Ucraina\u201d"",""ccPostal"":"""",""description"":""Operativa in Ucraina dal 2014, grazie alla collaborazione con Emmaus, un\u2019organizzazione locale, ha mantenuto negli anni un rapporto di vicinanza con la popolazione ucraina. Sono state avviate e sono in avvio attivit\u00e0 diverse con un approccio multisettoriale flessibile in base all\u2019evoluzione della crisi e dei bisogni localmente riscontrati quali: - Fornitura e trasporto di beni, all'interno della Polonia e dalla Polonia all'Ucraina: - prodotti alimentari e non alimentari salvavita; - distribuzione di kit per l'igiene - personale e di kit di protezione COVID-19; - Terapia e servizi di recupero per i bambini, in particolare i bambini con disabilit\u00e0; - Supporto per il trasporto degli sfollati dal confine ai centri di transito e accoglienza; - Supporto al coordinamento dei volontari coinvolti nelle operazioni di prima accoglienza; - Supporto al censimento e alla registrazione delle famiglie presenti nei centri di -  accoglienza per garantire la tracciabilit\u00e0 e il sostegno personalizzato; -  Supporto ai casi speciali: identificazione, accompagnamento e referral di casi con bisogni speciali o particolari vulnerabilit\u00e0, per una presa in carico personalizzata (donne, minori separati o non accompagnati, disabili) - Allestimento di spazi a misura di bambino all'interno dei centri di accoglienza temporanea e a breve/medio termine per i rifugiati ucraini; - Servizi di traduzione e informazione per l'orientamento e l\u2019integrazione. - Organizzazione di corsi di lingua per facilitare l'integrazione sociale temporanea o di medio termine per gli sfollati nei paesi ospitanti; - Sostegno economico per le spese di affitto alle famiglie ospitanti in risposta alle esigenze abitative; - Sostegno alle famiglie ospitanti -  Buoni pasto da spendere nell'area di intervento\nPer questo allo scoppio della guerra ha organizzato subito interventi di emergenza nelle zone di confine: in Polonia, Romania, Ucraina e Moldavia.\nIl 16 marzo \u00e8 stato attivato un punto di informazione e coordinamento per rispondere alle numerose richieste dei profughi in arrivo dall\u2019Ucraina e per coordinare l\u2019offerta di accoglienza di famiglie italiane."",""email"":"""",""heading"":""FONDAZIONE AVSI"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT 22 T 02008 01603 000102945081"",""label"":""fundraising"",""link"":""https://www.avsi.org/it/campaign/emergenza-ucraina-helpukraine/88/"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""state"":""Lombardia""},""boundingbox"":[""45.3867381"",""45.5358482"",""9.0408867"",""9.2781103""],""class"":""boundary"",""display_name"":""Milano, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8490652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":44915,""osm_type"":""relation"",""place_id"":283684439,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""AVSI""}","<pre><yamldata>
 title: AVSI
@@ -4359,54 +4449,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 type: children
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/112,1167414735,2022-03-25 10:54:31,2022-03-12 22:16:38,"Comune di Parma cerca per emergenza Ucraina mediatori linguistici, educatori, psicologi, assistenti sociali",44.8094695,10.3275042,Emilia-Romagna,Parma,"[""Valid/Accettato"",""Help"",""translation"",""job"",""education""]",,,"{""Posizione"":""44.8094695 10.3275042"",""description"":""In relazione all\u2019accoglienza dei profughi ucraini, il Comune di Parma  ha attivato, presso il punto informativo e raccolta dati Informastranieri, un'equipe di operatori del Settore Sociale per approfondire il quadro dei bisogni delle persone accolte o che richiedono aiuto e per effettuare l\u2019approfondimento delle disponibilit\u00e0 di accoglienza che vengono espresse dai cittadini. A supporto di tale equipe si ricercano Volontari con le seguenti professionalit\u00e0: Assistenti Sociali, Educatori, Psicologi e Mediatori linguistici (da attivare anche presso le scuole)."",""email"":""informastranieri@comune.parma.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Parma"",""country"":""Italia"",""country_code"":""it"",""county"":""Parma"",""postcode"":""43121"",""road"":""Via Antonio Cecchi"",""state"":""Emilia-Romagna"",""suburb"":""Parma Centro""},""boundingbox"":[""44.8094603"",""44.8097443"",""10.3262362"",""10.3275426""],""class"":""highway"",""display_name"":""Via Antonio Cecchi, Parma Centro, Parma, Emilia-Romagna, 43121, Italia"",""importance"":0.5949999999999999,""lat"":""44.8094695"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.3275042"",""osm_id"":323712841,""osm_type"":""way"",""place_id"":178424191,""type"":""service""},""mode"":""autocomplete""},""nameSurname"":""Comune di Parma"",""phoneNumber"":""351 0986321"",""recipients"":""mediatori linguistici, psicologi, assistenti sociali, educatori"",""submit"":true,""title"":""Comune di Parma cerca per emergenza Ucraina mediatori linguistici, educatori, psicologi, assistenti sociali"",""url"":""https://www.comune.parma.it/notizie/news/WELFARE/2022-03-12/Parma-per-lUcraina-1.aspx""}","<pre><yamldata>
-nameSurname: Comune di Parma
-phoneNumber: 351 0986321
-email: informastranieri@comune.parma.it
-title: Comune di Parma cerca per emergenza Ucraina mediatori linguistici, educatori,
-  psicologi, assistenti sociali
-recipients: mediatori linguistici, psicologi, assistenti sociali, educatori
-description: 'In relazione all’accoglienza dei profughi ucraini, il Comune di Parma  ha
-  attivato, presso il punto informativo e raccolta dati Informastranieri, un''equipe
-  di operatori del Settore Sociale per approfondire il quadro dei bisogni delle persone
-  accolte o che richiedono aiuto e per effettuare l’approfondimento delle disponibilità
-  di accoglienza che vengono espresse dai cittadini. A supporto di tale equipe si
-  ricercano Volontari con le seguenti professionalità: Assistenti Sociali, Educatori,
-  Psicologi e Mediatori linguistici (da attivare anche presso le scuole).'
-url: https://www.comune.parma.it/notizie/news/WELFARE/2022-03-12/Parma-per-lUcraina-1.aspx
-location:
-  mode: autocomplete
-  address:
-    place_id: 178424191
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 323712841
-    boundingbox:
-    - '44.8094603'
-    - '44.8097443'
-    - '10.3262362'
-    - '10.3275426'
-    lat: '44.8094695'
-    lon: '10.3275042'
-    display_name: Via Antonio Cecchi, Parma Centro, Parma, Emilia-Romagna, 43121,
-      Italia
-    class: highway
-    type: service
-    importance: 0.5949999999999999
-    address:
-      road: Via Antonio Cecchi
-      suburb: Parma Centro
-      city: Parma
-      county: Parma
-      state: Emilia-Romagna
-      postcode: '43121'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 44.8094695 10.3275042
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/136,1168870625,2022-03-25 10:54:01,2022-03-14 20:28:50,Vocabolario Interattivo Parlante Ucraino - italiano- inglese per i bambini e gli insegnanti ,,,,,"[""Valid/Accettato"",""Services"",""translation"",""Children"",""education""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Vocabolario Interattivo Parlante. \nLeggete con attenzione le istruzioni inserite all\u2019interno della risorsa!\nCliccando sui vari oggetti presenti nelle varie stanze potrete ascoltare l\u2019audio della parola in italiano e potrete leggere la rispettiva parola in italiano, in ucraino e inglese. L\u2019audio, al momento, non \u00e8 attivo da dispositivi mobili Apple."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Play and Learn Italy"",""recipients"":""Bambini"",""submit"":true,""title"":""Vocabolario Interattivo Parlante Ucraino - italiano- inglese per le scuole"",""type"":""children"",""url"":""https://playandlearnitalia.com/vocabolario-interattivo-parlante-italo-ucraino/""}","<pre><yamldata>
 type: children
@@ -12301,50 +12343,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 44.017763900000006 10.454430026192636
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/143,1169422914,2022-03-15 12:39:59,2022-03-15 09:46:36,A Udine l'associazione Ospiti in arrivo cerca nuovi volontari per emergenza Ucraina,46.0592223,13.2457107,Friuli Venezia Giulia,Udine,"[""Valid/Accettato"",""Help""]",,,"{""Posizione"":""46.0592223 13.2457107"",""description"":""A Udine l'associazione Ospiti in arrivo cerca nuovi volontari per le attivit\u00e0 di supporto ai rifugiati ucraini, in particolare per l'attivit\u00e0 scuola."",""email"":""info@ospitinarrivo.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Udine"",""country"":""Italia"",""country_code"":""it"",""county"":""Udine"",""house_number"":""38"",""neighbourhood"":""Borgo Aquileia"",""postcode"":""33100"",""road"":""Via Bertaldia"",""state"":""Friuli Venezia Giulia""},""boundingbox"":[""46.0591723"",""46.0592723"",""13.2456607"",""13.2457607""],""class"":""place"",""display_name"":""38, Via Bertaldia, Borgo Aquileia, Udine, Friuli Venezia Giulia, 33100, Italia"",""importance"":0.5309999999999999,""lat"":""46.0592223"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.2457107"",""osm_id"":3748989602,""osm_type"":""node"",""place_id"":44475981,""type"":""house""},""mode"":""autocomplete""},""nameSurname"":""Associazione Ospiti in Arrivo"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""A Udine l'associazione Ospiti in arrivo cerca nuovi volontari per emergenza Ucraina"",""url"":""https://twitter.com/OiA_Udine/status/1502635270860165122?t=zFZvR35d2gcLyyqXZPtAiA&s=19""}","<pre><yamldata>
-nameSurname: Associazione Ospiti in Arrivo
-phoneNumber: ''
-email: info@ospitinarrivo.org
-title: A Udine l'associazione Ospiti in arrivo cerca nuovi volontari per emergenza
-  Ucraina
-recipients: ''
-description: A Udine l'associazione Ospiti in arrivo cerca nuovi volontari per le
-  attività di supporto ai rifugiati ucraini, in particolare per l'attività scuola.
-url: https://twitter.com/OiA_Udine/status/1502635270860165122?t=zFZvR35d2gcLyyqXZPtAiA&s=19
-location:
-  mode: autocomplete
-  address:
-    place_id: 44475981
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 3748989602
-    boundingbox:
-    - '46.0591723'
-    - '46.0592723'
-    - '13.2456607'
-    - '13.2457607'
-    lat: '46.0592223'
-    lon: '13.2457107'
-    display_name: 38, Via Bertaldia, Borgo Aquileia, Udine, Friuli Venezia Giulia,
-      33100, Italia
-    class: place
-    type: house
-    importance: 0.5309999999999999
-    address:
-      house_number: '38'
-      road: Via Bertaldia
-      neighbourhood: Borgo Aquileia
-      city: Udine
-      county: Udine
-      state: Friuli Venezia Giulia
-      postcode: '33100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 46.0592223 13.2457107
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/142,1169413203,2022-03-15 12:39:32,2022-03-15 09:37:26,Comune di Pordenone attiva numero telefonico per info su emergenza Ucraina,45.9562503,12.6597197,Friuli Venezia Giulia,Pordenone,"[""Valid/Accettato"",""News"",""Services"",""hospitality"",""healthcare""]",,,"{""Posizione"":""45.9562503 12.6597197"",""description"":""Comune di Pordenone ha attivato il COC (Centro Operativo Comunale) per coordinare in modo efficiente la macchina dell\u2019emergenza Ucraina e da marted\u00ec 8 per ulteriori informazioni sar\u00e0 attivo il numero telefonico 0434 392290."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/SNW3rx2WUy"",""location"":{""address"":{""address"":{""city"":""Pordenone"",""country"":""Italia"",""country_code"":""it"",""county"":""Pordenone"",""postcode"":""33170"",""state"":""Friuli Venezia Giulia""},""boundingbox"":[""45.9023126"",""46.0032911"",""12.6107195"",""12.7026257""],""class"":""boundary"",""display_name"":""Pordenone, Friuli Venezia Giulia, 33170, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.6310329586860557,""lat"":""45.9562503"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.6597197"",""osm_id"":179205,""osm_type"":""relation"",""place_id"":283270824,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Comune di Pordenone attiva numero telefonico per info su emergenza Ucraina""}","<pre><yamldata>
 title: Comune di Pordenone attiva numero telefonico per info su emergenza Ucraina
