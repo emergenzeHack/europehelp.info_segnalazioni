@@ -1,4 +1,97 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/64,1164580112,2022-03-30 16:46:05,2022-03-10 00:03:59,Raccolta medicinali e materiali sanitari nelle farmacie di Roma   e provincia - dal 9 al 16 marzo,,,,,"[""Valid/Accettato"",""Services"",""healthcare"",""Closed""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8996107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Raccolta medicinali e materiali sanitari in tutte le farmacie di Roma e provincia - dal 9 al 16 marzo"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Federfarma Roma"",""recipients"":"""",""submit"":true,""title"":""Farmacisti per l'Ucraina"",""type"":""healthcare"",""url"":""https://twitter.com/ukraineinfohelp/status/1501526286585499649?t=gG4S2XxlCPzIjVTQO5XYVQ&s=19""}","<pre><yamldata>
+type: healthcare
+offerFromWho: Federfarma Roma
+title: Farmacisti per l'Ucraina
+recipients: ''
+description: Raccolta medicinali e materiali sanitari in tutte le farmacie di Roma
+  e provincia - dal 9 al 16 marzo
+url: 'https://twitter.com/ukraineinfohelp/status/1501526286585499649?t=gG4S2XxlCPzIjVTQO5XYVQ&s=19'
+address:
+  mode: autocomplete
+  address:
+    place_id: 283767136
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 41485
+    boundingbox:
+    - '41.6556417'
+    - '42.1410285'
+    - '12.2344669'
+    - '12.8557603'
+    lat: '41.8933203'
+    lon: '12.4829321'
+    display_name: Roma, Roma Capitale, Lazio, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8996107180689524
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",closed
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/202,1173433999,2022-03-30 16:45:53,2022-03-18 10:31:05,"Prato 19 marzo, concerto Coro Maggio Fiorentino a sostegno della raccolta fondi per l’Ucraina di Croce Rossa",43.88142935,11.09951159358597,Toscana,Prato,"[""Valid/Accettato"",""fundraising"",""Closed"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""43.88142935 11.09951159358597"",""bicSwift"":""Unicritmirnp"",""causal"":""causale Emergenza Ucraina"",""ccPostal"":"""",""description"":""concerto beneficio per l'Ucraina in programma sabato 19 marzo, alle 21, al Politeama pratese. L'iniziativa \u00e8 organizzata da un gruppo di artisti lirici professionisti del coro del Maggio musicale fiorentino, tra i quali molti pratesi e molti vincitori di concorsi nazionali e internazionali. Ad unire il gruppo \u00e8 il desiderio di dare un contributo alla macchina della solidariet\u00e0 che sta aiutando la popolazione ucraina. Il concerto \u00e8 strutturato su una scaletta di opere dell'Ottocento di compositori tra i pi\u00f9 celebri.\nIl ricavato della serata sar\u00e0 devoluto al sostegno dell'Ucraina e ogni spettatore potr\u00e0 contribuire con una donazione diretta partecipando al concerto oppure attraverso un bonifico intestato all'Associazione Croce Rossa italiana"",""email"":"""",""heading"":""Associazione Croce Rossa italiana"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT93H0200803284000105889169"",""label"":""fundraising"",""link"":""http://www.notiziediprato.it/news/gli-artisti-del-maggio-musicale-fiorentino-al-politeama-per-un-concerto-benefico-pro-emergenza-ucraina"",""location"":{""address"":{""address"":{""amenity"":""Politeama"",""city"":""Prato"",""country"":""Italia"",""country_code"":""it"",""county"":""Prato"",""house_number"":""33"",""neighbourhood"":""il Cantiere"",""postcode"":""59100"",""road"":""Via Giuseppe Garibaldi"",""state"":""Toscana""},""boundingbox"":[""43.8812436"",""43.8816433"",""11.0992461"",""11.0998252""],""class"":""amenity"",""display_name"":""Politeama, 33, Via Giuseppe Garibaldi, il Cantiere, Prato, Toscana, 59100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//tourist_theatre.p.20.png"",""importance"":0.2808812954247281,""lat"":""43.88142935"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.09951159358597"",""osm_id"":324533597,""osm_type"":""way"",""place_id"":179411580,""type"":""theatre""},""mode"":""autocomplete""},""submit"":true,""title"":""Artisti Maggio Fiorentino e Croce Rossa italiana""}","<pre><yamldata>
+title: Artisti Maggio Fiorentino e Croce Rossa italiana
+description: 'concerto beneficio per l''Ucraina in programma sabato 19 marzo, alle
+  21, al Politeama pratese. L''iniziativa è organizzata da un gruppo di artisti lirici
+  professionisti del coro del Maggio musicale fiorentino, tra i quali molti pratesi
+  e molti vincitori di concorsi nazionali e internazionali. Ad unire il gruppo è il
+  desiderio di dare un contributo alla macchina della solidarietà che sta aiutando
+  la popolazione ucraina. Il concerto è strutturato su una scaletta di opere dell''Ottocento
+  di compositori tra i più celebri.
+
+  Il ricavato della serata sarà devoluto al sostegno dell''Ucraina e ogni spettatore
+  potrà contribuire con una donazione diretta partecipando al concerto oppure attraverso
+  un bonifico intestato all''Associazione Croce Rossa italiana'
+heading: Associazione Croce Rossa italiana
+iban: IT93H0200803284000105889169
+bicSwift: Unicritmirnp
+ccPostal: ''
+causal: causale Emergenza Ucraina
+link: http://www.notiziediprato.it/news/gli-artisti-del-maggio-musicale-fiorentino-al-politeama-per-un-concerto-benefico-pro-emergenza-ucraina
+email: ''
+location:
+  mode: autocomplete
+  address:
+    place_id: 179411580
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 324533597
+    boundingbox:
+    - '43.8812436'
+    - '43.8816433'
+    - '11.0992461'
+    - '11.0998252'
+    lat: '43.88142935'
+    lon: '11.09951159358597'
+    display_name: Politeama, 33, Via Giuseppe Garibaldi, il Cantiere, Prato, Toscana,
+      59100, Italia
+    class: amenity
+    type: theatre
+    importance: 0.2808812954247281
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//tourist_theatre.p.20.png
+    address:
+      amenity: Politeama
+      house_number: '33'
+      road: Via Giuseppe Garibaldi
+      neighbourhood: il Cantiere
+      city: Prato
+      county: Prato
+      state: Toscana
+      postcode: '59100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+Posizione: 43.88142935 11.09951159358597
+</yamldata></pre>",closed
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/414,1186195958,2022-03-30 16:07:51,2022-03-30 09:57:36,"Regusto, Lab00 e Terres des Hommes lanciano #SpesaSospesaForUkraine per sostenere i profughi ucraini",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet"",""Resources""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Regusto, Lab00 Onlus e Terres des Hommes lanciano #SpesaSospesaForUkraine, iniziativa rivolta a cittadini e aziende per raccogliere e consegnare beni di prima necessit\u00e0 ai profughi in arrivo dall\u2019Ucraina. \nI cittadini possono donare denaro per sostenere il progetto e le aziende possono donare beni attraverso il sito https://forukraine.lab00.org, piattaforma blockchain di Regusto che consente l\u2019acquisto, la vendita e la donazione di beni di prima necessit\u00e0, con la possibilit\u00e0 di tracciare i flussi in modo trasparente.\nTerre des Hommes, attraverso la propria rete e la capacit\u00e0 di intercettare i bisogni pi\u00f9 urgenti, si occuper\u00e0 della distribuzione e consegna di beni di prima necessit\u00e0 ai profughi in arrivo dall\u2019Ucraina.\nSul sito l\u2019elenco dei beni alimentari e di prima necessit\u00e0 che vengono raccolti e donati."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regusto, Lab00, Terres des Hommes"",""recipients"":""Cittadini e aziende"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Regusto, Lab00 e Terres des Hommes lanciano #SpesaSospesaForUkraine per sostenere i profughi ucraini in Italia"",""url"":""https://forukraine.lab00.org""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
@@ -7807,99 +7900,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/64,1164580112,2022-03-22 17:02:32,2022-03-10 00:03:59,Raccolta medicinali e materiali sanitari nelle farmacie di Roma   e provincia - dal 9 al 16 marzo,,,,,"[""Valid/Accettato"",""Services"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8996107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Raccolta medicinali e materiali sanitari in tutte le farmacie di Roma e provincia - dal 9 al 16 marzo"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Federfarma Roma"",""recipients"":"""",""submit"":true,""title"":""Farmacisti per l'Ucraina"",""type"":""healthcare"",""url"":""https://twitter.com/ukraineinfohelp/status/1501526286585499649?t=gG4S2XxlCPzIjVTQO5XYVQ&s=19""}","<pre><yamldata>
-type: healthcare
-offerFromWho: Federfarma Roma
-title: Farmacisti per l'Ucraina
-recipients: ''
-description: Raccolta medicinali e materiali sanitari in tutte le farmacie di Roma
-  e provincia - dal 9 al 16 marzo
-url: 'https://twitter.com/ukraineinfohelp/status/1501526286585499649?t=gG4S2XxlCPzIjVTQO5XYVQ&s=19'
-address:
-  mode: autocomplete
-  address:
-    place_id: 283767136
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 41485
-    boundingbox:
-    - '41.6556417'
-    - '42.1410285'
-    - '12.2344669'
-    - '12.8557603'
-    lat: '41.8933203'
-    lon: '12.4829321'
-    display_name: Roma, Roma Capitale, Lazio, Italia
-    class: boundary
-    type: administrative
-    importance: 0.8996107180689524
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",closed
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/202,1173433999,2022-03-22 17:02:00,2022-03-18 10:31:05,"Prato 19 marzo, concerto Coro Maggio Fiorentino a sostegno della raccolta fondi per l’Ucraina di Croce Rossa",43.88142935,11.09951159358597,Toscana,Prato,"[""Valid/Accettato"",""fundraising"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""43.88142935 11.09951159358597"",""bicSwift"":""Unicritmirnp"",""causal"":""causale Emergenza Ucraina"",""ccPostal"":"""",""description"":""concerto beneficio per l'Ucraina in programma sabato 19 marzo, alle 21, al Politeama pratese. L'iniziativa \u00e8 organizzata da un gruppo di artisti lirici professionisti del coro del Maggio musicale fiorentino, tra i quali molti pratesi e molti vincitori di concorsi nazionali e internazionali. Ad unire il gruppo \u00e8 il desiderio di dare un contributo alla macchina della solidariet\u00e0 che sta aiutando la popolazione ucraina. Il concerto \u00e8 strutturato su una scaletta di opere dell'Ottocento di compositori tra i pi\u00f9 celebri.\nIl ricavato della serata sar\u00e0 devoluto al sostegno dell'Ucraina e ogni spettatore potr\u00e0 contribuire con una donazione diretta partecipando al concerto oppure attraverso un bonifico intestato all'Associazione Croce Rossa italiana"",""email"":"""",""heading"":""Associazione Croce Rossa italiana"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT93H0200803284000105889169"",""label"":""fundraising"",""link"":""http://www.notiziediprato.it/news/gli-artisti-del-maggio-musicale-fiorentino-al-politeama-per-un-concerto-benefico-pro-emergenza-ucraina"",""location"":{""address"":{""address"":{""amenity"":""Politeama"",""city"":""Prato"",""country"":""Italia"",""country_code"":""it"",""county"":""Prato"",""house_number"":""33"",""neighbourhood"":""il Cantiere"",""postcode"":""59100"",""road"":""Via Giuseppe Garibaldi"",""state"":""Toscana""},""boundingbox"":[""43.8812436"",""43.8816433"",""11.0992461"",""11.0998252""],""class"":""amenity"",""display_name"":""Politeama, 33, Via Giuseppe Garibaldi, il Cantiere, Prato, Toscana, 59100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//tourist_theatre.p.20.png"",""importance"":0.2808812954247281,""lat"":""43.88142935"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.09951159358597"",""osm_id"":324533597,""osm_type"":""way"",""place_id"":179411580,""type"":""theatre""},""mode"":""autocomplete""},""submit"":true,""title"":""Artisti Maggio Fiorentino e Croce Rossa italiana""}","<pre><yamldata>
-title: Artisti Maggio Fiorentino e Croce Rossa italiana
-description: 'concerto beneficio per l''Ucraina in programma sabato 19 marzo, alle
-  21, al Politeama pratese. L''iniziativa è organizzata da un gruppo di artisti lirici
-  professionisti del coro del Maggio musicale fiorentino, tra i quali molti pratesi
-  e molti vincitori di concorsi nazionali e internazionali. Ad unire il gruppo è il
-  desiderio di dare un contributo alla macchina della solidarietà che sta aiutando
-  la popolazione ucraina. Il concerto è strutturato su una scaletta di opere dell''Ottocento
-  di compositori tra i più celebri.
-
-  Il ricavato della serata sarà devoluto al sostegno dell''Ucraina e ogni spettatore
-  potrà contribuire con una donazione diretta partecipando al concerto oppure attraverso
-  un bonifico intestato all''Associazione Croce Rossa italiana'
-heading: Associazione Croce Rossa italiana
-iban: IT93H0200803284000105889169
-bicSwift: Unicritmirnp
-ccPostal: ''
-causal: causale Emergenza Ucraina
-link: http://www.notiziediprato.it/news/gli-artisti-del-maggio-musicale-fiorentino-al-politeama-per-un-concerto-benefico-pro-emergenza-ucraina
-email: ''
-location:
-  mode: autocomplete
-  address:
-    place_id: 179411580
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 324533597
-    boundingbox:
-    - '43.8812436'
-    - '43.8816433'
-    - '11.0992461'
-    - '11.0998252'
-    lat: '43.88142935'
-    lon: '11.09951159358597'
-    display_name: Politeama, 33, Via Giuseppe Garibaldi, il Cantiere, Prato, Toscana,
-      59100, Italia
-    class: amenity
-    type: theatre
-    importance: 0.2808812954247281
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//tourist_theatre.p.20.png
-    address:
-      amenity: Politeama
-      house_number: '33'
-      road: Via Giuseppe Garibaldi
-      neighbourhood: il Cantiere
-      city: Prato
-      county: Prato
-      state: Toscana
-      postcode: '59100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: fundraising
-submit: true
-Posizione: 43.88142935 11.09951159358597
-</yamldata></pre>",closed
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/158,1171105306,2022-03-22 10:02:05,2022-03-16 14:30:37,Contatti telefonici di Croce Rossa Ucraina per la ricerca di familiari dispersi a causa del conflitto,49.4871968,31.2718321,,,"[""Valid/Accettato"",""News"",""Services"",""useful contact"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""49.4871968 31.2718321"",""description"":""Nel caso in cui perdiate i contatti con i vostri cari, potete contattare il servizio di ricerca della Croce Rossa dell'Ucraina ai numeri sotto indicati:\n\u25ab\ufe0fKiev 096 304 4375, 066 250 9957\n\u25ab\ufe0fLviv 095 250 1274\n\u25ab\ufe0fKharkiv 099 206 5493\n\u25ab\ufe0fDnipro 095 250 1181\n\u25ab\ufe0fKramatorsk 095 250 1229"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.facebook.com/groups/ukrainehelpit/permalink/458942835974670/"",""location"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""44.184598"",""52.3797464"",""22.137059"",""40.2275801""],""class"":""boundary"",""display_name"":""Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8164442439164168,""lat"":""49.4871968"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""31.2718321"",""osm_id"":60199,""osm_type"":""relation"",""place_id"":283553033,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Contatti telefonici di Croce Rossa Ucraina per la ricerca di familiari dispersi""}","<pre><yamldata>
 title: Contatti telefonici di Croce Rossa Ucraina per la ricerca di familiari dispersi
 description: 'Nel caso in cui perdiate i contatti con i vostri cari, potete contattare
