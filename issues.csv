@@ -1,5 +1,42 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/418,1186613216,2022-03-30 15:15:14,2022-03-30 15:13:56,"A Desio (MB) il ""Dono Sospeso"" per i bambini e le famiglie ucraine",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""Children""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Monza e della Brianza"",""postcode"":""20832"",""state"":""Lombardia"",""town"":""Desio""},""boundingbox"":[""45.5960657"",""45.6365128"",""9.174791"",""9.2349795""],""class"":""boundary"",""display_name"":""Desio, Monza e della Brianza, Lombardia, 20832, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.59470306841754,""lat"":""45.6183103"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2081245"",""osm_id"":45466,""osm_type"":""relation"",""place_id"":284616605,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Partita l'iniziativa Dono Sospeso per i bambini e le famiglie ucraine arrivate in citt\u00e0. Una nuova iniziativa del Comune di Desio in collaborazione con Desio citta aperta che coinvolge la Posteria sociale. \nOltre al Dono Sospeso \u00e8 attiva anche la Spesa Sospesa. Per scoprire tutte le iniziative in solidariet\u00e0 con il popolo ucraino vai al link https://www.comune.desio.mb.it/it/news/emergenza-ucraina-come-aiutare"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Desio"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Desio (MB) il \""Dono Sospeso\"" per i bambini e le famiglie ucraine"",""url"":""https://twitter.com/comunedidesio/status/1505877109759258624?t=rYE6c3lPmOaDBohVjOiyrQ&s=09""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/414,1186195958,2022-03-30 16:07:51,2022-03-30 09:57:36,"Regusto, Lab00 e Terres des Hommes lanciano #SpesaSospesaForUkraine per sostenere i profughi ucraini",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet"",""Resources""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Regusto, Lab00 Onlus e Terres des Hommes lanciano #SpesaSospesaForUkraine, iniziativa rivolta a cittadini e aziende per raccogliere e consegnare beni di prima necessit\u00e0 ai profughi in arrivo dall\u2019Ucraina. \nI cittadini possono donare denaro per sostenere il progetto e le aziende possono donare beni attraverso il sito https://forukraine.lab00.org, piattaforma blockchain di Regusto che consente l\u2019acquisto, la vendita e la donazione di beni di prima necessit\u00e0, con la possibilit\u00e0 di tracciare i flussi in modo trasparente.\nTerre des Hommes, attraverso la propria rete e la capacit\u00e0 di intercettare i bisogni pi\u00f9 urgenti, si occuper\u00e0 della distribuzione e consegna di beni di prima necessit\u00e0 ai profughi in arrivo dall\u2019Ucraina.\nSul sito l\u2019elenco dei beni alimentari e di prima necessit\u00e0 che vengono raccolti e donati."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regusto, Lab00, Terres des Hommes"",""recipients"":""Cittadini e aziende"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Regusto, Lab00 e Terres des Hommes lanciano #SpesaSospesaForUkraine per sostenere i profughi ucraini in Italia"",""url"":""https://forukraine.lab00.org""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Regusto, Lab00, Terres des Hommes
+title: 'Regusto, Lab00 e Terres des Hommes lanciano #SpesaSospesaForUkraine per sostenere
+  i profughi ucraini in Italia'
+recipients: Cittadini e aziende
+description: ""Regusto, Lab00 Onlus e Terres des Hommes lanciano #SpesaSospesaForUkraine,\
+  \ iniziativa rivolta a cittadini e aziende per raccogliere e consegnare beni di\
+  \ prima necessità ai profughi in arrivo dall’Ucraina. \nI cittadini possono donare\
+  \ denaro per sostenere il progetto e le aziende possono donare beni attraverso il\
+  \ sito https://forukraine.lab00.org, piattaforma blockchain di Regusto che consente\
+  \ l’acquisto, la vendita e la donazione di beni di prima necessità, con la possibilità\
+  \ di tracciare i flussi in modo trasparente.\nTerre des Hommes, attraverso la propria\
+  \ rete e la capacità di intercettare i bisogni più urgenti, si occuperà della distribuzione\
+  \ e consegna di beni di prima necessità ai profughi in arrivo dall’Ucraina.\nSul\
+  \ sito l’elenco dei beni alimentari e di prima necessità che vengono raccolti e\
+  \ donati.""
+url: https://forukraine.lab00.org
+address:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/418,1186613216,2022-03-30 16:07:18,2022-03-30 15:13:56,"A Desio (MB) il ""Dono Sospeso"" per i bambini e le famiglie ucraine",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""Children"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Monza e della Brianza"",""postcode"":""20832"",""state"":""Lombardia"",""town"":""Desio""},""boundingbox"":[""45.5960657"",""45.6365128"",""9.174791"",""9.2349795""],""class"":""boundary"",""display_name"":""Desio, Monza e della Brianza, Lombardia, 20832, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.59470306841754,""lat"":""45.6183103"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2081245"",""osm_id"":45466,""osm_type"":""relation"",""place_id"":284616605,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Partita l'iniziativa Dono Sospeso per i bambini e le famiglie ucraine arrivate in citt\u00e0. Una nuova iniziativa del Comune di Desio in collaborazione con Desio citta aperta che coinvolge la Posteria sociale. \nOltre al Dono Sospeso \u00e8 attiva anche la Spesa Sospesa. Per scoprire tutte le iniziative in solidariet\u00e0 con il popolo ucraino vai al link https://www.comune.desio.mb.it/it/news/emergenza-ucraina-come-aiutare"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Desio"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Desio (MB) il \""Dono Sospeso\"" per i bambini e le famiglie ucraine"",""url"":""https://twitter.com/comunedidesio/status/1505877109759258624?t=rYE6c3lPmOaDBohVjOiyrQ&s=09""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
   hospitality: false
@@ -52,7 +89,7 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/417,1186589865,2022-03-30 15:02:18,2022-03-30 14:57:24,"Save the Children attiva il progetto ""Druzi"": ragazze e ragazzi affiancano online bambini e adolescenti arrivati dall'Ucraina in Italia",,,,,"[""Valid/Accettato"",""Services"",""Children""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Sono 300 i volontari e le volontarie che hanno deciso di far parte di \u201cDruzi\u201d il nostro progetto di affiancamento online per aiutare bambine, bambini e adolescenti che sono fuggiti dalla guerra in Ucraina.\n pi\u00f9 piccoli e i/le giovani saranno affiancati da una volontaria o un volontario, per la maggior parte facenti parte della comunit\u00e0 ucraina in Italia, per poter avere un supporto educativo online personalizzato.\n\nI volontari e le volontarie di Druzi dopo un percorso formativo e sotto la supervisione di una equipe di educatori/trici e di psicologi/ghe, li accompagneranno alla conoscenza dell\u2019Italia e delle citt\u00e0 dove sono ospitati, li sosterranno nel mantenimento delle competenze di base, del percorso scolastico (molti bambini e adolescenti continuano a frequentare la loro scuola in Ucraina tramite la DAD), favoriranno l\u2019apprendimento di nozioni di base della lingua italiana, promuoveranno attivit\u00e0 di lettura e di gioco.\nPer informazioni volontariperleducazione@savethechildren.org."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Save the Children Italia"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Save the Children attiva il progetto \""Druzi\"": ragazze e ragazzi che affiancano online bambini e adolescenti ucraini in Italia"",""url"":""https://www.savethechildren.it/blog-notizie/ucraina-parte-druzi-il-progetto-sostegno-ai-bambini-fuga""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/417,1186589865,2022-03-30 16:07:02,2022-03-30 14:57:24,"Save the Children attiva il progetto ""Druzi"": ragazze e ragazzi affiancano online bambini e adolescenti arrivati dall'Ucraina in Italia",,,,,"[""Valid/Accettato"",""Services"",""Children"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Sono 300 i volontari e le volontarie che hanno deciso di far parte di \u201cDruzi\u201d il nostro progetto di affiancamento online per aiutare bambine, bambini e adolescenti che sono fuggiti dalla guerra in Ucraina.\n pi\u00f9 piccoli e i/le giovani saranno affiancati da una volontaria o un volontario, per la maggior parte facenti parte della comunit\u00e0 ucraina in Italia, per poter avere un supporto educativo online personalizzato.\n\nI volontari e le volontarie di Druzi dopo un percorso formativo e sotto la supervisione di una equipe di educatori/trici e di psicologi/ghe, li accompagneranno alla conoscenza dell\u2019Italia e delle citt\u00e0 dove sono ospitati, li sosterranno nel mantenimento delle competenze di base, del percorso scolastico (molti bambini e adolescenti continuano a frequentare la loro scuola in Ucraina tramite la DAD), favoriranno l\u2019apprendimento di nozioni di base della lingua italiana, promuoveranno attivit\u00e0 di lettura e di gioco.\nPer informazioni volontariperleducazione@savethechildren.org."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Save the Children Italia"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Save the Children attiva il progetto \""Druzi\"": ragazze e ragazzi che affiancano online bambini e adolescenti ucraini in Italia"",""url"":""https://www.savethechildren.it/blog-notizie/ucraina-parte-druzi-il-progetto-sostegno-ai-bambini-fuga""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
   hospitality: false
@@ -86,6 +123,97 @@ url: https://www.savethechildren.it/blog-notizie/ucraina-parte-druzi-il-progetto
 address:
   mode: autocomplete
   address: {}
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/419,1186656043,2022-03-30 16:06:41,2022-03-30 15:47:17,"Online ConfLavoroxUcraina, piattaforma che offre lavoro e alloggio ai profughi ucraini in Italia",,,,,"[""Valid/Accettato"",""Services"",""hospitality"",""job"",""telegram-channel"",""tweet"",""Resources""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""\u00c8 online ConfLavoroxUcraina, piattaforma che offre lavoro e alloggio ai profughi ucraini in Italia. Attraverso sito aziende e cittadini possono offrire un alloggio temporaneo o un primo impiego a chi dell'Ucraina arriva in Italia. Disponibile anche un modulo per  cittadini ucraini che cercano lavoro \u00e8 alloggio."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""ConfLavoro PMI"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":true,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Online ConfLavoroxUcraina, piattaforma che offre lavoro e alloggio ai profughi ucraini in Italia"",""url"":""https://ucraina.conflavoro.it/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: true
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: ConfLavoro PMI
+title: Online ConfLavoroxUcraina, piattaforma che offre lavoro e alloggio ai profughi
+  ucraini in Italia
+recipients: ''
+description: È online ConfLavoroxUcraina, piattaforma che offre lavoro e alloggio
+  ai profughi ucraini in Italia. Attraverso sito aziende e cittadini possono offrire
+  un alloggio temporaneo o un primo impiego a chi dell'Ucraina arriva in Italia. Disponibile
+  anche un modulo per  cittadini ucraini che cercano lavoro è alloggio.
+url: https://ucraina.conflavoro.it/
+address:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/420,1186672138,2022-03-30 16:06:28,2022-03-30 15:59:31,Associazione Ucraina in Italia raccoglie beni di prima necessità anche con ordini via Amazon,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Cosenza"",""postcode"":""87040"",""road"":""Via delle Rose"",""state"":""Calabria"",""town"":""Andreotta"",""village"":""Castrolibero""},""boundingbox"":[""39.3074086"",""39.3077383"",""16.215506"",""16.2166437""],""class"":""highway"",""display_name"":""Via delle Rose, Andreotta, Castrolibero, Cosenza, Calabria, 87040, Italia"",""importance"":0.72,""lat"":""39.3075248"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.2162427"",""osm_id"":299448768,""osm_type"":""way"",""place_id"":175609845,""type"":""residential""},""mode"":""autocomplete""},""description"":""Siamo l'Associazione Ucraina in Italia. Ci occupiamo di aiuti umanitari  e accoglienza di rifugiati in Italia. \nStiamo cercando di inviare aiuti per le regioni del sud/sud est che sono state tagliate fuori dagli aiuti umanitari.\nPer chi \u00e8 lontano e vuole aiutare pu\u00f2 inviarci gli aiuti tramite Amazon alla nostra sede e noi li portiamo in Ucraina. \nVanno bene: \nAlimenti a lunga conservazione \nSaponi\nDisinfettanti \nMateriale medico\nAbbigliamento da campeggio e tracking \nPannolini \nCannocchiali \n\nPer qualsiasi cosa contattateci!\n\nLa consegna dei beni umanitari per l'Ucraina deve essere fatta presso:\nAssociazione Ucraina in Italia \nVia delle Rose 8\nCastrolibero CS 87040\nTel. + 39 3272982336 \n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014-\n La Terra di Piero \nVia Consalvo Aragona 53\n87100 Cosenza  Italy\nTel. + 39 3490781992"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Ucraina in Italia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Associazione Ucraina in Italia raccoglie beni di prima necessit\u00e0 anche con ordini via Amazon"",""url"":""https://www.facebook.com/108628108443676/posts/111890518117435/?sfnsn=scwspmo""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Associazione Ucraina in Italia
+title: Associazione Ucraina in Italia raccoglie beni di prima necessità anche con
+  ordini via Amazon
+recipients: ''
+description: ""Siamo l'Associazione Ucraina in Italia. Ci occupiamo di aiuti umanitari\
+  \  e accoglienza di rifugiati in Italia. \nStiamo cercando di inviare aiuti per\
+  \ le regioni del sud/sud est che sono state tagliate fuori dagli aiuti umanitari.\n\
+  Per chi è lontano e vuole aiutare può inviarci gli aiuti tramite Amazon alla nostra\
+  \ sede e noi li portiamo in Ucraina. \nVanno bene: \nAlimenti a lunga conservazione\
+  \ \nSaponi\nDisinfettanti \nMateriale medico\nAbbigliamento da campeggio e tracking\
+  \ \nPannolini \nCannocchiali \n\nPer qualsiasi cosa contattateci!\n\nLa consegna\
+  \ dei beni umanitari per l'Ucraina deve essere fatta presso:\nAssociazione Ucraina\
+  \ in Italia \nVia delle Rose 8\nCastrolibero CS 87040\nTel. + 39 3272982336 \n————————————-\n\
+  \ La Terra di Piero \nVia Consalvo Aragona 53\n87100 Cosenza  Italy\nTel. + 39 3490781992""
+url: https://www.facebook.com/108628108443676/posts/111890518117435/?sfnsn=scwspmo
+address:
+  mode: autocomplete
+  address:
+    place_id: 175609845
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 299448768
+    boundingbox:
+    - '39.3074086'
+    - '39.3077383'
+    - '16.215506'
+    - '16.2166437'
+    lat: '39.3075248'
+    lon: '16.2162427'
+    display_name: Via delle Rose, Andreotta, Castrolibero, Cosenza, Calabria, 87040,
+      Italia
+    class: highway
+    type: residential
+    importance: 0.72
+    address:
+      road: Via delle Rose
+      town: Andreotta
+      village: Castrolibero
+      county: Cosenza
+      state: Calabria
+      postcode: '87040'
+      country: Italia
+      country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
@@ -140,43 +268,6 @@ location:
   address: {}
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: help
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/414,1186195958,2022-03-30 14:59:20,2022-03-30 09:57:36,"Regusto, Lab00 e Terres des Hommes lanciano #SpesaSospesaForUkraine per sostenere i profughi ucraini",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""Resources""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Regusto, Lab00 Onlus e Terres des Hommes lanciano #SpesaSospesaForUkraine, iniziativa rivolta a cittadini e aziende per raccogliere e consegnare beni di prima necessit\u00e0 ai profughi in arrivo dall\u2019Ucraina. \nI cittadini possono donare denaro per sostenere il progetto e le aziende possono donare beni attraverso il sito https://forukraine.lab00.org, piattaforma blockchain di Regusto che consente l\u2019acquisto, la vendita e la donazione di beni di prima necessit\u00e0, con la possibilit\u00e0 di tracciare i flussi in modo trasparente.\nTerre des Hommes, attraverso la propria rete e la capacit\u00e0 di intercettare i bisogni pi\u00f9 urgenti, si occuper\u00e0 della distribuzione e consegna di beni di prima necessit\u00e0 ai profughi in arrivo dall\u2019Ucraina.\nSul sito l\u2019elenco dei beni alimentari e di prima necessit\u00e0 che vengono raccolti e donati."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regusto, Lab00, Terres des Hommes"",""recipients"":""Cittadini e aziende"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Regusto, Lab00 e Terres des Hommes lanciano #SpesaSospesaForUkraine per sostenere i profughi ucraini in Italia"",""url"":""https://forukraine.lab00.org""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Regusto, Lab00, Terres des Hommes
-title: 'Regusto, Lab00 e Terres des Hommes lanciano #SpesaSospesaForUkraine per sostenere
-  i profughi ucraini in Italia'
-recipients: Cittadini e aziende
-description: ""Regusto, Lab00 Onlus e Terres des Hommes lanciano #SpesaSospesaForUkraine,\
-  \ iniziativa rivolta a cittadini e aziende per raccogliere e consegnare beni di\
-  \ prima necessità ai profughi in arrivo dall’Ucraina. \nI cittadini possono donare\
-  \ denaro per sostenere il progetto e le aziende possono donare beni attraverso il\
-  \ sito https://forukraine.lab00.org, piattaforma blockchain di Regusto che consente\
-  \ l’acquisto, la vendita e la donazione di beni di prima necessità, con la possibilità\
-  \ di tracciare i flussi in modo trasparente.\nTerre des Hommes, attraverso la propria\
-  \ rete e la capacità di intercettare i bisogni più urgenti, si occuperà della distribuzione\
-  \ e consegna di beni di prima necessità ai profughi in arrivo dall’Ucraina.\nSul\
-  \ sito l’elenco dei beni alimentari e di prima necessità che vengono raccolti e\
-  \ donati.""
-url: https://forukraine.lab00.org
-address:
-  mode: autocomplete
-  address: {}
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/398,1185252778,2022-03-30 13:29:26,2022-03-29 18:26:10,"Firmata l’ordinanza n. 881 del Dipartimento Nazionale Protezione Civile che disciplina l’accoglienza, il soccorso e l’assistenza alla popolazione ucraina in Italia",41.9039826,12.4719209,Lazio,Roma,"[""Valid/Accettato"",""News"",""hospitality"",""document_data"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""41.9039826 12.4719209"",""description"":""Il Capo del Dipartimento della Protezione civile, Fabrizio Curcio, ha firmato un\u2019ordinanza che disciplina l\u2019accoglienza, il soccorso e l\u2019assistenza alla popolazione ucraina in Italia (Ordinanza n. 881 del 29 marzo 2022 \u201cUlteriori disposizioni urgenti di protezione civile per assicurare, sul territorio nazionale, l\u2019accoglienza, il soccorso e l\u2019assistenza alla popolazione in conseguenza degli accadimenti in atto nel territorio dell\u2019Ucraina\u201d).\nL\u2019ordinanza regola le modalit\u00e0 di attuazione dell\u2019accoglienza diffusa, tramite gli avvisi di manifestazioni di interesse rivolti a enti del Terzo Settore, ai Centri di servizio per il volontariato, agli enti e alle associazioni iscritte al registro di cui all\u2019articolo 42 del decreto legislativo n. 286 del 1998 e agli enti religiosi civilmente riconosciuti, a beneficio delle persone richiedenti la protezione temporanea. Le procedure degli avvisi di manifestazioni di interesse prevedranno forme e modalit\u00e0 per offrire, ai soggetti beneficiari, servizi di assistenza e accoglienza, attivabili nel limite massimo di 15mila posti. L\u2019ordinanza riconosce alle persone richiedenti la protezione temporanea un contributo di sostentamento pari a 300 euro mensili pro capite e, in presenza di minori, \u00e8 riconosciuto un contributo addizionale mensile di 150 euro per ciascun figlio di et\u00e0 inferiore a 18 anni."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://www.protezionecivile.gov.it/it/normativa/ocdpc-n-881-del-29-marzo-2022-0"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""11"",""office"":""Dipartimento della Protezione Civile"",""postcode"":""00186"",""quarter"":""Prati"",""road"":""Via Ulpiano"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.9039326"",""41.9040326"",""12.4718709"",""12.4719709""],""class"":""office"",""display_name"":""Dipartimento della Protezione Civile, 11, Via Ulpiano, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia"",""importance"":0.42099999999999993,""lat"":""41.9039826"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4719209"",""osm_id"":5462543512,""osm_type"":""node"",""place_id"":59550508,""type"":""government""},""mode"":""autocomplete""},""submit"":true,""title"":""Firmata l\u2019ordinanza n. 881 del Dipartimento Nazionale Protezione Civile che disciplina l\u2019accoglienza, il soccorso e l\u2019assistenza alla popolazione ucraina in Italia""}","<pre><yamldata>
