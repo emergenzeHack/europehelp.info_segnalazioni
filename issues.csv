@@ -1,4 +1,57 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/418,1186613216,2022-03-30 15:15:14,2022-03-30 15:13:56,"A Desio (MB) il ""Dono Sospeso"" per i bambini e le famiglie ucraine",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""Children""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Monza e della Brianza"",""postcode"":""20832"",""state"":""Lombardia"",""town"":""Desio""},""boundingbox"":[""45.5960657"",""45.6365128"",""9.174791"",""9.2349795""],""class"":""boundary"",""display_name"":""Desio, Monza e della Brianza, Lombardia, 20832, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.59470306841754,""lat"":""45.6183103"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2081245"",""osm_id"":45466,""osm_type"":""relation"",""place_id"":284616605,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Partita l'iniziativa Dono Sospeso per i bambini e le famiglie ucraine arrivate in citt\u00e0. Una nuova iniziativa del Comune di Desio in collaborazione con Desio citta aperta che coinvolge la Posteria sociale. \nOltre al Dono Sospeso \u00e8 attiva anche la Spesa Sospesa. Per scoprire tutte le iniziative in solidariet\u00e0 con il popolo ucraino vai al link https://www.comune.desio.mb.it/it/news/emergenza-ucraina-come-aiutare"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Desio"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Desio (MB) il \""Dono Sospeso\"" per i bambini e le famiglie ucraine"",""url"":""https://twitter.com/comunedidesio/status/1505877109759258624?t=rYE6c3lPmOaDBohVjOiyrQ&s=09""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: false
+offerFromWho: Comune di Desio
+title: A Desio (MB) il ""Dono Sospeso"" per i bambini e le famiglie ucraine
+recipients: ''
+description: ""Partita l'iniziativa Dono Sospeso per i bambini e le famiglie ucraine\
+  \ arrivate in città. Una nuova iniziativa del Comune di Desio in collaborazione\
+  \ con Desio citta aperta che coinvolge la Posteria sociale. \nOltre al Dono Sospeso\
+  \ è attiva anche la Spesa Sospesa. Per scoprire tutte le iniziative in solidarietà\
+  \ con il popolo ucraino vai al link https://www.comune.desio.mb.it/it/news/emergenza-ucraina-come-aiutare""
+url: https://twitter.com/comunedidesio/status/1505877109759258624?t=rYE6c3lPmOaDBohVjOiyrQ&s=09
+address:
+  mode: autocomplete
+  address:
+    place_id: 284616605
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 45466
+    boundingbox:
+    - '45.5960657'
+    - '45.6365128'
+    - '9.174791'
+    - '9.2349795'
+    lat: '45.6183103'
+    lon: '9.2081245'
+    display_name: Desio, Monza e della Brianza, Lombardia, 20832, Italia
+    class: boundary
+    type: administrative
+    importance: 0.59470306841754
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      town: Desio
+      county: Monza e della Brianza
+      state: Lombardia
+      postcode: '20832'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/417,1186589865,2022-03-30 15:02:18,2022-03-30 14:57:24,"Save the Children attiva il progetto ""Druzi"": ragazze e ragazzi affiancano online bambini e adolescenti arrivati dall'Ucraina in Italia",,,,,"[""Valid/Accettato"",""Services"",""Children""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Sono 300 i volontari e le volontarie che hanno deciso di far parte di \u201cDruzi\u201d il nostro progetto di affiancamento online per aiutare bambine, bambini e adolescenti che sono fuggiti dalla guerra in Ucraina.\n pi\u00f9 piccoli e i/le giovani saranno affiancati da una volontaria o un volontario, per la maggior parte facenti parte della comunit\u00e0 ucraina in Italia, per poter avere un supporto educativo online personalizzato.\n\nI volontari e le volontarie di Druzi dopo un percorso formativo e sotto la supervisione di una equipe di educatori/trici e di psicologi/ghe, li accompagneranno alla conoscenza dell\u2019Italia e delle citt\u00e0 dove sono ospitati, li sosterranno nel mantenimento delle competenze di base, del percorso scolastico (molti bambini e adolescenti continuano a frequentare la loro scuola in Ucraina tramite la DAD), favoriranno l\u2019apprendimento di nozioni di base della lingua italiana, promuoveranno attivit\u00e0 di lettura e di gioco.\nPer informazioni volontariperleducazione@savethechildren.org."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Save the Children Italia"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Save the Children attiva il progetto \""Druzi\"": ragazze e ragazzi che affiancano online bambini e adolescenti ucraini in Italia"",""url"":""https://www.savethechildren.it/blog-notizie/ucraina-parte-druzi-il-progetto-sostegno-ai-bambini-fuga""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
