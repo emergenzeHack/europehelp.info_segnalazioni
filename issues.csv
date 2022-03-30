@@ -1,5 +1,157 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/403,1185360350,2022-03-29 22:19:42,2022-03-29 20:11:57,A Catania apre punto di raccolta di beni essenziali per emergenza Ucraina,,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""city"":""Catania"",""country"":""Italia"",""country_code"":""it"",""county"":""Catania"",""postcode"":""95121"",""state"":""Sicilia""},""boundingbox"":[""37.3582971"",""37.562386"",""14.9358674"",""15.125794""],""class"":""boundary"",""display_name"":""Catania, Sicilia, 95121, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7221226378988357,""lat"":""37.5023612"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.0873718"",""osm_id"":39230,""osm_type"":""relation"",""place_id"":284352873,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Attivato anche il coordinamento unico della Protezione Civile comunale per il reperimento e la spedizione di beni di prima necessit\u00e0 con alcuni cittadini che hanno offerto aiuti per le popolazioni ucraine. Un punto di raccolta di beni essenziali (cibo non deperibile/medicinali - indumenti nuovi - materiale sanitario) \u00e8 attivo nella sede della Protezione Civile Comunale con sede in via Leopoldo Nobili 28, dal luned\u00ec al venerd\u00ec dalle ore 9,00 alle ore 13,00 e dalle ore 14,00 alle ore 18,00 e sabato dalle ore 8,30 alle ore 12,00. Protezione Civile Comunale Tel. 095484000 \u2013 0957425148 per informazioni ed eventuali disponibilit\u00e0 alla raccolta a domicilio."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Catania"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Punto di raccolta di beni essenziali"",""url"":""https://www.comune.catania.it/informazioni/news/politiche-sociali/politiche-sociali-2022-news/default.aspx?news=83290""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/109,1167410538,2022-03-30 09:16:31,2022-03-12 21:52:19,Protezione civile di Milano cerca traduttori in lingua ucraina per accoglienza profughi,45.4902382,9.1945908,Lombardia,Milano,"[""Valid/Accettato"",""Help"",""translation"",""job"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.4902382 9.1945908"",""description"":""La Protezione civile di Milano cerca traduttori in lingua ucraina per accoglienza profughi."",""email"":""cristiano.cozzi@comune.milano.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""17"",""office"":""Protezione civile"",""postcode"":""20159"",""quarter"":""Isola"",""road"":""Via Ippolito Rosellini"",""state"":""Lombardia"",""suburb"":""Municipio 2""},""boundingbox"":[""45.4901882"",""45.4902882"",""9.1945408"",""9.1946408""],""class"":""office"",""display_name"":""Protezione civile, 17, Via Ippolito Rosellini, Isola, Municipio 2, Milano, Lombardia, 20159, Italia"",""importance"":0.401,""lat"":""45.4902382"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1945908"",""osm_id"":6084251988,""osm_type"":""node"",""place_id"":66708597,""type"":""government""},""mode"":""autocomplete""},""nameSurname"":""Protezione civile Milano"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""traduttori in lingua ucraina per accoglienza profughi"",""url"":""https://twitter.com/ukraineinfohelp/status/1501802781044314115?s=21""}","<pre><yamldata>
+nameSurname: Protezione civile Milano
+phoneNumber: ''
+email: cristiano.cozzi@comune.milano.it
+title: traduttori in lingua ucraina per accoglienza profughi
+recipients: ''
+description: La Protezione civile di Milano cerca traduttori in lingua ucraina per
+  accoglienza profughi.
+url: https://twitter.com/ukraineinfohelp/status/1501802781044314115?s=21
+location:
+  mode: autocomplete
+  address:
+    place_id: 66708597
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 6084251988
+    boundingbox:
+    - '45.4901882'
+    - '45.4902882'
+    - '9.1945408'
+    - '9.1946408'
+    lat: '45.4902382'
+    lon: '9.1945908'
+    display_name: Protezione civile, 17, Via Ippolito Rosellini, Isola, Municipio
+      2, Milano, Lombardia, 20159, Italia
+    class: office
+    type: government
+    importance: 0.401
+    address:
+      office: Protezione civile
+      house_number: '17'
+      road: Via Ippolito Rosellini
+      quarter: Isola
+      suburb: Municipio 2
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20159'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 45.4902382 9.1945908
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/408,1185385495,2022-03-30 09:15:31,2022-03-29 20:36:59,"Milano, attivato hotspot pediatrico per minori ucraini all’Ospedale Fatebenefratelli",,,,,"[""Valid/Accettato"",""Services"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""state"":""Lombardia""},""boundingbox"":[""45.3867381"",""45.5358482"",""9.0408867"",""9.2781103""],""class"":""boundary"",""display_name"":""Milano, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8490652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":44915,""osm_type"":""relation"",""place_id"":283684439,""type"":""administrative""},""mode"":""autocomplete""},""description"":""AGGIORNAMENTI EMERGENZA UCRAINA. \u00c8 stato attivato un hotspot dedicato all'area pediatrica presso l'Ospedale Fatebenefratelli, piazza Principessa Clotilde n. 3, Palazzina delle Medicine, primo piano. Inoltre, sul sito dell'Agenzia sono disponibili informazioni utili per i profughi ucraini in fuga con i propri animali d\u2019affezione. Per tutte le informazioni sull'assistenza sanitaria ai profughi ucraini, consultare la pagina dedicata sul sito di ATS."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""ATS Milano: informazioni sull\u2019assistenza sanitaria ai profughi"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""ATS Milano: informazioni sull\u2019assistenza sanitaria ai profughi"",""url"":""https://www.ats-milano.it/notizie/indicazioni-assistenza-sanitaria-ai-profughi-ucraini""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: true
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: 'ATS Milano: informazioni sull’assistenza sanitaria ai profughi'
+title: 'ATS Milano: informazioni sull’assistenza sanitaria ai profughi'
+recipients: ''
+description: 'AGGIORNAMENTI EMERGENZA UCRAINA.
+È stato attivato un hotspot dedicato all''area pediatrica presso l''Ospedale
+  Fatebenefratelli, piazza Principessa Clotilde n. 3, Palazzina delle Medicine, primo
+  piano.
+Inoltre, sul sito dell''Agenzia sono disponibili informazioni utili per i profughi ucraini
+  in fuga con i propri animali d’affezione.
+  Per tutte le informazioni sull''assistenza sanitaria ai profughi ucraini, consultare
+  la pagina dedicata sul sito di ATS.'
+url: https://www.ats-milano.it/notizie/indicazioni-assistenza-sanitaria-ai-profughi-ucraini
+address:
+  mode: autocomplete
+  address:
+    place_id: 283684439
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 44915
+    boundingbox:
+    - '45.3867381'
+    - '45.5358482'
+    - '9.0408867'
+    - '9.2781103'
+    lat: '45.4641943'
+    lon: '9.1896346'
+    display_name: Milano, Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8490652078701348
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Milano
+      county: Milano
+      state: Lombardia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/407,1185379561,2022-03-30 09:15:17,2022-03-29 20:30:50,"Avvocato di Strada, sportelli legali in molte città d'Italia a supporto dei profughi ucraini",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it""},""boundingbox"":[""35.2889616"",""47.0921462"",""6.6272658"",""18.7844746""],""class"":""boundary"",""display_name"":""Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9931019031440554,""lat"":""42.6384261"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.674297"",""osm_id"":365331,""osm_type"":""relation"",""place_id"":284007015,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Presso le sedi locali di Avvocato di strada (vedere link), \u00e8 attivo uno sportello di orientamento e supporto legale per i profughi ucraini. Molti volontari, inoltre, hanno dato al proprio consiglio dell\u2019ordine territoriale disponibilit\u00e0 a partecipare ad attivit\u00e0 di tutela legale dei profughi e a creare contact point presso gli ordini. Per richieste di informazioni a carattere generale, orientamento ai servizi sul territorio o altre necessit\u00e0 che riguardano la guerra in Ucraina \u00e8 attiva la mail emergenza@avvocatodistrada.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Avvocato di strada"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Sportelli legali in molte citt\u00e0 d'Italia"",""url"":""https://www.avvocatodistrada.it/sedi-locali/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Associazione Avvocato di strada
+title: Sportelli legali in molte città d'Italia
+recipients: ''
+description: 'Presso le sedi locali di Avvocato di strada (vedere link), è attivo
+  uno sportello di orientamento e supporto legale per i profughi ucraini. Molti volontari, inoltre, hanno
+  dato al proprio consiglio dell’ordine territoriale disponibilità a partecipare
+  ad attività di tutela legale dei profughi e a creare contact point presso gli
+  ordini.
+  Per richieste di informazioni a carattere generale, orientamento ai servizi sul
+  territorio o altre necessità che riguardano la guerra in Ucraina è attiva la mail
+  emergenza@avvocatodistrada.it'
+url: https://www.avvocatodistrada.it/sedi-locali/
+address:
+  mode: autocomplete
+  address:
+    place_id: 284007015
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 365331
+    boundingbox:
+    - '35.2889616'
+    - '47.0921462'
+    - '6.6272658'
+    - '18.7844746'
+    lat: '42.6384261'
+    lon: '12.674297'
+    display_name: Italia
+    class: boundary
+    type: administrative
+    importance: 0.9931019031440554
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/403,1185360350,2022-03-30 09:14:41,2022-03-29 20:11:57,A Catania apre punto di raccolta di beni essenziali per emergenza Ucraina,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Catania"",""country"":""Italia"",""country_code"":""it"",""county"":""Catania"",""postcode"":""95121"",""state"":""Sicilia""},""boundingbox"":[""37.3582971"",""37.562386"",""14.9358674"",""15.125794""],""class"":""boundary"",""display_name"":""Catania, Sicilia, 95121, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7221226378988357,""lat"":""37.5023612"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.0873718"",""osm_id"":39230,""osm_type"":""relation"",""place_id"":284352873,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Attivato anche il coordinamento unico della Protezione Civile comunale per il reperimento e la spedizione di beni di prima necessit\u00e0 con alcuni cittadini che hanno offerto aiuti per le popolazioni ucraine. Un punto di raccolta di beni essenziali (cibo non deperibile/medicinali - indumenti nuovi - materiale sanitario) \u00e8 attivo nella sede della Protezione Civile Comunale con sede in via Leopoldo Nobili 28, dal luned\u00ec al venerd\u00ec dalle ore 9,00 alle ore 13,00 e dalle ore 14,00 alle ore 18,00 e sabato dalle ore 8,30 alle ore 12,00. Protezione Civile Comunale Tel. 095484000 \u2013 0957425148 per informazioni ed eventuali disponibilit\u00e0 alla raccolta a domicilio."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Catania"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Punto di raccolta di beni essenziali"",""url"":""https://www.comune.catania.it/informazioni/news/politiche-sociali/politiche-sociali-2022-news/default.aspx?news=83290""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
   hospitality: false
@@ -50,6 +202,109 @@ address:
       county: Catania
       state: Sicilia
       postcode: '95121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/401,1185357869,2022-03-30 09:14:23,2022-03-29 20:09:19,"A Cento (Ferrara) ‘Facciamo rete’, Coordinamento solidale per l’integrazione dei bambini/e arrivate dall'Ucraina",,,,,"[""Valid/Accettato"",""Services"",""Children"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""municipality"":""Unione Alto Ferrarese"",""state"":""Emilia-Romagna"",""town"":""Cento""},""boundingbox"":[""44.705628"",""44.8381841"",""11.2461129"",""11.3880712""],""class"":""boundary"",""display_name"":""Cento, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5919924514729962,""lat"":""44.7274395"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2903029"",""osm_id"":43506,""osm_type"":""relation"",""place_id"":283662905,""type"":""administrative""},""mode"":""autocomplete""},""description"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Facciamo rete accoglienza solidale a Cento"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":true,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""A Cento \u2018Facciamo rete\u2019 - accoglienza solidale offre  servizi ai rifugiati dall\u2019Ucraina"",""url"":""https://www.facebook.com/groups/ukrainehelpit/permalink/468223791713241/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: true
+  translation: true
+  job: false
+  psychologicalSupport: true
+  Children: true
+  disability: false
+  women: false
+  education: false
+offerFromWho: Facciamo rete accoglienza solidale a Cento
+title: A Cento ‘Facciamo rete’ - accoglienza solidale offre  servizi ai rifugiati
+  dall’Ucraina
+recipients: ''
+description: ''
+url: https://www.facebook.com/groups/ukrainehelpit/permalink/468223791713241/
+address:
+  mode: autocomplete
+  address:
+    place_id: 283662905
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43506
+    boundingbox:
+    - '44.705628'
+    - '44.8381841'
+    - '11.2461129'
+    - '11.3880712'
+    lat: '44.7274395'
+    lon: '11.2903029'
+    display_name: Cento, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, Italia
+    class: boundary
+    type: administrative
+    importance: 0.5919924514729962
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      town: Cento
+      municipality: Unione Alto Ferrarese
+      county: Ferrara
+      state: Emilia-Romagna
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/399,1185341282,2022-03-30 09:12:54,2022-03-29 19:51:31,Comune di Palermo attiva indirizzo email per supporto e accoglienza delle persone in arrivo dall’Ucraina,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""state"":""Sicilia""},""boundingbox"":[""38.0499137"",""38.2245866"",""13.242219"",""13.4520856""],""class"":""boundary"",""display_name"":""Palermo, Sicilia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7661148171447915,""lat"":""38.1112268"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3524434"",""osm_id"":39513,""osm_type"":""relation"",""place_id"":284307182,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Comune di Palermo ha attivato l'indirizzo mail aiutiucraina@comune.palermo.it\ndedicato alla situazione ucraina per accompagnare e facilitare le pratiche di ricongiungimenti e mettere in collegamento i profughi con le associazioni del terzo settore e con privati cittadini che, in alcuni casi, hanno gi\u00e0 espresso ed intendono dare la loro disponibilit\u00e0 per accoglierli."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Palermo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Palermo attiva una mail dedicata per aiuti alle persone in arrivo"",""url"":""https://www.comune.palermo.it/palermo-informa-dettaglio.php?id=34071&tipo=1""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Comune di Palermo
+title: Comune di Palermo attiva una mail dedicata per aiuti alle persone in arrivo
+recipients: ''
+description: 'Il Comune di Palermo ha attivato l''indirizzo mail aiutiucraina@comune.palermo.it
+
+  dedicato alla situazione ucraina per accompagnare e facilitare le pratiche di ricongiungimenti
+  e mettere in collegamento i profughi con le associazioni del terzo settore e con
+  privati cittadini che, in alcuni casi, hanno già espresso ed intendono dare la loro
+  disponibilità per accoglierli.'
+url: https://www.comune.palermo.it/palermo-informa-dettaglio.php?id=34071&tipo=1
+address:
+  mode: autocomplete
+  address:
+    place_id: 284307182
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 39513
+    boundingbox:
+    - '38.0499137'
+    - '38.2245866'
+    - '13.242219'
+    - '13.4520856'
+    lat: '38.1112268'
+    lon: '13.3524434'
+    display_name: Palermo, Sicilia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7661148171447915
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Palermo
+      county: Palermo
+      state: Sicilia
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
@@ -148,113 +403,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: help
 submit: true
 Posizione: 44.7274395 11.2903029
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/408,1185385495,2022-03-29 22:14:54,2022-03-29 20:36:59,"Milano, attivato hotspot pediatrico per minori ucraini all’Ospedale Fatebenefratelli",,,,,"[""Valid/Accettato"",""Services"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""state"":""Lombardia""},""boundingbox"":[""45.3867381"",""45.5358482"",""9.0408867"",""9.2781103""],""class"":""boundary"",""display_name"":""Milano, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8490652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":44915,""osm_type"":""relation"",""place_id"":283684439,""type"":""administrative""},""mode"":""autocomplete""},""description"":""AGGIORNAMENTI EMERGENZA UCRAINA. \u00c8 stato attivato un hotspot dedicato all'area pediatrica presso l'Ospedale Fatebenefratelli, piazza Principessa Clotilde n. 3, Palazzina delle Medicine, primo piano. Inoltre, sul sito dell'Agenzia sono disponibili informazioni utili per i profughi ucraini in fuga con i propri animali d\u2019affezione. Per tutte le informazioni sull'assistenza sanitaria ai profughi ucraini, consultare la pagina dedicata sul sito di ATS."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""ATS Milano: informazioni sull\u2019assistenza sanitaria ai profughi"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""ATS Milano: informazioni sull\u2019assistenza sanitaria ai profughi"",""url"":""https://www.ats-milano.it/notizie/indicazioni-assistenza-sanitaria-ai-profughi-ucraini""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: true
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: 'ATS Milano: informazioni sull’assistenza sanitaria ai profughi'
-title: 'ATS Milano: informazioni sull’assistenza sanitaria ai profughi'
-recipients: ''
-description: 'AGGIORNAMENTI EMERGENZA UCRAINA.
-È stato attivato un hotspot dedicato all''area pediatrica presso l''Ospedale
-  Fatebenefratelli, piazza Principessa Clotilde n. 3, Palazzina delle Medicine, primo
-  piano.
-Inoltre, sul sito dell''Agenzia sono disponibili informazioni utili per i profughi ucraini
-  in fuga con i propri animali d’affezione.
-  Per tutte le informazioni sull''assistenza sanitaria ai profughi ucraini, consultare
-  la pagina dedicata sul sito di ATS.'
-url: https://www.ats-milano.it/notizie/indicazioni-assistenza-sanitaria-ai-profughi-ucraini
-address:
-  mode: autocomplete
-  address:
-    place_id: 283684439
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 44915
-    boundingbox:
-    - '45.3867381'
-    - '45.5358482'
-    - '9.0408867'
-    - '9.2781103'
-    lat: '45.4641943'
-    lon: '9.1896346'
-    display_name: Milano, Lombardia, Italia
-    class: boundary
-    type: administrative
-    importance: 0.8490652078701348
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Milano
-      county: Milano
-      state: Lombardia
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/407,1185379561,2022-03-29 22:11:21,2022-03-29 20:30:50,"Avvocato di Strada, sportelli legali in molte città d'Italia a supporto dei profughi ucraini",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""telegram-channel""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it""},""boundingbox"":[""35.2889616"",""47.0921462"",""6.6272658"",""18.7844746""],""class"":""boundary"",""display_name"":""Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9931019031440554,""lat"":""42.6384261"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.674297"",""osm_id"":365331,""osm_type"":""relation"",""place_id"":284007015,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Presso le sedi locali di Avvocato di strada (vedere link), \u00e8 attivo uno sportello di orientamento e supporto legale per i profughi ucraini. Molti volontari, inoltre, hanno dato al proprio consiglio dell\u2019ordine territoriale disponibilit\u00e0 a partecipare ad attivit\u00e0 di tutela legale dei profughi e a creare contact point presso gli ordini. Per richieste di informazioni a carattere generale, orientamento ai servizi sul territorio o altre necessit\u00e0 che riguardano la guerra in Ucraina \u00e8 attiva la mail emergenza@avvocatodistrada.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Avvocato di strada"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Sportelli legali in molte citt\u00e0 d'Italia"",""url"":""https://www.avvocatodistrada.it/sedi-locali/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: true
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Associazione Avvocato di strada
-title: Sportelli legali in molte città d'Italia
-recipients: ''
-description: 'Presso le sedi locali di Avvocato di strada (vedere link), è attivo
-  uno sportello di orientamento e supporto legale per i profughi ucraini. Molti volontari, inoltre, hanno
-  dato al proprio consiglio dell’ordine territoriale disponibilità a partecipare
-  ad attività di tutela legale dei profughi e a creare contact point presso gli
-  ordini.
-  Per richieste di informazioni a carattere generale, orientamento ai servizi sul
-  territorio o altre necessità che riguardano la guerra in Ucraina è attiva la mail
-  emergenza@avvocatodistrada.it'
-url: https://www.avvocatodistrada.it/sedi-locali/
-address:
-  mode: autocomplete
-  address:
-    place_id: 284007015
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 365331
-    boundingbox:
-    - '35.2889616'
-    - '47.0921462'
-    - '6.6272658'
-    - '18.7844746'
-    lat: '42.6384261'
-    lon: '12.674297'
-    display_name: Italia
-    class: boundary
-    type: administrative
-    importance: 0.9931019031440554
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/405,1185365442,2022-03-29 22:09:41,2022-03-29 20:17:26,"Comune di Catania, elenco delle strutture del privato sociale che hanno dato disponibilità all’accoglienza della popolazione ucraina ",37.50570535,14.944202334712783,Sicilia,Catania,"[""Valid/Accettato"",""News"",""hospitality""]",,,"{""Posizione"":""37.50570535 14.944202334712783"",""description"":""a Direzione comunale Famiglia e Politiche Sociali e gli Enti del Terzo Settore, insieme ai funzionari della Prefettura e agli assessori comunali con delega ai Servizi Sociali e alla Protezione Civile, hanno delineato le procedure di accoglienza della popolazione ucraina duramente colpita dal conflitto bellico, con regole prestabilite finalizzate alla tutela delle persone in arrivo.\nLe strutture ricettive del privato sociale, presenti sul territorio, che hanno dato la disponibilit\u00e0 ad accogliere cittadini ucraini sono: Locanda del Samaritano, Cope, Cooperativa Sociale Mosaico, Associazione Meta Cometa, Associazione Spazio 47, Fondazione Ebbene, Refugees Welcome, Centro Astalli.\nCordoni umanitari saranno organizzati anche da Caritas, Croce rossa e Comunit\u00e0 Sant\u2019Egidio; anche il Villaggio Turistico internazionale \u201cLa Playa\u201d ha dato la disponibilit\u00e0 all\u2019accoglienza."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.comune.catania.it/informazioni/news/politiche-sociali/politiche-sociali-2022-news/default.aspx?news=83290"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Catania"",""state"":""Sicilia""},""boundingbox"":[""37.050297"",""37.961106"",""14.3517735"",""15.2580859""],""class"":""boundary"",""display_name"":""Catania, Sicilia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5678626077791631,""lat"":""37.50570535"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.944202334712783"",""osm_id"":39181,""osm_type"":""relation"",""place_id"":283168968,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Catania - Comune e Terzo Settore hanno delineato le procedure di accoglienza della popolazione ucraina""}","<pre><yamldata>
 title: Catania - Comune e Terzo Settore hanno delineato le procedure di accoglienza
@@ -355,56 +503,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/401,1185357869,2022-03-29 22:00:52,2022-03-29 20:09:19,"A Cento (Ferrara) ‘Facciamo rete’, Coordinamento solidale per l’integrazione dei bambini e bambine ucraine",,,,,"[""Valid/Accettato"",""Services"",""Children""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""municipality"":""Unione Alto Ferrarese"",""state"":""Emilia-Romagna"",""town"":""Cento""},""boundingbox"":[""44.705628"",""44.8381841"",""11.2461129"",""11.3880712""],""class"":""boundary"",""display_name"":""Cento, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5919924514729962,""lat"":""44.7274395"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2903029"",""osm_id"":43506,""osm_type"":""relation"",""place_id"":283662905,""type"":""administrative""},""mode"":""autocomplete""},""description"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Facciamo rete accoglienza solidale a Cento"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":true,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""A Cento \u2018Facciamo rete\u2019 - accoglienza solidale offre  servizi ai rifugiati dall\u2019Ucraina"",""url"":""https://www.facebook.com/groups/ukrainehelpit/permalink/468223791713241/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: true
-  transport: false
-  healthcare: false
-  Legal: true
-  translation: true
-  job: false
-  psychologicalSupport: true
-  Children: true
-  disability: false
-  women: false
-  education: false
-offerFromWho: Facciamo rete accoglienza solidale a Cento
-title: A Cento ‘Facciamo rete’ - accoglienza solidale offre  servizi ai rifugiati
-  dall’Ucraina
-recipients: ''
-description: ''
-url: https://www.facebook.com/groups/ukrainehelpit/permalink/468223791713241/
-address:
-  mode: autocomplete
-  address:
-    place_id: 283662905
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 43506
-    boundingbox:
-    - '44.705628'
-    - '44.8381841'
-    - '11.2461129'
-    - '11.3880712'
-    lat: '44.7274395'
-    lon: '11.2903029'
-    display_name: Cento, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, Italia
-    class: boundary
-    type: administrative
-    importance: 0.5919924514729962
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      town: Cento
-      municipality: Unione Alto Ferrarese
-      county: Ferrara
-      state: Emilia-Romagna
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/400,1185349079,2022-03-29 21:43:34,2022-03-29 20:00:13,Alla Fiera del Mediterraneo di Palermo apre centro di prima accoglienza per profughi ucraini,37.8819449,13.609543686318478,Sicilia,Palermo,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""healthcare""]",,,"{""Posizione"":""37.8819449 13.609543686318478"",""description"":""Inaugurato il centro di prima accoglienza per i profughi ucraini alla Fiera del Mediterraneo. La struttura sorge al padiglione 4 della Fiera: un locale a due piani interamente rimesso a nuovo grazie al lavoro dei volontari della protezione civile comunale che prestano servizio all\u2019hub."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.comune.palermo.it/palermo-informa-dettaglio.php?tp=1&id=34283"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""state"":""Sicilia""},""boundingbox"":[""37.5393034"",""38.7206781"",""12.9287426"",""14.2943904""],""class"":""boundary"",""display_name"":""Palermo, Sicilia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5763208078597727,""lat"":""37.8819449"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.609543686318478"",""osm_id"":39295,""osm_type"":""relation"",""place_id"":283839135,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Palermo - Inaugurazione centro accoglienza profughi ucraini alla Fiera del Mediterraneo""}","<pre><yamldata>
 title: Palermo - Inaugurazione centro accoglienza profughi ucraini alla Fiera del
   Mediterraneo
@@ -441,59 +539,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 37.8819449 13.609543686318478
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/399,1185341282,2022-03-29 21:40:14,2022-03-29 19:51:31,Comune di Palermo attiva indirizzo email per supporto e accoglienza delle persone in arrivo dall’Ucraina,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""state"":""Sicilia""},""boundingbox"":[""38.0499137"",""38.2245866"",""13.242219"",""13.4520856""],""class"":""boundary"",""display_name"":""Palermo, Sicilia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7661148171447915,""lat"":""38.1112268"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3524434"",""osm_id"":39513,""osm_type"":""relation"",""place_id"":284307182,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Comune di Palermo ha attivato l'indirizzo mail aiutiucraina@comune.palermo.it\ndedicato alla situazione ucraina per accompagnare e facilitare le pratiche di ricongiungimenti e mettere in collegamento i profughi con le associazioni del terzo settore e con privati cittadini che, in alcuni casi, hanno gi\u00e0 espresso ed intendono dare la loro disponibilit\u00e0 per accoglierli."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Palermo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Palermo attiva una mail dedicata per aiuti alle persone in arrivo"",""url"":""https://www.comune.palermo.it/palermo-informa-dettaglio.php?id=34071&tipo=1""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: true
-  transport: false
-  healthcare: false
-  Legal: true
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Comune di Palermo
-title: Comune di Palermo attiva una mail dedicata per aiuti alle persone in arrivo
-recipients: ''
-description: 'Il Comune di Palermo ha attivato l''indirizzo mail aiutiucraina@comune.palermo.it
-
-  dedicato alla situazione ucraina per accompagnare e facilitare le pratiche di ricongiungimenti
-  e mettere in collegamento i profughi con le associazioni del terzo settore e con
-  privati cittadini che, in alcuni casi, hanno già espresso ed intendono dare la loro
-  disponibilità per accoglierli.'
-url: https://www.comune.palermo.it/palermo-informa-dettaglio.php?id=34071&tipo=1
-address:
-  mode: autocomplete
-  address:
-    place_id: 284307182
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 39513
-    boundingbox:
-    - '38.0499137'
-    - '38.2245866'
-    - '13.242219'
-    - '13.4520856'
-    lat: '38.1112268'
-    lon: '13.3524434'
-    display_name: Palermo, Sicilia, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7661148171447915
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Palermo
-      county: Palermo
-      state: Sicilia
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/410,1185391419,2022-03-29 20:44:48,2022-03-29 20:42:38,Animali d'affezione al seguito dei profughi provenienti dall'Ucraina: obbligo di segnalazione all'ATS Brianza ,45.6183103,9.2081245,Lombardia,Monza e della Brianza,"[""Valid/Accettato"",""News"",""healthcare""]",,,"{""Posizione"":""45.6183103 9.2081245"",""description"":""Animali d'affezione al seguito dei profughi provenienti dall'Ucraina: obbligo di segnalazione all'ATS Brianza"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.comune.desio.mb.it/it/news/animali-d-affezione-al-seguito-dei-profughi-provenienti-dall-ucraina"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Monza e della Brianza"",""postcode"":""20832"",""state"":""Lombardia"",""town"":""Desio""},""boundingbox"":[""45.5960657"",""45.6365128"",""9.174791"",""9.2349795""],""class"":""boundary"",""display_name"":""Desio, Monza e della Brianza, Lombardia, 20832, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.59470306841754,""lat"":""45.6183103"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2081245"",""osm_id"":45466,""osm_type"":""relation"",""place_id"":284616605,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Animali d'affezione al seguito dei profughi provenienti dall'Ucraina: obbligo di segnalazione all'ATS Brianza""}","<pre><yamldata>
 title: 'Animali d''affezione al seguito dei profughi provenienti dall''Ucraina: obbligo
@@ -10875,51 +10920,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: help
 submit: true
 Posizione: 44.8220826 7.2290893
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/109,1167410538,2022-03-18 16:37:07,2022-03-12 21:52:19,Protezione civile di Milano cerca traduttori in lingua ucraina per accoglienza profughi,45.4902382,9.1945908,Lombardia,Milano,"[""Valid/Accettato"",""Help"",""translation"",""job""]",,,"{""Posizione"":""45.4902382 9.1945908"",""description"":""La Protezione civile di Milano cerca traduttori in lingua ucraina per accoglienza profughi."",""email"":""cristiano.cozzi@comune.milano.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""17"",""office"":""Protezione civile"",""postcode"":""20159"",""quarter"":""Isola"",""road"":""Via Ippolito Rosellini"",""state"":""Lombardia"",""suburb"":""Municipio 2""},""boundingbox"":[""45.4901882"",""45.4902882"",""9.1945408"",""9.1946408""],""class"":""office"",""display_name"":""Protezione civile, 17, Via Ippolito Rosellini, Isola, Municipio 2, Milano, Lombardia, 20159, Italia"",""importance"":0.401,""lat"":""45.4902382"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1945908"",""osm_id"":6084251988,""osm_type"":""node"",""place_id"":66708597,""type"":""government""},""mode"":""autocomplete""},""nameSurname"":""Protezione civile Milano"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""traduttori in lingua ucraina per accoglienza profughi"",""url"":""https://twitter.com/ukraineinfohelp/status/1501802781044314115?s=21""}","<pre><yamldata>
-nameSurname: Protezione civile Milano
-phoneNumber: ''
-email: cristiano.cozzi@comune.milano.it
-title: traduttori in lingua ucraina per accoglienza profughi
-recipients: ''
-description: La Protezione civile di Milano cerca traduttori in lingua ucraina per
-  accoglienza profughi.
-url: https://twitter.com/ukraineinfohelp/status/1501802781044314115?s=21
-location:
-  mode: autocomplete
-  address:
-    place_id: 66708597
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 6084251988
-    boundingbox:
-    - '45.4901882'
-    - '45.4902882'
-    - '9.1945408'
-    - '9.1946408'
-    lat: '45.4902382'
-    lon: '9.1945908'
-    display_name: Protezione civile, 17, Via Ippolito Rosellini, Isola, Municipio
-      2, Milano, Lombardia, 20159, Italia
-    class: office
-    type: government
-    importance: 0.401
-    address:
-      office: Protezione civile
-      house_number: '17'
-      road: Via Ippolito Rosellini
-      quarter: Isola
-      suburb: Municipio 2
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20159'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 45.4902382 9.1945908
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/154,1170200396,2022-03-18 16:36:09,2022-03-15 20:25:58,Regione Abruzzo cerca mediatori linguistici e famiglie per accoglienza minori ucraini soli o con famiglia,42.365814400000005,13.374276790275314,Abruzzo,L'Aquila,"[""Valid/Accettato"",""Help"",""hospitality"",""translation"",""job"",""Children"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""42.365814400000005 13.374276790275314"",""description"":""La Garante dell\u2019Infanzia e dell\u2019Adolescenza della Regione Abruzzo, d\u2019intesa con il Prefetto de L\u2019Aquila e sentito il Presidente del Tribunale de L\u2019Aquila, ha avviato, unitamente alle Caritas Diocesane di L\u2019Aquila, Chieti-Vasto e Teramo, una ricognizione finalizzata alla raccolta delle disponibilit\u00e0 di nuclei famigliari residenti in Abruzzo, all\u2019accoglienza temporanea dei minori non accompagnati e/o delle famiglie con minori in fuga dalle zone del conflitto dell\u2019Ucraina, nonch\u00e9 alla formazione di un elenco di mediatori culturali e linguistici, con il compito di facilitare gli ingressi in famiglia.\nA tal fine chiunque fosse disponibile ad accogliere dei minori o famiglie con minori, per un periodo da definire caso per caso o facilitare, nel ruolo di mediatore culturale, il percorso di inserimento, pu\u00f2 manifestare la propria disponibilit\u00e0 attraverso la compilazione di uno dei due allegati moduli (mediatori culturali o famiglie e singoli) da inviare all\u2019indirizzo di posta elettronica ucraina.garanteinfanzia@crabruzzo.it unitamente ad documento di identit\u00e0 in corso di validit\u00e0.\nAl link i moduli da compilare e ulteriori info."",""email"":""ucraina.garanteinfanzia@crabruzzo.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""building"":""Palazzo Silone"",""city"":""L'Aquila"",""country"":""Italia"",""country_code"":""it"",""county"":""L'Aquila"",""house_number"":""6"",""neighbourhood"":""Contrada Romani"",""postcode"":""67100"",""road"":""Via Leonardo da Vinci"",""state"":""Abruzzo""},""boundingbox"":[""42.365538"",""42.3661063"",""13.3737095"",""13.3747562""],""class"":""building"",""display_name"":""Palazzo Silone, 6, Via Leonardo da Vinci, Contrada Romani, L'Aquila, Abruzzo, 67100, Italia"",""importance"":1.1354342386327727,""lat"":""42.365814400000005"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.374276790275314"",""osm_id"":591326251,""osm_type"":""way"",""place_id"":225266677,""type"":""yes""},""mode"":""autocomplete""},""nameSurname"":""Garante Infanzia Regione Abruzzo"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Regione Abruzzo cerca mediatori linguistici e famiglie per accoglienza minori ucraini soli o con famiglia"",""url"":""https://m.provincia.teramo.it/sala-stampa/emergenza-ucraina-la-regione-abruzzo-cerca-famiglie-volontarie-per-l2019accoglienza-e-mediatori-linguistici/""}","<pre><yamldata>
 nameSurname: Garante Infanzia Regione Abruzzo
