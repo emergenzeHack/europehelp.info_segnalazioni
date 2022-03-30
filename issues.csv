@@ -1,4 +1,43 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/426,1187003318,2022-03-30 21:20:34,2022-03-30 21:18:47,Con Itabus viaggi gratuiti in tutta Italia per i profughi ucraini,,,,,"[""Valid/Accettato"",""News"",""Services"",""transport""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""A bordo dei bus di Itabus i profughi ucraini potranno viaggiare gratuitamente in tutta Italia. Per viaggiare con Itabus, bisogna presentarsi alla fermata Itabus e mostrare un documento di riconoscimento ai nostri autisti. L\u2019accesso al bus \u00e8 subordinato alla disponibilit\u00e0 dei posti. Per prevenire la diffusione del contagio da Coronavirus COVID-19, per salire a bordo sar\u00e0 necessario essere dotati di una delle seguenti attestazioni: -            Certificato di avvenuta vaccinazione per covid-19, o -            Esito negativo del test molecolare o antigenico rapido.\n\u00c8 inoltre obbligatorio l\u2019utilizzo delle mascherine FFP2.\nPer maggiori informazioni contattare il Servizio Clienti allo 0688938232."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Itabus"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""Con Itabus viaggi gratuiti in tutta Italia per i profughi ucraini"",""url"":""https://t.co/fh7yBFa5gX""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: true
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Itabus
+title: Con Itabus viaggi gratuiti in tutta Italia per i profughi ucraini
+recipients: ''
+description: 'A bordo dei bus di Itabus i profughi ucraini potranno viaggiare gratuitamente
+  in tutta Italia.
+ Per viaggiare con Itabus, bisogna presentarsi alla fermata Itabus e mostrare un
+  documento di riconoscimento ai nostri autisti.
+L’accesso al bus è subordinato alla disponibilità dei posti.
+Per prevenire la diffusione del contagio da Coronavirus
+  COVID-19, per salire a bordo sarà necessario essere dotati di una delle seguenti
+  attestazioni:
+  -            Certificato di avvenuta vaccinazione per covid-19, o
+  -            Esito negativo del test molecolare o antigenico rapido.
+
+È inoltre obbligatorio l’utilizzo delle mascherine FFP2.
+
+Per maggiori informazioni contattare il Servizio Clienti allo 0688938232.'
+url: https://t.co/fh7yBFa5gX
+address:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/425,1186881715,2022-03-30 19:17:55,2022-03-30 19:14:55,"Csv Salento, online le iniziative a supporto dell’emergenza Ucraina promosse dal terzo settore di Lecce e Brindisi",,,,,"[""Valid/Accettato"",""Services"",""fundraising"",""materialGoods"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""city"":""Lecce"",""country"":""Italia"",""country_code"":""it"",""county"":""Lecce"",""postcode"":""73100"",""road"":""Via Merine"",""state"":""Puglia""},""boundingbox"":[""40.3478132"",""40.3478392"",""18.1847044"",""18.1848127""],""class"":""highway"",""display_name"":""Via Merine, Lecce, Puglia, 73100, Italia"",""importance"":0.5199999999999999,""lat"":""40.3478392"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""18.1847044"",""osm_id"":203054412,""osm_type"":""way"",""place_id"":148811081,""type"":""secondary""},""mode"":""autocomplete""},""description"":""Sul sito del Centro Servizi per il Volontariato del Salento la sezione SOS Ucraina dedicate alle iniziative a supporto dell\u2019emergenza Ucraina promosse dal terzo settore del territorio di Brindisi e Lecce: raccolte beni, raccolte fondi, servizi di accoglienza e orientamento per i profughi. E poi news e aggiornamenti dalla Protezione civile e dai Comuni."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Csv Salento"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Csv Salento, online le iniziative a supporto dell\u2019emergenza Ucraina promosse dal terzo settore di Lecce e Brindisi"",""url"":""https://www.csvbrindisilecce.it/sos-ucraina/""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
