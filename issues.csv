@@ -1,4 +1,207 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/435,1188199734,2022-03-31 15:05:55,2022-03-31 14:43:11,"Catanzaro, Sportello dedicato presso la Questura",,,,,"[""Valid/Accettato"",""Services"",""Legal""]",,,"{""address"":{""address"":{""address1"":""Via Barlaam Da Seminara"",""address2"":"""",""city"":""Catanzaro"",""country"":"""",""state"":""Italia"",""zip"":""88100""},""mode"":""manual""},""description"":""Per la gestione delle richieste dei cittadini ucraini tendenti a regolarizzare la loro posizione sul territorio italiano, sono stati istituiti servizi dedicati per il ricevimento del pubblico nelle giornate di luned\u00ec e mercoled\u00ec dalle ore 14:30 alle ore 18:30, e il sabato dalle ore 9:00 alle ore 12:00.\nIl servizio dedicato \u00e8 attivo presso gli sportelli dell\u2019Ufficio Immigrazione della Questura di Catanzaro e del Commissariato di P.S. di Lamezia Terme.\nIndirizzi posta elettronica certificata:\nimmig.quest.cz@pecps.poliziadistato.it per Ufficio Immigrazione della Questura di Catanzaro;\ncomm.lameziaterme.cz@pecps.poliziadistato.it per il Commissariato di P.S. di Lamezia Terme, sito in Via Perugini."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Questura di Catanzaro"",""recipients"":""cittadini ucraini"",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Sportello dedicato"",""url"":""https://questure.poliziadistato.it/it/Catanzaro/articolo/1236622f35da70f06683470677""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Questura di Catanzaro
+title: Sportello dedicato
+recipients: cittadini ucraini
+description: 'Per la gestione delle richieste dei cittadini ucraini tendenti a regolarizzare
+  la loro posizione sul territorio italiano, sono stati istituiti servizi dedicati
+  per il ricevimento del pubblico nelle giornate di lunedì e mercoledì dalle ore 14:30
+  alle ore 18:30, e il sabato dalle ore 9:00 alle ore 12:00.
+
+  Il servizio dedicato è attivo presso gli sportelli dell’Ufficio Immigrazione della
+  Questura di Catanzaro e del Commissariato di P.S. di Lamezia Terme.
+
+  Indirizzi posta elettronica certificata:
+
+  immig.quest.cz@pecps.poliziadistato.it per Ufficio Immigrazione della Questura di
+  Catanzaro;
+
+  comm.lameziaterme.cz@pecps.poliziadistato.it per il Commissariato di P.S. di Lamezia
+  Terme, sito in Via Perugini.'
+url: https://questure.poliziadistato.it/it/Catanzaro/articolo/1236622f35da70f06683470677
+address:
+  mode: manual
+  address:
+    address1: Via Barlaam Da Seminara
+    address2: ''
+    city: Catanzaro
+    state: Italia
+    country: ''
+    zip: '88100'
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/434,1188189863,2022-03-31 15:04:50,2022-03-31 14:37:04,"Catanzaro, raccolta beni prima necessità",,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address1"":""via Fontana Vecchia, 50"",""address2"":"""",""city"":""Catanzaro"",""country"":"""",""state"":""Italia"",""zip"":""88100""},""mode"":""manual""},""description"":""dalle ore 10 alle 12 \u00e8 attivo negli uffici dell\u2019assessorato alle Politiche sociali il punto di raccolta di beni di prima necessit\u00e0 da spedire a sostegno del popolo ucraino"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Assessorato alle Politiche Sociali"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""raccolta beni prima necessit\u00e0"",""url"":""""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Assessorato alle Politiche Sociali
+title: raccolta beni prima necessità
+recipients: ''
+description: dalle ore 10 alle 12 è attivo negli uffici dell’assessorato alle Politiche
+  sociali il punto di raccolta di beni di prima necessità da spedire a sostegno del
+  popolo ucraino
+url: ''
+address:
+  mode: manual
+  address:
+    address1: via Fontana Vecchia, 50
+    address2: ''
+    city: Catanzaro
+    state: Italia
+    country: ''
+    zip: '88100'
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/433,1188164028,2022-03-31 15:03:55,2022-03-31 14:21:52,"Soverato, Raccolta farmaci",,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Catanzaro"",""postcode"":""88068"",""state"":""Calabria"",""town"":""Soverato""},""boundingbox"":[""38.6786976"",""38.7068151"",""16.5064965"",""16.5586013""],""class"":""boundary"",""display_name"":""Soverato, Catanzaro, Calabria, 88068, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5631887180328243,""lat"":""38.687717"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.5500442"",""osm_id"":39700,""osm_type"":""relation"",""place_id"":283231242,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Raccolta DI FARMACI E MEDICAZIONI in collaborazione con le farmacie del territorio.\nAl momento hanno aderito :\n\ud83d\udfe1Cardinale Farmacia Staglian\u00f2 \n\ud83d\udd35Davoli M.na Farmacia Fiorenza\n\ud83d\udfe1Calalunga e Montauro Farmacia  Costa degli Aranci\n\ud83d\udd35Montepaone Farmacia Murone\n\ud83d\udfe1Montepaone Lido Farmacia Trezza\n\ud83d\udd35Montepaone Parafarmacia Pirritano \n\ud83d\udfe1San Vito Farmacia Cimino\n\ud83d\udd35Satriano M.na e Sup. Farmacia Murdolo\n\ud83d\udfe1Soverato Farmacia Sangiuliano\n\ud83d\udd35Soverato Sup. Farmacia Chiefari\n\ud83d\udfe1Stalett\u00ec Farmacia Marino\n\ud83d\udd35Torre di Ruggiero Farmacia Procopio"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Misericordia di Soverato"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Raccolta farmaci"",""url"":""https://www.facebook.com/MisericordiaSoverato/posts/493957232222837""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Misericordia di Soverato
+title: Raccolta farmaci
+recipients: ''
+description: ""Raccolta DI FARMACI E MEDICAZIONI in collaborazione con le farmacie\
+  \ del territorio.\nAl momento hanno aderito :\n\U0001F7E1Cardinale Farmacia Staglianò\
+  \ \n\U0001F535Davoli M.na Farmacia Fiorenza\n\U0001F7E1Calalunga e Montauro Farmacia\
+  \  Costa degli Aranci\n\U0001F535Montepaone Farmacia Murone\n\U0001F7E1Montepaone\
+  \ Lido Farmacia Trezza\n\U0001F535Montepaone Parafarmacia Pirritano \n\U0001F7E1\
+  San Vito Farmacia Cimino\n\U0001F535Satriano M.na e Sup. Farmacia Murdolo\n\U0001F7E1\
+  Soverato Farmacia Sangiuliano\n\U0001F535Soverato Sup. Farmacia Chiefari\n\U0001F7E1\
+  Stalettì Farmacia Marino\n\U0001F535Torre di Ruggiero Farmacia Procopio""
+url: https://www.facebook.com/MisericordiaSoverato/posts/493957232222837
+address:
+  mode: autocomplete
+  address:
+    place_id: 283231242
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 39700
+    boundingbox:
+    - '38.6786976'
+    - '38.7068151'
+    - '16.5064965'
+    - '16.5586013'
+    lat: '38.687717'
+    lon: '16.5500442'
+    display_name: Soverato, Catanzaro, Calabria, 88068, Italia
+    class: boundary
+    type: administrative
+    importance: 0.5631887180328243
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      town: Soverato
+      county: Catanzaro
+      state: Calabria
+      postcode: '88068'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/432,1188152790,2022-03-31 15:02:40,2022-03-31 14:14:58,"Cropani, Raccolta di beni di prima necessità",,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Catanzaro"",""state"":""Calabria"",""village"":""Cropani""},""boundingbox"":[""38.9043445"",""39.004938"",""16.7348222"",""16.8370515""],""class"":""boundary"",""display_name"":""Cropani, Catanzaro, Calabria, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.4939491882884298,""lat"":""38.967791"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.781308"",""osm_id"":39740,""osm_type"":""relation"",""place_id"":284120198,""type"":""administrative""},""mode"":""autocomplete""},""description"":""PUNTO DI RACCOLTA DI BENI DI PRIMA NECESSIT\u00c0:\n(CIBO A LUNGA CONSERVAZIONE, COPERTE, ECC)\n-SEDE PRO LOCO IN CROPANI SUPERIORE PIAZZA DUOMO 1 DALLE ORE 10:00 ALLE ORE 12:00 (Lun-Merc-Ven)\n-CENTRO COMMERCIALE LA TORRE\nDALLE ORE 17:00 ALLE ORE 19:00.\n-CARRELLO SOLIDALE PRESSO CRAI EXTRA CENTRO COMMERCIALE LA TORRE\nPUNTI DI RACCOLTA FARMACI E PARAFARMACI:\n-PRESSO FARMACIA RISOLEO,  DI CROPANI MARINA E CROPANI SUPERIORE.\n-PARAFARMACIA DOTT.SSA COLOSIMO CROPANI MARINA.\n-PARAFARMACIA DOTT.SSA CORSI CROPANI MARINA."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Pro Loco di Cropani"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Raccolta di beni di prima necessit\u00e0"",""url"":""https://www.facebook.com/permalink.php?story_fbid=2368758479933320&id=192233280919195""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Pro Loco di Cropani
+title: Raccolta di beni di prima necessità
+recipients: ''
+description: 'PUNTO DI RACCOLTA DI BENI DI PRIMA NECESSITÀ:
+
+  (CIBO A LUNGA CONSERVAZIONE, COPERTE, ECC)
+
+  -SEDE PRO LOCO IN CROPANI SUPERIORE PIAZZA DUOMO 1 DALLE ORE 10:00 ALLE ORE 12:00
+  (Lun-Merc-Ven)
+
+  -CENTRO COMMERCIALE LA TORRE
+
+  DALLE ORE 17:00 ALLE ORE 19:00.
+
+  -CARRELLO SOLIDALE PRESSO CRAI EXTRA CENTRO COMMERCIALE LA TORRE
+
+  PUNTI DI RACCOLTA FARMACI E PARAFARMACI:
+
+  -PRESSO FARMACIA RISOLEO,  DI CROPANI MARINA E CROPANI SUPERIORE.
+
+  -PARAFARMACIA DOTT.SSA COLOSIMO CROPANI MARINA.
+
+  -PARAFARMACIA DOTT.SSA CORSI CROPANI MARINA.'
+url: https://www.facebook.com/permalink.php?story_fbid=2368758479933320&id=192233280919195
+address:
+  mode: autocomplete
+  address:
+    place_id: 284120198
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 39740
+    boundingbox:
+    - '38.9043445'
+    - '39.004938'
+    - '16.7348222'
+    - '16.8370515'
+    lat: '38.967791'
+    lon: '16.781308'
+    display_name: Cropani, Catanzaro, Calabria, Italia
+    class: boundary
+    type: administrative
+    importance: 0.4939491882884298
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      village: Cropani
+      county: Catanzaro
+      state: Calabria
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/431,1188131276,2022-03-31 15:00:24,2022-03-31 14:00:38,"Tropea, raccolta generi alimentari",,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Vibo Valentia"",""postcode"":""89861"",""road"":""Via Glorizio"",""state"":""Calabria"",""village"":""Tropea""},""boundingbox"":[""38.6777019"",""38.6777943"",""15.897552"",""15.8983116""],""class"":""highway"",""display_name"":""Via Glorizio, Tropea, Vibo Valentia, Calabria, 89861, Italia"",""importance"":0.3,""lat"":""38.6777943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.8978947"",""osm_id"":184344917,""osm_type"":""way"",""place_id"":145586521,""type"":""residential""},""mode"":""autocomplete""},""description"":""Attivato a Tropea il centro raccolta di generi alimentari a lunga conservazione, detersivi e materiale per il primo soccorso da destinare al popolo ucraino al Centro di Solidariet\u00e0 \u201cDon Mottola\u201c. L\u2019iniziativa si avvale della collaborazione della Protezione Civile e delle parrocchie di Tropea."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Centro di Solidariet\u00e0 Don Mottola"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""raccolta generi alimentari"",""url"":""https://www.csvcatanzaro.it/le-iniziative-a-catanzaro-e-provincia-a-favore-dellucraina-continui-aggiornamenti/""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
