@@ -1,4 +1,56 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/431,1188131276,2022-03-31 15:00:24,2022-03-31 14:00:38,"Tropea, raccolta generi alimentari",,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Vibo Valentia"",""postcode"":""89861"",""road"":""Via Glorizio"",""state"":""Calabria"",""village"":""Tropea""},""boundingbox"":[""38.6777019"",""38.6777943"",""15.897552"",""15.8983116""],""class"":""highway"",""display_name"":""Via Glorizio, Tropea, Vibo Valentia, Calabria, 89861, Italia"",""importance"":0.3,""lat"":""38.6777943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.8978947"",""osm_id"":184344917,""osm_type"":""way"",""place_id"":145586521,""type"":""residential""},""mode"":""autocomplete""},""description"":""Attivato a Tropea il centro raccolta di generi alimentari a lunga conservazione, detersivi e materiale per il primo soccorso da destinare al popolo ucraino al Centro di Solidariet\u00e0 \u201cDon Mottola\u201c. L\u2019iniziativa si avvale della collaborazione della Protezione Civile e delle parrocchie di Tropea."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Centro di Solidariet\u00e0 Don Mottola"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""raccolta generi alimentari"",""url"":""https://www.csvcatanzaro.it/le-iniziative-a-catanzaro-e-provincia-a-favore-dellucraina-continui-aggiornamenti/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Centro di Solidarietà Don Mottola
+title: raccolta generi alimentari
+recipients: ''
+description: Attivato a Tropea il centro raccolta di generi alimentari a lunga conservazione,
+  detersivi e materiale per il primo soccorso da destinare al popolo ucraino al Centro
+  di Solidarietà “Don Mottola“. L’iniziativa si avvale della collaborazione della
+  Protezione Civile e delle parrocchie di Tropea.
+url: https://www.csvcatanzaro.it/le-iniziative-a-catanzaro-e-provincia-a-favore-dellucraina-continui-aggiornamenti/
+address:
+  mode: autocomplete
+  address:
+    place_id: 145586521
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 184344917
+    boundingbox:
+    - '38.6777019'
+    - '38.6777943'
+    - '15.897552'
+    - '15.8983116'
+    lat: '38.6777943'
+    lon: '15.8978947'
+    display_name: Via Glorizio, Tropea, Vibo Valentia, Calabria, 89861, Italia
+    class: highway
+    type: residential
+    importance: 0.3
+    address:
+      road: Via Glorizio
+      village: Tropea
+      county: Vibo Valentia
+      state: Calabria
+      postcode: '89861'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/430,1188104253,2022-03-31 14:55:39,2022-03-31 13:44:37,"Reggio Calabria, Sportello informativo",,,,,"[""Valid/Accettato"",""Services"",""hospitality""]",,,"{""address"":{""address"":{""address1"":""Via Campanella Tommaso, 63"",""address2"":"""",""city"":""Reggio Calabria"",""country"":"""",""state"":""Italia"",""zip"":""89127""},""mode"":""manual""},""description"":""La Caritas di Reggio Calabria ha dato disponibilit\u00e0 di settanta i posti per l\u2019accoglienza diffusa in parrocchie e famiglie, che saranno supportate per l\u2019accoglienza e l\u2019animazione. Per chi volesse aderire all\u2019iniziativa e avere maggiori indicazioni \u00e8 stato creato un ufficio - Caritas Emergenza Ucraina - sito in Via Tommaso Campanella, che rimane aperto il luned\u00ec, il marted\u00ec, il gioved\u00ec ed il venerd\u00ec dalle 9.00 alle 12.00.\n\nPer maggiori informazioni si pu\u00f2 telefonare al n. 0965 385553 o al 385550 o all\u2019indirizzo caritasreggiocalabria@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Caritas Reggio Calabria"",""recipients"":""volontari che vogliano offrire ospitalit\u00e0 ai rifugiati ucraini"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Sportello informativo"",""url"":""https://www.avveniredicalabria.it/emergenza-ucraina-caritas-reggio-calabria-apre-sportello/?fbclid=IwAR10pI5rdFQenZhdjUMSm0BReVheKC_V-JSrhikI3AMBc6vJfHbns4Xx_h8""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
