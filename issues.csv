@@ -1,4 +1,63 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/439,1188975649,2022-03-31 23:01:24,2022-03-31 22:59:21,"A Salerno consorzio La Rada con Comune di Fisciano e Fondazione Comunità Salernitana onlus, offre corsi di italiano a rifugiati ucraini",,,,,"[""Valid/Accettato"",""Services"",""translation"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Salerno"",""country"":""Italia"",""country_code"":""it"",""county"":""Salerno"",""neighbourhood"":""Mariconda"",""postcode"":""84132"",""road"":""Via Tanagro"",""state"":""Campania""},""boundingbox"":[""40.6590796"",""40.6603397"",""14.8079322"",""14.8095195""],""class"":""highway"",""display_name"":""Via Tanagro, Mariconda, Salerno, Campania, 84132, Italia"",""importance"":0.4,""lat"":""40.659984"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.8089431"",""osm_id"":672718674,""osm_type"":""way"",""place_id"":236690877,""type"":""residential""},""mode"":""autocomplete""},""description"":""Corsi gratuiti di italiano aperti a tutti, per chi \u00e8 arrivato da poco o pochissimo oppure \u00e8 qui gi\u00e0 da un bel po'! \n\ud83d\udde3\ufe0f\ud83e\udd0c \ud83c\udf55\u26bd \ud83c\udf5d \u2615 \u2764\ufe0f\nI corsi si terranno a #Salerno e #Fisciano con docenti qualificati e con la possibilit\u00e0 di fare un esame finale per la certificazione. \nLe attivit\u00e0 rientrano nel progetto Passaparola e sono state avviate grazie alla bella collaborazione con il Comune di Fisciano e con Fondazione Comunit\u00e0 Salernitana onlus.\n\u260e\ufe0f info: 0892583316 oppure 3402231971\n\nper iscriversi:\ncorso a Fisciano\n\ud83d\udc47\nhttps://forms.gle/PXndUJRRCnWuPrQ6A\n\ncorso a Salerno \n\ud83d\udc47\nPomeriggio  https://forms.gle/itEBoczTAH8YrsYFA\nMattina  https://forms.gle/iB8GRMTe6JkC271RA"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Fisciano e con Fondazione Comunit\u00e0 Salernitana onlus."",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""A Salerno consorzio La Rada con Comune di Fisciano e con Fondazione Comunit\u00e0 Salernitana onlus, offre corsi di italiano a rifugiati ucraini"",""url"":""https://www.facebook.com/1609460182627051/posts/3036717986567923/?d=n""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: true
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Comune di Fisciano e con Fondazione Comunità Salernitana onlus.
+title: A Salerno consorzio La Rada con Comune di Fisciano e con Fondazione Comunità
+  Salernitana onlus, offre corsi di italiano a rifugiati ucraini
+recipients: ''
+description: ""Corsi gratuiti di italiano aperti a tutti, per chi è arrivato da poco\
+  \ o pochissimo oppure è qui già da un bel po'! \n\U0001F5E3️\U0001F90C \U0001F355\
+  ⚽ \U0001F35D ☕ ❤️\nI corsi si terranno a #Salerno e #Fisciano con docenti qualificati\
+  \ e con la possibilità di fare un esame finale per la certificazione. \nLe attività\
+  \ rientrano nel progetto Passaparola e sono state avviate grazie alla bella collaborazione\
+  \ con il Comune di Fisciano e con Fondazione Comunità Salernitana onlus.\n☎️ info:\
+  \ 0892583316 oppure 3402231971\n\nper iscriversi:\ncorso a Fisciano\n\U0001F447\n\
+  https://forms.gle/PXndUJRRCnWuPrQ6A\n\ncorso a Salerno \n\U0001F447\nPomeriggio\
+  \  https://forms.gle/itEBoczTAH8YrsYFA\nMattina  https://forms.gle/iB8GRMTe6JkC271RA""
+url: https://www.facebook.com/1609460182627051/posts/3036717986567923/?d=n
+address:
+  mode: autocomplete
+  address:
+    place_id: 236690877
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 672718674
+    boundingbox:
+    - '40.6590796'
+    - '40.6603397'
+    - '14.8079322'
+    - '14.8095195'
+    lat: '40.659984'
+    lon: '14.8089431'
+    display_name: Via Tanagro, Mariconda, Salerno, Campania, 84132, Italia
+    class: highway
+    type: residential
+    importance: 0.4
+    address:
+      road: Via Tanagro
+      neighbourhood: Mariconda
+      city: Salerno
+      county: Salerno
+      state: Campania
+      postcode: '84132'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/438,1188950601,2022-03-31 22:47:29,2022-03-31 22:42:19,Regione Piemonte : PIANO STRAORDINARIO PER L'ACCOGLIENZA DELLA POPOLAZIONE IN FUGA DALLA GUERRA,,,,,"[""Valid/Accettato"",""fundraising"",""useful contact"",""hospitality"",""healthcare"",""document_data""]",,,"{""description"":""PIANO STRAORDINARIO PER L'ACCOGLIENZA DELLA POPOLAZIONE IN FUGA DALLA GUERRA"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://www.csvastialessandria.it/doc/2.%20PianoEmergenza_PiemonteUcraina_Aggiornamento30Marzo2022.pdf"",""location"":{""address"":{""address1"":""Piazza Castello, 165 Torino"",""address2"":"""",""city"":"""",""country"":"""",""state"":"""",""zip"":""""},""mode"":""manual""},""submit"":true,""title"":""Regione Piemonte : PIANO STRAORDINARIO PER L'ACCOGLIENZA DELLA POPOLAZIONE IN FUGA DALLA GUERRA""}","<pre><yamldata>
 title: 'Regione Piemonte : PIANO STRAORDINARIO PER L''ACCOGLIENZA DELLA POPOLAZIONE
   IN FUGA DALLA GUERRA'
