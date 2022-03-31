@@ -1,4 +1,237 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/429,1187025054,2022-03-31 17:45:27,2022-03-30 21:43:27,"Roma, trasporti gratis per tutti i rifugiati ucraini fino a cessata emergenza",,,,,"[""Valid/Accettato"",""Services"",""transport"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8896107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Atac annuncia: trasporti gratis per tutti i rifugiati ucraini \u201cfino a cessata emergenza\u201d. I rifugiati ucraini in Italia a causa della guerra che imperversa sul loro Paese non dovranno pi\u00f9 pagare il biglietto per il trasporto pubblico.\nAtac proceder\u00e0 a consentire l\u2019accesso gratuito al servizio di trasporto pubblico locale ai rifugiati ucraini, in conseguenza dei drammatici avvenimenti in atto, attraverso l\u2019esibizione del Codice STP, Straniero Temporaneamente Presente. E visto che potrebbero presentarsi le sempre ovvie complicazioni pratiche, Atac annuncia anche che sta lavorando alla creazione di un titolo elettronico di viaggio Metrebus ad hoc per consentire agli aventi diritto di viaggiare all\u2019interno di tutto il Lazio fino a cessata emergenza"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Atac Roma"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""Roma, trasporti gratis per tutti i rifugiati ucraini fino a cessata emergenza"",""url"":""https://t.co/t5OUeqwSEx""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: true
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Atac Roma
+title: Roma, trasporti gratis per tutti i rifugiati ucraini fino a cessata emergenza
+recipients: ''
+description: 'Atac annuncia: trasporti gratis per tutti i rifugiati ucraini “fino
+  a cessata emergenza”. I rifugiati ucraini in Italia a causa della guerra che imperversa
+  sul loro Paese non dovranno più pagare il biglietto per il trasporto pubblico.
+
+  Atac procederà a consentire l’accesso gratuito al servizio di trasporto pubblico
+  locale ai rifugiati ucraini, in conseguenza dei drammatici avvenimenti in atto,
+  attraverso l’esibizione del Codice STP, Straniero Temporaneamente Presente. E visto
+  che potrebbero presentarsi le sempre ovvie complicazioni pratiche, Atac annuncia
+  anche che sta lavorando alla creazione di un titolo elettronico di viaggio Metrebus
+  ad hoc per consentire agli aventi diritto di viaggiare all’interno di tutto il Lazio
+  fino a cessata emergenza'
+url: https://t.co/t5OUeqwSEx
+address:
+  mode: autocomplete
+  address:
+    place_id: 283767136
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 41485
+    boundingbox:
+    - '41.6556417'
+    - '42.1410285'
+    - '12.2344669'
+    - '12.8557603'
+    lat: '41.8933203'
+    lon: '12.4829321'
+    display_name: Roma, Roma Capitale, Lazio, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8896107180689524
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/413,1185394141,2022-03-31 17:45:02,2022-03-29 20:45:35,Comune di Cento (Ferrara) cerca volontari bilingue italiano/ucraino per attività di integrazione per minori,44.7274395,11.2903029,Emilia-Romagna,Ferrara,"[""Valid/Accettato"",""Help"",""Children"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""44.7274395 11.2903029"",""description"":""Il Comune di Cento \u00e8 alla ricerca di volontari bilingue per realizzare attivit\u00e0 di integrazione per minori. Se parli l'italiano e l'ucraino e ti va di donare un p\u00f2 del tuo tempo contatta: facciamorete@comune.cento.fe.it"",""email"":""facciamorete@comune.cento.fe.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""municipality"":""Unione Alto Ferrarese"",""state"":""Emilia-Romagna"",""town"":""Cento""},""boundingbox"":[""44.705628"",""44.8381841"",""11.2461129"",""11.3880712""],""class"":""boundary"",""display_name"":""Cento, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5919924514729962,""lat"":""44.7274395"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2903029"",""osm_id"":43506,""osm_type"":""relation"",""place_id"":283662905,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Comune di Cento"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Ricerca volontari bilingue"",""url"":""https://www.comune.cento.fe.it/aree-tematiche/volontariato-e-associazionismo/facciamo-rete-coordinamento-solidale-lintegrazione""}","<pre><yamldata>
+nameSurname: Comune di Cento
+phoneNumber: ''
+email: facciamorete@comune.cento.fe.it
+title: Ricerca volontari bilingue
+recipients: ''
+description: 'Il Comune di Cento è alla ricerca di volontari bilingue per realizzare
+  attività di integrazione per minori. Se parli l''italiano e l''ucraino e ti va di
+  donare un pò del tuo tempo contatta: facciamorete@comune.cento.fe.it'
+url: https://www.comune.cento.fe.it/aree-tematiche/volontariato-e-associazionismo/facciamo-rete-coordinamento-solidale-lintegrazione
+location:
+  mode: autocomplete
+  address:
+    place_id: 283662905
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43506
+    boundingbox:
+    - '44.705628'
+    - '44.8381841'
+    - '11.2461129'
+    - '11.3880712'
+    lat: '44.7274395'
+    lon: '11.2903029'
+    display_name: Cento, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, Italia
+    class: boundary
+    type: administrative
+    importance: 0.5919924514729962
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      town: Cento
+      municipality: Unione Alto Ferrarese
+      county: Ferrara
+      state: Emilia-Romagna
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 44.7274395 11.2903029
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/416,1186518117,2022-03-31 17:44:36,2022-03-30 14:07:37,"Ucraina, ""lasciapassare"" a chi ha aderito alla sanatoria 2020: potrà uscire dall’Italia per prestare aiuto ai familiari",,,,,"[""Valid/Accettato"",""News"",""telegram-channel"",""tweet""]",,,"{""description"":""I cittadini ucraini che hanno presentato domanda di emersione aderendo alla sanatoria del 2020 (ai sensi dell\u2019art. 103, Dl. 34) e che sono ancora in attesa del rilascio del permesso di soggiorno potranno finalmente uscire dall\u2019Italia per prestare soccorso ai propri familiari che scappano dalla guerra senza il rischio di vedersi negato un diritto per il riconoscimento del quale sono ancora in attesa da circa 2 anni: una piccola \u2018vittoria\u2019 che potrebbe cambiare la vita a migliaia di persone che lavorano come personale domestico tra gli oltre 18 mila che in piena pandemia hanno presentato istanza di emersione\u201d. \u00c8 quanto dichiara Andrea Zini, presidente di Assindatcolf, Associazione Nazionale dei Datori di Lavoro Domestico. \n\u201cNell\u2019ultimo importante Dpcm in materia di protezione temporanea e internazionale firmato dal presidente Draghi \u2013 spiega Zini \u2013 \u00e8 stato, infatti, anche concesso un \u2018lasciapassare\u2019 (art. 6) agli ucraini che hanno aderito alla sanatoria, cos\u00ec come aveva chiesto Assindatcolf dopo aver ricevuto numerose segnalazioni da parte di domestici bloccati in Italia, senza poter prestare soccorso ai propri familiari in fuga dalla guerra."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/6gOLPVeluT"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Ucraina, \""lasciapassare\"" a chi ha aderito alla sanatoria 2020: potr\u00e0 uscire dall\u2019Italia per prestare soccorso ai familiari""}","<pre><yamldata>
+title: 'Ucraina, ""lasciapassare"" a chi ha aderito alla sanatoria 2020: potrà uscire
+  dall’Italia per prestare soccorso ai familiari'
+description: ""I cittadini ucraini che hanno presentato domanda di emersione aderendo\
+  \ alla sanatoria del 2020 (ai sensi dell’art. 103, Dl. 34) e che sono ancora in\
+  \ attesa del rilascio del permesso di soggiorno potranno finalmente uscire dall’Italia\
+  \ per prestare soccorso ai propri familiari che scappano dalla guerra senza il rischio\
+  \ di vedersi negato un diritto per il riconoscimento del quale sono ancora in attesa\
+  \ da circa 2 anni: una piccola ‘vittoria’ che potrebbe cambiare la vita a migliaia\
+  \ di persone che lavorano come personale domestico tra gli oltre 18 mila che in\
+  \ piena pandemia hanno presentato istanza di emersione”. È quanto dichiara Andrea\
+  \ Zini, presidente di Assindatcolf, Associazione Nazionale dei Datori di Lavoro\
+  \ Domestico. \n“Nell’ultimo importante Dpcm in materia di protezione temporanea\
+  \ e internazionale firmato dal presidente Draghi – spiega Zini – è stato, infatti,\
+  \ anche concesso un ‘lasciapassare’ (art. 6) agli ucraini che hanno aderito alla\
+  \ sanatoria, così come aveva chiesto Assindatcolf dopo aver ricevuto numerose segnalazioni\
+  \ da parte di domestici bloccati in Italia, senza poter prestare soccorso ai propri\
+  \ familiari in fuga dalla guerra.""
+link: https://t.co/6gOLPVeluT
+location:
+  mode: autocomplete
+  address: {}
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/422,1186751336,2022-03-31 17:44:16,2022-03-30 17:08:10,Raccolta fondi di Rob de Matt Milano per Carovana Italia-Ucraina,45.4836265,9.2019507,Lombardia,Milano,"[""Valid/Accettato"",""fundraising"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.4836265 9.2019507"",""bicSwift"":"""",""causal"":""erogazione liberale \u201cemergenza ucraina\u201d"",""ccPostal"":"""",""description"":""Negli scorsi giorni pensato a lungo a cosa fare per le persone che fuggono dall\u2019Ucraina e dalla guerra. E non possiamo rimanere con le mani in mano.\nAbbiamo organizzato una carovana di beni di prima necessit\u00e0 insieme a Refugees Welcome Italia, I bambini dell\u2019est, St. Ambroeus FC, torneremo a Milano con un gruppo di persone che verranno accolte in famiglia.\nLa nostra carovana \u00e8 grande e abbiamo bisogno dell\u2019aiuto di tutti e tutte per sostenere i costi di trasporto.\nS\u00ec pu\u00f2 donare via Iban o Paypal al link https://www.paypal.com/donate/?hosted_button_id=HPM236G8F4ZRG"",""email"":"""",""heading"":""Rob de Matt"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT53A0501801600000012303772"",""label"":""fundraising"",""link"":""https://robdematt.org/ucraina/"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20124"",""quarter"":""Centrale"",""road"":""Via Vittor Pisani"",""state"":""Lombardia"",""suburb"":""Municipio 2""},""boundingbox"":[""45.4832739"",""45.4839798"",""9.2016028"",""9.202271""],""class"":""highway"",""display_name"":""Via Vittor Pisani, Centrale, Municipio 2, Milano, Lombardia, 20124, Italia"",""importance"":1.15,""lat"":""45.4836265"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2019507"",""osm_id"":160540743,""osm_type"":""way"",""place_id"":138475717,""type"":""tertiary""},""mode"":""autocomplete""},""submit"":true,""title"":""Rob de Matt Milano""}","<pre><yamldata>
+title: Rob de Matt Milano
+description: 'Negli scorsi giorni pensato a lungo a cosa fare per le persone che fuggono
+  dall’Ucraina e dalla guerra. E non possiamo rimanere con le mani in mano.
+
+  Abbiamo organizzato una carovana di beni di prima necessità insieme a Refugees Welcome
+  Italia, I bambini dell’est, St. Ambroeus FC, torneremo a Milano con un gruppo di
+  persone che verranno accolte in famiglia.
+
+  La nostra carovana è grande e abbiamo bisogno dell’aiuto di tutti e tutte per sostenere
+  i costi di trasporto.
+
+  Sì può donare via Iban o Paypal al link https://www.paypal.com/donate/?hosted_button_id=HPM236G8F4ZRG'
+heading: Rob de Matt
+iban: IT53A0501801600000012303772
+bicSwift: ''
+ccPostal: ''
+causal: erogazione liberale “emergenza ucraina”
+link: https://robdematt.org/ucraina/
+email: ''
+location:
+  mode: autocomplete
+  address:
+    place_id: 138475717
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 160540743
+    boundingbox:
+    - '45.4832739'
+    - '45.4839798'
+    - '9.2016028'
+    - '9.202271'
+    lat: '45.4836265'
+    lon: '9.2019507'
+    display_name: Via Vittor Pisani, Centrale, Municipio 2, Milano, Lombardia, 20124,
+      Italia
+    class: highway
+    type: tertiary
+    importance: 1.15
+    address:
+      road: Via Vittor Pisani
+      quarter: Centrale
+      suburb: Municipio 2
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20124'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+Posizione: 45.4836265 9.2019507
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/425,1186881715,2022-03-31 17:43:55,2022-03-30 19:14:55,"Csv Salento, online le iniziative a supporto dell’emergenza Ucraina promosse dal terzo settore di Lecce e Brindisi",,,,,"[""Valid/Accettato"",""Services"",""fundraising"",""materialGoods"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Lecce"",""country"":""Italia"",""country_code"":""it"",""county"":""Lecce"",""postcode"":""73100"",""road"":""Via Merine"",""state"":""Puglia""},""boundingbox"":[""40.3478132"",""40.3478392"",""18.1847044"",""18.1848127""],""class"":""highway"",""display_name"":""Via Merine, Lecce, Puglia, 73100, Italia"",""importance"":0.5199999999999999,""lat"":""40.3478392"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""18.1847044"",""osm_id"":203054412,""osm_type"":""way"",""place_id"":148811081,""type"":""secondary""},""mode"":""autocomplete""},""description"":""Sul sito del Centro Servizi per il Volontariato del Salento la sezione SOS Ucraina dedicate alle iniziative a supporto dell\u2019emergenza Ucraina promosse dal terzo settore del territorio di Brindisi e Lecce: raccolte beni, raccolte fondi, servizi di accoglienza e orientamento per i profughi. E poi news e aggiornamenti dalla Protezione civile e dai Comuni."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Csv Salento"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Csv Salento, online le iniziative a supporto dell\u2019emergenza Ucraina promosse dal terzo settore di Lecce e Brindisi"",""url"":""https://www.csvbrindisilecce.it/sos-ucraina/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Csv Salento
+title: Csv Salento, online le iniziative a supporto dell’emergenza Ucraina promosse
+  dal terzo settore di Lecce e Brindisi
+recipients: ''
+description: 'Sul sito del Centro Servizi per il Volontariato del Salento la sezione
+  SOS Ucraina dedicate alle iniziative a supporto dell’emergenza Ucraina promosse
+  dal terzo settore del territorio di Brindisi e Lecce: raccolte beni, raccolte fondi,
+  servizi di accoglienza e orientamento per i profughi. E poi news e aggiornamenti
+  dalla Protezione civile e dai Comuni.'
+url: https://www.csvbrindisilecce.it/sos-ucraina/
+address:
+  mode: autocomplete
+  address:
+    place_id: 148811081
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 203054412
+    boundingbox:
+    - '40.3478132'
+    - '40.3478392'
+    - '18.1847044'
+    - '18.1848127'
+    lat: '40.3478392'
+    lon: '18.1847044'
+    display_name: Via Merine, Lecce, Puglia, 73100, Italia
+    class: highway
+    type: secondary
+    importance: 0.5199999999999999
+    address:
+      road: Via Merine
+      city: Lecce
+      county: Lecce
+      state: Puglia
+      postcode: '73100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/436,1188272618,2022-03-31 17:37:53,2022-03-31 15:34:10,Annunci ‘esca’ sui social per alloggi e passaggi non sicuri per attraversare i confini: profughe ucraine a rischio truffe e violenze,,,,,"[""Valid/Accettato"",""fakenews"",""women""]",,,"{""description"":""\u00abFinire nella tratta, subire violenze, truffe e sfruttamento lavorativo. Sono questi i rischi maggiori per le donne e le ragazze in fuga dall\u2019Ucraina che emergono dopo le prime settimane dall\u2019inizio della guerra. Pericoli che si materializzano nei paesi confinanti, come Polonia e Romania, ma che si ritrovano nei paesi di arrivo, anche in Italia dove ci sono le prime segnalazioni di annunci esca sui social network per alloggi non sicuri e lavori \u201ca rischio\u201d\u00bb, denuncia l'organizzazione ActionAid. In Italia - sottolinea ActionAid su Vita Non Profit - negli ultimi giorni si sono moltiplicati di annunci sospetti su pagine social dedicate alle comunit\u00e0 ucraine, proposte di lavoro come ragazza alla pari o badante, offerte di alloggi e ospitalit\u00e0 per donne sole senza figli, che destano preoccupazione per il rischio di sfruttamento."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""fakenews"",""link"":""http://www.vita.it/it/article/2022/03/24/ucraina-in-italia-e-ai-confini-si-aggrava-il-rischio-di-tratta-e-sfrut/162288/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Attenzione agli annunci \u2018esca\u2019 sui social per alloggi non sicuri e ai passaggi per attraversare i confini: profughe ucraine a rischio truffe e violenze""}","<pre><yamldata>
 title: 'Attenzione agli annunci ‘esca’ sui social per alloggi non sicuri e ai passaggi
   per attraversare i confini: profughe ucraine a rischio truffe e violenze'
@@ -568,64 +801,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/429,1187025054,2022-03-30 21:47:47,2022-03-30 21:43:27,"Roma, trasporti gratis per tutti i rifugiati ucraini fino a cessata emergenza",,,,,"[""Valid/Accettato"",""Services"",""transport""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8896107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Atac annuncia: trasporti gratis per tutti i rifugiati ucraini \u201cfino a cessata emergenza\u201d. I rifugiati ucraini in Italia a causa della guerra che imperversa sul loro Paese non dovranno pi\u00f9 pagare il biglietto per il trasporto pubblico.\nAtac proceder\u00e0 a consentire l\u2019accesso gratuito al servizio di trasporto pubblico locale ai rifugiati ucraini, in conseguenza dei drammatici avvenimenti in atto, attraverso l\u2019esibizione del Codice STP, Straniero Temporaneamente Presente. E visto che potrebbero presentarsi le sempre ovvie complicazioni pratiche, Atac annuncia anche che sta lavorando alla creazione di un titolo elettronico di viaggio Metrebus ad hoc per consentire agli aventi diritto di viaggiare all\u2019interno di tutto il Lazio fino a cessata emergenza"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Atac Roma"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""Roma, trasporti gratis per tutti i rifugiati ucraini fino a cessata emergenza"",""url"":""https://t.co/t5OUeqwSEx""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: true
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Atac Roma
-title: Roma, trasporti gratis per tutti i rifugiati ucraini fino a cessata emergenza
-recipients: ''
-description: 'Atac annuncia: trasporti gratis per tutti i rifugiati ucraini “fino
-  a cessata emergenza”. I rifugiati ucraini in Italia a causa della guerra che imperversa
-  sul loro Paese non dovranno più pagare il biglietto per il trasporto pubblico.
-
-  Atac procederà a consentire l’accesso gratuito al servizio di trasporto pubblico
-  locale ai rifugiati ucraini, in conseguenza dei drammatici avvenimenti in atto,
-  attraverso l’esibizione del Codice STP, Straniero Temporaneamente Presente. E visto
-  che potrebbero presentarsi le sempre ovvie complicazioni pratiche, Atac annuncia
-  anche che sta lavorando alla creazione di un titolo elettronico di viaggio Metrebus
-  ad hoc per consentire agli aventi diritto di viaggiare all’interno di tutto il Lazio
-  fino a cessata emergenza'
-url: https://t.co/t5OUeqwSEx
-address:
-  mode: autocomplete
-  address:
-    place_id: 283767136
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 41485
-    boundingbox:
-    - '41.6556417'
-    - '42.1410285'
-    - '12.2344669'
-    - '12.8557603'
-    lat: '41.8933203'
-    lon: '12.4829321'
-    display_name: Roma, Roma Capitale, Lazio, Italia
-    class: boundary
-    type: administrative
-    importance: 0.8896107180689524
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/428,1187022204,2022-03-30 21:47:28,2022-03-30 21:39:53,"Regione Piemonte: autobus, tram e metro gratuiti per i profughi ucraini nei primi 5 giorni di arrivo",,,,,"[""Valid/Accettato"",""Services"",""transport""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Piemonte""},""boundingbox"":[""44.0597158"",""46.4642213"",""6.6272658"",""9.2142404""],""class"":""boundary"",""display_name"":""Piemonte, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8065629521628248,""lat"":""45.060735"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.923549"",""osm_id"":44874,""osm_type"":""relation"",""place_id"":283826885,""type"":""administrative""},""mode"":""autocomplete""},""description"":""La Regione Piemonte si \u00e8 attivata per i profughi ucraini anche sul fronte dei trasporti, garantendo insieme alle aziende del trasporto pubblico piemontese l'uso gratuito di bus, tram, e metro entro i primi cinque giorni dal loro ingresso in Italia.\nQuesta facilitazione si aggiunge a quella in base alla quale gli ucraini in fuga dalla guerra possono viaggiare gratuitamente sui treni Intercity, Eurocity e Regionali per raggiungere il primo luogo di destinazione o di accoglienza."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Piemonte"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""Regione Piemonte: autobus, tram e metro gratuiti per i profughi ucraini nei primi 5 giorni di arrivo"",""url"":""https://www.ansa.it/piemonte/notizie/2022/03/25/ucraina-in-piemonte-treni-bus-metro-gratis-primi-5-giorni_9bc222ed-d04a-47a2-a549-1582023790ae.html""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -674,60 +849,6 @@ address:
     icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
     address:
       state: Piemonte
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/425,1186881715,2022-03-30 19:17:55,2022-03-30 19:14:55,"Csv Salento, online le iniziative a supporto dell’emergenza Ucraina promosse dal terzo settore di Lecce e Brindisi",,,,,"[""Valid/Accettato"",""Services"",""fundraising"",""materialGoods"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""city"":""Lecce"",""country"":""Italia"",""country_code"":""it"",""county"":""Lecce"",""postcode"":""73100"",""road"":""Via Merine"",""state"":""Puglia""},""boundingbox"":[""40.3478132"",""40.3478392"",""18.1847044"",""18.1848127""],""class"":""highway"",""display_name"":""Via Merine, Lecce, Puglia, 73100, Italia"",""importance"":0.5199999999999999,""lat"":""40.3478392"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""18.1847044"",""osm_id"":203054412,""osm_type"":""way"",""place_id"":148811081,""type"":""secondary""},""mode"":""autocomplete""},""description"":""Sul sito del Centro Servizi per il Volontariato del Salento la sezione SOS Ucraina dedicate alle iniziative a supporto dell\u2019emergenza Ucraina promosse dal terzo settore del territorio di Brindisi e Lecce: raccolte beni, raccolte fondi, servizi di accoglienza e orientamento per i profughi. E poi news e aggiornamenti dalla Protezione civile e dai Comuni."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Csv Salento"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Csv Salento, online le iniziative a supporto dell\u2019emergenza Ucraina promosse dal terzo settore di Lecce e Brindisi"",""url"":""https://www.csvbrindisilecce.it/sos-ucraina/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: true
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Csv Salento
-title: Csv Salento, online le iniziative a supporto dell’emergenza Ucraina promosse
-  dal terzo settore di Lecce e Brindisi
-recipients: ''
-description: 'Sul sito del Centro Servizi per il Volontariato del Salento la sezione
-  SOS Ucraina dedicate alle iniziative a supporto dell’emergenza Ucraina promosse
-  dal terzo settore del territorio di Brindisi e Lecce: raccolte beni, raccolte fondi,
-  servizi di accoglienza e orientamento per i profughi. E poi news e aggiornamenti
-  dalla Protezione civile e dai Comuni.'
-url: https://www.csvbrindisilecce.it/sos-ucraina/
-address:
-  mode: autocomplete
-  address:
-    place_id: 148811081
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 203054412
-    boundingbox:
-    - '40.3478132'
-    - '40.3478392'
-    - '18.1847044'
-    - '18.1848127'
-    lat: '40.3478392'
-    lon: '18.1847044'
-    display_name: Via Merine, Lecce, Puglia, 73100, Italia
-    class: highway
-    type: secondary
-    importance: 0.5199999999999999
-    address:
-      road: Via Merine
-      city: Lecce
-      county: Lecce
-      state: Puglia
-      postcode: '73100'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
@@ -788,60 +909,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 45.55538265 8.346283678327271
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/422,1186751336,2022-03-30 17:12:03,2022-03-30 17:08:10,Raccolta fondi di Rob de Matt Milano per Carovana Italia-Ucraina,45.4836265,9.2019507,Lombardia,Milano,"[""Valid/Accettato"",""fundraising""]",,,"{""Posizione"":""45.4836265 9.2019507"",""bicSwift"":"""",""causal"":""erogazione liberale \u201cemergenza ucraina\u201d"",""ccPostal"":"""",""description"":""Negli scorsi giorni pensato a lungo a cosa fare per le persone che fuggono dall\u2019Ucraina e dalla guerra. E non possiamo rimanere con le mani in mano.\nAbbiamo organizzato una carovana di beni di prima necessit\u00e0 insieme a Refugees Welcome Italia, I bambini dell\u2019est, St. Ambroeus FC, torneremo a Milano con un gruppo di persone che verranno accolte in famiglia.\nLa nostra carovana \u00e8 grande e abbiamo bisogno dell\u2019aiuto di tutti e tutte per sostenere i costi di trasporto.\nS\u00ec pu\u00f2 donare via Iban o Paypal al link https://www.paypal.com/donate/?hosted_button_id=HPM236G8F4ZRG"",""email"":"""",""heading"":""Rob de Matt"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT53A0501801600000012303772"",""label"":""fundraising"",""link"":""https://robdematt.org/ucraina/"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20124"",""quarter"":""Centrale"",""road"":""Via Vittor Pisani"",""state"":""Lombardia"",""suburb"":""Municipio 2""},""boundingbox"":[""45.4832739"",""45.4839798"",""9.2016028"",""9.202271""],""class"":""highway"",""display_name"":""Via Vittor Pisani, Centrale, Municipio 2, Milano, Lombardia, 20124, Italia"",""importance"":1.15,""lat"":""45.4836265"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2019507"",""osm_id"":160540743,""osm_type"":""way"",""place_id"":138475717,""type"":""tertiary""},""mode"":""autocomplete""},""submit"":true,""title"":""Rob de Matt Milano""}","<pre><yamldata>
-title: Rob de Matt Milano
-description: 'Negli scorsi giorni pensato a lungo a cosa fare per le persone che fuggono
-  dall’Ucraina e dalla guerra. E non possiamo rimanere con le mani in mano.
-
-  Abbiamo organizzato una carovana di beni di prima necessità insieme a Refugees Welcome
-  Italia, I bambini dell’est, St. Ambroeus FC, torneremo a Milano con un gruppo di
-  persone che verranno accolte in famiglia.
-
-  La nostra carovana è grande e abbiamo bisogno dell’aiuto di tutti e tutte per sostenere
-  i costi di trasporto.
-
-  Sì può donare via Iban o Paypal al link https://www.paypal.com/donate/?hosted_button_id=HPM236G8F4ZRG'
-heading: Rob de Matt
-iban: IT53A0501801600000012303772
-bicSwift: ''
-ccPostal: ''
-causal: erogazione liberale “emergenza ucraina”
-link: https://robdematt.org/ucraina/
-email: ''
-location:
-  mode: autocomplete
-  address:
-    place_id: 138475717
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 160540743
-    boundingbox:
-    - '45.4832739'
-    - '45.4839798'
-    - '9.2016028'
-    - '9.202271'
-    lat: '45.4836265'
-    lon: '9.2019507'
-    display_name: Via Vittor Pisani, Centrale, Municipio 2, Milano, Lombardia, 20124,
-      Italia
-    class: highway
-    type: tertiary
-    importance: 1.15
-    address:
-      road: Via Vittor Pisani
-      quarter: Centrale
-      suburb: Municipio 2
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20124'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: fundraising
-submit: true
-Posizione: 45.4836265 9.2019507
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/415,1186210797,2022-03-30 16:48:06,2022-03-30 10:09:22,International Rescue Committee - IRC Italia è alla ricerca di mediatori culturali di lingua ucraina a Milano e Trieste,,,,,"[""Valid/Accettato"",""Help"",""Services"",""translation"",""job""]",,,"{""description"":""International Rescue Committee - IRC Italia \u00e8 alla ricerca di mediatori culturali di lingua ucraina con base a Milano e Trieste da inserire nel suo team. \n\nDescrizione della posizione:\n\ud83d\udccd Fornire informazioni su procedure di asilo, protezione temporanea, diritti e accesso ai servizi\n\ud83d\udccd Supportare con l'interpretazione e la traduzione per attivit\u00e0 sia in presenza che online\n\ud83d\udccd Monitorare i bisogni della comunit\u00e0 e le vulnerabilit\u00e0\n\nRequisiti:\n\ud83d\udccd Scrivere e parlare fluentemente ucraino e inglese (o italiano)\n\ud83d\udccd Essere basato a Milano o Trieste\n\ud83d\udccd Esperienza nella mediazione culturale o interpretazione \n\ud83d\udccd Ottime capacit\u00e0 comunicative e di reporting, nonch\u00e9 sensibilit\u00e0 culturale\n\nPer saperne di pi\u00f9 sull'offerta di lavoro e per candidarti, vedi link\nhttps://rescue.csod.com/ux/ats/careersite/1/home/requisition/25456?c=rescue"",""email"":""info@rescue.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{},""mode"":""autocomplete""},""nameSurname"":""International Rescue Committee - IRC Italia"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""IRC Italia \u00e8 alla ricerca di mediatori culturali di lingua ucraina a Milano e Trieste"",""url"":""https://www.facebook.com/150538088974692/posts/933257804036046/""}","<pre><yamldata>
 nameSurname: International Rescue Committee - IRC Italia
@@ -1179,32 +1246,6 @@ address:
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/416,1186518117,2022-03-30 15:00:58,2022-03-30 14:07:37,"Ucraina, ""lasciapassare"" a chi ha aderito alla sanatoria 2020: potrà uscire dall’Italia per prestare aiuto ai familiari",,,,,"[""Valid/Accettato"",""News""]",,,"{""description"":""I cittadini ucraini che hanno presentato domanda di emersione aderendo alla sanatoria del 2020 (ai sensi dell\u2019art. 103, Dl. 34) e che sono ancora in attesa del rilascio del permesso di soggiorno potranno finalmente uscire dall\u2019Italia per prestare soccorso ai propri familiari che scappano dalla guerra senza il rischio di vedersi negato un diritto per il riconoscimento del quale sono ancora in attesa da circa 2 anni: una piccola \u2018vittoria\u2019 che potrebbe cambiare la vita a migliaia di persone che lavorano come personale domestico tra gli oltre 18 mila che in piena pandemia hanno presentato istanza di emersione\u201d. \u00c8 quanto dichiara Andrea Zini, presidente di Assindatcolf, Associazione Nazionale dei Datori di Lavoro Domestico. \n\u201cNell\u2019ultimo importante Dpcm in materia di protezione temporanea e internazionale firmato dal presidente Draghi \u2013 spiega Zini \u2013 \u00e8 stato, infatti, anche concesso un \u2018lasciapassare\u2019 (art. 6) agli ucraini che hanno aderito alla sanatoria, cos\u00ec come aveva chiesto Assindatcolf dopo aver ricevuto numerose segnalazioni da parte di domestici bloccati in Italia, senza poter prestare soccorso ai propri familiari in fuga dalla guerra."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/6gOLPVeluT"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Ucraina, \""lasciapassare\"" a chi ha aderito alla sanatoria 2020: potr\u00e0 uscire dall\u2019Italia per prestare soccorso ai familiari""}","<pre><yamldata>
-title: 'Ucraina, ""lasciapassare"" a chi ha aderito alla sanatoria 2020: potrà uscire
-  dall’Italia per prestare soccorso ai familiari'
-description: ""I cittadini ucraini che hanno presentato domanda di emersione aderendo\
-  \ alla sanatoria del 2020 (ai sensi dell’art. 103, Dl. 34) e che sono ancora in\
-  \ attesa del rilascio del permesso di soggiorno potranno finalmente uscire dall’Italia\
-  \ per prestare soccorso ai propri familiari che scappano dalla guerra senza il rischio\
-  \ di vedersi negato un diritto per il riconoscimento del quale sono ancora in attesa\
-  \ da circa 2 anni: una piccola ‘vittoria’ che potrebbe cambiare la vita a migliaia\
-  \ di persone che lavorano come personale domestico tra gli oltre 18 mila che in\
-  \ piena pandemia hanno presentato istanza di emersione”. È quanto dichiara Andrea\
-  \ Zini, presidente di Assindatcolf, Associazione Nazionale dei Datori di Lavoro\
-  \ Domestico. \n“Nell’ultimo importante Dpcm in materia di protezione temporanea\
-  \ e internazionale firmato dal presidente Draghi – spiega Zini – è stato, infatti,\
-  \ anche concesso un ‘lasciapassare’ (art. 6) agli ucraini che hanno aderito alla\
-  \ sanatoria, così come aveva chiesto Assindatcolf dopo aver ricevuto numerose segnalazioni\
-  \ da parte di domestici bloccati in Italia, senza poter prestare soccorso ai propri\
-  \ familiari in fuga dalla guerra.""
-link: https://t.co/6gOLPVeluT
-location:
-  mode: autocomplete
-  address: {}
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/398,1185252778,2022-03-30 13:29:26,2022-03-29 18:26:10,"Firmata l’ordinanza n. 881 del Dipartimento Nazionale Protezione Civile che disciplina l’accoglienza, il soccorso e l’assistenza alla popolazione ucraina in Italia",41.9039826,12.4719209,Lazio,Roma,"[""Valid/Accettato"",""News"",""hospitality"",""document_data"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""41.9039826 12.4719209"",""description"":""Il Capo del Dipartimento della Protezione civile, Fabrizio Curcio, ha firmato un\u2019ordinanza che disciplina l\u2019accoglienza, il soccorso e l\u2019assistenza alla popolazione ucraina in Italia (Ordinanza n. 881 del 29 marzo 2022 \u201cUlteriori disposizioni urgenti di protezione civile per assicurare, sul territorio nazionale, l\u2019accoglienza, il soccorso e l\u2019assistenza alla popolazione in conseguenza degli accadimenti in atto nel territorio dell\u2019Ucraina\u201d).\nL\u2019ordinanza regola le modalit\u00e0 di attuazione dell\u2019accoglienza diffusa, tramite gli avvisi di manifestazioni di interesse rivolti a enti del Terzo Settore, ai Centri di servizio per il volontariato, agli enti e alle associazioni iscritte al registro di cui all\u2019articolo 42 del decreto legislativo n. 286 del 1998 e agli enti religiosi civilmente riconosciuti, a beneficio delle persone richiedenti la protezione temporanea. Le procedure degli avvisi di manifestazioni di interesse prevedranno forme e modalit\u00e0 per offrire, ai soggetti beneficiari, servizi di assistenza e accoglienza, attivabili nel limite massimo di 15mila posti. L\u2019ordinanza riconosce alle persone richiedenti la protezione temporanea un contributo di sostentamento pari a 300 euro mensili pro capite e, in presenza di minori, \u00e8 riconosciuto un contributo addizionale mensile di 150 euro per ciascun figlio di et\u00e0 inferiore a 18 anni."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://www.protezionecivile.gov.it/it/normativa/ocdpc-n-881-del-29-marzo-2022-0"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""11"",""office"":""Dipartimento della Protezione Civile"",""postcode"":""00186"",""quarter"":""Prati"",""road"":""Via Ulpiano"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.9039326"",""41.9040326"",""12.4718709"",""12.4719709""],""class"":""office"",""display_name"":""Dipartimento della Protezione Civile, 11, Via Ulpiano, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia"",""importance"":0.42099999999999993,""lat"":""41.9039826"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4719209"",""osm_id"":5462543512,""osm_type"":""node"",""place_id"":59550508,""type"":""government""},""mode"":""autocomplete""},""submit"":true,""title"":""Firmata l\u2019ordinanza n. 881 del Dipartimento Nazionale Protezione Civile che disciplina l\u2019accoglienza, il soccorso e l\u2019assistenza alla popolazione ucraina in Italia""}","<pre><yamldata>
@@ -1630,47 +1671,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 43.9470982 12.630768610516004
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/413,1185394141,2022-03-29 22:18:18,2022-03-29 20:45:35,Comune di Cento (Ferrara) cerca volontari bilingue italiano/ucraino per attività di integrazione per minori,44.7274395,11.2903029,Emilia-Romagna,Ferrara,"[""Valid/Accettato"",""Help"",""Children""]",,,"{""Posizione"":""44.7274395 11.2903029"",""description"":""Il Comune di Cento \u00e8 alla ricerca di volontari bilingue per realizzare attivit\u00e0 di integrazione per minori. Se parli l'italiano e l'ucraino e ti va di donare un p\u00f2 del tuo tempo contatta: facciamorete@comune.cento.fe.it"",""email"":""facciamorete@comune.cento.fe.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""municipality"":""Unione Alto Ferrarese"",""state"":""Emilia-Romagna"",""town"":""Cento""},""boundingbox"":[""44.705628"",""44.8381841"",""11.2461129"",""11.3880712""],""class"":""boundary"",""display_name"":""Cento, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5919924514729962,""lat"":""44.7274395"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2903029"",""osm_id"":43506,""osm_type"":""relation"",""place_id"":283662905,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Comune di Cento"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Ricerca volontari bilingue"",""url"":""https://www.comune.cento.fe.it/aree-tematiche/volontariato-e-associazionismo/facciamo-rete-coordinamento-solidale-lintegrazione""}","<pre><yamldata>
-nameSurname: Comune di Cento
-phoneNumber: ''
-email: facciamorete@comune.cento.fe.it
-title: Ricerca volontari bilingue
-recipients: ''
-description: 'Il Comune di Cento è alla ricerca di volontari bilingue per realizzare
-  attività di integrazione per minori. Se parli l''italiano e l''ucraino e ti va di
-  donare un pò del tuo tempo contatta: facciamorete@comune.cento.fe.it'
-url: https://www.comune.cento.fe.it/aree-tematiche/volontariato-e-associazionismo/facciamo-rete-coordinamento-solidale-lintegrazione
-location:
-  mode: autocomplete
-  address:
-    place_id: 283662905
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 43506
-    boundingbox:
-    - '44.705628'
-    - '44.8381841'
-    - '11.2461129'
-    - '11.3880712'
-    lat: '44.7274395'
-    lon: '11.2903029'
-    display_name: Cento, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, Italia
-    class: boundary
-    type: administrative
-    importance: 0.5919924514729962
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      town: Cento
-      municipality: Unione Alto Ferrarese
-      county: Ferrara
-      state: Emilia-Romagna
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 44.7274395 11.2903029
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/405,1185365442,2022-03-29 22:09:41,2022-03-29 20:17:26,"Comune di Catania, elenco delle strutture del privato sociale che hanno dato disponibilità all’accoglienza della popolazione ucraina ",37.50570535,14.944202334712783,Sicilia,Catania,"[""Valid/Accettato"",""News"",""hospitality""]",,,"{""Posizione"":""37.50570535 14.944202334712783"",""description"":""a Direzione comunale Famiglia e Politiche Sociali e gli Enti del Terzo Settore, insieme ai funzionari della Prefettura e agli assessori comunali con delega ai Servizi Sociali e alla Protezione Civile, hanno delineato le procedure di accoglienza della popolazione ucraina duramente colpita dal conflitto bellico, con regole prestabilite finalizzate alla tutela delle persone in arrivo.\nLe strutture ricettive del privato sociale, presenti sul territorio, che hanno dato la disponibilit\u00e0 ad accogliere cittadini ucraini sono: Locanda del Samaritano, Cope, Cooperativa Sociale Mosaico, Associazione Meta Cometa, Associazione Spazio 47, Fondazione Ebbene, Refugees Welcome, Centro Astalli.\nCordoni umanitari saranno organizzati anche da Caritas, Croce rossa e Comunit\u00e0 Sant\u2019Egidio; anche il Villaggio Turistico internazionale \u201cLa Playa\u201d ha dato la disponibilit\u00e0 all\u2019accoglienza."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.comune.catania.it/informazioni/news/politiche-sociali/politiche-sociali-2022-news/default.aspx?news=83290"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Catania"",""state"":""Sicilia""},""boundingbox"":[""37.050297"",""37.961106"",""14.3517735"",""15.2580859""],""class"":""boundary"",""display_name"":""Catania, Sicilia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5678626077791631,""lat"":""37.50570535"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.944202334712783"",""osm_id"":39181,""osm_type"":""relation"",""place_id"":283168968,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Catania - Comune e Terzo Settore hanno delineato le procedure di accoglienza della popolazione ucraina""}","<pre><yamldata>
 title: Catania - Comune e Terzo Settore hanno delineato le procedure di accoglienza
