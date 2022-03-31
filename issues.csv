@@ -1,4 +1,57 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/440,1188984967,2022-03-31 23:09:38,2022-03-31 23:08:14,"A Isernia raccolta beni materiali per il popolo ucraino , in collaborazione con CSV Molise",,,,,"[""Valid/Accettato"",""Help"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Isernia"",""state"":""Molise""},""boundingbox"":[""41.3874272"",""41.9117554"",""13.9407821"",""14.5222524""],""class"":""boundary"",""display_name"":""Isernia, Molise, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7286860149234128,""lat"":""41.64950915"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.208061831039291"",""osm_id"":41277,""osm_type"":""relation"",""place_id"":284909879,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Csv Molise supporta  le iniziative nate spontaneamente su tutto il territorio regionale, come quella promossa da alcune donne ucraine che, a Isernia, stanno raccogliendo alimenti in scatola, prodotti per l\u2019igiene, farmaci, capi d\u2019abbigliamento e altro. \nIl CSV invita le associazioni sia a partecipare con delle piccole donazioni di pacchi sia a comunicare all\u2019indirizzo email: segreteria@csvmolise.it le attivit\u00e0 solidali, specifiche, che hanno programmato."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Csv Molise"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Isernia raccolta beni materiali per il popolo ucraino , in collaborazione con CSV Molise"",""url"":""https://www.csvmolise.it/area-comunicazione/archivio-articoli-csvmolise/883-il-csv-molise-contro-la-guerra-in-ucraina-sostiene-iniziative-umanitarie""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Csv Molise
+title: A Isernia raccolta beni materiali per il popolo ucraino , in collaborazione
+  con CSV Molise
+recipients: ''
+description: ""Csv Molise supporta  le iniziative nate spontaneamente su tutto il territorio\
+  \ regionale, come quella promossa da alcune donne ucraine che, a Isernia, stanno\
+  \ raccogliendo alimenti in scatola, prodotti per l’igiene, farmaci, capi d’abbigliamento\
+  \ e altro. \nIl CSV invita le associazioni sia a partecipare con delle piccole donazioni\
+  \ di pacchi sia a comunicare all’indirizzo email: segreteria@csvmolise.it le attività\
+  \ solidali, specifiche, che hanno programmato.""
+url: https://www.csvmolise.it/area-comunicazione/archivio-articoli-csvmolise/883-il-csv-molise-contro-la-guerra-in-ucraina-sostiene-iniziative-umanitarie
+address:
+  mode: autocomplete
+  address:
+    place_id: 284909879
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 41277
+    boundingbox:
+    - '41.3874272'
+    - '41.9117554'
+    - '13.9407821'
+    - '14.5222524'
+    lat: '41.64950915'
+    lon: '14.208061831039291'
+    display_name: Isernia, Molise, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7286860149234128
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Isernia
+      state: Molise
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/439,1188975649,2022-03-31 23:01:24,2022-03-31 22:59:21,"A Salerno consorzio La Rada con Comune di Fisciano e Fondazione Comunità Salernitana onlus, offre corsi di italiano a rifugiati ucraini",,,,,"[""Valid/Accettato"",""Services"",""translation"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Salerno"",""country"":""Italia"",""country_code"":""it"",""county"":""Salerno"",""neighbourhood"":""Mariconda"",""postcode"":""84132"",""road"":""Via Tanagro"",""state"":""Campania""},""boundingbox"":[""40.6590796"",""40.6603397"",""14.8079322"",""14.8095195""],""class"":""highway"",""display_name"":""Via Tanagro, Mariconda, Salerno, Campania, 84132, Italia"",""importance"":0.4,""lat"":""40.659984"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.8089431"",""osm_id"":672718674,""osm_type"":""way"",""place_id"":236690877,""type"":""residential""},""mode"":""autocomplete""},""description"":""Corsi gratuiti di italiano aperti a tutti, per chi \u00e8 arrivato da poco o pochissimo oppure \u00e8 qui gi\u00e0 da un bel po'! \n\ud83d\udde3\ufe0f\ud83e\udd0c \ud83c\udf55\u26bd \ud83c\udf5d \u2615 \u2764\ufe0f\nI corsi si terranno a #Salerno e #Fisciano con docenti qualificati e con la possibilit\u00e0 di fare un esame finale per la certificazione. \nLe attivit\u00e0 rientrano nel progetto Passaparola e sono state avviate grazie alla bella collaborazione con il Comune di Fisciano e con Fondazione Comunit\u00e0 Salernitana onlus.\n\u260e\ufe0f info: 0892583316 oppure 3402231971\n\nper iscriversi:\ncorso a Fisciano\n\ud83d\udc47\nhttps://forms.gle/PXndUJRRCnWuPrQ6A\n\ncorso a Salerno \n\ud83d\udc47\nPomeriggio  https://forms.gle/itEBoczTAH8YrsYFA\nMattina  https://forms.gle/iB8GRMTe6JkC271RA"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Fisciano e con Fondazione Comunit\u00e0 Salernitana onlus."",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""A Salerno consorzio La Rada con Comune di Fisciano e con Fondazione Comunit\u00e0 Salernitana onlus, offre corsi di italiano a rifugiati ucraini"",""url"":""https://www.facebook.com/1609460182627051/posts/3036717986567923/?d=n""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
