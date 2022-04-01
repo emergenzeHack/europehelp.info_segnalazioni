@@ -1,4 +1,69 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/447,1189940001,2022-04-01 16:11:33,2022-04-01 15:12:05,Iniziative dell'Università di Bologna a supporto degli studenti e studiosi ucraini e non solo,,,,,"[""Valid/Accettato"",""Services"",""job"",""psychologicalSupport"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.0622266"",""44.8053346"",""10.8066008"",""11.841408""],""class"":""boundary"",""display_name"":""Bologna, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5846155635381287,""lat"":""44.433313299999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.394502576340368"",""osm_id"":42856,""osm_type"":""relation"",""place_id"":283906764,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Informazioni su dilazione per il pagamento delle tasse di marzo, borse di studio e altri benefici, iscrizione a singole attivit\u00e0 formative, visiting Fellows dall\u2019Ucraina presso l\u2019Istituto di Studi Avanzati, supporto psicologico."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Universit\u00e0 di Bologna"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":true,""materialGoods"":false,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Iniziative dell'Universit\u00e0 di Bologna"",""url"":""https://www.unibo.it/it/ateneo/chi-siamo/universita-bologna-per-la-pace""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: true
+  psychologicalSupport: true
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Università di Bologna
+title: Iniziative dell'Università di Bologna
+recipients: ''
+description: Informazioni su dilazione per il pagamento delle tasse di marzo, borse
+  di studio e altri benefici, iscrizione a singole attività formative, visiting Fellows
+  dall’Ucraina presso l’Istituto di Studi Avanzati, supporto psicologico.
+url: https://www.unibo.it/it/ateneo/chi-siamo/universita-bologna-per-la-pace
+address:
+  mode: autocomplete
+  address:
+    place_id: 283906764
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 42856
+    boundingbox:
+    - '44.0622266'
+    - '44.8053346'
+    - '10.8066008'
+    - '11.841408'
+    lat: '44.433313299999995'
+    lon: '11.394502576340368'
+    display_name: Bologna, Emilia-Romagna, Italia
+    class: boundary
+    type: administrative
+    importance: 0.5846155635381287
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Bologna
+      state: Emilia-Romagna
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/133,1168620253,2022-04-01 16:06:18,2022-03-14 16:25:30,"Dipartimento nazionale della Protezione civile, ordinanza sui trasporti gratuiri per i rifugiati ucraini in Italia",,,,,"[""Valid/Accettato"",""News"",""transport"",""document_data""]",,,"{""description"":""Cittadini provenienti dall\u2019Ucraina potranno viaggiare gratuitamente sul territorio italiano, entro 5 giorni massimo dall\u2019ingresso in Italia, per raggiungere il primo luogo di destinazione o di accoglienza. Lo prevede un\u2019ordinanza del Dipartimento nazionale della Protezione civile. Nel testo anche indicazioni su trattamento dati e altro."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""http://bit.ly/OrdinanzaTrasporti"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Dipartimento nazionale della Protezione civile, ordinanza sui trasporti per i rifugiati ucraini in Italia""}","<pre><yamldata>
+title: Dipartimento nazionale della Protezione civile, ordinanza sui trasporti per
+  i rifugiati ucraini in Italia
+description: Cittadini provenienti dall’Ucraina potranno viaggiare gratuitamente sul
+  territorio italiano, entro 5 giorni massimo dall’ingresso in Italia, per raggiungere
+  il primo luogo di destinazione o di accoglienza. Lo prevede un’ordinanza del Dipartimento
+  nazionale della Protezione civile. Nel testo anche indicazioni su trattamento dati
+  e altro.
+link: http://bit.ly/OrdinanzaTrasporti
+location:
+  mode: autocomplete
+  address: {}
+label: document_data
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/444,1189904776,2022-04-01 16:03:52,2022-04-01 14:48:35,"Università per Stranieri di Siena, raccolta fondi per borse di studio per rifugiati ucraini e non solo",43.1119613,12.3890104,Umbria,Perugia,"[""Valid/Accettato"",""fundraising""]",,,"{""Posizione"":""43.1119613 12.3890104"",""bicSwift"":"""",""causal"":""erogazioni liberali per borse di studio a rifugiati"",""ccPostal"":"""",""description"":""Raccolta fondi per finanziare borse di studio e di ricerca da destinare a studenti e docenti ucraini, ovvero di altre nazionalit\u00e0, ai quali, in conseguenza di crisi politiche e militari in atto, sia stata concessa la protezione internazionale."",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT72U0306903011100000046025"",""label"":""fundraising"",""link"":""https://www.unistrapg.it/unistrapg-per-la-pace"",""location"":{""address"":{""address"":{""city"":""Perugia"",""country"":""Italia"",""country_code"":""it"",""county"":""Perugia"",""postcode"":""06100"",""state"":""Umbria""},""boundingbox"":[""42.9519613"",""43.2719613"",""12.2290104"",""12.5490104""],""class"":""place"",""display_name"":""Perugia, Umbria, 06100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.717856532444482,""lat"":""43.1119613"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.3890104"",""osm_id"":68507505,""osm_type"":""node"",""place_id"":285586254,""type"":""city""},""mode"":""autocomplete""},""submit"":true,""title"":""Universit\u00e0 per Stranieri di Siena""}","<pre><yamldata>
 title: Università per Stranieri di Siena
 description: Raccolta fondi per finanziare borse di studio e di ricerca da destinare
@@ -14478,22 +14543,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 41.8894698 12.4828691
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/133,1168620253,2022-03-14 16:26:01,2022-03-14 16:25:30,"Dipartimento nazionale della Protezione civile, ordinanza sui trasporti per i rifugiati ucraini in Italia",,,,,"[""Valid/Accettato"",""News"",""transport"",""document_data""]",,,"{""description"":""Cittadini provenienti dall\u2019Ucraina potranno viaggiare gratuitamente sul territorio italiano, entro 5 giorni massimo dall\u2019ingresso in Italia, per raggiungere il primo luogo di destinazione o di accoglienza. Lo prevede un\u2019ordinanza del Dipartimento nazionale della Protezione civile. Nel testo anche indicazioni su trattamento dati e altro."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""http://bit.ly/OrdinanzaTrasporti"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Dipartimento nazionale della Protezione civile, ordinanza sui trasporti per i rifugiati ucraini in Italia""}","<pre><yamldata>
-title: Dipartimento nazionale della Protezione civile, ordinanza sui trasporti per
-  i rifugiati ucraini in Italia
-description: Cittadini provenienti dall’Ucraina potranno viaggiare gratuitamente sul
-  territorio italiano, entro 5 giorni massimo dall’ingresso in Italia, per raggiungere
-  il primo luogo di destinazione o di accoglienza. Lo prevede un’ordinanza del Dipartimento
-  nazionale della Protezione civile. Nel testo anche indicazioni su trattamento dati
-  e altro.
-link: http://bit.ly/OrdinanzaTrasporti
-location:
-  mode: autocomplete
-  address: {}
-label: document_data
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/131,1168459023,2022-03-14 15:18:41,2022-03-14 14:26:01,"Host a sister, la rete di donne che offre ospitalità gratuita si attiva per le rifugiate ucraine",,,,,"[""Valid/Accettato"",""News"",""Services"",""hospitality"",""women""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Host a sister, rete internazionale di ospitalit\u00e0 per donne e persone non binarie fondata nel 2019, offre alloggi gratuiti e sicuri alle rifugiate ucraine sole o con figlie/i."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Host a sister"",""recipients"":""rifugiate ucraine sole o con figli/e"",""submit"":true,""title"":""Host a sister, la rete di donne che offre ospitalit\u00e0 gratuita si attiva per le rifugiate ucraine"",""type"":""hospitality"",""url"":""https://www.facebook.com/hostasister/""}","<pre><yamldata>
 type: hospitality
