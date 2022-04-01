@@ -1,4 +1,56 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/450,1190261039,2022-04-01 20:56:27,2022-04-01 20:54:42,"Toscana Accoglienza Pace, portale della Protezione Civile Toscana per offrire beni e servizi a supporto dei profughi ucraini",43.79366875,11.222513136213019,Toscana,Firenze,"[""Valid/Accettato"",""News"",""Services"",""materialGoods"",""hospitality"",""translation"",""Resources""]",,,"{""Posizione"":""43.79366875 11.222513136213019"",""description"":""Si chiama Toscana Accoglienza Pace, il portale appena aperto dalla Protezione civile regionale in collaborazione col Cesvot, dove, gi\u00e0 da oggi, privati cittadini, associazioni del terzo settore e aziende private potranno dichiarare la propria disponibilit\u00e0 a fornire servizi gratuiti per la popolazione ucraina ospitata in Toscana. Coloro che lo vorranno potranno offrire servizi di interpretariato, di supporto tecnico amministrativo presso strutture di accoglienza, di supporto all\u2019attivit\u00e0 logistica per l\u2019accoglienza dei cittadini ucraini (trasporti, montaggio di strutture, raccolta e smistamento dei prodotti, di sostegno e supporto presso le strutture di accoglienza, di raccolta e distribuzione di vestiti, beni di prima necessit\u00e0 e pasti). Il portale raccoglier\u00e0  anche la disponibilit\u00e0 di immobili da mettere a disposizione dei profughi ucraini. Anche le associazioni animaliste o singoli privati che vorranno contribuire all\u2019accoglienza degli animali d'affezione, potranno segnalarlo nell\u2019apposita sezione presente nel portale. Per accedere al portale occorre registrarsi con Spid o Cie."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://bit.ly/ToscanaAccoglienzaPace"",""location"":{""address"":{""address"":{""city"":""Firenze"",""commercial"":""Regione Toscana"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""postcode"":""50127"",""state"":""Toscana"",""suburb"":""Quartiere 5""},""boundingbox"":[""43.7926836"",""43.7946061"",""11.221591"",""11.2236412""],""class"":""landuse"",""display_name"":""Regione Toscana, Quartiere 5, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50127, Italia"",""importance"":0.52,""lat"":""43.79366875"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.222513136213019"",""osm_id"":83826804,""osm_type"":""way"",""place_id"":121442998,""type"":""commercial""},""mode"":""autocomplete""},""submit"":true,""title"":""Toscana Accoglienza Pace, portale della Protezione Civile Toscana per offrire beni e servizi a supporto dei profughi ucraini""}","<pre><yamldata>
+title: Toscana Accoglienza Pace, portale della Protezione Civile Toscana per offrire
+  beni e servizi a supporto dei profughi ucraini
+description: 'Si chiama Toscana Accoglienza Pace, il portale appena aperto dalla Protezione
+  civile regionale in collaborazione col Cesvot, dove, già da oggi, privati cittadini,
+  associazioni del terzo settore e aziende private potranno dichiarare la propria
+  disponibilità a fornire servizi gratuiti per la popolazione ucraina ospitata in
+  Toscana. Coloro che lo vorranno potranno offrire servizi di interpretariato, di
+  supporto tecnico amministrativo presso strutture di accoglienza, di supporto all’attività
+  logistica per l’accoglienza dei cittadini ucraini (trasporti, montaggio di strutture,
+  raccolta e smistamento dei prodotti, di sostegno e supporto presso le strutture
+  di accoglienza, di raccolta e distribuzione di vestiti, beni di prima necessità
+  e pasti).
+  Il portale raccoglierà  anche la disponibilità di immobili da mettere a disposizione
+  dei profughi ucraini. Anche le associazioni animaliste o singoli privati che vorranno
+  contribuire all’accoglienza degli animali d''affezione, potranno segnalarlo nell’apposita
+  sezione presente nel portale.
+  Per accedere al portale occorre registrarsi con Spid o Cie.'
+link: https://bit.ly/ToscanaAccoglienzaPace
+location:
+  mode: autocomplete
+  address:
+    place_id: 121442998
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 83826804
+    boundingbox:
+    - '43.7926836'
+    - '43.7946061'
+    - '11.221591'
+    - '11.2236412'
+    lat: '43.79366875'
+    lon: '11.222513136213019'
+    display_name: Regione Toscana, Quartiere 5, Firenze, Città metropolitana di Firenze,
+      Toscana, 50127, Italia
+    class: landuse
+    type: commercial
+    importance: 0.52
+    address:
+      commercial: Regione Toscana
+      suburb: Quartiere 5
+      city: Firenze
+      county: Città metropolitana di Firenze
+      state: Toscana
+      postcode: '50127'
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 43.79366875 11.222513136213019
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/449,1190032295,2022-04-01 16:31:55,2022-04-01 16:31:15,"Donazioni Ucraina, Check Point Research: in aumento le truffe online",,,,,"[""Valid/Accettato"",""fakenews""]",,,"{""description"":""Ogni volta che ci troviamo di fronte a una catastrofe umanitaria, si scatena lo sciacallaggio. E non risparmia nemmeno il web. Come sollevato dall\u2019agenzia di sicurezza informatica Check Point Research, con la richiesta di donazioni per l\u2019Ucraina sono aumentate le truffe informatiche. L\u2019allarme \u00e8 stato segnalato dai ricercatori dell\u2019azienda israeliana."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""fakenews"",""link"":""https://www.webnews.it/2022/03/25/allarme-donazioni-ucraina-aumentano-le-false-richieste-di-aiuti-online/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Donazioni Ucraina, Check Point Research: in aumento le truffe online""}","<pre><yamldata>
 title: 'Donazioni Ucraina, Check Point Research: in aumento le truffe online'
 description: Ogni volta che ci troviamo di fronte a una catastrofe umanitaria, si
