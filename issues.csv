@@ -1,4 +1,107 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/459,1190643427,2022-04-02 21:04:45,2022-04-02 14:07:14,Regione Friuli Venezia Giulia: tutte le informazioni utili per i rifugiati in arrivo dall’Ucraina (UA-IT-UK),45.6496485,13.7772781,Friuli Venezia Giulia,Trieste,"[""Valid/Accettato"",""News"",""useful contact"",""hospitality"",""transport"",""healthcare""]",,,"{""Posizione"":""45.6496485 13.7772781"",""description"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.protezionecivile.fvg.it/it/la-protezione-civile/eventi/info-utili-lingresso-dei-profughi-ucraini-italia"",""location"":{""address"":{""address"":{""city"":""Trieste"",""country"":""Italia"",""country_code"":""it"",""county"":""Trieste"",""postcode"":""34121-34151"",""state"":""Friuli Venezia Giulia""},""boundingbox"":[""45.6067952"",""45.7466197"",""13.6683192"",""13.8983086""],""class"":""boundary"",""display_name"":""Trieste, Friuli Venezia Giulia, 34121-34151, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7510132817722335,""lat"":""45.6496485"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.7772781"",""osm_id"":179180,""osm_type"":""relation"",""place_id"":284825974,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Regione Friuli Venezia Giulia FVG: tutte le informazioni utili per i rifugiati in arrivo dall\u2019Ucraina (UA-IT-UK)""}","<pre><yamldata>
+title: 'Regione Friuli Venezia Giulia FVG: tutte le informazioni utili per i rifugiati
+  in arrivo dall’Ucraina (UA-IT-UK)'
+description: ''
+link: https://www.protezionecivile.fvg.it/it/la-protezione-civile/eventi/info-utili-lingresso-dei-profughi-ucraini-italia
+location:
+  mode: autocomplete
+  address:
+    place_id: 284825974
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 179180
+    boundingbox:
+    - '45.6067952'
+    - '45.7466197'
+    - '13.6683192'
+    - '13.8983086'
+    lat: '45.6496485'
+    lon: '13.7772781'
+    display_name: Trieste, Friuli Venezia Giulia, 34121-34151, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7510132817722335
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Trieste
+      county: Trieste
+      state: Friuli Venezia Giulia
+      postcode: 34121-34151
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.6496485 13.7772781
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/457,1190613701,2022-04-02 21:03:35,2022-04-02 12:08:18,"Contatti di volontari che, in collaborazione con Consolato Ucraino di Firenze, offrono prima assistenza agli ucraini arrivati in Toscana",43.4586541,11.1389204,Toscana,Siena,"[""Valid/Accettato"",""Services"",""Legal"",""useful contact"",""hospitality"",""translation""]",,,"{""Posizione"":""43.4586541 11.1389204"",""description"":""Di seguito i contatti dei volontari in Toscana che, in collaborazione con il Consolato Ucraino di Firenze, forniscono informazioni per ottenere un alloggio e richiedere la protezione temporanea o lo status di rifugiato:\nFirenze +39 347 652 5828 Natalia\nMassa-Carrara +39 3457785515 Caterina\nPisa +39 3294187558 Lesia\nPrato +39 3284837294 Oxana; +39 3284451141 Maria\nPistoia +39 3534122309 Livia; +39 3296984497 Natalia\nSiena +39 3343282700 Svitlana\nLucca +39 3881769574 Oxana\nLivorno +39 3285531064 Irina\nArezzo +39 351 6094647 Irina\nUmbria +39 371 4253136 Paolo"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""fakenews"",""link"":""https://www.facebook.com/groups/ucrainaintoscana/permalink/2013577012137474"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Toscana""},""boundingbox"":[""42.237615"",""44.4725419"",""9.6867692"",""12.3713544""],""class"":""boundary"",""display_name"":""Toscana, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7870417219974091,""lat"":""43.4586541"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.1389204"",""osm_id"":41977,""osm_type"":""relation"",""place_id"":284349698,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Contatti dei volontari che, in collaborazione con Consokato Ucraino di Firenze, offrono prima assistenza ai profughi ucraini che arrivano in Toscana""}","<pre><yamldata>
+title: Contatti dei volontari che, in collaborazione con Consokato Ucraino di Firenze,
+  offrono prima assistenza ai profughi ucraini che arrivano in Toscana
+description: 'Di seguito i contatti dei volontari in Toscana che, in collaborazione
+  con il Consolato Ucraino di Firenze, forniscono informazioni per ottenere un alloggio
+  e richiedere la protezione temporanea o lo status di rifugiato:
+
+  Firenze
+ +39 347 652 5828 Natalia
+
+  Massa-Carrara
+ +39 3457785515 Caterina
+
+  Pisa
++39 3294187558 Lesia
+
+  Prato
++39 3284837294 Oxana;
++39 3284451141 Maria
+
+ Pistoia
++39 3534122309 Livia;
+ +39 3296984497 Natalia
+
+  Siena
+ +39 3343282700 Svitlana
+
+  Lucca
+  +39 3881769574 Oxana
+
+  Livorno
++39 3285531064 Irina
+
+  Arezzo
+ +39 351 6094647 Irina
+
+  Umbria
++39 371 4253136 Paolo'
+link: https://www.facebook.com/groups/ucrainaintoscana/permalink/2013577012137474
+location:
+  mode: autocomplete
+  address:
+    place_id: 284349698
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 41977
+    boundingbox:
+    - '42.237615'
+    - '44.4725419'
+    - '9.6867692'
+    - '12.3713544'
+    lat: '43.4586541'
+    lon: '11.1389204'
+    display_name: Toscana, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7870417219974091
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      state: Toscana
+      country: Italia
+      country_code: it
+label: fakenews
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 43.4586541 11.1389204
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/461,1190662368,2022-04-02 19:10:10,2022-04-02 15:23:51,Comune di Desio (MB): informazioni utili per i rifugiati e per chi vuole aiutare (ITA - UA),,,,,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""hospitality"",""healthcare"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Monza e della Brianza"",""postcode"":""20832"",""state"":""Lombardia"",""town"":""Desio""},""boundingbox"":[""45.5960657"",""45.6365128"",""9.174791"",""9.2349795""],""class"":""boundary"",""display_name"":""Desio, Monza e della Brianza, Lombardia, 20832, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.59470306841754,""lat"":""45.6183103"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2081245"",""osm_id"":45466,""osm_type"":""relation"",""place_id"":284616605,""type"":""administrative""},""mode"":""autocomplete""},""description"":""- adempimenti per la presenza e ospitalit\u00e0 di persone ucraine,\n\n- da ATS Brianza assistenza sanitaria per i profughi: Italiano ITA - Ucraino UA \n\n \n- Animali d'affezione al seguito dei profughi provenienti dall'Ucraina: obbligo di segnalazione all'ATS\n \n - servizi sul territorio (ITA), \u043f\u043e\u0441\u043b\u0443\u0433\u0438 \u043d\u0430 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0456\u0457 (UA)\n\n \n- come mettere a disposizione un appartamento nel sistema CAS \n\n- Avviso di Regione Lombardia per manifestazione d'interesse rivolta alle strutture ricettive per ospitare i profughi\n \n- come aiutare"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Desio"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":true,""disability"":false,""education"":true,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Desio: tutte  le informazioni utili per i rifugiati e per chi vuole aiutare (ITA - UA)"",""url"":""https://www.comune.desio.mb.it/it/news/1314466""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
@@ -266,73 +369,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/457,1190613701,2022-04-02 18:27:01,2022-04-02 12:08:18,"Contatti dei volontari che, in collaborazione con Consolato Ucraino di Firenze, offrono prima assistenza agli ucraini arrivati in Toscana",43.4586541,11.1389204,Toscana,Siena,"[""Valid/Accettato"",""Services"",""Legal"",""useful contact"",""hospitality"",""translation""]",,,"{""Posizione"":""43.4586541 11.1389204"",""description"":""Di seguito i contatti dei volontari in Toscana che, in collaborazione con il Consolato Ucraino di Firenze, forniscono informazioni per ottenere un alloggio e richiedere la protezione temporanea o lo status di rifugiato:\nFirenze +39 347 652 5828 Natalia\nMassa-Carrara +39 3457785515 Caterina\nPisa +39 3294187558 Lesia\nPrato +39 3284837294 Oxana; +39 3284451141 Maria\nPistoia +39 3534122309 Livia; +39 3296984497 Natalia\nSiena +39 3343282700 Svitlana\nLucca +39 3881769574 Oxana\nLivorno +39 3285531064 Irina\nArezzo +39 351 6094647 Irina\nUmbria +39 371 4253136 Paolo"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""fakenews"",""link"":""https://www.facebook.com/groups/ucrainaintoscana/permalink/2013577012137474"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Toscana""},""boundingbox"":[""42.237615"",""44.4725419"",""9.6867692"",""12.3713544""],""class"":""boundary"",""display_name"":""Toscana, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7870417219974091,""lat"":""43.4586541"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.1389204"",""osm_id"":41977,""osm_type"":""relation"",""place_id"":284349698,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Contatti dei volontari che, in collaborazione con Consokato Ucraino di Firenze, offrono prima assistenza ai profughi ucraini che arrivano in Toscana""}","<pre><yamldata>
-title: Contatti dei volontari che, in collaborazione con Consokato Ucraino di Firenze,
-  offrono prima assistenza ai profughi ucraini che arrivano in Toscana
-description: 'Di seguito i contatti dei volontari in Toscana che, in collaborazione
-  con il Consolato Ucraino di Firenze, forniscono informazioni per ottenere un alloggio
-  e richiedere la protezione temporanea o lo status di rifugiato:
-
-  Firenze
- +39 347 652 5828 Natalia
-
-  Massa-Carrara
- +39 3457785515 Caterina
-
-  Pisa
-+39 3294187558 Lesia
-
-  Prato
-+39 3284837294 Oxana;
-+39 3284451141 Maria
-
- Pistoia
-+39 3534122309 Livia;
- +39 3296984497 Natalia
-
-  Siena
- +39 3343282700 Svitlana
-
-  Lucca
-  +39 3881769574 Oxana
-
-  Livorno
-+39 3285531064 Irina
-
-  Arezzo
- +39 351 6094647 Irina
-
-  Umbria
-+39 371 4253136 Paolo'
-link: https://www.facebook.com/groups/ucrainaintoscana/permalink/2013577012137474
-location:
-  mode: autocomplete
-  address:
-    place_id: 284349698
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 41977
-    boundingbox:
-    - '42.237615'
-    - '44.4725419'
-    - '9.6867692'
-    - '12.3713544'
-    lat: '43.4586541'
-    lon: '11.1389204'
-    display_name: Toscana, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7870417219974091
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      state: Toscana
-      country: Italia
-      country_code: it
-label: fakenews
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 43.4586541 11.1389204
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/456,1190559460,2022-04-02 14:15:31,2022-04-02 08:34:48,Fondazione Banca del Monte di Lombardia offre contributi  per i progetti dedicati ai minori degli enti no profit di Pavia ,45.036854649999995,9.137825082826026,Lombardia,Pavia,"[""Valid/Accettato"",""News"",""Services"",""Children"",""telegram-channel"",""tweet"",""Resources""]",,,"{""Posizione"":""45.036854649999995 9.137825082826026"",""description"":""Da Fondazione Banca del Monte di Lombardia Contributi per i progetti dedicati ai minori degli enti no profit della provincia di Pavia"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.csvlombardia.it/senza-categoria/post/emergenza-ucraina-contributi-per-i-progetti-dedicati-ai-minori/"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""state"":""Lombardia""},""boundingbox"":[""44.6799091"",""45.393838"",""8.4978518"",""9.5505475""],""class"":""boundary"",""display_name"":""Pavia, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7422019961097704,""lat"":""45.036854649999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.137825082826026"",""osm_id"":43483,""osm_type"":""relation"",""place_id"":283772748,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Da Fondazione Banca del Monte di Lombardia Contributi per i progetti dedicati ai minori degli enti no profit della provincia di Pavia""}","<pre><yamldata>
 title: Da Fondazione Banca del Monte di Lombardia Contributi per i progetti dedicati
   ai minori degli enti no profit della provincia di Pavia
@@ -367,42 +403,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 45.036854649999995 9.137825082826026
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/459,1190643427,2022-04-02 14:14:33,2022-04-02 14:07:14,Regione Friuli Venezia Giulia FVG: tutte le informazioni utili per i rifugiati in arrivo dall’Ucraina (UA-IT-UK),45.6496485,13.7772781,Friuli Venezia Giulia,Trieste,"[""Valid/Accettato"",""News"",""useful contact"",""hospitality"",""transport"",""healthcare""]",,,"{""Posizione"":""45.6496485 13.7772781"",""description"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.protezionecivile.fvg.it/it/la-protezione-civile/eventi/info-utili-lingresso-dei-profughi-ucraini-italia"",""location"":{""address"":{""address"":{""city"":""Trieste"",""country"":""Italia"",""country_code"":""it"",""county"":""Trieste"",""postcode"":""34121-34151"",""state"":""Friuli Venezia Giulia""},""boundingbox"":[""45.6067952"",""45.7466197"",""13.6683192"",""13.8983086""],""class"":""boundary"",""display_name"":""Trieste, Friuli Venezia Giulia, 34121-34151, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7510132817722335,""lat"":""45.6496485"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.7772781"",""osm_id"":179180,""osm_type"":""relation"",""place_id"":284825974,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Regione Friuli Venezia Giulia FVG: tutte le informazioni utili per i rifugiati in arrivo dall\u2019Ucraina (UA-IT-UK)""}","<pre><yamldata>
-title: 'Regione Friuli Venezia Giulia FVG: tutte le informazioni utili per i rifugiati
-  in arrivo dall’Ucraina (UA-IT-UK)'
-description: ''
-link: https://www.protezionecivile.fvg.it/it/la-protezione-civile/eventi/info-utili-lingresso-dei-profughi-ucraini-italia
-location:
-  mode: autocomplete
-  address:
-    place_id: 284825974
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 179180
-    boundingbox:
-    - '45.6067952'
-    - '45.7466197'
-    - '13.6683192'
-    - '13.8983086'
-    lat: '45.6496485'
-    lon: '13.7772781'
-    display_name: Trieste, Friuli Venezia Giulia, 34121-34151, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7510132817722335
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Trieste
-      county: Trieste
-      state: Friuli Venezia Giulia
-      postcode: 34121-34151
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 45.6496485 13.7772781
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/453,1190311155,2022-04-02 08:38:22,2022-04-01 22:02:44,Eurordis - Rete europea malattie rare cerca volontari da inserire nel programma di aiuti per emergenza Ucraina,48.827419,2.3145182,,,"[""Valid/Accettato"",""Help"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""48.827419 2.3145182"",""description"":""Eurordis - Rete Europea malattie rare sta cercando volontari da inserire nel programma di aiuti per l\u2019emergenza Ucraina. In particolare cerca volontari che  conoscano il russo o l\u2019ucraino, abbiano familiarit\u00e0 con patologie rare e servizi di accoglienza. Al link ulteriori informazioni. Per info e invio disponibilit\u00e0 helpukraine@eurordis.org"",""email"":""helpukraine@eurordis.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city_block"":""Quartier de Plaisance"",""city_district"":""Parigi"",""country"":""Francia"",""country_code"":""fr"",""county"":""Parigi"",""house_number"":""96"",""neighbourhood"":""Paris 14e Arrondissement"",""postcode"":""75014"",""region"":""Francia metropolitana"",""road"":""Rue Didot"",""state"":""Isola di Francia"",""suburb"":""Parigi""},""boundingbox"":[""48.827369"",""48.827469"",""2.3144682"",""2.3145682""],""class"":""place"",""display_name"":""96, Rue Didot, Quartier de Plaisance, Paris 14e Arrondissement, Parigi, Isola di Francia, Francia metropolitana, 75014, Francia"",""importance"":0.5209999999999999,""lat"":""48.827419"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""2.3145182"",""osm_id"":1389822713,""osm_type"":""node"",""place_id"":13628593,""type"":""house""},""mode"":""autocomplete""},""nameSurname"":""Eurordis - Rete Europea malattie rare"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Eurordis - Rete Europea malattie rare sta cercando volontari da inserire nel programma di aiuti per l\u2019emergenza Ucraina"",""url"":""https://www.eurordis.org/content/urgent-call-volunteers-help-ukraine""}","<pre><yamldata>
 nameSurname: Eurordis - Rete Europea malattie rare
