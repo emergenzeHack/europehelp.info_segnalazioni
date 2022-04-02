@@ -1,4 +1,162 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/463,1190677316,2022-04-02 19:06:54,2022-04-02 16:28:08,A Milano la coop Spazio Aperto cerca  assistenti sociali per attività a favore dei rifugiati ucraini,45.4403387,9.1459002,Lombardia,Milano,"[""Valid/Accettato"",""job""]",,,"{""Posizione"":""45.4403387 9.1459002"",""description"":""La cooperativa Spazio Aperto cerca assistenti sociali per servizi di accoglienza\nContratto: Livello D2 CCNL Cooperative Sociali \nOrario: 38h settimanali \nRequisiti: Laurea in Servizio Sociale e iscrizione all'Albo Professionale"",""email"":""selezione@spazioapertoservizi.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""26"",""postcode"":""20146"",""quarter"":""Ronchetto Sul Naviglio"",""road"":""Via Francesco Olgiati"",""state"":""Lombardia"",""suburb"":""Restocco Maroni""},""boundingbox"":[""45.4402887"",""45.4403887"",""9.1458502"",""9.1459502""],""class"":""place"",""display_name"":""26, Via Francesco Olgiati, Ronchetto Sul Naviglio, Restocco Maroni, Milano, Lombardia, 20146, Italia"",""importance"":0.42099999999999993,""lat"":""45.4403387"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1459002"",""osm_id"":9394096121,""osm_type"":""node"",""place_id"":326660295,""type"":""house""},""mode"":""autocomplete""},""nameSurname"":""Cooperativa Spazio Aperto"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Cooperativa ricerca assistenti sociali a Milano"",""url"":""https://spazioapertoservizi.org/""}","<pre><yamldata>
+nameSurname: Cooperativa Spazio Aperto
+phoneNumber: ''
+email: selezione@spazioapertoservizi.org
+title: Cooperativa ricerca assistenti sociali a Milano
+recipients: ''
+description: ""La cooperativa Spazio Aperto cerca assistenti sociali per servizi di\
+  \ accoglienza\nContratto: Livello D2 CCNL Cooperative Sociali \nOrario: 38h settimanali\
+  \ \nRequisiti: Laurea in Servizio Sociale e iscrizione all'Albo Professionale""
+url: https://spazioapertoservizi.org/
+location:
+  mode: autocomplete
+  address:
+    place_id: 326660295
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 9394096121
+    boundingbox:
+    - '45.4402887'
+    - '45.4403887'
+    - '9.1458502'
+    - '9.1459502'
+    lat: '45.4403387'
+    lon: '9.1459002'
+    display_name: 26, Via Francesco Olgiati, Ronchetto Sul Naviglio, Restocco Maroni,
+      Milano, Lombardia, 20146, Italia
+    class: place
+    type: house
+    importance: 0.42099999999999993
+    address:
+      house_number: '26'
+      road: Via Francesco Olgiati
+      quarter: Ronchetto Sul Naviglio
+      suburb: Restocco Maroni
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20146'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 45.4403387 9.1459002
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/462,1190676623,2022-04-02 19:03:41,2022-04-02 16:25:04,A Milano la coop Spazio Aperto cerca mediatori culturali di lingua ucraina/russa,45.4403387,9.1459002,Lombardia,Milano,"[""Valid/Accettato"",""translation"",""job""]",,,"{""Posizione"":""45.4403387 9.1459002"",""description"":""La Cooperativa Spazio Aperto nell'ambito dei servizi di accoglienza in risposta all'emergenza Ucraina, cerca, da impiegare subito, mediatori culturali\nOrario: 25h settimanali"",""email"":""selezione@spazioapertoservizi.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""26"",""postcode"":""20146"",""quarter"":""Ronchetto Sul Naviglio"",""road"":""Via Francesco Olgiati"",""state"":""Lombardia"",""suburb"":""Restocco Maroni""},""boundingbox"":[""45.4402887"",""45.4403887"",""9.1458502"",""9.1459502""],""class"":""place"",""display_name"":""26, Via Francesco Olgiati, Ronchetto Sul Naviglio, Restocco Maroni, Milano, Lombardia, 20146, Italia"",""importance"":0.411,""lat"":""45.4403387"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1459002"",""osm_id"":9394096121,""osm_type"":""node"",""place_id"":326660295,""type"":""house""},""mode"":""autocomplete""},""nameSurname"":""Spazio Aperto Servizi"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Ricerca mediatori culturali di lingua ucraina/russa"",""url"":""https://spazioapertoservizi.org/""}","<pre><yamldata>
+nameSurname: Spazio Aperto Servizi
+phoneNumber: ''
+email: selezione@spazioapertoservizi.org
+title: Ricerca mediatori culturali di lingua ucraina/russa
+recipients: ''
+description: 'La Cooperativa Spazio Aperto nell''ambito dei servizi di accoglienza
+  in risposta all''emergenza Ucraina, cerca, da impiegare subito, mediatori culturali
+
+  Orario: 25h settimanali'
+url: https://spazioapertoservizi.org/
+location:
+  mode: autocomplete
+  address:
+    place_id: 326660295
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 9394096121
+    boundingbox:
+    - '45.4402887'
+    - '45.4403887'
+    - '9.1458502'
+    - '9.1459502'
+    lat: '45.4403387'
+    lon: '9.1459002'
+    display_name: 26, Via Francesco Olgiati, Ronchetto Sul Naviglio, Restocco Maroni,
+      Milano, Lombardia, 20146, Italia
+    class: place
+    type: house
+    importance: 0.411
+    address:
+      house_number: '26'
+      road: Via Francesco Olgiati
+      quarter: Ronchetto Sul Naviglio
+      suburb: Restocco Maroni
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20146'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 45.4403387 9.1459002
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/460,1190650885,2022-04-02 19:00:34,2022-04-02 14:37:18,A Milano CPIA offre corsi gratuiti di lingua italiana per i rifugiati dall’Ucraina,,,,,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""state"":""Lombardia""},""boundingbox"":[""45.3867381"",""45.5358482"",""9.0408867"",""9.2781103""],""class"":""boundary"",""display_name"":""Milano, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8390652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":44915,""osm_type"":""relation"",""place_id"":283684439,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Per la citt\u00e0 di Milano il CPIA - Centro Provinciale per l'istruzione degli Adulti attiva corsi gratuiti di italiano L2 di diverso livello nelle sue otto sedi cittadine:\nCPIA Via Pontano\nCPIA Via Heine\nCPIA Via Colletta\nCPIA Viale Zara\nCPIA Via Scrosati\nCPIA Via Satta\nCPIA Viale Campania\n\nPer ulteriori info vedi link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""CPIA - Centro Provinciale per l'istruzione degli Adulti"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Milano presso le 8 sedi del CPIA corsi gratuiti di lingua italiana"",""url"":""https://milano.italianostranieri.org/it/pages/corsi-di-italiano-gratuiti-nelle-scuola-pubbliche-di-milano""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: CPIA - Centro Provinciale per l'istruzione degli Adulti
+title: A Milano presso le 8 sedi del CPIA corsi gratuiti di lingua italiana
+recipients: ''
+description: 'Per la città di Milano il CPIA - Centro Provinciale per l''istruzione
+  degli Adulti attiva corsi gratuiti di italiano L2 di diverso livello nelle sue otto
+  sedi cittadine:
+
+  CPIA Via Pontano
+
+  CPIA Via Heine
+
+  CPIA Via Colletta
+
+  CPIA Viale Zara
+
+  CPIA Via Scrosati
+
+  CPIA Via Satta
+
+  CPIA Viale Campania
+
+
+  Per ulteriori info vedi link.'
+url: https://milano.italianostranieri.org/it/pages/corsi-di-italiano-gratuiti-nelle-scuola-pubbliche-di-milano
+address:
+  mode: autocomplete
+  address:
+    place_id: 283684439
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 44915
+    boundingbox:
+    - '45.3867381'
+    - '45.5358482'
+    - '9.0408867'
+    - '9.2781103'
+    lat: '45.4641943'
+    lon: '9.1896346'
+    display_name: Milano, Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8390652078701348
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Milano
+      county: Milano
+      state: Lombardia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/461,1190662368,2022-04-02 18:28:44,2022-04-02 15:23:51,Comune di Desio (MB): tutte  le informazioni utili per i rifugiati e per chi vuole aiutare (ITA - UA),,,,,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""hospitality"",""healthcare"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Monza e della Brianza"",""postcode"":""20832"",""state"":""Lombardia"",""town"":""Desio""},""boundingbox"":[""45.5960657"",""45.6365128"",""9.174791"",""9.2349795""],""class"":""boundary"",""display_name"":""Desio, Monza e della Brianza, Lombardia, 20832, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.59470306841754,""lat"":""45.6183103"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2081245"",""osm_id"":45466,""osm_type"":""relation"",""place_id"":284616605,""type"":""administrative""},""mode"":""autocomplete""},""description"":""- adempimenti per la presenza e ospitalit\u00e0 di persone ucraine,\n\n- da ATS Brianza assistenza sanitaria per i profughi: Italiano ITA - Ucraino UA \n\n \n- Animali d'affezione al seguito dei profughi provenienti dall'Ucraina: obbligo di segnalazione all'ATS\n \n - servizi sul territorio (ITA), \u043f\u043e\u0441\u043b\u0443\u0433\u0438 \u043d\u0430 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0456\u0457 (UA)\n\n \n- come mettere a disposizione un appartamento nel sistema CAS \n\n- Avviso di Regione Lombardia per manifestazione d'interesse rivolta alle strutture ricettive per ospitare i profughi\n \n- come aiutare"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Desio"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":true,""disability"":false,""education"":true,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Desio: tutte  le informazioni utili per i rifugiati e per chi vuole aiutare (ITA - UA)"",""url"":""https://www.comune.desio.mb.it/it/news/1314466""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
