@@ -1,4 +1,113 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/461,1190662368,2022-04-02 19:10:10,2022-04-02 15:23:51,Comune di Desio (MB): informazioni utili per i rifugiati e per chi vuole aiutare (ITA - UA),,,,,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""hospitality"",""healthcare"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Monza e della Brianza"",""postcode"":""20832"",""state"":""Lombardia"",""town"":""Desio""},""boundingbox"":[""45.5960657"",""45.6365128"",""9.174791"",""9.2349795""],""class"":""boundary"",""display_name"":""Desio, Monza e della Brianza, Lombardia, 20832, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.59470306841754,""lat"":""45.6183103"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2081245"",""osm_id"":45466,""osm_type"":""relation"",""place_id"":284616605,""type"":""administrative""},""mode"":""autocomplete""},""description"":""- adempimenti per la presenza e ospitalit\u00e0 di persone ucraine,\n\n- da ATS Brianza assistenza sanitaria per i profughi: Italiano ITA - Ucraino UA \n\n \n- Animali d'affezione al seguito dei profughi provenienti dall'Ucraina: obbligo di segnalazione all'ATS\n \n - servizi sul territorio (ITA), \u043f\u043e\u0441\u043b\u0443\u0433\u0438 \u043d\u0430 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0456\u0457 (UA)\n\n \n- come mettere a disposizione un appartamento nel sistema CAS \n\n- Avviso di Regione Lombardia per manifestazione d'interesse rivolta alle strutture ricettive per ospitare i profughi\n \n- come aiutare"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Desio"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":true,""disability"":false,""education"":true,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Desio: tutte  le informazioni utili per i rifugiati e per chi vuole aiutare (ITA - UA)"",""url"":""https://www.comune.desio.mb.it/it/news/1314466""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: true
+  transport: false
+  healthcare: true
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: true
+offerFromWho: Comune di Desio
+title: 'Comune di Desio: tutte  le informazioni utili per i rifugiati e per chi vuole
+  aiutare (ITA - UA)'
+recipients: ''
+description: ""- adempimenti per la presenza e ospitalità di persone ucraine,\n\n-\
+  \ da ATS Brianza assistenza sanitaria per i profughi: Italiano ITA - Ucraino UA\
+  \ \n\n \n- Animali d'affezione al seguito dei profughi provenienti dall'Ucraina:\
+  \ obbligo di segnalazione all'ATS\n \n - servizi sul territorio (ITA), послуги на\
+  \ території (UA)\n\n \n- come mettere a disposizione un appartamento nel sistema\
+  \ CAS \n\n- Avviso di Regione Lombardia per manifestazione d'interesse rivolta alle\
+  \ strutture ricettive per ospitare i profughi\n \n- come aiutare""
+url: https://www.comune.desio.mb.it/it/news/1314466
+address:
+  mode: autocomplete
+  address:
+    place_id: 284616605
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 45466
+    boundingbox:
+    - '45.5960657'
+    - '45.6365128'
+    - '9.174791'
+    - '9.2349795'
+    lat: '45.6183103'
+    lon: '9.2081245'
+    display_name: Desio, Monza e della Brianza, Lombardia, 20832, Italia
+    class: boundary
+    type: administrative
+    importance: 0.59470306841754
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      town: Desio
+      county: Monza e della Brianza
+      state: Lombardia
+      postcode: '20832'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/465,1190679771,2022-04-02 19:09:27,2022-04-02 16:39:32,Tavole di comunicazione Italiano-Ucraino per supportare l'accoglienza dei rifugiati ,,,,,"[""Valid/Accettato"",""Services"",""translation"",""Resources""]",,,"{""address"":{""address"":{""address"":{""city"":""Messina"",""country"":""Italia"",""country_code"":""it"",""county"":""Messina"",""state"":""Sicilia""},""boundingbox"":[""38.0555079"",""38.3014883"",""15.4079341"",""15.6530796""],""class"":""boundary"",""display_name"":""Messina, Sicilia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7184888944576663,""lat"":""38.1937571"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.5542082"",""osm_id"":39514,""osm_type"":""relation"",""place_id"":283170369,""type"":""administrative""},""mode"":""autocomplete""},""description"":""La Onlus Persona Sempre di Messina ha prodotto delle tavole di mediazione linguistica che contiene  la traduzione e delle immagini-simbolo che rendano immediatamente comprensibile il contenuto. Sono pubblicate e scaricabili le guide gi\u00e0 prodotte: \u201cBenvenuti in famiglia\u201d, \u201cBenvenuti a scuola\u201d, \u201cBenvenuti a scuola dell\u2019infanzia\u201d, \u201cBenvenuti dal pediatra\u201d, tutte ideate secondo il modello di mediazione da lingua italiana a lingua ucraina attraverso immagini."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Onlus Persona Sempre"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Tavole di comunicazione Italiano-Ucraino per supportare l'accoglienza"",""url"":""https://benvenutiinitalia.onluspersonasempre.it/emergenzs-ucraina/26/tavole-di-comunicazione""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: true
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Onlus Persona Sempre
+title: Tavole di comunicazione Italiano-Ucraino per supportare l'accoglienza
+recipients: ''
+description: 'La Onlus Persona Sempre di Messina ha prodotto delle tavole di mediazione
+  linguistica che contiene  la traduzione e delle immagini-simbolo che rendano immediatamente
+  comprensibile il contenuto. Sono pubblicate e scaricabili le guide già prodotte:
+  “Benvenuti in famiglia”, “Benvenuti a scuola”, “Benvenuti a scuola dell’infanzia”,
+  “Benvenuti dal pediatra”, tutte ideate secondo il modello di mediazione da lingua
+  italiana a lingua ucraina attraverso immagini.'
+url: https://benvenutiinitalia.onluspersonasempre.it/emergenzs-ucraina/26/tavole-di-comunicazione
+address:
+  mode: autocomplete
+  address:
+    place_id: 283170369
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 39514
+    boundingbox:
+    - '38.0555079'
+    - '38.3014883'
+    - '15.4079341'
+    - '15.6530796'
+    lat: '38.1937571'
+    lon: '15.5542082'
+    display_name: Messina, Sicilia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7184888944576663
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Messina
+      county: Messina
+      state: Sicilia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/463,1190677316,2022-04-02 19:06:54,2022-04-02 16:28:08,A Milano la coop Spazio Aperto cerca  assistenti sociali per attività a favore dei rifugiati ucraini,45.4403387,9.1459002,Lombardia,Milano,"[""Valid/Accettato"",""job""]",,,"{""Posizione"":""45.4403387 9.1459002"",""description"":""La cooperativa Spazio Aperto cerca assistenti sociali per servizi di accoglienza\nContratto: Livello D2 CCNL Cooperative Sociali \nOrario: 38h settimanali \nRequisiti: Laurea in Servizio Sociale e iscrizione all'Albo Professionale"",""email"":""selezione@spazioapertoservizi.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""26"",""postcode"":""20146"",""quarter"":""Ronchetto Sul Naviglio"",""road"":""Via Francesco Olgiati"",""state"":""Lombardia"",""suburb"":""Restocco Maroni""},""boundingbox"":[""45.4402887"",""45.4403887"",""9.1458502"",""9.1459502""],""class"":""place"",""display_name"":""26, Via Francesco Olgiati, Ronchetto Sul Naviglio, Restocco Maroni, Milano, Lombardia, 20146, Italia"",""importance"":0.42099999999999993,""lat"":""45.4403387"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1459002"",""osm_id"":9394096121,""osm_type"":""node"",""place_id"":326660295,""type"":""house""},""mode"":""autocomplete""},""nameSurname"":""Cooperativa Spazio Aperto"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Cooperativa ricerca assistenti sociali a Milano"",""url"":""https://spazioapertoservizi.org/""}","<pre><yamldata>
 nameSurname: Cooperativa Spazio Aperto
 phoneNumber: ''
@@ -151,62 +260,6 @@ address:
       city: Milano
       county: Milano
       state: Lombardia
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/461,1190662368,2022-04-02 18:28:44,2022-04-02 15:23:51,Comune di Desio (MB): tutte  le informazioni utili per i rifugiati e per chi vuole aiutare (ITA - UA),,,,,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""hospitality"",""healthcare"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Monza e della Brianza"",""postcode"":""20832"",""state"":""Lombardia"",""town"":""Desio""},""boundingbox"":[""45.5960657"",""45.6365128"",""9.174791"",""9.2349795""],""class"":""boundary"",""display_name"":""Desio, Monza e della Brianza, Lombardia, 20832, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.59470306841754,""lat"":""45.6183103"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2081245"",""osm_id"":45466,""osm_type"":""relation"",""place_id"":284616605,""type"":""administrative""},""mode"":""autocomplete""},""description"":""- adempimenti per la presenza e ospitalit\u00e0 di persone ucraine,\n\n- da ATS Brianza assistenza sanitaria per i profughi: Italiano ITA - Ucraino UA \n\n \n- Animali d'affezione al seguito dei profughi provenienti dall'Ucraina: obbligo di segnalazione all'ATS\n \n - servizi sul territorio (ITA), \u043f\u043e\u0441\u043b\u0443\u0433\u0438 \u043d\u0430 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0456\u0457 (UA)\n\n \n- come mettere a disposizione un appartamento nel sistema CAS \n\n- Avviso di Regione Lombardia per manifestazione d'interesse rivolta alle strutture ricettive per ospitare i profughi\n \n- come aiutare"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Desio"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":true,""disability"":false,""education"":true,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Desio: tutte  le informazioni utili per i rifugiati e per chi vuole aiutare (ITA - UA)"",""url"":""https://www.comune.desio.mb.it/it/news/1314466""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: true
-  transport: false
-  healthcare: true
-  Legal: true
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: true
-  disability: false
-  women: false
-  education: true
-offerFromWho: Comune di Desio
-title: 'Comune di Desio: tutte  le informazioni utili per i rifugiati e per chi vuole
-  aiutare (ITA - UA)'
-recipients: ''
-description: ""- adempimenti per la presenza e ospitalità di persone ucraine,\n\n-\
-  \ da ATS Brianza assistenza sanitaria per i profughi: Italiano ITA - Ucraino UA\
-  \ \n\n \n- Animali d'affezione al seguito dei profughi provenienti dall'Ucraina:\
-  \ obbligo di segnalazione all'ATS\n \n - servizi sul territorio (ITA), послуги на\
-  \ території (UA)\n\n \n- come mettere a disposizione un appartamento nel sistema\
-  \ CAS \n\n- Avviso di Regione Lombardia per manifestazione d'interesse rivolta alle\
-  \ strutture ricettive per ospitare i profughi\n \n- come aiutare""
-url: https://www.comune.desio.mb.it/it/news/1314466
-address:
-  mode: autocomplete
-  address:
-    place_id: 284616605
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 45466
-    boundingbox:
-    - '45.5960657'
-    - '45.6365128'
-    - '9.174791'
-    - '9.2349795'
-    lat: '45.6183103'
-    lon: '9.2081245'
-    display_name: Desio, Monza e della Brianza, Lombardia, 20832, Italia
-    class: boundary
-    type: administrative
-    importance: 0.59470306841754
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      town: Desio
-      county: Monza e della Brianza
-      state: Lombardia
-      postcode: '20832'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
