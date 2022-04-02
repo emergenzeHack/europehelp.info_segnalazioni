@@ -1,54 +1,5 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/447,1189940001,2022-04-01 22:15:35,2022-04-01 15:12:05,Iniziative dell'Università di Bologna a supporto di studenti e studiosi ucraini e non solo,,,,,"[""Valid/Accettato"",""Services"",""job"",""psychologicalSupport"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.0622266"",""44.8053346"",""10.8066008"",""11.841408""],""class"":""boundary"",""display_name"":""Bologna, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5846155635381287,""lat"":""44.433313299999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.394502576340368"",""osm_id"":42856,""osm_type"":""relation"",""place_id"":283906764,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Informazioni su dilazione per il pagamento delle tasse di marzo, borse di studio e altri benefici, iscrizione a singole attivit\u00e0 formative, visiting Fellows dall\u2019Ucraina presso l\u2019Istituto di Studi Avanzati, supporto psicologico."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Universit\u00e0 di Bologna"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":true,""materialGoods"":false,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Iniziative dell'Universit\u00e0 di Bologna"",""url"":""https://www.unibo.it/it/ateneo/chi-siamo/universita-bologna-per-la-pace""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: true
-  psychologicalSupport: true
-  Children: false
-  disability: false
-  women: false
-  education: true
-offerFromWho: Università di Bologna
-title: Iniziative dell'Università di Bologna
-recipients: ''
-description: Informazioni su dilazione per il pagamento delle tasse di marzo, borse
-  di studio e altri benefici, iscrizione a singole attività formative, visiting Fellows
-  dall’Ucraina presso l’Istituto di Studi Avanzati, supporto psicologico.
-url: https://www.unibo.it/it/ateneo/chi-siamo/universita-bologna-per-la-pace
-address:
-  mode: autocomplete
-  address:
-    place_id: 283906764
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 42856
-    boundingbox:
-    - '44.0622266'
-    - '44.8053346'
-    - '10.8066008'
-    - '11.841408'
-    lat: '44.433313299999995'
-    lon: '11.394502576340368'
-    display_name: Bologna, Emilia-Romagna, Italia
-    class: boundary
-    type: administrative
-    importance: 0.5846155635381287
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      county: Bologna
-      state: Emilia-Romagna
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/454,1190319020,2022-04-01 22:14:45,2022-04-01 22:12:23,"Il Telefono Verde Malattie Rare, presso l’Istituto superiore di sanità, offre info e assistenza ai cittadini ucraini affetti da patologie rare",,,,,"[""Valid/Accettato"",""Services"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""299"",""neighbourhood"":""San Lorenzo"",""postcode"":""00161"",""road"":""Viale Regina Elena"",""state"":""Lazio"",""suburb"":""Municipio Roma II""},""boundingbox"":[""41.9040944"",""41.9041944"",""12.5180152"",""12.5181152""],""class"":""place"",""display_name"":""299, Viale Regina Elena, San Lorenzo, Municipio Roma II, Roma, Roma Capitale, Lazio, 00161, Italia"",""importance"":0.6309999999999999,""lat"":""41.9041444"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.5180652"",""osm_id"":675164125,""osm_type"":""node"",""place_id"":5435535,""type"":""house""},""mode"":""autocomplete""},""description"":""Il Telefono Verde Malattie Rare, istituito nel 2008 presso il Centro nazionale malattie rare dell\u2019Istituto Superiore di Sanit\u00e0, offre il proprio servizio a supporto dei cittadini ucraini affetti da malattie rare.\nIl servizio \u00e8 gratuito su tutto il territorio nazionale, da telefono fisso e da cellulare.\nAll\u2019800 896949 risponde un'equipe di ricercatori esperti che, mediante un ascolto attivo e personalizzato, accoglie e fornisce informazioni sulle malattie, le esenzioni ad esse relative, orientando la persona verso i presidi di diagnosi e cura della Rete nazionale malattie rare e le Associazioni dei pazienti. \nIl numero \u00e8 attivo dal luned\u00ec al venerd\u00ec dalle ore 9:00 alle ore 13:00\n\nPer favorire l'accessibilit\u00e0 delle persone sorde al servizio di counselling telefonico, \u00e8 disponibile una e-mail dedicata: tvmrlis@iss.it. \n\nPer i cittadini residenti all'estero, \u00e8 possibile inviare una e-mail all'indirizzo tvmr@iss.it."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Telefono Verde Malattie Rare"",""recipients"":""Malati di patologie rare"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Il Telefono Verde Malattie Rare, presso l\u2019Istituto superiore di sanit\u00e0, offre info e assistenza ai cittadini ucraini affetti da patologie rare"",""url"":""https://uniamo.org/wp-content/uploads/2022/03/20220325-Prot-Civile-TElefono-Verde-malattier-rare.pdf""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/454,1190319020,2022-04-02 06:56:20,2022-04-01 22:12:23,"Il Telefono Verde Malattie Rare, presso l’Istituto superiore di sanità, offre info e assistenza ai cittadini ucraini affetti da patologie rare",,,,,"[""Valid/Accettato"",""Services"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""299"",""neighbourhood"":""San Lorenzo"",""postcode"":""00161"",""road"":""Viale Regina Elena"",""state"":""Lazio"",""suburb"":""Municipio Roma II""},""boundingbox"":[""41.9040944"",""41.9041944"",""12.5180152"",""12.5181152""],""class"":""place"",""display_name"":""299, Viale Regina Elena, San Lorenzo, Municipio Roma II, Roma, Roma Capitale, Lazio, 00161, Italia"",""importance"":0.6309999999999999,""lat"":""41.9041444"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.5180652"",""osm_id"":675164125,""osm_type"":""node"",""place_id"":5435535,""type"":""house""},""mode"":""autocomplete""},""description"":""Il Telefono Verde Malattie Rare, istituito nel 2008 presso il Centro nazionale malattie rare dell\u2019Istituto Superiore di Sanit\u00e0, offre il proprio servizio a supporto dei cittadini ucraini affetti da malattie rare.\nIl servizio \u00e8 gratuito su tutto il territorio nazionale, da telefono fisso e da cellulare.\nAll\u2019800 896949 risponde un'equipe di ricercatori esperti che, mediante un ascolto attivo e personalizzato, accoglie e fornisce informazioni sulle malattie, le esenzioni ad esse relative, orientando la persona verso i presidi di diagnosi e cura della Rete nazionale malattie rare e le Associazioni dei pazienti. \nIl numero \u00e8 attivo dal luned\u00ec al venerd\u00ec dalle ore 9:00 alle ore 13:00\n\nPer favorire l'accessibilit\u00e0 delle persone sorde al servizio di counselling telefonico, \u00e8 disponibile una e-mail dedicata: tvmrlis@iss.it. \n\nPer i cittadini residenti all'estero, \u00e8 possibile inviare una e-mail all'indirizzo tvmr@iss.it."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Telefono Verde Malattie Rare"",""recipients"":""Malati di patologie rare"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Il Telefono Verde Malattie Rare, presso l\u2019Istituto superiore di sanit\u00e0, offre info e assistenza ai cittadini ucraini affetti da patologie rare"",""url"":""https://uniamo.org/wp-content/uploads/2022/03/20220325-Prot-Civile-TElefono-Verde-malattier-rare.pdf""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
   hospitality: false
@@ -107,6 +58,55 @@ address:
       county: Roma Capitale
       state: Lazio
       postcode: '00161'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/447,1189940001,2022-04-01 22:15:35,2022-04-01 15:12:05,Iniziative dell'Università di Bologna a supporto di studenti e studiosi ucraini e non solo,,,,,"[""Valid/Accettato"",""Services"",""job"",""psychologicalSupport"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.0622266"",""44.8053346"",""10.8066008"",""11.841408""],""class"":""boundary"",""display_name"":""Bologna, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5846155635381287,""lat"":""44.433313299999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.394502576340368"",""osm_id"":42856,""osm_type"":""relation"",""place_id"":283906764,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Informazioni su dilazione per il pagamento delle tasse di marzo, borse di studio e altri benefici, iscrizione a singole attivit\u00e0 formative, visiting Fellows dall\u2019Ucraina presso l\u2019Istituto di Studi Avanzati, supporto psicologico."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Universit\u00e0 di Bologna"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":true,""materialGoods"":false,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Iniziative dell'Universit\u00e0 di Bologna"",""url"":""https://www.unibo.it/it/ateneo/chi-siamo/universita-bologna-per-la-pace""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: true
+  psychologicalSupport: true
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Università di Bologna
+title: Iniziative dell'Università di Bologna
+recipients: ''
+description: Informazioni su dilazione per il pagamento delle tasse di marzo, borse
+  di studio e altri benefici, iscrizione a singole attività formative, visiting Fellows
+  dall’Ucraina presso l’Istituto di Studi Avanzati, supporto psicologico.
+url: https://www.unibo.it/it/ateneo/chi-siamo/universita-bologna-per-la-pace
+address:
+  mode: autocomplete
+  address:
+    place_id: 283906764
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 42856
+    boundingbox:
+    - '44.0622266'
+    - '44.8053346'
+    - '10.8066008'
+    - '11.841408'
+    lat: '44.433313299999995'
+    lon: '11.394502576340368'
+    display_name: Bologna, Emilia-Romagna, Italia
+    class: boundary
+    type: administrative
+    importance: 0.5846155635381287
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Bologna
+      state: Emilia-Romagna
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
