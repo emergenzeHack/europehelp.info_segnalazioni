@@ -1,4 +1,53 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/455,1190554929,2022-04-02 08:25:18,2022-04-02 08:21:59,Raiplay.it offre cartoni animati per bambini in lingua italiana e ucraina,,,,,"[""Valid/Accettato"",""Services"",""translation"",""Children""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7896107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""description"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Raiplay"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""https://www.raiplay.it/benvenuti-bambini  Cartoni animati in lingua italiana e ucraina (contenuti gratuiti)."",""url"":""https://www.raiplay.it/benvenuti-bambini""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: true
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: false
+offerFromWho: Raiplay
+title: https://www.raiplay.it/benvenuti-bambini  Cartoni animati in lingua italiana
+  e ucraina (contenuti gratuiti).
+recipients: ''
+description: ''
+url: https://www.raiplay.it/benvenuti-bambini
+address:
+  mode: autocomplete
+  address:
+    place_id: 283767136
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 41485
+    boundingbox:
+    - '41.6556417'
+    - '42.1410285'
+    - '12.2344669'
+    - '12.8557603'
+    lat: '41.8933203'
+    lon: '12.4829321'
+    display_name: Roma, Roma Capitale, Lazio, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7896107180689524
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/441,1189426237,2022-04-02 06:58:03,2022-04-01 08:10:07,Supporto legale profughi ucraini: contact point sul territorio presso Ordini degli avvocati,,,,,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""telegram-channel"",""tweet""]",,,"{""description"":""Consiglio nazionale forense istituisce contact point presso Ordini degli avvocati territoriali per offrire servizi di supporto legale ai profughi ucraini in Italia."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.consiglionazionaleforense.it/web/cnf-news/-/24697-90"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Supporto legale profughi ucraini: contact point sul territorio presso Ordini degli avvocati""}","<pre><yamldata>
 title: 'Supporto legale profughi ucraini: contact point sul territorio presso Ordini
   degli avvocati'
