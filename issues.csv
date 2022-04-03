@@ -1,4 +1,66 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/466,1190834160,2022-04-03 06:35:28,2022-04-03 06:34:47,Provincia di Monza e Brianza: info utili per l’accoglienza dei profughi dall’Ucraina,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Monza e della Brianza"",""state"":""Lombardia""},""boundingbox"":[""45.5367099"",""45.7424391"",""9.0505698"",""9.4974636""],""class"":""boundary"",""display_name"":""Monza e della Brianza, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7207566855039824,""lat"":""45.639544"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.278869369225038"",""osm_id"":251419,""osm_type"":""relation"",""place_id"":284109714,""type"":""administrative""},""mode"":""autocomplete""},""description"":""La Provincia di Monza e della Brianza, \nnell\u2019ambito della cabina di regia istituita dalla Prefettura di #Monza e #Brianza per coordinare azioni ed iniziative necessarie per\n\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66l\u2019#accoglienza delle persone \nin fuga dalla #guerra in #Ucraina \ud83d\udd35\ud83d\udfe1\n\n\ud83d\udcd2 ha raccolto in un vademecum consultabile online, redatto in lingua ucraina, italiana e inglese, una serie di informazioni \n\ud83d\udd0etra cui gli obblighi sanitari da rispettare per far fronte alla pandemia, a chi rivolgersi per usufruire di un alloggio, le modalit\u00e0 per regolarizzare la propria posizione in Italia e contatti utili messi a disposizione delle amministrazioni comunali per dare supporto ai profughi in arrivo o gi\u00e0 presenti sul territorio e altre utili indicazioni.\n\n\ud83c\uddfa\ud83c\udde6\u043b\u0430\u0441\u043a\u0430\u0432\u043e \u043f\u0440\u043e\u0441\u0438\u043c\u043e \u0434\u043e \u0406\u0442\u0430\u043b\u0456\u0457\n\ud83c\uddee\ud83c\uddf9Benvenuti in #Italia\n\ud83c\uddec\ud83c\udde7Welcome to #Italy\n\n\u2139\ufe0f www.provincia.mb.it/EmergenzaUcraina \n\ud83d\udcf0 Press release: https://bit.ly/3Jnt0wh\n\n\u262e\ufe0fComune di Monza Comune Di Desio Comune di Vimercate Comune di Lissone Comune di Seregno ATS Brianza Croce Rossa Italiana - Comitato di Monza Caritas \n#EmergenzaUcraina Province Italiane UPI"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Provincia MB"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Provincia di Monza e Brianza: info utili per l\u2019accoglienza dei profughi dall\u2019Ucraina"",""url"":""www.provincia.mb.it/EmergenzaUcraina""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: false
+  healthcare: true
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Provincia MB
+title: 'Provincia di Monza e Brianza: info utili per l’accoglienza dei profughi dall’Ucraina'
+recipients: ''
+description: ""La Provincia di Monza e della Brianza, \nnell’ambito della cabina di\
+  \ regia istituita dalla Prefettura di #Monza e #Brianza per coordinare azioni ed\
+  \ iniziative necessarie per\n\U0001F468‍\U0001F469‍\U0001F467‍\U0001F466l’#accoglienza\
+  \ delle persone \nin fuga dalla #guerra in #Ucraina \U0001F535\U0001F7E1\n\n\U0001F4D2\
+  \ ha raccolto in un vademecum consultabile online, redatto in lingua ucraina, italiana\
+  \ e inglese, una serie di informazioni \n\U0001F50Etra cui gli obblighi sanitari\
+  \ da rispettare per far fronte alla pandemia, a chi rivolgersi per usufruire di\
+  \ un alloggio, le modalità per regolarizzare la propria posizione in Italia e contatti\
+  \ utili messi a disposizione delle amministrazioni comunali per dare supporto ai\
+  \ profughi in arrivo o già presenti sul territorio e altre utili indicazioni.\n\n\
+  \U0001F1FA\U0001F1E6ласкаво просимо до Італії\n\U0001F1EE\U0001F1F9Benvenuti in\
+  \ #Italia\n\U0001F1EC\U0001F1E7Welcome to #Italy\n\nℹ️ www.provincia.mb.it/EmergenzaUcraina\
+  \ \n\U0001F4F0 Press release: https://bit.ly/3Jnt0wh\n\n☮️Comune di Monza Comune\
+  \ Di Desio Comune di Vimercate Comune di Lissone Comune di Seregno ATS Brianza Croce\
+  \ Rossa Italiana - Comitato di Monza Caritas \n#EmergenzaUcraina Province Italiane\
+  \ UPI""
+url: www.provincia.mb.it/EmergenzaUcraina
+address:
+  mode: autocomplete
+  address:
+    place_id: 284109714
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 251419
+    boundingbox:
+    - '45.5367099'
+    - '45.7424391'
+    - '9.0505698'
+    - '9.4974636'
+    lat: '45.639544'
+    lon: '9.278869369225038'
+    display_name: Monza e della Brianza, Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7207566855039824
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Monza e della Brianza
+      state: Lombardia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/462,1190676623,2022-04-03 06:30:57,2022-04-02 16:25:04,A Milano la coop Spazio Aperto cerca mediatori culturali di lingua ucraina/russa,45.4403387,9.1459002,Lombardia,Milano,"[""Valid/Accettato"",""Help"",""translation"",""job"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.4403387 9.1459002"",""description"":""La Cooperativa Spazio Aperto nell'ambito dei servizi di accoglienza in risposta all'emergenza Ucraina, cerca, da impiegare subito, mediatori culturali. Orario: 25h settimanali"",""email"":""selezione@spazioapertoservizi.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""26"",""postcode"":""20146"",""quarter"":""Ronchetto Sul Naviglio"",""road"":""Via Francesco Olgiati"",""state"":""Lombardia"",""suburb"":""Restocco Maroni""},""boundingbox"":[""45.4402887"",""45.4403887"",""9.1458502"",""9.1459502""],""class"":""place"",""display_name"":""26, Via Francesco Olgiati, Ronchetto Sul Naviglio, Restocco Maroni, Milano, Lombardia, 20146, Italia"",""importance"":0.411,""lat"":""45.4403387"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1459002"",""osm_id"":9394096121,""osm_type"":""node"",""place_id"":326660295,""type"":""house""},""mode"":""autocomplete""},""nameSurname"":""Spazio Aperto Servizi"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Ricerca mediatori culturali di lingua ucraina/russa"",""url"":""https://spazioapertoservizi.org/""}","<pre><yamldata>
 nameSurname: Spazio Aperto Servizi
 phoneNumber: ''
