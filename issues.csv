@@ -1,4 +1,83 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/480,1191058059,2022-04-03 22:01:56,2022-04-03 22:00:53,A Milano Fondazione Avsi attiva info point #HelpUkraine per assistenza e supporto ai rifugiati ucraini e raccolta offerte di ospitalità di famiglie italiane,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""healthcare"",""job"",""psychologicalSupport"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20100"",""quarter"":""Buenos Aires - Venezia"",""road"":""Via Donatello"",""state"":""Lombardia"",""suburb"":""Municipio 3""},""boundingbox"":[""45.4802664"",""45.4802962"",""9.2172193"",""9.2193892""],""class"":""highway"",""display_name"":""Via Donatello, Buenos Aires - Venezia, Municipio 3, Milano, Lombardia, 20100, Italia"",""importance"":0.41000000000000003,""lat"":""45.480268"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2173383"",""osm_id"":160136164,""osm_type"":""way"",""place_id"":140255016,""type"":""residential""},""mode"":""autocomplete""},""description"":""Da mercoled\u00ec 16 marzo \u00e8 attivo l\u2019info point #HelpUkraine, promosso da Fondazione Avsi e una rete di associazioni, per offrire informazioni e assistenza ai profughi ucraini e raccogliere le disponibilit\u00e0 all\u2019ospitalit\u00e0 delle famiglie italiane. \nContatti:\n+39.02.674988368 in ucraino e inglese\n+39.02.674988369 in italiano\nHelpUkraine@avsi.org\n\nIn particolare gli scopi dello sportello sono:\n- fornire prime informazioni, orientamento e assistenza a cittadini ucraini e nuclei famigliari in fuga entrati nel territorio italiano;\n- provvedere a dare supporto sulle procedure per l\u2019ottenimento del titolo di soggiorno, per la segnalazione di minori non accompagnati, per iscrizione al SSN, vaccinazioni, al sistema scolastico ecc.;\n- raccogliere la disponibilit\u00e0 delle famiglie che intendono offrire ospitalit\u00e0 a cittadini ucraini accogliendoli nelle proprie case o mettendo a disposizione appartamenti e abitazioni di loro propriet\u00e0;\n- favorire il nesso fra le disponibilit\u00e0 di accoglienza in famiglie e appartamenti e le necessit\u00e0 di alloggi per i profughi, con attivit\u00e0 di informazione, sensibilizzazione, accompagnamento e sostegno burocratico;\n- realizzare interventi di sostegno materiale ai profughi ucraini, alle famiglie che accolgono, anche attraverso cash transfer e servizi di sostegno psicosociale;\n- realizzare interventi di sostegno a bambini e adolescenti ucraini attraverso l\u2019integrazione e la partecipazione ad attivit\u00e0 scolastiche, ricreative, ludiche e sportive;\n- realizzare interventi di formazione e sostegno linguistico, rivolti sia a minori sia ad adulti, per l\u2019apprendimento di competenze linguistiche di base della lingua italiana che agevolino il processo di integrazione e accesso alla scolarizzazione per i minori e di integrazione sociale e lavorativa per gli adulti;\n- favorire interventi informativi di orientamento alla ricerca di lavoro e di preparazione al lavoro, con particolare riferimento al lavoro domestico e di assistenza alla persona.\n- favorire l\u2019assistenza medica come prime visite mediche per adulti, visite pediatriche, visite specialistiche ed esami per bambini e adulti, tamponi antigenici e molecolari."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Fondazione Avsi"",""recipients"":""Rifugiati ucraini e famiglie italiane"",""servicetypes"":{""Children"":true,""Legal"":true,""disability"":false,""education"":true,""healthcare"":true,""hospitality"":false,""job"":true,""materialGoods"":true,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Milano Fondazione Avsi attiva info point #HelpUkraine per assistenza e supporto ai rifugiati ucraini e raccolta offerte di ospitalit\u00e0 di famiglie italiane"",""url"":""https://www.avsi.org/it/news/2022/03/17/helpukraine-anche-in-italia/2510""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: true
+  Legal: true
+  translation: false
+  job: true
+  psychologicalSupport: true
+  Children: true
+  disability: false
+  women: false
+  education: true
+offerFromWho: Fondazione Avsi
+title: 'A Milano Fondazione Avsi attiva info point #HelpUkraine per assistenza e supporto
+  ai rifugiati ucraini e raccolta offerte di ospitalità di famiglie italiane'
+recipients: Rifugiati ucraini e famiglie italiane
+description: ""Da mercoledì 16 marzo è attivo l’info point #HelpUkraine, promosso da\
+  \ Fondazione Avsi e una rete di associazioni, per offrire informazioni e assistenza\
+  \ ai profughi ucraini e raccogliere le disponibilità all’ospitalità delle famiglie\
+  \ italiane. \nContatti:\n+39.02.674988368 in ucraino e inglese\n+39.02.674988369\
+  \ in italiano\nHelpUkraine@avsi.org\n\nIn particolare gli scopi dello sportello\
+  \ sono:\n- fornire prime informazioni, orientamento e assistenza a cittadini ucraini\
+  \ e nuclei famigliari in fuga entrati nel territorio italiano;\n- provvedere a dare\
+  \ supporto sulle procedure per l’ottenimento del titolo di soggiorno, per la segnalazione\
+  \ di minori non accompagnati, per iscrizione al SSN, vaccinazioni, al sistema scolastico\
+  \ ecc.;\n- raccogliere la disponibilità delle famiglie che intendono offrire ospitalità\
+  \ a cittadini ucraini accogliendoli nelle proprie case o mettendo a disposizione\
+  \ appartamenti e abitazioni di loro proprietà;\n- favorire il nesso fra le disponibilità\
+  \ di accoglienza in famiglie e appartamenti e le necessità di alloggi per i profughi,\
+  \ con attività di informazione, sensibilizzazione, accompagnamento e sostegno burocratico;\n\
+  - realizzare interventi di sostegno materiale ai profughi ucraini, alle famiglie\
+  \ che accolgono, anche attraverso cash transfer e servizi di sostegno psicosociale;\n\
+  - realizzare interventi di sostegno a bambini e adolescenti ucraini attraverso l’integrazione\
+  \ e la partecipazione ad attività scolastiche, ricreative, ludiche e sportive;\n\
+  - realizzare interventi di formazione e sostegno linguistico, rivolti sia a minori\
+  \ sia ad adulti, per l’apprendimento di competenze linguistiche di base della lingua\
+  \ italiana che agevolino il processo di integrazione e accesso alla scolarizzazione\
+  \ per i minori e di integrazione sociale e lavorativa per gli adulti;\n- favorire\
+  \ interventi informativi di orientamento alla ricerca di lavoro e di preparazione\
+  \ al lavoro, con particolare riferimento al lavoro domestico e di assistenza alla\
+  \ persona.\n- favorire l’assistenza medica come prime visite mediche per adulti,\
+  \ visite pediatriche, visite specialistiche ed esami per bambini e adulti, tamponi\
+  \ antigenici e molecolari.""
+url: https://www.avsi.org/it/news/2022/03/17/helpukraine-anche-in-italia/2510
+address:
+  mode: autocomplete
+  address:
+    place_id: 140255016
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 160136164
+    boundingbox:
+    - '45.4802664'
+    - '45.4802962'
+    - '9.2172193'
+    - '9.2193892'
+    lat: '45.480268'
+    lon: '9.2173383'
+    display_name: Via Donatello, Buenos Aires - Venezia, Municipio 3, Milano, Lombardia,
+      20100, Italia
+    class: highway
+    type: residential
+    importance: 0.41000000000000003
+    address:
+      road: Via Donatello
+      quarter: Buenos Aires - Venezia
+      suburb: Municipio 3
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/479,1191054545,2022-04-03 21:45:22,2022-04-03 21:44:12,"A Torino Fondazione Specchio dei Tempi, in collaborazione con Consolato Ucraino, offre contributo economico e vaccino anti Covid a profughi ucraini arrivati in Piemonte",45.0491426,7.6716183,Piemonte,Torino,"[""Valid/Accettato"",""News"",""materialGoods"",""healthcare""]",,,"{""Posizione"":""45.0491426 7.6716183"",""description"":""A Torino la Fondazione Specchio dei tempi ha attivato il numero telefonico +39 011 0230075 riservato ai profughi ucraini in arrivo in Piemonte. Risponderanno le volontarie del Consolato dell\u2019Ucraina di Torino che, una volta accertata la situazione, li metteranno in contatto con Specchio dei tempi che fornir\u00e0 loro un contributo economico in contanti.\nSpecchio dei tempi, inoltre, ha aperto un canale con la Regione Piemonte per garantire a tutti i profughi (pi\u00f9 della met\u00e0 degli ucraini non sono vaccinati) una immediata vaccinazione anti-Covid al loro arrivo nella nostra regione."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.specchiodeitempi.org/attivato-il-numero-telefonico-per-i-profughi-ucraini/"",""location"":{""address"":{""address"":{""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""house_number"":""15"",""postcode"":""10126"",""road"":""Via Ernesto Lugaro"",""state"":""Piemonte"",""suburb"":""San Salvario""},""boundingbox"":[""45.0490926"",""45.0491926"",""7.6715683"",""7.6716683""],""class"":""place"",""display_name"":""15, Via Ernesto Lugaro, San Salvario, Circoscrizione 8, Torino, Piemonte, 10126, Italia"",""importance"":0.5309999999999999,""lat"":""45.0491426"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6716183"",""osm_id"":4735802176,""osm_type"":""node"",""place_id"":53329089,""type"":""house""},""mode"":""autocomplete""},""submit"":true,""title"":""A Torino Fondazione Specchio dei Tempi, in collaborazione con Consolato Ucraino, offre contributo economico e vaccino anti Covid a profughi ucraini arrivati in Piemonte""}","<pre><yamldata>
 title: A Torino Fondazione Specchio dei Tempi, in collaborazione con Consolato Ucraino,
   offre contributo economico e vaccino anti Covid a profughi ucraini arrivati in Piemonte
