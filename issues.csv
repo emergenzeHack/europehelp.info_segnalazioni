@@ -1,5 +1,56 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/457,1190613701,2022-04-03 07:27:33,2022-04-02 12:08:18,"Contatti di volontari che, in collaborazione con Consolato Ucraino di Firenze, offrono prima assistenza agli ucraini arrivati in Toscana",43.4586541,11.1389204,Toscana,Siena,"[""Valid/Accettato"",""Services"",""Legal"",""useful contact"",""hospitality"",""translation"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""43.4586541 11.1389204"",""description"":""Di seguito i contatti dei volontari in Toscana che, in collaborazione con il Consolato Ucraino di Firenze, forniscono informazioni per ottenere un alloggio e richiedere la protezione temporanea o lo status di rifugiato:\nFirenze +39 347 652 5828 Natalia\nMassa-Carrara +39 3457785515 Caterina\nPisa +39 3294187558 Lesia\nPrato +39 3284837294 Oxana; +39 3284451141 Maria\nPistoia +39 3534122309 Livia; +39 3296984497 Natalia\nSiena +39 3343282700 Svitlana\nLucca +39 3881769574 Oxana\nLivorno +39 3285531064 Irina\nArezzo +39 351 6094647 Irina\nUmbria +39 371 4253136 Paolo"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""fakenews"",""link"":""https://www.facebook.com/groups/ucrainaintoscana/permalink/2013577012137474"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Toscana""},""boundingbox"":[""42.237615"",""44.4725419"",""9.6867692"",""12.3713544""],""class"":""boundary"",""display_name"":""Toscana, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7870417219974091,""lat"":""43.4586541"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.1389204"",""osm_id"":41977,""osm_type"":""relation"",""place_id"":284349698,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Contatti dei volontari che, in collaborazione con Consokato Ucraino di Firenze, offrono prima assistenza ai profughi ucraini che arrivano in Toscana""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/470,1190846180,2022-04-03 07:35:36,2022-04-03 07:32:53,A Falconara  Marittima  il Centro di dialisi Nephocare Spa offre cure  ai rifugiati ucraini.,,,,,"[""Valid/Accettato"",""Services"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Ancona"",""postcode"":""60015"",""state"":""Marche"",""town"":""Falconara Marittima""},""boundingbox"":[""43.59049"",""43.6510018"",""13.3282005"",""13.422762""],""class"":""boundary"",""display_name"":""Falconara Marittima, Ancona, Marche, 60015, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.6622415494562244,""lat"":""43.6293969"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3966763"",""osm_id"":42532,""osm_type"":""relation"",""place_id"":284354030,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Centro di dialisi a Falconara Marittima della United Society @NephocareSpa offre spazio per ricevere servizi dialisi ai rifugiati ucraini."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Centro dialisi Falconara Marittima"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Il Centro di dialisi NephocareSpa a Falconara  Marittima offre cure  ai rifugiati ucraini."",""url"":""https://www.facebook.com/549802348452872/posts/4432972230135845/?d=n""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: true
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Centro dialisi Falconara Marittima
+title: Il Centro di dialisi NephocareSpa a Falconara  Marittima offre cure  ai rifugiati
+  ucraini.
+recipients: ''
+description: Il Centro di dialisi a Falconara Marittima della United Society @NephocareSpa
+  offre spazio per ricevere servizi dialisi ai rifugiati ucraini.
+url: https://www.facebook.com/549802348452872/posts/4432972230135845/?d=n
+address:
+  mode: autocomplete
+  address:
+    place_id: 284354030
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 42532
+    boundingbox:
+    - '43.59049'
+    - '43.6510018'
+    - '13.3282005'
+    - '13.422762'
+    lat: '43.6293969'
+    lon: '13.3966763'
+    display_name: Falconara Marittima, Ancona, Marche, 60015, Italia
+    class: boundary
+    type: administrative
+    importance: 0.6622415494562244
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      town: Falconara Marittima
+      county: Ancona
+      state: Marche
+      postcode: '60015'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/457,1190613701,2022-04-03 07:29:08,2022-04-02 12:08:18,"Contatti di volontari che, in collaborazione con Consolato Ucraino di Firenze, offrono prima assistenza agli ucraini arrivati in Toscana",43.4586541,11.1389204,Toscana,Siena,"[""Valid/Accettato"",""Services"",""Legal"",""useful contact"",""hospitality"",""translation"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""43.4586541 11.1389204"",""description"":""Di seguito i contatti dei volontari in Toscana che, in collaborazione con il Consolato Ucraino di Firenze, forniscono informazioni per ottenere un alloggio e richiedere la protezione temporanea o lo status di rifugiato:\nFirenze +39 347 652 5828 Natalia\nMassa-Carrara +39 3457785515 Caterina\nPisa +39 3294187558 Lesia\nPrato +39 3284837294 Oxana; +39 3284451141 Maria\nPistoia +39 3534122309 Livia; +39 3296984497 Natalia\nSiena +39 3343282700 Svitlana\nLucca +39 3881769574 Oxana\nLivorno +39 3285531064 Irina\nArezzo +39 351 6094647 Irina\nUmbria +39 371 4253136 Paolo"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""fakenews"",""link"":""https://www.facebook.com/groups/ucrainaintoscana/permalink/2013577012137474"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Toscana""},""boundingbox"":[""42.237615"",""44.4725419"",""9.6867692"",""12.3713544""],""class"":""boundary"",""display_name"":""Toscana, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7870417219974091,""lat"":""43.4586541"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.1389204"",""osm_id"":41977,""osm_type"":""relation"",""place_id"":284349698,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Contatti dei volontari che, in collaborazione con Consokato Ucraino di Firenze, offrono prima assistenza ai profughi ucraini che arrivano in Toscana""}","<pre><yamldata>
 title: Contatti dei volontari che, in collaborazione con Consokato Ucraino di Firenze,
   offrono prima assistenza ai profughi ucraini che arrivano in Toscana
 description: 'Di seguito i contatti dei volontari in Toscana che, in collaborazione
