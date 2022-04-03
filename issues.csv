@@ -1,4 +1,62 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/471,1190849957,2022-04-03 07:44:33,2022-04-03 07:42:57,All blacks taekwondo ASD offre corsi gratuiti a rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Ancona"",""postcode"":""60019"",""state"":""Marche"",""town"":""Senigallia""},""boundingbox"":[""43.6043136"",""43.7505106"",""13.1181262"",""13.3019948""],""class"":""boundary"",""display_name"":""Senigallia, Ancona, Marche, 60019, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7184733195486046,""lat"":""43.7149517"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.2179488"",""osm_id"":42536,""osm_type"":""relation"",""place_id"":283734079,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Corsi gratuiti di Taekwondo per ucraini temporaneamente sfollati con status di rifugiato: gruppi per ragazze e ragazzi dai 5 ai 19 anni; per donne e uomini con esperienza di arti marziali. Nelle citt\u00e0: Chiaravalle, Senigallia, Monte Porzio, Colli al Metauro. #autodifesa\n\n\u0411\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u0456 \u043a\u0443\u0440\u0441\u0438 \u0422\u0445\u0435\u043a\u0432\u043e\u043d\u0434\u043e \u0434\u043b\u044f \u0442\u0438\u043c\u0447\u0430\u0441\u043e\u0432\u043e \u043f\u0435\u0440\u0435\u043c\u0456\u0449\u0435\u043d\u0438\u0445 \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432 \u0437\u0456 \u0441\u0442\u0430\u0442\u0443\u0441\u043e\u043c \u0431\u0456\u0436\u0435\u043d\u0446\u0456\u0432: \u0433\u0440\u0443\u043f\u0438 \u0434\u043b\u044f \u0434\u0456\u0432\u0447\u0430\u0442 \u0442\u0430 \u0445\u043b\u043e\u043f\u0446\u0456\u0432 \u0432\u0456\u0434 5 \u0434\u043e 19 \u0440\u043e\u043a\u0456\u0432; \u0434\u043b\u044f \u0436\u0456\u043d\u043e\u043a \u0442\u0430 \u0447\u043e\u043b\u043e\u0432\u0456\u043a\u0456\u0432 \u0437 \u0434\u043e\u0441\u0432\u0456\u0434\u043e\u043c \u0431\u043e\u0439\u043e\u0432\u0438\u0445 \u043c\u0438\u0441\u0442\u0435\u0446\u0442\u0432. \u0412 \u043c\u0456\u0441\u0442\u0430\u0445: Chiaravalle, Senigallia, Monte Porzio, Colli al Metauro. #\u0441\u0430\u043c\u043e\u0437\u0430\u0445\u0438\u0441\u0442"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""All blacks takewondo ASD offre corsi gratuiti a rifugiati ucraini"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""All blacks takewondo ASD offre corsi gratuiti a rifugiati ucraini"",""url"":""https://www.facebook.com/549802348452872/posts/4425242170908851/?d=n""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: true
+offerFromWho: All blacks takewondo ASD offre corsi gratuiti a rifugiati ucraini
+title: All blacks takewondo ASD offre corsi gratuiti a rifugiati ucraini
+recipients: ''
+description: 'Corsi gratuiti di Taekwondo per ucraini temporaneamente sfollati con
+  status di rifugiato: gruppi per ragazze e ragazzi dai 5 ai 19 anni; per donne e
+  uomini con esperienza di arti marziali. Nelle città: Chiaravalle, Senigallia, Monte
+  Porzio, Colli al Metauro. #autodifesa
+
+
+  Безкоштовні курси Тхеквондо для тимчасово переміщених українців зі статусом біженців:
+  групи для дівчат та хлопців від 5 до 19 років; для жінок та чоловіків з досвідом
+  бойових мистецтв. В містах: Chiaravalle, Senigallia, Monte Porzio, Colli al Metauro.
+  #самозахист'
+url: https://www.facebook.com/549802348452872/posts/4425242170908851/?d=n
+address:
+  mode: autocomplete
+  address:
+    place_id: 283734079
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 42536
+    boundingbox:
+    - '43.6043136'
+    - '43.7505106'
+    - '13.1181262'
+    - '13.3019948'
+    lat: '43.7149517'
+    lon: '13.2179488'
+    display_name: Senigallia, Ancona, Marche, 60019, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7184733195486046
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      town: Senigallia
+      county: Ancona
+      state: Marche
+      postcode: '60019'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/470,1190846180,2022-04-03 07:35:36,2022-04-03 07:32:53,A Falconara  Marittima  il Centro di dialisi Nephocare Spa offre cure  ai rifugiati ucraini.,,,,,"[""Valid/Accettato"",""Services"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Ancona"",""postcode"":""60015"",""state"":""Marche"",""town"":""Falconara Marittima""},""boundingbox"":[""43.59049"",""43.6510018"",""13.3282005"",""13.422762""],""class"":""boundary"",""display_name"":""Falconara Marittima, Ancona, Marche, 60015, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.6622415494562244,""lat"":""43.6293969"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3966763"",""osm_id"":42532,""osm_type"":""relation"",""place_id"":284354030,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Centro di dialisi a Falconara Marittima della United Society @NephocareSpa offre spazio per ricevere servizi dialisi ai rifugiati ucraini."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Centro dialisi Falconara Marittima"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Il Centro di dialisi NephocareSpa a Falconara  Marittima offre cure  ai rifugiati ucraini."",""url"":""https://www.facebook.com/549802348452872/posts/4432972230135845/?d=n""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
