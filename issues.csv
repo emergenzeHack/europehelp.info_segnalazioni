@@ -1,4 +1,62 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/482,1191066661,2022-04-03 22:32:56,2022-04-03 22:32:24,"Emergenza Ucraina, attivo il sito del Comune di Roma per info e supporto ai profughi ucraini (in ucraino e italiano)",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""hospitality"",""transport"",""healthcare"",""psychologicalSupport"",""Children"",""disability"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""quarter"":""Campitelli"",""road"":""Piazza del Campidoglio"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.8928366"",""41.8936211"",""12.4824452"",""12.4834856""],""class"":""highway"",""display_name"":""Piazza del Campidoglio, Campitelli, Municipio Roma I, Roma, Roma Capitale, Lazio, Italia"",""importance"":0.51,""lat"":""41.8932408"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.482981487083691"",""osm_id"":13406532,""osm_type"":""relation"",""place_id"":286187904,""type"":""pedestrian""},""mode"":""autocomplete""},""description"":""Per l\u2019emergenza Ucraini, il Comune di Roma, oltre a indirizzo mail (emergenza.ucraina@comune.roma.it) e Numero Verde (800938873), ha attivato il sito https://emergenzaucraina.roma.it in italiano, ucraino e inglese dedicato in particolare ai profughi ucraini. \nSul sito sono disponibili informazioni e contatti utili su: alloggi, permessi di soggiorno, assistenza sanitaria, integrazione scolastica, trasporti, corsi di italiano, attivit\u00e0 per bambini, punti di raccolta beni di prima necessit\u00e0, servizi per profughi sordi e ciechi."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Roma"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":true,""disability"":true,""education"":true,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":true,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""Emergenza Ucraina, attivo il sito del Comune di Roma per info e supporto ai profughi ucraini ( in ucraino e italiano)"",""url"":""https://emergenzaucraina.roma.it""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: true
+  transport: true
+  healthcare: true
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: true
+  Children: true
+  disability: true
+  women: false
+  education: true
+offerFromWho: Comune di Roma
+title: Emergenza Ucraina, attivo il sito del Comune di Roma per info e supporto ai
+  profughi ucraini ( in ucraino e italiano)
+recipients: ''
+description: ""Per l’emergenza Ucraini, il Comune di Roma, oltre a indirizzo mail (emergenza.ucraina@comune.roma.it)\
+  \ e Numero Verde (800938873), ha attivato il sito https://emergenzaucraina.roma.it\
+  \ in italiano, ucraino e inglese dedicato in particolare ai profughi ucraini. \n\
+  Sul sito sono disponibili informazioni e contatti utili su: alloggi, permessi di\
+  \ soggiorno, assistenza sanitaria, integrazione scolastica, trasporti, corsi di\
+  \ italiano, attività per bambini, punti di raccolta beni di prima necessità, servizi\
+  \ per profughi sordi e ciechi.""
+url: https://emergenzaucraina.roma.it
+address:
+  mode: autocomplete
+  address:
+    place_id: 286187904
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 13406532
+    boundingbox:
+    - '41.8928366'
+    - '41.8936211'
+    - '12.4824452'
+    - '12.4834856'
+    lat: '41.8932408'
+    lon: '12.482981487083691'
+    display_name: Piazza del Campidoglio, Campitelli, Municipio Roma I, Roma, Roma
+      Capitale, Lazio, Italia
+    class: highway
+    type: pedestrian
+    importance: 0.51
+    address:
+      road: Piazza del Campidoglio
+      quarter: Campitelli
+      suburb: Municipio Roma I
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/481,1191060330,2022-04-03 22:16:56,2022-04-03 22:10:09,A Bergamo Associazione Zlaghoda prosegue con la raccolta di beni per emergenza Ucraina,,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bergamo"",""postcode"":""24048"",""road"":""Via Enrico Fermi"",""state"":""Lombardia"",""village"":""Curno""},""boundingbox"":[""45.6813078"",""45.6822033"",""9.6087129"",""9.6138508""],""class"":""highway"",""display_name"":""Via Enrico Fermi, Curno, Bergamo, Lombardia, 24048, Italia"",""importance"":0.61,""lat"":""45.681432"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.6101467"",""osm_id"":32476602,""osm_type"":""way"",""place_id"":109585606,""type"":""tertiary""},""mode"":""autocomplete""},""description"":""A Bergamo Associazione Zlaghoda raccoglie beni di prima necessit\u00e0 per emergenza Ucraina. Al link elenco dei beni che si possono donare e orari della raccolta. Info: 3480145702 - 3468453346. Gruppo Fb https://www.facebook.com/groups/2147848088835479/?ref=share"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Zlaghoda"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Bergamo Associazione Zlaghoda prosegue con la raccolta di beni per emergenza Ucraina"",""url"":""https://www.facebook.com/407691079704814/posts/1350084605465452/""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
