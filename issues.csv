@@ -1,4 +1,57 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/481,1191060330,2022-04-03 22:10:49,2022-04-03 22:10:09,A Bergamo Associazione Zlaghoda prosegue con la raccolta di beni per emergenza Ucraina,,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bergamo"",""postcode"":""24048"",""road"":""Via Enrico Fermi"",""state"":""Lombardia"",""village"":""Curno""},""boundingbox"":[""45.6813078"",""45.6822033"",""9.6087129"",""9.6138508""],""class"":""highway"",""display_name"":""Via Enrico Fermi, Curno, Bergamo, Lombardia, 24048, Italia"",""importance"":0.61,""lat"":""45.681432"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.6101467"",""osm_id"":32476602,""osm_type"":""way"",""place_id"":109585606,""type"":""tertiary""},""mode"":""autocomplete""},""description"":""A Bergamo Associazione Zlaghoda raccoglie beni di prima necessit\u00e0 per \u00ec emergenza Ucraina. Al link elenco dei beni che si possono donare e orari della raccolta. Info: 3480145702 - 3468453346"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Zlaghoda"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Bergamo Associazione Zlaghoda prosegue con la raccolta di beni per emergenza Ucraina"",""url"":""https://www.facebook.com/407691079704814/posts/1350084605465452/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Associazione Zlaghoda
+title: A Bergamo Associazione Zlaghoda prosegue con la raccolta di beni per emergenza
+  Ucraina
+recipients: ''
+description: 'A Bergamo Associazione Zlaghoda raccoglie beni di prima necessità per
+  ì emergenza Ucraina. Al link elenco dei beni che si possono donare e orari della
+  raccolta.
+  Info: 3480145702 - 3468453346'
+url: https://www.facebook.com/407691079704814/posts/1350084605465452/
+address:
+  mode: autocomplete
+  address:
+    place_id: 109585606
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 32476602
+    boundingbox:
+    - '45.6813078'
+    - '45.6822033'
+    - '9.6087129'
+    - '9.6138508'
+    lat: '45.681432'
+    lon: '9.6101467'
+    display_name: Via Enrico Fermi, Curno, Bergamo, Lombardia, 24048, Italia
+    class: highway
+    type: tertiary
+    importance: 0.61
+    address:
+      road: Via Enrico Fermi
+      village: Curno
+      county: Bergamo
+      state: Lombardia
+      postcode: '24048'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/480,1191058059,2022-04-03 22:01:56,2022-04-03 22:00:53,A Milano Fondazione Avsi attiva info point #HelpUkraine per assistenza e supporto ai rifugiati ucraini e raccolta offerte di ospitalità di famiglie italiane,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""healthcare"",""job"",""psychologicalSupport"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20100"",""quarter"":""Buenos Aires - Venezia"",""road"":""Via Donatello"",""state"":""Lombardia"",""suburb"":""Municipio 3""},""boundingbox"":[""45.4802664"",""45.4802962"",""9.2172193"",""9.2193892""],""class"":""highway"",""display_name"":""Via Donatello, Buenos Aires - Venezia, Municipio 3, Milano, Lombardia, 20100, Italia"",""importance"":0.41000000000000003,""lat"":""45.480268"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2173383"",""osm_id"":160136164,""osm_type"":""way"",""place_id"":140255016,""type"":""residential""},""mode"":""autocomplete""},""description"":""Da mercoled\u00ec 16 marzo \u00e8 attivo l\u2019info point #HelpUkraine, promosso da Fondazione Avsi e una rete di associazioni, per offrire informazioni e assistenza ai profughi ucraini e raccogliere le disponibilit\u00e0 all\u2019ospitalit\u00e0 delle famiglie italiane. \nContatti:\n+39.02.674988368 in ucraino e inglese\n+39.02.674988369 in italiano\nHelpUkraine@avsi.org\n\nIn particolare gli scopi dello sportello sono:\n- fornire prime informazioni, orientamento e assistenza a cittadini ucraini e nuclei famigliari in fuga entrati nel territorio italiano;\n- provvedere a dare supporto sulle procedure per l\u2019ottenimento del titolo di soggiorno, per la segnalazione di minori non accompagnati, per iscrizione al SSN, vaccinazioni, al sistema scolastico ecc.;\n- raccogliere la disponibilit\u00e0 delle famiglie che intendono offrire ospitalit\u00e0 a cittadini ucraini accogliendoli nelle proprie case o mettendo a disposizione appartamenti e abitazioni di loro propriet\u00e0;\n- favorire il nesso fra le disponibilit\u00e0 di accoglienza in famiglie e appartamenti e le necessit\u00e0 di alloggi per i profughi, con attivit\u00e0 di informazione, sensibilizzazione, accompagnamento e sostegno burocratico;\n- realizzare interventi di sostegno materiale ai profughi ucraini, alle famiglie che accolgono, anche attraverso cash transfer e servizi di sostegno psicosociale;\n- realizzare interventi di sostegno a bambini e adolescenti ucraini attraverso l\u2019integrazione e la partecipazione ad attivit\u00e0 scolastiche, ricreative, ludiche e sportive;\n- realizzare interventi di formazione e sostegno linguistico, rivolti sia a minori sia ad adulti, per l\u2019apprendimento di competenze linguistiche di base della lingua italiana che agevolino il processo di integrazione e accesso alla scolarizzazione per i minori e di integrazione sociale e lavorativa per gli adulti;\n- favorire interventi informativi di orientamento alla ricerca di lavoro e di preparazione al lavoro, con particolare riferimento al lavoro domestico e di assistenza alla persona.\n- favorire l\u2019assistenza medica come prime visite mediche per adulti, visite pediatriche, visite specialistiche ed esami per bambini e adulti, tamponi antigenici e molecolari."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Fondazione Avsi"",""recipients"":""Rifugiati ucraini e famiglie italiane"",""servicetypes"":{""Children"":true,""Legal"":true,""disability"":false,""education"":true,""healthcare"":true,""hospitality"":false,""job"":true,""materialGoods"":true,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Milano Fondazione Avsi attiva info point #HelpUkraine per assistenza e supporto ai rifugiati ucraini e raccolta offerte di ospitalit\u00e0 di famiglie italiane"",""url"":""https://www.avsi.org/it/news/2022/03/17/helpukraine-anche-in-italia/2510""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
