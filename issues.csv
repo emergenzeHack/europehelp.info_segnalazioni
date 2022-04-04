@@ -1,4 +1,458 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/494,1192030496,2022-04-04 16:31:22,2022-04-04 16:24:48,Sul sito di Arci i punti di raccolta beni per emergenza Ucraina presso le varie sedi Arci in Italia,,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00100"",""road"":""Via dei Monti di Pietralata"",""state"":""Lazio"",""suburb"":""Pietralata""},""boundingbox"":[""41.9202489"",""41.9204935"",""12.5312367"",""12.5313848""],""class"":""highway"",""display_name"":""Via dei Monti di Pietralata, Pietralata, Roma, Roma Capitale, Lazio, 00100, Italia"",""importance"":0.72,""lat"":""41.9202489"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.5313848"",""osm_id"":255254277,""osm_type"":""way"",""place_id"":165004837,""type"":""tertiary""},""mode"":""autocomplete""},""description"":""Sul sito di Arci i punti di raccolta beni e le iniziative per l\u2019emergenza in Ucraina promosse dalle varie sedi Arci in Italia."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Arci Nazionale"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Sul sito di Arci i punti di raccolta beni per emergenza Ucraina presso le varie sedi Arci in Italia"",""url"":""https://www.arci.it/solidarieta-ucraina/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Arci Nazionale
+title: Sul sito di Arci i punti di raccolta beni per emergenza Ucraina presso le varie
+  sedi Arci in Italia
+recipients: ''
+description: Sul sito di Arci i punti di raccolta beni e le iniziative per l’emergenza
+  in Ucraina promosse dalle varie sedi Arci in Italia.
+url: https://www.arci.it/solidarieta-ucraina/
+address:
+  mode: autocomplete
+  address:
+    place_id: 165004837
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 255254277
+    boundingbox:
+    - '41.9202489'
+    - '41.9204935'
+    - '12.5312367'
+    - '12.5313848'
+    lat: '41.9202489'
+    lon: '12.5313848'
+    display_name: Via dei Monti di Pietralata, Pietralata, Roma, Roma Capitale, Lazio,
+      00100, Italia
+    class: highway
+    type: tertiary
+    importance: 0.72
+    address:
+      road: Via dei Monti di Pietralata
+      suburb: Pietralata
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: '00100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/493,1192019705,2022-04-04 16:31:00,2022-04-04 16:16:08,"In fuga dall’Ucraina, raccolta fondi di Arci e Arcs per sostenere associazioni in Ucraina e Polonia e sostenere l’arrivo in Italia dei profughi ",41.9202489,12.5313848,Lazio,Roma,"[""Valid/Accettato"",""fundraising""]",,,"{""Posizione"":""41.9202489 12.5313848"",""bicSwift"":"""",""causal"":""Emergenza Ucraina"",""ccPostal"":"""",""description"":""IN FUGA DALL'UCRAINA, la raccolta fondi Arci e Arcs per sostenere l\u2019azione delle associazioni in Ucraina e in Polonia attive nell\u2019accoglienza di milioni di profughi o per favorire l\u2019arrivo in Italia in modo sicuro e organizzato di chi fugge, in particolare donne, bambini e disabili.\nDonazioni Iban e online al link."",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT12S0501803200000015080807"",""label"":""fundraising"",""link"":""https://www.arcsculturesolidali.org/ucraina/"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00100"",""road"":""Via dei Monti di Pietralata"",""state"":""Lazio"",""suburb"":""Pietralata""},""boundingbox"":[""41.9202489"",""41.9204935"",""12.5312367"",""12.5313848""],""class"":""highway"",""display_name"":""Via dei Monti di Pietralata, Pietralata, Roma, Roma Capitale, Lazio, 00100, Italia"",""importance"":0.72,""lat"":""41.9202489"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.5313848"",""osm_id"":255254277,""osm_type"":""way"",""place_id"":165004837,""type"":""tertiary""},""mode"":""autocomplete""},""submit"":true,""title"":""Arci e Arcs""}","<pre><yamldata>
+title: Arci e Arcs
+description: 'IN FUGA DALL''UCRAINA, la raccolta fondi Arci e Arcs per sostenere l’azione
+  delle associazioni in Ucraina e in Polonia attive nell’accoglienza di milioni di
+  profughi o per favorire l’arrivo in Italia in modo sicuro e organizzato di chi fugge,
+  in particolare donne, bambini e disabili.
+
+  Donazioni Iban e online al link.'
+heading: ''
+iban: IT12S0501803200000015080807
+bicSwift: ''
+ccPostal: ''
+causal: Emergenza Ucraina
+link: https://www.arcsculturesolidali.org/ucraina/
+email: ''
+location:
+  mode: autocomplete
+  address:
+    place_id: 165004837
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 255254277
+    boundingbox:
+    - '41.9202489'
+    - '41.9204935'
+    - '12.5312367'
+    - '12.5313848'
+    lat: '41.9202489'
+    lon: '12.5313848'
+    display_name: Via dei Monti di Pietralata, Pietralata, Roma, Roma Capitale, Lazio,
+      00100, Italia
+    class: highway
+    type: tertiary
+    importance: 0.72
+    address:
+      road: Via dei Monti di Pietralata
+      suburb: Pietralata
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: '00100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+Posizione: 41.9202489 12.5313848
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/492,1192006068,2022-04-04 16:28:57,2022-04-04 16:04:50,A Verona continua la raccolta beni promossa dall’Associazione Malve di Ucraina,,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""city"":""Verona"",""country"":""Italia"",""country_code"":""it"",""county"":""Verona"",""postcode"":""37122"",""state"":""Veneto""},""boundingbox"":[""45.2784958"",""45.5984958"",""10.8324122"",""11.1524122""],""class"":""place"",""display_name"":""Verona, Veneto, 37122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7561573888828526,""lat"":""45.4384958"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.9924122"",""osm_id"":64778101,""osm_type"":""node"",""place_id"":286299859,""type"":""city""},""mode"":""autocomplete""},""description"":""A Verona continua la raccolta beni di prima necessit\u00e0 e farmaci da banco promossa dall\u2019Associazione Malve di Ucraina. Al link tipo di beni da donare, punti di raccolta e orari."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Malve di Ucraina"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Verona continua la raccolta beni promossa dall\u2019Associazione Malve di Ucraina"",""url"":""https://www.facebook.com/675754522486226/posts/5170456303016003/?sfnsn=scwspmo""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Associazione Malve di Ucraina
+title: A Verona continua la raccolta beni promossa dall’Associazione Malve di Ucraina
+recipients: ''
+description: A Verona continua la raccolta beni di prima necessità e farmaci da banco
+  promossa dall’Associazione Malve di Ucraina. Al link tipo di beni da donare, punti
+  di raccolta e orari.
+url: https://www.facebook.com/675754522486226/posts/5170456303016003/?sfnsn=scwspmo
+address:
+  mode: autocomplete
+  address:
+    place_id: 286299859
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 64778101
+    boundingbox:
+    - '45.2784958'
+    - '45.5984958'
+    - '10.8324122'
+    - '11.1524122'
+    lat: '45.4384958'
+    lon: '10.9924122'
+    display_name: Verona, Veneto, 37122, Italia
+    class: place
+    type: city
+    importance: 0.7561573888828526
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Verona
+      county: Verona
+      state: Veneto
+      postcode: '37122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/491,1192000504,2022-04-04 16:28:40,2022-04-04 16:00:20,"A Scandicci (Firenze) raccolta di beni (abiti e biancheria adulti/bambini, pannolini/assorbenti) per profughe/i ucraini ",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""Children"",""women""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""postcode"":""50018"",""road"":""Via Antonio Vivaldi"",""state"":""Toscana"",""town"":""Scandicci"",""village"":""Casellina""},""boundingbox"":[""43.7605032"",""43.7611107"",""11.1790175"",""11.1797029""],""class"":""highway"",""display_name"":""Via Antonio Vivaldi, Casellina, Scandicci, Citt\u00e0 metropolitana di Firenze, Toscana, 50018, Italia"",""importance"":0.61,""lat"":""43.7610141"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.1794673"",""osm_id"":642888612,""osm_type"":""way"",""place_id"":229691975,""type"":""residential""},""mode"":""autocomplete""},""description"":""RACCOLTA AIUTO UMANITARIO per i profughi ucraini gi\u00e0 arrivati a Firenze: \u2661 abbigliamento bambini \u2661 biancheria intima bambino \u2661 biancheria intima donna \u2661 articoli prima necessit\u00e0 (pannolini, assorbenti di ogni tipo d'esigenza)\nDA SABATO, 02.04., dalle ore 14:00 alle 16:00 Al seguente indirizzo: Via Antonio Vivaldi, Scandicci FI Croce Rossa Italiana\nPer info contattare: Oxana +393932222070"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Croce Rossa Firenze"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":true},""submit"":true,""title"":""A Scandicci (Firenze) raccolta di beni (abiti e biancheria adulti/bambini, pannolini/assorbenti) per i rifugiati ucraini presso la Croce Rossa"",""url"":""https://www.facebook.com/groups/1635739780118981/permalink/1657165804643045/?sfnsn=scwspmo&ref=share""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: true
+  education: false
+offerFromWho: Croce Rossa Firenze
+title: A Scandicci (Firenze) raccolta di beni (abiti e biancheria adulti/bambini,
+  pannolini/assorbenti) per i rifugiati ucraini presso la Croce Rossa
+recipients: ''
+description: 'RACCOLTA AIUTO UMANITARIO per i profughi ucraini già arrivati a Firenze:
+  ♡ abbigliamento bambini
+  ♡ biancheria intima bambino
+  ♡ biancheria intima donna
+  ♡ articoli prima necessità (pannolini, assorbenti di ogni tipo d''esigenza)
+
+  DA SABATO, 02.04., dalle ore 14:00 alle 16:00
+  Al seguente indirizzo:
+  Via Antonio Vivaldi, Scandicci FI
+  Croce Rossa Italiana
+
+  Per info contattare: Oxana +393932222070'
+url: https://www.facebook.com/groups/1635739780118981/permalink/1657165804643045/?sfnsn=scwspmo&ref=share
+address:
+  mode: autocomplete
+  address:
+    place_id: 229691975
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 642888612
+    boundingbox:
+    - '43.7605032'
+    - '43.7611107'
+    - '11.1790175'
+    - '11.1797029'
+    lat: '43.7610141'
+    lon: '11.1794673'
+    display_name: Via Antonio Vivaldi, Casellina, Scandicci, Città metropolitana di
+      Firenze, Toscana, 50018, Italia
+    class: highway
+    type: residential
+    importance: 0.61
+    address:
+      road: Via Antonio Vivaldi
+      village: Casellina
+      town: Scandicci
+      county: Città metropolitana di Firenze
+      state: Toscana
+      postcode: '50018'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/490,1191992852,2022-04-04 16:26:58,2022-04-04 15:53:41,Scuola di counselor Academy offre supporto psicologico gratuito ai profughi ucraini,,,,,"[""Valid/Accettato"",""Services"",""psychologicalSupport""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Padova"",""postcode"":""36043"",""road"":""Via Vittorio Emanuele"",""state"":""Veneto"",""village"":""Grossa""},""boundingbox"":[""45.5586727"",""45.5812027"",""11.7075243"",""11.7108625""],""class"":""highway"",""display_name"":""Via Vittorio Emanuele, Grossa, Gazzo, Padova, Veneto, 36043, Italia"",""importance"":0.5,""lat"":""45.5697576"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.7108119"",""osm_id"":70055374,""osm_type"":""way"",""place_id"":119413920,""type"":""secondary""},""mode"":""autocomplete""},""description"":""Lo SPORTELLO di ASCOLTO per L'EMERGENZA UCRAINA nasce per sostenere le persone ucraine rifugiate o che vivono in Italia, i loro famigliari, le famiglie italiane che accolgono persone ucraine che fuggono dalla guerra e tutte le persone che vivono in Italia e che si sentono coinvolte nell'emergenza. Chiamaci al numero 329 3663169 o scrivi una mail all'indirizzo Info@lifecounselor.it per prenotare una sessione di colloqui di Counseling GRATUITA con i nostri Life Counselor.\n\u0426\u0415\u041d\u0422\u0420 \u0415\u041c\u041e\u0426\u0406\u0419\u041d\u041e\u0407 \u041f\u0406\u0414\u0422\u0420\u0418\u041c\u041a\u0418 \u0443 \u0437\u0432'\u044f\u0437\u043a\u0443 \u0437 \u041d\u0410\u0414\u0417\u0412\u0418\u0427\u0410\u0419\u041d\u0418\u041c C\u0422\u0410\u041d\u041e\u041c \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u0438\u0439 \u0434\u043b\u044f \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u043c \u0431\u0456\u0436\u0435\u043d\u0446\u044f\u043c \u0430\u0431\u043e \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u044f\u043c, \u044f\u043a\u0456 \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u044e\u0442\u044c \u0432 \u0406\u0442\u0430\u043b\u0456\u0457, \u0457\u0445\u043d\u0456\u043c \u0440\u043e\u0434\u0438\u0447\u0430\u043c, \u0456\u0442\u0430\u043b\u0456\u0439\u0441\u044c\u043a\u0438\u043c \u0441\u0456\u043c'\u044f\u043c, \u0449\u043e \u043f\u0440\u0438\u0439\u043c\u0430\u044e\u0442\u044c \u0431\u0456\u0436\u0435\u043d\u0446\u0456\u0432, \u0430 \u0442\u0430\u043a\u043e\u0436 \u0434\u043b\u044f \u0432\u0441\u0456\u0445 \u0433\u0440\u043e\u043c\u0430\u0434\u044f\u043d, \u044f\u043a\u0456 \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u044e\u0442\u044c \u0432 \u0406\u0442\u0430\u043b\u0456\u0457 \u0442\u0430 \u0432\u0456\u0434\u0447\u0443\u0432\u0430\u044e\u0442\u044c \u0441\u0435\u0431\u0435 \u0437\u0430\u043b\u0443\u0447\u0435\u043d\u0438\u043c\u0438 \u0434\u043e \u0441\u0438\u0442\u0443\u0430\u0446\u0456\u0457, \u0449\u043e \u0441\u043a\u043b\u0430\u043b\u0430\u0441\u044f. \u0414\u043b\u044f \u0437\u0430\u043f\u0438\u0441\u0443 \u043d\u0430 \u0411\u0415\u0417\u041a\u041e\u0428\u0422\u041e\u0412\u041d\u0423 \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u0446\u0456\u044e \u0437 \u043d\u0430\u0448\u0438\u043c\u0438 Life Counselor \u041c\u043e\u0436\u0435\u0442\u0435 \u0437\u0430\u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443\u0432\u0430\u0442\u0438 \u0437\u0430 \u043d\u043e\u043c\u0435\u0440\u043e\u043c: +39 329 3663169 \u0430\u0431\u043e \u043d\u0430\u043f\u0438\u0441\u0430\u0442\u0438 \u043d\u0430 \u043d\u0430\u0448\u0443 \u0435\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0443 \u0430\u0434\u0440\u0435\u0441\u0443: Info@lifecounselor.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Scuola di counselor Academy"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Scuola di counselor Academy offre supporto psicologico gratuito ai profughi ucraini"",""url"":""https://www.facebook.com/523026861110175/posts/4987944424618374/?sfnsn=scwspmo""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: true
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Scuola di counselor Academy
+title: Scuola di counselor Academy offre supporto psicologico gratuito ai profughi
+  ucraini
+recipients: ''
+description: 'Lo SPORTELLO di ASCOLTO per L''EMERGENZA UCRAINA nasce per sostenere
+  le persone ucraine rifugiate o che vivono in Italia, i loro famigliari, le famiglie
+  italiane che accolgono persone ucraine che fuggono dalla guerra e tutte le persone
+  che vivono in Italia e che si sentono coinvolte nell''emergenza.
+  Chiamaci al numero 329 3663169 o scrivi una mail all''indirizzo Info@lifecounselor.it
+  per prenotare una sessione di colloqui di Counseling GRATUITA con i nostri Life
+  Counselor.
+
+  ЦЕНТР ЕМОЦІЙНОЇ ПІДТРИМКИ у зв''язку з НАДЗВИЧАЙНИМ CТАНОМ створений для допомоги
+  українським біженцям або українцям, які проживають в Італії, їхнім родичам, італійським
+  сім''ям, що приймають біженців, а також для всіх громадян, які проживають в Італії
+  та відчувають себе залученими до ситуації, що склалася.
+  Для запису на БЕЗКОШТОВНУ консультацію з нашими Life Counselor
+  Можете зателефонувати за номером: +39 329 3663169
+  або написати на нашу електронну адресу:
+  Info@lifecounselor.it'
+url: https://www.facebook.com/523026861110175/posts/4987944424618374/?sfnsn=scwspmo
+address:
+  mode: autocomplete
+  address:
+    place_id: 119413920
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 70055374
+    boundingbox:
+    - '45.5586727'
+    - '45.5812027'
+    - '11.7075243'
+    - '11.7108625'
+    lat: '45.5697576'
+    lon: '11.7108119'
+    display_name: Via Vittorio Emanuele, Grossa, Gazzo, Padova, Veneto, 36043, Italia
+    class: highway
+    type: secondary
+    importance: 0.5
+    address:
+      road: Via Vittorio Emanuele
+      village: Grossa
+      county: Padova
+      state: Veneto
+      postcode: '36043'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/489,1191986779,2022-04-04 16:26:18,2022-04-04 15:48:30,Comune di Verona organizza corso gratuito di italiano per profughi ucraini,,,,,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Verona"",""country"":""Italia"",""country_code"":""it"",""county"":""Verona"",""house_number"":""1"",""postcode"":""37121"",""road"":""Piazza Bra"",""state"":""Veneto"",""suburb"":""San Zeno""},""boundingbox"":[""45.4379938"",""45.4380938"",""10.9937404"",""10.9938404""],""class"":""place"",""display_name"":""1, Piazza Bra, San Zeno, Centro Storico, Verona, Veneto, 37121, Italia"",""importance"":0.5309999999999999,""lat"":""45.4380438"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.9937904"",""osm_id"":4553678631,""osm_type"":""node"",""place_id"":52055239,""type"":""house""},""mode"":""autocomplete""},""description"":""Il Comune di Verona, insieme al Centro provinciale Istruzione Adulti, offre corso di italiano gratuito per i cittadini ucraini al fine di favorire l\u2019integrazione di coloro che sono scappati dalla guerra e hanno trovato accoglienza nella nostra citt\u00e0. La raccolta delle adesioni \u00e8 gi\u00e0 aperta, una ventina i posti a disposizione. Le lezioni avranno una durata di 100 ore e si terranno da met\u00e0 aprile a met\u00e0 giugno, la mattina dalle 9 alle 12.30, in zona Stadio. Due i requisiti per l\u2019iscrizione: aver compilato la dichiarazione di presenza sul territorio del Comune di Verona e avere pi\u00f9 di 16 anni.\nLe domande possono essere inviate entro luned\u00ec 11 aprile al Servizio Promozione Lavoro del Comune, inviando una mail a lavoro@comune.verona.it, indicando nell\u2019oggetto \u2018Richiesta corso di italiano per persone ucraine\u2019. Da specificare nel testo le generalit\u00e0 della persona interessata al corso e attuale domicilio. Cos\u00ec come nome, cognome e recapiti telefonici - mail di una persona di riferimento che parli italiano.\nPer ulteriori informazioni \u00e8 possibile telefonare ai numeri 045 8078782 \u2013 045 8078770, dal luned\u00ec al venerd\u00ec, dalle 9 alle 13."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Verona"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Verona organizza corso gratuito di italiano per profughi ucraini"",""url"":""https://www.facebook.com/237140466383661/posts/4931106550320339/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Comune di Verona
+title: Comune di Verona organizza corso gratuito di italiano per profughi ucraini
+recipients: ''
+description: 'Il Comune di Verona, insieme al Centro provinciale Istruzione Adulti,
+  offre corso di italiano gratuito per i cittadini ucraini al fine di favorire l’integrazione
+  di coloro che sono scappati dalla guerra e hanno trovato accoglienza nella nostra
+  città. La raccolta delle adesioni è già aperta, una ventina i posti a disposizione.
+  Le lezioni avranno una durata di 100 ore e si terranno da metà aprile a metà giugno,
+  la mattina dalle 9 alle 12.30, in zona Stadio. Due i requisiti per l’iscrizione:
+  aver compilato la dichiarazione di presenza sul territorio del Comune di Verona
+  e avere più di 16 anni.
+
+  Le domande possono essere inviate entro lunedì 11 aprile al Servizio Promozione
+  Lavoro del Comune, inviando una mail a lavoro@comune.verona.it, indicando nell’oggetto
+  ‘Richiesta corso di italiano per persone ucraine’. Da specificare nel testo le generalità
+  della persona interessata al corso e attuale domicilio. Così come nome, cognome
+  e recapiti telefonici - mail di una persona di riferimento che parli italiano.
+
+  Per ulteriori informazioni è possibile telefonare ai numeri 045 8078782 – 045 8078770,
+  dal lunedì al venerdì, dalle 9 alle 13.'
+url: https://www.facebook.com/237140466383661/posts/4931106550320339/
+address:
+  mode: autocomplete
+  address:
+    place_id: 52055239
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 4553678631
+    boundingbox:
+    - '45.4379938'
+    - '45.4380938'
+    - '10.9937404'
+    - '10.9938404'
+    lat: '45.4380438'
+    lon: '10.9937904'
+    display_name: 1, Piazza Bra, San Zeno, Centro Storico, Verona, Veneto, 37121,
+      Italia
+    class: place
+    type: house
+    importance: 0.5309999999999999
+    address:
+      house_number: '1'
+      road: Piazza Bra
+      suburb: San Zeno
+      city: Verona
+      county: Verona
+      state: Veneto
+      postcode: '37121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/488,1191977220,2022-04-04 16:26:05,2022-04-04 15:40:11,A Livorno Comunità di Sant’Egidio organizza corsi di italiano gratuiti per bambini e adulti ucraini,,,,,"[""Valid/Accettato"",""Services"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Livorno"",""country"":""Italia"",""country_code"":""it"",""county"":""Livorno"",""postcode"":""57123"",""road"":""Via carraia"",""state"":""Toscana""},""boundingbox"":[""43.5517728"",""43.5524395"",""10.3065538"",""10.3067431""],""class"":""highway"",""display_name"":""Via carraia, Livorno, Toscana, 57123, Italia"",""importance"":0.51,""lat"":""43.552095"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.3066283"",""osm_id"":29030318,""osm_type"":""way"",""place_id"":108920969,""type"":""unclassified""},""mode"":""autocomplete""},""description"":""A Livorno Comunit\u00e0 di Sant\u2019Egidio organizza corsi di italiano gratuiti per bambini e adulti ucraini. Al link orari e contatti."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comunit\u00e0 di Sant\u2019Egidio Livorno"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Livorno Comunit\u00e0 di Sant\u2019Egidio organizza corsi di italiano gratuiti per bambini e adulti ucraini"",""url"":""https://www.facebook.com/groups/ucrainaintoscana/permalink/2023328124495696/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: true
+offerFromWho: Comunità di Sant’Egidio Livorno
+title: A Livorno Comunità di Sant’Egidio organizza corsi di italiano gratuiti per
+  bambini e adulti ucraini
+recipients: ''
+description: A Livorno Comunità di Sant’Egidio organizza corsi di italiano gratuiti
+  per bambini e adulti ucraini. Al link orari e contatti.
+url: https://www.facebook.com/groups/ucrainaintoscana/permalink/2023328124495696/
+address:
+  mode: autocomplete
+  address:
+    place_id: 108920969
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 29030318
+    boundingbox:
+    - '43.5517728'
+    - '43.5524395'
+    - '10.3065538'
+    - '10.3067431'
+    lat: '43.552095'
+    lon: '10.3066283'
+    display_name: Via carraia, Livorno, Toscana, 57123, Italia
+    class: highway
+    type: unclassified
+    importance: 0.51
+    address:
+      road: Via carraia
+      city: Livorno
+      county: Livorno
+      state: Toscana
+      postcode: '57123'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/487,1191965226,2022-04-04 16:25:51,2022-04-04 15:30:20,Comunità Sant’Egidio per l’emergenza Ucraina: online elenco dei farmaci e dei punti di raccolta in tutta Italia,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""quarter"":""Trastevere"",""road"":""Piazza di Sant'Egidio"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.8897017"",""41.8902772"",""12.468775"",""12.4692422""],""class"":""highway"",""display_name"":""Piazza di Sant'Egidio, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, Italia"",""importance"":0.61,""lat"":""41.890000650000005"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.46907530778289"",""osm_id"":203295672,""osm_type"":""way"",""place_id"":151116979,""type"":""pedestrian""},""mode"":""autocomplete""},""description"":""La Comunit\u00e0 di Sant'Egidio sta preparando nuovi carichi di aiuti per l'Ucraina. Tra le richieste pi\u00f9 urgenti c'\u00e8 quella di farmaci. Per ha avviato una raccolta straordinaria. Nella pagina a link la lista dei farmaci necessari e dei punti di raccolta in tutta Italia (in continuo aggiornamento)."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comunit\u00e0 Sant\u2019Egidio"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comunit\u00e0 Sant\u2019Egidio per l\u2019emergenza Ucraina: online elenco dei farmaci e dei punti di raccolta in tutta Italia"",""url"":""https://www.santegidio.org/pageID/30284/langID/it/itemID/47069/Raccolta-straordinaria-di-farmaci-per-l-Ucraina-I-centri--di-Raccolta.html""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: true
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Comunità Sant’Egidio
+title: 'Comunità Sant’Egidio per l’emergenza Ucraina: online elenco dei farmaci e
+  dei punti di raccolta in tutta Italia'
+recipients: ''
+description: La Comunità di Sant'Egidio sta preparando nuovi carichi di aiuti per
+  l'Ucraina. Tra le richieste più urgenti c'è quella di farmaci. Per ha avviato una
+  raccolta straordinaria. Nella pagina a link la lista dei farmaci necessari e dei
+  punti di raccolta in tutta Italia (in continuo aggiornamento).
+url: https://www.santegidio.org/pageID/30284/langID/it/itemID/47069/Raccolta-straordinaria-di-farmaci-per-l-Ucraina-I-centri--di-Raccolta.html
+address:
+  mode: autocomplete
+  address:
+    place_id: 151116979
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 203295672
+    boundingbox:
+    - '41.8897017'
+    - '41.8902772'
+    - '12.468775'
+    - '12.4692422'
+    lat: '41.890000650000005'
+    lon: '12.46907530778289'
+    display_name: Piazza di Sant'Egidio, Trastevere, Municipio Roma I, Roma, Roma
+      Capitale, Lazio, Italia
+    class: highway
+    type: pedestrian
+    importance: 0.61
+    address:
+      road: Piazza di Sant'Egidio
+      quarter: Trastevere
+      suburb: Municipio Roma I
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/486,1191952266,2022-04-04 15:23:15,2022-04-04 15:20:23,A Firenze Ordine degli avvocati attiva email per supporto legale ai rifugiati ucraini e pubblica online Faq in italiano e ucraino,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""house_number"":""61"",""neighbourhood"":""Firenze Nova"",""postcode"":""50127"",""road"":""Viale Alessandro Guidoni"",""state"":""Toscana"",""suburb"":""Quartiere 5""},""boundingbox"":[""43.7955768"",""43.7956768"",""11.2272056"",""11.2273056""],""class"":""place"",""display_name"":""61, Viale Alessandro Guidoni, Firenze Nova, Quartiere 5, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50127, Italia"",""importance"":0.5309999999999999,""lat"":""43.7956268"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2272556"",""osm_id"":2361902019,""osm_type"":""node"",""place_id"":21081985,""type"":""house""},""mode"":""autocomplete""},""description"":""In ottemperanza alla delibera adottata dal Consiglio dell'Ordine degli Avvocati di Firenze in relazione ai tragici eventi della guerra in Ucraina, \u00e8 ora aperta un'apposita casella di posta per tutti coloro che necessitano di informazioni legali: emergenzaucraina@ordineavvocatifirenze.eu Contattando il nostro Ordine degli Avvocati tramite la suddetta e-mail, sar\u00e0 organizzato un incontro online a distanza, durante il quale un avvocato esperto in diritto internazionale, asilo e norme di protezione potr\u00e0 fornire le spiegazioni pertinenti e le informazioni necessarie per la tutela dei diritti. Ogni conversazione a distanza si svolger\u00e0 alla presenza di un interprete. \u00c8 inoltre disponibile online un elenco di domande e risposte (italiano/ucraino) su: 1. Ingresso in Italia 2. Presenza in Italia 2.1 Estensione del visto 3. Permanenza in Italia 3.1 Protezione temporanea 3.1.1 Assistenza finanziaria 3.2 Domanda di asilo 3.3 Minori non accompagnati 3.4 Emersione 2020 3.5 Condizioni favorevoli per i cittadini ucraini\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 \u0412\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u043d\u043e \u0434\u043e \u0440\u0435\u0437\u043e\u043b\u044e\u0446\u0456\u0457, \u0443\u0445\u0432\u0430\u043b\u0435\u043d\u043e\u0457 \u0420\u0430\u0434\u043e\u044e \u041a\u043e\u043b\u0435\u0433\u0456\u0457 \u0430\u0434\u0432\u043e\u043a\u0430\u0442\u0456\u0432 \u0424\u043b\u043e\u0440\u0435\u043d\u0446\u0456\u0457 \u0443 \u0437\u0432\u2019\u044f\u0437\u043a\u0443 \u0437 \u0442\u0440\u0430\u0433\u0456\u0447\u043d\u0438\u043c\u0438 \u043f\u043e\u0434\u0456\u044f\u043c\u0438 \u0432\u0456\u0439\u043d\u0438 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456, \u0432\u0456\u0434 \u0441\u044c\u043e\u0433\u043e\u0434\u043d\u0456 \u0434\u043b\u044f \u0432\u0441\u0456\u0445 \u0442\u0438\u0445, \u0445\u0442\u043e \u043f\u043e\u0442\u0440\u0435\u0431\u0443\u0454 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u0457 \u044e\u0440\u0438\u0434\u0438\u0447\u043d\u043e\u0433\u043e \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0443, \u0432\u0456\u0434\u043a\u0440\u0438\u0442\u0430 \u0441\u043f\u0435\u0446\u0456\u0430\u043b\u044c\u043d\u0430 \u043f\u043e\u0448\u0442\u043e\u0432\u0430 \u0441\u043a\u0440\u0438\u043d\u044c\u043a\u0430: emergenzaucraina@ordineavvocatifirenze.eu \u0417\u0432\u0435\u0440\u043d\u0443\u0432\u0448\u0438\u0441\u044c \u0434\u043e \u043d\u0430\u0448\u043e\u0457 \u041a\u043e\u043b\u0435\u0433\u0456\u0457 \u0430\u0434\u0432\u043e\u043a\u0430\u0442\u0456\u0432 \u0437\u0430 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u043e\u044e \u0432\u0438\u0449\u0435\u0437\u0433\u0430\u0434\u0430\u043d\u043e\u0457 \u0435\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0457 \u043f\u043e\u0448\u0442\u0438, \u0431\u0443\u0434\u0435 \u043e\u0440\u0433\u0430\u043d\u0456\u0437\u043e\u0432\u0430\u043d\u043e \u0434\u0438\u0441\u0442\u0430\u043d\u0446\u0456\u0439\u043d\u0443 \u0437\u0443\u0441\u0442\u0440\u0456\u0447 \u043e\u043d\u043b\u0430\u0439\u043d, \u043f\u0456\u0434 \u0447\u0430\u0441 \u044f\u043a\u043e\u0457 \u044e\u0440\u0438\u0441\u0442-\u0435\u043a\u0441\u043f\u0435\u0440\u0442 \u0437 \u043c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0433\u043e \u043f\u0440\u0430\u0432\u0430, \u043f\u0440\u0438\u0442\u0443\u043b\u043a\u0443 \u0442\u0430 \u043f\u0440\u0430\u0432\u0438\u043b \u0437\u0430\u0445\u0438\u0441\u0442\u0443 \u0437\u043c\u043e\u0436\u0435 \u043d\u0430\u0434\u0430\u0442\u0438 \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u043d\u0456 \u0440\u043e\u0437\u2019\u044f\u0441\u043d\u0435\u043d\u043d\u044f \u0442\u0430 \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u0443 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u044e \u0434\u043b\u044f \u0437\u0430\u0445\u0438\u0441\u0442\u0443 \u043f\u0440\u0430\u0432. \u041a\u043e\u0436\u043d\u0430 \u0434\u0438\u0441\u0442\u0430\u043d\u0446\u0456\u0439\u043d\u0430 \u0440\u043e\u0437\u043c\u043e\u0432\u0430 \u0431\u0443\u0434\u0435 \u043f\u0440\u043e\u0445\u043e\u0434\u0438\u0442\u0438 \u0432 \u043f\u0440\u0438\u0441\u0443\u0442\u043d\u043e\u0441\u0442\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0430\u0447\u0430. \u0423 \u0434\u043e\u0434\u0430\u043d\u043e\u043c\u0443 \u0444\u0430\u0439\u043b\u0456 \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u0456 \u044e\u0440\u0438\u0441\u0442\u0456\u0432 \u043d\u0430 \u043f\u0438\u0442\u0430\u043d\u043d\u044f: 1. \u0412'\u0457\u0437\u0434 \u0432 \u0406\u0442\u0430\u043b\u0456\u044e 2. \u041f\u0440\u0438\u0441\u0443\u0442\u043d\u0456\u0441\u0442\u044c \u0432 \u0406\u0442\u0430\u043b\u0456\u0457 2.1 \u041f\u043e\u0434\u043e\u0432\u0436\u0435\u043d\u043d\u044f \u0432\u0456\u0437\u0438 3. \u041f\u0435\u0440\u0435\u0431\u0443\u0432\u0430\u0442\u0438 \u0432 \u0406\u0442\u0430\u043b\u0456\u0457 3.1 \u0422\u0438\u043c\u0447\u0430\u0441\u043e\u0432\u0438\u0439 \u0437\u0430\u0445\u0438\u0441\u0442 3.1.1 \u0424\u0456\u043d\u0430\u043d\u0441\u043e\u0432\u0430 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0430 3.2 \u0417\u0430\u044f\u0432\u0430 \u043f\u0440\u043e \u043d\u0430\u0434\u0430\u043d\u043d\u044f \u043f\u0440\u0438\u0442\u0443\u043b\u043a\u0443 3.3 \u041d\u0435\u043f\u043e\u0432\u043d\u043e\u043b\u0456\u0442\u043d\u0456 \u0456\u043d\u043e\u0437\u0435\u043c\u0446\u0456 \u0431\u0435\u0437 \u0441\u0443\u043f\u0440\u043e\u0432\u043e\u0434\u0443 3.4 \u041f\u043e\u044f\u0432\u0430 2020 3.5 \u0412\u0438\u0433\u0456\u0434\u043d\u0456 \u0443\u043c\u043e\u0432\u0438 \u0434\u043b\u044f \u0433\u0440\u043e\u043c\u0430\u0434\u044f\u043d \u0423\u043a\u0440\u0430\u0457\u043d\u0438"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ordine degli avvocati di Firenze"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Firenze Ordine degli avvocati attiva email per supporto legale ai rifugiati ucraini e pubblica online Faq in italiano e ucraino"",""url"":""http://www.ordineavvocatifirenze.eu/2022/03/sportello-telematico-emergenza-ucraina/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
