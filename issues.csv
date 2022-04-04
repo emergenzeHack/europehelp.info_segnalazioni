@@ -1,5 +1,49 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/482,1191066661,2022-04-03 22:32:56,2022-04-03 22:32:24,"Emergenza Ucraina, attivo il sito del Comune di Roma per info e supporto ai profughi ucraini (in ucraino e italiano)",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""hospitality"",""transport"",""healthcare"",""psychologicalSupport"",""Children"",""disability"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""quarter"":""Campitelli"",""road"":""Piazza del Campidoglio"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.8928366"",""41.8936211"",""12.4824452"",""12.4834856""],""class"":""highway"",""display_name"":""Piazza del Campidoglio, Campitelli, Municipio Roma I, Roma, Roma Capitale, Lazio, Italia"",""importance"":0.51,""lat"":""41.8932408"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.482981487083691"",""osm_id"":13406532,""osm_type"":""relation"",""place_id"":286187904,""type"":""pedestrian""},""mode"":""autocomplete""},""description"":""Per l\u2019emergenza Ucraini, il Comune di Roma, oltre a indirizzo mail (emergenza.ucraina@comune.roma.it) e Numero Verde (800938873), ha attivato il sito https://emergenzaucraina.roma.it in italiano, ucraino e inglese dedicato in particolare ai profughi ucraini. \nSul sito sono disponibili informazioni e contatti utili su: alloggi, permessi di soggiorno, assistenza sanitaria, integrazione scolastica, trasporti, corsi di italiano, attivit\u00e0 per bambini, punti di raccolta beni di prima necessit\u00e0, servizi per profughi sordi e ciechi."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Roma"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":true,""disability"":true,""education"":true,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":true,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""Emergenza Ucraina, attivo il sito del Comune di Roma per info e supporto ai profughi ucraini ( in ucraino e italiano)"",""url"":""https://emergenzaucraina.roma.it""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/476,1191043242,2022-04-04 06:22:07,2022-04-03 20:55:59,A Palermo Comitato Salva Ucraini cerca volontari italiani per attività a supporto dei profughi,38.1315691,13.3504181,Sicilia,Palermo,"[""Valid/Accettato"",""Help"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""38.1315691 13.3504181"",""description"":""A Palermo il Comitato Salva Ucraini cerca volontari italiani per le attivit\u00e0 che svolge a supporto dei profughi ucraini in citt\u00e0. \nPer proporsi compilare il seguente modulo online https://forms.gle/M6NNodm5Fco3re8v6"",""email"":""salva.ucraini.palermo@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""postcode"":""90141"",""road"":""Via Marchese Ugo"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1299555"",""38.1336658"",""13.3496116"",""13.3514253""],""class"":""highway"",""display_name"":""Via Marchese Ugo, VIII Circoscrizione, Palermo, Sicilia, 90141, Italia"",""importance"":0.5,""lat"":""38.1315691"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3504181"",""osm_id"":86265407,""osm_type"":""way"",""place_id"":119906789,""type"":""residential""},""mode"":""autocomplete""},""nameSurname"":""Comitato Salva Ucraini Palermo"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""A Palermo Comitato Salva Ucraini cerca volontari italiani per attivit\u00e0 a supporto dei profughi"",""url"":""https://t.me/ucraini_a_palermo/107""}","<pre><yamldata>
+nameSurname: Comitato Salva Ucraini Palermo
+phoneNumber: ''
+email: salva.ucraini.palermo@gmail.com
+title: A Palermo Comitato Salva Ucraini cerca volontari italiani per attività a supporto
+  dei profughi
+recipients: ''
+description: ""A Palermo il Comitato Salva Ucraini cerca volontari italiani per le\
+  \ attività che svolge a supporto dei profughi ucraini in città. \nPer proporsi compilare\
+  \ il seguente modulo online https://forms.gle/M6NNodm5Fco3re8v6""
+url: https://t.me/ucraini_a_palermo/107
+location:
+  mode: autocomplete
+  address:
+    place_id: 119906789
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 86265407
+    boundingbox:
+    - '38.1299555'
+    - '38.1336658'
+    - '13.3496116'
+    - '13.3514253'
+    lat: '38.1315691'
+    lon: '13.3504181'
+    display_name: Via Marchese Ugo, VIII Circoscrizione, Palermo, Sicilia, 90141,
+      Italia
+    class: highway
+    type: residential
+    importance: 0.5
+    address:
+      road: Via Marchese Ugo
+      suburb: VIII Circoscrizione
+      city: Palermo
+      county: Palermo
+      state: Sicilia
+      postcode: '90141'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 38.1315691 13.3504181
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/482,1191066661,2022-04-04 06:21:37,2022-04-03 22:32:24,"Emergenza Ucraina, attivo il sito del Comune di Roma per info e supporto ai profughi ucraini (in ucraino e italiano)",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""hospitality"",""transport"",""healthcare"",""psychologicalSupport"",""Children"",""disability"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""quarter"":""Campitelli"",""road"":""Piazza del Campidoglio"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.8928366"",""41.8936211"",""12.4824452"",""12.4834856""],""class"":""highway"",""display_name"":""Piazza del Campidoglio, Campitelli, Municipio Roma I, Roma, Roma Capitale, Lazio, Italia"",""importance"":0.51,""lat"":""41.8932408"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.482981487083691"",""osm_id"":13406532,""osm_type"":""relation"",""place_id"":286187904,""type"":""pedestrian""},""mode"":""autocomplete""},""description"":""Per l\u2019emergenza Ucraini, il Comune di Roma, oltre a indirizzo mail (emergenza.ucraina@comune.roma.it) e Numero Verde (800938873), ha attivato il sito https://emergenzaucraina.roma.it in italiano, ucraino e inglese dedicato in particolare ai profughi ucraini. \nSul sito sono disponibili informazioni e contatti utili su: alloggi, permessi di soggiorno, assistenza sanitaria, integrazione scolastica, trasporti, corsi di italiano, attivit\u00e0 per bambini, punti di raccolta beni di prima necessit\u00e0, servizi per profughi sordi e ciechi."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Roma"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":true,""disability"":true,""education"":true,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":true,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""Emergenza Ucraina, attivo il sito del Comune di Roma per info e supporto ai profughi ucraini ( in ucraino e italiano)"",""url"":""https://emergenzaucraina.roma.it""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
   hospitality: true
@@ -51,6 +95,165 @@ address:
       city: Roma
       county: Roma Capitale
       state: Lazio
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/479,1191054545,2022-04-04 06:21:21,2022-04-03 21:44:12,"A Torino Fondazione Specchio dei Tempi, in collaborazione con Consolato Ucraino, offre contributo economico e vaccino anti Covid a profughi ucraini arrivati in Piemonte",45.0491426,7.6716183,Piemonte,Torino,"[""Valid/Accettato"",""News"",""materialGoods"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.0491426 7.6716183"",""description"":""A Torino la Fondazione Specchio dei tempi ha attivato il numero telefonico +39 011 0230075 riservato ai profughi ucraini in arrivo in Piemonte. Risponderanno le volontarie del Consolato dell\u2019Ucraina di Torino che, una volta accertata la situazione, li metteranno in contatto con Specchio dei tempi che fornir\u00e0 loro un contributo economico in contanti.\nSpecchio dei tempi, inoltre, ha aperto un canale con la Regione Piemonte per garantire a tutti i profughi (pi\u00f9 della met\u00e0 degli ucraini non sono vaccinati) una immediata vaccinazione anti-Covid al loro arrivo nella nostra regione."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.specchiodeitempi.org/attivato-il-numero-telefonico-per-i-profughi-ucraini/"",""location"":{""address"":{""address"":{""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""house_number"":""15"",""postcode"":""10126"",""road"":""Via Ernesto Lugaro"",""state"":""Piemonte"",""suburb"":""San Salvario""},""boundingbox"":[""45.0490926"",""45.0491926"",""7.6715683"",""7.6716683""],""class"":""place"",""display_name"":""15, Via Ernesto Lugaro, San Salvario, Circoscrizione 8, Torino, Piemonte, 10126, Italia"",""importance"":0.5309999999999999,""lat"":""45.0491426"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6716183"",""osm_id"":4735802176,""osm_type"":""node"",""place_id"":53329089,""type"":""house""},""mode"":""autocomplete""},""submit"":true,""title"":""A Torino Fondazione Specchio dei Tempi, in collaborazione con Consolato Ucraino, offre contributo economico e vaccino anti Covid a profughi ucraini arrivati in Piemonte""}","<pre><yamldata>
+title: A Torino Fondazione Specchio dei Tempi, in collaborazione con Consolato Ucraino,
+  offre contributo economico e vaccino anti Covid a profughi ucraini arrivati in Piemonte
+description: 'A Torino la Fondazione Specchio dei tempi ha attivato il numero telefonico
+  +39 011 0230075 riservato ai profughi ucraini in arrivo in Piemonte. Risponderanno
+  le volontarie del Consolato dell’Ucraina di Torino che, una volta accertata la situazione,
+  li metteranno in contatto con Specchio dei tempi che fornirà loro un contributo
+  economico in contanti.
+
+  Specchio dei tempi, inoltre, ha aperto un canale con la Regione Piemonte per garantire
+  a tutti i profughi (più della metà degli ucraini non sono vaccinati) una immediata
+  vaccinazione anti-Covid al loro arrivo nella nostra regione.'
+link: https://www.specchiodeitempi.org/attivato-il-numero-telefonico-per-i-profughi-ucraini/
+location:
+  mode: autocomplete
+  address:
+    place_id: 53329089
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 4735802176
+    boundingbox:
+    - '45.0490926'
+    - '45.0491926'
+    - '7.6715683'
+    - '7.6716683'
+    lat: '45.0491426'
+    lon: '7.6716183'
+    display_name: 15, Via Ernesto Lugaro, San Salvario, Circoscrizione 8, Torino,
+      Piemonte, 10126, Italia
+    class: place
+    type: house
+    importance: 0.5309999999999999
+    address:
+      house_number: '15'
+      road: Via Ernesto Lugaro
+      suburb: San Salvario
+      city: Torino
+      county: Torino
+      state: Piemonte
+      postcode: '10126'
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.0491426 7.6716183
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/469,1190843048,2022-04-04 06:20:38,2022-04-03 07:22:22,Comunità Ucraina Marche: elenco dei punti di raccolta di beni di prima necessità e medicinali,43.3458388,13.1415872,Marche,Macerata,"[""Valid/Accettato"",""materialGoods"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""43.3458388 13.1415872"",""description"":""ATTENZIIONE \u2757\ufe0f\nLa lista aggiornata con i luoghi di raccolta per il 01/04/2022 con le raccolte in sede:\n\ud83c\uddfa\ud83c\udde6\ud83c\uddee\ud83c\uddf9Ancona Torette:\n via Esino 42 Ass. nazionale Vigili di fuoco la protezione civile in Congedo di Ancona ODV ()L\u2019Ex centrale del latte)\n\ud83c\uddfa\ud83c\udde6\ud83c\uddee\ud83c\uddf9Senigallia: \nlungomare Alighieri, 123 presso l'oratorio della parrocchia Santa Maria Goretti si trova tra hotel Majestic e Continental.\n\ud83c\uddfa\ud83c\udde6\ud83c\uddee\ud83c\uddf9Fermo:\nPiazza Dante Protezione Civile  Mart e Giov 9:00 -11:00 e 14:00 -15:00\n\ud83c\uddfa\ud83c\udde6\ud83c\uddee\ud83c\uddf9Loreto:\nSan Francesco d\u2019Assisi, 52 Ex sede amministrativa delle Opere Laiche Lauretane\nChiaravalle(AN), \npresso i locali parrocchiali del Ex \""Pit-stop\"", di fronte al parcheggio dietro l'abbazia, l'accesso al parcheggio si trova sul Viale Della Vittoria 50\n#primanecessit\u00e0"",""email"":""comunitaucrainamarche@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Marche""},""boundingbox"":[""42.6871561"",""43.9713089"",""12.1854536"",""13.9163487""],""class"":""boundary"",""display_name"":""Marche, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7637504628515784,""lat"":""43.3458388"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.1415872"",""osm_id"":53060,""osm_type"":""relation"",""place_id"":284135151,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""CUM Comunit\u00e1 Ucraina Marche"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Beni di prima necessit\u00e0 e medicinali"",""url"":""https://comunitaucrainamarche.wordpress.com/""}","<pre><yamldata>
+nameSurname: CUM Comunitá Ucraina Marche
+phoneNumber: ''
+email: comunitaucrainamarche@gmail.com
+title: Beni di prima necessità e medicinali
+recipients: ''
+description: ""ATTENZIIONE ❗️\nLa lista aggiornata con i luoghi di raccolta per il\
+  \ 01/04/2022 con le raccolte in sede:\n\U0001F1FA\U0001F1E6\U0001F1EE\U0001F1F9\
+  Ancona Torette:\n via Esino 42 Ass. nazionale Vigili di fuoco la protezione civile\
+  \ in Congedo di Ancona ODV ()L’Ex centrale del latte)\n\U0001F1FA\U0001F1E6\U0001F1EE\
+  \U0001F1F9Senigallia: \nlungomare Alighieri, 123 presso l'oratorio della parrocchia\
+  \ Santa Maria Goretti si trova tra hotel Majestic e Continental.\n\U0001F1FA\U0001F1E6\
+  \U0001F1EE\U0001F1F9Fermo:\nPiazza Dante Protezione Civile  Mart e Giov 9:00 -11:00\
+  \ e 14:00 -15:00\n\U0001F1FA\U0001F1E6\U0001F1EE\U0001F1F9Loreto:\nSan Francesco\
+  \ d’Assisi, 52 Ex sede amministrativa delle Opere Laiche Lauretane\nChiaravalle(AN),\
+  \ \npresso i locali parrocchiali del Ex \""Pit-stop\"", di fronte al parcheggio dietro\
+  \ l'abbazia, l'accesso al parcheggio si trova sul Viale Della Vittoria 50\n#primanecessità""
+url: https://comunitaucrainamarche.wordpress.com/
+location:
+  mode: autocomplete
+  address:
+    place_id: 284135151
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 53060
+    boundingbox:
+    - '42.6871561'
+    - '43.9713089'
+    - '12.1854536'
+    - '13.9163487'
+    lat: '43.3458388'
+    lon: '13.1415872'
+    display_name: Marche, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7637504628515784
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      state: Marche
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 43.3458388 13.1415872
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/460,1190650885,2022-04-04 06:19:59,2022-04-02 14:37:18,A Milano CPIA offre corsi gratuiti di lingua italiana per i rifugiati dall’Ucraina,,,,,"[""Valid/Accettato"",""Services"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""state"":""Lombardia""},""boundingbox"":[""45.3867381"",""45.5358482"",""9.0408867"",""9.2781103""],""class"":""boundary"",""display_name"":""Milano, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8390652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":44915,""osm_type"":""relation"",""place_id"":283684439,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Per la citt\u00e0 di Milano il CPIA - Centro Provinciale per l'istruzione degli Adulti attiva corsi gratuiti di italiano L2 di diverso livello nelle sue otto sedi cittadine:\nCPIA Via Pontano\nCPIA Via Heine\nCPIA Via Colletta\nCPIA Viale Zara\nCPIA Via Scrosati\nCPIA Via Satta\nCPIA Viale Campania\nPer ulteriori info vedi link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""CPIA - Centro Provinciale per l'istruzione degli Adulti"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Milano presso le 8 sedi del CPIA corsi gratuiti di lingua italiana"",""url"":""https://milano.italianostranieri.org/it/pages/corsi-di-italiano-gratuiti-nelle-scuola-pubbliche-di-milano""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: CPIA - Centro Provinciale per l'istruzione degli Adulti
+title: A Milano presso le 8 sedi del CPIA corsi gratuiti di lingua italiana
+recipients: ''
+description: 'Per la città di Milano il CPIA - Centro Provinciale per l''istruzione
+  degli Adulti attiva corsi gratuiti di italiano L2 di diverso livello nelle sue otto
+  sedi cittadine:
+
+  CPIA Via Pontano
+
+  CPIA Via Heine
+
+  CPIA Via Colletta
+
+  CPIA Viale Zara
+
+  CPIA Via Scrosati
+
+  CPIA Via Satta
+
+  CPIA Viale Campania
+
+  Per ulteriori info vedi link.'
+url: https://milano.italianostranieri.org/it/pages/corsi-di-italiano-gratuiti-nelle-scuola-pubbliche-di-milano
+address:
+  mode: autocomplete
+  address:
+    place_id: 283684439
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 44915
+    boundingbox:
+    - '45.3867381'
+    - '45.5358482'
+    - '9.0408867'
+    - '9.2781103'
+    lat: '45.4641943'
+    lon: '9.1896346'
+    display_name: Milano, Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8390652078701348
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Milano
+      county: Milano
+      state: Lombardia
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
@@ -190,53 +393,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/479,1191054545,2022-04-03 21:45:22,2022-04-03 21:44:12,"A Torino Fondazione Specchio dei Tempi, in collaborazione con Consolato Ucraino, offre contributo economico e vaccino anti Covid a profughi ucraini arrivati in Piemonte",45.0491426,7.6716183,Piemonte,Torino,"[""Valid/Accettato"",""News"",""materialGoods"",""healthcare""]",,,"{""Posizione"":""45.0491426 7.6716183"",""description"":""A Torino la Fondazione Specchio dei tempi ha attivato il numero telefonico +39 011 0230075 riservato ai profughi ucraini in arrivo in Piemonte. Risponderanno le volontarie del Consolato dell\u2019Ucraina di Torino che, una volta accertata la situazione, li metteranno in contatto con Specchio dei tempi che fornir\u00e0 loro un contributo economico in contanti.\nSpecchio dei tempi, inoltre, ha aperto un canale con la Regione Piemonte per garantire a tutti i profughi (pi\u00f9 della met\u00e0 degli ucraini non sono vaccinati) una immediata vaccinazione anti-Covid al loro arrivo nella nostra regione."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.specchiodeitempi.org/attivato-il-numero-telefonico-per-i-profughi-ucraini/"",""location"":{""address"":{""address"":{""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""house_number"":""15"",""postcode"":""10126"",""road"":""Via Ernesto Lugaro"",""state"":""Piemonte"",""suburb"":""San Salvario""},""boundingbox"":[""45.0490926"",""45.0491926"",""7.6715683"",""7.6716683""],""class"":""place"",""display_name"":""15, Via Ernesto Lugaro, San Salvario, Circoscrizione 8, Torino, Piemonte, 10126, Italia"",""importance"":0.5309999999999999,""lat"":""45.0491426"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6716183"",""osm_id"":4735802176,""osm_type"":""node"",""place_id"":53329089,""type"":""house""},""mode"":""autocomplete""},""submit"":true,""title"":""A Torino Fondazione Specchio dei Tempi, in collaborazione con Consolato Ucraino, offre contributo economico e vaccino anti Covid a profughi ucraini arrivati in Piemonte""}","<pre><yamldata>
-title: A Torino Fondazione Specchio dei Tempi, in collaborazione con Consolato Ucraino,
-  offre contributo economico e vaccino anti Covid a profughi ucraini arrivati in Piemonte
-description: 'A Torino la Fondazione Specchio dei tempi ha attivato il numero telefonico
-  +39 011 0230075 riservato ai profughi ucraini in arrivo in Piemonte. Risponderanno
-  le volontarie del Consolato dell’Ucraina di Torino che, una volta accertata la situazione,
-  li metteranno in contatto con Specchio dei tempi che fornirà loro un contributo
-  economico in contanti.
-
-  Specchio dei tempi, inoltre, ha aperto un canale con la Regione Piemonte per garantire
-  a tutti i profughi (più della metà degli ucraini non sono vaccinati) una immediata
-  vaccinazione anti-Covid al loro arrivo nella nostra regione.'
-link: https://www.specchiodeitempi.org/attivato-il-numero-telefonico-per-i-profughi-ucraini/
-location:
-  mode: autocomplete
-  address:
-    place_id: 53329089
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 4735802176
-    boundingbox:
-    - '45.0490926'
-    - '45.0491926'
-    - '7.6715683'
-    - '7.6716683'
-    lat: '45.0491426'
-    lon: '7.6716183'
-    display_name: 15, Via Ernesto Lugaro, San Salvario, Circoscrizione 8, Torino,
-      Piemonte, 10126, Italia
-    class: place
-    type: house
-    importance: 0.5309999999999999
-    address:
-      house_number: '15'
-      road: Via Ernesto Lugaro
-      suburb: San Salvario
-      city: Torino
-      county: Torino
-      state: Piemonte
-      postcode: '10126'
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 45.0491426 7.6716183
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/478,1191048071,2022-04-03 21:18:26,2022-04-03 21:16:25,A Palermo Comitato Salva Ucraini offre beni di prima necessità ai profughi ucraini arrivati in città,,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""postcode"":""90141"",""road"":""Via Marchese Ugo"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1299555"",""38.1336658"",""13.3496116"",""13.3514253""],""class"":""highway"",""display_name"":""Via Marchese Ugo, VIII Circoscrizione, Palermo, Sicilia, 90141, Italia"",""importance"":0.51,""lat"":""38.1315691"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3504181"",""osm_id"":86265407,""osm_type"":""way"",""place_id"":119906789,""type"":""residential""},""mode"":""autocomplete""},""description"":""A Palermo Comitato Salva Ucraini, in via Marchese Ugo 6, offre beni di prima necessit\u00e0 ai profughi ucraini arrivati in citt\u00e0 (vestiti, scarpe, cibo). Su appuntamento.\n\n\u0414\u043e\u0440\u043e\u0433\u0456 \u0423\u043a\u0440\u0430\u0457\u043d\u0446\u0456! \u042f\u043a\u0449\u043e \u0432\u0438 \u0431\u0443\u043b\u0456 \u0437\u043c\u0443\u0448\u0435\u043d\u0456 \u043f\u043e\u043a\u0438\u043d\u0443\u0442\u0456 \u043a\u0440\u0430\u0457\u043d\u0443 \u0447\u0435\u0440\u0435\u0437 \u0432\u0456\u0439\u043d\u0443 \u0456 \u0432\u0430\u043c \u043f\u043e\u0442\u0440\u0456\u0431\u043d\u0430 \u0433\u0443\u043c\u0430\u043d\u0456\u0442\u0430\u0440\u043d\u0430 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0430 (\u043e\u0434\u0435\u0436\u0430, \u0432\u0437\u0443\u0442\u0442\u044f, \u0440\u0435\u0447\u0456 \u043f\u0435\u0440\u0448\u043e\u0457 \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u043e\u0441\u0442\u0456) \u0443 \u043c\u0456\u0441\u0442\u0456 \u041f\u0430\u043b\u0435\u0440\u043c\u043e, \u041c\u0438 \u0437\u043d\u0430\u0445\u043e\u0434\u0438\u043c\u043e\u0441\u044f \u0437\u0430 \u0430\u0434\u0440\u0435\u0441\u043e\u044e: via Marchese Ugo 6, \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432 \u043f\u0440\u0438\u0439\u043c\u0430\u0454\u043c\u043e \u0437\u0440\u0430\u043d\u043a\u0443 \u043f\u043e \u0437\u0430\u043f\u0438\u0441\u0443 (\u0434\u043b\u044f \u043d\u0430\u0448\u043e\u0457 \u0456 \u0432\u0430\u0448\u043e\u0457 \u0437\u0440\u0443\u0447\u043d\u043e\u0441\u0442\u0456)\n\u041e\u0411\u041e\u0412'\u042f\u0417\u041a\u041e\u0412\u041e \u043c\u0430\u0442\u0438 \u043f\u0440\u0438 \u0441\u043e\u0431\u0456 \u043f\u0430\u0441\u043f\u043e\u0440\u0442."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comitato Salva Ucraini Palermo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Palermo Comitato Salva Ucraini offre beni di prima necessit\u00e0 ai profughi ucraini arrivati in citt\u00e0"",""url"":""https://t.me/ucraini_a_palermo/104""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
@@ -364,96 +520,6 @@ address:
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/476,1191043242,2022-04-03 21:16:58,2022-04-03 20:55:59,A Palermo Comitato Salva Ucraini cerca volontari italiani per attività a supporto dei profughi,38.1315691,13.3504181,Sicilia,Palermo,"[""Valid/Accettato"",""Help""]",,,"{""Posizione"":""38.1315691 13.3504181"",""description"":""A Palermo il Comitato Salva Ucraini cerca volontari italiani per le attivit\u00e0 che svolge a supporto dei profughi ucraini in citt\u00e0. \nPer proporsi compilare il seguente modulo online https://forms.gle/M6NNodm5Fco3re8v6"",""email"":""salva.ucraini.palermo@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""postcode"":""90141"",""road"":""Via Marchese Ugo"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1299555"",""38.1336658"",""13.3496116"",""13.3514253""],""class"":""highway"",""display_name"":""Via Marchese Ugo, VIII Circoscrizione, Palermo, Sicilia, 90141, Italia"",""importance"":0.5,""lat"":""38.1315691"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3504181"",""osm_id"":86265407,""osm_type"":""way"",""place_id"":119906789,""type"":""residential""},""mode"":""autocomplete""},""nameSurname"":""Comitato Salva Ucraini Palermo"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""A Palermo Comitato Salva Ucraini cerca volontari italiani per attivit\u00e0 a supporto dei profughi"",""url"":""https://t.me/ucraini_a_palermo/107""}","<pre><yamldata>
-nameSurname: Comitato Salva Ucraini Palermo
-phoneNumber: ''
-email: salva.ucraini.palermo@gmail.com
-title: A Palermo Comitato Salva Ucraini cerca volontari italiani per attività a supporto
-  dei profughi
-recipients: ''
-description: ""A Palermo il Comitato Salva Ucraini cerca volontari italiani per le\
-  \ attività che svolge a supporto dei profughi ucraini in città. \nPer proporsi compilare\
-  \ il seguente modulo online https://forms.gle/M6NNodm5Fco3re8v6""
-url: https://t.me/ucraini_a_palermo/107
-location:
-  mode: autocomplete
-  address:
-    place_id: 119906789
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 86265407
-    boundingbox:
-    - '38.1299555'
-    - '38.1336658'
-    - '13.3496116'
-    - '13.3514253'
-    lat: '38.1315691'
-    lon: '13.3504181'
-    display_name: Via Marchese Ugo, VIII Circoscrizione, Palermo, Sicilia, 90141,
-      Italia
-    class: highway
-    type: residential
-    importance: 0.5
-    address:
-      road: Via Marchese Ugo
-      suburb: VIII Circoscrizione
-      city: Palermo
-      county: Palermo
-      state: Sicilia
-      postcode: '90141'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 38.1315691 13.3504181
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/469,1190843048,2022-04-03 18:52:58,2022-04-03 07:22:22,Comunità Ucraina Marche: elenco dei punti di raccolta di beni di prima necessità e medicinali,43.3458388,13.1415872,Marche,Macerata,"[""Valid/Accettato"",""materialGoods"",""healthcare""]",,,"{""Posizione"":""43.3458388 13.1415872"",""description"":""ATTENZIIONE \u2757\ufe0f\nLa lista aggiornata con i luoghi di raccolta per il 01/04/2022 con le raccolte in sede:\n\ud83c\uddfa\ud83c\udde6\ud83c\uddee\ud83c\uddf9Ancona Torette:\n via Esino 42 Ass. nazionale Vigili di fuoco la protezione civile in Congedo di Ancona ODV ()L\u2019Ex centrale del latte)\n\ud83c\uddfa\ud83c\udde6\ud83c\uddee\ud83c\uddf9Senigallia: \nlungomare Alighieri, 123 presso l'oratorio della parrocchia Santa Maria Goretti si trova tra hotel Majestic e Continental.\n\ud83c\uddfa\ud83c\udde6\ud83c\uddee\ud83c\uddf9Fermo:\nPiazza Dante Protezione Civile  Mart e Giov 9:00 -11:00 e 14:00 -15:00\n\ud83c\uddfa\ud83c\udde6\ud83c\uddee\ud83c\uddf9Loreto:\nSan Francesco d\u2019Assisi, 52 Ex sede amministrativa delle Opere Laiche Lauretane\nChiaravalle(AN), \npresso i locali parrocchiali del Ex \""Pit-stop\"", di fronte al parcheggio dietro l'abbazia, l'accesso al parcheggio si trova sul Viale Della Vittoria 50\n#primanecessit\u00e0"",""email"":""comunitaucrainamarche@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Marche""},""boundingbox"":[""42.6871561"",""43.9713089"",""12.1854536"",""13.9163487""],""class"":""boundary"",""display_name"":""Marche, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7637504628515784,""lat"":""43.3458388"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.1415872"",""osm_id"":53060,""osm_type"":""relation"",""place_id"":284135151,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""CUM Comunit\u00e1 Ucraina Marche"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Beni di prima necessit\u00e0 e medicinali"",""url"":""https://comunitaucrainamarche.wordpress.com/""}","<pre><yamldata>
-nameSurname: CUM Comunitá Ucraina Marche
-phoneNumber: ''
-email: comunitaucrainamarche@gmail.com
-title: Beni di prima necessità e medicinali
-recipients: ''
-description: ""ATTENZIIONE ❗️\nLa lista aggiornata con i luoghi di raccolta per il\
-  \ 01/04/2022 con le raccolte in sede:\n\U0001F1FA\U0001F1E6\U0001F1EE\U0001F1F9\
-  Ancona Torette:\n via Esino 42 Ass. nazionale Vigili di fuoco la protezione civile\
-  \ in Congedo di Ancona ODV ()L’Ex centrale del latte)\n\U0001F1FA\U0001F1E6\U0001F1EE\
-  \U0001F1F9Senigallia: \nlungomare Alighieri, 123 presso l'oratorio della parrocchia\
-  \ Santa Maria Goretti si trova tra hotel Majestic e Continental.\n\U0001F1FA\U0001F1E6\
-  \U0001F1EE\U0001F1F9Fermo:\nPiazza Dante Protezione Civile  Mart e Giov 9:00 -11:00\
-  \ e 14:00 -15:00\n\U0001F1FA\U0001F1E6\U0001F1EE\U0001F1F9Loreto:\nSan Francesco\
-  \ d’Assisi, 52 Ex sede amministrativa delle Opere Laiche Lauretane\nChiaravalle(AN),\
-  \ \npresso i locali parrocchiali del Ex \""Pit-stop\"", di fronte al parcheggio dietro\
-  \ l'abbazia, l'accesso al parcheggio si trova sul Viale Della Vittoria 50\n#primanecessità""
-url: https://comunitaucrainamarche.wordpress.com/
-location:
-  mode: autocomplete
-  address:
-    place_id: 284135151
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 53060
-    boundingbox:
-    - '42.6871561'
-    - '43.9713089'
-    - '12.1854536'
-    - '13.9163487'
-    lat: '43.3458388'
-    lon: '13.1415872'
-    display_name: Marche, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7637504628515784
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      state: Marche
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 43.3458388 13.1415872
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/470,1190846180,2022-04-03 08:21:22,2022-04-03 07:32:53,A Falconara  Marittima (Ancona) Centro di dialisi Nephocare Spa offre cure  ai rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Ancona"",""postcode"":""60015"",""state"":""Marche"",""town"":""Falconara Marittima""},""boundingbox"":[""43.59049"",""43.6510018"",""13.3282005"",""13.422762""],""class"":""boundary"",""display_name"":""Falconara Marittima, Ancona, Marche, 60015, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.6622415494562244,""lat"":""43.6293969"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3966763"",""osm_id"":42532,""osm_type"":""relation"",""place_id"":284354030,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Centro di dialisi a Falconara Marittima della United Society @NephocareSpa offre spazio per ricevere servizi dialisi ai rifugiati ucraini."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Centro dialisi Falconara Marittima"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Il Centro di dialisi NephocareSpa a Falconara  Marittima offre cure  ai rifugiati ucraini."",""url"":""https://www.facebook.com/549802348452872/posts/4432972230135845/?d=n""}","<pre><yamldata>
 servicetypes:
@@ -1108,73 +1174,6 @@ address:
       county: Monza e della Brianza
       state: Lombardia
       postcode: '20832'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/460,1190650885,2022-04-02 19:00:34,2022-04-02 14:37:18,A Milano CPIA offre corsi gratuiti di lingua italiana per i rifugiati dall’Ucraina,,,,,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""state"":""Lombardia""},""boundingbox"":[""45.3867381"",""45.5358482"",""9.0408867"",""9.2781103""],""class"":""boundary"",""display_name"":""Milano, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8390652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":44915,""osm_type"":""relation"",""place_id"":283684439,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Per la citt\u00e0 di Milano il CPIA - Centro Provinciale per l'istruzione degli Adulti attiva corsi gratuiti di italiano L2 di diverso livello nelle sue otto sedi cittadine:\nCPIA Via Pontano\nCPIA Via Heine\nCPIA Via Colletta\nCPIA Viale Zara\nCPIA Via Scrosati\nCPIA Via Satta\nCPIA Viale Campania\n\nPer ulteriori info vedi link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""CPIA - Centro Provinciale per l'istruzione degli Adulti"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Milano presso le 8 sedi del CPIA corsi gratuiti di lingua italiana"",""url"":""https://milano.italianostranieri.org/it/pages/corsi-di-italiano-gratuiti-nelle-scuola-pubbliche-di-milano""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: true
-offerFromWho: CPIA - Centro Provinciale per l'istruzione degli Adulti
-title: A Milano presso le 8 sedi del CPIA corsi gratuiti di lingua italiana
-recipients: ''
-description: 'Per la città di Milano il CPIA - Centro Provinciale per l''istruzione
-  degli Adulti attiva corsi gratuiti di italiano L2 di diverso livello nelle sue otto
-  sedi cittadine:
-
-  CPIA Via Pontano
-
-  CPIA Via Heine
-
-  CPIA Via Colletta
-
-  CPIA Viale Zara
-
-  CPIA Via Scrosati
-
-  CPIA Via Satta
-
-  CPIA Viale Campania
-
-
-  Per ulteriori info vedi link.'
-url: https://milano.italianostranieri.org/it/pages/corsi-di-italiano-gratuiti-nelle-scuola-pubbliche-di-milano
-address:
-  mode: autocomplete
-  address:
-    place_id: 283684439
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 44915
-    boundingbox:
-    - '45.3867381'
-    - '45.5358482'
-    - '9.0408867'
-    - '9.2781103'
-    lat: '45.4641943'
-    lon: '9.1896346'
-    display_name: Milano, Lombardia, Italia
-    class: boundary
-    type: administrative
-    importance: 0.8390652078701348
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Milano
-      county: Milano
-      state: Lombardia
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
