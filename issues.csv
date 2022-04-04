@@ -1,4 +1,402 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/478,1191048071,2022-04-04 14:52:51,2022-04-03 21:16:25,A Palermo Comitato Salva Ucraini offre beni di prima necessità ai profughi ucraini arrivati in città,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""postcode"":""90141"",""road"":""Via Marchese Ugo"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1299555"",""38.1336658"",""13.3496116"",""13.3514253""],""class"":""highway"",""display_name"":""Via Marchese Ugo, VIII Circoscrizione, Palermo, Sicilia, 90141, Italia"",""importance"":0.51,""lat"":""38.1315691"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3504181"",""osm_id"":86265407,""osm_type"":""way"",""place_id"":119906789,""type"":""residential""},""mode"":""autocomplete""},""description"":""A Palermo Comitato Salva Ucraini, in via Marchese Ugo 6, offre beni di prima necessit\u00e0 ai profughi ucraini arrivati in citt\u00e0 (vestiti, scarpe, cibo). Su appuntamento.\n\n\u0414\u043e\u0440\u043e\u0433\u0456 \u0423\u043a\u0440\u0430\u0457\u043d\u0446\u0456! \u042f\u043a\u0449\u043e \u0432\u0438 \u0431\u0443\u043b\u0456 \u0437\u043c\u0443\u0448\u0435\u043d\u0456 \u043f\u043e\u043a\u0438\u043d\u0443\u0442\u0456 \u043a\u0440\u0430\u0457\u043d\u0443 \u0447\u0435\u0440\u0435\u0437 \u0432\u0456\u0439\u043d\u0443 \u0456 \u0432\u0430\u043c \u043f\u043e\u0442\u0440\u0456\u0431\u043d\u0430 \u0433\u0443\u043c\u0430\u043d\u0456\u0442\u0430\u0440\u043d\u0430 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0430 (\u043e\u0434\u0435\u0436\u0430, \u0432\u0437\u0443\u0442\u0442\u044f, \u0440\u0435\u0447\u0456 \u043f\u0435\u0440\u0448\u043e\u0457 \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u043e\u0441\u0442\u0456) \u0443 \u043c\u0456\u0441\u0442\u0456 \u041f\u0430\u043b\u0435\u0440\u043c\u043e, \u041c\u0438 \u0437\u043d\u0430\u0445\u043e\u0434\u0438\u043c\u043e\u0441\u044f \u0437\u0430 \u0430\u0434\u0440\u0435\u0441\u043e\u044e: via Marchese Ugo 6, \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432 \u043f\u0440\u0438\u0439\u043c\u0430\u0454\u043c\u043e \u0437\u0440\u0430\u043d\u043a\u0443 \u043f\u043e \u0437\u0430\u043f\u0438\u0441\u0443 (\u0434\u043b\u044f \u043d\u0430\u0448\u043e\u0457 \u0456 \u0432\u0430\u0448\u043e\u0457 \u0437\u0440\u0443\u0447\u043d\u043e\u0441\u0442\u0456)\n\u041e\u0411\u041e\u0412'\u042f\u0417\u041a\u041e\u0412\u041e \u043c\u0430\u0442\u0438 \u043f\u0440\u0438 \u0441\u043e\u0431\u0456 \u043f\u0430\u0441\u043f\u043e\u0440\u0442."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comitato Salva Ucraini Palermo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Palermo Comitato Salva Ucraini offre beni di prima necessit\u00e0 ai profughi ucraini arrivati in citt\u00e0"",""url"":""https://t.me/ucraini_a_palermo/104""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Comitato Salva Ucraini Palermo
+title: A Palermo Comitato Salva Ucraini offre beni di prima necessità ai profughi
+  ucraini arrivati in città
+recipients: ''
+description: 'A Palermo Comitato Salva Ucraini, in via Marchese Ugo 6, offre beni
+  di prima necessità ai profughi ucraini arrivati in città (vestiti, scarpe, cibo).
+  Su appuntamento.
+
+
+  Дорогі Українці! Якщо ви булі змушені покинуті країну через війну і вам потрібна
+  гуманітарна допомога (одежа, взуття, речі першої необхідності) у місті Палермо,
+  Ми знаходимося за адресою: via Marchese Ugo 6, українців приймаємо зранку по запису
+  (для нашої і вашої зручності)
+
+  ОБОВ''ЯЗКОВО мати при собі паспорт.'
+url: https://t.me/ucraini_a_palermo/104
+address:
+  mode: autocomplete
+  address:
+    place_id: 119906789
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 86265407
+    boundingbox:
+    - '38.1299555'
+    - '38.1336658'
+    - '13.3496116'
+    - '13.3514253'
+    lat: '38.1315691'
+    lon: '13.3504181'
+    display_name: Via Marchese Ugo, VIII Circoscrizione, Palermo, Sicilia, 90141,
+      Italia
+    class: highway
+    type: residential
+    importance: 0.51
+    address:
+      road: Via Marchese Ugo
+      suburb: VIII Circoscrizione
+      city: Palermo
+      county: Palermo
+      state: Sicilia
+      postcode: '90141'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/481,1191060330,2022-04-04 14:52:18,2022-04-03 22:10:09,A Bergamo Associazione Zlaghoda prosegue con la raccolta di beni per emergenza Ucraina,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bergamo"",""postcode"":""24048"",""road"":""Via Enrico Fermi"",""state"":""Lombardia"",""village"":""Curno""},""boundingbox"":[""45.6813078"",""45.6822033"",""9.6087129"",""9.6138508""],""class"":""highway"",""display_name"":""Via Enrico Fermi, Curno, Bergamo, Lombardia, 24048, Italia"",""importance"":0.61,""lat"":""45.681432"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.6101467"",""osm_id"":32476602,""osm_type"":""way"",""place_id"":109585606,""type"":""tertiary""},""mode"":""autocomplete""},""description"":""A Bergamo Associazione Zlaghoda raccoglie beni di prima necessit\u00e0 per emergenza Ucraina. Al link elenco dei beni che si possono donare e orari della raccolta. Info: 3480145702 - 3468453346. Gruppo Fb https://www.facebook.com/groups/2147848088835479/?ref=share"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Zlaghoda"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Bergamo Associazione Zlaghoda prosegue con la raccolta di beni per emergenza Ucraina"",""url"":""https://www.facebook.com/407691079704814/posts/1350084605465452/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Associazione Zlaghoda
+title: A Bergamo Associazione Zlaghoda prosegue con la raccolta di beni per emergenza
+  Ucraina
+recipients: ''
+description: 'A Bergamo Associazione Zlaghoda raccoglie beni di prima necessità per
+  emergenza Ucraina. Al link elenco dei beni che si possono donare e orari della
+  raccolta.
+  Info: 3480145702 - 3468453346.
+Gruppo Fb https://www.facebook.com/groups/2147848088835479/?ref=share'
+url: https://www.facebook.com/407691079704814/posts/1350084605465452/
+address:
+  mode: autocomplete
+  address:
+    place_id: 109585606
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 32476602
+    boundingbox:
+    - '45.6813078'
+    - '45.6822033'
+    - '9.6087129'
+    - '9.6138508'
+    lat: '45.681432'
+    lon: '9.6101467'
+    display_name: Via Enrico Fermi, Curno, Bergamo, Lombardia, 24048, Italia
+    class: highway
+    type: tertiary
+    importance: 0.61
+    address:
+      road: Via Enrico Fermi
+      village: Curno
+      county: Bergamo
+      state: Lombardia
+      postcode: '24048'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/480,1191058059,2022-04-04 14:52:05,2022-04-03 22:00:53,A Milano Fondazione Avsi attiva info point #HelpUkraine per assistenza e supporto ai rifugiati ucraini e raccolta offerte di ospitalità di famiglie italiane,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""healthcare"",""job"",""psychologicalSupport"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20100"",""quarter"":""Buenos Aires - Venezia"",""road"":""Via Donatello"",""state"":""Lombardia"",""suburb"":""Municipio 3""},""boundingbox"":[""45.4802664"",""45.4802962"",""9.2172193"",""9.2193892""],""class"":""highway"",""display_name"":""Via Donatello, Buenos Aires - Venezia, Municipio 3, Milano, Lombardia, 20100, Italia"",""importance"":0.41000000000000003,""lat"":""45.480268"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2173383"",""osm_id"":160136164,""osm_type"":""way"",""place_id"":140255016,""type"":""residential""},""mode"":""autocomplete""},""description"":""Da mercoled\u00ec 16 marzo \u00e8 attivo l\u2019info point #HelpUkraine, promosso da Fondazione Avsi e una rete di associazioni, per offrire informazioni e assistenza ai profughi ucraini e raccogliere le disponibilit\u00e0 all\u2019ospitalit\u00e0 delle famiglie italiane. \nContatti:\n+39.02.674988368 in ucraino e inglese\n+39.02.674988369 in italiano\nHelpUkraine@avsi.org\n\nIn particolare gli scopi dello sportello sono:\n- fornire prime informazioni, orientamento e assistenza a cittadini ucraini e nuclei famigliari in fuga entrati nel territorio italiano;\n- provvedere a dare supporto sulle procedure per l\u2019ottenimento del titolo di soggiorno, per la segnalazione di minori non accompagnati, per iscrizione al SSN, vaccinazioni, al sistema scolastico ecc.;\n- raccogliere la disponibilit\u00e0 delle famiglie che intendono offrire ospitalit\u00e0 a cittadini ucraini accogliendoli nelle proprie case o mettendo a disposizione appartamenti e abitazioni di loro propriet\u00e0;\n- favorire il nesso fra le disponibilit\u00e0 di accoglienza in famiglie e appartamenti e le necessit\u00e0 di alloggi per i profughi, con attivit\u00e0 di informazione, sensibilizzazione, accompagnamento e sostegno burocratico;\n- realizzare interventi di sostegno materiale ai profughi ucraini, alle famiglie che accolgono, anche attraverso cash transfer e servizi di sostegno psicosociale;\n- realizzare interventi di sostegno a bambini e adolescenti ucraini attraverso l\u2019integrazione e la partecipazione ad attivit\u00e0 scolastiche, ricreative, ludiche e sportive;\n- realizzare interventi di formazione e sostegno linguistico, rivolti sia a minori sia ad adulti, per l\u2019apprendimento di competenze linguistiche di base della lingua italiana che agevolino il processo di integrazione e accesso alla scolarizzazione per i minori e di integrazione sociale e lavorativa per gli adulti;\n- favorire interventi informativi di orientamento alla ricerca di lavoro e di preparazione al lavoro, con particolare riferimento al lavoro domestico e di assistenza alla persona.\n- favorire l\u2019assistenza medica come prime visite mediche per adulti, visite pediatriche, visite specialistiche ed esami per bambini e adulti, tamponi antigenici e molecolari."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Fondazione Avsi"",""recipients"":""Rifugiati ucraini e famiglie italiane"",""servicetypes"":{""Children"":true,""Legal"":true,""disability"":false,""education"":true,""healthcare"":true,""hospitality"":false,""job"":true,""materialGoods"":true,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Milano Fondazione Avsi attiva info point #HelpUkraine per assistenza e supporto ai rifugiati ucraini e raccolta offerte di ospitalit\u00e0 di famiglie italiane"",""url"":""https://www.avsi.org/it/news/2022/03/17/helpukraine-anche-in-italia/2510""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: true
+  Legal: true
+  translation: false
+  job: true
+  psychologicalSupport: true
+  Children: true
+  disability: false
+  women: false
+  education: true
+offerFromWho: Fondazione Avsi
+title: 'A Milano Fondazione Avsi attiva info point #HelpUkraine per assistenza e supporto
+  ai rifugiati ucraini e raccolta offerte di ospitalità di famiglie italiane'
+recipients: Rifugiati ucraini e famiglie italiane
+description: ""Da mercoledì 16 marzo è attivo l’info point #HelpUkraine, promosso da\
+  \ Fondazione Avsi e una rete di associazioni, per offrire informazioni e assistenza\
+  \ ai profughi ucraini e raccogliere le disponibilità all’ospitalità delle famiglie\
+  \ italiane. \nContatti:\n+39.02.674988368 in ucraino e inglese\n+39.02.674988369\
+  \ in italiano\nHelpUkraine@avsi.org\n\nIn particolare gli scopi dello sportello\
+  \ sono:\n- fornire prime informazioni, orientamento e assistenza a cittadini ucraini\
+  \ e nuclei famigliari in fuga entrati nel territorio italiano;\n- provvedere a dare\
+  \ supporto sulle procedure per l’ottenimento del titolo di soggiorno, per la segnalazione\
+  \ di minori non accompagnati, per iscrizione al SSN, vaccinazioni, al sistema scolastico\
+  \ ecc.;\n- raccogliere la disponibilità delle famiglie che intendono offrire ospitalità\
+  \ a cittadini ucraini accogliendoli nelle proprie case o mettendo a disposizione\
+  \ appartamenti e abitazioni di loro proprietà;\n- favorire il nesso fra le disponibilità\
+  \ di accoglienza in famiglie e appartamenti e le necessità di alloggi per i profughi,\
+  \ con attività di informazione, sensibilizzazione, accompagnamento e sostegno burocratico;\n\
+  - realizzare interventi di sostegno materiale ai profughi ucraini, alle famiglie\
+  \ che accolgono, anche attraverso cash transfer e servizi di sostegno psicosociale;\n\
+  - realizzare interventi di sostegno a bambini e adolescenti ucraini attraverso l’integrazione\
+  \ e la partecipazione ad attività scolastiche, ricreative, ludiche e sportive;\n\
+  - realizzare interventi di formazione e sostegno linguistico, rivolti sia a minori\
+  \ sia ad adulti, per l’apprendimento di competenze linguistiche di base della lingua\
+  \ italiana che agevolino il processo di integrazione e accesso alla scolarizzazione\
+  \ per i minori e di integrazione sociale e lavorativa per gli adulti;\n- favorire\
+  \ interventi informativi di orientamento alla ricerca di lavoro e di preparazione\
+  \ al lavoro, con particolare riferimento al lavoro domestico e di assistenza alla\
+  \ persona.\n- favorire l’assistenza medica come prime visite mediche per adulti,\
+  \ visite pediatriche, visite specialistiche ed esami per bambini e adulti, tamponi\
+  \ antigenici e molecolari.""
+url: https://www.avsi.org/it/news/2022/03/17/helpukraine-anche-in-italia/2510
+address:
+  mode: autocomplete
+  address:
+    place_id: 140255016
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 160136164
+    boundingbox:
+    - '45.4802664'
+    - '45.4802962'
+    - '9.2172193'
+    - '9.2193892'
+    lat: '45.480268'
+    lon: '9.2173383'
+    display_name: Via Donatello, Buenos Aires - Venezia, Municipio 3, Milano, Lombardia,
+      20100, Italia
+    class: highway
+    type: residential
+    importance: 0.41000000000000003
+    address:
+      road: Via Donatello
+      quarter: Buenos Aires - Venezia
+      suburb: Municipio 3
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/472,1190851005,2022-04-04 14:51:47,2022-04-03 07:47:52,A Pesaro scuola ucraina BARVY riprende le sue attività,,,,,"[""Valid/Accettato"",""Services"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Pesaro"",""country"":""Italia"",""country_code"":""it"",""county"":""Pesaro e Urbino"",""postcode"":""61121"",""state"":""Marche""},""boundingbox"":[""43.7498114"",""44.0698114"",""12.7531228"",""13.0731228""],""class"":""place"",""display_name"":""Pesaro, Pesaro e Urbino, Marche, 61121, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.6768364113521745,""lat"":""43.9098114"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.9131228"",""osm_id"":266513166,""osm_type"":""node"",""place_id"":536705,""type"":""city""},""mode"":""autocomplete""},""description"":""Il 22.03.2022 a Pesaro ha ripresa la sua attivit\u00e0 scuola Ucraina BARVY. Si occupa dei bambini provenienti dall\u2019Ucraina per causa della guerra. Un ringraziamento a tutti volontari che hanno partecipato per avviare il progetto. Grazie a Associazione Nazionale Vigili del Fuoco in Congedo Ancona-ODV e DanielaMari per rifornimento dei quaderni, matite e tutto ci\u00f2 che \u00e8 stato apprezzato dai piccoli.\n\ud83c\uddfa\ud83c\udde6\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u0448\u043a\u043e\u043b\u0430 \u0411\u0410\u0420\u0412\u0418 \u0432\u0456\u0434\u043d\u043e\u0432\u0438\u043b\u0430 \u0441\u0432\u043e\u044e \u0440\u043e\u0431\u043e\u0442\u0443 \u0432 \u041f\u0435\u0437\u0430\u0440\u043e. \u0412\u043e\u043b\u043e\u043d\u0442\u0435\u0440\u0438 \u043d\u0430\u0434\u0430\u044e\u0442\u044c \u043f\u0441\u0438\u0445\u043e\u043b\u043e\u0433\u0456\u0447\u043d\u0443 \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u043a\u0443 \u0432 \u0430\u0434\u0430\u043f\u0442\u0430\u0446\u0456\u0457 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0434\u0456\u0442\u0435\u0439. \u0414\u044f\u043a\u0443\u0454\u043c\u043e \u0437\u0430 \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u043a\u0443 \u0443\u0447\u0431\u043e\u0432\u0438\u043c\u0438 \u043c\u0430\u0442\u0435\u0440\u0456\u0430\u043b\u0430\u043c\u0438  \u043d\u0430\u0448\u0438\u0445 \u0456\u0442\u0430\u043b\u0456\u0439\u0441\u044c\u043a\u0438\u0445 \u0434\u0440\u0443\u0437\u0456\u0432 \u0442\u0430 \u0414\u043e\u043d \u0414\u0436\u0443\u0437\u0435\u043f\u043f\u0435 \u0437\u0430 \u043f\u0440\u0438\u043c\u0456\u0449\u0435\u043d\u043d\u044f."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""scuola Ucraina BARVY Pesaro"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Pesaro scuola Ucraina BARVY riprende le sue attivit\u00e0"",""url"":""https://fb.watch/c92FHR2VAi/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: true
+offerFromWho: scuola Ucraina BARVY Pesaro
+title: A Pesaro scuola Ucraina BARVY riprende le sue attività
+recipients: ''
+description: 'Il 22.03.2022 a Pesaro ha ripresa la sua attività scuola Ucraina BARVY. Si occupa dei bambini provenienti dall’Ucraina per causa della guerra. Un ringraziamento
+  a tutti volontari che hanno partecipato per avviare il progetto. Grazie a Associazione
+  Nazionale Vigili del Fuoco in Congedo Ancona-ODV e DanielaMari per rifornimento
+  dei quaderni, matite e tutto ciò che è stato apprezzato dai piccoli.
+
+  🇺🇦Українська школа БАРВИ відновила свою роботу в Пезаро. Волонтери надають психологічну
+  підтримку в адаптації українських дітей. Дякуємо за підтримку учбовими матеріалами  наших
+  італійських друзів та Дон Джузеппе за приміщення.'
+url: https://fb.watch/c92FHR2VAi/
+address:
+  mode: autocomplete
+  address:
+    place_id: 536705
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 266513166
+    boundingbox:
+    - '43.7498114'
+    - '44.0698114'
+    - '12.7531228'
+    - '13.0731228'
+    lat: '43.9098114'
+    lon: '12.9131228'
+    display_name: Pesaro, Pesaro e Urbino, Marche, 61121, Italia
+    class: place
+    type: city
+    importance: 0.6768364113521745
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Pesaro
+      county: Pesaro e Urbino
+      state: Marche
+      postcode: '61121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/470,1190846180,2022-04-04 14:49:47,2022-04-03 07:32:53,A Falconara  Marittima (Ancona) Centro di dialisi Nephocare Spa offre cure  ai rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Ancona"",""postcode"":""60015"",""state"":""Marche"",""town"":""Falconara Marittima""},""boundingbox"":[""43.59049"",""43.6510018"",""13.3282005"",""13.422762""],""class"":""boundary"",""display_name"":""Falconara Marittima, Ancona, Marche, 60015, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.6622415494562244,""lat"":""43.6293969"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3966763"",""osm_id"":42532,""osm_type"":""relation"",""place_id"":284354030,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Centro di dialisi a Falconara Marittima della United Society @NephocareSpa offre spazio per ricevere servizi dialisi ai rifugiati ucraini."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Centro dialisi Falconara Marittima"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Il Centro di dialisi NephocareSpa a Falconara  Marittima offre cure  ai rifugiati ucraini."",""url"":""https://www.facebook.com/549802348452872/posts/4432972230135845/?d=n""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: true
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Centro dialisi Falconara Marittima
+title: Il Centro di dialisi NephocareSpa a Falconara  Marittima offre cure  ai rifugiati
+  ucraini.
+recipients: ''
+description: Il Centro di dialisi a Falconara Marittima della United Society @NephocareSpa
+  offre spazio per ricevere servizi dialisi ai rifugiati ucraini.
+url: https://www.facebook.com/549802348452872/posts/4432972230135845/?d=n
+address:
+  mode: autocomplete
+  address:
+    place_id: 284354030
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 42532
+    boundingbox:
+    - '43.59049'
+    - '43.6510018'
+    - '13.3282005'
+    - '13.422762'
+    lat: '43.6293969'
+    lon: '13.3966763'
+    display_name: Falconara Marittima, Ancona, Marche, 60015, Italia
+    class: boundary
+    type: administrative
+    importance: 0.6622415494562244
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      town: Falconara Marittima
+      county: Ancona
+      state: Marche
+      postcode: '60015'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/485,1191884596,2022-04-04 14:49:00,2022-04-04 14:31:41,"Comune di Roma, elenco dei punti di raccolta beni e farmaci a Roma per emergenza Ucraina",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00184"",""quarter"":""Campitelli"",""road"":""Piazza del Campidoglio"",""state"":""Lazio"",""suburb"":""Municipio Roma I"",""tourism"":""Piazza del Campidoglio""},""boundingbox"":[""41.8928366"",""41.8936211"",""12.4824452"",""12.4834856""],""class"":""tourism"",""display_name"":""Piazza del Campidoglio, Campitelli, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_point_of_interest.p.20.png"",""importance"":0.6269620155557563,""lat"":""41.8932408"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.482981487083691"",""osm_id"":23055100,""osm_type"":""way"",""place_id"":106480430,""type"":""attraction""},""mode"":""autocomplete""},""description"":""Sul sito del Comune di Roma dedicato all\u2019emergenza Ucraina \u00e8 disponibile un elenco dei punti di raccolta di beni e farmaci a Roma, con info e contatti."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Roma"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Roma, elenco dei punti di raccolta beni e farmaci a Roma per emergenza Ucraina"",""url"":""https://emergenzaucraina.roma.it/punti-di-raccolta/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: true
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Comune di Roma
+title: Comune di Roma, elenco dei punti di raccolta beni e farmaci a Roma per emergenza
+  Ucraina
+recipients: ''
+description: Sul sito del Comune di Roma dedicato all’emergenza Ucraina è disponibile
+  un elenco dei punti di raccolta di beni e farmaci a Roma, con info e contatti.
+url: https://emergenzaucraina.roma.it/punti-di-raccolta/
+address:
+  mode: autocomplete
+  address:
+    place_id: 106480430
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 23055100
+    boundingbox:
+    - '41.8928366'
+    - '41.8936211'
+    - '12.4824452'
+    - '12.4834856'
+    lat: '41.8932408'
+    lon: '12.482981487083691'
+    display_name: Piazza del Campidoglio, Campitelli, Municipio Roma I, Roma, Roma
+      Capitale, Lazio, 00184, Italia
+    class: tourism
+    type: attraction
+    importance: 0.6269620155557563
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_point_of_interest.p.20.png
+    address:
+      tourism: Piazza del Campidoglio
+      road: Piazza del Campidoglio
+      quarter: Campitelli
+      suburb: Municipio Roma I
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: 00184
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/253,1174709709,2022-04-04 14:48:16,2022-03-20 22:30:15,Elenco Gruppi Telegram di aiuto ai rifugiati ucraini in Italia (per città),,,,,"[""Valid/Accettato"",""News"",""Services"",""useful contact"",""telegram-channel"",""tweet"",""Resources""]",,,"{""description"":""Chat Telegram Help Ucraini in Italia: \n\n- Italia https://t.me/ucrainiitalia\n \n - Milano \nhttps://t.me/ucraina_milano\nhttps://t.me/milanukraine\nhttps://t.me/staywithukrainemilano\n\n- Roma \n https://t.me/roma14032022\n\n- Firenze \nhttps://t.me/firenzeUAA\n\n- Lombardia\nhttps://t.me/lombardia_italia_ucraina\n\n- Torino\nhttps://t.me/+LSi8xWHSiH0wYTQy\n\n- Emilia-Romagna\nhttps://t.me/ucrainiemiliaromagna\n\n- Bolzano\nhttps://t.me/pereselenzi\n\n- Napoli\nhttps://t.me/+wjO1V6_LLt02ZjJi\n\n- Taranto\nhttps://t.me/ucrainaTA\n\n- Verona\nhttps://t.me/+Y96MzvQXCotlMTli\n\n- Sicilia\nhttps://t.me/+ov-nuSlEfWRhN2Ni\n\n- Palermo \nhttps://t.me/ucraini_a_palermo\n\n- Mantova\nhttps://t.me/ukr_italy\n\n- Genova\nhttps://t.me/Genova_FromUkraina\n\n- Venezia\nhttps://t.me/venezia_ua\n\n- Veneto \nhttps://t.me/VEITUA\n\n- Benevento\nhttps://t.me/+mRsN3nG9XvE5OGYy\n\n- Udine\nhttps://t.me/+goGKMPBSI0JhOTli\n\n- Puglia\nhttps://t.me/PugliaUA\n\n- Como\nhttps://t.me/como_lipomo_italia_ucraina\n\n- Lago di Garda\nhttps://t.me/gardaucraina\n\n- Mamme ucraine in Italia\nhttps://t.me/UAMAMAITALY\n\n\u0427\u0430\u0442\u044b \"" \u0423\u043a\u0440\u0430\u0457\u043d\u0446\u0456 \u0432 \u0406\u0442\u0430\u043b\u0456\u0457 \"" \u043f\u043e \u0433\u043e\u0440\u043e\u0434\u0430\u043c.\n\n\ud83d\udccd \u0420\u0438\u043c\nhttps://t.me/roma14032022\n\n\ud83d\udccd \u0424\u043b\u043e\u0440\u0435\u043d\u0446\u0438\u044f\nhttps://t.me/firenzeUAA\n\n\u041f\u043e\u0448\u0443\u043a \u043f\u0440\u0430\u0446\u0456 \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432 \u0432 \u0406\u0442\u0430\u043b\u0456\u0457\nhttps://t.me/lavoro_in_italia\n\n\ud83d\udccd \u041c\u0438\u043b\u0430\u043d \nhttps://t.me/ucraina_milano\n\n\ud83d\udccd \nhttps://t.me/milanukraine\nhttps://t.me/staywithukrainemilano\n\n\u041b\u043e\u043c\u0431\u0430\u0440\u0434\u0438\u044f\nhttps://t.me/lombardia_italia_ucraina\n\n\ud83d\udccd \u0422\u0443\u0440\u0438\u043d \nhttps://t.me/+LSi8xWHSiH0wYTQy\n\n\ud83d\udccd \u042d\u043c\u0438\u043b\u0438\u044f-\u0420\u043e\u043c\u0430\u043d\u044c\u044f \nhttps://t.me/ucrainiemiliaromagna\n\n\ud83d\udccd \u0411\u043e\u043b\u044c\u0446\u0430\u043d\u043e\nhttps://t.me/pereselenzi\n\n\ud83d\udccd \u041d\u0435\u0430\u043f\u043e\u043b\u044c\nhttps://t.me/+wjO1V6_LLt02ZjJi\n\n\ud83d\udccd\u0422\u0430\u0440\u0430\u043d\u0442\u043e\nhttps://t.me/ucrainaTA\n\n\ud83d\udccd\u0412\u0435\u0440\u043e\u043d\u0430 \nhttps://t.me/+Y96MzvQXCotlMTli\n\n\ud83d\udccd\u0421\u0438\u0446\u0438\u043b\u0438\u044f \nhttps://t.me/+ov-nuSlEfWRhN2Ni\n\n\ud83d\udccd\u0423\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u0438\u0435 \u043c\u0430\u043c\u044b \u0432 \u0418\u0442\u0430\u043b\u0438\u0438\nhttps://t.me/UAMAMAITALY\n\n\ud83d\udccd\u041c\u0430\u043d\u0442\u043e\u0432\u0430\nhttps://t.me/ukr_italy\n\n\ud83d\udccd\u0414\u0436\u0435\u043d\u043e\u0430\nhttps://t.me/Genova_FromUkraina\n\n\ud83d\udccd\u041c\u0430\u0442\u0435\u0440\u0430\nhttps://t.me/UkrainaMateraIt\n\n\ud83d\udccd\u0412\u0435\u043d\u0435\u0442\u043e\nhttps://t.me/venezia_ua\n\n\ud83d\udccd\u0412\u0435\u043d\u0435\u0442\u043e (\u0421\u0435\u0432\u0435\u0440)\nhttps://t.me/VEITUA\n\n\ud83d\udccd\u0411\u0435\u043d\u0435\u0432\u0435\u043d\u0442\u043e\nhttps://t.me/+mRsN3nG9XvE5OGYy\n\n\ud83d\udccd\u0423\u0434\u0438\u043d\u0435\nhttps://t.me/+goGKMPBSI0JhOTli\n\n\ud83d\udccd\u0410\u043f\u0443\u043b\u0456\u044f / \u041f\u0443\u043b\u044c\u044f / Puglia\nhttps://t.me/PugliaUA\n\n\ud83d\udccd\u041a\u043e\u043c\u043e\nhttps://t.me/como_lipomo_italia_ucraina\n\n\u0423\u043a\u0440\u0430\u0457\u043d\u0446\u0456 \u043d\u0430 \u043e\u0437\u0435\u0440\u0456 \u0413\u0430\u0440\u0434\u0430\nhttps://t.me/gardaucraina"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.me/lombardia_italia_ucraina/2354"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Elenco Gruppi Telegram Help Ucraini in Italia (per citt\u00e0)""}","<pre><yamldata>
+title: Elenco Gruppi Telegram Help Ucraini in Italia (per città)
+description: ""Chat Telegram Help Ucraini in Italia: \n\n- Italia https://t.me/ucrainiitalia\n\
+  \ \n - Milano \nhttps://t.me/ucraina_milano\nhttps://t.me/milanukraine\nhttps://t.me/staywithukrainemilano\n\n\
+- Roma \n https://t.me/roma14032022\n\n\
+ - Firenze \nhttps://t.me/firenzeUAA\n\n\
+ - Lombardia\nhttps://t.me/lombardia_italia_ucraina\n\n- Torino\nhttps://t.me/+LSi8xWHSiH0wYTQy\n\
+  \n- Emilia-Romagna\nhttps://t.me/ucrainiemiliaromagna\n\n- Bolzano\nhttps://t.me/pereselenzi\n\
+  \n- Napoli\nhttps://t.me/+wjO1V6_LLt02ZjJi\n\n- Taranto\nhttps://t.me/ucrainaTA\n\
+  \n- Verona\nhttps://t.me/+Y96MzvQXCotlMTli\n\n- Sicilia\nhttps://t.me/+ov-nuSlEfWRhN2Ni\n\
+  \n- Palermo \nhttps://t.me/ucraini_a_palermo\n\n- Mantova\nhttps://t.me/ukr_italy\n\
+  \n- Genova\nhttps://t.me/Genova_FromUkraina\n\n- Venezia\nhttps://t.me/venezia_ua\n\
+  \n- Veneto \nhttps://t.me/VEITUA\n\n- Benevento\nhttps://t.me/+mRsN3nG9XvE5OGYy\n\
+  \n- Udine\nhttps://t.me/+goGKMPBSI0JhOTli\n\n- Puglia\nhttps://t.me/PugliaUA\n\n\
+  - Como\nhttps://t.me/como_lipomo_italia_ucraina\n\n- Lago di Garda\nhttps://t.me/gardaucraina\n\
+  \n- Mamme ucraine in Italia\nhttps://t.me/UAMAMAITALY\n\nЧаты \"" Українці в Італії\
+  \ \"" по городам.\n\n\U0001F4CD Рим\nhttps://t.me/roma14032022\n\n\U0001F4CD Флоренция\n\
+  https://t.me/firenzeUAA\n\nПошук праці українців в Італії\nhttps://t.me/lavoro_in_italia\n\
+  \n\U0001F4CD Милан \nhttps://t.me/ucraina_milano\n\n\U0001F4CD 
+\nhttps://t.me/milanukraine\nhttps://t.me/staywithukrainemilano\n\n\
+Ломбардия\nhttps://t.me/lombardia_italia_ucraina\n\
+  \n\U0001F4CD Турин \nhttps://t.me/+LSi8xWHSiH0wYTQy\n\n\U0001F4CD Эмилия-Романья\
+  \ \nhttps://t.me/ucrainiemiliaromagna\n\n\U0001F4CD Больцано\nhttps://t.me/pereselenzi\n\
+  \n\U0001F4CD Неаполь\nhttps://t.me/+wjO1V6_LLt02ZjJi\n\n\U0001F4CDТаранто\nhttps://t.me/ucrainaTA\n\
+  \n\U0001F4CDВерона \nhttps://t.me/+Y96MzvQXCotlMTli\n\n\U0001F4CDСицилия \nhttps://t.me/+ov-nuSlEfWRhN2Ni\n\
+  \n\U0001F4CDУкраинские мамы в Италии\nhttps://t.me/UAMAMAITALY\n\n\U0001F4CDМантова\n\
+  https://t.me/ukr_italy\n\n\U0001F4CDДженоа\nhttps://t.me/Genova_FromUkraina\n\n\U0001F4CD\
+  Матера\nhttps://t.me/UkrainaMateraIt\n\n\U0001F4CDВенето\nhttps://t.me/venezia_ua\n\
+  \n\U0001F4CDВенето (Север)\nhttps://t.me/VEITUA\n\n\U0001F4CDБеневенто\nhttps://t.me/+mRsN3nG9XvE5OGYy\n\
+  \n\U0001F4CDУдине\nhttps://t.me/+goGKMPBSI0JhOTli\n\n\U0001F4CDАпулія / Пулья /\
+  \ Puglia\nhttps://t.me/PugliaUA\n\n\U0001F4CDКомо\nhttps://t.me/como_lipomo_italia_ucraina\n\
+  \nУкраїнці на озері Гарда\nhttps://t.me/gardaucraina""
+link: https://t.me/lombardia_italia_ucraina/2354
+location:
+  mode: autocomplete
+  address: {}
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/450,1190261039,2022-04-04 06:26:26,2022-04-01 20:54:42,"Toscana Accoglienza Pace, portale della Protezione Civile Toscana per offrire beni e servizi a supporto dei profughi ucraini",43.79366875,11.222513136213019,Toscana,Firenze,"[""Valid/Accettato"",""News"",""Services"",""materialGoods"",""hospitality"",""translation"",""telegram-channel"",""tweet"",""Resources""]",,,"{""Posizione"":""43.79366875 11.222513136213019"",""description"":""Si chiama Toscana Accoglienza Pace, il portale appena aperto dalla Protezione civile regionale in collaborazione col Cesvot, dove, gi\u00e0 da oggi, privati cittadini, associazioni del terzo settore e aziende private potranno dichiarare la propria disponibilit\u00e0 a fornire servizi gratuiti per la popolazione ucraina ospitata in Toscana. Coloro che lo vorranno potranno offrire servizi di interpretariato, di supporto tecnico amministrativo presso strutture di accoglienza, di supporto all\u2019attivit\u00e0 logistica per l\u2019accoglienza dei cittadini ucraini (trasporti, montaggio di strutture, raccolta e smistamento dei prodotti, di sostegno e supporto presso le strutture di accoglienza, di raccolta e distribuzione di vestiti, beni di prima necessit\u00e0 e pasti). Il portale raccoglier\u00e0  anche la disponibilit\u00e0 di immobili da mettere a disposizione dei profughi ucraini. Anche le associazioni animaliste o singoli privati che vorranno contribuire all\u2019accoglienza degli animali d'affezione, potranno segnalarlo nell\u2019apposita sezione presente nel portale. Per accedere al portale occorre registrarsi con Spid o Cie."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://bit.ly/ToscanaAccoglienzaPace"",""location"":{""address"":{""address"":{""city"":""Firenze"",""commercial"":""Regione Toscana"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""postcode"":""50127"",""state"":""Toscana"",""suburb"":""Quartiere 5""},""boundingbox"":[""43.7926836"",""43.7946061"",""11.221591"",""11.2236412""],""class"":""landuse"",""display_name"":""Regione Toscana, Quartiere 5, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50127, Italia"",""importance"":0.52,""lat"":""43.79366875"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.222513136213019"",""osm_id"":83826804,""osm_type"":""way"",""place_id"":121442998,""type"":""commercial""},""mode"":""autocomplete""},""submit"":true,""title"":""Toscana Accoglienza Pace, portale della Protezione Civile Toscana per offrire beni e servizi a supporto dei profughi ucraini""}","<pre><yamldata>
 title: Toscana Accoglienza Pace, portale della Protezione Civile Toscana per offrire
   beni e servizi a supporto dei profughi ucraini
@@ -366,201 +764,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/481,1191060330,2022-04-03 22:16:56,2022-04-03 22:10:09,A Bergamo Associazione Zlaghoda prosegue con la raccolta di beni per emergenza Ucraina,,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bergamo"",""postcode"":""24048"",""road"":""Via Enrico Fermi"",""state"":""Lombardia"",""village"":""Curno""},""boundingbox"":[""45.6813078"",""45.6822033"",""9.6087129"",""9.6138508""],""class"":""highway"",""display_name"":""Via Enrico Fermi, Curno, Bergamo, Lombardia, 24048, Italia"",""importance"":0.61,""lat"":""45.681432"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.6101467"",""osm_id"":32476602,""osm_type"":""way"",""place_id"":109585606,""type"":""tertiary""},""mode"":""autocomplete""},""description"":""A Bergamo Associazione Zlaghoda raccoglie beni di prima necessit\u00e0 per emergenza Ucraina. Al link elenco dei beni che si possono donare e orari della raccolta. Info: 3480145702 - 3468453346. Gruppo Fb https://www.facebook.com/groups/2147848088835479/?ref=share"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Zlaghoda"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Bergamo Associazione Zlaghoda prosegue con la raccolta di beni per emergenza Ucraina"",""url"":""https://www.facebook.com/407691079704814/posts/1350084605465452/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Associazione Zlaghoda
-title: A Bergamo Associazione Zlaghoda prosegue con la raccolta di beni per emergenza
-  Ucraina
-recipients: ''
-description: 'A Bergamo Associazione Zlaghoda raccoglie beni di prima necessità per
-  emergenza Ucraina. Al link elenco dei beni che si possono donare e orari della
-  raccolta.
-  Info: 3480145702 - 3468453346.
-Gruppo Fb https://www.facebook.com/groups/2147848088835479/?ref=share'
-url: https://www.facebook.com/407691079704814/posts/1350084605465452/
-address:
-  mode: autocomplete
-  address:
-    place_id: 109585606
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 32476602
-    boundingbox:
-    - '45.6813078'
-    - '45.6822033'
-    - '9.6087129'
-    - '9.6138508'
-    lat: '45.681432'
-    lon: '9.6101467'
-    display_name: Via Enrico Fermi, Curno, Bergamo, Lombardia, 24048, Italia
-    class: highway
-    type: tertiary
-    importance: 0.61
-    address:
-      road: Via Enrico Fermi
-      village: Curno
-      county: Bergamo
-      state: Lombardia
-      postcode: '24048'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/480,1191058059,2022-04-03 22:01:56,2022-04-03 22:00:53,A Milano Fondazione Avsi attiva info point #HelpUkraine per assistenza e supporto ai rifugiati ucraini e raccolta offerte di ospitalità di famiglie italiane,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""healthcare"",""job"",""psychologicalSupport"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20100"",""quarter"":""Buenos Aires - Venezia"",""road"":""Via Donatello"",""state"":""Lombardia"",""suburb"":""Municipio 3""},""boundingbox"":[""45.4802664"",""45.4802962"",""9.2172193"",""9.2193892""],""class"":""highway"",""display_name"":""Via Donatello, Buenos Aires - Venezia, Municipio 3, Milano, Lombardia, 20100, Italia"",""importance"":0.41000000000000003,""lat"":""45.480268"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2173383"",""osm_id"":160136164,""osm_type"":""way"",""place_id"":140255016,""type"":""residential""},""mode"":""autocomplete""},""description"":""Da mercoled\u00ec 16 marzo \u00e8 attivo l\u2019info point #HelpUkraine, promosso da Fondazione Avsi e una rete di associazioni, per offrire informazioni e assistenza ai profughi ucraini e raccogliere le disponibilit\u00e0 all\u2019ospitalit\u00e0 delle famiglie italiane. \nContatti:\n+39.02.674988368 in ucraino e inglese\n+39.02.674988369 in italiano\nHelpUkraine@avsi.org\n\nIn particolare gli scopi dello sportello sono:\n- fornire prime informazioni, orientamento e assistenza a cittadini ucraini e nuclei famigliari in fuga entrati nel territorio italiano;\n- provvedere a dare supporto sulle procedure per l\u2019ottenimento del titolo di soggiorno, per la segnalazione di minori non accompagnati, per iscrizione al SSN, vaccinazioni, al sistema scolastico ecc.;\n- raccogliere la disponibilit\u00e0 delle famiglie che intendono offrire ospitalit\u00e0 a cittadini ucraini accogliendoli nelle proprie case o mettendo a disposizione appartamenti e abitazioni di loro propriet\u00e0;\n- favorire il nesso fra le disponibilit\u00e0 di accoglienza in famiglie e appartamenti e le necessit\u00e0 di alloggi per i profughi, con attivit\u00e0 di informazione, sensibilizzazione, accompagnamento e sostegno burocratico;\n- realizzare interventi di sostegno materiale ai profughi ucraini, alle famiglie che accolgono, anche attraverso cash transfer e servizi di sostegno psicosociale;\n- realizzare interventi di sostegno a bambini e adolescenti ucraini attraverso l\u2019integrazione e la partecipazione ad attivit\u00e0 scolastiche, ricreative, ludiche e sportive;\n- realizzare interventi di formazione e sostegno linguistico, rivolti sia a minori sia ad adulti, per l\u2019apprendimento di competenze linguistiche di base della lingua italiana che agevolino il processo di integrazione e accesso alla scolarizzazione per i minori e di integrazione sociale e lavorativa per gli adulti;\n- favorire interventi informativi di orientamento alla ricerca di lavoro e di preparazione al lavoro, con particolare riferimento al lavoro domestico e di assistenza alla persona.\n- favorire l\u2019assistenza medica come prime visite mediche per adulti, visite pediatriche, visite specialistiche ed esami per bambini e adulti, tamponi antigenici e molecolari."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Fondazione Avsi"",""recipients"":""Rifugiati ucraini e famiglie italiane"",""servicetypes"":{""Children"":true,""Legal"":true,""disability"":false,""education"":true,""healthcare"":true,""hospitality"":false,""job"":true,""materialGoods"":true,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Milano Fondazione Avsi attiva info point #HelpUkraine per assistenza e supporto ai rifugiati ucraini e raccolta offerte di ospitalit\u00e0 di famiglie italiane"",""url"":""https://www.avsi.org/it/news/2022/03/17/helpukraine-anche-in-italia/2510""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: false
-  transport: false
-  healthcare: true
-  Legal: true
-  translation: false
-  job: true
-  psychologicalSupport: true
-  Children: true
-  disability: false
-  women: false
-  education: true
-offerFromWho: Fondazione Avsi
-title: 'A Milano Fondazione Avsi attiva info point #HelpUkraine per assistenza e supporto
-  ai rifugiati ucraini e raccolta offerte di ospitalità di famiglie italiane'
-recipients: Rifugiati ucraini e famiglie italiane
-description: ""Da mercoledì 16 marzo è attivo l’info point #HelpUkraine, promosso da\
-  \ Fondazione Avsi e una rete di associazioni, per offrire informazioni e assistenza\
-  \ ai profughi ucraini e raccogliere le disponibilità all’ospitalità delle famiglie\
-  \ italiane. \nContatti:\n+39.02.674988368 in ucraino e inglese\n+39.02.674988369\
-  \ in italiano\nHelpUkraine@avsi.org\n\nIn particolare gli scopi dello sportello\
-  \ sono:\n- fornire prime informazioni, orientamento e assistenza a cittadini ucraini\
-  \ e nuclei famigliari in fuga entrati nel territorio italiano;\n- provvedere a dare\
-  \ supporto sulle procedure per l’ottenimento del titolo di soggiorno, per la segnalazione\
-  \ di minori non accompagnati, per iscrizione al SSN, vaccinazioni, al sistema scolastico\
-  \ ecc.;\n- raccogliere la disponibilità delle famiglie che intendono offrire ospitalità\
-  \ a cittadini ucraini accogliendoli nelle proprie case o mettendo a disposizione\
-  \ appartamenti e abitazioni di loro proprietà;\n- favorire il nesso fra le disponibilità\
-  \ di accoglienza in famiglie e appartamenti e le necessità di alloggi per i profughi,\
-  \ con attività di informazione, sensibilizzazione, accompagnamento e sostegno burocratico;\n\
-  - realizzare interventi di sostegno materiale ai profughi ucraini, alle famiglie\
-  \ che accolgono, anche attraverso cash transfer e servizi di sostegno psicosociale;\n\
-  - realizzare interventi di sostegno a bambini e adolescenti ucraini attraverso l’integrazione\
-  \ e la partecipazione ad attività scolastiche, ricreative, ludiche e sportive;\n\
-  - realizzare interventi di formazione e sostegno linguistico, rivolti sia a minori\
-  \ sia ad adulti, per l’apprendimento di competenze linguistiche di base della lingua\
-  \ italiana che agevolino il processo di integrazione e accesso alla scolarizzazione\
-  \ per i minori e di integrazione sociale e lavorativa per gli adulti;\n- favorire\
-  \ interventi informativi di orientamento alla ricerca di lavoro e di preparazione\
-  \ al lavoro, con particolare riferimento al lavoro domestico e di assistenza alla\
-  \ persona.\n- favorire l’assistenza medica come prime visite mediche per adulti,\
-  \ visite pediatriche, visite specialistiche ed esami per bambini e adulti, tamponi\
-  \ antigenici e molecolari.""
-url: https://www.avsi.org/it/news/2022/03/17/helpukraine-anche-in-italia/2510
-address:
-  mode: autocomplete
-  address:
-    place_id: 140255016
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 160136164
-    boundingbox:
-    - '45.4802664'
-    - '45.4802962'
-    - '9.2172193'
-    - '9.2193892'
-    lat: '45.480268'
-    lon: '9.2173383'
-    display_name: Via Donatello, Buenos Aires - Venezia, Municipio 3, Milano, Lombardia,
-      20100, Italia
-    class: highway
-    type: residential
-    importance: 0.41000000000000003
-    address:
-      road: Via Donatello
-      quarter: Buenos Aires - Venezia
-      suburb: Municipio 3
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/478,1191048071,2022-04-03 21:18:26,2022-04-03 21:16:25,A Palermo Comitato Salva Ucraini offre beni di prima necessità ai profughi ucraini arrivati in città,,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""postcode"":""90141"",""road"":""Via Marchese Ugo"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1299555"",""38.1336658"",""13.3496116"",""13.3514253""],""class"":""highway"",""display_name"":""Via Marchese Ugo, VIII Circoscrizione, Palermo, Sicilia, 90141, Italia"",""importance"":0.51,""lat"":""38.1315691"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3504181"",""osm_id"":86265407,""osm_type"":""way"",""place_id"":119906789,""type"":""residential""},""mode"":""autocomplete""},""description"":""A Palermo Comitato Salva Ucraini, in via Marchese Ugo 6, offre beni di prima necessit\u00e0 ai profughi ucraini arrivati in citt\u00e0 (vestiti, scarpe, cibo). Su appuntamento.\n\n\u0414\u043e\u0440\u043e\u0433\u0456 \u0423\u043a\u0440\u0430\u0457\u043d\u0446\u0456! \u042f\u043a\u0449\u043e \u0432\u0438 \u0431\u0443\u043b\u0456 \u0437\u043c\u0443\u0448\u0435\u043d\u0456 \u043f\u043e\u043a\u0438\u043d\u0443\u0442\u0456 \u043a\u0440\u0430\u0457\u043d\u0443 \u0447\u0435\u0440\u0435\u0437 \u0432\u0456\u0439\u043d\u0443 \u0456 \u0432\u0430\u043c \u043f\u043e\u0442\u0440\u0456\u0431\u043d\u0430 \u0433\u0443\u043c\u0430\u043d\u0456\u0442\u0430\u0440\u043d\u0430 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0430 (\u043e\u0434\u0435\u0436\u0430, \u0432\u0437\u0443\u0442\u0442\u044f, \u0440\u0435\u0447\u0456 \u043f\u0435\u0440\u0448\u043e\u0457 \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u043e\u0441\u0442\u0456) \u0443 \u043c\u0456\u0441\u0442\u0456 \u041f\u0430\u043b\u0435\u0440\u043c\u043e, \u041c\u0438 \u0437\u043d\u0430\u0445\u043e\u0434\u0438\u043c\u043e\u0441\u044f \u0437\u0430 \u0430\u0434\u0440\u0435\u0441\u043e\u044e: via Marchese Ugo 6, \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432 \u043f\u0440\u0438\u0439\u043c\u0430\u0454\u043c\u043e \u0437\u0440\u0430\u043d\u043a\u0443 \u043f\u043e \u0437\u0430\u043f\u0438\u0441\u0443 (\u0434\u043b\u044f \u043d\u0430\u0448\u043e\u0457 \u0456 \u0432\u0430\u0448\u043e\u0457 \u0437\u0440\u0443\u0447\u043d\u043e\u0441\u0442\u0456)\n\u041e\u0411\u041e\u0412'\u042f\u0417\u041a\u041e\u0412\u041e \u043c\u0430\u0442\u0438 \u043f\u0440\u0438 \u0441\u043e\u0431\u0456 \u043f\u0430\u0441\u043f\u043e\u0440\u0442."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comitato Salva Ucraini Palermo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Palermo Comitato Salva Ucraini offre beni di prima necessit\u00e0 ai profughi ucraini arrivati in citt\u00e0"",""url"":""https://t.me/ucraini_a_palermo/104""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Comitato Salva Ucraini Palermo
-title: A Palermo Comitato Salva Ucraini offre beni di prima necessità ai profughi
-  ucraini arrivati in città
-recipients: ''
-description: 'A Palermo Comitato Salva Ucraini, in via Marchese Ugo 6, offre beni
-  di prima necessità ai profughi ucraini arrivati in città (vestiti, scarpe, cibo).
-  Su appuntamento.
-
-
-  Дорогі Українці! Якщо ви булі змушені покинуті країну через війну і вам потрібна
-  гуманітарна допомога (одежа, взуття, речі першої необхідності) у місті Палермо,
-  Ми знаходимося за адресою: via Marchese Ugo 6, українців приймаємо зранку по запису
-  (для нашої і вашої зручності)
-
-  ОБОВ''ЯЗКОВО мати при собі паспорт.'
-url: https://t.me/ucraini_a_palermo/104
-address:
-  mode: autocomplete
-  address:
-    place_id: 119906789
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 86265407
-    boundingbox:
-    - '38.1299555'
-    - '38.1336658'
-    - '13.3496116'
-    - '13.3514253'
-    lat: '38.1315691'
-    lon: '13.3504181'
-    display_name: Via Marchese Ugo, VIII Circoscrizione, Palermo, Sicilia, 90141,
-      Italia
-    class: highway
-    type: residential
-    importance: 0.51
-    address:
-      road: Via Marchese Ugo
-      suburb: VIII Circoscrizione
-      city: Palermo
-      county: Palermo
-      state: Sicilia
-      postcode: '90141'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/477,1191044506,2022-04-03 21:18:04,2022-04-03 21:01:38,A Palermo Comitato Salva Ucraini raccoglie beni di prima necessità,,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""postcode"":""90141"",""road"":""Via Marchese Ugo"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1299555"",""38.1336658"",""13.3496116"",""13.3514253""],""class"":""highway"",""display_name"":""Via Marchese Ugo, VIII Circoscrizione, Palermo, Sicilia, 90141, Italia"",""importance"":0.5,""lat"":""38.1315691"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3504181"",""osm_id"":86265407,""osm_type"":""way"",""place_id"":119906789,""type"":""residential""},""mode"":""autocomplete""},""description"":""A Palermo Comitato Salva Ucraini raccoglie beni di prima necessit\u00e0, in particolare:\n\nVestiti (LEGGERI, primavera/estate): \n\u27a1\ufe0f Scarpe da ginnastica o mocassini femminili 35-40\n\u27a1\ufe0f Scarpe da ginnastica  bimbi 5+ anni unisex\n\u27a1\ufe0f Scarpe da ginnastica  per ragazzi 38-43\n\u27a1\ufe0f Giacche (jeans, a vento) da donna e per bimbi 5+ anni\n\u27a1\ufe0f Vestiti femminili (sportivi, per ogni giorno)\n\u27a1\ufe0f Abbigliamento estivo 5+ anni unisex\n(Per i bimbi pi\u00f9 piccoli abbiamo tanti vestiti)\n\u27a1\ufe0f Zaini unisex e per bambini\n\u27a1\ufe0f Parapioggia per passeggini \n\u27a1\ufe0f Ombrelli (bimbi, adulti)\n\nDetersivi/Igiene:\n\u27a1\ufe0f Detersivo per bucato per lavatrice e a mano\n\u27a1\ufe0f Detersivo per bucato bimbi\n\u27a1\ufe0f Gel doccia (adulti e bimbi)\n\u27a1\ufe0f Shampoo (adulti e bimbi)\n\u27a1\ufe0f Dentifricio (adulti e bimbi)\n\u27a1\ufe0f Spazzolini da denti (adulti e bimbi)\n\nAlimentari:\n\u27a1\ufe0f Salsa di pomodoro\n\u27a1\ufe0f Olio d\u2019oliva e di girasole\n\u27a1\ufe0f Pat\u00e8 di carne montana o simili\n\u27a1\ufe0f T\u00e8 nero e verde\n\u27a1\ufe0f Caff\u00e8 solubile \n\u27a1\ufe0f Carne in scatola\n\u27a1\ufe0f Tonno in scatola\n\u27a1\ufe0f Cornetti/merendine/brioscine per bimbi\n\u27a1\ufe0f Succhi di frutta piccoli per bimbi\n\u27a1\ufe0f Casse d\u2019acqua naturale\n\nLe donazioni si possono portare alla sede del Comitato, presso le Ancelle Del Sacro Cuore (via Marchese Ugo 6), dal luned\u00ec al venerd\u00ec negli orari 17:00-19:30 (entrata dal lato di Key Institute)."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comitato Salva Ucraini Palermo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Palermo Comitato Salva Ucraini raccoglie beni di prima necessit\u00e0"",""url"":""https://t.me/ucraini_a_palermo/103""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
@@ -621,57 +824,6 @@ address:
       county: Palermo
       state: Sicilia
       postcode: '90141'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/470,1190846180,2022-04-03 08:21:22,2022-04-03 07:32:53,A Falconara  Marittima (Ancona) Centro di dialisi Nephocare Spa offre cure  ai rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Ancona"",""postcode"":""60015"",""state"":""Marche"",""town"":""Falconara Marittima""},""boundingbox"":[""43.59049"",""43.6510018"",""13.3282005"",""13.422762""],""class"":""boundary"",""display_name"":""Falconara Marittima, Ancona, Marche, 60015, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.6622415494562244,""lat"":""43.6293969"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3966763"",""osm_id"":42532,""osm_type"":""relation"",""place_id"":284354030,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Centro di dialisi a Falconara Marittima della United Society @NephocareSpa offre spazio per ricevere servizi dialisi ai rifugiati ucraini."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Centro dialisi Falconara Marittima"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Il Centro di dialisi NephocareSpa a Falconara  Marittima offre cure  ai rifugiati ucraini."",""url"":""https://www.facebook.com/549802348452872/posts/4432972230135845/?d=n""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: true
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Centro dialisi Falconara Marittima
-title: Il Centro di dialisi NephocareSpa a Falconara  Marittima offre cure  ai rifugiati
-  ucraini.
-recipients: ''
-description: Il Centro di dialisi a Falconara Marittima della United Society @NephocareSpa
-  offre spazio per ricevere servizi dialisi ai rifugiati ucraini.
-url: https://www.facebook.com/549802348452872/posts/4432972230135845/?d=n
-address:
-  mode: autocomplete
-  address:
-    place_id: 284354030
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 42532
-    boundingbox:
-    - '43.59049'
-    - '43.6510018'
-    - '13.3282005'
-    - '13.422762'
-    lat: '43.6293969'
-    lon: '13.3966763'
-    display_name: Falconara Marittima, Ancona, Marche, 60015, Italia
-    class: boundary
-    type: administrative
-    importance: 0.6622415494562244
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      town: Falconara Marittima
-      county: Ancona
-      state: Marche
-      postcode: '60015'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
@@ -774,64 +926,6 @@ address:
       county: Ancona
       state: Marche
       postcode: '60019'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/472,1190851005,2022-04-03 08:17:48,2022-04-03 07:47:52,A Pesaro scuola ucraina BARVY riprende le sue attività,,,,,"[""Valid/Accettato"",""Services"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Pesaro"",""country"":""Italia"",""country_code"":""it"",""county"":""Pesaro e Urbino"",""postcode"":""61121"",""state"":""Marche""},""boundingbox"":[""43.7498114"",""44.0698114"",""12.7531228"",""13.0731228""],""class"":""place"",""display_name"":""Pesaro, Pesaro e Urbino, Marche, 61121, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.6768364113521745,""lat"":""43.9098114"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.9131228"",""osm_id"":266513166,""osm_type"":""node"",""place_id"":536705,""type"":""city""},""mode"":""autocomplete""},""description"":""Il 22.03.2022 a Pesaro ha ripresa la sua attivit\u00e0 scuola Ucraina BARVY . Si occupa dei bambini provenienti dall\u2019Ucraina per causa della guerra . Un ringrazio a tutti volontari che hanno partecipato per avviare il progetto. Grazie ai Associazione Nazionale Vigili del Fuoco in Congedo Ancona-ODV e @DanielaMari  per rifornimento dei quaderni, matite e tutto ci\u00f2 che \u00e8 stato apprezzato dai piccoli.\n\n\ud83c\uddfa\ud83c\udde6\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u0448\u043a\u043e\u043b\u0430 \u0411\u0410\u0420\u0412\u0418 \u0432\u0456\u0434\u043d\u043e\u0432\u0438\u043b\u0430 \u0441\u0432\u043e\u044e \u0440\u043e\u0431\u043e\u0442\u0443 \u0432 \u041f\u0435\u0437\u0430\u0440\u043e. \u0412\u043e\u043b\u043e\u043d\u0442\u0435\u0440\u0438 \u043d\u0430\u0434\u0430\u044e\u0442\u044c \u043f\u0441\u0438\u0445\u043e\u043b\u043e\u0433\u0456\u0447\u043d\u0443 \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u043a\u0443 \u0432 \u0430\u0434\u0430\u043f\u0442\u0430\u0446\u0456\u0457 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0434\u0456\u0442\u0435\u0439. \u0414\u044f\u043a\u0443\u0454\u043c\u043e \u0437\u0430 \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u043a\u0443 \u0443\u0447\u0431\u043e\u0432\u0438\u043c\u0438 \u043c\u0430\u0442\u0435\u0440\u0456\u0430\u043b\u0430\u043c\u0438  \u043d\u0430\u0448\u0438\u0445 \u0456\u0442\u0430\u043b\u0456\u0439\u0441\u044c\u043a\u0438\u0445 \u0434\u0440\u0443\u0437\u0456\u0432 \u0442\u0430 \u0414\u043e\u043d \u0414\u0436\u0443\u0437\u0435\u043f\u043f\u0435 \u0437\u0430 \u043f\u0440\u0438\u043c\u0456\u0449\u0435\u043d\u043d\u044f."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""scuola Ucraina BARVY Pesaro"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Pesaro scuola Ucraina BARVY riprende le sue attivit\u00e0"",""url"":""https://fb.watch/c92FHR2VAi/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: true
-  disability: false
-  women: false
-  education: true
-offerFromWho: scuola Ucraina BARVY Pesaro
-title: A Pesaro scuola Ucraina BARVY riprende le sue attività
-recipients: ''
-description: 'Il 22.03.2022 a Pesaro ha ripresa la sua attività scuola Ucraina BARVY
-  . Si occupa dei bambini provenienti dall’Ucraina per causa della guerra . Un ringrazio
-  a tutti volontari che hanno partecipato per avviare il progetto. Grazie ai Associazione
-  Nazionale Vigili del Fuoco in Congedo Ancona-ODV e @DanielaMari  per rifornimento
-  dei quaderni, matite e tutto ciò che è stato apprezzato dai piccoli.
-
-
-  🇺🇦Українська школа БАРВИ відновила свою роботу в Пезаро. Волонтери надають психологічну
-  підтримку в адаптації українських дітей. Дякуємо за підтримку учбовими матеріалами  наших
-  італійських друзів та Дон Джузеппе за приміщення.'
-url: https://fb.watch/c92FHR2VAi/
-address:
-  mode: autocomplete
-  address:
-    place_id: 536705
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 266513166
-    boundingbox:
-    - '43.7498114'
-    - '44.0698114'
-    - '12.7531228'
-    - '13.0731228'
-    lat: '43.9098114'
-    lon: '12.9131228'
-    display_name: Pesaro, Pesaro e Urbino, Marche, 61121, Italia
-    class: place
-    type: city
-    importance: 0.6768364113521745
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
-    address:
-      city: Pesaro
-      county: Pesaro e Urbino
-      state: Marche
-      postcode: '61121'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
@@ -11759,42 +11853,6 @@ address:
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/253,1174709709,2022-03-21 10:49:13,2022-03-20 22:30:15,Elenco Gruppi Telegram di aiuto ai rifugiati ucraini in Italia (per città),,,,,"[""Valid/Accettato"",""News"",""Services"",""useful contact"",""telegram-channel"",""tweet"",""Resources""]",,,"{""description"":""Chat Telegram Help Ucraini in Italia: \n\n- Italia https://t.me/ucrainiitalia\n \n - Milano\nhttps://t.me/milanukraine\nhttps://t.me/staywithukrainemilano\n\n- Lombardia\nhttps://t.me/lombardia_italia_ucraina\n\n- Torino\nhttps://t.me/+LSi8xWHSiH0wYTQy\n\n- Emilia-Romagna\nhttps://t.me/ucrainiemiliaromagna\n\n- Bolzano\nhttps://t.me/pereselenzi\n\n- Napoli\nhttps://t.me/+wjO1V6_LLt02ZjJi\n\n- Taranto\nhttps://t.me/ucrainaTA\n\n- Verona\nhttps://t.me/+Y96MzvQXCotlMTli\n\n- Sicilia\nhttps://t.me/+ov-nuSlEfWRhN2Ni\n\n- Palermo \nhttps://t.me/ucraini_a_palermo\n\n- Mantova\nhttps://t.me/ukr_italy\n\n- Genova\nhttps://t.me/Genova_FromUkraina\n\n- Venezia\nhttps://t.me/venezia_ua\n\n- Veneto \nhttps://t.me/VEITUA\n\n- Benevento\nhttps://t.me/+mRsN3nG9XvE5OGYy\n\n- Udine\nhttps://t.me/+goGKMPBSI0JhOTli\n\n- Puglia\nhttps://t.me/PugliaUA\n\n- Como\nhttps://t.me/como_lipomo_italia_ucraina\n\n- Lago di Garda\nhttps://t.me/gardaucraina\n\n- Mamme ucraine in Italia\nhttps://t.me/UAMAMAITALY\n\n\u0427\u0430\u0442\u044b \"" \u0423\u043a\u0440\u0430\u0457\u043d\u0446\u0456 \u0432 \u0406\u0442\u0430\u043b\u0456\u0457 \"" \u043f\u043e \u0433\u043e\u0440\u043e\u0434\u0430\u043c.\n\n\ud83d\udccd \u0420\u0438\u043c\nhttps://t.me/roma14032022\n\n\ud83d\udccd \u0424\u043b\u043e\u0440\u0435\u043d\u0446\u0438\u044f\nhttps://t.me/firenzeUAA\n\n\u041f\u043e\u0448\u0443\u043a \u043f\u0440\u0430\u0446\u0456 \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432 \u0432 \u0406\u0442\u0430\u043b\u0456\u0457\nhttps://t.me/lavoro_in_italia\n\n\ud83d\udccd \u041c\u0438\u043b\u0430\u043d \nhttps://t.me/ucraina_milano\n\n\ud83d\udccd \u041b\u043e\u043c\u0431\u0430\u0440\u0434\u0438\u044f\nhttps://t.me/lombardia_italia_ucraina\n\n\ud83d\udccd \u0422\u0443\u0440\u0438\u043d \nhttps://t.me/+LSi8xWHSiH0wYTQy\n\n\ud83d\udccd \u042d\u043c\u0438\u043b\u0438\u044f-\u0420\u043e\u043c\u0430\u043d\u044c\u044f \nhttps://t.me/ucrainiemiliaromagna\n\n\ud83d\udccd \u0411\u043e\u043b\u044c\u0446\u0430\u043d\u043e\nhttps://t.me/pereselenzi\n\n\ud83d\udccd \u041d\u0435\u0430\u043f\u043e\u043b\u044c\nhttps://t.me/+wjO1V6_LLt02ZjJi\n\n\ud83d\udccd\u0422\u0430\u0440\u0430\u043d\u0442\u043e\nhttps://t.me/ucrainaTA\n\n\ud83d\udccd\u0412\u0435\u0440\u043e\u043d\u0430 \nhttps://t.me/+Y96MzvQXCotlMTli\n\n\ud83d\udccd\u0421\u0438\u0446\u0438\u043b\u0438\u044f \nhttps://t.me/+ov-nuSlEfWRhN2Ni\n\n\ud83d\udccd\u0423\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u0438\u0435 \u043c\u0430\u043c\u044b \u0432 \u0418\u0442\u0430\u043b\u0438\u0438\nhttps://t.me/UAMAMAITALY\n\n\ud83d\udccd\u041c\u0430\u043d\u0442\u043e\u0432\u0430\nhttps://t.me/ukr_italy\n\n\ud83d\udccd\u0414\u0436\u0435\u043d\u043e\u0430\nhttps://t.me/Genova_FromUkraina\n\n\ud83d\udccd\u041c\u0430\u0442\u0435\u0440\u0430\nhttps://t.me/UkrainaMateraIt\n\n\ud83d\udccd\u0412\u0435\u043d\u0435\u0442\u043e\nhttps://t.me/venezia_ua\n\n\ud83d\udccd\u0412\u0435\u043d\u0435\u0442\u043e (\u0421\u0435\u0432\u0435\u0440)\nhttps://t.me/VEITUA\n\n\ud83d\udccd\u0411\u0435\u043d\u0435\u0432\u0435\u043d\u0442\u043e\nhttps://t.me/+mRsN3nG9XvE5OGYy\n\n\ud83d\udccd\u0423\u0434\u0438\u043d\u0435\nhttps://t.me/+goGKMPBSI0JhOTli\n\n\ud83d\udccd\u0410\u043f\u0443\u043b\u0456\u044f / \u041f\u0443\u043b\u044c\u044f / Puglia\nhttps://t.me/PugliaUA\n\n\ud83d\udccd\u041a\u043e\u043c\u043e\nhttps://t.me/como_lipomo_italia_ucraina\n\n\u0423\u043a\u0440\u0430\u0457\u043d\u0446\u0456 \u043d\u0430 \u043e\u0437\u0435\u0440\u0456 \u0413\u0430\u0440\u0434\u0430\nhttps://t.me/gardaucraina"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.me/lombardia_italia_ucraina/2354"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Elenco Gruppi Telegram Help Ucraini in Italia (per citt\u00e0)""}","<pre><yamldata>
-title: Elenco Gruppi Telegram Help Ucraini in Italia (per città)
-description: ""Chat Telegram Help Ucraini in Italia: \n\n- Italia https://t.me/ucrainiitalia\n\
-  \ \n - Milano\nhttps://t.me/milanukraine\nhttps://t.me/staywithukrainemilano\n\n\
-  - Lombardia\nhttps://t.me/lombardia_italia_ucraina\n\n- Torino\nhttps://t.me/+LSi8xWHSiH0wYTQy\n\
-  \n- Emilia-Romagna\nhttps://t.me/ucrainiemiliaromagna\n\n- Bolzano\nhttps://t.me/pereselenzi\n\
-  \n- Napoli\nhttps://t.me/+wjO1V6_LLt02ZjJi\n\n- Taranto\nhttps://t.me/ucrainaTA\n\
-  \n- Verona\nhttps://t.me/+Y96MzvQXCotlMTli\n\n- Sicilia\nhttps://t.me/+ov-nuSlEfWRhN2Ni\n\
-  \n- Palermo \nhttps://t.me/ucraini_a_palermo\n\n- Mantova\nhttps://t.me/ukr_italy\n\
-  \n- Genova\nhttps://t.me/Genova_FromUkraina\n\n- Venezia\nhttps://t.me/venezia_ua\n\
-  \n- Veneto \nhttps://t.me/VEITUA\n\n- Benevento\nhttps://t.me/+mRsN3nG9XvE5OGYy\n\
-  \n- Udine\nhttps://t.me/+goGKMPBSI0JhOTli\n\n- Puglia\nhttps://t.me/PugliaUA\n\n\
-  - Como\nhttps://t.me/como_lipomo_italia_ucraina\n\n- Lago di Garda\nhttps://t.me/gardaucraina\n\
-  \n- Mamme ucraine in Italia\nhttps://t.me/UAMAMAITALY\n\nЧаты \"" Українці в Італії\
-  \ \"" по городам.\n\n\U0001F4CD Рим\nhttps://t.me/roma14032022\n\n\U0001F4CD Флоренция\n\
-  https://t.me/firenzeUAA\n\nПошук праці українців в Італії\nhttps://t.me/lavoro_in_italia\n\
-  \n\U0001F4CD Милан \nhttps://t.me/ucraina_milano\n\n\U0001F4CD Ломбардия\nhttps://t.me/lombardia_italia_ucraina\n\
-  \n\U0001F4CD Турин \nhttps://t.me/+LSi8xWHSiH0wYTQy\n\n\U0001F4CD Эмилия-Романья\
-  \ \nhttps://t.me/ucrainiemiliaromagna\n\n\U0001F4CD Больцано\nhttps://t.me/pereselenzi\n\
-  \n\U0001F4CD Неаполь\nhttps://t.me/+wjO1V6_LLt02ZjJi\n\n\U0001F4CDТаранто\nhttps://t.me/ucrainaTA\n\
-  \n\U0001F4CDВерона \nhttps://t.me/+Y96MzvQXCotlMTli\n\n\U0001F4CDСицилия \nhttps://t.me/+ov-nuSlEfWRhN2Ni\n\
-  \n\U0001F4CDУкраинские мамы в Италии\nhttps://t.me/UAMAMAITALY\n\n\U0001F4CDМантова\n\
-  https://t.me/ukr_italy\n\n\U0001F4CDДженоа\nhttps://t.me/Genova_FromUkraina\n\n\U0001F4CD\
-  Матера\nhttps://t.me/UkrainaMateraIt\n\n\U0001F4CDВенето\nhttps://t.me/venezia_ua\n\
-  \n\U0001F4CDВенето (Север)\nhttps://t.me/VEITUA\n\n\U0001F4CDБеневенто\nhttps://t.me/+mRsN3nG9XvE5OGYy\n\
-  \n\U0001F4CDУдине\nhttps://t.me/+goGKMPBSI0JhOTli\n\n\U0001F4CDАпулія / Пулья /\
-  \ Puglia\nhttps://t.me/PugliaUA\n\n\U0001F4CDКомо\nhttps://t.me/como_lipomo_italia_ucraina\n\
-  \nУкраїнці на озері Гарда\nhttps://t.me/gardaucraina""
-link: https://t.me/lombardia_italia_ucraina/2354
-location:
-  mode: autocomplete
-  address: {}
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/254,1174713704,2022-03-21 10:48:44,2022-03-20 22:44:51,"A Chirignago (Ve) mamma ucraina con due figli, una con Sindrome di Down, ha bisogno di aiuto economico, macchina fotografica e guanti da portiere per il figlio",,,,,"[""Valid/Accettato"",""Help"",""Children"",""disability""]",,,"{""description"":""Hello, we are a family of 3. Mom and 2 children 16 year old Misha,  6 year old girl Milana. Milana is disabled, she has Down Syndrome. She doesn't talk. At the moment, we have been placed in a house on the territory of the Don Orione Center in Chirignago (VE). We need any financial help \ud83d\ude4f\ud83c\udffb Misha was a photographer in Ukraine, he loves to take pictures and play football, we will be very grateful if you manage to find any camera with a lens (Canon, Nikon) or Goalkeeper gloves size 9.\n\u0417\u0434\u0440\u0430\u0432\u0441\u0442\u0432\u0443\u0439\u0442\u0435 , \u043c\u044b \u0441\u0435\u043c\u044c\u044f \u0438\u0437 3 \u0447\u0435\u043b\u043e\u0432\u0435\u043a. \u041c\u0430\u043c\u0430 \u0438 2 \u0440\u0435\u0431\u0451\u043d\u043a\u0430 16 \u043b\u0435\u0442\u043d\u0438\u0439 \u041c\u0438\u0448\u0430. 6 \u043b\u0435\u0442\u043d\u044f\u044f \u0434\u0435\u0432\u043e\u0447\u043a\u0430 \u041c\u0438\u043b\u0430\u043d\u0430. \u041c\u0438\u043b\u0430\u043d\u0430 \u0438\u043d\u0432\u0430\u043b\u0438\u0434 , \u0443 \u043d\u0435\u0451 \u0441\u0438\u043d\u0434\u0440\u043e\u043c \u0434\u0430\u0443\u043d\u0430. \u041e\u043d\u0430 \u043d\u0435 \u0440\u0430\u0437\u0433\u043e\u0432\u0430\u0440\u0438\u0432\u0430\u0435\u0442. \u041d\u0430 \u0434\u0430\u043d\u043d\u044b\u0439 \u043c\u043e\u043c\u0435\u043d\u0442 \u043d\u0430\u0441 \u043f\u043e\u0441\u0435\u043b\u0438\u043b\u0438 \u0432 \u0434\u043e\u043c \u043d\u0430 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 DonOrione Center \u0432 Chirignago. \u043d\u0430\u043c \u043d\u0443\u0436\u043d\u0430 \u043b\u044e\u0431\u0430\u044f \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u043f\u043e\u043c\u043e\u0449\u044c \ud83d\ude4f\ud83c\udffb \u041c\u0438\u0448\u0430 \u0432 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0431\u044b\u043b \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u043e\u043c , \u043e\u043d \u043e\u0447\u0435\u043d\u044c \u043b\u044e\u0431\u0438\u0442 \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0438 \u0438\u0433\u0440\u0430\u0442\u044c \u0432 \u0444\u0443\u0442\u0431\u043e\u043b , \u0431\u0443\u0434\u0435\u043c \u043e\u0447\u0435\u043d\u044c \u0431\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u043d\u044b \u0435\u0441\u043b\u0438 \u0443 \u0432\u0430\u0441 \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u0441\u044f \u043d\u0430\u0439\u0442\u0438 \u043a\u0430\u043a\u043e\u0439-\u043d\u0438\u0431\u0443\u0434\u044c \u0444\u043e\u0442\u043e\u0430\u043f\u043f\u0430\u0440\u0430\u0442 \u0441 \u043e\u0431\u044a\u0435\u043a\u0442\u0438\u0432\u043e\u043c ( Canon , Nikon ) \u043b\u0438\u0431\u043e \u0412\u0440\u0430\u0442\u0430\u0440\u0441\u043a\u0438\u0435 \u043f\u0435\u0440\u0447\u0430\u0442\u043a\u0438 9 \u0440\u0430\u0437\u043c\u0435\u0440\u0430"",""email"":""lozovoymishagk@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{},""mode"":""autocomplete""},""nameSurname"":""Anna Chupis"",""phoneNumber"":""+393271981559"",""recipients"":""Lozovyi Mykhailo and Milana Chupis"",""submit"":true,""title"":""lozovoymishagk@gmail.com"",""url"":""https://instagram.com/lozovoy_misha?utm_medium=copy_link""}","<pre><yamldata>
