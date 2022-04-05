@@ -1,4 +1,267 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/471,1190849957,2022-04-05 14:58:56,2022-04-03 07:42:57,"Nelle Marche All blacks Taekwondo ASD offre corsi gratuiti a bambini, ragazzi, adulti rifugiati ucraini",,,,,"[""Valid/Accettato"",""Services"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Ancona"",""postcode"":""60019"",""state"":""Marche"",""town"":""Senigallia""},""boundingbox"":[""43.6043136"",""43.7505106"",""13.1181262"",""13.3019948""],""class"":""boundary"",""display_name"":""Senigallia, Ancona, Marche, 60019, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7184733195486046,""lat"":""43.7149517"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.2179488"",""osm_id"":42536,""osm_type"":""relation"",""place_id"":283734079,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Corsi gratuiti di Taekwondo per ucraini temporaneamente sfollati con status di rifugiato: gruppi per ragazze e ragazzi dai 5 ai 19 anni; per donne e uomini con esperienza di arti marziali. Nelle citt\u00e0: Chiaravalle, Senigallia, Monte Porzio, Colli al Metauro.\n\u0411\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u0456 \u043a\u0443\u0440\u0441\u0438 \u0422\u0445\u0435\u043a\u0432\u043e\u043d\u0434\u043e \u0434\u043b\u044f \u0442\u0438\u043c\u0447\u0430\u0441\u043e\u0432\u043e \u043f\u0435\u0440\u0435\u043c\u0456\u0449\u0435\u043d\u0438\u0445 \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432 \u0437\u0456 \u0441\u0442\u0430\u0442\u0443\u0441\u043e\u043c \u0431\u0456\u0436\u0435\u043d\u0446\u0456\u0432: \u0433\u0440\u0443\u043f\u0438 \u0434\u043b\u044f \u0434\u0456\u0432\u0447\u0430\u0442 \u0442\u0430 \u0445\u043b\u043e\u043f\u0446\u0456\u0432 \u0432\u0456\u0434 5 \u0434\u043e 19 \u0440\u043e\u043a\u0456\u0432; \u0434\u043b\u044f \u0436\u0456\u043d\u043e\u043a \u0442\u0430 \u0447\u043e\u043b\u043e\u0432\u0456\u043a\u0456\u0432 \u0437 \u0434\u043e\u0441\u0432\u0456\u0434\u043e\u043c \u0431\u043e\u0439\u043e\u0432\u0438\u0445 \u043c\u0438\u0441\u0442\u0435\u0446\u0442\u0432. \u0412 \u043c\u0456\u0441\u0442\u0430\u0445: Chiaravalle, Senigallia, Monte Porzio, Colli al Metauro. #\u0441\u0430\u043c\u043e\u0437\u0430\u0445\u0438\u0441\u0442"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""All blacks takewondo ASD offre corsi gratuiti a rifugiati ucraini"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""All blacks takewondo ASD offre corsi gratuiti a rifugiati ucraini"",""url"":""https://www.facebook.com/549802348452872/posts/4425242170908851/?d=n""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: true
+offerFromWho: All blacks takewondo ASD offre corsi gratuiti a rifugiati ucraini
+title: All blacks takewondo ASD offre corsi gratuiti a rifugiati ucraini
+recipients: ''
+description: 'Corsi gratuiti di Taekwondo per ucraini temporaneamente sfollati con
+  status di rifugiato: gruppi per ragazze e ragazzi dai 5 ai 19 anni; per donne e
+  uomini con esperienza di arti marziali. Nelle città: Chiaravalle, Senigallia, Monte
+  Porzio, Colli al Metauro.
+
+  Безкоштовні курси Тхеквондо для тимчасово переміщених українців зі статусом біженців:
+  групи для дівчат та хлопців від 5 до 19 років; для жінок та чоловіків з досвідом
+  бойових мистецтв. В містах: Chiaravalle, Senigallia, Monte Porzio, Colli al Metauro.
+  #самозахист'
+url: https://www.facebook.com/549802348452872/posts/4425242170908851/?d=n
+address:
+  mode: autocomplete
+  address:
+    place_id: 283734079
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 42536
+    boundingbox:
+    - '43.6043136'
+    - '43.7505106'
+    - '13.1181262'
+    - '13.3019948'
+    lat: '43.7149517'
+    lon: '13.2179488'
+    display_name: Senigallia, Ancona, Marche, 60019, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7184733195486046
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      town: Senigallia
+      county: Ancona
+      state: Marche
+      postcode: '60019'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/485,1191884596,2022-04-05 14:58:36,2022-04-04 14:31:41,"Comune di Roma, elenco dei punti di raccolta beni e farmaci a Roma per emergenza Ucraina",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00184"",""quarter"":""Campitelli"",""road"":""Piazza del Campidoglio"",""state"":""Lazio"",""suburb"":""Municipio Roma I"",""tourism"":""Piazza del Campidoglio""},""boundingbox"":[""41.8928366"",""41.8936211"",""12.4824452"",""12.4834856""],""class"":""tourism"",""display_name"":""Piazza del Campidoglio, Campitelli, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_point_of_interest.p.20.png"",""importance"":0.6269620155557563,""lat"":""41.8932408"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.482981487083691"",""osm_id"":23055100,""osm_type"":""way"",""place_id"":106480430,""type"":""attraction""},""mode"":""autocomplete""},""description"":""Sul sito del Comune di Roma dedicato all\u2019emergenza Ucraina \u00e8 disponibile un elenco dei punti di raccolta di beni e farmaci a Roma, con info e contatti."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Roma"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Roma, elenco dei punti di raccolta beni e farmaci a Roma per emergenza Ucraina"",""url"":""https://emergenzaucraina.roma.it/punti-di-raccolta/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: true
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Comune di Roma
+title: Comune di Roma, elenco dei punti di raccolta beni e farmaci a Roma per emergenza
+  Ucraina
+recipients: ''
+description: Sul sito del Comune di Roma dedicato all’emergenza Ucraina è disponibile
+  un elenco dei punti di raccolta di beni e farmaci a Roma, con info e contatti.
+url: https://emergenzaucraina.roma.it/punti-di-raccolta/
+address:
+  mode: autocomplete
+  address:
+    place_id: 106480430
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 23055100
+    boundingbox:
+    - '41.8928366'
+    - '41.8936211'
+    - '12.4824452'
+    - '12.4834856'
+    lat: '41.8932408'
+    lon: '12.482981487083691'
+    display_name: Piazza del Campidoglio, Campitelli, Municipio Roma I, Roma, Roma
+      Capitale, Lazio, 00184, Italia
+    class: tourism
+    type: attraction
+    importance: 0.6269620155557563
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_point_of_interest.p.20.png
+    address:
+      tourism: Piazza del Campidoglio
+      road: Piazza del Campidoglio
+      quarter: Campitelli
+      suburb: Municipio Roma I
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: 00184
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/488,1191977220,2022-04-05 14:58:04,2022-04-04 15:40:11,A Livorno Comunità di Sant’Egidio organizza corsi di italiano gratuiti per bambini e adulti ucraini,,,,,"[""Valid/Accettato"",""Services"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Livorno"",""country"":""Italia"",""country_code"":""it"",""county"":""Livorno"",""postcode"":""57123"",""road"":""Via carraia"",""state"":""Toscana""},""boundingbox"":[""43.5517728"",""43.5524395"",""10.3065538"",""10.3067431""],""class"":""highway"",""display_name"":""Via carraia, Livorno, Toscana, 57123, Italia"",""importance"":0.51,""lat"":""43.552095"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.3066283"",""osm_id"":29030318,""osm_type"":""way"",""place_id"":108920969,""type"":""unclassified""},""mode"":""autocomplete""},""description"":""A Livorno Comunit\u00e0 di Sant\u2019Egidio organizza corsi di italiano gratuiti per bambini e adulti ucraini. Al link orari e contatti."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comunit\u00e0 di Sant\u2019Egidio Livorno"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Livorno Comunit\u00e0 di Sant\u2019Egidio organizza corsi di italiano gratuiti per bambini e adulti ucraini"",""url"":""https://www.facebook.com/groups/ucrainaintoscana/permalink/2023328124495696/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: true
+offerFromWho: Comunità di Sant’Egidio Livorno
+title: A Livorno Comunità di Sant’Egidio organizza corsi di italiano gratuiti per
+  bambini e adulti ucraini
+recipients: ''
+description: A Livorno Comunità di Sant’Egidio organizza corsi di italiano gratuiti
+  per bambini e adulti ucraini. Al link orari e contatti.
+url: https://www.facebook.com/groups/ucrainaintoscana/permalink/2023328124495696/
+address:
+  mode: autocomplete
+  address:
+    place_id: 108920969
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 29030318
+    boundingbox:
+    - '43.5517728'
+    - '43.5524395'
+    - '10.3065538'
+    - '10.3067431'
+    lat: '43.552095'
+    lon: '10.3066283'
+    display_name: Via carraia, Livorno, Toscana, 57123, Italia
+    class: highway
+    type: unclassified
+    importance: 0.51
+    address:
+      road: Via carraia
+      city: Livorno
+      county: Livorno
+      state: Toscana
+      postcode: '57123'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/492,1192006068,2022-04-05 14:57:48,2022-04-04 16:04:50,A Verona continua la raccolta beni promossa dall’Associazione Malve di Ucraina,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Verona"",""country"":""Italia"",""country_code"":""it"",""county"":""Verona"",""postcode"":""37122"",""state"":""Veneto""},""boundingbox"":[""45.2784958"",""45.5984958"",""10.8324122"",""11.1524122""],""class"":""place"",""display_name"":""Verona, Veneto, 37122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7561573888828526,""lat"":""45.4384958"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.9924122"",""osm_id"":64778101,""osm_type"":""node"",""place_id"":286299859,""type"":""city""},""mode"":""autocomplete""},""description"":""A Verona continua la raccolta beni di prima necessit\u00e0 e farmaci da banco promossa dall\u2019Associazione Malve di Ucraina. Al link tipo di beni da donare, punti di raccolta e orari."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Malve di Ucraina"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Verona continua la raccolta beni promossa dall\u2019Associazione Malve di Ucraina"",""url"":""https://www.facebook.com/675754522486226/posts/5170456303016003/?sfnsn=scwspmo""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Associazione Malve di Ucraina
+title: A Verona continua la raccolta beni promossa dall’Associazione Malve di Ucraina
+recipients: ''
+description: A Verona continua la raccolta beni di prima necessità e farmaci da banco
+  promossa dall’Associazione Malve di Ucraina. Al link tipo di beni da donare, punti
+  di raccolta e orari.
+url: https://www.facebook.com/675754522486226/posts/5170456303016003/?sfnsn=scwspmo
+address:
+  mode: autocomplete
+  address:
+    place_id: 286299859
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 64778101
+    boundingbox:
+    - '45.2784958'
+    - '45.5984958'
+    - '10.8324122'
+    - '11.1524122'
+    lat: '45.4384958'
+    lon: '10.9924122'
+    display_name: Verona, Veneto, 37122, Italia
+    class: place
+    type: city
+    importance: 0.7561573888828526
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Verona
+      county: Verona
+      state: Veneto
+      postcode: '37122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/493,1192019705,2022-04-05 14:57:36,2022-04-04 16:16:08,"In fuga dall’Ucraina, raccolta fondi di Arci e Arcs per sostenere associazioni in Ucraina e Polonia e sostenere l’arrivo in Italia dei profughi ",41.9202489,12.5313848,Lazio,Roma,"[""Valid/Accettato"",""fundraising"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""41.9202489 12.5313848"",""bicSwift"":"""",""causal"":""Emergenza Ucraina"",""ccPostal"":"""",""description"":""IN FUGA DALL'UCRAINA, la raccolta fondi Arci e Arcs per sostenere l\u2019azione delle associazioni in Ucraina e in Polonia attive nell\u2019accoglienza di milioni di profughi o per favorire l\u2019arrivo in Italia in modo sicuro e organizzato di chi fugge, in particolare donne, bambini e disabili.\nDonazioni Iban e online al link."",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT12S0501803200000015080807"",""label"":""fundraising"",""link"":""https://www.arcsculturesolidali.org/ucraina/"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00100"",""road"":""Via dei Monti di Pietralata"",""state"":""Lazio"",""suburb"":""Pietralata""},""boundingbox"":[""41.9202489"",""41.9204935"",""12.5312367"",""12.5313848""],""class"":""highway"",""display_name"":""Via dei Monti di Pietralata, Pietralata, Roma, Roma Capitale, Lazio, 00100, Italia"",""importance"":0.72,""lat"":""41.9202489"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.5313848"",""osm_id"":255254277,""osm_type"":""way"",""place_id"":165004837,""type"":""tertiary""},""mode"":""autocomplete""},""submit"":true,""title"":""Arci e Arcs""}","<pre><yamldata>
+title: Arci e Arcs
+description: 'IN FUGA DALL''UCRAINA, la raccolta fondi Arci e Arcs per sostenere l’azione
+  delle associazioni in Ucraina e in Polonia attive nell’accoglienza di milioni di
+  profughi o per favorire l’arrivo in Italia in modo sicuro e organizzato di chi fugge,
+  in particolare donne, bambini e disabili.
+
+  Donazioni Iban e online al link.'
+heading: ''
+iban: IT12S0501803200000015080807
+bicSwift: ''
+ccPostal: ''
+causal: Emergenza Ucraina
+link: https://www.arcsculturesolidali.org/ucraina/
+email: ''
+location:
+  mode: autocomplete
+  address:
+    place_id: 165004837
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 255254277
+    boundingbox:
+    - '41.9202489'
+    - '41.9204935'
+    - '12.5312367'
+    - '12.5313848'
+    lat: '41.9202489'
+    lon: '12.5313848'
+    display_name: Via dei Monti di Pietralata, Pietralata, Roma, Roma Capitale, Lazio,
+      00100, Italia
+    class: highway
+    type: tertiary
+    importance: 0.72
+    address:
+      road: Via dei Monti di Pietralata
+      suburb: Pietralata
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: '00100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+Posizione: 41.9202489 12.5313848
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/486,1191952266,2022-04-05 06:41:41,2022-04-04 15:20:23,A Firenze Ordine degli avvocati attiva email per supporto legale ai rifugiati ucraini e pubblica online Faq in italiano e ucraino,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""useful contact"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""house_number"":""61"",""neighbourhood"":""Firenze Nova"",""postcode"":""50127"",""road"":""Viale Alessandro Guidoni"",""state"":""Toscana"",""suburb"":""Quartiere 5""},""boundingbox"":[""43.7955768"",""43.7956768"",""11.2272056"",""11.2273056""],""class"":""place"",""display_name"":""61, Viale Alessandro Guidoni, Firenze Nova, Quartiere 5, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50127, Italia"",""importance"":0.5309999999999999,""lat"":""43.7956268"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2272556"",""osm_id"":2361902019,""osm_type"":""node"",""place_id"":21081985,""type"":""house""},""mode"":""autocomplete""},""description"":""In ottemperanza alla delibera adottata dal Consiglio dell'Ordine degli Avvocati di Firenze in relazione ai tragici eventi della guerra in Ucraina, \u00e8 ora aperta un'apposita casella di posta per tutti coloro che necessitano di informazioni legali: emergenzaucraina@ordineavvocatifirenze.eu Contattando il nostro Ordine degli Avvocati tramite la suddetta e-mail, sar\u00e0 organizzato un incontro online a distanza, durante il quale un avvocato esperto in diritto internazionale, asilo e norme di protezione potr\u00e0 fornire le spiegazioni pertinenti e le informazioni necessarie per la tutela dei diritti. Ogni conversazione a distanza si svolger\u00e0 alla presenza di un interprete. \u00c8 inoltre disponibile online un elenco di domande e risposte (italiano/ucraino) su: 1. Ingresso in Italia 2. Presenza in Italia 2.1 Estensione del visto 3. Permanenza in Italia 3.1 Protezione temporanea 3.1.1 Assistenza finanziaria 3.2 Domanda di asilo 3.3 Minori non accompagnati 3.4 Emersione 2020 3.5 Condizioni favorevoli per i cittadini ucraini\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 \u0412\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u043d\u043e \u0434\u043e \u0440\u0435\u0437\u043e\u043b\u044e\u0446\u0456\u0457, \u0443\u0445\u0432\u0430\u043b\u0435\u043d\u043e\u0457 \u0420\u0430\u0434\u043e\u044e \u041a\u043e\u043b\u0435\u0433\u0456\u0457 \u0430\u0434\u0432\u043e\u043a\u0430\u0442\u0456\u0432 \u0424\u043b\u043e\u0440\u0435\u043d\u0446\u0456\u0457 \u0443 \u0437\u0432\u2019\u044f\u0437\u043a\u0443 \u0437 \u0442\u0440\u0430\u0433\u0456\u0447\u043d\u0438\u043c\u0438 \u043f\u043e\u0434\u0456\u044f\u043c\u0438 \u0432\u0456\u0439\u043d\u0438 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456, \u0432\u0456\u0434 \u0441\u044c\u043e\u0433\u043e\u0434\u043d\u0456 \u0434\u043b\u044f \u0432\u0441\u0456\u0445 \u0442\u0438\u0445, \u0445\u0442\u043e \u043f\u043e\u0442\u0440\u0435\u0431\u0443\u0454 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u0457 \u044e\u0440\u0438\u0434\u0438\u0447\u043d\u043e\u0433\u043e \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0443, \u0432\u0456\u0434\u043a\u0440\u0438\u0442\u0430 \u0441\u043f\u0435\u0446\u0456\u0430\u043b\u044c\u043d\u0430 \u043f\u043e\u0448\u0442\u043e\u0432\u0430 \u0441\u043a\u0440\u0438\u043d\u044c\u043a\u0430: emergenzaucraina@ordineavvocatifirenze.eu \u0417\u0432\u0435\u0440\u043d\u0443\u0432\u0448\u0438\u0441\u044c \u0434\u043e \u043d\u0430\u0448\u043e\u0457 \u041a\u043e\u043b\u0435\u0433\u0456\u0457 \u0430\u0434\u0432\u043e\u043a\u0430\u0442\u0456\u0432 \u0437\u0430 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u043e\u044e \u0432\u0438\u0449\u0435\u0437\u0433\u0430\u0434\u0430\u043d\u043e\u0457 \u0435\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0457 \u043f\u043e\u0448\u0442\u0438, \u0431\u0443\u0434\u0435 \u043e\u0440\u0433\u0430\u043d\u0456\u0437\u043e\u0432\u0430\u043d\u043e \u0434\u0438\u0441\u0442\u0430\u043d\u0446\u0456\u0439\u043d\u0443 \u0437\u0443\u0441\u0442\u0440\u0456\u0447 \u043e\u043d\u043b\u0430\u0439\u043d, \u043f\u0456\u0434 \u0447\u0430\u0441 \u044f\u043a\u043e\u0457 \u044e\u0440\u0438\u0441\u0442-\u0435\u043a\u0441\u043f\u0435\u0440\u0442 \u0437 \u043c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0433\u043e \u043f\u0440\u0430\u0432\u0430, \u043f\u0440\u0438\u0442\u0443\u043b\u043a\u0443 \u0442\u0430 \u043f\u0440\u0430\u0432\u0438\u043b \u0437\u0430\u0445\u0438\u0441\u0442\u0443 \u0437\u043c\u043e\u0436\u0435 \u043d\u0430\u0434\u0430\u0442\u0438 \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u043d\u0456 \u0440\u043e\u0437\u2019\u044f\u0441\u043d\u0435\u043d\u043d\u044f \u0442\u0430 \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u0443 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u044e \u0434\u043b\u044f \u0437\u0430\u0445\u0438\u0441\u0442\u0443 \u043f\u0440\u0430\u0432. \u041a\u043e\u0436\u043d\u0430 \u0434\u0438\u0441\u0442\u0430\u043d\u0446\u0456\u0439\u043d\u0430 \u0440\u043e\u0437\u043c\u043e\u0432\u0430 \u0431\u0443\u0434\u0435 \u043f\u0440\u043e\u0445\u043e\u0434\u0438\u0442\u0438 \u0432 \u043f\u0440\u0438\u0441\u0443\u0442\u043d\u043e\u0441\u0442\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0430\u0447\u0430. \u0423 \u0434\u043e\u0434\u0430\u043d\u043e\u043c\u0443 \u0444\u0430\u0439\u043b\u0456 \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u0456 \u044e\u0440\u0438\u0441\u0442\u0456\u0432 \u043d\u0430 \u043f\u0438\u0442\u0430\u043d\u043d\u044f: 1. \u0412'\u0457\u0437\u0434 \u0432 \u0406\u0442\u0430\u043b\u0456\u044e 2. \u041f\u0440\u0438\u0441\u0443\u0442\u043d\u0456\u0441\u0442\u044c \u0432 \u0406\u0442\u0430\u043b\u0456\u0457 2.1 \u041f\u043e\u0434\u043e\u0432\u0436\u0435\u043d\u043d\u044f \u0432\u0456\u0437\u0438 3. \u041f\u0435\u0440\u0435\u0431\u0443\u0432\u0430\u0442\u0438 \u0432 \u0406\u0442\u0430\u043b\u0456\u0457 3.1 \u0422\u0438\u043c\u0447\u0430\u0441\u043e\u0432\u0438\u0439 \u0437\u0430\u0445\u0438\u0441\u0442 3.1.1 \u0424\u0456\u043d\u0430\u043d\u0441\u043e\u0432\u0430 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0430 3.2 \u0417\u0430\u044f\u0432\u0430 \u043f\u0440\u043e \u043d\u0430\u0434\u0430\u043d\u043d\u044f \u043f\u0440\u0438\u0442\u0443\u043b\u043a\u0443 3.3 \u041d\u0435\u043f\u043e\u0432\u043d\u043e\u043b\u0456\u0442\u043d\u0456 \u0456\u043d\u043e\u0437\u0435\u043c\u0446\u0456 \u0431\u0435\u0437 \u0441\u0443\u043f\u0440\u043e\u0432\u043e\u0434\u0443 3.4 \u041f\u043e\u044f\u0432\u0430 2020 3.5 \u0412\u0438\u0433\u0456\u0434\u043d\u0456 \u0443\u043c\u043e\u0432\u0438 \u0434\u043b\u044f \u0433\u0440\u043e\u043c\u0430\u0434\u044f\u043d \u0423\u043a\u0440\u0430\u0457\u043d\u0438"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ordine degli avvocati di Firenze"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Firenze Ordine degli avvocati attiva email per supporto legale ai rifugiati ucraini e pubblica online Faq in italiano e ucraino"",""url"":""http://www.ordineavvocatifirenze.eu/2022/03/sportello-telematico-emergenza-ucraina/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -458,105 +721,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/493,1192019705,2022-04-04 16:31:00,2022-04-04 16:16:08,"In fuga dall’Ucraina, raccolta fondi di Arci e Arcs per sostenere associazioni in Ucraina e Polonia e sostenere l’arrivo in Italia dei profughi ",41.9202489,12.5313848,Lazio,Roma,"[""Valid/Accettato"",""fundraising""]",,,"{""Posizione"":""41.9202489 12.5313848"",""bicSwift"":"""",""causal"":""Emergenza Ucraina"",""ccPostal"":"""",""description"":""IN FUGA DALL'UCRAINA, la raccolta fondi Arci e Arcs per sostenere l\u2019azione delle associazioni in Ucraina e in Polonia attive nell\u2019accoglienza di milioni di profughi o per favorire l\u2019arrivo in Italia in modo sicuro e organizzato di chi fugge, in particolare donne, bambini e disabili.\nDonazioni Iban e online al link."",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT12S0501803200000015080807"",""label"":""fundraising"",""link"":""https://www.arcsculturesolidali.org/ucraina/"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00100"",""road"":""Via dei Monti di Pietralata"",""state"":""Lazio"",""suburb"":""Pietralata""},""boundingbox"":[""41.9202489"",""41.9204935"",""12.5312367"",""12.5313848""],""class"":""highway"",""display_name"":""Via dei Monti di Pietralata, Pietralata, Roma, Roma Capitale, Lazio, 00100, Italia"",""importance"":0.72,""lat"":""41.9202489"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.5313848"",""osm_id"":255254277,""osm_type"":""way"",""place_id"":165004837,""type"":""tertiary""},""mode"":""autocomplete""},""submit"":true,""title"":""Arci e Arcs""}","<pre><yamldata>
-title: Arci e Arcs
-description: 'IN FUGA DALL''UCRAINA, la raccolta fondi Arci e Arcs per sostenere l’azione
-  delle associazioni in Ucraina e in Polonia attive nell’accoglienza di milioni di
-  profughi o per favorire l’arrivo in Italia in modo sicuro e organizzato di chi fugge,
-  in particolare donne, bambini e disabili.
-
-  Donazioni Iban e online al link.'
-heading: ''
-iban: IT12S0501803200000015080807
-bicSwift: ''
-ccPostal: ''
-causal: Emergenza Ucraina
-link: https://www.arcsculturesolidali.org/ucraina/
-email: ''
-location:
-  mode: autocomplete
-  address:
-    place_id: 165004837
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 255254277
-    boundingbox:
-    - '41.9202489'
-    - '41.9204935'
-    - '12.5312367'
-    - '12.5313848'
-    lat: '41.9202489'
-    lon: '12.5313848'
-    display_name: Via dei Monti di Pietralata, Pietralata, Roma, Roma Capitale, Lazio,
-      00100, Italia
-    class: highway
-    type: tertiary
-    importance: 0.72
-    address:
-      road: Via dei Monti di Pietralata
-      suburb: Pietralata
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      postcode: '00100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: fundraising
-submit: true
-Posizione: 41.9202489 12.5313848
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/492,1192006068,2022-04-04 16:28:57,2022-04-04 16:04:50,A Verona continua la raccolta beni promossa dall’Associazione Malve di Ucraina,,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""city"":""Verona"",""country"":""Italia"",""country_code"":""it"",""county"":""Verona"",""postcode"":""37122"",""state"":""Veneto""},""boundingbox"":[""45.2784958"",""45.5984958"",""10.8324122"",""11.1524122""],""class"":""place"",""display_name"":""Verona, Veneto, 37122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7561573888828526,""lat"":""45.4384958"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.9924122"",""osm_id"":64778101,""osm_type"":""node"",""place_id"":286299859,""type"":""city""},""mode"":""autocomplete""},""description"":""A Verona continua la raccolta beni di prima necessit\u00e0 e farmaci da banco promossa dall\u2019Associazione Malve di Ucraina. Al link tipo di beni da donare, punti di raccolta e orari."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Malve di Ucraina"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Verona continua la raccolta beni promossa dall\u2019Associazione Malve di Ucraina"",""url"":""https://www.facebook.com/675754522486226/posts/5170456303016003/?sfnsn=scwspmo""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Associazione Malve di Ucraina
-title: A Verona continua la raccolta beni promossa dall’Associazione Malve di Ucraina
-recipients: ''
-description: A Verona continua la raccolta beni di prima necessità e farmaci da banco
-  promossa dall’Associazione Malve di Ucraina. Al link tipo di beni da donare, punti
-  di raccolta e orari.
-url: https://www.facebook.com/675754522486226/posts/5170456303016003/?sfnsn=scwspmo
-address:
-  mode: autocomplete
-  address:
-    place_id: 286299859
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 64778101
-    boundingbox:
-    - '45.2784958'
-    - '45.5984958'
-    - '10.8324122'
-    - '11.1524122'
-    lat: '45.4384958'
-    lon: '10.9924122'
-    display_name: Verona, Veneto, 37122, Italia
-    class: place
-    type: city
-    importance: 0.7561573888828526
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
-    address:
-      city: Verona
-      county: Verona
-      state: Veneto
-      postcode: '37122'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/491,1192000504,2022-04-04 16:28:40,2022-04-04 16:00:20,"A Scandicci (Firenze) raccolta di beni (abiti e biancheria adulti/bambini, pannolini/assorbenti) per profughe/i ucraini ",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""Children"",""women""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""postcode"":""50018"",""road"":""Via Antonio Vivaldi"",""state"":""Toscana"",""town"":""Scandicci"",""village"":""Casellina""},""boundingbox"":[""43.7605032"",""43.7611107"",""11.1790175"",""11.1797029""],""class"":""highway"",""display_name"":""Via Antonio Vivaldi, Casellina, Scandicci, Citt\u00e0 metropolitana di Firenze, Toscana, 50018, Italia"",""importance"":0.61,""lat"":""43.7610141"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.1794673"",""osm_id"":642888612,""osm_type"":""way"",""place_id"":229691975,""type"":""residential""},""mode"":""autocomplete""},""description"":""RACCOLTA AIUTO UMANITARIO per i profughi ucraini gi\u00e0 arrivati a Firenze: \u2661 abbigliamento bambini \u2661 biancheria intima bambino \u2661 biancheria intima donna \u2661 articoli prima necessit\u00e0 (pannolini, assorbenti di ogni tipo d'esigenza)\nDA SABATO, 02.04., dalle ore 14:00 alle 16:00 Al seguente indirizzo: Via Antonio Vivaldi, Scandicci FI Croce Rossa Italiana\nPer info contattare: Oxana +393932222070"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Croce Rossa Firenze"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":true},""submit"":true,""title"":""A Scandicci (Firenze) raccolta di beni (abiti e biancheria adulti/bambini, pannolini/assorbenti) per i rifugiati ucraini presso la Croce Rossa"",""url"":""https://www.facebook.com/groups/1635739780118981/permalink/1657165804643045/?sfnsn=scwspmo&ref=share""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
@@ -679,57 +843,6 @@ address:
       county: Padova
       state: Veneto
       postcode: '36043'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/488,1191977220,2022-04-04 16:26:05,2022-04-04 15:40:11,A Livorno Comunità di Sant’Egidio organizza corsi di italiano gratuiti per bambini e adulti ucraini,,,,,"[""Valid/Accettato"",""Services"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Livorno"",""country"":""Italia"",""country_code"":""it"",""county"":""Livorno"",""postcode"":""57123"",""road"":""Via carraia"",""state"":""Toscana""},""boundingbox"":[""43.5517728"",""43.5524395"",""10.3065538"",""10.3067431""],""class"":""highway"",""display_name"":""Via carraia, Livorno, Toscana, 57123, Italia"",""importance"":0.51,""lat"":""43.552095"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.3066283"",""osm_id"":29030318,""osm_type"":""way"",""place_id"":108920969,""type"":""unclassified""},""mode"":""autocomplete""},""description"":""A Livorno Comunit\u00e0 di Sant\u2019Egidio organizza corsi di italiano gratuiti per bambini e adulti ucraini. Al link orari e contatti."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comunit\u00e0 di Sant\u2019Egidio Livorno"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Livorno Comunit\u00e0 di Sant\u2019Egidio organizza corsi di italiano gratuiti per bambini e adulti ucraini"",""url"":""https://www.facebook.com/groups/ucrainaintoscana/permalink/2023328124495696/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: true
-  disability: false
-  women: false
-  education: true
-offerFromWho: Comunità di Sant’Egidio Livorno
-title: A Livorno Comunità di Sant’Egidio organizza corsi di italiano gratuiti per
-  bambini e adulti ucraini
-recipients: ''
-description: A Livorno Comunità di Sant’Egidio organizza corsi di italiano gratuiti
-  per bambini e adulti ucraini. Al link orari e contatti.
-url: https://www.facebook.com/groups/ucrainaintoscana/permalink/2023328124495696/
-address:
-  mode: autocomplete
-  address:
-    place_id: 108920969
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 29030318
-    boundingbox:
-    - '43.5517728'
-    - '43.5524395'
-    - '10.3065538'
-    - '10.3067431'
-    lat: '43.552095'
-    lon: '10.3066283'
-    display_name: Via carraia, Livorno, Toscana, 57123, Italia
-    class: highway
-    type: unclassified
-    importance: 0.51
-    address:
-      road: Via carraia
-      city: Livorno
-      county: Livorno
-      state: Toscana
-      postcode: '57123'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
@@ -1127,62 +1240,6 @@ address:
       county: Ancona
       state: Marche
       postcode: '60015'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/485,1191884596,2022-04-04 14:49:00,2022-04-04 14:31:41,"Comune di Roma, elenco dei punti di raccolta beni e farmaci a Roma per emergenza Ucraina",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00184"",""quarter"":""Campitelli"",""road"":""Piazza del Campidoglio"",""state"":""Lazio"",""suburb"":""Municipio Roma I"",""tourism"":""Piazza del Campidoglio""},""boundingbox"":[""41.8928366"",""41.8936211"",""12.4824452"",""12.4834856""],""class"":""tourism"",""display_name"":""Piazza del Campidoglio, Campitelli, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_point_of_interest.p.20.png"",""importance"":0.6269620155557563,""lat"":""41.8932408"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.482981487083691"",""osm_id"":23055100,""osm_type"":""way"",""place_id"":106480430,""type"":""attraction""},""mode"":""autocomplete""},""description"":""Sul sito del Comune di Roma dedicato all\u2019emergenza Ucraina \u00e8 disponibile un elenco dei punti di raccolta di beni e farmaci a Roma, con info e contatti."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Roma"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Roma, elenco dei punti di raccolta beni e farmaci a Roma per emergenza Ucraina"",""url"":""https://emergenzaucraina.roma.it/punti-di-raccolta/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: false
-  transport: false
-  healthcare: true
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Comune di Roma
-title: Comune di Roma, elenco dei punti di raccolta beni e farmaci a Roma per emergenza
-  Ucraina
-recipients: ''
-description: Sul sito del Comune di Roma dedicato all’emergenza Ucraina è disponibile
-  un elenco dei punti di raccolta di beni e farmaci a Roma, con info e contatti.
-url: https://emergenzaucraina.roma.it/punti-di-raccolta/
-address:
-  mode: autocomplete
-  address:
-    place_id: 106480430
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 23055100
-    boundingbox:
-    - '41.8928366'
-    - '41.8936211'
-    - '12.4824452'
-    - '12.4834856'
-    lat: '41.8932408'
-    lon: '12.482981487083691'
-    display_name: Piazza del Campidoglio, Campitelli, Municipio Roma I, Roma, Roma
-      Capitale, Lazio, 00184, Italia
-    class: tourism
-    type: attraction
-    importance: 0.6269620155557563
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_point_of_interest.p.20.png
-    address:
-      tourism: Piazza del Campidoglio
-      road: Piazza del Campidoglio
-      quarter: Campitelli
-      suburb: Municipio Roma I
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      postcode: 00184
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
@@ -1665,63 +1722,6 @@ address:
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: useful contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/471,1190849957,2022-04-03 08:19:15,2022-04-03 07:42:57,"Nelle Marche All blacks Taekwondo ASD offre corsi gratuiti a bambini, ragazzi, adulti rifugiati ucraini",,,,,"[""Valid/Accettato"",""Services"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Ancona"",""postcode"":""60019"",""state"":""Marche"",""town"":""Senigallia""},""boundingbox"":[""43.6043136"",""43.7505106"",""13.1181262"",""13.3019948""],""class"":""boundary"",""display_name"":""Senigallia, Ancona, Marche, 60019, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7184733195486046,""lat"":""43.7149517"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.2179488"",""osm_id"":42536,""osm_type"":""relation"",""place_id"":283734079,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Corsi gratuiti di Taekwondo per ucraini temporaneamente sfollati con status di rifugiato: gruppi per ragazze e ragazzi dai 5 ai 19 anni; per donne e uomini con esperienza di arti marziali. Nelle citt\u00e0: Chiaravalle, Senigallia, Monte Porzio, Colli al Metauro.\n\u0411\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u0456 \u043a\u0443\u0440\u0441\u0438 \u0422\u0445\u0435\u043a\u0432\u043e\u043d\u0434\u043e \u0434\u043b\u044f \u0442\u0438\u043c\u0447\u0430\u0441\u043e\u0432\u043e \u043f\u0435\u0440\u0435\u043c\u0456\u0449\u0435\u043d\u0438\u0445 \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432 \u0437\u0456 \u0441\u0442\u0430\u0442\u0443\u0441\u043e\u043c \u0431\u0456\u0436\u0435\u043d\u0446\u0456\u0432: \u0433\u0440\u0443\u043f\u0438 \u0434\u043b\u044f \u0434\u0456\u0432\u0447\u0430\u0442 \u0442\u0430 \u0445\u043b\u043e\u043f\u0446\u0456\u0432 \u0432\u0456\u0434 5 \u0434\u043e 19 \u0440\u043e\u043a\u0456\u0432; \u0434\u043b\u044f \u0436\u0456\u043d\u043e\u043a \u0442\u0430 \u0447\u043e\u043b\u043e\u0432\u0456\u043a\u0456\u0432 \u0437 \u0434\u043e\u0441\u0432\u0456\u0434\u043e\u043c \u0431\u043e\u0439\u043e\u0432\u0438\u0445 \u043c\u0438\u0441\u0442\u0435\u0446\u0442\u0432. \u0412 \u043c\u0456\u0441\u0442\u0430\u0445: Chiaravalle, Senigallia, Monte Porzio, Colli al Metauro. #\u0441\u0430\u043c\u043e\u0437\u0430\u0445\u0438\u0441\u0442"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""All blacks takewondo ASD offre corsi gratuiti a rifugiati ucraini"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""All blacks takewondo ASD offre corsi gratuiti a rifugiati ucraini"",""url"":""https://www.facebook.com/549802348452872/posts/4425242170908851/?d=n""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: true
-  disability: false
-  women: false
-  education: true
-offerFromWho: All blacks takewondo ASD offre corsi gratuiti a rifugiati ucraini
-title: All blacks takewondo ASD offre corsi gratuiti a rifugiati ucraini
-recipients: ''
-description: 'Corsi gratuiti di Taekwondo per ucraini temporaneamente sfollati con
-  status di rifugiato: gruppi per ragazze e ragazzi dai 5 ai 19 anni; per donne e
-  uomini con esperienza di arti marziali. Nelle città: Chiaravalle, Senigallia, Monte
-  Porzio, Colli al Metauro.
-
-  Безкоштовні курси Тхеквондо для тимчасово переміщених українців зі статусом біженців:
-  групи для дівчат та хлопців від 5 до 19 років; для жінок та чоловіків з досвідом
-  бойових мистецтв. В містах: Chiaravalle, Senigallia, Monte Porzio, Colli al Metauro.
-  #самозахист'
-url: https://www.facebook.com/549802348452872/posts/4425242170908851/?d=n
-address:
-  mode: autocomplete
-  address:
-    place_id: 283734079
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 42536
-    boundingbox:
-    - '43.6043136'
-    - '43.7505106'
-    - '13.1181262'
-    - '13.3019948'
-    lat: '43.7149517'
-    lon: '13.2179488'
-    display_name: Senigallia, Ancona, Marche, 60019, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7184733195486046
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      town: Senigallia
-      county: Ancona
-      state: Marche
-      postcode: '60019'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/467,1190835550,2022-04-03 07:49:52,2022-04-03 06:43:10,La radio polacca RadioZET lancia canale in ucraino,,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Varsavia"",""country"":""Polonia"",""country_code"":""pl"",""state"":""wojew\u00f3dztwo mazowieckie""},""boundingbox"":[""52.0978497"",""52.3681531"",""20.8516882"",""21.2711512""],""class"":""boundary"",""display_name"":""Varsavia, wojew\u00f3dztwo mazowieckie, Polonia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.946619275776601,""lat"":""52.2319581"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""21.0067249"",""osm_id"":336075,""osm_type"":""relation"",""place_id"":284979343,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""La radio polacca RadioZET ha lanciato un canale diretto in ucraino, che pu\u00f2 essere ascoltato in modalit\u00e0 streaming o attraverso l'app #RadioZET"",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""RadioZET"",""url"":""https://player.radiozet.pl/Kanaly-muzyczne/RADIIO-ZET-UKRAYINA?fbclid=IwAR1Y2RupJM8ZvlBn8ONLA3lllA0LbniqQ2o4K5SqZib31DdrQMSlRqWqJ9M""}","<pre><yamldata>
