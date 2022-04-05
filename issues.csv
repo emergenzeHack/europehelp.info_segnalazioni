@@ -1,4 +1,338 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/486,1191952266,2022-04-05 06:41:41,2022-04-04 15:20:23,A Firenze Ordine degli avvocati attiva email per supporto legale ai rifugiati ucraini e pubblica online Faq in italiano e ucraino,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""useful contact"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""house_number"":""61"",""neighbourhood"":""Firenze Nova"",""postcode"":""50127"",""road"":""Viale Alessandro Guidoni"",""state"":""Toscana"",""suburb"":""Quartiere 5""},""boundingbox"":[""43.7955768"",""43.7956768"",""11.2272056"",""11.2273056""],""class"":""place"",""display_name"":""61, Viale Alessandro Guidoni, Firenze Nova, Quartiere 5, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50127, Italia"",""importance"":0.5309999999999999,""lat"":""43.7956268"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2272556"",""osm_id"":2361902019,""osm_type"":""node"",""place_id"":21081985,""type"":""house""},""mode"":""autocomplete""},""description"":""In ottemperanza alla delibera adottata dal Consiglio dell'Ordine degli Avvocati di Firenze in relazione ai tragici eventi della guerra in Ucraina, \u00e8 ora aperta un'apposita casella di posta per tutti coloro che necessitano di informazioni legali: emergenzaucraina@ordineavvocatifirenze.eu Contattando il nostro Ordine degli Avvocati tramite la suddetta e-mail, sar\u00e0 organizzato un incontro online a distanza, durante il quale un avvocato esperto in diritto internazionale, asilo e norme di protezione potr\u00e0 fornire le spiegazioni pertinenti e le informazioni necessarie per la tutela dei diritti. Ogni conversazione a distanza si svolger\u00e0 alla presenza di un interprete. \u00c8 inoltre disponibile online un elenco di domande e risposte (italiano/ucraino) su: 1. Ingresso in Italia 2. Presenza in Italia 2.1 Estensione del visto 3. Permanenza in Italia 3.1 Protezione temporanea 3.1.1 Assistenza finanziaria 3.2 Domanda di asilo 3.3 Minori non accompagnati 3.4 Emersione 2020 3.5 Condizioni favorevoli per i cittadini ucraini\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 \u0412\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u043d\u043e \u0434\u043e \u0440\u0435\u0437\u043e\u043b\u044e\u0446\u0456\u0457, \u0443\u0445\u0432\u0430\u043b\u0435\u043d\u043e\u0457 \u0420\u0430\u0434\u043e\u044e \u041a\u043e\u043b\u0435\u0433\u0456\u0457 \u0430\u0434\u0432\u043e\u043a\u0430\u0442\u0456\u0432 \u0424\u043b\u043e\u0440\u0435\u043d\u0446\u0456\u0457 \u0443 \u0437\u0432\u2019\u044f\u0437\u043a\u0443 \u0437 \u0442\u0440\u0430\u0433\u0456\u0447\u043d\u0438\u043c\u0438 \u043f\u043e\u0434\u0456\u044f\u043c\u0438 \u0432\u0456\u0439\u043d\u0438 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456, \u0432\u0456\u0434 \u0441\u044c\u043e\u0433\u043e\u0434\u043d\u0456 \u0434\u043b\u044f \u0432\u0441\u0456\u0445 \u0442\u0438\u0445, \u0445\u0442\u043e \u043f\u043e\u0442\u0440\u0435\u0431\u0443\u0454 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u0457 \u044e\u0440\u0438\u0434\u0438\u0447\u043d\u043e\u0433\u043e \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0443, \u0432\u0456\u0434\u043a\u0440\u0438\u0442\u0430 \u0441\u043f\u0435\u0446\u0456\u0430\u043b\u044c\u043d\u0430 \u043f\u043e\u0448\u0442\u043e\u0432\u0430 \u0441\u043a\u0440\u0438\u043d\u044c\u043a\u0430: emergenzaucraina@ordineavvocatifirenze.eu \u0417\u0432\u0435\u0440\u043d\u0443\u0432\u0448\u0438\u0441\u044c \u0434\u043e \u043d\u0430\u0448\u043e\u0457 \u041a\u043e\u043b\u0435\u0433\u0456\u0457 \u0430\u0434\u0432\u043e\u043a\u0430\u0442\u0456\u0432 \u0437\u0430 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u043e\u044e \u0432\u0438\u0449\u0435\u0437\u0433\u0430\u0434\u0430\u043d\u043e\u0457 \u0435\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0457 \u043f\u043e\u0448\u0442\u0438, \u0431\u0443\u0434\u0435 \u043e\u0440\u0433\u0430\u043d\u0456\u0437\u043e\u0432\u0430\u043d\u043e \u0434\u0438\u0441\u0442\u0430\u043d\u0446\u0456\u0439\u043d\u0443 \u0437\u0443\u0441\u0442\u0440\u0456\u0447 \u043e\u043d\u043b\u0430\u0439\u043d, \u043f\u0456\u0434 \u0447\u0430\u0441 \u044f\u043a\u043e\u0457 \u044e\u0440\u0438\u0441\u0442-\u0435\u043a\u0441\u043f\u0435\u0440\u0442 \u0437 \u043c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0433\u043e \u043f\u0440\u0430\u0432\u0430, \u043f\u0440\u0438\u0442\u0443\u043b\u043a\u0443 \u0442\u0430 \u043f\u0440\u0430\u0432\u0438\u043b \u0437\u0430\u0445\u0438\u0441\u0442\u0443 \u0437\u043c\u043e\u0436\u0435 \u043d\u0430\u0434\u0430\u0442\u0438 \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u043d\u0456 \u0440\u043e\u0437\u2019\u044f\u0441\u043d\u0435\u043d\u043d\u044f \u0442\u0430 \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u0443 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u044e \u0434\u043b\u044f \u0437\u0430\u0445\u0438\u0441\u0442\u0443 \u043f\u0440\u0430\u0432. \u041a\u043e\u0436\u043d\u0430 \u0434\u0438\u0441\u0442\u0430\u043d\u0446\u0456\u0439\u043d\u0430 \u0440\u043e\u0437\u043c\u043e\u0432\u0430 \u0431\u0443\u0434\u0435 \u043f\u0440\u043e\u0445\u043e\u0434\u0438\u0442\u0438 \u0432 \u043f\u0440\u0438\u0441\u0443\u0442\u043d\u043e\u0441\u0442\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0430\u0447\u0430. \u0423 \u0434\u043e\u0434\u0430\u043d\u043e\u043c\u0443 \u0444\u0430\u0439\u043b\u0456 \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u0456 \u044e\u0440\u0438\u0441\u0442\u0456\u0432 \u043d\u0430 \u043f\u0438\u0442\u0430\u043d\u043d\u044f: 1. \u0412'\u0457\u0437\u0434 \u0432 \u0406\u0442\u0430\u043b\u0456\u044e 2. \u041f\u0440\u0438\u0441\u0443\u0442\u043d\u0456\u0441\u0442\u044c \u0432 \u0406\u0442\u0430\u043b\u0456\u0457 2.1 \u041f\u043e\u0434\u043e\u0432\u0436\u0435\u043d\u043d\u044f \u0432\u0456\u0437\u0438 3. \u041f\u0435\u0440\u0435\u0431\u0443\u0432\u0430\u0442\u0438 \u0432 \u0406\u0442\u0430\u043b\u0456\u0457 3.1 \u0422\u0438\u043c\u0447\u0430\u0441\u043e\u0432\u0438\u0439 \u0437\u0430\u0445\u0438\u0441\u0442 3.1.1 \u0424\u0456\u043d\u0430\u043d\u0441\u043e\u0432\u0430 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0430 3.2 \u0417\u0430\u044f\u0432\u0430 \u043f\u0440\u043e \u043d\u0430\u0434\u0430\u043d\u043d\u044f \u043f\u0440\u0438\u0442\u0443\u043b\u043a\u0443 3.3 \u041d\u0435\u043f\u043e\u0432\u043d\u043e\u043b\u0456\u0442\u043d\u0456 \u0456\u043d\u043e\u0437\u0435\u043c\u0446\u0456 \u0431\u0435\u0437 \u0441\u0443\u043f\u0440\u043e\u0432\u043e\u0434\u0443 3.4 \u041f\u043e\u044f\u0432\u0430 2020 3.5 \u0412\u0438\u0433\u0456\u0434\u043d\u0456 \u0443\u043c\u043e\u0432\u0438 \u0434\u043b\u044f \u0433\u0440\u043e\u043c\u0430\u0434\u044f\u043d \u0423\u043a\u0440\u0430\u0457\u043d\u0438"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ordine degli avvocati di Firenze"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Firenze Ordine degli avvocati attiva email per supporto legale ai rifugiati ucraini e pubblica online Faq in italiano e ucraino"",""url"":""http://www.ordineavvocatifirenze.eu/2022/03/sportello-telematico-emergenza-ucraina/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Ordine degli avvocati di Firenze
+title: A Firenze Ordine degli avvocati attiva email per supporto legale ai rifugiati
+  ucraini e pubblica online Faq in italiano e ucraino
+recipients: ''
+description: 'In ottemperanza alla delibera adottata dal Consiglio dell''Ordine degli
+  Avvocati di Firenze in relazione ai tragici eventi della guerra in Ucraina, è ora
+  aperta un''apposita casella di posta per tutti coloro che necessitano di informazioni
+  legali: emergenzaucraina@ordineavvocatifirenze.eu
+  Contattando il nostro Ordine degli Avvocati tramite la suddetta e-mail, sarà organizzato
+  un incontro online a distanza, durante il quale un avvocato esperto in diritto internazionale,
+  asilo e norme di protezione potrà fornire le spiegazioni pertinenti e le informazioni
+  necessarie per la tutela dei diritti.
+Ogni conversazione a distanza si svolgerà alla presenza di un interprete.
+  È inoltre disponibile online un elenco di domande e risposte (italiano/ucraino)
+  su:
+  1. Ingresso in Italia
+  2. Presenza in Italia
+  2.1 Estensione del visto
+  3. Permanenza in Italia
+  3.1 Protezione temporanea
+  3.1.1 Assistenza finanziaria
+  3.2 Domanda di asilo
+  3.3 Minori non accompagnati
+  3.4 Emersione 2020
+  3.5 Condizioni favorevoli per i cittadini ucraini
+
+  —————————————
+  Відповідно до резолюції, ухваленої Радою Колегії адвокатів Флоренції у зв’язку з
+  трагічними подіями війни в Україні, від сьогодні для всіх тих, хто потребує інформації
+  юридичного характеру, відкрита спеціальна поштова скринька: emergenzaucraina@ordineavvocatifirenze.eu
+  Звернувшись до нашої Колегії адвокатів за допомогою вищезгаданої електронної пошти,
+  буде організовано дистанційну зустріч онлайн, під час якої юрист-експерт з міжнародного
+  права, притулку та правил захисту зможе надати відповідні роз’яснення та необхідну
+  інформацію для захисту прав.
+  Кожна дистанційна розмова буде проходити в присутності перекладача.
+  У доданому файлі відповіді юристів на питання:
+  1. В''їзд в Італію
+  2. Присутність в Італії
+  2.1 Подовження візи
+  3. Перебувати в Італії
+  3.1 Тимчасовий захист
+  3.1.1 Фінансова допомога
+  3.2 Заява про надання притулку
+  3.3 Неповнолітні іноземці без супроводу
+  3.4 Поява 2020
+  3.5 Вигідні умови для громадян України'
+url: http://www.ordineavvocatifirenze.eu/2022/03/sportello-telematico-emergenza-ucraina/
+address:
+  mode: autocomplete
+  address:
+    place_id: 21081985
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 2361902019
+    boundingbox:
+    - '43.7955768'
+    - '43.7956768'
+    - '11.2272056'
+    - '11.2273056'
+    lat: '43.7956268'
+    lon: '11.2272556'
+    display_name: 61, Viale Alessandro Guidoni, Firenze Nova, Quartiere 5, Firenze,
+      Città metropolitana di Firenze, Toscana, 50127, Italia
+    class: place
+    type: house
+    importance: 0.5309999999999999
+    address:
+      house_number: '61'
+      road: Viale Alessandro Guidoni
+      neighbourhood: Firenze Nova
+      suburb: Quartiere 5
+      city: Firenze
+      county: Città metropolitana di Firenze
+      state: Toscana
+      postcode: '50127'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/489,1191986779,2022-04-05 06:41:27,2022-04-04 15:48:30,Comune di Verona organizza corso gratuito di italiano per profughi ucraini,,,,,"[""Valid/Accettato"",""Services"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Verona"",""country"":""Italia"",""country_code"":""it"",""county"":""Verona"",""house_number"":""1"",""postcode"":""37121"",""road"":""Piazza Bra"",""state"":""Veneto"",""suburb"":""San Zeno""},""boundingbox"":[""45.4379938"",""45.4380938"",""10.9937404"",""10.9938404""],""class"":""place"",""display_name"":""1, Piazza Bra, San Zeno, Centro Storico, Verona, Veneto, 37121, Italia"",""importance"":0.5309999999999999,""lat"":""45.4380438"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.9937904"",""osm_id"":4553678631,""osm_type"":""node"",""place_id"":52055239,""type"":""house""},""mode"":""autocomplete""},""description"":""Il Comune di Verona, insieme al Centro provinciale Istruzione Adulti, offre corso di italiano gratuito per i cittadini ucraini al fine di favorire l\u2019integrazione di coloro che sono scappati dalla guerra e hanno trovato accoglienza nella nostra citt\u00e0. La raccolta delle adesioni \u00e8 gi\u00e0 aperta, una ventina i posti a disposizione. Le lezioni avranno una durata di 100 ore e si terranno da met\u00e0 aprile a met\u00e0 giugno, la mattina dalle 9 alle 12.30, in zona Stadio. Due i requisiti per l\u2019iscrizione: aver compilato la dichiarazione di presenza sul territorio del Comune di Verona e avere pi\u00f9 di 16 anni.\nLe domande possono essere inviate entro luned\u00ec 11 aprile al Servizio Promozione Lavoro del Comune, inviando una mail a lavoro@comune.verona.it, indicando nell\u2019oggetto \u2018Richiesta corso di italiano per persone ucraine\u2019. Da specificare nel testo le generalit\u00e0 della persona interessata al corso e attuale domicilio. Cos\u00ec come nome, cognome e recapiti telefonici - mail di una persona di riferimento che parli italiano.\nPer ulteriori informazioni \u00e8 possibile telefonare ai numeri 045 8078782 \u2013 045 8078770, dal luned\u00ec al venerd\u00ec, dalle 9 alle 13."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Verona"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Verona organizza corso gratuito di italiano per profughi ucraini"",""url"":""https://www.facebook.com/237140466383661/posts/4931106550320339/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Comune di Verona
+title: Comune di Verona organizza corso gratuito di italiano per profughi ucraini
+recipients: ''
+description: 'Il Comune di Verona, insieme al Centro provinciale Istruzione Adulti,
+  offre corso di italiano gratuito per i cittadini ucraini al fine di favorire l’integrazione
+  di coloro che sono scappati dalla guerra e hanno trovato accoglienza nella nostra
+  città. La raccolta delle adesioni è già aperta, una ventina i posti a disposizione.
+  Le lezioni avranno una durata di 100 ore e si terranno da metà aprile a metà giugno,
+  la mattina dalle 9 alle 12.30, in zona Stadio. Due i requisiti per l’iscrizione:
+  aver compilato la dichiarazione di presenza sul territorio del Comune di Verona
+  e avere più di 16 anni.
+
+  Le domande possono essere inviate entro lunedì 11 aprile al Servizio Promozione
+  Lavoro del Comune, inviando una mail a lavoro@comune.verona.it, indicando nell’oggetto
+  ‘Richiesta corso di italiano per persone ucraine’. Da specificare nel testo le generalità
+  della persona interessata al corso e attuale domicilio. Così come nome, cognome
+  e recapiti telefonici - mail di una persona di riferimento che parli italiano.
+
+  Per ulteriori informazioni è possibile telefonare ai numeri 045 8078782 – 045 8078770,
+  dal lunedì al venerdì, dalle 9 alle 13.'
+url: https://www.facebook.com/237140466383661/posts/4931106550320339/
+address:
+  mode: autocomplete
+  address:
+    place_id: 52055239
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 4553678631
+    boundingbox:
+    - '45.4379938'
+    - '45.4380938'
+    - '10.9937404'
+    - '10.9938404'
+    lat: '45.4380438'
+    lon: '10.9937904'
+    display_name: 1, Piazza Bra, San Zeno, Centro Storico, Verona, Veneto, 37121,
+      Italia
+    class: place
+    type: house
+    importance: 0.5309999999999999
+    address:
+      house_number: '1'
+      road: Piazza Bra
+      suburb: San Zeno
+      city: Verona
+      county: Verona
+      state: Veneto
+      postcode: '37121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/495,1192243284,2022-04-05 06:40:57,2022-04-04 19:54:28,Da ”Famiglie Accoglienti” Bologna un vademecum per chi accoglie o accoglierà profughi ucraini,44.4938203,11.3426327,Emilia-Romagna,Bologna,"[""Valid/Accettato"",""hospitality"",""document_data"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""44.4938203 11.3426327"",""description"":""Da\u201dfamiglie accoglienti\u201d Bologna un vademecum per chi accoglie o accoglier\u00e0 profughi ucraini"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://www.facebook.com/565886227166533/posts/1372082196546928/?d=n"",""location"":{""address"":{""address"":{""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.421033"",""44.556094"",""11.2296206"",""11.4336079""],""class"":""boundary"",""display_name"":""Bologna, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7905771109268431,""lat"":""44.4938203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.3426327"",""osm_id"":43172,""osm_type"":""relation"",""place_id"":283848615,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Da\u201dfamiglie accoglienti\u201d Bologna un vademecum per chi accoglie o accoglier\u00e0 profughi ucraini""}","<pre><yamldata>
+title: Da”famiglie accoglienti” Bologna un vademecum per chi accoglie o accoglierà
+  profughi ucraini
+description: Da”famiglie accoglienti” Bologna un vademecum per chi accoglie o accoglierà
+  profughi ucraini
+link: https://www.facebook.com/565886227166533/posts/1372082196546928/?d=n
+location:
+  mode: autocomplete
+  address:
+    place_id: 283848615
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43172
+    boundingbox:
+    - '44.421033'
+    - '44.556094'
+    - '11.2296206'
+    - '11.4336079'
+    lat: '44.4938203'
+    lon: '11.3426327'
+    display_name: Bologna, Emilia-Romagna, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7905771109268431
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Bologna
+      county: Bologna
+      state: Emilia-Romagna
+      country: Italia
+      country_code: it
+label: document_data
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 44.4938203 11.3426327
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/402,1185358928,2022-04-05 06:40:18,2022-03-29 20:10:27,Comune di Catania attiva indirizzo mail per raccogliere disponibilità ad ospitare profughi ucraini,,,,,"[""Valid/Accettato"",""Services"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Catania"",""country"":""Italia"",""country_code"":""it"",""county"":""Catania"",""postcode"":""95121"",""state"":""Sicilia""},""boundingbox"":[""37.3582971"",""37.562386"",""14.9358674"",""15.125794""],""class"":""boundary"",""display_name"":""Catania, Sicilia, 95121, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7221226378988357,""lat"":""37.5023612"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.0873718"",""osm_id"":39230,""osm_type"":""relation"",""place_id"":284352873,""type"":""administrative""},""mode"":""autocomplete""},""description"":""L\u2019Amministrazione Comunale, allo scopo di raccogliere le disponibilit\u00e0 di alloggi per famiglie ucraine, ha attivato la mail: emergenza.ucraina@comune.catania.it in cui dovranno essere indicati nel modo pi\u00f9 specifico possibile gli alloggi con il referente proprietario dell\u2019abitazione."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Catania"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Catania apre mail per segnalare disponibilit\u00e0 alloggi"",""url"":""https://www.comune.catania.it/informazioni/news/politiche-sociali/politiche-sociali-2022-news/default.aspx?news=83290""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Comune di Catania
+title: Comune di Catania apre mail per segnalare disponibilità alloggi
+recipients: ''
+description: 'L’Amministrazione Comunale, allo scopo di raccogliere le disponibilità
+  di alloggi per famiglie ucraine, ha attivato la mail: emergenza.ucraina@comune.catania.it
+  in cui dovranno essere indicati nel modo più specifico possibile gli alloggi con
+  il referente proprietario dell’abitazione.'
+url: https://www.comune.catania.it/informazioni/news/politiche-sociali/politiche-sociali-2022-news/default.aspx?news=83290
+address:
+  mode: autocomplete
+  address:
+    place_id: 284352873
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 39230
+    boundingbox:
+    - '37.3582971'
+    - '37.562386'
+    - '14.9358674'
+    - '15.125794'
+    lat: '37.5023612'
+    lon: '15.0873718'
+    display_name: Catania, Sicilia, 95121, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7221226378988357
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Catania
+      county: Catania
+      state: Sicilia
+      postcode: '95121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/434,1188189863,2022-04-05 06:39:24,2022-03-31 14:37:04,"Catanzaro, presso Assessorato alle Politiche sociali punto di raccolta beni di prima necessità per il popolo ucraino",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address1"":""via Fontana Vecchia, 50"",""address2"":"""",""city"":""Catanzaro"",""country"":"""",""state"":""Italia"",""zip"":""88100""},""mode"":""manual""},""description"":""Dalle ore 10 alle 12 \u00e8 attivo negli uffici dell\u2019assessorato alle Politiche sociali il punto di raccolta di beni di prima necessit\u00e0 da spedire a sostegno del popolo ucraino"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Assessorato alle Politiche Sociali"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""raccolta beni prima necessit\u00e0"",""url"":""""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Assessorato alle Politiche Sociali
+title: raccolta beni prima necessità
+recipients: ''
+description: Dalle ore 10 alle 12 è attivo negli uffici dell’assessorato alle Politiche
+  sociali il punto di raccolta di beni di prima necessità da spedire a sostegno del
+  popolo ucraino
+url: ''
+address:
+  mode: manual
+  address:
+    address1: via Fontana Vecchia, 50
+    address2: ''
+    city: Catanzaro
+    state: Italia
+    country: ''
+    zip: '88100'
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/447,1189940001,2022-04-05 06:38:49,2022-04-01 15:12:05,Iniziative dell'Università di Bologna a supporto di studenti e studiosi ucraini e non solo,,,,,"[""Valid/Accettato"",""Services"",""job"",""psychologicalSupport"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.0622266"",""44.8053346"",""10.8066008"",""11.841408""],""class"":""boundary"",""display_name"":""Bologna, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5846155635381287,""lat"":""44.433313299999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.394502576340368"",""osm_id"":42856,""osm_type"":""relation"",""place_id"":283906764,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Informazioni su dilazione per il pagamento delle tasse di marzo, borse di studio e altri benefici, iscrizione a singole attivit\u00e0 formative, visiting Fellows dall\u2019Ucraina presso l\u2019Istituto di Studi Avanzati, supporto psicologico."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Universit\u00e0 di Bologna"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":true,""materialGoods"":false,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Iniziative dell'Universit\u00e0 di Bologna"",""url"":""https://www.unibo.it/it/ateneo/chi-siamo/universita-bologna-per-la-pace""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: true
+  psychologicalSupport: true
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Università di Bologna
+title: Iniziative dell'Università di Bologna
+recipients: ''
+description: Informazioni su dilazione per il pagamento delle tasse di marzo, borse
+  di studio e altri benefici, iscrizione a singole attività formative, visiting Fellows
+  dall’Ucraina presso l’Istituto di Studi Avanzati, supporto psicologico.
+url: https://www.unibo.it/it/ateneo/chi-siamo/universita-bologna-per-la-pace
+address:
+  mode: autocomplete
+  address:
+    place_id: 283906764
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 42856
+    boundingbox:
+    - '44.0622266'
+    - '44.8053346'
+    - '10.8066008'
+    - '11.841408'
+    lat: '44.433313299999995'
+    lon: '11.394502576340368'
+    display_name: Bologna, Emilia-Romagna, Italia
+    class: boundary
+    type: administrative
+    importance: 0.5846155635381287
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Bologna
+      state: Emilia-Romagna
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/496,1192263341,2022-04-05 06:32:58,2022-04-04 20:12:54,"Babbel, azienda per l’apprendimento delle lingue, offre iniziative a favore dei rifugiati ucraini",,,,,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""borough"":""Friedrichshain-Kreuzberg"",""city"":""Berlino"",""country"":""Germania"",""country_code"":""de"",""postcode"":""10243"",""road"":""Andreasstra\u00dfe"",""state"":""Berlino"",""suburb"":""Friedrichshain""},""boundingbox"":[""52.5118411"",""52.5155561"",""13.4307811"",""13.4321213""],""class"":""highway"",""display_name"":""Andreasstra\u00dfe, Friedrichshain, Friedrichshain-Kreuzberg, Berlino, 10243, Germania"",""importance"":0.37690363151506784,""lat"":""52.5138124"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.4314883"",""osm_id"":273390876,""osm_type"":""way"",""place_id"":169939825,""type"":""tertiary""},""mode"":""autocomplete""},""description"":""Babbel, azienda per l\u2019apprendimento delle lingue che offre lezioni live e su app, sa quanto sia importante l'apprendimento delle lingue per i rifugiati e per questo offre codici di accesso gratuiti ai rifugiati ucraini. Tutte le iniziative di Babbel per i rifugiati dall'Ucraina si possono trovare qui \ud83d\udc49 https://uk.babbel.com/babbeldliaukrainy\n\u0428\u0432\u0438\u0434\u043a\u0430 \u0434\u043e\u0432\u0456\u0434\u043a\u0430: Babbel \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u0443\u0454 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0431\u0456\u0436\u0435\u043d\u0446\u0456\u0432 \u043c\u043e\u0432\u043d\u0438\u043c\u0438 \u043a\u0443\u0440\u0441\u0430\u043c\u0438 Babbel \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u043e \u043d\u0430\u0434\u0430\u0454 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u043c \u0431\u0456\u0436\u0435\u043d\u0446\u044f\u043c \u0434\u043e\u0441\u0442\u0443\u043f \u0434\u043e \u0456\u0441\u043d\u0443\u044e\u0447\u043e\u0433\u043e \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u0443 Babbel \u041d\u0435\u0437\u0430\u0431\u0430\u0440\u043e\u043c \u043c\u0438 \u043d\u0430\u0434\u0430\u043c\u043e \u0434\u043e\u0441\u0442\u0443\u043f \u0434\u043e \u043a\u0443\u0440\u0441\u0456\u0432 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u044e \u043c\u043e\u0432\u043e\u044e \u0434\u043b\u044f \u0432\u0438\u0432\u0447\u0435\u043d\u043d\u044f \u043d\u0456\u043c\u0435\u0446\u044c\u043a\u043e\u0457, \u043f\u043e\u043b\u044c\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0430\u043d\u0433\u043b\u0456\u0439\u0441\u044c\u043a\u043e\u0457 \u043c\u043e\u0432\u0438 Babbel \u0437\u043d\u0430\u0454, \u043d\u0430\u0441\u043a\u0456\u043b\u044c\u043a\u0438 \u0432\u0430\u0436\u043b\u0438\u0432\u043e \u0432\u0438\u0432\u0447\u0435\u043d\u043d\u044f \u043c\u043e\u0432\u0438 \u0434\u043b\u044f \u0432\u0438\u043c\u0443\u0448\u0435\u043d\u0438\u0445 \u043f\u0435\u0440\u0435\u0441\u0435\u043b\u0435\u043d\u0446\u0456\u0432 \u0456 \u0442\u043e\u043c\u0443 \u043f\u0440\u043e\u043f\u043e\u043d\u0443\u0454 \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u0456 \u043a\u043e\u0434\u0438 \u0434\u043e\u0441\u0442\u0443\u043f\u0443 \u0432\u0441\u0456\u043c \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u043c \u0431\u0456\u0436\u0435\u043d\u0446\u044f\u043c. \u0411\u0456\u0436\u0435\u043d\u0446\u0456, \u044f\u043a\u0456 \u0432\u0436\u0435 \u0432\u043e\u043b\u043e\u0434\u0456\u044e\u0442\u044c \u043e\u0434\u043d\u0456\u0454\u044e \u0437 \u043c\u043e\u0432 Babbel (\u043d\u0430\u043f\u0440\u0438\u043a\u043b\u0430\u0434, \u0430\u043d\u0433\u043b\u0456\u0439\u0441\u044c\u043a\u043e\u044e), \u043c\u043e\u0436\u0443\u0442\u044c \u0440\u043e\u0437\u043f\u043e\u0447\u0430\u0442\u0438 \u0432\u0438\u0432\u0447\u0435\u043d\u043d\u044f \u043f\u043e\u0442\u0440\u0456\u0431\u043d\u043e\u0457 \u043c\u043e\u0432\u0438 \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u043e. \u041a\u0440\u0456\u043c \u0442\u043e\u0433\u043e, \u043d\u0430\u0440\u0430\u0437\u0456 Babbel \u0440\u043e\u0437\u0440\u043e\u0431\u043b\u044f\u0454 \u043a\u0443\u0440\u0441\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u044e \u043c\u043e\u0432\u043e\u044e \u0437 \u0430\u043a\u0446\u0435\u043d\u0442\u043e\u043c \u043d\u0430 \u0434\u043e\u043f\u043e\u043c\u043e\u0437\u0456 \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u044f\u043c \u0443 \u0432\u0438\u0432\u0447\u0435\u043d\u043d\u0456 \u043d\u0456\u043c\u0435\u0446\u044c\u043a\u043e\u0457, \u043f\u043e\u043b\u044c\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0430\u043d\u0433\u043b\u0456\u0439\u0441\u044c\u043a\u043e\u0457 \u043c\u043e\u0432. \u041f\u0456\u0441\u043b\u044f \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044f \u0440\u043e\u0437\u0440\u043e\u0431\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0431\u0456\u0436\u0435\u043d\u0446\u0456 \u043c\u043e\u0436\u0443\u0442\u044c \u043a\u043e\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0442\u0438\u0441\u044f \u043c\u043e\u0432\u043d\u0438\u043c\u0438 \u043a\u0443\u0440\u0441\u0430\u043c\u0438 \u0440\u0456\u0434\u043d\u043e\u044e \u043c\u043e\u0432\u043e\u044e, \u0449\u043e \u043f\u043e\u043b\u0435\u0433\u0448\u0438\u0442\u044c \u043f\u0435\u0440\u0435\u0457\u0437\u0434 \u0434\u043e \u041d\u0456\u043c\u0435\u0447\u0447\u0438\u043d\u0438, \u041f\u043e\u043b\u044c\u0449\u0456 \u0442\u0430 \u0456\u043d\u0448\u0438\u0445 \u043a\u0440\u0430\u0457\u043d, \u0449\u043e \u043f\u0440\u0438\u0439\u043c\u0430\u044e\u0442\u044c \u0431\u0456\u0436\u0435\u043d\u0446\u0456\u0432. \u041e\u043a\u0440\u0456\u043c \u043c\u043e\u0432\u043d\u0438\u0445 \u043a\u0443\u0440\u0441\u0456\u0432, \u043a\u043e\u043c\u0430\u043d\u0434\u0430 Babbel \u0440\u043e\u0437\u0440\u043e\u0431\u043b\u044f\u0454 \u0440\u0456\u0437\u043d\u0456 \u0456\u043d\u0448\u0456 \u0440\u0435\u0441\u0443\u0440\u0441\u0438, \u0432\u0456\u0434 \u0441\u0442\u0430\u0442\u0435\u0439 \u043f\u0440\u043e \u043f\u0440\u0438\u0431\u0443\u0442\u0442\u044f \u0434\u043e \u041d\u0456\u043c\u0435\u0447\u0447\u0438\u043d\u0438 \u0442\u0430 \u041f\u043e\u043b\u044c\u0449\u0456 \u0434\u043e \u0433\u043b\u043e\u0441\u0430\u0440\u0456\u044e \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u043c\u043e\u0432\u043e\u044e \u0434\u043b\u044f \u043e\u0441\u0456\u0431 \u0443 \u043a\u0440\u0430\u0457\u043d\u0430\u0445, \u0449\u043e \u043f\u0440\u0438\u0439\u043c\u0430\u044e\u0442\u044c \u0431\u0456\u0436\u0435\u043d\u0446\u0456\u0432. \u0417 \u0443\u0441\u0456\u043c\u0430 \u0456\u043d\u0456\u0446\u0456\u0430\u0442\u0438\u0432\u0430\u043c\u0438 Babbel \u0434\u043b\u044f \u0431\u0456\u0436\u0435\u043d\u0446\u0456\u0432 \u0437 \u0423\u043a\u0440\u0430\u0457\u043d\u0438 \u043c\u043e\u0436\u043d\u0430 \u043e\u0437\u043d\u0430\u0439\u043e\u043c\u0438\u0442\u0438\u0441\u044f \u0437\u0430 \u0446\u0438\u043c \u043f\u043e\u0441\u0438\u043b\u0430\u043d\u043d\u044f\u043c: \ud83d\udc49 https://uk.babbel.com/babbeldliaukrainy"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Babbel"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Babbel azienda per l\u2019apprendimento, offre iniziative a favore dei rifugiati ucraini"",""url"":""https://uk.babbel.com/babbeldliaukrainy?fbclid=IwAR3rieNkGi-xovUxsE5SugouP4kHfzBJMSnhObaaf0gEF1Aa0oaDzF78pis""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -70,42 +404,6 @@ address:
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/495,1192243284,2022-04-04 19:55:53,2022-04-04 19:54:28,Da ”Famiglie Accoglienti” Bologna un vademecum per chi accoglie o accoglierà profughi ucraini,44.4938203,11.3426327,Emilia-Romagna,Bologna,"[""Valid/Accettato"",""hospitality"",""document_data""]",,,"{""Posizione"":""44.4938203 11.3426327"",""description"":""Da\u201dfamiglie accoglienti\u201d Bologna un vademecum per chi accoglie o accoglier\u00e0 profughi ucraini"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://www.facebook.com/565886227166533/posts/1372082196546928/?d=n"",""location"":{""address"":{""address"":{""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.421033"",""44.556094"",""11.2296206"",""11.4336079""],""class"":""boundary"",""display_name"":""Bologna, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7905771109268431,""lat"":""44.4938203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.3426327"",""osm_id"":43172,""osm_type"":""relation"",""place_id"":283848615,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Da\u201dfamiglie accoglienti\u201d Bologna un vademecum per chi accoglie o accoglier\u00e0 profughi ucraini""}","<pre><yamldata>
-title: Da”famiglie accoglienti” Bologna un vademecum per chi accoglie o accoglierà
-  profughi ucraini
-description: Da”famiglie accoglienti” Bologna un vademecum per chi accoglie o accoglierà
-  profughi ucraini
-link: https://www.facebook.com/565886227166533/posts/1372082196546928/?d=n
-location:
-  mode: autocomplete
-  address:
-    place_id: 283848615
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 43172
-    boundingbox:
-    - '44.421033'
-    - '44.556094'
-    - '11.2296206'
-    - '11.4336079'
-    lat: '44.4938203'
-    lon: '11.3426327'
-    display_name: Bologna, Emilia-Romagna, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7905771109268431
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Bologna
-      county: Bologna
-      state: Emilia-Romagna
-      country: Italia
-      country_code: it
-label: document_data
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 44.4938203 11.3426327
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/494,1192030496,2022-04-04 16:31:22,2022-04-04 16:24:48,Sul sito di Arci i punti di raccolta beni per emergenza Ucraina presso le varie sedi Arci in Italia,,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00100"",""road"":""Via dei Monti di Pietralata"",""state"":""Lazio"",""suburb"":""Pietralata""},""boundingbox"":[""41.9202489"",""41.9204935"",""12.5312367"",""12.5313848""],""class"":""highway"",""display_name"":""Via dei Monti di Pietralata, Pietralata, Roma, Roma Capitale, Lazio, 00100, Italia"",""importance"":0.72,""lat"":""41.9202489"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.5313848"",""osm_id"":255254277,""osm_type"":""way"",""place_id"":165004837,""type"":""tertiary""},""mode"":""autocomplete""},""description"":""Sul sito di Arci i punti di raccolta beni e le iniziative per l\u2019emergenza in Ucraina promosse dalle varie sedi Arci in Italia."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Arci Nazionale"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Sul sito di Arci i punti di raccolta beni per emergenza Ucraina presso le varie sedi Arci in Italia"",""url"":""https://www.arci.it/solidarieta-ucraina/""}","<pre><yamldata>
 servicetypes:
@@ -387,74 +685,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/489,1191986779,2022-04-04 16:26:18,2022-04-04 15:48:30,Comune di Verona organizza corso gratuito di italiano per profughi ucraini,,,,,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Verona"",""country"":""Italia"",""country_code"":""it"",""county"":""Verona"",""house_number"":""1"",""postcode"":""37121"",""road"":""Piazza Bra"",""state"":""Veneto"",""suburb"":""San Zeno""},""boundingbox"":[""45.4379938"",""45.4380938"",""10.9937404"",""10.9938404""],""class"":""place"",""display_name"":""1, Piazza Bra, San Zeno, Centro Storico, Verona, Veneto, 37121, Italia"",""importance"":0.5309999999999999,""lat"":""45.4380438"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.9937904"",""osm_id"":4553678631,""osm_type"":""node"",""place_id"":52055239,""type"":""house""},""mode"":""autocomplete""},""description"":""Il Comune di Verona, insieme al Centro provinciale Istruzione Adulti, offre corso di italiano gratuito per i cittadini ucraini al fine di favorire l\u2019integrazione di coloro che sono scappati dalla guerra e hanno trovato accoglienza nella nostra citt\u00e0. La raccolta delle adesioni \u00e8 gi\u00e0 aperta, una ventina i posti a disposizione. Le lezioni avranno una durata di 100 ore e si terranno da met\u00e0 aprile a met\u00e0 giugno, la mattina dalle 9 alle 12.30, in zona Stadio. Due i requisiti per l\u2019iscrizione: aver compilato la dichiarazione di presenza sul territorio del Comune di Verona e avere pi\u00f9 di 16 anni.\nLe domande possono essere inviate entro luned\u00ec 11 aprile al Servizio Promozione Lavoro del Comune, inviando una mail a lavoro@comune.verona.it, indicando nell\u2019oggetto \u2018Richiesta corso di italiano per persone ucraine\u2019. Da specificare nel testo le generalit\u00e0 della persona interessata al corso e attuale domicilio. Cos\u00ec come nome, cognome e recapiti telefonici - mail di una persona di riferimento che parli italiano.\nPer ulteriori informazioni \u00e8 possibile telefonare ai numeri 045 8078782 \u2013 045 8078770, dal luned\u00ec al venerd\u00ec, dalle 9 alle 13."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Verona"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Verona organizza corso gratuito di italiano per profughi ucraini"",""url"":""https://www.facebook.com/237140466383661/posts/4931106550320339/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: true
-offerFromWho: Comune di Verona
-title: Comune di Verona organizza corso gratuito di italiano per profughi ucraini
-recipients: ''
-description: 'Il Comune di Verona, insieme al Centro provinciale Istruzione Adulti,
-  offre corso di italiano gratuito per i cittadini ucraini al fine di favorire l’integrazione
-  di coloro che sono scappati dalla guerra e hanno trovato accoglienza nella nostra
-  città. La raccolta delle adesioni è già aperta, una ventina i posti a disposizione.
-  Le lezioni avranno una durata di 100 ore e si terranno da metà aprile a metà giugno,
-  la mattina dalle 9 alle 12.30, in zona Stadio. Due i requisiti per l’iscrizione:
-  aver compilato la dichiarazione di presenza sul territorio del Comune di Verona
-  e avere più di 16 anni.
-
-  Le domande possono essere inviate entro lunedì 11 aprile al Servizio Promozione
-  Lavoro del Comune, inviando una mail a lavoro@comune.verona.it, indicando nell’oggetto
-  ‘Richiesta corso di italiano per persone ucraine’. Da specificare nel testo le generalità
-  della persona interessata al corso e attuale domicilio. Così come nome, cognome
-  e recapiti telefonici - mail di una persona di riferimento che parli italiano.
-
-  Per ulteriori informazioni è possibile telefonare ai numeri 045 8078782 – 045 8078770,
-  dal lunedì al venerdì, dalle 9 alle 13.'
-url: https://www.facebook.com/237140466383661/posts/4931106550320339/
-address:
-  mode: autocomplete
-  address:
-    place_id: 52055239
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 4553678631
-    boundingbox:
-    - '45.4379938'
-    - '45.4380938'
-    - '10.9937404'
-    - '10.9938404'
-    lat: '45.4380438'
-    lon: '10.9937904'
-    display_name: 1, Piazza Bra, San Zeno, Centro Storico, Verona, Veneto, 37121,
-      Italia
-    class: place
-    type: house
-    importance: 0.5309999999999999
-    address:
-      house_number: '1'
-      road: Piazza Bra
-      suburb: San Zeno
-      city: Verona
-      county: Verona
-      state: Veneto
-      postcode: '37121'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/488,1191977220,2022-04-04 16:26:05,2022-04-04 15:40:11,A Livorno Comunità di Sant’Egidio organizza corsi di italiano gratuiti per bambini e adulti ucraini,,,,,"[""Valid/Accettato"",""Services"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Livorno"",""country"":""Italia"",""country_code"":""it"",""county"":""Livorno"",""postcode"":""57123"",""road"":""Via carraia"",""state"":""Toscana""},""boundingbox"":[""43.5517728"",""43.5524395"",""10.3065538"",""10.3067431""],""class"":""highway"",""display_name"":""Via carraia, Livorno, Toscana, 57123, Italia"",""importance"":0.51,""lat"":""43.552095"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.3066283"",""osm_id"":29030318,""osm_type"":""way"",""place_id"":108920969,""type"":""unclassified""},""mode"":""autocomplete""},""description"":""A Livorno Comunit\u00e0 di Sant\u2019Egidio organizza corsi di italiano gratuiti per bambini e adulti ucraini. Al link orari e contatti."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comunit\u00e0 di Sant\u2019Egidio Livorno"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Livorno Comunit\u00e0 di Sant\u2019Egidio organizza corsi di italiano gratuiti per bambini e adulti ucraini"",""url"":""https://www.facebook.com/groups/ucrainaintoscana/permalink/2023328124495696/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -555,101 +785,6 @@ address:
       city: Roma
       county: Roma Capitale
       state: Lazio
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/486,1191952266,2022-04-04 15:23:15,2022-04-04 15:20:23,A Firenze Ordine degli avvocati attiva email per supporto legale ai rifugiati ucraini e pubblica online Faq in italiano e ucraino,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""house_number"":""61"",""neighbourhood"":""Firenze Nova"",""postcode"":""50127"",""road"":""Viale Alessandro Guidoni"",""state"":""Toscana"",""suburb"":""Quartiere 5""},""boundingbox"":[""43.7955768"",""43.7956768"",""11.2272056"",""11.2273056""],""class"":""place"",""display_name"":""61, Viale Alessandro Guidoni, Firenze Nova, Quartiere 5, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50127, Italia"",""importance"":0.5309999999999999,""lat"":""43.7956268"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2272556"",""osm_id"":2361902019,""osm_type"":""node"",""place_id"":21081985,""type"":""house""},""mode"":""autocomplete""},""description"":""In ottemperanza alla delibera adottata dal Consiglio dell'Ordine degli Avvocati di Firenze in relazione ai tragici eventi della guerra in Ucraina, \u00e8 ora aperta un'apposita casella di posta per tutti coloro che necessitano di informazioni legali: emergenzaucraina@ordineavvocatifirenze.eu Contattando il nostro Ordine degli Avvocati tramite la suddetta e-mail, sar\u00e0 organizzato un incontro online a distanza, durante il quale un avvocato esperto in diritto internazionale, asilo e norme di protezione potr\u00e0 fornire le spiegazioni pertinenti e le informazioni necessarie per la tutela dei diritti. Ogni conversazione a distanza si svolger\u00e0 alla presenza di un interprete. \u00c8 inoltre disponibile online un elenco di domande e risposte (italiano/ucraino) su: 1. Ingresso in Italia 2. Presenza in Italia 2.1 Estensione del visto 3. Permanenza in Italia 3.1 Protezione temporanea 3.1.1 Assistenza finanziaria 3.2 Domanda di asilo 3.3 Minori non accompagnati 3.4 Emersione 2020 3.5 Condizioni favorevoli per i cittadini ucraini\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 \u0412\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u043d\u043e \u0434\u043e \u0440\u0435\u0437\u043e\u043b\u044e\u0446\u0456\u0457, \u0443\u0445\u0432\u0430\u043b\u0435\u043d\u043e\u0457 \u0420\u0430\u0434\u043e\u044e \u041a\u043e\u043b\u0435\u0433\u0456\u0457 \u0430\u0434\u0432\u043e\u043a\u0430\u0442\u0456\u0432 \u0424\u043b\u043e\u0440\u0435\u043d\u0446\u0456\u0457 \u0443 \u0437\u0432\u2019\u044f\u0437\u043a\u0443 \u0437 \u0442\u0440\u0430\u0433\u0456\u0447\u043d\u0438\u043c\u0438 \u043f\u043e\u0434\u0456\u044f\u043c\u0438 \u0432\u0456\u0439\u043d\u0438 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456, \u0432\u0456\u0434 \u0441\u044c\u043e\u0433\u043e\u0434\u043d\u0456 \u0434\u043b\u044f \u0432\u0441\u0456\u0445 \u0442\u0438\u0445, \u0445\u0442\u043e \u043f\u043e\u0442\u0440\u0435\u0431\u0443\u0454 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u0457 \u044e\u0440\u0438\u0434\u0438\u0447\u043d\u043e\u0433\u043e \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0443, \u0432\u0456\u0434\u043a\u0440\u0438\u0442\u0430 \u0441\u043f\u0435\u0446\u0456\u0430\u043b\u044c\u043d\u0430 \u043f\u043e\u0448\u0442\u043e\u0432\u0430 \u0441\u043a\u0440\u0438\u043d\u044c\u043a\u0430: emergenzaucraina@ordineavvocatifirenze.eu \u0417\u0432\u0435\u0440\u043d\u0443\u0432\u0448\u0438\u0441\u044c \u0434\u043e \u043d\u0430\u0448\u043e\u0457 \u041a\u043e\u043b\u0435\u0433\u0456\u0457 \u0430\u0434\u0432\u043e\u043a\u0430\u0442\u0456\u0432 \u0437\u0430 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u043e\u044e \u0432\u0438\u0449\u0435\u0437\u0433\u0430\u0434\u0430\u043d\u043e\u0457 \u0435\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0457 \u043f\u043e\u0448\u0442\u0438, \u0431\u0443\u0434\u0435 \u043e\u0440\u0433\u0430\u043d\u0456\u0437\u043e\u0432\u0430\u043d\u043e \u0434\u0438\u0441\u0442\u0430\u043d\u0446\u0456\u0439\u043d\u0443 \u0437\u0443\u0441\u0442\u0440\u0456\u0447 \u043e\u043d\u043b\u0430\u0439\u043d, \u043f\u0456\u0434 \u0447\u0430\u0441 \u044f\u043a\u043e\u0457 \u044e\u0440\u0438\u0441\u0442-\u0435\u043a\u0441\u043f\u0435\u0440\u0442 \u0437 \u043c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0433\u043e \u043f\u0440\u0430\u0432\u0430, \u043f\u0440\u0438\u0442\u0443\u043b\u043a\u0443 \u0442\u0430 \u043f\u0440\u0430\u0432\u0438\u043b \u0437\u0430\u0445\u0438\u0441\u0442\u0443 \u0437\u043c\u043e\u0436\u0435 \u043d\u0430\u0434\u0430\u0442\u0438 \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u043d\u0456 \u0440\u043e\u0437\u2019\u044f\u0441\u043d\u0435\u043d\u043d\u044f \u0442\u0430 \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u0443 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u044e \u0434\u043b\u044f \u0437\u0430\u0445\u0438\u0441\u0442\u0443 \u043f\u0440\u0430\u0432. \u041a\u043e\u0436\u043d\u0430 \u0434\u0438\u0441\u0442\u0430\u043d\u0446\u0456\u0439\u043d\u0430 \u0440\u043e\u0437\u043c\u043e\u0432\u0430 \u0431\u0443\u0434\u0435 \u043f\u0440\u043e\u0445\u043e\u0434\u0438\u0442\u0438 \u0432 \u043f\u0440\u0438\u0441\u0443\u0442\u043d\u043e\u0441\u0442\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0430\u0447\u0430. \u0423 \u0434\u043e\u0434\u0430\u043d\u043e\u043c\u0443 \u0444\u0430\u0439\u043b\u0456 \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u0456 \u044e\u0440\u0438\u0441\u0442\u0456\u0432 \u043d\u0430 \u043f\u0438\u0442\u0430\u043d\u043d\u044f: 1. \u0412'\u0457\u0437\u0434 \u0432 \u0406\u0442\u0430\u043b\u0456\u044e 2. \u041f\u0440\u0438\u0441\u0443\u0442\u043d\u0456\u0441\u0442\u044c \u0432 \u0406\u0442\u0430\u043b\u0456\u0457 2.1 \u041f\u043e\u0434\u043e\u0432\u0436\u0435\u043d\u043d\u044f \u0432\u0456\u0437\u0438 3. \u041f\u0435\u0440\u0435\u0431\u0443\u0432\u0430\u0442\u0438 \u0432 \u0406\u0442\u0430\u043b\u0456\u0457 3.1 \u0422\u0438\u043c\u0447\u0430\u0441\u043e\u0432\u0438\u0439 \u0437\u0430\u0445\u0438\u0441\u0442 3.1.1 \u0424\u0456\u043d\u0430\u043d\u0441\u043e\u0432\u0430 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0430 3.2 \u0417\u0430\u044f\u0432\u0430 \u043f\u0440\u043e \u043d\u0430\u0434\u0430\u043d\u043d\u044f \u043f\u0440\u0438\u0442\u0443\u043b\u043a\u0443 3.3 \u041d\u0435\u043f\u043e\u0432\u043d\u043e\u043b\u0456\u0442\u043d\u0456 \u0456\u043d\u043e\u0437\u0435\u043c\u0446\u0456 \u0431\u0435\u0437 \u0441\u0443\u043f\u0440\u043e\u0432\u043e\u0434\u0443 3.4 \u041f\u043e\u044f\u0432\u0430 2020 3.5 \u0412\u0438\u0433\u0456\u0434\u043d\u0456 \u0443\u043c\u043e\u0432\u0438 \u0434\u043b\u044f \u0433\u0440\u043e\u043c\u0430\u0434\u044f\u043d \u0423\u043a\u0440\u0430\u0457\u043d\u0438"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ordine degli avvocati di Firenze"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Firenze Ordine degli avvocati attiva email per supporto legale ai rifugiati ucraini e pubblica online Faq in italiano e ucraino"",""url"":""http://www.ordineavvocatifirenze.eu/2022/03/sportello-telematico-emergenza-ucraina/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: true
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Ordine degli avvocati di Firenze
-title: A Firenze Ordine degli avvocati attiva email per supporto legale ai rifugiati
-  ucraini e pubblica online Faq in italiano e ucraino
-recipients: ''
-description: 'In ottemperanza alla delibera adottata dal Consiglio dell''Ordine degli
-  Avvocati di Firenze in relazione ai tragici eventi della guerra in Ucraina, è ora
-  aperta un''apposita casella di posta per tutti coloro che necessitano di informazioni
-  legali: emergenzaucraina@ordineavvocatifirenze.eu
-  Contattando il nostro Ordine degli Avvocati tramite la suddetta e-mail, sarà organizzato
-  un incontro online a distanza, durante il quale un avvocato esperto in diritto internazionale,
-  asilo e norme di protezione potrà fornire le spiegazioni pertinenti e le informazioni
-  necessarie per la tutela dei diritti.
-Ogni conversazione a distanza si svolgerà alla presenza di un interprete.
-  È inoltre disponibile online un elenco di domande e risposte (italiano/ucraino)
-  su:
-  1. Ingresso in Italia
-  2. Presenza in Italia
-  2.1 Estensione del visto
-  3. Permanenza in Italia
-  3.1 Protezione temporanea
-  3.1.1 Assistenza finanziaria
-  3.2 Domanda di asilo
-  3.3 Minori non accompagnati
-  3.4 Emersione 2020
-  3.5 Condizioni favorevoli per i cittadini ucraini
-
-  —————————————
-  Відповідно до резолюції, ухваленої Радою Колегії адвокатів Флоренції у зв’язку з
-  трагічними подіями війни в Україні, від сьогодні для всіх тих, хто потребує інформації
-  юридичного характеру, відкрита спеціальна поштова скринька: emergenzaucraina@ordineavvocatifirenze.eu
-  Звернувшись до нашої Колегії адвокатів за допомогою вищезгаданої електронної пошти,
-  буде організовано дистанційну зустріч онлайн, під час якої юрист-експерт з міжнародного
-  права, притулку та правил захисту зможе надати відповідні роз’яснення та необхідну
-  інформацію для захисту прав.
-  Кожна дистанційна розмова буде проходити в присутності перекладача.
-  У доданому файлі відповіді юристів на питання:
-  1. В''їзд в Італію
-  2. Присутність в Італії
-  2.1 Подовження візи
-  3. Перебувати в Італії
-  3.1 Тимчасовий захист
-  3.1.1 Фінансова допомога
-  3.2 Заява про надання притулку
-  3.3 Неповнолітні іноземці без супроводу
-  3.4 Поява 2020
-  3.5 Вигідні умови для громадян України'
-url: http://www.ordineavvocatifirenze.eu/2022/03/sportello-telematico-emergenza-ucraina/
-address:
-  mode: autocomplete
-  address:
-    place_id: 21081985
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 2361902019
-    boundingbox:
-    - '43.7955768'
-    - '43.7956768'
-    - '11.2272056'
-    - '11.2273056'
-    lat: '43.7956268'
-    lon: '11.2272556'
-    display_name: 61, Viale Alessandro Guidoni, Firenze Nova, Quartiere 5, Firenze,
-      Città metropolitana di Firenze, Toscana, 50127, Italia
-    class: place
-    type: house
-    importance: 0.5309999999999999
-    address:
-      house_number: '61'
-      road: Viale Alessandro Guidoni
-      neighbourhood: Firenze Nova
-      suburb: Quartiere 5
-      city: Firenze
-      county: Città metropolitana di Firenze
-      state: Toscana
-      postcode: '50127'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
@@ -2201,55 +2336,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/447,1189940001,2022-04-01 22:15:35,2022-04-01 15:12:05,Iniziative dell'Università di Bologna a supporto di studenti e studiosi ucraini e non solo,,,,,"[""Valid/Accettato"",""Services"",""job"",""psychologicalSupport"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.0622266"",""44.8053346"",""10.8066008"",""11.841408""],""class"":""boundary"",""display_name"":""Bologna, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5846155635381287,""lat"":""44.433313299999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.394502576340368"",""osm_id"":42856,""osm_type"":""relation"",""place_id"":283906764,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Informazioni su dilazione per il pagamento delle tasse di marzo, borse di studio e altri benefici, iscrizione a singole attivit\u00e0 formative, visiting Fellows dall\u2019Ucraina presso l\u2019Istituto di Studi Avanzati, supporto psicologico."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Universit\u00e0 di Bologna"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":true,""materialGoods"":false,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Iniziative dell'Universit\u00e0 di Bologna"",""url"":""https://www.unibo.it/it/ateneo/chi-siamo/universita-bologna-per-la-pace""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: true
-  psychologicalSupport: true
-  Children: false
-  disability: false
-  women: false
-  education: true
-offerFromWho: Università di Bologna
-title: Iniziative dell'Università di Bologna
-recipients: ''
-description: Informazioni su dilazione per il pagamento delle tasse di marzo, borse
-  di studio e altri benefici, iscrizione a singole attività formative, visiting Fellows
-  dall’Ucraina presso l’Istituto di Studi Avanzati, supporto psicologico.
-url: https://www.unibo.it/it/ateneo/chi-siamo/universita-bologna-per-la-pace
-address:
-  mode: autocomplete
-  address:
-    place_id: 283906764
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 42856
-    boundingbox:
-    - '44.0622266'
-    - '44.8053346'
-    - '10.8066008'
-    - '11.841408'
-    lat: '44.433313299999995'
-    lon: '11.394502576340368'
-    display_name: Bologna, Emilia-Romagna, Italia
-    class: boundary
-    type: administrative
-    importance: 0.5846155635381287
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      county: Bologna
-      state: Emilia-Romagna
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/452,1190293596,2022-04-01 21:39:59,2022-04-01 21:36:12,"A Palermo il Comitato Salva Ucraini offre ai rifugiati ucraini beni di prima necessità, assistenza medica e legale",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""hospitality"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""postcode"":""90141"",""road"":""Via Marchese Ugo"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1299555"",""38.1336658"",""13.3496116"",""13.3514253""],""class"":""highway"",""display_name"":""Via Marchese Ugo, VIII Circoscrizione, Palermo, Sicilia, 90141, Italia"",""importance"":0.72,""lat"":""38.1315691"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3504181"",""osm_id"":86265407,""osm_type"":""way"",""place_id"":119906789,""type"":""residential""},""mode"":""autocomplete""},""description"":""Il Comitato di volontari Salva Ucraini a Palermo offre ai rifugiati ucraini beni di prima necessit\u00e0 (cibo, vestiti, medicine) e assistenza medico e legale. Per maggiori informazioni: - Gruppo Facebook \u201cComitato Salva Ucraini Palermo\u201d - Canale Telegram https://t.me/ucraini_a_palermo\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014- \u041a\u043e\u043c\u0438\u0442\u0435\u0442 \u0432\u043e\u043b\u043e\u043d\u0442\u0435\u0440\u043e\u0432 \u0441\u043f\u0430\u0441\u0430\u0435\u0442 \u0443\u043a\u0440\u0430\u0438\u043d\u0446\u0435\u0432 \u0432 \u041f\u0430\u043b\u0435\u0440\u043c\u043e \u041f\u043e\u0434\u043e\u0436\u0434\u0438\u0442\u0435, \u043f\u043e\u043a\u0430 \u043f\u0440\u0438\u0435\u0434\u0443\u0442 \u0443\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u0438\u0435 \u0431\u0435\u0436\u0435\u043d\u0446\u044b \u0438 \u0441\u043e\u0431\u0435\u0440\u0443\u0442 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u044b \u043f\u0435\u0440\u0432\u043e\u0439 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e\u0441\u0442\u0438. \u041f\u0440\u043e\u0434\u0443\u043a\u0442\u044b \u043f\u0438\u0442\u0430\u043d\u0438\u044f, \u043e\u0434\u0435\u0436\u0434\u0430, \u043b\u0435\u043a\u0430\u0440\u0441\u0442\u0432\u0430, \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0430\u044f \u0438 \u044e\u0440\u0438\u0434\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043f\u043e\u043c\u043e\u0449\u044c \u041d\u0430 \u043d\u0430\u0448\u0438\u0445 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430\u0445 \u0432 facebook \u0438 \u0442\u0435\u043b\u0435\u0433\u0440\u0430\u043c \u0434\u043b\u044f \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0438\u044f \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u0421\u043b\u0435\u0434\u0438\u0442\u0435 \u0437\u0430 \u043d\u043e\u0432\u043e\u0441\u0442\u044f\u043c\u0438 \u043d\u0430 \u043a\u0430\u043d\u0430\u043b\u0435: https://t.me/ucraini_a_palermo Facebook-\u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430 \u041a\u043e\u043c\u0438\u0442\u0435\u0442\u0430 \u00ab\u0421\u043f\u0430\u0441\u0435\u043c \u0443\u043a\u0440\u0430\u0438\u043d\u0446\u0435\u0432\u00bb \u0432 \u041f\u0430\u043b\u0435\u0440\u043c\u043e"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comitato Salva Ucraini Palermo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Palermo il Comitato Salva Ucraini offre ai rifugiati ucraini beni di prima necessit\u00e0 e assistenza medico e legale"",""url"":""https://www.facebook.com/groups/874964709185709/permalink/5610400905642042/""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
@@ -3113,40 +3199,6 @@ address:
   mode: manual
   address:
     address1: Via Barlaam Da Seminara
-    address2: ''
-    city: Catanzaro
-    state: Italia
-    country: ''
-    zip: '88100'
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/434,1188189863,2022-03-31 17:31:18,2022-03-31 14:37:04,"Catanzaro, presso Assessorato alle Politiche sociali punto di raccolta beni di prima necessità per il popolo ucraino",,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address1"":""via Fontana Vecchia, 50"",""address2"":"""",""city"":""Catanzaro"",""country"":"""",""state"":""Italia"",""zip"":""88100""},""mode"":""manual""},""description"":""Dalle ore 10 alle 12 \u00e8 attivo negli uffici dell\u2019assessorato alle Politiche sociali il punto di raccolta di beni di prima necessit\u00e0 da spedire a sostegno del popolo ucraino"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Assessorato alle Politiche Sociali"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""raccolta beni prima necessit\u00e0"",""url"":""""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Assessorato alle Politiche Sociali
-title: raccolta beni prima necessità
-recipients: ''
-description: Dalle ore 10 alle 12 è attivo negli uffici dell’assessorato alle Politiche
-  sociali il punto di raccolta di beni di prima necessità da spedire a sostegno del
-  popolo ucraino
-url: ''
-address:
-  mode: manual
-  address:
-    address1: via Fontana Vecchia, 50
     address2: ''
     city: Catanzaro
     state: Italia
@@ -4411,58 +4463,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 37.50570535 14.944202334712783
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/402,1185358928,2022-03-29 22:03:03,2022-03-29 20:10:27,Comune di Catania attiva indirizzo mail per raccogliere disponibilità ad ospitare profughi ucraini,,,,,"[""Valid/Accettato"",""Services"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""city"":""Catania"",""country"":""Italia"",""country_code"":""it"",""county"":""Catania"",""postcode"":""95121"",""state"":""Sicilia""},""boundingbox"":[""37.3582971"",""37.562386"",""14.9358674"",""15.125794""],""class"":""boundary"",""display_name"":""Catania, Sicilia, 95121, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7221226378988357,""lat"":""37.5023612"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.0873718"",""osm_id"":39230,""osm_type"":""relation"",""place_id"":284352873,""type"":""administrative""},""mode"":""autocomplete""},""description"":""L\u2019Amministrazione Comunale, allo scopo di raccogliere le disponibilit\u00e0 di alloggi per famiglie ucraine, ha attivato la mail: emergenza.ucraina@comune.catania.it in cui dovranno essere indicati nel modo pi\u00f9 specifico possibile gli alloggi con il referente proprietario dell\u2019abitazione."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Catania"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Catania apre mail per segnalare disponibilit\u00e0 alloggi"",""url"":""https://www.comune.catania.it/informazioni/news/politiche-sociali/politiche-sociali-2022-news/default.aspx?news=83290""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: true
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Comune di Catania
-title: Comune di Catania apre mail per segnalare disponibilità alloggi
-recipients: ''
-description: 'L’Amministrazione Comunale, allo scopo di raccogliere le disponibilità
-  di alloggi per famiglie ucraine, ha attivato la mail: emergenza.ucraina@comune.catania.it
-  in cui dovranno essere indicati nel modo più specifico possibile gli alloggi con
-  il referente proprietario dell’abitazione.'
-url: https://www.comune.catania.it/informazioni/news/politiche-sociali/politiche-sociali-2022-news/default.aspx?news=83290
-address:
-  mode: autocomplete
-  address:
-    place_id: 284352873
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 39230
-    boundingbox:
-    - '37.3582971'
-    - '37.562386'
-    - '14.9358674'
-    - '15.125794'
-    lat: '37.5023612'
-    lon: '15.0873718'
-    display_name: Catania, Sicilia, 95121, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7221226378988357
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Catania
-      county: Catania
-      state: Sicilia
-      postcode: '95121'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/410,1185391419,2022-03-29 20:44:48,2022-03-29 20:42:38,Animali d'affezione al seguito dei profughi provenienti dall'Ucraina: obbligo di segnalazione all'ATS Brianza ,45.6183103,9.2081245,Lombardia,Monza e della Brianza,"[""Valid/Accettato"",""News"",""healthcare""]",,,"{""Posizione"":""45.6183103 9.2081245"",""description"":""Animali d'affezione al seguito dei profughi provenienti dall'Ucraina: obbligo di segnalazione all'ATS Brianza"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.comune.desio.mb.it/it/news/animali-d-affezione-al-seguito-dei-profughi-provenienti-dall-ucraina"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Monza e della Brianza"",""postcode"":""20832"",""state"":""Lombardia"",""town"":""Desio""},""boundingbox"":[""45.5960657"",""45.6365128"",""9.174791"",""9.2349795""],""class"":""boundary"",""display_name"":""Desio, Monza e della Brianza, Lombardia, 20832, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.59470306841754,""lat"":""45.6183103"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2081245"",""osm_id"":45466,""osm_type"":""relation"",""place_id"":284616605,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Animali d'affezione al seguito dei profughi provenienti dall'Ucraina: obbligo di segnalazione all'ATS Brianza""}","<pre><yamldata>
 title: 'Animali d''affezione al seguito dei profughi provenienti dall''Ucraina: obbligo
