@@ -1,4 +1,75 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/500,1193588800,2022-04-05 21:01:18,2022-04-05 18:55:10,"“Fuoriclasse”, scuola di italiano per stranieri promossa da Nonna Roma e Arci Sparwasser",,,,,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""La scuola di italiano per stranieri del progetto Fuoriclasse \u00e8 un\u2019attivit\u00e0 volta a mettere a disposizione lezioni gratuite di italiano alle comunit\u00e0 di migranti e stranieri che vivono a Roma, per costruire un modello di accoglienza e di inclusione in citt\u00e0. Info qui: info.fuoriclasse0@gmail.com - 3477247592"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Nonna Roma - Arci Sparwasser"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Scuola di italiano per stranieri - Roma"",""url"":""https://nonnaroma.it/2021/11/26/fuoriclasse-presentazione-progetto/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: true
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Nonna Roma - Arci Sparwasser
+title: Scuola di italiano per stranieri - Roma
+recipients: ''
+description: 'La scuola di italiano per stranieri del progetto Fuoriclasse è un’attività volta a mettere a disposizione lezioni gratuite di italiano alle comunità
+  di migranti e stranieri che vivono a Roma, per costruire un modello di accoglienza
+  e di inclusione in città.
+  Info qui: info.fuoriclasse0@gmail.com - 3477247592'
+url: https://nonnaroma.it/2021/11/26/fuoriclasse-presentazione-progetto/
+address:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/499,1193586014,2022-04-05 20:59:11,2022-04-05 18:52:29,"A Roma associazione Nonna Roma cerca volontari che parlino italiano, inglese e ucraino",41.8933203,12.4829321,Lazio,Roma,"[""Valid/Accettato"",""Help"",""translation""]",,,"{""Posizione"":""41.8933203 12.4829321"",""description"":""Nonna Roma cerca volontari che parlino italiano, inglese e ucraino per la scuola di italiano del progetto Fuoriclasse. La scuola di italiano per stranieri del progetto Fuoriclasse \u00e8 un\u2019attivit\u00e0 avviata volta a mettere a disposizione lezioni gratuite di italiano alle comunit\u00e0 di migranti e stranieri che vivono a Roma, per costruire un modello di accoglienza e di inclusione in citt\u00e0."",""email"":""info.fuoriclasse0@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8896107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Nonna Roma"",""phoneNumber"":""3477247592"",""recipients"":"""",""submit"":true,""title"":""Ricerca volontari per insegnare italiano"",""url"":""https://nonnaroma.it/2021/11/26/fuoriclasse-presentazione-progetto/""}","<pre><yamldata>
+nameSurname: Nonna Roma
+phoneNumber: '3477247592'
+email: info.fuoriclasse0@gmail.com
+title: Ricerca volontari per insegnare italiano
+recipients: ''
+description: Nonna Roma cerca volontari che parlino italiano, inglese e ucraino per
+  la scuola di italiano del progetto Fuoriclasse. La scuola di italiano per stranieri
+  del progetto Fuoriclasse è un’attività avviata volta a mettere a disposizione lezioni
+  gratuite di italiano alle comunità di migranti e stranieri che vivono a Roma, per
+  costruire un modello di accoglienza e di inclusione in città.
+url: https://nonnaroma.it/2021/11/26/fuoriclasse-presentazione-progetto/
+location:
+  mode: autocomplete
+  address:
+    place_id: 283767136
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 41485
+    boundingbox:
+    - '41.6556417'
+    - '42.1410285'
+    - '12.2344669'
+    - '12.8557603'
+    lat: '41.8933203'
+    lon: '12.4829321'
+    display_name: Roma, Roma Capitale, Lazio, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8896107180689524
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 41.8933203 12.4829321
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/471,1190849957,2022-04-05 14:58:56,2022-04-03 07:42:57,"Nelle Marche All blacks Taekwondo ASD offre corsi gratuiti a bambini, ragazzi, adulti rifugiati ucraini",,,,,"[""Valid/Accettato"",""Services"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Ancona"",""postcode"":""60019"",""state"":""Marche"",""town"":""Senigallia""},""boundingbox"":[""43.6043136"",""43.7505106"",""13.1181262"",""13.3019948""],""class"":""boundary"",""display_name"":""Senigallia, Ancona, Marche, 60019, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7184733195486046,""lat"":""43.7149517"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.2179488"",""osm_id"":42536,""osm_type"":""relation"",""place_id"":283734079,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Corsi gratuiti di Taekwondo per ucraini temporaneamente sfollati con status di rifugiato: gruppi per ragazze e ragazzi dai 5 ai 19 anni; per donne e uomini con esperienza di arti marziali. Nelle citt\u00e0: Chiaravalle, Senigallia, Monte Porzio, Colli al Metauro.\n\u0411\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u0456 \u043a\u0443\u0440\u0441\u0438 \u0422\u0445\u0435\u043a\u0432\u043e\u043d\u0434\u043e \u0434\u043b\u044f \u0442\u0438\u043c\u0447\u0430\u0441\u043e\u0432\u043e \u043f\u0435\u0440\u0435\u043c\u0456\u0449\u0435\u043d\u0438\u0445 \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432 \u0437\u0456 \u0441\u0442\u0430\u0442\u0443\u0441\u043e\u043c \u0431\u0456\u0436\u0435\u043d\u0446\u0456\u0432: \u0433\u0440\u0443\u043f\u0438 \u0434\u043b\u044f \u0434\u0456\u0432\u0447\u0430\u0442 \u0442\u0430 \u0445\u043b\u043e\u043f\u0446\u0456\u0432 \u0432\u0456\u0434 5 \u0434\u043e 19 \u0440\u043e\u043a\u0456\u0432; \u0434\u043b\u044f \u0436\u0456\u043d\u043e\u043a \u0442\u0430 \u0447\u043e\u043b\u043e\u0432\u0456\u043a\u0456\u0432 \u0437 \u0434\u043e\u0441\u0432\u0456\u0434\u043e\u043c \u0431\u043e\u0439\u043e\u0432\u0438\u0445 \u043c\u0438\u0441\u0442\u0435\u0446\u0442\u0432. \u0412 \u043c\u0456\u0441\u0442\u0430\u0445: Chiaravalle, Senigallia, Monte Porzio, Colli al Metauro. #\u0441\u0430\u043c\u043e\u0437\u0430\u0445\u0438\u0441\u0442"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""All blacks takewondo ASD offre corsi gratuiti a rifugiati ucraini"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""All blacks takewondo ASD offre corsi gratuiti a rifugiati ucraini"",""url"":""https://www.facebook.com/549802348452872/posts/4425242170908851/?d=n""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
