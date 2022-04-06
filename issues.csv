@@ -1,4 +1,410 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/523,1195247661,2022-04-06 22:46:01,2022-04-06 22:28:08,"Online Help.gov.ua, sito del governo ucraino, con info e contatti per donazioni, invio beni umanitari e altro",50.4500336,30.5241361,,,"[""Valid/Accettato"",""News"",""fundraising"",""useful contact"",""materialGoods"",""Resources""]",,,"{""Posizione"":""50.4500336 30.5241361"",""description"":""\u00c8 online Help.gov.ua, sito promosso dal governo ucraino (in ucraino e inglese), che si rivolge a chi non vive in Ucraina e vuole dare il proprio sostegno al popolo ucraino. Sul sito sono disponibili informazioni, moduli e contatti per effettuare donazioni, inviare beni umanitari e offrire altre forme di aiuto. \u00c8 disponibile anche un elenco degli hub umanitari dentro e fuori dall\u2019Ucraina e una mappa con aggiornamenti sull\u2019entit\u00e0 e la distribuzione dei beni umanitari che riceve ogni giorno l\u2019Ucraina."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://help.gov.ua/en"",""location"":{""address"":{""address"":{""city"":""Kyiv"",""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""50.2132422"",""50.5908142"",""30.2361453"",""30.8263593""],""class"":""boundary"",""display_name"":""Kyiv, Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7258572961698041,""lat"":""50.4500336"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""30.5241361"",""osm_id"":421866,""osm_type"":""relation"",""place_id"":324417710,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Online Help.gov.ua, sito del governo ucraino, con info e contatti per donazioni, invio beni umanitari e altre forme di aiuto""}","<pre><yamldata>
+title: Online Help.gov.ua, sito del governo ucraino, con info e contatti per donazioni,
+  invio beni umanitari e altre forme di aiuto
+description: È online Help.gov.ua, sito promosso dal governo ucraino (in ucraino e
+  inglese), che si rivolge a chi non vive in Ucraina e vuole dare il proprio sostegno
+  al popolo ucraino. Sul sito sono disponibili informazioni, moduli e contatti per
+  effettuare donazioni, inviare beni umanitari e offrire altre forme di aiuto. È disponibile
+  anche un elenco degli hub umanitari dentro e fuori dall’Ucraina e una mappa con
+  aggiornamenti sull’entità e la distribuzione dei beni umanitari che riceve ogni
+  giorno l’Ucraina.
+link: https://help.gov.ua/en
+location:
+  mode: autocomplete
+  address:
+    place_id: 324417710
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 421866
+    boundingbox:
+    - '50.2132422'
+    - '50.5908142'
+    - '30.2361453'
+    - '30.8263593'
+    lat: '50.4500336'
+    lon: '30.5241361'
+    display_name: Kyiv, Ucraina
+    class: boundary
+    type: administrative
+    importance: 0.7258572961698041
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Kyiv
+      country: Ucraina
+      country_code: ua
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 50.4500336 30.5241361
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/522,1195231831,2022-04-06 22:44:48,2022-04-06 22:06:26,"Mix Markt, catena di supermercati in Italia di prodotti ucraini, raccoglie beni umanitari da inviare in Ucraina",45.2725912,11.218135,Veneto,Verona,"[""Valid/Accettato"",""News"",""Services"",""materialGoods""]",,,"{""Posizione"":""45.2725912 11.218135"",""description"":""In molte citt\u00e0 italiane esiste la catena di supermercati Mix Markt che offre prodotti alimentari ucraini e di altri paesi dell\u2019est Europa. In accordo con l\u2019Ambasciata Ucraina in Italia, i supermercati raccolgo beni umanitari (farmaci, alimenti, beni di prima necessit\u00e0) che poi - con la collaborazione dell\u2019Ambasciata - vengono spediti in Ucraina dal magazzino centrale a Verona.\nAl link l\u2019elenco dei punti vendita in Italia e dei beni che vengono raccolti.\nPer info: aiutoucraina@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://mixmarkt.it/ucraina/"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Verona"",""postcode"":""37050"",""road"":""Via Cappafredda"",""state"":""Veneto"",""village"":""Roverchiara""},""boundingbox"":[""45.2725912"",""45.2730656"",""11.218135"",""11.2187672""],""class"":""highway"",""display_name"":""Via Cappafredda, Roverchiara, Verona, Veneto, 37050, Italia"",""importance"":0.6299999999999999,""lat"":""45.2725912"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.218135"",""osm_id"":361952269,""osm_type"":""way"",""place_id"":186745504,""type"":""secondary""},""mode"":""autocomplete""},""submit"":true,""title"":""Mix Markt, catena di supermercati in Italia di prodotti ucraini, raccoglie beni umanitari da inviare in Ucraina""}","<pre><yamldata>
+title: Mix Markt, catena di supermercati in Italia di prodotti ucraini, raccoglie
+  beni umanitari da inviare in Ucraina
+description: 'In molte città italiane esiste la catena di supermercati Mix Markt che
+  offre prodotti alimentari ucraini e di altri paesi dell’est Europa. In accordo con
+  l’Ambasciata Ucraina in Italia, i supermercati raccolgo beni umanitari (farmaci,
+  alimenti, beni di prima necessità) che poi - con la collaborazione dell’Ambasciata
+  - vengono spediti in Ucraina dal magazzino centrale a Verona.
+
+  Al link l’elenco dei punti vendita in Italia e dei beni che vengono raccolti.
+
+  Per info: aiutoucraina@gmail.com'
+link: https://mixmarkt.it/ucraina/
+location:
+  mode: autocomplete
+  address:
+    place_id: 186745504
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 361952269
+    boundingbox:
+    - '45.2725912'
+    - '45.2730656'
+    - '11.218135'
+    - '11.2187672'
+    lat: '45.2725912'
+    lon: '11.218135'
+    display_name: Via Cappafredda, Roverchiara, Verona, Veneto, 37050, Italia
+    class: highway
+    type: secondary
+    importance: 0.6299999999999999
+    address:
+      road: Via Cappafredda
+      village: Roverchiara
+      county: Verona
+      state: Veneto
+      postcode: '37050'
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.2725912 11.218135
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/521,1195212960,2022-04-06 22:44:14,2022-04-06 21:40:17,"Regione Toscana: online info e contatti in ucraino su Prefetture, Questure e Uffici scolastici provinciali",,,,,"[""Valid/Accettato"",""Services"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""city"":""Firenze"",""commercial"":""Regione Toscana"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""postcode"":""50127"",""state"":""Toscana"",""suburb"":""Quartiere 5""},""boundingbox"":[""43.7926836"",""43.7946061"",""11.221591"",""11.2236412""],""class"":""landuse"",""display_name"":""Regione Toscana, Quartiere 5, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50127, Italia"",""importance"":0.41,""lat"":""43.79366875"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.222513136213019"",""osm_id"":83826804,""osm_type"":""way"",""place_id"":121442998,""type"":""commercial""},""mode"":""autocomplete""},""aim"":""Sul sito della Regione Toscana sono online tre elenchi con info e contatti, in ucraino, su Prefetture, Questure e Uffici scolastici provinciali."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Regione Toscana: online info e contatti in ucraino su Prefetture, Questure e Uffici scolastici provinciali"",""url"":""https://www.regione.toscana.it/-/la-toscana-per-l-emergenza-in-ucraina""}","<pre><yamldata>
+title: 'Regione Toscana: online info e contatti in ucraino su Prefetture, Questure
+  e Uffici scolastici provinciali'
+phoneNumber: ''
+email: ''
+aim: Sul sito della Regione Toscana sono online tre elenchi con info e contatti, in
+  ucraino, su Prefetture, Questure e Uffici scolastici provinciali.
+url: https://www.regione.toscana.it/-/la-toscana-per-l-emergenza-in-ucraina
+address:
+  mode: autocomplete
+  address:
+    place_id: 121442998
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 83826804
+    boundingbox:
+    - '43.7926836'
+    - '43.7946061'
+    - '11.221591'
+    - '11.2236412'
+    lat: '43.79366875'
+    lon: '11.222513136213019'
+    display_name: Regione Toscana, Quartiere 5, Firenze, Città metropolitana di Firenze,
+      Toscana, 50127, Italia
+    class: landuse
+    type: commercial
+    importance: 0.41
+    address:
+      commercial: Regione Toscana
+      suburb: Quartiere 5
+      city: Firenze
+      county: Città metropolitana di Firenze
+      state: Toscana
+      postcode: '50127'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/520,1195207775,2022-04-06 22:43:25,2022-04-06 21:33:36,"Regione Toscana, numero verde per assistenza sanitaria rifugiati ucraini",,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""highway"":""Regione Toscana"",""postcode"":""50127"",""road"":""Via di Novoli"",""state"":""Toscana"",""suburb"":""Quartiere 5""},""boundingbox"":[""43.792534"",""43.792634"",""11.2226109"",""11.2227109""],""class"":""highway"",""display_name"":""Regione Toscana, Via di Novoli, Quartiere 5, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50127, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//transport_bus_stop2.p.20.png"",""importance"":0.21100000000000002,""lat"":""43.792584"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2226609"",""osm_id"":6027223967,""osm_type"":""node"",""place_id"":65208500,""type"":""bus_stop""},""mode"":""autocomplete""},""aim"":""Numero verde sanit\u00e0 800 556060 dedicato ai cittadini ucraini per l\u2019accesso al percorso sanitario regionale.\nContattabile da luned\u00ec a venerd\u00ec dalle 09:00 alle 18:00 e sabato dalle 9:00 alle 15:00."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""800 556060"",""submit"":true,""title"":""Regione Toscana, numero verde per assistenza sanitaria rifugiati ucraini"",""url"":""https://www.regione.toscana.it/-/la-toscana-per-l-emergenza-in-ucraina""}","<pre><yamldata>
+title: Regione Toscana, numero verde per assistenza sanitaria rifugiati ucraini
+phoneNumber: 800 556060
+email: ''
+aim: 'Numero verde sanità 800 556060 dedicato ai cittadini ucraini per l’accesso al
+  percorso sanitario regionale.
+
+  Contattabile da lunedì a venerdì dalle 09:00 alle 18:00 e sabato dalle 9:00 alle
+  15:00.'
+url: https://www.regione.toscana.it/-/la-toscana-per-l-emergenza-in-ucraina
+address:
+  mode: autocomplete
+  address:
+    place_id: 65208500
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 6027223967
+    boundingbox:
+    - '43.792534'
+    - '43.792634'
+    - '11.2226109'
+    - '11.2227109'
+    lat: '43.792584'
+    lon: '11.2226609'
+    display_name: Regione Toscana, Via di Novoli, Quartiere 5, Firenze, Città metropolitana
+      di Firenze, Toscana, 50127, Italia
+    class: highway
+    type: bus_stop
+    importance: 0.21100000000000002
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//transport_bus_stop2.p.20.png
+    address:
+      highway: Regione Toscana
+      road: Via di Novoli
+      suburb: Quartiere 5
+      city: Firenze
+      county: Città metropolitana di Firenze
+      state: Toscana
+      postcode: '50127'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/516,1195148542,2022-04-06 22:42:44,2022-04-06 20:26:08,"Regione Calabria, online modulo per enti del terzo settore che offrono assistenza e ospitalità ai profughi ucraini ",,,,,"[""Valid/Accettato"",""Services"",""hospitality""]",,,"{""address"":{""address"":{""address1"":""Via Frangipane III trav. priv. 20 "",""address2"":"""",""city"":""Reggio Calabria"",""country"":"""",""state"":""Italia"",""zip"":""89129 ""},""mode"":""manual""},""description"":""L\u2019assessorato alle Politiche sociali e Protezione Civile della Regione Calabria ha richiesto al fine di programmare gli interventi, i dati relativi alle disponibilit\u00e0 delle associazioni sia in termini di accoglienza che di assistenza.\nPer poter fornire dati attendibili le associazioni sono invitate a compilare online il modulo presente all\u2019indirizzo in allegato."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""CSV dei Due Mari di Reggio Calabria"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""MODULO DI DISPONIBILIT\u00c0 ACCOGLIENZA PROFUGHI UCRAINI"",""url"":""https://www.csvrc.it/emergenza-ucraina/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: CSV dei Due Mari di Reggio Calabria
+title: MODULO DI DISPONIBILITÀ ACCOGLIENZA PROFUGHI UCRAINI
+recipients: ''
+description: 'L’assessorato alle Politiche sociali e Protezione Civile della Regione
+  Calabria ha richiesto al fine di programmare gli interventi, i dati relativi alle
+  disponibilità delle associazioni sia in termini di accoglienza che di assistenza.
+
+  Per poter fornire dati attendibili le associazioni sono invitate a compilare online
+  il modulo presente all’indirizzo in allegato.'
+url: https://www.csvrc.it/emergenza-ucraina/
+address:
+  mode: manual
+  address:
+    address1: 'Via Frangipane III trav. priv. 20 '
+    address2: ''
+    city: Reggio Calabria
+    state: Italia
+    country: ''
+    zip: '89129 '
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/519,1195162211,2022-04-06 22:40:34,2022-04-06 20:37:49,"Taranto, accesso gratuito agli autobus per i profughi ucraini",40.4723015,17.2371915,Puglia,Taranto,"[""Valid/Accettato"",""News"",""Services"",""transport""]",,,"{""Posizione"":""40.4723015 17.2371915"",""description"":""I profughi ucraini a Taranto possono viaggiare gratuitamente sugli autobus di Kyma Mobilit\u00e0 Amat fino a giugno 2022.\nPer ottenere gli abbonamenti mensili gratuiti devono recarsi presso l\u2019Ufficio vendite di Kyma Mobilit\u00e0 Amat, in via D\u2019Aquino, presentando la documentazione che attesti il loro status di rifugiato di guerra: il permesso di soggiorno provvisorio con data successiva al 24 febbraio scorso e il passaporto ucraino, o, in alternativa, l\u2019idonea attestazione rilasciata dalla Prefettura o dalla Questura di Taranto."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.cosmopolismedia.it/attualita-page/kyma-mobilita-viaggi-gratuiti-per-profughi-ucraini.html"",""location"":{""address"":{""address"":{""city"":""Taranto"",""country"":""Italia"",""country_code"":""it"",""county"":""Taranto"",""postcode"":""74100"",""road"":""Via Tommaso D'Aquino"",""state"":""Puglia""},""boundingbox"":[""40.4720959"",""40.4723208"",""17.2370434"",""17.2383647""],""class"":""highway"",""display_name"":""Via Tommaso D'Aquino, Taranto, taranto, Taranto, Puglia, 74100, Italia"",""importance"":0.51,""lat"":""40.4723015"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""17.2371915"",""osm_id"":173066430,""osm_type"":""way"",""place_id"":141501175,""type"":""residential""},""mode"":""autocomplete""},""submit"":true,""title"":""Taranto, accesso gratuito agli autobus per i profughi ucraini""}","<pre><yamldata>
+title: Taranto, accesso gratuito agli autobus per i profughi ucraini
+description: 'I profughi ucraini a Taranto possono viaggiare gratuitamente sugli autobus
+  di Kyma Mobilità Amat fino a giugno 2022.
+
+  Per ottenere gli abbonamenti mensili gratuiti devono recarsi presso l’Ufficio vendite
+  di Kyma Mobilità Amat, in via D’Aquino, presentando la documentazione che attesti
+  il loro status di rifugiato di guerra: il permesso di soggiorno provvisorio con
+  data successiva al 24 febbraio scorso e il passaporto ucraino, o, in alternativa,
+  l’idonea attestazione rilasciata dalla Prefettura o dalla Questura di Taranto.'
+link: https://www.cosmopolismedia.it/attualita-page/kyma-mobilita-viaggi-gratuiti-per-profughi-ucraini.html
+location:
+  mode: autocomplete
+  address:
+    place_id: 141501175
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 173066430
+    boundingbox:
+    - '40.4720959'
+    - '40.4723208'
+    - '17.2370434'
+    - '17.2383647'
+    lat: '40.4723015'
+    lon: '17.2371915'
+    display_name: Via Tommaso D'Aquino, Taranto, taranto, Taranto, Puglia, 74100,
+      Italia
+    class: highway
+    type: residential
+    importance: 0.51
+    address:
+      road: Via Tommaso D'Aquino
+      city: Taranto
+      county: Taranto
+      state: Puglia
+      postcode: '74100'
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 40.4723015 17.2371915
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/518,1195159132,2022-04-06 22:40:14,2022-04-06 20:34:03,A Rende (Cosenza) corso gratuito di italiano promosso da Ufficio Migrantes,,,,,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Cosenza"",""postcode"":""87036"",""road"":""Viale della Resistenza"",""state"":""Calabria"",""town"":""Rende"",""village"":""Roges""},""boundingbox"":[""39.3318205"",""39.3385345"",""16.244036"",""16.2441213""],""class"":""highway"",""display_name"":""Viale della Resistenza, Roges, Rende, Cosenza, Calabria, 87036, Italia"",""importance"":0.5,""lat"":""39.3350451"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.2440641"",""osm_id"":30504128,""osm_type"":""way"",""place_id"":108553359,""type"":""primary""},""mode"":""autocomplete""},""description"":""Marted\u00ec e gioved\u00ec dalle 16.30 alle 17.30\nParrocchia Sant'Antonio Commenda di Rende\nTelefono: 379.2606042\nEmail: puntomigranti.rende@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Punto Migranti di Ufficio Migrantes"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Corso di italiano"",""url"":""https://www.csvcosenza.it/sos-ucraina-servizi-informazioni""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: true
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Punto Migranti di Ufficio Migrantes
+title: Corso di italiano
+recipients: ''
+description: 'Martedì e giovedì dalle 16.30 alle 17.30
+
+  Parrocchia Sant''Antonio Commenda di Rende
+
+  Telefono: 379.2606042
+
+  Email: puntomigranti.rende@gmail.com'
+url: https://www.csvcosenza.it/sos-ucraina-servizi-informazioni
+address:
+  mode: autocomplete
+  address:
+    place_id: 108553359
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 30504128
+    boundingbox:
+    - '39.3318205'
+    - '39.3385345'
+    - '16.244036'
+    - '16.2441213'
+    lat: '39.3350451'
+    lon: '16.2440641'
+    display_name: Viale della Resistenza, Roges, Rende, Cosenza, Calabria, 87036,
+      Italia
+    class: highway
+    type: primary
+    importance: 0.5
+    address:
+      road: Viale della Resistenza
+      village: Roges
+      town: Rende
+      county: Cosenza
+      state: Calabria
+      postcode: '87036'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/515,1195141477,2022-04-06 22:38:28,2022-04-06 20:22:40,"Regione Toscana, bus e tramvia gratuita per i profughi ucraini",43.79366875,11.222513136213019,Toscana,Firenze,"[""Valid/Accettato"",""News"",""Services"",""transport""]",,,"{""Posizione"":""43.79366875 11.222513136213019"",""description"":""La Giunta della Regione Toscana il 6 aprile ha deliberato l\u2019utilizzo gratuito dei mezzi di trasporto pubblico locale su gomma e della tramvia per i 7.800 profughi ucraini arrivati in Toscana. La delibera entrer\u00e0 immediatamente in vigore. Per usufruire i profughi ucraini dovranno esibire i documenti che attestano il loro status."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://ift.tt/ts0CVlE"",""location"":{""address"":{""address"":{""city"":""Firenze"",""commercial"":""Regione Toscana"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""postcode"":""50127"",""state"":""Toscana"",""suburb"":""Quartiere 5""},""boundingbox"":[""43.7926836"",""43.7946061"",""11.221591"",""11.2236412""],""class"":""landuse"",""display_name"":""Regione Toscana, Quartiere 5, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50127, Italia"",""importance"":0.41,""lat"":""43.79366875"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.222513136213019"",""osm_id"":83826804,""osm_type"":""way"",""place_id"":121442998,""type"":""commercial""},""mode"":""autocomplete""},""submit"":true,""title"":""Regione Toscana, bus e tramvia gratuita per i profughi ucraini""}","<pre><yamldata>
+title: Regione Toscana, bus e tramvia gratuita per i profughi ucraini
+description: La Giunta della Regione Toscana il 6 aprile ha deliberato l’utilizzo
+  gratuito dei mezzi di trasporto pubblico locale su gomma e della tramvia per i 7.800
+  profughi ucraini arrivati in Toscana. La delibera entrerà immediatamente in vigore.
+  Per usufruire i profughi ucraini dovranno esibire i documenti che attestano il loro
+  status.
+link: https://ift.tt/ts0CVlE
+location:
+  mode: autocomplete
+  address:
+    place_id: 121442998
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 83826804
+    boundingbox:
+    - '43.7926836'
+    - '43.7946061'
+    - '11.221591'
+    - '11.2236412'
+    lat: '43.79366875'
+    lon: '11.222513136213019'
+    display_name: Regione Toscana, Quartiere 5, Firenze, Città metropolitana di Firenze,
+      Toscana, 50127, Italia
+    class: landuse
+    type: commercial
+    importance: 0.41
+    address:
+      commercial: Regione Toscana
+      suburb: Quartiere 5
+      city: Firenze
+      county: Città metropolitana di Firenze
+      state: Toscana
+      postcode: '50127'
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 43.79366875 11.222513136213019
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/514,1195131495,2022-04-06 22:38:04,2022-04-06 20:17:46,A Reggio Calabria Centro Comunitario Agape attiva comitato di supporto per bambini e mamme ucraine,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""hospitality"",""Children"",""women"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Reggio Calabria"",""country"":""Italia"",""country_code"":""it"",""county"":""Reggio di Calabria"",""postcode"":""89128"",""road"":""Via Paolo Pellicano"",""state"":""Calabria""},""boundingbox"":[""38.1045087"",""38.1058033"",""15.6445306"",""15.6460556""],""class"":""highway"",""display_name"":""Via Paolo Pellicano, Reggio Calabria, Reggio di Calabria, Calabria, 89128, Italia"",""importance"":0.51,""lat"":""38.1052193"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.6453737"",""osm_id"":266573045,""osm_type"":""way"",""place_id"":166237766,""type"":""residential""},""mode"":""autocomplete""},""description"":""Su iniziativa del Centro Comunitario Agape \u00e8 stato creato un comitato per realizzare percorsi di accoglienza diffusa di piccoli nuclei presso famiglie interessate o appartamenti concessi provvisoriamente da privati. \nPresso la sede di Agape (via P. Pellicano 21/h) sar\u00e0 attiva mattina e pomeriggio una segreteria alla quale ci si potr\u00e0 rivolgere (via mail all\u2019indirizzo segr.agape@gmail.com o al n. di telefono 0965894706, 3880561653) per offrire la propria disponibilit\u00e0 per le necessit\u00e0 di accoglienza (disponibilit\u00e0 di alloggi, disponibilit\u00e0 all\u2019accoglienza di una madre con bambini, volontariato per affiancamento/inserimento dei bambini,  ecc.). La donazione di viveri, pannolini, alimenti per bambini, medicine che potr\u00e0 essere fatta presso la Chiesa del Crocefisso (tel.0965/891266- 3880559227).\nInoltre a breve sar\u00e0 operativo uno sportello di ascolto e consulenza per le donne ucraine con l\u2019utilizzo di mediatori linguistici e legali."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Centro Comunitario Agape"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""comitato per i bambini e le mamme ucraine"",""url"":""https://www.csvrc.it/2022/04/e-nato-un-comitato-per-i-bambini-e-le-mamme-ucraine/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Centro Comunitario Agape
+title: comitato per i bambini e le mamme ucraine
+recipients: ''
+description: ""Su iniziativa del Centro Comunitario Agape è stato creato un comitato\
+  \ per realizzare percorsi di accoglienza diffusa di piccoli nuclei presso famiglie\
+  \ interessate o appartamenti concessi provvisoriamente da privati. \nPresso la sede\
+  \ di Agape (via P. Pellicano 21/h) sarà attiva mattina e pomeriggio una segreteria\
+  \ alla quale ci si potrà rivolgere (via mail all’indirizzo segr.agape@gmail.com\
+  \ o al n. di telefono 0965894706, 3880561653) per offrire la propria disponibilità\
+  \ per le necessità di accoglienza (disponibilità di alloggi, disponibilità all’accoglienza\
+  \ di una madre con bambini, volontariato per affiancamento/inserimento dei bambini,\
+  \  ecc.). La donazione di viveri, pannolini, alimenti per bambini, medicine che\
+  \ potrà essere fatta presso la Chiesa del Crocefisso (tel.0965/891266- 3880559227).\n\
+  Inoltre a breve sarà operativo uno sportello di ascolto e consulenza per le donne\
+  \ ucraine con l’utilizzo di mediatori linguistici e legali.""
+url: https://www.csvrc.it/2022/04/e-nato-un-comitato-per-i-bambini-e-le-mamme-ucraine/
+address:
+  mode: autocomplete
+  address:
+    place_id: 166237766
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 266573045
+    boundingbox:
+    - '38.1045087'
+    - '38.1058033'
+    - '15.6445306'
+    - '15.6460556'
+    lat: '38.1052193'
+    lon: '15.6453737'
+    display_name: Via Paolo Pellicano, Reggio Calabria, Reggio di Calabria, Calabria,
+      89128, Italia
+    class: highway
+    type: residential
+    importance: 0.51
+    address:
+      road: Via Paolo Pellicano
+      city: Reggio Calabria
+      county: Reggio di Calabria
+      state: Calabria
+      postcode: '89128'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/511,1194876548,2022-04-06 22:31:16,2022-04-06 16:58:54,"Transport a Sister, gruppo internazionale che offre alle donne ucraine trasporti sicuri per lasciare l’Ucraina",,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""transport"",""women""]",,,"{""address"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""44.184598"",""52.3797464"",""22.137059"",""40.2275801""],""class"":""boundary"",""display_name"":""Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8164442439164168,""lat"":""49.4871968"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""31.2718321"",""osm_id"":60199,""osm_type"":""relation"",""place_id"":283553033,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Gruppo internazionale, nato su iniziativa della rete Host a Sister (vedi qui https://ukrainehelp.emergenzehack.info/issues/131), che offre traporti sicuri alle donne (e non solo) che vogliono lasciare l\u2019Ucraina colpita dalla guerra. \nI trasporti sono gratuiti e viene anche offerto aiuto per trovare una sistemazione nel luogo di arrivo. Il gruppo si pu\u00f2 contattare via gruppo Facebook (vedi link). Disponibili periodicamente anche trasporti per l\u2019Italia."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Transport a Sister"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":true},""submit"":true,""title"":""Transport a Sister, gruppo che offre alle donne ucraine trasporti sicuri per lasciare l\u2019Ucraina"",""url"":""https://www.facebook.com/groups/2182253995256054/?ref=share""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
