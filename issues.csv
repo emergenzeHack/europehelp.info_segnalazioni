@@ -1,4 +1,105 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/512,1195039496,2022-04-06 19:04:26,2022-04-06 19:03:08,A Milano il progetto Qubi Gratosoglio offre corsi di lingua italiana e spazio gioco per genitori e bimbi ucraini,,,,,"[""Valid/Accettato"",""Services"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20142"",""quarter"":""Gratosoglio - Ticinello"",""road"":""Via Gratosoglio"",""state"":""Lombardia"",""suburb"":""Municipio 5""},""boundingbox"":[""45.4146778"",""45.416298"",""9.1694359"",""9.1697218""],""class"":""highway"",""display_name"":""Via Gratosoglio, Gratosoglio - Ticinello, Municipio 5, Milano, Lombardia, 20142, Italia"",""importance"":0.4,""lat"":""45.4152169"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1695979"",""osm_id"":329052764,""osm_type"":""way"",""place_id"":179790289,""type"":""residential""},""mode"":""autocomplete""},""description"":""QuB\u00ec Gratosoglio contribuisce a sostenere la popolazione ucraina giunta nel nostro quartiere.\n\nE' attivo un CORSO DI ITALIANO L2 per donne con insegnate madrelingua ucraina, ogni luned\u00ec ore 10-11.30 presso l'oratorio di San Barnaba in via Gratosoglio 65. Presente in contemporanea uno spazio gioco e di accoglienza per i figli, grazie a una rete di volontariato. \nI minori potranno inoltre partecipare alle iniziative gi\u00e0 attive.\n\nPer informazioni: Elena Roveda 34084087744 o Elena Biagini 3349271635\n\n#ucraina #ricettequbi #gratosoglio"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Qubi Gratosoglio"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Il progetto Qubi Gratosoglio offre corsi di lingue e spazio gioco per genitori e bimbi ucraini"",""url"":""https://www.facebook.com/643533592750749/posts/1422462801524487/?d=n""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: true
+offerFromWho: Qubi Gratosoglio
+title: Il progetto Qubi Gratosoglio offre corsi di lingue e spazio gioco per genitori
+  e bimbi ucraini
+recipients: ''
+description: ""QuBì Gratosoglio contribuisce a sostenere la popolazione ucraina giunta\
+  \ nel nostro quartiere.\n\nE' attivo un CORSO DI ITALIANO L2 per donne con insegnate\
+  \ madrelingua ucraina, ogni lunedì ore 10-11.30 presso l'oratorio di San Barnaba\
+  \ in via Gratosoglio 65. Presente in contemporanea uno spazio gioco e di accoglienza\
+  \ per i figli, grazie a una rete di volontariato. \nI minori potranno inoltre partecipare\
+  \ alle iniziative già attive.\n\nPer informazioni: Elena Roveda 34084087744 o Elena\
+  \ Biagini 3349271635\n\n#ucraina #ricettequbi #gratosoglio""
+url: https://www.facebook.com/643533592750749/posts/1422462801524487/?d=n
+address:
+  mode: autocomplete
+  address:
+    place_id: 179790289
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 329052764
+    boundingbox:
+    - '45.4146778'
+    - '45.416298'
+    - '9.1694359'
+    - '9.1697218'
+    lat: '45.4152169'
+    lon: '9.1695979'
+    display_name: Via Gratosoglio, Gratosoglio - Ticinello, Municipio 5, Milano, Lombardia,
+      20142, Italia
+    class: highway
+    type: residential
+    importance: 0.4
+    address:
+      road: Via Gratosoglio
+      quarter: Gratosoglio - Ticinello
+      suburb: Municipio 5
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20142'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/499,1193586014,2022-04-06 18:33:55,2022-04-05 18:52:29,"A Roma associazione Nonna Roma cerca volontari che parlino italiano, inglese e ucraino",41.8933203,12.4829321,Lazio,Roma,"[""Valid/Accettato"",""Help"",""translation""]",,,"{""Posizione"":""41.8933203 12.4829321"",""description"":""Nonna Roma cerca volontari che parlino italiano, inglese e ucraino per la scuola di italiano del progetto Fuoriclasse. La scuola di italiano per stranieri del progetto Fuoriclasse \u00e8 un\u2019attivit\u00e0 avviata volta a mettere a disposizione lezioni gratuite di italiano alle comunit\u00e0 di migranti e stranieri che vivono a Roma, per costruire un modello di accoglienza e di inclusione in citt\u00e0."",""email"":""info.fuoriclasse0@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8896107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Nonna Roma"",""phoneNumber"":""3477247592"",""recipients"":"""",""submit"":true,""title"":""Ricerca volontari per insegnare italiano"",""url"":""https://nonnaroma.it/2021/11/26/fuoriclasse-presentazione-progetto/""}","<pre><yamldata>
+nameSurname: Nonna Roma
+phoneNumber: '3477247592'
+email: info.fuoriclasse0@gmail.com
+title: Ricerca volontari per insegnare italiano
+recipients: ''
+description: Nonna Roma cerca volontari che parlino italiano, inglese e ucraino per
+  la scuola di italiano del progetto Fuoriclasse. La scuola di italiano per stranieri
+  del progetto Fuoriclasse è un’attività avviata volta a mettere a disposizione lezioni
+  gratuite di italiano alle comunità di migranti e stranieri che vivono a Roma, per
+  costruire un modello di accoglienza e di inclusione in città.
+url: https://nonnaroma.it/2021/11/26/fuoriclasse-presentazione-progetto/
+location:
+  mode: autocomplete
+  address:
+    place_id: 283767136
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 41485
+    boundingbox:
+    - '41.6556417'
+    - '42.1410285'
+    - '12.2344669'
+    - '12.8557603'
+    lat: '41.8933203'
+    lon: '12.4829321'
+    display_name: Roma, Roma Capitale, Lazio, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8896107180689524
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 41.8933203 12.4829321
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/506,1194399628,2022-04-06 15:59:09,2022-04-06 10:20:39,"Autoguidovie Lombardia, fino al 30 aprile autobus gratuiti per rifugiati ucraini",,,,,"[""Valid/Accettato"",""Services"",""transport"",""telegram-channel"",""tweet""]","Milestone(title=""30 aprile"", number=6)",,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20138"",""quarter"":""Mecenate"",""road"":""Via Marco Fabio Quintiliano"",""state"":""Lombardia"",""suburb"":""Municipio 4""},""boundingbox"":[""45.4476661"",""45.4488763"",""9.24771"",""9.2516109""],""class"":""highway"",""display_name"":""Via Marco Fabio Quintiliano, Mecenate, Municipio 4, Milano, Lombardia, 20138, Italia"",""importance"":0.51,""lat"":""45.4477282"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2495083"",""osm_id"":265055101,""osm_type"":""way"",""place_id"":167335736,""type"":""unclassified""},""mode"":""autocomplete""},""description"":""Si informano tutte le persone di nazionalit\u00e0 Ucraina giunte in Lombardia in conseguenza \ndell\u2019Emergenza Umanitaria che, per questa prima situazione di necessit\u00e0, fino al 30 aprile,\navranno la possibilit\u00e0 di viaggiare gratuitamente su tutte le linee di trasporto pubblico svolte da\nAutoguidovie.\nPer accedere al servizio e in caso di controlli, occorrer\u00e0 esibire un documento di identit\u00e0 o altro \ndocumento riconosciuto per usufruire di tale concessione.\n\n\u041c\u0438 \u0456\u043d\u0444\u043e\u0440\u043c\u0443\u0454\u043c\u043e \u0432\u0441\u0456\u0445 \u043b\u044e\u0434\u0435\u0439 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u043d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0456, \u044f\u043a\u0456 \u043f\u0440\u0438\u0431\u0443\u043b\u0438 \u0434\u043e \u041b\u043e\u043c\u0431\u0430\u0440\u0434\u0456\u0457 \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0456 \n\u0433\u0443\u043c\u0430\u043d\u0456\u0442\u0430\u0440\u043d\u043e\u0433\u043e \u043d\u0430\u0434\u0437\u0432\u0438\u0447\u0430\u0439\u043d\u043e\u0433\u043e \u0441\u0442\u0430\u043d\u0443, \u0449\u043e \u0434\u043b\u044f \u0446\u0456\u0454\u0457 \u043f\u0435\u0440\u0448\u043e\u0457 \u0441\u0438\u0442\u0443\u0430\u0446\u0456\u0457 \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u043e, \u0434\u043e 30 \u043a\u0432\u0456\u0442\u043d\u044f, \u0431\u0443\u0434\u0435 \u043c\u0430\u0442\u0438 \n\u043c\u043e\u0436\u043b\u0438\u0432\u0456\u0441\u0442\u044c \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u043e \u043f\u043e\u0434\u043e\u0440\u043e\u0436\u0443\u0432\u0430\u0442\u0438 \u043f\u043e \u0432\u0441\u0456\u0445 \u043b\u0456\u043d\u0456\u044f\u0445 \u0433\u0440\u043e\u043c\u0430\u0434\u0441\u044c\u043a\u043e\u0433\u043e \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u0443, \u044f\u043a\u0438\u043c\u0438 \u043a\u0435\u0440\u0443\u0454 \n\u043a\u043e\u043c\u043f\u0430\u043d\u0456\u044f Autoguidovie.\n\u0414\u043b\u044f \u0442\u043e\u0433\u043e, \u0449\u043e\u0431 \u043e\u0442\u0440\u0438\u043c\u0430\u0442\u0438 \u0434\u043e\u0441\u0442\u0443\u043f \u0434\u043e \u043f\u043e\u0441\u043b\u0443\u0433\u0438 \u0442\u0430 \u0443 \u0440\u0430\u0437\u0456 \u043f\u0435\u0440\u0435\u0432\u0456\u0440\u043e\u043a, \u0432\u0430\u043c \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u043e \u0431\u0443\u0434\u0435 \u043f\u0440\u0435\u0434'\u044f\u0432\u0438\u0442\u0438 \n\u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442-\u043f\u043e\u0441\u0432\u0456\u0434\u0447\u0435\u043d\u043d\u044f \u0430\u0431\u043e \u0456\u043d\u0448\u0438\u0439 \u0432\u0438\u0437\u043d\u0430\u043d\u0438\u0439 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442, \u0449\u043e\u0431 \u043e\u0442\u0440\u0438\u043c\u0430\u0442\u0438 \u0432\u0438\u0433\u043e\u0434\u0443 \u0432\u0456\u0434 \u0446\u0456\u0454\u0457 \u043a\u043e\u043d\u0446\u0435\u0441\u0456\u0457.\nAutoguidovie \u0431\u0435\u0440\u0435 \u043d\u0430 \u043f\u043e\u043b\u0435 \u0437 \u043f\u043e\u0434\u0430\u043b\u044c\u0448\u043e\u044e \u0430\u043a\u0446\u0456\u0454\u044e \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0433\u043e \u043d\u0430\u0440\u043e\u0434\u0443."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Autoguidovie"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""Autoguidovie Lombardia, fino al 30 aprile autobus gratuiti per rifugiati ucraini"",""url"":""https://pavia.autoguidovie.it/files//Aepv024_2022_Emergenza%20cittadini%20Ucraini.pdf""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -477,48 +578,6 @@ address:
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/499,1193586014,2022-04-05 20:59:11,2022-04-05 18:52:29,"A Roma associazione Nonna Roma cerca volontari che parlino italiano, inglese e ucraino",41.8933203,12.4829321,Lazio,Roma,"[""Valid/Accettato"",""Help"",""translation""]",,,"{""Posizione"":""41.8933203 12.4829321"",""description"":""Nonna Roma cerca volontari che parlino italiano, inglese e ucraino per la scuola di italiano del progetto Fuoriclasse. La scuola di italiano per stranieri del progetto Fuoriclasse \u00e8 un\u2019attivit\u00e0 avviata volta a mettere a disposizione lezioni gratuite di italiano alle comunit\u00e0 di migranti e stranieri che vivono a Roma, per costruire un modello di accoglienza e di inclusione in citt\u00e0."",""email"":""info.fuoriclasse0@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8896107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Nonna Roma"",""phoneNumber"":""3477247592"",""recipients"":"""",""submit"":true,""title"":""Ricerca volontari per insegnare italiano"",""url"":""https://nonnaroma.it/2021/11/26/fuoriclasse-presentazione-progetto/""}","<pre><yamldata>
-nameSurname: Nonna Roma
-phoneNumber: '3477247592'
-email: info.fuoriclasse0@gmail.com
-title: Ricerca volontari per insegnare italiano
-recipients: ''
-description: Nonna Roma cerca volontari che parlino italiano, inglese e ucraino per
-  la scuola di italiano del progetto Fuoriclasse. La scuola di italiano per stranieri
-  del progetto Fuoriclasse è un’attività avviata volta a mettere a disposizione lezioni
-  gratuite di italiano alle comunità di migranti e stranieri che vivono a Roma, per
-  costruire un modello di accoglienza e di inclusione in città.
-url: https://nonnaroma.it/2021/11/26/fuoriclasse-presentazione-progetto/
-location:
-  mode: autocomplete
-  address:
-    place_id: 283767136
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 41485
-    boundingbox:
-    - '41.6556417'
-    - '42.1410285'
-    - '12.2344669'
-    - '12.8557603'
-    lat: '41.8933203'
-    lon: '12.4829321'
-    display_name: Roma, Roma Capitale, Lazio, Italia
-    class: boundary
-    type: administrative
-    importance: 0.8896107180689524
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 41.8933203 12.4829321
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/471,1190849957,2022-04-05 14:58:56,2022-04-03 07:42:57,"Nelle Marche All blacks Taekwondo ASD offre corsi gratuiti a bambini, ragazzi, adulti rifugiati ucraini",,,,,"[""Valid/Accettato"",""Services"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Ancona"",""postcode"":""60019"",""state"":""Marche"",""town"":""Senigallia""},""boundingbox"":[""43.6043136"",""43.7505106"",""13.1181262"",""13.3019948""],""class"":""boundary"",""display_name"":""Senigallia, Ancona, Marche, 60019, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7184733195486046,""lat"":""43.7149517"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.2179488"",""osm_id"":42536,""osm_type"":""relation"",""place_id"":283734079,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Corsi gratuiti di Taekwondo per ucraini temporaneamente sfollati con status di rifugiato: gruppi per ragazze e ragazzi dai 5 ai 19 anni; per donne e uomini con esperienza di arti marziali. Nelle citt\u00e0: Chiaravalle, Senigallia, Monte Porzio, Colli al Metauro.\n\u0411\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u0456 \u043a\u0443\u0440\u0441\u0438 \u0422\u0445\u0435\u043a\u0432\u043e\u043d\u0434\u043e \u0434\u043b\u044f \u0442\u0438\u043c\u0447\u0430\u0441\u043e\u0432\u043e \u043f\u0435\u0440\u0435\u043c\u0456\u0449\u0435\u043d\u0438\u0445 \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432 \u0437\u0456 \u0441\u0442\u0430\u0442\u0443\u0441\u043e\u043c \u0431\u0456\u0436\u0435\u043d\u0446\u0456\u0432: \u0433\u0440\u0443\u043f\u0438 \u0434\u043b\u044f \u0434\u0456\u0432\u0447\u0430\u0442 \u0442\u0430 \u0445\u043b\u043e\u043f\u0446\u0456\u0432 \u0432\u0456\u0434 5 \u0434\u043e 19 \u0440\u043e\u043a\u0456\u0432; \u0434\u043b\u044f \u0436\u0456\u043d\u043e\u043a \u0442\u0430 \u0447\u043e\u043b\u043e\u0432\u0456\u043a\u0456\u0432 \u0437 \u0434\u043e\u0441\u0432\u0456\u0434\u043e\u043c \u0431\u043e\u0439\u043e\u0432\u0438\u0445 \u043c\u0438\u0441\u0442\u0435\u0446\u0442\u0432. \u0412 \u043c\u0456\u0441\u0442\u0430\u0445: Chiaravalle, Senigallia, Monte Porzio, Colli al Metauro. #\u0441\u0430\u043c\u043e\u0437\u0430\u0445\u0438\u0441\u0442"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""All blacks takewondo ASD offre corsi gratuiti a rifugiati ucraini"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""All blacks takewondo ASD offre corsi gratuiti a rifugiati ucraini"",""url"":""https://www.facebook.com/549802348452872/posts/4425242170908851/?d=n""}","<pre><yamldata>
 servicetypes:
