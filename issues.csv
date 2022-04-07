@@ -1,4 +1,51 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/525,1195921790,2022-04-07 20:10:13,2022-04-07 11:39:34,"Anffas Ragusa offre possibilità di accoglienza a profughi ucraini, in particolare mamma con figlio/a",,,,,"[""Valid/Accettato"",""Services"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""city"":""Ragusa"",""country"":""Croazia"",""country_code"":""hr"",""county"":""Regione raguseo-narentana""},""boundingbox"":[""42.6208867"",""42.6705551"",""18.0462375"",""18.1417947""],""class"":""boundary"",""display_name"":""Ragusa, Citt\u00e0 di Ragusa, Regione raguseo-narentana, Croazia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7065804406996246,""lat"":""42.64873625"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""18.094680152605108"",""osm_id"":13226684,""osm_type"":""relation"",""place_id"":285687417,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Anffas Ragusa ha la possibilit\u00e0 di accogliere profughi ucraini, in particolare mamma e figlio/a. Info: Salvatrice Cilia Info@anffasragusa.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""ANFFAS RAGUSA"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Accoglienza profughi"",""url"":""https://www.forumterzosettore.it/2022/03/25/emergenza-ucraina-accoglienza-in-italia/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: ANFFAS RAGUSA
+title: Accoglienza profughi
+recipients: ''
+description: ""Anffas Ragusa ha la possibilità di accogliere profughi ucraini, in particolare mamma e figlio/a. Info: Salvatrice Cilia Info@anffasragusa.org""
+url: https://www.forumterzosettore.it/2022/03/25/emergenza-ucraina-accoglienza-in-italia/
+address:
+  mode: autocomplete
+  address:
+    place_id: 285687417
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 13226684
+    boundingbox:
+    - '42.6208867'
+    - '42.6705551'
+    - '18.0462375'
+    - '18.1417947'
+    lat: '42.64873625'
+    lon: '18.094680152605108'
+    display_name: Ragusa, Città di Ragusa, Regione raguseo-narentana, Croazia
+    class: boundary
+    type: administrative
+    importance: 0.7065804406996246
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Ragusa
+      county: Regione raguseo-narentana
+      country: Croazia
+      country_code: hr
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/524,1195918050,2022-04-07 20:05:31,2022-04-07 11:36:09,"Arci Caltanissetta offre possibilità di alloggio per profughi ucraini e raccoglie fondi, indumenti e beni di prima necessità ",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Caltanissetta"",""neighbourhood"":""Villaggio Piave"",""postcode"":""93010"",""road"":""Via Silvio Pellico"",""state"":""Sicilia"",""village"":""Milena""},""boundingbox"":[""37.4679705"",""37.4695556"",""13.7365504"",""13.7418781""],""class"":""highway"",""display_name"":""Via Silvio Pellico, Villaggio Piave, Milena, Caltanissetta, Sicilia, 93010, Italia"",""importance"":0.7299999999999999,""lat"":""37.4688732"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.7393301"",""osm_id"":768949693,""osm_type"":""way"",""place_id"":251466304,""type"":""residential""},""mode"":""autocomplete""},""description"":""Stiamo mettendo a disposizione lo spazio alloggio (normalmente destinato all\u2019accoglienza di volontari, artisti o pellegrini della Magna Via Francigena) della nostra sede operativa, il Magazzino Culturale \u201cEx oleificio\u201d, per l\u2019accoglienza dei profughi oltre alla raccolta fondi, indumenti e beni di prima necessit\u00e0. \nhttps://www.facebook.com/magazzino.culturale\nContattare: \nCarmelo Vitellaro\nkarmevitae@hotmail.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""ARCI \u2013 COMITATO TERRITORIALE CALTANISSETTA"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Possibilit\u00e0 di alloggio"",""url"":""https://www.arci.it/solidarieta-ucraina/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
