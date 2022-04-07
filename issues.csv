@@ -1,4 +1,215 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/515,1195141477,2022-04-07 07:25:15,2022-04-06 20:22:40,"Regione Toscana, bus e tramvia gratuiti per i profughi ucraini",43.79366875,11.222513136213019,Toscana,Firenze,"[""Valid/Accettato"",""News"",""Services"",""transport"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""43.79366875 11.222513136213019"",""description"":""La Giunta della Regione Toscana il 6 aprile ha deliberato l\u2019utilizzo gratuito dei mezzi di trasporto pubblico locale su gomma e della tramvia per i 7.800 profughi ucraini arrivati in Toscana. La delibera entrer\u00e0 immediatamente in vigore. Per usufruire i profughi ucraini dovranno esibire i documenti che attestano il loro status."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://ift.tt/ts0CVlE"",""location"":{""address"":{""address"":{""city"":""Firenze"",""commercial"":""Regione Toscana"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""postcode"":""50127"",""state"":""Toscana"",""suburb"":""Quartiere 5""},""boundingbox"":[""43.7926836"",""43.7946061"",""11.221591"",""11.2236412""],""class"":""landuse"",""display_name"":""Regione Toscana, Quartiere 5, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50127, Italia"",""importance"":0.41,""lat"":""43.79366875"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.222513136213019"",""osm_id"":83826804,""osm_type"":""way"",""place_id"":121442998,""type"":""commercial""},""mode"":""autocomplete""},""submit"":true,""title"":""Regione Toscana, bus e tramvia gratuita per i profughi ucraini""}","<pre><yamldata>
+title: Regione Toscana, bus e tramvia gratuita per i profughi ucraini
+description: La Giunta della Regione Toscana il 6 aprile ha deliberato l’utilizzo
+  gratuito dei mezzi di trasporto pubblico locale su gomma e della tramvia per i 7.800
+  profughi ucraini arrivati in Toscana. La delibera entrerà immediatamente in vigore.
+  Per usufruire i profughi ucraini dovranno esibire i documenti che attestano il loro
+  status.
+link: https://ift.tt/ts0CVlE
+location:
+  mode: autocomplete
+  address:
+    place_id: 121442998
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 83826804
+    boundingbox:
+    - '43.7926836'
+    - '43.7946061'
+    - '11.221591'
+    - '11.2236412'
+    lat: '43.79366875'
+    lon: '11.222513136213019'
+    display_name: Regione Toscana, Quartiere 5, Firenze, Città metropolitana di Firenze,
+      Toscana, 50127, Italia
+    class: landuse
+    type: commercial
+    importance: 0.41
+    address:
+      commercial: Regione Toscana
+      suburb: Quartiere 5
+      city: Firenze
+      county: Città metropolitana di Firenze
+      state: Toscana
+      postcode: '50127'
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 43.79366875 11.222513136213019
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/443,1189902687,2022-04-07 07:23:15,2022-04-01 14:46:43,Università per Stranieri di Siena: corso intensivo gratuito di lingua italiana per profughi ucraini,,,,,"[""Valid/Accettato"",""Services"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Perugia"",""country"":""Italia"",""country_code"":""it"",""county"":""Perugia"",""postcode"":""06100"",""state"":""Umbria""},""boundingbox"":[""42.9519613"",""43.2719613"",""12.2290104"",""12.5490104""],""class"":""place"",""display_name"":""Perugia, Umbria, 06100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.717856532444482,""lat"":""43.1119613"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.3890104"",""osm_id"":68507505,""osm_type"":""node"",""place_id"":285586254,""type"":""city""},""mode"":""autocomplete""},""description"":""ll Centro Linguistico dell'Universit\u00e0 per Stranieri di Siena offre alle persone coinvolte nell\u2019emergenza Ucraina la possibilit\u00e0 di frequentare un corso intensivo gratuito di lingua italiana d livello A1 (principianti), che inizier\u00e0 il 5 aprile Informazioni e iscrizioni: help2022@unistrasi.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Universit\u00e0 per Stranieri di Siena"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Universit\u00e0 per Stranieri di Siena: corso intensivo di lingua italiana"",""url"":""https://twitter.com/UniStraSiena/status/1509821453037977614""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Università per Stranieri di Siena
+title: 'Università per Stranieri di Siena: corso intensivo di lingua italiana'
+recipients: ''
+description: 'll Centro Linguistico dell''Università per Stranieri di Siena offre
+  alle persone coinvolte nell’emergenza Ucraina la possibilità di frequentare un corso intensivo gratuito
+  di lingua italiana d livello A1 (principianti), che inizierà il 5 aprile
+  Informazioni e iscrizioni: help2022@unistrasi.it'
+url: https://twitter.com/UniStraSiena/status/1509821453037977614
+address:
+  mode: autocomplete
+  address:
+    place_id: 285586254
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 68507505
+    boundingbox:
+    - '42.9519613'
+    - '43.2719613'
+    - '12.2290104'
+    - '12.5490104'
+    lat: '43.1119613'
+    lon: '12.3890104'
+    display_name: Perugia, Umbria, 06100, Italia
+    class: place
+    type: city
+    importance: 0.717856532444482
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Perugia
+      county: Perugia
+      state: Umbria
+      postcode: '06100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/452,1190293596,2022-04-07 07:22:42,2022-04-01 21:36:12,"A Palermo il Comitato Salva Ucraini offre ai rifugiati ucraini beni di prima necessità, assistenza medica e legale",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""hospitality"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""postcode"":""90141"",""road"":""Via Marchese Ugo"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1299555"",""38.1336658"",""13.3496116"",""13.3514253""],""class"":""highway"",""display_name"":""Via Marchese Ugo, VIII Circoscrizione, Palermo, Sicilia, 90141, Italia"",""importance"":0.72,""lat"":""38.1315691"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3504181"",""osm_id"":86265407,""osm_type"":""way"",""place_id"":119906789,""type"":""residential""},""mode"":""autocomplete""},""description"":""Il Comitato di volontari Salva Ucraini a Palermo offre ai rifugiati ucraini beni di prima necessit\u00e0 (cibo, vestiti, medicine) e assistenza medico e legale. Per maggiori informazioni: - Gruppo Facebook \u201cComitato Salva Ucraini Palermo\u201d - Canale Telegram https://t.me/ucraini_a_palermo\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014- \u041a\u043e\u043c\u0438\u0442\u0435\u0442 \u0432\u043e\u043b\u043e\u043d\u0442\u0435\u0440\u043e\u0432 \u0441\u043f\u0430\u0441\u0430\u0435\u0442 \u0443\u043a\u0440\u0430\u0438\u043d\u0446\u0435\u0432 \u0432 \u041f\u0430\u043b\u0435\u0440\u043c\u043e \u041f\u043e\u0434\u043e\u0436\u0434\u0438\u0442\u0435, \u043f\u043e\u043a\u0430 \u043f\u0440\u0438\u0435\u0434\u0443\u0442 \u0443\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u0438\u0435 \u0431\u0435\u0436\u0435\u043d\u0446\u044b \u0438 \u0441\u043e\u0431\u0435\u0440\u0443\u0442 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u044b \u043f\u0435\u0440\u0432\u043e\u0439 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e\u0441\u0442\u0438. \u041f\u0440\u043e\u0434\u0443\u043a\u0442\u044b \u043f\u0438\u0442\u0430\u043d\u0438\u044f, \u043e\u0434\u0435\u0436\u0434\u0430, \u043b\u0435\u043a\u0430\u0440\u0441\u0442\u0432\u0430, \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0430\u044f \u0438 \u044e\u0440\u0438\u0434\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043f\u043e\u043c\u043e\u0449\u044c \u041d\u0430 \u043d\u0430\u0448\u0438\u0445 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430\u0445 \u0432 facebook \u0438 \u0442\u0435\u043b\u0435\u0433\u0440\u0430\u043c \u0434\u043b\u044f \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0438\u044f \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u0421\u043b\u0435\u0434\u0438\u0442\u0435 \u0437\u0430 \u043d\u043e\u0432\u043e\u0441\u0442\u044f\u043c\u0438 \u043d\u0430 \u043a\u0430\u043d\u0430\u043b\u0435: https://t.me/ucraini_a_palermo Facebook-\u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430 \u041a\u043e\u043c\u0438\u0442\u0435\u0442\u0430 \u00ab\u0421\u043f\u0430\u0441\u0435\u043c \u0443\u043a\u0440\u0430\u0438\u043d\u0446\u0435\u0432\u00bb \u0432 \u041f\u0430\u043b\u0435\u0440\u043c\u043e"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comitato Salva Ucraini Palermo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Palermo il Comitato Salva Ucraini offre ai rifugiati ucraini beni di prima necessit\u00e0 e assistenza medico e legale"",""url"":""https://www.facebook.com/groups/874964709185709/permalink/5610400905642042/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: true
+  transport: false
+  healthcare: true
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Comitato Salva Ucraini Palermo
+title: A Palermo il Comitato Salva Ucraini offre ai rifugiati ucraini beni di prima
+  necessità e assistenza medico e legale
+recipients: ''
+description: 'Il Comitato di volontari Salva Ucraini a Palermo offre ai rifugiati
+  ucraini beni di prima necessità (cibo, vestiti, medicine) e assistenza medico e
+  legale.
+  Per maggiori informazioni:
+  - Gruppo Facebook “Comitato Salva Ucraini Palermo”
+  - Canale Telegram https://t.me/ucraini_a_palermo
+
+  ————————————-
+  Комитет волонтеров спасает украинцев в Палермо
+  Подождите, пока приедут украинские беженцы и соберут предметы первой необходимости.
+  Продукты питания, одежда, лекарства, медицинская и юридическая помощь
+  На наших страницах в facebook и телеграм для получения дополнительной информации
+  Следите за новостями на канале: https://t.me/ucraini_a_palermo
+  Facebook-страница Комитета «Спасем украинцев» в Палермо'
+url: https://www.facebook.com/groups/874964709185709/permalink/5610400905642042/
+address:
+  mode: autocomplete
+  address:
+    place_id: 119906789
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 86265407
+    boundingbox:
+    - '38.1299555'
+    - '38.1336658'
+    - '13.3496116'
+    - '13.3514253'
+    lat: '38.1315691'
+    lon: '13.3504181'
+    display_name: Via Marchese Ugo, VIII Circoscrizione, Palermo, Sicilia, 90141,
+      Italia
+    class: highway
+    type: residential
+    importance: 0.72
+    address:
+      road: Via Marchese Ugo
+      suburb: VIII Circoscrizione
+      city: Palermo
+      county: Palermo
+      state: Sicilia
+      postcode: '90141'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/494,1192030496,2022-04-07 07:21:35,2022-04-04 16:24:48,Sul sito di Arci i punti di raccolta beni per emergenza Ucraina presso le varie sedi Arci in Italia,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00100"",""road"":""Via dei Monti di Pietralata"",""state"":""Lazio"",""suburb"":""Pietralata""},""boundingbox"":[""41.9202489"",""41.9204935"",""12.5312367"",""12.5313848""],""class"":""highway"",""display_name"":""Via dei Monti di Pietralata, Pietralata, Roma, Roma Capitale, Lazio, 00100, Italia"",""importance"":0.72,""lat"":""41.9202489"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.5313848"",""osm_id"":255254277,""osm_type"":""way"",""place_id"":165004837,""type"":""tertiary""},""mode"":""autocomplete""},""description"":""Sul sito di Arci i punti di raccolta beni e le iniziative per l\u2019emergenza in Ucraina promosse dalle varie sedi Arci in Italia."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Arci Nazionale"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Sul sito di Arci i punti di raccolta beni per emergenza Ucraina presso le varie sedi Arci in Italia"",""url"":""https://www.arci.it/solidarieta-ucraina/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Arci Nazionale
+title: Sul sito di Arci i punti di raccolta beni per emergenza Ucraina presso le varie
+  sedi Arci in Italia
+recipients: ''
+description: Sul sito di Arci i punti di raccolta beni e le iniziative per l’emergenza
+  in Ucraina promosse dalle varie sedi Arci in Italia.
+url: https://www.arci.it/solidarieta-ucraina/
+address:
+  mode: autocomplete
+  address:
+    place_id: 165004837
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 255254277
+    boundingbox:
+    - '41.9202489'
+    - '41.9204935'
+    - '12.5312367'
+    - '12.5313848'
+    lat: '41.9202489'
+    lon: '12.5313848'
+    display_name: Via dei Monti di Pietralata, Pietralata, Roma, Roma Capitale, Lazio,
+      00100, Italia
+    class: highway
+    type: tertiary
+    importance: 0.72
+    address:
+      road: Via dei Monti di Pietralata
+      suburb: Pietralata
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: '00100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/517,1195157192,2022-04-07 07:12:25,2022-04-06 20:31:34,"Regione Toscana, accesso a pediatra di famiglia per bambini ucraini anche non in regola con permesso di soggiorno",,,,,"[""Valid/Accettato"",""Services"",""healthcare"",""Children""]",,,"{""address"":{""address"":{""address"":{""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""highway"":""Regione Toscana"",""postcode"":""50127"",""road"":""Via di Novoli"",""state"":""Toscana"",""suburb"":""Quartiere 5""},""boundingbox"":[""43.792534"",""43.792634"",""11.2226109"",""11.2227109""],""class"":""highway"",""display_name"":""Regione Toscana, Via di Novoli, Quartiere 5, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50127, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//transport_bus_stop2.p.20.png"",""importance"":0.21100000000000002,""lat"":""43.792584"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2226609"",""osm_id"":6027223967,""osm_type"":""node"",""place_id"":65208500,""type"":""bus_stop""},""mode"":""autocomplete""},""description"":""Un accordo tra pediatri, Asl e Regione Toscana stabilisce che i minori, che arrivano in Toscana dall\u2019Ucraina, potranno contare sulla presa in carico dei pediatri di famiglia in stretta relazione con tutte le strutture delle Asl territorialmente competenti. Ai bambini ucraini sar\u00e0 assicurata la completa assistenza sanitaria, al pari dei bambini italiani, con particolare riguardo alle attivit\u00e0 di sorveglianza, prevenzione e profilassi vaccinale del Covid-19 e di altre malattie infettive (polio, difterite, tetano, epatite b, pertosse, emofilo di tipo b, morbillo, rosolia, parotite, varicella). Questo vale anche per i minori che non sono in regola con le norme relative all\u2019ingresso e al soggiorno. Inoltre le Asl dovranno assicurare un servizio di consulenza e di traduzione attraverso la mediazione culturale, fornendo cos\u00ec ai pediatri gli strumenti necessari per favorire l\u2019accesso al servizio."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Toscana"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Regione Toscana, accesso a pediatra di famiglia per bambini ucraini anche non in regola con permesso di soggiorno"",""url"":""https://www.toscana-notizie.it/-/assistenza-e-cure-ai-bambini-ucraini-l-accordo-con-pediatri-e-asl""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -539,47 +750,6 @@ address:
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/515,1195141477,2022-04-06 22:38:28,2022-04-06 20:22:40,"Regione Toscana, bus e tramvia gratuita per i profughi ucraini",43.79366875,11.222513136213019,Toscana,Firenze,"[""Valid/Accettato"",""News"",""Services"",""transport""]",,,"{""Posizione"":""43.79366875 11.222513136213019"",""description"":""La Giunta della Regione Toscana il 6 aprile ha deliberato l\u2019utilizzo gratuito dei mezzi di trasporto pubblico locale su gomma e della tramvia per i 7.800 profughi ucraini arrivati in Toscana. La delibera entrer\u00e0 immediatamente in vigore. Per usufruire i profughi ucraini dovranno esibire i documenti che attestano il loro status."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://ift.tt/ts0CVlE"",""location"":{""address"":{""address"":{""city"":""Firenze"",""commercial"":""Regione Toscana"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""postcode"":""50127"",""state"":""Toscana"",""suburb"":""Quartiere 5""},""boundingbox"":[""43.7926836"",""43.7946061"",""11.221591"",""11.2236412""],""class"":""landuse"",""display_name"":""Regione Toscana, Quartiere 5, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50127, Italia"",""importance"":0.41,""lat"":""43.79366875"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.222513136213019"",""osm_id"":83826804,""osm_type"":""way"",""place_id"":121442998,""type"":""commercial""},""mode"":""autocomplete""},""submit"":true,""title"":""Regione Toscana, bus e tramvia gratuita per i profughi ucraini""}","<pre><yamldata>
-title: Regione Toscana, bus e tramvia gratuita per i profughi ucraini
-description: La Giunta della Regione Toscana il 6 aprile ha deliberato l’utilizzo
-  gratuito dei mezzi di trasporto pubblico locale su gomma e della tramvia per i 7.800
-  profughi ucraini arrivati in Toscana. La delibera entrerà immediatamente in vigore.
-  Per usufruire i profughi ucraini dovranno esibire i documenti che attestano il loro
-  status.
-link: https://ift.tt/ts0CVlE
-location:
-  mode: autocomplete
-  address:
-    place_id: 121442998
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 83826804
-    boundingbox:
-    - '43.7926836'
-    - '43.7946061'
-    - '11.221591'
-    - '11.2236412'
-    lat: '43.79366875'
-    lon: '11.222513136213019'
-    display_name: Regione Toscana, Quartiere 5, Firenze, Città metropolitana di Firenze,
-      Toscana, 50127, Italia
-    class: landuse
-    type: commercial
-    importance: 0.41
-    address:
-      commercial: Regione Toscana
-      suburb: Quartiere 5
-      city: Firenze
-      county: Città metropolitana di Firenze
-      state: Toscana
-      postcode: '50127'
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 43.79366875 11.222513136213019
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/514,1195131495,2022-04-06 22:38:04,2022-04-06 20:17:46,A Reggio Calabria Centro Comunitario Agape attiva comitato di supporto per bambini e mamme ucraine,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""hospitality"",""Children"",""women"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Reggio Calabria"",""country"":""Italia"",""country_code"":""it"",""county"":""Reggio di Calabria"",""postcode"":""89128"",""road"":""Via Paolo Pellicano"",""state"":""Calabria""},""boundingbox"":[""38.1045087"",""38.1058033"",""15.6445306"",""15.6460556""],""class"":""highway"",""display_name"":""Via Paolo Pellicano, Reggio Calabria, Reggio di Calabria, Calabria, 89128, Italia"",""importance"":0.51,""lat"":""38.1052193"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.6453737"",""osm_id"":266573045,""osm_type"":""way"",""place_id"":166237766,""type"":""residential""},""mode"":""autocomplete""},""description"":""Su iniziativa del Centro Comunitario Agape \u00e8 stato creato un comitato per realizzare percorsi di accoglienza diffusa di piccoli nuclei presso famiglie interessate o appartamenti concessi provvisoriamente da privati. \nPresso la sede di Agape (via P. Pellicano 21/h) sar\u00e0 attiva mattina e pomeriggio una segreteria alla quale ci si potr\u00e0 rivolgere (via mail all\u2019indirizzo segr.agape@gmail.com o al n. di telefono 0965894706, 3880561653) per offrire la propria disponibilit\u00e0 per le necessit\u00e0 di accoglienza (disponibilit\u00e0 di alloggi, disponibilit\u00e0 all\u2019accoglienza di una madre con bambini, volontariato per affiancamento/inserimento dei bambini,  ecc.). La donazione di viveri, pannolini, alimenti per bambini, medicine che potr\u00e0 essere fatta presso la Chiesa del Crocefisso (tel.0965/891266- 3880559227).\nInoltre a breve sar\u00e0 operativo uno sportello di ascolto e consulenza per le donne ucraine con l\u2019utilizzo di mediatori linguistici e legali."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Centro Comunitario Agape"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""comitato per i bambini e le mamme ucraine"",""url"":""https://www.csvrc.it/2022/04/e-nato-un-comitato-per-i-bambini-e-le-mamme-ucraine/""}","<pre><yamldata>
 servicetypes:
@@ -1932,59 +2102,6 @@ address:
       postcode: '10243'
       country: Germania
       country_code: de
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/494,1192030496,2022-04-04 16:31:22,2022-04-04 16:24:48,Sul sito di Arci i punti di raccolta beni per emergenza Ucraina presso le varie sedi Arci in Italia,,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00100"",""road"":""Via dei Monti di Pietralata"",""state"":""Lazio"",""suburb"":""Pietralata""},""boundingbox"":[""41.9202489"",""41.9204935"",""12.5312367"",""12.5313848""],""class"":""highway"",""display_name"":""Via dei Monti di Pietralata, Pietralata, Roma, Roma Capitale, Lazio, 00100, Italia"",""importance"":0.72,""lat"":""41.9202489"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.5313848"",""osm_id"":255254277,""osm_type"":""way"",""place_id"":165004837,""type"":""tertiary""},""mode"":""autocomplete""},""description"":""Sul sito di Arci i punti di raccolta beni e le iniziative per l\u2019emergenza in Ucraina promosse dalle varie sedi Arci in Italia."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Arci Nazionale"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Sul sito di Arci i punti di raccolta beni per emergenza Ucraina presso le varie sedi Arci in Italia"",""url"":""https://www.arci.it/solidarieta-ucraina/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Arci Nazionale
-title: Sul sito di Arci i punti di raccolta beni per emergenza Ucraina presso le varie
-  sedi Arci in Italia
-recipients: ''
-description: Sul sito di Arci i punti di raccolta beni e le iniziative per l’emergenza
-  in Ucraina promosse dalle varie sedi Arci in Italia.
-url: https://www.arci.it/solidarieta-ucraina/
-address:
-  mode: autocomplete
-  address:
-    place_id: 165004837
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 255254277
-    boundingbox:
-    - '41.9202489'
-    - '41.9204935'
-    - '12.5312367'
-    - '12.5313848'
-    lat: '41.9202489'
-    lon: '12.5313848'
-    display_name: Via dei Monti di Pietralata, Pietralata, Roma, Roma Capitale, Lazio,
-      00100, Italia
-    class: highway
-    type: tertiary
-    importance: 0.72
-    address:
-      road: Via dei Monti di Pietralata
-      suburb: Pietralata
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      postcode: '00100'
-      country: Italia
-      country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
@@ -3439,71 +3556,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/452,1190293596,2022-04-01 21:39:59,2022-04-01 21:36:12,"A Palermo il Comitato Salva Ucraini offre ai rifugiati ucraini beni di prima necessità, assistenza medica e legale",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""hospitality"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""postcode"":""90141"",""road"":""Via Marchese Ugo"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1299555"",""38.1336658"",""13.3496116"",""13.3514253""],""class"":""highway"",""display_name"":""Via Marchese Ugo, VIII Circoscrizione, Palermo, Sicilia, 90141, Italia"",""importance"":0.72,""lat"":""38.1315691"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3504181"",""osm_id"":86265407,""osm_type"":""way"",""place_id"":119906789,""type"":""residential""},""mode"":""autocomplete""},""description"":""Il Comitato di volontari Salva Ucraini a Palermo offre ai rifugiati ucraini beni di prima necessit\u00e0 (cibo, vestiti, medicine) e assistenza medico e legale. Per maggiori informazioni: - Gruppo Facebook \u201cComitato Salva Ucraini Palermo\u201d - Canale Telegram https://t.me/ucraini_a_palermo\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014- \u041a\u043e\u043c\u0438\u0442\u0435\u0442 \u0432\u043e\u043b\u043e\u043d\u0442\u0435\u0440\u043e\u0432 \u0441\u043f\u0430\u0441\u0430\u0435\u0442 \u0443\u043a\u0440\u0430\u0438\u043d\u0446\u0435\u0432 \u0432 \u041f\u0430\u043b\u0435\u0440\u043c\u043e \u041f\u043e\u0434\u043e\u0436\u0434\u0438\u0442\u0435, \u043f\u043e\u043a\u0430 \u043f\u0440\u0438\u0435\u0434\u0443\u0442 \u0443\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u0438\u0435 \u0431\u0435\u0436\u0435\u043d\u0446\u044b \u0438 \u0441\u043e\u0431\u0435\u0440\u0443\u0442 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u044b \u043f\u0435\u0440\u0432\u043e\u0439 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e\u0441\u0442\u0438. \u041f\u0440\u043e\u0434\u0443\u043a\u0442\u044b \u043f\u0438\u0442\u0430\u043d\u0438\u044f, \u043e\u0434\u0435\u0436\u0434\u0430, \u043b\u0435\u043a\u0430\u0440\u0441\u0442\u0432\u0430, \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0430\u044f \u0438 \u044e\u0440\u0438\u0434\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043f\u043e\u043c\u043e\u0449\u044c \u041d\u0430 \u043d\u0430\u0448\u0438\u0445 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430\u0445 \u0432 facebook \u0438 \u0442\u0435\u043b\u0435\u0433\u0440\u0430\u043c \u0434\u043b\u044f \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0438\u044f \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u0421\u043b\u0435\u0434\u0438\u0442\u0435 \u0437\u0430 \u043d\u043e\u0432\u043e\u0441\u0442\u044f\u043c\u0438 \u043d\u0430 \u043a\u0430\u043d\u0430\u043b\u0435: https://t.me/ucraini_a_palermo Facebook-\u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430 \u041a\u043e\u043c\u0438\u0442\u0435\u0442\u0430 \u00ab\u0421\u043f\u0430\u0441\u0435\u043c \u0443\u043a\u0440\u0430\u0438\u043d\u0446\u0435\u0432\u00bb \u0432 \u041f\u0430\u043b\u0435\u0440\u043c\u043e"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comitato Salva Ucraini Palermo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Palermo il Comitato Salva Ucraini offre ai rifugiati ucraini beni di prima necessit\u00e0 e assistenza medico e legale"",""url"":""https://www.facebook.com/groups/874964709185709/permalink/5610400905642042/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: true
-  transport: false
-  healthcare: true
-  Legal: true
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Comitato Salva Ucraini Palermo
-title: A Palermo il Comitato Salva Ucraini offre ai rifugiati ucraini beni di prima
-  necessità e assistenza medico e legale
-recipients: ''
-description: 'Il Comitato di volontari Salva Ucraini a Palermo offre ai rifugiati
-  ucraini beni di prima necessità (cibo, vestiti, medicine) e assistenza medico e
-  legale.
-  Per maggiori informazioni:
-  - Gruppo Facebook “Comitato Salva Ucraini Palermo”
-  - Canale Telegram https://t.me/ucraini_a_palermo
-
-  ————————————-
-  Комитет волонтеров спасает украинцев в Палермо
-  Подождите, пока приедут украинские беженцы и соберут предметы первой необходимости.
-  Продукты питания, одежда, лекарства, медицинская и юридическая помощь
-  На наших страницах в facebook и телеграм для получения дополнительной информации
-  Следите за новостями на канале: https://t.me/ucraini_a_palermo
-  Facebook-страница Комитета «Спасем украинцев» в Палермо'
-url: https://www.facebook.com/groups/874964709185709/permalink/5610400905642042/
-address:
-  mode: autocomplete
-  address:
-    place_id: 119906789
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 86265407
-    boundingbox:
-    - '38.1299555'
-    - '38.1336658'
-    - '13.3496116'
-    - '13.3514253'
-    lat: '38.1315691'
-    lon: '13.3504181'
-    display_name: Via Marchese Ugo, VIII Circoscrizione, Palermo, Sicilia, 90141,
-      Italia
-    class: highway
-    type: residential
-    importance: 0.72
-    address:
-      road: Via Marchese Ugo
-      suburb: VIII Circoscrizione
-      city: Palermo
-      county: Palermo
-      state: Sicilia
-      postcode: '90141'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/449,1190032295,2022-04-01 16:31:55,2022-04-01 16:31:15,"Donazioni Ucraina, Check Point Research: in aumento le truffe online",,,,,"[""Valid/Accettato"",""fakenews""]",,,"{""description"":""Ogni volta che ci troviamo di fronte a una catastrofe umanitaria, si scatena lo sciacallaggio. E non risparmia nemmeno il web. Come sollevato dall\u2019agenzia di sicurezza informatica Check Point Research, con la richiesta di donazioni per l\u2019Ucraina sono aumentate le truffe informatiche. L\u2019allarme \u00e8 stato segnalato dai ricercatori dell\u2019azienda israeliana."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""fakenews"",""link"":""https://www.webnews.it/2022/03/25/allarme-donazioni-ucraina-aumentano-le-false-richieste-di-aiuti-online/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Donazioni Ucraina, Check Point Research: in aumento le truffe online""}","<pre><yamldata>
 title: 'Donazioni Ucraina, Check Point Research: in aumento le truffe online'
 description: Ogni volta che ci troviamo di fronte a una catastrofe umanitaria, si
@@ -3839,58 +3891,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: fundraising
 submit: true
 Posizione: 43.1119613 12.3890104
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/443,1189902687,2022-04-01 15:22:08,2022-04-01 14:46:43,Università per Stranieri di Siena: corso intensivo gratuito di lingua italiana per profughi ucraini,,,,,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Perugia"",""country"":""Italia"",""country_code"":""it"",""county"":""Perugia"",""postcode"":""06100"",""state"":""Umbria""},""boundingbox"":[""42.9519613"",""43.2719613"",""12.2290104"",""12.5490104""],""class"":""place"",""display_name"":""Perugia, Umbria, 06100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.717856532444482,""lat"":""43.1119613"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.3890104"",""osm_id"":68507505,""osm_type"":""node"",""place_id"":285586254,""type"":""city""},""mode"":""autocomplete""},""description"":""ll Centro Linguistico dell'Universit\u00e0 per Stranieri di Siena offre alle persone coinvolte nell\u2019emergenza Ucraina la possibilit\u00e0 di frequentare un corso intensivo gratuito di lingua italiana d livello A1 (principianti), che inizier\u00e0 il 5 aprile Informazioni e iscrizioni: help2022@unistrasi.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Universit\u00e0 per Stranieri di Siena"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Universit\u00e0 per Stranieri di Siena: corso intensivo di lingua italiana"",""url"":""https://twitter.com/UniStraSiena/status/1509821453037977614""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: true
-offerFromWho: Università per Stranieri di Siena
-title: 'Università per Stranieri di Siena: corso intensivo di lingua italiana'
-recipients: ''
-description: 'll Centro Linguistico dell''Università per Stranieri di Siena offre
-  alle persone coinvolte nell’emergenza Ucraina la possibilità di frequentare un corso intensivo gratuito
-  di lingua italiana d livello A1 (principianti), che inizierà il 5 aprile
-  Informazioni e iscrizioni: help2022@unistrasi.it'
-url: https://twitter.com/UniStraSiena/status/1509821453037977614
-address:
-  mode: autocomplete
-  address:
-    place_id: 285586254
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 68507505
-    boundingbox:
-    - '42.9519613'
-    - '43.2719613'
-    - '12.2290104'
-    - '12.5490104'
-    lat: '43.1119613'
-    lon: '12.3890104'
-    display_name: Perugia, Umbria, 06100, Italia
-    class: place
-    type: city
-    importance: 0.717856532444482
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
-    address:
-      city: Perugia
-      county: Perugia
-      state: Umbria
-      postcode: '06100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/442,1189893809,2022-04-01 15:20:27,2022-04-01 14:39:19,"Stand Up For Ukraine, Commissione Europea attiva nuovo sistema di donazioni per emergenza Ucraina",50.8431406,4.383206,,,"[""Valid/Accettato"",""News"",""fundraising""]",,,"{""Posizione"":""50.8431406 4.383206"",""description"":""Con la campagna \""Stand Up For Ukraine\"", la Commissione Europea inaugura un nuovo sistema di donazioni da parte di aziende e altri enti privati. Gli enti interessati dovranno contattare la Commissione europea via email scrivendo a contact the European Union via email: ECHO-private-donations@ec.europa.eu e riceveranno istruzioni. Altre info al link."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://ec.europa.eu/commission/presscorner/detail/en/ip_22_2142"",""location"":{""address"":{""address"":{""city"":""Bruxelles"",""country"":""Belgio"",""country_code"":""be"",""county"":""Brussel-Hoofdstad - Bruxelles-Capitale"",""house_number"":""200"",""municipality"":""Ville de Bruxelles - Stad Brussel"",""neighbourhood"":""Quartier europ\u00e9en - Europese Wijk"",""office"":""Commissione europea"",""postcode"":""1040"",""region"":""R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest"",""road"":""Rue de la Loi - Wetstraat""},""boundingbox"":[""50.8430906"",""50.8431906"",""4.383156"",""4.383256""],""class"":""office"",""display_name"":""Commissione europea, 200, Rue de la Loi - Wetstraat, Quartier europ\u00e9en - Europese Wijk, Bruxelles, Ville de Bruxelles - Stad Brussel, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1040, Belgio"",""importance"":0.9460194182893089,""lat"":""50.8431406"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""4.383206"",""osm_id"":7603013404,""osm_type"":""node"",""place_id"":79744431,""type"":""government""},""mode"":""autocomplete""},""submit"":true,""title"":""Stand Up For Ukraine, Commissione Europea attiva nuovo sistema di donazioni per emergenza Ucraina""}","<pre><yamldata>
 title: Stand Up For Ukraine, Commissione Europea attiva nuovo sistema di donazioni
