@@ -1,5 +1,5 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/533,1196539117,2022-04-07 22:19:57,2022-04-07 20:31:10,Raccolta fondi dell’Ospedale Gaslini di Genova per trasferire bambini ucraini malati in Italia con le loro famiglie ,,,,,"[""Valid/Accettato"",""fundraising"",""healthcare""]",,,"{""bicSwift"":"""",""causal"":""Gaslini per l'Ucraina"",""ccPostal"":"""",""description"":""Il Gaslini, con una sua equipe medico infermieristica ha coordinato in Polonia, a 70 km dal confine con l'Ucraina, la presa in carico dei bambini con tumori, patologie gravi e feriti di guerra e organizzato, per i casi pi\u00f9 gravi, un trasferimento al Gaslini e in altri ospedali italiani. Otto bambini affetti da neoplasie sono gi\u00e0 stati presi in carico dal Gaslini e altri arriveranno nei prossimi giorni. \n\nOltre alle necessit\u00e0 legate alla cura e al trasporto dei piccoli pazienti ucraini, occorre gestire l'accoglienza nel periodo in cui le famiglie in fuga dalla guerra con i propri bambini malati attendono il trasferimento presso gli ospedali italiani."",""email"":"""",""heading"":""Gaslini onlus"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT48Q0617501583000000700080"",""label"":""fundraising"",""link"":""https://sostienici.gaslinionlus.it/projects/gaslini-per-ucraina?fbclid=IwAR1nUdfg7FKYALCEx5YtneSUQwP3P8kSohnpFt2z-665L0KKr21Z8XIFZyI"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Ospedale Gaslini""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/533,1196539117,2022-04-07 22:26:13,2022-04-07 20:31:10,Raccolta fondi dell’Ospedale Gaslini di Genova per trasferire in Italia bambini ucraini malati con le loro famiglie ,,,,,"[""Valid/Accettato"",""fundraising"",""healthcare""]",,,"{""bicSwift"":"""",""causal"":""Gaslini per l'Ucraina"",""ccPostal"":"""",""description"":""Il Gaslini, con una sua equipe medico infermieristica ha coordinato in Polonia, a 70 km dal confine con l'Ucraina, la presa in carico dei bambini con tumori, patologie gravi e feriti di guerra e organizzato, per i casi pi\u00f9 gravi, un trasferimento al Gaslini e in altri ospedali italiani. Otto bambini affetti da neoplasie sono gi\u00e0 stati presi in carico dal Gaslini e altri arriveranno nei prossimi giorni. \n\nOltre alle necessit\u00e0 legate alla cura e al trasporto dei piccoli pazienti ucraini, occorre gestire l'accoglienza nel periodo in cui le famiglie in fuga dalla guerra con i propri bambini malati attendono il trasferimento presso gli ospedali italiani."",""email"":"""",""heading"":""Gaslini onlus"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT48Q0617501583000000700080"",""label"":""fundraising"",""link"":""https://sostienici.gaslinionlus.it/projects/gaslini-per-ucraina?fbclid=IwAR1nUdfg7FKYALCEx5YtneSUQwP3P8kSohnpFt2z-665L0KKr21Z8XIFZyI"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Ospedale Gaslini""}","<pre><yamldata>
 title: Ospedale Gaslini
 description: ""Il Gaslini, con una sua equipe medico infermieristica ha coordinato\
   \ in Polonia, a 70 km dal confine con l'Ucraina, la presa in carico dei bambini\
@@ -22,6 +22,40 @@ location:
   address: {}
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: fundraising
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/534,1196541621,2022-04-07 22:25:53,2022-04-07 20:33:45,Ospedale Bambino Gesù di Roma risponde all’appello di ERN per offrire assistenza medica specialistica ai bambini ucraini affetti da malattie rare ,,,,,"[""Valid/Accettato"",""Services"",""healthcare""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""L\u2019Ospedale Pediatrico Bambino Ges\u00f9 risponde all\u2019appello lanciato dalle Reti ERN europee per offrire consulenze specialistiche e assistenza sanitaria ai bambini ucraini con gravi malattie rare che non possono ricevere le cure necessarie nel loro Paese di origine a causa del conflitto.Le ERN - Reti di Riferimento Europee per le malattie rare - per fronteggiare l\u2019emergenza internazionale hanno predisposto un nuovo sito web www.erncare4ua.eu che sar\u00e0 il punto di contatto e di informazione per le Istituzioni, per l\u2019Organizzazione Mondiale della Sanit\u00e0 e per gli operatori sanitari di tutta Europa che abbiano bisogno di aiuto per la gestione dei malati rari ucraini."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ospedale Bambino Ges\u00f9"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Sostegno ai bambini affetti da malattie rare"",""url"":""https://www.ospedalebambinogesu.it/il-bambino-gesu-con-le-reti-ern-per-i-malati-rari-dell-ucraina-138371/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: true
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Ospedale Bambino Gesù
+title: Sostegno ai bambini affetti da malattie rare
+recipients: ''
+description: L’Ospedale Pediatrico Bambino Gesù risponde all’appello lanciato dalle
+  Reti ERN europee per offrire consulenze specialistiche e assistenza sanitaria ai
+  bambini ucraini con gravi malattie rare che non possono ricevere le cure necessarie
+  nel loro Paese di origine a causa del conflitto.Le ERN - Reti di Riferimento Europee
+  per le malattie rare - per fronteggiare l’emergenza internazionale hanno predisposto
+  un nuovo sito web www.erncare4ua.eu che sarà il punto di contatto e di informazione
+  per le Istituzioni, per l’Organizzazione Mondiale della Sanità e per gli operatori
+  sanitari di tutta Europa che abbiano bisogno di aiuto per la gestione dei malati
+  rari ucraini.
+url: https://www.ospedalebambinogesu.it/il-bambino-gesu-con-le-reti-ern-per-i-malati-rari-dell-ucraina-138371/
+address:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/532,1196531582,2022-04-07 20:27:53,2022-04-07 20:22:52,Associazione Karmadonne di Carmagnola (Torino) cerca volontari/e per gestire raccolta beni e distribuirli ai profughi ucraini,44.8515877,7.7222716,Piemonte,Torino,"[""Valid/Accettato"",""Help"",""materialGoods""]",,,"{""Posizione"":""44.8515877 7.7222716"",""description"":""L'Associazione Karmadonne cerca volontari e volontarie il sabato mattina per la gestione e redistribuzione dei pacchi con beni di prima necessit\u00e0 da inviare alle persone in fuga dall'Ucraina."",""email"":""karmadonne.carmagnola@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""postcode"":""10022"",""road"":""Via Girolamo Savonarola"",""state"":""Piemonte"",""town"":""Carmagnola""},""boundingbox"":[""44.8511551"",""44.8518055"",""7.7192112"",""7.7246284""],""class"":""highway"",""display_name"":""Via Girolamo Savonarola, Carmagnola, Torino, Piemonte, 10022, Italia"",""importance"":0.51,""lat"":""44.8515877"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.7222716"",""osm_id"":76089297,""osm_type"":""way"",""place_id"":330815289,""type"":""residential""},""mode"":""autocomplete""},""nameSurname"":""Karmadonne"",""phoneNumber"":""3939096878"",""recipients"":"""",""submit"":true,""title"":""Ricerca volontari/e per raccolta beni di prima necessit\u00e0"",""url"":""https://www.karmadonne.it/?fbclid=IwAR1YJhU5Ye8ReW6g_79XduQ_lHtLyhCcz-s9QPj0KOmHKPDVY73l_jkJ6dw""}","<pre><yamldata>
