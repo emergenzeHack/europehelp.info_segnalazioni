@@ -1,4 +1,60 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/524,1195918050,2022-04-07 20:05:31,2022-04-07 11:36:09,"Arci Caltanissetta offre possibilità di alloggio per profughi ucraini e raccoglie fondi, indumenti e beni di prima necessità ",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Caltanissetta"",""neighbourhood"":""Villaggio Piave"",""postcode"":""93010"",""road"":""Via Silvio Pellico"",""state"":""Sicilia"",""village"":""Milena""},""boundingbox"":[""37.4679705"",""37.4695556"",""13.7365504"",""13.7418781""],""class"":""highway"",""display_name"":""Via Silvio Pellico, Villaggio Piave, Milena, Caltanissetta, Sicilia, 93010, Italia"",""importance"":0.7299999999999999,""lat"":""37.4688732"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.7393301"",""osm_id"":768949693,""osm_type"":""way"",""place_id"":251466304,""type"":""residential""},""mode"":""autocomplete""},""description"":""Stiamo mettendo a disposizione lo spazio alloggio (normalmente destinato all\u2019accoglienza di volontari, artisti o pellegrini della Magna Via Francigena) della nostra sede operativa, il Magazzino Culturale \u201cEx oleificio\u201d, per l\u2019accoglienza dei profughi oltre alla raccolta fondi, indumenti e beni di prima necessit\u00e0. \nhttps://www.facebook.com/magazzino.culturale\nContattare: \nCarmelo Vitellaro\nkarmevitae@hotmail.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""ARCI \u2013 COMITATO TERRITORIALE CALTANISSETTA"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Possibilit\u00e0 di alloggio"",""url"":""https://www.arci.it/solidarieta-ucraina/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: ARCI – COMITATO TERRITORIALE CALTANISSETTA
+title: Possibilità di alloggio
+recipients: ''
+description: ""Stiamo mettendo a disposizione lo spazio alloggio (normalmente destinato\
+  \ all’accoglienza di volontari, artisti o pellegrini della Magna Via Francigena)\
+  \ della nostra sede operativa, il Magazzino Culturale “Ex oleificio”, per l’accoglienza\
+  \ dei profughi oltre alla raccolta fondi, indumenti e beni di prima necessità. \n\
+  https://www.facebook.com/magazzino.culturale\nContattare: \nCarmelo Vitellaro\n\
+  karmevitae@hotmail.it""
+url: https://www.arci.it/solidarieta-ucraina/
+address:
+  mode: autocomplete
+  address:
+    place_id: 251466304
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 768949693
+    boundingbox:
+    - '37.4679705'
+    - '37.4695556'
+    - '13.7365504'
+    - '13.7418781'
+    lat: '37.4688732'
+    lon: '13.7393301'
+    display_name: Via Silvio Pellico, Villaggio Piave, Milena, Caltanissetta, Sicilia,
+      93010, Italia
+    class: highway
+    type: residential
+    importance: 0.7299999999999999
+    address:
+      road: Via Silvio Pellico
+      neighbourhood: Villaggio Piave
+      village: Milena
+      county: Caltanissetta
+      state: Sicilia
+      postcode: '93010'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/514,1195131495,2022-04-07 15:32:09,2022-04-06 20:17:46,A Reggio Calabria Centro Comunitario Agape attiva comitato di supporto per bambini e mamme ucraine,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""hospitality"",""Children"",""women"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Reggio Calabria"",""country"":""Italia"",""country_code"":""it"",""county"":""Reggio di Calabria"",""postcode"":""89128"",""road"":""Via Paolo Pellicano"",""state"":""Calabria""},""boundingbox"":[""38.1045087"",""38.1058033"",""15.6445306"",""15.6460556""],""class"":""highway"",""display_name"":""Via Paolo Pellicano, Reggio Calabria, Reggio di Calabria, Calabria, 89128, Italia"",""importance"":0.51,""lat"":""38.1052193"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.6453737"",""osm_id"":266573045,""osm_type"":""way"",""place_id"":166237766,""type"":""residential""},""mode"":""autocomplete""},""description"":""Su iniziativa del Centro Comunitario Agape \u00e8 stato creato un comitato per realizzare percorsi di accoglienza diffusa di piccoli nuclei presso famiglie interessate o appartamenti concessi provvisoriamente da privati. \nPresso la sede di Agape (via P. Pellicano 21/h) sar\u00e0 attiva mattina e pomeriggio una segreteria alla quale ci si potr\u00e0 rivolgere (via mail all\u2019indirizzo segr.agape@gmail.com o al n. di telefono 0965894706, 3880561653) per offrire la propria disponibilit\u00e0 per le necessit\u00e0 di accoglienza (disponibilit\u00e0 di alloggi, disponibilit\u00e0 all\u2019accoglienza di una madre con bambini, volontariato per affiancamento/inserimento dei bambini,  ecc.). La donazione di viveri, pannolini, alimenti per bambini, medicine che potr\u00e0 essere fatta presso la Chiesa del Crocefisso (tel.0965/891266- 3880559227).\nInoltre a breve sar\u00e0 operativo uno sportello di ascolto e consulenza per le donne ucraine con l\u2019utilizzo di mediatori linguistici e legali."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Centro Comunitario Agape"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""comitato per i bambini e le mamme ucraine"",""url"":""https://www.csvrc.it/2022/04/e-nato-un-comitato-per-i-bambini-e-le-mamme-ucraine/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
