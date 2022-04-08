@@ -1,4 +1,365 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/546,1197872971,2022-04-08 21:53:31,2022-04-08 21:47:39,Associazioni e gruppi ucraini a Pavia e provincia,,,,,"[""Valid/Accettato"",""News"",""Services"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""state"":""Lombardia""},""boundingbox"":[""44.6799091"",""45.393838"",""8.4978518"",""9.5505475""],""class"":""boundary"",""display_name"":""Pavia, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7422019961097704,""lat"":""45.036854649999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.137825082826026"",""osm_id"":43483,""osm_type"":""relation"",""place_id"":283772748,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Sul sito di Csv Lombardia la mappatura delle associazioni, chiese e gruppi ucraini a Pavia e provincia che offrono aiuti ai rifugiati e per l\u2019emergenza Ucraina."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Associazioni e gruppi ucraini a Pavia e provincia"",""url"":""https://www.csvlombardia.it/senza-categoria/post/ucraina-per-chi-cerca-aiuto-in-provincia-di-pavia-gruppi-ucraini/""}","<pre><yamldata>
+title: Associazioni e gruppi ucraini a Pavia e provincia
+phoneNumber: ''
+email: ''
+aim: Sul sito di Csv Lombardia la mappatura delle associazioni, chiese e gruppi ucraini
+  a Pavia e provincia che offrono aiuti ai rifugiati e per l’emergenza Ucraina.
+url: https://www.csvlombardia.it/senza-categoria/post/ucraina-per-chi-cerca-aiuto-in-provincia-di-pavia-gruppi-ucraini/
+address:
+  mode: autocomplete
+  address:
+    place_id: 283772748
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43483
+    boundingbox:
+    - '44.6799091'
+    - '45.393838'
+    - '8.4978518'
+    - '9.5505475'
+    lat: '45.036854649999995'
+    lon: '9.137825082826026'
+    display_name: Pavia, Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7422019961097704
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Pavia
+      state: Lombardia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/545,1197867720,2022-04-08 21:50:50,2022-04-08 21:43:01,"Beni umanitari per l’emergenza Ucraina, i punti di raccolta a Pavia e provincia",,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""state"":""Lombardia""},""boundingbox"":[""44.6799091"",""45.393838"",""8.4978518"",""9.5505475""],""class"":""boundary"",""display_name"":""Pavia, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7422019961097704,""lat"":""45.036854649999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.137825082826026"",""osm_id"":43483,""osm_type"":""relation"",""place_id"":283772748,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Disponibile sul sito di Csv Lombardia la mappatura, in costante aggiornamento, dei punti di raccolta di beni umanitari a Pavia e provincia."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Csv Lombardia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Beni umanitari per l\u2019emergenza Ucraina, i punti di raccolta a Pavia e provincia"",""url"":""https://www.csvlombardia.it/senza-categoria/post/ucraina-per-chi-offre-aiuto-in-provincia-di-pavia-raccolta-beni-di-prima-necessita/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Csv Lombardia
+title: Beni umanitari per l’emergenza Ucraina, i punti di raccolta a Pavia e provincia
+recipients: ''
+description: Disponibile sul sito di Csv Lombardia la mappatura, in costante aggiornamento,
+  dei punti di raccolta di beni umanitari a Pavia e provincia.
+url: https://www.csvlombardia.it/senza-categoria/post/ucraina-per-chi-offre-aiuto-in-provincia-di-pavia-raccolta-beni-di-prima-necessita/
+address:
+  mode: autocomplete
+  address:
+    place_id: 283772748
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43483
+    boundingbox:
+    - '44.6799091'
+    - '45.393838'
+    - '8.4978518'
+    - '9.5505475'
+    lat: '45.036854649999995'
+    lon: '9.137825082826026'
+    display_name: Pavia, Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7422019961097704
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Pavia
+      state: Lombardia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/544,1197862868,2022-04-08 21:50:27,2022-04-08 21:38:40,A Pavia raccolta beni e farmaci per emergenza Ucraina promossa da Sisterr e associazione donne ucraine “Djerlo”,,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""state"":""Lombardia""},""boundingbox"":[""44.6799091"",""45.393838"",""8.4978518"",""9.5505475""],""class"":""boundary"",""display_name"":""Pavia, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7422019961097704,""lat"":""45.036854649999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.137825082826026"",""osm_id"":43483,""osm_type"":""relation"",""place_id"":283772748,""type"":""administrative""},""mode"":""autocomplete""},""description"":""SISTERR Sistema Territoriale Pavese per la Cooperazione Internazionale con la collaborazione dall\u2019Associazione \u201cDjerlo\u201d Donne Ucraine in Pavia, promuove due attivit\u00e0:\n1) raccolta di generi alimentari, farmaci e presidi medici per l\u2019emergenza;\n2) raccolta di fondi per l\u2019acquisto dei generi meno reperibili sul mercato attraverso il Conto Corrente del SISTERR e dell\u2019Associazione Djerlo\u201d Donne Ucraine in Pavia e per l\u2019organizzazione del trasporto dei beni raccolti;\nI beni attualmente richiesti sono solo quelli riportati di seguito:\nMedicinali: (antibiotici, antiinfiammatori,antidolorifici, disinfettanti, garze sterili, kit di pronto soccorso.\nGenerici: Prodotti per l\u2019igiene personale (dentifricio, sapone, bagnoschiuma, shampoo, etc..), assorbenti femminili, rasoi, lenzuola e coperte.\nCibo: scatolame (carne, tonno, fagioli, etc..), latte in polvere, pasta, riso, purea di patate in polvere\nMedicazione: imbracature emostatiche Esmarch, lacci emostatici CAT (Combat-Application-Tourniquet), pacchetti individuali di medicazione, bendaggi israeliani, forbici atraumatiche, coperte termiche, guanti lattice, bendaggi occlusivi, aghi da decompressione.\nPer la consegna al punto di raccolta dell\u2019Associazione Djerlo in zona Scala a Pavia contattare la Presidente dell\u2019Associazione Dina Petelko al seguente numero di cellulare: 388 951 4717."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Sisterr e associazione donne ucraine \u201cDjerlo\u201d"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Pavia raccolta beni e farmaci per emergenza Ucraina promossa da Sisterr e associazione donne ucraine \u201cDjerlo\u201d"",""url"":""https://www.comune.pv.it/site/home/notizie/articolo3255.html""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Sisterr e associazione donne ucraine “Djerlo”
+title: A Pavia raccolta beni e farmaci per emergenza Ucraina promossa da Sisterr e
+  associazione donne ucraine “Djerlo”
+recipients: ''
+description: 'SISTERR Sistema Territoriale Pavese per la Cooperazione Internazionale
+  con la collaborazione dall’Associazione “Djerlo” Donne Ucraine in Pavia, promuove
+  due attività:
+
+  1) raccolta di generi alimentari, farmaci e presidi medici per l’emergenza;
+
+  2) raccolta di fondi per l’acquisto dei generi meno reperibili sul mercato attraverso
+  il Conto Corrente del SISTERR e dell’Associazione Djerlo” Donne Ucraine in Pavia
+  e per l’organizzazione del trasporto dei beni raccolti;
+
+  I beni attualmente richiesti sono solo quelli riportati di seguito:
+
+  Medicinali: (antibiotici, antiinfiammatori,antidolorifici, disinfettanti, garze
+  sterili, kit di pronto soccorso.
+
+  Generici: Prodotti per l’igiene personale (dentifricio, sapone, bagnoschiuma, shampoo,
+  etc..), assorbenti femminili, rasoi, lenzuola e coperte.
+
+  Cibo: scatolame (carne, tonno, fagioli, etc..), latte in polvere, pasta, riso, purea
+  di patate in polvere
+
+  Medicazione: imbracature emostatiche Esmarch, lacci emostatici CAT (Combat-Application-Tourniquet),
+  pacchetti individuali di medicazione, bendaggi israeliani, forbici atraumatiche,
+  coperte termiche, guanti lattice, bendaggi occlusivi, aghi da decompressione.
+
+  Per la consegna al punto di raccolta dell’Associazione Djerlo in zona Scala a Pavia
+  contattare la Presidente dell’Associazione Dina Petelko al seguente numero di cellulare:
+  388 951 4717.'
+url: https://www.comune.pv.it/site/home/notizie/articolo3255.html
+address:
+  mode: autocomplete
+  address:
+    place_id: 283772748
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43483
+    boundingbox:
+    - '44.6799091'
+    - '45.393838'
+    - '8.4978518'
+    - '9.5505475'
+    lat: '45.036854649999995'
+    lon: '9.137825082826026'
+    display_name: Pavia, Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7422019961097704
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Pavia
+      state: Lombardia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/543,1197854323,2022-04-08 21:49:48,2022-04-08 21:29:47,A Empoli (Firenze) sportello di Asev e Oxfam offre info legali e socio-sanitarie ai rifugiati ucrain,43.7193527,10.9511771,Toscana,Firenze,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""healthcare""]",,,"{""Posizione"":""43.7193527 10.9511771"",""description"":""A Empoli, in Via Tripoli 11, uno sportello che offre aiuto alle famiglie ucraine. E\u2019 il punto Donyasso, gestito da Asev e Oxfam, nato nel 2018 all\u2019interno del progetto \u2018Nessuno Escluso\u2019 con il patrocinio dell\u2019Unione dei Comuni Empolese Valdelsa. In questo particolare momento lo sportello offre informazioni e orientamento sulla normativa e facilita l\u2019accesso a tutti i servizi sul territorio, in particolare a quelli socio-sanitari ed educativi, a tutti i cittadini che fuggono dall\u2019Ucraina e arrivano sul territorio dell\u2019Empolese Valdelsa. E\u2019 possibile richiedere un appuntamento con l\u2019aiuto di un mediatore di lingua ucraina, contattando il numero fisso 05711825630 o via whatsapp al 3711519641 il luned\u00ec dalle 14 alle 18 o il mercoled\u00ec dalle 9 alle 13.\n\n\u0411\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u0435 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u0439\u043d\u0435 \u0431\u044e\u0440\u043e Donyasso \u043a\u0435\u0440\u0443\u0454\u0442\u044c\u0441\u044f Asev \u0442\u0430 Oxfam \u0456 \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043e \u0432 2018 \u0440\u043e\u0446\u0456 \u0432 \u0440\u0430\u043c\u043a\u0430\u0445 \u043f\u0440\u043e\u0435\u043a\u0442\u0443 Nobody Excluded. \u042f\u043a\u0438\u0439 \u043d\u0430\u0434\u0430\u0454 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u044e \u0442\u0430 \u0432\u043a\u0430\u0437\u0456\u0432\u043a\u0438 \u0449\u043e\u0434\u043e \u0437\u0430\u043a\u043e\u043d\u043e\u0434\u0430\u0432\u0441\u0442\u0432\u0430 \u0442\u0430 \u043f\u043e\u043b\u0435\u0433\u0448\u0443\u0454 \u0434\u043e\u0441\u0442\u0443\u043f \u0434\u043e \u0432\u0441\u0456\u0445 \u043f\u043e\u0441\u043b\u0443\u0433 \u0443 \u0446\u044c\u043e\u043c\u0443 \u0440\u0435\u0433\u0456\u043e\u043d\u0456, \u0437\u043e\u043a\u0440\u0435\u043c\u0430, \u0441\u043e\u0446\u0456\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0434\u043e\u0440\u043e\u0432\u2019\u044f \u0442\u0430 \u043e\u0441\u0432\u0456\u0442\u043d\u0456\u0445 \u043f\u043e\u0441\u043b\u0443\u0433 \u0434\u043b\u044f \u0432\u0441\u0456\u0445 \u0433\u0440\u043e\u043c\u0430\u0434\u044f\u043d, \u044f\u043a\u0456 \u0442\u0456\u043a\u0430\u044e\u0442\u044c \u0437 \u0423\u043a\u0440\u0430\u0457\u043d\u0438 \u0442\u0430 \u043f\u0440\u0438\u0431\u0443\u0432\u0430\u044e\u0442\u044c \u0434\u043e \u0406\u0442\u0430\u043b\u0456\u0457, \u0437\u043e\u043a\u0440\u0435\u043c\u0430 \u0432 \u0437\u043e\u043d\u0430\u0445 EmpoleseValdelsa. \u0417\u0430 \u043f\u043e\u0442\u0440\u0435\u0431\u0438 \u043c\u043e\u0436\u043b\u0438\u0432\u043e \u0437\u0430\u043c\u043e\u0432\u0438\u0442\u0438 \u0437\u0443\u0441\u0442\u0440\u0456\u0447 \u0443 \u043f\u043e\u0441\u0435\u0440\u0435\u0434\u043d\u0438\u043a\u0430 \u044f\u043a\u0438\u0439 \u0432\u043e\u043b\u043e\u0434\u0456\u0454 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u044e \u043c\u043e\u0432\u043e\u044e. \u0414\u043b\u044f \u0437\u0430\u043f\u0438\u0441\u0443 \u043d\u0430 \u043f\u0440\u0438\u0439\u043e\u043c \u0442\u0430 \u0431\u0443\u0434\u044c-\u044f\u043a\u043e\u0457 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u0457 \u0434\u0437\u0432\u043e\u043d\u0456\u0442\u044c \u0437\u0430 \u043d\u043e\u043c\u0435\u0440\u043e\u043c SSO 05711825630 \u0430\u0431\u043e \u0447\u0435\u0440\u0435\u0437 whatsapp \u0437\u0430 \u043d\u043e\u043c\u0435\u0440\u043e\u043c 3711519641 \u043f\u043e \u043f\u043e\u043d\u0435\u0434\u0456\u043b\u043a\u0430\u0445 \u0437 14:00 \u0434\u043e 18:00 \u0430\u0431\u043e \u0443 \u0441\u0435\u0440\u0435\u0434\u0443 \u0437 9:00 \u0434\u043e 13:00."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.comune.castelfiorentino.fi.it/sites/default/files/2022-03/Donyasso_servizio_Ucraina.pdf"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""house_number"":""11/A"",""neighbourhood"":""Naiana"",""postcode"":""50053"",""road"":""Via Tripoli"",""state"":""Toscana"",""town"":""Empoli"",""village"":""Serravalle""},""boundingbox"":[""43.7193027"",""43.7194027"",""10.9511271"",""10.9512271""],""class"":""place"",""display_name"":""11/A, Via Tripoli, Naiana, Serravalle, Empoli, Citt\u00e0 metropolitana di Firenze, Toscana, 50053, Italia"",""importance"":0.5209999999999999,""lat"":""43.7193527"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.9511771"",""osm_id"":3772847059,""osm_type"":""node"",""place_id"":45931615,""type"":""house""},""mode"":""autocomplete""},""submit"":true,""title"":""A Empoli (Firenze) sportello di Asev e Oxfam offre info legali e socio-sanitarie ai rifugiati ucraini""}","<pre><yamldata>
+title: A Empoli (Firenze) sportello di Asev e Oxfam offre info legali e socio-sanitarie
+  ai rifugiati ucraini
+description: 'A Empoli, in Via Tripoli 11, uno sportello che offre aiuto alle famiglie
+  ucraine. E’ il punto Donyasso, gestito da Asev e Oxfam, nato nel 2018 all’interno
+  del progetto ‘Nessuno Escluso’ con il patrocinio dell’Unione dei Comuni Empolese
+  Valdelsa. In questo particolare momento lo sportello offre informazioni e orientamento
+  sulla normativa e facilita l’accesso a tutti i servizi sul territorio, in particolare
+  a quelli socio-sanitari ed educativi, a tutti i cittadini che fuggono dall’Ucraina
+  e arrivano sul territorio dell’Empolese Valdelsa. E’ possibile richiedere un appuntamento
+  con l’aiuto di un mediatore di lingua ucraina, contattando il numero fisso 05711825630
+  o via whatsapp al 3711519641 il lunedì dalle 14 alle 18 o il mercoledì dalle 9 alle
+  13.
+
+
+  Безкоштовне інформаційне бюро Donyasso керується Asev та Oxfam і створено в 2018
+  році в рамках проекту Nobody Excluded. Який надає інформацію та вказівки щодо законодавства
+  та полегшує доступ до всіх послуг у цьому регіоні, зокрема, соціального здоров’я
+  та освітніх послуг для всіх громадян, які тікають з України та прибувають до Італії,
+  зокрема в зонах EmpoleseValdelsa. За потреби можливо замовити зустріч у посередника
+  який володіє українською мовою. Для запису на прийом та будь-якої інформації дзвоніть
+  за номером SSO 05711825630 або через whatsapp за номером 3711519641 по понеділках
+  з 14:00 до 18:00 або у середу з 9:00 до 13:00.'
+link: https://www.comune.castelfiorentino.fi.it/sites/default/files/2022-03/Donyasso_servizio_Ucraina.pdf
+location:
+  mode: autocomplete
+  address:
+    place_id: 45931615
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 3772847059
+    boundingbox:
+    - '43.7193027'
+    - '43.7194027'
+    - '10.9511271'
+    - '10.9512271'
+    lat: '43.7193527'
+    lon: '10.9511771'
+    display_name: 11/A, Via Tripoli, Naiana, Serravalle, Empoli, Città metropolitana
+      di Firenze, Toscana, 50053, Italia
+    class: place
+    type: house
+    importance: 0.5209999999999999
+    address:
+      house_number: 11/A
+      road: Via Tripoli
+      neighbourhood: Naiana
+      village: Serravalle
+      town: Empoli
+      county: Città metropolitana di Firenze
+      state: Toscana
+      ISO3166-2-lvl4: IT-52
+      postcode: '50053'
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 43.7193527 10.9511771
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/540,1197824343,2022-04-08 21:49:21,2022-04-08 21:00:15,A Palermo corso gratuito di italiano per rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-82"",""ISO3166-2-lvl6"":""IT-PA"",""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""postcode"":""90141"",""road"":""Via Marchese Ugo"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1299555"",""38.1336658"",""13.3496116"",""13.3514253""],""class"":""highway"",""display_name"":""Via Marchese Ugo, VIII Circoscrizione, Palermo, Sicilia, 90141, Italia"",""importance"":0.51,""lat"":""38.1315691"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3504181"",""osm_id"":86265407,""osm_type"":""way"",""place_id"":119906789,""type"":""residential""},""mode"":""autocomplete""},""description"":""La prossima settimana, mercoled\u00ec 13-04-2022, alle ore 10:00, si svolger\u00e0 la prima lezione presso la scuola Dante Alighieri in via Marchese Ugo, 60 (accanto al Comitato Salva Ucraini).\nRequisiti degli studenti:\n\u27a1\ufe0fSolo per rifugiati dall'Ucraina\n\u27a1\ufe0f maggiori di 18 anni iscritti alla Questura o alla Prefettura;\n\u27a1\ufe0f certificato di vaccinazione o test effettuato entro e non oltre 72 ore.\n\nInfo: salva.ucraini.palermo@gmail.com e gruppo Telegram https://t.me/linguaitalianaperprofughi\n\n\u041d\u0430 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0439 \u043d\u0435\u0434\u0435\u043b\u0435 \u0432 \u0441\u0440\u0435\u0434\u0443 13-04-2022, \u0432 10:00 \u0443\u0442\u0440\u0430 \u0441\u043e\u0441\u0442\u043e\u0438\u0442\u0441\u044f \u043f\u0435\u0440\u0432\u043e\u0435 \u0437\u0430\u043d\u044f\u0442\u0438\u0435 \u0432 \u0448\u043a\u043e\u043b\u0435 \u0414\u0430\u043d\u0442\u0435 \u0410\u043b\u0435\u0433\u044c\u0435\u0440\u0438 \u043f\u043e \u0430\u0434\u0440\u0435\u0441\u0443 via Marchese Ugo, 60 (\u0440\u044f\u0434\u043e\u043c \u0441 \u0446\u0435\u043d\u0442\u0440\u043e\u043c \u00abSalva Ucraini\u00bb).\n\u0422\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u044f \u043a \u0443\u0447\u0430\u0449\u0438\u043c\u0441\u044f:\n\u27a1\ufe0f\u0422\u043e\u043b\u044c\u043a\u043e \u0434\u043b\u044f \u0431\u0435\u0436\u0435\u043d\u0446\u0435\u0432 \u0438\u0437 \u0423\u043a\u0440\u0430\u0438\u043d\u044b \n\u27a1\ufe0f \u0441\u0442\u0430\u0440\u0448\u0435 18 \u043b\u0435\u0442, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0432\u0441\u0442\u0430\u043b\u0438 \u043d\u0430 \u0443\u0447\u0451\u0442 \u0432 \u043a\u0432\u0435\u0441\u0442\u0443\u0440\u0435 \u0438\u043b\u0438 \u043f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0435; \n\u27a1\ufe0f \u0441\u043f\u0440\u0430\u0432\u043a\u0430 \u043e \u043f\u0440\u0438\u0432\u0438\u0432\u043a\u0435 \u0438\u043b\u0438 \u0442\u0435\u0441\u0442 \u0441\u0434\u0435\u043b\u0430\u043d\u043d\u044b\u0439 \u043d\u0435 \u043f\u043e\u0437\u0434\u043d\u0435\u0435 72 \u0447\u0430\u0441\u043e\u0432."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comitato Salva Ucraini Palermo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Palermo corso gratuito di italiano per rifugiati ucraini"",""url"":""https://t.me/ucraini_a_palermo/122""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Comitato Salva Ucraini Palermo
+title: A Palermo corso gratuito di italiano per rifugiati ucraini
+recipients: ''
+description: ""La prossima settimana, mercoledì 13-04-2022, alle ore 10:00, si svolgerà\
+  \ la prima lezione presso la scuola Dante Alighieri in via Marchese Ugo, 60 (accanto\
+  \ al Comitato Salva Ucraini).\nRequisiti degli studenti:\n➡️Solo per rifugiati dall'Ucraina\n\
+  ➡️ maggiori di 18 anni iscritti alla Questura o alla Prefettura;\n➡️ certificato\
+  \ di vaccinazione o test effettuato entro e non oltre 72 ore.\n\nInfo: salva.ucraini.palermo@gmail.com\
+  \ e gruppo Telegram https://t.me/linguaitalianaperprofughi\n\nНа следующей неделе\
+  \ в среду 13-04-2022, в 10:00 утра состоится первое занятие в школе Данте Алегьери\
+  \ по адресу via Marchese Ugo, 60 (рядом с центром «Salva Ucraini»).\nТребования\
+  \ к учащимся:\n➡️Только для беженцев из Украины \n➡️ старше 18 лет, которые встали\
+  \ на учёт в квестуре или префектуре; \n➡️ справка о прививке или тест сделанный\
+  \ не позднее 72 часов.""
+url: https://t.me/ucraini_a_palermo/122
+address:
+  mode: autocomplete
+  address:
+    place_id: 119906789
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 86265407
+    boundingbox:
+    - '38.1299555'
+    - '38.1336658'
+    - '13.3496116'
+    - '13.3514253'
+    lat: '38.1315691'
+    lon: '13.3504181'
+    display_name: Via Marchese Ugo, VIII Circoscrizione, Palermo, Sicilia, 90141,
+      Italia
+    class: highway
+    type: residential
+    importance: 0.51
+    address:
+      road: Via Marchese Ugo
+      suburb: VIII Circoscrizione
+      city: Palermo
+      county: Palermo
+      ISO3166-2-lvl6: IT-PA
+      state: Sicilia
+      ISO3166-2-lvl4: IT-82
+      postcode: '90141'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/539,1197804857,2022-04-08 21:49:07,2022-04-08 20:41:57,A Livorno nella chiesa cattolica ucraina si raccolgono beni di prima necessità,,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""ISO3166-2-lvl6"":""IT-LI"",""city"":""Livorno"",""country"":""Italia"",""country_code"":""it"",""county"":""Livorno"",""house_number"":""45"",""neighbourhood"":""Fabbricotti"",""postcode"":""57128"",""road"":""Via Temistocle Guerrazzi"",""state"":""Toscana""},""boundingbox"":[""43.5365022"",""43.5366022"",""10.3210875"",""10.3211875""],""class"":""place"",""display_name"":""45, Via Temistocle Guerrazzi, Fabbricotti, Livorno, Toscana, 57128, Italia"",""importance"":0.5209999999999999,""lat"":""43.5365522"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.3211375"",""osm_id"":9017534199,""osm_type"":""node"",""place_id"":94917254,""type"":""house""},""mode"":""autocomplete""},""description"":""Nella Parrocchia Cattolica Ucraina SS. Vladimiro e Olga di Livorno in Via Temistocle Guerrazzi 45, \u00e8 stato allestito un Centro di Raccolta per generi alimentari a lunga scadenza: acqua, tonno, conserve, cioccolato, biscotti, pasta, cibo per neonati e bambini, medicinali di primo soccorso.\nIl Centro raccolta \u00e8 aperto dalle h 10 alle h 19.\nMeglio consegnare tutto in scatole chiuse con scritto fuori cosa contengono.\nIl parroco di riferimento \u00e8 don Yuriy Machalaba."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Chiesa cattolica ucraina di Livorno"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Livorno nella chiesa cattolica ucraina si raccolgono beni di prima necessit\u00e0 necessit\u00e0 per emergenza Ucraina"",""url"":""http://www.diocesilivorno.it/2022/03/22/2-marzo-mercoledi-delle-ceneri-giornata-di-preghiera-e-di-digiuno-per-la-pace-in-ucraina/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Chiesa cattolica ucraina di Livorno
+title: A Livorno nella chiesa cattolica ucraina si raccolgono beni di prima necessità
+  necessità per emergenza Ucraina
+recipients: ''
+description: 'Nella Parrocchia Cattolica Ucraina SS. Vladimiro e Olga di Livorno in
+  Via Temistocle Guerrazzi 45, è stato allestito un Centro di Raccolta per generi
+  alimentari a lunga scadenza: acqua, tonno, conserve, cioccolato, biscotti, pasta,
+  cibo per neonati e bambini, medicinali di primo soccorso.
+
+  Il Centro raccolta è aperto dalle h 10 alle h 19.
+
+  Meglio consegnare tutto in scatole chiuse con scritto fuori cosa contengono.
+
+  Il parroco di riferimento è don Yuriy Machalaba.'
+url: http://www.diocesilivorno.it/2022/03/22/2-marzo-mercoledi-delle-ceneri-giornata-di-preghiera-e-di-digiuno-per-la-pace-in-ucraina/
+address:
+  mode: autocomplete
+  address:
+    place_id: 94917254
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 9017534199
+    boundingbox:
+    - '43.5365022'
+    - '43.5366022'
+    - '10.3210875'
+    - '10.3211875'
+    lat: '43.5365522'
+    lon: '10.3211375'
+    display_name: 45, Via Temistocle Guerrazzi, Fabbricotti, Livorno, Toscana, 57128,
+      Italia
+    class: place
+    type: house
+    importance: 0.5209999999999999
+    address:
+      house_number: '45'
+      road: Via Temistocle Guerrazzi
+      neighbourhood: Fabbricotti
+      city: Livorno
+      county: Livorno
+      ISO3166-2-lvl6: IT-LI
+      state: Toscana
+      ISO3166-2-lvl4: IT-52
+      postcode: '57128'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/542,1197844613,2022-04-08 21:48:33,2022-04-08 21:19:56,Su Hospitality-Helps 5 notti gratis in albergo per i rifugiati ucraini in 40 paesi (anche in Italia),,,,,"[""Valid/Accettato"",""News"",""Services"",""hospitality""]",,,"{""description"":""Su Hospitality-Helps.org i rifugiati ucraini possono prenotare una camera d\u2019albergo gratuita per 5 notti in uno dei 600 alberghi che hanno aderito all\u2019iniziativa in oltre 40 paesi del mondo. Tra le strutture aderenti anche alberghi in Italia, a Torino, Milano, Como, Brescia, Padova, Venezia, Verona, Genova, Bologna, Rimini, Pisa, Firenze, Roma, Napoli e altri."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://hospitality-helps.org/en/home"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Su Hospitality-Helps.org 5 notti gratis in albergo per i rifugiati ucraini in 40 paesi (anche in Italia)""}","<pre><yamldata>
+title: Su Hospitality-Helps.org 5 notti gratis in albergo per i rifugiati ucraini
+  in 40 paesi (anche in Italia)
+description: Su Hospitality-Helps.org i rifugiati ucraini possono prenotare una camera
+  d’albergo gratuita per 5 notti in uno dei 600 alberghi che hanno aderito all’iniziativa
+  in oltre 40 paesi del mondo. Tra le strutture aderenti anche alberghi in Italia,
+  a Torino, Milano, Como, Brescia, Padova, Venezia, Verona, Genova, Bologna, Rimini,
+  Pisa, Firenze, Roma, Napoli e altri.
+link: https://hospitality-helps.org/en/home
+location:
+  mode: autocomplete
+  address: {}
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/517,1195157192,2022-04-08 17:47:34,2022-04-06 20:31:34,"Regione Toscana, accesso a pediatra di famiglia per bambini ucraini anche non in regola con permesso di soggiorno",,,,,"[""Valid/Accettato"",""Services"",""healthcare"",""Children"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""highway"":""Regione Toscana"",""postcode"":""50127"",""road"":""Via di Novoli"",""state"":""Toscana"",""suburb"":""Quartiere 5""},""boundingbox"":[""43.792534"",""43.792634"",""11.2226109"",""11.2227109""],""class"":""highway"",""display_name"":""Regione Toscana, Via di Novoli, Quartiere 5, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50127, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//transport_bus_stop2.p.20.png"",""importance"":0.21100000000000002,""lat"":""43.792584"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2226609"",""osm_id"":6027223967,""osm_type"":""node"",""place_id"":65208500,""type"":""bus_stop""},""mode"":""autocomplete""},""description"":""Un accordo tra pediatri, Asl e Regione Toscana stabilisce che i minori, che arrivano in Toscana dall\u2019Ucraina, potranno contare sulla presa in carico dei pediatri di famiglia in stretta relazione con tutte le strutture delle Asl territorialmente competenti. Ai bambini ucraini sar\u00e0 assicurata la completa assistenza sanitaria, al pari dei bambini italiani, con particolare riguardo alle attivit\u00e0 di sorveglianza, prevenzione e profilassi vaccinale del Covid-19 e di altre malattie infettive (polio, difterite, tetano, epatite b, pertosse, emofilo di tipo b, morbillo, rosolia, parotite, varicella). Questo vale anche per i minori che non sono in regola con le norme relative all\u2019ingresso e al soggiorno. Inoltre le Asl dovranno assicurare un servizio di consulenza e di traduzione attraverso la mediazione culturale, fornendo cos\u00ec ai pediatri gli strumenti necessari per favorire l\u2019accesso al servizio."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Toscana"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Regione Toscana, accesso a pediatra di famiglia per bambini ucraini anche non in regola con permesso di soggiorno"",""url"":""https://www.toscana-notizie.it/-/assistenza-e-cure-ai-bambini-ucraini-l-accordo-con-pediatri-e-asl""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
