@@ -1,4 +1,290 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/517,1195157192,2022-04-08 17:47:34,2022-04-06 20:31:34,"Regione Toscana, accesso a pediatra di famiglia per bambini ucraini anche non in regola con permesso di soggiorno",,,,,"[""Valid/Accettato"",""Services"",""healthcare"",""Children"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""highway"":""Regione Toscana"",""postcode"":""50127"",""road"":""Via di Novoli"",""state"":""Toscana"",""suburb"":""Quartiere 5""},""boundingbox"":[""43.792534"",""43.792634"",""11.2226109"",""11.2227109""],""class"":""highway"",""display_name"":""Regione Toscana, Via di Novoli, Quartiere 5, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50127, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//transport_bus_stop2.p.20.png"",""importance"":0.21100000000000002,""lat"":""43.792584"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2226609"",""osm_id"":6027223967,""osm_type"":""node"",""place_id"":65208500,""type"":""bus_stop""},""mode"":""autocomplete""},""description"":""Un accordo tra pediatri, Asl e Regione Toscana stabilisce che i minori, che arrivano in Toscana dall\u2019Ucraina, potranno contare sulla presa in carico dei pediatri di famiglia in stretta relazione con tutte le strutture delle Asl territorialmente competenti. Ai bambini ucraini sar\u00e0 assicurata la completa assistenza sanitaria, al pari dei bambini italiani, con particolare riguardo alle attivit\u00e0 di sorveglianza, prevenzione e profilassi vaccinale del Covid-19 e di altre malattie infettive (polio, difterite, tetano, epatite b, pertosse, emofilo di tipo b, morbillo, rosolia, parotite, varicella). Questo vale anche per i minori che non sono in regola con le norme relative all\u2019ingresso e al soggiorno. Inoltre le Asl dovranno assicurare un servizio di consulenza e di traduzione attraverso la mediazione culturale, fornendo cos\u00ec ai pediatri gli strumenti necessari per favorire l\u2019accesso al servizio."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Toscana"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Regione Toscana, accesso a pediatra di famiglia per bambini ucraini anche non in regola con permesso di soggiorno"",""url"":""https://www.toscana-notizie.it/-/assistenza-e-cure-ai-bambini-ucraini-l-accordo-con-pediatri-e-asl""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: true
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: false
+offerFromWho: Regione Toscana
+title: Regione Toscana, accesso a pediatra di famiglia per bambini ucraini anche non
+  in regola con permesso di soggiorno
+recipients: ''
+description: 'Un accordo tra pediatri, Asl e Regione Toscana stabilisce che i minori, che arrivano in Toscana dall’Ucraina, potranno contare sulla
+  presa in carico dei pediatri di famiglia in stretta relazione con tutte le strutture
+  delle Asl territorialmente competenti.
+ Ai bambini ucraini sarà assicurata la completa assistenza sanitaria, al pari dei
+  bambini italiani, con particolare riguardo alle attività di sorveglianza, prevenzione
+  e profilassi vaccinale del Covid-19 e di altre malattie infettive (polio, difterite,
+  tetano, epatite b, pertosse, emofilo di tipo b, morbillo, rosolia, parotite, varicella).
+Questo vale anche per i minori che non sono in regola con le norme relative all’ingresso
+  e al soggiorno.
+  Inoltre le Asl dovranno assicurare un servizio di consulenza e di traduzione attraverso
+  la mediazione culturale, fornendo così ai pediatri gli strumenti necessari per favorire
+  l’accesso al servizio.'
+url: https://www.toscana-notizie.it/-/assistenza-e-cure-ai-bambini-ucraini-l-accordo-con-pediatri-e-asl
+address:
+  mode: autocomplete
+  address:
+    place_id: 65208500
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 6027223967
+    boundingbox:
+    - '43.792534'
+    - '43.792634'
+    - '11.2226109'
+    - '11.2227109'
+    lat: '43.792584'
+    lon: '11.2226609'
+    display_name: Regione Toscana, Via di Novoli, Quartiere 5, Firenze, Città metropolitana
+      di Firenze, Toscana, 50127, Italia
+    class: highway
+    type: bus_stop
+    importance: 0.21100000000000002
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//transport_bus_stop2.p.20.png
+    address:
+      highway: Regione Toscana
+      road: Via di Novoli
+      suburb: Quartiere 5
+      city: Firenze
+      county: Città metropolitana di Firenze
+      state: Toscana
+      postcode: '50127'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/525,1195921790,2022-04-08 17:47:14,2022-04-07 11:39:34,"Anffas Ragusa offre possibilità di accoglienza a profughi ucraini, in particolare mamma con figlio/a",,,,,"[""Valid/Accettato"",""Services"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Ragusa"",""country"":""Croazia"",""country_code"":""hr"",""county"":""Regione raguseo-narentana""},""boundingbox"":[""42.6208867"",""42.6705551"",""18.0462375"",""18.1417947""],""class"":""boundary"",""display_name"":""Ragusa, Citt\u00e0 di Ragusa, Regione raguseo-narentana, Croazia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7065804406996246,""lat"":""42.64873625"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""18.094680152605108"",""osm_id"":13226684,""osm_type"":""relation"",""place_id"":285687417,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Anffas Ragusa ha la possibilit\u00e0 di accogliere profughi ucraini, in particolare mamma e figlio/a. Info: Salvatrice Cilia Info@anffasragusa.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""ANFFAS RAGUSA"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Accoglienza profughi"",""url"":""https://www.forumterzosettore.it/2022/03/25/emergenza-ucraina-accoglienza-in-italia/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: ANFFAS RAGUSA
+title: Accoglienza profughi
+recipients: ''
+description: ""Anffas Ragusa ha la possibilità di accogliere profughi ucraini, in particolare mamma e figlio/a. Info: Salvatrice Cilia Info@anffasragusa.org""
+url: https://www.forumterzosettore.it/2022/03/25/emergenza-ucraina-accoglienza-in-italia/
+address:
+  mode: autocomplete
+  address:
+    place_id: 285687417
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 13226684
+    boundingbox:
+    - '42.6208867'
+    - '42.6705551'
+    - '18.0462375'
+    - '18.1417947'
+    lat: '42.64873625'
+    lon: '18.094680152605108'
+    display_name: Ragusa, Città di Ragusa, Regione raguseo-narentana, Croazia
+    class: boundary
+    type: administrative
+    importance: 0.7065804406996246
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Ragusa
+      county: Regione raguseo-narentana
+      country: Croazia
+      country_code: hr
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/532,1196531582,2022-04-08 17:46:55,2022-04-07 20:22:52,Associazione Karmadonne di Carmagnola (Torino) cerca volontari/e per gestire raccolta beni e distribuirli ai profughi ucraini,44.8515877,7.7222716,Piemonte,Torino,"[""Valid/Accettato"",""Help"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""44.8515877 7.7222716"",""description"":""L'Associazione Karmadonne cerca volontari e volontarie il sabato mattina per la gestione e redistribuzione dei pacchi con beni di prima necessit\u00e0 da inviare alle persone in fuga dall'Ucraina."",""email"":""karmadonne.carmagnola@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""postcode"":""10022"",""road"":""Via Girolamo Savonarola"",""state"":""Piemonte"",""town"":""Carmagnola""},""boundingbox"":[""44.8511551"",""44.8518055"",""7.7192112"",""7.7246284""],""class"":""highway"",""display_name"":""Via Girolamo Savonarola, Carmagnola, Torino, Piemonte, 10022, Italia"",""importance"":0.51,""lat"":""44.8515877"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.7222716"",""osm_id"":76089297,""osm_type"":""way"",""place_id"":330815289,""type"":""residential""},""mode"":""autocomplete""},""nameSurname"":""Karmadonne"",""phoneNumber"":""3939096878"",""recipients"":"""",""submit"":true,""title"":""Ricerca volontari/e per raccolta beni di prima necessit\u00e0"",""url"":""https://www.karmadonne.it/?fbclid=IwAR1YJhU5Ye8ReW6g_79XduQ_lHtLyhCcz-s9QPj0KOmHKPDVY73l_jkJ6dw""}","<pre><yamldata>
+nameSurname: Karmadonne
+phoneNumber: '3939096878'
+email: karmadonne.carmagnola@gmail.com
+title: Ricerca volontari/e per raccolta beni di prima necessità
+recipients: ''
+description: L'Associazione Karmadonne cerca volontari e volontarie il sabato mattina
+  per la gestione e redistribuzione dei pacchi con beni di prima necessità da inviare
+  alle persone in fuga dall'Ucraina.
+url: https://www.karmadonne.it/?fbclid=IwAR1YJhU5Ye8ReW6g_79XduQ_lHtLyhCcz-s9QPj0KOmHKPDVY73l_jkJ6dw
+location:
+  mode: autocomplete
+  address:
+    place_id: 330815289
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 76089297
+    boundingbox:
+    - '44.8511551'
+    - '44.8518055'
+    - '7.7192112'
+    - '7.7246284'
+    lat: '44.8515877'
+    lon: '7.7222716'
+    display_name: Via Girolamo Savonarola, Carmagnola, Torino, Piemonte, 10022, Italia
+    class: highway
+    type: residential
+    importance: 0.51
+    address:
+      road: Via Girolamo Savonarola
+      town: Carmagnola
+      county: Torino
+      state: Piemonte
+      ISO3166-2-lvl4: IT-21
+      postcode: '10022'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 44.8515877 7.7222716
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/533,1196539117,2022-04-08 17:46:41,2022-04-07 20:31:10,Raccolta fondi dell’Ospedale Gaslini di Genova per trasferire in Italia bambini ucraini malati con le loro famiglie ,,,,,"[""Valid/Accettato"",""fundraising"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""bicSwift"":"""",""causal"":""Gaslini per l'Ucraina"",""ccPostal"":"""",""description"":""Il Gaslini, con una sua equipe medico infermieristica ha coordinato in Polonia, a 70 km dal confine con l'Ucraina, la presa in carico dei bambini con tumori, patologie gravi e feriti di guerra e organizzato, per i casi pi\u00f9 gravi, un trasferimento al Gaslini e in altri ospedali italiani. Otto bambini affetti da neoplasie sono gi\u00e0 stati presi in carico dal Gaslini e altri arriveranno nei prossimi giorni. \n\nOltre alle necessit\u00e0 legate alla cura e al trasporto dei piccoli pazienti ucraini, occorre gestire l'accoglienza nel periodo in cui le famiglie in fuga dalla guerra con i propri bambini malati attendono il trasferimento presso gli ospedali italiani."",""email"":"""",""heading"":""Gaslini onlus"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT48Q0617501583000000700080"",""label"":""fundraising"",""link"":""https://sostienici.gaslinionlus.it/projects/gaslini-per-ucraina?fbclid=IwAR1nUdfg7FKYALCEx5YtneSUQwP3P8kSohnpFt2z-665L0KKr21Z8XIFZyI"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Ospedale Gaslini""}","<pre><yamldata>
+title: Ospedale Gaslini
+description: ""Il Gaslini, con una sua equipe medico infermieristica ha coordinato\
+  \ in Polonia, a 70 km dal confine con l'Ucraina, la presa in carico dei bambini\
+  \ con tumori, patologie gravi e feriti di guerra e organizzato, per i casi più gravi,\
+  \ un trasferimento al Gaslini e in altri ospedali italiani. Otto bambini affetti\
+  \ da neoplasie sono già stati presi in carico dal Gaslini e altri arriveranno nei\
+  \ prossimi giorni. \n\nOltre alle necessità legate alla cura e al trasporto dei\
+  \ piccoli pazienti ucraini, occorre gestire l'accoglienza nel periodo in cui le\
+  \ famiglie in fuga dalla guerra con i propri bambini malati attendono il trasferimento\
+  \ presso gli ospedali italiani.""
+heading: Gaslini onlus
+iban: IT48Q0617501583000000700080
+bicSwift: ''
+ccPostal: ''
+causal: Gaslini per l'Ucraina
+link: https://sostienici.gaslinionlus.it/projects/gaslini-per-ucraina?fbclid=IwAR1nUdfg7FKYALCEx5YtneSUQwP3P8kSohnpFt2z-665L0KKr21Z8XIFZyI
+email: ''
+location:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/538,1197512734,2022-04-08 17:46:27,2022-04-08 16:09:40,"Wizz Air, ancora disponibilità di voli gratuiti e tariffe di emergenza per i rifugiati ucraini",47.4979937,19.0403594,,,"[""Valid/Accettato"",""News"",""Services"",""transport"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""47.4979937 19.0403594"",""description"":""Wizz Air ha annunciato oggi che c\u2019\u00e8 ancora un significativo numero di posti gratuiti disponibili per i rifugiati ucraini su tutti i voli dell\u2019Europa continentale in partenza dai paesi confinanti con l\u2019Ucraina (Polonia, Slovacchia, Ungheria, Romania). \nLa compagnia aerea ha inoltre esteso la durata di viaggio per questi posti dalla fine di marzo al 10 aprile 2022. \nLa compagnia aerea vuole rassicurare tutti i rifugiati ucraini sulla disponibilit\u00e0 di posti gratuiti su molte delle sue rotte, compresi i voli in partenza dalle basi di Budapest, Danzica, Cracovia e Katowice. Mentre alcune rotte in determinate date sono state pi\u00f9 richieste di altre e purtroppo sono gi\u00e0 esaurite, continua l\u2019impegno dell\u2019azienda nel monitorare le prenotazioni e nel rendere disponibili nuovi posti dove possibile. \nWizz Air continua, inoltre, ad aggiungere aerei pi\u00f9 grandi e voli extra dai paesi confinanti verso l\u2019Europa per aiutare a sostenere gli spostamenti dei rifugiati ucraini. \nIn pi\u00f9, Wizz Air prosegue nell\u2019offrire una tariffa di emergenza di 29,99** euro su tutti gli altri voli (esclusi quelli degli Emirati Arabi Uniti, dell\u2019Islanda e delle Canarie), cos\u00ec come una tariffa di emergenza di 69,99** euro su tutti i voli per gli Emirati Arabi Uniti, l\u2019Islanda e le Canarie, per aiutare i rifugiati ucraini indipendentemente da dove si trovino attualmente. \nI passeggeri vengono comunque incoraggiati a controllare il sito web della compagnia, poich\u00e9 potrebbero essere disponibili tariffe pi\u00f9 basse. \nLa volont\u00e0 di Wizz Air \u00e8 di far s\u00ec che tutti i rifugiati ucraini abbiano accesso a viaggi convenienti, indipendentemente da dove si trovino in questo momento di crisi. \nI rifugiati ucraini che desiderano prenotare un volo possono farlo visitando: https://wizzair.com/#/rescue. I restanti posti gratuiti e le tariffe di emergenza saranno disponibili per viaggiare fino al 10 aprile 2022. \nAi passeggeri sar\u00e0 richiesto di inserire il loro numero di passaporto ucraino (passaporto straniero usato per viaggiare all\u2019estero) al momento della prenotazione per qualificarsi per i posti gratuiti, e sar\u00e0 anche chiesto loro di mostrare il passaporto ucraino al momento del check-in."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://italiavola.com/2022/03/11/wizz-air-continua-ad-aiutare-i-rifugiati-ucraini/"",""location"":{""address"":{""address"":{""city"":""Budapest"",""country"":""Ungheria"",""country_code"":""hu"",""region"":""Ungheria Centrale""},""boundingbox"":[""47.3496899"",""47.6131468"",""18.9251057"",""19.3349258""],""class"":""boundary"",""display_name"":""Budapest, Ungheria Centrale, Ungheria"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8508438350115745,""lat"":""47.4979937"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""19.0403594"",""osm_id"":37244,""osm_type"":""relation"",""place_id"":284256050,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Wizz Air, ancora disponibilit\u00e0 di voli gratuiti e tariffe di emergenza per i rifugiati ucraini""}","<pre><yamldata>
+title: Wizz Air, ancora disponibilità di voli gratuiti e tariffe di emergenza per
+  i rifugiati ucraini
+description: ""Wizz Air ha annunciato oggi che c’è ancora un significativo numero di\
+  \ posti gratuiti disponibili per i rifugiati ucraini su tutti i voli dell’Europa\
+  \ continentale in partenza dai paesi confinanti con l’Ucraina (Polonia, Slovacchia,\
+  \ Ungheria, Romania). \nLa compagnia aerea ha inoltre esteso la durata di viaggio\
+  \ per questi posti dalla fine di marzo al 10 aprile 2022. \nLa compagnia aerea vuole\
+  \ rassicurare tutti i rifugiati ucraini sulla disponibilità di posti gratuiti su\
+  \ molte delle sue rotte, compresi i voli in partenza dalle basi di Budapest, Danzica,\
+  \ Cracovia e Katowice. Mentre alcune rotte in determinate date sono state più richieste\
+  \ di altre e purtroppo sono già esaurite, continua l’impegno dell’azienda nel monitorare\
+  \ le prenotazioni e nel rendere disponibili nuovi posti dove possibile. \nWizz Air\
+  \ continua, inoltre, ad aggiungere aerei più grandi e voli extra dai paesi confinanti\
+  \ verso l’Europa per aiutare a sostenere gli spostamenti dei rifugiati ucraini.\
+  \ \nIn più, Wizz Air prosegue nell’offrire una tariffa di emergenza di 29,99** euro\
+  \ su tutti gli altri voli (esclusi quelli degli Emirati Arabi Uniti, dell’Islanda\
+  \ e delle Canarie), così come una tariffa di emergenza di 69,99** euro su tutti\
+  \ i voli per gli Emirati Arabi Uniti, l’Islanda e le Canarie, per aiutare i rifugiati\
+  \ ucraini indipendentemente da dove si trovino attualmente. \nI passeggeri vengono\
+  \ comunque incoraggiati a controllare il sito web della compagnia, poiché potrebbero\
+  \ essere disponibili tariffe più basse. \nLa volontà di Wizz Air è di far sì che\
+  \ tutti i rifugiati ucraini abbiano accesso a viaggi convenienti, indipendentemente\
+  \ da dove si trovino in questo momento di crisi. \nI rifugiati ucraini che desiderano\
+  \ prenotare un volo possono farlo visitando: https://wizzair.com/#/rescue. I restanti\
+  \ posti gratuiti e le tariffe di emergenza saranno disponibili per viaggiare fino\
+  \ al 10 aprile 2022. \nAi passeggeri sarà richiesto di inserire il loro numero di\
+  \ passaporto ucraino (passaporto straniero usato per viaggiare all’estero) al momento\
+  \ della prenotazione per qualificarsi per i posti gratuiti, e sarà anche chiesto\
+  \ loro di mostrare il passaporto ucraino al momento del check-in.""
+link: https://italiavola.com/2022/03/11/wizz-air-continua-ad-aiutare-i-rifugiati-ucraini/
+location:
+  mode: autocomplete
+  address:
+    place_id: 284256050
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 37244
+    boundingbox:
+    - '47.3496899'
+    - '47.6131468'
+    - '18.9251057'
+    - '19.3349258'
+    lat: '47.4979937'
+    lon: '19.0403594'
+    display_name: Budapest, Ungheria Centrale, Ungheria
+    class: boundary
+    type: administrative
+    importance: 0.8508438350115745
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Budapest
+      region: Ungheria Centrale
+      country: Ungheria
+      country_code: hu
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 47.4979937 19.0403594
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/537,1197499643,2022-04-08 17:45:59,2022-04-08 15:57:46,"Regione Puglia, accesso gratuito al traporto locale per i profughi ucraini",41.10974415,16.91446192212199,Puglia,Bari,"[""Valid/Accettato"",""News"",""Services"",""transport""]",,,"{""Posizione"":""41.10974415 16.91446192212199"",""description"":""\u00abI profughi ucraini potranno viaggiare gratuitamente sul territorio pugliese\u00bb, lo ha annunciato l\u2019assessora regionale ai Trasporti e alla Mobilit\u00e0 sostenibile Anita Maurodinoia dopo che la Giunta ha approvato lo schema di protocollo d\u2019intesa tra la Regione Puglia e le imprese ferroviarie e automobilistiche che gestiscono i servizi di trasporto pubblico locale per la concessione di gratuit\u00e0 in favore dei cittadini ucraini e dei soggetti provenienti dall\u2019Ucraina, che entrano nel territorio pugliese in conseguenza degli accadimenti bellici in atto. In questa prima fase (da aprile a giugno) la misura di gratuit\u00e0 sar\u00e0 \u201csperimentale\u201d e oggetto di monitoraggio, al fine poi di prorogarla o adottare diverse modalit\u00e0 di applicazione. Per poter usufruire dell\u2019agevolazione i viaggiatori interessati dovranno mostrare il passaporto ucraino e il modello 209 di richiesta Permesso di Soggiorno o il Permesso stesso se gi\u00e0 ottenuto."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://ledicoladelsud.it/home/2022/04/07/news/i-profughi-ucraini-viaggeranno-gratuitamente-sul-territorio-pugliese-ce-laccordo-tra-regione-e-servizi-tpl-120470/"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-75"",""city"":""Bari"",""commercial"":""Uffici Regione Puglia"",""country"":""Italia"",""country_code"":""it"",""county"":""Bari"",""state"":""Puglia"",""suburb"":""Municipio 1""},""boundingbox"":[""41.1073973"",""41.1120202"",""16.9119837"",""16.9168485""],""class"":""landuse"",""display_name"":""Uffici Regione Puglia, Municipio 1, Bari, Puglia, Italia"",""importance"":0.52,""lat"":""41.10974415"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.91446192212199"",""osm_id"":551997054,""osm_type"":""way"",""place_id"":219455408,""type"":""commercial""},""mode"":""autocomplete""},""submit"":true,""title"":""Regione Puglia, accesso gratuito al traporto locale per i profughi ucraini""}","<pre><yamldata>
+title: Regione Puglia, accesso gratuito al traporto locale per i profughi ucraini
+description: «I profughi ucraini potranno viaggiare gratuitamente sul territorio pugliese»,
+  lo ha annunciato l’assessora regionale ai Trasporti e alla Mobilità sostenibile
+  Anita Maurodinoia dopo che la Giunta ha approvato lo schema di protocollo d’intesa
+  tra la Regione Puglia e le imprese ferroviarie e automobilistiche che gestiscono
+  i servizi di trasporto pubblico locale per la concessione di gratuità in favore
+  dei cittadini ucraini e dei soggetti provenienti dall’Ucraina, che entrano nel territorio
+  pugliese in conseguenza degli accadimenti bellici in atto. In questa prima fase
+  (da aprile a giugno) la misura di gratuità sarà “sperimentale” e oggetto di monitoraggio,
+  al fine poi di prorogarla o adottare diverse modalità di applicazione. Per poter
+  usufruire dell’agevolazione i viaggiatori interessati dovranno mostrare il passaporto
+  ucraino e il modello 209 di richiesta Permesso di Soggiorno o il Permesso stesso
+  se già ottenuto.
+link: https://ledicoladelsud.it/home/2022/04/07/news/i-profughi-ucraini-viaggeranno-gratuitamente-sul-territorio-pugliese-ce-laccordo-tra-regione-e-servizi-tpl-120470/
+location:
+  mode: autocomplete
+  address:
+    place_id: 219455408
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 551997054
+    boundingbox:
+    - '41.1073973'
+    - '41.1120202'
+    - '16.9119837'
+    - '16.9168485'
+    lat: '41.10974415'
+    lon: '16.91446192212199'
+    display_name: Uffici Regione Puglia, Municipio 1, Bari, Puglia, Italia
+    class: landuse
+    type: commercial
+    importance: 0.52
+    address:
+      commercial: Uffici Regione Puglia
+      suburb: Municipio 1
+      city: Bari
+      county: Bari
+      state: Puglia
+      ISO3166-2-lvl4: IT-75
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 41.10974415 16.91446192212199
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/287,1178000801,2022-04-08 15:59:16,2022-03-23 11:41:03,Regione Abruzzo: online info per accoglienza e assistenza profughi ucraini (in italiano e ucraino),42.365814400000005,13.374276790275314,Abruzzo,L'Aquila,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""hospitality"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""42.365814400000005 13.374276790275314"",""description"":""Sul sito della Regione Abruzzo sono online tutte le info sull'accoglienza e assistenza dei profughi ucraini (alloggi, assistenza sanitaria e altro) e per le famiglie che ospitano o desiderano ospitare minori e famigulie ucraine. Pagina in italiano e ucraino, con info anche per singole citt\u00e0."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.regione.abruzzo.it/content/emergenza-ucraina"",""location"":{""address"":{""address"":{""building"":""Palazzo Silone"",""city"":""L'Aquila"",""country"":""Italia"",""country_code"":""it"",""county"":""L'Aquila"",""house_number"":""6"",""neighbourhood"":""Contrada Romani"",""postcode"":""67100"",""road"":""Via Leonardo da Vinci"",""state"":""Abruzzo""},""boundingbox"":[""42.365538"",""42.3661063"",""13.3737095"",""13.3747562""],""class"":""building"",""display_name"":""Palazzo Silone, 6, Via Leonardo da Vinci, Contrada Romani, L'Aquila, Abruzzo, 67100, Italia"",""importance"":1.1354342386327727,""lat"":""42.365814400000005"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.374276790275314"",""osm_id"":591326251,""osm_type"":""way"",""place_id"":225266677,""type"":""yes""},""mode"":""autocomplete""},""submit"":true,""title"":""Regione Abruzzo: online info per accoglienza e assistenza profughi ucraini (in italiano e ucraino)""}","<pre><yamldata>
 title: 'Regione Abruzzo: online info per accoglienza e assistenza profughi ucraini
   (in italiano e ucraino)'
@@ -284,31 +570,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/533,1196539117,2022-04-07 22:26:13,2022-04-07 20:31:10,Raccolta fondi dell’Ospedale Gaslini di Genova per trasferire in Italia bambini ucraini malati con le loro famiglie ,,,,,"[""Valid/Accettato"",""fundraising"",""healthcare""]",,,"{""bicSwift"":"""",""causal"":""Gaslini per l'Ucraina"",""ccPostal"":"""",""description"":""Il Gaslini, con una sua equipe medico infermieristica ha coordinato in Polonia, a 70 km dal confine con l'Ucraina, la presa in carico dei bambini con tumori, patologie gravi e feriti di guerra e organizzato, per i casi pi\u00f9 gravi, un trasferimento al Gaslini e in altri ospedali italiani. Otto bambini affetti da neoplasie sono gi\u00e0 stati presi in carico dal Gaslini e altri arriveranno nei prossimi giorni. \n\nOltre alle necessit\u00e0 legate alla cura e al trasporto dei piccoli pazienti ucraini, occorre gestire l'accoglienza nel periodo in cui le famiglie in fuga dalla guerra con i propri bambini malati attendono il trasferimento presso gli ospedali italiani."",""email"":"""",""heading"":""Gaslini onlus"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT48Q0617501583000000700080"",""label"":""fundraising"",""link"":""https://sostienici.gaslinionlus.it/projects/gaslini-per-ucraina?fbclid=IwAR1nUdfg7FKYALCEx5YtneSUQwP3P8kSohnpFt2z-665L0KKr21Z8XIFZyI"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Ospedale Gaslini""}","<pre><yamldata>
-title: Ospedale Gaslini
-description: ""Il Gaslini, con una sua equipe medico infermieristica ha coordinato\
-  \ in Polonia, a 70 km dal confine con l'Ucraina, la presa in carico dei bambini\
-  \ con tumori, patologie gravi e feriti di guerra e organizzato, per i casi più gravi,\
-  \ un trasferimento al Gaslini e in altri ospedali italiani. Otto bambini affetti\
-  \ da neoplasie sono già stati presi in carico dal Gaslini e altri arriveranno nei\
-  \ prossimi giorni. \n\nOltre alle necessità legate alla cura e al trasporto dei\
-  \ piccoli pazienti ucraini, occorre gestire l'accoglienza nel periodo in cui le\
-  \ famiglie in fuga dalla guerra con i propri bambini malati attendono il trasferimento\
-  \ presso gli ospedali italiani.""
-heading: Gaslini onlus
-iban: IT48Q0617501583000000700080
-bicSwift: ''
-ccPostal: ''
-causal: Gaslini per l'Ucraina
-link: https://sostienici.gaslinionlus.it/projects/gaslini-per-ucraina?fbclid=IwAR1nUdfg7FKYALCEx5YtneSUQwP3P8kSohnpFt2z-665L0KKr21Z8XIFZyI
-email: ''
-location:
-  mode: autocomplete
-  address: {}
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: fundraising
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/534,1196541621,2022-04-07 22:25:53,2022-04-07 20:33:45,Ospedale Bambino Gesù di Roma risponde all’appello di ERN per offrire assistenza medica specialistica ai bambini ucraini affetti da malattie rare ,,,,,"[""Valid/Accettato"",""Services"",""healthcare""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""L\u2019Ospedale Pediatrico Bambino Ges\u00f9 risponde all\u2019appello lanciato dalle Reti ERN europee per offrire consulenze specialistiche e assistenza sanitaria ai bambini ucraini con gravi malattie rare che non possono ricevere le cure necessarie nel loro Paese di origine a causa del conflitto.Le ERN - Reti di Riferimento Europee per le malattie rare - per fronteggiare l\u2019emergenza internazionale hanno predisposto un nuovo sito web www.erncare4ua.eu che sar\u00e0 il punto di contatto e di informazione per le Istituzioni, per l\u2019Organizzazione Mondiale della Sanit\u00e0 e per gli operatori sanitari di tutta Europa che abbiano bisogno di aiuto per la gestione dei malati rari ucraini."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ospedale Bambino Ges\u00f9"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Sostegno ai bambini affetti da malattie rare"",""url"":""https://www.ospedalebambinogesu.it/il-bambino-gesu-con-le-reti-ern-per-i-malati-rari-dell-ucraina-138371/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -339,95 +600,6 @@ url: https://www.ospedalebambinogesu.it/il-bambino-gesu-con-le-reti-ern-per-i-ma
 address:
   mode: autocomplete
   address: {}
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/532,1196531582,2022-04-07 20:27:53,2022-04-07 20:22:52,Associazione Karmadonne di Carmagnola (Torino) cerca volontari/e per gestire raccolta beni e distribuirli ai profughi ucraini,44.8515877,7.7222716,Piemonte,Torino,"[""Valid/Accettato"",""Help"",""materialGoods""]",,,"{""Posizione"":""44.8515877 7.7222716"",""description"":""L'Associazione Karmadonne cerca volontari e volontarie il sabato mattina per la gestione e redistribuzione dei pacchi con beni di prima necessit\u00e0 da inviare alle persone in fuga dall'Ucraina."",""email"":""karmadonne.carmagnola@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""postcode"":""10022"",""road"":""Via Girolamo Savonarola"",""state"":""Piemonte"",""town"":""Carmagnola""},""boundingbox"":[""44.8511551"",""44.8518055"",""7.7192112"",""7.7246284""],""class"":""highway"",""display_name"":""Via Girolamo Savonarola, Carmagnola, Torino, Piemonte, 10022, Italia"",""importance"":0.51,""lat"":""44.8515877"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.7222716"",""osm_id"":76089297,""osm_type"":""way"",""place_id"":330815289,""type"":""residential""},""mode"":""autocomplete""},""nameSurname"":""Karmadonne"",""phoneNumber"":""3939096878"",""recipients"":"""",""submit"":true,""title"":""Ricerca volontari/e per raccolta beni di prima necessit\u00e0"",""url"":""https://www.karmadonne.it/?fbclid=IwAR1YJhU5Ye8ReW6g_79XduQ_lHtLyhCcz-s9QPj0KOmHKPDVY73l_jkJ6dw""}","<pre><yamldata>
-nameSurname: Karmadonne
-phoneNumber: '3939096878'
-email: karmadonne.carmagnola@gmail.com
-title: Ricerca volontari/e per raccolta beni di prima necessità
-recipients: ''
-description: L'Associazione Karmadonne cerca volontari e volontarie il sabato mattina
-  per la gestione e redistribuzione dei pacchi con beni di prima necessità da inviare
-  alle persone in fuga dall'Ucraina.
-url: https://www.karmadonne.it/?fbclid=IwAR1YJhU5Ye8ReW6g_79XduQ_lHtLyhCcz-s9QPj0KOmHKPDVY73l_jkJ6dw
-location:
-  mode: autocomplete
-  address:
-    place_id: 330815289
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 76089297
-    boundingbox:
-    - '44.8511551'
-    - '44.8518055'
-    - '7.7192112'
-    - '7.7246284'
-    lat: '44.8515877'
-    lon: '7.7222716'
-    display_name: Via Girolamo Savonarola, Carmagnola, Torino, Piemonte, 10022, Italia
-    class: highway
-    type: residential
-    importance: 0.51
-    address:
-      road: Via Girolamo Savonarola
-      town: Carmagnola
-      county: Torino
-      state: Piemonte
-      ISO3166-2-lvl4: IT-21
-      postcode: '10022'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 44.8515877 7.7222716
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/525,1195921790,2022-04-07 20:10:13,2022-04-07 11:39:34,"Anffas Ragusa offre possibilità di accoglienza a profughi ucraini, in particolare mamma con figlio/a",,,,,"[""Valid/Accettato"",""Services"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""city"":""Ragusa"",""country"":""Croazia"",""country_code"":""hr"",""county"":""Regione raguseo-narentana""},""boundingbox"":[""42.6208867"",""42.6705551"",""18.0462375"",""18.1417947""],""class"":""boundary"",""display_name"":""Ragusa, Citt\u00e0 di Ragusa, Regione raguseo-narentana, Croazia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7065804406996246,""lat"":""42.64873625"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""18.094680152605108"",""osm_id"":13226684,""osm_type"":""relation"",""place_id"":285687417,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Anffas Ragusa ha la possibilit\u00e0 di accogliere profughi ucraini, in particolare mamma e figlio/a. Info: Salvatrice Cilia Info@anffasragusa.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""ANFFAS RAGUSA"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Accoglienza profughi"",""url"":""https://www.forumterzosettore.it/2022/03/25/emergenza-ucraina-accoglienza-in-italia/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: true
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: ANFFAS RAGUSA
-title: Accoglienza profughi
-recipients: ''
-description: ""Anffas Ragusa ha la possibilità di accogliere profughi ucraini, in particolare mamma e figlio/a. Info: Salvatrice Cilia Info@anffasragusa.org""
-url: https://www.forumterzosettore.it/2022/03/25/emergenza-ucraina-accoglienza-in-italia/
-address:
-  mode: autocomplete
-  address:
-    place_id: 285687417
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 13226684
-    boundingbox:
-    - '42.6208867'
-    - '42.6705551'
-    - '18.0462375'
-    - '18.1417947'
-    lat: '42.64873625'
-    lon: '18.094680152605108'
-    display_name: Ragusa, Città di Ragusa, Regione raguseo-narentana, Croazia
-    class: boundary
-    type: administrative
-    importance: 0.7065804406996246
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Ragusa
-      county: Regione raguseo-narentana
-      country: Croazia
-      country_code: hr
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
@@ -862,71 +1034,6 @@ address:
       county: Roma Capitale
       state: Lazio
       postcode: '00100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/517,1195157192,2022-04-07 07:12:25,2022-04-06 20:31:34,"Regione Toscana, accesso a pediatra di famiglia per bambini ucraini anche non in regola con permesso di soggiorno",,,,,"[""Valid/Accettato"",""Services"",""healthcare"",""Children""]",,,"{""address"":{""address"":{""address"":{""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""highway"":""Regione Toscana"",""postcode"":""50127"",""road"":""Via di Novoli"",""state"":""Toscana"",""suburb"":""Quartiere 5""},""boundingbox"":[""43.792534"",""43.792634"",""11.2226109"",""11.2227109""],""class"":""highway"",""display_name"":""Regione Toscana, Via di Novoli, Quartiere 5, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50127, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//transport_bus_stop2.p.20.png"",""importance"":0.21100000000000002,""lat"":""43.792584"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2226609"",""osm_id"":6027223967,""osm_type"":""node"",""place_id"":65208500,""type"":""bus_stop""},""mode"":""autocomplete""},""description"":""Un accordo tra pediatri, Asl e Regione Toscana stabilisce che i minori, che arrivano in Toscana dall\u2019Ucraina, potranno contare sulla presa in carico dei pediatri di famiglia in stretta relazione con tutte le strutture delle Asl territorialmente competenti. Ai bambini ucraini sar\u00e0 assicurata la completa assistenza sanitaria, al pari dei bambini italiani, con particolare riguardo alle attivit\u00e0 di sorveglianza, prevenzione e profilassi vaccinale del Covid-19 e di altre malattie infettive (polio, difterite, tetano, epatite b, pertosse, emofilo di tipo b, morbillo, rosolia, parotite, varicella). Questo vale anche per i minori che non sono in regola con le norme relative all\u2019ingresso e al soggiorno. Inoltre le Asl dovranno assicurare un servizio di consulenza e di traduzione attraverso la mediazione culturale, fornendo cos\u00ec ai pediatri gli strumenti necessari per favorire l\u2019accesso al servizio."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Toscana"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Regione Toscana, accesso a pediatra di famiglia per bambini ucraini anche non in regola con permesso di soggiorno"",""url"":""https://www.toscana-notizie.it/-/assistenza-e-cure-ai-bambini-ucraini-l-accordo-con-pediatri-e-asl""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: true
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: true
-  disability: false
-  women: false
-  education: false
-offerFromWho: Regione Toscana
-title: Regione Toscana, accesso a pediatra di famiglia per bambini ucraini anche non
-  in regola con permesso di soggiorno
-recipients: ''
-description: 'Un accordo tra pediatri, Asl e Regione Toscana stabilisce che i minori, che arrivano in Toscana dall’Ucraina, potranno contare sulla
-  presa in carico dei pediatri di famiglia in stretta relazione con tutte le strutture
-  delle Asl territorialmente competenti.
- Ai bambini ucraini sarà assicurata la completa assistenza sanitaria, al pari dei
-  bambini italiani, con particolare riguardo alle attività di sorveglianza, prevenzione
-  e profilassi vaccinale del Covid-19 e di altre malattie infettive (polio, difterite,
-  tetano, epatite b, pertosse, emofilo di tipo b, morbillo, rosolia, parotite, varicella).
-Questo vale anche per i minori che non sono in regola con le norme relative all’ingresso
-  e al soggiorno.
-  Inoltre le Asl dovranno assicurare un servizio di consulenza e di traduzione attraverso
-  la mediazione culturale, fornendo così ai pediatri gli strumenti necessari per favorire
-  l’accesso al servizio.'
-url: https://www.toscana-notizie.it/-/assistenza-e-cure-ai-bambini-ucraini-l-accordo-con-pediatri-e-asl
-address:
-  mode: autocomplete
-  address:
-    place_id: 65208500
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 6027223967
-    boundingbox:
-    - '43.792534'
-    - '43.792634'
-    - '11.2226109'
-    - '11.2227109'
-    lat: '43.792584'
-    lon: '11.2226609'
-    display_name: Regione Toscana, Via di Novoli, Quartiere 5, Firenze, Città metropolitana
-      di Firenze, Toscana, 50127, Italia
-    class: highway
-    type: bus_stop
-    importance: 0.21100000000000002
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//transport_bus_stop2.p.20.png
-    address:
-      highway: Regione Toscana
-      road: Via di Novoli
-      suburb: Quartiere 5
-      city: Firenze
-      county: Città metropolitana di Firenze
-      state: Toscana
-      postcode: '50127'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
