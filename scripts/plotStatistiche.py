@@ -22,14 +22,14 @@ def load_issue_data():
     s = issues['labels'].apply(eval).explode()
     p = pd.crosstab(s.index, s)
     labels = p.columns.to_list()
-    for l in ['tweet', 'telegram-channel', 'Valid/Accettato']:
+    for l in ['tweet', 'telegram-channel', 'Valid/Accettato', 'Services', 'AA Violation']:
         if l in labels:
             labels.remove(l)
 
     issues = issues.join(p)
     return issues, labels
 
-def issue_category_count_plot(issues: pd.DataFrame, labels: list):
+def issues_by_category_plot(issues: pd.DataFrame, labels: list):
     labels_count = [issues[l].sum() for l in labels]
     sorted_labels = sorted(labels, key=lambda x: labels_count[labels.index(x)])
 
@@ -64,15 +64,32 @@ def cumulative_sum_issue_over_time(issues):
     p.xaxis[0].ticker.desired_num_ticks = 10
     return p
 
-
+def issues_by_region(labels):
+    issues_by_region = issues.groupby('regione')['url'].count()
+    issues_by_region = issues_by_region.sort_values()
+    
+    p = figure(y_range=issues_by_region.index.to_list(),
+                title='Number of issues per Italian region',
+                x_axis_label="Number of issues",
+                y_axis_label="Regions",
+                tools='save,hover',
+                tooltips="@regioni: @count"
+    )
+    p.toolbar.logo = None
+    p.ygrid.grid_line_color = None
+    p.x_range.start = 0
+    source = dict(regioni=issues_by_region.index.to_list(), count=issues_by_region.values)
+    p.hbar(y='regioni', right='count', height=0.9, source=source)
+    return p
 
 if __name__ == '__main__':
     issues, labels = load_issue_data()
-    plot1 = issue_category_count_plot(issues, labels)
-    plot2 = cumulative_sum_issue_over_time(issues)
-    # show(plot)
-    grid = column(plot1, plot2)
-    show(grid)
+    plot1 = cumulative_sum_issue_over_time(issues)
+    plot2 = issues_by_category_plot(issues, labels)
+    plot3 = issues_by_region(labels)
+    
+    grid = column(plot1, plot2, plot3)
+    # show(grid) # open plot in browser
 
     with open(os.path.join(PATH_TO_PLOT, 'plot.json'), 'w') as f:
         json.dump(json_item(grid, "statplot"), f)
