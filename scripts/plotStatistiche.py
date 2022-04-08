@@ -10,8 +10,8 @@ import json
 from bokeh.embed import json_item
 
 
-PATH_TO_DATA = '../_data/machgen/issues.csv'
-PATH_TO_PLOT = '../_data/plot'
+PATH_TO_DATA = './issues.csv'
+PATH_TO_PLOT = './plot/'
 
 
 def load_issue_data():
