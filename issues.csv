@@ -1,4 +1,843 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/373,1182648399,2022-04-09 17:22:58,2022-03-27 20:11:24,"A Varese associazione Anna-Sofia organizza corsi gratuiti di italiano per rifugiati ucraini, raccolte beni e supporto ai nuovi arrivati",,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""materialGoods"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Varese"",""postcode"":""21025"",""road"":""Via Maspero"",""state"":""Lombardia"",""village"":""Morosolo""},""boundingbox"":[""45.8246617"",""45.8249428"",""8.7635748"",""8.763835""],""class"":""highway"",""display_name"":""Via Maspero, Morosolo, Casciago, Varese, Lombardia, 21025, Italia"",""importance"":0.4,""lat"":""45.8249428"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.763835"",""osm_id"":31894980,""osm_type"":""way"",""place_id"":109212353,""type"":""residential""},""mode"":""autocomplete""},""description"":""L'associazione di ucraini Anna-Sofia organizza corsi gratuiti di italiano ogni gioved\u00ec e sabato dalle ore 14 alle 16.\nRaccoglie inoltre beni di prima necessit\u00e0 da spedire in Ucraina e offre supporto ai rifugiati ucraini che arrivano a Varese."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Anna-Sofia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Varese associazione Anna-Sofia organizza corsi gratuiti di italiano per i rifugiati ucraini, raccoglie beni e offre supporto ai nuovi arrivati"",""url"":""https://www.facebook.com/105701451315204/posts/430134785538534/?sfnsn=scwspmo""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Associazione Anna-Sofia
+title: A Varese associazione Anna-Sofia organizza corsi gratuiti di italiano per i
+  rifugiati ucraini, raccoglie beni e offre supporto ai nuovi arrivati
+recipients: ''
+description: 'L''associazione di ucraini Anna-Sofia organizza corsi gratuiti di italiano
+  ogni giovedì e sabato dalle ore 14 alle 16.
+
+  Raccoglie inoltre beni di prima necessità da spedire in Ucraina e offre supporto
+  ai rifugiati ucraini che arrivano a Varese.'
+url: https://www.facebook.com/105701451315204/posts/430134785538534/?sfnsn=scwspmo
+address:
+  mode: autocomplete
+  address:
+    place_id: 109212353
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 31894980
+    boundingbox:
+    - '45.8246617'
+    - '45.8249428'
+    - '8.7635748'
+    - '8.763835'
+    lat: '45.8249428'
+    lon: '8.763835'
+    display_name: Via Maspero, Morosolo, Casciago, Varese, Lombardia, 21025, Italia
+    class: highway
+    type: residential
+    importance: 0.4
+    address:
+      road: Via Maspero
+      village: Morosolo
+      county: Varese
+      state: Lombardia
+      postcode: '21025'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/452,1190293596,2022-04-09 17:22:05,2022-04-01 21:36:12,"A Palermo il Comitato Salva Ucraini offre ai rifugiati ucraini beni di prima necessità, assistenza medica e legale",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""useful contact"",""materialGoods"",""hospitality"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""postcode"":""90141"",""road"":""Via Marchese Ugo"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1299555"",""38.1336658"",""13.3496116"",""13.3514253""],""class"":""highway"",""display_name"":""Via Marchese Ugo, VIII Circoscrizione, Palermo, Sicilia, 90141, Italia"",""importance"":0.72,""lat"":""38.1315691"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3504181"",""osm_id"":86265407,""osm_type"":""way"",""place_id"":119906789,""type"":""residential""},""mode"":""autocomplete""},""description"":""Il Comitato di volontari Salva Ucraini a Palermo offre ai rifugiati ucraini beni di prima necessit\u00e0 (cibo, vestiti, medicine) e assistenza medico e legale. Per maggiori informazioni: - Gruppo Facebook \u201cComitato Salva Ucraini Palermo\u201d - Canale Telegram https://t.me/ucraini_a_palermo\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014- \u041a\u043e\u043c\u0438\u0442\u0435\u0442 \u0432\u043e\u043b\u043e\u043d\u0442\u0435\u0440\u043e\u0432 \u0441\u043f\u0430\u0441\u0430\u0435\u0442 \u0443\u043a\u0440\u0430\u0438\u043d\u0446\u0435\u0432 \u0432 \u041f\u0430\u043b\u0435\u0440\u043c\u043e \u041f\u043e\u0434\u043e\u0436\u0434\u0438\u0442\u0435, \u043f\u043e\u043a\u0430 \u043f\u0440\u0438\u0435\u0434\u0443\u0442 \u0443\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u0438\u0435 \u0431\u0435\u0436\u0435\u043d\u0446\u044b \u0438 \u0441\u043e\u0431\u0435\u0440\u0443\u0442 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u044b \u043f\u0435\u0440\u0432\u043e\u0439 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e\u0441\u0442\u0438. \u041f\u0440\u043e\u0434\u0443\u043a\u0442\u044b \u043f\u0438\u0442\u0430\u043d\u0438\u044f, \u043e\u0434\u0435\u0436\u0434\u0430, \u043b\u0435\u043a\u0430\u0440\u0441\u0442\u0432\u0430, \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0430\u044f \u0438 \u044e\u0440\u0438\u0434\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043f\u043e\u043c\u043e\u0449\u044c \u041d\u0430 \u043d\u0430\u0448\u0438\u0445 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430\u0445 \u0432 facebook \u0438 \u0442\u0435\u043b\u0435\u0433\u0440\u0430\u043c \u0434\u043b\u044f \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0438\u044f \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u0421\u043b\u0435\u0434\u0438\u0442\u0435 \u0437\u0430 \u043d\u043e\u0432\u043e\u0441\u0442\u044f\u043c\u0438 \u043d\u0430 \u043a\u0430\u043d\u0430\u043b\u0435: https://t.me/ucraini_a_palermo Facebook-\u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430 \u041a\u043e\u043c\u0438\u0442\u0435\u0442\u0430 \u00ab\u0421\u043f\u0430\u0441\u0435\u043c \u0443\u043a\u0440\u0430\u0438\u043d\u0446\u0435\u0432\u00bb \u0432 \u041f\u0430\u043b\u0435\u0440\u043c\u043e"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comitato Salva Ucraini Palermo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Palermo il Comitato Salva Ucraini offre ai rifugiati ucraini beni di prima necessit\u00e0 e assistenza medico e legale"",""url"":""https://www.facebook.com/groups/874964709185709/permalink/5610400905642042/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: true
+  transport: false
+  healthcare: true
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Comitato Salva Ucraini Palermo
+title: A Palermo il Comitato Salva Ucraini offre ai rifugiati ucraini beni di prima
+  necessità e assistenza medico e legale
+recipients: ''
+description: 'Il Comitato di volontari Salva Ucraini a Palermo offre ai rifugiati
+  ucraini beni di prima necessità (cibo, vestiti, medicine) e assistenza medico e
+  legale.
+  Per maggiori informazioni:
+  - Gruppo Facebook “Comitato Salva Ucraini Palermo”
+  - Canale Telegram https://t.me/ucraini_a_palermo
+
+  ————————————-
+  Комитет волонтеров спасает украинцев в Палермо
+  Подождите, пока приедут украинские беженцы и соберут предметы первой необходимости.
+  Продукты питания, одежда, лекарства, медицинская и юридическая помощь
+  На наших страницах в facebook и телеграм для получения дополнительной информации
+  Следите за новостями на канале: https://t.me/ucraini_a_palermo
+  Facebook-страница Комитета «Спасем украинцев» в Палермо'
+url: https://www.facebook.com/groups/874964709185709/permalink/5610400905642042/
+address:
+  mode: autocomplete
+  address:
+    place_id: 119906789
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 86265407
+    boundingbox:
+    - '38.1299555'
+    - '38.1336658'
+    - '13.3496116'
+    - '13.3514253'
+    lat: '38.1315691'
+    lon: '13.3504181'
+    display_name: Via Marchese Ugo, VIII Circoscrizione, Palermo, Sicilia, 90141,
+      Italia
+    class: highway
+    type: residential
+    importance: 0.72
+    address:
+      road: Via Marchese Ugo
+      suburb: VIII Circoscrizione
+      city: Palermo
+      county: Palermo
+      state: Sicilia
+      postcode: '90141'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/547,1198534693,2022-04-09 17:21:17,2022-04-09 11:17:45,Ambasciata Ucraina in Italia - Contatti,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00197"",""road"":""Via Guido D'Arezzo"",""state"":""Lazio"",""suburb"":""Municipio Roma II""},""boundingbox"":[""41.9201623"",""41.9216257"",""12.4923154"",""12.4943934""],""class"":""highway"",""display_name"":""Via Guido D'Arezzo, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia"",""importance"":0.71,""lat"":""41.9209097"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4932863"",""osm_id"":23921179,""osm_type"":""way"",""place_id"":107283504,""type"":""residential""},""mode"":""autocomplete""},""aim"":""Ambasciata d'Ucraina in Italia. Attivo anche un numero di Emergenza +393519 886 823\nPagina Facebook: https://www.facebook.com/ukr.embassy.italy\nTwitter: https://twitter.com/UKRinIT?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"",""email"":""emb_it@mfa.gov.ua"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39068412630,  +390682003641"",""submit"":true,""title"":""Ambasciata Ucraina in Italia - Contatti utili"",""url"":""https://italy.mfa.gov.ua/it""}","<pre><yamldata>
+title: Ambasciata Ucraina in Italia - Contatti utili
+phoneNumber: +39068412630,  +390682003641
+email: emb_it@mfa.gov.ua
+aim: 'Ambasciata d''Ucraina in Italia.
+Attivo anche un numero di Emergenza +393519 886 823
+
+  Pagina Facebook: https://www.facebook.com/ukr.embassy.italy
+
+  Twitter: https://twitter.com/UKRinIT?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'
+url: https://italy.mfa.gov.ua/it
+address:
+  mode: autocomplete
+  address:
+    place_id: 107283504
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 23921179
+    boundingbox:
+    - '41.9201623'
+    - '41.9216257'
+    - '12.4923154'
+    - '12.4943934'
+    lat: '41.9209097'
+    lon: '12.4932863'
+    display_name: Via Guido D'Arezzo, Municipio Roma II, Roma, Roma Capitale, Lazio,
+      00197, Italia
+    class: highway
+    type: residential
+    importance: 0.71
+    address:
+      road: Via Guido D'Arezzo
+      suburb: Municipio Roma II
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: 00197
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/549,1198541095,2022-04-09 17:21:10,2022-04-09 11:32:03,Ambasciata d'Ucraina presso la Santa Sede - Contatti,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00100"",""road"":""Via Giovanni Bessarione"",""state"":""Lazio"",""suburb"":""Aurelio""},""boundingbox"":[""41.8915572"",""41.8916979"",""12.4428332"",""12.4444369""],""class"":""highway"",""display_name"":""Via Giovanni Bessarione, Aurelio, Roma, Roma Capitale, Lazio, 00100, Italia"",""importance"":0.4,""lat"":""41.8915572"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4444369"",""osm_id"":4949529,""osm_type"":""way"",""place_id"":96361888,""type"":""residential""},""mode"":""autocomplete""},""aim"":""Orari di apertura \nLun. - Ven. 08:30\u201313:30, 14:45\u201316:55;\nSabato e Domenica - chiuso\nNumero di emergenza: \n+39 366 102 25 85"",""email"":""emb_va@mfa.gov.ua"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+390639378800 - Numero di emergenza  +39 366 102 25 85"",""submit"":true,""title"":""Contatto utile - Ambasciata d'Ucraina presso la Santa Sede"",""url"":""https://vatican.mfa.gov.ua/it""}","<pre><yamldata>
+title: Contatto utile - Ambasciata d'Ucraina presso la Santa Sede
+phoneNumber: +390639378800 - Numero di emergenza  +39 366 102 25 85
+email: emb_va@mfa.gov.ua
+aim: ""Orari di apertura \nLun. - Ven. 08:30–13:30, 14:45–16:55;\nSabato e Domenica\
+  \ - chiuso\nNumero di emergenza: \n+39 366 102 25 85""
+url: https://vatican.mfa.gov.ua/it
+address:
+  mode: autocomplete
+  address:
+    place_id: 96361888
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 4949529
+    boundingbox:
+    - '41.8915572'
+    - '41.8916979'
+    - '12.4428332'
+    - '12.4444369'
+    lat: '41.8915572'
+    lon: '12.4444369'
+    display_name: Via Giovanni Bessarione, Aurelio, Roma, Roma Capitale, Lazio, 00100,
+      Italia
+    class: highway
+    type: residential
+    importance: 0.4
+    address:
+      road: Via Giovanni Bessarione
+      suburb: Aurelio
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: '00100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/550,1198543213,2022-04-09 17:21:02,2022-04-09 11:36:44,Consolato onorario d'Ucraina nella Repubblica di San Marino - Contatti,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""country"":""San Marino"",""country_code"":""sm""},""boundingbox"":[""43.893632"",""43.992093"",""12.4033246"",""12.516202""],""class"":""boundary"",""display_name"":""San Marino"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8593263756585181,""lat"":""43.9458623"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.458306"",""osm_id"":54624,""osm_type"":""relation"",""place_id"":284622582,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Indirizzo: Contr. Borgoloto, n.17/23, San Marino\nOrari di apertura Marted\u00ec: 10.30 - 12.30, Gioved\u00ec: 10.30 - 12.30\nPagina Facebook: https://www.facebook.com/share.php?u=https%3A%2F%2Fitaly.mfa.gov.ua%2Fit%2Fembassy%2F5283-pochesne-konsulystvo-ukrajini-v-sanmarino\nTwitter: https://twitter.com/intent/tweet?url=https%3A%2F%2Fitaly.mfa.gov.ua%2Fit%2Fembassy%2F5283-pochesne-konsulystvo-ukrajini-v-sanmarino"",""email"":""consolatoucrainarsm@alice.sm"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 0549879420"",""submit"":true,""title"":""Consolato onorario d'Ucraina nella Repubblica di San Marino - Contatto utile"",""url"":""https://italy.mfa.gov.ua/it/embassy/5283-pochesne-konsulystvo-ukrajini-v-sanmarino""}","<pre><yamldata>
+title: Consolato onorario d'Ucraina nella Repubblica di San Marino - Contatto utile
+phoneNumber: +39 0549879420
+email: consolatoucrainarsm@alice.sm
+aim: 'Indirizzo: Contr. Borgoloto, n.17/23, San Marino
+
+  Orari di apertura Martedì: 10.30 - 12.30, Giovedì: 10.30 - 12.30
+
+  Pagina Facebook: https://www.facebook.com/share.php?u=https%3A%2F%2Fitaly.mfa.gov.ua%2Fit%2Fembassy%2F5283-pochesne-konsulystvo-ukrajini-v-sanmarino
+
+  Twitter: https://twitter.com/intent/tweet?url=https%3A%2F%2Fitaly.mfa.gov.ua%2Fit%2Fembassy%2F5283-pochesne-konsulystvo-ukrajini-v-sanmarino'
+url: https://italy.mfa.gov.ua/it/embassy/5283-pochesne-konsulystvo-ukrajini-v-sanmarino
+address:
+  mode: autocomplete
+  address:
+    place_id: 284622582
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 54624
+    boundingbox:
+    - '43.893632'
+    - '43.992093'
+    - '12.4033246'
+    - '12.516202'
+    lat: '43.9458623'
+    lon: '12.458306'
+    display_name: San Marino
+    class: boundary
+    type: administrative
+    importance: 0.8593263756585181
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      country: San Marino
+      country_code: sm
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/551,1198545650,2022-04-09 17:20:54,2022-04-09 11:42:05,Consolato Ucraino a Roma - Contatti ,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00100"",""quarter"":""Monte Sacro"",""road"":""Via Monte Pramaggiore"",""state"":""Lazio"",""suburb"":""Monte Sacro""},""boundingbox"":[""41.9303268"",""41.9312453"",""12.5374866"",""12.5390085""],""class"":""highway"",""display_name"":""Via Monte Pramaggiore, Monte Sacro, Roma, Roma Capitale, Lazio, 00100, Italia"",""importance"":0.61,""lat"":""41.9308165"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.5383171"",""osm_id"":26943866,""osm_type"":""way"",""place_id"":107499927,""type"":""residential""},""mode"":""autocomplete""},""aim"":""Orario: 9.00-12.30 e 15.00-16.30 di luned\u00ec, marted\u00ec, gioved\u00ec; 9.00-12.30 di venerd\u00ec"",""email"":""gc_it@mfa.gov.ua"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""06 82003641"",""submit"":true,""title"":""Consolato Ucraino a Roma - Contatti utili"",""url"":""""}","<pre><yamldata>
+title: Consolato Ucraino a Roma - Contatti utili
+phoneNumber: 06 82003641
+email: gc_it@mfa.gov.ua
+aim: 'Orario: 9.00-12.30 e 15.00-16.30 di lunedì, martedì, giovedì; 9.00-12.30 di
+  venerdì'
+url: ''
+address:
+  mode: autocomplete
+  address:
+    place_id: 107499927
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 26943866
+    boundingbox:
+    - '41.9303268'
+    - '41.9312453'
+    - '12.5374866'
+    - '12.5390085'
+    lat: '41.9308165'
+    lon: '12.5383171'
+    display_name: Via Monte Pramaggiore, Monte Sacro, Roma, Roma Capitale, Lazio,
+      00100, Italia
+    class: highway
+    type: residential
+    importance: 0.61
+    address:
+      road: Via Monte Pramaggiore
+      quarter: Monte Sacro
+      suburb: Monte Sacro
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: '00100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/552,1198546733,2022-04-09 17:20:47,2022-04-09 11:44:26,Consolato Ucraina a Milano - Contatti ,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""borough"":""Municipio 8 di Milano"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""11"",""office"":""Consolato Generale dell'Ucraina"",""postcode"":""20156"",""quarter"":""Villapizzone"",""road"":""Via Ludovico di Breme"",""state"":""Lombardia""},""boundingbox"":[""45.4966553"",""45.4967553"",""9.1390852"",""9.1391852""],""class"":""office"",""display_name"":""Consolato Generale dell'Ucraina, 11, Via Ludovico di Breme, Villapizzone, Municipio 8 di Milano, Milano, Lombardia, 20156, Italia"",""importance"":0.611,""lat"":""45.4967053"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1391352"",""osm_id"":693845180,""osm_type"":""node"",""place_id"":5652117,""type"":""diplomatic""},""mode"":""autocomplete""},""aim"":""Utile per Visto Schengen Visto Turistico Schengen Visto Affari Schengen Visto Visite Private Schengen Visto Lavoro Schengen Visto Studio Schengen\nFacebook https://www.facebook.com/milan.mfa.gov.ua/"",""email"":""gc_itm@mfa.gov.ua"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 02 801333, 02 86995789, 02 86998814"",""submit"":true,""title"":""Consolato Ucraino a Milano - Contatti utili"",""url"":""https://www.ambasciata.net/Consolato/17017/Ucraina-a-Milano""}","<pre><yamldata>
+title: Consolato Ucraino a Milano - Contatti utili
+phoneNumber: +39 02 801333, 02 86995789, 02 86998814
+email: gc_itm@mfa.gov.ua
+aim: 'Utile per Visto Schengen
+Visto Turistico Schengen
+Visto Affari Schengen
+Visto Visite Private Schengen
+Visto Lavoro Schengen
+Visto Studio Schengen
+
+Facebook https://www.facebook.com/milan.mfa.gov.ua/'
+url: 'https://www.ambasciata.net/Consolato/17017/Ucraina-a-Milano'
+address:
+  mode: autocomplete
+  address:
+    place_id: 5652117
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 693845180
+    boundingbox:
+    - '45.4966553'
+    - '45.4967553'
+    - '9.1390852'
+    - '9.1391852'
+    lat: '45.4967053'
+    lon: '9.1391352'
+    display_name: Consolato Generale dell'Ucraina, 11, Via Ludovico di Breme, Villapizzone,
+      Municipio 8 di Milano, Milano, Lombardia, 20156, Italia
+    class: office
+    type: diplomatic
+    importance: 0.611
+    address:
+      office: Consolato Generale dell'Ucraina
+      house_number: '11'
+      road: Via Ludovico di Breme
+      quarter: Villapizzone
+      borough: Municipio 8 di Milano
+      city: Milano
+      county: Milano
+      ISO3166-2-lvl6: IT-MI
+      state: Lombardia
+      postcode: '20156'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/553,1198608649,2022-04-09 17:20:40,2022-04-09 13:39:36,Consolato Ucraina a Napoli - Contatti ,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address1"":""Via G. Porzio 4, Centro Direzionale Isola B3, int. 5-6 "",""address2"":"""",""city"":""Napoli"",""country"":""Italia"",""state"":"""",""zip"":""80143""},""mode"":""manual""},""aim"":""Indirizzo: Via G. Porzio 4, Centro Direzionale Isola B3, int. 5-6 \u2013 80143 Napoli. Tel. in caso di emergenza (+39) 3277 364 822. Servizi: Visto Turistico Schengen Visto Affari Schengen Visto Visite Private Schengen Visto Lavoro Schengen Visto Studio Schengen\nFacebook https://www.facebook.com/cgunapoli"",""email"":""gc_itn@mfa.gov.ua"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""39 081 7875433 - 3277 364 822"",""submit"":true,""title"":""Consolato ucraino a Napoli -Contatti utili"",""url"":""https://naples.mfa.gov.ua/it""}","<pre><yamldata>
+title: Consolato ucraino a Napoli -Contatti utili
+phoneNumber: 39 081 7875433 - 3277 364 822 
+email: gc_itn@mfa.gov.ua
+aim: 'Indirizzo: Via G. Porzio 4, Centro Direzionale Isola B3, int. 5-6 – 80143 Napoli.
+Tel. in caso di emergenza (+39) 3277 364 822.
+Servizi:
+Visto Turistico Schengen
+Visto Affari Schengen
+Visto Visite Private Schengen
+Visto Lavoro Schengen
+Visto Studio Schengen
+
+Facebook https://www.facebook.com/cgunapoli'
+url: 'https://naples.mfa.gov.ua/it'
+address:
+  mode: manual
+  address:
+    address1: 'Via G. Porzio 4, Centro Direzionale Isola B3, int. 5-6 '
+    address2: ''
+    city: Napoli
+    state: ''
+    country: Italia
+    zip: '80143'
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/554,1198611430,2022-04-09 17:20:33,2022-04-09 13:45:13,Consolato Ucraina a Genova - Contatti ,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-42"",""ISO3166-2-lvl6"":""IT-GE"",""city"":""Genova"",""country"":""Italia"",""country_code"":""it"",""county"":""Genoa"",""house_number"":""2"",""postcode"":""16121"",""road"":""Via San Vincenzo"",""state"":""Liguria"",""suburb"":""San Vincenzo""},""boundingbox"":[""44.406505"",""44.406605"",""8.9448655"",""8.9449655""],""class"":""place"",""display_name"":""2, Via San Vincenzo, San Vincenzo, Centro Est, Genova, Genoa, Liguria, 16121, Italia"",""importance"":0.5209999999999999,""lat"":""44.406555"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.9449155"",""osm_id"":3797412163,""osm_type"":""node"",""place_id"":44845366,""type"":""house""},""mode"":""autocomplete""},""aim"":""Visto Turistico Schengen\nVisto Affari Schengen\nVisto Visite Private Schengen\nVisto Lavoro Schengen\nVisto Studio Schengen"",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""010 587557"",""submit"":true,""title"":""Consolato ucraino a Genova - Contatti utili"",""url"":""""}","<pre><yamldata>
+title: Consolato ucraino a Genova - Contatti utili
+phoneNumber: 010 587557
+email: ''
+aim: 'Visto Turistico Schengen
+
+  Visto Affari Schengen
+
+  Visto Visite Private Schengen
+
+  Visto Lavoro Schengen
+
+  Visto Studio Schengen'
+url: ''
+address:
+  mode: autocomplete
+  address:
+    place_id: 44845366
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 3797412163
+    boundingbox:
+    - '44.406505'
+    - '44.406605'
+    - '8.9448655'
+    - '8.9449655'
+    lat: '44.406555'
+    lon: '8.9449155'
+    display_name: 2, Via San Vincenzo, San Vincenzo, Centro Est, Genova, Genoa, Liguria,
+      16121, Italia
+    class: place
+    type: house
+    importance: 0.5209999999999999
+    address:
+      house_number: '2'
+      road: Via San Vincenzo
+      suburb: San Vincenzo
+      city: Genova
+      county: Genoa
+      ISO3166-2-lvl6: IT-GE
+      state: Liguria
+      ISO3166-2-lvl4: IT-42
+      postcode: '16121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/555,1198612761,2022-04-09 17:20:26,2022-04-09 13:47:51,Consolato Ucraina a Padova - Contatti,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""city"":""Padova"",""country"":""Italia"",""country_code"":""it"",""county"":""Padova"",""road"":""Piazza Gaetano Salvemini"",""state"":""Veneto"",""suburb"":""Arcella""},""boundingbox"":[""45.4146117"",""45.415083"",""11.8830753"",""11.8837083""],""class"":""highway"",""display_name"":""Piazza Gaetano Salvemini, Arcella, Padova, Veneto, Italia"",""importance"":0.4,""lat"":""45.414875949999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.88340728888171"",""osm_id"":174909346,""osm_type"":""way"",""place_id"":143903909,""type"":""pedestrian""},""mode"":""autocomplete""},""aim"":""Visto Turistico Schengen\nVisto Affari Schengen\nVisto Visite Private Schengen\nVisto Lavoro Schengen\nVisto Studio Schengen\nFacebook https://www.facebook.com/consolatoucrainapadova/"",""email"":""segreteria@consolatoucraina.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""049 9801681"",""submit"":true,""title"":""Consolato ucraino a Padova - Contatti utili"",""url"":""https://www.consolatoucraina.it""}","<pre><yamldata>
+title: Consolato ucraino a Padova - Contatti utili
+phoneNumber: 049 9801681
+email: 'segreteria@consolatoucraina.it'
+aim: 'Visto Turistico Schengen
+
+  Visto Affari Schengen
+
+  Visto Visite Private Schengen
+
+  Visto Lavoro Schengen
+
+  Visto Studio Schengen
+
+Facebook https://www.facebook.com/consolatoucrainapadova/'
+url: 'https://www.consolatoucraina.it'
+address:
+  mode: autocomplete
+  address:
+    place_id: 143903909
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 174909346
+    boundingbox:
+    - '45.4146117'
+    - '45.415083'
+    - '11.8830753'
+    - '11.8837083'
+    lat: '45.414875949999995'
+    lon: '11.88340728888171'
+    display_name: Piazza Gaetano Salvemini, Arcella, Padova, Veneto, Italia
+    class: highway
+    type: pedestrian
+    importance: 0.4
+    address:
+      road: Piazza Gaetano Salvemini
+      suburb: Arcella
+      city: Padova
+      county: Padova
+      state: Veneto
+      ISO3166-2-lvl4: IT-34
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/556,1198613567,2022-04-09 17:20:16,2022-04-09 13:49:27,Consolato Ucraina a Treviso - Contatti ,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""ISO3166-2-lvl6"":""IT-TV"",""city"":""Treviso"",""country"":""Italia"",""country_code"":""it"",""county"":""Treviso"",""house_number"":""35"",""postcode"":""31100"",""road"":""Via Martiri della Libert\u00e0"",""state"":""Veneto"",""suburb"":""Selvana""},""boundingbox"":[""45.6659063"",""45.6660063"",""12.2477597"",""12.2478597""],""class"":""place"",""display_name"":""35, Via Martiri della Libert\u00e0, Selvana, Treviso, Veneto, 31100, Italia"",""importance"":0.611,""lat"":""45.6659563"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.2478097"",""osm_id"":4531922431,""osm_type"":""node"",""place_id"":51417492,""type"":""house""},""mode"":""autocomplete""},""aim"":""Visto Turistico Schengen\nVisto Affari Schengen\nVisto Visite Private Schengen\nVisto Lavoro Schengen\nVisto Studio Schengen"",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""0422 847208 - 340 3806288"",""submit"":true,""title"":""Consolato ucraino a Treviso - Contatti utili"",""url"":""https://www.ambasciata.net/Consolato/26038/Ucraina-a-Treviso""}","<pre><yamldata>
+title: Consolato ucraino a Treviso - Contatti utili
+phoneNumber: 0422 847208 - 340 3806288
+email: ''
+aim: 'Visto Turistico Schengen
+
+  Visto Affari Schengen
+
+  Visto Visite Private Schengen
+
+  Visto Lavoro Schengen
+
+  Visto Studio Schengen'
+url: 'https://www.ambasciata.net/Consolato/26038/Ucraina-a-Treviso'
+address:
+  mode: autocomplete
+  address:
+    place_id: 51417492
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 4531922431
+    boundingbox:
+    - '45.6659063'
+    - '45.6660063'
+    - '12.2477597'
+    - '12.2478597'
+    lat: '45.6659563'
+    lon: '12.2478097'
+    display_name: 35, Via Martiri della Libertà, Selvana, Treviso, Veneto, 31100,
+      Italia
+    class: place
+    type: house
+    importance: 0.611
+    address:
+      house_number: '35'
+      road: Via Martiri della Libertà
+      suburb: Selvana
+      city: Treviso
+      county: Treviso
+      ISO3166-2-lvl6: IT-TV
+      state: Veneto
+      ISO3166-2-lvl4: IT-34
+      postcode: '31100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/558,1198621877,2022-04-09 17:20:06,2022-04-09 14:03:24,Consolato Ucraina a Cagliari - Contatti,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address1"":""Viale Regina Elena 17"",""address2"":"""",""city"":""Cagliari"",""country"":""Italia"",""state"":"""",""zip"":"" 09124""},""mode"":""manual""},""aim"":""Il consolato Ucraina a Cagliari \u00e8 guidato da Anthony Grande - Console Onorario. Facebook https://www.facebook.com/consolatoucrainacagliari/"",""email"":""consolatoucrainacagliari@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 348080 9907"",""submit"":true,""title"":""Consolato Ucraino a Cagliari - Contatti Utili"",""url"":""italy.mfa.gov.ua/it""}","<pre><yamldata>
+title: Consolato Ucraino a Cagliari - Contatti Utili
+phoneNumber: +39 348080 9907
+email: consolatoucrainacagliari@gmail.com
+aim: 'Il consolato Ucraina a Cagliari è guidato da Anthony Grande - Console Onorario.
+Facebook https://www.facebook.com/consolatoucrainacagliari/'
+url: italy.mfa.gov.ua/it
+address:
+  mode: manual
+  address:
+    address1: Viale Regina Elena 17
+    address2: ''
+    city: Cagliari
+    state: ''
+    country: Italia
+    zip: ' 09124'
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/559,1198623692,2022-04-09 17:20:00,2022-04-09 14:06:19,Consolato Ucraina a Catania - Contatti ,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-82"",""city"":""Catania"",""country"":""Italia"",""country_code"":""it"",""county"":""Catania"",""house_number"":""56"",""neighbourhood"":""Monserrato"",""postcode"":""95027"",""road"":""Via Gabriele D'Annunzio"",""state"":""Sicilia"",""suburb"":""Borgo-Sanzio""},""boundingbox"":[""37.5170389"",""37.5171389"",""15.0895743"",""15.0896743""],""class"":""place"",""display_name"":""56, Via Gabriele D'Annunzio, Monserrato, Borgo-Sanzio, Catania, Sicilia, 95027, Italia"",""importance"":0.511,""lat"":""37.5170889"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.0896243"",""osm_id"":1345292099,""osm_type"":""node"",""place_id"":12918492,""type"":""house""},""mode"":""autocomplete""},""aim"":""Il consolato Ucraina a Catania \u00e8 guidato da Domenico Platania - Console Onorario"",""email"":""consolato.onorario.ua.ct@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+393475544764"",""submit"":true,""title"":""Consolato Ucraino a Catania - Contatti utili"",""url"":""https://www.ambasciata.net/Consolato/30805/Ucraina-a-Catania""}","<pre><yamldata>
+title: Consolato Ucraino a Catania - Contatti utili
+phoneNumber: '+393475544764'
+email: consolato.onorario.ua.ct@gmail.com
+aim: 'Il consolato Ucraina a Catania è guidato da Domenico Platania - Console Onorario'
+url: https://www.ambasciata.net/Consolato/30805/Ucraina-a-Catania
+address:
+  mode: autocomplete
+  address:
+    place_id: 12918492
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 1345292099
+    boundingbox:
+    - '37.5170389'
+    - '37.5171389'
+    - '15.0895743'
+    - '15.0896743'
+    lat: '37.5170889'
+    lon: '15.0896243'
+    display_name: 56, Via Gabriele D'Annunzio, Monserrato, Borgo-Sanzio, Catania,
+      Sicilia, 95027, Italia
+    class: place
+    type: house
+    importance: 0.511
+    address:
+      house_number: '56'
+      road: Via Gabriele D'Annunzio
+      neighbourhood: Monserrato
+      suburb: Borgo-Sanzio
+      city: Catania
+      county: Catania
+      state: Sicilia
+      ISO3166-2-lvl4: IT-82
+      postcode: '95027'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/561,1198629443,2022-04-09 17:19:50,2022-04-09 14:16:39,Consolato Ucraina a Torino - Contatti ,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""house_number"":""366 scala A"",""postcode"":""10121"",""road"":""Via Roma"",""state"":""Piemonte"",""suburb"":""Centro""},""boundingbox"":[""45.064548"",""45.064648"",""7.6798814"",""7.6799814""],""class"":""place"",""display_name"":""366 scala A, Via Roma, Centro, Circoscrizione 1, Torino, Piemonte, 10121, Italia"",""importance"":0.411,""lat"":""45.064598"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6799314"",""osm_id"":4736111439,""osm_type"":""node"",""place_id"":53697489,""type"":""house""},""mode"":""autocomplete""},""aim"":""Il consolato Ucraina a Torino \u00e8 guidato da Dario Arrigotti - Console Onorario. Orario: Martedi & Venerdi 14.00-17.00 Facebook facebook.com/consolatoucrainatorino/"",""email"":""consolatoucrainatorino@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 3516906640"",""submit"":true,""title"":""Consolato Ucraina a Torino - Contatti Utili"",""url"":""https://www.ambasciata.net/Consolato/11091/Ucraina-a-Torino""}","<pre><yamldata>
+title: Consolato Ucraina a Torino - Contatti Utili
+phoneNumber: +39 3516906640
+email: consolatoucrainatorino@gmail.com
+aim: 'Il consolato Ucraina a Torino è guidato da Dario Arrigotti - Console Onorario.
+Orario: Martedi & Venerdi 14.00-17.00
+Facebook facebook.com/consolatoucrainatorino/'
+url: https://www.ambasciata.net/Consolato/11091/Ucraina-a-Torino
+address:
+  mode: autocomplete
+  address:
+    place_id: 53697489
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 4736111439
+    boundingbox:
+    - '45.064548'
+    - '45.064648'
+    - '7.6798814'
+    - '7.6799814'
+    lat: '45.064598'
+    lon: '7.6799314'
+    display_name: 366 scala A, Via Roma, Centro, Circoscrizione 1, Torino, Piemonte,
+      10121, Italia
+    class: place
+    type: house
+    importance: 0.411
+    address:
+      house_number: 366 scala A
+      road: Via Roma
+      suburb: Centro
+      city: Torino
+      county: Torino
+      state: Piemonte
+      ISO3166-2-lvl4: IT-21
+      postcode: '10121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/562,1198679841,2022-04-09 17:19:44,2022-04-09 15:30:31,Consolato Ucraina di Firenze - Contatti,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""house_number"":""124"",""neighbourhood"":""Statuto"",""postcode"":""50129"",""road"":""Via Venti Settembre"",""state"":""Toscana"",""suburb"":""Quartiere 5""},""boundingbox"":[""43.7842157"",""43.7843157"",""11.2522206"",""11.2523206""],""class"":""place"",""display_name"":""124, Via Venti Settembre, Statuto, Quartiere 5, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50129, Italia"",""importance"":0.5309999999999999,""lat"":""43.7842657"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2522706"",""osm_id"":2361676853,""osm_type"":""node"",""place_id"":20527488,""type"":""house""},""mode"":""autocomplete""},""aim"":""Il consolato Ucraina a Firenze \u00e8 guidato da Ranieri Pontello - Console Onorario, email: ranieri.pontello@gmail.com\nFacebook https://m.facebook.com/profile.php?id=100068937888414"",""email"":""ucrainaconsolatofirenze@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 055 4625 25252 - 371 3092862 - 351 9886823"",""submit"":true,""title"":""Consolato Ucraina di Firenze"",""url"":""https://www.ambasciata.net/Consolato/26036/Ucraina-a-Firenze""}","<pre><yamldata>
+title: Consolato Ucraina di Firenze
+phoneNumber: +39 055 4625 25252 - 371 3092862 - 351 9886823
+email: ucrainaconsolatofirenze@gmail.com
+aim: 'Il consolato Ucraina a Firenze è guidato da Ranieri Pontello - Console Onorario,
+  email: ranieri.pontello@gmail.com
+
+Facebook https://m.facebook.com/profile.php?id=100068937888414'
+url: https://www.ambasciata.net/Consolato/26036/Ucraina-a-Firenze
+address:
+  mode: autocomplete
+  address:
+    place_id: 20527488
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 2361676853
+    boundingbox:
+    - '43.7842157'
+    - '43.7843157'
+    - '11.2522206'
+    - '11.2523206'
+    lat: '43.7842657'
+    lon: '11.2522706'
+    display_name: 124, Via Venti Settembre, Statuto, Quartiere 5, Firenze, Città metropolitana
+      di Firenze, Toscana, 50129, Italia
+    class: place
+    type: house
+    importance: 0.5309999999999999
+    address:
+      house_number: '124'
+      road: Via Venti Settembre
+      neighbourhood: Statuto
+      suburb: Quartiere 5
+      city: Firenze
+      county: Città metropolitana di Firenze
+      state: Toscana
+      ISO3166-2-lvl4: IT-52
+      postcode: '50129'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/563,1198698833,2022-04-09 17:19:37,2022-04-09 16:07:33,Associazione Ucraina OCI (Organizzazione Cittadini Immigrati) Cagliari/Olbia - Contatti,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-88"",""city"":""Cagliari"",""country"":""Italia"",""country_code"":""it"",""county"":""Cagliari"",""house_number"":""34"",""postcode"":""09129"",""quarter"":""Monte Urpinu"",""road"":""Via Enrico Pessina"",""state"":""Sardegna"",""suburb"":""Monte Urpinu""},""boundingbox"":[""39.2132279"",""39.2133279"",""9.1295138"",""9.1296138""],""class"":""place"",""display_name"":""34, Via Enrico Pessina, Monte Urpinu, Cagliari, Sardegna, 09129, Italia"",""importance"":0.411,""lat"":""39.2132779"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1295638"",""osm_id"":4229127937,""osm_type"":""node"",""place_id"":48688055,""type"":""house""},""mode"":""autocomplete""},""aim"":""L'associazione ha sede a Cagliari e Olbia. Presidente Stepaniuk Volodymyr.\nFacebook https://www.facebook.com/Associazione-OCI-Sede-operativa-Olbia-109829351649932"",""email"":""ass-oci@libero.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 320 415 4168"",""submit"":true,""title"":""Associazione Ucraina OCI (Organizzazione Cittadini Immigrati) Cagliari/Olbia - Contatti"",""url"":""https://italy.mfa.gov.ua/it/partnership/179-ukrajinci-v-italiji""}","<pre><yamldata>
+title: Associazione Ucraina OCI (Organizzazione Cittadini Immigrati) Cagliari/Olbia
+  - Contatti
+phoneNumber: +39 320 415 4168
+email: ass-oci@libero.it
+aim: 'L''associazione ha sede a Cagliari e Olbia. Presidente Stepaniuk Volodymyr.
+
+  Facebook https://www.facebook.com/Associazione-OCI-Sede-operativa-Olbia-109829351649932'
+url: https://italy.mfa.gov.ua/it/partnership/179-ukrajinci-v-italiji
+address:
+  mode: autocomplete
+  address:
+    place_id: 48688055
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 4229127937
+    boundingbox:
+    - '39.2132279'
+    - '39.2133279'
+    - '9.1295138'
+    - '9.1296138'
+    lat: '39.2132779'
+    lon: '9.1295638'
+    display_name: 34, Via Enrico Pessina, Monte Urpinu, Cagliari, Sardegna, 09129,
+      Italia
+    class: place
+    type: house
+    importance: 0.411
+    address:
+      house_number: '34'
+      road: Via Enrico Pessina
+      quarter: Monte Urpinu
+      suburb: Monte Urpinu
+      city: Cagliari
+      county: Cagliari
+      state: Sardegna
+      ISO3166-2-lvl4: IT-88
+      postcode: 09129
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/564,1198702489,2022-04-09 17:19:31,2022-04-09 16:16:02,Associazione Culturale Ucraina Mediterranea (Trapani) - Contatti,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-82"",""city"":""Trapani"",""country"":""Italia"",""country_code"":""it"",""county"":""Trapani"",""postcode"":""91100"",""state"":""Sicilia""},""boundingbox"":[""37.8574321"",""38.1774321"",""12.355992"",""12.675992""],""class"":""place"",""display_name"":""Trapani, Sicilia, 91100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.6408486467363621,""lat"":""38.0174321"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.515992"",""osm_id"":67253724,""osm_type"":""node"",""place_id"":286061889,""type"":""city""},""mode"":""autocomplete""},""aim"":""Presidente Muliak Olha.\nFacebook https://m.facebook.com/groups/ucrainamediterranea/"",""email"":""ucraina.mediterranea@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+(39)3493694423, +(39)3317703888"",""submit"":true,""title"":""Associazione Culturale Ucraina Mediterranea (Trapani) - Contatti"",""url"":""https://italy.mfa.gov.ua/it/partnership/179-ukrajinci-v-italiji""}","<pre><yamldata>
+title: Associazione Culturale Ucraina Mediterranea (Trapani) - Contatti
+phoneNumber: +(39)3493694423, +(39)3317703888
+email: ucraina.mediterranea@gmail.com
+aim: 'Presidente Muliak Olha.
+
+  Facebook https://m.facebook.com/groups/ucrainamediterranea/'
+url: https://italy.mfa.gov.ua/it/partnership/179-ukrajinci-v-italiji
+address:
+  mode: autocomplete
+  address:
+    place_id: 286061889
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 67253724
+    boundingbox:
+    - '37.8574321'
+    - '38.1774321'
+    - '12.355992'
+    - '12.675992'
+    lat: '38.0174321'
+    lon: '12.515992'
+    display_name: Trapani, Sicilia, 91100, Italia
+    class: place
+    type: city
+    importance: 0.6408486467363621
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Trapani
+      county: Trapani
+      state: Sicilia
+      ISO3166-2-lvl4: IT-82
+      postcode: '91100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/567,1198718714,2022-04-09 17:19:23,2022-04-09 17:18:06,Unione degli insegnanti di lingua ucraina all'estero (U.I.L.U.E.) - Contatti,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Lombardia""},""boundingbox"":[""44.6799091"",""46.6353523"",""8.4978518"",""11.4276477""],""class"":""boundary"",""display_name"":""Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8157635580731121,""lat"":""45.5703694"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.7732524"",""osm_id"":44879,""osm_type"":""relation"",""place_id"":283756175,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Presidente Maryna But."",""email"":""spilkauuea@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Unione degli insegnanti di lingua ucraina all'estero (U.I.L.U.E.) - Contatti"",""url"":""https://italy.mfa.gov.ua/it/partnership/179-ukrajinci-v-italiji""}","<pre><yamldata>
+title: Unione degli insegnanti di lingua ucraina all'estero (U.I.L.U.E.) - Contatti
+phoneNumber: ''
+email: spilkauuea@gmail.com
+aim: Presidente Maryna But.
+url: https://italy.mfa.gov.ua/it/partnership/179-ukrajinci-v-italiji
+address:
+  mode: autocomplete
+  address:
+    place_id: 283756175
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 44879
+    boundingbox:
+    - '44.6799091'
+    - '46.6353523'
+    - '8.4978518'
+    - '11.4276477'
+    lat: '45.5703694'
+    lon: '9.7732524'
+    display_name: Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8157635580731121
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      state: Lombardia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/566,1198717229,2022-04-09 17:19:06,2022-04-09 17:12:14,Comunità Ucraina nelle Marche (Cum) - Contatti,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Ancona"",""state"":""Marche""},""boundingbox"":[""43.2099152"",""43.7505106"",""12.7461961"",""13.6586187""],""class"":""boundary"",""display_name"":""Ancona, Marche, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7320501888541967,""lat"":""43.480120400000004"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.218790609151764"",""osm_id"":53059,""osm_type"":""relation"",""place_id"":283851813,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Presidente Maryna But.\nFacebook https://it-it.facebook.com/comunitaucrainamarche/"",""email"":""comunitaucrainamarche@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 388 925 6358"",""submit"":true,""title"":""Comunit\u00e0 Ucraina nelle Marche (Cum) - Contatti"",""url"":""https://comunitaucrainamarche.wordpress.com""}","<pre><yamldata>
+title: Comunità Ucraina nelle Marche (Cum) - Contatti
+phoneNumber: +39 388 925 6358
+email: comunitaucrainamarche@gmail.com
+aim: 'Presidente Maryna But.
+
+  Facebook https://it-it.facebook.com/comunitaucrainamarche/'
+url: https://comunitaucrainamarche.wordpress.com
+address:
+  mode: autocomplete
+  address:
+    place_id: 283851813
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 53059
+    boundingbox:
+    - '43.2099152'
+    - '43.7505106'
+    - '12.7461961'
+    - '13.6586187'
+    lat: '43.480120400000004'
+    lon: '13.218790609151764'
+    display_name: Ancona, Marche, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7320501888541967
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Ancona
+      state: Marche
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/565,1198703568,2022-04-09 17:18:57,2022-04-09 16:20:34,Associazione culturale  Italia-Ucraina Maidan (Milano) - Contatti,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20022"",""road"":""Via Fratelli Di Dio"",""state"":""Lombardia"",""village"":""Buscate""},""boundingbox"":[""45.5412975"",""45.5439431"",""8.8023924"",""8.8026682""],""class"":""highway"",""display_name"":""Via Fratelli Di Dio, Buscate, Milano, Lombardia, 20022, Italia"",""importance"":0.72,""lat"":""45.5424144"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.8024871"",""osm_id"":75763097,""osm_type"":""way"",""place_id"":119828786,""type"":""residential""},""mode"":""autocomplete""},""aim"":""Presidente Fabio Prevedello.\nFacebook https://m.facebook.com/italiaucrainamaidan/"",""email"":""ituamaidan@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 331 779 5679"",""submit"":true,""title"":""Associazione culturale  Italia-Ucraina Maidan (Milano) - Contatti"",""url"":""http://www.italia-ucraina.it""}","<pre><yamldata>
+title: Associazione culturale  Italia-Ucraina Maidan (Milano) - Contatti
+phoneNumber: +39 331 779 5679
+email: ituamaidan@gmail.com
+aim: 'Presidente Fabio Prevedello.
+
+  Facebook https://m.facebook.com/italiaucrainamaidan/'
+url: http://www.italia-ucraina.it
+address:
+  mode: autocomplete
+  address:
+    place_id: 119828786
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 75763097
+    boundingbox:
+    - '45.5412975'
+    - '45.5439431'
+    - '8.8023924'
+    - '8.8026682'
+    lat: '45.5424144'
+    lon: '8.8024871'
+    display_name: Via Fratelli Di Dio, Buscate, Milano, Lombardia, 20022, Italia
+    class: highway
+    type: residential
+    importance: 0.72
+    address:
+      road: Via Fratelli Di Dio
+      village: Buscate
+      county: Milano
+      ISO3166-2-lvl6: IT-MI
+      state: Lombardia
+      postcode: '20022'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/395,1184757461,2022-04-09 15:54:31,2022-03-29 12:00:25,"A Napoli attivi gli sportelli di Action Aid che offrono orientamento e aiuto concreto a chi arriva dell'Ucraina (beni, supporto legale e psicologico, mediazione linguistica, inserimento abitativo e altro)",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""useful contact"",""materialGoods"",""hospitality"",""translation"",""job"",""psychologicalSupport"",""Children"",""women"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Napoli"",""country"":""Italia"",""country_code"":""it"",""county"":""Napoli"",""postcode"":""80139"",""road"":""Via Santa Sofia"",""state"":""Campania"",""suburb"":""San Lorenzo""},""boundingbox"":[""40.8543232"",""40.8547895"",""14.2616648"",""14.2621505""],""class"":""highway"",""display_name"":""Via Santa Sofia, San Lorenzo, Municipalit\u00e0 4, Napoli, Campania, 80139, Italia"",""importance"":0.51,""lat"":""40.854569"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.2619864"",""osm_id"":286930966,""osm_type"":""way"",""place_id"":170144935,""type"":""residential""},""mode"":""autocomplete""},""description"":""A Napoli sono attivi gli sportelli di Action Aid per l'accoglienza dei profughi ucraini, presso la Mediateca Santa Sofia (via Santa Sofia, 7) tutti i gioved\u00ec (14.00 \u2013 18.00) e venerd\u00ec (10.00 \u2013 18.00). \n\nOffriamo un aiuto concreto alle persone in arrivo attraverso la distribuzione di beni materiali e risorse immateriali, supporto psicologico, mediazione linguistico-culturale, orientamento legale, all\u2019inserimento lavorativo, abitativo e scolastico. Le donne delle comunit\u00e0 interessate dal conflitto e coinvolte nei percorsi di ActionAid partecipano in prima persona alle attivit\u00e0 di accoglienza e ricostruzione di legami di fiducia"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""ActionAid presso Mediateca Santo Sofia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":true,""job"":true,""materialGoods"":true,""psychologicalSupport"":true,""translation"":true,""transport"":false,""women"":true},""submit"":true,""title"":""Sportello gratuito di servizi per offrire orientamento e aiuto concreto"",""url"":""https://www.facebook.com/actionaidnapoli/""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
@@ -1378,535 +2217,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: useful contact
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/562,1198679841,2022-04-09 15:31:14,2022-04-09 15:30:31,Consolato Ucraina di Firenze - Contatti,,,,,"[""Valid/Accettato"",""Services"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""house_number"":""124"",""neighbourhood"":""Statuto"",""postcode"":""50129"",""road"":""Via Venti Settembre"",""state"":""Toscana"",""suburb"":""Quartiere 5""},""boundingbox"":[""43.7842157"",""43.7843157"",""11.2522206"",""11.2523206""],""class"":""place"",""display_name"":""124, Via Venti Settembre, Statuto, Quartiere 5, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50129, Italia"",""importance"":0.5309999999999999,""lat"":""43.7842657"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2522706"",""osm_id"":2361676853,""osm_type"":""node"",""place_id"":20527488,""type"":""house""},""mode"":""autocomplete""},""aim"":""Il consolato Ucraina a Firenze \u00e8 guidato da Ranieri Pontello - Console Onorario, email: ranieri.pontello@gmail.com\nFacebook https://m.facebook.com/profile.php?id=100068937888414"",""email"":""ucrainaconsolatofirenze@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 055 4625 25252 - 371 3092862 - 351 9886823"",""submit"":true,""title"":""Consolato Ucraina di Firenze"",""url"":""https://www.ambasciata.net/Consolato/26036/Ucraina-a-Firenze""}","<pre><yamldata>
-title: Consolato Ucraina di Firenze
-phoneNumber: +39 055 4625 25252 - 371 3092862 - 351 9886823
-email: ucrainaconsolatofirenze@gmail.com
-aim: 'Il consolato Ucraina a Firenze è guidato da Ranieri Pontello - Console Onorario,
-  email: ranieri.pontello@gmail.com
-
-Facebook https://m.facebook.com/profile.php?id=100068937888414'
-url: https://www.ambasciata.net/Consolato/26036/Ucraina-a-Firenze
-address:
-  mode: autocomplete
-  address:
-    place_id: 20527488
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 2361676853
-    boundingbox:
-    - '43.7842157'
-    - '43.7843157'
-    - '11.2522206'
-    - '11.2523206'
-    lat: '43.7842657'
-    lon: '11.2522706'
-    display_name: 124, Via Venti Settembre, Statuto, Quartiere 5, Firenze, Città metropolitana
-      di Firenze, Toscana, 50129, Italia
-    class: place
-    type: house
-    importance: 0.5309999999999999
-    address:
-      house_number: '124'
-      road: Via Venti Settembre
-      neighbourhood: Statuto
-      suburb: Quartiere 5
-      city: Firenze
-      county: Città metropolitana di Firenze
-      state: Toscana
-      ISO3166-2-lvl4: IT-52
-      postcode: '50129'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: useful contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/553,1198608649,2022-04-09 15:14:17,2022-04-09 13:39:36,Consolato Ucraina a Napoli - Contatti ,,,,,"[""Valid/Accettato"",""Services"",""useful contact""]",,,"{""address"":{""address"":{""address1"":""Via G. Porzio 4, Centro Direzionale Isola B3, int. 5-6 "",""address2"":"""",""city"":""Napoli"",""country"":""Italia"",""state"":"""",""zip"":""80143""},""mode"":""manual""},""aim"":""Indirizzo: Via G. Porzio 4, Centro Direzionale Isola B3, int. 5-6 \u2013 80143 Napoli. Tel. in caso di emergenza (+39) 3277 364 822. Servizi: Visto Turistico Schengen Visto Affari Schengen Visto Visite Private Schengen Visto Lavoro Schengen Visto Studio Schengen\nFacebook https://www.facebook.com/cgunapoli"",""email"":""gc_itn@mfa.gov.ua"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""39 081 7875433 - 3277 364 822"",""submit"":true,""title"":""Consolato ucraino a Napoli -Contatti utili"",""url"":""https://naples.mfa.gov.ua/it""}","<pre><yamldata>
-title: Consolato ucraino a Napoli -Contatti utili
-phoneNumber: 39 081 7875433 - 3277 364 822 
-email: gc_itn@mfa.gov.ua
-aim: 'Indirizzo: Via G. Porzio 4, Centro Direzionale Isola B3, int. 5-6 – 80143 Napoli.
-Tel. in caso di emergenza (+39) 3277 364 822.
-Servizi:
-Visto Turistico Schengen
-Visto Affari Schengen
-Visto Visite Private Schengen
-Visto Lavoro Schengen
-Visto Studio Schengen
-
-Facebook https://www.facebook.com/cgunapoli'
-url: 'https://naples.mfa.gov.ua/it'
-address:
-  mode: manual
-  address:
-    address1: 'Via G. Porzio 4, Centro Direzionale Isola B3, int. 5-6 '
-    address2: ''
-    city: Napoli
-    state: ''
-    country: Italia
-    zip: '80143'
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: useful contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/552,1198546733,2022-04-09 15:10:23,2022-04-09 11:44:26,Consolato Ucraina a Milano - Contatti ,,,,,"[""Valid/Accettato"",""Services"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""borough"":""Municipio 8 di Milano"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""11"",""office"":""Consolato Generale dell'Ucraina"",""postcode"":""20156"",""quarter"":""Villapizzone"",""road"":""Via Ludovico di Breme"",""state"":""Lombardia""},""boundingbox"":[""45.4966553"",""45.4967553"",""9.1390852"",""9.1391852""],""class"":""office"",""display_name"":""Consolato Generale dell'Ucraina, 11, Via Ludovico di Breme, Villapizzone, Municipio 8 di Milano, Milano, Lombardia, 20156, Italia"",""importance"":0.611,""lat"":""45.4967053"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1391352"",""osm_id"":693845180,""osm_type"":""node"",""place_id"":5652117,""type"":""diplomatic""},""mode"":""autocomplete""},""aim"":""Utile per Visto Schengen Visto Turistico Schengen Visto Affari Schengen Visto Visite Private Schengen Visto Lavoro Schengen Visto Studio Schengen\nFacebook https://www.facebook.com/milan.mfa.gov.ua/"",""email"":""gc_itm@mfa.gov.ua"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 02 801333, 02 86995789, 02 86998814"",""submit"":true,""title"":""Consolato Ucraino a Milano - Contatti utili"",""url"":""https://www.ambasciata.net/Consolato/17017/Ucraina-a-Milano""}","<pre><yamldata>
-title: Consolato Ucraino a Milano - Contatti utili
-phoneNumber: +39 02 801333, 02 86995789, 02 86998814
-email: gc_itm@mfa.gov.ua
-aim: 'Utile per Visto Schengen
-Visto Turistico Schengen
-Visto Affari Schengen
-Visto Visite Private Schengen
-Visto Lavoro Schengen
-Visto Studio Schengen
-
-Facebook https://www.facebook.com/milan.mfa.gov.ua/'
-url: 'https://www.ambasciata.net/Consolato/17017/Ucraina-a-Milano'
-address:
-  mode: autocomplete
-  address:
-    place_id: 5652117
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 693845180
-    boundingbox:
-    - '45.4966553'
-    - '45.4967553'
-    - '9.1390852'
-    - '9.1391852'
-    lat: '45.4967053'
-    lon: '9.1391352'
-    display_name: Consolato Generale dell'Ucraina, 11, Via Ludovico di Breme, Villapizzone,
-      Municipio 8 di Milano, Milano, Lombardia, 20156, Italia
-    class: office
-    type: diplomatic
-    importance: 0.611
-    address:
-      office: Consolato Generale dell'Ucraina
-      house_number: '11'
-      road: Via Ludovico di Breme
-      quarter: Villapizzone
-      borough: Municipio 8 di Milano
-      city: Milano
-      county: Milano
-      ISO3166-2-lvl6: IT-MI
-      state: Lombardia
-      postcode: '20156'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: useful contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/554,1198611430,2022-04-09 15:04:11,2022-04-09 13:45:13,Consolato Ucraina a Genova - Contatti ,,,,,"[""Valid/Accettato"",""Services"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-42"",""ISO3166-2-lvl6"":""IT-GE"",""city"":""Genova"",""country"":""Italia"",""country_code"":""it"",""county"":""Genoa"",""house_number"":""2"",""postcode"":""16121"",""road"":""Via San Vincenzo"",""state"":""Liguria"",""suburb"":""San Vincenzo""},""boundingbox"":[""44.406505"",""44.406605"",""8.9448655"",""8.9449655""],""class"":""place"",""display_name"":""2, Via San Vincenzo, San Vincenzo, Centro Est, Genova, Genoa, Liguria, 16121, Italia"",""importance"":0.5209999999999999,""lat"":""44.406555"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.9449155"",""osm_id"":3797412163,""osm_type"":""node"",""place_id"":44845366,""type"":""house""},""mode"":""autocomplete""},""aim"":""Visto Turistico Schengen\nVisto Affari Schengen\nVisto Visite Private Schengen\nVisto Lavoro Schengen\nVisto Studio Schengen"",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""010 587557"",""submit"":true,""title"":""Consolato ucraino a Genova - Contatti utili"",""url"":""""}","<pre><yamldata>
-title: Consolato ucraino a Genova - Contatti utili
-phoneNumber: 010 587557
-email: ''
-aim: 'Visto Turistico Schengen
-
-  Visto Affari Schengen
-
-  Visto Visite Private Schengen
-
-  Visto Lavoro Schengen
-
-  Visto Studio Schengen'
-url: ''
-address:
-  mode: autocomplete
-  address:
-    place_id: 44845366
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 3797412163
-    boundingbox:
-    - '44.406505'
-    - '44.406605'
-    - '8.9448655'
-    - '8.9449655'
-    lat: '44.406555'
-    lon: '8.9449155'
-    display_name: 2, Via San Vincenzo, San Vincenzo, Centro Est, Genova, Genoa, Liguria,
-      16121, Italia
-    class: place
-    type: house
-    importance: 0.5209999999999999
-    address:
-      house_number: '2'
-      road: Via San Vincenzo
-      suburb: San Vincenzo
-      city: Genova
-      county: Genoa
-      ISO3166-2-lvl6: IT-GE
-      state: Liguria
-      ISO3166-2-lvl4: IT-42
-      postcode: '16121'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: useful contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/555,1198612761,2022-04-09 15:03:56,2022-04-09 13:47:51,Consolato Ucraina a Padova - Contatti,,,,,"[""Valid/Accettato"",""Services"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""city"":""Padova"",""country"":""Italia"",""country_code"":""it"",""county"":""Padova"",""road"":""Piazza Gaetano Salvemini"",""state"":""Veneto"",""suburb"":""Arcella""},""boundingbox"":[""45.4146117"",""45.415083"",""11.8830753"",""11.8837083""],""class"":""highway"",""display_name"":""Piazza Gaetano Salvemini, Arcella, Padova, Veneto, Italia"",""importance"":0.4,""lat"":""45.414875949999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.88340728888171"",""osm_id"":174909346,""osm_type"":""way"",""place_id"":143903909,""type"":""pedestrian""},""mode"":""autocomplete""},""aim"":""Visto Turistico Schengen\nVisto Affari Schengen\nVisto Visite Private Schengen\nVisto Lavoro Schengen\nVisto Studio Schengen\nFacebook https://www.facebook.com/consolatoucrainapadova/"",""email"":""segreteria@consolatoucraina.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""049 9801681"",""submit"":true,""title"":""Consolato ucraino a Padova - Contatti utili"",""url"":""https://www.consolatoucraina.it""}","<pre><yamldata>
-title: Consolato ucraino a Padova - Contatti utili
-phoneNumber: 049 9801681
-email: 'segreteria@consolatoucraina.it'
-aim: 'Visto Turistico Schengen
-
-  Visto Affari Schengen
-
-  Visto Visite Private Schengen
-
-  Visto Lavoro Schengen
-
-  Visto Studio Schengen
-
-Facebook https://www.facebook.com/consolatoucrainapadova/'
-url: 'https://www.consolatoucraina.it'
-address:
-  mode: autocomplete
-  address:
-    place_id: 143903909
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 174909346
-    boundingbox:
-    - '45.4146117'
-    - '45.415083'
-    - '11.8830753'
-    - '11.8837083'
-    lat: '45.414875949999995'
-    lon: '11.88340728888171'
-    display_name: Piazza Gaetano Salvemini, Arcella, Padova, Veneto, Italia
-    class: highway
-    type: pedestrian
-    importance: 0.4
-    address:
-      road: Piazza Gaetano Salvemini
-      suburb: Arcella
-      city: Padova
-      county: Padova
-      state: Veneto
-      ISO3166-2-lvl4: IT-34
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: useful contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/556,1198613567,2022-04-09 15:03:39,2022-04-09 13:49:27,Consolato Ucraina a Treviso - Contatti ,,,,,"[""Valid/Accettato"",""Services"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""ISO3166-2-lvl6"":""IT-TV"",""city"":""Treviso"",""country"":""Italia"",""country_code"":""it"",""county"":""Treviso"",""house_number"":""35"",""postcode"":""31100"",""road"":""Via Martiri della Libert\u00e0"",""state"":""Veneto"",""suburb"":""Selvana""},""boundingbox"":[""45.6659063"",""45.6660063"",""12.2477597"",""12.2478597""],""class"":""place"",""display_name"":""35, Via Martiri della Libert\u00e0, Selvana, Treviso, Veneto, 31100, Italia"",""importance"":0.611,""lat"":""45.6659563"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.2478097"",""osm_id"":4531922431,""osm_type"":""node"",""place_id"":51417492,""type"":""house""},""mode"":""autocomplete""},""aim"":""Visto Turistico Schengen\nVisto Affari Schengen\nVisto Visite Private Schengen\nVisto Lavoro Schengen\nVisto Studio Schengen"",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""0422 847208 - 340 3806288"",""submit"":true,""title"":""Consolato ucraino a Treviso - Contatti utili"",""url"":""https://www.ambasciata.net/Consolato/26038/Ucraina-a-Treviso""}","<pre><yamldata>
-title: Consolato ucraino a Treviso - Contatti utili
-phoneNumber: 0422 847208 - 340 3806288
-email: ''
-aim: 'Visto Turistico Schengen
-
-  Visto Affari Schengen
-
-  Visto Visite Private Schengen
-
-  Visto Lavoro Schengen
-
-  Visto Studio Schengen'
-url: 'https://www.ambasciata.net/Consolato/26038/Ucraina-a-Treviso'
-address:
-  mode: autocomplete
-  address:
-    place_id: 51417492
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 4531922431
-    boundingbox:
-    - '45.6659063'
-    - '45.6660063'
-    - '12.2477597'
-    - '12.2478597'
-    lat: '45.6659563'
-    lon: '12.2478097'
-    display_name: 35, Via Martiri della Libertà, Selvana, Treviso, Veneto, 31100,
-      Italia
-    class: place
-    type: house
-    importance: 0.611
-    address:
-      house_number: '35'
-      road: Via Martiri della Libertà
-      suburb: Selvana
-      city: Treviso
-      county: Treviso
-      ISO3166-2-lvl6: IT-TV
-      state: Veneto
-      ISO3166-2-lvl4: IT-34
-      postcode: '31100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: useful contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/558,1198621877,2022-04-09 15:03:27,2022-04-09 14:03:24,Consolato Ucraina a Cagliari - Contatti,,,,,"[""Valid/Accettato"",""Services"",""useful contact""]",,,"{""address"":{""address"":{""address1"":""Viale Regina Elena 17"",""address2"":"""",""city"":""Cagliari"",""country"":""Italia"",""state"":"""",""zip"":"" 09124""},""mode"":""manual""},""aim"":""Il consolato Ucraina a Cagliari \u00e8 guidato da Anthony Grande - Console Onorario. Facebook https://www.facebook.com/consolatoucrainacagliari/"",""email"":""consolatoucrainacagliari@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 348080 9907"",""submit"":true,""title"":""Consolato Ucraino a Cagliari - Contatti Utili"",""url"":""italy.mfa.gov.ua/it""}","<pre><yamldata>
-title: Consolato Ucraino a Cagliari - Contatti Utili
-phoneNumber: +39 348080 9907
-email: consolatoucrainacagliari@gmail.com
-aim: 'Il consolato Ucraina a Cagliari è guidato da Anthony Grande - Console Onorario.
-Facebook https://www.facebook.com/consolatoucrainacagliari/'
-url: italy.mfa.gov.ua/it
-address:
-  mode: manual
-  address:
-    address1: Viale Regina Elena 17
-    address2: ''
-    city: Cagliari
-    state: ''
-    country: Italia
-    zip: ' 09124'
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: useful contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/559,1198623692,2022-04-09 15:03:17,2022-04-09 14:06:19,Consolato Ucraina a Catania - Contatti ,,,,,"[""Valid/Accettato"",""Services"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-82"",""city"":""Catania"",""country"":""Italia"",""country_code"":""it"",""county"":""Catania"",""house_number"":""56"",""neighbourhood"":""Monserrato"",""postcode"":""95027"",""road"":""Via Gabriele D'Annunzio"",""state"":""Sicilia"",""suburb"":""Borgo-Sanzio""},""boundingbox"":[""37.5170389"",""37.5171389"",""15.0895743"",""15.0896743""],""class"":""place"",""display_name"":""56, Via Gabriele D'Annunzio, Monserrato, Borgo-Sanzio, Catania, Sicilia, 95027, Italia"",""importance"":0.511,""lat"":""37.5170889"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.0896243"",""osm_id"":1345292099,""osm_type"":""node"",""place_id"":12918492,""type"":""house""},""mode"":""autocomplete""},""aim"":""Il consolato Ucraina a Catania \u00e8 guidato da Domenico Platania - Console Onorario"",""email"":""consolato.onorario.ua.ct@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+393475544764"",""submit"":true,""title"":""Consolato Ucraino a Catania - Contatti utili"",""url"":""https://www.ambasciata.net/Consolato/30805/Ucraina-a-Catania""}","<pre><yamldata>
-title: Consolato Ucraino a Catania - Contatti utili
-phoneNumber: '+393475544764'
-email: consolato.onorario.ua.ct@gmail.com
-aim: 'Il consolato Ucraina a Catania è guidato da Domenico Platania - Console Onorario'
-url: https://www.ambasciata.net/Consolato/30805/Ucraina-a-Catania
-address:
-  mode: autocomplete
-  address:
-    place_id: 12918492
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 1345292099
-    boundingbox:
-    - '37.5170389'
-    - '37.5171389'
-    - '15.0895743'
-    - '15.0896743'
-    lat: '37.5170889'
-    lon: '15.0896243'
-    display_name: 56, Via Gabriele D'Annunzio, Monserrato, Borgo-Sanzio, Catania,
-      Sicilia, 95027, Italia
-    class: place
-    type: house
-    importance: 0.511
-    address:
-      house_number: '56'
-      road: Via Gabriele D'Annunzio
-      neighbourhood: Monserrato
-      suburb: Borgo-Sanzio
-      city: Catania
-      county: Catania
-      state: Sicilia
-      ISO3166-2-lvl4: IT-82
-      postcode: '95027'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: useful contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/549,1198541095,2022-04-09 15:03:06,2022-04-09 11:32:03,Ambasciata d'Ucraina presso la Santa Sede - Contatti,,,,,"[""Valid/Accettato"",""Services"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00100"",""road"":""Via Giovanni Bessarione"",""state"":""Lazio"",""suburb"":""Aurelio""},""boundingbox"":[""41.8915572"",""41.8916979"",""12.4428332"",""12.4444369""],""class"":""highway"",""display_name"":""Via Giovanni Bessarione, Aurelio, Roma, Roma Capitale, Lazio, 00100, Italia"",""importance"":0.4,""lat"":""41.8915572"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4444369"",""osm_id"":4949529,""osm_type"":""way"",""place_id"":96361888,""type"":""residential""},""mode"":""autocomplete""},""aim"":""Orari di apertura \nLun. - Ven. 08:30\u201313:30, 14:45\u201316:55;\nSabato e Domenica - chiuso\nNumero di emergenza: \n+39 366 102 25 85"",""email"":""emb_va@mfa.gov.ua"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+390639378800 - Numero di emergenza  +39 366 102 25 85"",""submit"":true,""title"":""Contatto utile - Ambasciata d'Ucraina presso la Santa Sede"",""url"":""https://vatican.mfa.gov.ua/it""}","<pre><yamldata>
-title: Contatto utile - Ambasciata d'Ucraina presso la Santa Sede
-phoneNumber: +390639378800 - Numero di emergenza  +39 366 102 25 85
-email: emb_va@mfa.gov.ua
-aim: ""Orari di apertura \nLun. - Ven. 08:30–13:30, 14:45–16:55;\nSabato e Domenica\
-  \ - chiuso\nNumero di emergenza: \n+39 366 102 25 85""
-url: https://vatican.mfa.gov.ua/it
-address:
-  mode: autocomplete
-  address:
-    place_id: 96361888
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 4949529
-    boundingbox:
-    - '41.8915572'
-    - '41.8916979'
-    - '12.4428332'
-    - '12.4444369'
-    lat: '41.8915572'
-    lon: '12.4444369'
-    display_name: Via Giovanni Bessarione, Aurelio, Roma, Roma Capitale, Lazio, 00100,
-      Italia
-    class: highway
-    type: residential
-    importance: 0.4
-    address:
-      road: Via Giovanni Bessarione
-      suburb: Aurelio
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      postcode: '00100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: useful contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/561,1198629443,2022-04-09 14:39:45,2022-04-09 14:16:39,Consolato Ucraina a Torino - Contatti ,,,,,"[""Valid/Accettato"",""Services"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""house_number"":""366 scala A"",""postcode"":""10121"",""road"":""Via Roma"",""state"":""Piemonte"",""suburb"":""Centro""},""boundingbox"":[""45.064548"",""45.064648"",""7.6798814"",""7.6799814""],""class"":""place"",""display_name"":""366 scala A, Via Roma, Centro, Circoscrizione 1, Torino, Piemonte, 10121, Italia"",""importance"":0.411,""lat"":""45.064598"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6799314"",""osm_id"":4736111439,""osm_type"":""node"",""place_id"":53697489,""type"":""house""},""mode"":""autocomplete""},""aim"":""Il consolato Ucraina a Torino \u00e8 guidato da Dario Arrigotti - Console Onorario. Orario: Martedi & Venerdi 14.00-17.00 Facebook facebook.com/consolatoucrainatorino/"",""email"":""consolatoucrainatorino@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 3516906640"",""submit"":true,""title"":""Consolato Ucraina a Torino - Contatti Utili"",""url"":""https://www.ambasciata.net/Consolato/11091/Ucraina-a-Torino""}","<pre><yamldata>
-title: Consolato Ucraina a Torino - Contatti Utili
-phoneNumber: +39 3516906640
-email: consolatoucrainatorino@gmail.com
-aim: 'Il consolato Ucraina a Torino è guidato da Dario Arrigotti - Console Onorario.
-Orario: Martedi & Venerdi 14.00-17.00
-Facebook facebook.com/consolatoucrainatorino/'
-url: https://www.ambasciata.net/Consolato/11091/Ucraina-a-Torino
-address:
-  mode: autocomplete
-  address:
-    place_id: 53697489
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 4736111439
-    boundingbox:
-    - '45.064548'
-    - '45.064648'
-    - '7.6798814'
-    - '7.6799814'
-    lat: '45.064598'
-    lon: '7.6799314'
-    display_name: 366 scala A, Via Roma, Centro, Circoscrizione 1, Torino, Piemonte,
-      10121, Italia
-    class: place
-    type: house
-    importance: 0.411
-    address:
-      house_number: 366 scala A
-      road: Via Roma
-      suburb: Centro
-      city: Torino
-      county: Torino
-      state: Piemonte
-      ISO3166-2-lvl4: IT-21
-      postcode: '10121'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: useful contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/551,1198545650,2022-04-09 13:42:53,2022-04-09 11:42:05,Consolato Ucraino a Roma - Contatti ,,,,,"[""Valid/Accettato"",""Services"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00100"",""quarter"":""Monte Sacro"",""road"":""Via Monte Pramaggiore"",""state"":""Lazio"",""suburb"":""Monte Sacro""},""boundingbox"":[""41.9303268"",""41.9312453"",""12.5374866"",""12.5390085""],""class"":""highway"",""display_name"":""Via Monte Pramaggiore, Monte Sacro, Roma, Roma Capitale, Lazio, 00100, Italia"",""importance"":0.61,""lat"":""41.9308165"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.5383171"",""osm_id"":26943866,""osm_type"":""way"",""place_id"":107499927,""type"":""residential""},""mode"":""autocomplete""},""aim"":""Orario: 9.00-12.30 e 15.00-16.30 di luned\u00ec, marted\u00ec, gioved\u00ec; 9.00-12.30 di venerd\u00ec"",""email"":""gc_it@mfa.gov.ua"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""06 82003641"",""submit"":true,""title"":""Consolato Ucraino a Roma - Contatti utili"",""url"":""""}","<pre><yamldata>
-title: Consolato Ucraino a Roma - Contatti utili
-phoneNumber: 06 82003641
-email: gc_it@mfa.gov.ua
-aim: 'Orario: 9.00-12.30 e 15.00-16.30 di lunedì, martedì, giovedì; 9.00-12.30 di
-  venerdì'
-url: ''
-address:
-  mode: autocomplete
-  address:
-    place_id: 107499927
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 26943866
-    boundingbox:
-    - '41.9303268'
-    - '41.9312453'
-    - '12.5374866'
-    - '12.5390085'
-    lat: '41.9308165'
-    lon: '12.5383171'
-    display_name: Via Monte Pramaggiore, Monte Sacro, Roma, Roma Capitale, Lazio,
-      00100, Italia
-    class: highway
-    type: residential
-    importance: 0.61
-    address:
-      road: Via Monte Pramaggiore
-      quarter: Monte Sacro
-      suburb: Monte Sacro
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      postcode: '00100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: useful contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/550,1198543213,2022-04-09 13:42:30,2022-04-09 11:36:44,Consolato onorario d'Ucraina nella Repubblica di San Marino - Contatti,,,,,"[""Valid/Accettato"",""Services"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""country"":""San Marino"",""country_code"":""sm""},""boundingbox"":[""43.893632"",""43.992093"",""12.4033246"",""12.516202""],""class"":""boundary"",""display_name"":""San Marino"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8593263756585181,""lat"":""43.9458623"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.458306"",""osm_id"":54624,""osm_type"":""relation"",""place_id"":284622582,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Indirizzo: Contr. Borgoloto, n.17/23, San Marino\nOrari di apertura Marted\u00ec: 10.30 - 12.30, Gioved\u00ec: 10.30 - 12.30\nPagina Facebook: https://www.facebook.com/share.php?u=https%3A%2F%2Fitaly.mfa.gov.ua%2Fit%2Fembassy%2F5283-pochesne-konsulystvo-ukrajini-v-sanmarino\nTwitter: https://twitter.com/intent/tweet?url=https%3A%2F%2Fitaly.mfa.gov.ua%2Fit%2Fembassy%2F5283-pochesne-konsulystvo-ukrajini-v-sanmarino"",""email"":""consolatoucrainarsm@alice.sm"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 0549879420"",""submit"":true,""title"":""Consolato onorario d'Ucraina nella Repubblica di San Marino - Contatto utile"",""url"":""https://italy.mfa.gov.ua/it/embassy/5283-pochesne-konsulystvo-ukrajini-v-sanmarino""}","<pre><yamldata>
-title: Consolato onorario d'Ucraina nella Repubblica di San Marino - Contatto utile
-phoneNumber: +39 0549879420
-email: consolatoucrainarsm@alice.sm
-aim: 'Indirizzo: Contr. Borgoloto, n.17/23, San Marino
-
-  Orari di apertura Martedì: 10.30 - 12.30, Giovedì: 10.30 - 12.30
-
-  Pagina Facebook: https://www.facebook.com/share.php?u=https%3A%2F%2Fitaly.mfa.gov.ua%2Fit%2Fembassy%2F5283-pochesne-konsulystvo-ukrajini-v-sanmarino
-
-  Twitter: https://twitter.com/intent/tweet?url=https%3A%2F%2Fitaly.mfa.gov.ua%2Fit%2Fembassy%2F5283-pochesne-konsulystvo-ukrajini-v-sanmarino'
-url: https://italy.mfa.gov.ua/it/embassy/5283-pochesne-konsulystvo-ukrajini-v-sanmarino
-address:
-  mode: autocomplete
-  address:
-    place_id: 284622582
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 54624
-    boundingbox:
-    - '43.893632'
-    - '43.992093'
-    - '12.4033246'
-    - '12.516202'
-    lat: '43.9458623'
-    lon: '12.458306'
-    display_name: San Marino
-    class: boundary
-    type: administrative
-    importance: 0.8593263756585181
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      country: San Marino
-      country_code: sm
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: useful contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/547,1198534693,2022-04-09 13:42:01,2022-04-09 11:17:45,Ambasciata Ucraina in Italia - Contatti,,,,,"[""Valid/Accettato"",""Services"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00197"",""road"":""Via Guido D'Arezzo"",""state"":""Lazio"",""suburb"":""Municipio Roma II""},""boundingbox"":[""41.9201623"",""41.9216257"",""12.4923154"",""12.4943934""],""class"":""highway"",""display_name"":""Via Guido D'Arezzo, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia"",""importance"":0.71,""lat"":""41.9209097"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4932863"",""osm_id"":23921179,""osm_type"":""way"",""place_id"":107283504,""type"":""residential""},""mode"":""autocomplete""},""aim"":""Ambasciata d'Ucraina in Italia. Attivo anche un numero di Emergenza +393519 886 823\nPagina Facebook: https://www.facebook.com/ukr.embassy.italy\nTwitter: https://twitter.com/UKRinIT?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"",""email"":""emb_it@mfa.gov.ua"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39068412630,  +390682003641"",""submit"":true,""title"":""Ambasciata Ucraina in Italia - Contatti utili"",""url"":""https://italy.mfa.gov.ua/it""}","<pre><yamldata>
-title: Ambasciata Ucraina in Italia - Contatti utili
-phoneNumber: +39068412630,  +390682003641
-email: emb_it@mfa.gov.ua
-aim: 'Ambasciata d''Ucraina in Italia.
-Attivo anche un numero di Emergenza +393519 886 823
-
-  Pagina Facebook: https://www.facebook.com/ukr.embassy.italy
-
-  Twitter: https://twitter.com/UKRinIT?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'
-url: https://italy.mfa.gov.ua/it
-address:
-  mode: autocomplete
-  address:
-    place_id: 107283504
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 23921179
-    boundingbox:
-    - '41.9201623'
-    - '41.9216257'
-    - '12.4923154'
-    - '12.4943934'
-    lat: '41.9209097'
-    lon: '12.4932863'
-    display_name: Via Guido D'Arezzo, Municipio Roma II, Roma, Roma Capitale, Lazio,
-      00197, Italia
-    class: highway
-    type: residential
-    importance: 0.71
-    address:
-      road: Via Guido D'Arezzo
-      suburb: Municipio Roma II
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      postcode: 00197
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: useful contact
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/534,1196541621,2022-04-09 13:12:48,2022-04-07 20:33:45,Ospedale Bambino Gesù di Roma risponde all’appello di ERN per offrire assistenza medica specialistica ai bambini ucraini affetti da malattie rare ,,,,,"[""Valid/Accettato"",""Services"",""healthcare""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""L\u2019Ospedale Pediatrico Bambino Ges\u00f9 risponde all\u2019appello lanciato dalle Reti ERN europee per offrire consulenze specialistiche e assistenza sanitaria ai bambini ucraini con gravi malattie rare che non possono ricevere le cure necessarie nel loro Paese di origine a causa del conflitto.Le ERN - Reti di Riferimento Europee per le malattie rare - per fronteggiare l\u2019emergenza internazionale hanno predisposto un nuovo sito web www.erncare4ua.eu che sar\u00e0 il punto di contatto e di informazione per le Istituzioni, per l\u2019Organizzazione Mondiale della Sanit\u00e0 e per gli operatori sanitari di tutta Europa che abbiano bisogno di aiuto per la gestione dei malati rari ucraini."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ospedale Bambino Ges\u00f9"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Sostegno ai bambini affetti da malattie rare"",""url"":""https://www.ospedalebambinogesu.it/il-bambino-gesu-con-le-reti-ern-per-i-malati-rari-dell-ucraina-138371/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -3167,71 +3477,6 @@ address:
       county: Perugia
       state: Umbria
       postcode: '06100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/452,1190293596,2022-04-07 07:22:42,2022-04-01 21:36:12,"A Palermo il Comitato Salva Ucraini offre ai rifugiati ucraini beni di prima necessità, assistenza medica e legale",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""hospitality"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""postcode"":""90141"",""road"":""Via Marchese Ugo"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1299555"",""38.1336658"",""13.3496116"",""13.3514253""],""class"":""highway"",""display_name"":""Via Marchese Ugo, VIII Circoscrizione, Palermo, Sicilia, 90141, Italia"",""importance"":0.72,""lat"":""38.1315691"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3504181"",""osm_id"":86265407,""osm_type"":""way"",""place_id"":119906789,""type"":""residential""},""mode"":""autocomplete""},""description"":""Il Comitato di volontari Salva Ucraini a Palermo offre ai rifugiati ucraini beni di prima necessit\u00e0 (cibo, vestiti, medicine) e assistenza medico e legale. Per maggiori informazioni: - Gruppo Facebook \u201cComitato Salva Ucraini Palermo\u201d - Canale Telegram https://t.me/ucraini_a_palermo\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014- \u041a\u043e\u043c\u0438\u0442\u0435\u0442 \u0432\u043e\u043b\u043e\u043d\u0442\u0435\u0440\u043e\u0432 \u0441\u043f\u0430\u0441\u0430\u0435\u0442 \u0443\u043a\u0440\u0430\u0438\u043d\u0446\u0435\u0432 \u0432 \u041f\u0430\u043b\u0435\u0440\u043c\u043e \u041f\u043e\u0434\u043e\u0436\u0434\u0438\u0442\u0435, \u043f\u043e\u043a\u0430 \u043f\u0440\u0438\u0435\u0434\u0443\u0442 \u0443\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u0438\u0435 \u0431\u0435\u0436\u0435\u043d\u0446\u044b \u0438 \u0441\u043e\u0431\u0435\u0440\u0443\u0442 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u044b \u043f\u0435\u0440\u0432\u043e\u0439 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e\u0441\u0442\u0438. \u041f\u0440\u043e\u0434\u0443\u043a\u0442\u044b \u043f\u0438\u0442\u0430\u043d\u0438\u044f, \u043e\u0434\u0435\u0436\u0434\u0430, \u043b\u0435\u043a\u0430\u0440\u0441\u0442\u0432\u0430, \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0430\u044f \u0438 \u044e\u0440\u0438\u0434\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043f\u043e\u043c\u043e\u0449\u044c \u041d\u0430 \u043d\u0430\u0448\u0438\u0445 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430\u0445 \u0432 facebook \u0438 \u0442\u0435\u043b\u0435\u0433\u0440\u0430\u043c \u0434\u043b\u044f \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0438\u044f \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u0421\u043b\u0435\u0434\u0438\u0442\u0435 \u0437\u0430 \u043d\u043e\u0432\u043e\u0441\u0442\u044f\u043c\u0438 \u043d\u0430 \u043a\u0430\u043d\u0430\u043b\u0435: https://t.me/ucraini_a_palermo Facebook-\u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430 \u041a\u043e\u043c\u0438\u0442\u0435\u0442\u0430 \u00ab\u0421\u043f\u0430\u0441\u0435\u043c \u0443\u043a\u0440\u0430\u0438\u043d\u0446\u0435\u0432\u00bb \u0432 \u041f\u0430\u043b\u0435\u0440\u043c\u043e"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comitato Salva Ucraini Palermo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Palermo il Comitato Salva Ucraini offre ai rifugiati ucraini beni di prima necessit\u00e0 e assistenza medico e legale"",""url"":""https://www.facebook.com/groups/874964709185709/permalink/5610400905642042/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: true
-  transport: false
-  healthcare: true
-  Legal: true
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Comitato Salva Ucraini Palermo
-title: A Palermo il Comitato Salva Ucraini offre ai rifugiati ucraini beni di prima
-  necessità e assistenza medico e legale
-recipients: ''
-description: 'Il Comitato di volontari Salva Ucraini a Palermo offre ai rifugiati
-  ucraini beni di prima necessità (cibo, vestiti, medicine) e assistenza medico e
-  legale.
-  Per maggiori informazioni:
-  - Gruppo Facebook “Comitato Salva Ucraini Palermo”
-  - Canale Telegram https://t.me/ucraini_a_palermo
-
-  ————————————-
-  Комитет волонтеров спасает украинцев в Палермо
-  Подождите, пока приедут украинские беженцы и соберут предметы первой необходимости.
-  Продукты питания, одежда, лекарства, медицинская и юридическая помощь
-  На наших страницах в facebook и телеграм для получения дополнительной информации
-  Следите за новостями на канале: https://t.me/ucraini_a_palermo
-  Facebook-страница Комитета «Спасем украинцев» в Палермо'
-url: https://www.facebook.com/groups/874964709185709/permalink/5610400905642042/
-address:
-  mode: autocomplete
-  address:
-    place_id: 119906789
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 86265407
-    boundingbox:
-    - '38.1299555'
-    - '38.1336658'
-    - '13.3496116'
-    - '13.3514253'
-    lat: '38.1315691'
-    lon: '13.3504181'
-    display_name: Via Marchese Ugo, VIII Circoscrizione, Palermo, Sicilia, 90141,
-      Italia
-    class: highway
-    type: residential
-    importance: 0.72
-    address:
-      road: Via Marchese Ugo
-      suburb: VIII Circoscrizione
-      city: Palermo
-      county: Palermo
-      state: Sicilia
-      postcode: '90141'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
@@ -9551,60 +9796,6 @@ address:
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/373,1182648399,2022-03-28 08:23:27,2022-03-27 20:11:24,"A Varese associazione Anna-Sofia organizza corsi gratuiti di italiano per rifugiati ucraini, raccolte beni e supporto ai nuovi arrivati",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Varese"",""postcode"":""21025"",""road"":""Via Maspero"",""state"":""Lombardia"",""village"":""Morosolo""},""boundingbox"":[""45.8246617"",""45.8249428"",""8.7635748"",""8.763835""],""class"":""highway"",""display_name"":""Via Maspero, Morosolo, Casciago, Varese, Lombardia, 21025, Italia"",""importance"":0.4,""lat"":""45.8249428"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.763835"",""osm_id"":31894980,""osm_type"":""way"",""place_id"":109212353,""type"":""residential""},""mode"":""autocomplete""},""description"":""L'associazione di ucraini Anna-Sofia organizza corsi gratuiti di italiano ogni gioved\u00ec e sabato dalle ore 14 alle 16.\nRaccoglie inoltre beni di prima necessit\u00e0 da spedire in Ucraina e offre supporto ai rifugiati ucraini che arrivano a Varese."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Anna-Sofia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Varese associazione Anna-Sofia organizza corsi gratuiti di italiano per i rifugiati ucraini, raccoglie beni e offre supporto ai nuovi arrivati"",""url"":""https://www.facebook.com/105701451315204/posts/430134785538534/?sfnsn=scwspmo""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: true
-offerFromWho: Associazione Anna-Sofia
-title: A Varese associazione Anna-Sofia organizza corsi gratuiti di italiano per i
-  rifugiati ucraini, raccoglie beni e offre supporto ai nuovi arrivati
-recipients: ''
-description: 'L''associazione di ucraini Anna-Sofia organizza corsi gratuiti di italiano
-  ogni giovedì e sabato dalle ore 14 alle 16.
-
-  Raccoglie inoltre beni di prima necessità da spedire in Ucraina e offre supporto
-  ai rifugiati ucraini che arrivano a Varese.'
-url: https://www.facebook.com/105701451315204/posts/430134785538534/?sfnsn=scwspmo
-address:
-  mode: autocomplete
-  address:
-    place_id: 109212353
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 31894980
-    boundingbox:
-    - '45.8246617'
-    - '45.8249428'
-    - '8.7635748'
-    - '8.763835'
-    lat: '45.8249428'
-    lon: '8.763835'
-    display_name: Via Maspero, Morosolo, Casciago, Varese, Lombardia, 21025, Italia
-    class: highway
-    type: residential
-    importance: 0.4
-    address:
-      road: Via Maspero
-      village: Morosolo
-      county: Varese
-      state: Lombardia
-      postcode: '21025'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/374,1182667358,2022-03-28 08:23:07,2022-03-27 21:23:39,Patente ucraina convertibile in Italia senza necessità di sostenere esami,,,,,"[""Valid/Accettato"",""News"",""transport"",""telegram-channel"",""tweet""]",,,"{""description"":""La patente ucraina torna ad essere convertibile in Italia dal 2022. Dopo la scadenza del precedente accordo, avvenuta lo scorso 29 maggio, il governo della RepubblicaItaliana e il gabinetto dei ministri dell\u2019Ucraina hanno raggiunto una nuova intesa sul reciproco riconoscimento in materia di conversione delle patenti di guida. Pertanto gli ucraini residenti in Italia, in possesso dei requisiti richiesti, possono nuovamente convertire la patente conseguita nel Paese d\u2019origine in una patente italiana senza la necessit\u00e0 di rifare gli esami. Lo stesso vale ovviamente per i nostri connazionali che vivono in Ucraina.\nAl link tutte le info sulle procedure da sostenere per la conversione."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.sicurauto.it/guide-utili/patente/patente-ucraina-convertibile-in-italia-dal-2022-come-e-quando/amp/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Fino al 2027 patente ucraina convertibile in Italia senza necessit\u00e0 di sostenere esami""}","<pre><yamldata>
