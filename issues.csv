@@ -1,4 +1,113 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/544,1197862868,2022-04-09 21:10:32,2022-04-08 21:38:40,A Pavia raccolta beni e farmaci per emergenza Ucraina promossa da Sisterr e associazione donne ucraine “Djerlo”,,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""state"":""Lombardia""},""boundingbox"":[""44.6799091"",""45.393838"",""8.4978518"",""9.5505475""],""class"":""boundary"",""display_name"":""Pavia, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7422019961097704,""lat"":""45.036854649999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.137825082826026"",""osm_id"":43483,""osm_type"":""relation"",""place_id"":283772748,""type"":""administrative""},""mode"":""autocomplete""},""description"":""SISTERR Sistema Territoriale Pavese per la Cooperazione Internazionale con la collaborazione dall\u2019Associazione \u201cDjerlo\u201d Donne Ucraine in Pavia, promuove due attivit\u00e0: 1) raccolta di generi alimentari, farmaci e presidi medici per l\u2019emergenza; 2) raccolta di fondi per l\u2019acquisto dei generi meno reperibili sul mercato attraverso il Conto Corrente del SISTERR e dell\u2019Associazione Djerlo\u201d Donne Ucraine in Pavia e per l\u2019organizzazione del trasporto dei beni raccolti;\nI beni attualmente richiesti sono solo quelli riportati di seguito: Medicinali: (antibiotici, antiinfiammatori,antidolorifici, disinfettanti, garze sterili, kit di pronto soccorso.\nGenerici: Prodotti per l\u2019igiene personale (dentifricio, sapone, bagnoschiuma, shampoo, etc..), assorbenti femminili, rasoi, lenzuola e coperte.\nCibo: scatolame (carne, tonno, fagioli, etc..), latte in polvere, pasta, riso, purea di patate in polvere\nMedicazione: imbracature emostatiche Esmarch, lacci emostatici CAT (Combat-Application-Tourniquet), pacchetti individuali di medicazione, bendaggi israeliani, forbici atraumatiche, coperte termiche, guanti lattice, bendaggi occlusivi, aghi da decompressione.\nPer la consegna al punto di raccolta dell\u2019Associazione Djerlo in zona Scala a Pavia contattare la Presidente dell\u2019Associazione Dina Petelko al seguente numero di cellulare: 388 951 4717."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Sisterr e associazione donne ucraine \u201cDjerlo\u201d"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Pavia raccolta beni e farmaci per emergenza Ucraina promossa da Sisterr e associazione donne ucraine \u201cDjerlo\u201d"",""url"":""https://www.comune.pv.it/site/home/notizie/articolo3255.html""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Sisterr e associazione donne ucraine “Djerlo”
+title: A Pavia raccolta beni e farmaci per emergenza Ucraina promossa da Sisterr e
+  associazione donne ucraine “Djerlo”
+recipients: ''
+description: 'SISTERR Sistema Territoriale Pavese per la Cooperazione Internazionale
+  con la collaborazione dall’Associazione “Djerlo” Donne Ucraine in Pavia, promuove
+  due attività:
+  1) raccolta di generi alimentari, farmaci e presidi medici per l’emergenza;
+  2) raccolta di fondi per l’acquisto dei generi meno reperibili sul mercato attraverso
+  il Conto Corrente del SISTERR e dell’Associazione Djerlo” Donne Ucraine in Pavia
+  e per l’organizzazione del trasporto dei beni raccolti;
+
+  I beni attualmente richiesti sono solo quelli riportati di seguito:
+  Medicinali: (antibiotici, antiinfiammatori,antidolorifici, disinfettanti, garze
+  sterili, kit di pronto soccorso.
+
+  Generici: Prodotti per l’igiene personale (dentifricio, sapone, bagnoschiuma, shampoo,
+  etc..), assorbenti femminili, rasoi, lenzuola e coperte.
+
+  Cibo: scatolame (carne, tonno, fagioli, etc..), latte in polvere, pasta, riso, purea
+  di patate in polvere
+
+  Medicazione: imbracature emostatiche Esmarch, lacci emostatici CAT (Combat-Application-Tourniquet),
+  pacchetti individuali di medicazione, bendaggi israeliani, forbici atraumatiche,
+  coperte termiche, guanti lattice, bendaggi occlusivi, aghi da decompressione.
+
+  Per la consegna al punto di raccolta dell’Associazione Djerlo in zona Scala a Pavia
+  contattare la Presidente dell’Associazione Dina Petelko al seguente numero di cellulare:
+  388 951 4717.'
+url: https://www.comune.pv.it/site/home/notizie/articolo3255.html
+address:
+  mode: autocomplete
+  address:
+    place_id: 283772748
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43483
+    boundingbox:
+    - '44.6799091'
+    - '45.393838'
+    - '8.4978518'
+    - '9.5505475'
+    lat: '45.036854649999995'
+    lon: '9.137825082826026'
+    display_name: Pavia, Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7422019961097704
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Pavia
+      state: Lombardia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/573,1198771363,2022-04-09 21:08:38,2022-04-09 21:07:27,Associazione Italo Ucraina di Puglia e Basilicata - Contatti,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-75"",""city"":""Bari"",""country"":""Italia"",""country_code"":""it"",""county"":""Bari"",""postcode"":""70122"",""state"":""Puglia""},""boundingbox"":[""40.9657843"",""41.2857843"",""16.7020293"",""17.0220293""],""class"":""place"",""display_name"":""Bari, Puglia, 70122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7287183212532693,""lat"":""41.1257843"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.8620293"",""osm_id"":68528585,""osm_type"":""node"",""place_id"":285627565,""type"":""city""},""mode"":""autocomplete""},""aim"":""L\u2019associazione opera a Bari e Matera."",""email"":""associazione.ucraina.puglia@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 345 917 7441 (whatsapp)"",""submit"":true,""title"":""Associazione Italo Ucraina di Puglia e Basilicata - Contatti"",""url"":""https://www.facebook.com/Associazione-Italo-Ucraina-di-Puglia-e-Basilicata-680923138683726/""}","<pre><yamldata>
+title: Associazione Italo Ucraina di Puglia e Basilicata - Contatti
+phoneNumber: '+39 345 917 7441 (whatsapp)'
+email: associazione.ucraina.puglia@gmail.com
+aim: L’associazione opera a Bari e Matera.
+url: https://www.facebook.com/Associazione-Italo-Ucraina-di-Puglia-e-Basilicata-680923138683726/
+address:
+  mode: autocomplete
+  address:
+    place_id: 285627565
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 68528585
+    boundingbox:
+    - '40.9657843'
+    - '41.2857843'
+    - '16.7020293'
+    - '17.0220293'
+    lat: '41.1257843'
+    lon: '16.8620293'
+    display_name: Bari, Puglia, 70122, Italia
+    class: place
+    type: city
+    importance: 0.7287183212532693
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Bari
+      county: Bari
+      state: Puglia
+      ISO3166-2-lvl4: IT-75
+      postcode: '70122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/571,1198765194,2022-04-09 20:47:37,2022-04-09 20:39:48,Consolato Ucraina a Bari - Contatti,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-75"",""city"":""Bari"",""country"":""Italia"",""country_code"":""it"",""county"":""Bari"",""postcode"":""70121"",""road"":""Via Gian Giuseppe Carulli"",""state"":""Puglia"",""suburb"":""San Nicola""},""boundingbox"":[""41.1200298"",""41.1201082"",""16.872659"",""16.8739131""],""class"":""highway"",""display_name"":""Via Gian Giuseppe Carulli, San Nicola, Municipio 1, Bari, Puglia, 70121, Italia"",""importance"":0.41000000000000003,""lat"":""41.1201001"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.8737824"",""osm_id"":68563030,""osm_type"":""way"",""place_id"":119194015,""type"":""residential""},""mode"":""autocomplete""},""aim"":""Console onorario \u00e8 Lorenzo De Fronzo."",""email"":""consolatoucrainabari@libero.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 0805542105"",""submit"":true,""title"":""Consolato Ucraina di Bari - Contatti"",""url"":""http://www.corpoconsolaredinapoli.it/consoli_2017.pdf""}","<pre><yamldata>
 title: Consolato Ucraina di Bari - Contatti
 phoneNumber: +39 0805542105
@@ -2797,81 +2906,6 @@ address:
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: useful contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/544,1197862868,2022-04-08 21:50:27,2022-04-08 21:38:40,A Pavia raccolta beni e farmaci per emergenza Ucraina promossa da Sisterr e associazione donne ucraine “Djerlo”,,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""state"":""Lombardia""},""boundingbox"":[""44.6799091"",""45.393838"",""8.4978518"",""9.5505475""],""class"":""boundary"",""display_name"":""Pavia, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7422019961097704,""lat"":""45.036854649999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.137825082826026"",""osm_id"":43483,""osm_type"":""relation"",""place_id"":283772748,""type"":""administrative""},""mode"":""autocomplete""},""description"":""SISTERR Sistema Territoriale Pavese per la Cooperazione Internazionale con la collaborazione dall\u2019Associazione \u201cDjerlo\u201d Donne Ucraine in Pavia, promuove due attivit\u00e0:\n1) raccolta di generi alimentari, farmaci e presidi medici per l\u2019emergenza;\n2) raccolta di fondi per l\u2019acquisto dei generi meno reperibili sul mercato attraverso il Conto Corrente del SISTERR e dell\u2019Associazione Djerlo\u201d Donne Ucraine in Pavia e per l\u2019organizzazione del trasporto dei beni raccolti;\nI beni attualmente richiesti sono solo quelli riportati di seguito:\nMedicinali: (antibiotici, antiinfiammatori,antidolorifici, disinfettanti, garze sterili, kit di pronto soccorso.\nGenerici: Prodotti per l\u2019igiene personale (dentifricio, sapone, bagnoschiuma, shampoo, etc..), assorbenti femminili, rasoi, lenzuola e coperte.\nCibo: scatolame (carne, tonno, fagioli, etc..), latte in polvere, pasta, riso, purea di patate in polvere\nMedicazione: imbracature emostatiche Esmarch, lacci emostatici CAT (Combat-Application-Tourniquet), pacchetti individuali di medicazione, bendaggi israeliani, forbici atraumatiche, coperte termiche, guanti lattice, bendaggi occlusivi, aghi da decompressione.\nPer la consegna al punto di raccolta dell\u2019Associazione Djerlo in zona Scala a Pavia contattare la Presidente dell\u2019Associazione Dina Petelko al seguente numero di cellulare: 388 951 4717."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Sisterr e associazione donne ucraine \u201cDjerlo\u201d"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Pavia raccolta beni e farmaci per emergenza Ucraina promossa da Sisterr e associazione donne ucraine \u201cDjerlo\u201d"",""url"":""https://www.comune.pv.it/site/home/notizie/articolo3255.html""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Sisterr e associazione donne ucraine “Djerlo”
-title: A Pavia raccolta beni e farmaci per emergenza Ucraina promossa da Sisterr e
-  associazione donne ucraine “Djerlo”
-recipients: ''
-description: 'SISTERR Sistema Territoriale Pavese per la Cooperazione Internazionale
-  con la collaborazione dall’Associazione “Djerlo” Donne Ucraine in Pavia, promuove
-  due attività:
-
-  1) raccolta di generi alimentari, farmaci e presidi medici per l’emergenza;
-
-  2) raccolta di fondi per l’acquisto dei generi meno reperibili sul mercato attraverso
-  il Conto Corrente del SISTERR e dell’Associazione Djerlo” Donne Ucraine in Pavia
-  e per l’organizzazione del trasporto dei beni raccolti;
-
-  I beni attualmente richiesti sono solo quelli riportati di seguito:
-
-  Medicinali: (antibiotici, antiinfiammatori,antidolorifici, disinfettanti, garze
-  sterili, kit di pronto soccorso.
-
-  Generici: Prodotti per l’igiene personale (dentifricio, sapone, bagnoschiuma, shampoo,
-  etc..), assorbenti femminili, rasoi, lenzuola e coperte.
-
-  Cibo: scatolame (carne, tonno, fagioli, etc..), latte in polvere, pasta, riso, purea
-  di patate in polvere
-
-  Medicazione: imbracature emostatiche Esmarch, lacci emostatici CAT (Combat-Application-Tourniquet),
-  pacchetti individuali di medicazione, bendaggi israeliani, forbici atraumatiche,
-  coperte termiche, guanti lattice, bendaggi occlusivi, aghi da decompressione.
-
-  Per la consegna al punto di raccolta dell’Associazione Djerlo in zona Scala a Pavia
-  contattare la Presidente dell’Associazione Dina Petelko al seguente numero di cellulare:
-  388 951 4717.'
-url: https://www.comune.pv.it/site/home/notizie/articolo3255.html
-address:
-  mode: autocomplete
-  address:
-    place_id: 283772748
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 43483
-    boundingbox:
-    - '44.6799091'
-    - '45.393838'
-    - '8.4978518'
-    - '9.5505475'
-    lat: '45.036854649999995'
-    lon: '9.137825082826026'
-    display_name: Pavia, Lombardia, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7422019961097704
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      county: Pavia
-      state: Lombardia
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/540,1197824343,2022-04-08 21:49:21,2022-04-08 21:00:15,A Palermo corso gratuito di italiano per rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-82"",""ISO3166-2-lvl6"":""IT-PA"",""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""postcode"":""90141"",""road"":""Via Marchese Ugo"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1299555"",""38.1336658"",""13.3496116"",""13.3514253""],""class"":""highway"",""display_name"":""Via Marchese Ugo, VIII Circoscrizione, Palermo, Sicilia, 90141, Italia"",""importance"":0.51,""lat"":""38.1315691"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3504181"",""osm_id"":86265407,""osm_type"":""way"",""place_id"":119906789,""type"":""residential""},""mode"":""autocomplete""},""description"":""La prossima settimana, mercoled\u00ec 13-04-2022, alle ore 10:00, si svolger\u00e0 la prima lezione presso la scuola Dante Alighieri in via Marchese Ugo, 60 (accanto al Comitato Salva Ucraini).\nRequisiti degli studenti:\n\u27a1\ufe0fSolo per rifugiati dall'Ucraina\n\u27a1\ufe0f maggiori di 18 anni iscritti alla Questura o alla Prefettura;\n\u27a1\ufe0f certificato di vaccinazione o test effettuato entro e non oltre 72 ore.\n\nInfo: salva.ucraini.palermo@gmail.com e gruppo Telegram https://t.me/linguaitalianaperprofughi\n\n\u041d\u0430 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0439 \u043d\u0435\u0434\u0435\u043b\u0435 \u0432 \u0441\u0440\u0435\u0434\u0443 13-04-2022, \u0432 10:00 \u0443\u0442\u0440\u0430 \u0441\u043e\u0441\u0442\u043e\u0438\u0442\u0441\u044f \u043f\u0435\u0440\u0432\u043e\u0435 \u0437\u0430\u043d\u044f\u0442\u0438\u0435 \u0432 \u0448\u043a\u043e\u043b\u0435 \u0414\u0430\u043d\u0442\u0435 \u0410\u043b\u0435\u0433\u044c\u0435\u0440\u0438 \u043f\u043e \u0430\u0434\u0440\u0435\u0441\u0443 via Marchese Ugo, 60 (\u0440\u044f\u0434\u043e\u043c \u0441 \u0446\u0435\u043d\u0442\u0440\u043e\u043c \u00abSalva Ucraini\u00bb).\n\u0422\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u044f \u043a \u0443\u0447\u0430\u0449\u0438\u043c\u0441\u044f:\n\u27a1\ufe0f\u0422\u043e\u043b\u044c\u043a\u043e \u0434\u043b\u044f \u0431\u0435\u0436\u0435\u043d\u0446\u0435\u0432 \u0438\u0437 \u0423\u043a\u0440\u0430\u0438\u043d\u044b \n\u27a1\ufe0f \u0441\u0442\u0430\u0440\u0448\u0435 18 \u043b\u0435\u0442, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0432\u0441\u0442\u0430\u043b\u0438 \u043d\u0430 \u0443\u0447\u0451\u0442 \u0432 \u043a\u0432\u0435\u0441\u0442\u0443\u0440\u0435 \u0438\u043b\u0438 \u043f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0435; \n\u27a1\ufe0f \u0441\u043f\u0440\u0430\u0432\u043a\u0430 \u043e \u043f\u0440\u0438\u0432\u0438\u0432\u043a\u0435 \u0438\u043b\u0438 \u0442\u0435\u0441\u0442 \u0441\u0434\u0435\u043b\u0430\u043d\u043d\u044b\u0439 \u043d\u0435 \u043f\u043e\u0437\u0434\u043d\u0435\u0435 72 \u0447\u0430\u0441\u043e\u0432."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comitato Salva Ucraini Palermo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Palermo corso gratuito di italiano per rifugiati ucraini"",""url"":""https://t.me/ucraini_a_palermo/122""}","<pre><yamldata>
