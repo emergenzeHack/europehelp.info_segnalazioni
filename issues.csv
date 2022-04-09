@@ -1,4 +1,39 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/284,1177938930,2022-04-09 22:52:17,2022-03-23 10:44:44,Bergamo per l’Ucraina: attivo sito del Comune con info e contatti utili per rifugiati ucraini e cittadini che vogliono offrire aiuto,45.6944947,9.6698727,Lombardia,Bergamo,"[""Valid/Accettato"",""Services"",""Legal"",""fundraising"",""useful contact"",""materialGoods"",""hospitality"",""healthcare"",""psychologicalSupport"",""Children"",""telegram-channel"",""tweet"",""Resources""]",,,"{""Posizione"":""45.6944947 9.6698727"",""description"":""Sito con informazioni e contatti utili per i cittadini ucraini in fuga dalla guerra che si trovano a Bergamo (permessi di soggiorno, alloggio, scuola, assistenza sanitaria, supporto psicologico, contatti utili) e per i cittadini bergamaschi interessati a dare il proprio aiuto con raccolte beni, fondi, volontariato, offerta alloggi."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://www.bergamoucraina.it/"",""location"":{""address"":{""address"":{""city"":""Bergamo"",""country"":""Italia"",""country_code"":""it"",""county"":""Bergamo"",""state"":""Lombardia""},""boundingbox"":[""45.6554235"",""45.7314001"",""9.6193564"",""9.7137063""],""class"":""boundary"",""display_name"":""Bergamo, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7343868864872226,""lat"":""45.6944947"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.6698727"",""osm_id"":45681,""osm_type"":""relation"",""place_id"":284892335,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Bergamo per l\u2019Ucraina""}","<pre><yamldata>
+title: Bergamo per l’Ucraina
+description: Sito con informazioni e contatti utili per i cittadini ucraini in fuga dalla guerra che si
+  trovano a Bergamo (permessi di soggiorno, alloggio, scuola, assistenza sanitaria, supporto psicologico, contatti utili) e per i cittadini bergamaschi interessati a dare il proprio aiuto con raccolte beni, fondi, volontariato, offerta alloggi.
+link: https://www.bergamoucraina.it/
+location:
+  mode: autocomplete
+  address:
+    place_id: 284892335
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 45681
+    boundingbox:
+    - '45.6554235'
+    - '45.7314001'
+    - '9.6193564'
+    - '9.7137063'
+    lat: '45.6944947'
+    lon: '9.6698727'
+    display_name: Bergamo, Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7343868864872226
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Bergamo
+      county: Bergamo
+      state: Lombardia
+      country: Italia
+      country_code: it
+label: document_data
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.6944947 9.6698727
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/578,1198787119,2022-04-09 22:19:25,2022-04-09 22:13:24,Elenco delle chiese cattoliche ucraine nel nord Italia con info e contatti,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""aim"":""Sul sito della Chiesa greco-cattolica ucraina \u00e8 disponibile l'elenco delle chiese ucraine in tutta Italia. Al momento per\u00f2 \u00e8 consultabile sono l'elenco delle chiese ucraine nel nord Italia. Gli altri due elenchi per il centro e sud d'Italia non sono accessibili perch\u00e9 i link risultano corrotti."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Elenco delle chiese ucraine nel nord Italia con info e contatti"",""url"":""http://www.chiesaucraina.it/index.php/it/ugcc-in-italia/parocchie-e-comunit%C3%A0/italia-del-nord.html#""}","<pre><yamldata>
 title: Elenco delle chiese ucraine nel nord Italia con info e contatti
 phoneNumber: ''
@@ -13250,41 +13285,6 @@ location:
 label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/284,1177938930,2022-03-23 17:58:27,2022-03-23 10:44:44,Bergamo per l’Ucraina: attivo sito del Comune rivolto ai rifugiati ucraini e ai cittadini che vogliono offrire aiuto,45.6944947,9.6698727,Lombardia,Bergamo,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""fundraising"",""materialGoods"",""hospitality"",""healthcare"",""psychologicalSupport"",""Children"",""telegram-channel"",""tweet"",""Resources""]",,,"{""Posizione"":""45.6944947 9.6698727"",""description"":""Sito con informazioni utili per i cittadini ucraini in fuga dalla guerra che si trovano a Bergamo (permessi di soggiorno, alloggio, scuola, assistenza sanitaria, supporto psicologico, contatti utili) e per i cittadini bergamaschi interessati a dare il proprio aiuto con raccolte beni, fondi, volontariato, offerta alloggi."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://www.bergamoucraina.it/"",""location"":{""address"":{""address"":{""city"":""Bergamo"",""country"":""Italia"",""country_code"":""it"",""county"":""Bergamo"",""state"":""Lombardia""},""boundingbox"":[""45.6554235"",""45.7314001"",""9.6193564"",""9.7137063""],""class"":""boundary"",""display_name"":""Bergamo, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7343868864872226,""lat"":""45.6944947"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.6698727"",""osm_id"":45681,""osm_type"":""relation"",""place_id"":284892335,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Bergamo per l\u2019Ucraina""}","<pre><yamldata>
-title: Bergamo per l’Ucraina
-description: Sito con informazioni utili per i cittadini ucraini in fuga dalla guerra che si
-  trovano a Bergamo (permessi di soggiorno, alloggio, scuola, assistenza sanitaria, supporto psicologico, contatti utili) e per i cittadini bergamaschi interessati a dare il proprio aiuto con raccolte beni, fondi, volontariato, offerta alloggi.
-link: https://www.bergamoucraina.it/
-location:
-  mode: autocomplete
-  address:
-    place_id: 284892335
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 45681
-    boundingbox:
-    - '45.6554235'
-    - '45.7314001'
-    - '9.6193564'
-    - '9.7137063'
-    lat: '45.6944947'
-    lon: '9.6698727'
-    display_name: Bergamo, Lombardia, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7343868864872226
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Bergamo
-      county: Bergamo
-      state: Lombardia
-      country: Italia
-      country_code: it
-label: document_data
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 45.6944947 9.6698727
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/289,1178107527,2022-03-23 17:58:00,2022-03-23 13:14:08,"Corigliano Rossano (Cosenza) orientamento ai servizi pubblici, assistenza legale, mediazione sociale, beni di prima necessità per profughi ucraini",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""translation"",""job"",""women"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Cosenza"",""municipality"":""Corigliano-Rossano"",""postcode"":""87064"",""state"":""Calabria""},""boundingbox"":[""39.4851769"",""39.7244355"",""16.3336668"",""16.7702189""],""class"":""boundary"",""display_name"":""Corigliano-Rossano, Cosenza, Calabria, 87064, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5919557965128309,""lat"":""39.616315"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.5778956"",""osm_id"":8164150,""osm_type"":""relation"",""place_id"":285216680,""type"":""administrative""},""mode"":""autocomplete""},""description"":""In Calabria, nell\u2019area di Corigliano-Rossano esiste uno spazio che fa da punto di riferimento innanzitutto per le donne, in particolare per le lavoratrici agricole, chiamato \""Cittadella della condivisione\"". Alla sua nascita hanno lavorato pi\u00f9 di dieci associazioni insieme alle donne Leader del progetto BRIGHT. E' un luogo di confronto, sperimentazione, elaborazione delle politiche locali sensibili al genere e alla cultura che veda come protagoniste innanzitutto le donne accanto alle imprese, al Terzo settore, alle istituzioni, ai cittadini. Alla Cittadella della condivisione \u00e8 anche attivo uno sportello di orientamento ai servizi pubblici (tessera STP, registrazione permanenza, raccolta fabbisogni, socio-sanitario), orientamento e supporto legale sui temi del lavoro, mediazione sociale in lingua ucraina, corsi italiano, distribuzione kit beni di prima necessit\u00e0. La Cittadella \u00e8 aperta nei seguenti giorni: luned\u00ec, gioved\u00ec e sabato dalle 16:00 alle 19:00. Per qualsiasi informazione contattare Viola 3319865205\nPiazza Santa Maria ad Nives, Schiavonea, Corigliano-Rossano"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Cittadella della Condivisione"",""recipients"":"""",""submit"":true,""title"":""Servizio gratuito di orientamento ai servizi, assistenza legale, mediazione sociale, distribuzione beni"",""type"":""legal"",""url"":""""}","<pre><yamldata>
 offerFromWho: Cittadella della Condivisione
