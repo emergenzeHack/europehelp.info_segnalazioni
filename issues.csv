@@ -277,58 +277,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: useful contact
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/552,1198546733,2022-04-09 13:43:13,2022-04-09 11:44:26,Consolato Ucraino a Milano - Contatti ,,,,,"[""Valid/Accettato"",""Services"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""borough"":""Municipio 8 di Milano"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""11"",""office"":""Consolato Generale dell'Ucraina"",""postcode"":""20156"",""quarter"":""Villapizzone"",""road"":""Via Ludovico di Breme"",""state"":""Lombardia""},""boundingbox"":[""45.4966553"",""45.4967553"",""9.1390852"",""9.1391852""],""class"":""office"",""display_name"":""Consolato Generale dell'Ucraina, 11, Via Ludovico di Breme, Villapizzone, Municipio 8 di Milano, Milano, Lombardia, 20156, Italia"",""importance"":0.611,""lat"":""45.4967053"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1391352"",""osm_id"":693845180,""osm_type"":""node"",""place_id"":5652117,""type"":""diplomatic""},""mode"":""autocomplete""},""aim"":""Utile per Visto Schengen\nVisto Turistico Schengen\nVisto Affari Schengen\nVisto Visite Private Schengen\nVisto Lavoro Schengen\nVisto Studio Schengen"",""email"":""gc_itm@mfa.gov.ua"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""02 86995789, 02 86998814"",""submit"":true,""title"":""Consolato Ucraino a Milano - Contatti utili"",""url"":""""}","<pre><yamldata>
-title: Consolato Ucraino a Milano - Contatti utili
-phoneNumber: 02 86995789, 02 86998814
-email: gc_itm@mfa.gov.ua
-aim: 'Utile per Visto Schengen
-
-  Visto Turistico Schengen
-
-  Visto Affari Schengen
-
-  Visto Visite Private Schengen
-
-  Visto Lavoro Schengen
-
-  Visto Studio Schengen'
-url: ''
-address:
-  mode: autocomplete
-  address:
-    place_id: 5652117
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 693845180
-    boundingbox:
-    - '45.4966553'
-    - '45.4967553'
-    - '9.1390852'
-    - '9.1391852'
-    lat: '45.4967053'
-    lon: '9.1391352'
-    display_name: Consolato Generale dell'Ucraina, 11, Via Ludovico di Breme, Villapizzone,
-      Municipio 8 di Milano, Milano, Lombardia, 20156, Italia
-    class: office
-    type: diplomatic
-    importance: 0.611
-    address:
-      office: Consolato Generale dell'Ucraina
-      house_number: '11'
-      road: Via Ludovico di Breme
-      quarter: Villapizzone
-      borough: Municipio 8 di Milano
-      city: Milano
-      county: Milano
-      ISO3166-2-lvl6: IT-MI
-      state: Lombardia
-      postcode: '20156'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: useful contact
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/551,1198545650,2022-04-09 13:42:53,2022-04-09 11:42:05,Consolato Ucraino a Roma - Contatti ,,,,,"[""Valid/Accettato"",""Services"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00100"",""quarter"":""Monte Sacro"",""road"":""Via Monte Pramaggiore"",""state"":""Lazio"",""suburb"":""Monte Sacro""},""boundingbox"":[""41.9303268"",""41.9312453"",""12.5374866"",""12.5390085""],""class"":""highway"",""display_name"":""Via Monte Pramaggiore, Monte Sacro, Roma, Roma Capitale, Lazio, 00100, Italia"",""importance"":0.61,""lat"":""41.9308165"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.5383171"",""osm_id"":26943866,""osm_type"":""way"",""place_id"":107499927,""type"":""residential""},""mode"":""autocomplete""},""aim"":""Orario: 9.00-12.30 e 15.00-16.30 di luned\u00ec, marted\u00ec, gioved\u00ec; 9.00-12.30 di venerd\u00ec"",""email"":""gc_it@mfa.gov.ua"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""06 82003641"",""submit"":true,""title"":""Consolato Ucraino a Roma - Contatti utili"",""url"":""""}","<pre><yamldata>
 title: Consolato Ucraino a Roma - Contatti utili
 phoneNumber: 06 82003641
