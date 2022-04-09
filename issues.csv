@@ -1,40 +1,5 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/546,1197872971,2022-04-08 21:55:52,2022-04-08 21:47:39,Associazioni e gruppi ucraini a Pavia e provincia,,,,,"[""Valid/Accettato"",""News"",""Services"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""state"":""Lombardia""},""boundingbox"":[""44.6799091"",""45.393838"",""8.4978518"",""9.5505475""],""class"":""boundary"",""display_name"":""Pavia, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7422019961097704,""lat"":""45.036854649999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.137825082826026"",""osm_id"":43483,""osm_type"":""relation"",""place_id"":283772748,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Sul sito di Csvnet Lombardia la mappatura delle associazioni, chiese e gruppi ucraini a Pavia e provincia che offrono aiuti ai rifugiati e per l\u2019emergenza Ucraina."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Associazioni e gruppi ucraini a Pavia e provincia"",""url"":""https://www.csvlombardia.it/senza-categoria/post/ucraina-per-chi-cerca-aiuto-in-provincia-di-pavia-gruppi-ucraini/""}","<pre><yamldata>
-title: Associazioni e gruppi ucraini a Pavia e provincia
-phoneNumber: ''
-email: ''
-aim: Sul sito di Csvnet Lombardia la mappatura delle associazioni, chiese e gruppi ucraini
-  a Pavia e provincia che offrono aiuti ai rifugiati e per l’emergenza Ucraina.
-url: https://www.csvlombardia.it/senza-categoria/post/ucraina-per-chi-cerca-aiuto-in-provincia-di-pavia-gruppi-ucraini/
-address:
-  mode: autocomplete
-  address:
-    place_id: 283772748
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 43483
-    boundingbox:
-    - '44.6799091'
-    - '45.393838'
-    - '8.4978518'
-    - '9.5505475'
-    lat: '45.036854649999995'
-    lon: '9.137825082826026'
-    display_name: Pavia, Lombardia, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7422019961097704
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      county: Pavia
-      state: Lombardia
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: useful contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/545,1197867720,2022-04-08 21:50:50,2022-04-08 21:43:01,"Beni umanitari per l’emergenza Ucraina, i punti di raccolta a Pavia e provincia",,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""state"":""Lombardia""},""boundingbox"":[""44.6799091"",""45.393838"",""8.4978518"",""9.5505475""],""class"":""boundary"",""display_name"":""Pavia, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7422019961097704,""lat"":""45.036854649999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.137825082826026"",""osm_id"":43483,""osm_type"":""relation"",""place_id"":283772748,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Disponibile sul sito di Csv Lombardia la mappatura, in costante aggiornamento, dei punti di raccolta di beni umanitari a Pavia e provincia."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Csv Lombardia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Beni umanitari per l\u2019emergenza Ucraina, i punti di raccolta a Pavia e provincia"",""url"":""https://www.csvlombardia.it/senza-categoria/post/ucraina-per-chi-offre-aiuto-in-provincia-di-pavia-raccolta-beni-di-prima-necessita/""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/545,1197867720,2022-04-09 06:38:49,2022-04-08 21:43:01,"Beni umanitari per l’emergenza Ucraina, i punti di raccolta a Pavia e provincia",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""state"":""Lombardia""},""boundingbox"":[""44.6799091"",""45.393838"",""8.4978518"",""9.5505475""],""class"":""boundary"",""display_name"":""Pavia, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7422019961097704,""lat"":""45.036854649999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.137825082826026"",""osm_id"":43483,""osm_type"":""relation"",""place_id"":283772748,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Disponibile sul sito di Csv Lombardia la mappatura, in costante aggiornamento, dei punti di raccolta di beni umanitari a Pavia e provincia."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Csv Lombardia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Beni umanitari per l\u2019emergenza Ucraina, i punti di raccolta a Pavia e provincia"",""url"":""https://www.csvlombardia.it/senza-categoria/post/ucraina-per-chi-offre-aiuto-in-provincia-di-pavia-raccolta-beni-di-prima-necessita/""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
   hospitality: false
@@ -80,6 +45,88 @@ address:
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/537,1197499643,2022-04-09 06:38:09,2022-04-08 15:57:46,"Regione Puglia, accesso gratuito al traporto locale per i profughi ucraini",41.10974415,16.91446192212199,Puglia,Bari,"[""Valid/Accettato"",""News"",""Services"",""transport"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""41.10974415 16.91446192212199"",""description"":""\u00abI profughi ucraini potranno viaggiare gratuitamente sul territorio pugliese\u00bb, lo ha annunciato l\u2019assessora regionale ai Trasporti e alla Mobilit\u00e0 sostenibile Anita Maurodinoia dopo che la Giunta ha approvato lo schema di protocollo d\u2019intesa tra la Regione Puglia e le imprese ferroviarie e automobilistiche che gestiscono i servizi di trasporto pubblico locale per la concessione di gratuit\u00e0 in favore dei cittadini ucraini e dei soggetti provenienti dall\u2019Ucraina, che entrano nel territorio pugliese in conseguenza degli accadimenti bellici in atto. In questa prima fase (da aprile a giugno) la misura di gratuit\u00e0 sar\u00e0 \u201csperimentale\u201d e oggetto di monitoraggio, al fine poi di prorogarla o adottare diverse modalit\u00e0 di applicazione. Per poter usufruire dell\u2019agevolazione i viaggiatori interessati dovranno mostrare il passaporto ucraino e il modello 209 di richiesta Permesso di Soggiorno o il Permesso stesso se gi\u00e0 ottenuto."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://ledicoladelsud.it/home/2022/04/07/news/i-profughi-ucraini-viaggeranno-gratuitamente-sul-territorio-pugliese-ce-laccordo-tra-regione-e-servizi-tpl-120470/"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-75"",""city"":""Bari"",""commercial"":""Uffici Regione Puglia"",""country"":""Italia"",""country_code"":""it"",""county"":""Bari"",""state"":""Puglia"",""suburb"":""Municipio 1""},""boundingbox"":[""41.1073973"",""41.1120202"",""16.9119837"",""16.9168485""],""class"":""landuse"",""display_name"":""Uffici Regione Puglia, Municipio 1, Bari, Puglia, Italia"",""importance"":0.52,""lat"":""41.10974415"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.91446192212199"",""osm_id"":551997054,""osm_type"":""way"",""place_id"":219455408,""type"":""commercial""},""mode"":""autocomplete""},""submit"":true,""title"":""Regione Puglia, accesso gratuito al traporto locale per i profughi ucraini""}","<pre><yamldata>
+title: Regione Puglia, accesso gratuito al traporto locale per i profughi ucraini
+description: «I profughi ucraini potranno viaggiare gratuitamente sul territorio pugliese»,
+  lo ha annunciato l’assessora regionale ai Trasporti e alla Mobilità sostenibile
+  Anita Maurodinoia dopo che la Giunta ha approvato lo schema di protocollo d’intesa
+  tra la Regione Puglia e le imprese ferroviarie e automobilistiche che gestiscono
+  i servizi di trasporto pubblico locale per la concessione di gratuità in favore
+  dei cittadini ucraini e dei soggetti provenienti dall’Ucraina, che entrano nel territorio
+  pugliese in conseguenza degli accadimenti bellici in atto. In questa prima fase
+  (da aprile a giugno) la misura di gratuità sarà “sperimentale” e oggetto di monitoraggio,
+  al fine poi di prorogarla o adottare diverse modalità di applicazione. Per poter
+  usufruire dell’agevolazione i viaggiatori interessati dovranno mostrare il passaporto
+  ucraino e il modello 209 di richiesta Permesso di Soggiorno o il Permesso stesso
+  se già ottenuto.
+link: https://ledicoladelsud.it/home/2022/04/07/news/i-profughi-ucraini-viaggeranno-gratuitamente-sul-territorio-pugliese-ce-laccordo-tra-regione-e-servizi-tpl-120470/
+location:
+  mode: autocomplete
+  address:
+    place_id: 219455408
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 551997054
+    boundingbox:
+    - '41.1073973'
+    - '41.1120202'
+    - '16.9119837'
+    - '16.9168485'
+    lat: '41.10974415'
+    lon: '16.91446192212199'
+    display_name: Uffici Regione Puglia, Municipio 1, Bari, Puglia, Italia
+    class: landuse
+    type: commercial
+    importance: 0.52
+    address:
+      commercial: Uffici Regione Puglia
+      suburb: Municipio 1
+      city: Bari
+      county: Bari
+      state: Puglia
+      ISO3166-2-lvl4: IT-75
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 41.10974415 16.91446192212199
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/546,1197872971,2022-04-08 21:55:52,2022-04-08 21:47:39,Associazioni e gruppi ucraini a Pavia e provincia,,,,,"[""Valid/Accettato"",""News"",""Services"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""state"":""Lombardia""},""boundingbox"":[""44.6799091"",""45.393838"",""8.4978518"",""9.5505475""],""class"":""boundary"",""display_name"":""Pavia, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7422019961097704,""lat"":""45.036854649999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.137825082826026"",""osm_id"":43483,""osm_type"":""relation"",""place_id"":283772748,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Sul sito di Csvnet Lombardia la mappatura delle associazioni, chiese e gruppi ucraini a Pavia e provincia che offrono aiuti ai rifugiati e per l\u2019emergenza Ucraina."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Associazioni e gruppi ucraini a Pavia e provincia"",""url"":""https://www.csvlombardia.it/senza-categoria/post/ucraina-per-chi-cerca-aiuto-in-provincia-di-pavia-gruppi-ucraini/""}","<pre><yamldata>
+title: Associazioni e gruppi ucraini a Pavia e provincia
+phoneNumber: ''
+email: ''
+aim: Sul sito di Csvnet Lombardia la mappatura delle associazioni, chiese e gruppi ucraini
+  a Pavia e provincia che offrono aiuti ai rifugiati e per l’emergenza Ucraina.
+url: https://www.csvlombardia.it/senza-categoria/post/ucraina-per-chi-cerca-aiuto-in-provincia-di-pavia-gruppi-ucraini/
+address:
+  mode: autocomplete
+  address:
+    place_id: 283772748
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43483
+    boundingbox:
+    - '44.6799091'
+    - '45.393838'
+    - '8.4978518'
+    - '9.5505475'
+    lat: '45.036854649999995'
+    lon: '9.137825082826026'
+    display_name: Pavia, Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7422019961097704
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Pavia
+      state: Lombardia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/544,1197862868,2022-04-08 21:50:27,2022-04-08 21:38:40,A Pavia raccolta beni e farmaci per emergenza Ucraina promossa da Sisterr e associazione donne ucraine “Djerlo”,,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""state"":""Lombardia""},""boundingbox"":[""44.6799091"",""45.393838"",""8.4978518"",""9.5505475""],""class"":""boundary"",""display_name"":""Pavia, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7422019961097704,""lat"":""45.036854649999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.137825082826026"",""osm_id"":43483,""osm_type"":""relation"",""place_id"":283772748,""type"":""administrative""},""mode"":""autocomplete""},""description"":""SISTERR Sistema Territoriale Pavese per la Cooperazione Internazionale con la collaborazione dall\u2019Associazione \u201cDjerlo\u201d Donne Ucraine in Pavia, promuove due attivit\u00e0:\n1) raccolta di generi alimentari, farmaci e presidi medici per l\u2019emergenza;\n2) raccolta di fondi per l\u2019acquisto dei generi meno reperibili sul mercato attraverso il Conto Corrente del SISTERR e dell\u2019Associazione Djerlo\u201d Donne Ucraine in Pavia e per l\u2019organizzazione del trasporto dei beni raccolti;\nI beni attualmente richiesti sono solo quelli riportati di seguito:\nMedicinali: (antibiotici, antiinfiammatori,antidolorifici, disinfettanti, garze sterili, kit di pronto soccorso.\nGenerici: Prodotti per l\u2019igiene personale (dentifricio, sapone, bagnoschiuma, shampoo, etc..), assorbenti femminili, rasoi, lenzuola e coperte.\nCibo: scatolame (carne, tonno, fagioli, etc..), latte in polvere, pasta, riso, purea di patate in polvere\nMedicazione: imbracature emostatiche Esmarch, lacci emostatici CAT (Combat-Application-Tourniquet), pacchetti individuali di medicazione, bendaggi israeliani, forbici atraumatiche, coperte termiche, guanti lattice, bendaggi occlusivi, aghi da decompressione.\nPer la consegna al punto di raccolta dell\u2019Associazione Djerlo in zona Scala a Pavia contattare la Presidente dell\u2019Associazione Dina Petelko al seguente numero di cellulare: 388 951 4717."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Sisterr e associazione donne ucraine \u201cDjerlo\u201d"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Pavia raccolta beni e farmaci per emergenza Ucraina promossa da Sisterr e associazione donne ucraine \u201cDjerlo\u201d"",""url"":""https://www.comune.pv.it/site/home/notizie/articolo3255.html""}","<pre><yamldata>
@@ -598,53 +645,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 47.4979937 19.0403594
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/537,1197499643,2022-04-08 17:45:59,2022-04-08 15:57:46,"Regione Puglia, accesso gratuito al traporto locale per i profughi ucraini",41.10974415,16.91446192212199,Puglia,Bari,"[""Valid/Accettato"",""News"",""Services"",""transport""]",,,"{""Posizione"":""41.10974415 16.91446192212199"",""description"":""\u00abI profughi ucraini potranno viaggiare gratuitamente sul territorio pugliese\u00bb, lo ha annunciato l\u2019assessora regionale ai Trasporti e alla Mobilit\u00e0 sostenibile Anita Maurodinoia dopo che la Giunta ha approvato lo schema di protocollo d\u2019intesa tra la Regione Puglia e le imprese ferroviarie e automobilistiche che gestiscono i servizi di trasporto pubblico locale per la concessione di gratuit\u00e0 in favore dei cittadini ucraini e dei soggetti provenienti dall\u2019Ucraina, che entrano nel territorio pugliese in conseguenza degli accadimenti bellici in atto. In questa prima fase (da aprile a giugno) la misura di gratuit\u00e0 sar\u00e0 \u201csperimentale\u201d e oggetto di monitoraggio, al fine poi di prorogarla o adottare diverse modalit\u00e0 di applicazione. Per poter usufruire dell\u2019agevolazione i viaggiatori interessati dovranno mostrare il passaporto ucraino e il modello 209 di richiesta Permesso di Soggiorno o il Permesso stesso se gi\u00e0 ottenuto."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://ledicoladelsud.it/home/2022/04/07/news/i-profughi-ucraini-viaggeranno-gratuitamente-sul-territorio-pugliese-ce-laccordo-tra-regione-e-servizi-tpl-120470/"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-75"",""city"":""Bari"",""commercial"":""Uffici Regione Puglia"",""country"":""Italia"",""country_code"":""it"",""county"":""Bari"",""state"":""Puglia"",""suburb"":""Municipio 1""},""boundingbox"":[""41.1073973"",""41.1120202"",""16.9119837"",""16.9168485""],""class"":""landuse"",""display_name"":""Uffici Regione Puglia, Municipio 1, Bari, Puglia, Italia"",""importance"":0.52,""lat"":""41.10974415"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.91446192212199"",""osm_id"":551997054,""osm_type"":""way"",""place_id"":219455408,""type"":""commercial""},""mode"":""autocomplete""},""submit"":true,""title"":""Regione Puglia, accesso gratuito al traporto locale per i profughi ucraini""}","<pre><yamldata>
-title: Regione Puglia, accesso gratuito al traporto locale per i profughi ucraini
-description: «I profughi ucraini potranno viaggiare gratuitamente sul territorio pugliese»,
-  lo ha annunciato l’assessora regionale ai Trasporti e alla Mobilità sostenibile
-  Anita Maurodinoia dopo che la Giunta ha approvato lo schema di protocollo d’intesa
-  tra la Regione Puglia e le imprese ferroviarie e automobilistiche che gestiscono
-  i servizi di trasporto pubblico locale per la concessione di gratuità in favore
-  dei cittadini ucraini e dei soggetti provenienti dall’Ucraina, che entrano nel territorio
-  pugliese in conseguenza degli accadimenti bellici in atto. In questa prima fase
-  (da aprile a giugno) la misura di gratuità sarà “sperimentale” e oggetto di monitoraggio,
-  al fine poi di prorogarla o adottare diverse modalità di applicazione. Per poter
-  usufruire dell’agevolazione i viaggiatori interessati dovranno mostrare il passaporto
-  ucraino e il modello 209 di richiesta Permesso di Soggiorno o il Permesso stesso
-  se già ottenuto.
-link: https://ledicoladelsud.it/home/2022/04/07/news/i-profughi-ucraini-viaggeranno-gratuitamente-sul-territorio-pugliese-ce-laccordo-tra-regione-e-servizi-tpl-120470/
-location:
-  mode: autocomplete
-  address:
-    place_id: 219455408
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 551997054
-    boundingbox:
-    - '41.1073973'
-    - '41.1120202'
-    - '16.9119837'
-    - '16.9168485'
-    lat: '41.10974415'
-    lon: '16.91446192212199'
-    display_name: Uffici Regione Puglia, Municipio 1, Bari, Puglia, Italia
-    class: landuse
-    type: commercial
-    importance: 0.52
-    address:
-      commercial: Uffici Regione Puglia
-      suburb: Municipio 1
-      city: Bari
-      county: Bari
-      state: Puglia
-      ISO3166-2-lvl4: IT-75
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 41.10974415 16.91446192212199
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/287,1178000801,2022-04-08 15:59:16,2022-03-23 11:41:03,Regione Abruzzo: online info per accoglienza e assistenza profughi ucraini (in italiano e ucraino),42.365814400000005,13.374276790275314,Abruzzo,L'Aquila,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""hospitality"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""42.365814400000005 13.374276790275314"",""description"":""Sul sito della Regione Abruzzo sono online tutte le info sull'accoglienza e assistenza dei profughi ucraini (alloggi, assistenza sanitaria e altro) e per le famiglie che ospitano o desiderano ospitare minori e famigulie ucraine. Pagina in italiano e ucraino, con info anche per singole citt\u00e0."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.regione.abruzzo.it/content/emergenza-ucraina"",""location"":{""address"":{""address"":{""building"":""Palazzo Silone"",""city"":""L'Aquila"",""country"":""Italia"",""country_code"":""it"",""county"":""L'Aquila"",""house_number"":""6"",""neighbourhood"":""Contrada Romani"",""postcode"":""67100"",""road"":""Via Leonardo da Vinci"",""state"":""Abruzzo""},""boundingbox"":[""42.365538"",""42.3661063"",""13.3737095"",""13.3747562""],""class"":""building"",""display_name"":""Palazzo Silone, 6, Via Leonardo da Vinci, Contrada Romani, L'Aquila, Abruzzo, 67100, Italia"",""importance"":1.1354342386327727,""lat"":""42.365814400000005"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.374276790275314"",""osm_id"":591326251,""osm_type"":""way"",""place_id"":225266677,""type"":""yes""},""mode"":""autocomplete""},""submit"":true,""title"":""Regione Abruzzo: online info per accoglienza e assistenza profughi ucraini (in italiano e ucraino)""}","<pre><yamldata>
 title: 'Regione Abruzzo: online info per accoglienza e assistenza profughi ucraini
