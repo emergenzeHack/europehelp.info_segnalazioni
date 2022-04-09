@@ -1,11 +1,219 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/547,1198534693,2022-04-09 13:27:14,2022-04-09 11:17:45,Ambasciata Ucraina in Italia - Contatti utili,,,,,"[""Valid/Accettato"",""Services"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00197"",""road"":""Via Guido D'Arezzo"",""state"":""Lazio"",""suburb"":""Municipio Roma II""},""boundingbox"":[""41.9201623"",""41.9216257"",""12.4923154"",""12.4943934""],""class"":""highway"",""display_name"":""Via Guido D'Arezzo, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia"",""importance"":0.71,""lat"":""41.9209097"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4932863"",""osm_id"":23921179,""osm_type"":""way"",""place_id"":107283504,""type"":""residential""},""mode"":""autocomplete""},""aim"":""Recapiti dell'Ambasciata d'Ucraina in Italia.\nAttivo anche un numero di Emergenza +393519 886 823\nPagina Facebook: https://www.facebook.com/ukr.embassy.italy\nTwitter: https://twitter.com/UKRinIT?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"",""email"":""emb_it@mfa.gov.ua"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39068412630,  +390682003641"",""submit"":true,""title"":""Ambasciata Ucraina in Italia - Contatti utili"",""url"":""https://italy.mfa.gov.ua/it""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/554,1198611430,2022-04-09 13:45:39,2022-04-09 13:45:13,Consolato ucraino a Genova - Contatti ,,,,,"[""Valid/Accettato"",""Services"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-42"",""ISO3166-2-lvl6"":""IT-GE"",""city"":""Genova"",""country"":""Italia"",""country_code"":""it"",""county"":""Genoa"",""house_number"":""2"",""postcode"":""16121"",""road"":""Via San Vincenzo"",""state"":""Liguria"",""suburb"":""San Vincenzo""},""boundingbox"":[""44.406505"",""44.406605"",""8.9448655"",""8.9449655""],""class"":""place"",""display_name"":""2, Via San Vincenzo, San Vincenzo, Centro Est, Genova, Genoa, Liguria, 16121, Italia"",""importance"":0.5209999999999999,""lat"":""44.406555"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.9449155"",""osm_id"":3797412163,""osm_type"":""node"",""place_id"":44845366,""type"":""house""},""mode"":""autocomplete""},""aim"":""Visto Turistico Schengen\nVisto Affari Schengen\nVisto Visite Private Schengen\nVisto Lavoro Schengen\nVisto Studio Schengen"",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""010 587557"",""submit"":true,""title"":""Consolato ucraino a Genova - Contatti utili"",""url"":""""}","<pre><yamldata>
+title: Consolato ucraino a Genova - Contatti utili
+phoneNumber: 010 587557
+email: ''
+aim: 'Visto Turistico Schengen
+
+  Visto Affari Schengen
+
+  Visto Visite Private Schengen
+
+  Visto Lavoro Schengen
+
+  Visto Studio Schengen'
+url: ''
+address:
+  mode: autocomplete
+  address:
+    place_id: 44845366
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 3797412163
+    boundingbox:
+    - '44.406505'
+    - '44.406605'
+    - '8.9448655'
+    - '8.9449655'
+    lat: '44.406555'
+    lon: '8.9449155'
+    display_name: 2, Via San Vincenzo, San Vincenzo, Centro Est, Genova, Genoa, Liguria,
+      16121, Italia
+    class: place
+    type: house
+    importance: 0.5209999999999999
+    address:
+      house_number: '2'
+      road: Via San Vincenzo
+      suburb: San Vincenzo
+      city: Genova
+      county: Genoa
+      ISO3166-2-lvl6: IT-GE
+      state: Liguria
+      ISO3166-2-lvl4: IT-42
+      postcode: '16121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/553,1198608649,2022-04-09 13:43:53,2022-04-09 13:39:36,Consolato ucraino a Napoli - Contatti ,,,,,"[""Valid/Accettato"",""Services"",""useful contact""]",,,"{""address"":{""address"":{""address1"":""Via G. Porzio 4, Centro Direzionale Isola B3, int. 5-6 "",""address2"":"""",""city"":""Napoli"",""country"":""Italia"",""state"":"""",""zip"":""80143""},""mode"":""manual""},""aim"":""Indirizzo: Via G. Porzio 4, Centro Direzionale Isola B3, int. 5-6 \u2013 80143 Napoli\n\nVisto Turistico Schengen\nVisto Affari Schengen\nVisto Visite Private Schengen\nVisto Lavoro Schengen\nVisto Studio Schengen"",""email"":""gc_itn@mfa.gov.ua"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""081 7875433"",""submit"":true,""title"":""Consolato ucraino a Napoli -Contatti utili"",""url"":""""}","<pre><yamldata>
+title: Consolato ucraino a Napoli -Contatti utili
+phoneNumber: 081 7875433
+email: gc_itn@mfa.gov.ua
+aim: 'Indirizzo: Via G. Porzio 4, Centro Direzionale Isola B3, int. 5-6 – 80143 Napoli
+
+
+  Visto Turistico Schengen
+
+  Visto Affari Schengen
+
+  Visto Visite Private Schengen
+
+  Visto Lavoro Schengen
+
+  Visto Studio Schengen'
+url: ''
+address:
+  mode: manual
+  address:
+    address1: 'Via G. Porzio 4, Centro Direzionale Isola B3, int. 5-6 '
+    address2: ''
+    city: Napoli
+    state: ''
+    country: Italia
+    zip: '80143'
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/552,1198546733,2022-04-09 13:43:13,2022-04-09 11:44:26,Consolato Ucraino a Milano - Contatti ,,,,,"[""Valid/Accettato"",""Services"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""borough"":""Municipio 8 di Milano"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""11"",""office"":""Consolato Generale dell'Ucraina"",""postcode"":""20156"",""quarter"":""Villapizzone"",""road"":""Via Ludovico di Breme"",""state"":""Lombardia""},""boundingbox"":[""45.4966553"",""45.4967553"",""9.1390852"",""9.1391852""],""class"":""office"",""display_name"":""Consolato Generale dell'Ucraina, 11, Via Ludovico di Breme, Villapizzone, Municipio 8 di Milano, Milano, Lombardia, 20156, Italia"",""importance"":0.611,""lat"":""45.4967053"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1391352"",""osm_id"":693845180,""osm_type"":""node"",""place_id"":5652117,""type"":""diplomatic""},""mode"":""autocomplete""},""aim"":""Utile per Visto Schengen\nVisto Turistico Schengen\nVisto Affari Schengen\nVisto Visite Private Schengen\nVisto Lavoro Schengen\nVisto Studio Schengen"",""email"":""gc_itm@mfa.gov.ua"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""02 86995789, 02 86998814"",""submit"":true,""title"":""Consolato Ucraino a Milano - Contatti utili"",""url"":""""}","<pre><yamldata>
+title: Consolato Ucraino a Milano - Contatti utili
+phoneNumber: 02 86995789, 02 86998814
+email: gc_itm@mfa.gov.ua
+aim: 'Utile per Visto Schengen
+
+  Visto Turistico Schengen
+
+  Visto Affari Schengen
+
+  Visto Visite Private Schengen
+
+  Visto Lavoro Schengen
+
+  Visto Studio Schengen'
+url: ''
+address:
+  mode: autocomplete
+  address:
+    place_id: 5652117
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 693845180
+    boundingbox:
+    - '45.4966553'
+    - '45.4967553'
+    - '9.1390852'
+    - '9.1391852'
+    lat: '45.4967053'
+    lon: '9.1391352'
+    display_name: Consolato Generale dell'Ucraina, 11, Via Ludovico di Breme, Villapizzone,
+      Municipio 8 di Milano, Milano, Lombardia, 20156, Italia
+    class: office
+    type: diplomatic
+    importance: 0.611
+    address:
+      office: Consolato Generale dell'Ucraina
+      house_number: '11'
+      road: Via Ludovico di Breme
+      quarter: Villapizzone
+      borough: Municipio 8 di Milano
+      city: Milano
+      county: Milano
+      ISO3166-2-lvl6: IT-MI
+      state: Lombardia
+      postcode: '20156'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/551,1198545650,2022-04-09 13:42:53,2022-04-09 11:42:05,Consolato Ucraino a Roma - Contatti ,,,,,"[""Valid/Accettato"",""Services"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00100"",""quarter"":""Monte Sacro"",""road"":""Via Monte Pramaggiore"",""state"":""Lazio"",""suburb"":""Monte Sacro""},""boundingbox"":[""41.9303268"",""41.9312453"",""12.5374866"",""12.5390085""],""class"":""highway"",""display_name"":""Via Monte Pramaggiore, Monte Sacro, Roma, Roma Capitale, Lazio, 00100, Italia"",""importance"":0.61,""lat"":""41.9308165"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.5383171"",""osm_id"":26943866,""osm_type"":""way"",""place_id"":107499927,""type"":""residential""},""mode"":""autocomplete""},""aim"":""Orario: 9.00-12.30 e 15.00-16.30 di luned\u00ec, marted\u00ec, gioved\u00ec; 9.00-12.30 di venerd\u00ec"",""email"":""gc_it@mfa.gov.ua"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""06 82003641"",""submit"":true,""title"":""Consolato Ucraino a Roma - Contatti utili"",""url"":""""}","<pre><yamldata>
+title: Consolato Ucraino a Roma - Contatti utili
+phoneNumber: 06 82003641
+email: gc_it@mfa.gov.ua
+aim: 'Orario: 9.00-12.30 e 15.00-16.30 di lunedì, martedì, giovedì; 9.00-12.30 di
+  venerdì'
+url: ''
+address:
+  mode: autocomplete
+  address:
+    place_id: 107499927
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 26943866
+    boundingbox:
+    - '41.9303268'
+    - '41.9312453'
+    - '12.5374866'
+    - '12.5390085'
+    lat: '41.9308165'
+    lon: '12.5383171'
+    display_name: Via Monte Pramaggiore, Monte Sacro, Roma, Roma Capitale, Lazio,
+      00100, Italia
+    class: highway
+    type: residential
+    importance: 0.61
+    address:
+      road: Via Monte Pramaggiore
+      quarter: Monte Sacro
+      suburb: Monte Sacro
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: '00100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/550,1198543213,2022-04-09 13:42:30,2022-04-09 11:36:44,Consolato onorario d'Ucraina nella Repubblica di San Marino - Contatti,,,,,"[""Valid/Accettato"",""Services"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""country"":""San Marino"",""country_code"":""sm""},""boundingbox"":[""43.893632"",""43.992093"",""12.4033246"",""12.516202""],""class"":""boundary"",""display_name"":""San Marino"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8593263756585181,""lat"":""43.9458623"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.458306"",""osm_id"":54624,""osm_type"":""relation"",""place_id"":284622582,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Indirizzo: Contr. Borgoloto, n.17/23, San Marino\nOrari di apertura Marted\u00ec: 10.30 - 12.30, Gioved\u00ec: 10.30 - 12.30\nPagina Facebook: https://www.facebook.com/share.php?u=https%3A%2F%2Fitaly.mfa.gov.ua%2Fit%2Fembassy%2F5283-pochesne-konsulystvo-ukrajini-v-sanmarino\nTwitter: https://twitter.com/intent/tweet?url=https%3A%2F%2Fitaly.mfa.gov.ua%2Fit%2Fembassy%2F5283-pochesne-konsulystvo-ukrajini-v-sanmarino"",""email"":""consolatoucrainarsm@alice.sm"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 0549879420"",""submit"":true,""title"":""Consolato onorario d'Ucraina nella Repubblica di San Marino - Contatto utile"",""url"":""https://italy.mfa.gov.ua/it/embassy/5283-pochesne-konsulystvo-ukrajini-v-sanmarino""}","<pre><yamldata>
+title: Consolato onorario d'Ucraina nella Repubblica di San Marino - Contatto utile
+phoneNumber: +39 0549879420
+email: consolatoucrainarsm@alice.sm
+aim: 'Indirizzo: Contr. Borgoloto, n.17/23, San Marino
+
+  Orari di apertura Martedì: 10.30 - 12.30, Giovedì: 10.30 - 12.30
+
+  Pagina Facebook: https://www.facebook.com/share.php?u=https%3A%2F%2Fitaly.mfa.gov.ua%2Fit%2Fembassy%2F5283-pochesne-konsulystvo-ukrajini-v-sanmarino
+
+  Twitter: https://twitter.com/intent/tweet?url=https%3A%2F%2Fitaly.mfa.gov.ua%2Fit%2Fembassy%2F5283-pochesne-konsulystvo-ukrajini-v-sanmarino'
+url: https://italy.mfa.gov.ua/it/embassy/5283-pochesne-konsulystvo-ukrajini-v-sanmarino
+address:
+  mode: autocomplete
+  address:
+    place_id: 284622582
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 54624
+    boundingbox:
+    - '43.893632'
+    - '43.992093'
+    - '12.4033246'
+    - '12.516202'
+    lat: '43.9458623'
+    lon: '12.458306'
+    display_name: San Marino
+    class: boundary
+    type: administrative
+    importance: 0.8593263756585181
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      country: San Marino
+      country_code: sm
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/547,1198534693,2022-04-09 13:42:01,2022-04-09 11:17:45,Ambasciata Ucraina in Italia - Contatti,,,,,"[""Valid/Accettato"",""Services"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00197"",""road"":""Via Guido D'Arezzo"",""state"":""Lazio"",""suburb"":""Municipio Roma II""},""boundingbox"":[""41.9201623"",""41.9216257"",""12.4923154"",""12.4943934""],""class"":""highway"",""display_name"":""Via Guido D'Arezzo, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia"",""importance"":0.71,""lat"":""41.9209097"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4932863"",""osm_id"":23921179,""osm_type"":""way"",""place_id"":107283504,""type"":""residential""},""mode"":""autocomplete""},""aim"":""Ambasciata d'Ucraina in Italia. Attivo anche un numero di Emergenza +393519 886 823\nPagina Facebook: https://www.facebook.com/ukr.embassy.italy\nTwitter: https://twitter.com/UKRinIT?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"",""email"":""emb_it@mfa.gov.ua"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39068412630,  +390682003641"",""submit"":true,""title"":""Ambasciata Ucraina in Italia - Contatti utili"",""url"":""https://italy.mfa.gov.ua/it""}","<pre><yamldata>
 title: Ambasciata Ucraina in Italia - Contatti utili
 phoneNumber: +39068412630,  +390682003641
 email: emb_it@mfa.gov.ua
-aim: 'Recapiti dell''Ambasciata d''Ucraina in Italia.
-
-  Attivo anche un numero di Emergenza +393519 886 823
+aim: 'Ambasciata d''Ucraina in Italia.
+Attivo anche un numero di Emergenza +393519 886 823
 
   Pagina Facebook: https://www.facebook.com/ukr.embassy.italy
 
@@ -37,6 +245,45 @@ address:
       county: Roma Capitale
       state: Lazio
       postcode: 00197
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/549,1198541095,2022-04-09 13:41:39,2022-04-09 11:32:03,Contatti Ambasciata d'Ucraina presso la Santa Sede,,,,,"[""Valid/Accettato"",""Services"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00100"",""road"":""Via Giovanni Bessarione"",""state"":""Lazio"",""suburb"":""Aurelio""},""boundingbox"":[""41.8915572"",""41.8916979"",""12.4428332"",""12.4444369""],""class"":""highway"",""display_name"":""Via Giovanni Bessarione, Aurelio, Roma, Roma Capitale, Lazio, 00100, Italia"",""importance"":0.4,""lat"":""41.8915572"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4444369"",""osm_id"":4949529,""osm_type"":""way"",""place_id"":96361888,""type"":""residential""},""mode"":""autocomplete""},""aim"":""Orari di apertura \nLun. - Ven. 08:30\u201313:30, 14:45\u201316:55;\nSabato e Domenica - chiuso\nNumero di emergenza: \n+39 366 102 25 85"",""email"":""emb_va@mfa.gov.ua"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+390639378800 - Numero di emergenza  +39 366 102 25 85"",""submit"":true,""title"":""Contatto utile - Ambasciata d'Ucraina presso la Santa Sede"",""url"":""https://vatican.mfa.gov.ua/it""}","<pre><yamldata>
+title: Contatto utile - Ambasciata d'Ucraina presso la Santa Sede
+phoneNumber: +390639378800 - Numero di emergenza  +39 366 102 25 85
+email: emb_va@mfa.gov.ua
+aim: ""Orari di apertura \nLun. - Ven. 08:30–13:30, 14:45–16:55;\nSabato e Domenica\
+  \ - chiuso\nNumero di emergenza: \n+39 366 102 25 85""
+url: https://vatican.mfa.gov.ua/it
+address:
+  mode: autocomplete
+  address:
+    place_id: 96361888
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 4949529
+    boundingbox:
+    - '41.8915572'
+    - '41.8916979'
+    - '12.4428332'
+    - '12.4444369'
+    lat: '41.8915572'
+    lon: '12.4444369'
+    display_name: Via Giovanni Bessarione, Aurelio, Roma, Roma Capitale, Lazio, 00100,
+      Italia
+    class: highway
+    type: residential
+    importance: 0.4
+    address:
+      road: Via Giovanni Bessarione
+      suburb: Aurelio
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: '00100'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
