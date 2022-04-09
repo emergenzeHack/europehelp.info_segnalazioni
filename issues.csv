@@ -1,4 +1,78 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/510,1194864525,2022-04-09 06:45:47,2022-04-06 16:47:59,A Pesaro corsi gratuiti di italiano per adulti e laboratori per bambini ucraini,,,,,"[""Valid/Accettato"",""Services"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Chiesa di Santa Maria di Loreto"",""city"":""Pesaro"",""country"":""Italia"",""country_code"":""it"",""county"":""Pesaro e Urbino"",""house_number"":""1"",""postcode"":""61122"",""quarter"":""Loreto"",""road"":""Via Flaminia"",""state"":""Marche"",""suburb"":""Pantano""},""boundingbox"":[""43.9040282"",""43.9044114"",""12.9177248"",""12.9180946""],""class"":""amenity"",""display_name"":""Chiesa di Santa Maria di Loreto, 1, Via Flaminia, Loreto, Pantano, Pesaro, Pesaro e Urbino, Marche, 61122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//place_of_worship_unknown3.p.20.png"",""importance"":0.42099999999999993,""lat"":""43.90422745"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.917946518136365"",""osm_id"":888478913,""osm_type"":""way"",""place_id"":269442064,""type"":""place_of_worship""},""mode"":""autocomplete""},""description"":""#SlavaUkraini #nowar #italiaucraina \n\nA Pesaro, presso la Parrocchia Santa Maria di Loreto, corsi gratuiti di lingua e cultura italiana per adulti e percorsi laboratoriali, di orientamento e socializzazione per bambini. In presenza e online. \nInfo al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Parrocchia Santa Maria di Loreto"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Pesaro corsi gratuiti di italiano per adulti e laboratori per bambini ucraini"",""url"":""https://www.facebook.com/106040772039090/posts/111073131535854/?sfnsn=scwspmo""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: true
+offerFromWho: Parrocchia Santa Maria di Loreto
+title: A Pesaro corsi gratuiti di italiano per adulti e laboratori per bambini ucraini
+recipients: ''
+description: ""#SlavaUkraini #nowar #italiaucraina \n\nA Pesaro, presso la Parrocchia\
+  \ Santa Maria di Loreto, corsi gratuiti di lingua e cultura italiana per adulti\
+  \ e percorsi laboratoriali, di orientamento e socializzazione per bambini. In presenza\
+  \ e online. \nInfo al link.""
+url: https://www.facebook.com/106040772039090/posts/111073131535854/?sfnsn=scwspmo
+address:
+  mode: autocomplete
+  address:
+    place_id: 269442064
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 888478913
+    boundingbox:
+    - '43.9040282'
+    - '43.9044114'
+    - '12.9177248'
+    - '12.9180946'
+    lat: '43.90422745'
+    lon: '12.917946518136365'
+    display_name: Chiesa di Santa Maria di Loreto, 1, Via Flaminia, Loreto, Pantano,
+      Pesaro, Pesaro e Urbino, Marche, 61122, Italia
+    class: amenity
+    type: place_of_worship
+    importance: 0.42099999999999993
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//place_of_worship_unknown3.p.20.png
+    address:
+      amenity: Chiesa di Santa Maria di Loreto
+      house_number: '1'
+      road: Via Flaminia
+      quarter: Loreto
+      suburb: Pantano
+      city: Pesaro
+      county: Pesaro e Urbino
+      state: Marche
+      postcode: '61122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/542,1197844613,2022-04-09 06:44:10,2022-04-08 21:19:56,Su Hospitality-Helps 5 notti gratis in albergo per i rifugiati ucraini in 40 paesi (anche in Italia),,,,,"[""Valid/Accettato"",""News"",""Services"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""description"":""Su Hospitality-Helps.org i rifugiati ucraini possono prenotare una camera d\u2019albergo gratuita per 5 notti in uno dei 600 alberghi che hanno aderito all\u2019iniziativa in oltre 40 paesi del mondo. Tra le strutture aderenti anche alberghi in Italia, a Torino, Milano, Como, Brescia, Padova, Venezia, Verona, Genova, Bologna, Rimini, Pisa, Firenze, Roma, Napoli e altri."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://hospitality-helps.org/en/home"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Su Hospitality-Helps.org 5 notti gratis in albergo per i rifugiati ucraini in 40 paesi (anche in Italia)""}","<pre><yamldata>
+title: Su Hospitality-Helps.org 5 notti gratis in albergo per i rifugiati ucraini
+  in 40 paesi (anche in Italia)
+description: Su Hospitality-Helps.org i rifugiati ucraini possono prenotare una camera
+  d’albergo gratuita per 5 notti in uno dei 600 alberghi che hanno aderito all’iniziativa
+  in oltre 40 paesi del mondo. Tra le strutture aderenti anche alberghi in Italia,
+  a Torino, Milano, Como, Brescia, Padova, Venezia, Verona, Genova, Bologna, Rimini,
+  Pisa, Firenze, Roma, Napoli e altri.
+link: https://hospitality-helps.org/en/home
+location:
+  mode: autocomplete
+  address: {}
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/545,1197867720,2022-04-09 06:38:49,2022-04-08 21:43:01,"Beni umanitari per l’emergenza Ucraina, i punti di raccolta a Pavia e provincia",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""state"":""Lombardia""},""boundingbox"":[""44.6799091"",""45.393838"",""8.4978518"",""9.5505475""],""class"":""boundary"",""display_name"":""Pavia, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7422019961097704,""lat"":""45.036854649999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.137825082826026"",""osm_id"":43483,""osm_type"":""relation"",""place_id"":283772748,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Disponibile sul sito di Csv Lombardia la mappatura, in costante aggiornamento, dei punti di raccolta di beni umanitari a Pavia e provincia."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Csv Lombardia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Beni umanitari per l\u2019emergenza Ucraina, i punti di raccolta a Pavia e provincia"",""url"":""https://www.csvlombardia.it/senza-categoria/post/ucraina-per-chi-offre-aiuto-in-provincia-di-pavia-raccolta-beni-di-prima-necessita/""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
@@ -389,22 +463,6 @@ address:
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/542,1197844613,2022-04-08 21:48:33,2022-04-08 21:19:56,Su Hospitality-Helps 5 notti gratis in albergo per i rifugiati ucraini in 40 paesi (anche in Italia),,,,,"[""Valid/Accettato"",""News"",""Services"",""hospitality""]",,,"{""description"":""Su Hospitality-Helps.org i rifugiati ucraini possono prenotare una camera d\u2019albergo gratuita per 5 notti in uno dei 600 alberghi che hanno aderito all\u2019iniziativa in oltre 40 paesi del mondo. Tra le strutture aderenti anche alberghi in Italia, a Torino, Milano, Como, Brescia, Padova, Venezia, Verona, Genova, Bologna, Rimini, Pisa, Firenze, Roma, Napoli e altri."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://hospitality-helps.org/en/home"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Su Hospitality-Helps.org 5 notti gratis in albergo per i rifugiati ucraini in 40 paesi (anche in Italia)""}","<pre><yamldata>
-title: Su Hospitality-Helps.org 5 notti gratis in albergo per i rifugiati ucraini
-  in 40 paesi (anche in Italia)
-description: Su Hospitality-Helps.org i rifugiati ucraini possono prenotare una camera
-  d’albergo gratuita per 5 notti in uno dei 600 alberghi che hanno aderito all’iniziativa
-  in oltre 40 paesi del mondo. Tra le strutture aderenti anche alberghi in Italia,
-  a Torino, Milano, Como, Brescia, Padova, Venezia, Verona, Genova, Bologna, Rimini,
-  Pisa, Firenze, Roma, Napoli e altri.
-link: https://hospitality-helps.org/en/home
-location:
-  mode: autocomplete
-  address: {}
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/517,1195157192,2022-04-08 17:47:34,2022-04-06 20:31:34,"Regione Toscana, accesso a pediatra di famiglia per bambini ucraini anche non in regola con permesso di soggiorno",,,,,"[""Valid/Accettato"",""Services"",""healthcare"",""Children"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""highway"":""Regione Toscana"",""postcode"":""50127"",""road"":""Via di Novoli"",""state"":""Toscana"",""suburb"":""Quartiere 5""},""boundingbox"":[""43.792534"",""43.792634"",""11.2226109"",""11.2227109""],""class"":""highway"",""display_name"":""Regione Toscana, Via di Novoli, Quartiere 5, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50127, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//transport_bus_stop2.p.20.png"",""importance"":0.21100000000000002,""lat"":""43.792584"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2226609"",""osm_id"":6027223967,""osm_type"":""node"",""place_id"":65208500,""type"":""bus_stop""},""mode"":""autocomplete""},""description"":""Un accordo tra pediatri, Asl e Regione Toscana stabilisce che i minori, che arrivano in Toscana dall\u2019Ucraina, potranno contare sulla presa in carico dei pediatri di famiglia in stretta relazione con tutte le strutture delle Asl territorialmente competenti. Ai bambini ucraini sar\u00e0 assicurata la completa assistenza sanitaria, al pari dei bambini italiani, con particolare riguardo alle attivit\u00e0 di sorveglianza, prevenzione e profilassi vaccinale del Covid-19 e di altre malattie infettive (polio, difterite, tetano, epatite b, pertosse, emofilo di tipo b, morbillo, rosolia, parotite, varicella). Questo vale anche per i minori che non sono in regola con le norme relative all\u2019ingresso e al soggiorno. Inoltre le Asl dovranno assicurare un servizio di consulenza e di traduzione attraverso la mediazione culturale, fornendo cos\u00ec ai pediatri gli strumenti necessari per favorire l\u2019accesso al servizio."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Toscana"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Regione Toscana, accesso a pediatra di famiglia per bambini ucraini anche non in regola con permesso di soggiorno"",""url"":""https://www.toscana-notizie.it/-/assistenza-e-cure-ai-bambini-ucraini-l-accordo-con-pediatri-e-asl""}","<pre><yamldata>
@@ -1606,64 +1664,6 @@ address:
     state: Italia
     country: ''
     zip: '89129 '
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/510,1194864525,2022-04-06 22:30:29,2022-04-06 16:47:59,A Pesaro corsi gratuiti di italiano per adulti e laboratori per bambini ucraini,,,,,"[""Valid/Accettato"",""Services"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Chiesa di Santa Maria di Loreto"",""city"":""Pesaro"",""country"":""Italia"",""country_code"":""it"",""county"":""Pesaro e Urbino"",""house_number"":""1"",""postcode"":""61122"",""quarter"":""Loreto"",""road"":""Via Flaminia"",""state"":""Marche"",""suburb"":""Pantano""},""boundingbox"":[""43.9040282"",""43.9044114"",""12.9177248"",""12.9180946""],""class"":""amenity"",""display_name"":""Chiesa di Santa Maria di Loreto, 1, Via Flaminia, Loreto, Pantano, Pesaro, Pesaro e Urbino, Marche, 61122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//place_of_worship_unknown3.p.20.png"",""importance"":0.42099999999999993,""lat"":""43.90422745"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.917946518136365"",""osm_id"":888478913,""osm_type"":""way"",""place_id"":269442064,""type"":""place_of_worship""},""mode"":""autocomplete""},""description"":""#SlavaUkraini #nowar #italiaucraina \n\nA Pesaro, presso la Parrocchia Santa Maria di Loreto, corsi gratuiti di lingua e cultura italiana per adulti e percorsi laboratoriali, di orientamento e socializzazione per bambini. In presenza e online. \nInfo al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Parrocchia Santa Maria di Loreto"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Pesaro corsi gratuiti di italiano per adulti e laboratori per bambini ucraini"",""url"":""https://www.facebook.com/106040772039090/posts/111073131535854/?sfnsn=scwspmo""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: true
-  disability: false
-  women: false
-  education: true
-offerFromWho: Parrocchia Santa Maria di Loreto
-title: A Pesaro corsi gratuiti di italiano per adulti e laboratori per bambini ucraini
-recipients: ''
-description: ""#SlavaUkraini #nowar #italiaucraina \n\nA Pesaro, presso la Parrocchia\
-  \ Santa Maria di Loreto, corsi gratuiti di lingua e cultura italiana per adulti\
-  \ e percorsi laboratoriali, di orientamento e socializzazione per bambini. In presenza\
-  \ e online. \nInfo al link.""
-url: https://www.facebook.com/106040772039090/posts/111073131535854/?sfnsn=scwspmo
-address:
-  mode: autocomplete
-  address:
-    place_id: 269442064
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 888478913
-    boundingbox:
-    - '43.9040282'
-    - '43.9044114'
-    - '12.9177248'
-    - '12.9180946'
-    lat: '43.90422745'
-    lon: '12.917946518136365'
-    display_name: Chiesa di Santa Maria di Loreto, 1, Via Flaminia, Loreto, Pantano,
-      Pesaro, Pesaro e Urbino, Marche, 61122, Italia
-    class: amenity
-    type: place_of_worship
-    importance: 0.42099999999999993
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//place_of_worship_unknown3.p.20.png
-    address:
-      amenity: Chiesa di Santa Maria di Loreto
-      house_number: '1'
-      road: Via Flaminia
-      quarter: Loreto
-      suburb: Pantano
-      city: Pesaro
-      county: Pesaro e Urbino
-      state: Marche
-      postcode: '61122'
-      country: Italia
-      country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
