@@ -1,4 +1,53 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/552,1198546733,2022-04-09 15:10:23,2022-04-09 11:44:26,Consolato Ucraina a Milano - Contatti ,,,,,"[""Valid/Accettato"",""Services"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""borough"":""Municipio 8 di Milano"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""11"",""office"":""Consolato Generale dell'Ucraina"",""postcode"":""20156"",""quarter"":""Villapizzone"",""road"":""Via Ludovico di Breme"",""state"":""Lombardia""},""boundingbox"":[""45.4966553"",""45.4967553"",""9.1390852"",""9.1391852""],""class"":""office"",""display_name"":""Consolato Generale dell'Ucraina, 11, Via Ludovico di Breme, Villapizzone, Municipio 8 di Milano, Milano, Lombardia, 20156, Italia"",""importance"":0.611,""lat"":""45.4967053"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1391352"",""osm_id"":693845180,""osm_type"":""node"",""place_id"":5652117,""type"":""diplomatic""},""mode"":""autocomplete""},""aim"":""Utile per Visto Schengen Visto Turistico Schengen Visto Affari Schengen Visto Visite Private Schengen Visto Lavoro Schengen Visto Studio Schengen\nFacebook https://www.facebook.com/milan.mfa.gov.ua/"",""email"":""gc_itm@mfa.gov.ua"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 02 801333, 02 86995789, 02 86998814"",""submit"":true,""title"":""Consolato Ucraino a Milano - Contatti utili"",""url"":""https://www.ambasciata.net/Consolato/17017/Ucraina-a-Milano""}","<pre><yamldata>
+title: Consolato Ucraino a Milano - Contatti utili
+phoneNumber: +39 02 801333, 02 86995789, 02 86998814
+email: gc_itm@mfa.gov.ua
+aim: 'Utile per Visto Schengen
+Visto Turistico Schengen
+Visto Affari Schengen
+Visto Visite Private Schengen
+Visto Lavoro Schengen
+Visto Studio Schengen
+
+Facebook https://www.facebook.com/milan.mfa.gov.ua/'
+url: 'https://www.ambasciata.net/Consolato/17017/Ucraina-a-Milano'
+address:
+  mode: autocomplete
+  address:
+    place_id: 5652117
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 693845180
+    boundingbox:
+    - '45.4966553'
+    - '45.4967553'
+    - '9.1390852'
+    - '9.1391852'
+    lat: '45.4967053'
+    lon: '9.1391352'
+    display_name: Consolato Generale dell'Ucraina, 11, Via Ludovico di Breme, Villapizzone,
+      Municipio 8 di Milano, Milano, Lombardia, 20156, Italia
+    class: office
+    type: diplomatic
+    importance: 0.611
+    address:
+      office: Consolato Generale dell'Ucraina
+      house_number: '11'
+      road: Via Ludovico di Breme
+      quarter: Villapizzone
+      borough: Municipio 8 di Milano
+      city: Milano
+      county: Milano
+      ISO3166-2-lvl6: IT-MI
+      state: Lombardia
+      postcode: '20156'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/553,1198608649,2022-04-09 15:04:25,2022-04-09 13:39:36,Consolato Ucraina a Napoli - Contatti ,,,,,"[""Valid/Accettato"",""Services"",""useful contact""]",,,"{""address"":{""address"":{""address1"":""Via G. Porzio 4, Centro Direzionale Isola B3, int. 5-6 "",""address2"":"""",""city"":""Napoli"",""country"":""Italia"",""state"":"""",""zip"":""80143""},""mode"":""manual""},""aim"":""Indirizzo: Via G. Porzio 4, Centro Direzionale Isola B3, int. 5-6 \u2013 80143 Napoli. Tel. in caso di emergenza (+39) 3277 364 822. Servizi: Visto Turistico Schengen Visto Affari Schengen Visto Visite Private Schengen Visto Lavoro Schengen Visto Studio Schengen\nFacebook https://www.facebook.com/cgunapoli"",""email"":""gc_itn@mfa.gov.ua"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""081 7875433 - (+39) 3277 364 822"",""submit"":true,""title"":""Consolato ucraino a Napoli -Contatti utili"",""url"":""https://naples.mfa.gov.ua/it""}","<pre><yamldata>
 title: Consolato ucraino a Napoli -Contatti utili
 phoneNumber: 081 7875433 - (+39) 3277 364 822 
