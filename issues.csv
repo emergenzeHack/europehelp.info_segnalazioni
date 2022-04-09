@@ -1,4 +1,48 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/547,1198534693,2022-04-09 13:24:18,2022-04-09 11:17:45,Ambasciata Ucraina in Italia - Contatti utili,,,,,"[""Valid/Accettato"",""Services"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00197"",""road"":""Via Guido D'Arezzo"",""state"":""Lazio"",""suburb"":""Municipio Roma II""},""boundingbox"":[""41.9201623"",""41.9216257"",""12.4923154"",""12.4943934""],""class"":""highway"",""display_name"":""Via Guido D'Arezzo, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia"",""importance"":0.71,""lat"":""41.9209097"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4932863"",""osm_id"":23921179,""osm_type"":""way"",""place_id"":107283504,""type"":""residential""},""mode"":""autocomplete""},""aim"":""Recapiti dell'Ambasciata d'Ucraina in Italia.\nAttivo anche un numero di Emergenza +393519 886 823\nPagina Facebook: https://www.facebook.com/ukr.embassy.italy\nTwitter: https://twitter.com/UKRinIT?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"",""email"":""emb_it@mfa.gov.ua"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39068412630,  +390682003641"",""submit"":true,""title"":""Ambasciata Ucraina in Italia - Contatti utili"",""url"":""https://italy.mfa.gov.ua/it""}","<pre><yamldata>
+title: Ambasciata Ucraina in Italia - Contatti utili
+phoneNumber: +39068412630,  +390682003641
+email: emb_it@mfa.gov.ua
+aim: 'Recapiti dell''Ambasciata d''Ucraina in Italia.
+
+  Attivo anche un numero di Emergenza +393519 886 823
+
+  Pagina Facebook: https://www.facebook.com/ukr.embassy.italy
+
+  Twitter: https://twitter.com/UKRinIT?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'
+url: https://italy.mfa.gov.ua/it
+address:
+  mode: autocomplete
+  address:
+    place_id: 107283504
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 23921179
+    boundingbox:
+    - '41.9201623'
+    - '41.9216257'
+    - '12.4923154'
+    - '12.4943934'
+    lat: '41.9209097'
+    lon: '12.4932863'
+    display_name: Via Guido D'Arezzo, Municipio Roma II, Roma, Roma Capitale, Lazio,
+      00197, Italia
+    class: highway
+    type: residential
+    importance: 0.71
+    address:
+      road: Via Guido D'Arezzo
+      suburb: Municipio Roma II
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: 00197
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/534,1196541621,2022-04-09 13:12:48,2022-04-07 20:33:45,Ospedale Bambino Gesù di Roma risponde all’appello di ERN per offrire assistenza medica specialistica ai bambini ucraini affetti da malattie rare ,,,,,"[""Valid/Accettato"",""Services"",""healthcare""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""L\u2019Ospedale Pediatrico Bambino Ges\u00f9 risponde all\u2019appello lanciato dalle Reti ERN europee per offrire consulenze specialistiche e assistenza sanitaria ai bambini ucraini con gravi malattie rare che non possono ricevere le cure necessarie nel loro Paese di origine a causa del conflitto.Le ERN - Reti di Riferimento Europee per le malattie rare - per fronteggiare l\u2019emergenza internazionale hanno predisposto un nuovo sito web www.erncare4ua.eu che sar\u00e0 il punto di contatto e di informazione per le Istituzioni, per l\u2019Organizzazione Mondiale della Sanit\u00e0 e per gli operatori sanitari di tutta Europa che abbiano bisogno di aiuto per la gestione dei malati rari ucraini."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ospedale Bambino Ges\u00f9"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Sostegno ai bambini affetti da malattie rare"",""url"":""https://www.ospedalebambinogesu.it/il-bambino-gesu-con-le-reti-ern-per-i-malati-rari-dell-ucraina-138371/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
