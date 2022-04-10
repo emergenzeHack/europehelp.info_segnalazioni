@@ -1,4 +1,66 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/581,1199154510,2022-04-10 20:21:45,2022-04-10 19:50:07,"Cinformi, online tutte le info e i contatti per i rifugiati ucraini in Trentino: ospitalità, documenti, assistenza sanitaria, minori, lavoro",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""useful contact"",""hospitality"",""transport"",""healthcare"",""psychologicalSupport"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-TN"",""city"":""Trento"",""country"":""Italia"",""country_code"":""it"",""county"":""Provincia di Trento"",""house_number"":""4"",""municipality"":""Territorio Val d'Adige"",""neighbourhood"":""Piazzina"",""office"":""Cinformi"",""postcode"":""38121"",""road"":""Via Renato Lunelli"",""state"":""Trentino-Alto Adige"",""suburb"":""Melta di Gardolo"",""village"":""Centochiavi""},""boundingbox"":[""46.0929753"",""46.0930753"",""11.1196233"",""11.1197233""],""class"":""office"",""display_name"":""Cinformi, 4, Via Renato Lunelli, Piazzina, Melta di Gardolo, Centochiavi, Trento, Territorio Val d'Adige, Provincia di Trento, Trentino-Alto Adige, 38121, Italia"",""importance"":0.5309999999999999,""lat"":""46.0930253"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.1196733"",""osm_id"":2615372887,""osm_type"":""node"",""place_id"":23813490,""type"":""government""},""mode"":""autocomplete""},""description"":""Sul sito di Cinform, Centro informativo per l'immigrazione della Provincia Autonoma di Trento, sono disponibili tutte le info e i contatti per i rifugiati ucraini che arrivano in Trentino: ospitalit\u00e0, documenti, assistenza sanitaria, inserimento scolastico, lavoro, trasporti."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Cinformi (Centro informativo immigrazione) - Provincia Autonoma di Trento"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":true,""disability"":false,""education"":true,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":true,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""Cinformi, online tutte le info e i contatti per i rifugiati ucraini in Trentino: ospitalit\u00e0, documenti, assistenza sanitaria, minori, lavoro"",""url"":""https://www.cinformi.it/Progetti/Speciale-Emergenza-Ucraina/Profughi-dall-Ucraina-cosa-fare""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: true
+  healthcare: true
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: true
+  Children: true
+  disability: false
+  women: false
+  education: true
+offerFromWho: Cinformi (Centro informativo immigrazione) - Provincia Autonoma di Trento
+title: 'Cinformi, online tutte le info e i contatti per i rifugiati ucraini in Trentino:
+  ospitalità, documenti, assistenza sanitaria, minori, lavoro'
+recipients: ''
+description: 'Sul sito di Cinform, Centro informativo per l''immigrazione della Provincia
+  Autonoma di Trento, sono disponibili tutte le info e i contatti per i rifugiati
+  ucraini che arrivano in Trentino: ospitalità, documenti, assistenza sanitaria, inserimento
+  scolastico, lavoro, trasporti.'
+url: https://www.cinformi.it/Progetti/Speciale-Emergenza-Ucraina/Profughi-dall-Ucraina-cosa-fare
+address:
+  mode: autocomplete
+  address:
+    place_id: 23813490
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 2615372887
+    boundingbox:
+    - '46.0929753'
+    - '46.0930753'
+    - '11.1196233'
+    - '11.1197233'
+    lat: '46.0930253'
+    lon: '11.1196733'
+    display_name: Cinformi, 4, Via Renato Lunelli, Piazzina, Melta di Gardolo, Centochiavi,
+      Trento, Territorio Val d'Adige, Provincia di Trento, Trentino-Alto Adige, 38121,
+      Italia
+    class: office
+    type: government
+    importance: 0.5309999999999999
+    address:
+      office: Cinformi
+      house_number: '4'
+      road: Via Renato Lunelli
+      neighbourhood: Piazzina
+      suburb: Melta di Gardolo
+      village: Centochiavi
+      city: Trento
+      municipality: Territorio Val d'Adige
+      county: Provincia di Trento
+      ISO3166-2-lvl6: IT-TN
+      state: Trentino-Alto Adige
+      postcode: '38121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/577,1198781714,2022-04-10 07:33:51,2022-04-09 21:50:48,Mappa delle Questure e dei commissariati in Italia con info e contatti,,,,,"[""Valid/Accettato"",""useful contact"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""aim"":""Sul sito Questure della Polizia di Stato \u00e8 disponibile una mappadura di tutte le Qmquesture e i commissariati in Italia con info e contatti."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Mappa delle Questure e dei commissariati in Italia con info e contatti"",""url"":""https://questure.poliziadistato.it/servizio/dovesiamo?_qf__dovesiamo_q=&v=1&guid_questura=&grafica=0&Submit=Cerca""}","<pre><yamldata>
 title: Mappa delle Questure e dei commissariati in Italia con info e contatti
 phoneNumber: ''
