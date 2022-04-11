@@ -310,15 +310,16 @@ if __name__ == "__main__":
                 dataRaw = tree.xpath("//data/text()")
                 dataStr = dataRaw[0] if len(dataRaw) > 0 else None
                 data = json.loads(dataStr)
-            except:
+            except Exception as ex:
+                logger.info("exception {}".format(ex))
                 pass
 
             try:
                 yamldataRaw = tree.xpath("//yamldata/text()")
                 yamldataStr = yamldataRaw[0] if len(yamldataRaw) > 0 else None
                 data = yaml.safe_load(yamldataStr)
-            except:
-                pass
+            except Exception as ex:
+                logger.info("exception {}".format(ex))
         except:
             pass
 
