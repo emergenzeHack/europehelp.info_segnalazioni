@@ -311,7 +311,6 @@ if __name__ == "__main__":
                 dataStr = dataRaw[0] if len(dataRaw) > 0 else None
                 data = json.loads(dataStr)
             except Exception as ex:
-                logger.info("exception {}".format(ex))
                 pass
 
             try:
@@ -319,7 +318,7 @@ if __name__ == "__main__":
                 yamldataStr = yamldataRaw[0] if len(yamldataRaw) > 0 else None
                 data = yaml.safe_load(yamldataStr)
             except Exception as ex:
-                logger.info("exception {}".format(ex))
+                logger.error("exception {}".format(ex))
         except:
             pass
 
@@ -344,7 +343,7 @@ if __name__ == "__main__":
                             break
 
                 except Exception as e:
-                    logger.error("Exception: %s", e)
+                    logger.error("Exception: {} {}".format(e,data[posName]))
                 break
 
         if "regione_manuale" in data:
