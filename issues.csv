@@ -1,4 +1,137 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/583,1199511149,2022-04-11 18:23:35,2022-04-11 07:24:30,Prefettura di Vicenza attiva email e offre online informazioni operative per chi arriva dall'Ucraina  ,45.63485905,11.40635425660249,Veneto,Vicenza,"[""Valid/Accettato"",""Services"",""Legal"",""useful contact""]",,,"{""Posizione"":""45.63485905 11.40635425660249"",""description"":""La prefettura di Vicenza pubblica sul proprio sito le informazioni utili a chi arriva e a chi ospita cittadini Ucraini a Vicenza. \u00c8 disponibile un documento in italiano, inglese, ucraino e russo ed un indirizzo mail per richiesta di ulteriori informazioni."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""http://www.prefettura.it/vicenza/contenuti/Informazioni_operative-13354424.htm"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""country"":""Italy"",""country_code"":""it"",""county"":""Vicenza"",""state"":""Veneto""},""boundingbox"":[""45.2551958"",""46.0144637"",""11.1361942"",""11.8362709""],""class"":""boundary"",""display_name"":""Vicenza, Veneto, Italy"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7401616861442906,""lat"":""45.63485905"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.40635425660249"",""osm_id"":44580,""osm_type"":""relation"",""place_id"":283543636,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Informazioni operative per chi arriva dall'Ucraina a Vicenza""}","<pre><yamldata>
+title: Informazioni operative per chi arriva dall'Ucraina a Vicenza
+description: 'La prefettura di Vicenza pubblica sul proprio sito le informazioni utili a chi arriva
+  e a chi ospita cittadini Ucraini a Vicenza.
+È disponibile un documento in italiano, inglese, ucraino e russo ed un indirizzo
+  mail per richiesta di ulteriori informazioni.'
+link: http://www.prefettura.it/vicenza/contenuti/Informazioni_operative-13354424.htm
+location:
+  mode: autocomplete
+  address:
+    place_id: 283543636
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 44580
+    boundingbox:
+    - '45.2551958'
+    - '46.0144637'
+    - '11.1361942'
+    - '11.8362709'
+    lat: '45.63485905'
+    lon: '11.40635425660249'
+    display_name: Vicenza, Veneto, Italy
+    class: boundary
+    type: administrative
+    importance: 0.7401616861442906
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Vicenza
+      state: Veneto
+      ISO3166-2-lvl4: IT-34
+      country: Italy
+      country_code: it
+label: document_data
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.63485905 11.40635425660249
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/584,1200324148,2022-04-11 18:22:45,2022-04-11 17:48:56,Traduttori accreditati dal Consolato d'Ucraina di Milano: nomi e contatti,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""useful contact"",""translation""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""borough"":""Municipio 8 di Milano"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""11"",""office"":""Consolato Generale dell'Ucraina"",""postcode"":""20156"",""quarter"":""Villapizzone"",""road"":""Via Ludovico di Breme"",""state"":""Lombardia""},""boundingbox"":[""45.4966553"",""45.4967553"",""9.1390852"",""9.1391852""],""class"":""office"",""display_name"":""Consolato Generale dell'Ucraina, 11, Via Ludovico di Breme, Villapizzone, Municipio 8 di Milano, Milano, Lombardia, 20156, Italia"",""importance"":0.31100000000000005,""lat"":""45.4967053"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1391352"",""osm_id"":693845180,""osm_type"":""node"",""place_id"":5652117,""type"":""diplomatic""},""mode"":""autocomplete""},""description"":""Se hai bisogno di una traduzione ufficiale di documenti, puoi rivolgerti ai traduttori accreditati dal Consolato dell'Ucraina a Milano (tutti questi traduttori non sono volontari, le traduzioni non sono gratuite).\n\u042f\u043a\u0449\u043e \u0432\u0430\u043c \u043f\u043e\u0442\u0440\u0456\u0431\u0435\u043d\u00a0\u043e\u0444\u0456\u0446\u0456\u0439\u043d\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0456\u0432, \u043c\u043e\u0436\u043b\u0438\u0432\u043e \u0437\u0432\u0435\u0440\u043d\u0443\u0442\u0438\u0441\u044f \u0434\u043e \u0430\u043a\u0440\u0435\u0434\u0438\u0442\u043e\u0432\u0430\u043d\u0438\u0445 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0430\u0447\u0456\u0432 \u041a\u043e\u043d\u0441\u0443\u043b\u044c\u0441\u0442\u0432\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0438 \u0432 \u041c\u0456\u043b\u0430\u043d\u0456 (\u0443\u0441\u0456 \u0446\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0430\u0447\u0456 - \u043d\u0435 \u0432\u043e\u043b\u043e\u043d\u0442\u0435\u0440\u0438, \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434 \u0442\u0430 \u043b\u0435\u0433\u0430\u043b\u0456\u0437\u0430\u0446\u0456\u044f \u043d\u0435 \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u0456).\n\nBobrova Valeria 0267072856 +393475289068\nTimofeeva Nataliya 0220572652 +393386387227 +393348919727\nKyrychenko Inna 02822871788 +3937095416\nLasytsya Mariya +393886575286\nBujons Noguera Luliia +393452986077\nDumbrava Ina +393336589547\nKravchuk Nataliya 0236554085 +393394444383\nOrlovska Maryna +393284184945\nKravchuk Lyudmyla 025450720 +393661580045\nKondratyeva Darya 0294435239 +393802663593\nBiloshytska Oksana +393892932278\nCociu Veaceslav +393397992809\nKasakova Olga 0270104590 +39360688944\nMaksymyuk Orysya +393386115276\nLa rete Hope Ukraine (https://hopeukraine.it), creata in collaborazione con il Consolato Ucraino a Padova, offre anche assistenza per la traduzione e la legalizzazione dei documenti via Whatsapp al numero +39 348 21 05 910. \u0414\u043e\u043f\u043e\u043c\u043e\u0433\u0443 \u0437 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u043e\u043c \u0442\u0430 \u043b\u0435\u0433\u0430\u043b\u0438\u0437\u0430\u0446\u0456\u0454\u044e \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0456\u0432 \u0442\u0430\u043a\u043e\u0436 \u043f\u0440\u043e\u043f\u043e\u043d\u0443\u0454 \u043e\u0440\u0433\u0430\u043d\u0456\u0437\u0430\u0446\u0456\u044f\u00a0Hope Ukraine (https://hopeukraine.it/arrivo-in-italia/), \u0437\u0430 \u043f\u043e\u0441\u043b\u0443\u0433\u043e\u044e \u0437\u0432\u0435\u0440\u0442\u0430\u0442\u0438\u0441\u044f \u0443 Whatsapp \u0437\u0430 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043e\u043c\u00a0+39 348 21 05 910."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Consolato d'Ucraina di Milano"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Traduttori accreditati dal Consolato d'Ucraina di Milano: nomi e contatti"",""url"":""https://t.me/firststepinitaly/94""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: true
+  translation: true
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Consolato d'Ucraina di Milano
+title: 'Traduttori accreditati dal Consolato d''Ucraina di Milano: nomi e contatti'
+recipients: ''
+description: 'Se hai bisogno di una traduzione ufficiale di documenti, puoi rivolgerti
+  ai traduttori accreditati dal Consolato dell''Ucraina a Milano (tutti questi traduttori
+  non sono volontari, le traduzioni non sono gratuite).
+
+  Якщо вам потрібен офіційний переклад документів, можливо звернутися до акредитованих
+  перекладачів Консульства України в Мілані (усі ці перекладачі - не волонтери, переклад
+  та легалізація не безкоштовні).
+
+
+  Bobrova Valeria 0267072856 +393475289068
+
+  Timofeeva Nataliya 0220572652 +393386387227 +393348919727
+
+  Kyrychenko Inna 02822871788 +3937095416
+
+  Lasytsya Mariya +393886575286
+
+  Bujons Noguera Luliia +393452986077
+
+  Dumbrava Ina +393336589547
+
+  Kravchuk Nataliya 0236554085 +393394444383
+
+  Orlovska Maryna +393284184945
+
+  Kravchuk Lyudmyla 025450720 +393661580045
+
+  Kondratyeva Darya 0294435239 +393802663593
+
+  Biloshytska Oksana +393892932278
+
+  Cociu Veaceslav +393397992809
+
+  Kasakova Olga 0270104590 +39360688944
+
+  Maksymyuk Orysya +393386115276
+
+ La rete Hope Ukraine (https://hopeukraine.it), creata in collaborazione con il Consolato Ucraino a Padova, offre anche assistenza per la traduzione
+  e la legalizzazione dei documenti via Whatsapp al numero +39 348 21 05 910.
+  Допомогу з перекладом та легализацією документів також пропонує організація Hope
+  Ukraine (https://hopeukraine.it/arrivo-in-italia/), за послугою звертатися у Whatsapp
+  за телефоном +39 348 21 05 910.'
+url: https://t.me/firststepinitaly/94
+address:
+  mode: autocomplete
+  address:
+    place_id: 5652117
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 693845180
+    boundingbox:
+    - '45.4966553'
+    - '45.4967553'
+    - '9.1390852'
+    - '9.1391852'
+    lat: '45.4967053'
+    lon: '9.1391352'
+    display_name: Consolato Generale dell'Ucraina, 11, Via Ludovico di Breme, Villapizzone,
+      Municipio 8 di Milano, Milano, Lombardia, 20156, Italia
+    class: office
+    type: diplomatic
+    importance: 0.31100000000000005
+    address:
+      office: Consolato Generale dell'Ucraina
+      house_number: '11'
+      road: Via Ludovico di Breme
+      quarter: Villapizzone
+      borough: Municipio 8 di Milano
+      city: Milano
+      county: Milano
+      ISO3166-2-lvl6: IT-MI
+      state: Lombardia
+      postcode: '20156'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/555,1198612761,2022-04-11 18:15:50,2022-04-09 13:47:51,Consolato Ucraina a Padova - Contatti,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""city"":""Padova"",""country"":""Italia"",""country_code"":""it"",""county"":""Padova"",""road"":""Piazza Gaetano Salvemini"",""state"":""Veneto"",""suburb"":""Arcella""},""boundingbox"":[""45.4146117"",""45.415083"",""11.8830753"",""11.8837083""],""class"":""highway"",""display_name"":""Piazza Gaetano Salvemini, Arcella, Padova, Veneto, Italia"",""importance"":0.4,""lat"":""45.414875949999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.88340728888171"",""osm_id"":174909346,""osm_type"":""way"",""place_id"":143903909,""type"":""pedestrian""},""mode"":""autocomplete""},""aim"":""Visto Turistico Schengen\nVisto Affari Schengen\nVisto Visite Private Schengen\nVisto Lavoro Schengen\nVisto Studio Schengen\nFacebook https://www.facebook.com/consolatoucrainapadova/"",""email"":""segreteria@consolatoucraina.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 049 9801681 - +39 389 8745065 (per emergenze)"",""submit"":true,""title"":""Consolato ucraino a Padova - Contatti utili"",""url"":""https://www.consolatoucraina.it""}","<pre><yamldata>
 title: Consolato ucraino a Padova - Contatti utili
 phoneNumber: +39 049 9801681 - +39 389 8745065 (per emergenze)
@@ -86,43 +219,6 @@ address:
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: false
 label: useful contact
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/583,1199511149,2022-04-11 14:21:24,2022-04-11 07:24:30,"Prefettura di Vicenza, online informazioni operative per chi arriva dall'Ucraina e attiva email ",45.63485905,11.40635425660249,Veneto,Vicenza,"[""Valid/Accettato"",""Services"",""Legal"",""useful contact""]",,,"{""Posizione"":""45.63485905 11.40635425660249"",""description"":""La prefettura di Vicenza pubblica sul proprio sito le informazioni utili a chi arriva e a chi ospita cittadini Ucraini a Vicenza. \u00c8 disponibile un documento in italiano, inglese, ucraino e russo ed un indirizzo mail per richiesta di ulteriori informazioni."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""http://www.prefettura.it/vicenza/contenuti/Informazioni_operative-13354424.htm"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""country"":""Italy"",""country_code"":""it"",""county"":""Vicenza"",""state"":""Veneto""},""boundingbox"":[""45.2551958"",""46.0144637"",""11.1361942"",""11.8362709""],""class"":""boundary"",""display_name"":""Vicenza, Veneto, Italy"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7401616861442906,""lat"":""45.63485905"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.40635425660249"",""osm_id"":44580,""osm_type"":""relation"",""place_id"":283543636,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Informazioni operative per chi arriva dall'Ucraina a Vicenza""}","<pre><yamldata>
-title: Informazioni operative per chi arriva dall'Ucraina a Vicenza
-description: 'La prefettura di Vicenza pubblica sul proprio sito le informazioni utili a chi arriva
-  e a chi ospita cittadini Ucraini a Vicenza.
-È disponibile un documento in italiano, inglese, ucraino e russo ed un indirizzo
-  mail per richiesta di ulteriori informazioni.'
-link: http://www.prefettura.it/vicenza/contenuti/Informazioni_operative-13354424.htm
-location:
-  mode: autocomplete
-  address:
-    place_id: 283543636
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 44580
-    boundingbox:
-    - '45.2551958'
-    - '46.0144637'
-    - '11.1361942'
-    - '11.8362709'
-    lat: '45.63485905'
-    lon: '11.40635425660249'
-    display_name: Vicenza, Veneto, Italy
-    class: boundary
-    type: administrative
-    importance: 0.7401616861442906
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      county: Vicenza
-      state: Veneto
-      ISO3166-2-lvl4: IT-34
-      country: Italy
-      country_code: it
-label: document_data
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 45.63485905 11.40635425660249
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/235,1174232339,2022-04-11 09:06:09,2022-03-19 10:27:48,A Lucera (Foggia) cooperativa Matrix mette a disposizione 50 posti in una struttura ricettiva per accoglienza profughi ucraini,,,,,"[""Valid/Accettato"",""Missing position"",""Services"",""hospitality""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""La cooperativa sociale Consorzio Matrix http://www.consorziomatrix.it/it/ https://www.facebook.com/consorziomatrix operante nel terzo settore da oltre 20 anni, mette a disposizione per accogliere profughi ucraini 50 posti come alloggio in una struttura ricettiva in provincia di Foggia nel Comune di Lucera, l'Hotel Palace. Si precisa che la Cooperativa ha gi\u00e0 segnalato la struttura ricettiva alla Prefettura di Foggia partecipando al bando per la manifestazione di interessi per l'individuazione di strutture ricettive destinate all'accoglienza, limitato ad un numero massimo di 50 posti. La cooperativa mette a disposizione gli ulteriori 50 posti esclusi dalla manifestazione di interesse. La struttura sar\u00e0 disponibile a partire da aprile. Per ulteriori informazioni scrivere mail a segreteriamatrix2@gmail.com oppure chiamando al 0818011753; 3476494554 Martone Vincenzo; 3355823803 Caner Simone."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Cooperativa Sociale Consorzio Matrix"",""recipients"":""soggetti ucraini in fuga dalla guerra"",""submit"":true,""title"":""messa a disposizione di n 50 posti in struttura ricettiva nel comune di lucera (FG)"",""type"":""hospitality"",""url"":""http://www.consorziomatrix.it""}","<pre><yamldata>
 type: hospitality
