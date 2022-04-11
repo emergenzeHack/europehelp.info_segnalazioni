@@ -1,4 +1,139 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/458,1190636807,2022-04-11 07:56:52,2022-04-02 13:40:04,Comune di Verona organizza un corso gratuito di italiano per profughi ucraini,,,,,"[""Valid/Accettato"",""Services"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Verona"",""country"":""Italia"",""country_code"":""it"",""county"":""Verona"",""state"":""Veneto""},""boundingbox"":[""45.3494402"",""45.5418375"",""10.8768512"",""11.1239""],""class"":""boundary"",""display_name"":""Verona, Veneto, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7561573888828526,""lat"":""45.445596300000005"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.98133966814804"",""osm_id"":44830,""osm_type"":""relation"",""place_id"":284390209,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Comune di Verona organizza, insieme al Centro provinciale Istruzione Adulti, corso di italiano per gli ucraini ospitati a Verona: lezioni gratuite al fine di favorire l\u2019integrazione di coloro che sono scappati dalla guerra e hanno trovato accoglienza in citt\u00e0. La raccolta delle adesioni \u00e8 gi\u00e0 aperta, una ventina i posti a disposizione. Le lezioni avranno una durata di 100 ore e si terranno da met\u00e0 aprile a met\u00e0 giugno, la mattina dalle 9 alle 12.30, in zona Stadio. Le domande possono essere inviate entro luned\u00ec 11 aprile al Servizio Promozione Lavoro del Comune, inviando una mail a lavoro@comune.verona.it Ulteriori info al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Verona"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Corso di italiano per ucraini"",""url"":""https://redir.ownpage.fr/newsletter/09a3f59d5c724ed6/eyJzIjoiN2VjOTBjMDkiLCJhciI6IjYyNDgyZTAwYWEyY2Y0MDAwNzM1ZDA5OSIsInUiOiJkYTQ5MTk2ZWIxYzhkNzkyMTUxMDJhMWEyNTc1YjdiYiIsInVyIjoiaHR0cHM6Ly93d3cubGFyZW5hLml0L3RlcnJpdG9yaS9jaXR0YS9pbC1jb211bmUtYXZ2aWEtY29yc28tZ3JhdHVpdG8tZGktaXRhbGlhbm8tcGVyLWdsaS11Y3JhaW5pLWFwZXJ0ZS1sZS1pc2NyaXppb25pLTEuOTMyNTkwNj9fb3BlPWV5Sm5kV2xrSWpvaVpHRTBPVEU1Tm1WaU1XTTRaRGM1TWpFMU1UQXlZVEZoTWpVM05XSTNZbUlpZlElM0QlM0QiLCJnIjoiMTk0NjY5IiwicCI6IjIwIn0=""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: true
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Comune di Verona
+title: Corso di italiano per ucraini
+recipients: ''
+description: 'Il Comune di Verona organizza, insieme al Centro provinciale Istruzione Adulti, corso di italiano per gli ucraini ospitati a Verona: lezioni gratuite al fine di favorire l’integrazione di coloro che sono scappati dalla guerra e hanno trovato accoglienza in città. La raccolta delle adesioni è già aperta, una ventina i posti a disposizione. Le lezioni avranno una durata di 100 ore e si terranno da metà aprile a metà giugno, la mattina dalle 9 alle 12.30, in zona Stadio. Le domande possono essere inviate entro lunedì 11 aprile al Servizio Promozione Lavoro del Comune, inviando una mail a lavoro@comune.verona.it 
+Ulteriori info al link.'
+url: https://redir.ownpage.fr/newsletter/09a3f59d5c724ed6/eyJzIjoiN2VjOTBjMDkiLCJhciI6IjYyNDgyZTAwYWEyY2Y0MDAwNzM1ZDA5OSIsInUiOiJkYTQ5MTk2ZWIxYzhkNzkyMTUxMDJhMWEyNTc1YjdiYiIsInVyIjoiaHR0cHM6Ly93d3cubGFyZW5hLml0L3RlcnJpdG9yaS9jaXR0YS9pbC1jb211bmUtYXZ2aWEtY29yc28tZ3JhdHVpdG8tZGktaXRhbGlhbm8tcGVyLWdsaS11Y3JhaW5pLWFwZXJ0ZS1sZS1pc2NyaXppb25pLTEuOTMyNTkwNj9fb3BlPWV5Sm5kV2xrSWpvaVpHRTBPVEU1Tm1WaU1XTTRaRGM1TWpFMU1UQXlZVEZoTWpVM05XSTNZbUlpZlElM0QlM0QiLCJnIjoiMTk0NjY5IiwicCI6IjIwIn0=
+address:
+  mode: autocomplete
+  address:
+    place_id: 284390209
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 44830
+    boundingbox:
+    - '45.3494402'
+    - '45.5418375'
+    - '10.8768512'
+    - '11.1239'
+    lat: '45.445596300000005'
+    lon: '10.98133966814804'
+    display_name: Verona, Veneto, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7561573888828526
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Verona
+      county: Verona
+      state: Veneto
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/526,1195924713,2022-04-11 07:55:44,2022-04-07 11:42:15,"Anffas Policoro (Matera) offre accoglienza a profughi ucraini, in particolare mamma con figli piccoli",,,,,"[""Valid/Accettato"",""Services"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Matera"",""postcode"":""75025"",""state"":""Basilicata"",""town"":""Policoro""},""boundingbox"":[""40.1477108"",""40.2415164"",""16.5988407"",""16.7377469""],""class"":""boundary"",""display_name"":""Policoro, Matera, Basilicata, 75025, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5405418663778667,""lat"":""40.2104595"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.6763759"",""osm_id"":40340,""osm_type"":""relation"",""place_id"":284356693,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Disponibilit\u00e0 ad accogliere una mamma con figli in un piccolo appartamento. Info: anffas.policoro@gmail.com\nGiuseppe Tataranno."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""ANFFAS \u2013 POLICORO"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Accoglienza profughi"",""url"":""https://www.forumterzosettore.it/2022/03/25/emergenza-ucraina-accoglienza-in-italia/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: ANFFAS – POLICORO
+title: Accoglienza profughi
+recipients: ''
+description: ""Disponibilità ad accogliere una mamma con figli in un piccolo appartamento. Info: anffas.policoro@gmail.com\nGiuseppe Tataranno.""
+url: https://www.forumterzosettore.it/2022/03/25/emergenza-ucraina-accoglienza-in-italia/
+address:
+  mode: autocomplete
+  address:
+    place_id: 284356693
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 40340
+    boundingbox:
+    - '40.1477108'
+    - '40.2415164'
+    - '16.5988407'
+    - '16.7377469'
+    lat: '40.2104595'
+    lon: '16.6763759'
+    display_name: Policoro, Matera, Basilicata, 75025, Italia
+    class: boundary
+    type: administrative
+    importance: 0.5405418663778667
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      town: Policoro
+      county: Matera
+      state: Basilicata
+      postcode: '75025'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/575,1198776639,2022-04-11 07:54:56,2022-04-09 21:28:30,Chiesa Cattolica Ucraina di rito bizantino a Pavia - Contatti,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""city"":""Pavia"",""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""postcode"":""27100"",""road"":""Via Bernardino da Feltre"",""state"":""Lombardia"",""suburb"":""Ticinello""},""boundingbox"":[""45.1863019"",""45.1868801"",""9.1482184"",""9.1484277""],""class"":""highway"",""display_name"":""Via Bernardino da Feltre, Ticinello, Pavia, Lombardia, 27100, Italia"",""importance"":0.72,""lat"":""45.1863019"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1482184"",""osm_id"":22973393,""osm_type"":""way"",""place_id"":106430026,""type"":""residential""},""mode"":""autocomplete""},""aim"":""Facebook https://www.facebook.com/UcrainiPavia/ Gruppo Whatsapp https://chat.whatsapp.com/CTYqGb4DNPM59j0UY4ZwQk?fbclid=IwAR2WE2H1ISf3jDHt1ODzfxHfQ9wnLEHhaJ4VFgvnjJSC4OJlTli6p3D7BIM"",""email"":""ucraini.pavia@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Chiesa Cattolica Ucraina di rito Bizantino a Pavia - Contatti"",""url"":""https://www.ucrainipavia.it""}","<pre><yamldata>
+title: Chiesa Cattolica Ucraina di rito Bizantino a Pavia - Contatti
+phoneNumber: ''
+email: ucraini.pavia@gmail.com
+aim: Facebook https://www.facebook.com/UcrainiPavia/ Gruppo Whatsapp https://chat.whatsapp.com/CTYqGb4DNPM59j0UY4ZwQk?fbclid=IwAR2WE2H1ISf3jDHt1ODzfxHfQ9wnLEHhaJ4VFgvnjJSC4OJlTli6p3D7BIM
+url: https://www.ucrainipavia.it
+address:
+  mode: autocomplete
+  address:
+    place_id: 106430026
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 22973393
+    boundingbox:
+    - '45.1863019'
+    - '45.1868801'
+    - '9.1482184'
+    - '9.1484277'
+    lat: '45.1863019'
+    lon: '9.1482184'
+    display_name: Via Bernardino da Feltre, Ticinello, Pavia, Lombardia, 27100, Italia
+    class: highway
+    type: residential
+    importance: 0.72
+    address:
+      road: Via Bernardino da Feltre
+      suburb: Ticinello
+      city: Pavia
+      county: Pavia
+      state: Lombardia
+      postcode: '27100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/540,1197824343,2022-04-11 06:51:08,2022-04-08 21:00:15,A Palermo corso gratuito di italiano per rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-82"",""ISO3166-2-lvl6"":""IT-PA"",""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""postcode"":""90141"",""road"":""Via Marchese Ugo"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1299555"",""38.1336658"",""13.3496116"",""13.3514253""],""class"":""highway"",""display_name"":""Via Marchese Ugo, VIII Circoscrizione, Palermo, Sicilia, 90141, Italia"",""importance"":0.51,""lat"":""38.1315691"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3504181"",""osm_id"":86265407,""osm_type"":""way"",""place_id"":119906789,""type"":""residential""},""mode"":""autocomplete""},""description"":""La prossima settimana, mercoled\u00ec 13-04-2022, alle ore 10:00, si svolger\u00e0 la prima lezione presso la scuola Dante Alighieri in via Marchese Ugo, 60 (accanto al Comitato Salva Ucraini).\nRequisiti degli studenti:\n\u27a1\ufe0fSolo per rifugiati dall'Ucraina\n\u27a1\ufe0f maggiori di 18 anni iscritti alla Questura o alla Prefettura;\n\u27a1\ufe0f certificato di vaccinazione o test effettuato entro e non oltre 72 ore.\n\nInfo: salva.ucraini.palermo@gmail.com e gruppo Telegram https://t.me/linguaitalianaperprofughi\n\n\u041d\u0430 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0439 \u043d\u0435\u0434\u0435\u043b\u0435 \u0432 \u0441\u0440\u0435\u0434\u0443 13-04-2022, \u0432 10:00 \u0443\u0442\u0440\u0430 \u0441\u043e\u0441\u0442\u043e\u0438\u0442\u0441\u044f \u043f\u0435\u0440\u0432\u043e\u0435 \u0437\u0430\u043d\u044f\u0442\u0438\u0435 \u0432 \u0448\u043a\u043e\u043b\u0435 \u0414\u0430\u043d\u0442\u0435 \u0410\u043b\u0435\u0433\u044c\u0435\u0440\u0438 \u043f\u043e \u0430\u0434\u0440\u0435\u0441\u0443 via Marchese Ugo, 60 (\u0440\u044f\u0434\u043e\u043c \u0441 \u0446\u0435\u043d\u0442\u0440\u043e\u043c \u00abSalva Ucraini\u00bb).\n\u0422\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u044f \u043a \u0443\u0447\u0430\u0449\u0438\u043c\u0441\u044f:\n\u27a1\ufe0f\u0422\u043e\u043b\u044c\u043a\u043e \u0434\u043b\u044f \u0431\u0435\u0436\u0435\u043d\u0446\u0435\u0432 \u0438\u0437 \u0423\u043a\u0440\u0430\u0438\u043d\u044b \n\u27a1\ufe0f \u0441\u0442\u0430\u0440\u0448\u0435 18 \u043b\u0435\u0442, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0432\u0441\u0442\u0430\u043b\u0438 \u043d\u0430 \u0443\u0447\u0451\u0442 \u0432 \u043a\u0432\u0435\u0441\u0442\u0443\u0440\u0435 \u0438\u043b\u0438 \u043f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0435; \n\u27a1\ufe0f \u0441\u043f\u0440\u0430\u0432\u043a\u0430 \u043e \u043f\u0440\u0438\u0432\u0438\u0432\u043a\u0435 \u0438\u043b\u0438 \u0442\u0435\u0441\u0442 \u0441\u0434\u0435\u043b\u0430\u043d\u043d\u044b\u0439 \u043d\u0435 \u043f\u043e\u0437\u0434\u043d\u0435\u0435 72 \u0447\u0430\u0441\u043e\u0432."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comitato Salva Ucraini Palermo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Palermo corso gratuito di italiano per rifugiati ucraini"",""url"":""https://t.me/ucraini_a_palermo/122""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
