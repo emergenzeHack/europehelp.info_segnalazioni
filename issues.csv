@@ -1,4 +1,66 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/305,1178515936,2022-04-12 21:45:28,2022-03-23 18:38:48,"Napoli, punti di raccolta beni e corsi di italiano per rifugiati ucraini a Forcella",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Santa Maria della Pace"",""city"":""Napoli"",""country"":""Italia"",""country_code"":""it"",""county"":""Napoli"",""postcode"":""80139"",""road"":""Via dei Tribunali"",""state"":""Campania"",""suburb"":""San Lorenzo""},""boundingbox"":[""40.8520942"",""40.8525011"",""14.2617887"",""14.2621931""],""class"":""amenity"",""display_name"":""Santa Maria della Pace, Via dei Tribunali, San Lorenzo, Municipalit\u00e0 4, Napoli, Campania, 80139, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//place_of_worship_unknown3.p.20.png"",""importance"":0.8607105064618923,""lat"":""40.852331500000005"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.26197419863412"",""osm_id"":183749378,""osm_type"":""way"",""place_id"":145636181,""type"":""place_of_worship""},""mode"":""autocomplete""},""description"":""Ecco dove a Forcella (Napoli) si raccolgono beni umanitari per l\u2019emergenza Ucraina e si offrono servizi di supporto ai profughi ucraini:\n\n- Gli studenti dell\u2019Istituto Comprensivo Adelaide Ristori (via L. D\u2019Alagno 16) stanno raccogliendo, insieme alle loro famiglie, aiuti per i profughi. Dopo averli raccolti all\u2019interno dell\u2019Istituto verranno consegnati ai centri di smistamento per raggiungere le popolazioni colpite dalla guerra. Gli studenti stanno anche preparando dei messaggi di solidariet\u00e0 per accogliere i bambini rifugiati.\n\n- Nella Chiesa di Santa Maria del Rifugio (via dei Tribunali 188), utilizzata dall\u2019Associazione Samb e Diop per l\u2019integrazione dei migranti, si fornisce assistenza e vestiario per i profughi provenienti dai paesi in guerra e si organizzano corsi di lingua italiana.\n\n- Nella Chiesa di Santa Maria della Pace (via dei Tribunali 181), affidata alla comunit\u00e0 ucraina di rito bizantino, ogni marted\u00ec e sabato dalle ore 9 alle ore 16 vengono raccolti alimenti a lunga conservazione, medicinali di prima necessit\u00e0, pannolini per bambini e prodotti per l\u2019igiene da spedire in Ucraina."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazioni di Forcella (Na)"",""recipients"":"""",""submit"":true,""title"":""Napoli, punti di raccolta beni e corsi di italiano per rifugiati ucraini a Forcella"",""type"":""materialGoods"",""url"":""http://www.napolicittasolidale.it/portal/news/11135-attivit%C3%A0-di-accoglienza-e-supporto-della-comunit%C3%A0-di-forcella-per-la-pace.html""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: Associazioni di Forcella (Na)
+title: Napoli, punti di raccolta beni e corsi di italiano per rifugiati ucraini a
+  Forcella
+recipients: ''
+description: 'Ecco dove a Forcella (Napoli) si raccolgono beni umanitari per l’emergenza
+  Ucraina e si offrono servizi di supporto ai profughi ucraini:
+
+
+  - Gli studenti dell’Istituto Comprensivo Adelaide Ristori (via L. D’Alagno 16) stanno
+  raccogliendo, insieme alle loro famiglie, aiuti per i profughi. Dopo averli raccolti
+  all’interno dell’Istituto verranno consegnati ai centri di smistamento per raggiungere
+  le popolazioni colpite dalla guerra. Gli studenti stanno anche preparando dei messaggi
+  di solidarietà per accogliere i bambini rifugiati.
+
+
+  - Nella Chiesa di Santa Maria del Rifugio (via dei Tribunali 188), utilizzata dall’Associazione
+  Samb e Diop per l’integrazione dei migranti, si fornisce assistenza e vestiario
+  per i profughi provenienti dai paesi in guerra e si organizzano corsi di lingua
+  italiana.
+
+
+  - Nella Chiesa di Santa Maria della Pace (via dei Tribunali 181), affidata alla
+  comunità ucraina di rito bizantino, ogni martedì e sabato dalle ore 9 alle ore 16
+  vengono raccolti alimenti a lunga conservazione, medicinali di prima necessità,
+  pannolini per bambini e prodotti per l’igiene da spedire in Ucraina.'
+url: http://www.napolicittasolidale.it/portal/news/11135-attivit%C3%A0-di-accoglienza-e-supporto-della-comunit%C3%A0-di-forcella-per-la-pace.html
+address:
+  mode: autocomplete
+  address:
+    place_id: 145636181
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 183749378
+    boundingbox:
+    - '40.8520942'
+    - '40.8525011'
+    - '14.2617887'
+    - '14.2621931'
+    lat: '40.852331500000005'
+    lon: '14.26197419863412'
+    display_name: Santa Maria della Pace, Via dei Tribunali, San Lorenzo, Municipalità
+      4, Napoli, Campania, 80139, Italia
+    class: amenity
+    type: place_of_worship
+    importance: 0.8607105064618923
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//place_of_worship_unknown3.p.20.png
+    address:
+      amenity: Santa Maria della Pace
+      road: Via dei Tribunali
+      suburb: San Lorenzo
+      city: Napoli
+      county: Napoli
+      state: Campania
+      postcode: '80139'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/599,1202402450,2022-04-12 21:40:26,2022-04-12 21:21:21,"A Prato e provincia, presso vari circoli Arci, raccolta di beni alimentari e biancheria per emergenza Ucraina ",,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]","Milestone(title=""16 aprile"", number=3)",,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""city"":""Prato"",""country"":""Italia"",""country_code"":""it"",""county"":""Prato"",""postcode"":""59016"",""road"":""Via Roma"",""state"":""Toscana"",""suburb"":""Fontanelle""},""boundingbox"":[""43.84753"",""43.8476698"",""11.0747686"",""11.074994""],""class"":""highway"",""display_name"":""Via Roma, Fontanelle, Prato, Toscana, 59016, Italia"",""importance"":0.41000000000000003,""lat"":""43.8475568"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.0748914"",""osm_id"":175300490,""osm_type"":""way"",""place_id"":144268250,""type"":""secondary""},""mode"":""autocomplete""},""description"":""Nei circoli Arci di Cafaggio, Paperino, Poggio a Caiano, Carmignano, Galciana, Maliseti, Viaccia, Vaiano, Figline, La Macine, Mezzana e presso il Circolo Orsetti \u2013 Spazio AUT nel centro storico, \u00e8 attiva fino al 15 aprile una raccolta di beni di prima necessit\u00e0 per la popolazione ucraina. Sono richiesti: cibo in scatola e/o a lunga conservazione (pasta, riso, latte, pane in sacchetto, dryfood, acqua ecc.), biancheria intima nuova per ragazze e ragazzi tra i 5 e i 20 anni."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Arci Prato"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Prato e provincia, presso vari circoli Arci, raccolta di beni alimentari, cibo e biancheria per emergenza Ucraina"",""url"":""https://www.arciprato.it/2022/04/08/raccolta-generi-di-prima-necessita-per-lucraina/""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
@@ -1501,55 +1563,6 @@ address:
       country_code: ua
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: useful contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/458,1190636807,2022-04-11 07:56:52,2022-04-02 13:40:04,Comune di Verona organizza un corso gratuito di italiano per profughi ucraini,,,,,"[""Valid/Accettato"",""Services"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Verona"",""country"":""Italia"",""country_code"":""it"",""county"":""Verona"",""state"":""Veneto""},""boundingbox"":[""45.3494402"",""45.5418375"",""10.8768512"",""11.1239""],""class"":""boundary"",""display_name"":""Verona, Veneto, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7561573888828526,""lat"":""45.445596300000005"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.98133966814804"",""osm_id"":44830,""osm_type"":""relation"",""place_id"":284390209,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Comune di Verona organizza, insieme al Centro provinciale Istruzione Adulti, corso di italiano per gli ucraini ospitati a Verona: lezioni gratuite al fine di favorire l\u2019integrazione di coloro che sono scappati dalla guerra e hanno trovato accoglienza in citt\u00e0. La raccolta delle adesioni \u00e8 gi\u00e0 aperta, una ventina i posti a disposizione. Le lezioni avranno una durata di 100 ore e si terranno da met\u00e0 aprile a met\u00e0 giugno, la mattina dalle 9 alle 12.30, in zona Stadio. Le domande possono essere inviate entro luned\u00ec 11 aprile al Servizio Promozione Lavoro del Comune, inviando una mail a lavoro@comune.verona.it Ulteriori info al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Verona"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Corso di italiano per ucraini"",""url"":""https://redir.ownpage.fr/newsletter/09a3f59d5c724ed6/eyJzIjoiN2VjOTBjMDkiLCJhciI6IjYyNDgyZTAwYWEyY2Y0MDAwNzM1ZDA5OSIsInUiOiJkYTQ5MTk2ZWIxYzhkNzkyMTUxMDJhMWEyNTc1YjdiYiIsInVyIjoiaHR0cHM6Ly93d3cubGFyZW5hLml0L3RlcnJpdG9yaS9jaXR0YS9pbC1jb211bmUtYXZ2aWEtY29yc28tZ3JhdHVpdG8tZGktaXRhbGlhbm8tcGVyLWdsaS11Y3JhaW5pLWFwZXJ0ZS1sZS1pc2NyaXppb25pLTEuOTMyNTkwNj9fb3BlPWV5Sm5kV2xrSWpvaVpHRTBPVEU1Tm1WaU1XTTRaRGM1TWpFMU1UQXlZVEZoTWpVM05XSTNZbUlpZlElM0QlM0QiLCJnIjoiMTk0NjY5IiwicCI6IjIwIn0=""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: true
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Comune di Verona
-title: Corso di italiano per ucraini
-recipients: ''
-description: 'Il Comune di Verona organizza, insieme al Centro provinciale Istruzione Adulti, corso di italiano per gli ucraini ospitati a Verona: lezioni gratuite al fine di favorire l’integrazione di coloro che sono scappati dalla guerra e hanno trovato accoglienza in città. La raccolta delle adesioni è già aperta, una ventina i posti a disposizione. Le lezioni avranno una durata di 100 ore e si terranno da metà aprile a metà giugno, la mattina dalle 9 alle 12.30, in zona Stadio. Le domande possono essere inviate entro lunedì 11 aprile al Servizio Promozione Lavoro del Comune, inviando una mail a lavoro@comune.verona.it 
-Ulteriori info al link.'
-url: https://redir.ownpage.fr/newsletter/09a3f59d5c724ed6/eyJzIjoiN2VjOTBjMDkiLCJhciI6IjYyNDgyZTAwYWEyY2Y0MDAwNzM1ZDA5OSIsInUiOiJkYTQ5MTk2ZWIxYzhkNzkyMTUxMDJhMWEyNTc1YjdiYiIsInVyIjoiaHR0cHM6Ly93d3cubGFyZW5hLml0L3RlcnJpdG9yaS9jaXR0YS9pbC1jb211bmUtYXZ2aWEtY29yc28tZ3JhdHVpdG8tZGktaXRhbGlhbm8tcGVyLWdsaS11Y3JhaW5pLWFwZXJ0ZS1sZS1pc2NyaXppb25pLTEuOTMyNTkwNj9fb3BlPWV5Sm5kV2xrSWpvaVpHRTBPVEU1Tm1WaU1XTTRaRGM1TWpFMU1UQXlZVEZoTWpVM05XSTNZbUlpZlElM0QlM0QiLCJnIjoiMTk0NjY5IiwicCI6IjIwIn0=
-address:
-  mode: autocomplete
-  address:
-    place_id: 284390209
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 44830
-    boundingbox:
-    - '45.3494402'
-    - '45.5418375'
-    - '10.8768512'
-    - '11.1239'
-    lat: '45.445596300000005'
-    lon: '10.98133966814804'
-    display_name: Verona, Veneto, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7561573888828526
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Verona
-      county: Verona
-      state: Veneto
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/526,1195924713,2022-04-11 07:55:44,2022-04-07 11:42:15,"Anffas Policoro (Matera) offre accoglienza a profughi ucraini, in particolare mamma con figli piccoli",,,,,"[""Valid/Accettato"",""Services"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Matera"",""postcode"":""75025"",""state"":""Basilicata"",""town"":""Policoro""},""boundingbox"":[""40.1477108"",""40.2415164"",""16.5988407"",""16.7377469""],""class"":""boundary"",""display_name"":""Policoro, Matera, Basilicata, 75025, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5405418663778667,""lat"":""40.2104595"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.6763759"",""osm_id"":40340,""osm_type"":""relation"",""place_id"":284356693,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Disponibilit\u00e0 ad accogliere una mamma con figli in un piccolo appartamento. Info: anffas.policoro@gmail.com\nGiuseppe Tataranno."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""ANFFAS \u2013 POLICORO"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Accoglienza profughi"",""url"":""https://www.forumterzosettore.it/2022/03/25/emergenza-ucraina-accoglienza-in-italia/""}","<pre><yamldata>
@@ -10714,68 +10727,6 @@ address:
       county: Padova
       state: Veneto
       postcode: '35100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/305,1178515936,2022-03-28 15:50:33,2022-03-23 18:38:48,"#Napoli, punti di raccolta beni e corsi di italiano per rifugiati ucraini a Forcella",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Santa Maria della Pace"",""city"":""Napoli"",""country"":""Italia"",""country_code"":""it"",""county"":""Napoli"",""postcode"":""80139"",""road"":""Via dei Tribunali"",""state"":""Campania"",""suburb"":""San Lorenzo""},""boundingbox"":[""40.8520942"",""40.8525011"",""14.2617887"",""14.2621931""],""class"":""amenity"",""display_name"":""Santa Maria della Pace, Via dei Tribunali, San Lorenzo, Municipalit\u00e0 4, Napoli, Campania, 80139, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//place_of_worship_unknown3.p.20.png"",""importance"":0.8607105064618923,""lat"":""40.852331500000005"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.26197419863412"",""osm_id"":183749378,""osm_type"":""way"",""place_id"":145636181,""type"":""place_of_worship""},""mode"":""autocomplete""},""description"":""Ecco dove a Forcella (Napoli) si raccolgono beni umanitari per l\u2019emergenza Ucraina e si offrono servizi di supporto ai profughi ucraini:\n\n- Gli studenti dell\u2019Istituto Comprensivo Adelaide Ristori (via L. D\u2019Alagno 16) stanno raccogliendo, insieme alle loro famiglie, aiuti per i profughi. Dopo averli raccolti all\u2019interno dell\u2019Istituto verranno consegnati ai centri di smistamento per raggiungere le popolazioni colpite dalla guerra. Gli studenti stanno anche preparando dei messaggi di solidariet\u00e0 per accogliere i bambini rifugiati.\n\n- Nella Chiesa di Santa Maria del Rifugio (via dei Tribunali 188), utilizzata dall\u2019Associazione Samb e Diop per l\u2019integrazione dei migranti, si fornisce assistenza e vestiario per i profughi provenienti dai paesi in guerra e si organizzano corsi di lingua italiana.\n\n- Nella Chiesa di Santa Maria della Pace (via dei Tribunali 181), affidata alla comunit\u00e0 ucraina di rito bizantino, ogni marted\u00ec e sabato dalle ore 9 alle ore 16 vengono raccolti alimenti a lunga conservazione, medicinali di prima necessit\u00e0, pannolini per bambini e prodotti per l\u2019igiene da spedire in Ucraina."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazioni di Forcella (Na)"",""recipients"":"""",""submit"":true,""title"":""Napoli, punti di raccolta beni e corsi di italiano per rifugiati ucraini a Forcella"",""type"":""materialGoods"",""url"":""http://www.napolicittasolidale.it/portal/news/11135-attivit%C3%A0-di-accoglienza-e-supporto-della-comunit%C3%A0-di-forcella-per-la-pace.html""}","<pre><yamldata>
-type: materialGoods
-offerFromWho: Associazioni di Forcella (Na)
-title: Napoli, punti di raccolta beni e corsi di italiano per rifugiati ucraini a
-  Forcella
-recipients: ''
-description: 'Ecco dove a Forcella (Napoli) si raccolgono beni umanitari per l’emergenza
-  Ucraina e si offrono servizi di supporto ai profughi ucraini:
-
-
-  - Gli studenti dell’Istituto Comprensivo Adelaide Ristori (via L. D’Alagno 16) stanno
-  raccogliendo, insieme alle loro famiglie, aiuti per i profughi. Dopo averli raccolti
-  all’interno dell’Istituto verranno consegnati ai centri di smistamento per raggiungere
-  le popolazioni colpite dalla guerra. Gli studenti stanno anche preparando dei messaggi
-  di solidarietà per accogliere i bambini rifugiati.
-
-
-  - Nella Chiesa di Santa Maria del Rifugio (via dei Tribunali 188), utilizzata dall’Associazione
-  Samb e Diop per l’integrazione dei migranti, si fornisce assistenza e vestiario
-  per i profughi provenienti dai paesi in guerra e si organizzano corsi di lingua
-  italiana.
-
-
-  - Nella Chiesa di Santa Maria della Pace (via dei Tribunali 181), affidata alla
-  comunità ucraina di rito bizantino, ogni martedì e sabato dalle ore 9 alle ore 16
-  vengono raccolti alimenti a lunga conservazione, medicinali di prima necessità,
-  pannolini per bambini e prodotti per l’igiene da spedire in Ucraina.'
-url: http://www.napolicittasolidale.it/portal/news/11135-attivit%C3%A0-di-accoglienza-e-supporto-della-comunit%C3%A0-di-forcella-per-la-pace.html
-address:
-  mode: autocomplete
-  address:
-    place_id: 145636181
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 183749378
-    boundingbox:
-    - '40.8520942'
-    - '40.8525011'
-    - '14.2617887'
-    - '14.2621931'
-    lat: '40.852331500000005'
-    lon: '14.26197419863412'
-    display_name: Santa Maria della Pace, Via dei Tribunali, San Lorenzo, Municipalità
-      4, Napoli, Campania, 80139, Italia
-    class: amenity
-    type: place_of_worship
-    importance: 0.8607105064618923
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//place_of_worship_unknown3.p.20.png
-    address:
-      amenity: Santa Maria della Pace
-      road: Via dei Tribunali
-      suburb: San Lorenzo
-      city: Napoli
-      county: Napoli
-      state: Campania
-      postcode: '80139'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
