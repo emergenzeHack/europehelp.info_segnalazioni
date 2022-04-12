@@ -1,142 +1,39 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/587,1200499232,2022-04-11 21:05:29,2022-04-11 20:30:11,L'organizzazione Nova Ukraine offre voucher gratuiti ai rifugiati ucraini per alloggi di emergenza su Airbnb,,,,,"[""Valid/Accettato"",""Services"",""hospitality""]",,,"{""address"":{""address"":{""address"":{},""mode"":""autocomplete""},""mode"":""autocomplete""},""description"":""Grazie ad un accordo tra l'organizzazione Nova Ukraine e Airbnb i rifugiati ucraini possono ottenere un voucher per prenotare gratuitamente un alloggio di emergenza.\nTutte le info al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Nova Ukraine - Airbnb"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""L'organizzazione Nova Ukraine offre voucher gratuiti ai rifugiati ucraini per alloggi di emergenza su Airbnb"",""url"":""https://novaukraine.org/airbnb/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: true
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Nova Ukraine - Airbnb
-title: L'organizzazione Nova Ukraine offre voucher gratuiti ai rifugiati ucraini per
-  alloggi di emergenza su Airbnb
-recipients: ''
-description: 'Grazie ad un accordo tra l''organizzazione Nova Ukraine e Airbnb i rifugiati
-  ucraini possono ottenere un voucher per prenotare gratuitamente un alloggio di emergenza.
-
-  Tutte le info al link.'
-url: https://novaukraine.org/airbnb/
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/574,1198774920,2022-04-12 07:51:33,2022-04-09 21:21:12,Associazione donne ucraine “Djerlo” Pavia - Contatti,,,,,"[""Valid/Accettato"",""useful contact"",""women"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""state"":""Lombardia""},""boundingbox"":[""44.6799091"",""45.393838"",""8.4978518"",""9.5505475""],""class"":""boundary"",""display_name"":""Pavia, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7422019961097704,""lat"":""45.036854649999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.137825082826026"",""osm_id"":43483,""osm_type"":""relation"",""place_id"":283772748,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Presidente dell\u2019Associazione \u00e8 Dina Petelko."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""388 951 4717 (Presidente)"",""submit"":true,""title"":""Associazione donne ucraine \u201cDjerlo\u201d Pavia"",""url"":""https://www.csvlombardia.it/senza-categoria/post/ucraina-per-chi-cerca-aiuto-in-provincia-di-pavia-gruppi-ucraini/#1648563582350-83e955e6-08ff""}","<pre><yamldata>
+title: Associazione donne ucraine “Djerlo” Pavia
+phoneNumber: 388 951 4717 (Presidente)
+email: ''
+aim: Presidente dell’Associazione è Dina Petelko.
+url: https://www.csvlombardia.it/senza-categoria/post/ucraina-per-chi-cerca-aiuto-in-provincia-di-pavia-gruppi-ucraini/#1648563582350-83e955e6-08ff
 address:
   mode: autocomplete
   address:
-    mode: autocomplete
-    address: {}
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/588,1200517326,2022-04-11 21:04:58,2022-04-11 20:48:35,"Associazione ucraina ""I nuovi confini"" Catania/Palermo: info e contatti",,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-82"",""city"":""Catania"",""country"":""Italia"",""country_code"":""it"",""county"":""Catania"",""house_number"":""4"",""neighbourhood"":""Monserrato"",""postcode"":""95027"",""road"":""Via Giaconia"",""state"":""Sicilia"",""suburb"":""Borgo-Sanzio""},""boundingbox"":[""37.5122661"",""37.5123661"",""15.0916607"",""15.0917607""],""class"":""place"",""display_name"":""4, Via Giaconia, Monserrato, Borgo-Sanzio, Catania, Sicilia, 95027, Italia"",""importance"":0.411,""lat"":""37.5123161"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.0917107"",""osm_id"":9002501125,""osm_type"":""node"",""place_id"":92917318,""type"":""house""},""mode"":""autocomplete""},""aim"":""L'associazione, con sede a Catania e Palermo, offre:\n- Assistenza stranieri e minori \n- Consulenza legale \n- Mediazione linguistica\n- Traduzioni e legalizzazione dei documenti in Italia/Ucraina\n- Progetti di accoglienza dei minori stranieri in Italia\n\nContatti:\nSEDE DI CATANIA, via Giaconia 4\nTel: +39 3497676128, +39 3881647936 - Dynnichenko Yuliya; e-mail: yuliya_dynnichenko@yahoo.com\nSEDE DI PALERMO, via Marco Polo, 30\nTel. +39 3248773734 - Viktoriya Prokopovych; e-mail:  vikasicil@libero.it"",""email"":""yuliya_dynnichenko@yahoo.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 3497676128, +39 3881647936, +39 3248773734-"",""submit"":true,""title"":""Associazione ucraina \""I nuovi confini\"" Catania/Palermo: info e contatti"",""url"":""https://m.facebook.com/inuoviconfini/""}","<pre><yamldata>
-title: 'Associazione ucraina ""I nuovi confini"" Catania/Palermo: info e contatti'
-phoneNumber: +39 3497676128, +39 3881647936, +39 3248773734-
-email: yuliya_dynnichenko@yahoo.com
-aim: ""L'associazione, con sede a Catania e Palermo, offre:\n- Assistenza stranieri\
-  \ e minori \n- Consulenza legale \n- Mediazione linguistica\n- Traduzioni e legalizzazione\
-  \ dei documenti in Italia/Ucraina\n- Progetti di accoglienza dei minori stranieri\
-  \ in Italia\n\nContatti:\nSEDE DI CATANIA, via Giaconia 4\nTel: +39 3497676128,\
-  \ +39 3881647936 - Dynnichenko Yuliya; e-mail: yuliya_dynnichenko@yahoo.com\nSEDE\
-  \ DI PALERMO, via Marco Polo, 30\nTel. +39 3248773734 - Viktoriya Prokopovych; e-mail:\
-  \  vikasicil@libero.it""
-url: https://m.facebook.com/inuoviconfini/
-address:
-  mode: autocomplete
-  address:
-    place_id: 92917318
+    place_id: 283772748
     licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 9002501125
+    osm_type: relation
+    osm_id: 43483
     boundingbox:
-    - '37.5122661'
-    - '37.5123661'
-    - '15.0916607'
-    - '15.0917607'
-    lat: '37.5123161'
-    lon: '15.0917107'
-    display_name: 4, Via Giaconia, Monserrato, Borgo-Sanzio, Catania, Sicilia, 95027,
-      Italia
-    class: place
-    type: house
-    importance: 0.411
+    - '44.6799091'
+    - '45.393838'
+    - '8.4978518'
+    - '9.5505475'
+    lat: '45.036854649999995'
+    lon: '9.137825082826026'
+    display_name: Pavia, Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7422019961097704
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
     address:
-      house_number: '4'
-      road: Via Giaconia
-      neighbourhood: Monserrato
-      suburb: Borgo-Sanzio
-      city: Catania
-      county: Catania
-      state: Sicilia
-      ISO3166-2-lvl4: IT-82
-      postcode: '95027'
+      county: Pavia
+      state: Lombardia
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: useful contact
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/589,1200527693,2022-04-11 21:04:34,2022-04-11 21:01:03,"Comune di Padova, su Padovanet tutte le info e i contatti su accoglienza e supporto dei profughi ucraini e per offrire aiuto",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""hospitality"",""healthcare"",""psychologicalSupport"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""amenity"":""Comune di Padova"",""city"":""Padova"",""country"":""Italia"",""country_code"":""it"",""county"":""Padova"",""hamlet"":""Isola San Giacomo"",""postcode"":""35100"",""road"":""Via Fr\u00e0 Giovanni Eremitano"",""state"":""Veneto""},""boundingbox"":[""45.4169628"",""45.4173737"",""11.8758678"",""11.8767963""],""class"":""amenity"",""display_name"":""Comune di Padova, Via Fr\u00e0 Giovanni Eremitano, Isola San Giacomo, Padova, Veneto, 35100, Italia"",""importance"":0.31100000000000005,""lat"":""45.417182249999996"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.876235416582983"",""osm_id"":131987599,""osm_type"":""way"",""place_id"":131955110,""type"":""public_building""},""mode"":""autocomplete""},""description"":""Sul sito del Comune di Padova Padovanet it tutte le info e i contatti utili su accoglienza e supporto dei profughi ucraini e per offrire aiuto. In particolare:\n- Raccolta e distribuzione beni di prima necessit\u00e0 \n- Alloggio\n- Assistenza sanitaria \n- Supporto legale e psicologico \n- Assistenza persone con disabilit\u00e0 \n- Inserimento scolastico"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Padova"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":true,""disability"":false,""education"":true,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Padova, su Padovanet tutte le info e i contatti su accoglienza e supporto dei profughi ucraini e per offrire aiuto"",""url"":""https://www.padovanet.it/notizia/20220407/ucraina-aiuti-e-solidariet%C3%A0-i-profughi""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: true
-  transport: false
-  healthcare: true
-  Legal: true
-  translation: false
-  job: false
-  psychologicalSupport: true
-  Children: true
-  disability: false
-  women: false
-  education: true
-offerFromWho: Comune di Padova
-title: Comune di Padova, su Padovanet tutte le info e i contatti su accoglienza e
-  supporto dei profughi ucraini e per offrire aiuto
-recipients: ''
-description: ""Sul sito del Comune di Padova Padovanet it tutte le info e i contatti\
-  \ utili su accoglienza e supporto dei profughi ucraini e per offrire aiuto. In particolare:\n\
-  - Raccolta e distribuzione beni di prima necessità \n- Alloggio\n- Assistenza sanitaria\
-  \ \n- Supporto legale e psicologico \n- Assistenza persone con disabilità \n- Inserimento\
-  \ scolastico""
-url: https://www.padovanet.it/notizia/20220407/ucraina-aiuti-e-solidariet%C3%A0-i-profughi
-address:
-  mode: autocomplete
-  address:
-    place_id: 131955110
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 131987599
-    boundingbox:
-    - '45.4169628'
-    - '45.4173737'
-    - '11.8758678'
-    - '11.8767963'
-    lat: '45.417182249999996'
-    lon: '11.876235416582983'
-    display_name: Comune di Padova, Via Frà Giovanni Eremitano, Isola San Giacomo,
-      Padova, Veneto, 35100, Italia
-    class: amenity
-    type: public_building
-    importance: 0.31100000000000005
-    address:
-      amenity: Comune di Padova
-      road: Via Frà Giovanni Eremitano
-      hamlet: Isola San Giacomo
-      city: Padova
-      county: Padova
-      state: Veneto
-      ISO3166-2-lvl4: IT-34
-      postcode: '35100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/586,1200485494,2022-04-11 21:03:56,2022-04-11 20:17:15,"Evacuation2022, sito del governo ucraino che offre ai cittadini tutte le info e i contatti sulle evacuazioni dalle aree coinvolte dalla guerra",,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""transport""]",,,"{""address"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""44.184598"",""52.3797464"",""22.137059"",""40.2275801""],""class"":""boundary"",""display_name"":""Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9164442439164168,""lat"":""49.4871968"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""31.2718321"",""osm_id"":60199,""osm_type"":""relation"",""place_id"":283553033,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Commissario per i diritti umani del Parlamento Ucraino ha attivato il sito https://evacuation2022.com che fornisce ai cittadini ucraini tutte le informazioni e i contatti per poter essere evacuati dalle citt\u00e0 coinvolte nel conflitto. \nIn particolare per ricevere informazioni e chiedere l'evacuazione si pu\u00f2 usare:\n- Hotline attiva 24h 0 800 50 17 20 \n- Bot Telegram https://t.me/Evacuation2022_bot\n\nInformazioni aggiornate sulle evacuazioni sono inoltre disponibili sul canale Telegram https://t.me/UkrzalInfo"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Commissario per i diritti umani del Parlamento Ucraino"",""recipients"":""Cittadini ucraini in Ucraina"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""Evacuation2022, sito del governo ucraino che offre ai cittadini ucraini tutte le info e i contatti per essere evacuati dalle aree del conflitto"",""url"":""https://evacuation2022.com""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/586,1200485494,2022-04-12 07:51:01,2022-04-11 20:17:15,"Evacuation2022, sito del governo ucraino che offre ai cittadini tutte le info e i contatti sulle evacuazioni dalle aree coinvolte dalla guerra",,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""transport"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""44.184598"",""52.3797464"",""22.137059"",""40.2275801""],""class"":""boundary"",""display_name"":""Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9164442439164168,""lat"":""49.4871968"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""31.2718321"",""osm_id"":60199,""osm_type"":""relation"",""place_id"":283553033,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Commissario per i diritti umani del Parlamento Ucraino ha attivato il sito https://evacuation2022.com che fornisce ai cittadini ucraini tutte le informazioni e i contatti per poter essere evacuati dalle citt\u00e0 coinvolte nel conflitto. \nIn particolare per ricevere informazioni e chiedere l'evacuazione si pu\u00f2 usare:\n- Hotline attiva 24h 0 800 50 17 20 \n- Bot Telegram https://t.me/Evacuation2022_bot\n\nInformazioni aggiornate sulle evacuazioni sono inoltre disponibili sul canale Telegram https://t.me/UkrzalInfo"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Commissario per i diritti umani del Parlamento Ucraino"",""recipients"":""Cittadini ucraini in Ucraina"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""Evacuation2022, sito del governo ucraino che offre ai cittadini ucraini tutte le info e i contatti per essere evacuati dalle aree del conflitto"",""url"":""https://evacuation2022.com""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
   hospitality: false
@@ -188,91 +85,39 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/555,1198612761,2022-04-11 21:02:20,2022-04-09 13:47:51,Consolato Ucraina a Padova - Contatti,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""city"":""Padova"",""country"":""Italia"",""country_code"":""it"",""county"":""Padova"",""road"":""Piazza Gaetano Salvemini"",""state"":""Veneto"",""suburb"":""Arcella""},""boundingbox"":[""45.4146117"",""45.415083"",""11.8830753"",""11.8837083""],""class"":""highway"",""display_name"":""Piazza Gaetano Salvemini, Arcella, Padova, Veneto, Italia"",""importance"":0.4,""lat"":""45.414875949999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.88340728888171"",""osm_id"":174909346,""osm_type"":""way"",""place_id"":143903909,""type"":""pedestrian""},""mode"":""autocomplete""},""aim"":""Visto Turistico Schengen\nVisto Affari Schengen\nVisto Visite Private Schengen\nVisto Lavoro Schengen\nVisto Studio Schengen\nFacebook https://www.facebook.com/consolatoucrainapadova/"",""email"":""segreteria@consolatoucraina.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 049 9801681, +39 389 8745065 (per emergenze)"",""submit"":true,""title"":""Consolato ucraino a Padova - Contatti utili"",""url"":""https://www.consolatoucraina.it""}","<pre><yamldata>
-title: Consolato ucraino a Padova - Contatti utili
-phoneNumber: +39 049 9801681, +39 389 8745065 (per emergenze)
-email: 'segreteria@consolatoucraina.it'
-aim: 'Visto Turistico Schengen
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/587,1200499232,2022-04-12 07:50:44,2022-04-11 20:30:11,L'organizzazione Nova Ukraine offre voucher gratuiti ai rifugiati ucraini per alloggi di emergenza su Airbnb,,,,,"[""Valid/Accettato"",""Services"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{},""mode"":""autocomplete""},""mode"":""autocomplete""},""description"":""Grazie ad un accordo tra l'organizzazione Nova Ukraine e Airbnb i rifugiati ucraini possono ottenere un voucher per prenotare gratuitamente un alloggio di emergenza.\nTutte le info al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Nova Ukraine - Airbnb"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""L'organizzazione Nova Ukraine offre voucher gratuiti ai rifugiati ucraini per alloggi di emergenza su Airbnb"",""url"":""https://novaukraine.org/airbnb/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Nova Ukraine - Airbnb
+title: L'organizzazione Nova Ukraine offre voucher gratuiti ai rifugiati ucraini per
+  alloggi di emergenza su Airbnb
+recipients: ''
+description: 'Grazie ad un accordo tra l''organizzazione Nova Ukraine e Airbnb i rifugiati
+  ucraini possono ottenere un voucher per prenotare gratuitamente un alloggio di emergenza.
 
-  Visto Affari Schengen
-
-  Visto Visite Private Schengen
-
-  Visto Lavoro Schengen
-
-  Visto Studio Schengen
-
-Facebook https://www.facebook.com/consolatoucrainapadova/'
-url: 'https://www.consolatoucraina.it'
+  Tutte le info al link.'
+url: https://novaukraine.org/airbnb/
 address:
   mode: autocomplete
   address:
-    place_id: 143903909
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 174909346
-    boundingbox:
-    - '45.4146117'
-    - '45.415083'
-    - '11.8830753'
-    - '11.8837083'
-    lat: '45.414875949999995'
-    lon: '11.88340728888171'
-    display_name: Piazza Gaetano Salvemini, Arcella, Padova, Veneto, Italia
-    class: highway
-    type: pedestrian
-    importance: 0.4
-    address:
-      road: Piazza Gaetano Salvemini
-      suburb: Arcella
-      city: Padova
-      county: Padova
-      state: Veneto
-      ISO3166-2-lvl4: IT-34
-      country: Italia
-      country_code: it
+    mode: autocomplete
+    address: {}
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: useful contact
+label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/583,1199511149,2022-04-11 18:23:35,2022-04-11 07:24:30,Prefettura di Vicenza attiva email e offre online informazioni operative per chi arriva dall'Ucraina  ,45.63485905,11.40635425660249,Veneto,Vicenza,"[""Valid/Accettato"",""Services"",""Legal"",""useful contact""]",,,"{""Posizione"":""45.63485905 11.40635425660249"",""description"":""La prefettura di Vicenza pubblica sul proprio sito le informazioni utili a chi arriva e a chi ospita cittadini Ucraini a Vicenza. \u00c8 disponibile un documento in italiano, inglese, ucraino e russo ed un indirizzo mail per richiesta di ulteriori informazioni."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""http://www.prefettura.it/vicenza/contenuti/Informazioni_operative-13354424.htm"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""country"":""Italy"",""country_code"":""it"",""county"":""Vicenza"",""state"":""Veneto""},""boundingbox"":[""45.2551958"",""46.0144637"",""11.1361942"",""11.8362709""],""class"":""boundary"",""display_name"":""Vicenza, Veneto, Italy"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7401616861442906,""lat"":""45.63485905"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.40635425660249"",""osm_id"":44580,""osm_type"":""relation"",""place_id"":283543636,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Informazioni operative per chi arriva dall'Ucraina a Vicenza""}","<pre><yamldata>
-title: Informazioni operative per chi arriva dall'Ucraina a Vicenza
-description: 'La prefettura di Vicenza pubblica sul proprio sito le informazioni utili a chi arriva
-  e a chi ospita cittadini Ucraini a Vicenza.
-È disponibile un documento in italiano, inglese, ucraino e russo ed un indirizzo
-  mail per richiesta di ulteriori informazioni.'
-link: http://www.prefettura.it/vicenza/contenuti/Informazioni_operative-13354424.htm
-location:
-  mode: autocomplete
-  address:
-    place_id: 283543636
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 44580
-    boundingbox:
-    - '45.2551958'
-    - '46.0144637'
-    - '11.1361942'
-    - '11.8362709'
-    lat: '45.63485905'
-    lon: '11.40635425660249'
-    display_name: Vicenza, Veneto, Italy
-    class: boundary
-    type: administrative
-    importance: 0.7401616861442906
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      county: Vicenza
-      state: Veneto
-      ISO3166-2-lvl4: IT-34
-      country: Italy
-      country_code: it
-label: document_data
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 45.63485905 11.40635425660249
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/584,1200324148,2022-04-11 18:22:45,2022-04-11 17:48:56,Traduttori accreditati dal Consolato d'Ucraina di Milano: nomi e contatti,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""useful contact"",""translation""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""borough"":""Municipio 8 di Milano"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""11"",""office"":""Consolato Generale dell'Ucraina"",""postcode"":""20156"",""quarter"":""Villapizzone"",""road"":""Via Ludovico di Breme"",""state"":""Lombardia""},""boundingbox"":[""45.4966553"",""45.4967553"",""9.1390852"",""9.1391852""],""class"":""office"",""display_name"":""Consolato Generale dell'Ucraina, 11, Via Ludovico di Breme, Villapizzone, Municipio 8 di Milano, Milano, Lombardia, 20156, Italia"",""importance"":0.31100000000000005,""lat"":""45.4967053"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1391352"",""osm_id"":693845180,""osm_type"":""node"",""place_id"":5652117,""type"":""diplomatic""},""mode"":""autocomplete""},""description"":""Se hai bisogno di una traduzione ufficiale di documenti, puoi rivolgerti ai traduttori accreditati dal Consolato dell'Ucraina a Milano (tutti questi traduttori non sono volontari, le traduzioni non sono gratuite).\n\u042f\u043a\u0449\u043e \u0432\u0430\u043c \u043f\u043e\u0442\u0440\u0456\u0431\u0435\u043d\u00a0\u043e\u0444\u0456\u0446\u0456\u0439\u043d\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0456\u0432, \u043c\u043e\u0436\u043b\u0438\u0432\u043e \u0437\u0432\u0435\u0440\u043d\u0443\u0442\u0438\u0441\u044f \u0434\u043e \u0430\u043a\u0440\u0435\u0434\u0438\u0442\u043e\u0432\u0430\u043d\u0438\u0445 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0430\u0447\u0456\u0432 \u041a\u043e\u043d\u0441\u0443\u043b\u044c\u0441\u0442\u0432\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0438 \u0432 \u041c\u0456\u043b\u0430\u043d\u0456 (\u0443\u0441\u0456 \u0446\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0430\u0447\u0456 - \u043d\u0435 \u0432\u043e\u043b\u043e\u043d\u0442\u0435\u0440\u0438, \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434 \u0442\u0430 \u043b\u0435\u0433\u0430\u043b\u0456\u0437\u0430\u0446\u0456\u044f \u043d\u0435 \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u0456).\n\nBobrova Valeria 0267072856 +393475289068\nTimofeeva Nataliya 0220572652 +393386387227 +393348919727\nKyrychenko Inna 02822871788 +3937095416\nLasytsya Mariya +393886575286\nBujons Noguera Luliia +393452986077\nDumbrava Ina +393336589547\nKravchuk Nataliya 0236554085 +393394444383\nOrlovska Maryna +393284184945\nKravchuk Lyudmyla 025450720 +393661580045\nKondratyeva Darya 0294435239 +393802663593\nBiloshytska Oksana +393892932278\nCociu Veaceslav +393397992809\nKasakova Olga 0270104590 +39360688944\nMaksymyuk Orysya +393386115276\nLa rete Hope Ukraine (https://hopeukraine.it), creata in collaborazione con il Consolato Ucraino a Padova, offre anche assistenza per la traduzione e la legalizzazione dei documenti via Whatsapp al numero +39 348 21 05 910. \u0414\u043e\u043f\u043e\u043c\u043e\u0433\u0443 \u0437 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u043e\u043c \u0442\u0430 \u043b\u0435\u0433\u0430\u043b\u0438\u0437\u0430\u0446\u0456\u0454\u044e \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0456\u0432 \u0442\u0430\u043a\u043e\u0436 \u043f\u0440\u043e\u043f\u043e\u043d\u0443\u0454 \u043e\u0440\u0433\u0430\u043d\u0456\u0437\u0430\u0446\u0456\u044f\u00a0Hope Ukraine (https://hopeukraine.it/arrivo-in-italia/), \u0437\u0430 \u043f\u043e\u0441\u043b\u0443\u0433\u043e\u044e \u0437\u0432\u0435\u0440\u0442\u0430\u0442\u0438\u0441\u044f \u0443 Whatsapp \u0437\u0430 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043e\u043c\u00a0+39 348 21 05 910."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Consolato d'Ucraina di Milano"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Traduttori accreditati dal Consolato d'Ucraina di Milano: nomi e contatti"",""url"":""https://t.me/firststepinitaly/94""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/584,1200324148,2022-04-12 07:50:29,2022-04-11 17:48:56,Traduttori accreditati dal Consolato d'Ucraina di Milano: nomi e contatti,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""useful contact"",""translation"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""borough"":""Municipio 8 di Milano"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""11"",""office"":""Consolato Generale dell'Ucraina"",""postcode"":""20156"",""quarter"":""Villapizzone"",""road"":""Via Ludovico di Breme"",""state"":""Lombardia""},""boundingbox"":[""45.4966553"",""45.4967553"",""9.1390852"",""9.1391852""],""class"":""office"",""display_name"":""Consolato Generale dell'Ucraina, 11, Via Ludovico di Breme, Villapizzone, Municipio 8 di Milano, Milano, Lombardia, 20156, Italia"",""importance"":0.31100000000000005,""lat"":""45.4967053"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1391352"",""osm_id"":693845180,""osm_type"":""node"",""place_id"":5652117,""type"":""diplomatic""},""mode"":""autocomplete""},""description"":""Se hai bisogno di una traduzione ufficiale di documenti, puoi rivolgerti ai traduttori accreditati dal Consolato dell'Ucraina a Milano (tutti questi traduttori non sono volontari, le traduzioni non sono gratuite).\n\u042f\u043a\u0449\u043e \u0432\u0430\u043c \u043f\u043e\u0442\u0440\u0456\u0431\u0435\u043d\u00a0\u043e\u0444\u0456\u0446\u0456\u0439\u043d\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0456\u0432, \u043c\u043e\u0436\u043b\u0438\u0432\u043e \u0437\u0432\u0435\u0440\u043d\u0443\u0442\u0438\u0441\u044f \u0434\u043e \u0430\u043a\u0440\u0435\u0434\u0438\u0442\u043e\u0432\u0430\u043d\u0438\u0445 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0430\u0447\u0456\u0432 \u041a\u043e\u043d\u0441\u0443\u043b\u044c\u0441\u0442\u0432\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0438 \u0432 \u041c\u0456\u043b\u0430\u043d\u0456 (\u0443\u0441\u0456 \u0446\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0430\u0447\u0456 - \u043d\u0435 \u0432\u043e\u043b\u043e\u043d\u0442\u0435\u0440\u0438, \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434 \u0442\u0430 \u043b\u0435\u0433\u0430\u043b\u0456\u0437\u0430\u0446\u0456\u044f \u043d\u0435 \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u0456).\n\nBobrova Valeria 0267072856 +393475289068\nTimofeeva Nataliya 0220572652 +393386387227 +393348919727\nKyrychenko Inna 02822871788 +3937095416\nLasytsya Mariya +393886575286\nBujons Noguera Luliia +393452986077\nDumbrava Ina +393336589547\nKravchuk Nataliya 0236554085 +393394444383\nOrlovska Maryna +393284184945\nKravchuk Lyudmyla 025450720 +393661580045\nKondratyeva Darya 0294435239 +393802663593\nBiloshytska Oksana +393892932278\nCociu Veaceslav +393397992809\nKasakova Olga 0270104590 +39360688944\nMaksymyuk Orysya +393386115276\nLa rete Hope Ukraine (https://hopeukraine.it), creata in collaborazione con il Consolato Ucraino a Padova, offre anche assistenza per la traduzione e la legalizzazione dei documenti via Whatsapp al numero +39 348 21 05 910. \u0414\u043e\u043f\u043e\u043c\u043e\u0433\u0443 \u0437 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u043e\u043c \u0442\u0430 \u043b\u0435\u0433\u0430\u043b\u0438\u0437\u0430\u0446\u0456\u0454\u044e \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0456\u0432 \u0442\u0430\u043a\u043e\u0436 \u043f\u0440\u043e\u043f\u043e\u043d\u0443\u0454 \u043e\u0440\u0433\u0430\u043d\u0456\u0437\u0430\u0446\u0456\u044f\u00a0Hope Ukraine (https://hopeukraine.it/arrivo-in-italia/), \u0437\u0430 \u043f\u043e\u0441\u043b\u0443\u0433\u043e\u044e \u0437\u0432\u0435\u0440\u0442\u0430\u0442\u0438\u0441\u044f \u0443 Whatsapp \u0437\u0430 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043e\u043c\u00a0+39 348 21 05 910."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Consolato d'Ucraina di Milano"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Traduttori accreditati dal Consolato d'Ucraina di Milano: nomi e contatti"",""url"":""https://t.me/firststepinitaly/94""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
   hospitality: false
@@ -367,6 +212,195 @@ address:
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/589,1200527693,2022-04-12 07:50:09,2022-04-11 21:01:03,"Comune di Padova, su Padovanet tutte le info e i contatti su accoglienza e supporto dei profughi ucraini e per offrire aiuto",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""hospitality"",""healthcare"",""psychologicalSupport"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""amenity"":""Comune di Padova"",""city"":""Padova"",""country"":""Italia"",""country_code"":""it"",""county"":""Padova"",""hamlet"":""Isola San Giacomo"",""postcode"":""35100"",""road"":""Via Fr\u00e0 Giovanni Eremitano"",""state"":""Veneto""},""boundingbox"":[""45.4169628"",""45.4173737"",""11.8758678"",""11.8767963""],""class"":""amenity"",""display_name"":""Comune di Padova, Via Fr\u00e0 Giovanni Eremitano, Isola San Giacomo, Padova, Veneto, 35100, Italia"",""importance"":0.31100000000000005,""lat"":""45.417182249999996"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.876235416582983"",""osm_id"":131987599,""osm_type"":""way"",""place_id"":131955110,""type"":""public_building""},""mode"":""autocomplete""},""description"":""Sul sito del Comune di Padova Padovanet it tutte le info e i contatti utili su accoglienza e supporto dei profughi ucraini e per offrire aiuto. In particolare:\n- Raccolta e distribuzione beni di prima necessit\u00e0 \n- Alloggio\n- Assistenza sanitaria \n- Supporto legale e psicologico \n- Assistenza persone con disabilit\u00e0 \n- Inserimento scolastico"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Padova"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":true,""disability"":false,""education"":true,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Padova, su Padovanet tutte le info e i contatti su accoglienza e supporto dei profughi ucraini e per offrire aiuto"",""url"":""https://www.padovanet.it/notizia/20220407/ucraina-aiuti-e-solidariet%C3%A0-i-profughi""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: true
+  transport: false
+  healthcare: true
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: true
+  Children: true
+  disability: false
+  women: false
+  education: true
+offerFromWho: Comune di Padova
+title: Comune di Padova, su Padovanet tutte le info e i contatti su accoglienza e
+  supporto dei profughi ucraini e per offrire aiuto
+recipients: ''
+description: ""Sul sito del Comune di Padova Padovanet it tutte le info e i contatti\
+  \ utili su accoglienza e supporto dei profughi ucraini e per offrire aiuto. In particolare:\n\
+  - Raccolta e distribuzione beni di prima necessità \n- Alloggio\n- Assistenza sanitaria\
+  \ \n- Supporto legale e psicologico \n- Assistenza persone con disabilità \n- Inserimento\
+  \ scolastico""
+url: https://www.padovanet.it/notizia/20220407/ucraina-aiuti-e-solidariet%C3%A0-i-profughi
+address:
+  mode: autocomplete
+  address:
+    place_id: 131955110
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 131987599
+    boundingbox:
+    - '45.4169628'
+    - '45.4173737'
+    - '11.8758678'
+    - '11.8767963'
+    lat: '45.417182249999996'
+    lon: '11.876235416582983'
+    display_name: Comune di Padova, Via Frà Giovanni Eremitano, Isola San Giacomo,
+      Padova, Veneto, 35100, Italia
+    class: amenity
+    type: public_building
+    importance: 0.31100000000000005
+    address:
+      amenity: Comune di Padova
+      road: Via Frà Giovanni Eremitano
+      hamlet: Isola San Giacomo
+      city: Padova
+      county: Padova
+      state: Veneto
+      ISO3166-2-lvl4: IT-34
+      postcode: '35100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/588,1200517326,2022-04-11 21:04:58,2022-04-11 20:48:35,"Associazione ucraina ""I nuovi confini"" Catania/Palermo: info e contatti",,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-82"",""city"":""Catania"",""country"":""Italia"",""country_code"":""it"",""county"":""Catania"",""house_number"":""4"",""neighbourhood"":""Monserrato"",""postcode"":""95027"",""road"":""Via Giaconia"",""state"":""Sicilia"",""suburb"":""Borgo-Sanzio""},""boundingbox"":[""37.5122661"",""37.5123661"",""15.0916607"",""15.0917607""],""class"":""place"",""display_name"":""4, Via Giaconia, Monserrato, Borgo-Sanzio, Catania, Sicilia, 95027, Italia"",""importance"":0.411,""lat"":""37.5123161"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.0917107"",""osm_id"":9002501125,""osm_type"":""node"",""place_id"":92917318,""type"":""house""},""mode"":""autocomplete""},""aim"":""L'associazione, con sede a Catania e Palermo, offre:\n- Assistenza stranieri e minori \n- Consulenza legale \n- Mediazione linguistica\n- Traduzioni e legalizzazione dei documenti in Italia/Ucraina\n- Progetti di accoglienza dei minori stranieri in Italia\n\nContatti:\nSEDE DI CATANIA, via Giaconia 4\nTel: +39 3497676128, +39 3881647936 - Dynnichenko Yuliya; e-mail: yuliya_dynnichenko@yahoo.com\nSEDE DI PALERMO, via Marco Polo, 30\nTel. +39 3248773734 - Viktoriya Prokopovych; e-mail:  vikasicil@libero.it"",""email"":""yuliya_dynnichenko@yahoo.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 3497676128, +39 3881647936, +39 3248773734-"",""submit"":true,""title"":""Associazione ucraina \""I nuovi confini\"" Catania/Palermo: info e contatti"",""url"":""https://m.facebook.com/inuoviconfini/""}","<pre><yamldata>
+title: 'Associazione ucraina ""I nuovi confini"" Catania/Palermo: info e contatti'
+phoneNumber: +39 3497676128, +39 3881647936, +39 3248773734-
+email: yuliya_dynnichenko@yahoo.com
+aim: ""L'associazione, con sede a Catania e Palermo, offre:\n- Assistenza stranieri\
+  \ e minori \n- Consulenza legale \n- Mediazione linguistica\n- Traduzioni e legalizzazione\
+  \ dei documenti in Italia/Ucraina\n- Progetti di accoglienza dei minori stranieri\
+  \ in Italia\n\nContatti:\nSEDE DI CATANIA, via Giaconia 4\nTel: +39 3497676128,\
+  \ +39 3881647936 - Dynnichenko Yuliya; e-mail: yuliya_dynnichenko@yahoo.com\nSEDE\
+  \ DI PALERMO, via Marco Polo, 30\nTel. +39 3248773734 - Viktoriya Prokopovych; e-mail:\
+  \  vikasicil@libero.it""
+url: https://m.facebook.com/inuoviconfini/
+address:
+  mode: autocomplete
+  address:
+    place_id: 92917318
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 9002501125
+    boundingbox:
+    - '37.5122661'
+    - '37.5123661'
+    - '15.0916607'
+    - '15.0917607'
+    lat: '37.5123161'
+    lon: '15.0917107'
+    display_name: 4, Via Giaconia, Monserrato, Borgo-Sanzio, Catania, Sicilia, 95027,
+      Italia
+    class: place
+    type: house
+    importance: 0.411
+    address:
+      house_number: '4'
+      road: Via Giaconia
+      neighbourhood: Monserrato
+      suburb: Borgo-Sanzio
+      city: Catania
+      county: Catania
+      state: Sicilia
+      ISO3166-2-lvl4: IT-82
+      postcode: '95027'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/555,1198612761,2022-04-11 21:02:20,2022-04-09 13:47:51,Consolato Ucraina a Padova - Contatti,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""city"":""Padova"",""country"":""Italia"",""country_code"":""it"",""county"":""Padova"",""road"":""Piazza Gaetano Salvemini"",""state"":""Veneto"",""suburb"":""Arcella""},""boundingbox"":[""45.4146117"",""45.415083"",""11.8830753"",""11.8837083""],""class"":""highway"",""display_name"":""Piazza Gaetano Salvemini, Arcella, Padova, Veneto, Italia"",""importance"":0.4,""lat"":""45.414875949999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.88340728888171"",""osm_id"":174909346,""osm_type"":""way"",""place_id"":143903909,""type"":""pedestrian""},""mode"":""autocomplete""},""aim"":""Visto Turistico Schengen\nVisto Affari Schengen\nVisto Visite Private Schengen\nVisto Lavoro Schengen\nVisto Studio Schengen\nFacebook https://www.facebook.com/consolatoucrainapadova/"",""email"":""segreteria@consolatoucraina.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 049 9801681, +39 389 8745065 (per emergenze)"",""submit"":true,""title"":""Consolato ucraino a Padova - Contatti utili"",""url"":""https://www.consolatoucraina.it""}","<pre><yamldata>
+title: Consolato ucraino a Padova - Contatti utili
+phoneNumber: +39 049 9801681, +39 389 8745065 (per emergenze)
+email: 'segreteria@consolatoucraina.it'
+aim: 'Visto Turistico Schengen
+
+  Visto Affari Schengen
+
+  Visto Visite Private Schengen
+
+  Visto Lavoro Schengen
+
+  Visto Studio Schengen
+
+Facebook https://www.facebook.com/consolatoucrainapadova/'
+url: 'https://www.consolatoucraina.it'
+address:
+  mode: autocomplete
+  address:
+    place_id: 143903909
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 174909346
+    boundingbox:
+    - '45.4146117'
+    - '45.415083'
+    - '11.8830753'
+    - '11.8837083'
+    lat: '45.414875949999995'
+    lon: '11.88340728888171'
+    display_name: Piazza Gaetano Salvemini, Arcella, Padova, Veneto, Italia
+    class: highway
+    type: pedestrian
+    importance: 0.4
+    address:
+      road: Piazza Gaetano Salvemini
+      suburb: Arcella
+      city: Padova
+      county: Padova
+      state: Veneto
+      ISO3166-2-lvl4: IT-34
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/583,1199511149,2022-04-11 18:23:35,2022-04-11 07:24:30,Prefettura di Vicenza attiva email e offre online informazioni operative per chi arriva dall'Ucraina  ,45.63485905,11.40635425660249,Veneto,Vicenza,"[""Valid/Accettato"",""Services"",""Legal"",""useful contact""]",,,"{""Posizione"":""45.63485905 11.40635425660249"",""description"":""La prefettura di Vicenza pubblica sul proprio sito le informazioni utili a chi arriva e a chi ospita cittadini Ucraini a Vicenza. \u00c8 disponibile un documento in italiano, inglese, ucraino e russo ed un indirizzo mail per richiesta di ulteriori informazioni."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""http://www.prefettura.it/vicenza/contenuti/Informazioni_operative-13354424.htm"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""country"":""Italy"",""country_code"":""it"",""county"":""Vicenza"",""state"":""Veneto""},""boundingbox"":[""45.2551958"",""46.0144637"",""11.1361942"",""11.8362709""],""class"":""boundary"",""display_name"":""Vicenza, Veneto, Italy"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7401616861442906,""lat"":""45.63485905"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.40635425660249"",""osm_id"":44580,""osm_type"":""relation"",""place_id"":283543636,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Informazioni operative per chi arriva dall'Ucraina a Vicenza""}","<pre><yamldata>
+title: Informazioni operative per chi arriva dall'Ucraina a Vicenza
+description: 'La prefettura di Vicenza pubblica sul proprio sito le informazioni utili a chi arriva
+  e a chi ospita cittadini Ucraini a Vicenza.
+È disponibile un documento in italiano, inglese, ucraino e russo ed un indirizzo
+  mail per richiesta di ulteriori informazioni.'
+link: http://www.prefettura.it/vicenza/contenuti/Informazioni_operative-13354424.htm
+location:
+  mode: autocomplete
+  address:
+    place_id: 283543636
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 44580
+    boundingbox:
+    - '45.2551958'
+    - '46.0144637'
+    - '11.1361942'
+    - '11.8362709'
+    lat: '45.63485905'
+    lon: '11.40635425660249'
+    display_name: Vicenza, Veneto, Italy
+    class: boundary
+    type: administrative
+    importance: 0.7401616861442906
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Vicenza
+      state: Veneto
+      ISO3166-2-lvl4: IT-34
+      country: Italy
+      country_code: it
+label: document_data
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.63485905 11.40635425660249
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/582,1199425304,2022-04-11 14:29:02,2022-04-11 05:46:57,Sul sito della Commissione europea informazioni e contatti per chi fugge dell'Ucraina e arriva nei paesi Ue (multilingue),,,,,"[""Valid/Accettato"",""useful contact"",""Resources""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""BE-BRU"",""city"":""Bruxelles"",""country"":""Belgio"",""country_code"":""be"",""county"":""Brussel-Hoofdstad - Bruxelles-Capitale"",""municipality"":""Ville de Bruxelles - Stad Brussel"",""postcode"":""1000"",""region"":""R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest""},""boundingbox"":[""50.6865573"",""51.0065573"",""4.191697"",""4.511697""],""class"":""place"",""display_name"":""Bruxelles, Ville de Bruxelles - Stad Brussel, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, Belgio"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.777529645090779,""lat"":""50.8465573"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""4.351697"",""osm_id"":1635651356,""osm_type"":""node"",""place_id"":15145405,""type"":""city""},""mode"":""autocomplete""},""aim"":""\u0406\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u044f \u0434\u043b\u044f \u043b\u044e\u0434\u0435\u0439, \u044f\u043a\u0456 \u0442\u0456\u043a\u0430\u044e\u0442\u044c \u0432\u0456\u0434 \u0432\u0456\u0439\u043d\u0438 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456 - Informazioni per le persone in fuga dalla guerra in Ucraina in arrivo nei paesi dell'Unione europea, in diverse lingue anche in ucraino."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":false,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""EU Commission"",""url"":""https://ec.europa.eu/info/strategy/priorities-2019-2024/stronger-europe-world/eu-solidarity-ukraine/eu-assistance-ukraine/information-people-fleeing-war-ukraine_uk""}","<pre><yamldata>
 title: EU Commission
@@ -1321,40 +1355,6 @@ label: document_data
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 45.6944947 9.6698727
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/574,1198774920,2022-04-09 21:22:17,2022-04-09 21:21:12,Associazione donne ucraine “Djerlo” Pavia - Contatti,,,,,"[""Valid/Accettato"",""useful contact"",""women""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""state"":""Lombardia""},""boundingbox"":[""44.6799091"",""45.393838"",""8.4978518"",""9.5505475""],""class"":""boundary"",""display_name"":""Pavia, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7422019961097704,""lat"":""45.036854649999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.137825082826026"",""osm_id"":43483,""osm_type"":""relation"",""place_id"":283772748,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Presidente dell\u2019Associazione \u00e8 Dina Petelko."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""388 951 4717 (Presidente)"",""submit"":true,""title"":""Associazione donne ucraine \u201cDjerlo\u201d Pavia"",""url"":""https://www.csvlombardia.it/senza-categoria/post/ucraina-per-chi-cerca-aiuto-in-provincia-di-pavia-gruppi-ucraini/#1648563582350-83e955e6-08ff""}","<pre><yamldata>
-title: Associazione donne ucraine “Djerlo” Pavia
-phoneNumber: 388 951 4717 (Presidente)
-email: ''
-aim: Presidente dell’Associazione è Dina Petelko.
-url: https://www.csvlombardia.it/senza-categoria/post/ucraina-per-chi-cerca-aiuto-in-provincia-di-pavia-gruppi-ucraini/#1648563582350-83e955e6-08ff
-address:
-  mode: autocomplete
-  address:
-    place_id: 283772748
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 43483
-    boundingbox:
-    - '44.6799091'
-    - '45.393838'
-    - '8.4978518'
-    - '9.5505475'
-    lat: '45.036854649999995'
-    lon: '9.137825082826026'
-    display_name: Pavia, Lombardia, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7422019961097704
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      county: Pavia
-      state: Lombardia
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: useful contact
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/546,1197872971,2022-04-09 21:21:53,2022-04-08 21:47:39,Associazioni e gruppi ucraini a Pavia e provincia,,,,,"[""Valid/Accettato"",""Services"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""state"":""Lombardia""},""boundingbox"":[""44.6799091"",""45.393838"",""8.4978518"",""9.5505475""],""class"":""boundary"",""display_name"":""Pavia, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7422019961097704,""lat"":""45.036854649999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.137825082826026"",""osm_id"":43483,""osm_type"":""relation"",""place_id"":283772748,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Sul sito di Csvnet Lombardia la mappatura delle associazioni, chiese e gruppi ucraini a Pavia e provincia che offrono aiuti ai rifugiati e per l\u2019emergenza Ucraina."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Associazioni e gruppi ucraini a Pavia e provincia"",""url"":""https://www.csvlombardia.it/senza-categoria/post/ucraina-per-chi-cerca-aiuto-in-provincia-di-pavia-gruppi-ucraini/""}","<pre><yamldata>
 title: Associazioni e gruppi ucraini a Pavia e provincia
