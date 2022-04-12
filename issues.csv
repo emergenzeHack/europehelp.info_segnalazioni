@@ -1,5 +1,59 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/590,1201798757,2022-04-12 13:08:28,2022-04-12 12:46:43,Online la mappatura degli aiuti umanitari messi in campo dal Sistema di Protezione Civile,,,,,"[""Valid/Accettato"",""document_data""]",,,"{""description"":""La mappa mostra i luoghi in cui il Sistema di Protezione Civile si \u00e8 attivato per garantire assistenza umanitaria all\u2019Ucraina e ai Paesi interessati dai flussi di profughi in fuga dal conflitto. Un repository github (https://github.com/pcm-dpc/dati-ucraina-2022) \u00e8 la sorgente da cui ha origine la mappa."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://mappe.protezionecivile.gov.it/it/mappa/emergenza-ucraina-mappa-aiuti-umanitari-0"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Online la mappatura degli aiuti umanitari messi in campo dal Sistema di Protezione Civile""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/591,1201838859,2022-04-12 13:34:39,2022-04-12 13:18:13,"Accoglienza diffusa dei rifugiati ucraini, bando del Dipartimento Nazionale Protezione Civile (scadenza 22 aprile)",41.9039826,12.4719209,Lazio,Roma,"[""Valid/Accettato"",""News"",""hospitality""]","Milestone(title=""22 aprile"", number=7)",,"{""Posizione"":""41.9039826 12.4719209"",""description"":""Offrire misure di accoglienza diffusa e di accompagnamento per l\u2019integrazione e l\u2019autonomia alle persone provenienti dall\u2019Ucraina.\n\nQuesto l\u2019oggetto dell\u2019avviso pubblicato oggi dal Dipartimento sulla base dell\u2019art. 1 dell\u2019Ocdpc n. 881 del 29 marzo 2022, con l\u2019obiettivo di acquisire le manifestazioni di interesse di rilievo nazionale da parte degli enti individuati dall\u2019art. 31 del decreto-legge n. 21 del 21 marzo 2022.\n\nI soggetti interessati potranno manifestare il proprio interesse entro le ore 18 del 22 aprile 2022 utilizzando la piattaforma https://avvisiebandi-emergenzaucraina.protezionecivile.gov.it\nPer ulteriori info vedi link."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.protezionecivile.gov.it/it/notizia/emergenza-ucraina-al-la-raccolta-delle-manifestazioni-dinteresse-laccoglienza-diffusa-delle-persone-provenienti-dallucraina-0"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""11"",""office"":""Dipartimento della Protezione Civile"",""postcode"":""00186"",""quarter"":""Prati"",""road"":""Via Ulpiano"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.9039326"",""41.9040326"",""12.4718709"",""12.4719709""],""class"":""office"",""display_name"":""Dipartimento della Protezione Civile, 11, Via Ulpiano, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia"",""importance"":0.42099999999999993,""lat"":""41.9039826"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4719209"",""osm_id"":5462543512,""osm_type"":""node"",""place_id"":59550508,""type"":""government""},""mode"":""autocomplete""},""submit"":true,""title"":""Accoglienza diffusa dei rifugiati ucraini, bando del Dipartimento della protezione civile (scadenza 22 aprile)""}","<pre><yamldata>
+title: Accoglienza diffusa dei rifugiati ucraini, bando del Dipartimento della protezione
+  civile (scadenza 22 aprile)
+description: 'Offrire misure di accoglienza diffusa e di accompagnamento per l’integrazione
+  e l’autonomia alle persone provenienti dall’Ucraina.
+
+
+  Questo l’oggetto dell’avviso pubblicato oggi dal Dipartimento sulla base dell’art.
+  1 dell’Ocdpc n. 881 del 29 marzo 2022, con l’obiettivo di acquisire le manifestazioni
+  di interesse di rilievo nazionale da parte degli enti individuati dall’art. 31 del
+  decreto-legge n. 21 del 21 marzo 2022.
+
+
+  I soggetti interessati potranno manifestare il proprio interesse entro le ore 18
+  del 22 aprile 2022 utilizzando la piattaforma https://avvisiebandi-emergenzaucraina.protezionecivile.gov.it
+
+  Per ulteriori info vedi link.'
+link: https://www.protezionecivile.gov.it/it/notizia/emergenza-ucraina-al-la-raccolta-delle-manifestazioni-dinteresse-laccoglienza-diffusa-delle-persone-provenienti-dallucraina-0
+location:
+  mode: autocomplete
+  address:
+    place_id: 59550508
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 5462543512
+    boundingbox:
+    - '41.9039326'
+    - '41.9040326'
+    - '12.4718709'
+    - '12.4719709'
+    lat: '41.9039826'
+    lon: '12.4719209'
+    display_name: Dipartimento della Protezione Civile, 11, Via Ulpiano, Prati, Municipio
+      Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+    class: office
+    type: government
+    importance: 0.42099999999999993
+    address:
+      office: Dipartimento della Protezione Civile
+      house_number: '11'
+      road: Via Ulpiano
+      quarter: Prati
+      suburb: Municipio Roma I
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: 00186
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 41.9039826 12.4719209
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/590,1201798757,2022-04-12 13:33:21,2022-04-12 12:46:43,"Emergenza Ucraina, online la mappa degli aiuti umanitari messi in campo dal Sistema Nazionale di Protezione Civile ",,,,,"[""Valid/Accettato"",""News"",""document_data""]",,,"{""description"":""La mappa mostra i luoghi in cui il Sistema di Protezione Civile si \u00e8 attivato per garantire assistenza umanitaria all\u2019Ucraina e ai Paesi interessati dai flussi di profughi in fuga dal conflitto. Un repository github (https://github.com/pcm-dpc/dati-ucraina-2022) \u00e8 la sorgente da cui ha origine la mappa."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://mappe.protezionecivile.gov.it/it/mappa/emergenza-ucraina-mappa-aiuti-umanitari-0"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Online la mappatura degli aiuti umanitari messi in campo dal Sistema di Protezione Civile""}","<pre><yamldata>
 title: Online la mappatura degli aiuti umanitari messi in campo dal Sistema di Protezione
   Civile
 description: La mappa mostra i luoghi in cui il Sistema di Protezione Civile si è
