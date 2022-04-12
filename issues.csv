@@ -1,5 +1,5 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/599,1202402450,2022-04-12 21:21:59,2022-04-12 21:21:21,"A Prato e provincia, presso vari circoli Arci, raccolta di beni alimentari, cibo e biancheria per em",,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]","Milestone(title=""16 aprile"", number=3)",,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""city"":""Prato"",""country"":""Italia"",""country_code"":""it"",""county"":""Prato"",""postcode"":""59016"",""road"":""Via Roma"",""state"":""Toscana"",""suburb"":""Fontanelle""},""boundingbox"":[""43.84753"",""43.8476698"",""11.0747686"",""11.074994""],""class"":""highway"",""display_name"":""Via Roma, Fontanelle, Prato, Toscana, 59016, Italia"",""importance"":0.41000000000000003,""lat"":""43.8475568"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.0748914"",""osm_id"":175300490,""osm_type"":""way"",""place_id"":144268250,""type"":""secondary""},""mode"":""autocomplete""},""description"":""Nei circoli Arci di Cafaggio, Paperino, Poggio a Caiano, Carmignano, Galciana, Maliseti, Viaccia, Vaiano, Figline, La Macine, Mezzana e presso il Circolo Orsetti \u2013 Spazio AUT nel centro storico, \u00e8 attiva fino al 15 aprile una raccolta di beni di prima necessit\u00e0 per la popolazione ucraina. Sono richiesti: cibo in scatola e/o a lunga conservazione (pasta, riso, latte, pane in sacchetto, dryfood, acqua ecc.), biancheria intima nuova per ragazze e ragazzi tra i 5 e i 20 anni."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Arci Prato"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Prato e provincia, presso vari circoli Arci, raccolta di beni alimentari, cibo e biancheria per emergenza Ucraina"",""url"":""https://www.arciprato.it/2022/04/08/raccolta-generi-di-prima-necessita-per-lucraina/""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/599,1202402450,2022-04-12 21:40:26,2022-04-12 21:21:21,"A Prato e provincia, presso vari circoli Arci, raccolta di beni alimentari e biancheria per emergenza Ucraina ",,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]","Milestone(title=""16 aprile"", number=3)",,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""city"":""Prato"",""country"":""Italia"",""country_code"":""it"",""county"":""Prato"",""postcode"":""59016"",""road"":""Via Roma"",""state"":""Toscana"",""suburb"":""Fontanelle""},""boundingbox"":[""43.84753"",""43.8476698"",""11.0747686"",""11.074994""],""class"":""highway"",""display_name"":""Via Roma, Fontanelle, Prato, Toscana, 59016, Italia"",""importance"":0.41000000000000003,""lat"":""43.8475568"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.0748914"",""osm_id"":175300490,""osm_type"":""way"",""place_id"":144268250,""type"":""secondary""},""mode"":""autocomplete""},""description"":""Nei circoli Arci di Cafaggio, Paperino, Poggio a Caiano, Carmignano, Galciana, Maliseti, Viaccia, Vaiano, Figline, La Macine, Mezzana e presso il Circolo Orsetti \u2013 Spazio AUT nel centro storico, \u00e8 attiva fino al 15 aprile una raccolta di beni di prima necessit\u00e0 per la popolazione ucraina. Sono richiesti: cibo in scatola e/o a lunga conservazione (pasta, riso, latte, pane in sacchetto, dryfood, acqua ecc.), biancheria intima nuova per ragazze e ragazzi tra i 5 e i 20 anni."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Arci Prato"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Prato e provincia, presso vari circoli Arci, raccolta di beni alimentari, cibo e biancheria per emergenza Ucraina"",""url"":""https://www.arciprato.it/2022/04/08/raccolta-generi-di-prima-necessita-per-lucraina/""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
   hospitality: false
@@ -50,6 +50,72 @@ address:
       state: Toscana
       ISO3166-2-lvl4: IT-52
       postcode: '59016'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/600,1202420182,2022-04-12 21:39:39,2022-04-12 21:39:05,"Regione Liguria, sito web per aiutare i rifugiati ucraini con info utili e corso online gratuito di italiano",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality"",""job"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-42"",""ISO3166-2-lvl6"":""IT-GE"",""city"":""Genova"",""country"":""Italia"",""country_code"":""it"",""county"":""Genova"",""neighbourhood"":""Sottoripa"",""postcode"":""16100"",""road"":""Via Magazzini del Cotone"",""state"":""Liguria"",""suburb"":""Centro Est""},""boundingbox"":[""44.4083927"",""44.4085719"",""8.9226229"",""8.9234061""],""class"":""highway"",""display_name"":""Via Magazzini del Cotone, Sottoripa, Centro Est, Genova, Liguria, 16100, Italia"",""importance"":0.61,""lat"":""44.4085075"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.9231409"",""osm_id"":242620132,""osm_type"":""way"",""place_id"":162849528,""type"":""pedestrian""},""mode"":""autocomplete""},""description"":""Regione Liguria mette a disposizione un sito informativo per aiutare i cittadini ucraini ad orientarsi nei servizi offerti da istituzioni, mondo del volontariato ed altri enti. Sul sito \u00e8 possibile trovare tutte le info per le procedure per ottenere il permesso di soggiorno (con contatti di questure e prefetture), per studiare, lavorare, trascorrere il tempo libero e accedere ai servizi essenziali.\nIl sito \u00e8 stato realizzato in doppia lingua grazie al prezioso supporto di volontari ucraini.\n\u00c8 inoltre disponibile un corso online gratuito di lingua italiana e uno sportello di supporto alla popolazione ucraina orario: dalle 10 alle 16 [dal luned\u00ec al venerd\u00ec], ucraina@saloneorientamenti.it, tel. 800 938 883."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Liguria"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":true,""job"":true,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Regione Liguria, sito web per aiutare i rifugiati ucraini con info utili e corso online gratuito di italiano"",""url"":""https://www.orientamenti.regione.liguria.it/ucraina/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: true
+  translation: false
+  job: true
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Regione Liguria
+title: Regione Liguria, sito web per aiutare i rifugiati ucraini con info utili e
+  corso online gratuito di italiano
+recipients: ''
+description: 'Regione Liguria mette a disposizione un sito informativo per aiutare
+  i cittadini ucraini ad orientarsi nei servizi offerti da istituzioni, mondo del
+  volontariato ed altri enti. Sul sito è possibile trovare tutte le info per le procedure
+  per ottenere il permesso di soggiorno (con contatti di questure e prefetture), per
+  studiare, lavorare, trascorrere il tempo libero e accedere ai servizi essenziali.
+
+  Il sito è stato realizzato in doppia lingua grazie al prezioso supporto di volontari
+  ucraini.
+
+  È inoltre disponibile un corso online gratuito di lingua italiana e uno sportello
+  di supporto alla popolazione ucraina orario: dalle 10 alle 16 [dal lunedì al venerdì],
+  ucraina@saloneorientamenti.it, tel. 800 938 883.'
+url: https://www.orientamenti.regione.liguria.it/ucraina/
+address:
+  mode: autocomplete
+  address:
+    place_id: 162849528
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 242620132
+    boundingbox:
+    - '44.4083927'
+    - '44.4085719'
+    - '8.9226229'
+    - '8.9234061'
+    lat: '44.4085075'
+    lon: '8.9231409'
+    display_name: Via Magazzini del Cotone, Sottoripa, Centro Est, Genova, Liguria,
+      16100, Italia
+    class: highway
+    type: pedestrian
+    importance: 0.61
+    address:
+      road: Via Magazzini del Cotone
+      neighbourhood: Sottoripa
+      suburb: Centro Est
+      city: Genova
+      county: Genova
+      ISO3166-2-lvl6: IT-GE
+      state: Liguria
+      ISO3166-2-lvl4: IT-42
+      postcode: '16100'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
