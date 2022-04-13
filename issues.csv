@@ -1,4 +1,126 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/606,1203416823,2022-04-13 15:12:34,2022-04-13 14:53:27,"Regione Toscana, bando rivolto alle strutture ricettive per l'accoglienza della popolazione ucraina ",43.792734,11.2223496,Toscana,Firenze,"[""Valid/Accettato"",""News"",""hospitality""]","Milestone(title=""27 aprile"", number=8)",,"{""Posizione"":""43.792734 11.2223496"",""description"":""Sul portale START della Regione Toscana \u00e8 online l'avviso per la manifestazione di disponibilit\u00e0 da parte delle strutture ricettive del territorio toscano per l'accoglienza della popolazione ucraina sfollata. \nScadenza 26 aprile 2022 (ore 10)."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://start.toscana.it/tendering/tenders/006783-2022/view/detail/1"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""house_number"":""26/6"",""postcode"":""50127"",""road"":""Via di Novoli"",""state"":""Toscana"",""suburb"":""Quartiere 5""},""boundingbox"":[""43.792684"",""43.792784"",""11.2222996"",""11.2223996""],""class"":""place"",""display_name"":""26/6, Via di Novoli, Quartiere 5, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50127, Italia"",""importance"":0.511,""lat"":""43.792734"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2223496"",""osm_id"":2361769271,""osm_type"":""node"",""place_id"":20626317,""type"":""house""},""mode"":""autocomplete""},""submit"":true,""title"":""Regione Toscana, bando rivolto alle strutture ricettive per l'accoglienza della popolazione ucraina sfollata""}","<pre><yamldata>
+title: Regione Toscana, bando rivolto alle strutture ricettive per l'accoglienza della
+  popolazione ucraina sfollata
+description: ""Sul portale START della Regione Toscana è online l'avviso per la manifestazione\
+  \ di disponibilità da parte delle strutture ricettive del territorio toscano per\
+  \ l'accoglienza della popolazione ucraina sfollata. \nScadenza 26 aprile 2022 (ore\
+  \ 10).""
+link: https://start.toscana.it/tendering/tenders/006783-2022/view/detail/1
+location:
+  mode: autocomplete
+  address:
+    place_id: 20626317
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 2361769271
+    boundingbox:
+    - '43.792684'
+    - '43.792784'
+    - '11.2222996'
+    - '11.2223996'
+    lat: '43.792734'
+    lon: '11.2223496'
+    display_name: 26/6, Via di Novoli, Quartiere 5, Firenze, Città metropolitana di
+      Firenze, Toscana, 50127, Italia
+    class: place
+    type: house
+    importance: 0.511
+    address:
+      house_number: 26/6
+      road: Via di Novoli
+      suburb: Quartiere 5
+      city: Firenze
+      county: Città metropolitana di Firenze
+      state: Toscana
+      ISO3166-2-lvl4: IT-52
+      postcode: '50127'
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 43.792734 11.2223496
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/607,1203440052,2022-04-13 15:12:09,2022-04-13 15:11:16,Ordine degli avvocati di Milano: attivo sportello telefonico e email di supporto legale per i profughi ucraini,,,,,"[""Valid/Accettato"",""Services"",""Legal""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""amenity"":""BNL"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""1"",""neighbourhood"":""Guastalla"",""postcode"":""20122"",""road"":""Via Carlo Freguglia"",""state"":""Lombardia"",""suburb"":""Municipio 1""},""boundingbox"":[""45.4608435"",""45.4609435"",""9.2006645"",""9.2007645""],""class"":""amenity"",""display_name"":""BNL, 1, Via Carlo Freguglia, Guastalla, Municipio 1, Milano, Lombardia, 20122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//money_bank2.p.20.png"",""importance"":0.6309999999999999,""lat"":""45.4608935"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2007145"",""osm_id"":3503711029,""osm_type"":""node"",""place_id"":43749126,""type"":""bank""},""mode"":""autocomplete""},""description"":""L'Ordine degli Avvocati di Milano ha creato in collegamento con la Questura, l'Assessorato alle Politiche sociali del Comune di Milano, le associazioni e gli operatori in campo per la gestione dell\u2019accoglienza di chi fugge dalla guerra, uno sportello di orientamento legale per i profughi ucraini. L'iniziativa, al via da luned\u00ec 7 marzo, vede in campo diversi avvocati che si sono offerti di collaborare a un progetto che rappresenta un unicum. Allo Sportello #unaiutoconcreto dell'Ordine (Tel. 334 3653153 attivo da luned\u00ec a venerd\u00ec ore 9.30-13.30) \u00e8 possibile chiedere informazioni sui permessi di soggiorno (pur con la garanzia del permesso di soggiorno temporaneo consentito dal Governo sulla base del possesso del passaporto ucraino) o rispetto all'affido; le richieste di aiuto per l'accoglienza vengono indirizzate alle diverse associazioni che se ne occupano. Info: sportello@ordineavvocatimilano.it\nThe Milan Bar Association has created with the Police Headquarters, the Municipality of Milan and some associations and operators, a legal help desk for Ukrainian refugees. The initiative, which started March 7th, has seen several lawyers offering to collaborate on a unique project. At the #unaiutoconcreto Help desk (Tel. 334 3653153 active from Monday to Friday, 9.30-13.30) it is possible to request information on residence permits or about foster care; the help requests for hospitality are addressed to the various associations dealing with them. Info: sportello@ordineavvocatimilano.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ordine degli Avvocati di Milano"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Ordine degli avvocati di Milano attivo sportello telefonico e email di supporto legale per i profughi ucraini"",""url"":""https://www.ordineavvocatimilano.it/it/gli-avvocati-per-lucraina-lawyers4ukraine/p565""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Ordine degli Avvocati di Milano
+title: Ordine degli avvocati di Milano attivo sportello telefonico e email di supporto
+  legale per i profughi ucraini
+recipients: ''
+description: 'L''Ordine degli Avvocati di Milano ha creato in collegamento con la
+  Questura, l''Assessorato alle Politiche sociali del Comune di Milano, le associazioni
+  e gli operatori in campo per la gestione dell’accoglienza di chi fugge dalla guerra,
+  uno sportello di orientamento legale per i profughi ucraini.
+  L''iniziativa, al via da lunedì 7 marzo, vede in campo diversi avvocati che si sono
+  offerti di collaborare a un progetto che rappresenta un unicum.
+  Allo Sportello #unaiutoconcreto dell''Ordine (Tel. 334 3653153 attivo da lunedì
+  a venerdì ore 9.30-13.30) è possibile chiedere informazioni sui permessi di soggiorno
+  (pur con la garanzia del permesso di soggiorno temporaneo consentito dal Governo
+  sulla base del possesso del passaporto ucraino) o rispetto all''affido; le richieste
+  di aiuto per l''accoglienza vengono indirizzate alle diverse associazioni che se
+  ne occupano.
+Info: sportello@ordineavvocatimilano.it
+
+  The Milan Bar Association has created with the Police Headquarters, the Municipality
+  of Milan and some associations and operators, a legal help desk for Ukrainian refugees.
+  The initiative, which started March 7th, has seen several lawyers offering to collaborate
+  on a unique project.
+  At the #unaiutoconcreto Help desk (Tel. 334 3653153 active from Monday to Friday,
+  9.30-13.30) it is possible to request information on residence permits or about
+  foster care; the help requests for hospitality are addressed to the various associations
+  dealing with them.
+  Info: sportello@ordineavvocatimilano.it'
+url: https://www.ordineavvocatimilano.it/it/gli-avvocati-per-lucraina-lawyers4ukraine/p565
+address:
+  mode: autocomplete
+  address:
+    place_id: 43749126
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 3503711029
+    boundingbox:
+    - '45.4608435'
+    - '45.4609435'
+    - '9.2006645'
+    - '9.2007645'
+    lat: '45.4608935'
+    lon: '9.2007145'
+    display_name: BNL, 1, Via Carlo Freguglia, Guastalla, Municipio 1, Milano, Lombardia,
+      20122, Italia
+    class: amenity
+    type: bank
+    importance: 0.6309999999999999
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//money_bank2.p.20.png
+    address:
+      amenity: BNL
+      house_number: '1'
+      road: Via Carlo Freguglia
+      neighbourhood: Guastalla
+      suburb: Municipio 1
+      city: Milano
+      county: Milano
+      ISO3166-2-lvl6: IT-MI
+      state: Lombardia
+      postcode: '20122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/604,1203383346,2022-04-13 15:04:59,2022-04-13 14:28:36,All’Università Bocconi di Milano nasce UASI - Ucraina Supporto e Informazione per offrire supporto legale a rifugiati ucraini ed enti impegnati nell’emergenza Ucraina,,,,,"[""Valid/Accettato"",""Services"",""Legal""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20136"",""quarter"":""Vigentina"",""road"":""Via Corrado Guglielmo Rontgen"",""state"":""Lombardia"",""suburb"":""Municipio 5""},""boundingbox"":[""45.4492051"",""45.4515967"",""9.1867565"",""9.1876216""],""class"":""highway"",""display_name"":""Via Corrado Guglielmo Rontgen, Vigentina, Municipio 5, Milano, Lombardia, 20136, Italia"",""importance"":0.51,""lat"":""45.4509094"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1874059"",""osm_id"":37042448,""osm_type"":""way"",""place_id"":111476102,""type"":""residential""},""mode"":""autocomplete""},""description"":""Una Unit di supporto giuridico per dare aiuto ai rifugiati ucraini e supporto a ong e istituzioni italiane che stanno affrontando l\u2019emergenza: \u00e8 Ucraina Supporto e Informazione (UASI), l\u2019unit\u00e0 appena nata in seno al Bocconi Lab in European Studies (BLEST) per iniziativa di docenti, studenti e alumni della Bocconi e sostenuta dalla Fondazione Romeo ed Enrica Invernizzi. UASI produrr\u00e0 materiale utile a coloro che fuggono dal conflitto e arrivano in Italia, piccole guide digitali in tre lingue (italiano, ucraino e russo) di supporto agli individui e alle amministrazioni per orientarsi nel complesso labirinto amministrativo e legale. Inoltre, offrir\u00e0 supporto alle organizzazioni e amministrazioni: sul modello delle cliniche legali, gli studenti Bocconi faranno attivit\u00e0 di sportello con Avvocati per l\u2019Ucraina, mentre la Unit fornir\u00e0 attivit\u00e0 di consulenza legale per le organizzazioni e attori istituzionali. Se fai parte di una organizzazione e vuoi entrare in contatto con noi, contattaci al uasi.blest@unibocconi.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Universit\u00e0 Bocconi Milano"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""All\u2019Universit\u00e0 Bocconi di Milano nasce UASI - Ucraina Supporto e Informazione per offrire supporto legale a rifugiati ucraini, enti e organizzazioni che stanno affrontando l\u2019emergenza Ucraina"",""url"":""https://blest.unibocconi.eu/focus-europe-and-ukraine/focus-ukraine/uasi-ucraina-supporto-e-informazione""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -111,49 +233,6 @@ label: document_data
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 45.4509094 9.1874059
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/606,1203416823,2022-04-13 14:53:45,2022-04-13 14:53:27,"Regione Toscana, bando rivolto alle strutture ricettive per l'accoglienza della popolazione ucraina ",43.792734,11.2223496,Toscana,Firenze,"[""Valid/Accettato"",""News"",""hospitality""]",,,"{""Posizione"":""43.792734 11.2223496"",""description"":""Sul portale START della Regione Toscana \u00e8 online l'avviso per la manifestazione di disponibilit\u00e0 da parte delle strutture ricettive del territorio toscano per l'accoglienza della popolazione ucraina sfollata. \nScadenza 26 aprile 2022 (ore 10)."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://start.toscana.it/tendering/tenders/006783-2022/view/detail/1"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""house_number"":""26/6"",""postcode"":""50127"",""road"":""Via di Novoli"",""state"":""Toscana"",""suburb"":""Quartiere 5""},""boundingbox"":[""43.792684"",""43.792784"",""11.2222996"",""11.2223996""],""class"":""place"",""display_name"":""26/6, Via di Novoli, Quartiere 5, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50127, Italia"",""importance"":0.511,""lat"":""43.792734"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2223496"",""osm_id"":2361769271,""osm_type"":""node"",""place_id"":20626317,""type"":""house""},""mode"":""autocomplete""},""submit"":true,""title"":""Regione Toscana, bando rivolto alle strutture ricettive per l'accoglienza della popolazione ucraina sfollata""}","<pre><yamldata>
-title: Regione Toscana, bando rivolto alle strutture ricettive per l'accoglienza della
-  popolazione ucraina sfollata
-description: ""Sul portale START della Regione Toscana è online l'avviso per la manifestazione\
-  \ di disponibilità da parte delle strutture ricettive del territorio toscano per\
-  \ l'accoglienza della popolazione ucraina sfollata. \nScadenza 26 aprile 2022 (ore\
-  \ 10).""
-link: https://start.toscana.it/tendering/tenders/006783-2022/view/detail/1
-location:
-  mode: autocomplete
-  address:
-    place_id: 20626317
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 2361769271
-    boundingbox:
-    - '43.792684'
-    - '43.792784'
-    - '11.2222996'
-    - '11.2223996'
-    lat: '43.792734'
-    lon: '11.2223496'
-    display_name: 26/6, Via di Novoli, Quartiere 5, Firenze, Città metropolitana di
-      Firenze, Toscana, 50127, Italia
-    class: place
-    type: house
-    importance: 0.511
-    address:
-      house_number: 26/6
-      road: Via di Novoli
-      suburb: Quartiere 5
-      city: Firenze
-      county: Città metropolitana di Firenze
-      state: Toscana
-      ISO3166-2-lvl4: IT-52
-      postcode: '50127'
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 43.792734 11.2223496
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/235,1174232339,2022-04-13 14:32:45,2022-03-19 10:27:48,A Lucera (Foggia) cooperativa Matrix mette a disposizione 50 posti in una struttura ricettiva per accoglienza profughi ucraini,41.51540665,15.290741448680244,Puglia,Foggia,"[""Valid/Accettato"",""Services"",""hospitality""]",,,"{""Posizione"":""41.51540665 15.290741448680244"",""address"":{""address"":{},""mode"":""autocomplete""},""description"":""La cooperativa sociale Consorzio Matrix http://www.consorziomatrix.it/it/ https://www.facebook.com/consorziomatrix operante nel terzo settore da oltre 20 anni, mette a disposizione per accogliere profughi ucraini 50 posti come alloggio in una struttura ricettiva in provincia di Foggia nel Comune di Lucera, l'Hotel Palace. Si precisa che la Cooperativa ha gi\u00e0 segnalato la struttura ricettiva alla Prefettura di Foggia partecipando al bando per la manifestazione di interessi per l'individuazione di strutture ricettive destinate all'accoglienza, limitato ad un numero massimo di 50 posti. La cooperativa mette a disposizione gli ulteriori 50 posti esclusi dalla manifestazione di interesse. La struttura sar\u00e0 disponibile a partire da aprile. Per ulteriori informazioni scrivere mail a segreteriamatrix2@gmail.com oppure chiamando al 0818011753; 3476494554 Martone Vincenzo; 3355823803 Caner Simone."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Cooperativa Sociale Consorzio Matrix"",""recipients"":""soggetti ucraini in fuga dalla guerra"",""submit"":true,""title"":""messa a disposizione di n 50 posti in struttura ricettiva nel comune di lucera (FG)"",""type"":""hospitality"",""url"":""http://www.consorziomatrix.it""}","<pre><yamldata>
 type: hospitality
