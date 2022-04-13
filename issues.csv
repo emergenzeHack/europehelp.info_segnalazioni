@@ -1,4 +1,160 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/598,1202398169,2022-04-13 07:41:13,2022-04-12 21:17:07,"Regione Emilia Romagna, bus e treni gratuiti per gli studenti ucraini",,,,,"[""Valid/Accettato"",""Services"",""transport"",""Children"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""house_number"":""52"",""office"":""URP Regione Emilia-Romagna"",""postcode"":""14007"",""road"":""Viale Aldo Moro"",""state"":""Emilia-Romagna"",""suburb"":""San Donato""},""boundingbox"":[""44.5085578"",""44.5086578"",""11.3633196"",""11.3634196""],""class"":""office"",""display_name"":""URP Regione Emilia-Romagna, 52, Viale Aldo Moro, San Donato, San Donato-San Vitale, Bologna, Emilia-Romagna, 14007, Italia"",""importance"":0.5209999999999999,""lat"":""44.5086078"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.3633696"",""osm_id"":4152700305,""osm_type"":""node"",""place_id"":47977253,""type"":""government""},""mode"":""autocomplete""},""description"":""I giovani profughi dall\u2019Ucraina che frequentano le scuole medie e superiori in Emilia-Romagna (nati tra il 2003 e il 2011) viaggiano gratuitamente su bus e treni regionali per tutto il 2022, grazie ad un accordo tra Regione e aziende dei trasporti.\nI non studenti possono accedere alle agevolazioni previste dalla Regione per tutti i rifugiati (vedi https://www.tper.it/mimuovoinsieme)."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Emilia Romagna"",""recipients"":""Studenti ucraini"",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""Regione Emilia Romagna, bus e treni gratuiti per gli studenti ucraini"",""url"":""http://www.regioni.it/dalleregioni/2022/04/08/ucraina-i-giovani-profughi-che-frequentano-le-medie-e-le-superiori-in-emilia-romagna-viaggiano-gratuitamente-su-bus-e-treni-regionali-per-tutto-il-2022-accordo-tra-regione-e-aziende-trasporti-gli-a-647633/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: true
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: false
+offerFromWho: Regione Emilia Romagna
+title: Regione Emilia Romagna, bus e treni gratuiti per gli studenti ucraini
+recipients: Studenti ucraini
+description: 'I giovani profughi dall’Ucraina che frequentano le scuole medie e superiori
+  in Emilia-Romagna (nati tra il 2003 e il 2011) viaggiano gratuitamente su bus e
+  treni regionali per tutto il 2022, grazie ad un accordo tra Regione e aziende dei
+  trasporti.
+
+  I non studenti possono accedere alle agevolazioni previste dalla Regione per tutti
+  i rifugiati (vedi https://www.tper.it/mimuovoinsieme).'
+url: http://www.regioni.it/dalleregioni/2022/04/08/ucraina-i-giovani-profughi-che-frequentano-le-medie-e-le-superiori-in-emilia-romagna-viaggiano-gratuitamente-su-bus-e-treni-regionali-per-tutto-il-2022-accordo-tra-regione-e-aziende-trasporti-gli-a-647633/
+address:
+  mode: autocomplete
+  address:
+    place_id: 47977253
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 4152700305
+    boundingbox:
+    - '44.5085578'
+    - '44.5086578'
+    - '11.3633196'
+    - '11.3634196'
+    lat: '44.5086078'
+    lon: '11.3633696'
+    display_name: URP Regione Emilia-Romagna, 52, Viale Aldo Moro, San Donato, San
+      Donato-San Vitale, Bologna, Emilia-Romagna, 14007, Italia
+    class: office
+    type: government
+    importance: 0.5209999999999999
+    address:
+      office: URP Regione Emilia-Romagna
+      house_number: '52'
+      road: Viale Aldo Moro
+      suburb: San Donato
+      city: Bologna
+      county: Bologna
+      state: Emilia-Romagna
+      ISO3166-2-lvl4: IT-45
+      postcode: '14007'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/595,1202201792,2022-04-13 07:40:59,2022-04-12 17:50:23,"Ordine degli avvocati dell'Ucraina all'estero ha attivato rappresentanze a Milano, Genova, Prato e Napoli e fornisce duplicati di documenti ucraini",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""useful contact"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Le rappresentanze dell'Ordine nazionale degli avvocati dell'Ucraina all'estero (NAAU) hanno iniziato ad aiutare con il rilascio di documenti ucraini duplicati per i rifugiati (vale a dire: nascita, matrimonio, divorzio e altri documenti del DRACS). Per ordinare un duplicato dei documenti \u00e8 necessario contattare gli uffici NAAU, fornire una copia del passaporto e indicare il documento che si desidera ricevere. Indirizzi degli uffici di rappresentanza al link https://unba.org.ua/foreign-representations (in Italia ci sono uffici di rappresentanza a Milano, Genova, Napoli e Prato). Costo del servizio \u20ac 40. Per coloro che non sono in grado di pagare il servizio, sar\u00e0 fornito gratuitamente. Maggiori informazioni sulla pagina Facebook.\n\u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043d\u0438\u0446\u0442\u0432\u0430 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0457 \u0430\u0441\u043e\u0446\u0456\u0430\u0446\u0456\u0457 \u0430\u0434\u0432\u043e\u043a\u0430\u0442\u0456\u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0438 \u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c \u043f\u043e\u0447\u0430\u043b\u0438 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0430\u0442\u0438 \u0437 \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u043d\u044f\u043c \u0434\u0443\u0431\u043b\u0456\u043a\u0430\u0442\u0456\u0432 \u0443\u043a\u0440\u0430\u0457\u043d\u044c\u0441\u043a\u0438\u0445 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0456\u0432 \u0434\u043b\u044f \u0431\u0456\u0436\u0435\u043d\u0446\u0456\u0432 (\u0430 \u0441\u0430\u043c\u043e: \u0441\u0432\u0456\u0434\u043e\u0446\u0442\u0432 \u043f\u0440\u043e \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f, \u0448\u043b\u044e\u0431, \u0440\u043e\u0437\u043b\u0443\u0447\u0435\u043d\u043d\u044f \u0442\u0430 \u0456\u043d\u0448\u0456\u0445 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0456\u0432 \u0414\u0420\u0410\u0426\u0421). \u0429\u043e\u0431 \u0437\u0430\u043c\u043e\u0432\u0438\u0442\u0438 \u0434\u0443\u0431\u043b\u0456\u043a\u0430\u0442 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0456\u0432, \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u043e \u0437\u0432\u0435\u0440\u043d\u0443\u0442\u0438\u0441\u044f \u0434\u043e \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043d\u0438\u0446\u0442\u0432 \u041d\u0410\u0410\u0423 (\u0412\u0410\u0416\u041b\u0418\u0412\u041e), \u043d\u0430\u0434\u0430\u0442\u0438 \u043a\u043e\u043f\u0456\u044e \u043f\u0430\u0441\u043f\u043e\u0440\u0442\u0430 \u0442\u0430 \u0432\u043a\u0430\u0437\u0430\u0442\u0438 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442, \u044f\u043a\u0438\u0439 \u0431\u0430\u0436\u0430\u0454\u0442\u0435 \u043e\u0442\u0440\u0438\u043c\u0430\u0442\u0438. \u0410\u0434\u0440\u0435\u0441\u0430 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043d\u0438\u0446\u0442\u0432 \u0437\u0430\u00a0\u043f\u043e\u0441\u0438\u043b\u0430\u043d\u043d\u044f\u043c https://unba.org.ua/foreign-representations\u00a0(\u0443 \u0406\u0442\u0430\u043b\u0456\u0457 \u043f\u0440\u0430\u0446\u044e\u044e\u0442\u044c \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043d\u0438\u0446\u0442\u0432\u0430 \u0432 \u041c\u0456\u043b\u0430\u043d\u0456, \u0413\u0435\u043d\u0443i, \u041d\u0435\u0430\u043f\u043e\u043b\u0456 \u0442\u0430 \u041f\u0440\u0430\u0442\u043e). \u0412\u0430\u0440\u0442\u0456\u0441\u0442\u044c \u0432\u0438\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u043d\u044f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0456\u0432 \u0437 \u0432\u0456\u0434\u043f\u0440\u0430\u0432\u043a\u043e\u044e \u0439 \u0430\u043f\u043e\u0441\u0442\u0438\u043b\u0435\u043c \u2015 \u20ac40. \u0414\u043b\u044f \u0442\u0438\u0445, \u0445\u0442\u043e \u043d\u0435 \u0432 \u0437\u043c\u043e\u0437\u0456 \u0441\u043f\u043b\u0430\u0442\u0438\u0442\u0438 \u0437\u0430 \u043f\u043e\u0441\u043b\u0443\u0433\u0443, \u0432\u043e\u043d\u0430 \u0431\u0443\u0434\u0435 \u043d\u0430\u0434\u0430\u0432\u0430\u0442\u0438\u0441\u044f \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u043e. \u0411\u0456\u043b\u044c\u0448 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u0457\u00a0\u043d\u0430 \u0441\u0442\u043e\u0440\u0456\u043d\u0446\u0456 \u041d\u0410\u0410\u0423 \u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c \u0443 Facebook."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ordine nazionale degli avvocati dell'Ucraina all'estero"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Ordine degli avvocati dell'Ucraina all'estero ha attivato rappresentanze a Milano, Genova, Prato e Napoli per duplicati di documenti ucraini"",""url"":""https://www.facebook.com/UNBA.Foreign/posts/1359640941207406""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Ordine nazionale degli avvocati dell'Ucraina all'estero
+title: Ordine degli avvocati dell'Ucraina all'estero ha attivato rappresentanze a
+  Milano, Genova, Prato e Napoli per duplicati di documenti ucraini
+recipients: ''
+description: 'Le rappresentanze dell''Ordine nazionale degli avvocati dell''Ucraina
+  all''estero (NAAU) hanno iniziato ad aiutare con il rilascio di documenti ucraini
+  duplicati per i rifugiati (vale a dire: nascita, matrimonio, divorzio e altri documenti
+  del DRACS).
+  Per ordinare un duplicato dei documenti è necessario contattare gli uffici NAAU,
+  fornire una copia del passaporto e indicare il documento che si desidera ricevere.
+  Indirizzi degli uffici di rappresentanza al link https://unba.org.ua/foreign-representations
+  (in Italia ci sono uffici di rappresentanza a Milano, Genova, Napoli e Prato).
+  Costo del servizio € 40. Per coloro che non sono in grado di pagare il servizio,
+  sarà fornito gratuitamente.
+  Maggiori informazioni sulla pagina Facebook.
+
+  Представництва Національної асоціації адвокатів України за кордоном почали допомогати
+  з оформленням дублікатів україньских документів для біженців (а само: свідоцтв про
+  народження, шлюб, розлучення та іншіх документів ДРАЦС).
+  Щоб замовити дублікат документів, необхідно звернутися до представництв НААУ (ВАЖЛИВО),
+  надати копію паспорта та вказати документ, який бажаєте отримати.
+  Адреса представництв за посиланням https://unba.org.ua/foreign-representations (у
+  Італії працюють представництва в Мілані, Генуi, Неаполі та Прато).
+  Вартість виготовлення документів з відправкою й апостилем ― €40. Для тих, хто не
+  в змозі сплатити за послугу, вона буде надаватися безкоштовно.
+  Більш інформації на сторінці НААУ за кордоном у Facebook.'
+url: https://www.facebook.com/UNBA.Foreign/posts/1359640941207406
+address:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/592,1202123116,2022-04-13 07:40:37,2022-04-12 16:59:55,Booking.com offre ai rifugiati ucraini alloggi gratuiti o con tariffe scontate tra il 50% e il 99%,,,,,"[""Valid/Accettato"",""Services"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Booking offre ai rifugiati dall\u2019Ucraina uno sconto compreso tra il 50% e il 99% sulle tue tariffe abituali, oppure un alloggio gratuito. In tal caso, per motivi tecnici, il prezzo che mostreremo per la camera o l\u2019unit\u00e0 sar\u00e0 pari a 0,01 EUR (eventuali tasse e supplementi esclusi) o l'equivalente nella valuta locale, ma gli ospiti non dovranno pagare nulla.\nL\u2019iniziativa durer\u00e0 fino al 30 giugno 2022. Ulteriori info al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Booking.com"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Booking.com offre ai rifugiati ucraini alloggi gratuiti o con tariffe scontate tra il 50% e il 99%"",""url"":""https://partner.booking.com/it/aiuto/tariffe-disponibilit%C3%A0/calendario-extranet/supporto-i-rifugiati-dall%E2%80%99ucraina""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Booking.com
+title: Booking.com offre ai rifugiati ucraini alloggi gratuiti o con tariffe scontate
+  tra il 50% e il 99%
+recipients: ''
+description: 'Booking offre ai rifugiati dall’Ucraina uno sconto compreso tra il 50%
+  e il 99% sulle tue tariffe abituali, oppure un alloggio gratuito. In tal caso, per
+  motivi tecnici, il prezzo che mostreremo per la camera o l’unità sarà pari a 0,01
+  EUR (eventuali tasse e supplementi esclusi) o l''equivalente nella valuta locale,
+  ma gli ospiti non dovranno pagare nulla.
+
+  L’iniziativa durerà fino al 30 giugno 2022. Ulteriori info al link.'
+url: https://partner.booking.com/it/aiuto/tariffe-disponibilit%C3%A0/calendario-extranet/supporto-i-rifugiati-dall%E2%80%99ucraina
+address:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/590,1201798757,2022-04-13 07:40:21,2022-04-12 12:46:43,"Emergenza Ucraina, online la mappa degli aiuti umanitari messi in campo dal Sistema Nazionale di Protezione Civile ",,,,,"[""Valid/Accettato"",""News"",""document_data"",""telegram-channel"",""tweet""]",,,"{""description"":""La mappa mostra i luoghi in cui il Sistema di Protezione Civile si \u00e8 attivato per garantire assistenza umanitaria all\u2019Ucraina e ai Paesi interessati dai flussi di profughi in fuga dal conflitto. Un repository github (https://github.com/pcm-dpc/dati-ucraina-2022) \u00e8 la sorgente da cui ha origine la mappa."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://mappe.protezionecivile.gov.it/it/mappa/emergenza-ucraina-mappa-aiuti-umanitari-0"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Online la mappatura degli aiuti umanitari messi in campo dal Sistema di Protezione Civile""}","<pre><yamldata>
+title: Online la mappatura degli aiuti umanitari messi in campo dal Sistema di Protezione
+  Civile
+description: La mappa mostra i luoghi in cui il Sistema di Protezione Civile si è
+  attivato per garantire assistenza umanitaria all’Ucraina e ai Paesi interessati
+  dai flussi di profughi in fuga dal conflitto. Un repository github (https://github.com/pcm-dpc/dati-ucraina-2022)
+  è la sorgente da cui ha origine la mappa.
+link: https://mappe.protezionecivile.gov.it/it/mappa/emergenza-ucraina-mappa-aiuti-umanitari-0
+location:
+  mode: autocomplete
+  address: {}
+label: document_data
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/601,1202430696,2022-04-12 22:11:09,2022-04-12 21:50:09,Accordo tra Confindustria e sindacati per donare ore di lavoro a supporto dell’emergenza Ucraina ,,,,,"[""Valid/Accettato"",""News"",""fundraising""]",,,"{""Posizione"":null,""description"":""Un'ora di lavoro da parte del lavoratore, in parallelo (e congiuntamente) un'ora donata da parte dell'azienda che confluiranno in un fondo di solidariet\u00e0 per il popolo ucraino. Siglato pochi giorni fa a livello nazionale tra Confindustria e Cgil, Cisl e Uil l'accordo per far fronte alla drammatica situazione che la guerra in Ucraina sta causando. Si tratta di un contributo su base volontaria: qualora il lavoratore intendesse aderire all'iniziativa, lo comunicher\u00e0 all'azienda e questa far\u00e0 scattare il contributo equivalente. I contributi verranno raccolti tramite il c/c con Codice IBAN: IT57C0103003201000008800015 attivato presso Monte dei Paschi di Siena intestato a: CGIL CISL UIL E CONFINDUSTRIA FONDO SOLIDARIET\u00c0 POPOLO UCRAINO, con la firma congiunta di un rappresentante per organizzazione appositamente delegato dal rappresentante legale di ciascuna di queste."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.cgil.it/speciali/2022/europe-for-peace/2022/03/30/news/cgil_cisl_uil_e_confindustria_sottoscrivono_accordo_di_solidarieta_per_il_popolo_ucraino-1997088/"",""location"":{""address"":{""address"":{""city"":null,""country"":null,""country_code"":null,""county"":null,""postcode"":null,""state"":null},""boundingbox"":null,""class"":null,""display_name"":null,""icon"":null,""importance"":null,""lat"":null,""licence"":null,""lon"":null,""osm_id"":null,""osm_type"":null,""place_id"":null,""type"":null},""mode"":""autocomplete""},""submit"":true,""title"":""Accordo tra Confindustria e sindacati per donare ore di lavoro a supporto dell\u2019emergenza emergenza in Ucraina""}","<pre><yamldata>
 title: Accordo tra Confindustria e sindacati per donare ore di lavoro a supporto
   dell’emergenza emergenza in Ucraina
@@ -225,66 +381,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/598,1202398169,2022-04-12 21:21:36,2022-04-12 21:17:07,"Regione Emilia Romagna, bus e treni gratuiti per gli studenti ucraini",,,,,"[""Valid/Accettato"",""Services"",""transport"",""Children""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""house_number"":""52"",""office"":""URP Regione Emilia-Romagna"",""postcode"":""14007"",""road"":""Viale Aldo Moro"",""state"":""Emilia-Romagna"",""suburb"":""San Donato""},""boundingbox"":[""44.5085578"",""44.5086578"",""11.3633196"",""11.3634196""],""class"":""office"",""display_name"":""URP Regione Emilia-Romagna, 52, Viale Aldo Moro, San Donato, San Donato-San Vitale, Bologna, Emilia-Romagna, 14007, Italia"",""importance"":0.5209999999999999,""lat"":""44.5086078"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.3633696"",""osm_id"":4152700305,""osm_type"":""node"",""place_id"":47977253,""type"":""government""},""mode"":""autocomplete""},""description"":""I giovani profughi dall\u2019Ucraina che frequentano le scuole medie e superiori in Emilia-Romagna (nati tra il 2003 e il 2011) viaggiano gratuitamente su bus e treni regionali per tutto il 2022, grazie ad un accordo tra Regione e aziende dei trasporti.\nI non studenti possono accedere alle agevolazioni previste dalla Regione per tutti i rifugiati (vedi https://www.tper.it/mimuovoinsieme)."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Emilia Romagna"",""recipients"":""Studenti ucraini"",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""Regione Emilia Romagna, bus e treni gratuiti per gli studenti ucraini"",""url"":""http://www.regioni.it/dalleregioni/2022/04/08/ucraina-i-giovani-profughi-che-frequentano-le-medie-e-le-superiori-in-emilia-romagna-viaggiano-gratuitamente-su-bus-e-treni-regionali-per-tutto-il-2022-accordo-tra-regione-e-aziende-trasporti-gli-a-647633/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: true
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: true
-  disability: false
-  women: false
-  education: false
-offerFromWho: Regione Emilia Romagna
-title: Regione Emilia Romagna, bus e treni gratuiti per gli studenti ucraini
-recipients: Studenti ucraini
-description: 'I giovani profughi dall’Ucraina che frequentano le scuole medie e superiori
-  in Emilia-Romagna (nati tra il 2003 e il 2011) viaggiano gratuitamente su bus e
-  treni regionali per tutto il 2022, grazie ad un accordo tra Regione e aziende dei
-  trasporti.
-
-  I non studenti possono accedere alle agevolazioni previste dalla Regione per tutti
-  i rifugiati (vedi https://www.tper.it/mimuovoinsieme).'
-url: http://www.regioni.it/dalleregioni/2022/04/08/ucraina-i-giovani-profughi-che-frequentano-le-medie-e-le-superiori-in-emilia-romagna-viaggiano-gratuitamente-su-bus-e-treni-regionali-per-tutto-il-2022-accordo-tra-regione-e-aziende-trasporti-gli-a-647633/
-address:
-  mode: autocomplete
-  address:
-    place_id: 47977253
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 4152700305
-    boundingbox:
-    - '44.5085578'
-    - '44.5086578'
-    - '11.3633196'
-    - '11.3634196'
-    lat: '44.5086078'
-    lon: '11.3633696'
-    display_name: URP Regione Emilia-Romagna, 52, Viale Aldo Moro, San Donato, San
-      Donato-San Vitale, Bologna, Emilia-Romagna, 14007, Italia
-    class: office
-    type: government
-    importance: 0.5209999999999999
-    address:
-      office: URP Regione Emilia-Romagna
-      house_number: '52'
-      road: Viale Aldo Moro
-      suburb: San Donato
-      city: Bologna
-      county: Bologna
-      state: Emilia-Romagna
-      ISO3166-2-lvl4: IT-45
-      postcode: '14007'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/250,1174676859,2022-04-12 21:00:32,2022-03-20 20:34:57,Acli Pavia organizza corso gratuito di italiano per profughi ucraini (inizio 5 aprile),,,,,"[""Valid/Accettato"",""Services"",""telegram-channel"",""tweet"",""education""]","Milestone(title=""6 aprile"", number=4)",,"{""address"":{""address"":{""address"":{""city"":""Pavia"",""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""office"":""ACLI Pavia"",""postcode"":""27100"",""road"":""Viale Cesare Battisti"",""state"":""Lombardia"",""suburb"":""Ticinello""},""boundingbox"":[""45.1893437"",""45.1894437"",""9.1483341"",""9.1484341""],""class"":""office"",""display_name"":""ACLI Pavia, Viale Cesare Battisti, Ticinello, Pavia, Lombardia, 27100, Italia"",""importance"":0.611,""lat"":""45.1893937"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1483841"",""osm_id"":3030681209,""osm_type"":""node"",""place_id"":36788835,""type"":""association""},""mode"":""autocomplete""},""description"":""Acli Pavia - Sezione Provinciale nell'ambito del progetto Legami Solidali, organizza un corso gratuito di lingua italiana per i profughi provenienti dall'Ucraina a causa dell'emergenza in atto. Il corso si terr\u00e0 dal 5 aprile al 7 luglio 2022, ore 09.00/11.00 in viale Cesare Battisti 142, Pavia"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Acli Pavia"",""recipients"":""Persone in arrivo dall'Ucraina"",""submit"":true,""title"":""Corso di italiano"",""type"":""translation"",""url"":""https://www.aclipavia.it/corso-italiano-profughi-ucraini/""}","<pre><yamldata>
 type: translation
 offerFromWho: Acli Pavia
@@ -328,54 +424,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",closed
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/595,1202201792,2022-04-12 20:59:31,2022-04-12 17:50:23,"Ordine degli avvocati dell'Ucraina all'estero ha attivato rappresentanze a Milano, Genova, Prato e Napoli e fornisce duplicati di documenti ucraini",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""useful contact""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Le rappresentanze dell'Ordine nazionale degli avvocati dell'Ucraina all'estero (NAAU) hanno iniziato ad aiutare con il rilascio di documenti ucraini duplicati per i rifugiati (vale a dire: nascita, matrimonio, divorzio e altri documenti del DRACS). Per ordinare un duplicato dei documenti \u00e8 necessario contattare gli uffici NAAU, fornire una copia del passaporto e indicare il documento che si desidera ricevere. Indirizzi degli uffici di rappresentanza al link https://unba.org.ua/foreign-representations (in Italia ci sono uffici di rappresentanza a Milano, Genova, Napoli e Prato). Costo del servizio \u20ac 40. Per coloro che non sono in grado di pagare il servizio, sar\u00e0 fornito gratuitamente. Maggiori informazioni sulla pagina Facebook.\n\u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043d\u0438\u0446\u0442\u0432\u0430 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0457 \u0430\u0441\u043e\u0446\u0456\u0430\u0446\u0456\u0457 \u0430\u0434\u0432\u043e\u043a\u0430\u0442\u0456\u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0438 \u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c \u043f\u043e\u0447\u0430\u043b\u0438 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0430\u0442\u0438 \u0437 \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u043d\u044f\u043c \u0434\u0443\u0431\u043b\u0456\u043a\u0430\u0442\u0456\u0432 \u0443\u043a\u0440\u0430\u0457\u043d\u044c\u0441\u043a\u0438\u0445 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0456\u0432 \u0434\u043b\u044f \u0431\u0456\u0436\u0435\u043d\u0446\u0456\u0432 (\u0430 \u0441\u0430\u043c\u043e: \u0441\u0432\u0456\u0434\u043e\u0446\u0442\u0432 \u043f\u0440\u043e \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f, \u0448\u043b\u044e\u0431, \u0440\u043e\u0437\u043b\u0443\u0447\u0435\u043d\u043d\u044f \u0442\u0430 \u0456\u043d\u0448\u0456\u0445 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0456\u0432 \u0414\u0420\u0410\u0426\u0421). \u0429\u043e\u0431 \u0437\u0430\u043c\u043e\u0432\u0438\u0442\u0438 \u0434\u0443\u0431\u043b\u0456\u043a\u0430\u0442 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0456\u0432, \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u043e \u0437\u0432\u0435\u0440\u043d\u0443\u0442\u0438\u0441\u044f \u0434\u043e \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043d\u0438\u0446\u0442\u0432 \u041d\u0410\u0410\u0423 (\u0412\u0410\u0416\u041b\u0418\u0412\u041e), \u043d\u0430\u0434\u0430\u0442\u0438 \u043a\u043e\u043f\u0456\u044e \u043f\u0430\u0441\u043f\u043e\u0440\u0442\u0430 \u0442\u0430 \u0432\u043a\u0430\u0437\u0430\u0442\u0438 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442, \u044f\u043a\u0438\u0439 \u0431\u0430\u0436\u0430\u0454\u0442\u0435 \u043e\u0442\u0440\u0438\u043c\u0430\u0442\u0438. \u0410\u0434\u0440\u0435\u0441\u0430 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043d\u0438\u0446\u0442\u0432 \u0437\u0430\u00a0\u043f\u043e\u0441\u0438\u043b\u0430\u043d\u043d\u044f\u043c https://unba.org.ua/foreign-representations\u00a0(\u0443 \u0406\u0442\u0430\u043b\u0456\u0457 \u043f\u0440\u0430\u0446\u044e\u044e\u0442\u044c \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043d\u0438\u0446\u0442\u0432\u0430 \u0432 \u041c\u0456\u043b\u0430\u043d\u0456, \u0413\u0435\u043d\u0443i, \u041d\u0435\u0430\u043f\u043e\u043b\u0456 \u0442\u0430 \u041f\u0440\u0430\u0442\u043e). \u0412\u0430\u0440\u0442\u0456\u0441\u0442\u044c \u0432\u0438\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u043d\u044f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0456\u0432 \u0437 \u0432\u0456\u0434\u043f\u0440\u0430\u0432\u043a\u043e\u044e \u0439 \u0430\u043f\u043e\u0441\u0442\u0438\u043b\u0435\u043c \u2015 \u20ac40. \u0414\u043b\u044f \u0442\u0438\u0445, \u0445\u0442\u043e \u043d\u0435 \u0432 \u0437\u043c\u043e\u0437\u0456 \u0441\u043f\u043b\u0430\u0442\u0438\u0442\u0438 \u0437\u0430 \u043f\u043e\u0441\u043b\u0443\u0433\u0443, \u0432\u043e\u043d\u0430 \u0431\u0443\u0434\u0435 \u043d\u0430\u0434\u0430\u0432\u0430\u0442\u0438\u0441\u044f \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u043e. \u0411\u0456\u043b\u044c\u0448 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u0457\u00a0\u043d\u0430 \u0441\u0442\u043e\u0440\u0456\u043d\u0446\u0456 \u041d\u0410\u0410\u0423 \u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c \u0443 Facebook."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ordine nazionale degli avvocati dell'Ucraina all'estero"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Ordine degli avvocati dell'Ucraina all'estero ha attivato rappresentanze a Milano, Genova, Prato e Napoli per duplicati di documenti ucraini"",""url"":""https://www.facebook.com/UNBA.Foreign/posts/1359640941207406""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: true
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Ordine nazionale degli avvocati dell'Ucraina all'estero
-title: Ordine degli avvocati dell'Ucraina all'estero ha attivato rappresentanze a
-  Milano, Genova, Prato e Napoli per duplicati di documenti ucraini
-recipients: ''
-description: 'Le rappresentanze dell''Ordine nazionale degli avvocati dell''Ucraina
-  all''estero (NAAU) hanno iniziato ad aiutare con il rilascio di documenti ucraini
-  duplicati per i rifugiati (vale a dire: nascita, matrimonio, divorzio e altri documenti
-  del DRACS).
-  Per ordinare un duplicato dei documenti è necessario contattare gli uffici NAAU,
-  fornire una copia del passaporto e indicare il documento che si desidera ricevere.
-  Indirizzi degli uffici di rappresentanza al link https://unba.org.ua/foreign-representations
-  (in Italia ci sono uffici di rappresentanza a Milano, Genova, Napoli e Prato).
-  Costo del servizio € 40. Per coloro che non sono in grado di pagare il servizio,
-  sarà fornito gratuitamente.
-  Maggiori informazioni sulla pagina Facebook.
-
-  Представництва Національної асоціації адвокатів України за кордоном почали допомогати
-  з оформленням дублікатів україньских документів для біженців (а само: свідоцтв про
-  народження, шлюб, розлучення та іншіх документів ДРАЦС).
-  Щоб замовити дублікат документів, необхідно звернутися до представництв НААУ (ВАЖЛИВО),
-  надати копію паспорта та вказати документ, який бажаєте отримати.
-  Адреса представництв за посиланням https://unba.org.ua/foreign-representations (у
-  Італії працюють представництва в Мілані, Генуi, Неаполі та Прато).
-  Вартість виготовлення документів з відправкою й апостилем ― €40. Для тих, хто не
-  в змозі сплатити за послугу, вона буде надаватися безкоштовно.
-  Більш інформації на сторінці НААУ за кордоном у Facebook.'
-url: https://www.facebook.com/UNBA.Foreign/posts/1359640941207406
-address:
-  mode: autocomplete
-  address: {}
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/594,1202190350,2022-04-12 20:52:49,2022-04-12 17:39:31,A Montecatini (Pistoia) Comitato Ucraina nel cuore cerca volontari che parlino ucraino/russo,43.883179,10.7709533,Toscana,Pistoia,"[""Valid/Accettato"",""Help""]",,,"{""Posizione"":""43.883179 10.7709533"",""description"":""A Montecatini (Pistoia) e nella Valdinievole il Comitato Ucraina nel cuore cerca volontari che parlino ucraino e russo per supportare il Comitato nelle attivit\u00e0 di aiuto ai profughi ucraini."",""email"":""associazioneucrainanelcuore@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""ISO3166-2-lvl6"":""IT-PT"",""country"":""Italia"",""country_code"":""it"",""county"":""Pistoia"",""postcode"":""51016"",""state"":""Toscana"",""town"":""Montecatini Terme"",""village"":""Margine Coperta""},""boundingbox"":[""43.8517748"",""43.9284771"",""10.757093"",""10.819836""],""class"":""boundary"",""display_name"":""Montecatini Terme, Margine Coperta, Pistoia, Toscana, 51016, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7974581770814606,""lat"":""43.883179"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.7709533"",""osm_id"":42692,""osm_type"":""relation"",""place_id"":284437552,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Comitato Ucraina nel cuore"",""phoneNumber"":""+39 392 220 4049"",""recipients"":"""",""submit"":true,""title"":""A Montecatini (Pistoia) Comitato Ucraina nel cuore cerca volontari che parlino ucraino/russo"",""url"":""https://www.facebook.com/105483508750058/posts/118171537481255/""}","<pre><yamldata>
 nameSurname: Comitato Ucraina nel cuore
 phoneNumber: +39 392 220 4049
@@ -440,39 +488,6 @@ address:
     zip: '51016'
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: useful contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/592,1202123116,2022-04-12 17:00:12,2022-04-12 16:59:55,Booking.com offre ai rifugiati ucraini alloggi gratuiti o con tariffe scontate tra il 50% e il 99%,,,,,"[""Valid/Accettato"",""Services"",""hospitality""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Booking offre ai rifugiati dall\u2019Ucraina uno sconto compreso tra il 50% e il 99% sulle tue tariffe abituali, oppure un alloggio gratuito. In tal caso, per motivi tecnici, il prezzo che mostreremo per la camera o l\u2019unit\u00e0 sar\u00e0 pari a 0,01 EUR (eventuali tasse e supplementi esclusi) o l'equivalente nella valuta locale, ma gli ospiti non dovranno pagare nulla.\nL\u2019iniziativa durer\u00e0 fino al 30 giugno 2022. Ulteriori info al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Booking.com"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Booking.com offre ai rifugiati ucraini alloggi gratuiti o con tariffe scontate tra il 50% e il 99%"",""url"":""https://partner.booking.com/it/aiuto/tariffe-disponibilit%C3%A0/calendario-extranet/supporto-i-rifugiati-dall%E2%80%99ucraina""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: true
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Booking.com
-title: Booking.com offre ai rifugiati ucraini alloggi gratuiti o con tariffe scontate
-  tra il 50% e il 99%
-recipients: ''
-description: 'Booking offre ai rifugiati dall’Ucraina uno sconto compreso tra il 50%
-  e il 99% sulle tue tariffe abituali, oppure un alloggio gratuito. In tal caso, per
-  motivi tecnici, il prezzo che mostreremo per la camera o l’unità sarà pari a 0,01
-  EUR (eventuali tasse e supplementi esclusi) o l''equivalente nella valuta locale,
-  ma gli ospiti non dovranno pagare nulla.
-
-  L’iniziativa durerà fino al 30 giugno 2022. Ulteriori info al link.'
-url: https://partner.booking.com/it/aiuto/tariffe-disponibilit%C3%A0/calendario-extranet/supporto-i-rifugiati-dall%E2%80%99ucraina
-address:
-  mode: autocomplete
-  address: {}
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/268,1175847180,2022-04-12 14:39:01,2022-03-21 19:30:12,Chat Whatsapp di aiuto ai profughi ucraini in Italia,,,,,"[""Valid/Accettato"",""News"",""useful contact"",""hospitality"",""telegram-channel"",""tweet"",""Resources""]",,,"{""description"":""Ospitalit\u00e0 Profughi Ucraini\nhttps://chat.whatsapp.com/EmNbFZ7Dnb31WIcnPArDVo\n\nAiuto per Ucraina \nhttps://chat.whatsapp.com/K6pGarqrfSp9hT8chenQKa\n\nFonti:  https://m.facebook.com/groups/59931907857/permalink/10158966802972858/?sfnsn=scwspmo&ref=share  https://m.facebook.com/groups/59931907857/permalink/10158960316277858/?sfnsn=scwspmo&ref=share"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":"""",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Chat Whatsapp di aiuto ai profughi ucraini in Italia""}","<pre><yamldata>
@@ -584,21 +599,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 41.9039826 12.4719209
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/590,1201798757,2022-04-12 13:33:21,2022-04-12 12:46:43,"Emergenza Ucraina, online la mappa degli aiuti umanitari messi in campo dal Sistema Nazionale di Protezione Civile ",,,,,"[""Valid/Accettato"",""News"",""document_data""]",,,"{""description"":""La mappa mostra i luoghi in cui il Sistema di Protezione Civile si \u00e8 attivato per garantire assistenza umanitaria all\u2019Ucraina e ai Paesi interessati dai flussi di profughi in fuga dal conflitto. Un repository github (https://github.com/pcm-dpc/dati-ucraina-2022) \u00e8 la sorgente da cui ha origine la mappa."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://mappe.protezionecivile.gov.it/it/mappa/emergenza-ucraina-mappa-aiuti-umanitari-0"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Online la mappatura degli aiuti umanitari messi in campo dal Sistema di Protezione Civile""}","<pre><yamldata>
-title: Online la mappatura degli aiuti umanitari messi in campo dal Sistema di Protezione
-  Civile
-description: La mappa mostra i luoghi in cui il Sistema di Protezione Civile si è
-  attivato per garantire assistenza umanitaria all’Ucraina e ai Paesi interessati
-  dai flussi di profughi in fuga dal conflitto. Un repository github (https://github.com/pcm-dpc/dati-ucraina-2022)
-  è la sorgente da cui ha origine la mappa.
-link: https://mappe.protezionecivile.gov.it/it/mappa/emergenza-ucraina-mappa-aiuti-umanitari-0
-location:
-  mode: autocomplete
-  address: {}
-label: document_data
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/551,1198545650,2022-04-12 09:29:20,2022-04-09 11:42:05,Consolato Ucraina a Roma - Contatti ,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00100"",""quarter"":""Monte Sacro"",""road"":""Via Monte Pramaggiore"",""state"":""Lazio"",""suburb"":""Monte Sacro""},""boundingbox"":[""41.9303268"",""41.9312453"",""12.5374866"",""12.5390085""],""class"":""highway"",""display_name"":""Via Monte Pramaggiore, Monte Sacro, Roma, Roma Capitale, Lazio, 00100, Italia"",""importance"":0.61,""lat"":""41.9308165"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.5383171"",""osm_id"":26943866,""osm_type"":""way"",""place_id"":107499927,""type"":""residential""},""mode"":""autocomplete""},""aim"":""Orario: 9.00-12.30 e 15.00-16.30 di luned\u00ec, marted\u00ec, gioved\u00ec; 9.00-12.30 di venerd\u00ec"",""email"":""gc_it@mfa.gov.ua"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""06 82003641"",""submit"":true,""title"":""Consolato Ucraino a Roma - Contatti utili"",""url"":""""}","<pre><yamldata>
 title: Consolato Ucraino a Roma - Contatti utili
