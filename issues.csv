@@ -1,4 +1,74 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/604,1203383346,2022-04-13 14:29:22,2022-04-13 14:28:36,All’Università Bocconi di Milano nasce UASI - Ucraina Supporto e Informazione per offrire supporto legale a rifugiati ucraini ed enti impegnati nell’emergenza Ucraina,,,,,"[""Valid/Accettato"",""Services"",""Legal""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20136"",""quarter"":""Vigentina"",""road"":""Via Corrado Guglielmo Rontgen"",""state"":""Lombardia"",""suburb"":""Municipio 5""},""boundingbox"":[""45.4492051"",""45.4515967"",""9.1867565"",""9.1876216""],""class"":""highway"",""display_name"":""Via Corrado Guglielmo Rontgen, Vigentina, Municipio 5, Milano, Lombardia, 20136, Italia"",""importance"":0.51,""lat"":""45.4509094"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1874059"",""osm_id"":37042448,""osm_type"":""way"",""place_id"":111476102,""type"":""residential""},""mode"":""autocomplete""},""description"":""Una Unit di supporto giuridico per dare aiuto ai rifugiati ucraini e supporto a ong e istituzioni italiane che stanno affrontando l\u2019emergenza: \u00e8 Ucraina Supporto e Informazione (UASI), l\u2019unit\u00e0 appena nata in seno al Bocconi Lab in European Studies (BLEST) per iniziativa di docenti, studenti e alumni della Bocconi e sostenuta dalla Fondazione Romeo ed Enrica Invernizzi.\nUASI produrr\u00e0 materiale utile a coloro che fuggono dal conflitto e arrivano in Italia, piccole guide digitali in tre lingue (italiano, ucraino e russo) di supporto agli individui e alle amministrazioni per orientarsi nel complesso labirinto amministrativo e legale. Inoltre, offrir\u00e0 supporto alle organizzazioni e amministrazioni: sul modello delle cliniche legali, gli studenti Bocconi faranno attivit\u00e0 di sportello con Avvocati per l\u2019Ucraina, mentre la Unit fornir\u00e0 attivit\u00e0 di consulenza legale per le organizzazioni e attori istituzionali.\nSe fai parte di una organizzazione e vuoi entrare in contatto con noi, contattaci al uasi.blest@unibocconi.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Universit\u00e0 Bocconi Milano"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""All\u2019Universit\u00e0 Bocconi di Milano nasce UASI - Ucraina Supporto e Informazione per offrire supporto legale a rifugiati ucraini, enti e organizzazioni che stanno affrontando l\u2019emergenza Ucraina"",""url"":""https://blest.unibocconi.eu/focus-europe-and-ukraine/focus-ukraine/uasi-ucraina-supporto-e-informazione""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Università Bocconi Milano
+title: All’Università Bocconi di Milano nasce UASI - Ucraina Supporto e Informazione
+  per offrire supporto legale a rifugiati ucraini, enti e organizzazioni che stanno
+  affrontando l’emergenza Ucraina
+recipients: ''
+description: 'Una Unit di supporto giuridico per dare aiuto ai rifugiati ucraini e
+  supporto a ong e istituzioni italiane che stanno affrontando l’emergenza: è Ucraina
+  Supporto e Informazione (UASI), l’unità appena nata in seno al Bocconi Lab in European
+  Studies (BLEST) per iniziativa di docenti, studenti e alumni della Bocconi e sostenuta
+  dalla Fondazione Romeo ed Enrica Invernizzi.
+
+  UASI produrrà materiale utile a coloro che fuggono dal conflitto e arrivano in Italia,
+  piccole guide digitali in tre lingue (italiano, ucraino e russo) di supporto agli
+  individui e alle amministrazioni per orientarsi nel complesso labirinto amministrativo
+  e legale. Inoltre, offrirà supporto alle organizzazioni e amministrazioni: sul modello
+  delle cliniche legali, gli studenti Bocconi faranno attività di sportello con Avvocati
+  per l’Ucraina, mentre la Unit fornirà attività di consulenza legale per le organizzazioni
+  e attori istituzionali.
+
+  Se fai parte di una organizzazione e vuoi entrare in contatto con noi, contattaci
+  al uasi.blest@unibocconi.it'
+url: https://blest.unibocconi.eu/focus-europe-and-ukraine/focus-ukraine/uasi-ucraina-supporto-e-informazione
+address:
+  mode: autocomplete
+  address:
+    place_id: 111476102
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 37042448
+    boundingbox:
+    - '45.4492051'
+    - '45.4515967'
+    - '9.1867565'
+    - '9.1876216'
+    lat: '45.4509094'
+    lon: '9.1874059'
+    display_name: Via Corrado Guglielmo Rontgen, Vigentina, Municipio 5, Milano, Lombardia,
+      20136, Italia
+    class: highway
+    type: residential
+    importance: 0.51
+    address:
+      road: Via Corrado Guglielmo Rontgen
+      quarter: Vigentina
+      suburb: Municipio 5
+      city: Milano
+      county: Milano
+      ISO3166-2-lvl6: IT-MI
+      state: Lombardia
+      postcode: '20136'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/603,1203313414,2022-04-13 13:36:36,2022-04-13 13:35:51,ASILS - Associazione Scuole di Italiano come lingua seconda organizza 2 corsi online gratuiti per rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Meeting Place"",""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""1"",""postcode"":""00162"",""road"":""Piazza Bologna"",""state"":""Lazio"",""suburb"":""Municipio Roma II""},""boundingbox"":[""41.9136115"",""41.9137115"",""12.5213118"",""12.5214118""],""class"":""amenity"",""display_name"":""Meeting Place, 1, Piazza Bologna, Municipio Roma II, Roma, Roma Capitale, Lazio, 00162, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//food_cafe.p.20.png"",""importance"":0.5209999999999999,""lat"":""41.9136615"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.5213618"",""osm_id"":6495582227,""osm_type"":""node"",""place_id"":70676310,""type"":""cafe""},""mode"":""autocomplete""},""description"":""L\u2019ASILS (Associazione Scuole di Italiano come lingua seconda) propone 2 corsi online gratuiti aperti alle persone ucraine in fuga dalla guerra.\n\nI corsi a disposizione saranno due: un corso per \u201cPrincipanti Assoluti\u201d (per coloro che non hanno nessuna conoscenza dell\u2019italiano) e un corso \u201cA1\u201d (per coloro che hanno gi\u00e0 delle conoscenze minime di base della nostra lingua). I due corsi saranno strutturati con 3 incontri settimanali online di 1,5 ore ciascuno, per un totale di 4,5 ore settimanali, e avranno una durata di 3 mesi (12 settimane) ciascuno.\n\nPer accedere ai corsi che cominceranno il 20 04 2022, luned\u00ec mercoled\u00ec venerd\u00ec, orario 17.30-19, sar\u00e0 sufficiente iscriversi online (vedi link) per ottenere le credenziali di accesso al corso.\nLa pagina con le info e per iscriversi \u00e8 in lingua ucraina. \n\n\u0422\u043e\u043c\u0443 ASILS \u0437 \u0440\u0430\u0434\u0456\u0441\u0442\u044e \u0432\u0456\u0434\u043a\u0440\u0438\u0432\u0430\u0454 2 \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u0456 \u043e\u043d\u043b\u0430\u0439\u043d-\u043a\u0443\u0440\u0441\u0438, \u0434\u043e \u044f\u043a\u0438\u0445 \u043c\u043e\u0436\u043d\u0430 \u043b\u0435\u0433\u043a\u043e \u043e\u0442\u0440\u0438\u043c\u0430\u0442\u0438 \u0434\u043e\u0441\u0442\u0443\u043f \u0437\u0430 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u043e\u044e \u0406\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u0437 \u0431\u0443\u0434\u044c-\u044f\u043a\u043e\u0433\u043e \u043a\u0443\u0442\u043e\u0447\u043a\u0430 \u0406\u0442\u0430\u043b\u0456\u0457, \u0434\u0435 \u0432\u0438\u043c\u0443\u0448\u0435\u043d\u0456 \u043f\u0435\u0440\u0435\u0441\u0435\u043b\u0435\u043d\u0446\u0456 \u0437\u043c\u043e\u0436\u0443\u0442\u044c \u0437\u0456\u0431\u0440\u0430\u0442\u0438\u0441\u044f \u0440\u0430\u0437\u043e\u043c. \u0406\u043d\u0456\u0446\u0456\u0430\u0442\u0438\u0432\u0430 \u0441\u043f\u0440\u044f\u043c\u043e\u0432\u0430\u043d\u0430 \u043d\u0430 \u0448\u0438\u0440\u043e\u043a\u0435 \u043e\u0445\u043e\u043f\u043b\u0435\u043d\u043d\u044f \u043d\u0430\u0432\u0456\u0442\u044c \u0442\u0438\u0445 \u043b\u044e\u0434\u0435\u0439, \u044f\u043a\u0456 \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u044e\u0442\u044c \u0443 \u0440\u0430\u0439\u043e\u043d\u0430\u0445, \u0434\u0435 \u043c\u043e\u0432\u043d\u0456 \u043a\u0443\u0440\u0441\u0438 \u043d\u0435 \u043f\u0440\u043e\u0432\u043e\u0434\u044f\u0442\u044c\u0441\u044f \u043d\u0430\u0436\u0438\u0432\u043e.\n\u0429\u043e\u0431 \u043e\u0442\u0440\u0438\u043c\u0430\u0442\u0438 \u0434\u043e\u0441\u0442\u0443\u043f \u0434\u043e \u043a\u0443\u0440\u0441\u0456\u0432, \u044f\u043a\u0456 \u0440\u043e\u0437\u043f\u043e\u0447\u043d\u0443\u0442\u044c\u0441\u044f 20 04 2022 \u043f\u043e\u043d\u0435\u0434\u0456\u043b\u043e\u043a \u0441\u0435\u0440\u0435\u0434\u0430 \u043f\u2019\u044f\u0442\u043d\u0438\u0446\u044f 17-30-19, \u0434\u043e\u0441\u0442\u0430\u0442\u043d\u044c\u043e \u0431\u0443\u0434\u0435 \u0437\u0430\u0440\u0435\u0454\u0441\u0442\u0440\u0443\u0432\u0430\u0442\u0438\u0441\u044f \u043d\u0430 \u0446\u0456\u0439 \u0432\u0435\u0431-\u0441\u0442\u043e\u0440\u0456\u043d\u0446\u0456, \u0442\u0430 \u043e\u0442\u0440\u0438\u043c\u0430\u0442\u0438 \u043e\u0431\u043b\u0456\u043a\u043e\u0432\u0456 \u0434\u0430\u043d\u0456 \u0434\u043b\u044f \u0443\u0447\u0430\u0441\u0442\u0456 \u0432 \u043d\u0438\u0445 https://www.asils.it/per-ucraina/"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Asils"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""ASILS - Associazione Scuole di Italiano come lingua seconda organizza 2 corsi online gratuiti per le persone ucraine in fuga dalla guerra"",""url"":""https://www.asils.it/per-ucraina/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
