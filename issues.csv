@@ -1,4 +1,64 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/602,1202902603,2022-04-13 13:27:02,2022-04-13 07:58:40,"Palermo per l'Ucraina: 9 agenzie di viaggi lanciano il ""volo sospeso"" per donare viaggi ai rifugiati ucraini",,,,,"[""Valid/Accettato"",""Services"",""fundraising"",""transport""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-82"",""ISO3166-2-lvl6"":""IT-PA"",""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""hamlet"":""Quartiere Matteotti"",""postcode"":""90144"",""road"":""Via Empedocle Restivo"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1418507"",""38.1422777"",""13.3370385"",""13.3372359""],""class"":""highway"",""display_name"":""Via Empedocle Restivo, Quartiere Matteotti, VIII Circoscrizione, Palermo, Sicilia, 90144, Italia"",""importance"":0.4,""lat"":""38.1419885"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3371606"",""osm_id"":526088542,""osm_type"":""way"",""place_id"":213266908,""type"":""secondary""},""mode"":""autocomplete""},""description"":""A Palermo e Mazara del Vallo (Tp) 9 agenzie di viaggi lanciano il \""volo sospeso\"" per donare viaggi aerei ai rifugiati ucraini. Chiunque pu\u00f2 fare una offerta e regalare un tratto di viaggio aereo a chi fugge dall'Ucraina. \nL'idea nasce da Manfr\u00e8 Viaggi di Palermo che ha gi\u00e0 regalato alcuni voli a rifugiati ucraini \nPer domande e dettagli:\nWhatsapp: +39 329 262 2106\nPagina Facebook al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Agenzie di viaggi Palermo e Mazara del Vallo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""Palermo per l'Ucraina: 9 agenzie di viaggi lanciano a Palermo il \""volo sospeso\"" per donare viaggi aerei ai rifugiati ucraini"",""url"":""https://www.facebook.com/PalermoperUcraina/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: true
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Agenzie di viaggi Palermo e Mazara del Vallo
+title: 'Palermo per l''Ucraina: 9 agenzie di viaggi lanciano a Palermo il ""volo sospeso""
+  per donare viaggi aerei ai rifugiati ucraini'
+recipients: ''
+description: ""A Palermo e Mazara del Vallo (Tp) 9 agenzie di viaggi lanciano il \""\
+  volo sospeso\"" per donare viaggi aerei ai rifugiati ucraini. Chiunque può fare una\
+  \ offerta e regalare un tratto di viaggio aereo a chi fugge dall'Ucraina. \nL'idea\
+  \ nasce da Manfrè Viaggi di Palermo che ha già regalato alcuni voli a rifugiati\
+  \ ucraini \nPer domande e dettagli:\nWhatsapp: +39 329 262 2106\nPagina Facebook\
+  \ al link.""
+url: https://www.facebook.com/PalermoperUcraina/
+address:
+  mode: autocomplete
+  address:
+    place_id: 213266908
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 526088542
+    boundingbox:
+    - '38.1418507'
+    - '38.1422777'
+    - '13.3370385'
+    - '13.3372359'
+    lat: '38.1419885'
+    lon: '13.3371606'
+    display_name: Via Empedocle Restivo, Quartiere Matteotti, VIII Circoscrizione,
+      Palermo, Sicilia, 90144, Italia
+    class: highway
+    type: secondary
+    importance: 0.4
+    address:
+      road: Via Empedocle Restivo
+      hamlet: Quartiere Matteotti
+      suburb: VIII Circoscrizione
+      city: Palermo
+      county: Palermo
+      ISO3166-2-lvl6: IT-PA
+      state: Sicilia
+      ISO3166-2-lvl4: IT-82
+      postcode: '90144'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/598,1202398169,2022-04-13 07:41:13,2022-04-12 21:17:07,"Regione Emilia Romagna, bus e treni gratuiti per gli studenti ucraini",,,,,"[""Valid/Accettato"",""Services"",""transport"",""Children"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""house_number"":""52"",""office"":""URP Regione Emilia-Romagna"",""postcode"":""14007"",""road"":""Viale Aldo Moro"",""state"":""Emilia-Romagna"",""suburb"":""San Donato""},""boundingbox"":[""44.5085578"",""44.5086578"",""11.3633196"",""11.3634196""],""class"":""office"",""display_name"":""URP Regione Emilia-Romagna, 52, Viale Aldo Moro, San Donato, San Donato-San Vitale, Bologna, Emilia-Romagna, 14007, Italia"",""importance"":0.5209999999999999,""lat"":""44.5086078"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.3633696"",""osm_id"":4152700305,""osm_type"":""node"",""place_id"":47977253,""type"":""government""},""mode"":""autocomplete""},""description"":""I giovani profughi dall\u2019Ucraina che frequentano le scuole medie e superiori in Emilia-Romagna (nati tra il 2003 e il 2011) viaggiano gratuitamente su bus e treni regionali per tutto il 2022, grazie ad un accordo tra Regione e aziende dei trasporti.\nI non studenti possono accedere alle agevolazioni previste dalla Regione per tutti i rifugiati (vedi https://www.tper.it/mimuovoinsieme)."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Emilia Romagna"",""recipients"":""Studenti ucraini"",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""Regione Emilia Romagna, bus e treni gratuiti per gli studenti ucraini"",""url"":""http://www.regioni.it/dalleregioni/2022/04/08/ucraina-i-giovani-profughi-che-frequentano-le-medie-e-le-superiori-in-emilia-romagna-viaggiano-gratuitamente-su-bus-e-treni-regionali-per-tutto-il-2022-accordo-tra-regione-e-aziende-trasporti-gli-a-647633/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
