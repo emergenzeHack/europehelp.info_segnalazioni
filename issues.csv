@@ -1,5 +1,202 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/615,1204395400,2022-04-14 14:40:28,2022-04-14 11:12:07,"Attività di Emergency in Italia per chi arriva dall'Ucraina: assistenza medica, orientamento ai servizi, kit di prima necessità",,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""materialGoods"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""state"":""Lombardia""},""boundingbox"":[""45.3867381"",""45.5358482"",""9.0408867"",""9.2781103""],""class"":""boundary"",""display_name"":""Milano, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8390652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":44915,""osm_type"":""relation"",""place_id"":283684439,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Ambulatori, Sportelli di orientamento socio-sanitario e ascolto psicologico a: Marghera, Brescia, Milano, Napoli, Castel Volturno, Sassari e Polistena. offrono: - visite mediche e orientamento sanitario per indirizzarli verso strutture dove effettuare visite specialistiche; - assistenza per procedere con la richiesta del codice Stp e dell\u2019iscrizione al Servizio sanitario nazionale, da cui dipende la possibilit\u00e0 di accedere alla scelta del medico di medicina generale; - orientamento agli hub vaccinali presenti sul territorio, in cui effettuare vaccini anti-Covid e i richiami; - orientamento per i minori per il completamento dei cicli di vaccini obbligatori, in collaborazione con il Dipartimento di prevenzione dell\u2019ASL locale.\nA Milano Emergency offre ai rifugiati ucraini anche supporto alimentare attraverso il progetto Nessuno Escluso. Contatti: 02 86316890."",""email"":""info@emergency.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":false,""label"":""useful contact"",""phoneNumber"":""(+39) 02 881881"",""submit"":true,""title"":""Emergency in Italia per persone in arrivo dall'Ucraina - assistenza medica, orientamento ai servizi, kit prima necessit\u00e0"",""url"":""https://www.emergency.it/progetti/emergenza-ucraina-cosa-facciamo-in-italia/""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/607,1203440052,2022-04-14 14:46:41,2022-04-13 15:11:16,Ordine degli avvocati di Milano: attivo sportello telefonico e email per supporto legale ai rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""amenity"":""BNL"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""1"",""neighbourhood"":""Guastalla"",""postcode"":""20122"",""road"":""Via Carlo Freguglia"",""state"":""Lombardia"",""suburb"":""Municipio 1""},""boundingbox"":[""45.4608435"",""45.4609435"",""9.2006645"",""9.2007645""],""class"":""amenity"",""display_name"":""BNL, 1, Via Carlo Freguglia, Guastalla, Municipio 1, Milano, Lombardia, 20122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//money_bank2.p.20.png"",""importance"":0.6309999999999999,""lat"":""45.4608935"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2007145"",""osm_id"":3503711029,""osm_type"":""node"",""place_id"":43749126,""type"":""bank""},""mode"":""autocomplete""},""description"":""L'Ordine degli Avvocati di Milano ha creato in collegamento con la Questura, l'Assessorato alle Politiche sociali del Comune di Milano, le associazioni e gli operatori in campo per la gestione dell\u2019accoglienza di chi fugge dalla guerra, uno sportello di orientamento legale per i profughi ucraini. L'iniziativa, al via da luned\u00ec 7 marzo, vede in campo diversi avvocati che si sono offerti di collaborare a un progetto che rappresenta un unicum. Allo Sportello #unaiutoconcreto dell'Ordine (Tel. 334 3653153 attivo da luned\u00ec a venerd\u00ec ore 9.30-13.30) \u00e8 possibile chiedere informazioni sui permessi di soggiorno (pur con la garanzia del permesso di soggiorno temporaneo consentito dal Governo sulla base del possesso del passaporto ucraino) o rispetto all'affido; le richieste di aiuto per l'accoglienza vengono indirizzate alle diverse associazioni che se ne occupano. Info: sportello@ordineavvocatimilano.it\nThe Milan Bar Association has created with the Police Headquarters, the Municipality of Milan and some associations and operators, a legal help desk for Ukrainian refugees. The initiative, which started March 7th, has seen several lawyers offering to collaborate on a unique project. At the #unaiutoconcreto Help desk (Tel. 334 3653153 active from Monday to Friday, 9.30-13.30) it is possible to request information on residence permits or about foster care; the help requests for hospitality are addressed to the various associations dealing with them. Info: sportello@ordineavvocatimilano.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ordine degli Avvocati di Milano"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Ordine degli avvocati di Milano attivo sportello telefonico e email di supporto legale per i profughi ucraini"",""url"":""https://www.ordineavvocatimilano.it/it/gli-avvocati-per-lucraina-lawyers4ukraine/p565""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Ordine degli Avvocati di Milano
+title: Ordine degli avvocati di Milano attivo sportello telefonico e email di supporto
+  legale per i profughi ucraini
+recipients: ''
+description: 'L''Ordine degli Avvocati di Milano ha creato in collegamento con la
+  Questura, l''Assessorato alle Politiche sociali del Comune di Milano, le associazioni
+  e gli operatori in campo per la gestione dell’accoglienza di chi fugge dalla guerra,
+  uno sportello di orientamento legale per i profughi ucraini.
+  L''iniziativa, al via da lunedì 7 marzo, vede in campo diversi avvocati che si sono
+  offerti di collaborare a un progetto che rappresenta un unicum.
+  Allo Sportello #unaiutoconcreto dell''Ordine (Tel. 334 3653153 attivo da lunedì
+  a venerdì ore 9.30-13.30) è possibile chiedere informazioni sui permessi di soggiorno
+  (pur con la garanzia del permesso di soggiorno temporaneo consentito dal Governo
+  sulla base del possesso del passaporto ucraino) o rispetto all''affido; le richieste
+  di aiuto per l''accoglienza vengono indirizzate alle diverse associazioni che se
+  ne occupano.
+Info: sportello@ordineavvocatimilano.it
+
+  The Milan Bar Association has created with the Police Headquarters, the Municipality
+  of Milan and some associations and operators, a legal help desk for Ukrainian refugees.
+  The initiative, which started March 7th, has seen several lawyers offering to collaborate
+  on a unique project.
+  At the #unaiutoconcreto Help desk (Tel. 334 3653153 active from Monday to Friday,
+  9.30-13.30) it is possible to request information on residence permits or about
+  foster care; the help requests for hospitality are addressed to the various associations
+  dealing with them.
+  Info: sportello@ordineavvocatimilano.it'
+url: https://www.ordineavvocatimilano.it/it/gli-avvocati-per-lucraina-lawyers4ukraine/p565
+address:
+  mode: autocomplete
+  address:
+    place_id: 43749126
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 3503711029
+    boundingbox:
+    - '45.4608435'
+    - '45.4609435'
+    - '9.2006645'
+    - '9.2007645'
+    lat: '45.4608935'
+    lon: '9.2007145'
+    display_name: BNL, 1, Via Carlo Freguglia, Guastalla, Municipio 1, Milano, Lombardia,
+      20122, Italia
+    class: amenity
+    type: bank
+    importance: 0.6309999999999999
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//money_bank2.p.20.png
+    address:
+      amenity: BNL
+      house_number: '1'
+      road: Via Carlo Freguglia
+      neighbourhood: Guastalla
+      suburb: Municipio 1
+      city: Milano
+      county: Milano
+      ISO3166-2-lvl6: IT-MI
+      state: Lombardia
+      postcode: '20122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/611,1204356713,2022-04-14 14:45:46,2022-04-14 10:29:26,Medici del Mondo in Ucraina e ai confini del Paese: servizi e attività,,,,,"[""Valid/Accettato"",""Services"",""healthcare"",""psychologicalSupport"",""women""]",,,"{""address"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua"",""district"":""Ivano-Frankivsk Raion"",""municipality"":""Bukachivtsi Settlement Hromada"",""postcode"":""77062"",""state"":""Oblast' di Ivano-Frankivs'k"",""village"":""Cherniv""},""boundingbox"":[""49.260338"",""49.300338"",""24.43396"",""24.47396""],""class"":""place"",""display_name"":""Cherniv, Bukachivtsi Settlement Hromada, Ivano-Frankivsk Raion, Oblast' di Ivano-Frankivs'k, 77062, Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png"",""importance"":0.4265315803688624,""lat"":""49.280338"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""24.45396"",""osm_id"":337564292,""osm_type"":""node"",""place_id"":1230287,""type"":""village""},""mode"":""autocomplete""},""aim"":""Lo staff internazionale di Medici del Mondo \u00e8 presente alla frontiera tra Ucraina e Polonia, Romania, Ungheria, Slovacchia e Moldavia (al link una mappa con le localit\u00e0 dove \u00e8 presente Medici del Mondo) ; fornisce materiale sanitario e medicine agli ospedali ucraini; \noffre consulti a distanza psicologico e ginecologico; \ndistribuisce kit sanitari anche a chi arriva alla frontiera italiana (Treviso e Trieste)."",""email"":""info@medicidelmondo.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":false,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Medici del Mondo in Ucraina e ai confini del Paese"",""url"":""https://www.medecinsdumonde.org/fr/actualites/europe/2022/03/17/que-font-actuellement-nos-equipes-en-ukraine-et-dans-les-pays-voisins""}","<pre><yamldata>
+title: Medici del Mondo in Ucraina e ai confini del Paese
+phoneNumber: ''
+email: info@medicidelmondo.it
+aim: ""Lo staff internazionale di Medici del Mondo è presente alla frontiera tra Ucraina e Polonia, Romania, Ungheria, Slovacchia\
+  \ e Moldavia (al link una mappa con le località dove è presente Medici del Mondo) ; fornisce materiale sanitario e medicine agli ospedali ucraini;\
+  \ \noffre consulti a distanza psicologico e ginecologico; \ndistribuisce kit sanitari\
+  \ anche a chi arriva alla frontiera italiana (Treviso e Trieste).""
+url: https://www.medecinsdumonde.org/fr/actualites/europe/2022/03/17/que-font-actuellement-nos-equipes-en-ukraine-et-dans-les-pays-voisins
+address:
+  mode: autocomplete
+  address:
+    place_id: 1230287
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 337564292
+    boundingbox:
+    - '49.260338'
+    - '49.300338'
+    - '24.43396'
+    - '24.47396'
+    lat: '49.280338'
+    lon: '24.45396'
+    display_name: Cherniv, Bukachivtsi Settlement Hromada, Ivano-Frankivsk Raion,
+      Oblast' di Ivano-Frankivs'k, 77062, Ucraina
+    class: place
+    type: village
+    importance: 0.4265315803688624
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png
+    address:
+      village: Cherniv
+      municipality: Bukachivtsi Settlement Hromada
+      district: Ivano-Frankivsk Raion
+      state: Oblast' di Ivano-Frankivs'k
+      postcode: '77062'
+      country: Ucraina
+      country_code: ua
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: false
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/612,1204363065,2022-04-14 14:45:32,2022-04-14 10:36:31,Asgi - Associazione Studi Giuridici per l'Immigrazione offre servizio antidiscriminazione a stranieri e migranti,,,,,"[""Valid/Accettato"",""Services"",""Legal""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""state"":""Piemonte""},""boundingbox"":[""45.0067924"",""45.1402175"",""7.5778348"",""7.7733388""],""class"":""boundary"",""display_name"":""Torino, Piemonte, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8068062387577691,""lat"":""45.0677551"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6824892"",""osm_id"":43992,""osm_type"":""relation"",""place_id"":284787924,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Asgi offre un servizio antidiscriminazione rivolto a popolazione straniera e con background migratorio. Referenti per le sezioni territoriali: https://www.asgi.it/sezioni-territoriali/"",""email"":""antidiscriminazione@asgi.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":false,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Associazione Studi Giuridici per l'Immigrazione"",""url"":""https://www.asgi.it/servizio-antidiscriminazione/""}","<pre><yamldata>
+title: Associazione Studi Giuridici per l'Immigrazione 
+phoneNumber: ''
+email: antidiscriminazione@asgi.it
+aim: 'Asgi offre un servizio antidiscriminazione rivolto a popolazione straniera e con background
+  migratorio.
+Referenti per le sezioni territoriali: https://www.asgi.it/sezioni-territoriali/'
+url: https://www.asgi.it/servizio-antidiscriminazione/
+address:
+  mode: autocomplete
+  address:
+    place_id: 284787924
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43992
+    boundingbox:
+    - '45.0067924'
+    - '45.1402175'
+    - '7.5778348'
+    - '7.7733388'
+    lat: '45.0677551'
+    lon: '7.6824892'
+    display_name: Torino, Piemonte, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8068062387577691
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Torino
+      county: Torino
+      state: Piemonte
+      ISO3166-2-lvl4: IT-21
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: false
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/614,1204374120,2022-04-14 14:44:48,2022-04-14 10:49:09,Emergency in Moldavia: servizi e attività per profughi ucraini,,,,,"[""Valid/Accettato"",""Services"",""healthcare"",""psychologicalSupport""]",,,"{""address"":{""address"":{""address"":{""city"":""B\u0103l\u021bi"",""country"":""Moldavia"",""country_code"":""md"",""municipality"":""B\u0103l\u021bi Municipality"",""postcode"":""MD-3121""},""boundingbox"":[""47.6023599"",""47.9223599"",""27.768665"",""28.088665""],""class"":""place"",""display_name"":""B\u0103l\u021bi, B\u0103l\u021bi Municipality, MD-3121, Moldavia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.508344381427577,""lat"":""47.7623599"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""27.928665"",""osm_id"":266185307,""osm_type"":""node"",""place_id"":523194,""type"":""city""},""mode"":""autocomplete""},""aim"":""Attraverso un Politruck offrono cure e assistenza psicologica ai profughi ospitati nel Centro di prima accoglienza. \n\nIl team, composto da medico, infermiere, psicologo, mediatore culturale e logisti garantisce cure mediche di base, infermieristiche, supporto psicologico e orientamento ai servizi sul territorio alle persone in fuga dalla guerra in Ucraina"",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":false,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Emergency in Moldavia"",""url"":""https://www.emergency.it/progetti/assistenza-ai-profughi-in-fuga-dalla-guerra-in-ucraina/""}","<pre><yamldata>
+title: Emergency in Moldavia
+phoneNumber: ''
+email: ''
+aim: ""Attraverso un Politruck offrono cure e assistenza psicologica ai profughi ospitati\
+  \ nel Centro di prima accoglienza. \n\nIl team, composto da medico, infermiere,\
+  \ psicologo, mediatore culturale e logisti garantisce cure mediche di base, infermieristiche,\
+  \ supporto psicologico e orientamento ai servizi sul territorio alle persone in\
+  \ fuga dalla guerra in Ucraina""
+url: https://www.emergency.it/progetti/assistenza-ai-profughi-in-fuga-dalla-guerra-in-ucraina/
+address:
+  mode: autocomplete
+  address:
+    place_id: 523194
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 266185307
+    boundingbox:
+    - '47.6023599'
+    - '47.9223599'
+    - '27.768665'
+    - '28.088665'
+    lat: '47.7623599'
+    lon: '27.928665'
+    display_name: Bălți, Bălți Municipality, MD-3121, Moldavia
+    class: place
+    type: city
+    importance: 0.508344381427577
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Bălți
+      municipality: Bălți Municipality
+      postcode: MD-3121
+      country: Moldavia
+      country_code: md
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: false
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/615,1204395400,2022-04-14 14:44:25,2022-04-14 11:12:07,"Attività di Emergency in Italia per chi arriva dall'Ucraina: assistenza medica, orientamento ai servizi, kit di prima necessità",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""state"":""Lombardia""},""boundingbox"":[""45.3867381"",""45.5358482"",""9.0408867"",""9.2781103""],""class"":""boundary"",""display_name"":""Milano, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8390652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":44915,""osm_type"":""relation"",""place_id"":283684439,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Ambulatori, Sportelli di orientamento socio-sanitario e ascolto psicologico a: Marghera, Brescia, Milano, Napoli, Castel Volturno, Sassari e Polistena. offrono: - visite mediche e orientamento sanitario per indirizzarli verso strutture dove effettuare visite specialistiche; - assistenza per procedere con la richiesta del codice Stp e dell\u2019iscrizione al Servizio sanitario nazionale, da cui dipende la possibilit\u00e0 di accedere alla scelta del medico di medicina generale; - orientamento agli hub vaccinali presenti sul territorio, in cui effettuare vaccini anti-Covid e i richiami; - orientamento per i minori per il completamento dei cicli di vaccini obbligatori, in collaborazione con il Dipartimento di prevenzione dell\u2019ASL locale.\nA Milano Emergency offre ai rifugiati ucraini anche supporto alimentare attraverso il progetto Nessuno Escluso. Contatti: 02 86316890."",""email"":""info@emergency.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":false,""label"":""useful contact"",""phoneNumber"":""(+39) 02 881881"",""submit"":true,""title"":""Emergency in Italia per persone in arrivo dall'Ucraina - assistenza medica, orientamento ai servizi, kit prima necessit\u00e0"",""url"":""https://www.emergency.it/progetti/emergenza-ucraina-cosa-facciamo-in-italia/""}","<pre><yamldata>
 title: Emergency in Italia per persone in arrivo dall'Ucraina - assistenza medica,
   orientamento ai servizi, kit prima necessità
 phoneNumber: (+39) 02 881881
@@ -46,124 +243,6 @@ address:
       state: Lombardia
       country: Italia
       country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: false
-label: useful contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/612,1204363065,2022-04-14 14:13:19,2022-04-14 10:36:31,Asgi - Associazione Studi Giuridici per l'Immigrazione offre servizio antidiscriminazione a stranieri e migranti,,,,,"[""Valid/Accettato"",""Legal"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""state"":""Piemonte""},""boundingbox"":[""45.0067924"",""45.1402175"",""7.5778348"",""7.7733388""],""class"":""boundary"",""display_name"":""Torino, Piemonte, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8068062387577691,""lat"":""45.0677551"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6824892"",""osm_id"":43992,""osm_type"":""relation"",""place_id"":284787924,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Asgi offre un servizio antidiscriminazione rivolto a popolazione straniera e con background migratorio. Referenti per le sezioni territoriali: https://www.asgi.it/sezioni-territoriali/"",""email"":""antidiscriminazione@asgi.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":false,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Associazione Studi Giuridici per l'Immigrazione"",""url"":""https://www.asgi.it/servizio-antidiscriminazione/""}","<pre><yamldata>
-title: Associazione Studi Giuridici per l'Immigrazione 
-phoneNumber: ''
-email: antidiscriminazione@asgi.it
-aim: 'Asgi offre un servizio antidiscriminazione rivolto a popolazione straniera e con background
-  migratorio.
-Referenti per le sezioni territoriali: https://www.asgi.it/sezioni-territoriali/'
-url: https://www.asgi.it/servizio-antidiscriminazione/
-address:
-  mode: autocomplete
-  address:
-    place_id: 284787924
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 43992
-    boundingbox:
-    - '45.0067924'
-    - '45.1402175'
-    - '7.5778348'
-    - '7.7733388'
-    lat: '45.0677551'
-    lon: '7.6824892'
-    display_name: Torino, Piemonte, Italia
-    class: boundary
-    type: administrative
-    importance: 0.8068062387577691
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Torino
-      county: Torino
-      state: Piemonte
-      ISO3166-2-lvl4: IT-21
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: false
-label: useful contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/614,1204374120,2022-04-14 14:01:31,2022-04-14 10:49:09,Emergency in Moldavia: servizi e attività per profughi ucraini,,,,,"[""Valid/Accettato"",""useful contact"",""healthcare"",""psychologicalSupport""]",,,"{""address"":{""address"":{""address"":{""city"":""B\u0103l\u021bi"",""country"":""Moldavia"",""country_code"":""md"",""municipality"":""B\u0103l\u021bi Municipality"",""postcode"":""MD-3121""},""boundingbox"":[""47.6023599"",""47.9223599"",""27.768665"",""28.088665""],""class"":""place"",""display_name"":""B\u0103l\u021bi, B\u0103l\u021bi Municipality, MD-3121, Moldavia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.508344381427577,""lat"":""47.7623599"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""27.928665"",""osm_id"":266185307,""osm_type"":""node"",""place_id"":523194,""type"":""city""},""mode"":""autocomplete""},""aim"":""Attraverso un Politruck offrono cure e assistenza psicologica ai profughi ospitati nel Centro di prima accoglienza. \n\nIl team, composto da medico, infermiere, psicologo, mediatore culturale e logisti garantisce cure mediche di base, infermieristiche, supporto psicologico e orientamento ai servizi sul territorio alle persone in fuga dalla guerra in Ucraina"",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":false,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Emergency in Moldavia"",""url"":""https://www.emergency.it/progetti/assistenza-ai-profughi-in-fuga-dalla-guerra-in-ucraina/""}","<pre><yamldata>
-title: Emergency in Moldavia
-phoneNumber: ''
-email: ''
-aim: ""Attraverso un Politruck offrono cure e assistenza psicologica ai profughi ospitati\
-  \ nel Centro di prima accoglienza. \n\nIl team, composto da medico, infermiere,\
-  \ psicologo, mediatore culturale e logisti garantisce cure mediche di base, infermieristiche,\
-  \ supporto psicologico e orientamento ai servizi sul territorio alle persone in\
-  \ fuga dalla guerra in Ucraina""
-url: https://www.emergency.it/progetti/assistenza-ai-profughi-in-fuga-dalla-guerra-in-ucraina/
-address:
-  mode: autocomplete
-  address:
-    place_id: 523194
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 266185307
-    boundingbox:
-    - '47.6023599'
-    - '47.9223599'
-    - '27.768665'
-    - '28.088665'
-    lat: '47.7623599'
-    lon: '27.928665'
-    display_name: Bălți, Bălți Municipality, MD-3121, Moldavia
-    class: place
-    type: city
-    importance: 0.508344381427577
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
-    address:
-      city: Bălți
-      municipality: Bălți Municipality
-      postcode: MD-3121
-      country: Moldavia
-      country_code: md
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: false
-label: useful contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/611,1204356713,2022-04-14 13:59:49,2022-04-14 10:29:26,Medici del Mondo in Ucraina e ai confini del Paese: servizi e attività,,,,,"[""Valid/Accettato"",""useful contact"",""healthcare"",""psychologicalSupport"",""women""]",,,"{""address"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua"",""district"":""Ivano-Frankivsk Raion"",""municipality"":""Bukachivtsi Settlement Hromada"",""postcode"":""77062"",""state"":""Oblast' di Ivano-Frankivs'k"",""village"":""Cherniv""},""boundingbox"":[""49.260338"",""49.300338"",""24.43396"",""24.47396""],""class"":""place"",""display_name"":""Cherniv, Bukachivtsi Settlement Hromada, Ivano-Frankivsk Raion, Oblast' di Ivano-Frankivs'k, 77062, Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png"",""importance"":0.4265315803688624,""lat"":""49.280338"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""24.45396"",""osm_id"":337564292,""osm_type"":""node"",""place_id"":1230287,""type"":""village""},""mode"":""autocomplete""},""aim"":""Lo staff internazionale di Medici del Mondo \u00e8 presente alla frontiera tra Ucraina e Polonia, Romania, Ungheria, Slovacchia e Moldavia (al link una mappa con le localit\u00e0 dove \u00e8 presente Medici del Mondo) ; fornisce materiale sanitario e medicine agli ospedali ucraini; \noffre consulti a distanza psicologico e ginecologico; \ndistribuisce kit sanitari anche a chi arriva alla frontiera italiana (Treviso e Trieste)."",""email"":""info@medicidelmondo.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":false,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Medici del Mondo in Ucraina e ai confini del Paese"",""url"":""https://www.medecinsdumonde.org/fr/actualites/europe/2022/03/17/que-font-actuellement-nos-equipes-en-ukraine-et-dans-les-pays-voisins""}","<pre><yamldata>
-title: Medici del Mondo in Ucraina e ai confini del Paese
-phoneNumber: ''
-email: info@medicidelmondo.it
-aim: ""Lo staff internazionale di Medici del Mondo è presente alla frontiera tra Ucraina e Polonia, Romania, Ungheria, Slovacchia\
-  \ e Moldavia (al link una mappa con le località dove è presente Medici del Mondo) ; fornisce materiale sanitario e medicine agli ospedali ucraini;\
-  \ \noffre consulti a distanza psicologico e ginecologico; \ndistribuisce kit sanitari\
-  \ anche a chi arriva alla frontiera italiana (Treviso e Trieste).""
-url: https://www.medecinsdumonde.org/fr/actualites/europe/2022/03/17/que-font-actuellement-nos-equipes-en-ukraine-et-dans-les-pays-voisins
-address:
-  mode: autocomplete
-  address:
-    place_id: 1230287
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 337564292
-    boundingbox:
-    - '49.260338'
-    - '49.300338'
-    - '24.43396'
-    - '24.47396'
-    lat: '49.280338'
-    lon: '24.45396'
-    display_name: Cherniv, Bukachivtsi Settlement Hromada, Ivano-Frankivsk Raion,
-      Oblast' di Ivano-Frankivs'k, 77062, Ucraina
-    class: place
-    type: village
-    importance: 0.4265315803688624
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png
-    address:
-      village: Cherniv
-      municipality: Bukachivtsi Settlement Hromada
-      district: Ivano-Frankivsk Raion
-      state: Oblast' di Ivano-Frankivs'k
-      postcode: '77062'
-      country: Ucraina
-      country_code: ua
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: false
 label: useful contact
 submit: true
@@ -311,85 +390,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 41.897212800000005 12.488422190625947
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/607,1203440052,2022-04-14 07:44:48,2022-04-13 15:11:16,Ordine degli avvocati di Milano: attivo sportello telefonico e email per supporto legale ai rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""Legal""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""amenity"":""BNL"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""1"",""neighbourhood"":""Guastalla"",""postcode"":""20122"",""road"":""Via Carlo Freguglia"",""state"":""Lombardia"",""suburb"":""Municipio 1""},""boundingbox"":[""45.4608435"",""45.4609435"",""9.2006645"",""9.2007645""],""class"":""amenity"",""display_name"":""BNL, 1, Via Carlo Freguglia, Guastalla, Municipio 1, Milano, Lombardia, 20122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//money_bank2.p.20.png"",""importance"":0.6309999999999999,""lat"":""45.4608935"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2007145"",""osm_id"":3503711029,""osm_type"":""node"",""place_id"":43749126,""type"":""bank""},""mode"":""autocomplete""},""description"":""L'Ordine degli Avvocati di Milano ha creato in collegamento con la Questura, l'Assessorato alle Politiche sociali del Comune di Milano, le associazioni e gli operatori in campo per la gestione dell\u2019accoglienza di chi fugge dalla guerra, uno sportello di orientamento legale per i profughi ucraini. L'iniziativa, al via da luned\u00ec 7 marzo, vede in campo diversi avvocati che si sono offerti di collaborare a un progetto che rappresenta un unicum. Allo Sportello #unaiutoconcreto dell'Ordine (Tel. 334 3653153 attivo da luned\u00ec a venerd\u00ec ore 9.30-13.30) \u00e8 possibile chiedere informazioni sui permessi di soggiorno (pur con la garanzia del permesso di soggiorno temporaneo consentito dal Governo sulla base del possesso del passaporto ucraino) o rispetto all'affido; le richieste di aiuto per l'accoglienza vengono indirizzate alle diverse associazioni che se ne occupano. Info: sportello@ordineavvocatimilano.it\nThe Milan Bar Association has created with the Police Headquarters, the Municipality of Milan and some associations and operators, a legal help desk for Ukrainian refugees. The initiative, which started March 7th, has seen several lawyers offering to collaborate on a unique project. At the #unaiutoconcreto Help desk (Tel. 334 3653153 active from Monday to Friday, 9.30-13.30) it is possible to request information on residence permits or about foster care; the help requests for hospitality are addressed to the various associations dealing with them. Info: sportello@ordineavvocatimilano.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ordine degli Avvocati di Milano"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Ordine degli avvocati di Milano attivo sportello telefonico e email di supporto legale per i profughi ucraini"",""url"":""https://www.ordineavvocatimilano.it/it/gli-avvocati-per-lucraina-lawyers4ukraine/p565""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: true
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Ordine degli Avvocati di Milano
-title: Ordine degli avvocati di Milano attivo sportello telefonico e email di supporto
-  legale per i profughi ucraini
-recipients: ''
-description: 'L''Ordine degli Avvocati di Milano ha creato in collegamento con la
-  Questura, l''Assessorato alle Politiche sociali del Comune di Milano, le associazioni
-  e gli operatori in campo per la gestione dell’accoglienza di chi fugge dalla guerra,
-  uno sportello di orientamento legale per i profughi ucraini.
-  L''iniziativa, al via da lunedì 7 marzo, vede in campo diversi avvocati che si sono
-  offerti di collaborare a un progetto che rappresenta un unicum.
-  Allo Sportello #unaiutoconcreto dell''Ordine (Tel. 334 3653153 attivo da lunedì
-  a venerdì ore 9.30-13.30) è possibile chiedere informazioni sui permessi di soggiorno
-  (pur con la garanzia del permesso di soggiorno temporaneo consentito dal Governo
-  sulla base del possesso del passaporto ucraino) o rispetto all''affido; le richieste
-  di aiuto per l''accoglienza vengono indirizzate alle diverse associazioni che se
-  ne occupano.
-Info: sportello@ordineavvocatimilano.it
-
-  The Milan Bar Association has created with the Police Headquarters, the Municipality
-  of Milan and some associations and operators, a legal help desk for Ukrainian refugees.
-  The initiative, which started March 7th, has seen several lawyers offering to collaborate
-  on a unique project.
-  At the #unaiutoconcreto Help desk (Tel. 334 3653153 active from Monday to Friday,
-  9.30-13.30) it is possible to request information on residence permits or about
-  foster care; the help requests for hospitality are addressed to the various associations
-  dealing with them.
-  Info: sportello@ordineavvocatimilano.it'
-url: https://www.ordineavvocatimilano.it/it/gli-avvocati-per-lucraina-lawyers4ukraine/p565
-address:
-  mode: autocomplete
-  address:
-    place_id: 43749126
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 3503711029
-    boundingbox:
-    - '45.4608435'
-    - '45.4609435'
-    - '9.2006645'
-    - '9.2007645'
-    lat: '45.4608935'
-    lon: '9.2007145'
-    display_name: BNL, 1, Via Carlo Freguglia, Guastalla, Municipio 1, Milano, Lombardia,
-      20122, Italia
-    class: amenity
-    type: bank
-    importance: 0.6309999999999999
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//money_bank2.p.20.png
-    address:
-      amenity: BNL
-      house_number: '1'
-      road: Via Carlo Freguglia
-      neighbourhood: Guastalla
-      suburb: Municipio 1
-      city: Milano
-      county: Milano
-      ISO3166-2-lvl6: IT-MI
-      state: Lombardia
-      postcode: '20122'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/610,1204053085,2022-04-14 07:43:41,2022-04-14 05:22:16,"Ministero dell'istruzione, online sezione dedicata all’accoglienza delle studentesse e degli studenti ucraini",,,,,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""\u00c8 disponibile, sul sito del Ministero dell\u2019Istruzione, la sezione dedicata all\u2019accoglienza delle studentesse e degli studenti ucraini.\nUno spazio con indicazioni e risorse per consentire ai bambini e ai ragazzi in fuga dalla guerra di proseguire il loro percorso scolastico ed educativo nel sistema italiano."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ministero dell'istruzione"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Ministero dell'istruzione, online sezione dedicata all\u2019accoglienza delle studentesse e degli studenti ucraini"",""url"":""https://www.istruzione.it/emergenza-educativa-ucraina/""}","<pre><yamldata>
 servicetypes:
