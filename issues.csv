@@ -1,4 +1,56 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/552,1198546733,2022-04-14 05:10:07,2022-04-09 11:44:26,Consolato Ucraina a Milano - Contatti ,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""borough"":""Municipio 8 di Milano"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""11"",""office"":""Consolato Generale dell'Ucraina"",""postcode"":""20156"",""quarter"":""Villapizzone"",""road"":""Via Ludovico di Breme"",""state"":""Lombardia""},""boundingbox"":[""45.4966553"",""45.4967553"",""9.1390852"",""9.1391852""],""class"":""office"",""display_name"":""Consolato Generale dell'Ucraina, 11, Via Ludovico di Breme, Villapizzone, Municipio 8 di Milano, Milano, Lombardia, 20156, Italia"",""importance"":0.611,""lat"":""45.4967053"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1391352"",""osm_id"":693845180,""osm_type"":""node"",""place_id"":5652117,""type"":""diplomatic""},""mode"":""autocomplete""},""aim"":""Servizi: Visto Schengen Visto Turistico Schengen Visto Affari Schengen Visto Visite Private Schengen Visto Lavoro Schengen Visto Studio Schengen\nAltra email: milanoconsolato1@gmail.com Tel. emegenza: +39 348 7254038 Tel. Volontari: +393516149179, +393519303843 Facebook https://www.facebook.com/milan.mfa.gov.ua/"",""email"":""gc_itm@mfa.gov.ua"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 02 801333, 02 86995789, 02 86998814"",""submit"":true,""title"":""Consolato Ucraino a Milano - Contatti utili"",""url"":""https://www.ambasciata.net/Consolato/17017/Ucraina-a-Milano""}","<pre><yamldata>
+title: Consolato Ucraino a Milano - Contatti utili
+phoneNumber: +39 02 801333, 02 86995789, 02 86998814
+email: gc_itm@mfa.gov.ua
+aim: 'Servizi: Visto Schengen
+Visto Turistico Schengen
+Visto Affari Schengen
+Visto Visite Private Schengen
+Visto Lavoro Schengen
+Visto Studio Schengen
+
+Altra email: milanoconsolato1@gmail.com
+Tel. emegenza: +39 348 7254038
+Tel. Volontari: +393516149179, +393519303843
+Facebook https://www.facebook.com/milan.mfa.gov.ua/'
+url: 'https://www.ambasciata.net/Consolato/17017/Ucraina-a-Milano'
+address:
+  mode: autocomplete
+  address:
+    place_id: 5652117
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 693845180
+    boundingbox:
+    - '45.4966553'
+    - '45.4967553'
+    - '9.1390852'
+    - '9.1391852'
+    lat: '45.4967053'
+    lon: '9.1391352'
+    display_name: Consolato Generale dell'Ucraina, 11, Via Ludovico di Breme, Villapizzone,
+      Municipio 8 di Milano, Milano, Lombardia, 20156, Italia
+    class: office
+    type: diplomatic
+    importance: 0.611
+    address:
+      office: Consolato Generale dell'Ucraina
+      house_number: '11'
+      road: Via Ludovico di Breme
+      quarter: Villapizzone
+      borough: Municipio 8 di Milano
+      city: Milano
+      county: Milano
+      ISO3166-2-lvl6: IT-MI
+      state: Lombardia
+      postcode: '20156'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/590,1201798757,2022-04-13 22:27:35,2022-04-12 12:46:43,"Emergenza Ucraina, online la mappa degli aiuti umanitari messi in campo dal Sistema Nazionale di Protezione Civile ",,,,,"[""Valid/Accettato"",""News"",""document_data"",""telegram-channel"",""tweet""]",,,"{""description"":""La mappa mostra i luoghi in cui il Sistema di Protezione Civile si \u00e8 attivato per garantire assistenza umanitaria all\u2019Ucraina e ai Paesi interessati dai flussi di profughi in fuga dal conflitto. Un repository Github (https://github.com/pcm-dpc/dati-ucraina-2022) \u00e8 la sorgente da cui ha origine la mappa."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://mappe.protezionecivile.gov.it/it/mappa/emergenza-ucraina-mappa-aiuti-umanitari-0"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Online la mappatura degli aiuti umanitari messi in campo dal Sistema di Protezione Civile""}","<pre><yamldata>
 title: Online la mappatura degli aiuti umanitari messi in campo dal Sistema di Protezione
   Civile
@@ -3321,55 +3373,6 @@ address:
       county: Roma Capitale
       state: Lazio
       postcode: 00197
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: useful contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/552,1198546733,2022-04-09 17:20:47,2022-04-09 11:44:26,Consolato Ucraina a Milano - Contatti ,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""borough"":""Municipio 8 di Milano"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""11"",""office"":""Consolato Generale dell'Ucraina"",""postcode"":""20156"",""quarter"":""Villapizzone"",""road"":""Via Ludovico di Breme"",""state"":""Lombardia""},""boundingbox"":[""45.4966553"",""45.4967553"",""9.1390852"",""9.1391852""],""class"":""office"",""display_name"":""Consolato Generale dell'Ucraina, 11, Via Ludovico di Breme, Villapizzone, Municipio 8 di Milano, Milano, Lombardia, 20156, Italia"",""importance"":0.611,""lat"":""45.4967053"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1391352"",""osm_id"":693845180,""osm_type"":""node"",""place_id"":5652117,""type"":""diplomatic""},""mode"":""autocomplete""},""aim"":""Utile per Visto Schengen Visto Turistico Schengen Visto Affari Schengen Visto Visite Private Schengen Visto Lavoro Schengen Visto Studio Schengen\nFacebook https://www.facebook.com/milan.mfa.gov.ua/"",""email"":""gc_itm@mfa.gov.ua"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 02 801333, 02 86995789, 02 86998814"",""submit"":true,""title"":""Consolato Ucraino a Milano - Contatti utili"",""url"":""https://www.ambasciata.net/Consolato/17017/Ucraina-a-Milano""}","<pre><yamldata>
-title: Consolato Ucraino a Milano - Contatti utili
-phoneNumber: +39 02 801333, 02 86995789, 02 86998814
-email: gc_itm@mfa.gov.ua
-aim: 'Utile per Visto Schengen
-Visto Turistico Schengen
-Visto Affari Schengen
-Visto Visite Private Schengen
-Visto Lavoro Schengen
-Visto Studio Schengen
-
-Facebook https://www.facebook.com/milan.mfa.gov.ua/'
-url: 'https://www.ambasciata.net/Consolato/17017/Ucraina-a-Milano'
-address:
-  mode: autocomplete
-  address:
-    place_id: 5652117
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 693845180
-    boundingbox:
-    - '45.4966553'
-    - '45.4967553'
-    - '9.1390852'
-    - '9.1391852'
-    lat: '45.4967053'
-    lon: '9.1391352'
-    display_name: Consolato Generale dell'Ucraina, 11, Via Ludovico di Breme, Villapizzone,
-      Municipio 8 di Milano, Milano, Lombardia, 20156, Italia
-    class: office
-    type: diplomatic
-    importance: 0.611
-    address:
-      office: Consolato Generale dell'Ucraina
-      house_number: '11'
-      road: Via Ludovico di Breme
-      quarter: Villapizzone
-      borough: Municipio 8 di Milano
-      city: Milano
-      county: Milano
-      ISO3166-2-lvl6: IT-MI
-      state: Lombardia
-      postcode: '20156'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
