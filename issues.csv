@@ -1,4 +1,45 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/551,1198545650,2022-04-14 05:15:39,2022-04-09 11:42:05,Consolato Ucraina a Roma - Contatti ,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00100"",""quarter"":""Monte Sacro"",""road"":""Via Monte Pramaggiore"",""state"":""Lazio"",""suburb"":""Monte Sacro""},""boundingbox"":[""41.9303268"",""41.9312453"",""12.5374866"",""12.5390085""],""class"":""highway"",""display_name"":""Via Monte Pramaggiore, Monte Sacro, Roma, Roma Capitale, Lazio, 00100, Italia"",""importance"":0.61,""lat"":""41.9308165"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.5383171"",""osm_id"":26943866,""osm_type"":""way"",""place_id"":107499927,""type"":""residential""},""mode"":""autocomplete""},""aim"":""Altra email ambasciataducrainainitalia@gmail.com, ucrconsolato@gmail.com Tel emergenza: +39 351 9886823 Orario: 9.00-21.00 domenica-lunedi"",""email"":""gc_it@mfa.gov.ua"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 06 841 2630, +39 06 820 03641"",""submit"":true,""title"":""Consolato Ucraino a Roma - Contatti utili"",""url"":""https://www.facebook.com/consular.office.of.the.embassy.of.ukraine.in.rome""}","<pre><yamldata>
+title: Consolato Ucraino a Roma - Contatti utili
+phoneNumber: +39 06 841 2630, +39 06 820 03641
+email: gc_it@mfa.gov.ua
+aim: 'Altra email ambasciataducrainainitalia@gmail.com, ucrconsolato@gmail.com
+Tel emergenza: +39 351 9886823
+Orario: 9.00-21.00 domenica-lunedi'
+url: 'https://www.facebook.com/consular.office.of.the.embassy.of.ukraine.in.rome'
+address:
+  mode: autocomplete
+  address:
+    place_id: 107499927
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 26943866
+    boundingbox:
+    - '41.9303268'
+    - '41.9312453'
+    - '12.5374866'
+    - '12.5390085'
+    lat: '41.9308165'
+    lon: '12.5383171'
+    display_name: Via Monte Pramaggiore, Monte Sacro, Roma, Roma Capitale, Lazio,
+      00100, Italia
+    class: highway
+    type: residential
+    importance: 0.61
+    address:
+      road: Via Monte Pramaggiore
+      quarter: Monte Sacro
+      suburb: Monte Sacro
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: '00100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/552,1198546733,2022-04-14 05:10:07,2022-04-09 11:44:26,Consolato Ucraina a Milano - Contatti ,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""borough"":""Municipio 8 di Milano"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""11"",""office"":""Consolato Generale dell'Ucraina"",""postcode"":""20156"",""quarter"":""Villapizzone"",""road"":""Via Ludovico di Breme"",""state"":""Lombardia""},""boundingbox"":[""45.4966553"",""45.4967553"",""9.1390852"",""9.1391852""],""class"":""office"",""display_name"":""Consolato Generale dell'Ucraina, 11, Via Ludovico di Breme, Villapizzone, Municipio 8 di Milano, Milano, Lombardia, 20156, Italia"",""importance"":0.611,""lat"":""45.4967053"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1391352"",""osm_id"":693845180,""osm_type"":""node"",""place_id"":5652117,""type"":""diplomatic""},""mode"":""autocomplete""},""aim"":""Servizi: Visto Schengen Visto Turistico Schengen Visto Affari Schengen Visto Visite Private Schengen Visto Lavoro Schengen Visto Studio Schengen\nAltra email: milanoconsolato1@gmail.com Tel. emegenza: +39 348 7254038 Tel. Volontari: +393516149179, +393519303843 Facebook https://www.facebook.com/milan.mfa.gov.ua/"",""email"":""gc_itm@mfa.gov.ua"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 02 801333, 02 86995789, 02 86998814"",""submit"":true,""title"":""Consolato Ucraino a Milano - Contatti utili"",""url"":""https://www.ambasciata.net/Consolato/17017/Ucraina-a-Milano""}","<pre><yamldata>
 title: Consolato Ucraino a Milano - Contatti utili
 phoneNumber: +39 02 801333, 02 86995789, 02 86998814
@@ -1114,46 +1155,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 41.9039826 12.4719209
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/551,1198545650,2022-04-12 09:29:20,2022-04-09 11:42:05,Consolato Ucraina a Roma - Contatti ,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00100"",""quarter"":""Monte Sacro"",""road"":""Via Monte Pramaggiore"",""state"":""Lazio"",""suburb"":""Monte Sacro""},""boundingbox"":[""41.9303268"",""41.9312453"",""12.5374866"",""12.5390085""],""class"":""highway"",""display_name"":""Via Monte Pramaggiore, Monte Sacro, Roma, Roma Capitale, Lazio, 00100, Italia"",""importance"":0.61,""lat"":""41.9308165"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.5383171"",""osm_id"":26943866,""osm_type"":""way"",""place_id"":107499927,""type"":""residential""},""mode"":""autocomplete""},""aim"":""Orario: 9.00-12.30 e 15.00-16.30 di luned\u00ec, marted\u00ec, gioved\u00ec; 9.00-12.30 di venerd\u00ec"",""email"":""gc_it@mfa.gov.ua"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""06 82003641"",""submit"":true,""title"":""Consolato Ucraino a Roma - Contatti utili"",""url"":""""}","<pre><yamldata>
-title: Consolato Ucraino a Roma - Contatti utili
-phoneNumber: 06 82003641
-email: gc_it@mfa.gov.ua
-aim: 'Orario: 9.00-12.30 e 15.00-16.30 di lunedì, martedì, giovedì; 9.00-12.30 di
-  venerdì'
-url: ''
-address:
-  mode: autocomplete
-  address:
-    place_id: 107499927
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 26943866
-    boundingbox:
-    - '41.9303268'
-    - '41.9312453'
-    - '12.5374866'
-    - '12.5390085'
-    lat: '41.9308165'
-    lon: '12.5383171'
-    display_name: Via Monte Pramaggiore, Monte Sacro, Roma, Roma Capitale, Lazio,
-      00100, Italia
-    class: highway
-    type: residential
-    importance: 0.61
-    address:
-      road: Via Monte Pramaggiore
-      quarter: Monte Sacro
-      suburb: Monte Sacro
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      postcode: '00100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: useful contact
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/550,1198543213,2022-04-12 09:28:49,2022-04-09 11:36:44,Consolato Ucraina nella Repubblica di San Marino - Contatti,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""country"":""San Marino"",""country_code"":""sm""},""boundingbox"":[""43.893632"",""43.992093"",""12.4033246"",""12.516202""],""class"":""boundary"",""display_name"":""San Marino"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8593263756585181,""lat"":""43.9458623"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.458306"",""osm_id"":54624,""osm_type"":""relation"",""place_id"":284622582,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Indirizzo: Contr. Borgoloto, n.17/23, San Marino\nOrari di apertura Marted\u00ec: 10.30 - 12.30, Gioved\u00ec: 10.30 - 12.30\nPagina Facebook: https://www.facebook.com/share.php?u=https%3A%2F%2Fitaly.mfa.gov.ua%2Fit%2Fembassy%2F5283-pochesne-konsulystvo-ukrajini-v-sanmarino\nTwitter: https://twitter.com/intent/tweet?url=https%3A%2F%2Fitaly.mfa.gov.ua%2Fit%2Fembassy%2F5283-pochesne-konsulystvo-ukrajini-v-sanmarino"",""email"":""consolatoucrainarsm@alice.sm"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 0549879420"",""submit"":true,""title"":""Consolato onorario d'Ucraina nella Repubblica di San Marino - Contatto utile"",""url"":""https://italy.mfa.gov.ua/it/embassy/5283-pochesne-konsulystvo-ukrajini-v-sanmarino""}","<pre><yamldata>
 title: Consolato onorario d'Ucraina nella Repubblica di San Marino - Contatto utile
