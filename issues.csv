@@ -1,4 +1,55 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/615,1204395400,2022-04-14 14:40:28,2022-04-14 11:12:07,"Attività di Emergency in Italia per chi arriva dall'Ucraina: assistenza medica, orientamento ai servizi, kit di prima necessità",,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""materialGoods"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""state"":""Lombardia""},""boundingbox"":[""45.3867381"",""45.5358482"",""9.0408867"",""9.2781103""],""class"":""boundary"",""display_name"":""Milano, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8390652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":44915,""osm_type"":""relation"",""place_id"":283684439,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Ambulatori, Sportelli di orientamento socio-sanitario e ascolto psicologico a: Marghera, Brescia, Milano, Napoli, Castel Volturno, Sassari e Polistena. offrono: - visite mediche e orientamento sanitario per indirizzarli verso strutture dove effettuare visite specialistiche; - assistenza per procedere con la richiesta del codice Stp e dell\u2019iscrizione al Servizio sanitario nazionale, da cui dipende la possibilit\u00e0 di accedere alla scelta del medico di medicina generale; - orientamento agli hub vaccinali presenti sul territorio, in cui effettuare vaccini anti-Covid e i richiami; - orientamento per i minori per il completamento dei cicli di vaccini obbligatori, in collaborazione con il Dipartimento di prevenzione dell\u2019ASL locale.\nA Milano Emergency offre ai rifugiati ucraini anche supporto alimentare attraverso il progetto Nessuno Escluso. Contatti: 02 86316890."",""email"":""info@emergency.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":false,""label"":""useful contact"",""phoneNumber"":""(+39) 02 881881"",""submit"":true,""title"":""Emergency in Italia per persone in arrivo dall'Ucraina - assistenza medica, orientamento ai servizi, kit prima necessit\u00e0"",""url"":""https://www.emergency.it/progetti/emergenza-ucraina-cosa-facciamo-in-italia/""}","<pre><yamldata>
+title: Emergency in Italia per persone in arrivo dall'Ucraina - assistenza medica,
+  orientamento ai servizi, kit prima necessità
+phoneNumber: (+39) 02 881881
+email: info@emergency.it
+aim: 'Ambulatori, Sportelli di orientamento socio-sanitario e ascolto psicologico
+  a:
+Marghera, Brescia, Milano, Napoli, Castel Volturno, Sassari e Polistena.
+ offrono:
+  - visite mediche e orientamento sanitario per indirizzarli verso strutture dove
+  effettuare visite specialistiche;
+  - assistenza per procedere con la richiesta del codice Stp e dell’iscrizione al
+  Servizio sanitario nazionale, da cui dipende la possibilità di accedere alla scelta
+  del medico di medicina generale;
+  - orientamento agli hub vaccinali presenti sul territorio, in cui effettuare vaccini
+  anti-Covid e i richiami;
+  - orientamento per i minori per il completamento dei cicli di vaccini obbligatori,
+  in collaborazione con il Dipartimento di prevenzione dell’ASL locale.
+
+ A Milano Emergency offre ai rifugiati ucraini anche supporto alimentare attraverso il progetto Nessuno Escluso. Contatti: 02 86316890.'
+url: https://www.emergency.it/progetti/emergenza-ucraina-cosa-facciamo-in-italia/
+address:
+  mode: autocomplete
+  address:
+    place_id: 283684439
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 44915
+    boundingbox:
+    - '45.3867381'
+    - '45.5358482'
+    - '9.0408867'
+    - '9.2781103'
+    lat: '45.4641943'
+    lon: '9.1896346'
+    display_name: Milano, Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8390652078701348
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Milano
+      county: Milano
+      ISO3166-2-lvl6: IT-MI
+      state: Lombardia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: false
+label: useful contact
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/612,1204363065,2022-04-14 14:13:19,2022-04-14 10:36:31,Asgi - Associazione Studi Giuridici per l'Immigrazione offre servizio antidiscriminazione a stranieri e migranti,,,,,"[""Valid/Accettato"",""Legal"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""state"":""Piemonte""},""boundingbox"":[""45.0067924"",""45.1402175"",""7.5778348"",""7.7733388""],""class"":""boundary"",""display_name"":""Torino, Piemonte, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8068062387577691,""lat"":""45.0677551"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6824892"",""osm_id"":43992,""osm_type"":""relation"",""place_id"":284787924,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Asgi offre un servizio antidiscriminazione rivolto a popolazione straniera e con background migratorio. Referenti per le sezioni territoriali: https://www.asgi.it/sezioni-territoriali/"",""email"":""antidiscriminazione@asgi.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":false,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Associazione Studi Giuridici per l'Immigrazione"",""url"":""https://www.asgi.it/servizio-antidiscriminazione/""}","<pre><yamldata>
 title: Associazione Studi Giuridici per l'Immigrazione 
 phoneNumber: ''
@@ -113,57 +164,6 @@ address:
       postcode: '77062'
       country: Ucraina
       country_code: ua
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: false
-label: useful contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/615,1204395400,2022-04-14 13:58:28,2022-04-14 11:12:07,"Attività di Emergency in Italia per chi arriva dall'Ucraina: assistenza medica, orientamento ai servizi, kit di prima necessità",,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""materialGoods"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""state"":""Lombardia""},""boundingbox"":[""45.3867381"",""45.5358482"",""9.0408867"",""9.2781103""],""class"":""boundary"",""display_name"":""Milano, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8390652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":44915,""osm_type"":""relation"",""place_id"":283684439,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Ambulatori, Sportelli di orientamento socio-sanitario e ascolto psicologico a: Marghera, Brescia, Milano, Napoli, Castel Volturno, Sassari e Polistena. offrono: - visite mediche e orientamento sanitario per indirizzarli verso strutture dove effettuare visite specialistiche; - assistenza per procedere con la richiesta del codice Stp e dell\u2019iscrizione al Servizio sanitario nazionale, da cui dipende la possibilit\u00e0 di accedere alla scelta del medico di medicina generale; - orientamento agli hub vaccinali presenti sul territorio, in cui effettuare vaccini anti-Covid e i richiami; - orientamento per i minori per il completamento dei cicli di vaccini obbligatori, in collaborazione con il Dipartimento di prevenzione dell\u2019ASL locale.\nA Milano - Supporto alimentare settimanale."",""email"":""info@emergency.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":false,""label"":""useful contact"",""phoneNumber"":""(+39) 02 881881"",""submit"":true,""title"":""Emergency in Italia per persone in arrivo dall'Ucraina - assistenza medica, orientamento ai servizi, kit prima necessit\u00e0"",""url"":""https://www.emergency.it/progetti/emergenza-ucraina-cosa-facciamo-in-italia/""}","<pre><yamldata>
-title: Emergency in Italia per persone in arrivo dall'Ucraina - assistenza medica,
-  orientamento ai servizi, kit prima necessità
-phoneNumber: (+39) 02 881881
-email: info@emergency.it
-aim: 'Ambulatori, Sportelli di orientamento socio-sanitario e ascolto psicologico
-  a:
-Marghera, Brescia, Milano, Napoli, Castel Volturno, Sassari e Polistena.
- offrono:
-  - visite mediche e orientamento sanitario per indirizzarli verso strutture dove
-  effettuare visite specialistiche;
-  - assistenza per procedere con la richiesta del codice Stp e dell’iscrizione al
-  Servizio sanitario nazionale, da cui dipende la possibilità di accedere alla scelta
-  del medico di medicina generale;
-  - orientamento agli hub vaccinali presenti sul territorio, in cui effettuare vaccini
-  anti-Covid e i richiami;
-  - orientamento per i minori per il completamento dei cicli di vaccini obbligatori,
-  in collaborazione con il Dipartimento di prevenzione dell’ASL locale.
-
- A Milano - Supporto alimentare settimanale.'
-url: https://www.emergency.it/progetti/emergenza-ucraina-cosa-facciamo-in-italia/
-address:
-  mode: autocomplete
-  address:
-    place_id: 283684439
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 44915
-    boundingbox:
-    - '45.3867381'
-    - '45.5358482'
-    - '9.0408867'
-    - '9.2781103'
-    lat: '45.4641943'
-    lon: '9.1896346'
-    display_name: Milano, Lombardia, Italia
-    class: boundary
-    type: administrative
-    importance: 0.8390652078701348
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Milano
-      county: Milano
-      ISO3166-2-lvl6: IT-MI
-      state: Lombardia
-      country: Italia
-      country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: false
 label: useful contact
 submit: true
