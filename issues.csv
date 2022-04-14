@@ -1,4 +1,885 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/115,1167592765,2022-04-14 15:34:22,2022-03-13 14:14:32,"Trento, l'associazione Rasom raccoglie beni e farmaci per emergenza Ucraina e cerca volontari",,,,,"[""Valid/Accettato"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""building"":""Scuola dell'infanzia di Albiano"",""country"":""Italia"",""country_code"":""it"",""county"":""Provincia di Trento"",""hamlet"":""Barco di Sopra"",""house_number"":""22"",""municipality"":""Comunit\u00e0 della Valle di Cembra"",""postcode"":""38041"",""road"":""Via Sant'Antonio"",""state"":""Trentino-Alto Adige"",""village"":""Albiano""},""boundingbox"":[""46.1449428"",""46.1451562"",""11.1940841"",""11.1944903""],""class"":""building"",""display_name"":""Scuola dell'infanzia di Albiano, 22, Via Sant'Antonio, Barco di Sopra, Albiano, Comunit\u00e0 della Valle di Cembra, Provincia di Trento, Trentino-Alto Adige, 38041, Italia"",""importance"":0.511,""lat"":""46.1450495"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.194287191070053"",""osm_id"":103129729,""osm_type"":""way"",""place_id"":123863279,""type"":""kindergarten""},""mode"":""autocomplete""},""description"":""Per la situazione in Ucraina, l'Associazione RASOM organizza una raccolta di beni di prima necessit\u00e0, presso la sede di via Sant\u2019Antonio, 22 a Trento (tutti i giorni dalle 19 alle 21 - orario provvisorio).\nAl link l'elenco dei beni e farmaci di cui c'\u00e8 bisogno.\nInoltre chi vuole dare la propria disponibilit\u00e0 ad aiutare come volontario e per informazioni sugli orari aggiornati pu\u00f2 contattare i seguenti numeri di telefono: \nVozna Halyna: cell. 3479419883\nOlha Vozna: cell. 3204548504\nKalapach Oleksandra: cell. 3488831652"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Rasom -Associazione Ucraini in Trentino"",""recipients"":"""",""submit"":true,""title"":""Trento, l'associazione Rasom raccoglie beni e farmaci per emergenza Ucraina e cerca volontari"",""type"":""materialGoods"",""url"":""https://webmagazine.unitn.it/news/ateneo/105101/associazione-culturale-degli-ucraini-in-trentino-rasom-aps""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: Rasom -Associazione Ucraini in Trentino
+title: Trento, l'associazione Rasom raccoglie beni e farmaci per emergenza Ucraina
+  e cerca volontari
+recipients: ''
+description: ""Per la situazione in Ucraina, l'Associazione RASOM organizza una raccolta\
+  \ di beni di prima necessità, presso la sede di via Sant’Antonio, 22 a Trento (tutti\
+  \ i giorni dalle 19 alle 21 - orario provvisorio).\nAl link l'elenco dei beni e\
+  \ farmaci di cui c'è bisogno.\nInoltre chi vuole dare la propria disponibilità ad\
+  \ aiutare come volontario e per informazioni sugli orari aggiornati può contattare\
+  \ i seguenti numeri di telefono: \nVozna Halyna: cell. 3479419883\nOlha Vozna: cell.\
+  \ 3204548504\nKalapach Oleksandra: cell. 3488831652""
+url: https://webmagazine.unitn.it/news/ateneo/105101/associazione-culturale-degli-ucraini-in-trentino-rasom-aps
+address:
+  mode: autocomplete
+  address:
+    place_id: 123863279
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 103129729
+    boundingbox:
+    - '46.1449428'
+    - '46.1451562'
+    - '11.1940841'
+    - '11.1944903'
+    lat: '46.1450495'
+    lon: '11.194287191070053'
+    display_name: Scuola dell'infanzia di Albiano, 22, Via Sant'Antonio, Barco di
+      Sopra, Albiano, Comunità della Valle di Cembra, Provincia di Trento, Trentino-Alto
+      Adige, 38041, Italia
+    class: building
+    type: kindergarten
+    importance: 0.511
+    address:
+      building: Scuola dell'infanzia di Albiano
+      house_number: '22'
+      road: Via Sant'Antonio
+      hamlet: Barco di Sopra
+      village: Albiano
+      municipality: Comunità della Valle di Cembra
+      county: Provincia di Trento
+      state: Trentino-Alto Adige
+      postcode: '38041'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/212,1173797152,2022-04-14 15:33:35,2022-03-18 16:44:03,"Croce Rossa cerca volontari temporanei per emergenza Ucraina, soprattutto infermieri, chirurghi, psicologi o persone con ottima conoscenza di ucraino/russo",43.7806771,11.24376289731579,Toscana,Firenze,"[""Valid/Accettato"",""Help"",""job"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""43.7806771 11.24376289731579"",""description"":""Per aumentare la risposta all\u2019emergenza Ucraina, la Croce Rossa Italiana apre nuovamente le iscrizioni ai volontari temporanei: Infermieri, medici chirurghi, psicologi o persone con ottima conoscenza della lingua Russa o Ucraina.\n\n \n\nDopo la grandiosa risposta durante la pandemia, quando moltissimi cittadini si sono messi in moto per fare la propria parte nell\u2019emergenza, oggi si riapre l\u2019opportunit\u00e0 di diventare volontario temporaneo della Croce Rossa. Sono richiesti in particolare medici chirurghi, infermieri, psicologi o persone con ottima conoscenza della lingua Russa o Ucraina da impiegare a seconda delle necessit\u00e0.\nChiunque, in possesso di questi requisiti, pu\u00f2 essere utile alla gestione dell\u2019emergenza. Per dare la propria disponibilit\u00e0 \u00e8 sufficiente leggere attentamente le istruzioni al link https://volontari.cri.it/ e compilare il form in tutti i campi richiesti.\nIl censimento dei volontari temporanei verr\u00e0 effettuato a livello Nazionale per poi essere assegnati ai territori di competenza.\n\nColoro che sceglieranno di dare il proprio contributo mettendosi a disposizione, saranno invitati a seguire un breve corso online strutturato appositamente per i volontari temporanei, in cui verranno approfondite alcune tematiche indispensabili per rafforzare le capacit\u00e0, la conoscenza della CRI e portare avanti il mandato umanitario del movimento. Tra i temi trattati: la salute e la sicurezza durante il servizio, l\u2019organizzazione, la storia e peculiarit\u00e0 del movimento della Croce Rossa, codice etico dell\u2019Associazione."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://volontari.cri.it/"",""location"":{""address"":{""address"":{""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""state"":""Toscana""},""boundingbox"":[""43.7258716"",""43.8354631"",""11.1497598"",""11.3389044""],""class"":""boundary"",""display_name"":""Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8105633028502386,""lat"":""43.7806771"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.24376289731579"",""osm_id"":42602,""osm_type"":""relation"",""place_id"":284666342,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Croce Rossa Italiana cerca Volontari Temporanei""}","<pre><yamldata>
+title: Croce Rossa Italiana cerca Volontari Temporanei
+description: ""Per aumentare la risposta all’emergenza Ucraina, la Croce Rossa Italiana\
+  \ apre nuovamente le iscrizioni ai volontari temporanei: Infermieri, medici chirurghi,\
+  \ psicologi o persone con ottima conoscenza della lingua Russa o Ucraina.\n\n \n\
+  \nDopo la grandiosa risposta durante la pandemia, quando moltissimi cittadini si\
+  \ sono messi in moto per fare la propria parte nell’emergenza, oggi si riapre l’opportunità\
+  \ di diventare volontario temporaneo della Croce Rossa. Sono richiesti in particolare\
+  \ medici chirurghi, infermieri, psicologi o persone con ottima conoscenza della\
+  \ lingua Russa o Ucraina da impiegare a seconda delle necessità.\nChiunque, in possesso\
+  \ di questi requisiti, può essere utile alla gestione dell’emergenza. Per dare la\
+  \ propria disponibilità è sufficiente leggere attentamente le istruzioni al link\
+  \ https://volontari.cri.it/ e compilare il form in tutti i campi richiesti.\nIl\
+  \ censimento dei volontari temporanei verrà effettuato a livello Nazionale per poi\
+  \ essere assegnati ai territori di competenza.\n\nColoro che sceglieranno di dare\
+  \ il proprio contributo mettendosi a disposizione, saranno invitati a seguire un\
+  \ breve corso online strutturato appositamente per i volontari temporanei, in cui\
+  \ verranno approfondite alcune tematiche indispensabili per rafforzare le capacità,\
+  \ la conoscenza della CRI e portare avanti il mandato umanitario del movimento.\
+  \ Tra i temi trattati: la salute e la sicurezza durante il servizio, l’organizzazione,\
+  \ la storia e peculiarità del movimento della Croce Rossa, codice etico dell’Associazione.""
+link: https://volontari.cri.it/
+location:
+  mode: autocomplete
+  address:
+    place_id: 284666342
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 42602
+    boundingbox:
+    - '43.7258716'
+    - '43.8354631'
+    - '11.1497598'
+    - '11.3389044'
+    lat: '43.7806771'
+    lon: '11.24376289731579'
+    display_name: Firenze, Città metropolitana di Firenze, Toscana, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8105633028502386
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Firenze
+      county: Città metropolitana di Firenze
+      state: Toscana
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 43.7806771 11.24376289731579
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/217,1173815645,2022-04-14 15:33:15,2022-03-18 17:03:03,A Varese associazione Guardavanti cerca mediatrice/mediatore linguistica/o per attività con bambini ucraini,,,,,"[""Valid/Accettato"",""Help"",""translation"",""job"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Varese"",""state"":""Lombardia""},""boundingbox"":[""45.5583143"",""46.1222569"",""8.552246"",""9.0662956""],""class"":""boundary"",""display_name"":""Varese, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7303937310744694,""lat"":""45.83971285"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.754157594917665"",""osm_id"":45347,""osm_type"":""relation"",""place_id"":284266553,""type"":""administrative""},""mode"":""autocomplete""},""description"":""L'associazione Guardavanti di Varese cerca una persona per mediazione linguistica-culturale durante le attivit\u00e0 di doposcuola con bambini ucraini neo-arrivati\nDisponibilit\u00e0 richiesta: 2 ore settimanali il venerd\u00ec pomeriggio\nDove: Varese, piazza Buzzi\nLingue: Ucraino e Italiano\nScrivi al pi\u00f9 presto a selezione@guardavanti.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Guardavanti"",""recipients"":"""",""submit"":true,""title"":""Ricerca persona per mediazione linguistica-culturale, Varese"",""type"":""jobOffer"",""url"":""https://www.facebook.com/Guardavanti/""}","<pre><yamldata>
+type: jobOffer
+offerFromWho: Associazione Guardavanti
+title: Ricerca persona per mediazione linguistica-culturale, Varese
+recipients: ''
+description: 'L''associazione Guardavanti di Varese cerca una persona per mediazione
+  linguistica-culturale durante le attività di doposcuola con bambini ucraini neo-arrivati
+
+  Disponibilità richiesta: 2 ore settimanali il venerdì pomeriggio
+
+  Dove: Varese, piazza Buzzi
+
+  Lingue: Ucraino e Italiano
+
+  Scrivi al più presto a selezione@guardavanti.org'
+url: https://www.facebook.com/Guardavanti/
+address:
+  mode: autocomplete
+  address:
+    place_id: 284266553
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 45347
+    boundingbox:
+    - '45.5583143'
+    - '46.1222569'
+    - '8.552246'
+    - '9.0662956'
+    lat: '45.83971285'
+    lon: '8.754157594917665'
+    display_name: Varese, Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7303937310744694
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Varese
+      state: Lombardia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/238,1174469488,2022-04-14 15:32:54,2022-03-20 08:06:33,Comune di Bagno di Romagna avvia raccolta disponibilità #alloggi per cittadini ucraini ,,,,,"[""Valid/Accettato"",""Help"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""postcode"":""47021"",""province"":""Forl\u00ec-Cesena"",""state"":""Emilia-Romagna"",""village"":""Bagno di Romagna""},""boundingbox"":[""43.7869827"",""43.9515076"",""11.7884626"",""12.1134496""],""class"":""boundary"",""display_name"":""Bagno di Romagna, Forl\u00ec-Cesena, Emilia-Romagna, 47021, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7340329938443138,""lat"":""43.8352272"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.9595985"",""osm_id"":42639,""osm_type"":""relation"",""place_id"":284245489,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Facilitare il censimento dei cittadini ucraini che approdano nel territorio del Comune termale d\u2019Alto Savio e alfine di fornire un punto di riferimento a tutte le famiglie che intendono ospitare le persone ucraine, ha attivato il numero di telefono 0547603555 e un indirizzo di posta elettronica dedicato: accoglienza.ucraina@unionevallesavio.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Bagno di Romagna"",""recipients"":"""",""submit"":true,""title"":""Censimento dei cittadini ucraini che approdano nel territorio del Comune"",""type"":""hospitality"",""url"":""https://www.ilrestodelcarlino.it/cesena/cronaca/case-aperte-ai-rifugiati-1.7484887?utm_source=twitter&utm_medium=rss-feed&utm_campaign=twitter-account""}","<pre><yamldata>
+type: hospitality
+offerFromWho: Comune di Bagno di Romagna
+title: Censimento dei cittadini ucraini che approdano nel territorio del Comune
+recipients: ''
+description: 'Facilitare il censimento dei cittadini ucraini che approdano nel territorio
+  del Comune termale d’Alto Savio e alfine di fornire un punto di riferimento a tutte
+  le famiglie che intendono ospitare le persone ucraine, ha attivato il numero di
+  telefono 0547603555 e un indirizzo di posta elettronica dedicato: accoglienza.ucraina@unionevallesavio.it'
+url: https://www.ilrestodelcarlino.it/cesena/cronaca/case-aperte-ai-rifugiati-1.7484887?utm_source=twitter&utm_medium=rss-feed&utm_campaign=twitter-account
+address:
+  mode: autocomplete
+  address:
+    place_id: 284245489
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 42639
+    boundingbox:
+    - '43.7869827'
+    - '43.9515076'
+    - '11.7884626'
+    - '12.1134496'
+    lat: '43.8352272'
+    lon: '11.9595985'
+    display_name: Bagno di Romagna, Forlì-Cesena, Emilia-Romagna, 47021, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7340329938443138
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      village: Bagno di Romagna
+      province: Forlì-Cesena
+      state: Emilia-Romagna
+      postcode: '47021'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/248,1174675218,2022-04-14 15:32:11,2022-03-20 20:29:08,"A Pavia associazione Amici della mongolfiera cerca volontari per attività di supporto a donne, bambini e adolescenti ucraini rifugiati",45.1909364,9.1614949,Lombardia,Pavia,"[""Valid/Accettato"",""Help"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.1909364 9.1614949"",""description"":""L'associazione sta accogliendo numerose donne, bambini e adolescenti ucraini e cerca volontari maggiorenni che possano dare una mano nelle seguenti attivit\u00e0:\nsupporto durante i corsi di italiano per donne straniere (gioved\u00ec mattina dalle 10 alle 12 in Corso Garibaldi 20/N a Pavia) e le attivit\u00e0 di conoscenza del territorio (giorni e orari da concordare);\naiuto compiti, mercoled\u00ec e venerd\u00ec pomeriggio presso il Circolo ARCI Via D\u2019Acqua, in Viale Bligny 83:\ndalle 14.30 alle 16.30 per gli studenti di scuola media e superiore;\ndalle 16.30 alle 18.00 per gli studenti della scuola elementare.\naffiancamento ai bambini ucraini nell'inserimento a scuola."",""email"":""amicimongolfiera@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""amenity"":""Circolo Via d'acqua (ARCI)"",""city"":""Pavia"",""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""house_number"":""83"",""postcode"":""27100"",""road"":""Viale Bligny"",""state"":""Lombardia"",""suburb"":""Citt\u00e0 Giardino""},""boundingbox"":[""45.1908864"",""45.1909864"",""9.1614449"",""9.1615449""],""class"":""amenity"",""display_name"":""Circolo Via d'acqua (ARCI), 83, Viale Bligny, Citt\u00e0 Giardino, Pavia, Lombardia, 27100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//food_restaurant.p.20.png"",""importance"":0.411,""lat"":""45.1909364"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1614949"",""osm_id"":2882416108,""osm_type"":""node"",""place_id"":33708904,""type"":""restaurant""},""mode"":""autocomplete""},""nameSurname"":""Amici della Mongolfiera"",""phoneNumber"":""+393802193536 - +39038221970"",""recipients"":"""",""submit"":true,""title"":""volontari"",""url"":""https://www.csvlombardia.it/pavia/pv-per-i-cittadini/pv-per-i-cittadini-volontariato-cercasi/post/amici-della-mongolfiera-cerca-volontari-per-gestione-emergenza-ucraina-pavia/""}","<pre><yamldata>
+nameSurname: Amici della Mongolfiera
+phoneNumber: +393802193536 - +39038221970
+email: amicimongolfiera@gmail.com
+title: volontari
+recipients: ''
+description: 'L''associazione sta accogliendo numerose donne, bambini e adolescenti
+  ucraini e cerca volontari maggiorenni che possano dare una mano nelle seguenti attività:
+
+  supporto durante i corsi di italiano per donne straniere (giovedì mattina dalle
+  10 alle 12 in Corso Garibaldi 20/N a Pavia) e le attività di conoscenza del territorio
+  (giorni e orari da concordare);
+
+  aiuto compiti, mercoledì e venerdì pomeriggio presso il Circolo ARCI Via D’Acqua,
+  in Viale Bligny 83:
+
+  dalle 14.30 alle 16.30 per gli studenti di scuola media e superiore;
+
+  dalle 16.30 alle 18.00 per gli studenti della scuola elementare.
+
+  affiancamento ai bambini ucraini nell''inserimento a scuola.'
+url: https://www.csvlombardia.it/pavia/pv-per-i-cittadini/pv-per-i-cittadini-volontariato-cercasi/post/amici-della-mongolfiera-cerca-volontari-per-gestione-emergenza-ucraina-pavia/
+location:
+  mode: autocomplete
+  address:
+    place_id: 33708904
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 2882416108
+    boundingbox:
+    - '45.1908864'
+    - '45.1909864'
+    - '9.1614449'
+    - '9.1615449'
+    lat: '45.1909364'
+    lon: '9.1614949'
+    display_name: Circolo Via d'acqua (ARCI), 83, Viale Bligny, Città Giardino, Pavia,
+      Lombardia, 27100, Italia
+    class: amenity
+    type: restaurant
+    importance: 0.411
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//food_restaurant.p.20.png
+    address:
+      amenity: Circolo Via d'acqua (ARCI)
+      house_number: '83'
+      road: Viale Bligny
+      suburb: Città Giardino
+      city: Pavia
+      county: Pavia
+      state: Lombardia
+      postcode: '27100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 45.1909364 9.1614949
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/277,1176036536,2022-04-14 15:31:27,2022-03-21 22:51:18,La Regione Friuli cerca mediatori linguistici in ucraino e/o russo per accoglienza profughi ucraini ,,,,,"[""Valid/Accettato"",""Help"",""translation"",""job"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Udine"",""country"":""Italia"",""country_code"":""it"",""county"":""Udine"",""postcode"":""33100"",""state"":""Friuli Venezia Giulia""},""boundingbox"":[""45.9034632"",""46.2234632"",""13.0758377"",""13.3958377""],""class"":""place"",""display_name"":""Udine, Friuli Venezia Giulia, 33100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.699677555724844,""lat"":""46.0634632"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.2358377"",""osm_id"":66502664,""osm_type"":""node"",""place_id"":121892,""type"":""city""},""mode"":""autocomplete""},""description"":""La Regione Friuli ha pubblicato un avviso per individuare persone con conoscenza delle lingue ucraina e/o russa, disponibili ad offrire supporto nell'emergenza.Per dare la propria disponibilit\u00e0 \u00e8 necessario compilare un modulo reperibile nella pagina dedicata del sito della Regione. La compilazione e l'invio del modulo non comporta l'instaurarsi di obblighi da parte della Regione Friuli Venezia Giulia e delle Autorit\u00e0 preposte nei confronti di chi esprime la propria disponibilit\u00e0. Ulteriori informazioni sono reperibili contattando i seguenti recapiti telefonici: 0432/555908 - 0432/555560 dal luned\u00ec al venerd\u00ec dalle 9 alle 12."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Friuli"",""recipients"":""persone ucraine in cerca di lavoro"",""submit"":true,""title"":""La Regione Friuli cerca mediatori linguistici"",""type"":""jobOffer"",""url"":""https://www.ilfriuli.it/articolo/cronaca/in-fuga-dall-ucraina-la-regione-cerca-mediatori-linguistici/2/262331?fbclid=IwAR1XXGpEWgoBfreZ_oyaAq08_HN0eSlFLdzV-eRY980OsbQLE0OOUKInmcQ""}","<pre><yamldata>
+type: jobOffer
+offerFromWho: Regione Friuli
+title: La Regione Friuli cerca mediatori linguistici
+recipients: persone ucraine in cerca di lavoro
+description: 'La Regione Friuli ha pubblicato un avviso per individuare persone con
+  conoscenza delle lingue ucraina e/o russa, disponibili ad offrire supporto nell''emergenza.Per
+  dare la propria disponibilità è necessario compilare un modulo reperibile nella
+  pagina dedicata del sito della Regione. La compilazione e l''invio del modulo non
+  comporta l''instaurarsi di obblighi da parte della Regione Friuli Venezia Giulia
+  e delle Autorità preposte nei confronti di chi esprime la propria disponibilità.
+  Ulteriori informazioni sono reperibili contattando i seguenti recapiti telefonici:
+  0432/555908 - 0432/555560 dal lunedì al venerdì dalle 9 alle 12.'
+url: https://www.ilfriuli.it/articolo/cronaca/in-fuga-dall-ucraina-la-regione-cerca-mediatori-linguistici/2/262331?fbclid=IwAR1XXGpEWgoBfreZ_oyaAq08_HN0eSlFLdzV-eRY980OsbQLE0OOUKInmcQ
+address:
+  mode: autocomplete
+  address:
+    place_id: 121892
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 66502664
+    boundingbox:
+    - '45.9034632'
+    - '46.2234632'
+    - '13.0758377'
+    - '13.3958377'
+    lat: '46.0634632'
+    lon: '13.2358377'
+    display_name: Udine, Friuli Venezia Giulia, 33100, Italia
+    class: place
+    type: city
+    importance: 0.699677555724844
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Udine
+      county: Udine
+      state: Friuli Venezia Giulia
+      postcode: '33100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/336,1180633329,2022-04-14 15:31:04,2022-03-25 10:47:17,A Treviso Caritas raccoglie disponibilità ad offrire appartamenti ai rifugiati ucraini,,,,,"[""Valid/Accettato"",""Help"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Treviso"",""neighbourhood"":""Ai Tre Venti"",""postcode"":""31029"",""road"":""Via Giampaolo Malanotti"",""state"":""Veneto"",""suburb"":""C\u00e8neda"",""town"":""Vittorio Veneto"",""village"":""Soffratta""},""boundingbox"":[""45.9746363"",""45.976424"",""12.2894635"",""12.2926766""],""class"":""highway"",""display_name"":""Via Giampaolo Malanotti, Ai Tre Venti, C\u00e8neda, Soffratta, Vittorio Veneto, Treviso, Veneto, 31029, Italia"",""importance"":0.6199999999999999,""lat"":""45.9748095"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.2897586"",""osm_id"":144340143,""osm_type"":""way"",""place_id"":136661433,""type"":""residential""},""mode"":""autocomplete""},""description"":""Chi nella provincia di Treviso vuole mettere a disposizione una casa o un appartamento indipendente per i rifugiati ucraini pu\u00f2 contattare i referenti Caritas, il cui elenco \u00e8 disponibile al link suddiviso per comuni."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Caritas Vittorio Veneto"",""recipients"":null,""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Accoglienza nelle case e raccolta offerte nella provincia di Treviso"",""url"":""http://www.caritasvittorioveneto.it/images/emergenza_ucraina_come_aiutare08.03.22""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Caritas Vittorio Veneto
+title: Accoglienza nelle case e raccolta offerte nella provincia di Treviso
+recipients:
+description: 'Chi nella provincia di Treviso vuole mettere a disposizione una casa o un appartamento indipendente per i rifugiati ucraini può contattare i referenti Caritas, il cui elenco è disponibile al link suddiviso per comuni.'
+url: http://www.caritasvittorioveneto.it/images/emergenza_ucraina_come_aiutare08.03.22
+address:
+  mode: autocomplete
+  address:
+    place_id: 136661433
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 144340143
+    boundingbox:
+    - '45.9746363'
+    - '45.976424'
+    - '12.2894635'
+    - '12.2926766'
+    lat: '45.9748095'
+    lon: '12.2897586'
+    display_name: Via Giampaolo Malanotti, Ai Tre Venti, Cèneda, Soffratta, Vittorio
+      Veneto, Treviso, Veneto, 31029, Italia
+    class: highway
+    type: residential
+    importance: 0.6199999999999999
+    address:
+      road: Via Giampaolo Malanotti
+      neighbourhood: Ai Tre Venti
+      suburb: Cèneda
+      village: Soffratta
+      town: Vittorio Veneto
+      county: Treviso
+      state: Veneto
+      postcode: '31029'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/339,1180663594,2022-04-14 15:30:47,2022-03-25 11:13:57,Comune di Ferrara raccoglie disponibilità di enti e cittadini ad ospitare rifugiati ucraini,,,,,"[""Valid/Accettato"",""Help"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Ferrara"",""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""house_number"":""1"",""neighbourhood"":""Villa Fulvia"",""postcode"":""44124"",""road"":""Via Boschetto"",""state"":""Emilia-Romagna"",""suburb"":""Quacchio""},""boundingbox"":[""44.8221799"",""44.8222799"",""11.6317788"",""11.6318788""],""class"":""place"",""display_name"":""1, Via Boschetto, Villa Fulvia, Quacchio, Ferrara, Emilia-Romagna, 44124, Italia"",""importance"":0.5309999999999999,""lat"":""44.8222299"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.6318288"",""osm_id"":4761949611,""osm_type"":""node"",""place_id"":54313083,""type"":""house""},""mode"":""autocomplete""},""description"":""Se sei di Ferrara e sei disposto ad ospitare rifugiati ucraini, puoi scrivere a: emergenzaucraina@comune.fe.it A questa casella di posta, privati cittadini o enti, possono manifestare la propria disponibilit\u00e0 a offrire appartamenti che verranno messi a disposizione dei soggetti gestori dei centri di accoglienza per incrementare la capienza. Tali manifestazioni andranno ad alimentare una banca dati gestita dalla Protezione Civile per conto della Prefettura e dei Comuni della provincia per cui si richiede di specificare, contestualmente, anche il consenso al trattamento dei dati personali per le finalit\u00e0 indicate."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ibo Italia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Ferrara Ibo Italia raccoglie disponibilit\u00e0 di enti e cittadini ad ospitare rifugiati ucraini"",""url"":""https://www.comune.fe.it/it/b/13403/emergenza-ucraina""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Ibo Italia
+title: A Ferrara Ibo Italia raccoglie disponibilità di enti e cittadini ad ospitare
+  rifugiati ucraini
+recipients: ''
+description: 'Se sei di Ferrara e sei disposto ad ospitare rifugiati ucraini, puoi
+  scrivere a: emergenzaucraina@comune.fe.it
+  A questa casella di posta, privati cittadini o enti, possono manifestare la propria
+  disponibilità a offrire appartamenti che verranno messi a disposizione dei soggetti
+  gestori dei centri di accoglienza per incrementare la capienza. Tali manifestazioni
+  andranno ad alimentare una banca dati gestita dalla Protezione Civile per conto
+  della Prefettura e dei Comuni della provincia per cui si richiede di specificare,
+  contestualmente, anche il consenso al trattamento dei dati personali per le finalità
+  indicate.'
+url: https://www.comune.fe.it/it/b/13403/emergenza-ucraina
+address:
+  mode: autocomplete
+  address:
+    place_id: 54313083
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 4761949611
+    boundingbox:
+    - '44.8221799'
+    - '44.8222799'
+    - '11.6317788'
+    - '11.6318788'
+    lat: '44.8222299'
+    lon: '11.6318288'
+    display_name: 1, Via Boschetto, Villa Fulvia, Quacchio, Ferrara, Emilia-Romagna,
+      44124, Italia
+    class: place
+    type: house
+    importance: 0.5309999999999999
+    address:
+      house_number: '1'
+      road: Via Boschetto
+      neighbourhood: Villa Fulvia
+      suburb: Quacchio
+      city: Ferrara
+      county: Ferrara
+      state: Emilia-Romagna
+      postcode: '44124'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/463,1190677316,2022-04-14 15:29:29,2022-04-02 16:28:08,A Milano la coop Spazio Aperto cerca  assistenti sociali per attività a favore dei rifugiati ucraini,45.4403387,9.1459002,Lombardia,Milano,"[""Valid/Accettato"",""Help"",""job"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.4403387 9.1459002"",""description"":""La cooperativa Spazio Aperto cerca assistenti sociali per servizi di accoglienza\nContratto: Livello D2 CCNL Cooperative Sociali \nOrario: 38h settimanali \nRequisiti: Laurea in Servizio Sociale e iscrizione all'Albo Professionale"",""email"":""selezione@spazioapertoservizi.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""26"",""postcode"":""20146"",""quarter"":""Ronchetto Sul Naviglio"",""road"":""Via Francesco Olgiati"",""state"":""Lombardia"",""suburb"":""Restocco Maroni""},""boundingbox"":[""45.4402887"",""45.4403887"",""9.1458502"",""9.1459502""],""class"":""place"",""display_name"":""26, Via Francesco Olgiati, Ronchetto Sul Naviglio, Restocco Maroni, Milano, Lombardia, 20146, Italia"",""importance"":0.42099999999999993,""lat"":""45.4403387"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1459002"",""osm_id"":9394096121,""osm_type"":""node"",""place_id"":326660295,""type"":""house""},""mode"":""autocomplete""},""nameSurname"":""Cooperativa Spazio Aperto"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Cooperativa ricerca assistenti sociali a Milano"",""url"":""https://spazioapertoservizi.org/""}","<pre><yamldata>
+nameSurname: Cooperativa Spazio Aperto
+phoneNumber: ''
+email: selezione@spazioapertoservizi.org
+title: Cooperativa ricerca assistenti sociali a Milano
+recipients: ''
+description: ""La cooperativa Spazio Aperto cerca assistenti sociali per servizi di\
+  \ accoglienza\nContratto: Livello D2 CCNL Cooperative Sociali \nOrario: 38h settimanali\
+  \ \nRequisiti: Laurea in Servizio Sociale e iscrizione all'Albo Professionale""
+url: https://spazioapertoservizi.org/
+location:
+  mode: autocomplete
+  address:
+    place_id: 326660295
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 9394096121
+    boundingbox:
+    - '45.4402887'
+    - '45.4403887'
+    - '9.1458502'
+    - '9.1459502'
+    lat: '45.4403387'
+    lon: '9.1459002'
+    display_name: 26, Via Francesco Olgiati, Ronchetto Sul Naviglio, Restocco Maroni,
+      Milano, Lombardia, 20146, Italia
+    class: place
+    type: house
+    importance: 0.42099999999999993
+    address:
+      house_number: '26'
+      road: Via Francesco Olgiati
+      quarter: Ronchetto Sul Naviglio
+      suburb: Restocco Maroni
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20146'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 45.4403387 9.1459002
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/462,1190676623,2022-04-14 15:29:10,2022-04-02 16:25:04,A Milano la coop Spazio Aperto cerca mediatori culturali di lingua ucraina/russa,45.4403387,9.1459002,Lombardia,Milano,"[""Valid/Accettato"",""Help"",""translation"",""job"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.4403387 9.1459002"",""description"":""La Cooperativa Spazio Aperto nell'ambito dei servizi di accoglienza in risposta all'emergenza Ucraina, cerca, da impiegare subito, mediatori culturali. Orario: 25h settimanali"",""email"":""selezione@spazioapertoservizi.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""26"",""postcode"":""20146"",""quarter"":""Ronchetto Sul Naviglio"",""road"":""Via Francesco Olgiati"",""state"":""Lombardia"",""suburb"":""Restocco Maroni""},""boundingbox"":[""45.4402887"",""45.4403887"",""9.1458502"",""9.1459502""],""class"":""place"",""display_name"":""26, Via Francesco Olgiati, Ronchetto Sul Naviglio, Restocco Maroni, Milano, Lombardia, 20146, Italia"",""importance"":0.411,""lat"":""45.4403387"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1459002"",""osm_id"":9394096121,""osm_type"":""node"",""place_id"":326660295,""type"":""house""},""mode"":""autocomplete""},""nameSurname"":""Spazio Aperto Servizi"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Ricerca mediatori culturali di lingua ucraina/russa"",""url"":""https://spazioapertoservizi.org/""}","<pre><yamldata>
+nameSurname: Spazio Aperto Servizi
+phoneNumber: ''
+email: selezione@spazioapertoservizi.org
+title: Ricerca mediatori culturali di lingua ucraina/russa
+recipients: ''
+description: 'La Cooperativa Spazio Aperto nell''ambito dei servizi di accoglienza
+  in risposta all''emergenza Ucraina, cerca, da impiegare subito, mediatori culturali.
+  Orario: 25h settimanali'
+url: https://spazioapertoservizi.org/
+location:
+  mode: autocomplete
+  address:
+    place_id: 326660295
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 9394096121
+    boundingbox:
+    - '45.4402887'
+    - '45.4403887'
+    - '9.1458502'
+    - '9.1459502'
+    lat: '45.4403387'
+    lon: '9.1459002'
+    display_name: 26, Via Francesco Olgiati, Ronchetto Sul Naviglio, Restocco Maroni,
+      Milano, Lombardia, 20146, Italia
+    class: place
+    type: house
+    importance: 0.411
+    address:
+      house_number: '26'
+      road: Via Francesco Olgiati
+      quarter: Ronchetto Sul Naviglio
+      suburb: Restocco Maroni
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20146'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 45.4403387 9.1459002
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/415,1186210797,2022-04-14 15:28:56,2022-03-30 10:09:22,International Rescue Committee - IRC Italia è alla ricerca di mediatori culturali di lingua ucraina a Milano e Trieste,,,,,"[""Valid/Accettato"",""Help"",""translation"",""job""]",,,"{""description"":""International Rescue Committee - IRC Italia \u00e8 alla ricerca di mediatori culturali di lingua ucraina con base a Milano e Trieste da inserire nel suo team. \n\nDescrizione della posizione:\n\ud83d\udccd Fornire informazioni su procedure di asilo, protezione temporanea, diritti e accesso ai servizi\n\ud83d\udccd Supportare con l'interpretazione e la traduzione per attivit\u00e0 sia in presenza che online\n\ud83d\udccd Monitorare i bisogni della comunit\u00e0 e le vulnerabilit\u00e0\n\nRequisiti:\n\ud83d\udccd Scrivere e parlare fluentemente ucraino e inglese (o italiano)\n\ud83d\udccd Essere basato a Milano o Trieste\n\ud83d\udccd Esperienza nella mediazione culturale o interpretazione \n\ud83d\udccd Ottime capacit\u00e0 comunicative e di reporting, nonch\u00e9 sensibilit\u00e0 culturale\n\nPer saperne di pi\u00f9 sull'offerta di lavoro e per candidarti, vedi link\nhttps://rescue.csod.com/ux/ats/careersite/1/home/requisition/25456?c=rescue"",""email"":""info@rescue.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{},""mode"":""autocomplete""},""nameSurname"":""International Rescue Committee - IRC Italia"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""IRC Italia \u00e8 alla ricerca di mediatori culturali di lingua ucraina a Milano e Trieste"",""url"":""https://www.facebook.com/150538088974692/posts/933257804036046/""}","<pre><yamldata>
+nameSurname: International Rescue Committee - IRC Italia
+phoneNumber: ''
+email: info@rescue.org
+title: IRC Italia è alla ricerca di mediatori culturali di lingua ucraina a Milano
+  e Trieste
+recipients: ''
+description: ""International Rescue Committee - IRC Italia è alla ricerca di mediatori\
+  \ culturali di lingua ucraina con base a Milano e Trieste da inserire nel suo team.\
+  \ \n\nDescrizione della posizione:\n\U0001F4CD Fornire informazioni su procedure\
+  \ di asilo, protezione temporanea, diritti e accesso ai servizi\n\U0001F4CD Supportare\
+  \ con l'interpretazione e la traduzione per attività sia in presenza che online\n\
+  \U0001F4CD Monitorare i bisogni della comunità e le vulnerabilità\n\nRequisiti:\n\
+  \U0001F4CD Scrivere e parlare fluentemente ucraino e inglese (o italiano)\n\U0001F4CD\
+  \ Essere basato a Milano o Trieste\n\U0001F4CD Esperienza nella mediazione culturale\
+  \ o interpretazione \n\U0001F4CD Ottime capacità comunicative e di reporting, nonché\
+  \ sensibilità culturale\n\nPer saperne di più sull'offerta di lavoro e per candidarti,\
+  \ vedi link\nhttps://rescue.csod.com/ux/ats/careersite/1/home/requisition/25456?c=rescue""
+url: https://www.facebook.com/150538088974692/posts/933257804036046/
+location:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/366,1182142266,2022-04-14 15:28:33,2022-03-26 22:42:38,A Pisa cercasi mediatori linguistici ucraini,,,,,"[""Valid/Accettato"",""Help"",""translation"",""job"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Pisa"",""country"":""Italia"",""country_code"":""it"",""county"":""Pisa"",""house_number"":""8"",""postcode"":""56125"",""road"":""Via Giovanni Pascoli"",""shop"":""Pam"",""state"":""Toscana"",""suburb"":""San Martino""},""boundingbox"":[""43.7119722"",""43.7120722"",""10.4006478"",""10.4007478""],""class"":""shop"",""display_name"":""Pam, 8, Via Giovanni Pascoli, San Martino, Pisa, Toscana, 56125, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//shopping_supermarket.p.20.png"",""importance"":0.5209999999999999,""lat"":""43.7120222"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.4006978"",""osm_id"":2584396643,""osm_type"":""node"",""place_id"":23269333,""type"":""supermarket""},""mode"":""autocomplete""},""description"":""Il Centro Linguistico Interculturale ALIF di Pisa cerca mediatori linguistici ucraini.\nPer chi fosse interessato pu\u00f2 contattarci via tel allo 050.3191932 o via mail all'indirizzo alifpisa@yahoo.it\nGrazie!"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Centro Linguistico Interculturale ALIF"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":true,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""A Pisa cercasi mediatori linguistici ucraini"",""url"":""https://www.facebook.com/1430400046985430/posts/7853072464718124/?sfnsn=scwspmo""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: true
+  job: true
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Centro Linguistico Interculturale ALIF
+title: A Pisa cercasi mediatori linguistici ucraini
+recipients: ''
+description: 'Il Centro Linguistico Interculturale ALIF di Pisa cerca mediatori linguistici
+  ucraini.
+
+  Per chi fosse interessato può contattarci via tel allo 050.3191932 o via mail all''indirizzo
+  alifpisa@yahoo.it
+
+  Grazie!'
+url: https://www.facebook.com/1430400046985430/posts/7853072464718124/?sfnsn=scwspmo
+address:
+  mode: autocomplete
+  address:
+    place_id: 23269333
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 2584396643
+    boundingbox:
+    - '43.7119722'
+    - '43.7120722'
+    - '10.4006478'
+    - '10.4007478'
+    lat: '43.7120222'
+    lon: '10.4006978'
+    display_name: Pam, 8, Via Giovanni Pascoli, San Martino, Pisa, Toscana, 56125,
+      Italia
+    class: shop
+    type: supermarket
+    importance: 0.5209999999999999
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//shopping_supermarket.p.20.png
+    address:
+      shop: Pam
+      house_number: '8'
+      road: Via Giovanni Pascoli
+      suburb: San Martino
+      city: Pisa
+      county: Pisa
+      state: Toscana
+      postcode: '56125'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/617,1204664323,2022-04-14 15:26:38,2022-04-14 15:19:55,Comitato Salva Ucraini di Palermo cerca con urgenza famiglie che possano offrire ospitalità a rifugiati ucraini anche per brevi periodi,38.1310439,13.3504989,Sicilia,Palermo,"[""Valid/Accettato"",""Help"",""hospitality""]",,,"{""Posizione"":""38.1310439 13.3504989"",""description"":""Comitato Salva Ucraini di Palermo cerca con urgenza famiglie che possano offrire ospitalit\u00e0 a rifugiati ucraini anche per brevi periodi. Per offrire la propria disponibilit\u00e0 basta compilare il modulo online al link https://forms.gle/8to9gU8jQc3CvZEk7"",""email"":""salva.ucraini.palermo@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-82"",""ISO3166-2-lvl6"":""IT-PA"",""amenity"":""Ancelle"",""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""postcode"":""90141"",""road"":""Via Marchese Ugo"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1309939"",""38.1310939"",""13.3504489"",""13.3505489""],""class"":""amenity"",""display_name"":""Ancelle, Via Marchese Ugo, VIII Circoscrizione, Palermo, Sicilia, 90141, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//education_school.p.20.png"",""importance"":0.21100000000000002,""lat"":""38.1310439"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3504989"",""osm_id"":268884163,""osm_type"":""node"",""place_id"":565436,""type"":""school""},""mode"":""autocomplete""},""nameSurname"":""Comitato Salva Ucraini di Palermo"",""phoneNumber"":""+39 371 1146860"",""recipients"":"""",""submit"":true,""title"":""Comitato Salva Ucraini di Palermo cerca con urgenza famiglie che possano offrire ospitalit\u00e0 a rifugiati ucraini anche per brevi periodi"",""url"":""https://www.facebook.com/groups/4888212474592785/permalink/5009331405814224/""}","<pre><yamldata>
+nameSurname: Comitato Salva Ucraini di Palermo
+phoneNumber: +39 371 1146860
+email: salva.ucraini.palermo@gmail.com
+title: Comitato Salva Ucraini di Palermo cerca con urgenza famiglie che possano offrire
+  ospitalità a rifugiati ucraini anche per brevi periodi
+recipients: ''
+description: Comitato Salva Ucraini di Palermo cerca con urgenza famiglie che possano
+  offrire ospitalità a rifugiati ucraini anche per brevi periodi. Per offrire la propria
+  disponibilità basta compilare il modulo online al link https://forms.gle/8to9gU8jQc3CvZEk7
+url: https://www.facebook.com/groups/4888212474592785/permalink/5009331405814224/
+location:
+  mode: autocomplete
+  address:
+    place_id: 565436
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 268884163
+    boundingbox:
+    - '38.1309939'
+    - '38.1310939'
+    - '13.3504489'
+    - '13.3505489'
+    lat: '38.1310439'
+    lon: '13.3504989'
+    display_name: Ancelle, Via Marchese Ugo, VIII Circoscrizione, Palermo, Sicilia,
+      90141, Italia
+    class: amenity
+    type: school
+    importance: 0.21100000000000002
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//education_school.p.20.png
+    address:
+      amenity: Ancelle
+      road: Via Marchese Ugo
+      suburb: VIII Circoscrizione
+      city: Palermo
+      county: Palermo
+      ISO3166-2-lvl6: IT-PA
+      state: Sicilia
+      ISO3166-2-lvl4: IT-82
+      postcode: '90141'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 38.1310439 13.3504989
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/396,1184759723,2022-04-14 15:25:42,2022-03-29 12:02:22,"Ministero della Salute Ucraino, lista dei farmaci di cui hanno bisogno gli ospedali in Ucraina",50.4500336,30.5241361,,,"[""Valid/Accettato"",""News"",""Help"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""50.4500336 30.5241361"",""description"":""Sul.sito del Ministerodella Salute Ucraino pubblicata la lista dei farmaci e dei dispositivi medici di cui hanno bisogno gli ospedali ucraini."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/DaFNzl5gB5"",""location"":{""address"":{""address"":{""city"":""Kiev"",""country"":""Ucraina"",""country_code"":""ua"",""postcode"":""1001""},""boundingbox"":[""50.2900336"",""50.6100336"",""30.3641361"",""30.6841361""],""class"":""place"",""display_name"":""Kiev, Kyiv, 1001, Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.9258572961698042,""lat"":""50.4500336"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""30.5241361"",""osm_id"":26150422,""osm_type"":""node"",""place_id"":285620529,""type"":""city""},""mode"":""autocomplete""},""submit"":true,""title"":""Ministero della Salute Ucraino, lista dei farmaci di cui hanno bisogno gli ospedali in Ucraina""}","<pre><yamldata>
+title: Ministero della Salute Ucraino, lista dei farmaci di cui hanno bisogno gli
+  ospedali in Ucraina
+description: Sul.sito del Ministerodella Salute Ucraino pubblicata la lista dei farmaci
+  e dei dispositivi medici di cui hanno bisogno gli ospedali ucraini.
+link: https://t.co/DaFNzl5gB5
+location:
+  mode: autocomplete
+  address:
+    place_id: 285620529
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 26150422
+    boundingbox:
+    - '50.2900336'
+    - '50.6100336'
+    - '30.3641361'
+    - '30.6841361'
+    lat: '50.4500336'
+    lon: '30.5241361'
+    display_name: Kiev, Kyiv, 1001, Ucraina
+    class: place
+    type: city
+    importance: 0.9258572961698042
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Kiev
+      postcode: '1001'
+      country: Ucraina
+      country_code: ua
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 50.4500336 30.5241361
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/413,1185394141,2022-04-14 15:25:21,2022-03-29 20:45:35,Comune di Cento (Ferrara) cerca volontari bilingue italiano/ucraino per attività di integrazione per minori,44.7274395,11.2903029,Emilia-Romagna,Ferrara,"[""Valid/Accettato"",""Help"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""44.7274395 11.2903029"",""description"":""Il Comune di Cento \u00e8 alla ricerca di volontari bilingue per realizzare attivit\u00e0 di integrazione per minori. Se parli l'italiano e l'ucraino e ti va di donare un p\u00f2 del tuo tempo contatta: facciamorete@comune.cento.fe.it"",""email"":""facciamorete@comune.cento.fe.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""municipality"":""Unione Alto Ferrarese"",""state"":""Emilia-Romagna"",""town"":""Cento""},""boundingbox"":[""44.705628"",""44.8381841"",""11.2461129"",""11.3880712""],""class"":""boundary"",""display_name"":""Cento, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5919924514729962,""lat"":""44.7274395"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2903029"",""osm_id"":43506,""osm_type"":""relation"",""place_id"":283662905,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Comune di Cento"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Ricerca volontari bilingue"",""url"":""https://www.comune.cento.fe.it/aree-tematiche/volontariato-e-associazionismo/facciamo-rete-coordinamento-solidale-lintegrazione""}","<pre><yamldata>
+nameSurname: Comune di Cento
+phoneNumber: ''
+email: facciamorete@comune.cento.fe.it
+title: Ricerca volontari bilingue
+recipients: ''
+description: 'Il Comune di Cento è alla ricerca di volontari bilingue per realizzare
+  attività di integrazione per minori. Se parli l''italiano e l''ucraino e ti va di
+  donare un pò del tuo tempo contatta: facciamorete@comune.cento.fe.it'
+url: https://www.comune.cento.fe.it/aree-tematiche/volontariato-e-associazionismo/facciamo-rete-coordinamento-solidale-lintegrazione
+location:
+  mode: autocomplete
+  address:
+    place_id: 283662905
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43506
+    boundingbox:
+    - '44.705628'
+    - '44.8381841'
+    - '11.2461129'
+    - '11.3880712'
+    lat: '44.7274395'
+    lon: '11.2903029'
+    display_name: Cento, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, Italia
+    class: boundary
+    type: administrative
+    importance: 0.5919924514729962
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      town: Cento
+      municipality: Unione Alto Ferrarese
+      county: Ferrara
+      state: Emilia-Romagna
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 44.7274395 11.2903029
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/453,1190311155,2022-04-14 15:24:56,2022-04-01 22:02:44,Eurordis - Rete europea malattie rare cerca volontari da inserire nel programma di aiuti per emergenza Ucraina,48.827419,2.3145182,,,"[""Valid/Accettato"",""Help"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""48.827419 2.3145182"",""description"":""Eurordis - Rete Europea malattie rare sta cercando volontari da inserire nel programma di aiuti per l\u2019emergenza Ucraina. In particolare cerca volontari che  conoscano il russo o l\u2019ucraino, abbiano familiarit\u00e0 con patologie rare e servizi di accoglienza. Al link ulteriori informazioni. Per info e invio disponibilit\u00e0 helpukraine@eurordis.org"",""email"":""helpukraine@eurordis.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city_block"":""Quartier de Plaisance"",""city_district"":""Parigi"",""country"":""Francia"",""country_code"":""fr"",""county"":""Parigi"",""house_number"":""96"",""neighbourhood"":""Paris 14e Arrondissement"",""postcode"":""75014"",""region"":""Francia metropolitana"",""road"":""Rue Didot"",""state"":""Isola di Francia"",""suburb"":""Parigi""},""boundingbox"":[""48.827369"",""48.827469"",""2.3144682"",""2.3145682""],""class"":""place"",""display_name"":""96, Rue Didot, Quartier de Plaisance, Paris 14e Arrondissement, Parigi, Isola di Francia, Francia metropolitana, 75014, Francia"",""importance"":0.5209999999999999,""lat"":""48.827419"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""2.3145182"",""osm_id"":1389822713,""osm_type"":""node"",""place_id"":13628593,""type"":""house""},""mode"":""autocomplete""},""nameSurname"":""Eurordis - Rete Europea malattie rare"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Eurordis - Rete Europea malattie rare sta cercando volontari da inserire nel programma di aiuti per l\u2019emergenza Ucraina"",""url"":""https://www.eurordis.org/content/urgent-call-volunteers-help-ukraine""}","<pre><yamldata>
+nameSurname: Eurordis - Rete Europea malattie rare
+phoneNumber: ''
+email: helpukraine@eurordis.org
+title: Eurordis - Rete Europea malattie rare sta cercando volontari da inserire nel
+  programma di aiuti per l’emergenza Ucraina
+recipients: ''
+description: 'Eurordis - Rete Europea malattie rare sta cercando volontari da inserire
+  nel programma di aiuti per l’emergenza Ucraina. In particolare cerca volontari che  conoscano
+  il russo o l’ucraino, abbiano familiarità con patologie rare e servizi di accoglienza.
+  Al link ulteriori informazioni.
+  Per info e invio disponibilità helpukraine@eurordis.org'
+url: https://www.eurordis.org/content/urgent-call-volunteers-help-ukraine
+location:
+  mode: autocomplete
+  address:
+    place_id: 13628593
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 1389822713
+    boundingbox:
+    - '48.827369'
+    - '48.827469'
+    - '2.3144682'
+    - '2.3145682'
+    lat: '48.827419'
+    lon: '2.3145182'
+    display_name: 96, Rue Didot, Quartier de Plaisance, Paris 14e Arrondissement,
+      Parigi, Isola di Francia, Francia metropolitana, 75014, Francia
+    class: place
+    type: house
+    importance: 0.5209999999999999
+    address:
+      house_number: '96'
+      road: Rue Didot
+      city_block: Quartier de Plaisance
+      neighbourhood: Paris 14e Arrondissement
+      suburb: Parigi
+      city_district: Parigi
+      county: Parigi
+      state: Isola di Francia
+      region: Francia metropolitana
+      postcode: '75014'
+      country: Francia
+      country_code: fr
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 48.827419 2.3145182
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/499,1193586014,2022-04-14 15:23:57,2022-04-05 18:52:29,"A Roma associazione Nonna Roma cerca volontari che parlino italiano, inglese e ucraino",41.8933203,12.4829321,Lazio,Roma,"[""Valid/Accettato"",""Help"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""41.8933203 12.4829321"",""description"":""Nonna Roma cerca volontari che parlino italiano, inglese e ucraino per la scuola di italiano del progetto Fuoriclasse. La scuola di italiano per stranieri del progetto Fuoriclasse \u00e8 un\u2019attivit\u00e0 avviata volta a mettere a disposizione lezioni gratuite di italiano alle comunit\u00e0 di migranti e stranieri che vivono a Roma, per costruire un modello di accoglienza e di inclusione in citt\u00e0."",""email"":""info.fuoriclasse0@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8896107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Nonna Roma"",""phoneNumber"":""3477247592"",""recipients"":"""",""submit"":true,""title"":""Ricerca volontari per insegnare italiano"",""url"":""https://nonnaroma.it/2021/11/26/fuoriclasse-presentazione-progetto/""}","<pre><yamldata>
+nameSurname: Nonna Roma
+phoneNumber: '3477247592'
+email: info.fuoriclasse0@gmail.com
+title: Ricerca volontari per insegnare italiano
+recipients: ''
+description: Nonna Roma cerca volontari che parlino italiano, inglese e ucraino per
+  la scuola di italiano del progetto Fuoriclasse. La scuola di italiano per stranieri
+  del progetto Fuoriclasse è un’attività avviata volta a mettere a disposizione lezioni
+  gratuite di italiano alle comunità di migranti e stranieri che vivono a Roma, per
+  costruire un modello di accoglienza e di inclusione in città.
+url: https://nonnaroma.it/2021/11/26/fuoriclasse-presentazione-progetto/
+location:
+  mode: autocomplete
+  address:
+    place_id: 283767136
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 41485
+    boundingbox:
+    - '41.6556417'
+    - '42.1410285'
+    - '12.2344669'
+    - '12.8557603'
+    lat: '41.8933203'
+    lon: '12.4829321'
+    display_name: Roma, Roma Capitale, Lazio, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8896107180689524
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 41.8933203 12.4829321
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/532,1196531582,2022-04-14 15:23:45,2022-04-07 20:22:52,Associazione Karmadonne di Carmagnola (Torino) cerca volontari/e per gestire raccolta beni e distribuirli ai profughi ucraini,44.8515877,7.7222716,Piemonte,Torino,"[""Valid/Accettato"",""Help"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""44.8515877 7.7222716"",""description"":""L'Associazione Karmadonne cerca volontari e volontarie il sabato mattina per la gestione e redistribuzione dei pacchi con beni di prima necessit\u00e0 da inviare alle persone in fuga dall'Ucraina."",""email"":""karmadonne.carmagnola@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""postcode"":""10022"",""road"":""Via Girolamo Savonarola"",""state"":""Piemonte"",""town"":""Carmagnola""},""boundingbox"":[""44.8511551"",""44.8518055"",""7.7192112"",""7.7246284""],""class"":""highway"",""display_name"":""Via Girolamo Savonarola, Carmagnola, Torino, Piemonte, 10022, Italia"",""importance"":0.51,""lat"":""44.8515877"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.7222716"",""osm_id"":76089297,""osm_type"":""way"",""place_id"":330815289,""type"":""residential""},""mode"":""autocomplete""},""nameSurname"":""Karmadonne"",""phoneNumber"":""3939096878"",""recipients"":"""",""submit"":true,""title"":""Ricerca volontari/e per raccolta beni di prima necessit\u00e0"",""url"":""https://www.karmadonne.it/?fbclid=IwAR1YJhU5Ye8ReW6g_79XduQ_lHtLyhCcz-s9QPj0KOmHKPDVY73l_jkJ6dw""}","<pre><yamldata>
+nameSurname: Karmadonne
+phoneNumber: '3939096878'
+email: karmadonne.carmagnola@gmail.com
+title: Ricerca volontari/e per raccolta beni di prima necessità
+recipients: ''
+description: L'Associazione Karmadonne cerca volontari e volontarie il sabato mattina
+  per la gestione e redistribuzione dei pacchi con beni di prima necessità da inviare
+  alle persone in fuga dall'Ucraina.
+url: https://www.karmadonne.it/?fbclid=IwAR1YJhU5Ye8ReW6g_79XduQ_lHtLyhCcz-s9QPj0KOmHKPDVY73l_jkJ6dw
+location:
+  mode: autocomplete
+  address:
+    place_id: 330815289
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 76089297
+    boundingbox:
+    - '44.8511551'
+    - '44.8518055'
+    - '7.7192112'
+    - '7.7246284'
+    lat: '44.8515877'
+    lon: '7.7222716'
+    display_name: Via Girolamo Savonarola, Carmagnola, Torino, Piemonte, 10022, Italia
+    class: highway
+    type: residential
+    importance: 0.51
+    address:
+      road: Via Girolamo Savonarola
+      town: Carmagnola
+      county: Torino
+      state: Piemonte
+      ISO3166-2-lvl4: IT-21
+      postcode: '10022'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 44.8515877 7.7222716
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/81,1167338911,2022-04-14 15:23:18,2022-03-12 16:52:13,A Verona Associazione Malve di Ucraina cerca alloggi e professionisti per supporto rifugiati ucraini,45.4384958,10.9924122,Veneto,Verona,"[""Valid/Accettato"",""Help"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.4384958 10.9924122"",""description"":""A Verona l\u2019associazione Malve di Ucraina ha bisogno di raccogliere denaro per sostenere le spese di trasporto di beni umanitari. E poi cerca famiglie che possano ospitare i rifugiati ucraini in arrivo. Inoltre ha bisogno di professionisti che possano offrire supporto (in particolare mediatori linguistici, medici, insegnanti, parrucchieri) e aziende che offrano lavoro ai rifugiati."",""email"":""malve.verona@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Verona"",""country"":""Italia"",""country_code"":""it"",""county"":""Verona"",""postcode"":""37122"",""state"":""Veneto""},""boundingbox"":[""45.2784958"",""45.5984958"",""10.8324122"",""11.1524122""],""class"":""place"",""display_name"":""Verona, Veneto, 37122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7561573888828526,""lat"":""45.4384958"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.9924122"",""osm_id"":64778101,""osm_type"":""node"",""place_id"":286299859,""type"":""city""},""mode"":""autocomplete""},""nameSurname"":""Associazione Malve di Ucraina"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""A Verona Associazione Malve di Ucraina cerca alloggi e professionisti che possano supportare rifugiati ucraini"",""url"":""https://www.facebook.com/675754522486226/posts/5102255149836119/""}","<pre><yamldata>
+nameSurname: Associazione Malve di Ucraina
+phoneNumber: ''
+email: malve.verona@gmail.com
+title: A Verona Associazione Malve di Ucraina cerca alloggi e professionisti che possano
+  supportare rifugiati ucraini
+recipients: ''
+description: A Verona l’associazione Malve di Ucraina ha bisogno di raccogliere denaro
+  per sostenere le spese di trasporto di beni umanitari. E poi cerca famiglie che
+  possano ospitare i rifugiati ucraini in arrivo. Inoltre ha bisogno di professionisti
+  che possano offrire supporto (in particolare mediatori linguistici, medici, insegnanti,
+  parrucchieri) e aziende che offrano lavoro ai rifugiati.
+url: https://www.facebook.com/675754522486226/posts/5102255149836119/
+location:
+  mode: autocomplete
+  address:
+    place_id: 286299859
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 64778101
+    boundingbox:
+    - '45.2784958'
+    - '45.5984958'
+    - '10.8324122'
+    - '11.1524122'
+    lat: '45.4384958'
+    lon: '10.9924122'
+    display_name: Verona, Veneto, 37122, Italia
+    class: place
+    type: city
+    importance: 0.7561573888828526
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Verona
+      county: Verona
+      state: Veneto
+      postcode: '37122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 45.4384958 10.9924122
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/600,1202420182,2022-04-14 15:00:43,2022-04-12 21:39:05,"Regione Liguria, sito web (italiano/ucraino) per aiutare i rifugiati ucraini con info utili e corso online gratuito di italiano",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality"",""job"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-42"",""ISO3166-2-lvl6"":""IT-GE"",""city"":""Genova"",""country"":""Italia"",""country_code"":""it"",""county"":""Genova"",""neighbourhood"":""Sottoripa"",""postcode"":""16100"",""road"":""Via Magazzini del Cotone"",""state"":""Liguria"",""suburb"":""Centro Est""},""boundingbox"":[""44.4083927"",""44.4085719"",""8.9226229"",""8.9234061""],""class"":""highway"",""display_name"":""Via Magazzini del Cotone, Sottoripa, Centro Est, Genova, Liguria, 16100, Italia"",""importance"":0.61,""lat"":""44.4085075"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.9231409"",""osm_id"":242620132,""osm_type"":""way"",""place_id"":162849528,""type"":""pedestrian""},""mode"":""autocomplete""},""description"":""Regione Liguria mette a disposizione un sito informativo per aiutare i cittadini ucraini ad orientarsi nei servizi offerti da istituzioni, mondo del volontariato ed altri enti. Sul sito \u00e8 possibile trovare tutte le info per le procedure per ottenere il permesso di soggiorno (con contatti di questure e prefetture), per studiare, lavorare, trascorrere il tempo libero e accedere ai servizi essenziali.\nIl sito \u00e8 stato realizzato in doppia lingua grazie al prezioso supporto di volontari ucraini.\n\u00c8 inoltre disponibile un corso online gratuito di lingua italiana e uno sportello di supporto alla popolazione ucraina orario: dalle 10 alle 16 [dal luned\u00ec al venerd\u00ec], ucraina@saloneorientamenti.it, tel. 800 938 883."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Liguria"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":true,""job"":true,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Regione Liguria, sito web per aiutare i rifugiati ucraini con info utili e corso online gratuito di italiano"",""url"":""https://www.orientamenti.regione.liguria.it/ucraina/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -2898,48 +3779,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/499,1193586014,2022-04-10 07:30:22,2022-04-05 18:52:29,"A Roma associazione Nonna Roma cerca volontari che parlino italiano, inglese e ucraino",41.8933203,12.4829321,Lazio,Roma,"[""Valid/Accettato"",""Help"",""translation"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""41.8933203 12.4829321"",""description"":""Nonna Roma cerca volontari che parlino italiano, inglese e ucraino per la scuola di italiano del progetto Fuoriclasse. La scuola di italiano per stranieri del progetto Fuoriclasse \u00e8 un\u2019attivit\u00e0 avviata volta a mettere a disposizione lezioni gratuite di italiano alle comunit\u00e0 di migranti e stranieri che vivono a Roma, per costruire un modello di accoglienza e di inclusione in citt\u00e0."",""email"":""info.fuoriclasse0@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8896107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Nonna Roma"",""phoneNumber"":""3477247592"",""recipients"":"""",""submit"":true,""title"":""Ricerca volontari per insegnare italiano"",""url"":""https://nonnaroma.it/2021/11/26/fuoriclasse-presentazione-progetto/""}","<pre><yamldata>
-nameSurname: Nonna Roma
-phoneNumber: '3477247592'
-email: info.fuoriclasse0@gmail.com
-title: Ricerca volontari per insegnare italiano
-recipients: ''
-description: Nonna Roma cerca volontari che parlino italiano, inglese e ucraino per
-  la scuola di italiano del progetto Fuoriclasse. La scuola di italiano per stranieri
-  del progetto Fuoriclasse è un’attività avviata volta a mettere a disposizione lezioni
-  gratuite di italiano alle comunità di migranti e stranieri che vivono a Roma, per
-  costruire un modello di accoglienza e di inclusione in città.
-url: https://nonnaroma.it/2021/11/26/fuoriclasse-presentazione-progetto/
-location:
-  mode: autocomplete
-  address:
-    place_id: 283767136
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 41485
-    boundingbox:
-    - '41.6556417'
-    - '42.1410285'
-    - '12.2344669'
-    - '12.8557603'
-    lat: '41.8933203'
-    lon: '12.4829321'
-    display_name: Roma, Roma Capitale, Lazio, Italia
-    class: boundary
-    type: administrative
-    importance: 0.8896107180689524
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 41.8933203 12.4829321
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/503,1193760060,2022-04-10 07:29:54,2022-04-05 21:55:37,A Firenze lezioni online gratuite di italiano per bambini ucraini,,,,,"[""Valid/Accettato"",""Services"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""house_number"":""124"",""neighbourhood"":""Statuto"",""postcode"":""50129"",""road"":""Via Venti Settembre"",""state"":""Toscana"",""suburb"":""Quartiere 5""},""boundingbox"":[""43.7842157"",""43.7843157"",""11.2522206"",""11.2523206""],""class"":""place"",""display_name"":""124, Via Venti Settembre, Statuto, Quartiere 5, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50129, Italia"",""importance"":0.6309999999999999,""lat"":""43.7842657"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2522706"",""osm_id"":2361676853,""osm_type"":""node"",""place_id"":20527488,""type"":""house""},""mode"":""autocomplete""},""description"":""Il Gruppo di volontari Ucraina in Toscana, che opera in collaborazione con il Consolato Ucraino a Firenze, organizza un corso gratuito di italiano per bambini (7-12 anni) sulla piattaforma Zoom.\nDa mercoled\u00ec 6 aprile ore 18:00 (3 volte a settimana).\nInfo Whatsapp +393475453052\nIl numero massimo dei partecipanti \u00e8 di 15 bambini. Il materiale dei compiti sar\u00e0 inviato via mail.\nInsegnante di lingua russa: Lilia Petrenko (guida Firenze - storica dell'arte).\n\n\u0406\u0442\u0430\u043b\u0456\u0439\u0441\u044c\u043a\u0430 \u043c\u043e\u0432\u0430 \u0434\u043b\u044f \u0434\u0456\u0442\u0435\u0439 7-12 \u0440\u043e\u043a\u0456\u0432\n(\u0412\u0438\u043c\u0443\u0448\u0435\u043d\u0438\u0445 \u043f\u0435\u0440\u0435\u0441\u0435\u043b\u0435\u043d\u0446\u0456\u0432) \n \u041e\u043d_\u043b\u0430\u0439\u043d \u043a\u0443\u0440\u0441 \u043d\u0430 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0456 Zoom\n\u041f\u043e\u0447\u0430\u0442\u043e\u043a \u0432 \u0441\u0435\u0440\u0435\u0434\u0443, 6 \u043a\u0432\u0456\u0442\u043d\u044f, \u043e 18:00 \u043f\u043e I\u0442\u0430\u043b\u0456\u0456\n3 \u0440\u0430\u0437\u0438 \u043d\u0430 \u0442\u0438\u0436\u0434\u0435\u043d\u044c\n\u0423\u0440\u043e\u043a\u0438 \u043e\u0440\u0433\u0430\u043d\u0456\u0437\u043e\u0432\u0430\u043d\u0456 \u0437 \u043e\u0440\u0456\u0454\u043d\u0442\u0438\u0440\u043e\u043c \u043d\u0430 \u0434\u0438\u0442\u044f\u0447\u0435 \u0441\u043f\u0440\u0438\u0439\u043d\u044f\u0442\u0442\u044f \u0446\u0456\u0454\u0457 \u0432\u0456\u043a\u043e\u0432\u043e\u0457 \u0433\u0440\u0443\u043f\u0438.  \n\u0411\u0430\u0436\u0430\u044e\u0447\u0438\u043c \u043f\u0440\u043e\u0445\u0430\u043d\u043d\u044f \u043d\u0430\u043f\u0438\u0441\u0430\u0442\u0438 \u043d\u0430 \u0432\u043e\u0442\u0441\u0430\u043f +393475453052 \u0434\u043b\u044f \u0432\u043a\u043b\u044e\u0447\u0435\u043d\u043d\u044f \u0432 \u0447\u0430\u0442\n\u041c\u0430\u043a\u0441. \u043a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044c \u0443\u0447\u0430\u0441\u043d\u0438\u043a\u0456\u0432 \u2013 15 \u0434\u0456\u0442\u0435\u0439\n\u041c\u0430\u0442\u0435\u0440\u0456\u0430\u043b\u0438 \u0434\u043e\u043c\u0430\u0448\u043d\u0456\u0445 \u0437\u0430\u043d\u044f\u0442\u044c \u043d\u0430\u0434\u0441\u0438\u043b\u0430\u0442\u0438\u043c\u0443\u0442\u044c\u0441\u044f \u0435\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u044e \u043f\u043e\u0448\u0442\u043e\u044e\n\u0417\u0430\u043d\u044f\u0442\u0442\u044f \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u0456, \n\u0412\u0438\u043a\u043b\u0430\u0434\u0430\u0447 \u0440\u043e\u0441\u0456\u0439\u0441\u044c\u043a\u043e\u043c\u043e\u0432\u043d\u0438\u0439- Lilia Petrenko-\u0433\u0456\u0434 \u043f\u043e \u0424\u043b\u043e\u0440\u0435\u043d\u0446\u0456\u0456- \u0456\u0441\u0442\u043e\u0440\u0438\u043a-\u043c\u0438\u0441\u0442\u0435\u0446\u0442\u0432\u043e\u0437\u043d\u0430\u0432\u0435\u0446\u044c."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Gruppo volontari Ucraina in Toscana"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Firenze lezioni online gratuite di italiano per bambini ucraini"",""url"":""https://www.facebook.com/groups/ucrainaintoscana/permalink/2025412934287215/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -5689,48 +6528,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/532,1196531582,2022-04-08 17:46:55,2022-04-07 20:22:52,Associazione Karmadonne di Carmagnola (Torino) cerca volontari/e per gestire raccolta beni e distribuirli ai profughi ucraini,44.8515877,7.7222716,Piemonte,Torino,"[""Valid/Accettato"",""Help"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""44.8515877 7.7222716"",""description"":""L'Associazione Karmadonne cerca volontari e volontarie il sabato mattina per la gestione e redistribuzione dei pacchi con beni di prima necessit\u00e0 da inviare alle persone in fuga dall'Ucraina."",""email"":""karmadonne.carmagnola@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""postcode"":""10022"",""road"":""Via Girolamo Savonarola"",""state"":""Piemonte"",""town"":""Carmagnola""},""boundingbox"":[""44.8511551"",""44.8518055"",""7.7192112"",""7.7246284""],""class"":""highway"",""display_name"":""Via Girolamo Savonarola, Carmagnola, Torino, Piemonte, 10022, Italia"",""importance"":0.51,""lat"":""44.8515877"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.7222716"",""osm_id"":76089297,""osm_type"":""way"",""place_id"":330815289,""type"":""residential""},""mode"":""autocomplete""},""nameSurname"":""Karmadonne"",""phoneNumber"":""3939096878"",""recipients"":"""",""submit"":true,""title"":""Ricerca volontari/e per raccolta beni di prima necessit\u00e0"",""url"":""https://www.karmadonne.it/?fbclid=IwAR1YJhU5Ye8ReW6g_79XduQ_lHtLyhCcz-s9QPj0KOmHKPDVY73l_jkJ6dw""}","<pre><yamldata>
-nameSurname: Karmadonne
-phoneNumber: '3939096878'
-email: karmadonne.carmagnola@gmail.com
-title: Ricerca volontari/e per raccolta beni di prima necessità
-recipients: ''
-description: L'Associazione Karmadonne cerca volontari e volontarie il sabato mattina
-  per la gestione e redistribuzione dei pacchi con beni di prima necessità da inviare
-  alle persone in fuga dall'Ucraina.
-url: https://www.karmadonne.it/?fbclid=IwAR1YJhU5Ye8ReW6g_79XduQ_lHtLyhCcz-s9QPj0KOmHKPDVY73l_jkJ6dw
-location:
-  mode: autocomplete
-  address:
-    place_id: 330815289
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 76089297
-    boundingbox:
-    - '44.8511551'
-    - '44.8518055'
-    - '7.7192112'
-    - '7.7246284'
-    lat: '44.8515877'
-    lon: '7.7222716'
-    display_name: Via Girolamo Savonarola, Carmagnola, Torino, Piemonte, 10022, Italia
-    class: highway
-    type: residential
-    importance: 0.51
-    address:
-      road: Via Girolamo Savonarola
-      town: Carmagnola
-      county: Torino
-      state: Piemonte
-      ISO3166-2-lvl4: IT-21
-      postcode: '10022'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 44.8515877 7.7222716
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/533,1196539117,2022-04-08 17:46:41,2022-04-07 20:31:10,Raccolta fondi dell’Ospedale Gaslini di Genova per trasferire in Italia bambini ucraini malati con le loro famiglie ,,,,,"[""Valid/Accettato"",""fundraising"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""bicSwift"":"""",""causal"":""Gaslini per l'Ucraina"",""ccPostal"":"""",""description"":""Il Gaslini, con una sua equipe medico infermieristica ha coordinato in Polonia, a 70 km dal confine con l'Ucraina, la presa in carico dei bambini con tumori, patologie gravi e feriti di guerra e organizzato, per i casi pi\u00f9 gravi, un trasferimento al Gaslini e in altri ospedali italiani. Otto bambini affetti da neoplasie sono gi\u00e0 stati presi in carico dal Gaslini e altri arriveranno nei prossimi giorni. \n\nOltre alle necessit\u00e0 legate alla cura e al trasporto dei piccoli pazienti ucraini, occorre gestire l'accoglienza nel periodo in cui le famiglie in fuga dalla guerra con i propri bambini malati attendono il trasferimento presso gli ospedali italiani."",""email"":"""",""heading"":""Gaslini onlus"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT48Q0617501583000000700080"",""label"":""fundraising"",""link"":""https://sostienici.gaslinionlus.it/projects/gaslini-per-ucraina?fbclid=IwAR1nUdfg7FKYALCEx5YtneSUQwP3P8kSohnpFt2z-665L0KKr21Z8XIFZyI"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Ospedale Gaslini""}","<pre><yamldata>
 title: Ospedale Gaslini
 description: ""Il Gaslini, con una sua equipe medico infermieristica ha coordinato\
@@ -6848,51 +7645,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: help
 submit: true
 Posizione: 45.4641943 9.1896346
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/463,1190677316,2022-04-06 07:59:42,2022-04-02 16:28:08,A Milano la coop Spazio Aperto cerca  assistenti sociali per attività a favore dei rifugiati ucraini,45.4403387,9.1459002,Lombardia,Milano,"[""Valid/Accettato"",""Help"",""job"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.4403387 9.1459002"",""description"":""La cooperativa Spazio Aperto cerca assistenti sociali per servizi di accoglienza\nContratto: Livello D2 CCNL Cooperative Sociali \nOrario: 38h settimanali \nRequisiti: Laurea in Servizio Sociale e iscrizione all'Albo Professionale"",""email"":""selezione@spazioapertoservizi.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""26"",""postcode"":""20146"",""quarter"":""Ronchetto Sul Naviglio"",""road"":""Via Francesco Olgiati"",""state"":""Lombardia"",""suburb"":""Restocco Maroni""},""boundingbox"":[""45.4402887"",""45.4403887"",""9.1458502"",""9.1459502""],""class"":""place"",""display_name"":""26, Via Francesco Olgiati, Ronchetto Sul Naviglio, Restocco Maroni, Milano, Lombardia, 20146, Italia"",""importance"":0.42099999999999993,""lat"":""45.4403387"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1459002"",""osm_id"":9394096121,""osm_type"":""node"",""place_id"":326660295,""type"":""house""},""mode"":""autocomplete""},""nameSurname"":""Cooperativa Spazio Aperto"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Cooperativa ricerca assistenti sociali a Milano"",""url"":""https://spazioapertoservizi.org/""}","<pre><yamldata>
-nameSurname: Cooperativa Spazio Aperto
-phoneNumber: ''
-email: selezione@spazioapertoservizi.org
-title: Cooperativa ricerca assistenti sociali a Milano
-recipients: ''
-description: ""La cooperativa Spazio Aperto cerca assistenti sociali per servizi di\
-  \ accoglienza\nContratto: Livello D2 CCNL Cooperative Sociali \nOrario: 38h settimanali\
-  \ \nRequisiti: Laurea in Servizio Sociale e iscrizione all'Albo Professionale""
-url: https://spazioapertoservizi.org/
-location:
-  mode: autocomplete
-  address:
-    place_id: 326660295
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 9394096121
-    boundingbox:
-    - '45.4402887'
-    - '45.4403887'
-    - '9.1458502'
-    - '9.1459502'
-    lat: '45.4403387'
-    lon: '9.1459002'
-    display_name: 26, Via Francesco Olgiati, Ronchetto Sul Naviglio, Restocco Maroni,
-      Milano, Lombardia, 20146, Italia
-    class: place
-    type: house
-    importance: 0.42099999999999993
-    address:
-      house_number: '26'
-      road: Via Francesco Olgiati
-      quarter: Ronchetto Sul Naviglio
-      suburb: Restocco Maroni
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20146'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 45.4403387 9.1459002
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/500,1193588800,2022-04-06 07:58:54,2022-04-05 18:55:10,"“Fuoriclasse”, scuola di italiano per stranieri promossa da Nonna Roma e Arci Sparwasser",,,,,"[""Valid/Accettato"",""Services"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""La scuola di italiano per stranieri del progetto Fuoriclasse \u00e8 un\u2019attivit\u00e0 volta a mettere a disposizione lezioni gratuite di italiano alle comunit\u00e0 di migranti e stranieri che vivono a Roma, per costruire un modello di accoglienza e di inclusione in citt\u00e0. Info qui: info.fuoriclasse0@gmail.com - 3477247592"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Nonna Roma - Arci Sparwasser"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Scuola di italiano per stranieri - Roma"",""url"":""https://nonnaroma.it/2021/11/26/fuoriclasse-presentazione-progetto/""}","<pre><yamldata>
 servicetypes:
@@ -8395,51 +9147,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/462,1190676623,2022-04-03 06:30:57,2022-04-02 16:25:04,A Milano la coop Spazio Aperto cerca mediatori culturali di lingua ucraina/russa,45.4403387,9.1459002,Lombardia,Milano,"[""Valid/Accettato"",""Help"",""translation"",""job"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.4403387 9.1459002"",""description"":""La Cooperativa Spazio Aperto nell'ambito dei servizi di accoglienza in risposta all'emergenza Ucraina, cerca, da impiegare subito, mediatori culturali. Orario: 25h settimanali"",""email"":""selezione@spazioapertoservizi.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""26"",""postcode"":""20146"",""quarter"":""Ronchetto Sul Naviglio"",""road"":""Via Francesco Olgiati"",""state"":""Lombardia"",""suburb"":""Restocco Maroni""},""boundingbox"":[""45.4402887"",""45.4403887"",""9.1458502"",""9.1459502""],""class"":""place"",""display_name"":""26, Via Francesco Olgiati, Ronchetto Sul Naviglio, Restocco Maroni, Milano, Lombardia, 20146, Italia"",""importance"":0.411,""lat"":""45.4403387"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1459002"",""osm_id"":9394096121,""osm_type"":""node"",""place_id"":326660295,""type"":""house""},""mode"":""autocomplete""},""nameSurname"":""Spazio Aperto Servizi"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Ricerca mediatori culturali di lingua ucraina/russa"",""url"":""https://spazioapertoservizi.org/""}","<pre><yamldata>
-nameSurname: Spazio Aperto Servizi
-phoneNumber: ''
-email: selezione@spazioapertoservizi.org
-title: Ricerca mediatori culturali di lingua ucraina/russa
-recipients: ''
-description: 'La Cooperativa Spazio Aperto nell''ambito dei servizi di accoglienza
-  in risposta all''emergenza Ucraina, cerca, da impiegare subito, mediatori culturali.
-  Orario: 25h settimanali'
-url: https://spazioapertoservizi.org/
-location:
-  mode: autocomplete
-  address:
-    place_id: 326660295
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 9394096121
-    boundingbox:
-    - '45.4402887'
-    - '45.4403887'
-    - '9.1458502'
-    - '9.1459502'
-    lat: '45.4403387'
-    lon: '9.1459002'
-    display_name: 26, Via Francesco Olgiati, Ronchetto Sul Naviglio, Restocco Maroni,
-      Milano, Lombardia, 20146, Italia
-    class: place
-    type: house
-    importance: 0.411
-    address:
-      house_number: '26'
-      road: Via Francesco Olgiati
-      quarter: Ronchetto Sul Naviglio
-      suburb: Restocco Maroni
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20146'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 45.4403387 9.1459002
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/461,1190662368,2022-04-02 19:10:10,2022-04-02 15:23:51,Comune di Desio (MB): informazioni utili per i rifugiati e per chi vuole aiutare (ITA - UA),,,,,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""hospitality"",""healthcare"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Monza e della Brianza"",""postcode"":""20832"",""state"":""Lombardia"",""town"":""Desio""},""boundingbox"":[""45.5960657"",""45.6365128"",""9.174791"",""9.2349795""],""class"":""boundary"",""display_name"":""Desio, Monza e della Brianza, Lombardia, 20832, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.59470306841754,""lat"":""45.6183103"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2081245"",""osm_id"":45466,""osm_type"":""relation"",""place_id"":284616605,""type"":""administrative""},""mode"":""autocomplete""},""description"":""- adempimenti per la presenza e ospitalit\u00e0 di persone ucraine,\n\n- da ATS Brianza assistenza sanitaria per i profughi: Italiano ITA - Ucraino UA \n\n \n- Animali d'affezione al seguito dei profughi provenienti dall'Ucraina: obbligo di segnalazione all'ATS\n \n - servizi sul territorio (ITA), \u043f\u043e\u0441\u043b\u0443\u0433\u0438 \u043d\u0430 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0456\u0457 (UA)\n\n \n- come mettere a disposizione un appartamento nel sistema CAS \n\n- Avviso di Regione Lombardia per manifestazione d'interesse rivolta alle strutture ricettive per ospitare i profughi\n \n- come aiutare"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Desio"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":true,""disability"":false,""education"":true,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Desio: tutte  le informazioni utili per i rifugiati e per chi vuole aiutare (ITA - UA)"",""url"":""https://www.comune.desio.mb.it/it/news/1314466""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
@@ -8530,56 +9237,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 45.036854649999995 9.137825082826026
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/453,1190311155,2022-04-02 08:38:22,2022-04-01 22:02:44,Eurordis - Rete europea malattie rare cerca volontari da inserire nel programma di aiuti per emergenza Ucraina,48.827419,2.3145182,,,"[""Valid/Accettato"",""Help"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""48.827419 2.3145182"",""description"":""Eurordis - Rete Europea malattie rare sta cercando volontari da inserire nel programma di aiuti per l\u2019emergenza Ucraina. In particolare cerca volontari che  conoscano il russo o l\u2019ucraino, abbiano familiarit\u00e0 con patologie rare e servizi di accoglienza. Al link ulteriori informazioni. Per info e invio disponibilit\u00e0 helpukraine@eurordis.org"",""email"":""helpukraine@eurordis.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city_block"":""Quartier de Plaisance"",""city_district"":""Parigi"",""country"":""Francia"",""country_code"":""fr"",""county"":""Parigi"",""house_number"":""96"",""neighbourhood"":""Paris 14e Arrondissement"",""postcode"":""75014"",""region"":""Francia metropolitana"",""road"":""Rue Didot"",""state"":""Isola di Francia"",""suburb"":""Parigi""},""boundingbox"":[""48.827369"",""48.827469"",""2.3144682"",""2.3145682""],""class"":""place"",""display_name"":""96, Rue Didot, Quartier de Plaisance, Paris 14e Arrondissement, Parigi, Isola di Francia, Francia metropolitana, 75014, Francia"",""importance"":0.5209999999999999,""lat"":""48.827419"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""2.3145182"",""osm_id"":1389822713,""osm_type"":""node"",""place_id"":13628593,""type"":""house""},""mode"":""autocomplete""},""nameSurname"":""Eurordis - Rete Europea malattie rare"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Eurordis - Rete Europea malattie rare sta cercando volontari da inserire nel programma di aiuti per l\u2019emergenza Ucraina"",""url"":""https://www.eurordis.org/content/urgent-call-volunteers-help-ukraine""}","<pre><yamldata>
-nameSurname: Eurordis - Rete Europea malattie rare
-phoneNumber: ''
-email: helpukraine@eurordis.org
-title: Eurordis - Rete Europea malattie rare sta cercando volontari da inserire nel
-  programma di aiuti per l’emergenza Ucraina
-recipients: ''
-description: 'Eurordis - Rete Europea malattie rare sta cercando volontari da inserire
-  nel programma di aiuti per l’emergenza Ucraina. In particolare cerca volontari che  conoscano
-  il russo o l’ucraino, abbiano familiarità con patologie rare e servizi di accoglienza.
-  Al link ulteriori informazioni.
-  Per info e invio disponibilità helpukraine@eurordis.org'
-url: https://www.eurordis.org/content/urgent-call-volunteers-help-ukraine
-location:
-  mode: autocomplete
-  address:
-    place_id: 13628593
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 1389822713
-    boundingbox:
-    - '48.827369'
-    - '48.827469'
-    - '2.3144682'
-    - '2.3145682'
-    lat: '48.827419'
-    lon: '2.3145182'
-    display_name: 96, Rue Didot, Quartier de Plaisance, Paris 14e Arrondissement,
-      Parigi, Isola di Francia, Francia metropolitana, 75014, Francia
-    class: place
-    type: house
-    importance: 0.5209999999999999
-    address:
-      house_number: '96'
-      road: Rue Didot
-      city_block: Quartier de Plaisance
-      neighbourhood: Paris 14e Arrondissement
-      suburb: Parigi
-      city_district: Parigi
-      county: Parigi
-      state: Isola di Francia
-      region: Francia metropolitana
-      postcode: '75014'
-      country: Francia
-      country_code: fr
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 48.827419 2.3145182
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/441,1189426237,2022-04-02 06:58:03,2022-04-01 08:10:07,Supporto legale profughi ucraini: contact point sul territorio presso Ordini degli avvocati,,,,,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""telegram-channel"",""tweet""]",,,"{""description"":""Consiglio nazionale forense istituisce contact point presso Ordini degli avvocati territoriali per offrire servizi di supporto legale ai profughi ucraini in Italia."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.consiglionazionaleforense.it/web/cnf-news/-/24697-90"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Supporto legale profughi ucraini: contact point sul territorio presso Ordini degli avvocati""}","<pre><yamldata>
 title: 'Supporto legale profughi ucraini: contact point sul territorio presso Ordini
@@ -9053,47 +9710,6 @@ address:
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/413,1185394141,2022-03-31 17:45:02,2022-03-29 20:45:35,Comune di Cento (Ferrara) cerca volontari bilingue italiano/ucraino per attività di integrazione per minori,44.7274395,11.2903029,Emilia-Romagna,Ferrara,"[""Valid/Accettato"",""Help"",""Children"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""44.7274395 11.2903029"",""description"":""Il Comune di Cento \u00e8 alla ricerca di volontari bilingue per realizzare attivit\u00e0 di integrazione per minori. Se parli l'italiano e l'ucraino e ti va di donare un p\u00f2 del tuo tempo contatta: facciamorete@comune.cento.fe.it"",""email"":""facciamorete@comune.cento.fe.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""municipality"":""Unione Alto Ferrarese"",""state"":""Emilia-Romagna"",""town"":""Cento""},""boundingbox"":[""44.705628"",""44.8381841"",""11.2461129"",""11.3880712""],""class"":""boundary"",""display_name"":""Cento, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5919924514729962,""lat"":""44.7274395"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2903029"",""osm_id"":43506,""osm_type"":""relation"",""place_id"":283662905,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Comune di Cento"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Ricerca volontari bilingue"",""url"":""https://www.comune.cento.fe.it/aree-tematiche/volontariato-e-associazionismo/facciamo-rete-coordinamento-solidale-lintegrazione""}","<pre><yamldata>
-nameSurname: Comune di Cento
-phoneNumber: ''
-email: facciamorete@comune.cento.fe.it
-title: Ricerca volontari bilingue
-recipients: ''
-description: 'Il Comune di Cento è alla ricerca di volontari bilingue per realizzare
-  attività di integrazione per minori. Se parli l''italiano e l''ucraino e ti va di
-  donare un pò del tuo tempo contatta: facciamorete@comune.cento.fe.it'
-url: https://www.comune.cento.fe.it/aree-tematiche/volontariato-e-associazionismo/facciamo-rete-coordinamento-solidale-lintegrazione
-location:
-  mode: autocomplete
-  address:
-    place_id: 283662905
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 43506
-    boundingbox:
-    - '44.705628'
-    - '44.8381841'
-    - '11.2461129'
-    - '11.3880712'
-    lat: '44.7274395'
-    lon: '11.2903029'
-    display_name: Cento, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, Italia
-    class: boundary
-    type: administrative
-    importance: 0.5919924514729962
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      town: Cento
-      municipality: Unione Alto Ferrarese
-      county: Ferrara
-      state: Emilia-Romagna
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 44.7274395 11.2903029
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/416,1186518117,2022-03-31 17:44:36,2022-03-30 14:07:37,"Ucraina, ""lasciapassare"" a chi ha aderito alla sanatoria 2020: potrà uscire dall’Italia per prestare aiuto ai familiari",,,,,"[""Valid/Accettato"",""News"",""telegram-channel"",""tweet""]",,,"{""description"":""I cittadini ucraini che hanno presentato domanda di emersione aderendo alla sanatoria del 2020 (ai sensi dell\u2019art. 103, Dl. 34) e che sono ancora in attesa del rilascio del permesso di soggiorno potranno finalmente uscire dall\u2019Italia per prestare soccorso ai propri familiari che scappano dalla guerra senza il rischio di vedersi negato un diritto per il riconoscimento del quale sono ancora in attesa da circa 2 anni: una piccola \u2018vittoria\u2019 che potrebbe cambiare la vita a migliaia di persone che lavorano come personale domestico tra gli oltre 18 mila che in piena pandemia hanno presentato istanza di emersione\u201d. \u00c8 quanto dichiara Andrea Zini, presidente di Assindatcolf, Associazione Nazionale dei Datori di Lavoro Domestico. \n\u201cNell\u2019ultimo importante Dpcm in materia di protezione temporanea e internazionale firmato dal presidente Draghi \u2013 spiega Zini \u2013 \u00e8 stato, infatti, anche concesso un \u2018lasciapassare\u2019 (art. 6) agli ucraini che hanno aderito alla sanatoria, cos\u00ec come aveva chiesto Assindatcolf dopo aver ricevuto numerose segnalazioni da parte di domestici bloccati in Italia, senza poter prestare soccorso ai propri familiari in fuga dalla guerra."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/6gOLPVeluT"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Ucraina, \""lasciapassare\"" a chi ha aderito alla sanatoria 2020: potr\u00e0 uscire dall\u2019Italia per prestare soccorso ai familiari""}","<pre><yamldata>
 title: 'Ucraina, ""lasciapassare"" a chi ha aderito alla sanatoria 2020: potrà uscire
@@ -9674,32 +10290,6 @@ address:
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/415,1186210797,2022-03-30 16:48:06,2022-03-30 10:09:22,International Rescue Committee - IRC Italia è alla ricerca di mediatori culturali di lingua ucraina a Milano e Trieste,,,,,"[""Valid/Accettato"",""Help"",""Services"",""translation"",""job""]",,,"{""description"":""International Rescue Committee - IRC Italia \u00e8 alla ricerca di mediatori culturali di lingua ucraina con base a Milano e Trieste da inserire nel suo team. \n\nDescrizione della posizione:\n\ud83d\udccd Fornire informazioni su procedure di asilo, protezione temporanea, diritti e accesso ai servizi\n\ud83d\udccd Supportare con l'interpretazione e la traduzione per attivit\u00e0 sia in presenza che online\n\ud83d\udccd Monitorare i bisogni della comunit\u00e0 e le vulnerabilit\u00e0\n\nRequisiti:\n\ud83d\udccd Scrivere e parlare fluentemente ucraino e inglese (o italiano)\n\ud83d\udccd Essere basato a Milano o Trieste\n\ud83d\udccd Esperienza nella mediazione culturale o interpretazione \n\ud83d\udccd Ottime capacit\u00e0 comunicative e di reporting, nonch\u00e9 sensibilit\u00e0 culturale\n\nPer saperne di pi\u00f9 sull'offerta di lavoro e per candidarti, vedi link\nhttps://rescue.csod.com/ux/ats/careersite/1/home/requisition/25456?c=rescue"",""email"":""info@rescue.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{},""mode"":""autocomplete""},""nameSurname"":""International Rescue Committee - IRC Italia"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""IRC Italia \u00e8 alla ricerca di mediatori culturali di lingua ucraina a Milano e Trieste"",""url"":""https://www.facebook.com/150538088974692/posts/933257804036046/""}","<pre><yamldata>
-nameSurname: International Rescue Committee - IRC Italia
-phoneNumber: ''
-email: info@rescue.org
-title: IRC Italia è alla ricerca di mediatori culturali di lingua ucraina a Milano
-  e Trieste
-recipients: ''
-description: ""International Rescue Committee - IRC Italia è alla ricerca di mediatori\
-  \ culturali di lingua ucraina con base a Milano e Trieste da inserire nel suo team.\
-  \ \n\nDescrizione della posizione:\n\U0001F4CD Fornire informazioni su procedure\
-  \ di asilo, protezione temporanea, diritti e accesso ai servizi\n\U0001F4CD Supportare\
-  \ con l'interpretazione e la traduzione per attività sia in presenza che online\n\
-  \U0001F4CD Monitorare i bisogni della comunità e le vulnerabilità\n\nRequisiti:\n\
-  \U0001F4CD Scrivere e parlare fluentemente ucraino e inglese (o italiano)\n\U0001F4CD\
-  \ Essere basato a Milano o Trieste\n\U0001F4CD Esperienza nella mediazione culturale\
-  \ o interpretazione \n\U0001F4CD Ottime capacità comunicative e di reporting, nonché\
-  \ sensibilità culturale\n\nPer saperne di più sull'offerta di lavoro e per candidarti,\
-  \ vedi link\nhttps://rescue.csod.com/ux/ats/careersite/1/home/requisition/25456?c=rescue""
-url: https://www.facebook.com/150538088974692/posts/933257804036046/
-location:
-  mode: autocomplete
-  address: {}
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/64,1164580112,2022-03-30 16:46:05,2022-03-10 00:03:59,Raccolta medicinali e materiali sanitari nelle farmacie di Roma   e provincia - dal 9 al 16 marzo,,,,,"[""Valid/Accettato"",""Services"",""healthcare"",""Closed""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8996107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Raccolta medicinali e materiali sanitari in tutte le farmacie di Roma e provincia - dal 9 al 16 marzo"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Federfarma Roma"",""recipients"":"""",""submit"":true,""title"":""Farmacisti per l'Ucraina"",""type"":""healthcare"",""url"":""https://twitter.com/ukraineinfohelp/status/1501526286585499649?t=gG4S2XxlCPzIjVTQO5XYVQ&s=19""}","<pre><yamldata>
@@ -10554,41 +11144,6 @@ address:
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/396,1184759723,2022-03-29 18:06:37,2022-03-29 12:02:22,"Ministero della Salute Ucraino, lista dei farmaci di cui hanno bisogno gli ospedali in Ucraina",50.4500336,30.5241361,,,"[""Valid/Accettato"",""News"",""Help"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""50.4500336 30.5241361"",""description"":""Sul.sito del Ministerodella Salute Ucraino pubblicata la lista dei farmaci e dei dispositivi medici di cui hanno bisogno gli ospedali ucraini."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/DaFNzl5gB5"",""location"":{""address"":{""address"":{""city"":""Kiev"",""country"":""Ucraina"",""country_code"":""ua"",""postcode"":""1001""},""boundingbox"":[""50.2900336"",""50.6100336"",""30.3641361"",""30.6841361""],""class"":""place"",""display_name"":""Kiev, Kyiv, 1001, Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.9258572961698042,""lat"":""50.4500336"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""30.5241361"",""osm_id"":26150422,""osm_type"":""node"",""place_id"":285620529,""type"":""city""},""mode"":""autocomplete""},""submit"":true,""title"":""Ministero della Salute Ucraino, lista dei farmaci di cui hanno bisogno gli ospedali in Ucraina""}","<pre><yamldata>
-title: Ministero della Salute Ucraino, lista dei farmaci di cui hanno bisogno gli
-  ospedali in Ucraina
-description: Sul.sito del Ministerodella Salute Ucraino pubblicata la lista dei farmaci
-  e dei dispositivi medici di cui hanno bisogno gli ospedali ucraini.
-link: https://t.co/DaFNzl5gB5
-location:
-  mode: autocomplete
-  address:
-    place_id: 285620529
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 26150422
-    boundingbox:
-    - '50.2900336'
-    - '50.6100336'
-    - '30.3641361'
-    - '30.6841361'
-    lat: '50.4500336'
-    lon: '30.5241361'
-    display_name: Kiev, Kyiv, 1001, Ucraina
-    class: place
-    type: city
-    importance: 0.9258572961698042
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
-    address:
-      city: Kiev
-      postcode: '1001'
-      country: Ucraina
-      country_code: ua
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 50.4500336 30.5241361
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/397,1185031874,2022-03-29 18:06:26,2022-03-29 15:18:15,"Università di Trento, online info su raccolta beni e farmaci, eventi sulla guerra in Ucraina",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Trento"",""country"":""Italia"",""country_code"":""it"",""county"":""Provincia di Trento"",""municipality"":""Territorio Val d'Adige"",""postcode"":""38122"",""state"":""Trentino-Alto Adige""},""boundingbox"":[""45.9064228"",""46.2264228"",""10.9657601"",""11.2857601""],""class"":""place"",""display_name"":""Trento, Territorio Val d'Adige, Provincia di Trento, Trentino-Alto Adige, 38122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7125285311246988,""lat"":""46.0664228"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.1257601"",""osm_id"":64776484,""osm_type"":""node"",""place_id"":285860881,""type"":""city""},""mode"":""autocomplete""},""description"":""Pagina con le iniziative dell'Universit\u00e0 di Trento per l\u2019emergenza Ucraina, con info sui punti di raccolta di beni di prima necessit\u00e0, di farmaci e prodotti sanitari, e poi eventi e conferenze dedicati alla guerra in Ucraina."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Universit\u00e0 di Trento"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Le iniziative dell'Universit\u00e0 di Trento"",""url"":""https://www.unitn.it/ateneo/104617/la-guerra-in-ucraina-le-iniziative-delluniversita-di-trento""}","<pre><yamldata>
 servicetypes:
@@ -12331,66 +12886,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/366,1182142266,2022-03-28 08:21:49,2022-03-26 22:42:38,A Pisa cercasi mediatori linguistici ucraini,,,,,"[""Valid/Accettato"",""Help"",""Services"",""translation"",""job"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Pisa"",""country"":""Italia"",""country_code"":""it"",""county"":""Pisa"",""house_number"":""8"",""postcode"":""56125"",""road"":""Via Giovanni Pascoli"",""shop"":""Pam"",""state"":""Toscana"",""suburb"":""San Martino""},""boundingbox"":[""43.7119722"",""43.7120722"",""10.4006478"",""10.4007478""],""class"":""shop"",""display_name"":""Pam, 8, Via Giovanni Pascoli, San Martino, Pisa, Toscana, 56125, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//shopping_supermarket.p.20.png"",""importance"":0.5209999999999999,""lat"":""43.7120222"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.4006978"",""osm_id"":2584396643,""osm_type"":""node"",""place_id"":23269333,""type"":""supermarket""},""mode"":""autocomplete""},""description"":""Il Centro Linguistico Interculturale ALIF di Pisa cerca mediatori linguistici ucraini.\nPer chi fosse interessato pu\u00f2 contattarci via tel allo 050.3191932 o via mail all'indirizzo alifpisa@yahoo.it\nGrazie!"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Centro Linguistico Interculturale ALIF"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":true,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""A Pisa cercasi mediatori linguistici ucraini"",""url"":""https://www.facebook.com/1430400046985430/posts/7853072464718124/?sfnsn=scwspmo""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: true
-  job: true
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Centro Linguistico Interculturale ALIF
-title: A Pisa cercasi mediatori linguistici ucraini
-recipients: ''
-description: 'Il Centro Linguistico Interculturale ALIF di Pisa cerca mediatori linguistici
-  ucraini.
-
-  Per chi fosse interessato può contattarci via tel allo 050.3191932 o via mail all''indirizzo
-  alifpisa@yahoo.it
-
-  Grazie!'
-url: https://www.facebook.com/1430400046985430/posts/7853072464718124/?sfnsn=scwspmo
-address:
-  mode: autocomplete
-  address:
-    place_id: 23269333
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 2584396643
-    boundingbox:
-    - '43.7119722'
-    - '43.7120722'
-    - '10.4006478'
-    - '10.4007478'
-    lat: '43.7120222'
-    lon: '10.4006978'
-    display_name: Pam, 8, Via Giovanni Pascoli, San Martino, Pisa, Toscana, 56125,
-      Italia
-    class: shop
-    type: supermarket
-    importance: 0.5209999999999999
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//shopping_supermarket.p.20.png
-    address:
-      shop: Pam
-      house_number: '8'
-      road: Via Giovanni Pascoli
-      suburb: San Martino
-      city: Pisa
-      county: Pisa
-      state: Toscana
-      postcode: '56125'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/365,1182129844,2022-03-27 09:38:11,2022-03-26 22:20:34,"Bologna, servizi educativo-scolastici gratuiti per i minori ucraini profughi",,,,,"[""Valid/Accettato"",""Services"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.421033"",""44.556094"",""11.2296206"",""11.4336079""],""class"":""boundary"",""display_name"":""Bologna, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7805771109268431,""lat"":""44.4938203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.3426327"",""osm_id"":43172,""osm_type"":""relation"",""place_id"":283848615,""type"":""administrative""},""mode"":""autocomplete""},""description"":""La giunta del Comune di Bologna ha deciso di esentare dal pagamento delle tariffe dei servizi educativi e scolastici comunali i minori provenienti dall'Ucraina in possesso del titolo di Protezione Temporanea rilasciato dalla Prefettura.\nIl Comune si far\u00e0 carico anche del pagamento della refezione scolastica e dei servizi integrativi."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Bologna"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Bologna, servizi educativo-scolastici gratuiti per i minori ucraini profughi"",""url"":""https://www.redattoresociale.it/article/notiziario/ucraina_servizi_educativo-scolastici_di_bologna_gratuiti_per_i_minori_profughi""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -12454,68 +12949,6 @@ location:
   address: {}
 label: fakenews
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/339,1180663594,2022-03-27 09:37:20,2022-03-25 11:13:57,Comune di Ferrara raccoglie disponibilità di enti e cittadini ad ospitare rifugiati ucraini,,,,,"[""Valid/Accettato"",""Help"",""Services"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Ferrara"",""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""house_number"":""1"",""neighbourhood"":""Villa Fulvia"",""postcode"":""44124"",""road"":""Via Boschetto"",""state"":""Emilia-Romagna"",""suburb"":""Quacchio""},""boundingbox"":[""44.8221799"",""44.8222799"",""11.6317788"",""11.6318788""],""class"":""place"",""display_name"":""1, Via Boschetto, Villa Fulvia, Quacchio, Ferrara, Emilia-Romagna, 44124, Italia"",""importance"":0.5309999999999999,""lat"":""44.8222299"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.6318288"",""osm_id"":4761949611,""osm_type"":""node"",""place_id"":54313083,""type"":""house""},""mode"":""autocomplete""},""description"":""Se sei di Ferrara e sei disposto ad ospitare rifugiati ucraini, puoi scrivere a: emergenzaucraina@comune.fe.it A questa casella di posta, privati cittadini o enti, possono manifestare la propria disponibilit\u00e0 a offrire appartamenti che verranno messi a disposizione dei soggetti gestori dei centri di accoglienza per incrementare la capienza. Tali manifestazioni andranno ad alimentare una banca dati gestita dalla Protezione Civile per conto della Prefettura e dei Comuni della provincia per cui si richiede di specificare, contestualmente, anche il consenso al trattamento dei dati personali per le finalit\u00e0 indicate."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ibo Italia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Ferrara Ibo Italia raccoglie disponibilit\u00e0 di enti e cittadini ad ospitare rifugiati ucraini"",""url"":""https://www.comune.fe.it/it/b/13403/emergenza-ucraina""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: true
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Ibo Italia
-title: A Ferrara Ibo Italia raccoglie disponibilità di enti e cittadini ad ospitare
-  rifugiati ucraini
-recipients: ''
-description: 'Se sei di Ferrara e sei disposto ad ospitare rifugiati ucraini, puoi
-  scrivere a: emergenzaucraina@comune.fe.it
-  A questa casella di posta, privati cittadini o enti, possono manifestare la propria
-  disponibilità a offrire appartamenti che verranno messi a disposizione dei soggetti
-  gestori dei centri di accoglienza per incrementare la capienza. Tali manifestazioni
-  andranno ad alimentare una banca dati gestita dalla Protezione Civile per conto
-  della Prefettura e dei Comuni della provincia per cui si richiede di specificare,
-  contestualmente, anche il consenso al trattamento dei dati personali per le finalità
-  indicate.'
-url: https://www.comune.fe.it/it/b/13403/emergenza-ucraina
-address:
-  mode: autocomplete
-  address:
-    place_id: 54313083
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 4761949611
-    boundingbox:
-    - '44.8221799'
-    - '44.8222799'
-    - '11.6317788'
-    - '11.6318788'
-    lat: '44.8222299'
-    lon: '11.6318288'
-    display_name: 1, Via Boschetto, Villa Fulvia, Quacchio, Ferrara, Emilia-Romagna,
-      44124, Italia
-    class: place
-    type: house
-    importance: 0.5309999999999999
-    address:
-      house_number: '1'
-      road: Via Boschetto
-      neighbourhood: Villa Fulvia
-      suburb: Quacchio
-      city: Ferrara
-      county: Ferrara
-      state: Emilia-Romagna
-      postcode: '44124'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/328,1180096668,2022-03-27 09:37:00,2022-03-24 21:59:51,Diaconia Valdese cerca operatrice/ore per progetto di accoglienza diffusa a Campobasso,,,,,"[""Valid/Accettato"",""Help"",""job"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""La Diaconia Valdese \u2013 Servizi Inclusione seleziona un\u2019operatrice/ore per un progetto di accoglienza diffusa a Campobasso, nell\u2019ambito dei corridoi umanitari. Nella fase di avvio il progetto si rivolger\u00e0 prevalentemente a nuclei monoparentali provenienti dall\u2019Ucraina.\nSi richiedono esperienza pregressa nel settore di almeno due anni, buone capacit\u00e0 di autonomia e problem solving, residenza sul territorio di Campobasso e conoscenza della lingua inglese."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Diaconia Valdese"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""healthcare"":false,""hospitality"":false,""job"":true,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Ricerca Operatrice/ore per un progetto di #accoglienza diffusa a Campobasso"",""url"":""https://www.nev.it/nev/2022/03/21/bando-di-ricerca-per-unoperatrice-ore-per-accoglienza-diffusa-campobasso/?fbclid=IwAR13LjqcOFzAVVCsc9FLdYUJrhpf9DyM3reuyQ-Cl5SvrTiDr69WIm49XHA""}","<pre><yamldata>
@@ -13325,58 +13758,6 @@ label: fundraising
 submit: true
 Posizione: 43.0677554 12.5495816
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/212,1173797152,2022-03-25 16:59:41,2022-03-18 16:44:03,"Croce Rossa cerca volontari temporanei per emergenza Ucraina, soprattutto infermieri, chirurghi, psicologi o persone con ottima conoscenza di ucraino/russo",43.7806771,11.24376289731579,Toscana,Firenze,"[""Valid/Accettato"",""Help"",""healthcare"",""job"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""43.7806771 11.24376289731579"",""description"":""Per aumentare la risposta all\u2019emergenza Ucraina, la Croce Rossa Italiana apre nuovamente le iscrizioni ai volontari temporanei: Infermieri, medici chirurghi, psicologi o persone con ottima conoscenza della lingua Russa o Ucraina.\n\n \n\nDopo la grandiosa risposta durante la pandemia, quando moltissimi cittadini si sono messi in moto per fare la propria parte nell\u2019emergenza, oggi si riapre l\u2019opportunit\u00e0 di diventare volontario temporaneo della Croce Rossa. Sono richiesti in particolare medici chirurghi, infermieri, psicologi o persone con ottima conoscenza della lingua Russa o Ucraina da impiegare a seconda delle necessit\u00e0.\nChiunque, in possesso di questi requisiti, pu\u00f2 essere utile alla gestione dell\u2019emergenza. Per dare la propria disponibilit\u00e0 \u00e8 sufficiente leggere attentamente le istruzioni al link https://volontari.cri.it/ e compilare il form in tutti i campi richiesti.\nIl censimento dei volontari temporanei verr\u00e0 effettuato a livello Nazionale per poi essere assegnati ai territori di competenza.\n\nColoro che sceglieranno di dare il proprio contributo mettendosi a disposizione, saranno invitati a seguire un breve corso online strutturato appositamente per i volontari temporanei, in cui verranno approfondite alcune tematiche indispensabili per rafforzare le capacit\u00e0, la conoscenza della CRI e portare avanti il mandato umanitario del movimento. Tra i temi trattati: la salute e la sicurezza durante il servizio, l\u2019organizzazione, la storia e peculiarit\u00e0 del movimento della Croce Rossa, codice etico dell\u2019Associazione."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://volontari.cri.it/"",""location"":{""address"":{""address"":{""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""state"":""Toscana""},""boundingbox"":[""43.7258716"",""43.8354631"",""11.1497598"",""11.3389044""],""class"":""boundary"",""display_name"":""Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8105633028502386,""lat"":""43.7806771"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.24376289731579"",""osm_id"":42602,""osm_type"":""relation"",""place_id"":284666342,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Croce Rossa Italiana cerca Volontari Temporanei""}","<pre><yamldata>
-title: Croce Rossa Italiana cerca Volontari Temporanei
-description: ""Per aumentare la risposta all’emergenza Ucraina, la Croce Rossa Italiana\
-  \ apre nuovamente le iscrizioni ai volontari temporanei: Infermieri, medici chirurghi,\
-  \ psicologi o persone con ottima conoscenza della lingua Russa o Ucraina.\n\n \n\
-  \nDopo la grandiosa risposta durante la pandemia, quando moltissimi cittadini si\
-  \ sono messi in moto per fare la propria parte nell’emergenza, oggi si riapre l’opportunità\
-  \ di diventare volontario temporaneo della Croce Rossa. Sono richiesti in particolare\
-  \ medici chirurghi, infermieri, psicologi o persone con ottima conoscenza della\
-  \ lingua Russa o Ucraina da impiegare a seconda delle necessità.\nChiunque, in possesso\
-  \ di questi requisiti, può essere utile alla gestione dell’emergenza. Per dare la\
-  \ propria disponibilità è sufficiente leggere attentamente le istruzioni al link\
-  \ https://volontari.cri.it/ e compilare il form in tutti i campi richiesti.\nIl\
-  \ censimento dei volontari temporanei verrà effettuato a livello Nazionale per poi\
-  \ essere assegnati ai territori di competenza.\n\nColoro che sceglieranno di dare\
-  \ il proprio contributo mettendosi a disposizione, saranno invitati a seguire un\
-  \ breve corso online strutturato appositamente per i volontari temporanei, in cui\
-  \ verranno approfondite alcune tematiche indispensabili per rafforzare le capacità,\
-  \ la conoscenza della CRI e portare avanti il mandato umanitario del movimento.\
-  \ Tra i temi trattati: la salute e la sicurezza durante il servizio, l’organizzazione,\
-  \ la storia e peculiarità del movimento della Croce Rossa, codice etico dell’Associazione.""
-link: https://volontari.cri.it/
-location:
-  mode: autocomplete
-  address:
-    place_id: 284666342
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 42602
-    boundingbox:
-    - '43.7258716'
-    - '43.8354631'
-    - '11.1497598'
-    - '11.3389044'
-    lat: '43.7806771'
-    lon: '11.24376289731579'
-    display_name: Firenze, Città metropolitana di Firenze, Toscana, Italia
-    class: boundary
-    type: administrative
-    importance: 0.8105633028502386
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Firenze
-      county: Città metropolitana di Firenze
-      state: Toscana
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 43.7806771 11.24376289731579
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/266,1175742725,2022-03-25 16:47:02,2022-03-21 17:56:15,Libera Università di #Bolzano: accesso ai corsi di studio e all’insegnamento per i rifugiati dall’Ucraina,,,,,"[""Valid/Accettato"",""Services"",""job"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bolzano"",""state"":""Trentino-Alto Adige""},""boundingbox"":[""46.2197712"",""47.0921462"",""10.3817965"",""12.4779676""],""class"":""boundary"",""display_name"":""Bolzano, Trentino-Alto Adige, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7589076281878143,""lat"":""46.65594215"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.229637264169462"",""osm_id"":47046,""osm_type"":""relation"",""place_id"":284985164,""type"":""administrative""},""mode"":""autocomplete""},""description"":""L'ateneo offre l'accesso alle lezioni, all\u2019insegnamento e alla ricerca ai rifugiati."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Libera Universit\u00e0 di Bolzano"",""recipients"":""studenti e professori universitari"",""submit"":true,""title"":""Libera Universit\u00e0 di Bolzano: accesso ai corsi di studio e all\u2019insegnamento per i rifugiati* dall\u2019Ucraina"",""type"":""jobOffer"",""url"":""https://www.unibz.it/it/home/newsroom/press-releases/62384fe54eddc""}","<pre><yamldata>
 type: jobOffer
 offerFromWho: Libera Università di Bolzano
@@ -13559,59 +13940,6 @@ address:
     icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
     address:
       state: Emilia-Romagna
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/336,1180633329,2022-03-25 16:41:31,2022-03-25 10:47:17,A Treviso Caritas raccoglie disponibilità ad offrire appartamenti ai rifugiati ucraini,,,,,"[""Valid/Accettato"",""Help"",""Services"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Treviso"",""neighbourhood"":""Ai Tre Venti"",""postcode"":""31029"",""road"":""Via Giampaolo Malanotti"",""state"":""Veneto"",""suburb"":""C\u00e8neda"",""town"":""Vittorio Veneto"",""village"":""Soffratta""},""boundingbox"":[""45.9746363"",""45.976424"",""12.2894635"",""12.2926766""],""class"":""highway"",""display_name"":""Via Giampaolo Malanotti, Ai Tre Venti, C\u00e8neda, Soffratta, Vittorio Veneto, Treviso, Veneto, 31029, Italia"",""importance"":0.6199999999999999,""lat"":""45.9748095"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.2897586"",""osm_id"":144340143,""osm_type"":""way"",""place_id"":136661433,""type"":""residential""},""mode"":""autocomplete""},""description"":""Chi nella provincia di Treviso vuole mettere a disposizione una casa o un appartamento indipendente per i rifugiati ucraini pu\u00f2 contattare i referenti Caritas, il cui elenco \u00e8 disponibile al link suddiviso per comuni."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Caritas Vittorio Veneto"",""recipients"":null,""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Accoglienza nelle case e raccolta offerte nella provincia di Treviso"",""url"":""http://www.caritasvittorioveneto.it/images/emergenza_ucraina_come_aiutare08.03.22""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: true
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Caritas Vittorio Veneto
-title: Accoglienza nelle case e raccolta offerte nella provincia di Treviso
-recipients:
-description: 'Chi nella provincia di Treviso vuole mettere a disposizione una casa o un appartamento indipendente per i rifugiati ucraini può contattare i referenti Caritas, il cui elenco è disponibile al link suddiviso per comuni.'
-url: http://www.caritasvittorioveneto.it/images/emergenza_ucraina_come_aiutare08.03.22
-address:
-  mode: autocomplete
-  address:
-    place_id: 136661433
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 144340143
-    boundingbox:
-    - '45.9746363'
-    - '45.976424'
-    - '12.2894635'
-    - '12.2926766'
-    lat: '45.9748095'
-    lon: '12.2897586'
-    display_name: Via Giampaolo Malanotti, Ai Tre Venti, Cèneda, Soffratta, Vittorio
-      Veneto, Treviso, Veneto, 31029, Italia
-    class: highway
-    type: residential
-    importance: 0.6199999999999999
-    address:
-      road: Via Giampaolo Malanotti
-      neighbourhood: Ai Tre Venti
-      suburb: Cèneda
-      village: Soffratta
-      town: Vittorio Veneto
-      county: Treviso
-      state: Veneto
-      postcode: '31029'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
@@ -14074,50 +14402,6 @@ address:
     state: ''
     country: ''
     zip: ''
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/217,1173815645,2022-03-25 10:52:53,2022-03-18 17:03:03,A Varese associazione Guardavanti cerca mediatrice/mediatore linguistica/o per attività con bambini ucraini,,,,,"[""Valid/Accettato"",""Help"",""translation"",""job"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Varese"",""state"":""Lombardia""},""boundingbox"":[""45.5583143"",""46.1222569"",""8.552246"",""9.0662956""],""class"":""boundary"",""display_name"":""Varese, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7303937310744694,""lat"":""45.83971285"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.754157594917665"",""osm_id"":45347,""osm_type"":""relation"",""place_id"":284266553,""type"":""administrative""},""mode"":""autocomplete""},""description"":""L'associazione Guardavanti di Varese cerca una persona per mediazione linguistica-culturale durante le attivit\u00e0 di doposcuola con bambini ucraini neo-arrivati\nDisponibilit\u00e0 richiesta: 2 ore settimanali il venerd\u00ec pomeriggio\nDove: Varese, piazza Buzzi\nLingue: Ucraino e Italiano\nScrivi al pi\u00f9 presto a selezione@guardavanti.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Guardavanti"",""recipients"":"""",""submit"":true,""title"":""Ricerca persona per mediazione linguistica-culturale, Varese"",""type"":""jobOffer"",""url"":""https://www.facebook.com/Guardavanti/""}","<pre><yamldata>
-type: jobOffer
-offerFromWho: Associazione Guardavanti
-title: Ricerca persona per mediazione linguistica-culturale, Varese
-recipients: ''
-description: 'L''associazione Guardavanti di Varese cerca una persona per mediazione
-  linguistica-culturale durante le attività di doposcuola con bambini ucraini neo-arrivati
-
-  Disponibilità richiesta: 2 ore settimanali il venerdì pomeriggio
-
-  Dove: Varese, piazza Buzzi
-
-  Lingue: Ucraino e Italiano
-
-  Scrivi al più presto a selezione@guardavanti.org'
-url: https://www.facebook.com/Guardavanti/
-address:
-  mode: autocomplete
-  address:
-    place_id: 284266553
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 45347
-    boundingbox:
-    - '45.5583143'
-    - '46.1222569'
-    - '8.552246'
-    - '9.0662956'
-    lat: '45.83971285'
-    lon: '8.754157594917665'
-    display_name: Varese, Lombardia, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7303937310744694
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      county: Varese
-      state: Lombardia
-      country: Italia
-      country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
@@ -15397,50 +15681,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: fundraising
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/277,1176036536,2022-03-23 08:56:46,2022-03-21 22:51:18,La Regione Friuli cerca mediatori linguistici in ucraino e/o russo per accoglienza profughi ucraini ,,,,,"[""Valid/Accettato"",""Help"",""translation"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Udine"",""country"":""Italia"",""country_code"":""it"",""county"":""Udine"",""postcode"":""33100"",""state"":""Friuli Venezia Giulia""},""boundingbox"":[""45.9034632"",""46.2234632"",""13.0758377"",""13.3958377""],""class"":""place"",""display_name"":""Udine, Friuli Venezia Giulia, 33100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.699677555724844,""lat"":""46.0634632"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.2358377"",""osm_id"":66502664,""osm_type"":""node"",""place_id"":121892,""type"":""city""},""mode"":""autocomplete""},""description"":""La Regione Friuli ha pubblicato un avviso per individuare persone con conoscenza delle lingue ucraina e/o russa, disponibili ad offrire supporto nell'emergenza.Per dare la propria disponibilit\u00e0 \u00e8 necessario compilare un modulo reperibile nella pagina dedicata del sito della Regione. La compilazione e l'invio del modulo non comporta l'instaurarsi di obblighi da parte della Regione Friuli Venezia Giulia e delle Autorit\u00e0 preposte nei confronti di chi esprime la propria disponibilit\u00e0. Ulteriori informazioni sono reperibili contattando i seguenti recapiti telefonici: 0432/555908 - 0432/555560 dal luned\u00ec al venerd\u00ec dalle 9 alle 12."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Friuli"",""recipients"":""persone ucraine in cerca di lavoro"",""submit"":true,""title"":""La Regione Friuli cerca mediatori linguistici"",""type"":""jobOffer"",""url"":""https://www.ilfriuli.it/articolo/cronaca/in-fuga-dall-ucraina-la-regione-cerca-mediatori-linguistici/2/262331?fbclid=IwAR1XXGpEWgoBfreZ_oyaAq08_HN0eSlFLdzV-eRY980OsbQLE0OOUKInmcQ""}","<pre><yamldata>
-type: jobOffer
-offerFromWho: Regione Friuli
-title: La Regione Friuli cerca mediatori linguistici
-recipients: persone ucraine in cerca di lavoro
-description: 'La Regione Friuli ha pubblicato un avviso per individuare persone con
-  conoscenza delle lingue ucraina e/o russa, disponibili ad offrire supporto nell''emergenza.Per
-  dare la propria disponibilità è necessario compilare un modulo reperibile nella
-  pagina dedicata del sito della Regione. La compilazione e l''invio del modulo non
-  comporta l''instaurarsi di obblighi da parte della Regione Friuli Venezia Giulia
-  e delle Autorità preposte nei confronti di chi esprime la propria disponibilità.
-  Ulteriori informazioni sono reperibili contattando i seguenti recapiti telefonici:
-  0432/555908 - 0432/555560 dal lunedì al venerdì dalle 9 alle 12.'
-url: https://www.ilfriuli.it/articolo/cronaca/in-fuga-dall-ucraina-la-regione-cerca-mediatori-linguistici/2/262331?fbclid=IwAR1XXGpEWgoBfreZ_oyaAq08_HN0eSlFLdzV-eRY980OsbQLE0OOUKInmcQ
-address:
-  mode: autocomplete
-  address:
-    place_id: 121892
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 66502664
-    boundingbox:
-    - '45.9034632'
-    - '46.2234632'
-    - '13.0758377'
-    - '13.3958377'
-    lat: '46.0634632'
-    lon: '13.2358377'
-    display_name: Udine, Friuli Venezia Giulia, 33100, Italia
-    class: place
-    type: city
-    importance: 0.699677555724844
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
-    address:
-      city: Udine
-      county: Udine
-      state: Friuli Venezia Giulia
-      postcode: '33100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/283,1177331135,2022-03-22 21:46:21,2022-03-22 21:32:01,Animali da affezioni al seguito dei rifugiati ucraini: tutte le info sul sito Lav,41.8933203,12.4829321,Lazio,Roma,"[""Valid/Accettato"",""News"",""Legal"",""healthcare""]",,,"{""Posizione"":""41.8933203 12.4829321"",""description"":""Il Ministero della Salute, anche al fine di tutelare il rispetto del benessere degli animali, ha tempestivamente autorizzato (Misure eccezionali per l\u2019ingresso nell'UE di animali domestici movimentati al seguito di rifugiati provenienti dall'Ucraina) gi\u00e0 dal 28 febbraio scorso l'introduzione in Italia di animali provenienti dall'Ucraina anche se sprovvisti della documentazione necessaria. La disposizione \u00e8 generale e individua nei Servizi Veterinari pubblici del territorio dove dimora il/la rifugiato/a ucraino/a il riferimento pubblico necessario a realizzare il percorso di \u201cregolarizzazione\u201d che gli animali devono seguire una volta raggiuto il nostro Paese, necessario perch\u00e9 per essere movimentati gli animali devono essere identificati - ai sensi del Regolamento europeo 576 del 2013 - con il microchip, essere in regola con la vaccinazione contro la rabbia e avere il passaporto per animali da compagnia. In considerazione di ci\u00f2, e salvo il fatto che i cittadini Ucraini con animali al seguito hanno il diritto/dovere di segnalare ai servizi veterinari pubblici competenti per territorio la presenza dell\u2019animale,"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.lav.it/news/animali-ucraina-cosa-fare"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7896107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""ANIMALI RIFUGIATI IN ITALIA DALL'UCRAINA: ECCO COSA FARE""}","<pre><yamldata>
 title: 'ANIMALI RIFUGIATI IN ITALIA DALL''UCRAINA: ECCO COSA FARE'
 description: 'Il Ministero della Salute, anche al fine di tutelare il rispetto del
@@ -16266,64 +16506,6 @@ label: fundraising
 submit: true
 Posizione: 45.45338155 9.181942044940254
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/248,1174675218,2022-03-22 09:51:59,2022-03-20 20:29:08,"A Pavia associazione Amici della mongolfiera cerca volontari per attività di supporto a donne, bambini e adolescenti ucraini rifugiati",45.1909364,9.1614949,Lombardia,Pavia,"[""Valid/Accettato"",""Help"",""Children"",""women"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.1909364 9.1614949"",""description"":""L'associazione sta accogliendo numerose donne, bambini e adolescenti ucraini e cerca volontari maggiorenni che possano dare una mano nelle seguenti attivit\u00e0:\nsupporto durante i corsi di italiano per donne straniere (gioved\u00ec mattina dalle 10 alle 12 in Corso Garibaldi 20/N a Pavia) e le attivit\u00e0 di conoscenza del territorio (giorni e orari da concordare);\naiuto compiti, mercoled\u00ec e venerd\u00ec pomeriggio presso il Circolo ARCI Via D\u2019Acqua, in Viale Bligny 83:\ndalle 14.30 alle 16.30 per gli studenti di scuola media e superiore;\ndalle 16.30 alle 18.00 per gli studenti della scuola elementare.\naffiancamento ai bambini ucraini nell'inserimento a scuola."",""email"":""amicimongolfiera@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""amenity"":""Circolo Via d'acqua (ARCI)"",""city"":""Pavia"",""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""house_number"":""83"",""postcode"":""27100"",""road"":""Viale Bligny"",""state"":""Lombardia"",""suburb"":""Citt\u00e0 Giardino""},""boundingbox"":[""45.1908864"",""45.1909864"",""9.1614449"",""9.1615449""],""class"":""amenity"",""display_name"":""Circolo Via d'acqua (ARCI), 83, Viale Bligny, Citt\u00e0 Giardino, Pavia, Lombardia, 27100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//food_restaurant.p.20.png"",""importance"":0.411,""lat"":""45.1909364"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1614949"",""osm_id"":2882416108,""osm_type"":""node"",""place_id"":33708904,""type"":""restaurant""},""mode"":""autocomplete""},""nameSurname"":""Amici della Mongolfiera"",""phoneNumber"":""+393802193536 - +39038221970"",""recipients"":"""",""submit"":true,""title"":""volontari"",""url"":""https://www.csvlombardia.it/pavia/pv-per-i-cittadini/pv-per-i-cittadini-volontariato-cercasi/post/amici-della-mongolfiera-cerca-volontari-per-gestione-emergenza-ucraina-pavia/""}","<pre><yamldata>
-nameSurname: Amici della Mongolfiera
-phoneNumber: +393802193536 - +39038221970
-email: amicimongolfiera@gmail.com
-title: volontari
-recipients: ''
-description: 'L''associazione sta accogliendo numerose donne, bambini e adolescenti
-  ucraini e cerca volontari maggiorenni che possano dare una mano nelle seguenti attività:
-
-  supporto durante i corsi di italiano per donne straniere (giovedì mattina dalle
-  10 alle 12 in Corso Garibaldi 20/N a Pavia) e le attività di conoscenza del territorio
-  (giorni e orari da concordare);
-
-  aiuto compiti, mercoledì e venerdì pomeriggio presso il Circolo ARCI Via D’Acqua,
-  in Viale Bligny 83:
-
-  dalle 14.30 alle 16.30 per gli studenti di scuola media e superiore;
-
-  dalle 16.30 alle 18.00 per gli studenti della scuola elementare.
-
-  affiancamento ai bambini ucraini nell''inserimento a scuola.'
-url: https://www.csvlombardia.it/pavia/pv-per-i-cittadini/pv-per-i-cittadini-volontariato-cercasi/post/amici-della-mongolfiera-cerca-volontari-per-gestione-emergenza-ucraina-pavia/
-location:
-  mode: autocomplete
-  address:
-    place_id: 33708904
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 2882416108
-    boundingbox:
-    - '45.1908864'
-    - '45.1909864'
-    - '9.1614449'
-    - '9.1615449'
-    lat: '45.1909364'
-    lon: '9.1614949'
-    display_name: Circolo Via d'acqua (ARCI), 83, Viale Bligny, Città Giardino, Pavia,
-      Lombardia, 27100, Italia
-    class: amenity
-    type: restaurant
-    importance: 0.411
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//food_restaurant.p.20.png
-    address:
-      amenity: Circolo Via d'acqua (ARCI)
-      house_number: '83'
-      road: Viale Bligny
-      suburb: Città Giardino
-      city: Pavia
-      county: Pavia
-      state: Lombardia
-      postcode: '27100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 45.1909364 9.1614949
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/251,1174686063,2022-03-22 09:51:33,2022-03-20 21:08:04,Laga Italiana Fibrosi Cistica raccoglie farmaci per cittadini ucraini malati di fibrosi cistica,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20122"",""state"":""Lombardia""},""boundingbox"":[""45.3041943"",""45.6241943"",""9.0296346"",""9.3496346""],""class"":""place"",""display_name"":""Milano, Milan, Milano, Lombardia, 20122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.8390652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":62505581,""osm_type"":""node"",""place_id"":286263950,""type"":""city""},""mode"":""autocomplete""},""description"":""Raccolta farmaci promossa dalla Lega Italiana Fibrosi Cistica per chi, oltre alla paura, deve anche affrontare la malattia. Insieme ad altre realt\u00e0 a livello europeo siamo entrati in contatto con un\u2019organizzazione non governativa, la All-Ukrainian Association of care of patients with cystic fibrosis, che ha esplicitato i bisogni pi\u00f9 urgenti dei loro 995 pazienti.\nCi hanno comunicato che \u00e8 assolutamente necessario raccogliere farmaci e dispositivi che vi elenchiamo di seguito: Enzimi pancreatici (Creon) \u2013 urgente Antibiotici Vitamine Ursofalk (nome generico: Ursochol) Soluzione salina ipertonica 3, 6 o 7% Nebulizzatori portatili Concentratori di ossigeno portatili\n\u00c8 possibile contattare le Associazioni Regionali LIFC per organizzare localmente la raccolta di questi beni che saranno poi inviati in Polonia dove opera la Matio Foundation che si sta occupando dell\u2019assistenza e del supporto alle associazioni ucraine."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Lega Italiana Fibrosi Cistica"",""recipients"":"""",""submit"":true,""title"":""Raccolta farmaci per persone malate di fibrosi cistica -Nazionale"",""type"":""healthcare"",""url"":""https://www.fibrosicistica.it/un-aiuto-per-lucraina/""}","<pre><yamldata>
 type: healthcare
 offerFromWho: Lega Italiana Fibrosi Cistica
@@ -16785,46 +16967,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 46.102817 11.129543099871789
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/238,1174469488,2022-03-21 15:35:44,2022-03-20 08:06:33,Comune di Bagno di Romagna avvia raccolta disponibilità #alloggi per cittadini ucraini ,,,,,"[""Valid/Accettato"",""Help"",""Services"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""postcode"":""47021"",""province"":""Forl\u00ec-Cesena"",""state"":""Emilia-Romagna"",""village"":""Bagno di Romagna""},""boundingbox"":[""43.7869827"",""43.9515076"",""11.7884626"",""12.1134496""],""class"":""boundary"",""display_name"":""Bagno di Romagna, Forl\u00ec-Cesena, Emilia-Romagna, 47021, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7340329938443138,""lat"":""43.8352272"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.9595985"",""osm_id"":42639,""osm_type"":""relation"",""place_id"":284245489,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Facilitare il censimento dei cittadini ucraini che approdano nel territorio del Comune termale d\u2019Alto Savio e alfine di fornire un punto di riferimento a tutte le famiglie che intendono ospitare le persone ucraine, ha attivato il numero di telefono 0547603555 e un indirizzo di posta elettronica dedicato: accoglienza.ucraina@unionevallesavio.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Bagno di Romagna"",""recipients"":"""",""submit"":true,""title"":""Censimento dei cittadini ucraini che approdano nel territorio del Comune"",""type"":""hospitality"",""url"":""https://www.ilrestodelcarlino.it/cesena/cronaca/case-aperte-ai-rifugiati-1.7484887?utm_source=twitter&utm_medium=rss-feed&utm_campaign=twitter-account""}","<pre><yamldata>
-type: hospitality
-offerFromWho: Comune di Bagno di Romagna
-title: Censimento dei cittadini ucraini che approdano nel territorio del Comune
-recipients: ''
-description: 'Facilitare il censimento dei cittadini ucraini che approdano nel territorio
-  del Comune termale d’Alto Savio e alfine di fornire un punto di riferimento a tutte
-  le famiglie che intendono ospitare le persone ucraine, ha attivato il numero di
-  telefono 0547603555 e un indirizzo di posta elettronica dedicato: accoglienza.ucraina@unionevallesavio.it'
-url: https://www.ilrestodelcarlino.it/cesena/cronaca/case-aperte-ai-rifugiati-1.7484887?utm_source=twitter&utm_medium=rss-feed&utm_campaign=twitter-account
-address:
-  mode: autocomplete
-  address:
-    place_id: 284245489
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 42639
-    boundingbox:
-    - '43.7869827'
-    - '43.9515076'
-    - '11.7884626'
-    - '12.1134496'
-    lat: '43.8352272'
-    lon: '11.9595985'
-    display_name: Bagno di Romagna, Forlì-Cesena, Emilia-Romagna, 47021, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7340329938443138
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      village: Bagno di Romagna
-      province: Forlì-Cesena
-      state: Emilia-Romagna
-      postcode: '47021'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/259,1175336086,2022-03-21 14:51:21,2022-03-21 12:47:15,Sul sito del Forum trentino per la pace e i diritti umani info sull'emergenza in Ucraina e su come aiutare,46.102817,11.129543099871789,Trentino-Alto Adige,Trento,"[""Valid/Accettato"",""News"",""Services"",""fundraising"",""materialGoods"",""Children""]",,,"{""Posizione"":""46.102817 11.129543099871789"",""description"":""online informazioni su come aiutare (punti di raccolta beni, raccolte fondi ecc), eventi per la pace e strumenti per i bambini."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.forumpace.it/speciale-ucraina/"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Provincia di Trento"",""state"":""Trentino-Alto Adige""},""boundingbox"":[""45.6728669"",""46.5327643"",""10.4522048"",""11.9628023""],""class"":""boundary"",""display_name"":""Provincia di Trento, Trentino-Alto Adige, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7380075390399246,""lat"":""46.102817"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.129543099871789"",""osm_id"":45756,""osm_type"":""relation"",""place_id"":283226448,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Pagina del \""Forum trentino per la pace e i diritti umani\"" con informazioni sull'emergenza in Ucraina""}","<pre><yamldata>
 title: Pagina del ""Forum trentino per la pace e i diritti umani"" con informazioni
@@ -19866,100 +20008,6 @@ location:
 label: document_data
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/115,1167592765,2022-03-18 13:04:00,2022-03-13 14:14:32,"Trento, l'associazione Rasom raccoglie beni e farmaci per emergenza Ucraina e cerca volontari",,,,,"[""Valid/Accettato"",""Help"",""Services"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""building"":""Scuola dell'infanzia di Albiano"",""country"":""Italia"",""country_code"":""it"",""county"":""Provincia di Trento"",""hamlet"":""Barco di Sopra"",""house_number"":""22"",""municipality"":""Comunit\u00e0 della Valle di Cembra"",""postcode"":""38041"",""road"":""Via Sant'Antonio"",""state"":""Trentino-Alto Adige"",""village"":""Albiano""},""boundingbox"":[""46.1449428"",""46.1451562"",""11.1940841"",""11.1944903""],""class"":""building"",""display_name"":""Scuola dell'infanzia di Albiano, 22, Via Sant'Antonio, Barco di Sopra, Albiano, Comunit\u00e0 della Valle di Cembra, Provincia di Trento, Trentino-Alto Adige, 38041, Italia"",""importance"":0.511,""lat"":""46.1450495"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.194287191070053"",""osm_id"":103129729,""osm_type"":""way"",""place_id"":123863279,""type"":""kindergarten""},""mode"":""autocomplete""},""description"":""Per la situazione in Ucraina, l'Associazione RASOM organizza una raccolta di beni di prima necessit\u00e0, presso la sede di via Sant\u2019Antonio, 22 a Trento (tutti i giorni dalle 19 alle 21 - orario provvisorio).\nAl link l'elenco dei beni e farmaci di cui c'\u00e8 bisogno.\nInoltre chi vuole dare la propria disponibilit\u00e0 ad aiutare come volontario e per informazioni sugli orari aggiornati pu\u00f2 contattare i seguenti numeri di telefono: \nVozna Halyna: cell. 3479419883\nOlha Vozna: cell. 3204548504\nKalapach Oleksandra: cell. 3488831652"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Rasom -Associazione Ucraini in Trentino"",""recipients"":"""",""submit"":true,""title"":""Trento, l'associazione Rasom raccoglie beni e farmaci per emergenza Ucraina e cerca volontari"",""type"":""materialGoods"",""url"":""https://webmagazine.unitn.it/news/ateneo/105101/associazione-culturale-degli-ucraini-in-trentino-rasom-aps""}","<pre><yamldata>
-type: materialGoods
-offerFromWho: Rasom -Associazione Ucraini in Trentino
-title: Trento, l'associazione Rasom raccoglie beni e farmaci per emergenza Ucraina
-  e cerca volontari
-recipients: ''
-description: ""Per la situazione in Ucraina, l'Associazione RASOM organizza una raccolta\
-  \ di beni di prima necessità, presso la sede di via Sant’Antonio, 22 a Trento (tutti\
-  \ i giorni dalle 19 alle 21 - orario provvisorio).\nAl link l'elenco dei beni e\
-  \ farmaci di cui c'è bisogno.\nInoltre chi vuole dare la propria disponibilità ad\
-  \ aiutare come volontario e per informazioni sugli orari aggiornati può contattare\
-  \ i seguenti numeri di telefono: \nVozna Halyna: cell. 3479419883\nOlha Vozna: cell.\
-  \ 3204548504\nKalapach Oleksandra: cell. 3488831652""
-url: https://webmagazine.unitn.it/news/ateneo/105101/associazione-culturale-degli-ucraini-in-trentino-rasom-aps
-address:
-  mode: autocomplete
-  address:
-    place_id: 123863279
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 103129729
-    boundingbox:
-    - '46.1449428'
-    - '46.1451562'
-    - '11.1940841'
-    - '11.1944903'
-    lat: '46.1450495'
-    lon: '11.194287191070053'
-    display_name: Scuola dell'infanzia di Albiano, 22, Via Sant'Antonio, Barco di
-      Sopra, Albiano, Comunità della Valle di Cembra, Provincia di Trento, Trentino-Alto
-      Adige, 38041, Italia
-    class: building
-    type: kindergarten
-    importance: 0.511
-    address:
-      building: Scuola dell'infanzia di Albiano
-      house_number: '22'
-      road: Via Sant'Antonio
-      hamlet: Barco di Sopra
-      village: Albiano
-      municipality: Comunità della Valle di Cembra
-      county: Provincia di Trento
-      state: Trentino-Alto Adige
-      postcode: '38041'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/81,1167338911,2022-03-18 13:03:33,2022-03-12 16:52:13,A Verona Associazione Malve di Ucraina cerca alloggi e professionisti per supporto rifugiati ucraini,45.4384958,10.9924122,Veneto,Verona,"[""Valid/Accettato"",""Help"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.4384958 10.9924122"",""description"":""A Verona l\u2019associazione Malve di Ucraina ha bisogno di raccogliere denaro per sostenere le spese di trasporto di beni umanitari. E poi cerca famiglie che possano ospitare i rifugiati ucraini in arrivo. Inoltre ha bisogno di professionisti che possano offrire supporto (in particolare mediatori linguistici, medici, insegnanti, parrucchieri) e aziende che offrano lavoro ai rifugiati."",""email"":""malve.verona@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Verona"",""country"":""Italia"",""country_code"":""it"",""county"":""Verona"",""postcode"":""37122"",""state"":""Veneto""},""boundingbox"":[""45.2784958"",""45.5984958"",""10.8324122"",""11.1524122""],""class"":""place"",""display_name"":""Verona, Veneto, 37122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7561573888828526,""lat"":""45.4384958"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.9924122"",""osm_id"":64778101,""osm_type"":""node"",""place_id"":286299859,""type"":""city""},""mode"":""autocomplete""},""nameSurname"":""Associazione Malve di Ucraina"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""A Verona Associazione Malve di Ucraina cerca alloggi e professionisti che possano supportare rifugiati ucraini"",""url"":""https://www.facebook.com/675754522486226/posts/5102255149836119/""}","<pre><yamldata>
-nameSurname: Associazione Malve di Ucraina
-phoneNumber: ''
-email: malve.verona@gmail.com
-title: A Verona Associazione Malve di Ucraina cerca alloggi e professionisti che possano
-  supportare rifugiati ucraini
-recipients: ''
-description: A Verona l’associazione Malve di Ucraina ha bisogno di raccogliere denaro
-  per sostenere le spese di trasporto di beni umanitari. E poi cerca famiglie che
-  possano ospitare i rifugiati ucraini in arrivo. Inoltre ha bisogno di professionisti
-  che possano offrire supporto (in particolare mediatori linguistici, medici, insegnanti,
-  parrucchieri) e aziende che offrano lavoro ai rifugiati.
-url: https://www.facebook.com/675754522486226/posts/5102255149836119/
-location:
-  mode: autocomplete
-  address:
-    place_id: 286299859
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 64778101
-    boundingbox:
-    - '45.2784958'
-    - '45.5984958'
-    - '10.8324122'
-    - '11.1524122'
-    lat: '45.4384958'
-    lon: '10.9924122'
-    display_name: Verona, Veneto, 37122, Italia
-    class: place
-    type: city
-    importance: 0.7561573888828526
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
-    address:
-      city: Verona
-      county: Verona
-      state: Veneto
-      postcode: '37122'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 45.4384958 10.9924122
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/196,1173243115,2022-03-18 06:54:49,2022-03-18 06:51:58,Open Arms raccoglie fondi per voli umanitari dall’Ucraina,,,,,"[""Valid/Accettato"",""fundraising"",""transport"",""telegram-channel"",""tweet""]",,,"{""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""Aiutaci ad accogliere in Italia donne, bambini e anziani che hanno dovuto lasciare tutto e fuggire dall'Ucraina. \n\nL'esercito russo continua a colpire obiettivi civili ucraini: \u00e8 la pi\u00f9 grande crisi umanitaria europea dalla Seconda Guerra Mondiale.\n\nSabato \u00e8 partito il primo volo umanitario organizzato da Open Arms grazie al supporto di #Solidaire di Enrique Pinyero.  \n\nAbbiamo portato in salvo dalla Polonia 222 persone rifugiate ora accolte da varie organizzazioni spagnole. \n\nPresto ripartiremo con altri voli per accogliere in Italia chi fugge dalla distruzione e dalla morte.\n\nRendi possibili i nostri voli umanitari!\n\nOrganizzare un volo umanitario \u00e8 un grande sforzo economico per noi, ma con il tuo aiuto possiamo farcela.\n\nDONA ORA \ud83d\udcf2 https://www.openarms.es/ucraina/"",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":""https://www.openarms.es/ucraina/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Open Arms""}","<pre><yamldata>
 title: Open Arms
