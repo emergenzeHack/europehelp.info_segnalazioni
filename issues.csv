@@ -1,4 +1,42 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/612,1204363065,2022-04-14 14:13:19,2022-04-14 10:36:31,Asgi - Associazione Studi Giuridici per l'Immigrazione offre servizio antidiscriminazione a stranieri e migranti,,,,,"[""Valid/Accettato"",""Legal"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""state"":""Piemonte""},""boundingbox"":[""45.0067924"",""45.1402175"",""7.5778348"",""7.7733388""],""class"":""boundary"",""display_name"":""Torino, Piemonte, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8068062387577691,""lat"":""45.0677551"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6824892"",""osm_id"":43992,""osm_type"":""relation"",""place_id"":284787924,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Asgi offre un servizio antidiscriminazione rivolto a popolazione straniera e con background migratorio. Referenti per le sezioni territoriali: https://www.asgi.it/sezioni-territoriali/"",""email"":""antidiscriminazione@asgi.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":false,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Associazione Studi Giuridici per l'Immigrazione"",""url"":""https://www.asgi.it/servizio-antidiscriminazione/""}","<pre><yamldata>
+title: Associazione Studi Giuridici per l'Immigrazione 
+phoneNumber: ''
+email: antidiscriminazione@asgi.it
+aim: 'Asgi offre un servizio antidiscriminazione rivolto a popolazione straniera e con background
+  migratorio.
+Referenti per le sezioni territoriali: https://www.asgi.it/sezioni-territoriali/'
+url: https://www.asgi.it/servizio-antidiscriminazione/
+address:
+  mode: autocomplete
+  address:
+    place_id: 284787924
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43992
+    boundingbox:
+    - '45.0067924'
+    - '45.1402175'
+    - '7.5778348'
+    - '7.7733388'
+    lat: '45.0677551'
+    lon: '7.6824892'
+    display_name: Torino, Piemonte, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8068062387577691
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Torino
+      county: Torino
+      state: Piemonte
+      ISO3166-2-lvl4: IT-21
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: false
+label: useful contact
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/614,1204374120,2022-04-14 14:01:31,2022-04-14 10:49:09,Emergency in Moldavia: servizi e attività per profughi ucraini,,,,,"[""Valid/Accettato"",""useful contact"",""healthcare"",""psychologicalSupport""]",,,"{""address"":{""address"":{""address"":{""city"":""B\u0103l\u021bi"",""country"":""Moldavia"",""country_code"":""md"",""municipality"":""B\u0103l\u021bi Municipality"",""postcode"":""MD-3121""},""boundingbox"":[""47.6023599"",""47.9223599"",""27.768665"",""28.088665""],""class"":""place"",""display_name"":""B\u0103l\u021bi, B\u0103l\u021bi Municipality, MD-3121, Moldavia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.508344381427577,""lat"":""47.7623599"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""27.928665"",""osm_id"":266185307,""osm_type"":""node"",""place_id"":523194,""type"":""city""},""mode"":""autocomplete""},""aim"":""Attraverso un Politruck offrono cure e assistenza psicologica ai profughi ospitati nel Centro di prima accoglienza. \n\nIl team, composto da medico, infermiere, psicologo, mediatore culturale e logisti garantisce cure mediche di base, infermieristiche, supporto psicologico e orientamento ai servizi sul territorio alle persone in fuga dalla guerra in Ucraina"",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":false,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Emergency in Moldavia"",""url"":""https://www.emergency.it/progetti/assistenza-ai-profughi-in-fuga-dalla-guerra-in-ucraina/""}","<pre><yamldata>
 title: Emergency in Moldavia
 phoneNumber: ''
