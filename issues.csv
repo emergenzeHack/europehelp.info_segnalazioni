@@ -1,4 +1,221 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/605,1203404611,2022-04-14 07:41:16,2022-04-13 14:44:06,"Appena arrivato in Italia, cosa devo fare? Piccola guida di Università Bocconi - UASI in ucraino, russo e italiano",45.4509094,9.1874059,Lombardia,Milano,"[""Valid/Accettato"",""Legal"",""document_data"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.4509094 9.1874059"",""description"":""Sul sito di Uasi - Ucraina Supporto e Informazione disponibile una piccola guida (pdf) che offre ai rifugiati ucraini che arrivano in Italia tutte le info sui primi passi da compiere. La guida \u00e8 in ucraino, russo e italiano. \n\nUASI \u00e8 l\u2019unit\u00e0 dell\u2019Universita Bocconi di Milano che si occupa di produrre informazioni accessibili, pratiche e chiare per chi arriva in Italia dall\u2019Ucraina e per le organizzazioni del settore dell\u2019accoglienza."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://blest.unibocconi.eu/focus-europe-and-ukraine/focus-ukraine/uasi-ucraina-supporto-e-informazione"",""location"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20136"",""quarter"":""Vigentina"",""road"":""Via Corrado Guglielmo Rontgen"",""state"":""Lombardia"",""suburb"":""Municipio 5""},""boundingbox"":[""45.4492051"",""45.4515967"",""9.1867565"",""9.1876216""],""class"":""highway"",""display_name"":""Via Corrado Guglielmo Rontgen, Vigentina, Municipio 5, Milano, Lombardia, 20136, Italia"",""importance"":0.61,""lat"":""45.4509094"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1874059"",""osm_id"":37042448,""osm_type"":""way"",""place_id"":111476102,""type"":""residential""},""mode"":""autocomplete""},""submit"":true,""title"":""Appena arrivato in Italia, cosa devo fare? Piccola guida di UASI in ucraino, russo e italiano""}","<pre><yamldata>
+title: Appena arrivato in Italia, cosa devo fare? Piccola guida di UASI in ucraino,
+  russo e italiano
+description: ""Sul sito di Uasi - Ucraina Supporto e Informazione disponibile una piccola\
+  \ guida (pdf) che offre ai rifugiati ucraini che arrivano in Italia tutte le info\
+  \ sui primi passi da compiere. La guida è in ucraino, russo e italiano. \n\nUASI\
+  \ è l’unità dell’Universita Bocconi di Milano che si occupa di produrre informazioni\
+  \ accessibili, pratiche e chiare per chi arriva in Italia dall’Ucraina e per le\
+  \ organizzazioni del settore dell’accoglienza.""
+link: https://blest.unibocconi.eu/focus-europe-and-ukraine/focus-ukraine/uasi-ucraina-supporto-e-informazione
+location:
+  mode: autocomplete
+  address:
+    place_id: 111476102
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 37042448
+    boundingbox:
+    - '45.4492051'
+    - '45.4515967'
+    - '9.1867565'
+    - '9.1876216'
+    lat: '45.4509094'
+    lon: '9.1874059'
+    display_name: Via Corrado Guglielmo Rontgen, Vigentina, Municipio 5, Milano, Lombardia,
+      20136, Italia
+    class: highway
+    type: residential
+    importance: 0.61
+    address:
+      road: Via Corrado Guglielmo Rontgen
+      quarter: Vigentina
+      suburb: Municipio 5
+      city: Milano
+      county: Milano
+      ISO3166-2-lvl6: IT-MI
+      state: Lombardia
+      postcode: '20136'
+      country: Italia
+      country_code: it
+label: document_data
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.4509094 9.1874059
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/603,1203313414,2022-04-14 07:40:55,2022-04-13 13:35:51,ASILS - Associazione Scuole di Italiano come lingua seconda organizza 2 corsi online gratuiti per rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Meeting Place"",""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""1"",""postcode"":""00162"",""road"":""Piazza Bologna"",""state"":""Lazio"",""suburb"":""Municipio Roma II""},""boundingbox"":[""41.9136115"",""41.9137115"",""12.5213118"",""12.5214118""],""class"":""amenity"",""display_name"":""Meeting Place, 1, Piazza Bologna, Municipio Roma II, Roma, Roma Capitale, Lazio, 00162, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//food_cafe.p.20.png"",""importance"":0.5209999999999999,""lat"":""41.9136615"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.5213618"",""osm_id"":6495582227,""osm_type"":""node"",""place_id"":70676310,""type"":""cafe""},""mode"":""autocomplete""},""description"":""L\u2019ASILS (Associazione Scuole di Italiano come lingua seconda) propone 2 corsi online gratuiti aperti alle persone ucraine in fuga dalla guerra.\n\nI corsi a disposizione saranno due: un corso per \u201cPrincipanti Assoluti\u201d (per coloro che non hanno nessuna conoscenza dell\u2019italiano) e un corso \u201cA1\u201d (per coloro che hanno gi\u00e0 delle conoscenze minime di base della nostra lingua). I due corsi saranno strutturati con 3 incontri settimanali online di 1,5 ore ciascuno, per un totale di 4,5 ore settimanali, e avranno una durata di 3 mesi (12 settimane) ciascuno.\n\nPer accedere ai corsi che cominceranno il 20 04 2022, luned\u00ec mercoled\u00ec venerd\u00ec, orario 17.30-19, sar\u00e0 sufficiente iscriversi online (vedi link) per ottenere le credenziali di accesso al corso.\nLa pagina con le info e per iscriversi \u00e8 in lingua ucraina. \n\n\u0422\u043e\u043c\u0443 ASILS \u0437 \u0440\u0430\u0434\u0456\u0441\u0442\u044e \u0432\u0456\u0434\u043a\u0440\u0438\u0432\u0430\u0454 2 \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u0456 \u043e\u043d\u043b\u0430\u0439\u043d-\u043a\u0443\u0440\u0441\u0438, \u0434\u043e \u044f\u043a\u0438\u0445 \u043c\u043e\u0436\u043d\u0430 \u043b\u0435\u0433\u043a\u043e \u043e\u0442\u0440\u0438\u043c\u0430\u0442\u0438 \u0434\u043e\u0441\u0442\u0443\u043f \u0437\u0430 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u043e\u044e \u0406\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u0437 \u0431\u0443\u0434\u044c-\u044f\u043a\u043e\u0433\u043e \u043a\u0443\u0442\u043e\u0447\u043a\u0430 \u0406\u0442\u0430\u043b\u0456\u0457, \u0434\u0435 \u0432\u0438\u043c\u0443\u0448\u0435\u043d\u0456 \u043f\u0435\u0440\u0435\u0441\u0435\u043b\u0435\u043d\u0446\u0456 \u0437\u043c\u043e\u0436\u0443\u0442\u044c \u0437\u0456\u0431\u0440\u0430\u0442\u0438\u0441\u044f \u0440\u0430\u0437\u043e\u043c. \u0406\u043d\u0456\u0446\u0456\u0430\u0442\u0438\u0432\u0430 \u0441\u043f\u0440\u044f\u043c\u043e\u0432\u0430\u043d\u0430 \u043d\u0430 \u0448\u0438\u0440\u043e\u043a\u0435 \u043e\u0445\u043e\u043f\u043b\u0435\u043d\u043d\u044f \u043d\u0430\u0432\u0456\u0442\u044c \u0442\u0438\u0445 \u043b\u044e\u0434\u0435\u0439, \u044f\u043a\u0456 \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u044e\u0442\u044c \u0443 \u0440\u0430\u0439\u043e\u043d\u0430\u0445, \u0434\u0435 \u043c\u043e\u0432\u043d\u0456 \u043a\u0443\u0440\u0441\u0438 \u043d\u0435 \u043f\u0440\u043e\u0432\u043e\u0434\u044f\u0442\u044c\u0441\u044f \u043d\u0430\u0436\u0438\u0432\u043e.\n\u0429\u043e\u0431 \u043e\u0442\u0440\u0438\u043c\u0430\u0442\u0438 \u0434\u043e\u0441\u0442\u0443\u043f \u0434\u043e \u043a\u0443\u0440\u0441\u0456\u0432, \u044f\u043a\u0456 \u0440\u043e\u0437\u043f\u043e\u0447\u043d\u0443\u0442\u044c\u0441\u044f 20 04 2022 \u043f\u043e\u043d\u0435\u0434\u0456\u043b\u043e\u043a \u0441\u0435\u0440\u0435\u0434\u0430 \u043f\u2019\u044f\u0442\u043d\u0438\u0446\u044f 17-30-19, \u0434\u043e\u0441\u0442\u0430\u0442\u043d\u044c\u043e \u0431\u0443\u0434\u0435 \u0437\u0430\u0440\u0435\u0454\u0441\u0442\u0440\u0443\u0432\u0430\u0442\u0438\u0441\u044f \u043d\u0430 \u0446\u0456\u0439 \u0432\u0435\u0431-\u0441\u0442\u043e\u0440\u0456\u043d\u0446\u0456, \u0442\u0430 \u043e\u0442\u0440\u0438\u043c\u0430\u0442\u0438 \u043e\u0431\u043b\u0456\u043a\u043e\u0432\u0456 \u0434\u0430\u043d\u0456 \u0434\u043b\u044f \u0443\u0447\u0430\u0441\u0442\u0456 \u0432 \u043d\u0438\u0445 https://www.asils.it/per-ucraina/"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Asils"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""ASILS - Associazione Scuole di Italiano come lingua seconda organizza 2 corsi online gratuiti per le persone ucraine in fuga dalla guerra"",""url"":""https://www.asils.it/per-ucraina/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Asils
+title: ASILS - Associazione Scuole di Italiano come lingua seconda organizza 2 corsi
+  online gratuiti per le persone ucraine in fuga dalla guerra
+recipients: ''
+description: ""L’ASILS (Associazione Scuole di Italiano come lingua seconda) propone\
+  \ 2 corsi online gratuiti aperti alle persone ucraine in fuga dalla guerra.\n\n\
+  I corsi a disposizione saranno due: un corso per “Principanti Assoluti” (per coloro\
+  \ che non hanno nessuna conoscenza dell’italiano) e un corso “A1” (per coloro che\
+  \ hanno già delle conoscenze minime di base della nostra lingua). I due corsi saranno\
+  \ strutturati con 3 incontri settimanali online di 1,5 ore ciascuno, per un totale\
+  \ di 4,5 ore settimanali, e avranno una durata di 3 mesi (12 settimane) ciascuno.\n\
+  \nPer accedere ai corsi che cominceranno il 20 04 2022, lunedì mercoledì venerdì,\
+  \ orario 17.30-19, sarà sufficiente iscriversi online (vedi link) per ottenere le\
+  \ credenziali di accesso al corso.\nLa pagina con le info e per iscriversi è in\
+  \ lingua ucraina. \n\nТому ASILS з радістю відкриває 2 безкоштовні онлайн-курси,\
+  \ до яких можна легко отримати доступ за допомогою Інтернет з будь-якого куточка\
+  \ Італії, де вимушені переселенці зможуть зібратися разом. Ініціатива спрямована\
+  \ на широке охоплення навіть тих людей, які проживають у районах, де мовні курси\
+  \ не проводяться наживо.\nЩоб отримати доступ до курсів, які розпочнуться 20 04\
+  \ 2022 понеділок середа п’ятниця 17-30-19, достатньо буде зареєструватися на цій\
+  \ веб-сторінці, та отримати облікові дані для участі в них https://www.asils.it/per-ucraina/""
+url: https://www.asils.it/per-ucraina/
+address:
+  mode: autocomplete
+  address:
+    place_id: 70676310
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 6495582227
+    boundingbox:
+    - '41.9136115'
+    - '41.9137115'
+    - '12.5213118'
+    - '12.5214118'
+    lat: '41.9136615'
+    lon: '12.5213618'
+    display_name: Meeting Place, 1, Piazza Bologna, Municipio Roma II, Roma, Roma
+      Capitale, Lazio, 00162, Italia
+    class: amenity
+    type: cafe
+    importance: 0.5209999999999999
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//food_cafe.p.20.png
+    address:
+      amenity: Meeting Place
+      house_number: '1'
+      road: Piazza Bologna
+      suburb: Municipio Roma II
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: '00162'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/602,1202902603,2022-04-14 07:40:43,2022-04-13 07:58:40,"Palermo per l'Ucraina: 9 agenzie di viaggi lanciano il ""volo sospeso"" per donare viaggi aerei ai rifugiati ucraini",,,,,"[""Valid/Accettato"",""Services"",""fundraising"",""transport"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-82"",""ISO3166-2-lvl6"":""IT-PA"",""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""hamlet"":""Quartiere Matteotti"",""postcode"":""90144"",""road"":""Via Empedocle Restivo"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1418507"",""38.1422777"",""13.3370385"",""13.3372359""],""class"":""highway"",""display_name"":""Via Empedocle Restivo, Quartiere Matteotti, VIII Circoscrizione, Palermo, Sicilia, 90144, Italia"",""importance"":0.4,""lat"":""38.1419885"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3371606"",""osm_id"":526088542,""osm_type"":""way"",""place_id"":213266908,""type"":""secondary""},""mode"":""autocomplete""},""description"":""A Palermo e Mazara del Vallo (Tp) 9 agenzie di viaggi lanciano il \""volo sospeso\"" per donare viaggi aerei ai rifugiati ucraini. Chiunque pu\u00f2 fare una offerta e regalare un tratto di viaggio aereo a chi fugge dall'Ucraina. \nL'idea nasce da Manfr\u00e8 Viaggi di Palermo che ha gi\u00e0 regalato alcuni voli a rifugiati ucraini \nPer domande e dettagli:\nWhatsapp: +39 329 262 2106\nPagina Facebook al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Agenzie di viaggi Palermo e Mazara del Vallo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""Palermo per l'Ucraina: 9 agenzie di viaggi lanciano a Palermo il \""volo sospeso\"" per donare viaggi aerei ai rifugiati ucraini"",""url"":""https://www.facebook.com/PalermoperUcraina/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: true
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Agenzie di viaggi Palermo e Mazara del Vallo
+title: 'Palermo per l''Ucraina: 9 agenzie di viaggi lanciano a Palermo il ""volo sospeso""
+  per donare viaggi aerei ai rifugiati ucraini'
+recipients: ''
+description: ""A Palermo e Mazara del Vallo (Tp) 9 agenzie di viaggi lanciano il \""\
+  volo sospeso\"" per donare viaggi aerei ai rifugiati ucraini. Chiunque può fare una\
+  \ offerta e regalare un tratto di viaggio aereo a chi fugge dall'Ucraina. \nL'idea\
+  \ nasce da Manfrè Viaggi di Palermo che ha già regalato alcuni voli a rifugiati\
+  \ ucraini \nPer domande e dettagli:\nWhatsapp: +39 329 262 2106\nPagina Facebook\
+  \ al link.""
+url: https://www.facebook.com/PalermoperUcraina/
+address:
+  mode: autocomplete
+  address:
+    place_id: 213266908
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 526088542
+    boundingbox:
+    - '38.1418507'
+    - '38.1422777'
+    - '13.3370385'
+    - '13.3372359'
+    lat: '38.1419885'
+    lon: '13.3371606'
+    display_name: Via Empedocle Restivo, Quartiere Matteotti, VIII Circoscrizione,
+      Palermo, Sicilia, 90144, Italia
+    class: highway
+    type: secondary
+    importance: 0.4
+    address:
+      road: Via Empedocle Restivo
+      hamlet: Quartiere Matteotti
+      suburb: VIII Circoscrizione
+      city: Palermo
+      county: Palermo
+      ISO3166-2-lvl6: IT-PA
+      state: Sicilia
+      ISO3166-2-lvl4: IT-82
+      postcode: '90144'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/601,1202430696,2022-04-14 07:40:31,2022-04-12 21:50:09,Accordo tra Confindustria e sindacati per donare ore di lavoro a supporto dell’emergenza Ucraina ,,,,,"[""Valid/Accettato"",""News"",""fundraising"",""telegram-channel"",""tweet""]",,,"{""Posizione"":null,""description"":""Un'ora di lavoro da parte del lavoratore, in parallelo (e congiuntamente) un'ora donata da parte dell'azienda che confluiranno in un fondo di solidariet\u00e0 per il popolo ucraino. Siglato pochi giorni fa a livello nazionale tra Confindustria e Cgil, Cisl e Uil l'accordo per far fronte alla drammatica situazione che la guerra in Ucraina sta causando. Si tratta di un contributo su base volontaria: qualora il lavoratore intendesse aderire all'iniziativa, lo comunicher\u00e0 all'azienda e questa far\u00e0 scattare il contributo equivalente. I contributi verranno raccolti tramite il c/c con Codice IBAN: IT57C0103003201000008800015 attivato presso Monte dei Paschi di Siena intestato a: CGIL CISL UIL E CONFINDUSTRIA FONDO SOLIDARIET\u00c0 POPOLO UCRAINO, con la firma congiunta di un rappresentante per organizzazione appositamente delegato dal rappresentante legale di ciascuna di queste."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.cgil.it/speciali/2022/europe-for-peace/2022/03/30/news/cgil_cisl_uil_e_confindustria_sottoscrivono_accordo_di_solidarieta_per_il_popolo_ucraino-1997088/"",""location"":{""address"":{""address"":{""city"":null,""country"":null,""country_code"":null,""county"":null,""postcode"":null,""state"":null},""boundingbox"":null,""class"":null,""display_name"":null,""icon"":null,""importance"":null,""lat"":null,""licence"":null,""lon"":null,""osm_id"":null,""osm_type"":null,""place_id"":null,""type"":null},""mode"":""autocomplete""},""submit"":true,""title"":""Accordo tra Confindustria e sindacati per donare ore di lavoro a supporto dell\u2019emergenza emergenza in Ucraina""}","<pre><yamldata>
+title: Accordo tra Confindustria e sindacati per donare ore di lavoro a supporto
+  dell’emergenza emergenza in Ucraina
+description: 'Un''ora di lavoro da parte del lavoratore, in parallelo (e congiuntamente)
+  un''ora donata da parte dell''azienda che confluiranno in un fondo di solidarietà
+  per il popolo ucraino.
+Siglato pochi giorni fa a livello nazionale tra Confindustria e Cgil, Cisl e Uil
+  l''accordo per far fronte alla drammatica situazione che la guerra in Ucraina sta
+  causando. Si tratta
+  di un contributo su base volontaria: qualora il lavoratore intendesse aderire all''iniziativa,
+  lo comunicherà all''azienda e questa farà scattare il contributo equivalente. I contributi verranno raccolti tramite il c/c con Codice IBAN: 
+IT57C0103003201000008800015 
+attivato presso Monte dei Paschi di Siena intestato a: CGIL CISL UIL E CONFINDUSTRIA FONDO SOLIDARIETÀ POPOLO UCRAINO, con la firma congiunta di un rappresentante per organizzazione appositamente delegato dal rappresentante legale di ciascuna di queste.'
+link: https://www.cgil.it/speciali/2022/europe-for-peace/2022/03/30/news/cgil_cisl_uil_e_confindustria_sottoscrivono_accordo_di_solidarieta_per_il_popolo_ucraino-1997088/
+location:
+  mode: autocomplete
+  address:
+    place_id:
+    licence:
+    osm_type: 
+    osm_id:
+    boundingbox:
+    lat: 
+    lon: 
+    display_name:
+    class: 
+    type: 
+    importance: 
+    icon:
+    address:
+      city:
+      county:
+      state: 
+      postcode: 
+      country: 
+      country_code: 
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione:
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/553,1198608649,2022-04-14 05:18:49,2022-04-09 13:39:36,Consolato Ucraina a Napoli - Contatti ,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address1"":""Via G. Porzio 4, Centro Direzionale Isola B3, int. 5-6 "",""address2"":"""",""city"":""Napoli"",""country"":""Italia"",""state"":"""",""zip"":""80143""},""mode"":""manual""},""aim"":""Indirizzo: Via G. Porzio 4, Centro Direzionale Isola B3, int. 5-6 \u2013 80143 Napoli. Tel. in caso di emergenza (+39) 3277 364 822 Altra email consolato.ucraino.napoli@gmail.com Servizi: Visto Turistico Schengen Visto Affari Schengen Visto Visite Private Schengen Visto Lavoro Schengen Visto Studio Schengen\nFacebook https://www.facebook.com/ukrconsnapoli"",""email"":""gc_itn@mfa.gov.ua"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""39 081 7875433"",""submit"":true,""title"":""Consolato ucraino a Napoli - Contatti utili"",""url"":""https://naples.mfa.gov.ua/it""}","<pre><yamldata>
 title: Consolato ucraino a Napoli - Contatti utili
 phoneNumber: 39 081 7875433  
@@ -294,66 +511,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/602,1202902603,2022-04-13 17:26:30,2022-04-13 07:58:40,"Palermo per l'Ucraina: 9 agenzie di viaggi lanciano il ""volo sospeso"" per donare viaggi aerei ai rifugiati ucraini",,,,,"[""Valid/Accettato"",""Services"",""fundraising"",""transport""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-82"",""ISO3166-2-lvl6"":""IT-PA"",""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""hamlet"":""Quartiere Matteotti"",""postcode"":""90144"",""road"":""Via Empedocle Restivo"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1418507"",""38.1422777"",""13.3370385"",""13.3372359""],""class"":""highway"",""display_name"":""Via Empedocle Restivo, Quartiere Matteotti, VIII Circoscrizione, Palermo, Sicilia, 90144, Italia"",""importance"":0.4,""lat"":""38.1419885"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3371606"",""osm_id"":526088542,""osm_type"":""way"",""place_id"":213266908,""type"":""secondary""},""mode"":""autocomplete""},""description"":""A Palermo e Mazara del Vallo (Tp) 9 agenzie di viaggi lanciano il \""volo sospeso\"" per donare viaggi aerei ai rifugiati ucraini. Chiunque pu\u00f2 fare una offerta e regalare un tratto di viaggio aereo a chi fugge dall'Ucraina. \nL'idea nasce da Manfr\u00e8 Viaggi di Palermo che ha gi\u00e0 regalato alcuni voli a rifugiati ucraini \nPer domande e dettagli:\nWhatsapp: +39 329 262 2106\nPagina Facebook al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Agenzie di viaggi Palermo e Mazara del Vallo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""Palermo per l'Ucraina: 9 agenzie di viaggi lanciano a Palermo il \""volo sospeso\"" per donare viaggi aerei ai rifugiati ucraini"",""url"":""https://www.facebook.com/PalermoperUcraina/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: true
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Agenzie di viaggi Palermo e Mazara del Vallo
-title: 'Palermo per l''Ucraina: 9 agenzie di viaggi lanciano a Palermo il ""volo sospeso""
-  per donare viaggi aerei ai rifugiati ucraini'
-recipients: ''
-description: ""A Palermo e Mazara del Vallo (Tp) 9 agenzie di viaggi lanciano il \""\
-  volo sospeso\"" per donare viaggi aerei ai rifugiati ucraini. Chiunque può fare una\
-  \ offerta e regalare un tratto di viaggio aereo a chi fugge dall'Ucraina. \nL'idea\
-  \ nasce da Manfrè Viaggi di Palermo che ha già regalato alcuni voli a rifugiati\
-  \ ucraini \nPer domande e dettagli:\nWhatsapp: +39 329 262 2106\nPagina Facebook\
-  \ al link.""
-url: https://www.facebook.com/PalermoperUcraina/
-address:
-  mode: autocomplete
-  address:
-    place_id: 213266908
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 526088542
-    boundingbox:
-    - '38.1418507'
-    - '38.1422777'
-    - '13.3370385'
-    - '13.3372359'
-    lat: '38.1419885'
-    lon: '13.3371606'
-    display_name: Via Empedocle Restivo, Quartiere Matteotti, VIII Circoscrizione,
-      Palermo, Sicilia, 90144, Italia
-    class: highway
-    type: secondary
-    importance: 0.4
-    address:
-      road: Via Empedocle Restivo
-      hamlet: Quartiere Matteotti
-      suburb: VIII Circoscrizione
-      city: Palermo
-      county: Palermo
-      ISO3166-2-lvl6: IT-PA
-      state: Sicilia
-      ISO3166-2-lvl4: IT-82
-      postcode: '90144'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/608,1203583832,2022-04-13 17:25:50,2022-04-13 17:25:03,Accesso ai servizi bancari di base per i profughi ucraini (e non solo),41.897212800000005,12.488422190625947,Lazio,Roma,"[""Valid/Accettato"",""News"",""Services""]",,,"{""Posizione"":""41.897212800000005 12.488422190625947"",""description"":""In quanto persone soggiornanti legalmente nell'Unione Europea, anche gli ucraini sfollati possono da subito accedere ai servizi bancari di base.\n\nSul sito Economia per Tutti di Banca d'Italia informazioni sul diritto dei profughi ucraini (e non solo) ad accedere ad un conto bancario di base. Come spiegato sul sito, il conto consente l'accesso ai servizi di pagamento fondamentali. Esempi sono i bonifici e gli addebiti per effettuare i pagamenti e la possibilit\u00e0 di ottenere una carta di debito, utile per gli acquisti e i prelievi dagli sportelli automatici.\nAltre info al link."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://economiapertutti.bancaditalia.it/notizie/accesso-ai-servizi-bancari-di-base-per-i-profughi-ucraini-in-italia/?dotcache=refresh"",""location"":{""address"":{""address"":{""building"":""Palazzo della Banca d'Italia"",""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""91"",""postcode"":""00184"",""quarter"":""Monti"",""road"":""Via Nazionale"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.8965224"",""41.8978928"",""12.4882287"",""12.4899348""],""class"":""building"",""display_name"":""Palazzo della Banca d'Italia, 91, Via Nazionale, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia"",""importance"":0.7375345213990272,""lat"":""41.897212800000005"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.488422190625947"",""osm_id"":2766758,""osm_type"":""relation"",""place_id"":284397164,""type"":""yes""},""mode"":""autocomplete""},""submit"":true,""title"":""Accesso ai servizi bancari di base per i profughi ucraini (e non solo)""}","<pre><yamldata>
 title: Accesso ai servizi bancari di base per i profughi ucraini (e non solo)
 description: 'In quanto persone soggiornanti legalmente nell''Unione Europea, anche
@@ -551,51 +708,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/605,1203404611,2022-04-13 15:04:27,2022-04-13 14:44:06,"Appena arrivato in Italia, cosa devo fare? Piccola guida di Università Bocconi - UASI in ucraino, russo e italiano",45.4509094,9.1874059,Lombardia,Milano,"[""Valid/Accettato"",""Legal"",""document_data""]",,,"{""Posizione"":""45.4509094 9.1874059"",""description"":""Sul sito di Uasi - Ucraina Supporto e Informazione disponibile una piccola guida (pdf) che offre ai rifugiati ucraini che arrivano in Italia tutte le info sui primi passi da compiere. La guida \u00e8 in ucraino, russo e italiano. \n\nUASI \u00e8 l\u2019unit\u00e0 dell\u2019Universita Bocconi di Milano che si occupa di produrre informazioni accessibili, pratiche e chiare per chi arriva in Italia dall\u2019Ucraina e per le organizzazioni del settore dell\u2019accoglienza."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://blest.unibocconi.eu/focus-europe-and-ukraine/focus-ukraine/uasi-ucraina-supporto-e-informazione"",""location"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20136"",""quarter"":""Vigentina"",""road"":""Via Corrado Guglielmo Rontgen"",""state"":""Lombardia"",""suburb"":""Municipio 5""},""boundingbox"":[""45.4492051"",""45.4515967"",""9.1867565"",""9.1876216""],""class"":""highway"",""display_name"":""Via Corrado Guglielmo Rontgen, Vigentina, Municipio 5, Milano, Lombardia, 20136, Italia"",""importance"":0.61,""lat"":""45.4509094"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1874059"",""osm_id"":37042448,""osm_type"":""way"",""place_id"":111476102,""type"":""residential""},""mode"":""autocomplete""},""submit"":true,""title"":""Appena arrivato in Italia, cosa devo fare? Piccola guida di UASI in ucraino, russo e italiano""}","<pre><yamldata>
-title: Appena arrivato in Italia, cosa devo fare? Piccola guida di UASI in ucraino,
-  russo e italiano
-description: ""Sul sito di Uasi - Ucraina Supporto e Informazione disponibile una piccola\
-  \ guida (pdf) che offre ai rifugiati ucraini che arrivano in Italia tutte le info\
-  \ sui primi passi da compiere. La guida è in ucraino, russo e italiano. \n\nUASI\
-  \ è l’unità dell’Universita Bocconi di Milano che si occupa di produrre informazioni\
-  \ accessibili, pratiche e chiare per chi arriva in Italia dall’Ucraina e per le\
-  \ organizzazioni del settore dell’accoglienza.""
-link: https://blest.unibocconi.eu/focus-europe-and-ukraine/focus-ukraine/uasi-ucraina-supporto-e-informazione
-location:
-  mode: autocomplete
-  address:
-    place_id: 111476102
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 37042448
-    boundingbox:
-    - '45.4492051'
-    - '45.4515967'
-    - '9.1867565'
-    - '9.1876216'
-    lat: '45.4509094'
-    lon: '9.1874059'
-    display_name: Via Corrado Guglielmo Rontgen, Vigentina, Municipio 5, Milano, Lombardia,
-      20136, Italia
-    class: highway
-    type: residential
-    importance: 0.61
-    address:
-      road: Via Corrado Guglielmo Rontgen
-      quarter: Vigentina
-      suburb: Municipio 5
-      city: Milano
-      county: Milano
-      ISO3166-2-lvl6: IT-MI
-      state: Lombardia
-      postcode: '20136'
-      country: Italia
-      country_code: it
-label: document_data
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 45.4509094 9.1874059
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/235,1174232339,2022-04-13 14:32:45,2022-03-19 10:27:48,A Lucera (Foggia) cooperativa Matrix mette a disposizione 50 posti in una struttura ricettiva per accoglienza profughi ucraini,41.51540665,15.290741448680244,Puglia,Foggia,"[""Valid/Accettato"",""Services"",""hospitality""]",,,"{""Posizione"":""41.51540665 15.290741448680244"",""address"":{""address"":{},""mode"":""autocomplete""},""description"":""La cooperativa sociale Consorzio Matrix http://www.consorziomatrix.it/it/ https://www.facebook.com/consorziomatrix operante nel terzo settore da oltre 20 anni, mette a disposizione per accogliere profughi ucraini 50 posti come alloggio in una struttura ricettiva in provincia di Foggia nel Comune di Lucera, l'Hotel Palace. Si precisa che la Cooperativa ha gi\u00e0 segnalato la struttura ricettiva alla Prefettura di Foggia partecipando al bando per la manifestazione di interessi per l'individuazione di strutture ricettive destinate all'accoglienza, limitato ad un numero massimo di 50 posti. La cooperativa mette a disposizione gli ulteriori 50 posti esclusi dalla manifestazione di interesse. La struttura sar\u00e0 disponibile a partire da aprile. Per ulteriori informazioni scrivere mail a segreteriamatrix2@gmail.com oppure chiamando al 0818011753; 3476494554 Martone Vincenzo; 3355823803 Caner Simone."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Cooperativa Sociale Consorzio Matrix"",""recipients"":""soggetti ucraini in fuga dalla guerra"",""submit"":true,""title"":""messa a disposizione di n 50 posti in struttura ricettiva nel comune di lucera (FG)"",""type"":""hospitality"",""url"":""http://www.consorziomatrix.it""}","<pre><yamldata>
 type: hospitality
 offerFromWho: Cooperativa Sociale Consorzio Matrix
@@ -615,77 +727,6 @@ address:
   mode: autocomplete
   address: {}
 Posizione: 41.51540665 15.290741448680244
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/603,1203313414,2022-04-13 13:36:36,2022-04-13 13:35:51,ASILS - Associazione Scuole di Italiano come lingua seconda organizza 2 corsi online gratuiti per rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Meeting Place"",""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""1"",""postcode"":""00162"",""road"":""Piazza Bologna"",""state"":""Lazio"",""suburb"":""Municipio Roma II""},""boundingbox"":[""41.9136115"",""41.9137115"",""12.5213118"",""12.5214118""],""class"":""amenity"",""display_name"":""Meeting Place, 1, Piazza Bologna, Municipio Roma II, Roma, Roma Capitale, Lazio, 00162, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//food_cafe.p.20.png"",""importance"":0.5209999999999999,""lat"":""41.9136615"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.5213618"",""osm_id"":6495582227,""osm_type"":""node"",""place_id"":70676310,""type"":""cafe""},""mode"":""autocomplete""},""description"":""L\u2019ASILS (Associazione Scuole di Italiano come lingua seconda) propone 2 corsi online gratuiti aperti alle persone ucraine in fuga dalla guerra.\n\nI corsi a disposizione saranno due: un corso per \u201cPrincipanti Assoluti\u201d (per coloro che non hanno nessuna conoscenza dell\u2019italiano) e un corso \u201cA1\u201d (per coloro che hanno gi\u00e0 delle conoscenze minime di base della nostra lingua). I due corsi saranno strutturati con 3 incontri settimanali online di 1,5 ore ciascuno, per un totale di 4,5 ore settimanali, e avranno una durata di 3 mesi (12 settimane) ciascuno.\n\nPer accedere ai corsi che cominceranno il 20 04 2022, luned\u00ec mercoled\u00ec venerd\u00ec, orario 17.30-19, sar\u00e0 sufficiente iscriversi online (vedi link) per ottenere le credenziali di accesso al corso.\nLa pagina con le info e per iscriversi \u00e8 in lingua ucraina. \n\n\u0422\u043e\u043c\u0443 ASILS \u0437 \u0440\u0430\u0434\u0456\u0441\u0442\u044e \u0432\u0456\u0434\u043a\u0440\u0438\u0432\u0430\u0454 2 \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u0456 \u043e\u043d\u043b\u0430\u0439\u043d-\u043a\u0443\u0440\u0441\u0438, \u0434\u043e \u044f\u043a\u0438\u0445 \u043c\u043e\u0436\u043d\u0430 \u043b\u0435\u0433\u043a\u043e \u043e\u0442\u0440\u0438\u043c\u0430\u0442\u0438 \u0434\u043e\u0441\u0442\u0443\u043f \u0437\u0430 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u043e\u044e \u0406\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u0437 \u0431\u0443\u0434\u044c-\u044f\u043a\u043e\u0433\u043e \u043a\u0443\u0442\u043e\u0447\u043a\u0430 \u0406\u0442\u0430\u043b\u0456\u0457, \u0434\u0435 \u0432\u0438\u043c\u0443\u0448\u0435\u043d\u0456 \u043f\u0435\u0440\u0435\u0441\u0435\u043b\u0435\u043d\u0446\u0456 \u0437\u043c\u043e\u0436\u0443\u0442\u044c \u0437\u0456\u0431\u0440\u0430\u0442\u0438\u0441\u044f \u0440\u0430\u0437\u043e\u043c. \u0406\u043d\u0456\u0446\u0456\u0430\u0442\u0438\u0432\u0430 \u0441\u043f\u0440\u044f\u043c\u043e\u0432\u0430\u043d\u0430 \u043d\u0430 \u0448\u0438\u0440\u043e\u043a\u0435 \u043e\u0445\u043e\u043f\u043b\u0435\u043d\u043d\u044f \u043d\u0430\u0432\u0456\u0442\u044c \u0442\u0438\u0445 \u043b\u044e\u0434\u0435\u0439, \u044f\u043a\u0456 \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u044e\u0442\u044c \u0443 \u0440\u0430\u0439\u043e\u043d\u0430\u0445, \u0434\u0435 \u043c\u043e\u0432\u043d\u0456 \u043a\u0443\u0440\u0441\u0438 \u043d\u0435 \u043f\u0440\u043e\u0432\u043e\u0434\u044f\u0442\u044c\u0441\u044f \u043d\u0430\u0436\u0438\u0432\u043e.\n\u0429\u043e\u0431 \u043e\u0442\u0440\u0438\u043c\u0430\u0442\u0438 \u0434\u043e\u0441\u0442\u0443\u043f \u0434\u043e \u043a\u0443\u0440\u0441\u0456\u0432, \u044f\u043a\u0456 \u0440\u043e\u0437\u043f\u043e\u0447\u043d\u0443\u0442\u044c\u0441\u044f 20 04 2022 \u043f\u043e\u043d\u0435\u0434\u0456\u043b\u043e\u043a \u0441\u0435\u0440\u0435\u0434\u0430 \u043f\u2019\u044f\u0442\u043d\u0438\u0446\u044f 17-30-19, \u0434\u043e\u0441\u0442\u0430\u0442\u043d\u044c\u043e \u0431\u0443\u0434\u0435 \u0437\u0430\u0440\u0435\u0454\u0441\u0442\u0440\u0443\u0432\u0430\u0442\u0438\u0441\u044f \u043d\u0430 \u0446\u0456\u0439 \u0432\u0435\u0431-\u0441\u0442\u043e\u0440\u0456\u043d\u0446\u0456, \u0442\u0430 \u043e\u0442\u0440\u0438\u043c\u0430\u0442\u0438 \u043e\u0431\u043b\u0456\u043a\u043e\u0432\u0456 \u0434\u0430\u043d\u0456 \u0434\u043b\u044f \u0443\u0447\u0430\u0441\u0442\u0456 \u0432 \u043d\u0438\u0445 https://www.asils.it/per-ucraina/"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Asils"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""ASILS - Associazione Scuole di Italiano come lingua seconda organizza 2 corsi online gratuiti per le persone ucraine in fuga dalla guerra"",""url"":""https://www.asils.it/per-ucraina/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: true
-offerFromWho: Asils
-title: ASILS - Associazione Scuole di Italiano come lingua seconda organizza 2 corsi
-  online gratuiti per le persone ucraine in fuga dalla guerra
-recipients: ''
-description: ""L’ASILS (Associazione Scuole di Italiano come lingua seconda) propone\
-  \ 2 corsi online gratuiti aperti alle persone ucraine in fuga dalla guerra.\n\n\
-  I corsi a disposizione saranno due: un corso per “Principanti Assoluti” (per coloro\
-  \ che non hanno nessuna conoscenza dell’italiano) e un corso “A1” (per coloro che\
-  \ hanno già delle conoscenze minime di base della nostra lingua). I due corsi saranno\
-  \ strutturati con 3 incontri settimanali online di 1,5 ore ciascuno, per un totale\
-  \ di 4,5 ore settimanali, e avranno una durata di 3 mesi (12 settimane) ciascuno.\n\
-  \nPer accedere ai corsi che cominceranno il 20 04 2022, lunedì mercoledì venerdì,\
-  \ orario 17.30-19, sarà sufficiente iscriversi online (vedi link) per ottenere le\
-  \ credenziali di accesso al corso.\nLa pagina con le info e per iscriversi è in\
-  \ lingua ucraina. \n\nТому ASILS з радістю відкриває 2 безкоштовні онлайн-курси,\
-  \ до яких можна легко отримати доступ за допомогою Інтернет з будь-якого куточка\
-  \ Італії, де вимушені переселенці зможуть зібратися разом. Ініціатива спрямована\
-  \ на широке охоплення навіть тих людей, які проживають у районах, де мовні курси\
-  \ не проводяться наживо.\nЩоб отримати доступ до курсів, які розпочнуться 20 04\
-  \ 2022 понеділок середа п’ятниця 17-30-19, достатньо буде зареєструватися на цій\
-  \ веб-сторінці, та отримати облікові дані для участі в них https://www.asils.it/per-ucraina/""
-url: https://www.asils.it/per-ucraina/
-address:
-  mode: autocomplete
-  address:
-    place_id: 70676310
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 6495582227
-    boundingbox:
-    - '41.9136115'
-    - '41.9137115'
-    - '12.5213118'
-    - '12.5214118'
-    lat: '41.9136615'
-    lon: '12.5213618'
-    display_name: Meeting Place, 1, Piazza Bologna, Municipio Roma II, Roma, Roma
-      Capitale, Lazio, 00162, Italia
-    class: amenity
-    type: cafe
-    importance: 0.5209999999999999
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//food_cafe.p.20.png
-    address:
-      amenity: Meeting Place
-      house_number: '1'
-      road: Piazza Bologna
-      suburb: Municipio Roma II
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      postcode: '00162'
-      country: Italia
-      country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
@@ -782,47 +823,6 @@ address:
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/601,1202430696,2022-04-12 22:11:09,2022-04-12 21:50:09,Accordo tra Confindustria e sindacati per donare ore di lavoro a supporto dell’emergenza Ucraina ,,,,,"[""Valid/Accettato"",""News"",""fundraising""]",,,"{""Posizione"":null,""description"":""Un'ora di lavoro da parte del lavoratore, in parallelo (e congiuntamente) un'ora donata da parte dell'azienda che confluiranno in un fondo di solidariet\u00e0 per il popolo ucraino. Siglato pochi giorni fa a livello nazionale tra Confindustria e Cgil, Cisl e Uil l'accordo per far fronte alla drammatica situazione che la guerra in Ucraina sta causando. Si tratta di un contributo su base volontaria: qualora il lavoratore intendesse aderire all'iniziativa, lo comunicher\u00e0 all'azienda e questa far\u00e0 scattare il contributo equivalente. I contributi verranno raccolti tramite il c/c con Codice IBAN: IT57C0103003201000008800015 attivato presso Monte dei Paschi di Siena intestato a: CGIL CISL UIL E CONFINDUSTRIA FONDO SOLIDARIET\u00c0 POPOLO UCRAINO, con la firma congiunta di un rappresentante per organizzazione appositamente delegato dal rappresentante legale di ciascuna di queste."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.cgil.it/speciali/2022/europe-for-peace/2022/03/30/news/cgil_cisl_uil_e_confindustria_sottoscrivono_accordo_di_solidarieta_per_il_popolo_ucraino-1997088/"",""location"":{""address"":{""address"":{""city"":null,""country"":null,""country_code"":null,""county"":null,""postcode"":null,""state"":null},""boundingbox"":null,""class"":null,""display_name"":null,""icon"":null,""importance"":null,""lat"":null,""licence"":null,""lon"":null,""osm_id"":null,""osm_type"":null,""place_id"":null,""type"":null},""mode"":""autocomplete""},""submit"":true,""title"":""Accordo tra Confindustria e sindacati per donare ore di lavoro a supporto dell\u2019emergenza emergenza in Ucraina""}","<pre><yamldata>
-title: Accordo tra Confindustria e sindacati per donare ore di lavoro a supporto
-  dell’emergenza emergenza in Ucraina
-description: 'Un''ora di lavoro da parte del lavoratore, in parallelo (e congiuntamente)
-  un''ora donata da parte dell''azienda che confluiranno in un fondo di solidarietà
-  per il popolo ucraino.
-Siglato pochi giorni fa a livello nazionale tra Confindustria e Cgil, Cisl e Uil
-  l''accordo per far fronte alla drammatica situazione che la guerra in Ucraina sta
-  causando. Si tratta
-  di un contributo su base volontaria: qualora il lavoratore intendesse aderire all''iniziativa,
-  lo comunicherà all''azienda e questa farà scattare il contributo equivalente. I contributi verranno raccolti tramite il c/c con Codice IBAN: 
-IT57C0103003201000008800015 
-attivato presso Monte dei Paschi di Siena intestato a: CGIL CISL UIL E CONFINDUSTRIA FONDO SOLIDARIETÀ POPOLO UCRAINO, con la firma congiunta di un rappresentante per organizzazione appositamente delegato dal rappresentante legale di ciascuna di queste.'
-link: https://www.cgil.it/speciali/2022/europe-for-peace/2022/03/30/news/cgil_cisl_uil_e_confindustria_sottoscrivono_accordo_di_solidarieta_per_il_popolo_ucraino-1997088/
-location:
-  mode: autocomplete
-  address:
-    place_id:
-    licence:
-    osm_type: 
-    osm_id:
-    boundingbox:
-    lat: 
-    lon: 
-    display_name:
-    class: 
-    type: 
-    importance: 
-    icon:
-    address:
-      city:
-      county:
-      state: 
-      postcode: 
-      country: 
-      country_code: 
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione:
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/305,1178515936,2022-04-12 21:45:28,2022-03-23 18:38:48,"Napoli, punti di raccolta beni e corsi di italiano per rifugiati ucraini a Forcella",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Santa Maria della Pace"",""city"":""Napoli"",""country"":""Italia"",""country_code"":""it"",""county"":""Napoli"",""postcode"":""80139"",""road"":""Via dei Tribunali"",""state"":""Campania"",""suburb"":""San Lorenzo""},""boundingbox"":[""40.8520942"",""40.8525011"",""14.2617887"",""14.2621931""],""class"":""amenity"",""display_name"":""Santa Maria della Pace, Via dei Tribunali, San Lorenzo, Municipalit\u00e0 4, Napoli, Campania, 80139, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//place_of_worship_unknown3.p.20.png"",""importance"":0.8607105064618923,""lat"":""40.852331500000005"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.26197419863412"",""osm_id"":183749378,""osm_type"":""way"",""place_id"":145636181,""type"":""place_of_worship""},""mode"":""autocomplete""},""description"":""Ecco dove a Forcella (Napoli) si raccolgono beni umanitari per l\u2019emergenza Ucraina e si offrono servizi di supporto ai profughi ucraini:\n\n- Gli studenti dell\u2019Istituto Comprensivo Adelaide Ristori (via L. D\u2019Alagno 16) stanno raccogliendo, insieme alle loro famiglie, aiuti per i profughi. Dopo averli raccolti all\u2019interno dell\u2019Istituto verranno consegnati ai centri di smistamento per raggiungere le popolazioni colpite dalla guerra. Gli studenti stanno anche preparando dei messaggi di solidariet\u00e0 per accogliere i bambini rifugiati.\n\n- Nella Chiesa di Santa Maria del Rifugio (via dei Tribunali 188), utilizzata dall\u2019Associazione Samb e Diop per l\u2019integrazione dei migranti, si fornisce assistenza e vestiario per i profughi provenienti dai paesi in guerra e si organizzano corsi di lingua italiana.\n\n- Nella Chiesa di Santa Maria della Pace (via dei Tribunali 181), affidata alla comunit\u00e0 ucraina di rito bizantino, ogni marted\u00ec e sabato dalle ore 9 alle ore 16 vengono raccolti alimenti a lunga conservazione, medicinali di prima necessit\u00e0, pannolini per bambini e prodotti per l\u2019igiene da spedire in Ucraina."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazioni di Forcella (Na)"",""recipients"":"""",""submit"":true,""title"":""Napoli, punti di raccolta beni e corsi di italiano per rifugiati ucraini a Forcella"",""type"":""materialGoods"",""url"":""http://www.napolicittasolidale.it/portal/news/11135-attivit%C3%A0-di-accoglienza-e-supporto-della-comunit%C3%A0-di-forcella-per-la-pace.html""}","<pre><yamldata>
 type: materialGoods
