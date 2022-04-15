@@ -1,4 +1,164 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/573,1198771363,2022-04-15 14:53:35,2022-04-09 21:07:27,Associazione Italo Ucraina di Puglia e Basilicata - Contatti,,,,,"[""Valid/Accettato"",""useful contact"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-75"",""city"":""Bari"",""country"":""Italia"",""country_code"":""it"",""county"":""Bari"",""postcode"":""70122"",""state"":""Puglia""},""boundingbox"":[""40.9657843"",""41.2857843"",""16.7020293"",""17.0220293""],""class"":""place"",""display_name"":""Bari, Puglia, 70122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7287183212532693,""lat"":""41.1257843"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.8620293"",""osm_id"":68528585,""osm_type"":""node"",""place_id"":285627565,""type"":""city""},""mode"":""autocomplete""},""aim"":""L\u2019associazione opera a Bari e Matera."",""email"":""associazione.ucraina.puglia@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 345 917 7441 (whatsapp)"",""submit"":true,""title"":""Associazione Italo Ucraina di Puglia e Basilicata - Contatti"",""url"":""https://www.facebook.com/Associazione-Italo-Ucraina-di-Puglia-e-Basilicata-680923138683726/""}","<pre><yamldata>
+title: Associazione Italo Ucraina di Puglia e Basilicata - Contatti
+phoneNumber: '+39 345 917 7441 (whatsapp)'
+email: associazione.ucraina.puglia@gmail.com
+aim: L’associazione opera a Bari e Matera.
+url: https://www.facebook.com/Associazione-Italo-Ucraina-di-Puglia-e-Basilicata-680923138683726/
+address:
+  mode: autocomplete
+  address:
+    place_id: 285627565
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 68528585
+    boundingbox:
+    - '40.9657843'
+    - '41.2857843'
+    - '16.7020293'
+    - '17.0220293'
+    lat: '41.1257843'
+    lon: '16.8620293'
+    display_name: Bari, Puglia, 70122, Italia
+    class: place
+    type: city
+    importance: 0.7287183212532693
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Bari
+      county: Bari
+      state: Puglia
+      ISO3166-2-lvl4: IT-75
+      postcode: '70122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/582,1199425304,2022-04-15 14:53:08,2022-04-11 05:46:57,Sul sito della Commissione europea informazioni e contatti per chi fugge dell'Ucraina e arriva nei paesi Ue (multilingue),,,,,"[""Valid/Accettato"",""useful contact"",""telegram-channel"",""tweet"",""Resources""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""BE-BRU"",""city"":""Bruxelles"",""country"":""Belgio"",""country_code"":""be"",""county"":""Brussel-Hoofdstad - Bruxelles-Capitale"",""municipality"":""Ville de Bruxelles - Stad Brussel"",""postcode"":""1000"",""region"":""R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest""},""boundingbox"":[""50.6865573"",""51.0065573"",""4.191697"",""4.511697""],""class"":""place"",""display_name"":""Bruxelles, Ville de Bruxelles - Stad Brussel, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, Belgio"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.777529645090779,""lat"":""50.8465573"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""4.351697"",""osm_id"":1635651356,""osm_type"":""node"",""place_id"":15145405,""type"":""city""},""mode"":""autocomplete""},""aim"":""\u0406\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u044f \u0434\u043b\u044f \u043b\u044e\u0434\u0435\u0439, \u044f\u043a\u0456 \u0442\u0456\u043a\u0430\u044e\u0442\u044c \u0432\u0456\u0434 \u0432\u0456\u0439\u043d\u0438 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456 - Informazioni per le persone in fuga dalla guerra in Ucraina in arrivo nei paesi dell'Unione europea, in diverse lingue anche in ucraino."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":false,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""EU Commission"",""url"":""https://ec.europa.eu/info/strategy/priorities-2019-2024/stronger-europe-world/eu-solidarity-ukraine/eu-assistance-ukraine/information-people-fleeing-war-ukraine_uk""}","<pre><yamldata>
+title: EU Commission
+phoneNumber: ''
+email: ''
+aim: Інформація для людей, які тікають від війни в Україні - Informazioni per le persone
+  in fuga dalla guerra in Ucraina in arrivo nei paesi dell'Unione europea, in diverse lingue anche in ucraino.
+url: https://ec.europa.eu/info/strategy/priorities-2019-2024/stronger-europe-world/eu-solidarity-ukraine/eu-assistance-ukraine/information-people-fleeing-war-ukraine_uk
+address:
+  mode: autocomplete
+  address:
+    place_id: 15145405
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 1635651356
+    boundingbox:
+    - '50.6865573'
+    - '51.0065573'
+    - '4.191697'
+    - '4.511697'
+    lat: '50.8465573'
+    lon: '4.351697'
+    display_name: Bruxelles, Ville de Bruxelles - Stad Brussel, Brussel-Hoofdstad
+      - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk
+      Gewest, 1000, Belgio
+    class: place
+    type: city
+    importance: 0.777529645090779
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Bruxelles
+      municipality: Ville de Bruxelles - Stad Brussel
+      county: Brussel-Hoofdstad - Bruxelles-Capitale
+      region: Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+      ISO3166-2-lvl4: BE-BRU
+      postcode: '1000'
+      country: Belgio
+      country_code: be
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: false
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/583,1199511149,2022-04-15 14:52:50,2022-04-11 07:24:30,Prefettura di Vicenza attiva email e offre online informazioni operative per chi arriva dall'Ucraina  ,45.63485905,11.40635425660249,Veneto,Vicenza,"[""Valid/Accettato"",""Services"",""Legal"",""useful contact"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.63485905 11.40635425660249"",""description"":""La prefettura di Vicenza pubblica sul proprio sito le informazioni utili a chi arriva e a chi ospita cittadini Ucraini a Vicenza. \u00c8 disponibile un documento in italiano, inglese, ucraino e russo ed un indirizzo mail per richiesta di ulteriori informazioni."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""http://www.prefettura.it/vicenza/contenuti/Informazioni_operative-13354424.htm"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""country"":""Italy"",""country_code"":""it"",""county"":""Vicenza"",""state"":""Veneto""},""boundingbox"":[""45.2551958"",""46.0144637"",""11.1361942"",""11.8362709""],""class"":""boundary"",""display_name"":""Vicenza, Veneto, Italy"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7401616861442906,""lat"":""45.63485905"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.40635425660249"",""osm_id"":44580,""osm_type"":""relation"",""place_id"":283543636,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Informazioni operative per chi arriva dall'Ucraina a Vicenza""}","<pre><yamldata>
+title: Informazioni operative per chi arriva dall'Ucraina a Vicenza
+description: 'La prefettura di Vicenza pubblica sul proprio sito le informazioni utili a chi arriva
+  e a chi ospita cittadini Ucraini a Vicenza.
+È disponibile un documento in italiano, inglese, ucraino e russo ed un indirizzo
+  mail per richiesta di ulteriori informazioni.'
+link: http://www.prefettura.it/vicenza/contenuti/Informazioni_operative-13354424.htm
+location:
+  mode: autocomplete
+  address:
+    place_id: 283543636
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 44580
+    boundingbox:
+    - '45.2551958'
+    - '46.0144637'
+    - '11.1361942'
+    - '11.8362709'
+    lat: '45.63485905'
+    lon: '11.40635425660249'
+    display_name: Vicenza, Veneto, Italy
+    class: boundary
+    type: administrative
+    importance: 0.7401616861442906
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Vicenza
+      state: Veneto
+      ISO3166-2-lvl4: IT-34
+      country: Italy
+      country_code: it
+label: document_data
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.63485905 11.40635425660249
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/594,1202190350,2022-04-15 14:52:07,2022-04-12 17:39:31,A Montecatini (Pistoia) Comitato Ucraina nel cuore cerca volontari che parlino ucraino/russo,43.883179,10.7709533,Toscana,Pistoia,"[""Valid/Accettato"",""Help"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""43.883179 10.7709533"",""description"":""A Montecatini (Pistoia) e nella Valdinievole il Comitato Ucraina nel cuore cerca volontari che parlino ucraino e russo per supportare il Comitato nelle attivit\u00e0 di aiuto ai profughi ucraini."",""email"":""associazioneucrainanelcuore@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""ISO3166-2-lvl6"":""IT-PT"",""country"":""Italia"",""country_code"":""it"",""county"":""Pistoia"",""postcode"":""51016"",""state"":""Toscana"",""town"":""Montecatini Terme"",""village"":""Margine Coperta""},""boundingbox"":[""43.8517748"",""43.9284771"",""10.757093"",""10.819836""],""class"":""boundary"",""display_name"":""Montecatini Terme, Margine Coperta, Pistoia, Toscana, 51016, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7974581770814606,""lat"":""43.883179"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.7709533"",""osm_id"":42692,""osm_type"":""relation"",""place_id"":284437552,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Comitato Ucraina nel cuore"",""phoneNumber"":""+39 392 220 4049"",""recipients"":"""",""submit"":true,""title"":""A Montecatini (Pistoia) Comitato Ucraina nel cuore cerca volontari che parlino ucraino/russo"",""url"":""https://www.facebook.com/105483508750058/posts/118171537481255/""}","<pre><yamldata>
+nameSurname: Comitato Ucraina nel cuore
+phoneNumber: +39 392 220 4049
+email: associazioneucrainanelcuore@gmail.com
+title: A Montecatini (Pistoia) Comitato Ucraina nel cuore cerca volontari che parlino
+  ucraino/russo
+recipients: ''
+description: A Montecatini (Pistoia) e nella Valdinievole il Comitato Ucraina nel
+  cuore cerca volontari che parlino ucraino e russo per supportare il Comitato nelle
+  attività di aiuto ai profughi ucraini.
+url: https://www.facebook.com/105483508750058/posts/118171537481255/
+location:
+  mode: autocomplete
+  address:
+    place_id: 284437552
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 42692
+    boundingbox:
+    - '43.8517748'
+    - '43.9284771'
+    - '10.757093'
+    - '10.819836'
+    lat: '43.883179'
+    lon: '10.7709533'
+    display_name: Montecatini Terme, Margine Coperta, Pistoia, Toscana, 51016, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7974581770814606
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      town: Montecatini Terme
+      village: Margine Coperta
+      county: Pistoia
+      ISO3166-2-lvl6: IT-PT
+      state: Toscana
+      ISO3166-2-lvl4: IT-52
+      postcode: '51016'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 43.883179 10.7709533
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/618,1205405861,2022-04-15 08:59:45,2022-04-15 08:55:12,"Inserimento scolastico dei bambini ucraini, sul sito del Ministero dell'istruzione attiva ricerca online delle scuole e centri di formazione professionale in Italia",,,,,"[""Valid/Accettato"",""News"",""Resources"",""education""]",,,"{""description"":""Attraverso il portale Cerca la tua scuola \u00e8 possibile individuare gli istituti scolastici o centri di formazione professionale pi\u00f9 vicini al proprio domicilio. In particolare si pu\u00f2: - cercare una scuola o un centro di formazione professionale regionale sul territorio nazionale; - conoscere tutte le informazioni disponibili sugli istituti scolastici di ogni ordine e grado e sui centri di formazione professionale ricercati; - mettere a confronto l\u2019offerta formativa delle scuole e dei centri di formazione selezionati; - accedere direttamente ad alcuni servizi legati alla ricerca di scuole come, per esempio, le \u201cIscrizione on-line\u201d."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://cercalatuascuola.istruzione.it/cercalatuascuola/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Per facilitare inserimento scolastico dei bambini ucraini Ministero dell'istruzione attiva ricerca online della scuola o centro di formazione professionale pi\u00f9 vicina al proprio domicilio""}","<pre><yamldata>
 title: Per facilitare inserimento scolastico dei bambini ucraini Ministero dell'istruzione
   attiva ricerca online della scuola o centro di formazione professionale più vicina
@@ -2300,51 +2460,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/594,1202190350,2022-04-12 20:52:49,2022-04-12 17:39:31,A Montecatini (Pistoia) Comitato Ucraina nel cuore cerca volontari che parlino ucraino/russo,43.883179,10.7709533,Toscana,Pistoia,"[""Valid/Accettato"",""Help""]",,,"{""Posizione"":""43.883179 10.7709533"",""description"":""A Montecatini (Pistoia) e nella Valdinievole il Comitato Ucraina nel cuore cerca volontari che parlino ucraino e russo per supportare il Comitato nelle attivit\u00e0 di aiuto ai profughi ucraini."",""email"":""associazioneucrainanelcuore@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""ISO3166-2-lvl6"":""IT-PT"",""country"":""Italia"",""country_code"":""it"",""county"":""Pistoia"",""postcode"":""51016"",""state"":""Toscana"",""town"":""Montecatini Terme"",""village"":""Margine Coperta""},""boundingbox"":[""43.8517748"",""43.9284771"",""10.757093"",""10.819836""],""class"":""boundary"",""display_name"":""Montecatini Terme, Margine Coperta, Pistoia, Toscana, 51016, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7974581770814606,""lat"":""43.883179"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.7709533"",""osm_id"":42692,""osm_type"":""relation"",""place_id"":284437552,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Comitato Ucraina nel cuore"",""phoneNumber"":""+39 392 220 4049"",""recipients"":"""",""submit"":true,""title"":""A Montecatini (Pistoia) Comitato Ucraina nel cuore cerca volontari che parlino ucraino/russo"",""url"":""https://www.facebook.com/105483508750058/posts/118171537481255/""}","<pre><yamldata>
-nameSurname: Comitato Ucraina nel cuore
-phoneNumber: +39 392 220 4049
-email: associazioneucrainanelcuore@gmail.com
-title: A Montecatini (Pistoia) Comitato Ucraina nel cuore cerca volontari che parlino
-  ucraino/russo
-recipients: ''
-description: A Montecatini (Pistoia) e nella Valdinievole il Comitato Ucraina nel
-  cuore cerca volontari che parlino ucraino e russo per supportare il Comitato nelle
-  attività di aiuto ai profughi ucraini.
-url: https://www.facebook.com/105483508750058/posts/118171537481255/
-location:
-  mode: autocomplete
-  address:
-    place_id: 284437552
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 42692
-    boundingbox:
-    - '43.8517748'
-    - '43.9284771'
-    - '10.757093'
-    - '10.819836'
-    lat: '43.883179'
-    lon: '10.7709533'
-    display_name: Montecatini Terme, Margine Coperta, Pistoia, Toscana, 51016, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7974581770814606
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      town: Montecatini Terme
-      village: Margine Coperta
-      county: Pistoia
-      ISO3166-2-lvl6: IT-PT
-      state: Toscana
-      ISO3166-2-lvl4: IT-52
-      postcode: '51016'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 43.883179 10.7709533
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/593,1202181810,2022-04-12 20:17:00,2022-04-12 17:33:03,Comitato Ucraina nel cuore di Montecatini (Pistoia) - Contatti,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address1"":""Via delle Padulette 23"",""address2"":"""",""city"":""Montecatini Terme"",""country"":""Italia "",""state"":"""",""zip"":""51016""},""mode"":""manual""},""aim"":""Offre supporto ai rifugiati ucraini a Montecatini e nella Valdinievole.\nInstagram https://www.instagram.com/comitatoucrainanelcuore/"",""email"":""associazioneucrainanelcuore@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 3922204049 (Irina)"",""submit"":true,""title"":""Comitato Ucraina nel cuore di Montecatini (Pistoia) - Contatti"",""url"":""https://www.facebook.com/ucrainanelcuore/""}","<pre><yamldata>
 title: Comitato Ucraina nel cuore di Montecatini (Pistoia) - Contatti
 phoneNumber: +39 3922204049 (Irina)
@@ -3136,84 +3251,6 @@ address:
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: useful contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/583,1199511149,2022-04-11 18:23:35,2022-04-11 07:24:30,Prefettura di Vicenza attiva email e offre online informazioni operative per chi arriva dall'Ucraina  ,45.63485905,11.40635425660249,Veneto,Vicenza,"[""Valid/Accettato"",""Services"",""Legal"",""useful contact""]",,,"{""Posizione"":""45.63485905 11.40635425660249"",""description"":""La prefettura di Vicenza pubblica sul proprio sito le informazioni utili a chi arriva e a chi ospita cittadini Ucraini a Vicenza. \u00c8 disponibile un documento in italiano, inglese, ucraino e russo ed un indirizzo mail per richiesta di ulteriori informazioni."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""http://www.prefettura.it/vicenza/contenuti/Informazioni_operative-13354424.htm"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""country"":""Italy"",""country_code"":""it"",""county"":""Vicenza"",""state"":""Veneto""},""boundingbox"":[""45.2551958"",""46.0144637"",""11.1361942"",""11.8362709""],""class"":""boundary"",""display_name"":""Vicenza, Veneto, Italy"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7401616861442906,""lat"":""45.63485905"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.40635425660249"",""osm_id"":44580,""osm_type"":""relation"",""place_id"":283543636,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Informazioni operative per chi arriva dall'Ucraina a Vicenza""}","<pre><yamldata>
-title: Informazioni operative per chi arriva dall'Ucraina a Vicenza
-description: 'La prefettura di Vicenza pubblica sul proprio sito le informazioni utili a chi arriva
-  e a chi ospita cittadini Ucraini a Vicenza.
-È disponibile un documento in italiano, inglese, ucraino e russo ed un indirizzo
-  mail per richiesta di ulteriori informazioni.'
-link: http://www.prefettura.it/vicenza/contenuti/Informazioni_operative-13354424.htm
-location:
-  mode: autocomplete
-  address:
-    place_id: 283543636
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 44580
-    boundingbox:
-    - '45.2551958'
-    - '46.0144637'
-    - '11.1361942'
-    - '11.8362709'
-    lat: '45.63485905'
-    lon: '11.40635425660249'
-    display_name: Vicenza, Veneto, Italy
-    class: boundary
-    type: administrative
-    importance: 0.7401616861442906
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      county: Vicenza
-      state: Veneto
-      ISO3166-2-lvl4: IT-34
-      country: Italy
-      country_code: it
-label: document_data
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 45.63485905 11.40635425660249
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/582,1199425304,2022-04-11 14:29:02,2022-04-11 05:46:57,Sul sito della Commissione europea informazioni e contatti per chi fugge dell'Ucraina e arriva nei paesi Ue (multilingue),,,,,"[""Valid/Accettato"",""useful contact"",""Resources""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""BE-BRU"",""city"":""Bruxelles"",""country"":""Belgio"",""country_code"":""be"",""county"":""Brussel-Hoofdstad - Bruxelles-Capitale"",""municipality"":""Ville de Bruxelles - Stad Brussel"",""postcode"":""1000"",""region"":""R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest""},""boundingbox"":[""50.6865573"",""51.0065573"",""4.191697"",""4.511697""],""class"":""place"",""display_name"":""Bruxelles, Ville de Bruxelles - Stad Brussel, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, Belgio"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.777529645090779,""lat"":""50.8465573"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""4.351697"",""osm_id"":1635651356,""osm_type"":""node"",""place_id"":15145405,""type"":""city""},""mode"":""autocomplete""},""aim"":""\u0406\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u044f \u0434\u043b\u044f \u043b\u044e\u0434\u0435\u0439, \u044f\u043a\u0456 \u0442\u0456\u043a\u0430\u044e\u0442\u044c \u0432\u0456\u0434 \u0432\u0456\u0439\u043d\u0438 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456 - Informazioni per le persone in fuga dalla guerra in Ucraina in arrivo nei paesi dell'Unione europea, in diverse lingue anche in ucraino."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":false,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""EU Commission"",""url"":""https://ec.europa.eu/info/strategy/priorities-2019-2024/stronger-europe-world/eu-solidarity-ukraine/eu-assistance-ukraine/information-people-fleeing-war-ukraine_uk""}","<pre><yamldata>
-title: EU Commission
-phoneNumber: ''
-email: ''
-aim: Інформація для людей, які тікають від війни в Україні - Informazioni per le persone
-  in fuga dalla guerra in Ucraina in arrivo nei paesi dell'Unione europea, in diverse lingue anche in ucraino.
-url: https://ec.europa.eu/info/strategy/priorities-2019-2024/stronger-europe-world/eu-solidarity-ukraine/eu-assistance-ukraine/information-people-fleeing-war-ukraine_uk
-address:
-  mode: autocomplete
-  address:
-    place_id: 15145405
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 1635651356
-    boundingbox:
-    - '50.6865573'
-    - '51.0065573'
-    - '4.191697'
-    - '4.511697'
-    lat: '50.8465573'
-    lon: '4.351697'
-    display_name: Bruxelles, Ville de Bruxelles - Stad Brussel, Brussel-Hoofdstad
-      - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk
-      Gewest, 1000, Belgio
-    class: place
-    type: city
-    importance: 0.777529645090779
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
-    address:
-      city: Bruxelles
-      municipality: Ville de Bruxelles - Stad Brussel
-      county: Brussel-Hoofdstad - Bruxelles-Capitale
-      region: Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
-      ISO3166-2-lvl4: BE-BRU
-      postcode: '1000'
-      country: Belgio
-      country_code: be
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: false
 label: useful contact
 submit: true
 </yamldata></pre>",open
@@ -4046,43 +4083,6 @@ address:
     address:
       county: Pavia
       state: Lombardia
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: useful contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/573,1198771363,2022-04-09 21:08:38,2022-04-09 21:07:27,Associazione Italo Ucraina di Puglia e Basilicata - Contatti,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-75"",""city"":""Bari"",""country"":""Italia"",""country_code"":""it"",""county"":""Bari"",""postcode"":""70122"",""state"":""Puglia""},""boundingbox"":[""40.9657843"",""41.2857843"",""16.7020293"",""17.0220293""],""class"":""place"",""display_name"":""Bari, Puglia, 70122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7287183212532693,""lat"":""41.1257843"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.8620293"",""osm_id"":68528585,""osm_type"":""node"",""place_id"":285627565,""type"":""city""},""mode"":""autocomplete""},""aim"":""L\u2019associazione opera a Bari e Matera."",""email"":""associazione.ucraina.puglia@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 345 917 7441 (whatsapp)"",""submit"":true,""title"":""Associazione Italo Ucraina di Puglia e Basilicata - Contatti"",""url"":""https://www.facebook.com/Associazione-Italo-Ucraina-di-Puglia-e-Basilicata-680923138683726/""}","<pre><yamldata>
-title: Associazione Italo Ucraina di Puglia e Basilicata - Contatti
-phoneNumber: '+39 345 917 7441 (whatsapp)'
-email: associazione.ucraina.puglia@gmail.com
-aim: L’associazione opera a Bari e Matera.
-url: https://www.facebook.com/Associazione-Italo-Ucraina-di-Puglia-e-Basilicata-680923138683726/
-address:
-  mode: autocomplete
-  address:
-    place_id: 285627565
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 68528585
-    boundingbox:
-    - '40.9657843'
-    - '41.2857843'
-    - '16.7020293'
-    - '17.0220293'
-    lat: '41.1257843'
-    lon: '16.8620293'
-    display_name: Bari, Puglia, 70122, Italia
-    class: place
-    type: city
-    importance: 0.7287183212532693
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
-    address:
-      city: Bari
-      county: Bari
-      state: Puglia
-      ISO3166-2-lvl4: IT-75
-      postcode: '70122'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
