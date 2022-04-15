@@ -1,4 +1,188 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/616,1204542201,2022-04-15 07:44:01,2022-04-14 13:37:55,Questura di Milano attiva indirizzo mail per rifugiati ucraini che vogliono presentare richiesta di protezione temporanea,,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""amenity"":""Questura di Milano"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""11"",""neighbourhood"":""Brera"",""postcode"":""20121"",""road"":""Via Fatebenefratelli"",""state"":""Lombardia"",""suburb"":""Municipio 1""},""boundingbox"":[""45.4731863"",""45.4732863"",""9.1921106"",""9.1922106""],""class"":""amenity"",""display_name"":""Questura di Milano, 11, Via Fatebenefratelli, Brera, Municipio 1, Milano, Lombardia, 20121, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//amenity_police2.p.20.png"",""importance"":0.31100000000000005,""lat"":""45.4732363"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1921606"",""osm_id"":3491226893,""osm_type"":""node"",""place_id"":43263520,""type"":""police""},""mode"":""autocomplete""},""aim"":""I rifugiati ucraini arrivati a Milano possono ricevere informazioni e presentare la richiesta di Permesso di soggiorno per \u2018Protezione temporanea\u2019 presso la Questura di Milano scrivendo e prendendo appuntamento al seguente indirizzo mail: immig.quest.mi.ucraina@pecps.poliziadistato.it\nNell\u2019email \u00e8 necessario indicare i dati personali (cognome, nome, luogo e data di nascita) del richiedente e dei figli \nminori che si presenteranno all\u2019appuntamento.\nAl link altre info sulla protezione temporanea e i documenti necessari per la richiesta"",""email"":""immig.quest.mi.ucraina@pecps.poliziadistato.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Questura di Milano attiva indirizzo mail per rifugiati ucraini che vogliono presentare richiesta di protezione temporanea"",""url"":""https://www.avsi.org/doc/992/a46ac36776f2485692fde715c1f0590d/""}","<pre><yamldata>
+title: Questura di Milano attiva indirizzo mail per rifugiati ucraini che vogliono
+  presentare richiesta di protezione temporanea
+phoneNumber: ''
+email: immig.quest.mi.ucraina@pecps.poliziadistato.it
+aim: ""I rifugiati ucraini arrivati a Milano possono ricevere informazioni e presentare\
+  \ la richiesta di Permesso di soggiorno per ‘Protezione temporanea’ presso la Questura\
+  \ di Milano scrivendo e prendendo appuntamento al seguente indirizzo mail: immig.quest.mi.ucraina@pecps.poliziadistato.it\n\
+  Nell’email è necessario indicare i dati personali (cognome, nome, luogo e data di\
+  \ nascita) del richiedente e dei figli \nminori che si presenteranno all’appuntamento.\n\
+  Al link altre info sulla protezione temporanea e i documenti necessari per la richiesta""
+url: https://www.avsi.org/doc/992/a46ac36776f2485692fde715c1f0590d/
+address:
+  mode: autocomplete
+  address:
+    place_id: 43263520
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 3491226893
+    boundingbox:
+    - '45.4731863'
+    - '45.4732863'
+    - '9.1921106'
+    - '9.1922106'
+    lat: '45.4732363'
+    lon: '9.1921606'
+    display_name: Questura di Milano, 11, Via Fatebenefratelli, Brera, Municipio 1,
+      Milano, Lombardia, 20121, Italia
+    class: amenity
+    type: police
+    importance: 0.31100000000000005
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//amenity_police2.p.20.png
+    address:
+      amenity: Questura di Milano
+      house_number: '11'
+      road: Via Fatebenefratelli
+      neighbourhood: Brera
+      suburb: Municipio 1
+      city: Milano
+      county: Milano
+      ISO3166-2-lvl6: IT-MI
+      state: Lombardia
+      postcode: '20121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/591,1201838859,2022-04-15 07:43:37,2022-04-12 13:18:13,"Accoglienza diffusa dei rifugiati ucraini, bando del Dipartimento Nazionale Protezione Civile (scadenza 22 aprile)",41.9039826,12.4719209,Lazio,Roma,"[""Valid/Accettato"",""News"",""hospitality"",""telegram-channel"",""tweet""]","Milestone(title=""22 aprile"", number=7)",,"{""Posizione"":""41.9039826 12.4719209"",""description"":""Offrire misure di accoglienza diffusa e di accompagnamento per l\u2019integrazione e l\u2019autonomia alle persone provenienti dall\u2019Ucraina.\n\nQuesto l\u2019oggetto dell\u2019avviso pubblicato oggi dal Dipartimento sulla base dell\u2019art. 1 dell\u2019Ocdpc n. 881 del 29 marzo 2022, con l\u2019obiettivo di acquisire le manifestazioni di interesse di rilievo nazionale da parte degli enti individuati dall\u2019art. 31 del decreto-legge n. 21 del 21 marzo 2022.\n\nI soggetti interessati potranno manifestare il proprio interesse entro le ore 18 del 22 aprile 2022 utilizzando la piattaforma https://avvisiebandi-emergenzaucraina.protezionecivile.gov.it\nPer ulteriori info vedi link."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.protezionecivile.gov.it/it/notizia/emergenza-ucraina-al-la-raccolta-delle-manifestazioni-dinteresse-laccoglienza-diffusa-delle-persone-provenienti-dallucraina-0"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""11"",""office"":""Dipartimento della Protezione Civile"",""postcode"":""00186"",""quarter"":""Prati"",""road"":""Via Ulpiano"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.9039326"",""41.9040326"",""12.4718709"",""12.4719709""],""class"":""office"",""display_name"":""Dipartimento della Protezione Civile, 11, Via Ulpiano, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia"",""importance"":0.42099999999999993,""lat"":""41.9039826"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4719209"",""osm_id"":5462543512,""osm_type"":""node"",""place_id"":59550508,""type"":""government""},""mode"":""autocomplete""},""submit"":true,""title"":""Accoglienza diffusa dei rifugiati ucraini, bando del Dipartimento della protezione civile (scadenza 22 aprile)""}","<pre><yamldata>
+title: Accoglienza diffusa dei rifugiati ucraini, bando del Dipartimento della protezione
+  civile (scadenza 22 aprile)
+description: 'Offrire misure di accoglienza diffusa e di accompagnamento per l’integrazione
+  e l’autonomia alle persone provenienti dall’Ucraina.
+
+
+  Questo l’oggetto dell’avviso pubblicato oggi dal Dipartimento sulla base dell’art.
+  1 dell’Ocdpc n. 881 del 29 marzo 2022, con l’obiettivo di acquisire le manifestazioni
+  di interesse di rilievo nazionale da parte degli enti individuati dall’art. 31 del
+  decreto-legge n. 21 del 21 marzo 2022.
+
+
+  I soggetti interessati potranno manifestare il proprio interesse entro le ore 18
+  del 22 aprile 2022 utilizzando la piattaforma https://avvisiebandi-emergenzaucraina.protezionecivile.gov.it
+
+  Per ulteriori info vedi link.'
+link: https://www.protezionecivile.gov.it/it/notizia/emergenza-ucraina-al-la-raccolta-delle-manifestazioni-dinteresse-laccoglienza-diffusa-delle-persone-provenienti-dallucraina-0
+location:
+  mode: autocomplete
+  address:
+    place_id: 59550508
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 5462543512
+    boundingbox:
+    - '41.9039326'
+    - '41.9040326'
+    - '12.4718709'
+    - '12.4719709'
+    lat: '41.9039826'
+    lon: '12.4719209'
+    display_name: Dipartimento della Protezione Civile, 11, Via Ulpiano, Prati, Municipio
+      Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
+    class: office
+    type: government
+    importance: 0.42099999999999993
+    address:
+      office: Dipartimento della Protezione Civile
+      house_number: '11'
+      road: Via Ulpiano
+      quarter: Prati
+      suburb: Municipio Roma I
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: 00186
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 41.9039826 12.4719209
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/599,1202402450,2022-04-15 07:43:14,2022-04-12 21:21:21,"A Prato e provincia, presso vari circoli Arci, raccolta di beni alimentari e biancheria per emergenza Ucraina ",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet""]","Milestone(title=""16 aprile"", number=3)",,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""city"":""Prato"",""country"":""Italia"",""country_code"":""it"",""county"":""Prato"",""postcode"":""59016"",""road"":""Via Roma"",""state"":""Toscana"",""suburb"":""Fontanelle""},""boundingbox"":[""43.84753"",""43.8476698"",""11.0747686"",""11.074994""],""class"":""highway"",""display_name"":""Via Roma, Fontanelle, Prato, Toscana, 59016, Italia"",""importance"":0.41000000000000003,""lat"":""43.8475568"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.0748914"",""osm_id"":175300490,""osm_type"":""way"",""place_id"":144268250,""type"":""secondary""},""mode"":""autocomplete""},""description"":""Nei circoli Arci di Cafaggio, Paperino, Poggio a Caiano, Carmignano, Galciana, Maliseti, Viaccia, Vaiano, Figline, La Macine, Mezzana e presso il Circolo Orsetti \u2013 Spazio AUT nel centro storico, \u00e8 attiva fino al 15 aprile una raccolta di beni di prima necessit\u00e0 per la popolazione ucraina. Sono richiesti: cibo in scatola e/o a lunga conservazione (pasta, riso, latte, pane in sacchetto, dryfood, acqua ecc.), biancheria intima nuova per ragazze e ragazzi tra i 5 e i 20 anni."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Arci Prato"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Prato e provincia, presso vari circoli Arci, raccolta di beni alimentari, cibo e biancheria per emergenza Ucraina"",""url"":""https://www.arciprato.it/2022/04/08/raccolta-generi-di-prima-necessita-per-lucraina/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Arci Prato
+title: A Prato e provincia, presso vari circoli Arci, raccolta di beni alimentari,
+  cibo e biancheria per emergenza Ucraina
+recipients: ''
+description: 'Nei circoli Arci di Cafaggio, Paperino, Poggio a Caiano, Carmignano,
+  Galciana, Maliseti, Viaccia, Vaiano, Figline, La Macine, Mezzana e presso il Circolo
+  Orsetti – Spazio AUT nel centro storico, è attiva fino al 15 aprile una raccolta
+  di beni di prima necessità per la popolazione ucraina. Sono richiesti: cibo in scatola
+  e/o a lunga conservazione (pasta, riso, latte, pane in sacchetto, dryfood, acqua
+  ecc.), biancheria intima nuova per ragazze e ragazzi tra i 5 e i 20 anni.'
+url: https://www.arciprato.it/2022/04/08/raccolta-generi-di-prima-necessita-per-lucraina/
+address:
+  mode: autocomplete
+  address:
+    place_id: 144268250
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 175300490
+    boundingbox:
+    - '43.84753'
+    - '43.8476698'
+    - '11.0747686'
+    - '11.074994'
+    lat: '43.8475568'
+    lon: '11.0748914'
+    display_name: Via Roma, Fontanelle, Prato, Toscana, 59016, Italia
+    class: highway
+    type: secondary
+    importance: 0.41000000000000003
+    address:
+      road: Via Roma
+      suburb: Fontanelle
+      city: Prato
+      county: Prato
+      state: Toscana
+      ISO3166-2-lvl4: IT-52
+      postcode: '59016'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/609,1203844234,2022-04-15 07:42:48,2022-04-13 22:19:36,Pubblicato l'avviso per raccogliere le disponibilità del terzo settore all'accoglienza diffusa dei rifugiati ucraini ,,,,,"[""Valid/Accettato"",""News"",""telegram-channel"",""tweet""]","Milestone(title=""23 aprile"", number=9)",,"{""description"":""Pubblicato l'avviso per l'acquisizione di manifestazioni d'interesse per lo svolgimento di attivit\u00e0 di accoglienza diffusa nel territorio nazionale a beneficio delle persone provenienti dall'Ucraina in fuga dagli eventi bellici in atto e l'accompagnamento per l\u2019integrazione e l\u2019autonomia alle persone provenienti dall\u2019Ucraina.\nQuesto l\u2019oggetto dell\u2019avviso pubblicato oggi dal Dipartimento sulla base dell\u2019art. 1 dell\u2019Ocdpc n. 881 del 29 marzo 2022, con l\u2019obiettivo di acquisire le manifestazioni di interesse di rilievo nazionale da parte degli enti individuati dall\u2019art. 31 del decreto-legge n. 21 del 21 marzo 2022.\nI soggetti interessati potranno manifestare il proprio interesse entro le ore 18:00 del 22 aprile 2022 utilizzando la piattaforma: https://avvisiebandi-emergenzaucraina.protezionecivile.gov.it."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.lavoro.gov.it/notizie/Pagine/Emergenza-Ucraina-al-via-la-raccolta-delle-manifestazioni-d-interesse-per-l-accoglienza-diffusa-delle-persone-provenienti.aspx"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Pubblicato l'avviso per raccogliere le disponibilit\u00e0 del terzo settore per l'accoglienza diffusa dei rifugiati ucraini""}","<pre><yamldata>
+title: Pubblicato l'avviso per raccogliere le disponibilità del terzo settore per
+  l'accoglienza diffusa dei rifugiati ucraini
+description: 'Pubblicato l''avviso per l''acquisizione di manifestazioni d''interesse
+  per lo svolgimento di attività di accoglienza diffusa nel territorio nazionale a
+  beneficio delle persone provenienti dall''Ucraina in fuga dagli eventi bellici in
+  atto e l''accompagnamento per l’integrazione e l’autonomia alle persone provenienti
+  dall’Ucraina.
+
+  Questo l’oggetto dell’avviso pubblicato oggi dal Dipartimento sulla base dell’art.
+  1 dell’Ocdpc n. 881 del 29 marzo 2022, con l’obiettivo di acquisire le manifestazioni
+  di interesse di rilievo nazionale da parte degli enti individuati dall’art. 31 del
+  decreto-legge n. 21 del 21 marzo 2022.
+
+  I soggetti interessati potranno manifestare il proprio interesse entro le ore 18:00
+  del 22 aprile 2022 utilizzando la piattaforma: https://avvisiebandi-emergenzaucraina.protezionecivile.gov.it.'
+link: https://www.lavoro.gov.it/notizie/Pagine/Emergenza-Ucraina-al-via-la-raccolta-delle-manifestazioni-d-interesse-per-l-accoglienza-diffusa-delle-persone-provenienti.aspx
+location:
+  mode: autocomplete
+  address: {}
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/81,1167338911,2022-04-15 05:28:15,2022-03-12 16:52:13,A Verona Associazione Malve di Ucraina cerca alloggi e professionisti per supporto rifugiati ucraini,45.4384958,10.9924122,Veneto,Verona,"[""Valid/Accettato"",""Help"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.4384958 10.9924122"",""description"":""A Verona l\u2019associazione Malve di Ucraina ha bisogno di raccogliere denaro per sostenere le spese di trasporto di beni umanitari. E poi cerca famiglie che possano ospitare i rifugiati ucraini in arrivo. Inoltre ha bisogno di professionisti che possano offrire supporto (in particolare mediatori linguistici, medici, insegnanti, parrucchieri) e aziende che offrano lavoro ai rifugiati."",""email"":""malve.verona@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Verona"",""country"":""Italia"",""country_code"":""it"",""county"":""Verona"",""postcode"":""37122"",""state"":""Veneto""},""boundingbox"":[""45.2784958"",""45.5984958"",""10.8324122"",""11.1524122""],""class"":""place"",""display_name"":""Verona, Veneto, 37122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7561573888828526,""lat"":""45.4384958"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.9924122"",""osm_id"":64778101,""osm_type"":""node"",""place_id"":286299859,""type"":""city""},""mode"":""autocomplete""},""nameSurname"":""Associazione Malve di Ucraina"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""A Verona Associazione Malve di Ucraina cerca alloggi e professionisti che possano supportare rifugiati ucraini"",""url"":""https://www.facebook.com/675754522486226/posts/5102255149836119/""}","<pre><yamldata>
 nameSurname: Associazione Malve di Ucraina
 phoneNumber: ''
@@ -1428,55 +1612,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 45.4509094 9.1874059
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/616,1204542201,2022-04-14 13:39:49,2022-04-14 13:37:55,Questura di Milano attiva indirizzo mail per rifugiati ucraini che vogliono presentare richiesta di protezione temporanea,,,,,"[""Valid/Accettato"",""Services"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""amenity"":""Questura di Milano"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""11"",""neighbourhood"":""Brera"",""postcode"":""20121"",""road"":""Via Fatebenefratelli"",""state"":""Lombardia"",""suburb"":""Municipio 1""},""boundingbox"":[""45.4731863"",""45.4732863"",""9.1921106"",""9.1922106""],""class"":""amenity"",""display_name"":""Questura di Milano, 11, Via Fatebenefratelli, Brera, Municipio 1, Milano, Lombardia, 20121, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//amenity_police2.p.20.png"",""importance"":0.31100000000000005,""lat"":""45.4732363"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1921606"",""osm_id"":3491226893,""osm_type"":""node"",""place_id"":43263520,""type"":""police""},""mode"":""autocomplete""},""aim"":""I rifugiati ucraini arrivati a Milano possono ricevere informazioni e presentare la richiesta di Permesso di soggiorno per \u2018Protezione temporanea\u2019 presso la Questura di Milano scrivendo e prendendo appuntamento al seguente indirizzo mail: immig.quest.mi.ucraina@pecps.poliziadistato.it\nNell\u2019email \u00e8 necessario indicare i dati personali (cognome, nome, luogo e data di nascita) del richiedente e dei figli \nminori che si presenteranno all\u2019appuntamento.\nAl link altre info sulla protezione temporanea e i documenti necessari per la richiesta"",""email"":""immig.quest.mi.ucraina@pecps.poliziadistato.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Questura di Milano attiva indirizzo mail per rifugiati ucraini che vogliono presentare richiesta di protezione temporanea"",""url"":""https://www.avsi.org/doc/992/a46ac36776f2485692fde715c1f0590d/""}","<pre><yamldata>
-title: Questura di Milano attiva indirizzo mail per rifugiati ucraini che vogliono
-  presentare richiesta di protezione temporanea
-phoneNumber: ''
-email: immig.quest.mi.ucraina@pecps.poliziadistato.it
-aim: ""I rifugiati ucraini arrivati a Milano possono ricevere informazioni e presentare\
-  \ la richiesta di Permesso di soggiorno per ‘Protezione temporanea’ presso la Questura\
-  \ di Milano scrivendo e prendendo appuntamento al seguente indirizzo mail: immig.quest.mi.ucraina@pecps.poliziadistato.it\n\
-  Nell’email è necessario indicare i dati personali (cognome, nome, luogo e data di\
-  \ nascita) del richiedente e dei figli \nminori che si presenteranno all’appuntamento.\n\
-  Al link altre info sulla protezione temporanea e i documenti necessari per la richiesta""
-url: https://www.avsi.org/doc/992/a46ac36776f2485692fde715c1f0590d/
-address:
-  mode: autocomplete
-  address:
-    place_id: 43263520
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 3491226893
-    boundingbox:
-    - '45.4731863'
-    - '45.4732863'
-    - '9.1921106'
-    - '9.1922106'
-    lat: '45.4732363'
-    lon: '9.1921606'
-    display_name: Questura di Milano, 11, Via Fatebenefratelli, Brera, Municipio 1,
-      Milano, Lombardia, 20121, Italia
-    class: amenity
-    type: police
-    importance: 0.31100000000000005
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//amenity_police2.p.20.png
-    address:
-      amenity: Questura di Milano
-      house_number: '11'
-      road: Via Fatebenefratelli
-      neighbourhood: Brera
-      suburb: Municipio 1
-      city: Milano
-      county: Milano
-      ISO3166-2-lvl6: IT-MI
-      state: Lombardia
-      postcode: '20121'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: useful contact
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/603,1203313414,2022-04-14 07:40:55,2022-04-13 13:35:51,ASILS - Associazione Scuole di Italiano come lingua seconda organizza 2 corsi online gratuiti per rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Meeting Place"",""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""1"",""postcode"":""00162"",""road"":""Piazza Bologna"",""state"":""Lazio"",""suburb"":""Municipio Roma II""},""boundingbox"":[""41.9136115"",""41.9137115"",""12.5213118"",""12.5214118""],""class"":""amenity"",""display_name"":""Meeting Place, 1, Piazza Bologna, Municipio Roma II, Roma, Roma Capitale, Lazio, 00162, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//food_cafe.p.20.png"",""importance"":0.5209999999999999,""lat"":""41.9136615"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.5213618"",""osm_id"":6495582227,""osm_type"":""node"",""place_id"":70676310,""type"":""cafe""},""mode"":""autocomplete""},""description"":""L\u2019ASILS (Associazione Scuole di Italiano come lingua seconda) propone 2 corsi online gratuiti aperti alle persone ucraine in fuga dalla guerra.\n\nI corsi a disposizione saranno due: un corso per \u201cPrincipanti Assoluti\u201d (per coloro che non hanno nessuna conoscenza dell\u2019italiano) e un corso \u201cA1\u201d (per coloro che hanno gi\u00e0 delle conoscenze minime di base della nostra lingua). I due corsi saranno strutturati con 3 incontri settimanali online di 1,5 ore ciascuno, per un totale di 4,5 ore settimanali, e avranno una durata di 3 mesi (12 settimane) ciascuno.\n\nPer accedere ai corsi che cominceranno il 20 04 2022, luned\u00ec mercoled\u00ec venerd\u00ec, orario 17.30-19, sar\u00e0 sufficiente iscriversi online (vedi link) per ottenere le credenziali di accesso al corso.\nLa pagina con le info e per iscriversi \u00e8 in lingua ucraina. \n\n\u0422\u043e\u043c\u0443 ASILS \u0437 \u0440\u0430\u0434\u0456\u0441\u0442\u044e \u0432\u0456\u0434\u043a\u0440\u0438\u0432\u0430\u0454 2 \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u0456 \u043e\u043d\u043b\u0430\u0439\u043d-\u043a\u0443\u0440\u0441\u0438, \u0434\u043e \u044f\u043a\u0438\u0445 \u043c\u043e\u0436\u043d\u0430 \u043b\u0435\u0433\u043a\u043e \u043e\u0442\u0440\u0438\u043c\u0430\u0442\u0438 \u0434\u043e\u0441\u0442\u0443\u043f \u0437\u0430 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u043e\u044e \u0406\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u0437 \u0431\u0443\u0434\u044c-\u044f\u043a\u043e\u0433\u043e \u043a\u0443\u0442\u043e\u0447\u043a\u0430 \u0406\u0442\u0430\u043b\u0456\u0457, \u0434\u0435 \u0432\u0438\u043c\u0443\u0448\u0435\u043d\u0456 \u043f\u0435\u0440\u0435\u0441\u0435\u043b\u0435\u043d\u0446\u0456 \u0437\u043c\u043e\u0436\u0443\u0442\u044c \u0437\u0456\u0431\u0440\u0430\u0442\u0438\u0441\u044f \u0440\u0430\u0437\u043e\u043c. \u0406\u043d\u0456\u0446\u0456\u0430\u0442\u0438\u0432\u0430 \u0441\u043f\u0440\u044f\u043c\u043e\u0432\u0430\u043d\u0430 \u043d\u0430 \u0448\u0438\u0440\u043e\u043a\u0435 \u043e\u0445\u043e\u043f\u043b\u0435\u043d\u043d\u044f \u043d\u0430\u0432\u0456\u0442\u044c \u0442\u0438\u0445 \u043b\u044e\u0434\u0435\u0439, \u044f\u043a\u0456 \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u044e\u0442\u044c \u0443 \u0440\u0430\u0439\u043e\u043d\u0430\u0445, \u0434\u0435 \u043c\u043e\u0432\u043d\u0456 \u043a\u0443\u0440\u0441\u0438 \u043d\u0435 \u043f\u0440\u043e\u0432\u043e\u0434\u044f\u0442\u044c\u0441\u044f \u043d\u0430\u0436\u0438\u0432\u043e.\n\u0429\u043e\u0431 \u043e\u0442\u0440\u0438\u043c\u0430\u0442\u0438 \u0434\u043e\u0441\u0442\u0443\u043f \u0434\u043e \u043a\u0443\u0440\u0441\u0456\u0432, \u044f\u043a\u0456 \u0440\u043e\u0437\u043f\u043e\u0447\u043d\u0443\u0442\u044c\u0441\u044f 20 04 2022 \u043f\u043e\u043d\u0435\u0434\u0456\u043b\u043e\u043a \u0441\u0435\u0440\u0435\u0434\u0430 \u043f\u2019\u044f\u0442\u043d\u0438\u0446\u044f 17-30-19, \u0434\u043e\u0441\u0442\u0430\u0442\u043d\u044c\u043e \u0431\u0443\u0434\u0435 \u0437\u0430\u0440\u0435\u0454\u0441\u0442\u0440\u0443\u0432\u0430\u0442\u0438\u0441\u044f \u043d\u0430 \u0446\u0456\u0439 \u0432\u0435\u0431-\u0441\u0442\u043e\u0440\u0456\u043d\u0446\u0456, \u0442\u0430 \u043e\u0442\u0440\u0438\u043c\u0430\u0442\u0438 \u043e\u0431\u043b\u0456\u043a\u043e\u0432\u0456 \u0434\u0430\u043d\u0456 \u0434\u043b\u044f \u0443\u0447\u0430\u0441\u0442\u0456 \u0432 \u043d\u0438\u0445 https://www.asils.it/per-ucraina/"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Asils"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""ASILS - Associazione Scuole di Italiano come lingua seconda organizza 2 corsi online gratuiti per le persone ucraine in fuga dalla guerra"",""url"":""https://www.asils.it/per-ucraina/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -1872,30 +2007,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",closed
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/609,1203844234,2022-04-13 22:20:57,2022-04-13 22:19:36,Pubblicato l'avviso per raccogliere le disponibilità del terzo settore all'accoglienza diffusa dei rifugiati ucraini ,,,,,"[""Valid/Accettato"",""News""]","Milestone(title=""23 aprile"", number=9)",,"{""description"":""Pubblicato l'avviso per l'acquisizione di manifestazioni d'interesse per lo svolgimento di attivit\u00e0 di accoglienza diffusa nel territorio nazionale a beneficio delle persone provenienti dall'Ucraina in fuga dagli eventi bellici in atto e l'accompagnamento per l\u2019integrazione e l\u2019autonomia alle persone provenienti dall\u2019Ucraina.\nQuesto l\u2019oggetto dell\u2019avviso pubblicato oggi dal Dipartimento sulla base dell\u2019art. 1 dell\u2019Ocdpc n. 881 del 29 marzo 2022, con l\u2019obiettivo di acquisire le manifestazioni di interesse di rilievo nazionale da parte degli enti individuati dall\u2019art. 31 del decreto-legge n. 21 del 21 marzo 2022.\nI soggetti interessati potranno manifestare il proprio interesse entro le ore 18:00 del 22 aprile 2022 utilizzando la piattaforma: https://avvisiebandi-emergenzaucraina.protezionecivile.gov.it."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.lavoro.gov.it/notizie/Pagine/Emergenza-Ucraina-al-via-la-raccolta-delle-manifestazioni-d-interesse-per-l-accoglienza-diffusa-delle-persone-provenienti.aspx"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Pubblicato l'avviso per raccogliere le disponibilit\u00e0 del terzo settore per l'accoglienza diffusa dei rifugiati ucraini""}","<pre><yamldata>
-title: Pubblicato l'avviso per raccogliere le disponibilità del terzo settore per
-  l'accoglienza diffusa dei rifugiati ucraini
-description: 'Pubblicato l''avviso per l''acquisizione di manifestazioni d''interesse
-  per lo svolgimento di attività di accoglienza diffusa nel territorio nazionale a
-  beneficio delle persone provenienti dall''Ucraina in fuga dagli eventi bellici in
-  atto e l''accompagnamento per l’integrazione e l’autonomia alle persone provenienti
-  dall’Ucraina.
-
-  Questo l’oggetto dell’avviso pubblicato oggi dal Dipartimento sulla base dell’art.
-  1 dell’Ocdpc n. 881 del 29 marzo 2022, con l’obiettivo di acquisire le manifestazioni
-  di interesse di rilievo nazionale da parte degli enti individuati dall’art. 31 del
-  decreto-legge n. 21 del 21 marzo 2022.
-
-  I soggetti interessati potranno manifestare il proprio interesse entro le ore 18:00
-  del 22 aprile 2022 utilizzando la piattaforma: https://avvisiebandi-emergenzaucraina.protezionecivile.gov.it.'
-link: https://www.lavoro.gov.it/notizie/Pagine/Emergenza-Ucraina-al-via-la-raccolta-delle-manifestazioni-d-interesse-per-l-accoglienza-diffusa-delle-persone-provenienti.aspx
-location:
-  mode: autocomplete
-  address: {}
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/595,1202201792,2022-04-13 17:27:13,2022-04-12 17:50:23,"Ordine degli avvocati dell'Ucraina all'estero attiva rappresentanze a Milano, Genova, Prato e Napoli e fornisce duplicati di documenti ucraini",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""useful contact"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Le rappresentanze dell'Ordine nazionale degli avvocati dell'Ucraina all'estero (NAAU) hanno iniziato ad aiutare con il rilascio di documenti ucraini duplicati per i rifugiati (vale a dire: nascita, matrimonio, divorzio e altri documenti del DRACS). Per ordinare un duplicato dei documenti \u00e8 necessario contattare gli uffici NAAU, fornire una copia del passaporto e indicare il documento che si desidera ricevere. Indirizzi degli uffici di rappresentanza al link https://unba.org.ua/foreign-representations (in Italia ci sono uffici di rappresentanza a Milano, Genova, Napoli e Prato). Costo del servizio \u20ac 40. Per coloro che non sono in grado di pagare il servizio, sar\u00e0 fornito gratuitamente. Maggiori informazioni sulla pagina Facebook.\n\u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043d\u0438\u0446\u0442\u0432\u0430 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0457 \u0430\u0441\u043e\u0446\u0456\u0430\u0446\u0456\u0457 \u0430\u0434\u0432\u043e\u043a\u0430\u0442\u0456\u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0438 \u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c \u043f\u043e\u0447\u0430\u043b\u0438 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0430\u0442\u0438 \u0437 \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u043d\u044f\u043c \u0434\u0443\u0431\u043b\u0456\u043a\u0430\u0442\u0456\u0432 \u0443\u043a\u0440\u0430\u0457\u043d\u044c\u0441\u043a\u0438\u0445 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0456\u0432 \u0434\u043b\u044f \u0431\u0456\u0436\u0435\u043d\u0446\u0456\u0432 (\u0430 \u0441\u0430\u043c\u043e: \u0441\u0432\u0456\u0434\u043e\u0446\u0442\u0432 \u043f\u0440\u043e \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f, \u0448\u043b\u044e\u0431, \u0440\u043e\u0437\u043b\u0443\u0447\u0435\u043d\u043d\u044f \u0442\u0430 \u0456\u043d\u0448\u0456\u0445 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0456\u0432 \u0414\u0420\u0410\u0426\u0421). \u0429\u043e\u0431 \u0437\u0430\u043c\u043e\u0432\u0438\u0442\u0438 \u0434\u0443\u0431\u043b\u0456\u043a\u0430\u0442 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0456\u0432, \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u043e \u0437\u0432\u0435\u0440\u043d\u0443\u0442\u0438\u0441\u044f \u0434\u043e \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043d\u0438\u0446\u0442\u0432 \u041d\u0410\u0410\u0423 (\u0412\u0410\u0416\u041b\u0418\u0412\u041e), \u043d\u0430\u0434\u0430\u0442\u0438 \u043a\u043e\u043f\u0456\u044e \u043f\u0430\u0441\u043f\u043e\u0440\u0442\u0430 \u0442\u0430 \u0432\u043a\u0430\u0437\u0430\u0442\u0438 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442, \u044f\u043a\u0438\u0439 \u0431\u0430\u0436\u0430\u0454\u0442\u0435 \u043e\u0442\u0440\u0438\u043c\u0430\u0442\u0438. \u0410\u0434\u0440\u0435\u0441\u0430 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043d\u0438\u0446\u0442\u0432 \u0437\u0430\u00a0\u043f\u043e\u0441\u0438\u043b\u0430\u043d\u043d\u044f\u043c https://unba.org.ua/foreign-representations\u00a0(\u0443 \u0406\u0442\u0430\u043b\u0456\u0457 \u043f\u0440\u0430\u0446\u044e\u044e\u0442\u044c \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043d\u0438\u0446\u0442\u0432\u0430 \u0432 \u041c\u0456\u043b\u0430\u043d\u0456, \u0413\u0435\u043d\u0443i, \u041d\u0435\u0430\u043f\u043e\u043b\u0456 \u0442\u0430 \u041f\u0440\u0430\u0442\u043e). \u0412\u0430\u0440\u0442\u0456\u0441\u0442\u044c \u0432\u0438\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u043d\u044f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0456\u0432 \u0437 \u0432\u0456\u0434\u043f\u0440\u0430\u0432\u043a\u043e\u044e \u0439 \u0430\u043f\u043e\u0441\u0442\u0438\u043b\u0435\u043c \u2015 \u20ac40. \u0414\u043b\u044f \u0442\u0438\u0445, \u0445\u0442\u043e \u043d\u0435 \u0432 \u0437\u043c\u043e\u0437\u0456 \u0441\u043f\u043b\u0430\u0442\u0438\u0442\u0438 \u0437\u0430 \u043f\u043e\u0441\u043b\u0443\u0433\u0443, \u0432\u043e\u043d\u0430 \u0431\u0443\u0434\u0435 \u043d\u0430\u0434\u0430\u0432\u0430\u0442\u0438\u0441\u044f \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u043e. \u0411\u0456\u043b\u044c\u0448 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u0457\u00a0\u043d\u0430 \u0441\u0442\u043e\u0440\u0456\u043d\u0446\u0456 \u041d\u0410\u0410\u0423 \u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c \u0443 Facebook."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ordine nazionale degli avvocati dell'Ucraina all'estero"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Ordine degli avvocati dell'Ucraina all'estero ha attivato rappresentanze a Milano, Genova, Prato e Napoli per duplicati di documenti ucraini"",""url"":""https://www.facebook.com/UNBA.Foreign/posts/1359640941207406""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -2190,63 +2301,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/599,1202402450,2022-04-12 21:40:26,2022-04-12 21:21:21,"A Prato e provincia, presso vari circoli Arci, raccolta di beni alimentari e biancheria per emergenza Ucraina ",,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]","Milestone(title=""16 aprile"", number=3)",,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""city"":""Prato"",""country"":""Italia"",""country_code"":""it"",""county"":""Prato"",""postcode"":""59016"",""road"":""Via Roma"",""state"":""Toscana"",""suburb"":""Fontanelle""},""boundingbox"":[""43.84753"",""43.8476698"",""11.0747686"",""11.074994""],""class"":""highway"",""display_name"":""Via Roma, Fontanelle, Prato, Toscana, 59016, Italia"",""importance"":0.41000000000000003,""lat"":""43.8475568"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.0748914"",""osm_id"":175300490,""osm_type"":""way"",""place_id"":144268250,""type"":""secondary""},""mode"":""autocomplete""},""description"":""Nei circoli Arci di Cafaggio, Paperino, Poggio a Caiano, Carmignano, Galciana, Maliseti, Viaccia, Vaiano, Figline, La Macine, Mezzana e presso il Circolo Orsetti \u2013 Spazio AUT nel centro storico, \u00e8 attiva fino al 15 aprile una raccolta di beni di prima necessit\u00e0 per la popolazione ucraina. Sono richiesti: cibo in scatola e/o a lunga conservazione (pasta, riso, latte, pane in sacchetto, dryfood, acqua ecc.), biancheria intima nuova per ragazze e ragazzi tra i 5 e i 20 anni."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Arci Prato"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Prato e provincia, presso vari circoli Arci, raccolta di beni alimentari, cibo e biancheria per emergenza Ucraina"",""url"":""https://www.arciprato.it/2022/04/08/raccolta-generi-di-prima-necessita-per-lucraina/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Arci Prato
-title: A Prato e provincia, presso vari circoli Arci, raccolta di beni alimentari,
-  cibo e biancheria per emergenza Ucraina
-recipients: ''
-description: 'Nei circoli Arci di Cafaggio, Paperino, Poggio a Caiano, Carmignano,
-  Galciana, Maliseti, Viaccia, Vaiano, Figline, La Macine, Mezzana e presso il Circolo
-  Orsetti – Spazio AUT nel centro storico, è attiva fino al 15 aprile una raccolta
-  di beni di prima necessità per la popolazione ucraina. Sono richiesti: cibo in scatola
-  e/o a lunga conservazione (pasta, riso, latte, pane in sacchetto, dryfood, acqua
-  ecc.), biancheria intima nuova per ragazze e ragazzi tra i 5 e i 20 anni.'
-url: https://www.arciprato.it/2022/04/08/raccolta-generi-di-prima-necessita-per-lucraina/
-address:
-  mode: autocomplete
-  address:
-    place_id: 144268250
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 175300490
-    boundingbox:
-    - '43.84753'
-    - '43.8476698'
-    - '11.0747686'
-    - '11.074994'
-    lat: '43.8475568'
-    lon: '11.0748914'
-    display_name: Via Roma, Fontanelle, Prato, Toscana, 59016, Italia
-    class: highway
-    type: secondary
-    importance: 0.41000000000000003
-    address:
-      road: Via Roma
-      suburb: Fontanelle
-      city: Prato
-      county: Prato
-      state: Toscana
-      ISO3166-2-lvl4: IT-52
-      postcode: '59016'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/594,1202190350,2022-04-12 20:52:49,2022-04-12 17:39:31,A Montecatini (Pistoia) Comitato Ucraina nel cuore cerca volontari che parlino ucraino/russo,43.883179,10.7709533,Toscana,Pistoia,"[""Valid/Accettato"",""Help""]",,,"{""Posizione"":""43.883179 10.7709533"",""description"":""A Montecatini (Pistoia) e nella Valdinievole il Comitato Ucraina nel cuore cerca volontari che parlino ucraino e russo per supportare il Comitato nelle attivit\u00e0 di aiuto ai profughi ucraini."",""email"":""associazioneucrainanelcuore@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""ISO3166-2-lvl6"":""IT-PT"",""country"":""Italia"",""country_code"":""it"",""county"":""Pistoia"",""postcode"":""51016"",""state"":""Toscana"",""town"":""Montecatini Terme"",""village"":""Margine Coperta""},""boundingbox"":[""43.8517748"",""43.9284771"",""10.757093"",""10.819836""],""class"":""boundary"",""display_name"":""Montecatini Terme, Margine Coperta, Pistoia, Toscana, 51016, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7974581770814606,""lat"":""43.883179"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.7709533"",""osm_id"":42692,""osm_type"":""relation"",""place_id"":284437552,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Comitato Ucraina nel cuore"",""phoneNumber"":""+39 392 220 4049"",""recipients"":"""",""submit"":true,""title"":""A Montecatini (Pistoia) Comitato Ucraina nel cuore cerca volontari che parlino ucraino/russo"",""url"":""https://www.facebook.com/105483508750058/posts/118171537481255/""}","<pre><yamldata>
 nameSurname: Comitato Ucraina nel cuore
 phoneNumber: +39 392 220 4049
@@ -2368,60 +2422,6 @@ location:
 label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/591,1201838859,2022-04-12 13:34:39,2022-04-12 13:18:13,"Accoglienza diffusa dei rifugiati ucraini, bando del Dipartimento Nazionale Protezione Civile (scadenza 22 aprile)",41.9039826,12.4719209,Lazio,Roma,"[""Valid/Accettato"",""News"",""hospitality""]","Milestone(title=""22 aprile"", number=7)",,"{""Posizione"":""41.9039826 12.4719209"",""description"":""Offrire misure di accoglienza diffusa e di accompagnamento per l\u2019integrazione e l\u2019autonomia alle persone provenienti dall\u2019Ucraina.\n\nQuesto l\u2019oggetto dell\u2019avviso pubblicato oggi dal Dipartimento sulla base dell\u2019art. 1 dell\u2019Ocdpc n. 881 del 29 marzo 2022, con l\u2019obiettivo di acquisire le manifestazioni di interesse di rilievo nazionale da parte degli enti individuati dall\u2019art. 31 del decreto-legge n. 21 del 21 marzo 2022.\n\nI soggetti interessati potranno manifestare il proprio interesse entro le ore 18 del 22 aprile 2022 utilizzando la piattaforma https://avvisiebandi-emergenzaucraina.protezionecivile.gov.it\nPer ulteriori info vedi link."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.protezionecivile.gov.it/it/notizia/emergenza-ucraina-al-la-raccolta-delle-manifestazioni-dinteresse-laccoglienza-diffusa-delle-persone-provenienti-dallucraina-0"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""11"",""office"":""Dipartimento della Protezione Civile"",""postcode"":""00186"",""quarter"":""Prati"",""road"":""Via Ulpiano"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.9039326"",""41.9040326"",""12.4718709"",""12.4719709""],""class"":""office"",""display_name"":""Dipartimento della Protezione Civile, 11, Via Ulpiano, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia"",""importance"":0.42099999999999993,""lat"":""41.9039826"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4719209"",""osm_id"":5462543512,""osm_type"":""node"",""place_id"":59550508,""type"":""government""},""mode"":""autocomplete""},""submit"":true,""title"":""Accoglienza diffusa dei rifugiati ucraini, bando del Dipartimento della protezione civile (scadenza 22 aprile)""}","<pre><yamldata>
-title: Accoglienza diffusa dei rifugiati ucraini, bando del Dipartimento della protezione
-  civile (scadenza 22 aprile)
-description: 'Offrire misure di accoglienza diffusa e di accompagnamento per l’integrazione
-  e l’autonomia alle persone provenienti dall’Ucraina.
-
-
-  Questo l’oggetto dell’avviso pubblicato oggi dal Dipartimento sulla base dell’art.
-  1 dell’Ocdpc n. 881 del 29 marzo 2022, con l’obiettivo di acquisire le manifestazioni
-  di interesse di rilievo nazionale da parte degli enti individuati dall’art. 31 del
-  decreto-legge n. 21 del 21 marzo 2022.
-
-
-  I soggetti interessati potranno manifestare il proprio interesse entro le ore 18
-  del 22 aprile 2022 utilizzando la piattaforma https://avvisiebandi-emergenzaucraina.protezionecivile.gov.it
-
-  Per ulteriori info vedi link.'
-link: https://www.protezionecivile.gov.it/it/notizia/emergenza-ucraina-al-la-raccolta-delle-manifestazioni-dinteresse-laccoglienza-diffusa-delle-persone-provenienti-dallucraina-0
-location:
-  mode: autocomplete
-  address:
-    place_id: 59550508
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 5462543512
-    boundingbox:
-    - '41.9039326'
-    - '41.9040326'
-    - '12.4718709'
-    - '12.4719709'
-    lat: '41.9039826'
-    lon: '12.4719209'
-    display_name: Dipartimento della Protezione Civile, 11, Via Ulpiano, Prati, Municipio
-      Roma I, Roma, Roma Capitale, Lazio, 00186, Italia
-    class: office
-    type: government
-    importance: 0.42099999999999993
-    address:
-      office: Dipartimento della Protezione Civile
-      house_number: '11'
-      road: Via Ulpiano
-      quarter: Prati
-      suburb: Municipio Roma I
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      postcode: 00186
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 41.9039826 12.4719209
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/550,1198543213,2022-04-12 09:28:49,2022-04-09 11:36:44,Consolato Ucraina nella Repubblica di San Marino - Contatti,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""country"":""San Marino"",""country_code"":""sm""},""boundingbox"":[""43.893632"",""43.992093"",""12.4033246"",""12.516202""],""class"":""boundary"",""display_name"":""San Marino"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8593263756585181,""lat"":""43.9458623"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.458306"",""osm_id"":54624,""osm_type"":""relation"",""place_id"":284622582,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Indirizzo: Contr. Borgoloto, n.17/23, San Marino\nOrari di apertura Marted\u00ec: 10.30 - 12.30, Gioved\u00ec: 10.30 - 12.30\nPagina Facebook: https://www.facebook.com/share.php?u=https%3A%2F%2Fitaly.mfa.gov.ua%2Fit%2Fembassy%2F5283-pochesne-konsulystvo-ukrajini-v-sanmarino\nTwitter: https://twitter.com/intent/tweet?url=https%3A%2F%2Fitaly.mfa.gov.ua%2Fit%2Fembassy%2F5283-pochesne-konsulystvo-ukrajini-v-sanmarino"",""email"":""consolatoucrainarsm@alice.sm"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 0549879420"",""submit"":true,""title"":""Consolato onorario d'Ucraina nella Repubblica di San Marino - Contatto utile"",""url"":""https://italy.mfa.gov.ua/it/embassy/5283-pochesne-konsulystvo-ukrajini-v-sanmarino""}","<pre><yamldata>
 title: Consolato onorario d'Ucraina nella Repubblica di San Marino - Contatto utile
