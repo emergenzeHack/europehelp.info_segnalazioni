@@ -1,4 +1,155 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/81,1167338911,2022-04-15 05:28:15,2022-03-12 16:52:13,A Verona Associazione Malve di Ucraina cerca alloggi e professionisti per supporto rifugiati ucraini,45.4384958,10.9924122,Veneto,Verona,"[""Valid/Accettato"",""Help"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.4384958 10.9924122"",""description"":""A Verona l\u2019associazione Malve di Ucraina ha bisogno di raccogliere denaro per sostenere le spese di trasporto di beni umanitari. E poi cerca famiglie che possano ospitare i rifugiati ucraini in arrivo. Inoltre ha bisogno di professionisti che possano offrire supporto (in particolare mediatori linguistici, medici, insegnanti, parrucchieri) e aziende che offrano lavoro ai rifugiati."",""email"":""malve.verona@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Verona"",""country"":""Italia"",""country_code"":""it"",""county"":""Verona"",""postcode"":""37122"",""state"":""Veneto""},""boundingbox"":[""45.2784958"",""45.5984958"",""10.8324122"",""11.1524122""],""class"":""place"",""display_name"":""Verona, Veneto, 37122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7561573888828526,""lat"":""45.4384958"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.9924122"",""osm_id"":64778101,""osm_type"":""node"",""place_id"":286299859,""type"":""city""},""mode"":""autocomplete""},""nameSurname"":""Associazione Malve di Ucraina"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""A Verona Associazione Malve di Ucraina cerca alloggi e professionisti che possano supportare rifugiati ucraini"",""url"":""https://www.facebook.com/675754522486226/posts/5102255149836119/""}","<pre><yamldata>
+nameSurname: Associazione Malve di Ucraina
+phoneNumber: ''
+email: malve.verona@gmail.com
+title: A Verona Associazione Malve di Ucraina cerca alloggi e professionisti che possano
+  supportare rifugiati ucraini
+recipients: ''
+description: A Verona l’associazione Malve di Ucraina ha bisogno di raccogliere denaro
+  per sostenere le spese di trasporto di beni umanitari. E poi cerca famiglie che
+  possano ospitare i rifugiati ucraini in arrivo. Inoltre ha bisogno di professionisti
+  che possano offrire supporto (in particolare mediatori linguistici, medici, insegnanti,
+  parrucchieri) e aziende che offrano lavoro ai rifugiati.
+url: https://www.facebook.com/675754522486226/posts/5102255149836119/
+location:
+  mode: autocomplete
+  address:
+    place_id: 286299859
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 64778101
+    boundingbox:
+    - '45.2784958'
+    - '45.5984958'
+    - '10.8324122'
+    - '11.1524122'
+    lat: '45.4384958'
+    lon: '10.9924122'
+    display_name: Verona, Veneto, 37122, Italia
+    class: place
+    type: city
+    importance: 0.7561573888828526
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Verona
+      county: Verona
+      state: Veneto
+      postcode: '37122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 45.4384958 10.9924122
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/104,1167407569,2022-04-15 05:27:49,2022-03-12 21:35:48,A Roma la Chiesa di Santa Sofia cerca medici e studenti di medicina per selezionare e inscatolare farmaci,41.91169555,12.397510616030669,Lazio,Roma,"[""Valid/Accettato"",""Help"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""41.91169555 12.397510616030669"",""description"":""A Roma la Chiesa di Santa Sofia cerca medici, specializzandi e studenti di medicina per selezionare e suddividere per tipologie i medicinali raccolti e preparare le scatole da inviare in Ucraina."",""email"":""basilicadisantasofia@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""amenity"":""Basilica di Santa Sofia"",""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""478"",""postcode"":""00166"",""road"":""Via di Boccea"",""state"":""Lazio"",""suburb"":""Municipio Roma XIII""},""boundingbox"":[""41.911607"",""41.9117849"",""12.3973441"",""12.3976718""],""class"":""amenity"",""display_name"":""Basilica di Santa Sofia, 478, Via di Boccea, Municipio Roma XIII, Roma, Roma Capitale, Lazio, 00166, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//place_of_worship_unknown3.p.20.png"",""importance"":0.511,""lat"":""41.91169555"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.397510616030669"",""osm_id"":380373490,""osm_type"":""way"",""place_id"":189984097,""type"":""place_of_worship""},""mode"":""autocomplete""},""nameSurname"":""Basilica di Santa Sofia Roma"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""A Roma la Chiesa di Santa Sofia cerca medici e studenti di medicina per selezionare e inscatolare farmaci"",""url"":""https://www.facebook.com/100000516996321/posts/5658514257509085/""}","<pre><yamldata>
+nameSurname: Basilica di Santa Sofia Roma
+phoneNumber: ''
+email: basilicadisantasofia@gmail.com
+title: A Roma la Chiesa di Santa Sofia cerca medici e studenti di medicina per selezionare
+  e inscatolare farmaci
+recipients: ''
+description: A Roma la Chiesa di Santa Sofia cerca medici, specializzandi e studenti
+  di medicina per selezionare e suddividere per tipologie i medicinali raccolti e
+  preparare le scatole da inviare in Ucraina.
+url: https://www.facebook.com/100000516996321/posts/5658514257509085/
+location:
+  mode: autocomplete
+  address:
+    place_id: 189984097
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 380373490
+    boundingbox:
+    - '41.911607'
+    - '41.9117849'
+    - '12.3973441'
+    - '12.3976718'
+    lat: '41.91169555'
+    lon: '12.397510616030669'
+    display_name: Basilica di Santa Sofia, 478, Via di Boccea, Municipio Roma XIII,
+      Roma, Roma Capitale, Lazio, 00166, Italia
+    class: amenity
+    type: place_of_worship
+    importance: 0.511
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//place_of_worship_unknown3.p.20.png
+    address:
+      amenity: Basilica di Santa Sofia
+      house_number: '478'
+      road: Via di Boccea
+      suburb: Municipio Roma XIII
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: '00166'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 41.91169555 12.397510616030669
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/154,1170200396,2022-04-15 05:26:56,2022-03-15 20:25:58,Regione Abruzzo cerca mediatori linguistici e famiglie per accoglienza minori ucraini soli o con famiglia,42.365814400000005,13.374276790275314,Abruzzo,L'Aquila,"[""Valid/Accettato"",""Help"",""hospitality"",""translation"",""job"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""42.365814400000005 13.374276790275314"",""description"":""La Garante dell\u2019Infanzia e dell\u2019Adolescenza della Regione Abruzzo, d\u2019intesa con il Prefetto de L\u2019Aquila e sentito il Presidente del Tribunale de L\u2019Aquila, ha avviato, unitamente alle Caritas Diocesane di L\u2019Aquila, Chieti-Vasto e Teramo, una ricognizione finalizzata alla raccolta delle disponibilit\u00e0 di nuclei famigliari residenti in Abruzzo, all\u2019accoglienza temporanea dei minori non accompagnati e/o delle famiglie con minori in fuga dalle zone del conflitto dell\u2019Ucraina, nonch\u00e9 alla formazione di un elenco di mediatori culturali e linguistici, con il compito di facilitare gli ingressi in famiglia.\nA tal fine chiunque fosse disponibile ad accogliere dei minori o famiglie con minori, per un periodo da definire caso per caso o facilitare, nel ruolo di mediatore culturale, il percorso di inserimento, pu\u00f2 manifestare la propria disponibilit\u00e0 attraverso la compilazione di uno dei due allegati moduli (mediatori culturali o famiglie e singoli) da inviare all\u2019indirizzo di posta elettronica ucraina.garanteinfanzia@crabruzzo.it unitamente ad documento di identit\u00e0 in corso di validit\u00e0.\nAl link i moduli da compilare e ulteriori info."",""email"":""ucraina.garanteinfanzia@crabruzzo.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""building"":""Palazzo Silone"",""city"":""L'Aquila"",""country"":""Italia"",""country_code"":""it"",""county"":""L'Aquila"",""house_number"":""6"",""neighbourhood"":""Contrada Romani"",""postcode"":""67100"",""road"":""Via Leonardo da Vinci"",""state"":""Abruzzo""},""boundingbox"":[""42.365538"",""42.3661063"",""13.3737095"",""13.3747562""],""class"":""building"",""display_name"":""Palazzo Silone, 6, Via Leonardo da Vinci, Contrada Romani, L'Aquila, Abruzzo, 67100, Italia"",""importance"":1.1354342386327727,""lat"":""42.365814400000005"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.374276790275314"",""osm_id"":591326251,""osm_type"":""way"",""place_id"":225266677,""type"":""yes""},""mode"":""autocomplete""},""nameSurname"":""Garante Infanzia Regione Abruzzo"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Regione Abruzzo cerca mediatori linguistici e famiglie per accoglienza minori ucraini soli o con famiglia"",""url"":""https://m.provincia.teramo.it/sala-stampa/emergenza-ucraina-la-regione-abruzzo-cerca-famiglie-volontarie-per-l2019accoglienza-e-mediatori-linguistici/""}","<pre><yamldata>
+nameSurname: Garante Infanzia Regione Abruzzo
+phoneNumber: ''
+email: ucraina.garanteinfanzia@crabruzzo.it
+title: Regione Abruzzo cerca mediatori linguistici e famiglie per accoglienza minori
+  ucraini soli o con famiglia
+recipients: ''
+description: 'La Garante dell’Infanzia e dell’Adolescenza della Regione Abruzzo, d’intesa
+  con il Prefetto de L’Aquila e sentito il Presidente del Tribunale de L’Aquila, ha
+  avviato, unitamente alle Caritas Diocesane di L’Aquila, Chieti-Vasto e Teramo, una
+  ricognizione finalizzata alla raccolta delle disponibilità di nuclei famigliari
+  residenti in Abruzzo, all’accoglienza temporanea dei minori non accompagnati e/o
+  delle famiglie con minori in fuga dalle zone del conflitto dell’Ucraina, nonché
+  alla formazione di un elenco di mediatori culturali e linguistici, con il compito
+  di facilitare gli ingressi in famiglia.
+
+  A tal fine chiunque fosse disponibile ad accogliere dei minori o famiglie con minori,
+  per un periodo da definire caso per caso o facilitare, nel ruolo di mediatore culturale,
+  il percorso di inserimento, può manifestare la propria disponibilità attraverso
+  la compilazione di uno dei due allegati moduli (mediatori culturali o famiglie e
+  singoli) da inviare all’indirizzo di posta elettronica ucraina.garanteinfanzia@crabruzzo.it
+  unitamente ad documento di identità in corso di validità.
+
+  Al link i moduli da compilare e ulteriori info.'
+url: https://m.provincia.teramo.it/sala-stampa/emergenza-ucraina-la-regione-abruzzo-cerca-famiglie-volontarie-per-l2019accoglienza-e-mediatori-linguistici/
+location:
+  mode: autocomplete
+  address:
+    place_id: 225266677
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 591326251
+    boundingbox:
+    - '42.365538'
+    - '42.3661063'
+    - '13.3737095'
+    - '13.3747562'
+    lat: '42.365814400000005'
+    lon: '13.374276790275314'
+    display_name: Palazzo Silone, 6, Via Leonardo da Vinci, Contrada Romani, L'Aquila,
+      Abruzzo, 67100, Italia
+    class: building
+    type: 'yes'
+    importance: 1.1354342386327727
+    address:
+      building: Palazzo Silone
+      house_number: '6'
+      road: Via Leonardo da Vinci
+      neighbourhood: Contrada Romani
+      city: L'Aquila
+      county: L'Aquila
+      state: Abruzzo
+      postcode: '67100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 42.365814400000005 13.374276790275314
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/115,1167592765,2022-04-14 15:34:22,2022-03-13 14:14:32,"Trento, l'associazione Rasom raccoglie beni e farmaci per emergenza Ucraina e cerca volontari",,,,,"[""Valid/Accettato"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""building"":""Scuola dell'infanzia di Albiano"",""country"":""Italia"",""country_code"":""it"",""county"":""Provincia di Trento"",""hamlet"":""Barco di Sopra"",""house_number"":""22"",""municipality"":""Comunit\u00e0 della Valle di Cembra"",""postcode"":""38041"",""road"":""Via Sant'Antonio"",""state"":""Trentino-Alto Adige"",""village"":""Albiano""},""boundingbox"":[""46.1449428"",""46.1451562"",""11.1940841"",""11.1944903""],""class"":""building"",""display_name"":""Scuola dell'infanzia di Albiano, 22, Via Sant'Antonio, Barco di Sopra, Albiano, Comunit\u00e0 della Valle di Cembra, Provincia di Trento, Trentino-Alto Adige, 38041, Italia"",""importance"":0.511,""lat"":""46.1450495"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.194287191070053"",""osm_id"":103129729,""osm_type"":""way"",""place_id"":123863279,""type"":""kindergarten""},""mode"":""autocomplete""},""description"":""Per la situazione in Ucraina, l'Associazione RASOM organizza una raccolta di beni di prima necessit\u00e0, presso la sede di via Sant\u2019Antonio, 22 a Trento (tutti i giorni dalle 19 alle 21 - orario provvisorio).\nAl link l'elenco dei beni e farmaci di cui c'\u00e8 bisogno.\nInoltre chi vuole dare la propria disponibilit\u00e0 ad aiutare come volontario e per informazioni sugli orari aggiornati pu\u00f2 contattare i seguenti numeri di telefono: \nVozna Halyna: cell. 3479419883\nOlha Vozna: cell. 3204548504\nKalapach Oleksandra: cell. 3488831652"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Rasom -Associazione Ucraini in Trentino"",""recipients"":"""",""submit"":true,""title"":""Trento, l'associazione Rasom raccoglie beni e farmaci per emergenza Ucraina e cerca volontari"",""type"":""materialGoods"",""url"":""https://webmagazine.unitn.it/news/ateneo/105101/associazione-culturale-degli-ucraini-in-trentino-rasom-aps""}","<pre><yamldata>
 type: materialGoods
 offerFromWho: Rasom -Associazione Ucraini in Trentino
@@ -835,50 +986,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: help
 submit: true
 Posizione: 44.8515877 7.7222716
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/81,1167338911,2022-04-14 15:23:18,2022-03-12 16:52:13,A Verona Associazione Malve di Ucraina cerca alloggi e professionisti per supporto rifugiati ucraini,45.4384958,10.9924122,Veneto,Verona,"[""Valid/Accettato"",""Help"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.4384958 10.9924122"",""description"":""A Verona l\u2019associazione Malve di Ucraina ha bisogno di raccogliere denaro per sostenere le spese di trasporto di beni umanitari. E poi cerca famiglie che possano ospitare i rifugiati ucraini in arrivo. Inoltre ha bisogno di professionisti che possano offrire supporto (in particolare mediatori linguistici, medici, insegnanti, parrucchieri) e aziende che offrano lavoro ai rifugiati."",""email"":""malve.verona@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Verona"",""country"":""Italia"",""country_code"":""it"",""county"":""Verona"",""postcode"":""37122"",""state"":""Veneto""},""boundingbox"":[""45.2784958"",""45.5984958"",""10.8324122"",""11.1524122""],""class"":""place"",""display_name"":""Verona, Veneto, 37122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7561573888828526,""lat"":""45.4384958"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.9924122"",""osm_id"":64778101,""osm_type"":""node"",""place_id"":286299859,""type"":""city""},""mode"":""autocomplete""},""nameSurname"":""Associazione Malve di Ucraina"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""A Verona Associazione Malve di Ucraina cerca alloggi e professionisti che possano supportare rifugiati ucraini"",""url"":""https://www.facebook.com/675754522486226/posts/5102255149836119/""}","<pre><yamldata>
-nameSurname: Associazione Malve di Ucraina
-phoneNumber: ''
-email: malve.verona@gmail.com
-title: A Verona Associazione Malve di Ucraina cerca alloggi e professionisti che possano
-  supportare rifugiati ucraini
-recipients: ''
-description: A Verona l’associazione Malve di Ucraina ha bisogno di raccogliere denaro
-  per sostenere le spese di trasporto di beni umanitari. E poi cerca famiglie che
-  possano ospitare i rifugiati ucraini in arrivo. Inoltre ha bisogno di professionisti
-  che possano offrire supporto (in particolare mediatori linguistici, medici, insegnanti,
-  parrucchieri) e aziende che offrano lavoro ai rifugiati.
-url: https://www.facebook.com/675754522486226/posts/5102255149836119/
-location:
-  mode: autocomplete
-  address:
-    place_id: 286299859
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 64778101
-    boundingbox:
-    - '45.2784958'
-    - '45.5984958'
-    - '10.8324122'
-    - '11.1524122'
-    lat: '45.4384958'
-    lon: '10.9924122'
-    display_name: Verona, Veneto, 37122, Italia
-    class: place
-    type: city
-    importance: 0.7561573888828526
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
-    address:
-      city: Verona
-      county: Verona
-      state: Veneto
-      postcode: '37122'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 45.4384958 10.9924122
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/600,1202420182,2022-04-14 15:00:43,2022-04-12 21:39:05,"Regione Liguria, sito web (italiano/ucraino) per aiutare i rifugiati ucraini con info utili e corso online gratuito di italiano",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality"",""job"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-42"",""ISO3166-2-lvl6"":""IT-GE"",""city"":""Genova"",""country"":""Italia"",""country_code"":""it"",""county"":""Genova"",""neighbourhood"":""Sottoripa"",""postcode"":""16100"",""road"":""Via Magazzini del Cotone"",""state"":""Liguria"",""suburb"":""Centro Est""},""boundingbox"":[""44.4083927"",""44.4085719"",""8.9226229"",""8.9234061""],""class"":""highway"",""display_name"":""Via Magazzini del Cotone, Sottoripa, Centro Est, Genova, Liguria, 16100, Italia"",""importance"":0.61,""lat"":""44.4085075"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.9231409"",""osm_id"":242620132,""osm_type"":""way"",""place_id"":162849528,""type"":""pedestrian""},""mode"":""autocomplete""},""description"":""Regione Liguria mette a disposizione un sito informativo per aiutare i cittadini ucraini ad orientarsi nei servizi offerti da istituzioni, mondo del volontariato ed altri enti. Sul sito \u00e8 possibile trovare tutte le info per le procedure per ottenere il permesso di soggiorno (con contatti di questure e prefetture), per studiare, lavorare, trascorrere il tempo libero e accedere ai servizi essenziali.\nIl sito \u00e8 stato realizzato in doppia lingua grazie al prezioso supporto di volontari ucraini.\n\u00c8 inoltre disponibile un corso online gratuito di lingua italiana e uno sportello di supporto alla popolazione ucraina orario: dalle 10 alle 16 [dal luned\u00ec al venerd\u00ec], ucraina@saloneorientamenti.it, tel. 800 938 883."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Liguria"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":true,""job"":true,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Regione Liguria, sito web per aiutare i rifugiati ucraini con info utili e corso online gratuito di italiano"",""url"":""https://www.orientamenti.regione.liguria.it/ucraina/""}","<pre><yamldata>
 servicetypes:
@@ -16150,53 +16257,6 @@ label: help
 submit: true
 Posizione: 45.4612939 9.172356290785304
 </yamldata></pre>",closed
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/104,1167407569,2022-03-22 17:06:24,2022-03-12 21:35:48,A Roma la Chiesa di Santa Sofia cerca medici e studenti di medicina per selezionare e inscatolare farmaci,41.91169555,12.397510616030669,Lazio,Roma,"[""Valid/Accettato"",""Help"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""41.91169555 12.397510616030669"",""description"":""A Roma la Chiesa di Santa Sofia cerca medici, specializzandi e studenti di medicina per selezionare e suddividere per tipologie i medicinali raccolti e preparare le scatole da inviare in Ucraina."",""email"":""basilicadisantasofia@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""amenity"":""Basilica di Santa Sofia"",""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""478"",""postcode"":""00166"",""road"":""Via di Boccea"",""state"":""Lazio"",""suburb"":""Municipio Roma XIII""},""boundingbox"":[""41.911607"",""41.9117849"",""12.3973441"",""12.3976718""],""class"":""amenity"",""display_name"":""Basilica di Santa Sofia, 478, Via di Boccea, Municipio Roma XIII, Roma, Roma Capitale, Lazio, 00166, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//place_of_worship_unknown3.p.20.png"",""importance"":0.511,""lat"":""41.91169555"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.397510616030669"",""osm_id"":380373490,""osm_type"":""way"",""place_id"":189984097,""type"":""place_of_worship""},""mode"":""autocomplete""},""nameSurname"":""Basilica di Santa Sofia Roma"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""A Roma la Chiesa di Santa Sofia cerca medici e studenti di medicina per selezionare e inscatolare farmaci"",""url"":""https://www.facebook.com/100000516996321/posts/5658514257509085/""}","<pre><yamldata>
-nameSurname: Basilica di Santa Sofia Roma
-phoneNumber: ''
-email: basilicadisantasofia@gmail.com
-title: A Roma la Chiesa di Santa Sofia cerca medici e studenti di medicina per selezionare
-  e inscatolare farmaci
-recipients: ''
-description: A Roma la Chiesa di Santa Sofia cerca medici, specializzandi e studenti
-  di medicina per selezionare e suddividere per tipologie i medicinali raccolti e
-  preparare le scatole da inviare in Ucraina.
-url: https://www.facebook.com/100000516996321/posts/5658514257509085/
-location:
-  mode: autocomplete
-  address:
-    place_id: 189984097
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 380373490
-    boundingbox:
-    - '41.911607'
-    - '41.9117849'
-    - '12.3973441'
-    - '12.3976718'
-    lat: '41.91169555'
-    lon: '12.397510616030669'
-    display_name: Basilica di Santa Sofia, 478, Via di Boccea, Municipio Roma XIII,
-      Roma, Roma Capitale, Lazio, 00166, Italia
-    class: amenity
-    type: place_of_worship
-    importance: 0.511
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//place_of_worship_unknown3.p.20.png
-    address:
-      amenity: Basilica di Santa Sofia
-      house_number: '478'
-      road: Via di Boccea
-      suburb: Municipio Roma XIII
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      postcode: '00166'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 41.91169555 12.397510616030669
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/102,1167402531,2022-03-22 17:06:09,2022-03-12 21:17:01,Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio a rifugiati ucraini (anche in Italia),,,,,"[""Valid/Accettato"",""News"",""Services"",""hospitality"",""telegram-channel"",""tweet"",""Resources""]",,,"{""description"":""Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio a rifugiati ucraini anche in Italia. Suggerita anche dall\u2019Ambasciata Ucraina in Italia."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://prykhystok.in.ua/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio a rifugiati ucraini (anche in Italia)""}","<pre><yamldata>
 title: Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio
   a rifugiati ucraini (anche in Italia)
@@ -19392,66 +19452,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: help
 submit: true
 Posizione: 44.8220826 7.2290893
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/154,1170200396,2022-03-18 16:36:09,2022-03-15 20:25:58,Regione Abruzzo cerca mediatori linguistici e famiglie per accoglienza minori ucraini soli o con famiglia,42.365814400000005,13.374276790275314,Abruzzo,L'Aquila,"[""Valid/Accettato"",""Help"",""hospitality"",""translation"",""job"",""Children"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""42.365814400000005 13.374276790275314"",""description"":""La Garante dell\u2019Infanzia e dell\u2019Adolescenza della Regione Abruzzo, d\u2019intesa con il Prefetto de L\u2019Aquila e sentito il Presidente del Tribunale de L\u2019Aquila, ha avviato, unitamente alle Caritas Diocesane di L\u2019Aquila, Chieti-Vasto e Teramo, una ricognizione finalizzata alla raccolta delle disponibilit\u00e0 di nuclei famigliari residenti in Abruzzo, all\u2019accoglienza temporanea dei minori non accompagnati e/o delle famiglie con minori in fuga dalle zone del conflitto dell\u2019Ucraina, nonch\u00e9 alla formazione di un elenco di mediatori culturali e linguistici, con il compito di facilitare gli ingressi in famiglia.\nA tal fine chiunque fosse disponibile ad accogliere dei minori o famiglie con minori, per un periodo da definire caso per caso o facilitare, nel ruolo di mediatore culturale, il percorso di inserimento, pu\u00f2 manifestare la propria disponibilit\u00e0 attraverso la compilazione di uno dei due allegati moduli (mediatori culturali o famiglie e singoli) da inviare all\u2019indirizzo di posta elettronica ucraina.garanteinfanzia@crabruzzo.it unitamente ad documento di identit\u00e0 in corso di validit\u00e0.\nAl link i moduli da compilare e ulteriori info."",""email"":""ucraina.garanteinfanzia@crabruzzo.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""building"":""Palazzo Silone"",""city"":""L'Aquila"",""country"":""Italia"",""country_code"":""it"",""county"":""L'Aquila"",""house_number"":""6"",""neighbourhood"":""Contrada Romani"",""postcode"":""67100"",""road"":""Via Leonardo da Vinci"",""state"":""Abruzzo""},""boundingbox"":[""42.365538"",""42.3661063"",""13.3737095"",""13.3747562""],""class"":""building"",""display_name"":""Palazzo Silone, 6, Via Leonardo da Vinci, Contrada Romani, L'Aquila, Abruzzo, 67100, Italia"",""importance"":1.1354342386327727,""lat"":""42.365814400000005"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.374276790275314"",""osm_id"":591326251,""osm_type"":""way"",""place_id"":225266677,""type"":""yes""},""mode"":""autocomplete""},""nameSurname"":""Garante Infanzia Regione Abruzzo"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Regione Abruzzo cerca mediatori linguistici e famiglie per accoglienza minori ucraini soli o con famiglia"",""url"":""https://m.provincia.teramo.it/sala-stampa/emergenza-ucraina-la-regione-abruzzo-cerca-famiglie-volontarie-per-l2019accoglienza-e-mediatori-linguistici/""}","<pre><yamldata>
-nameSurname: Garante Infanzia Regione Abruzzo
-phoneNumber: ''
-email: ucraina.garanteinfanzia@crabruzzo.it
-title: Regione Abruzzo cerca mediatori linguistici e famiglie per accoglienza minori
-  ucraini soli o con famiglia
-recipients: ''
-description: 'La Garante dell’Infanzia e dell’Adolescenza della Regione Abruzzo, d’intesa
-  con il Prefetto de L’Aquila e sentito il Presidente del Tribunale de L’Aquila, ha
-  avviato, unitamente alle Caritas Diocesane di L’Aquila, Chieti-Vasto e Teramo, una
-  ricognizione finalizzata alla raccolta delle disponibilità di nuclei famigliari
-  residenti in Abruzzo, all’accoglienza temporanea dei minori non accompagnati e/o
-  delle famiglie con minori in fuga dalle zone del conflitto dell’Ucraina, nonché
-  alla formazione di un elenco di mediatori culturali e linguistici, con il compito
-  di facilitare gli ingressi in famiglia.
-
-  A tal fine chiunque fosse disponibile ad accogliere dei minori o famiglie con minori,
-  per un periodo da definire caso per caso o facilitare, nel ruolo di mediatore culturale,
-  il percorso di inserimento, può manifestare la propria disponibilità attraverso
-  la compilazione di uno dei due allegati moduli (mediatori culturali o famiglie e
-  singoli) da inviare all’indirizzo di posta elettronica ucraina.garanteinfanzia@crabruzzo.it
-  unitamente ad documento di identità in corso di validità.
-
-  Al link i moduli da compilare e ulteriori info.'
-url: https://m.provincia.teramo.it/sala-stampa/emergenza-ucraina-la-regione-abruzzo-cerca-famiglie-volontarie-per-l2019accoglienza-e-mediatori-linguistici/
-location:
-  mode: autocomplete
-  address:
-    place_id: 225266677
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 591326251
-    boundingbox:
-    - '42.365538'
-    - '42.3661063'
-    - '13.3737095'
-    - '13.3747562'
-    lat: '42.365814400000005'
-    lon: '13.374276790275314'
-    display_name: Palazzo Silone, 6, Via Leonardo da Vinci, Contrada Romani, L'Aquila,
-      Abruzzo, 67100, Italia
-    class: building
-    type: 'yes'
-    importance: 1.1354342386327727
-    address:
-      building: Palazzo Silone
-      house_number: '6'
-      road: Via Leonardo da Vinci
-      neighbourhood: Contrada Romani
-      city: L'Aquila
-      county: L'Aquila
-      state: Abruzzo
-      postcode: '67100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 42.365814400000005 13.374276790275314
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/65,1165382235,2022-03-18 16:31:09,2022-03-10 15:35:53,Comitato Salva Ucraini di Palermo attiva raccolta beni per profughi ucraini e raccoglie disponibilità all'ospitalità,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""postcode"":""90143"",""road"":""Via Generale Eugenio di Maria"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1309854"",""38.1318817"",""13.3425549"",""13.3430888""],""class"":""highway"",""display_name"":""Via Generale Eugenio di Maria, VIII Circoscrizione, Palermo, Sicilia, 90143, Italia"",""importance"":0.61,""lat"":""38.1315461"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3427395"",""osm_id"":86106882,""osm_type"":""way"",""place_id"":121827517,""type"":""residential""},""mode"":""autocomplete""},""description"":""Il Comitato Salva Ucraini di Palermo ha attivato una raccolta di beni per i profughi ucraini, dal luned\u00ec al venerd\u00ec negli orari 10:00 - 13:00 e 17:00 -19:00, in via Eugenio Di Maria n. 25 presso l'associazione Culturale Jim\u00e9nez.\nSi raccolgono i seguenti beni di prima necessit\u00e0 in buono stato di conservazione e pulizia:\n\ud83d\udccc  Vestiario per adulti e bambini (indicando se maschile o femminile, adulto - bambino e la taglia);\n\ud83d\udccc  Generi alimentari a lunga conservazione (no freschi o deperibili);\n\ud83d\udccc  Prodotti di pulizia, igiene e disinfezione;\n\ud83d\udccc  Medicinali da banco ricaricabili senza prescrizione medica;\n\ud83d\udccc  Giocattoli e attrezzature o accessori per la cura dell'infanzia (culle, passeggini etc)\n\ud83d\udccc  Lenzuola, coperte, etc\nDescrivere per favore sul pacco il contenuto (es. \u201cvestiti bimbo 4 anni\u201d o \u201ccoperte per adulti\u201d).\n\nInoltre il comitato cerca famiglie che possano ospitare rifugiati ucraini. Qui il modulo da compilare per offrirsi https://forms.gle/ej6g2XjawiLS2ViX9."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comitato Salva Ucraini Palermo"",""recipients"":""cittadini di Palermo"",""submit"":true,""title"":""Comitato Salva Ucraini di Palermo ha attivato una raccolta di beni per i profughi ucraini"",""type"":""materialGoods"",""url"":""https://t.me/ucraini_a_palermo/""}","<pre><yamldata>
 type: materialGoods
