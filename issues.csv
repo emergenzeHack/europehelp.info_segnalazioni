@@ -1,4 +1,55 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/629,1205564176,2022-04-16 08:14:07,2022-04-15 13:07:12,A Verona e provincia trasporto pubblico gratuito per i rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""transport""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""city"":""Verona"",""country"":""Italia"",""country_code"":""it"",""county"":""Verona"",""postcode"":""37122"",""state"":""Veneto""},""boundingbox"":[""45.2784958"",""45.5984958"",""10.8324122"",""11.1524122""],""class"":""place"",""display_name"":""Verona, Veneto, 37122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7461573888828525,""lat"":""45.4384958"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.9924122"",""osm_id"":64778101,""osm_type"":""node"",""place_id"":286299859,""type"":""city""},""mode"":""autocomplete""},""description"":""Fino al 30 giugno a Verona e provincia trasporto pubblico gratuitl per i rifugiati ucraini ospitati a Verona. Ulteriori info al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Provincia di Verona"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""A Verona e provincia trasporto pubblico gratuitl per i rifugiati ucraini"",""url"":""https://daily.veronanetwork.it/news/trasporto-pubblico-gratis-per-i-rifugiati-ucraini-ospitati-a-verona/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: true
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Provincia di Verona
+title: A Verona e provincia trasporto pubblico gratuitl per i rifugiati ucraini
+recipients: ''
+description: Fino al 30 giugno a Verona e provincia trasporto pubblico gratuitl per
+  i rifugiati ucraini ospitati a Verona. Ulteriori info al link.
+url: https://daily.veronanetwork.it/news/trasporto-pubblico-gratis-per-i-rifugiati-ucraini-ospitati-a-verona/
+address:
+  mode: autocomplete
+  address:
+    place_id: 286299859
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 64778101
+    boundingbox:
+    - '45.2784958'
+    - '45.5984958'
+    - '10.8324122'
+    - '11.1524122'
+    lat: '45.4384958'
+    lon: '10.9924122'
+    display_name: Verona, Veneto, 37122, Italia
+    class: place
+    type: city
+    importance: 0.7461573888828525
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Verona
+      county: Verona
+      state: Veneto
+      ISO3166-2-lvl4: IT-34
+      postcode: '37122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/630,1205565938,2022-04-16 08:10:02,2022-04-15 13:09:34,"Asl Roma 1, attivi due ambulatori per donne e bambini ucraini",,,,,"[""Valid/Accettato"",""Services"",""healthcare"",""Children"",""women"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""boundary"":""ASL Roma 1"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.8707079"",""42.1410285"",""12.2423884"",""12.6186465""],""class"":""boundary"",""display_name"":""ASL Roma 1, Roma Capitale, Lazio, Italia"",""importance"":0.42500000000000004,""lat"":""41.9874956"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.432189226861333"",""osm_id"":13657801,""osm_type"":""relation"",""place_id"":327153774,""type"":""health""},""mode"":""autocomplete""},""description"":""La Asl Roma 1 mette a punto due nuovi servizi per donne e bambini arrivati dall\u2019Ucraina. Il primo, operativo da oggi, 5 aprile, \u00e8 presso l\u2019Ospedale Santo Spirito in Sassia: un ambulatorio di ostetricia e ginecologia, con la possibilit\u00e0 di visite ed ecografie, disponibile ad accesso libero ogni marted\u00ec dalle 15 alle 18.30. Il secondo ambulatorio invece partir\u00e0 il 7 aprile, nell\u2019hub Ostiense, dove il personale \u00e8 gi\u00e0 al lavoro da settimane per l\u2019emissione della tessera Stp (Stranieri temporaneamente presenti) e per la vaccinazione anti covid per chi sta scappando dalla guerra. Nella struttura di via delle Cave Ardeatine 36, ogni gioved\u00ec dalle 8 alle 1, sar\u00e0 possibile effettuare visite ginecologiche e pediatriche che prevedono tra le altre cose il controllo della crescita, la verifica delle vaccinazioni effettuate, la valutazione die problemi legati alla nutrizione e alle allergie, valutazione di disturbi del neurosviluppo, inquadramento delle problematiche pediatriche per la valutazione e l\u2019invio presso i centri specialistici. Anche in questo caso l\u2019accesso \u00e8 libero."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Asl Roma 1"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":true},""submit"":true,""title"":""Asl Roma 1: due ambulatori per donne e bambini ucraini"",""url"":""https://www.romasette.it/asl-roma-1-due-ambulatori-per-donne-e-bambini-ucraini/?utm_source=rss&utm_medium=rss&utm_campaign=asl-roma-1-due-ambulatori-per-donne-e-bambini-ucraini""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -659,57 +710,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 43.777842699999994 11.258830486761724
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/629,1205564176,2022-04-15 15:06:04,2022-04-15 13:07:12,A Verona e provincia trasporto pubblico gratuitl per i rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""transport""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""city"":""Verona"",""country"":""Italia"",""country_code"":""it"",""county"":""Verona"",""postcode"":""37122"",""state"":""Veneto""},""boundingbox"":[""45.2784958"",""45.5984958"",""10.8324122"",""11.1524122""],""class"":""place"",""display_name"":""Verona, Veneto, 37122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7461573888828525,""lat"":""45.4384958"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.9924122"",""osm_id"":64778101,""osm_type"":""node"",""place_id"":286299859,""type"":""city""},""mode"":""autocomplete""},""description"":""Fino al 30 giugno a Verona e provincia trasporto pubblico gratuitl per i rifugiati ucraini ospitati a Verona. Ulteriori info al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Provincia di Verona"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""A Verona e provincia trasporto pubblico gratuitl per i rifugiati ucraini"",""url"":""https://daily.veronanetwork.it/news/trasporto-pubblico-gratis-per-i-rifugiati-ucraini-ospitati-a-verona/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: true
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Provincia di Verona
-title: A Verona e provincia trasporto pubblico gratuitl per i rifugiati ucraini
-recipients: ''
-description: Fino al 30 giugno a Verona e provincia trasporto pubblico gratuitl per
-  i rifugiati ucraini ospitati a Verona. Ulteriori info al link.
-url: https://daily.veronanetwork.it/news/trasporto-pubblico-gratis-per-i-rifugiati-ucraini-ospitati-a-verona/
-address:
-  mode: autocomplete
-  address:
-    place_id: 286299859
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 64778101
-    boundingbox:
-    - '45.2784958'
-    - '45.5984958'
-    - '10.8324122'
-    - '11.1524122'
-    lat: '45.4384958'
-    lon: '10.9924122'
-    display_name: Verona, Veneto, 37122, Italia
-    class: place
-    type: city
-    importance: 0.7461573888828525
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
-    address:
-      city: Verona
-      county: Verona
-      state: Veneto
-      ISO3166-2-lvl4: IT-34
-      postcode: '37122'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/627,1205553470,2022-04-15 15:05:50,2022-04-15 12:50:47,"Vademecum ""Buone prassi di aiuto ai profughi ucraini"" ad uso del volontariato, a cura di Psicologi per i popoli Emilia Romagna ",44.4884081,11.390978,Emilia-Romagna,Bologna,"[""Valid/Accettato"",""hospitality"",""document_data""]",,,"{""Posizione"":""44.4884081 11.390978"",""description"":""Vademecum ad uso del volontariato impegnato in attivit\u00e0 di aiuto dei rifugiati ucraini. A cura di Psicologi per i Popoli Emilia-Romagna."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://www.ordinepsicologier.it/public/genpags/bigs/InfograficaVOLONTARI.pdf"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""house_number"":""72"",""postcode"":""40139"",""road"":""Via Alberto Legnani"",""state"":""Emilia-Romagna"",""suburb"":""Fossolo""},""boundingbox"":[""44.4883581"",""44.4884581"",""11.390928"",""11.391028""],""class"":""place"",""display_name"":""72, Via Alberto Legnani, Fossolo, Savena, Bologna, Emilia-Romagna, 40139, Italia"",""importance"":0.42099999999999993,""lat"":""44.4884081"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.390978"",""osm_id"":1704381782,""osm_type"":""node"",""place_id"":15206708,""type"":""house""},""mode"":""autocomplete""},""submit"":true,""title"":""Vademecum \""Buone prassi di aiuto ai profughi ucraini\"" ad uso del volontariato, a cura di Psicologi per i Popoli Emilia-Romagna""}","<pre><yamldata>
 title: Vademecum ""Buone prassi di aiuto ai profughi ucraini"" ad uso del volontariato,
