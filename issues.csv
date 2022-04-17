@@ -1,5 +1,44 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/641,1206295667,2022-04-17 06:41:38,2022-04-17 06:40:07,Il Comune di Sesto San Giovanni offre un Laboratorio di italiano per cittadini ucraini,,,,,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20099"",""state"":""Lombardia"",""town"":""Sesto San Giovanni""},""boundingbox"":[""45.5173444"",""45.556763"",""9.20694"",""9.2717314""],""class"":""boundary"",""display_name"":""Sesto San Giovanni, Milano, Lombardia, 20099, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8336881016905328,""lat"":""45.5357218"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2376549"",""osm_id"":45245,""osm_type"":""relation"",""place_id"":284444071,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Comune di Sesto organizza per i rifugiati ucraini un laboratorio di italiano di 10 lezioni tematiche."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Sesto San Giovanni (MI)"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Laboratorio di italiano per cittadini ucraini"",""url"":""https://sestosg.net/notizie/laboratorio-di-italiano-per-cittadini-ucraini/""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/635,1205606093,2022-04-17 15:52:01,2022-04-15 14:07:43,"Venezia, attivo portale Emergenzaucraina.venis.it che permette ai rifugiati ucraini di accedere a servizi dedicati, tra cui trasporto locale gratuito",45.45512045,12.250379081443793,Veneto,Venezia,"[""Valid/Accettato"",""News"",""Services"",""transport""]",,,"{""Posizione"":""45.45512045 12.250379081443793"",""description"":""Su http://emergenzaucraina.venis.it, portale attivato da Comune e Citt\u00e0 metropolitana di Venezia, i rifugiati ucraini o le famiglie ospitanti potranno registrarsi e quindi accedere ad una serie di servizi, in primis l'accesso gratuito al trasporto locale. Ulteriori info al link."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/S43QtsUTYI?s=09"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""country"":""Italia"",""country_code"":""it"",""county"":""Venezia"",""state"":""Veneto""},""boundingbox"":[""45.0556953"",""45.8546002"",""11.9619782"",""13.1021703""],""class"":""boundary"",""display_name"":""Venezia, Veneto, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5750404744691252,""lat"":""45.45512045"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.250379081443793"",""osm_id"":44230,""osm_type"":""relation"",""place_id"":283794158,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Venezia, attivo portale Emergenzaucraina.Venis.it che permette ai rifugiati ucraini di accedere a servizi dedicati, tra cui trasporto locale gratuito""}","<pre><yamldata>
+title: Venezia, attivo portale Emergenzaucraina.Venis.it che permette ai rifugiati
+  ucraini di accedere a servizi dedicati, tra cui trasporto locale gratuito
+description: 'Su http://emergenzaucraina.venis.it, portale attivato da Comune e Città
+  metropolitana di Venezia, i rifugiati ucraini o le famiglie ospitanti potranno registrarsi
+  e quindi accedere ad una serie di servizi, in primis l''accesso gratuito al trasporto
+  locale.
+  Ulteriori info al link.'
+link: https://t.co/S43QtsUTYI?s=09
+location:
+  mode: autocomplete
+  address:
+    place_id: 283794158
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 44230
+    boundingbox:
+    - '45.0556953'
+    - '45.8546002'
+    - '11.9619782'
+    - '13.1021703'
+    lat: '45.45512045'
+    lon: '12.250379081443793'
+    display_name: Venezia, Veneto, Italia
+    class: boundary
+    type: administrative
+    importance: 0.5750404744691252
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Venezia
+      state: Veneto
+      ISO3166-2-lvl4: IT-34
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.45512045 12.250379081443793
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/641,1206295667,2022-04-17 15:51:09,2022-04-17 06:40:07,Comune di Sesto San Giovanni (Milano) offre laboratorio di italiano per cittadini ucraini,,,,,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20099"",""state"":""Lombardia"",""town"":""Sesto San Giovanni""},""boundingbox"":[""45.5173444"",""45.556763"",""9.20694"",""9.2717314""],""class"":""boundary"",""display_name"":""Sesto San Giovanni, Milano, Lombardia, 20099, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8336881016905328,""lat"":""45.5357218"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2376549"",""osm_id"":45245,""osm_type"":""relation"",""place_id"":284444071,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Comune di Sesto organizza per i rifugiati ucraini un laboratorio di italiano di 10 lezioni tematiche."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Sesto San Giovanni (MI)"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Laboratorio di italiano per cittadini ucraini"",""url"":""https://sestosg.net/notizie/laboratorio-di-italiano-per-cittadini-ucraini/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
   hospitality: false
@@ -590,45 +629,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: fundraising
 submit: true
 Posizione: 45.4661787 9.1915379
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/635,1205606093,2022-04-15 15:10:43,2022-04-15 14:07:43,"Venezia, attivo portale Emergenzaucraina.Venis.it che permette ai rifugiati ucraini di accedere a servizi dedicati, tra cui trasporto locale gratuito",45.45512045,12.250379081443793,Veneto,Venezia,"[""Valid/Accettato"",""News"",""Services"",""transport""]",,,"{""Posizione"":""45.45512045 12.250379081443793"",""description"":""Su http://emergenzaucraina.venis.it, portale attivato da Comune e Citt\u00e0 metropolitana di Venezia, i rifugiati ucraini o le famiglie ospitanti potranno registrarsi e quindi accedere ad una serie di servizi, in primis l'accesso gratuito al trasporto locale. Ulteriori info al link."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/S43QtsUTYI?s=09"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""country"":""Italia"",""country_code"":""it"",""county"":""Venezia"",""state"":""Veneto""},""boundingbox"":[""45.0556953"",""45.8546002"",""11.9619782"",""13.1021703""],""class"":""boundary"",""display_name"":""Venezia, Veneto, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5750404744691252,""lat"":""45.45512045"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.250379081443793"",""osm_id"":44230,""osm_type"":""relation"",""place_id"":283794158,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Venezia, attivo portale Emergenzaucraina.Venis.it che permette ai rifugiati ucraini di accedere a servizi dedicati, tra cui trasporto locale gratuito""}","<pre><yamldata>
-title: Venezia, attivo portale Emergenzaucraina.Venis.it che permette ai rifugiati
-  ucraini di accedere a servizi dedicati, tra cui trasporto locale gratuito
-description: 'Su http://emergenzaucraina.venis.it, portale attivato da Comune e Città
-  metropolitana di Venezia, i rifugiati ucraini o le famiglie ospitanti potranno registrarsi
-  e quindi accedere ad una serie di servizi, in primis l''accesso gratuito al trasporto
-  locale.
-  Ulteriori info al link.'
-link: https://t.co/S43QtsUTYI?s=09
-location:
-  mode: autocomplete
-  address:
-    place_id: 283794158
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 44230
-    boundingbox:
-    - '45.0556953'
-    - '45.8546002'
-    - '11.9619782'
-    - '13.1021703'
-    lat: '45.45512045'
-    lon: '12.250379081443793'
-    display_name: Venezia, Veneto, Italia
-    class: boundary
-    type: administrative
-    importance: 0.5750404744691252
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      county: Venezia
-      state: Veneto
-      ISO3166-2-lvl4: IT-34
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 45.45512045 12.250379081443793
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/634,1205598548,2022-04-15 15:09:17,2022-04-15 13:56:14,Aism - Associazione italiana sclerosi multipla attiva sedi locali e email dedicata per supportare i rifugiati ucraini affetti da sclerosi multipla ,,,,,"[""Valid/Accettato"",""Services"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-42"",""ISO3166-2-lvl6"":""IT-GE"",""city"":""Genova"",""country"":""Italia"",""country_code"":""it"",""county"":""Genova"",""postcode"":""16151"",""road"":""Via Operai"",""state"":""Liguria"",""suburb"":""Sampierdarena""},""boundingbox"":[""44.4109653"",""44.4113494"",""8.8829417"",""8.8846988""],""class"":""highway"",""display_name"":""Via Operai, Sampierdarena, Centro Ovest, Genova, Liguria, 16151, Italia"",""importance"":0.41000000000000003,""lat"":""44.4111751"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.8837389"",""osm_id"":20474401,""osm_type"":""way"",""place_id"":104691976,""type"":""residential""},""mode"":""autocomplete""},""description"":""AISM invita tutte le sezioni a concorrere al tracciamento di tutti i casi di richiesta di supporto, segnalandoli al gruppo di lavoro della Piattaforma Europea delle associazioni all'indirizzo email emergenzaSMucraina@aism.it, al quale si potr\u00e0 fare riferimento anche per segnalare ogni iniziativa utile attivata nei territori per i rifugiati che possa essere d\u2019aiuto e supporto anche per le persone con SM e loro familiari. \nPer ulteriori info vedi link (a questo link info in ucraino https://bit.ly/3rveCLj)\n\n\u0429\u043e\u0431 \u043d\u0430\u0434\u0430\u0442\u0438 \u043d\u0430\u0439\u043a\u0440\u0430\u0449\u0443 \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u043a\u0443, \u043c\u0438 \u0430\u043a\u0442\u0438\u0432\u0443\u0432\u0430\u043b\u0438 \u0441\u043f\u0435\u0446\u0456\u0430\u043b\u044c\u043d\u0443 \u0435\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0443 \u0430\u0434\u0440\u0435\u0441\u0443: emergenzasmucraina@aism.it \u0434\u043b\u044f \u0437\u0431\u043e\u0440\u0443 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u0457 \u043f\u0440\u043e \u043e\u043a\u0440\u0435\u043c\u0456 \u0432\u0438\u043f\u0430\u0434\u043a\u0438 \u043b\u044e\u0434\u0435\u0439 \u0437 \u0440\u043e\u0437\u0441\u0456\u044f\u043d\u0438\u043c \u0441\u043a\u043b\u0435\u0440\u043e\u0437\u043e\u043c."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione italiana sclerosi multipla"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Aism - Associazione italiana sclerosi multipla attiva sedi locali e email dedicata per supportare i rifugiati ucraini affetti da sclerosi multipla"",""url"":""https://www.aism.it/emergenza_ucraina_impegno_di_aism""}","<pre><yamldata>
 servicetypes:
