@@ -1,4 +1,258 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/604,1203383346,2022-04-18 08:31:51,2022-04-13 14:28:36,All’Università Bocconi di Milano nasce UASI - Ucraina Supporto e Informazione per offrire supporto legale a rifugiati ucraini ed enti impegnati nell’emergenza Ucraina,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20136"",""quarter"":""Vigentina"",""road"":""Via Corrado Guglielmo Rontgen"",""state"":""Lombardia"",""suburb"":""Municipio 5""},""boundingbox"":[""45.4492051"",""45.4515967"",""9.1867565"",""9.1876216""],""class"":""highway"",""display_name"":""Via Corrado Guglielmo Rontgen, Vigentina, Municipio 5, Milano, Lombardia, 20136, Italia"",""importance"":0.51,""lat"":""45.4509094"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1874059"",""osm_id"":37042448,""osm_type"":""way"",""place_id"":111476102,""type"":""residential""},""mode"":""autocomplete""},""description"":""Una Unit di supporto giuridico per dare aiuto ai rifugiati ucraini e supporto a ong e istituzioni italiane che stanno affrontando l\u2019emergenza: \u00e8 Ucraina Supporto e Informazione (UASI), l\u2019unit\u00e0 appena nata in seno al Bocconi Lab in European Studies (BLEST) per iniziativa di docenti, studenti e alumni della Bocconi e sostenuta dalla Fondazione Romeo ed Enrica Invernizzi. UASI produrr\u00e0 materiale utile a coloro che fuggono dal conflitto e arrivano in Italia, piccole guide digitali in tre lingue (italiano, ucraino e russo) di supporto agli individui e alle amministrazioni per orientarsi nel complesso labirinto amministrativo e legale. Inoltre, offrir\u00e0 supporto alle organizzazioni e amministrazioni: sul modello delle cliniche legali, gli studenti Bocconi faranno attivit\u00e0 di sportello con Avvocati per l\u2019Ucraina, mentre la Unit fornir\u00e0 attivit\u00e0 di consulenza legale per le organizzazioni e attori istituzionali. Se fai parte di una organizzazione e vuoi entrare in contatto con noi, contattaci al uasi.blest@unibocconi.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Universit\u00e0 Bocconi Milano"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""All\u2019Universit\u00e0 Bocconi di Milano nasce UASI - Ucraina Supporto e Informazione per offrire supporto legale a rifugiati ucraini, enti e organizzazioni che stanno affrontando l\u2019emergenza Ucraina"",""url"":""https://blest.unibocconi.eu/focus-europe-and-ukraine/focus-ukraine/uasi-ucraina-supporto-e-informazione""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Università Bocconi Milano
+title: All’Università Bocconi di Milano nasce UASI - Ucraina Supporto e Informazione
+  per offrire supporto legale a rifugiati ucraini, enti e organizzazioni che stanno
+  affrontando l’emergenza Ucraina
+recipients: ''
+description: 'Una Unit di supporto giuridico per dare aiuto ai rifugiati ucraini e
+  supporto a ong e istituzioni italiane che stanno affrontando l’emergenza: è Ucraina
+  Supporto e Informazione (UASI), l’unità appena nata in seno al Bocconi Lab in European
+  Studies (BLEST) per iniziativa di docenti, studenti e alumni della Bocconi e sostenuta
+  dalla Fondazione Romeo ed Enrica Invernizzi.
+  UASI produrrà materiale utile a coloro che fuggono dal conflitto e arrivano in Italia,
+  piccole guide digitali in tre lingue (italiano, ucraino e russo) di supporto agli
+  individui e alle amministrazioni per orientarsi nel complesso labirinto amministrativo
+  e legale. Inoltre, offrirà supporto alle organizzazioni e amministrazioni: sul modello
+  delle cliniche legali, gli studenti Bocconi faranno attività di sportello con Avvocati
+  per l’Ucraina, mentre la Unit fornirà attività di consulenza legale per le organizzazioni
+  e attori istituzionali.
+  Se fai parte di una organizzazione e vuoi entrare in contatto con noi, contattaci
+  al uasi.blest@unibocconi.it'
+url: https://blest.unibocconi.eu/focus-europe-and-ukraine/focus-ukraine/uasi-ucraina-supporto-e-informazione
+address:
+  mode: autocomplete
+  address:
+    place_id: 111476102
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 37042448
+    boundingbox:
+    - '45.4492051'
+    - '45.4515967'
+    - '9.1867565'
+    - '9.1876216'
+    lat: '45.4509094'
+    lon: '9.1874059'
+    display_name: Via Corrado Guglielmo Rontgen, Vigentina, Municipio 5, Milano, Lombardia,
+      20136, Italia
+    class: highway
+    type: residential
+    importance: 0.51
+    address:
+      road: Via Corrado Guglielmo Rontgen
+      quarter: Vigentina
+      suburb: Municipio 5
+      city: Milano
+      county: Milano
+      ISO3166-2-lvl6: IT-MI
+      state: Lombardia
+      postcode: '20136'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/621,1205432384,2022-04-18 08:31:00,2022-04-15 09:32:15,Società Italiana di Ortopedia e Traumatologia promuove raccolta di strumenti chirurgici e medici per ospedale di Khmelmitskyi e cerca nuove adesioni alla raccolta,41.9246183,12.4784404,Lazio,Roma,"[""Valid/Accettato"",""News"",""materialGoods"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""41.9246183 12.4784404"",""description"":""La Societ\u00e0 Italiana di Ortopedia e Traumatologia (Siot) sostiene l'iniziativa per la raccolta di strumenti chirurgici e kit medici da destinare all'ospedale ucraino di Khmelmitskyi.\nLa Societ\u00e0 rivolge un appello che rivolgiamo a tutti i medici e tutte le strutture sanitarie italiane per ampliare la catena di solidariet\u00e0 in favore della popolazione ucraina attiva gi\u00e0 dai primi giorni di inizio del conflitto. I medici possono mettere a disposizione strumenti personali che non usano pi\u00f9 e favorire la raccolta di quelli dismessi dalle strutture.\nServe soprattutto materiale per la fissazione di fratture e per il trattamento delle ferite da armi da fuoco, esplosione o travolgimento, da destinare a una struttura sanitaria di seconda linea che si trova nella zona Est del Paese.\nAd oggi hanno gi\u00e0 aderito 12 strutture ospedaliere.\nPer aderire alla catena di solidariet\u00e0 per la raccolta degli strumenti chirurgici \u00e8 possibile contattare la SIOT al numero 06-80691593 o all'email segreteria@siot.it."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/8Q54VdtRDz?s=09"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00100"",""road"":""Via Nicola Martelli"",""state"":""Lazio"",""suburb"":""Pinciano""},""boundingbox"":[""41.9245235"",""41.9246185"",""12.4774699"",""12.478957""],""class"":""highway"",""display_name"":""Via Nicola Martelli, Pinciano, Roma, Roma Capitale, Lazio, 00100, Italia"",""importance"":0.51,""lat"":""41.9246183"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4784404"",""osm_id"":23920896,""osm_type"":""way"",""place_id"":107211317,""type"":""residential""},""mode"":""autocomplete""},""submit"":true,""title"":""Societ\u00e0 Italiana di Ortopedia e Traumatologia promuove raccolta di strumenti chirurgici e medici per ospedale di Khmelmitskyi e cerca nuove adesioni alla raccolta""}","<pre><yamldata>
+title: Società Italiana di Ortopedia e Traumatologia promuove raccolta di strumenti
+  chirurgici e medici per ospedale di Khmelmitskyi e cerca nuove adesioni alla raccolta
+description: 'La Società Italiana di Ortopedia e Traumatologia (Siot) sostiene l''iniziativa
+  per la raccolta di strumenti chirurgici e kit medici da destinare all''ospedale
+  ucraino di Khmelmitskyi.
+
+  La Società rivolge un appello che rivolgiamo a tutti i medici e tutte le strutture
+  sanitarie italiane per ampliare la catena di solidarietà in favore della popolazione
+  ucraina attiva già dai primi giorni di inizio del conflitto. I medici possono mettere
+  a disposizione strumenti personali che non usano più e favorire la raccolta di quelli
+  dismessi dalle strutture.
+
+  Serve soprattutto materiale per la fissazione di fratture e per il trattamento delle
+  ferite da armi da fuoco, esplosione o travolgimento, da destinare a una struttura
+  sanitaria di seconda linea che si trova nella zona Est del Paese.
+
+  Ad oggi hanno già aderito 12 strutture ospedaliere.
+
+  Per aderire alla catena di solidarietà per la raccolta degli strumenti chirurgici
+  è possibile contattare la SIOT al numero 06-80691593 o all''email segreteria@siot.it.'
+link: https://t.co/8Q54VdtRDz?s=09
+location:
+  mode: autocomplete
+  address:
+    place_id: 107211317
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 23920896
+    boundingbox:
+    - '41.9245235'
+    - '41.9246185'
+    - '12.4774699'
+    - '12.478957'
+    lat: '41.9246183'
+    lon: '12.4784404'
+    display_name: Via Nicola Martelli, Pinciano, Roma, Roma Capitale, Lazio, 00100,
+      Italia
+    class: highway
+    type: residential
+    importance: 0.51
+    address:
+      road: Via Nicola Martelli
+      suburb: Pinciano
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: '00100'
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 41.9246183 12.4784404
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/629,1205564176,2022-04-18 08:30:33,2022-04-15 13:07:12,A Verona e provincia trasporto pubblico gratuito per i rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""transport"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""city"":""Verona"",""country"":""Italia"",""country_code"":""it"",""county"":""Verona"",""postcode"":""37122"",""state"":""Veneto""},""boundingbox"":[""45.2784958"",""45.5984958"",""10.8324122"",""11.1524122""],""class"":""place"",""display_name"":""Verona, Veneto, 37122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7461573888828525,""lat"":""45.4384958"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.9924122"",""osm_id"":64778101,""osm_type"":""node"",""place_id"":286299859,""type"":""city""},""mode"":""autocomplete""},""description"":""Fino al 30 giugno a Verona e provincia trasporto pubblico gratuitl per i rifugiati ucraini ospitati a Verona. Ulteriori info al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Provincia di Verona"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""A Verona e provincia trasporto pubblico gratuitl per i rifugiati ucraini"",""url"":""https://daily.veronanetwork.it/news/trasporto-pubblico-gratis-per-i-rifugiati-ucraini-ospitati-a-verona/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: true
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Provincia di Verona
+title: A Verona e provincia trasporto pubblico gratuitl per i rifugiati ucraini
+recipients: ''
+description: Fino al 30 giugno a Verona e provincia trasporto pubblico gratuitl per
+  i rifugiati ucraini ospitati a Verona. Ulteriori info al link.
+url: https://daily.veronanetwork.it/news/trasporto-pubblico-gratis-per-i-rifugiati-ucraini-ospitati-a-verona/
+address:
+  mode: autocomplete
+  address:
+    place_id: 286299859
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 64778101
+    boundingbox:
+    - '45.2784958'
+    - '45.5984958'
+    - '10.8324122'
+    - '11.1524122'
+    lat: '45.4384958'
+    lon: '10.9924122'
+    display_name: Verona, Veneto, 37122, Italia
+    class: place
+    type: city
+    importance: 0.7461573888828525
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Verona
+      county: Verona
+      state: Veneto
+      ISO3166-2-lvl4: IT-34
+      postcode: '37122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/633,1205585976,2022-04-18 08:30:15,2022-04-15 13:36:23,Mappa dei servizi a supporto dei rifugiati ucraini a Anzio e Nettuno (Roma),41.4471008,12.6285618,Lazio,Roma,"[""Valid/Accettato"",""Services"",""materialGoods"",""hospitality"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""Posizione"":""41.4471008 12.6285618"",""description"":""Online una mappa, realizzata dalla rete Cura, dei servizi a supporto dei rifugiati ucraini a Anzio e Nettuno (Roma).\nPer info e contatti: curaretesociale@gmail.com\nFacebook https://m.facebook.com/curasociale/"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.curaretesociale.com/mappe-del-territorio?fbclid=IwAR3X8DA-Dacoi5VXi8oeQ2LeXZoRhaCsoImyMtj-LpAcITmqsbPfVFk4Sps"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00042"",""state"":""Lazio"",""town"":""Anzio""},""boundingbox"":[""41.4427573"",""41.5446274"",""12.5525476"",""12.6455847""],""class"":""boundary"",""display_name"":""Anzio, Roma Capitale, Lazio, 00042, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.6456458527457664,""lat"":""41.4471008"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.6285618"",""osm_id"":41363,""osm_type"":""relation"",""place_id"":283676212,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Mappa dei servizi a supporto dei rifugiati ucraini a Anzio e Nettuno (Roma)""}","<pre><yamldata>
+title: Mappa dei servizi a supporto dei rifugiati ucraini a Anzio e Nettuno (Roma)
+description: 'Online una mappa, realizzata dalla rete Cura, dei servizi a supporto
+  dei rifugiati ucraini a Anzio e Nettuno (Roma).
+
+  Per info e contatti: curaretesociale@gmail.com
+
+  Facebook https://m.facebook.com/curasociale/'
+link: https://www.curaretesociale.com/mappe-del-territorio?fbclid=IwAR3X8DA-Dacoi5VXi8oeQ2LeXZoRhaCsoImyMtj-LpAcITmqsbPfVFk4Sps
+location:
+  mode: autocomplete
+  address:
+    place_id: 283676212
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 41363
+    boundingbox:
+    - '41.4427573'
+    - '41.5446274'
+    - '12.5525476'
+    - '12.6455847'
+    lat: '41.4471008'
+    lon: '12.6285618'
+    display_name: Anzio, Roma Capitale, Lazio, 00042, Italia
+    class: boundary
+    type: administrative
+    importance: 0.6456458527457664
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      town: Anzio
+      county: Roma Capitale
+      state: Lazio
+      postcode: '00042'
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 41.4471008 12.6285618
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/631,1205571473,2022-04-18 08:30:00,2022-04-15 13:17:05,"Università di Firenze attiva borse di studio, contratti di visiting professor e alloggi gratuiti per studenti e ricercatori ucraini",43.777842699999994,11.258830486761724,Toscana,Firenze,"[""Valid/Accettato"",""Services"",""telegram-channel"",""tweet"",""education""]",,,"{""Posizione"":""43.777842699999994 11.258830486761724"",""description"":""19 borse di studio, 12 contratti di visiting professor, 15 posti nelle residenze universitarie sono le azioni messe in campo da Universit\u00e0 di Firenze per l'accoglienza e il sostegno degli universitari ucraini."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/v4BtkAAEkW"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""road"":""Piazza San Marco"",""state"":""Toscana"",""suburb"":""Quartiere 1""},""boundingbox"":[""43.7776541"",""43.7780399"",""11.2581501"",""11.2590387""],""class"":""highway"",""display_name"":""Piazza San Marco, Quartiere 1, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, Italia"",""importance"":0.8310731310973491,""lat"":""43.777842699999994"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.258830486761724"",""osm_id"":2473852,""osm_type"":""relation"",""place_id"":285417223,""type"":""pedestrian""},""mode"":""autocomplete""},""submit"":true,""title"":""Universit\u00e0 di Firenze attiva borse di studio, contratto di visiting professor e alloggi gratuiti per studenti e ricercatori ucraini""}","<pre><yamldata>
+title: Università di Firenze attiva borse di studio, contratto di visiting professor
+  e alloggi gratuiti per studenti e ricercatori ucraini
+description: 19 borse di studio, 12 contratti di visiting professor, 15 posti nelle
+  residenze universitarie sono le azioni messe in campo da Università di Firenze per
+  l'accoglienza e il sostegno degli universitari ucraini.
+link: https://t.co/v4BtkAAEkW
+location:
+  mode: autocomplete
+  address:
+    place_id: 285417223
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 2473852
+    boundingbox:
+    - '43.7776541'
+    - '43.7780399'
+    - '11.2581501'
+    - '11.2590387'
+    lat: '43.777842699999994'
+    lon: '11.258830486761724'
+    display_name: Piazza San Marco, Quartiere 1, Firenze, Città metropolitana di Firenze,
+      Toscana, Italia
+    class: highway
+    type: pedestrian
+    importance: 0.8310731310973491
+    address:
+      road: Piazza San Marco
+      suburb: Quartiere 1
+      city: Firenze
+      county: Città metropolitana di Firenze
+      state: Toscana
+      ISO3166-2-lvl4: IT-52
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 43.777842699999994 11.258830486761724
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/649,1206733203,2022-04-18 06:45:13,2022-04-18 06:44:46,Riapre a Kiev l'ambasciata d'Italia in Ucraina - Info e contatti,50.4510167,30.5100124,,,"[""Valid/Accettato"",""News"",""useful contact""]",,,"{""Posizione"":""50.4510167 30.5100124"",""description"":""L\u2019Ambasciata d\u2019Italia in Ucraina informa che dalla prossima settimana sar\u00e0 nuovamente operativa dalla Sede di Kiev, situata in Yaroslaviv Val 32 B. L\u2019Ufficio temporaneo di Leopoli non \u00e8 quindi pi\u00f9 operativo.\n\nGli Uffici rispondono ai seguenti numeri:\n+38 050 31 02 111\n+38 091 61 74 963\n\nGli Uffici sono raggiungibili anche ai seguenti recapiti e-mail:\n\nAMBASCIATORE E UFFICIO POLITICO\ne-mail: segreteria.kiev@esteri.it\n\nUFFICIO ECONOMICO COMMERCIALE\ne-mail: commerciale.kiev@esteri.it\n\nCAPO DELLA CANCELLERIA CONSOLARE\ne-mail: consolato.kiev@esteri.it\n\nUFFICIO DELL'ADDETTO MILITARE\ne-mail: difeitalia.kiev@smd.difesa.it\n\nL'UFFICIO ICE DI KIEV non \u00e8 al momento operativo in Ucraina, ma \u00e8 raggiungibile via e-mail al seguente indirizzo: kiev@ice.it \n\nSi informa che \u00e8 stato attivato un Help Desk Ucraina helpdeskucraina@ice.it (https://www.ice.it/it/help-desk-ucraina ) rivolto a imprenditori e aziende con interessi attuali in Ucraina."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""http://www.ambkiev.esteri.it/"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""UA-30"",""borough"":""\u0428\u0435\u0432\u0447\u0435\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"",""city"":""Kyiv"",""country"":""Ucraina"",""country_code"":""ua"",""postcode"":""01034"",""quarter"":""\u0421\u0442\u0430\u0440\u0438\u0439 \u041a\u0438\u0457\u0432"",""road"":""\u042f\u0440\u043e\u0441\u043b\u0430\u0432\u0456\u0432 \u0412\u0430\u043b \u0432\u0443\u043b\u0438\u0446\u044f""},""boundingbox"":[""50.4489296"",""50.4542448"",""30.5060338"",""30.5145647""],""class"":""highway"",""display_name"":""\u042f\u0440\u043e\u0441\u043b\u0430\u0432\u0456\u0432 \u0412\u0430\u043b \u0432\u0443\u043b\u0438\u0446\u044f, \u0421\u0442\u0430\u0440\u0438\u0439 \u041a\u0438\u0457\u0432, \u0428\u0435\u0432\u0447\u0435\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, Kyiv, 01034, Ucraina"",""importance"":0.09999999999999998,""lat"":""50.4510167"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""30.5100124"",""osm_id"":8142324,""osm_type"":""way"",""place_id"":97822600,""type"":""tertiary""},""mode"":""autocomplete""},""submit"":true,""title"":""Riapre a Kiev l'ambasciata d'Italia in Ucraina - Info e contatti""}","<pre><yamldata>
 title: Riapre a Kiev l'ambasciata d'Italia in Ucraina - Info e contatti
 description: ""L’Ambasciata d’Italia in Ucraina informa che dalla prossima settimana\
@@ -557,57 +811,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 45.45512045 12.250379081443793
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/629,1205564176,2022-04-16 08:14:07,2022-04-15 13:07:12,A Verona e provincia trasporto pubblico gratuito per i rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""transport""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""city"":""Verona"",""country"":""Italia"",""country_code"":""it"",""county"":""Verona"",""postcode"":""37122"",""state"":""Veneto""},""boundingbox"":[""45.2784958"",""45.5984958"",""10.8324122"",""11.1524122""],""class"":""place"",""display_name"":""Verona, Veneto, 37122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7461573888828525,""lat"":""45.4384958"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.9924122"",""osm_id"":64778101,""osm_type"":""node"",""place_id"":286299859,""type"":""city""},""mode"":""autocomplete""},""description"":""Fino al 30 giugno a Verona e provincia trasporto pubblico gratuitl per i rifugiati ucraini ospitati a Verona. Ulteriori info al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Provincia di Verona"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""A Verona e provincia trasporto pubblico gratuitl per i rifugiati ucraini"",""url"":""https://daily.veronanetwork.it/news/trasporto-pubblico-gratis-per-i-rifugiati-ucraini-ospitati-a-verona/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: true
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Provincia di Verona
-title: A Verona e provincia trasporto pubblico gratuitl per i rifugiati ucraini
-recipients: ''
-description: Fino al 30 giugno a Verona e provincia trasporto pubblico gratuitl per
-  i rifugiati ucraini ospitati a Verona. Ulteriori info al link.
-url: https://daily.veronanetwork.it/news/trasporto-pubblico-gratis-per-i-rifugiati-ucraini-ospitati-a-verona/
-address:
-  mode: autocomplete
-  address:
-    place_id: 286299859
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 64778101
-    boundingbox:
-    - '45.2784958'
-    - '45.5984958'
-    - '10.8324122'
-    - '11.1524122'
-    lat: '45.4384958'
-    lon: '10.9924122'
-    display_name: Verona, Veneto, 37122, Italia
-    class: place
-    type: city
-    importance: 0.7461573888828525
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
-    address:
-      city: Verona
-      county: Verona
-      state: Veneto
-      ISO3166-2-lvl4: IT-34
-      postcode: '37122'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/630,1205565938,2022-04-16 08:10:02,2022-04-15 13:09:34,"Asl Roma 1, attivi due ambulatori per donne e bambini ucraini",,,,,"[""Valid/Accettato"",""Services"",""healthcare"",""Children"",""women"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""boundary"":""ASL Roma 1"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.8707079"",""42.1410285"",""12.2423884"",""12.6186465""],""class"":""boundary"",""display_name"":""ASL Roma 1, Roma Capitale, Lazio, Italia"",""importance"":0.42500000000000004,""lat"":""41.9874956"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.432189226861333"",""osm_id"":13657801,""osm_type"":""relation"",""place_id"":327153774,""type"":""health""},""mode"":""autocomplete""},""description"":""La Asl Roma 1 mette a punto due nuovi servizi per donne e bambini arrivati dall\u2019Ucraina. Il primo, operativo da oggi, 5 aprile, \u00e8 presso l\u2019Ospedale Santo Spirito in Sassia: un ambulatorio di ostetricia e ginecologia, con la possibilit\u00e0 di visite ed ecografie, disponibile ad accesso libero ogni marted\u00ec dalle 15 alle 18.30. Il secondo ambulatorio invece partir\u00e0 il 7 aprile, nell\u2019hub Ostiense, dove il personale \u00e8 gi\u00e0 al lavoro da settimane per l\u2019emissione della tessera Stp (Stranieri temporaneamente presenti) e per la vaccinazione anti covid per chi sta scappando dalla guerra. Nella struttura di via delle Cave Ardeatine 36, ogni gioved\u00ec dalle 8 alle 1, sar\u00e0 possibile effettuare visite ginecologiche e pediatriche che prevedono tra le altre cose il controllo della crescita, la verifica delle vaccinazioni effettuate, la valutazione die problemi legati alla nutrizione e alle allergie, valutazione di disturbi del neurosviluppo, inquadramento delle problematiche pediatriche per la valutazione e l\u2019invio presso i centri specialistici. Anche in questo caso l\u2019accesso \u00e8 libero."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Asl Roma 1"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":true},""submit"":true,""title"":""Asl Roma 1: due ambulatori per donne e bambini ucraini"",""url"":""https://www.romasette.it/asl-roma-1-due-ambulatori-per-donne-e-bambini-ucraini/?utm_source=rss&utm_medium=rss&utm_campaign=asl-roma-1-due-ambulatori-per-donne-e-bambini-ucraini""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -1108,46 +1311,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/633,1205585976,2022-04-15 15:08:48,2022-04-15 13:36:23,Mappa dei servizi a supporto dei rifugiati ucraini a Anzio e Nettuno (Roma),41.4471008,12.6285618,Lazio,Roma,"[""Valid/Accettato"",""Services"",""materialGoods"",""hospitality"",""Children"",""education""]",,,"{""Posizione"":""41.4471008 12.6285618"",""description"":""Online una mappa, realizzata dalla rete Cura, dei servizi a supporto dei rifugiati ucraini a Anzio e Nettuno (Roma).\nPer info e contatti: curaretesociale@gmail.com\nFacebook https://m.facebook.com/curasociale/"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.curaretesociale.com/mappe-del-territorio?fbclid=IwAR3X8DA-Dacoi5VXi8oeQ2LeXZoRhaCsoImyMtj-LpAcITmqsbPfVFk4Sps"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00042"",""state"":""Lazio"",""town"":""Anzio""},""boundingbox"":[""41.4427573"",""41.5446274"",""12.5525476"",""12.6455847""],""class"":""boundary"",""display_name"":""Anzio, Roma Capitale, Lazio, 00042, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.6456458527457664,""lat"":""41.4471008"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.6285618"",""osm_id"":41363,""osm_type"":""relation"",""place_id"":283676212,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Mappa dei servizi a supporto dei rifugiati ucraini a Anzio e Nettuno (Roma)""}","<pre><yamldata>
-title: Mappa dei servizi a supporto dei rifugiati ucraini a Anzio e Nettuno (Roma)
-description: 'Online una mappa, realizzata dalla rete Cura, dei servizi a supporto
-  dei rifugiati ucraini a Anzio e Nettuno (Roma).
-
-  Per info e contatti: curaretesociale@gmail.com
-
-  Facebook https://m.facebook.com/curasociale/'
-link: https://www.curaretesociale.com/mappe-del-territorio?fbclid=IwAR3X8DA-Dacoi5VXi8oeQ2LeXZoRhaCsoImyMtj-LpAcITmqsbPfVFk4Sps
-location:
-  mode: autocomplete
-  address:
-    place_id: 283676212
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 41363
-    boundingbox:
-    - '41.4427573'
-    - '41.5446274'
-    - '12.5525476'
-    - '12.6455847'
-    lat: '41.4471008'
-    lon: '12.6285618'
-    display_name: Anzio, Roma Capitale, Lazio, 00042, Italia
-    class: boundary
-    type: administrative
-    importance: 0.6456458527457664
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      town: Anzio
-      county: Roma Capitale
-      state: Lazio
-      postcode: '00042'
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 41.4471008 12.6285618
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/632,1205573420,2022-04-15 15:07:43,2022-04-15 13:19:54,"Comune di Udine, contributo una tantum ai cittadini che ospitano profughi ucraini",46.0634632,13.2358377,Friuli Venezia Giulia,Udine,"[""Valid/Accettato"",""News"",""hospitality""]",,,"{""Posizione"":""46.0634632 13.2358377"",""description"":""Per ogni profugo accolto e ospitato nella propria abitazione (per almeno 30 giorni), i cittadini udinesi riceveranno dal Comune un contributo una tantum da 250 euro, fino a un massimo di 1.500 euro per ogni soggetto ospitante. La risorse destinate a questa finalit\u00e0 dall\u2019amministrazione ammontano a 150mila euro e trovano copertura mediante l\u2019utilizzo dei fondi vincolati del \u201cLascito Marchesi\u201d, le cui finalit\u00e0 sono strettamente connesse a scopi sociali o assistenziali\u201d. Questa la decisione della giunta comunale."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/VUkarR7cNS?s=09"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-36"",""city"":""Udine"",""country"":""Italia"",""country_code"":""it"",""county"":""Udine"",""postcode"":""33100"",""state"":""Friuli Venezia Giulia""},""boundingbox"":[""45.9034632"",""46.2234632"",""13.0758377"",""13.3958377""],""class"":""place"",""display_name"":""Udine, Friuli Venezia Giulia, 33100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.699677555724844,""lat"":""46.0634632"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.2358377"",""osm_id"":66502664,""osm_type"":""node"",""place_id"":121892,""type"":""city""},""mode"":""autocomplete""},""submit"":true,""title"":""Comune di Udine, contributo una tantum ai cittadini che ospitano profughi ucraini""}","<pre><yamldata>
 title: Comune di Udine, contributo una tantum ai cittadini che ospitano profughi ucraini
 description: Per ogni profugo accolto e ospitato nella propria abitazione (per almeno
@@ -1189,46 +1352,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 46.0634632 13.2358377
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/631,1205571473,2022-04-15 15:07:17,2022-04-15 13:17:05,"Università di Firenze attiva borse di studio, contratti di visiting professor e alloggi gratuiti per studenti e ricercatori ucraini",43.777842699999994,11.258830486761724,Toscana,Firenze,"[""Valid/Accettato"",""Services"",""education""]",,,"{""Posizione"":""43.777842699999994 11.258830486761724"",""description"":""19 borse di studio, 12 contratti di visiting professor, 15 posti nelle residenze universitarie sono le azioni messe in campo da Universit\u00e0 di Firenze per l'accoglienza e il sostegno degli universitari ucraini."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/v4BtkAAEkW"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""road"":""Piazza San Marco"",""state"":""Toscana"",""suburb"":""Quartiere 1""},""boundingbox"":[""43.7776541"",""43.7780399"",""11.2581501"",""11.2590387""],""class"":""highway"",""display_name"":""Piazza San Marco, Quartiere 1, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, Italia"",""importance"":0.8310731310973491,""lat"":""43.777842699999994"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.258830486761724"",""osm_id"":2473852,""osm_type"":""relation"",""place_id"":285417223,""type"":""pedestrian""},""mode"":""autocomplete""},""submit"":true,""title"":""Universit\u00e0 di Firenze attiva borse di studio, contratto di visiting professor e alloggi gratuiti per studenti e ricercatori ucraini""}","<pre><yamldata>
-title: Università di Firenze attiva borse di studio, contratto di visiting professor
-  e alloggi gratuiti per studenti e ricercatori ucraini
-description: 19 borse di studio, 12 contratti di visiting professor, 15 posti nelle
-  residenze universitarie sono le azioni messe in campo da Università di Firenze per
-  l'accoglienza e il sostegno degli universitari ucraini.
-link: https://t.co/v4BtkAAEkW
-location:
-  mode: autocomplete
-  address:
-    place_id: 285417223
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 2473852
-    boundingbox:
-    - '43.7776541'
-    - '43.7780399'
-    - '11.2581501'
-    - '11.2590387'
-    lat: '43.777842699999994'
-    lon: '11.258830486761724'
-    display_name: Piazza San Marco, Quartiere 1, Firenze, Città metropolitana di Firenze,
-      Toscana, Italia
-    class: highway
-    type: pedestrian
-    importance: 0.8310731310973491
-    address:
-      road: Piazza San Marco
-      suburb: Quartiere 1
-      city: Firenze
-      county: Città metropolitana di Firenze
-      state: Toscana
-      ISO3166-2-lvl4: IT-52
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 43.777842699999994 11.258830486761724
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/627,1205553470,2022-04-15 15:05:50,2022-04-15 12:50:47,"Vademecum ""Buone prassi di aiuto ai profughi ucraini"" ad uso del volontariato, a cura di Psicologi per i popoli Emilia Romagna ",44.4884081,11.390978,Emilia-Romagna,Bologna,"[""Valid/Accettato"",""hospitality"",""document_data""]",,,"{""Posizione"":""44.4884081 11.390978"",""description"":""Vademecum ad uso del volontariato impegnato in attivit\u00e0 di aiuto dei rifugiati ucraini. A cura di Psicologi per i Popoli Emilia-Romagna."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://www.ordinepsicologier.it/public/genpags/bigs/InfograficaVOLONTARI.pdf"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""house_number"":""72"",""postcode"":""40139"",""road"":""Via Alberto Legnani"",""state"":""Emilia-Romagna"",""suburb"":""Fossolo""},""boundingbox"":[""44.4883581"",""44.4884581"",""11.390928"",""11.391028""],""class"":""place"",""display_name"":""72, Via Alberto Legnani, Fossolo, Savena, Bologna, Emilia-Romagna, 40139, Italia"",""importance"":0.42099999999999993,""lat"":""44.4884081"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.390978"",""osm_id"":1704381782,""osm_type"":""node"",""place_id"":15206708,""type"":""house""},""mode"":""autocomplete""},""submit"":true,""title"":""Vademecum \""Buone prassi di aiuto ai profughi ucraini\"" ad uso del volontariato, a cura di Psicologi per i Popoli Emilia-Romagna""}","<pre><yamldata>
 title: Vademecum ""Buone prassi di aiuto ai profughi ucraini"" ad uso del volontariato,
@@ -1414,61 +1537,6 @@ address:
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/621,1205432384,2022-04-15 14:58:55,2022-04-15 09:32:15,Società Italiana di Ortopedia e Traumatologia promuove raccolta di strumenti chirurgici e medici per ospedale di Khmelmitskyi e cerca nuove adesioni alla raccolta,41.9246183,12.4784404,Lazio,Roma,"[""Valid/Accettato"",""News"",""materialGoods"",""healthcare""]",,,"{""Posizione"":""41.9246183 12.4784404"",""description"":""La Societ\u00e0 Italiana di Ortopedia e Traumatologia (Siot) sostiene l'iniziativa per la raccolta di strumenti chirurgici e kit medici da destinare all'ospedale ucraino di Khmelmitskyi.\nLa Societ\u00e0 rivolge un appello che rivolgiamo a tutti i medici e tutte le strutture sanitarie italiane per ampliare la catena di solidariet\u00e0 in favore della popolazione ucraina attiva gi\u00e0 dai primi giorni di inizio del conflitto. I medici possono mettere a disposizione strumenti personali che non usano pi\u00f9 e favorire la raccolta di quelli dismessi dalle strutture.\nServe soprattutto materiale per la fissazione di fratture e per il trattamento delle ferite da armi da fuoco, esplosione o travolgimento, da destinare a una struttura sanitaria di seconda linea che si trova nella zona Est del Paese.\nAd oggi hanno gi\u00e0 aderito 12 strutture ospedaliere.\nPer aderire alla catena di solidariet\u00e0 per la raccolta degli strumenti chirurgici \u00e8 possibile contattare la SIOT al numero 06-80691593 o all'email segreteria@siot.it."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/8Q54VdtRDz?s=09"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00100"",""road"":""Via Nicola Martelli"",""state"":""Lazio"",""suburb"":""Pinciano""},""boundingbox"":[""41.9245235"",""41.9246185"",""12.4774699"",""12.478957""],""class"":""highway"",""display_name"":""Via Nicola Martelli, Pinciano, Roma, Roma Capitale, Lazio, 00100, Italia"",""importance"":0.51,""lat"":""41.9246183"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4784404"",""osm_id"":23920896,""osm_type"":""way"",""place_id"":107211317,""type"":""residential""},""mode"":""autocomplete""},""submit"":true,""title"":""Societ\u00e0 Italiana di Ortopedia e Traumatologia promuove raccolta di strumenti chirurgici e medici per ospedale di Khmelmitskyi e cerca nuove adesioni alla raccolta""}","<pre><yamldata>
-title: Società Italiana di Ortopedia e Traumatologia promuove raccolta di strumenti
-  chirurgici e medici per ospedale di Khmelmitskyi e cerca nuove adesioni alla raccolta
-description: 'La Società Italiana di Ortopedia e Traumatologia (Siot) sostiene l''iniziativa
-  per la raccolta di strumenti chirurgici e kit medici da destinare all''ospedale
-  ucraino di Khmelmitskyi.
-
-  La Società rivolge un appello che rivolgiamo a tutti i medici e tutte le strutture
-  sanitarie italiane per ampliare la catena di solidarietà in favore della popolazione
-  ucraina attiva già dai primi giorni di inizio del conflitto. I medici possono mettere
-  a disposizione strumenti personali che non usano più e favorire la raccolta di quelli
-  dismessi dalle strutture.
-
-  Serve soprattutto materiale per la fissazione di fratture e per il trattamento delle
-  ferite da armi da fuoco, esplosione o travolgimento, da destinare a una struttura
-  sanitaria di seconda linea che si trova nella zona Est del Paese.
-
-  Ad oggi hanno già aderito 12 strutture ospedaliere.
-
-  Per aderire alla catena di solidarietà per la raccolta degli strumenti chirurgici
-  è possibile contattare la SIOT al numero 06-80691593 o all''email segreteria@siot.it.'
-link: https://t.co/8Q54VdtRDz?s=09
-location:
-  mode: autocomplete
-  address:
-    place_id: 107211317
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 23920896
-    boundingbox:
-    - '41.9245235'
-    - '41.9246185'
-    - '12.4774699'
-    - '12.478957'
-    lat: '41.9246183'
-    lon: '12.4784404'
-    display_name: Via Nicola Martelli, Pinciano, Roma, Roma Capitale, Lazio, 00100,
-      Italia
-    class: highway
-    type: residential
-    importance: 0.51
-    address:
-      road: Via Nicola Martelli
-      suburb: Pinciano
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      postcode: '00100'
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 41.9246183 12.4784404
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/619,1205412829,2022-04-15 14:56:38,2022-04-15 09:05:21,Associazione medici diabetologi e Società italiana di diabetologia pubblicano vademecum per rifugiati ucraini affetti da diabete,,,,,"[""Valid/Accettato"",""Services"",""healthcare""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""L'Associazione medici diabetologi (Amd) e la Societ\u00e0 italiana di diabetologia (Sid) hanno predisposto un vademecum per la gestione delle persone con diabete in arrivo dall'Ucraina finalizzato a garantire la continuit\u00e0 di cura, essendo il diabete una malattia cronica che richiede un attento monitoraggio e aderenza alle terapie.\nOltre al documento, indirizzato a tutte le strutture e i soggetti coinvolti nell'accoglienza dei rifugiati, attivati anche dus indirizzi e-mail dedicati (info.ucraina@aemmedi.it e a.russo@siditalia.it) ai quali ci si potr\u00e0 rivolgere per ricevere il supporto degli esperti Amd e Sid."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione medici diabetologi e Societ\u00e0 italiana di diabetologia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Associazione medici diabetologi e Societ\u00e0 italiana di diabetologia pubblicano vademecum per rifugiati ucraini affetti da diabete e attivano indirizzo mail dedicato per ricevere supporto"",""url"":""https://t.co/Koqm2v5Fxs""}","<pre><yamldata>
 servicetypes:
@@ -3679,74 +3747,6 @@ url: https://www.facebook.com/UNBA.Foreign/posts/1359640941207406
 address:
   mode: autocomplete
   address: {}
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/604,1203383346,2022-04-13 15:04:59,2022-04-13 14:28:36,All’Università Bocconi di Milano nasce UASI - Ucraina Supporto e Informazione per offrire supporto legale a rifugiati ucraini ed enti impegnati nell’emergenza Ucraina,,,,,"[""Valid/Accettato"",""Services"",""Legal""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20136"",""quarter"":""Vigentina"",""road"":""Via Corrado Guglielmo Rontgen"",""state"":""Lombardia"",""suburb"":""Municipio 5""},""boundingbox"":[""45.4492051"",""45.4515967"",""9.1867565"",""9.1876216""],""class"":""highway"",""display_name"":""Via Corrado Guglielmo Rontgen, Vigentina, Municipio 5, Milano, Lombardia, 20136, Italia"",""importance"":0.51,""lat"":""45.4509094"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1874059"",""osm_id"":37042448,""osm_type"":""way"",""place_id"":111476102,""type"":""residential""},""mode"":""autocomplete""},""description"":""Una Unit di supporto giuridico per dare aiuto ai rifugiati ucraini e supporto a ong e istituzioni italiane che stanno affrontando l\u2019emergenza: \u00e8 Ucraina Supporto e Informazione (UASI), l\u2019unit\u00e0 appena nata in seno al Bocconi Lab in European Studies (BLEST) per iniziativa di docenti, studenti e alumni della Bocconi e sostenuta dalla Fondazione Romeo ed Enrica Invernizzi. UASI produrr\u00e0 materiale utile a coloro che fuggono dal conflitto e arrivano in Italia, piccole guide digitali in tre lingue (italiano, ucraino e russo) di supporto agli individui e alle amministrazioni per orientarsi nel complesso labirinto amministrativo e legale. Inoltre, offrir\u00e0 supporto alle organizzazioni e amministrazioni: sul modello delle cliniche legali, gli studenti Bocconi faranno attivit\u00e0 di sportello con Avvocati per l\u2019Ucraina, mentre la Unit fornir\u00e0 attivit\u00e0 di consulenza legale per le organizzazioni e attori istituzionali. Se fai parte di una organizzazione e vuoi entrare in contatto con noi, contattaci al uasi.blest@unibocconi.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Universit\u00e0 Bocconi Milano"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""All\u2019Universit\u00e0 Bocconi di Milano nasce UASI - Ucraina Supporto e Informazione per offrire supporto legale a rifugiati ucraini, enti e organizzazioni che stanno affrontando l\u2019emergenza Ucraina"",""url"":""https://blest.unibocconi.eu/focus-europe-and-ukraine/focus-ukraine/uasi-ucraina-supporto-e-informazione""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: true
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Università Bocconi Milano
-title: All’Università Bocconi di Milano nasce UASI - Ucraina Supporto e Informazione
-  per offrire supporto legale a rifugiati ucraini, enti e organizzazioni che stanno
-  affrontando l’emergenza Ucraina
-recipients: ''
-description: 'Una Unit di supporto giuridico per dare aiuto ai rifugiati ucraini e
-  supporto a ong e istituzioni italiane che stanno affrontando l’emergenza: è Ucraina
-  Supporto e Informazione (UASI), l’unità appena nata in seno al Bocconi Lab in European
-  Studies (BLEST) per iniziativa di docenti, studenti e alumni della Bocconi e sostenuta
-  dalla Fondazione Romeo ed Enrica Invernizzi.
-  UASI produrrà materiale utile a coloro che fuggono dal conflitto e arrivano in Italia,
-  piccole guide digitali in tre lingue (italiano, ucraino e russo) di supporto agli
-  individui e alle amministrazioni per orientarsi nel complesso labirinto amministrativo
-  e legale. Inoltre, offrirà supporto alle organizzazioni e amministrazioni: sul modello
-  delle cliniche legali, gli studenti Bocconi faranno attività di sportello con Avvocati
-  per l’Ucraina, mentre la Unit fornirà attività di consulenza legale per le organizzazioni
-  e attori istituzionali.
-  Se fai parte di una organizzazione e vuoi entrare in contatto con noi, contattaci
-  al uasi.blest@unibocconi.it'
-url: https://blest.unibocconi.eu/focus-europe-and-ukraine/focus-ukraine/uasi-ucraina-supporto-e-informazione
-address:
-  mode: autocomplete
-  address:
-    place_id: 111476102
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 37042448
-    boundingbox:
-    - '45.4492051'
-    - '45.4515967'
-    - '9.1867565'
-    - '9.1876216'
-    lat: '45.4509094'
-    lon: '9.1874059'
-    display_name: Via Corrado Guglielmo Rontgen, Vigentina, Municipio 5, Milano, Lombardia,
-      20136, Italia
-    class: highway
-    type: residential
-    importance: 0.51
-    address:
-      road: Via Corrado Guglielmo Rontgen
-      quarter: Vigentina
-      suburb: Municipio 5
-      city: Milano
-      county: Milano
-      ISO3166-2-lvl6: IT-MI
-      state: Lombardia
-      postcode: '20136'
-      country: Italia
-      country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
