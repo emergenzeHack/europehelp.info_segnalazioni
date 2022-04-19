@@ -1,4 +1,52 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/654,1208870516,2022-04-19 22:17:36,2022-04-19 21:17:31,Associazione Ucraina-Friuli: info e contatti,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-36"",""city"":""Codroipo"",""country"":""Italia"",""country_code"":""it"",""county"":""Udine"",""postcode"":""33033"",""state"":""Friuli Venezia Giulia""},""boundingbox"":[""45.9002694"",""46.0088828"",""12.9037312"",""13.0500963""],""class"":""boundary"",""display_name"":""Codroipo, Udine, Friuli Venezia Giulia, 33033, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7234259451518048,""lat"":""45.954589600000006"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.99635900436426"",""osm_id"":179099,""osm_type"":""relation"",""place_id"":284878766,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""L\u2019associazione, che ha sede a Codroipo (Udine) e si \u00e8 costituita nel 2006, ha aperto dal 02 marzo a Udine, presso il Centro Commerciale CITTA\u2019 FIERA (Via Antonio Bardelli, 4  33035 Martignacco UD), un Centro per la raccolta degli aiuti umanitari da inviare in Ucraina. Orari: 09.30 \u2013 19.00 (Piano terra Area Blu, entrate suggerite Nord 1 o Est 1). Per info tel. 351 964 4976.\nDa luned\u00ec 14 marzo \u00e8, invece, aperto il punto di distribuzione dei vestiti per i profughi arrivati a Udine, presso la sede della Protezione Civile: Piazzale Unit\u00e0 d\u2019Italia 1 con seguenti orari: Da Luned\u00ec al Venerd\u00ec 10.00 \u2013 12.00 e 16.00 \u2013 18.00 Sabato 10.00 \u2013 12.00.\n\nOrganizza anche corsi di italiano per profughi (vedi qui https://www.facebook.com/photo/?fbid=120144707286676&set=gm.4953185214797844)\n\nPer chi volesse effettuare donazioni in denaro:\nIBAN: IT11R0871512304000000721155\nBANCA DI UDINE \nIntestatario: Associazione Culturale Ucraina-Friuli. \nCausale: Donazione per la Solidariet\u00e0 ucraina.\n\nPagina Facebook: https://www.facebook.com/groups/4868509369932096"",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 351 964 49 76, +39 339 285 81 85"",""submit"":true,""title"":""Associazione Ucraina-Friuli: info e contatti"",""url"":""https://www.ucraina-friuli.it""}","<pre><yamldata>
+title: 'Associazione Ucraina-Friuli: info e contatti'
+phoneNumber: +39 351 964 49 76, +39 339 285 81 85
+email: ''
+aim: ""L’associazione, che ha sede a Codroipo (Udine) e si è costituita nel 2006, ha\
+  \ aperto dal 02 marzo a Udine, presso il Centro Commerciale CITTA’ FIERA (Via Antonio\
+  \ Bardelli, 4  33035 Martignacco UD), un Centro per la raccolta degli aiuti umanitari\
+  \ da inviare in Ucraina. Orari: 09.30 – 19.00 (Piano terra Area Blu, entrate suggerite\
+  \ Nord 1 o Est 1). Per info tel. 351 964 4976.\nDa lunedì 14 marzo è, invece, aperto\
+  \ il punto di distribuzione dei vestiti per i profughi arrivati a Udine, presso\
+  \ la sede della Protezione Civile: Piazzale Unità d’Italia 1 con seguenti orari:\
+  \ Da Lunedì al Venerdì 10.00 – 12.00 e 16.00 – 18.00 Sabato 10.00 – 12.00.\n\nOrganizza\
+  \ anche corsi di italiano per profughi (vedi qui https://www.facebook.com/photo/?fbid=120144707286676&set=gm.4953185214797844)\n\
+  \nPer chi volesse effettuare donazioni in denaro:\nIBAN: IT11R0871512304000000721155\n\
+  BANCA DI UDINE \nIntestatario: Associazione Culturale Ucraina-Friuli. \nCausale:\
+  \ Donazione per la Solidarietà ucraina.\n\nPagina Facebook: https://www.facebook.com/groups/4868509369932096""
+url: https://www.ucraina-friuli.it
+address:
+  mode: autocomplete
+  address:
+    place_id: 284878766
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 179099
+    boundingbox:
+    - '45.9002694'
+    - '46.0088828'
+    - '12.9037312'
+    - '13.0500963'
+    lat: '45.954589600000006'
+    lon: '12.99635900436426'
+    display_name: Codroipo, Udine, Friuli Venezia Giulia, 33033, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7234259451518048
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Codroipo
+      county: Udine
+      state: Friuli Venezia Giulia
+      ISO3166-2-lvl4: IT-36
+      postcode: '33033'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/142,1169413203,2022-04-19 20:53:09,2022-03-15 09:37:26,Comune di Pordenone attiva pagina web e numero telefonico per info su emergenza Ucraina,45.9562503,12.6597197,Friuli Venezia Giulia,Pordenone,"[""Valid/Accettato"",""News"",""Services"",""useful contact"",""hospitality"",""healthcare""]",,,"{""Posizione"":""45.9562503 12.6597197"",""description"":""Comune di Pordenone ha attivato il COC (Centro Operativo Comunale) per coordinare in modo efficiente la macchina dell\u2019emergenza Ucraina e ha aperto una pagina web sul proprio sito istituzionale con aggiornamenti e info utili  per i profughi ucraini e le famiglie che li ospitano. Inoltre per ulteriori informazioni \u00e8 attivo il numero telefonico del Comune 0434 392290 (dal luned\u00ec al venerd\u00ec ore 9:00-13:00)."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.comune.pordenone.it/it/comune/comunicazione/comune-informa/notizie/un-aiuto-alle-famiglie-ucraine"",""location"":{""address"":{""address"":{""city"":""Pordenone"",""country"":""Italia"",""country_code"":""it"",""county"":""Pordenone"",""postcode"":""33170"",""state"":""Friuli Venezia Giulia""},""boundingbox"":[""45.9023126"",""46.0032911"",""12.6107195"",""12.7026257""],""class"":""boundary"",""display_name"":""Pordenone, Friuli Venezia Giulia, 33170, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.6310329586860557,""lat"":""45.9562503"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.6597197"",""osm_id"":179205,""osm_type"":""relation"",""place_id"":283270824,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Comune di Pordenone attiva numero telefonico per info su emergenza Ucraina""}","<pre><yamldata>
 title: Comune di Pordenone attiva numero telefonico per info su emergenza Ucraina
 description: Comune di Pordenone ha attivato il COC (Centro Operativo Comunale) per
