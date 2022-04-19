@@ -1,4 +1,49 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/53,1164074825,2022-04-19 13:46:21,2022-03-09 15:15:17,"Save the children Italia attiva Help Line per minori ucraini, famiglie e enti impegnati nell’accoglienza",,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""hospitality"",""Children"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""9"",""office"":""Save the Children Italia"",""postcode"":""00184"",""quarter"":""Monti"",""road"":""Piazza di San Francesco di Paola"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.8939153"",""41.8940153"",""12.4916895"",""12.4917895""],""class"":""office"",""display_name"":""Save the Children Italia, 9, Piazza di San Francesco di Paola, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia"",""importance"":0.9309999999999999,""lat"":""41.8939653"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4917395"",""osm_id"":9094641317,""osm_type"":""node"",""place_id"":95476703,""type"":""ngo""},""mode"":""autocomplete""},""description"":""Help Line di SaveChildren a sostegno di bambini ucraini soli o con le loro famiglie, associazioni, Asl ed enti locali impegnati nell'accoglienza.\n Tel. 351 2202016. Ulteriori le informazioni al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Save The children Italia"",""recipients"":""Minori e famiglie ucraine"",""submit"":true,""title"":""Save The children attiva help Line per minori ucraini, famiglie e enti impegnati nell\u2019accoglienza"",""type"":""children"",""url"":""https://www.facebook.com/46590675335/posts/10159891711955336/""}","<pre><yamldata>
+type: children
+offerFromWho: Save The children Italia
+title: Save The children attiva help Line per minori ucraini, famiglie e enti impegnati
+  nell’accoglienza
+recipients: Minori e famiglie ucraine
+description: ""Help Line di SaveChildren a sostegno di bambini ucraini soli o con le\
+  \ loro famiglie, associazioni, Asl ed enti locali impegnati nell'accoglienza.\n\
+  \ Tel. 351 2202016. Ulteriori le informazioni al link.""
+url: https://www.facebook.com/46590675335/posts/10159891711955336/
+address:
+  mode: autocomplete
+  address:
+    place_id: 95476703
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 9094641317
+    boundingbox:
+    - '41.8939153'
+    - '41.8940153'
+    - '12.4916895'
+    - '12.4917895'
+    lat: '41.8939653'
+    lon: '12.4917395'
+    display_name: Save the Children Italia, 9, Piazza di San Francesco di Paola, Monti,
+      Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia
+    class: office
+    type: ngo
+    importance: 0.9309999999999999
+    address:
+      office: Save the Children Italia
+      house_number: '9'
+      road: Piazza di San Francesco di Paola
+      quarter: Monti
+      suburb: Municipio Roma I
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: 00184
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/622,1205436826,2022-04-19 06:41:38,2022-04-15 09:38:45,"Toscana, mensa e alloggio gratuiti agli studenti universitari ucraini",43.7755574,11.2700867,Toscana,Firenze,"[""Valid/Accettato"",""Services"",""hospitality"",""telegram-channel"",""tweet"",""education""]",,,"{""Posizione"":""43.7755574 11.2700867"",""description"":""L'Azienda per il diritto alla studio universitario della Regione Toscana ha stabilito di concedere, su istanza individuale dello studente universitario con cittadinanza ucraina iscritto presso gli Atenei della Toscana, alle Scuole Superiori di Specializzazione (e presso le altre istituzioni universitarie della Regione Toscana e agli studenti universitari iscritti agli Atenei dell\u2019Ucraina che verranno accolti sul territorio regionale) o su segnalazione da parte degli Atenei e degli altri soggetti istituzionali:\n- il beneficio della mensa gratuita (numero due pasti giornalieri) fino al 31 dicembre 2022;\n- il beneficio del posto alloggio a titolo gratuito (fino a concorrenza dei posti disponibili presso le strutture residenziali dell\u2019Azienda e con precedenza agli studenti profughi) fino al 31 dicembre 2022, con esenzione dal pagamento del deposito cauzionale previa verifica della condizione dello studente in merito alla residenza anagrafica familiare.\n\nLe istanze potranno essere presentate inviando una mail all'indirizzo ucraina@dsu.toscana.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/zss8C95F7q"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""house_number"":""36"",""postcode"":""50132"",""road"":""Viale Antonio Gramsci"",""state"":""Toscana"",""suburb"":""Quartiere 2""},""boundingbox"":[""43.7755074"",""43.7756074"",""11.2700367"",""11.2701367""],""class"":""place"",""display_name"":""36, Viale Antonio Gramsci, Quartiere 2, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50132, Italia"",""importance"":0.6309999999999999,""lat"":""43.7755574"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2700867"",""osm_id"":2361838059,""osm_type"":""node"",""place_id"":21173258,""type"":""house""},""mode"":""autocomplete""},""submit"":true,""title"":""Toscana, mensa e alloggio gratuiti agli studenti universitari ucraini""}","<pre><yamldata>
 title: Toscana, mensa e alloggio gratuiti agli studenti universitari ucraini
 description: 'L''Azienda per il diritto alla studio universitario della Regione Toscana
@@ -6614,51 +6659,6 @@ address:
     state: Italia
     country: ''
     zip: '88100'
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/53,1164074825,2022-04-09 15:52:47,2022-03-09 15:15:17,"Save the children Italia attiva Help Line per minori ucraini, famiglie e enti impegnati nell’accoglienza",,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""hospitality"",""Children"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""9"",""office"":""Save the Children Italia"",""postcode"":""00184"",""quarter"":""Monti"",""road"":""Piazza di San Francesco di Paola"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.8939153"",""41.8940153"",""12.4916895"",""12.4917895""],""class"":""office"",""display_name"":""Save the Children Italia, 9, Piazza di San Francesco di Paola, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia"",""importance"":0.9309999999999999,""lat"":""41.8939653"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4917395"",""osm_id"":9094641317,""osm_type"":""node"",""place_id"":95476703,""type"":""ngo""},""mode"":""autocomplete""},""description"":""Helpine di SaveChildren a sostegno di bambini ucraini soli o con le loro famiglie, associazioni, Asl ed enti locali impegnati nell'accoglienza.\n Tel. 351 2202016. Ulteriori le info al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Save The children Italia"",""recipients"":""Minori e famiglie ucraine"",""submit"":true,""title"":""Save The children attiva help Line per minori ucraini, famiglie e enti impegnati nell\u2019accoglienza"",""type"":""children"",""url"":""https://www.facebook.com/46590675335/posts/10159891711955336/""}","<pre><yamldata>
-type: children
-offerFromWho: Save The children Italia
-title: Save The children attiva help Line per minori ucraini, famiglie e enti impegnati
-  nell’accoglienza
-recipients: Minori e famiglie ucraine
-description: ""Helpine di SaveChildren a sostegno di bambini ucraini soli o con le\
-  \ loro famiglie, associazioni, Asl ed enti locali impegnati nell'accoglienza.\n\
-  \ Tel. 351 2202016. Ulteriori le info al link.""
-url: https://www.facebook.com/46590675335/posts/10159891711955336/
-address:
-  mode: autocomplete
-  address:
-    place_id: 95476703
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 9094641317
-    boundingbox:
-    - '41.8939153'
-    - '41.8940153'
-    - '12.4916895'
-    - '12.4917895'
-    lat: '41.8939653'
-    lon: '12.4917395'
-    display_name: Save the Children Italia, 9, Piazza di San Francesco di Paola, Monti,
-      Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia
-    class: office
-    type: ngo
-    importance: 0.9309999999999999
-    address:
-      office: Save the Children Italia
-      house_number: '9'
-      road: Piazza di San Francesco di Paola
-      quarter: Monti
-      suburb: Municipio Roma I
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      postcode: 00184
-      country: Italia
-      country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
