@@ -1,4 +1,373 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/622,1205436826,2022-04-19 06:41:38,2022-04-15 09:38:45,"Toscana, mensa e alloggio gratuiti agli studenti universitari ucraini",43.7755574,11.2700867,Toscana,Firenze,"[""Valid/Accettato"",""Services"",""hospitality"",""telegram-channel"",""tweet"",""education""]",,,"{""Posizione"":""43.7755574 11.2700867"",""description"":""L'Azienda per il diritto alla studio universitario della Regione Toscana ha stabilito di concedere, su istanza individuale dello studente universitario con cittadinanza ucraina iscritto presso gli Atenei della Toscana, alle Scuole Superiori di Specializzazione (e presso le altre istituzioni universitarie della Regione Toscana e agli studenti universitari iscritti agli Atenei dell\u2019Ucraina che verranno accolti sul territorio regionale) o su segnalazione da parte degli Atenei e degli altri soggetti istituzionali:\n- il beneficio della mensa gratuita (numero due pasti giornalieri) fino al 31 dicembre 2022;\n- il beneficio del posto alloggio a titolo gratuito (fino a concorrenza dei posti disponibili presso le strutture residenziali dell\u2019Azienda e con precedenza agli studenti profughi) fino al 31 dicembre 2022, con esenzione dal pagamento del deposito cauzionale previa verifica della condizione dello studente in merito alla residenza anagrafica familiare.\n\nLe istanze potranno essere presentate inviando una mail all'indirizzo ucraina@dsu.toscana.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/zss8C95F7q"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""house_number"":""36"",""postcode"":""50132"",""road"":""Viale Antonio Gramsci"",""state"":""Toscana"",""suburb"":""Quartiere 2""},""boundingbox"":[""43.7755074"",""43.7756074"",""11.2700367"",""11.2701367""],""class"":""place"",""display_name"":""36, Viale Antonio Gramsci, Quartiere 2, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50132, Italia"",""importance"":0.6309999999999999,""lat"":""43.7755574"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2700867"",""osm_id"":2361838059,""osm_type"":""node"",""place_id"":21173258,""type"":""house""},""mode"":""autocomplete""},""submit"":true,""title"":""Toscana, mensa e alloggio gratuiti agli studenti universitari ucraini""}","<pre><yamldata>
+title: Toscana, mensa e alloggio gratuiti agli studenti universitari ucraini
+description: 'L''Azienda per il diritto alla studio universitario della Regione Toscana
+  ha stabilito di concedere, su istanza individuale dello studente universitario con
+  cittadinanza ucraina iscritto presso gli Atenei della Toscana, alle Scuole Superiori
+  di Specializzazione (e presso le altre istituzioni universitarie della Regione Toscana
+  e agli studenti universitari iscritti agli Atenei dell’Ucraina che verranno accolti
+  sul territorio regionale) o su segnalazione da parte degli Atenei e degli altri
+  soggetti istituzionali:
+
+  - il beneficio della mensa gratuita (numero due pasti giornalieri) fino al 31 dicembre
+  2022;
+
+  - il beneficio del posto alloggio a titolo gratuito (fino a concorrenza dei posti
+  disponibili presso le strutture residenziali dell’Azienda e con precedenza agli
+  studenti profughi) fino al 31 dicembre 2022, con esenzione dal pagamento del deposito
+  cauzionale previa verifica della condizione dello studente in merito alla residenza
+  anagrafica familiare.
+
+
+  Le istanze potranno essere presentate inviando una mail all''indirizzo ucraina@dsu.toscana.it'
+link: https://t.co/zss8C95F7q
+location:
+  mode: autocomplete
+  address:
+    place_id: 21173258
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 2361838059
+    boundingbox:
+    - '43.7755074'
+    - '43.7756074'
+    - '11.2700367'
+    - '11.2701367'
+    lat: '43.7755574'
+    lon: '11.2700867'
+    display_name: 36, Viale Antonio Gramsci, Quartiere 2, Firenze, Città metropolitana
+      di Firenze, Toscana, 50132, Italia
+    class: place
+    type: house
+    importance: 0.6309999999999999
+    address:
+      house_number: '36'
+      road: Viale Antonio Gramsci
+      suburb: Quartiere 2
+      city: Firenze
+      county: Città metropolitana di Firenze
+      state: Toscana
+      ISO3166-2-lvl4: IT-52
+      postcode: '50132'
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 43.7755574 11.2700867
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/628,1205558833,2022-04-19 06:41:10,2022-04-15 13:00:18,"Indicazioni per famiglie che ospitano profughi dall’Ucraina, a cura di Psicologi per i popoli Emilia Romagna",44.4884081,11.390978,Emilia-Romagna,Bologna,"[""Valid/Accettato"",""hospitality"",""document_data"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""44.4884081 11.390978"",""description"":""Sul sito di Psicologi per i popoli Emilia Romagna una serie di suggerimenti per le famiglie che ospitano profughi dall\u2019Ucraina."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.psicopopoli-er.it/indicazioni-per-famiglie-che-ospitano-profughi-dallucraina-a-cura-di-pxp-emilia-romagna/"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""house_number"":""72"",""postcode"":""40139"",""road"":""Via Alberto Legnani"",""state"":""Emilia-Romagna"",""suburb"":""Fossolo""},""boundingbox"":[""44.4883581"",""44.4884581"",""11.390928"",""11.391028""],""class"":""place"",""display_name"":""72, Via Alberto Legnani, Fossolo, Savena, Bologna, Emilia-Romagna, 40139, Italia"",""importance"":0.42099999999999993,""lat"":""44.4884081"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.390978"",""osm_id"":1704381782,""osm_type"":""node"",""place_id"":15206708,""type"":""house""},""mode"":""autocomplete""},""submit"":true,""title"":""Indicazioni per famiglie che ospitano profughi dall\u2019Ucraina, a cura di Psicologi per i popoli Emilia Romagna""}","<pre><yamldata>
+title: Indicazioni per famiglie che ospitano profughi dall’Ucraina, a cura di Psicologi
+  per i popoli Emilia Romagna
+description: Sul sito di Psicologi per i popoli Emilia Romagna una serie di suggerimenti
+  per le famiglie che ospitano profughi dall’Ucraina.
+link: https://www.psicopopoli-er.it/indicazioni-per-famiglie-che-ospitano-profughi-dallucraina-a-cura-di-pxp-emilia-romagna/
+location:
+  mode: autocomplete
+  address:
+    place_id: 15206708
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 1704381782
+    boundingbox:
+    - '44.4883581'
+    - '44.4884581'
+    - '11.390928'
+    - '11.391028'
+    lat: '44.4884081'
+    lon: '11.390978'
+    display_name: 72, Via Alberto Legnani, Fossolo, Savena, Bologna, Emilia-Romagna,
+      40139, Italia
+    class: place
+    type: house
+    importance: 0.42099999999999993
+    address:
+      house_number: '72'
+      road: Via Alberto Legnani
+      suburb: Fossolo
+      city: Bologna
+      county: Bologna
+      state: Emilia-Romagna
+      ISO3166-2-lvl4: IT-45
+      postcode: '40139'
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 44.4884081 11.390978
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/632,1205573420,2022-04-19 06:40:46,2022-04-15 13:19:54,"Comune di Udine, contributo una tantum ai cittadini che ospitano profughi ucraini",46.0634632,13.2358377,Friuli Venezia Giulia,Udine,"[""Valid/Accettato"",""News"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""46.0634632 13.2358377"",""description"":""Per ogni profugo accolto e ospitato nella propria abitazione (per almeno 30 giorni), i cittadini udinesi riceveranno dal Comune un contributo una tantum da 250 euro, fino a un massimo di 1.500 euro per ogni soggetto ospitante. La risorse destinate a questa finalit\u00e0 dall\u2019amministrazione ammontano a 150mila euro e trovano copertura mediante l\u2019utilizzo dei fondi vincolati del \u201cLascito Marchesi\u201d, le cui finalit\u00e0 sono strettamente connesse a scopi sociali o assistenziali\u201d. Questa la decisione della giunta comunale."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/VUkarR7cNS?s=09"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-36"",""city"":""Udine"",""country"":""Italia"",""country_code"":""it"",""county"":""Udine"",""postcode"":""33100"",""state"":""Friuli Venezia Giulia""},""boundingbox"":[""45.9034632"",""46.2234632"",""13.0758377"",""13.3958377""],""class"":""place"",""display_name"":""Udine, Friuli Venezia Giulia, 33100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.699677555724844,""lat"":""46.0634632"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.2358377"",""osm_id"":66502664,""osm_type"":""node"",""place_id"":121892,""type"":""city""},""mode"":""autocomplete""},""submit"":true,""title"":""Comune di Udine, contributo una tantum ai cittadini che ospitano profughi ucraini""}","<pre><yamldata>
+title: Comune di Udine, contributo una tantum ai cittadini che ospitano profughi ucraini
+description: Per ogni profugo accolto e ospitato nella propria abitazione (per almeno
+  30 giorni), i cittadini udinesi riceveranno dal Comune un contributo una tantum
+  da 250 euro, fino a un massimo di 1.500 euro per ogni soggetto ospitante. La risorse
+  destinate a questa finalità dall’amministrazione ammontano a 150mila euro e trovano
+  copertura mediante l’utilizzo dei fondi vincolati del “Lascito Marchesi”, le cui
+  finalità sono strettamente connesse a scopi sociali o assistenziali”. Questa la
+  decisione della giunta comunale.
+link: https://t.co/VUkarR7cNS?s=09
+location:
+  mode: autocomplete
+  address:
+    place_id: 121892
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 66502664
+    boundingbox:
+    - '45.9034632'
+    - '46.2234632'
+    - '13.0758377'
+    - '13.3958377'
+    lat: '46.0634632'
+    lon: '13.2358377'
+    display_name: Udine, Friuli Venezia Giulia, 33100, Italia
+    class: place
+    type: city
+    importance: 0.699677555724844
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Udine
+      county: Udine
+      state: Friuli Venezia Giulia
+      ISO3166-2-lvl4: IT-36
+      postcode: '33100'
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 46.0634632 13.2358377
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/635,1205606093,2022-04-19 06:40:29,2022-04-15 14:07:43,"Venezia, attivo portale Emergenzaucraina.venis.it che permette ai rifugiati ucraini di accedere a servizi dedicati, tra cui trasporto locale gratuito",45.45512045,12.250379081443793,Veneto,Venezia,"[""Valid/Accettato"",""News"",""Services"",""transport"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.45512045 12.250379081443793"",""description"":""Su http://emergenzaucraina.venis.it, portale attivato da Comune e Citt\u00e0 metropolitana di Venezia, i rifugiati ucraini o le famiglie ospitanti potranno registrarsi e quindi accedere ad una serie di servizi, in primis l'accesso gratuito al trasporto locale. Ulteriori info al link."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/S43QtsUTYI?s=09"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""country"":""Italia"",""country_code"":""it"",""county"":""Venezia"",""state"":""Veneto""},""boundingbox"":[""45.0556953"",""45.8546002"",""11.9619782"",""13.1021703""],""class"":""boundary"",""display_name"":""Venezia, Veneto, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5750404744691252,""lat"":""45.45512045"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.250379081443793"",""osm_id"":44230,""osm_type"":""relation"",""place_id"":283794158,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Venezia, attivo portale Emergenzaucraina.Venis.it che permette ai rifugiati ucraini di accedere a servizi dedicati, tra cui trasporto locale gratuito""}","<pre><yamldata>
+title: Venezia, attivo portale Emergenzaucraina.Venis.it che permette ai rifugiati
+  ucraini di accedere a servizi dedicati, tra cui trasporto locale gratuito
+description: 'Su http://emergenzaucraina.venis.it, portale attivato da Comune e Città
+  metropolitana di Venezia, i rifugiati ucraini o le famiglie ospitanti potranno registrarsi
+  e quindi accedere ad una serie di servizi, in primis l''accesso gratuito al trasporto
+  locale.
+  Ulteriori info al link.'
+link: https://t.co/S43QtsUTYI?s=09
+location:
+  mode: autocomplete
+  address:
+    place_id: 283794158
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 44230
+    boundingbox:
+    - '45.0556953'
+    - '45.8546002'
+    - '11.9619782'
+    - '13.1021703'
+    lat: '45.45512045'
+    lon: '12.250379081443793'
+    display_name: Venezia, Veneto, Italia
+    class: boundary
+    type: administrative
+    importance: 0.5750404744691252
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Venezia
+      state: Veneto
+      ISO3166-2-lvl4: IT-34
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.45512045 12.250379081443793
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/642,1206456233,2022-04-19 06:40:08,2022-04-17 18:58:14,A Parma Ciac Onlus offre ospitalità e supporto legale ai rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""country"":""Italia"",""country_code"":""it"",""county"":""Parma"",""hamlet"":""Ozzano Taro"",""postcode"":""43014"",""road"":""Via Cavestro"",""state"":""Emilia-Romagna"",""town"":""Collecchio""},""boundingbox"":[""44.7081089"",""44.7089777"",""10.1405169"",""10.1435653""],""class"":""highway"",""display_name"":""Via Cavestro, Ozzano Taro, Collecchio, Parma, Emilia-Romagna, 43014, Italia"",""importance"":0.61,""lat"":""44.7084211"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.1420568"",""osm_id"":79142932,""osm_type"":""way"",""place_id"":118993705,""type"":""residential""},""mode"":""autocomplete""},""description"":""A Parma il Centro Immigrazione Asilo Cooperazione internazionale (Ciac) offre supporto legale, informazioni socio-sanitarie e alloggi in famiglia e non solo a rifugiati ucraini.\nPer chiedere aiuto a trovare un alloggio:\n- chiamare il centralino telefonico di CIAC Onlus: numero 0521 522080 attivo dal luned\u00ec al venerd\u00ec dalle 9.00 alle 12.30 e dalle 14.30 alle 17.30.\n- mandare una mail contenente nome, cognome, contatti e bisogni a emergenza.ucraina@ciaconlus.org\n- compilare il modulo online disponibile al link https://ciaconlus.org/it/emergenza-ucraina/segnalazioni\n\nData la grande richiesta di alloggi, Ciac raccoglie le disponibilit\u00e0 ad ospitare di famiglie cittadini a Parma e provincia. A questo link il modulo per dare la propria disponibilit\u00e0 https://ciaconlus.org/it/emergenza-ucraina/accoglienza\n\nSul sito di Ciac sono inoltre disponibili tutte le informazioni legali e sanitarie in lingua ucraina per coloro che arrivano in Italia dall'Ucraina."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ciac - Centro Immigrazione Asilo Cooperazione internazionale"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Parma Ciac Onlus offre ospitalit\u00e0 e supporto legale ai rifugiati ucraini"",""url"":""https://ciaconlus.org/it/emergenza-ucraina""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Ciac - Centro Immigrazione Asilo Cooperazione internazionale
+title: A Parma Ciac Onlus offre ospitalità e supporto legale ai rifugiati ucraini
+recipients: ''
+description: 'A Parma il Centro Immigrazione Asilo Cooperazione internazionale (Ciac)
+  offre supporto legale, informazioni socio-sanitarie e alloggi in famiglia e non
+  solo a rifugiati ucraini.
+
+  Per chiedere aiuto a trovare un alloggio:
+
+  - chiamare il centralino telefonico di CIAC Onlus: numero 0521 522080 attivo dal
+  lunedì al venerdì dalle 9.00 alle 12.30 e dalle 14.30 alle 17.30.
+
+  - mandare una mail contenente nome, cognome, contatti e bisogni a emergenza.ucraina@ciaconlus.org
+
+  - compilare il modulo online disponibile al link https://ciaconlus.org/it/emergenza-ucraina/segnalazioni
+
+
+  Data la grande richiesta di alloggi, Ciac raccoglie le disponibilità ad ospitare
+  di famiglie cittadini a Parma e provincia. A questo link il modulo per dare la propria
+  disponibilità https://ciaconlus.org/it/emergenza-ucraina/accoglienza
+
+
+  Sul sito di Ciac sono inoltre disponibili tutte le informazioni legali e sanitarie
+  in lingua ucraina per coloro che arrivano in Italia dall''Ucraina.'
+url: https://ciaconlus.org/it/emergenza-ucraina
+address:
+  mode: autocomplete
+  address:
+    place_id: 118993705
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 79142932
+    boundingbox:
+    - '44.7081089'
+    - '44.7089777'
+    - '10.1405169'
+    - '10.1435653'
+    lat: '44.7084211'
+    lon: '10.1420568'
+    display_name: Via Cavestro, Ozzano Taro, Collecchio, Parma, Emilia-Romagna, 43014,
+      Italia
+    class: highway
+    type: residential
+    importance: 0.61
+    address:
+      road: Via Cavestro
+      hamlet: Ozzano Taro
+      town: Collecchio
+      county: Parma
+      state: Emilia-Romagna
+      ISO3166-2-lvl4: IT-45
+      postcode: '43014'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/644,1206463844,2022-04-19 06:39:57,2022-04-17 19:14:15,"A Milano Fondazione Franco Verga organizza corsi gratuiti e intensivi di italiano per rifugiati ucraini (adulti, ragazzi, bambini)",,,,,"[""Valid/Accettato"",""Services"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""neighbourhood"":""Brera"",""postcode"":""20121"",""road"":""Via Anfiteatro"",""state"":""Lombardia"",""suburb"":""Municipio 1""},""boundingbox"":[""45.4737631"",""45.4748322"",""9.1819107"",""9.1835523""],""class"":""highway"",""display_name"":""Via Anfiteatro, Brera, Municipio 1, Milano, Lombardia, 20121, Italia"",""importance"":0.5199999999999999,""lat"":""45.4744737"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1825529"",""osm_id"":23331502,""osm_type"":""way"",""place_id"":106038943,""type"":""residential""},""mode"":""autocomplete""},""description"":""A Milano Fondazione Franco Verga organizza corsi gratuiti e intensivi di italiano di livello base (pre-A1 e A1) per rifugiati ucraini, adulti, ragazzi e bambini. I corsi sono stati attivati nell'ambito dell'HelpUkraine Point, attivato con Fondazione Avsi per rispondere alle richieste dei profughi in arrivo dall'Ucraina.\nI corsi saranno tenuti da docenti certificati affiancati da una figura di supporto madrelingua ucraina.\nPer facilitare le mamme con figli piccoli, \u00e8 stato attivato anche un servizio di baby sitting per bambini in et\u00e0 pre-scolare.\n\nLe lezioni si terranno dal luned\u00ec al gioved\u00ec, mattina, pomeriggio o sera. Durata: 50 ore.\n\nInformazioni e iscrizioni: formazione@fondazioneverga.org \nTel. 02 869 3194 - 3792295239"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Fondazione Franco Verga"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Milano Fondazione Franco Verga organizza corsi gratuiti e intensivi di italiano per rifugiati ucraini (adulti, ragazzi e bambini)"",""url"":""https://www.fondazioneverga.org/a-milano-corsi-di-italiano-intensivi-livello-base-per-rifugiati-ucraini/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Fondazione Franco Verga
+title: A Milano Fondazione Franco Verga organizza corsi gratuiti e intensivi di italiano
+  per rifugiati ucraini (adulti, ragazzi e bambini)
+recipients: ''
+description: ""A Milano Fondazione Franco Verga organizza corsi gratuiti e intensivi\
+  \ di italiano di livello base (pre-A1 e A1) per rifugiati ucraini, adulti, ragazzi\
+  \ e bambini. I corsi sono stati attivati nell'ambito dell'HelpUkraine Point, attivato\
+  \ con Fondazione Avsi per rispondere alle richieste dei profughi in arrivo dall'Ucraina.\n\
+  I corsi saranno tenuti da docenti certificati affiancati da una figura di supporto\
+  \ madrelingua ucraina.\nPer facilitare le mamme con figli piccoli, è stato attivato\
+  \ anche un servizio di baby sitting per bambini in età pre-scolare.\n\nLe lezioni\
+  \ si terranno dal lunedì al giovedì, mattina, pomeriggio o sera. Durata: 50 ore.\n\
+  \nInformazioni e iscrizioni: formazione@fondazioneverga.org \nTel. 02 869 3194 -\
+  \ 3792295239""
+url: https://www.fondazioneverga.org/a-milano-corsi-di-italiano-intensivi-livello-base-per-rifugiati-ucraini/
+address:
+  mode: autocomplete
+  address:
+    place_id: 106038943
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 23331502
+    boundingbox:
+    - '45.4737631'
+    - '45.4748322'
+    - '9.1819107'
+    - '9.1835523'
+    lat: '45.4744737'
+    lon: '9.1825529'
+    display_name: Via Anfiteatro, Brera, Municipio 1, Milano, Lombardia, 20121, Italia
+    class: highway
+    type: residential
+    importance: 0.5199999999999999
+    address:
+      road: Via Anfiteatro
+      neighbourhood: Brera
+      suburb: Municipio 1
+      city: Milano
+      county: Milano
+      ISO3166-2-lvl6: IT-MI
+      state: Lombardia
+      postcode: '20121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/645,1206466483,2022-04-19 06:39:43,2022-04-17 19:28:20,L'organizzazione ucraina Marsh Zhinok (Women's March) offre alloggi gratuiti su Airbnb a donne ucraine in fuga dalla guerra,,,,,"[""Valid/Accettato"",""Services"",""hospitality"",""women"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""UA-30"",""city"":""Kyiv"",""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""50.2132422"",""50.5908142"",""30.2361453"",""30.8263593""],""class"":""boundary"",""display_name"":""Kyiv, Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8258572961698041,""lat"":""50.4500336"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""30.5241361"",""osm_id"":421866,""osm_type"":""relation"",""place_id"":324417710,""type"":""administrative""},""mode"":""autocomplete""},""description"":""L'organizzazione femminista ucraina Zhinok Marsh (Women's March) offre a donne ucraine in fuga dalla guerra e ai loro figli voucher per accedere ad alloggi temporanei gratuiti su Airbnb in Europa e nel mondo. Durata: fino a 30 giorni (entro l'importo del voucher che verr\u00e0 fornito).\nPer ricevere un voucher compilare questo modulo: https://bit.ly/marshzhinok_airbnb\n\nVerr\u00e0 fornita risposta entro 1-4 giorni e sar\u00e0 data precedenza alle situazioni pi\u00f9 critiche.\n\nInfo: \nmarshzhinok@gmail.com\nhttp://t.me/marsh_zhinok\n\n\u00ab\u041c\u0430\u0440\u0448 \u0436\u0456\u043d\u043e\u043a\u00bb \u0443 \u043f\u0430\u0440\u0442\u043d\u0435\u0440\u0441\u0442\u0432\u0456 \u0437 Airbnb \u043f\u0440\u043e\u0434\u043e\u0432\u0436\u0443\u0454 \u043d\u0430\u0434\u0430\u0432\u0430\u0442\u0438 \u0432\u0430\u0443\u0447\u0435\u0440\u0438 \u043d\u0430 \u0431\u0435\u0437\u043e\u043f\u043b\u0430\u0442\u043d\u0435 \u0436\u0438\u0442\u043b\u043e \u0437\u0430\u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c \u0434\u043b\u044f \u0436\u0456\u043d\u043e\u043a, \u0432\u0438\u0457\u0436\u0434\u0436\u0430\u044e\u0442\u044c \u0432\u0456\u0434 \u0432\u0456\u0439\u043d\u0438.\u2800\n\u041f\u0440\u043e\u0441\u0438\u043c\u043e \u0431\u0443\u0442\u0438 \u0443\u0432\u0430\u0436\u043d\u0438\u043c\u0438 \u043f\u0440\u0438 \u0437\u0430\u043f\u043e\u0432\u043d\u0435\u043d\u043d\u0456 \u0437\u0430\u044f\u0432\u043a\u0438 \u0442\u0430 \u0432\u0440\u0430\u0445\u0443\u0432\u0430\u0442\u0438 \u043d\u0430\u0448\u0456 \u0437\u0430\u0441\u0442\u0435\u0440\u0435\u0436\u0435 https://bit.ly/marshzhinok_airbnb"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Marsh Zhinok (Women's March)"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""L'organizzazione ucraina Marsh Zhinok (Women's March) offre alloggi gratuiti su Airbnb a donne ucraine con figli in fuga dalla guerra"",""url"":""https://t.me/marsh_zhinok/115""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Marsh Zhinok (Women's March)
+title: L'organizzazione ucraina Marsh Zhinok (Women's March) offre alloggi gratuiti
+  su Airbnb a donne ucraine con figli in fuga dalla guerra
+recipients: ''
+description: ""L'organizzazione femminista ucraina Zhinok Marsh (Women's March) offre\
+  \ a donne ucraine in fuga dalla guerra e ai loro figli voucher per accedere ad alloggi\
+  \ temporanei gratuiti su Airbnb in Europa e nel mondo. Durata: fino a 30 giorni\
+  \ (entro l'importo del voucher che verrà fornito).\nPer ricevere un voucher compilare\
+  \ questo modulo: https://bit.ly/marshzhinok_airbnb\n\nVerrà fornita risposta entro\
+  \ 1-4 giorni e sarà data precedenza alle situazioni più critiche.\n\nInfo: \nmarshzhinok@gmail.com\n\
+  http://t.me/marsh_zhinok\n\n«Марш жінок» у партнерстві з Airbnb продовжує надавати\
+  \ ваучери на безоплатне житло закордоном для жінок, виїжджають від війни.⠀\nПросимо\
+  \ бути уважними при заповненні заявки та врахувати наші застереже https://bit.ly/marshzhinok_airbnb""
+url: https://t.me/marsh_zhinok/115
+address:
+  mode: autocomplete
+  address:
+    place_id: 324417710
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 421866
+    boundingbox:
+    - '50.2132422'
+    - '50.5908142'
+    - '30.2361453'
+    - '30.8263593'
+    lat: '50.4500336'
+    lon: '30.5241361'
+    display_name: Kyiv, Ucraina
+    class: boundary
+    type: administrative
+    importance: 0.8258572961698041
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Kyiv
+      ISO3166-2-lvl4: UA-30
+      country: Ucraina
+      country_code: ua
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/621,1205432384,2022-04-18 09:23:49,2022-04-15 09:32:15,Società Italiana di Ortopedia e Traumatologia promuove raccolta di strumenti chirurgici e medici per ospedale di Khmelmitskyi e cerca nuove adesioni alla raccolta,41.9246183,12.4784404,Lazio,Roma,"[""Valid/Accettato"",""News"",""materialGoods"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""41.9246183 12.4784404"",""description"":""La Societ\u00e0 Italiana di Ortopedia e Traumatologia (Siot) sostiene l'iniziativa per la raccolta di strumenti chirurgici e kit medici da destinare all'ospedale ucraino di Khmelmitskyi.\nLa Societ\u00e0 rivolge un appello a tutti i medici e tutte le strutture sanitarie italiane per ampliare la catena di solidariet\u00e0 in favore della popolazione ucraina attiva gi\u00e0 dai primi giorni di inizio del conflitto. I medici possono mettere a disposizione strumenti personali che non usano pi\u00f9 e favorire la raccolta di quelli dismessi dalle strutture.\nServe soprattutto materiale per la fissazione di fratture e per il trattamento delle ferite da armi da fuoco, esplosione o travolgimento, da destinare a una struttura sanitaria di seconda linea che si trova nella zona Est del Paese.\nAd oggi hanno gi\u00e0 aderito 12 strutture ospedaliere.\nPer aderire alla catena di solidariet\u00e0 per la raccolta degli strumenti chirurgici \u00e8 possibile contattare la SIOT al numero 06-80691593 o all'email segreteria@siot.it."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/8Q54VdtRDz?s=09"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00100"",""road"":""Via Nicola Martelli"",""state"":""Lazio"",""suburb"":""Pinciano""},""boundingbox"":[""41.9245235"",""41.9246185"",""12.4774699"",""12.478957""],""class"":""highway"",""display_name"":""Via Nicola Martelli, Pinciano, Roma, Roma Capitale, Lazio, 00100, Italia"",""importance"":0.51,""lat"":""41.9246183"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4784404"",""osm_id"":23920896,""osm_type"":""way"",""place_id"":107211317,""type"":""residential""},""mode"":""autocomplete""},""submit"":true,""title"":""Societ\u00e0 Italiana di Ortopedia e Traumatologia promuove raccolta di strumenti chirurgici e medici per ospedale di Khmelmitskyi e cerca nuove adesioni alla raccolta""}","<pre><yamldata>
 title: Società Italiana di Ortopedia e Traumatologia promuove raccolta di strumenti
   chirurgici e medici per ospedale di Khmelmitskyi e cerca nuove adesioni alla raccolta
@@ -301,62 +670,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 43.777842699999994 11.258830486761724
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/645,1206466483,2022-04-18 06:35:46,2022-04-17 19:28:20,L'organizzazione ucraina Marsh Zhinok (Women's March) offre alloggi gratuiti su Airbnb a donne ucraine in fuga dalla guerra,,,,,"[""Valid/Accettato"",""Services"",""hospitality"",""women""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""UA-30"",""city"":""Kyiv"",""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""50.2132422"",""50.5908142"",""30.2361453"",""30.8263593""],""class"":""boundary"",""display_name"":""Kyiv, Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8258572961698041,""lat"":""50.4500336"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""30.5241361"",""osm_id"":421866,""osm_type"":""relation"",""place_id"":324417710,""type"":""administrative""},""mode"":""autocomplete""},""description"":""L'organizzazione femminista ucraina Zhinok Marsh (Women's March) offre a donne ucraine in fuga dalla guerra e ai loro figli voucher per accedere ad alloggi temporanei gratuiti su Airbnb in Europa e nel mondo. Durata: fino a 30 giorni (entro l'importo del voucher che verr\u00e0 fornito).\nPer ricevere un voucher compilare questo modulo: https://bit.ly/marshzhinok_airbnb\n\nVerr\u00e0 fornita risposta entro 1-4 giorni e sar\u00e0 data precedenza alle situazioni pi\u00f9 critiche.\n\nInfo: \nmarshzhinok@gmail.com\nhttp://t.me/marsh_zhinok\n\n\u00ab\u041c\u0430\u0440\u0448 \u0436\u0456\u043d\u043e\u043a\u00bb \u0443 \u043f\u0430\u0440\u0442\u043d\u0435\u0440\u0441\u0442\u0432\u0456 \u0437 Airbnb \u043f\u0440\u043e\u0434\u043e\u0432\u0436\u0443\u0454 \u043d\u0430\u0434\u0430\u0432\u0430\u0442\u0438 \u0432\u0430\u0443\u0447\u0435\u0440\u0438 \u043d\u0430 \u0431\u0435\u0437\u043e\u043f\u043b\u0430\u0442\u043d\u0435 \u0436\u0438\u0442\u043b\u043e \u0437\u0430\u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c \u0434\u043b\u044f \u0436\u0456\u043d\u043e\u043a, \u0432\u0438\u0457\u0436\u0434\u0436\u0430\u044e\u0442\u044c \u0432\u0456\u0434 \u0432\u0456\u0439\u043d\u0438.\u2800\n\u041f\u0440\u043e\u0441\u0438\u043c\u043e \u0431\u0443\u0442\u0438 \u0443\u0432\u0430\u0436\u043d\u0438\u043c\u0438 \u043f\u0440\u0438 \u0437\u0430\u043f\u043e\u0432\u043d\u0435\u043d\u043d\u0456 \u0437\u0430\u044f\u0432\u043a\u0438 \u0442\u0430 \u0432\u0440\u0430\u0445\u0443\u0432\u0430\u0442\u0438 \u043d\u0430\u0448\u0456 \u0437\u0430\u0441\u0442\u0435\u0440\u0435\u0436\u0435 https://bit.ly/marshzhinok_airbnb"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Marsh Zhinok (Women's March)"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""L'organizzazione ucraina Marsh Zhinok (Women's March) offre alloggi gratuiti su Airbnb a donne ucraine con figli in fuga dalla guerra"",""url"":""https://t.me/marsh_zhinok/115""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: true
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Marsh Zhinok (Women's March)
-title: L'organizzazione ucraina Marsh Zhinok (Women's March) offre alloggi gratuiti
-  su Airbnb a donne ucraine con figli in fuga dalla guerra
-recipients: ''
-description: ""L'organizzazione femminista ucraina Zhinok Marsh (Women's March) offre\
-  \ a donne ucraine in fuga dalla guerra e ai loro figli voucher per accedere ad alloggi\
-  \ temporanei gratuiti su Airbnb in Europa e nel mondo. Durata: fino a 30 giorni\
-  \ (entro l'importo del voucher che verrà fornito).\nPer ricevere un voucher compilare\
-  \ questo modulo: https://bit.ly/marshzhinok_airbnb\n\nVerrà fornita risposta entro\
-  \ 1-4 giorni e sarà data precedenza alle situazioni più critiche.\n\nInfo: \nmarshzhinok@gmail.com\n\
-  http://t.me/marsh_zhinok\n\n«Марш жінок» у партнерстві з Airbnb продовжує надавати\
-  \ ваучери на безоплатне житло закордоном для жінок, виїжджають від війни.⠀\nПросимо\
-  \ бути уважними при заповненні заявки та врахувати наші застереже https://bit.ly/marshzhinok_airbnb""
-url: https://t.me/marsh_zhinok/115
-address:
-  mode: autocomplete
-  address:
-    place_id: 324417710
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 421866
-    boundingbox:
-    - '50.2132422'
-    - '50.5908142'
-    - '30.2361453'
-    - '30.8263593'
-    lat: '50.4500336'
-    lon: '30.5241361'
-    display_name: Kyiv, Ucraina
-    class: boundary
-    type: administrative
-    importance: 0.8258572961698041
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Kyiv
-      ISO3166-2-lvl4: UA-30
-      country: Ucraina
-      country_code: ua
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/640,1206229034,2022-04-17 20:20:45,2022-04-16 22:29:10,Marsh Zhinok (Women's March) - Contatti e servizi in Ucraina e all'estero per donne e bambini,,,,,"[""Valid/Accettato"",""useful contact"",""materialGoods"",""hospitality"",""psychologicalSupport"",""Children"",""women""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""UA-30"",""city"":""Kyiv"",""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""50.2132422"",""50.5908142"",""30.2361453"",""30.8263593""],""class"":""boundary"",""display_name"":""Kyiv, Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8258572961698041,""lat"":""50.4500336"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""30.5241361"",""osm_id"":421866,""osm_type"":""relation"",""place_id"":324417710,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Marsh Zhinok - Women's March \u00e8 un'organizzazione femminista ucraina che dall'inizio della guerra si \u00e8 attivata per offrire assistenza a donne e bambini in Ucraina e all'estero.\n\nIn Ucraina: offre supporto psicologico e assistenza mirata a donne e bambini fornendo medicinali, prodotti per l'igiene e altri beni necessari di prima necessit\u00e0. Per richieste: https://bit.ly/dopomoga_marshzhinok\n\nIn Ucraina offre anche alloggi temporanei:\n- a Leopoli: +380672947414, Tamara.\n- a Chernivtsi: contatto Telegram @sabelfeld, Olena.\n\nIn altri paesi: in collaborazione con Airbnb offre alle donne ucraine in fuga dalla guerra alloggi temporanei in Europa e nel mondo. Durata fino a 30 giorni (entro l'importo del voucher che viene fornito).\nPer ricevere un voucher compilare questo modulo: https://bit.ly/marshzhinok_airbnb\n\nContatti Telegram:\n- Canale https://t.me/marsh_zhinok\n- Bot @marshzhinok_bot\n\n\u041d\u0430\u0434\u0430\u0454\u043c\u043e \u043f\u0440\u0430\u043a\u0442\u0438\u0447\u043d\u0443 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0443 \u0436\u0456\u043d\u043a\u0430\u043c \u0442\u0430 \u0434\u0456\u0442\u044f\u043c \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456 \u0442\u0430 \u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c.\n\n\u0412 \u0423\u043a\u0440\u0430\u0457\u043d\u0456: \u0430\u0434\u0440\u0435\u0441\u043d\u0430 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0430 \u0436\u0456\u043d\u043a\u0430\u043c \u0442\u0430 \u0434\u0456\u0442\u044f\u043c (\u043b\u0456\u043a\u0438, \u0437\u0430\u0441\u043e\u0431\u0438 \u0433\u0456\u0433\u0456\u0454\u043d\u0438, \u0434\u0438\u0442\u044f\u0447\u0456 \u0442\u0430 \u0456\u043d\u0448\u0456 \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u0456 \u0442\u043e\u0432\u0430\u0440\u0438):  https://bit.ly/dopomoga_marshzhinok\n\n\u0412 \u0456\u043d\u0448\u0438\u0445 \u043a\u0440\u0430\u0457\u043d\u0430\u0445: \u041c\u0430\u0440\u0448 \u0436\u0456\u043d\u043e\u043a \u0443 \u043f\u0430\u0440\u0442\u043d\u0435\u0440\u0441\u0442\u0432\u0456 \u0437 Airbnb \u043d\u0430\u0434\u0430\u0454 \u0442\u0438\u043c\u0447\u0430\u0441\u043e\u0432\u0435 \u0436\u0438\u0442\u043b\u043e \u0432 \u0404\u0432\u0440\u043e\u043f\u0456 \u0442\u0430 \u0456\u043d\u0448\u0438\u0445 \u043a\u0440\u0430\u0457\u043d\u0430\u0445 \u0441\u0432\u0456\u0442\u0443. \u0421\u0442\u0440\u043e\u043a - \u0434\u043e 30 \u0434\u043d\u0456\u0432 (\u0432 \u0440\u0430\u043c\u043a\u0430\u0445 \u0441\u0443\u043c\u0438 \u0432\u0430\u0443\u0447\u0435\u0440\u0443, \u044f\u043a\u0438\u0439 \u0432\u0430\u043c \u0431\u0443\u0434\u0435 \u043d\u0430\u0434\u0430\u043d\u043e) \n\u0410\u0431\u0438 \u043e\u0442\u0440\u0438\u043c\u0430\u0442\u0438 \u0432\u0430\u0443\u0447\u0435\u0440 - \u0437\u0430\u043f\u043e\u0432\u043d\u0456\u0442\u044c \u0446\u044e \u0444\u043e\u0440\u043c\u0443: https://bit.ly/marshzhinok_airbnb\n\n\ud83d\udd38\u0422\u0438\u043c\u0447\u0430\u0441\u043e\u0432\u0435 \u0436\u0438\u0442\u043b\u043e \u0443 \u041b\u044c\u0432\u043e\u0432\u0456: +380672947414, \u0422\u0430\u043c\u0430\u0440\u0430.\n\ud83d\udd38\u0422\u0438\u043c\u0447\u0430\u0441\u043e\u0432\u0435 \u0436\u0438\u0442\u043b\u043e \u0443 \u0427\u0435\u0440\u043d\u0456\u0432\u0446\u044f\u0445: @sabelfeld, \u041e\u043b\u0435\u043d\u0430.\n\n\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0438 Telegram:\n- \u043a\u0430\u043d\u0430\u043b https://t.me/marsh_zhinok\n- \u0431\u043e\u0442 @marshzhinok_bot"",""email"":""marshzhinok@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+380672947414 Tamara"",""submit"":true,""title"":""Marsh Zhinok - Women March"",""url"":""https://marsh-zhinok.com.ua""}","<pre><yamldata>
 title: Marsh Zhinok - Women March
 phoneNumber: +380672947414 Tamara
@@ -527,68 +840,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 50.8431406 4.383206
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/644,1206463844,2022-04-17 19:32:55,2022-04-17 19:14:15,"A Milano Fondazione Franco Verga organizza corsi gratuiti e intensivi di italiano per rifugiati ucraini (adulti, ragazzi, bambini)",,,,,"[""Valid/Accettato"",""Services"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""neighbourhood"":""Brera"",""postcode"":""20121"",""road"":""Via Anfiteatro"",""state"":""Lombardia"",""suburb"":""Municipio 1""},""boundingbox"":[""45.4737631"",""45.4748322"",""9.1819107"",""9.1835523""],""class"":""highway"",""display_name"":""Via Anfiteatro, Brera, Municipio 1, Milano, Lombardia, 20121, Italia"",""importance"":0.5199999999999999,""lat"":""45.4744737"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1825529"",""osm_id"":23331502,""osm_type"":""way"",""place_id"":106038943,""type"":""residential""},""mode"":""autocomplete""},""description"":""A Milano Fondazione Franco Verga organizza corsi gratuiti e intensivi di italiano di livello base (pre-A1 e A1) per rifugiati ucraini, adulti, ragazzi e bambini. I corsi sono stati attivati nell'ambito dell'HelpUkraine Point, attivato con Fondazione Avsi per rispondere alle richieste dei profughi in arrivo dall'Ucraina.\nI corsi saranno tenuti da docenti certificati affiancati da una figura di supporto madrelingua ucraina.\nPer facilitare le mamme con figli piccoli, \u00e8 stato attivato anche un servizio di baby sitting per bambini in et\u00e0 pre-scolare.\n\nLe lezioni si terranno dal luned\u00ec al gioved\u00ec, mattina, pomeriggio o sera. Durata: 50 ore.\n\nInformazioni e iscrizioni: formazione@fondazioneverga.org \nTel. 02 869 3194 - 3792295239"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Fondazione Franco Verga"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Milano Fondazione Franco Verga organizza corsi gratuiti e intensivi di italiano per rifugiati ucraini (adulti, ragazzi e bambini)"",""url"":""https://www.fondazioneverga.org/a-milano-corsi-di-italiano-intensivi-livello-base-per-rifugiati-ucraini/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: true
-offerFromWho: Fondazione Franco Verga
-title: A Milano Fondazione Franco Verga organizza corsi gratuiti e intensivi di italiano
-  per rifugiati ucraini (adulti, ragazzi e bambini)
-recipients: ''
-description: ""A Milano Fondazione Franco Verga organizza corsi gratuiti e intensivi\
-  \ di italiano di livello base (pre-A1 e A1) per rifugiati ucraini, adulti, ragazzi\
-  \ e bambini. I corsi sono stati attivati nell'ambito dell'HelpUkraine Point, attivato\
-  \ con Fondazione Avsi per rispondere alle richieste dei profughi in arrivo dall'Ucraina.\n\
-  I corsi saranno tenuti da docenti certificati affiancati da una figura di supporto\
-  \ madrelingua ucraina.\nPer facilitare le mamme con figli piccoli, è stato attivato\
-  \ anche un servizio di baby sitting per bambini in età pre-scolare.\n\nLe lezioni\
-  \ si terranno dal lunedì al giovedì, mattina, pomeriggio o sera. Durata: 50 ore.\n\
-  \nInformazioni e iscrizioni: formazione@fondazioneverga.org \nTel. 02 869 3194 -\
-  \ 3792295239""
-url: https://www.fondazioneverga.org/a-milano-corsi-di-italiano-intensivi-livello-base-per-rifugiati-ucraini/
-address:
-  mode: autocomplete
-  address:
-    place_id: 106038943
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 23331502
-    boundingbox:
-    - '45.4737631'
-    - '45.4748322'
-    - '9.1819107'
-    - '9.1835523'
-    lat: '45.4744737'
-    lon: '9.1825529'
-    display_name: Via Anfiteatro, Brera, Municipio 1, Milano, Lombardia, 20121, Italia
-    class: highway
-    type: residential
-    importance: 0.5199999999999999
-    address:
-      road: Via Anfiteatro
-      neighbourhood: Brera
-      suburb: Municipio 1
-      city: Milano
-      county: Milano
-      ISO3166-2-lvl6: IT-MI
-      state: Lombardia
-      postcode: '20121'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/643,1206458730,2022-04-17 19:32:11,2022-04-17 19:05:40,Raccolta fondi di Ciac Onlus per l'accoglienza di profughi ucraini a Parma,44.7084211,10.1420568,Emilia-Romagna,Parma,"[""Valid/Accettato"",""fundraising""]",,,"{""Posizione"":""44.7084211 10.1420568"",""bicSwift"":"""",""causal"":""EMERGENZA UCRAINA"",""ccPostal"":"""",""description"":""Milioni di persone stanno abbandonando l'Ucraina in guerra. Centinaia di migliaia di persone che scappano dalle bombe arriveranno in Italia, la stragrande maggioranza sono donne e bambini.\nCiac sta lavorando per garantire una accoglienza dignitosa a tutti loro, nel pieno rispetto dei loro diritti.\nPer farlo, per\u00f2, ci serve il vostro aiuto, sia economico che concreto. Chiediamo a tutti i parmigiani di aiutarci attraverso due strade:\n- La donazione diretta per sostenere le spese di chi, per ora, non riuscir\u00e0 a rientrare nei piani di accoglienza pubblici.\n- Mettendo a disposizione appartamenti o posti letto per queste persone.\n\n\u00c8 possibile donare via Iban oppure dal sito di Ciac via carta di credito o Paypal."",""email"":""sviluppo@ciaconlus.org"",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT 49 T 05018 02400 000010800803"",""label"":""fundraising"",""link"":""https://ciaconlus.org/it/sostienici/emergenza-ucraina-dona"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""country"":""Italia"",""country_code"":""it"",""county"":""Parma"",""hamlet"":""Ozzano Taro"",""postcode"":""43014"",""road"":""Via Cavestro"",""state"":""Emilia-Romagna"",""town"":""Collecchio""},""boundingbox"":[""44.7081089"",""44.7089777"",""10.1405169"",""10.1435653""],""class"":""highway"",""display_name"":""Via Cavestro, Ozzano Taro, Collecchio, Parma, Emilia-Romagna, 43014, Italia"",""importance"":0.61,""lat"":""44.7084211"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.1420568"",""osm_id"":79142932,""osm_type"":""way"",""place_id"":118993705,""type"":""residential""},""mode"":""autocomplete""},""submit"":true,""title"":""Raccolta fondi di Ciac Onlus per l'accoglienza di profughi ucraini a Parma""}","<pre><yamldata>
 title: Raccolta fondi di Ciac Onlus per l'accoglienza di profughi ucraini a Parma
 description: 'Milioni di persone stanno abbandonando l''Ucraina in guerra. Centinaia
@@ -649,78 +900,6 @@ label: fundraising
 submit: true
 Posizione: 44.7084211 10.1420568
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/642,1206456233,2022-04-17 19:31:59,2022-04-17 18:58:14,A Parma Ciac Onlus offre ospitalità e supporto legale ai rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""country"":""Italia"",""country_code"":""it"",""county"":""Parma"",""hamlet"":""Ozzano Taro"",""postcode"":""43014"",""road"":""Via Cavestro"",""state"":""Emilia-Romagna"",""town"":""Collecchio""},""boundingbox"":[""44.7081089"",""44.7089777"",""10.1405169"",""10.1435653""],""class"":""highway"",""display_name"":""Via Cavestro, Ozzano Taro, Collecchio, Parma, Emilia-Romagna, 43014, Italia"",""importance"":0.61,""lat"":""44.7084211"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.1420568"",""osm_id"":79142932,""osm_type"":""way"",""place_id"":118993705,""type"":""residential""},""mode"":""autocomplete""},""description"":""A Parma il Centro Immigrazione Asilo Cooperazione internazionale (Ciac) offre supporto legale, informazioni socio-sanitarie e alloggi in famiglia e non solo a rifugiati ucraini.\nPer chiedere aiuto a trovare un alloggio:\n- chiamare il centralino telefonico di CIAC Onlus: numero 0521 522080 attivo dal luned\u00ec al venerd\u00ec dalle 9.00 alle 12.30 e dalle 14.30 alle 17.30.\n- mandare una mail contenente nome, cognome, contatti e bisogni a emergenza.ucraina@ciaconlus.org\n- compilare il modulo online disponibile al link https://ciaconlus.org/it/emergenza-ucraina/segnalazioni\n\nData la grande richiesta di alloggi, Ciac raccoglie le disponibilit\u00e0 ad ospitare di famiglie cittadini a Parma e provincia. A questo link il modulo per dare la propria disponibilit\u00e0 https://ciaconlus.org/it/emergenza-ucraina/accoglienza\n\nSul sito di Ciac sono inoltre disponibili tutte le informazioni legali e sanitarie in lingua ucraina per coloro che arrivano in Italia dall'Ucraina."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ciac - Centro Immigrazione Asilo Cooperazione internazionale"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Parma Ciac Onlus offre ospitalit\u00e0 e supporto legale ai rifugiati ucraini"",""url"":""https://ciaconlus.org/it/emergenza-ucraina""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: true
-  transport: false
-  healthcare: false
-  Legal: true
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Ciac - Centro Immigrazione Asilo Cooperazione internazionale
-title: A Parma Ciac Onlus offre ospitalità e supporto legale ai rifugiati ucraini
-recipients: ''
-description: 'A Parma il Centro Immigrazione Asilo Cooperazione internazionale (Ciac)
-  offre supporto legale, informazioni socio-sanitarie e alloggi in famiglia e non
-  solo a rifugiati ucraini.
-
-  Per chiedere aiuto a trovare un alloggio:
-
-  - chiamare il centralino telefonico di CIAC Onlus: numero 0521 522080 attivo dal
-  lunedì al venerdì dalle 9.00 alle 12.30 e dalle 14.30 alle 17.30.
-
-  - mandare una mail contenente nome, cognome, contatti e bisogni a emergenza.ucraina@ciaconlus.org
-
-  - compilare il modulo online disponibile al link https://ciaconlus.org/it/emergenza-ucraina/segnalazioni
-
-
-  Data la grande richiesta di alloggi, Ciac raccoglie le disponibilità ad ospitare
-  di famiglie cittadini a Parma e provincia. A questo link il modulo per dare la propria
-  disponibilità https://ciaconlus.org/it/emergenza-ucraina/accoglienza
-
-
-  Sul sito di Ciac sono inoltre disponibili tutte le informazioni legali e sanitarie
-  in lingua ucraina per coloro che arrivano in Italia dall''Ucraina.'
-url: https://ciaconlus.org/it/emergenza-ucraina
-address:
-  mode: autocomplete
-  address:
-    place_id: 118993705
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 79142932
-    boundingbox:
-    - '44.7081089'
-    - '44.7089777'
-    - '10.1405169'
-    - '10.1435653'
-    lat: '44.7084211'
-    lon: '10.1420568'
-    display_name: Via Cavestro, Ozzano Taro, Collecchio, Parma, Emilia-Romagna, 43014,
-      Italia
-    class: highway
-    type: residential
-    importance: 0.61
-    address:
-      road: Via Cavestro
-      hamlet: Ozzano Taro
-      town: Collecchio
-      county: Parma
-      state: Emilia-Romagna
-      ISO3166-2-lvl4: IT-45
-      postcode: '43014'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/641,1206295667,2022-04-17 19:31:33,2022-04-17 06:40:07,Comune di Sesto San Giovanni (Milano) offre laboratorio di italiano per cittadini ucraini,,,,,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20099"",""state"":""Lombardia"",""town"":""Sesto San Giovanni""},""boundingbox"":[""45.5173444"",""45.556763"",""9.20694"",""9.2717314""],""class"":""boundary"",""display_name"":""Sesto San Giovanni, Milano, Lombardia, 20099, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8336881016905328,""lat"":""45.5357218"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2376549"",""osm_id"":45245,""osm_type"":""relation"",""place_id"":284444071,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Comune di Sesto S. Giovanni (Mi) organizza per i rifugiati ucraini un laboratorio gratuito di italiano di 10 lezioni tematiche."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Sesto San Giovanni (MI)"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Laboratorio di italiano per cittadini ucraini"",""url"":""https://sestosg.net/notizie/laboratorio-di-italiano-per-cittadini-ucraini/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -771,45 +950,6 @@ address:
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/635,1205606093,2022-04-17 15:52:01,2022-04-15 14:07:43,"Venezia, attivo portale Emergenzaucraina.venis.it che permette ai rifugiati ucraini di accedere a servizi dedicati, tra cui trasporto locale gratuito",45.45512045,12.250379081443793,Veneto,Venezia,"[""Valid/Accettato"",""News"",""Services"",""transport""]",,,"{""Posizione"":""45.45512045 12.250379081443793"",""description"":""Su http://emergenzaucraina.venis.it, portale attivato da Comune e Citt\u00e0 metropolitana di Venezia, i rifugiati ucraini o le famiglie ospitanti potranno registrarsi e quindi accedere ad una serie di servizi, in primis l'accesso gratuito al trasporto locale. Ulteriori info al link."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/S43QtsUTYI?s=09"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""country"":""Italia"",""country_code"":""it"",""county"":""Venezia"",""state"":""Veneto""},""boundingbox"":[""45.0556953"",""45.8546002"",""11.9619782"",""13.1021703""],""class"":""boundary"",""display_name"":""Venezia, Veneto, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5750404744691252,""lat"":""45.45512045"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.250379081443793"",""osm_id"":44230,""osm_type"":""relation"",""place_id"":283794158,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Venezia, attivo portale Emergenzaucraina.Venis.it che permette ai rifugiati ucraini di accedere a servizi dedicati, tra cui trasporto locale gratuito""}","<pre><yamldata>
-title: Venezia, attivo portale Emergenzaucraina.Venis.it che permette ai rifugiati
-  ucraini di accedere a servizi dedicati, tra cui trasporto locale gratuito
-description: 'Su http://emergenzaucraina.venis.it, portale attivato da Comune e Città
-  metropolitana di Venezia, i rifugiati ucraini o le famiglie ospitanti potranno registrarsi
-  e quindi accedere ad una serie di servizi, in primis l''accesso gratuito al trasporto
-  locale.
-  Ulteriori info al link.'
-link: https://t.co/S43QtsUTYI?s=09
-location:
-  mode: autocomplete
-  address:
-    place_id: 283794158
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 44230
-    boundingbox:
-    - '45.0556953'
-    - '45.8546002'
-    - '11.9619782'
-    - '13.1021703'
-    lat: '45.45512045'
-    lon: '12.250379081443793'
-    display_name: Venezia, Veneto, Italia
-    class: boundary
-    type: administrative
-    importance: 0.5750404744691252
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      county: Venezia
-      state: Veneto
-      ISO3166-2-lvl4: IT-34
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 45.45512045 12.250379081443793
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/630,1205565938,2022-04-16 08:10:02,2022-04-15 13:09:34,"Asl Roma 1, attivi due ambulatori per donne e bambini ucraini",,,,,"[""Valid/Accettato"",""Services"",""healthcare"",""Children"",""women"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""boundary"":""ASL Roma 1"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.8707079"",""42.1410285"",""12.2423884"",""12.6186465""],""class"":""boundary"",""display_name"":""ASL Roma 1, Roma Capitale, Lazio, Italia"",""importance"":0.42500000000000004,""lat"":""41.9874956"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.432189226861333"",""osm_id"":13657801,""osm_type"":""relation"",""place_id"":327153774,""type"":""health""},""mode"":""autocomplete""},""description"":""La Asl Roma 1 mette a punto due nuovi servizi per donne e bambini arrivati dall\u2019Ucraina. Il primo, operativo da oggi, 5 aprile, \u00e8 presso l\u2019Ospedale Santo Spirito in Sassia: un ambulatorio di ostetricia e ginecologia, con la possibilit\u00e0 di visite ed ecografie, disponibile ad accesso libero ogni marted\u00ec dalle 15 alle 18.30. Il secondo ambulatorio invece partir\u00e0 il 7 aprile, nell\u2019hub Ostiense, dove il personale \u00e8 gi\u00e0 al lavoro da settimane per l\u2019emissione della tessera Stp (Stranieri temporaneamente presenti) e per la vaccinazione anti covid per chi sta scappando dalla guerra. Nella struttura di via delle Cave Ardeatine 36, ogni gioved\u00ec dalle 8 alle 1, sar\u00e0 possibile effettuare visite ginecologiche e pediatriche che prevedono tra le altre cose il controllo della crescita, la verifica delle vaccinazioni effettuate, la valutazione die problemi legati alla nutrizione e alle allergie, valutazione di disturbi del neurosviluppo, inquadramento delle problematiche pediatriche per la valutazione e l\u2019invio presso i centri specialistici. Anche in questo caso l\u2019accesso \u00e8 libero."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Asl Roma 1"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":true},""submit"":true,""title"":""Asl Roma 1: due ambulatori per donne e bambini ucraini"",""url"":""https://www.romasette.it/asl-roma-1-due-ambulatori-per-donne-e-bambini-ucraini/?utm_source=rss&utm_medium=rss&utm_campaign=asl-roma-1-due-ambulatori-per-donne-e-bambini-ucraini""}","<pre><yamldata>
 servicetypes:
@@ -1052,63 +1192,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/622,1205436826,2022-04-16 06:54:40,2022-04-15 09:38:45,"Toscana, mensa e alloggio gratuiti agli studenti universitari ucraini",43.7755574,11.2700867,Toscana,Firenze,"[""Valid/Accettato"",""Services"",""hospitality"",""education""]",,,"{""Posizione"":""43.7755574 11.2700867"",""description"":""L'Azienda per il diritto alla studio universitario della Regione Toscana ha stabilito di concedere, su istanza individuale dello studente universitario con cittadinanza ucraina iscritto presso gli Atenei della Toscana, alle Scuole Superiori di Specializzazione (e presso le altre istituzioni universitarie della Regione Toscana e agli studenti universitari iscritti agli Atenei dell\u2019Ucraina che verranno accolti sul territorio regionale) o su segnalazione da parte degli Atenei e degli altri soggetti istituzionali:\n- il beneficio della mensa gratuita (numero due pasti giornalieri) fino al 31 dicembre 2022;\n- il beneficio del posto alloggio a titolo gratuito (fino a concorrenza dei posti disponibili presso le strutture residenziali dell\u2019Azienda e con precedenza agli studenti profughi) fino al 31 dicembre 2022, con esenzione dal pagamento del deposito cauzionale previa verifica della condizione dello studente in merito alla residenza anagrafica familiare.\n\nLe istanze potranno essere presentate inviando una mail all'indirizzo ucraina@dsu.toscana.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/zss8C95F7q"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""house_number"":""36"",""postcode"":""50132"",""road"":""Viale Antonio Gramsci"",""state"":""Toscana"",""suburb"":""Quartiere 2""},""boundingbox"":[""43.7755074"",""43.7756074"",""11.2700367"",""11.2701367""],""class"":""place"",""display_name"":""36, Viale Antonio Gramsci, Quartiere 2, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50132, Italia"",""importance"":0.6309999999999999,""lat"":""43.7755574"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2700867"",""osm_id"":2361838059,""osm_type"":""node"",""place_id"":21173258,""type"":""house""},""mode"":""autocomplete""},""submit"":true,""title"":""Toscana, mensa e alloggio gratuiti agli studenti universitari ucraini""}","<pre><yamldata>
-title: Toscana, mensa e alloggio gratuiti agli studenti universitari ucraini
-description: 'L''Azienda per il diritto alla studio universitario della Regione Toscana
-  ha stabilito di concedere, su istanza individuale dello studente universitario con
-  cittadinanza ucraina iscritto presso gli Atenei della Toscana, alle Scuole Superiori
-  di Specializzazione (e presso le altre istituzioni universitarie della Regione Toscana
-  e agli studenti universitari iscritti agli Atenei dell’Ucraina che verranno accolti
-  sul territorio regionale) o su segnalazione da parte degli Atenei e degli altri
-  soggetti istituzionali:
-
-  - il beneficio della mensa gratuita (numero due pasti giornalieri) fino al 31 dicembre
-  2022;
-
-  - il beneficio del posto alloggio a titolo gratuito (fino a concorrenza dei posti
-  disponibili presso le strutture residenziali dell’Azienda e con precedenza agli
-  studenti profughi) fino al 31 dicembre 2022, con esenzione dal pagamento del deposito
-  cauzionale previa verifica della condizione dello studente in merito alla residenza
-  anagrafica familiare.
-
-
-  Le istanze potranno essere presentate inviando una mail all''indirizzo ucraina@dsu.toscana.it'
-link: https://t.co/zss8C95F7q
-location:
-  mode: autocomplete
-  address:
-    place_id: 21173258
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 2361838059
-    boundingbox:
-    - '43.7755074'
-    - '43.7756074'
-    - '11.2700367'
-    - '11.2701367'
-    lat: '43.7755574'
-    lon: '11.2700867'
-    display_name: 36, Viale Antonio Gramsci, Quartiere 2, Firenze, Città metropolitana
-      di Firenze, Toscana, 50132, Italia
-    class: place
-    type: house
-    importance: 0.6309999999999999
-    address:
-      house_number: '36'
-      road: Viale Antonio Gramsci
-      suburb: Quartiere 2
-      city: Firenze
-      county: Città metropolitana di Firenze
-      state: Toscana
-      ISO3166-2-lvl4: IT-52
-      postcode: '50132'
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 43.7755574 11.2700867
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/590,1201798757,2022-04-15 16:34:33,2022-04-12 12:46:43,"Emergenza Ucraina, online la mappa degli aiuti umanitari messi in campo dal Sistema Nazionale di Protezione Civile ",,,,,"[""Valid/Accettato"",""News"",""document_data"",""telegram-channel"",""tweet""]",,,"{""description"":""La mappa mostra i luoghi in cui il Sistema di Protezione Civile si \u00e8 attivato per garantire assistenza umanitaria all\u2019Ucraina e ai Paesi interessati dai flussi di profughi in fuga dal conflitto. Un repository Github (https://github.com/pcm-dpc/dati-ucraina-2022) \u00e8 la sorgente da cui ha origine la mappa."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://mappe.protezionecivile.gov.it/it/mappa/emergenza-ucraina-mappa-aiuti-umanitari"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Online la mappatura degli aiuti umanitari messi in campo dal Sistema di Protezione Civile""}","<pre><yamldata>
 title: Online la mappatura degli aiuti umanitari messi in campo dal Sistema di Protezione
   Civile
@@ -1311,48 +1394,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/632,1205573420,2022-04-15 15:07:43,2022-04-15 13:19:54,"Comune di Udine, contributo una tantum ai cittadini che ospitano profughi ucraini",46.0634632,13.2358377,Friuli Venezia Giulia,Udine,"[""Valid/Accettato"",""News"",""hospitality""]",,,"{""Posizione"":""46.0634632 13.2358377"",""description"":""Per ogni profugo accolto e ospitato nella propria abitazione (per almeno 30 giorni), i cittadini udinesi riceveranno dal Comune un contributo una tantum da 250 euro, fino a un massimo di 1.500 euro per ogni soggetto ospitante. La risorse destinate a questa finalit\u00e0 dall\u2019amministrazione ammontano a 150mila euro e trovano copertura mediante l\u2019utilizzo dei fondi vincolati del \u201cLascito Marchesi\u201d, le cui finalit\u00e0 sono strettamente connesse a scopi sociali o assistenziali\u201d. Questa la decisione della giunta comunale."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.co/VUkarR7cNS?s=09"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-36"",""city"":""Udine"",""country"":""Italia"",""country_code"":""it"",""county"":""Udine"",""postcode"":""33100"",""state"":""Friuli Venezia Giulia""},""boundingbox"":[""45.9034632"",""46.2234632"",""13.0758377"",""13.3958377""],""class"":""place"",""display_name"":""Udine, Friuli Venezia Giulia, 33100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.699677555724844,""lat"":""46.0634632"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.2358377"",""osm_id"":66502664,""osm_type"":""node"",""place_id"":121892,""type"":""city""},""mode"":""autocomplete""},""submit"":true,""title"":""Comune di Udine, contributo una tantum ai cittadini che ospitano profughi ucraini""}","<pre><yamldata>
-title: Comune di Udine, contributo una tantum ai cittadini che ospitano profughi ucraini
-description: Per ogni profugo accolto e ospitato nella propria abitazione (per almeno
-  30 giorni), i cittadini udinesi riceveranno dal Comune un contributo una tantum
-  da 250 euro, fino a un massimo di 1.500 euro per ogni soggetto ospitante. La risorse
-  destinate a questa finalità dall’amministrazione ammontano a 150mila euro e trovano
-  copertura mediante l’utilizzo dei fondi vincolati del “Lascito Marchesi”, le cui
-  finalità sono strettamente connesse a scopi sociali o assistenziali”. Questa la
-  decisione della giunta comunale.
-link: https://t.co/VUkarR7cNS?s=09
-location:
-  mode: autocomplete
-  address:
-    place_id: 121892
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 66502664
-    boundingbox:
-    - '45.9034632'
-    - '46.2234632'
-    - '13.0758377'
-    - '13.3958377'
-    lat: '46.0634632'
-    lon: '13.2358377'
-    display_name: Udine, Friuli Venezia Giulia, 33100, Italia
-    class: place
-    type: city
-    importance: 0.699677555724844
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
-    address:
-      city: Udine
-      county: Udine
-      state: Friuli Venezia Giulia
-      ISO3166-2-lvl4: IT-36
-      postcode: '33100'
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 46.0634632 13.2358377
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/627,1205553470,2022-04-15 15:05:50,2022-04-15 12:50:47,"Vademecum ""Buone prassi di aiuto ai profughi ucraini"" ad uso del volontariato, a cura di Psicologi per i popoli Emilia Romagna ",44.4884081,11.390978,Emilia-Romagna,Bologna,"[""Valid/Accettato"",""hospitality"",""document_data""]",,,"{""Posizione"":""44.4884081 11.390978"",""description"":""Vademecum ad uso del volontariato impegnato in attivit\u00e0 di aiuto dei rifugiati ucraini. A cura di Psicologi per i Popoli Emilia-Romagna."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://www.ordinepsicologier.it/public/genpags/bigs/InfograficaVOLONTARI.pdf"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""house_number"":""72"",""postcode"":""40139"",""road"":""Via Alberto Legnani"",""state"":""Emilia-Romagna"",""suburb"":""Fossolo""},""boundingbox"":[""44.4883581"",""44.4884581"",""11.390928"",""11.391028""],""class"":""place"",""display_name"":""72, Via Alberto Legnani, Fossolo, Savena, Bologna, Emilia-Romagna, 40139, Italia"",""importance"":0.42099999999999993,""lat"":""44.4884081"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.390978"",""osm_id"":1704381782,""osm_type"":""node"",""place_id"":15206708,""type"":""house""},""mode"":""autocomplete""},""submit"":true,""title"":""Vademecum \""Buone prassi di aiuto ai profughi ucraini\"" ad uso del volontariato, a cura di Psicologi per i Popoli Emilia-Romagna""}","<pre><yamldata>
 title: Vademecum ""Buone prassi di aiuto ai profughi ucraini"" ad uso del volontariato,
   a cura di Psicologi per i Popoli Emilia-Romagna
@@ -1390,47 +1431,6 @@ location:
       country: Italia
       country_code: it
 label: document_data
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 44.4884081 11.390978
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/628,1205558833,2022-04-15 15:05:26,2022-04-15 13:00:18,"Indicazioni per famiglie che ospitano profughi dall’Ucraina, a cura di Psicologi per i popoli Emilia Romagna",44.4884081,11.390978,Emilia-Romagna,Bologna,"[""Valid/Accettato"",""hospitality"",""document_data""]",,,"{""Posizione"":""44.4884081 11.390978"",""description"":""Sul sito di Psicologi per i popoli Emilia Romagna una serie di suggerimenti per le famiglie che ospitano profughi dall\u2019Ucraina."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.psicopopoli-er.it/indicazioni-per-famiglie-che-ospitano-profughi-dallucraina-a-cura-di-pxp-emilia-romagna/"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""house_number"":""72"",""postcode"":""40139"",""road"":""Via Alberto Legnani"",""state"":""Emilia-Romagna"",""suburb"":""Fossolo""},""boundingbox"":[""44.4883581"",""44.4884581"",""11.390928"",""11.391028""],""class"":""place"",""display_name"":""72, Via Alberto Legnani, Fossolo, Savena, Bologna, Emilia-Romagna, 40139, Italia"",""importance"":0.42099999999999993,""lat"":""44.4884081"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.390978"",""osm_id"":1704381782,""osm_type"":""node"",""place_id"":15206708,""type"":""house""},""mode"":""autocomplete""},""submit"":true,""title"":""Indicazioni per famiglie che ospitano profughi dall\u2019Ucraina, a cura di Psicologi per i popoli Emilia Romagna""}","<pre><yamldata>
-title: Indicazioni per famiglie che ospitano profughi dall’Ucraina, a cura di Psicologi
-  per i popoli Emilia Romagna
-description: Sul sito di Psicologi per i popoli Emilia Romagna una serie di suggerimenti
-  per le famiglie che ospitano profughi dall’Ucraina.
-link: https://www.psicopopoli-er.it/indicazioni-per-famiglie-che-ospitano-profughi-dallucraina-a-cura-di-pxp-emilia-romagna/
-location:
-  mode: autocomplete
-  address:
-    place_id: 15206708
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 1704381782
-    boundingbox:
-    - '44.4883581'
-    - '44.4884581'
-    - '11.390928'
-    - '11.391028'
-    lat: '44.4884081'
-    lon: '11.390978'
-    display_name: 72, Via Alberto Legnani, Fossolo, Savena, Bologna, Emilia-Romagna,
-      40139, Italia
-    class: place
-    type: house
-    importance: 0.42099999999999993
-    address:
-      house_number: '72'
-      road: Via Alberto Legnani
-      suburb: Fossolo
-      city: Bologna
-      county: Bologna
-      state: Emilia-Romagna
-      ISO3166-2-lvl4: IT-45
-      postcode: '40139'
-      country: Italia
-      country_code: it
-label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 44.4884081 11.390978
