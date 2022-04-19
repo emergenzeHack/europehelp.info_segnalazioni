@@ -1,4 +1,39 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/653,1208169101,2022-04-19 20:29:30,2022-04-19 10:46:52,"Regione Emilia Romagna, pagina con news e informazioni utili sull'emergenza Ucraina",44.525696,11.039437,Emilia-Romagna,Modena,"[""Valid/Accettato"",""News""]",,,"{""Posizione"":""44.525696 11.039437"",""description"":""Nella sezione News del sito della Regione Emilia Romagna, sono riportate informazioni utili sull'emergenza Ucraina: dati sull'accoglienza dei profughi, progetti finanziati con raccolta fondi regionale, QR code per ricevere informazioni in lingua ucraina e altro."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.regione.emilia-romagna.it/notizie/2022/marzo/ucraina-aggiornamento-30-marzo-informativa-e-bando-ong"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""country"":""Italia"",""country_code"":""it"",""state"":""Emilia-Romagna""},""boundingbox"":[""43.7318997"",""45.1395001"",""9.1979117"",""12.7559006""],""class"":""boundary"",""display_name"":""Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8658836089993998,""lat"":""44.525696"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.039437"",""osm_id"":42611,""osm_type"":""relation"",""place_id"":284957631,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Regione Emilia Romagna, pagina con informazioni utili sull'emergenza ucraina""}","<pre><yamldata>
+title: Regione Emilia Romagna, pagina con informazioni utili sull'emergenza ucraina
+description: 'Nella sezione News del sito della Regione Emilia Romagna, sono riportate informazioni
+  utili sull''emergenza Ucraina: dati sull''accoglienza dei profughi, progetti finanziati con raccolta fondi regionale, QR code per ricevere informazioni
+  in lingua ucraina e altro.'
+link: https://www.regione.emilia-romagna.it/notizie/2022/marzo/ucraina-aggiornamento-30-marzo-informativa-e-bando-ong
+location:
+  mode: autocomplete
+  address:
+    place_id: 284957631
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 42611
+    boundingbox:
+    - '43.7318997'
+    - '45.1395001'
+    - '9.1979117'
+    - '12.7559006'
+    lat: '44.525696'
+    lon: '11.039437'
+    display_name: Emilia-Romagna, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8658836089993998
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      state: Emilia-Romagna
+      ISO3166-2-lvl4: IT-45
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 44.525696 11.039437
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/652,1208153530,2022-04-19 20:23:16,2022-04-19 10:32:32,"Regione Emilia Romagna, online elenco dei progetti di aiuto ai profughi in Ucraina e nei paesi confinanti finanziati con la raccolta fondi regionale",44.525696,11.039437,Emilia-Romagna,Modena,"[""Valid/Accettato"",""News""]",,,"{""Posizione"":""44.525696 11.039437"",""description"":""La Regione Emilia Romagna ha pubblicato sul proprio portale l\u2019elenco (con schede di approfondimento) dei progetti di aiuto umanitario ai profughi e sfollati in Ucraina o nei paesi confinanti finanziati con la raccolta fondi regionale prevista legge regionale 4952/22."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.regione.emilia-romagna.it/raccolta-fondi-ucraina/progetti/progetti"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""country"":""Italia"",""country_code"":""it"",""state"":""Emilia-Romagna""},""boundingbox"":[""43.7318997"",""45.1395001"",""9.1979117"",""12.7559006""],""class"":""boundary"",""display_name"":""Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8658836089993998,""lat"":""44.525696"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.039437"",""osm_id"":42611,""osm_type"":""relation"",""place_id"":284957631,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Regione Emilia Romagna pubblica sulla propria pagina web progetti di aiuto umanitario""}","<pre><yamldata>
 title: Regione Emilia Romagna pubblica sulla propria pagina web progetti di aiuto
   umanitario
