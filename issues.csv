@@ -1,4 +1,76 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/673,1209754695,2022-04-20 15:44:20,2022-04-20 14:14:44,A Caserta CIDIS è attivo con uno sportello legale e socio-sanitario per profughi ucraini e laboratori ludico-didattici per bambini,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""healthcare"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-72"",""city"":""Caserta"",""country"":""Italia"",""country_code"":""it"",""county"":""Caserta"",""postcode"":""81100"",""residential"":""Caserta"",""road"":""Corso Trieste"",""state"":""Campania"",""suburb"":""Centro Storico""},""boundingbox"":[""41.0716311"",""41.0718398"",""14.3362343"",""14.3413994""],""class"":""highway"",""display_name"":""Corso Trieste, Caserta, Centro Storico, Caserta, Campania, 81100, Italia"",""importance"":0.5199999999999999,""lat"":""41.0717404"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.3387332"",""osm_id"":24658285,""osm_type"":""way"",""place_id"":106637139,""type"":""residential""},""mode"":""autocomplete""},""description"":""Presso il Cidis di Caserta, Onlus che si occupa di progetti di accoglienza integrata dal 2001, e fa parte della rete SPRAR (Servizio di Protezione di Richiedenti Asilo e Rifugiati), sono iniziati dei laboratori ludico didattici per bambini tra i 6 e i 14 anni, che consentir\u00e0 loro di imparare l\u2019italiano divertendosi.\nI laboratori sono aperti a tutti gli stranieri ma in questo momento il maggior numero di adesioni proviene da famiglie ucraine arrivate a Caserta nelle ultime settimane.\nE\u2019 attivo anche uno sportello di segretariato sociale per fornire tutte le informazioni e l\u2019assistenza necessari sul piano legale, burocratico, socio-sanitario e formativo, aperto nei seguenti giorni e orari:\nmarted\u00ec e venerd\u00ec: 9,30-12,30\ngioved\u00ec:14,30-17,30\nSede: Corso tmTrieste 257 - Caserta.\nTel. 0823444637/0823324251, email: caserta@cidisonlus.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Cidis Caserta"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":true,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Caserta Cidis attiva sportello legale e socio-sanitario per profughi ucraini e laboratori ludico-didattici per bambini"",""url"":""https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/2416/A-Caserta-partiti-laboratori-per-i-bimbi-ucraini""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: true
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: false
+offerFromWho: Cidis Caserta
+title: A Caserta Cidis attiva sportello legale e socio-sanitario per profughi ucraini
+  e laboratori ludico-didattici per bambini
+recipients: ''
+description: 'Presso il Cidis di Caserta, Onlus che si occupa di progetti di accoglienza
+  integrata dal 2001, e fa parte della rete SPRAR (Servizio di Protezione di Richiedenti
+  Asilo e Rifugiati), sono iniziati dei laboratori ludico didattici per bambini tra
+  i 6 e i 14 anni, che consentirà loro di imparare l’italiano divertendosi.
+
+  I laboratori sono aperti a tutti gli stranieri ma in questo momento il maggior numero
+  di adesioni proviene da famiglie ucraine arrivate a Caserta nelle ultime settimane.
+
+  E’ attivo anche uno sportello di segretariato sociale per fornire tutte le informazioni
+  e l’assistenza necessari sul piano legale, burocratico, socio-sanitario e formativo,
+  aperto nei seguenti giorni e orari:
+
+  martedì e venerdì: 9,30-12,30
+
+  giovedì:14,30-17,30
+
+  Sede: Corso tmTrieste 257 - Caserta.
+
+  Tel. 0823444637/0823324251, email: caserta@cidisonlus.org'
+url: https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/2416/A-Caserta-partiti-laboratori-per-i-bimbi-ucraini
+address:
+  mode: autocomplete
+  address:
+    place_id: 106637139
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 24658285
+    boundingbox:
+    - '41.0716311'
+    - '41.0718398'
+    - '14.3362343'
+    - '14.3413994'
+    lat: '41.0717404'
+    lon: '14.3387332'
+    display_name: Corso Trieste, Caserta, Centro Storico, Caserta, Campania, 81100,
+      Italia
+    class: highway
+    type: residential
+    importance: 0.5199999999999999
+    address:
+      road: Corso Trieste
+      residential: Caserta
+      suburb: Centro Storico
+      city: Caserta
+      county: Caserta
+      state: Campania
+      ISO3166-2-lvl4: IT-72
+      postcode: '81100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/670,1209716221,2022-04-20 15:25:32,2022-04-20 13:46:47,Trentino: trasporto pubblico locale gratuito per i rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""transport""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-TN"",""country"":""Italia"",""country_code"":""it"",""county"":""Provincia di Trento"",""state"":""Trentino-Alto Adige""},""boundingbox"":[""45.6728669"",""46.5332188"",""10.4522048"",""11.9628023""],""class"":""boundary"",""display_name"":""Provincia di Trento, Trentino-Alto Adige, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7380075390399246,""lat"":""46.1030443"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.129840331695068"",""osm_id"":45756,""osm_type"":""relation"",""place_id"":283226448,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Le persone provenienti dall\u2019Ucraina che hanno chiesto un appuntamento con la Questura di Trento, tramite il Cinformi, per il rilascio del titolo di soggiorno per protezione temporanea, possono chiedere la tessera gratuita per il trasporto pubblico in Trentino per se stessi e per i propri familiari. \u00c8 necessario compilare la seguente richiesta al fine di verificare la sussistenza dei requisiti per il rilascio della tessera trasporto gratuita. In caso di esito positivo della verifica, le persone richiedenti riceveranno via email conferma con le istruzioni complete per formalizzare la domanda di rilascio della tessera trasporto presso gli sportelli di Trentino Trasporti.\nLink per compilare la richiesta per la TESSERA TRASPORTI https://docs.google.com/forms/d/1ULjswJ_GKUaZIB1pCX2k2p7Nxxdew3i21Tl_O0F71L8/viewform \n\n\u041d\u0430\u0434\u0437\u0432\u0438\u0447\u0430\u0439\u043d\u0430 \u0441\u0438\u0442\u0443\u0430\u0446\u0456\u044f \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456:\u043c\u043e\u0434\u0443\u043b\u044c \u0434\u043b\u044f \u0437\u0430\u043f\u043e\u0432\u043d\u0435\u043d\u043d\u044f \u043d\u0430 \u0432\u0438\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u043d\u044f \u043f\u0440\u043e\u0457\u0437\u0434\u043d\u043e\u0433\u043e \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443 \u0443 \u0433\u0440\u043e\u043c\u0430\u0434\u0441\u044c\u043a\u043e\u043c\u0443 \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u0456 \u0432 \u0422\u0440\u0435\u043d\u0442\u0456\u043d\u043e. \u0413\u0440\u043e\u043c\u0430\u0434\u044f\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438,\u044f\u043a\u0456 \u0447\u0435\u0440\u0435\u0437 Cinformi,\u043f\u043e\u0434\u0430\u043b\u0438 \u0437\u0430\u043f\u0438\u0442 \u0434\u043e \u041f\u043e\u043b\u0456\u0446\u0456\u0457 \u0422\u0440\u0435\u043d\u0442\u043e \u043d\u0430 \u0432\u0438\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u043d\u044f \u0442\u0438\u043c\u0447\u0430\u0441\u043e\u0432\u043e\u0433\u043e \u0434\u043e\u0437\u0432\u043e\u043b\u0443 \u043d\u0430 \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u043d\u043d\u044f,\u043c\u043e\u0436\u0443\u0442\u044c \u043f\u043e\u0434\u0430\u0442\u0438 \u0437\u0430\u043f\u0438\u0442 \u043d\u0430 \u0432\u0438\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u043d\u044f \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u0457\u0437\u0434\u043d\u043e\u0433\u043e \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443 \u0443 \u0433\u0440\u043e\u043c\u0430\u0434\u0441\u044c\u043a\u043e\u043c\u0443 \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u0456 \u0432 \u0422\u0440\u0435\u043d\u0442\u0456\u043d\u043e,\u0434\u043b\u044f \u0441\u0435\u0431\u0435 \u0456 \u0441\u0432\u043e\u0457\u0445 \u0440\u0456\u0434\u043d\u0438\u0445. \n\u041d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u043e \u0437\u0430\u043f\u043e\u0432\u043d\u0438\u0442\u0438 \u043d\u0430\u0441\u0442\u0443\u043f\u043d\u0438\u0439 \u043c\u043e\u0434\u0443\u043b\u044c \u0434\u043b\u044f \u043f\u0456\u0434\u0442\u0432\u0435\u0440\u0434\u0436\u0435\u043d\u043d\u044f \u043d\u0430\u044f\u0432\u043d\u043e\u0441\u0442\u0456 \u0432\u0438\u043c\u043e\u0433,\u0449\u043e\u0434\u043e \u0432\u0438\u0434\u0430\u0447\u0456 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443 \u0434\u043b\u044f \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u0457\u0437\u0434\u0443. \u0423 \u0440\u0430\u0437\u0456 \u043f\u043e\u0437\u0438\u0442\u0438\u0432\u043d\u043e\u0433\u043e \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0443 \u043f\u0435\u0440\u0435\u0432\u0456\u0440\u043a\u0438,\u0437\u0430\u044f\u0432\u043d\u0438\u043a\u0438 \u043e\u0442\u0440\u0438\u043c\u0430\u044e\u0442\u044c \u043f\u0456\u0434\u0442\u0432\u0435\u0440\u0434\u0436\u0435\u043d\u043d\u044f \u0435\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u044e \u043f\u043e\u0448\u0442\u043e\u044e,\u0437 \u043f\u043e\u0432\u043d\u0438\u043c\u0438 \u0456\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0456\u044f\u043c\u0438 \u0449\u043e\u0434\u043e \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u043d\u044f \u0437\u0430\u043f\u0438\u0442\u0443 \u043d\u0430 \u0432\u0438\u0434\u0430\u0447\u0443 \u043f\u0440\u043e\u0457\u0437\u0434\u043d\u043e\u0433\u043e \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0443 \u0443 \u0432\u0456\u0434\u0434\u0456\u043b\u0430\u0445 Trentino Trasporti. \n\u0429\u043e\u0431 \u043f\u0440\u043e\u0434\u043e\u0432\u0436\u0438\u0442\u0438 \u043d\u0430\u0442\u0438\u0441\u043d\u0456\u0442\u044c https://docs.google.com/forms/d/1ULjswJ_GKUaZIB1pCX2k2p7Nxxdew3i21Tl_O0F71L8/viewform"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Provincia autonoma di Trento"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""Trentino: i profughi Ucraini possono accedere gratuitamente al trasporto pubblico locale"",""url"":""https://www.cinformi.it/Progetti/Speciale-Emergenza-Ucraina/Domanda-di-concessione-tessera-di-libera-circolazione""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
