@@ -1,21 +1,270 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/675,1209780112,2022-04-20 16:09:09,2022-04-20 14:33:29,"Lavoro e protezione temporanea, sul sito IntegrazioneMigranti.gov risposte alle domande più frequenti",,,,,"[""Valid/Accettato"",""News"",""Legal"",""job""]",,,"{""description"":""Sul sito ministeriale Integrazione Immigrazione risposte alle domande pi\u00f9 frequenti su lavoro e protezione temporanea: Assunzioni, Centri per l'Impiego, DID, tirocini, formazione professionale, riconoscimento titoli e altre info utili.\nDisponibili anche in lingua ucraina."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/2487/Lavoro-e-protezione-temporanea-risposte-alle-domande-piu-frequenti"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Lavoro e protezione temporanea, sul sito IntegrazioneMigranti.gov risposte alle domande pi\u00f9 frequenti (italiano/ucraino)""}","<pre><yamldata>
-title: Lavoro e protezione temporanea, sul sito IntegrazioneMigranti.gov risposte
-  alle domande più frequenti (italiano/ucraino)
-description: 'Sul sito ministeriale Integrazione Immigrazione risposte alle domande
-  più frequenti su lavoro e protezione temporanea: Assunzioni, Centri per l''Impiego,
-  DID, tirocini, formazione professionale, riconoscimento titoli e altre info utili.
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/674,1209766523,2022-04-20 16:28:13,2022-04-20 14:23:19,Regione #Basilicata cerca traduttori ucraino-italiano e mediatori culturali,40.640151,15.785115,Basilicata,Potenza,"[""Valid/Accettato"",""Help"",""translation"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""40.640151 15.785115"",""description"":""Il Garante regionale dell\u2019infanzia e dell\u2019adolescenza ha pubblicato un avviso con il quale si richiede la disponibilit\u00e0 di persone di nazionalit\u00e0 ucraina o russa presenti nei nostri territori o comunque persone che possano aiutare, in questo drammatico momento storico, i loro connazionali che non conoscono la lingua italiana.\nPer comunicare la propria disponibilit\u00e0, gli interessati potranno chiamare il numero 335 6395791 oppure mandare una e\u2013mail ad uno dei seguenti indirizzi: garanteinfanziaeadolescenza@regione.basilicata.it; vincgiuliano@gmail.com"",""email"":""garanteinfanziaeadolescenza@regione.basilicata.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Potenza"",""country"":""Italia"",""country_code"":""it"",""county"":""Potenza"",""office"":""Regione Basilicata"",""postcode"":""85100"",""road"":""Via Vincenzo Verrastro"",""state"":""Basilicata""},""boundingbox"":[""40.640101"",""40.640201"",""15.785065"",""15.785165""],""class"":""office"",""display_name"":""Regione Basilicata, Via Vincenzo Verrastro, Potenza, Basilicata, 85100, Italia"",""importance"":0.21100000000000002,""lat"":""40.640151"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.785115"",""osm_id"":4672043990,""osm_type"":""node"",""place_id"":53572934,""type"":""government""},""mode"":""autocomplete""},""nameSurname"":""Regione Basilicata - Garante infanzia e adolescenza"",""phoneNumber"":""335 6395791"",""recipients"":"""",""submit"":true,""title"":""Regione Basilicata cerca traduttori Ucraino-Italiano e mediatori culturali"",""url"":""https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/2425/Basilicata-Avviso-per-traduttori-Ucraino-Italiano-e-mediatori-culturali""}","<pre><yamldata>
+nameSurname: Regione Basilicata - Garante infanzia e adolescenza
+phoneNumber: 335 6395791
+email: garanteinfanziaeadolescenza@regione.basilicata.it
+title: Regione Basilicata cerca traduttori Ucraino-Italiano e mediatori culturali
+recipients: ''
+description: 'Il Garante regionale dell’infanzia e dell’adolescenza ha pubblicato
+  un avviso con il quale si richiede la disponibilità di persone di nazionalità ucraina
+  o russa presenti nei nostri territori o comunque persone che possano aiutare, in
+  questo drammatico momento storico, i loro connazionali che non conoscono la lingua
+  italiana.
 
-  Disponibili anche in lingua ucraina.'
-link: https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/2487/Lavoro-e-protezione-temporanea-risposte-alle-domande-piu-frequenti
+  Per comunicare la propria disponibilità, gli interessati potranno chiamare il numero
+  335 6395791 oppure mandare una e–mail ad uno dei seguenti indirizzi: garanteinfanziaeadolescenza@regione.basilicata.it;
+  vincgiuliano@gmail.com'
+url: https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/2425/Basilicata-Avviso-per-traduttori-Ucraino-Italiano-e-mediatori-culturali
 location:
   mode: autocomplete
-  address: {}
-label: news
+  address:
+    place_id: 53572934
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 4672043990
+    boundingbox:
+    - '40.640101'
+    - '40.640201'
+    - '15.785065'
+    - '15.785165'
+    lat: '40.640151'
+    lon: '15.785115'
+    display_name: Regione Basilicata, Via Vincenzo Verrastro, Potenza, Basilicata,
+      85100, Italia
+    class: office
+    type: government
+    importance: 0.21100000000000002
+    address:
+      office: Regione Basilicata
+      road: Via Vincenzo Verrastro
+      city: Potenza
+      county: Potenza
+      state: Basilicata
+      postcode: '85100'
+      country: Italia
+      country_code: it
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 40.640151 15.785115
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/667,1209678492,2022-04-20 16:27:52,2022-04-20 13:19:38,A Reggio Calabria trasporto pubblico locale gratuito per i rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""transport"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Reggio di Calabria"",""country"":""Italia"",""country_code"":""it"",""county"":""Reggio di Calabria"",""postcode"":""89127"",""state"":""Calabria""},""boundingbox"":[""37.9435389"",""38.2635389"",""15.4797556"",""15.7997556""],""class"":""place"",""display_name"":""Reggio di Calabria, Reggio Calabria, Reggio di Calabria, Calabria, 89127, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7903690427409096,""lat"":""38.1035389"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.6397556"",""osm_id"":67273280,""osm_type"":""node"",""place_id"":286288900,""type"":""city""},""mode"":""autocomplete""},""description"":""rifugiati ucraini, attualmente residenti a Reggio Calabria, potranno utilizzare gratuitamente i servizi di trasporto pubblico dell\u2019intera rete servita da Atam SpA, l\u2019azienda di trasporto pubblico locale. \nLa richiesta dovr\u00e0 pervenire ad Atam SpA unicamente, da parte di un\u2019associazione riconosciuta al seguente indirizzo e-mail: atamperucraina@gmail.com. La tessera di libera circolazione sar\u00e0 nominativa, e consentir\u00e0 di viaggiare sui mezzi di Atam SpA nell\u2019intera rete di servizio nella zona urbana ed extraurbana."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Reggio Calabria- Atam"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""A Reggio Calabria trasporto pubblico locale gratuito per i rifugiati ucraini"",""url"":""https://reggio.gazzettadelsud.it/articoli/cronaca/2022/04/11/reggio-calabria-trasporti-gratuiti-per-i-rifugiati-ucraini-f7da3eae-5979-4738-9d91-bacfa8354e49/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: true
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Comune di Reggio Calabria- Atam
+title: A Reggio Calabria trasporto pubblico locale gratuito per i rifugiati ucraini
+recipients: ''
+description: ""rifugiati ucraini, attualmente residenti a Reggio Calabria, potranno\
+  \ utilizzare gratuitamente i servizi di trasporto pubblico dell’intera rete servita\
+  \ da Atam SpA, l’azienda di trasporto pubblico locale. \nLa richiesta dovrà pervenire\
+  \ ad Atam SpA unicamente, da parte di un’associazione riconosciuta al seguente indirizzo\
+  \ e-mail: atamperucraina@gmail.com. La tessera di libera circolazione sarà nominativa,\
+  \ e consentirà di viaggiare sui mezzi di Atam SpA nell’intera rete di servizio nella\
+  \ zona urbana ed extraurbana.""
+url: https://reggio.gazzettadelsud.it/articoli/cronaca/2022/04/11/reggio-calabria-trasporti-gratuiti-per-i-rifugiati-ucraini-f7da3eae-5979-4738-9d91-bacfa8354e49/
+address:
+  mode: autocomplete
+  address:
+    place_id: 286288900
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 67273280
+    boundingbox:
+    - '37.9435389'
+    - '38.2635389'
+    - '15.4797556'
+    - '15.7997556'
+    lat: '38.1035389'
+    lon: '15.6397556'
+    display_name: Reggio di Calabria, Reggio Calabria, Reggio di Calabria, Calabria,
+      89127, Italia
+    class: place
+    type: city
+    importance: 0.7903690427409096
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Reggio di Calabria
+      county: Reggio di Calabria
+      state: Calabria
+      postcode: '89127'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/673,1209754695,2022-04-20 16:00:28,2022-04-20 14:14:44,A #Caserta CIDIS è attivo con uno sportello legale e socio-sanitario per profughi ucraini e laboratori ludico-didattici per bambini,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""healthcare"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-72"",""city"":""Caserta"",""country"":""Italia"",""country_code"":""it"",""county"":""Caserta"",""postcode"":""81100"",""residential"":""Caserta"",""road"":""Corso Trieste"",""state"":""Campania"",""suburb"":""Centro Storico""},""boundingbox"":[""41.0716311"",""41.0718398"",""14.3362343"",""14.3413994""],""class"":""highway"",""display_name"":""Corso Trieste, Caserta, Centro Storico, Caserta, Campania, 81100, Italia"",""importance"":0.5199999999999999,""lat"":""41.0717404"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.3387332"",""osm_id"":24658285,""osm_type"":""way"",""place_id"":106637139,""type"":""residential""},""mode"":""autocomplete""},""description"":""Presso il Cidis di Caserta, Onlus che si occupa di progetti di accoglienza integrata dal 2001, e fa parte della rete SPRAR (Servizio di Protezione di Richiedenti Asilo e Rifugiati), sono iniziati dei laboratori ludico didattici per bambini tra i 6 e i 14 anni, che consentir\u00e0 loro di imparare l\u2019italiano divertendosi.\nI laboratori sono aperti a tutti gli stranieri ma in questo momento il maggior numero di adesioni proviene da famiglie ucraine arrivate a Caserta nelle ultime settimane.\nE\u2019 attivo anche uno sportello di segretariato sociale per fornire tutte le informazioni e l\u2019assistenza necessari sul piano legale, burocratico, socio-sanitario e formativo, aperto nei seguenti giorni e orari:\nmarted\u00ec e venerd\u00ec: 9,30-12,30\ngioved\u00ec:14,30-17,30\nSede: Corso tmTrieste 257 - Caserta.\nTel. 0823444637/0823324251, email: caserta@cidisonlus.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Cidis Caserta"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":true,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Caserta Cidis attiva sportello legale e socio-sanitario per profughi ucraini e laboratori ludico-didattici per bambini"",""url"":""https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/2416/A-Caserta-partiti-laboratori-per-i-bimbi-ucraini""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/668,1209682629,2022-04-20 16:26:47,2022-04-20 13:22:47,"Croce Rossa, attivo servizio telefonico di supporto psicologico per rifugiati ucraini e famiglie ospitanti",,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""psychologicalSupport"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Dal 1 aprile attivo il servizio di Croce Rossa di Pronto Soccorso Psicologico telefonico gratuito per i cittadini ucraini in Italia e per le famiglie ospitanti. Chiama il numero verde 800-065510 (lun-sab, ore 8-20) per affrontare insieme questo momento difficile."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Croce Rossa"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Croce Rossa, attivo servizio telefonico di supporto psicologico per rifugiati ucraini e famiglie ospitanti"",""url"":""https://twitter.com/crocerossa/status/1509818397550428188?t=74wZYM8NAWtsX6bS6MeIqQ&s=19""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: true
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Croce Rossa
+title: Croce Rossa, attivo servizio telefonico di supporto psicologico per rifugiati
+  ucraini e famiglie ospitanti
+recipients: ''
+description: Dal 1 aprile attivo il servizio di Croce Rossa di Pronto Soccorso Psicologico
+  telefonico gratuito per i cittadini ucraini in Italia e per le famiglie ospitanti.
+  Chiama il numero verde 800-065510 (lun-sab, ore 8-20) per affrontare insieme questo
+  momento difficile.
+url: https://twitter.com/crocerossa/status/1509818397550428188?t=74wZYM8NAWtsX6bS6MeIqQ&s=19
+address:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/671,1209738543,2022-04-20 16:26:25,2022-04-20 14:02:41,"Regione #FriuliVeneziaGiulia, elenco mediatori in ucraino/russo a disposizione di enti e scuole",,,,,"[""Valid/Accettato"",""Services"",""translation"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-36"",""city"":""Udine"",""country"":""Italia"",""country_code"":""it"",""county"":""Udine"",""house_number"":""16"",""neighbourhood"":""Borgo Aquileia"",""office"":""Regione Friuli Venezia Giulia"",""postcode"":""33100"",""road"":""Via della Prefettura"",""state"":""Friuli Venezia Giulia""},""boundingbox"":[""46.0625062"",""46.0626062"",""13.2394858"",""13.2395858""],""class"":""office"",""display_name"":""Regione Friuli Venezia Giulia, 16, Via della Prefettura, Borgo Aquileia, Udine, Friuli Venezia Giulia, 33100, Italia"",""importance"":0.401,""lat"":""46.0625562"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.2395358"",""osm_id"":3748941234,""osm_type"":""node"",""place_id"":45085386,""type"":""government""},""mode"":""autocomplete""},""description"":""La Regione Friuli Venezia Giulia ha individuato una lista di persone con conoscenza delle lingue ucraina e/o russa, disponibili a offrire supporto per fronteggiare la richiesta urgente di mediatori linguistici.\nI nominativi delle persone che hanno dato la loro disponibilit\u00e0 saranno comunicati, nel rispetto della normativa sulla privacy, agli Enti del territorio (Scuole, Comuni, Enti gestori dell\u2019accoglienza) che ne faranno motivata richiesta, utilizzando il modello sotto pubblicato ed inviandolo via pec all'indirizzo immigrazione@certregione.fvg.it\nAl link il modulo da allegare alla richiesta."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Friuli Venezia Giulia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Regione Friuli Venezia Giulia, elenco mediatori in ucraino/russo a disposizione di enti e scuole"",""url"":""https://www.regione.fvg.it/rafvg/cms/RAFVG/cultura-sport/immigrazione/FOGLIA6/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: true
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Regione Friuli Venezia Giulia
+title: Regione Friuli Venezia Giulia, elenco mediatori in ucraino/russo a disposizione
+  di enti e scuole
+recipients: ''
+description: 'La Regione Friuli Venezia Giulia ha individuato una lista di persone
+  con conoscenza delle lingue ucraina e/o russa, disponibili a offrire supporto per
+  fronteggiare la richiesta urgente di mediatori linguistici.
+
+  I nominativi delle persone che hanno dato la loro disponibilità saranno comunicati,
+  nel rispetto della normativa sulla privacy, agli Enti del territorio (Scuole, Comuni,
+  Enti gestori dell’accoglienza) che ne faranno motivata richiesta, utilizzando il
+  modello sotto pubblicato ed inviandolo via pec all''indirizzo immigrazione@certregione.fvg.it
+
+  Al link il modulo da allegare alla richiesta.'
+url: https://www.regione.fvg.it/rafvg/cms/RAFVG/cultura-sport/immigrazione/FOGLIA6/
+address:
+  mode: autocomplete
+  address:
+    place_id: 45085386
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 3748941234
+    boundingbox:
+    - '46.0625062'
+    - '46.0626062'
+    - '13.2394858'
+    - '13.2395858'
+    lat: '46.0625562'
+    lon: '13.2395358'
+    display_name: Regione Friuli Venezia Giulia, 16, Via della Prefettura, Borgo Aquileia,
+      Udine, Friuli Venezia Giulia, 33100, Italia
+    class: office
+    type: government
+    importance: 0.401
+    address:
+      office: Regione Friuli Venezia Giulia
+      house_number: '16'
+      road: Via della Prefettura
+      neighbourhood: Borgo Aquileia
+      city: Udine
+      county: Udine
+      state: Friuli Venezia Giulia
+      ISO3166-2-lvl4: IT-36
+      postcode: '33100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/661,1209398384,2022-04-20 16:24:40,2022-04-20 09:09:22,"A Vicenza, il Centro Servizi Volontariato coordina le iniziative per far fronte all'emergenza Ucraina",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""hospitality"",""healthcare"",""psychologicalSupport"",""Children"",""women"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""city"":""Vicenza"",""country"":""Italy"",""country_code"":""it"",""county"":""Vicenza"",""house_number"":""37/A"",""municipality"":""Arcugnano"",""postcode"":""36100"",""quarter"":""San Biagio"",""road"":""Contra' Mure San Rocco"",""state"":""Veneto"",""suburb"":""San Felice""},""boundingbox"":[""45.5482544"",""45.5483544"",""11.5362629"",""11.5363629""],""class"":""place"",""display_name"":""37/A, Contra' Mure San Rocco, San Biagio, San Felice, Vicenza, Arcugnano, Vicenza, Veneto, 36100, Italy"",""importance"":0.821,""lat"":""45.5483044"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.5363129"",""osm_id"":4526514411,""osm_type"":""node"",""place_id"":52566931,""type"":""house""},""mode"":""autocomplete""},""description"":""Il CSV di Vicenza \u00e8 attivo nel far fronte alle difficolt\u00e0 causate alle persone dal conflitto russo-ucraino.\nIl CSV contribuisce a gestire l\u2019emergenza coordinando le reti di solidariet\u00e0 del volontariato provinciale. \nLe priorit\u00e0 vengono elaborate insieme all\u2019Associazione Il Ponte MICT, che da pi\u00f9 di 20 anni si interessa di Ucraina ed \u00e8 in contatto diretto con referenti attivi sul suo territorio.\nIl tavolo di coordinamento del CSV di Vicenza \u00e8 gestito in sinergia con le istituzioni territoriali e con le associazioni, con i seguenti scopi:\n* Acquistare materiale sanitario, farmaci e altri beni di prima necessit\u00e0\n* Trasportare in Ucraina quanto raccolto\n* Trasferire in Italia famiglie e persone in fuga dai territori di guerra\n* Accogliere nel territorio vicentino famiglie e persone in fuga dai territori di guerra"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Centro Servizi al Volontariato della Provincia di Vicenza"",""recipients"":""Cittadini Italiani e Ucraini"",""servicetypes"":{""Children"":true,""Legal"":true,""disability"":false,""education"":true,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":true},""submit"":true,""title"":""A Vicenza, il Centro Servizi Volontariato coordina le iniziative per far fronte all'emergenza Ucraina"",""url"":""https://www.csv-vicenza.org/web/emergenza-ucraina-2/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: true
+  transport: false
+  healthcare: true
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: true
+  Children: true
+  disability: false
+  women: true
+  education: true
+offerFromWho: Centro Servizi al Volontariato della Provincia di Vicenza
+title: A Vicenza, il Centro Servizi Volontariato coordina le iniziative per far fronte
+  all'emergenza Ucraina
+recipients: Cittadini Italiani e Ucraini
+description: ""Il CSV di Vicenza è attivo nel far fronte alle difficoltà causate alle\
+  \ persone dal conflitto russo-ucraino.\nIl CSV contribuisce a gestire l’emergenza\
+  \ coordinando le reti di solidarietà del volontariato provinciale. \nLe priorità\
+  \ vengono elaborate insieme all’Associazione Il Ponte MICT, che da più di 20 anni\
+  \ si interessa di Ucraina ed è in contatto diretto con referenti attivi sul suo\
+  \ territorio.\nIl tavolo di coordinamento del CSV di Vicenza è gestito in sinergia\
+  \ con le istituzioni territoriali e con le associazioni, con i seguenti scopi:\n\
+  * Acquistare materiale sanitario, farmaci e altri beni di prima necessità\n* Trasportare\
+  \ in Ucraina quanto raccolto\n* Trasferire in Italia famiglie e persone in fuga\
+  \ dai territori di guerra\n* Accogliere nel territorio vicentino famiglie e persone\
+  \ in fuga dai territori di guerra""
+url: https://www.csv-vicenza.org/web/emergenza-ucraina-2/
+address:
+  mode: autocomplete
+  address:
+    place_id: 52566931
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 4526514411
+    boundingbox:
+    - '45.5482544'
+    - '45.5483544'
+    - '11.5362629'
+    - '11.5363629'
+    lat: '45.5483044'
+    lon: '11.5363129'
+    display_name: 37/A, Contra' Mure San Rocco, San Biagio, San Felice, Vicenza, Arcugnano,
+      Vicenza, Veneto, 36100, Italy
+    class: place
+    type: house
+    importance: 0.821
+    address:
+      house_number: 37/A
+      road: Contra' Mure San Rocco
+      quarter: San Biagio
+      suburb: San Felice
+      city: Vicenza
+      municipality: Arcugnano
+      county: Vicenza
+      state: Veneto
+      ISO3166-2-lvl4: IT-34
+      postcode: '36100'
+      country: Italy
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/673,1209754695,2022-04-20 16:22:57,2022-04-20 14:14:44,A #Caserta CIDIS è attivo con uno sportello di supporto legale e socio-sanitario per profughi ucraini e laboratori ludico-didattici per bambini,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""healthcare"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-72"",""city"":""Caserta"",""country"":""Italia"",""country_code"":""it"",""county"":""Caserta"",""postcode"":""81100"",""residential"":""Caserta"",""road"":""Corso Trieste"",""state"":""Campania"",""suburb"":""Centro Storico""},""boundingbox"":[""41.0716311"",""41.0718398"",""14.3362343"",""14.3413994""],""class"":""highway"",""display_name"":""Corso Trieste, Caserta, Centro Storico, Caserta, Campania, 81100, Italia"",""importance"":0.5199999999999999,""lat"":""41.0717404"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.3387332"",""osm_id"":24658285,""osm_type"":""way"",""place_id"":106637139,""type"":""residential""},""mode"":""autocomplete""},""description"":""Presso il Cidis di Caserta, Onlus che si occupa di progetti di accoglienza integrata dal 2001, e fa parte della rete SPRAR (Servizio di Protezione di Richiedenti Asilo e Rifugiati), sono iniziati dei laboratori ludico didattici per bambini tra i 6 e i 14 anni, che consentir\u00e0 loro di imparare l\u2019italiano divertendosi.\nI laboratori sono aperti a tutti gli stranieri ma in questo momento il maggior numero di adesioni proviene da famiglie ucraine arrivate a Caserta nelle ultime settimane.\nE\u2019 attivo anche uno sportello di segretariato sociale per fornire tutte le informazioni e l\u2019assistenza necessari sul piano legale, burocratico, socio-sanitario e formativo, aperto nei seguenti giorni e orari:\nmarted\u00ec e venerd\u00ec: 9,30-12,30\ngioved\u00ec:14,30-17,30\nSede: Corso tmTrieste 257 - Caserta.\nTel. 0823444637/0823324251, email: caserta@cidisonlus.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Cidis Caserta"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":true,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Caserta Cidis attiva sportello legale e socio-sanitario per profughi ucraini e laboratori ludico-didattici per bambini"",""url"":""https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/2416/A-Caserta-partiti-laboratori-per-i-bimbi-ucraini""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
   hospitality: false
@@ -87,169 +336,7 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/671,1209738543,2022-04-20 16:00:05,2022-04-20 14:02:41,"Regione #FriuliVeneziaGiulia, elenco mediatori in ucraino/russo a disposizione di enti e scuole",,,,,"[""Valid/Accettato"",""Services"",""translation"",""telegram-channel""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-36"",""city"":""Udine"",""country"":""Italia"",""country_code"":""it"",""county"":""Udine"",""house_number"":""16"",""neighbourhood"":""Borgo Aquileia"",""office"":""Regione Friuli Venezia Giulia"",""postcode"":""33100"",""road"":""Via della Prefettura"",""state"":""Friuli Venezia Giulia""},""boundingbox"":[""46.0625062"",""46.0626062"",""13.2394858"",""13.2395858""],""class"":""office"",""display_name"":""Regione Friuli Venezia Giulia, 16, Via della Prefettura, Borgo Aquileia, Udine, Friuli Venezia Giulia, 33100, Italia"",""importance"":0.401,""lat"":""46.0625562"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.2395358"",""osm_id"":3748941234,""osm_type"":""node"",""place_id"":45085386,""type"":""government""},""mode"":""autocomplete""},""description"":""La Regione Friuli Venezia Giulia ha individuato una lista di persone con conoscenza delle lingue ucraina e/o russa, disponibili a offrire supporto per fronteggiare la richiesta urgente di mediatori linguistici.\nI nominativi delle persone che hanno dato la loro disponibilit\u00e0 saranno comunicati, nel rispetto della normativa sulla privacy, agli Enti del territorio (Scuole, Comuni, Enti gestori dell\u2019accoglienza) che ne faranno motivata richiesta, utilizzando il modello sotto pubblicato ed inviandolo via pec all'indirizzo immigrazione@certregione.fvg.it\nAl link il modulo da allegare alla richiesta."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Friuli Venezia Giulia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Regione Friuli Venezia Giulia, elenco mediatori in ucraino/russo a disposizione di enti e scuole"",""url"":""https://www.regione.fvg.it/rafvg/cms/RAFVG/cultura-sport/immigrazione/FOGLIA6/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: true
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Regione Friuli Venezia Giulia
-title: Regione Friuli Venezia Giulia, elenco mediatori in ucraino/russo a disposizione
-  di enti e scuole
-recipients: ''
-description: 'La Regione Friuli Venezia Giulia ha individuato una lista di persone
-  con conoscenza delle lingue ucraina e/o russa, disponibili a offrire supporto per
-  fronteggiare la richiesta urgente di mediatori linguistici.
-
-  I nominativi delle persone che hanno dato la loro disponibilità saranno comunicati,
-  nel rispetto della normativa sulla privacy, agli Enti del territorio (Scuole, Comuni,
-  Enti gestori dell’accoglienza) che ne faranno motivata richiesta, utilizzando il
-  modello sotto pubblicato ed inviandolo via pec all''indirizzo immigrazione@certregione.fvg.it
-
-  Al link il modulo da allegare alla richiesta.'
-url: https://www.regione.fvg.it/rafvg/cms/RAFVG/cultura-sport/immigrazione/FOGLIA6/
-address:
-  mode: autocomplete
-  address:
-    place_id: 45085386
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 3748941234
-    boundingbox:
-    - '46.0625062'
-    - '46.0626062'
-    - '13.2394858'
-    - '13.2395858'
-    lat: '46.0625562'
-    lon: '13.2395358'
-    display_name: Regione Friuli Venezia Giulia, 16, Via della Prefettura, Borgo Aquileia,
-      Udine, Friuli Venezia Giulia, 33100, Italia
-    class: office
-    type: government
-    importance: 0.401
-    address:
-      office: Regione Friuli Venezia Giulia
-      house_number: '16'
-      road: Via della Prefettura
-      neighbourhood: Borgo Aquileia
-      city: Udine
-      county: Udine
-      state: Friuli Venezia Giulia
-      ISO3166-2-lvl4: IT-36
-      postcode: '33100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/674,1209766523,2022-04-20 15:59:11,2022-04-20 14:23:19,Regione #Basilicata cerca traduttori ucraino-italiano e mediatori culturali,40.640151,15.785115,Basilicata,Potenza,"[""Valid/Accettato"",""Help"",""translation"",""telegram-channel""]",,,"{""Posizione"":""40.640151 15.785115"",""description"":""Il Garante regionale dell\u2019infanzia e dell\u2019adolescenza ha pubblicato un avviso con il quale si richiede la disponibilit\u00e0 di persone di nazionalit\u00e0 ucraina o russa presenti nei nostri territori o comunque persone che possano aiutare, in questo drammatico momento storico, i loro connazionali che non conoscono la lingua italiana.\nPer comunicare la propria disponibilit\u00e0, gli interessati potranno chiamare il numero 335 6395791 oppure mandare una e\u2013mail ad uno dei seguenti indirizzi: garanteinfanziaeadolescenza@regione.basilicata.it; vincgiuliano@gmail.com"",""email"":""garanteinfanziaeadolescenza@regione.basilicata.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Potenza"",""country"":""Italia"",""country_code"":""it"",""county"":""Potenza"",""office"":""Regione Basilicata"",""postcode"":""85100"",""road"":""Via Vincenzo Verrastro"",""state"":""Basilicata""},""boundingbox"":[""40.640101"",""40.640201"",""15.785065"",""15.785165""],""class"":""office"",""display_name"":""Regione Basilicata, Via Vincenzo Verrastro, Potenza, Basilicata, 85100, Italia"",""importance"":0.21100000000000002,""lat"":""40.640151"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.785115"",""osm_id"":4672043990,""osm_type"":""node"",""place_id"":53572934,""type"":""government""},""mode"":""autocomplete""},""nameSurname"":""Regione Basilicata - Garante infanzia e adolescenza"",""phoneNumber"":""335 6395791"",""recipients"":"""",""submit"":true,""title"":""Regione Basilicata cerca traduttori Ucraino-Italiano e mediatori culturali"",""url"":""https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/2425/Basilicata-Avviso-per-traduttori-Ucraino-Italiano-e-mediatori-culturali""}","<pre><yamldata>
-nameSurname: Regione Basilicata - Garante infanzia e adolescenza
-phoneNumber: 335 6395791
-email: garanteinfanziaeadolescenza@regione.basilicata.it
-title: Regione Basilicata cerca traduttori Ucraino-Italiano e mediatori culturali
-recipients: ''
-description: 'Il Garante regionale dell’infanzia e dell’adolescenza ha pubblicato
-  un avviso con il quale si richiede la disponibilità di persone di nazionalità ucraina
-  o russa presenti nei nostri territori o comunque persone che possano aiutare, in
-  questo drammatico momento storico, i loro connazionali che non conoscono la lingua
-  italiana.
-
-  Per comunicare la propria disponibilità, gli interessati potranno chiamare il numero
-  335 6395791 oppure mandare una e–mail ad uno dei seguenti indirizzi: garanteinfanziaeadolescenza@regione.basilicata.it;
-  vincgiuliano@gmail.com'
-url: https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/2425/Basilicata-Avviso-per-traduttori-Ucraino-Italiano-e-mediatori-culturali
-location:
-  mode: autocomplete
-  address:
-    place_id: 53572934
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 4672043990
-    boundingbox:
-    - '40.640101'
-    - '40.640201'
-    - '15.785065'
-    - '15.785165'
-    lat: '40.640151'
-    lon: '15.785115'
-    display_name: Regione Basilicata, Via Vincenzo Verrastro, Potenza, Basilicata,
-      85100, Italia
-    class: office
-    type: government
-    importance: 0.21100000000000002
-    address:
-      office: Regione Basilicata
-      road: Via Vincenzo Verrastro
-      city: Potenza
-      county: Potenza
-      state: Basilicata
-      postcode: '85100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 40.640151 15.785115
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/665,1209622464,2022-04-20 15:57:04,2022-04-20 12:32:53,Comune di Brescia: pagina web con informazioni utili sull'accoglienza dei rifugiati ucraini ,,,,,"[""Valid/Accettato"",""Services"",""hospitality"",""transport"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-BS"",""country"":""Italia"",""country_code"":""it"",""county"":""Brescia"",""state"":""Lombardia""},""boundingbox"":[""45.2042549"",""46.3548531"",""9.8362928"",""10.842675""],""class"":""boundary"",""display_name"":""Brescia, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7454640205264362,""lat"":""45.77958045"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.4258729694612"",""osm_id"":44882,""osm_type"":""relation"",""place_id"":284613587,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Pagina web del comune di Brescia dedicata all'emergenza Ucraina con informazioni utili sull'accoglienza dei rifugiati, trasporti, integrazione scolastica, sanit\u00e0 e procedure da effettuare all'arrivo."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Brescia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Brescia: pagina web con informazioni utili sull'accoglienza"",""url"":""https://www.comune.brescia.it/servizi/protezionecivile/Pagine/Emergenza-Ucraina.aspx""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: true
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Comune di Brescia
-title: 'Comune di Brescia: pagina web con informazioni utili sull''accoglienza'
-recipients: ''
-description: Pagina web del comune di Brescia dedicata all'emergenza Ucraina con informazioni
-  utili sull'accoglienza dei rifugiati, trasporti, integrazione scolastica, sanità e procedure da effettuare all'arrivo. 
-url: https://www.comune.brescia.it/servizi/protezionecivile/Pagine/Emergenza-Ucraina.aspx
-address:
-  mode: autocomplete
-  address:
-    place_id: 284613587
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 44882
-    boundingbox:
-    - '45.2042549'
-    - '46.3548531'
-    - '9.8362928'
-    - '10.842675'
-    lat: '45.77958045'
-    lon: '10.4258729694612'
-    display_name: Brescia, Lombardia, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7454640205264362
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      county: Brescia
-      ISO3166-2-lvl6: IT-BS
-      state: Lombardia
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/672,1209744580,2022-04-20 15:54:35,2022-04-20 14:07:22,"Campania, integrazione scostatica minori ucraini: attivo sportello CIDIS di consulenza online per personale scolastico",,,,,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-72"",""country"":""Italia"",""country_code"":""it"",""state"":""Campania""},""boundingbox"":[""39.9905158"",""41.5083526"",""13.7623799"",""15.8064468""],""class"":""boundary"",""display_name"":""Campania, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.784378189693263,""lat"":""40.860672"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.843984"",""osm_id"":40218,""osm_type"":""relation"",""place_id"":284774741,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Cidis Onlus conferma il suo impegno nel supportare le istituzioni scolastiche di ogni ordine e grado della Regione Campania con un nuovo servizio, lo Sportello di Consulenza on line sulla piattaforma ZOOM, organizzato nell\u2019ambito del progetto Impact Campania, finanziato da Fondo Asilo, Migrazione e Integrazione- FAMI 2014 \u2013 2022.\nAllo sportello, attivo ogni marted\u00ec dalle 14.30 alle 17.30 e venerd\u00ec dalle ore 09.00 alle ore 13.00 a partire dal 19 aprile, il personale scolastico potr\u00e0 chiedere consulenze gratuite per tutte le questioni legate all\u2019allievo straniero, dall\u2019accoglienza in classe alle strategie e agli strumenti per l\u2019integrazione scolastica, con particolare attenzione ai minori provenienti dall\u2019Ucraina.\nPer richiedere il servizio di consulenza \u00e8 necessario contattare l\u2019Agenzia di Mediazione Culturale di Cidis (tel. 081-5571218 \u2013 email mediazionecampania@cidisonlus.org) che fisser\u00e0 un appuntamento on line con la dott.ssa Giordana Curati, referente di Cidis in ambito scolastico, che grazie alla sua esperienza decennale potr\u00e0 orientare la scuola alle migliori scelte per l\u2019inclusione."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Cidis - Regione Campania"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Campania, integrazione scostatica minori ucraini: attivo sportello Cidis di consulenza online per personale scolastico"",""url"":""https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/2512/Campania-Sportello-di-consulenza-online-per-personale-scolastico""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/672,1209744580,2022-04-20 16:22:18,2022-04-20 14:07:22,"Campania, integrazione scolastica minori ucraini: attivo sportello CIDIS di consulenza online per personale scuole",,,,,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-72"",""country"":""Italia"",""country_code"":""it"",""state"":""Campania""},""boundingbox"":[""39.9905158"",""41.5083526"",""13.7623799"",""15.8064468""],""class"":""boundary"",""display_name"":""Campania, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.784378189693263,""lat"":""40.860672"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.843984"",""osm_id"":40218,""osm_type"":""relation"",""place_id"":284774741,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Cidis Onlus conferma il suo impegno nel supportare le istituzioni scolastiche di ogni ordine e grado della Regione Campania con un nuovo servizio, lo Sportello di Consulenza on line sulla piattaforma ZOOM, organizzato nell\u2019ambito del progetto Impact Campania, finanziato da Fondo Asilo, Migrazione e Integrazione- FAMI 2014 \u2013 2022.\nAllo sportello, attivo ogni marted\u00ec dalle 14.30 alle 17.30 e venerd\u00ec dalle ore 09.00 alle ore 13.00 a partire dal 19 aprile, il personale scolastico potr\u00e0 chiedere consulenze gratuite per tutte le questioni legate all\u2019allievo straniero, dall\u2019accoglienza in classe alle strategie e agli strumenti per l\u2019integrazione scolastica, con particolare attenzione ai minori provenienti dall\u2019Ucraina.\nPer richiedere il servizio di consulenza \u00e8 necessario contattare l\u2019Agenzia di Mediazione Culturale di Cidis (tel. 081-5571218 \u2013 email mediazionecampania@cidisonlus.org) che fisser\u00e0 un appuntamento on line con la dott.ssa Giordana Curati, referente di Cidis in ambito scolastico, che grazie alla sua esperienza decennale potr\u00e0 orientare la scuola alle migliori scelte per l\u2019inclusione."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Cidis - Regione Campania"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Campania, integrazione scostatica minori ucraini: attivo sportello Cidis di consulenza online per personale scolastico"",""url"":""https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/2512/Campania-Sportello-di-consulenza-online-per-personale-scolastico""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
   hospitality: false
@@ -307,6 +394,71 @@ address:
     address:
       state: Campania
       ISO3166-2-lvl4: IT-72
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/675,1209780112,2022-04-20 16:09:09,2022-04-20 14:33:29,"Lavoro e protezione temporanea, sul sito IntegrazioneMigranti.gov risposte alle domande più frequenti",,,,,"[""Valid/Accettato"",""News"",""Legal"",""job""]",,,"{""description"":""Sul sito ministeriale Integrazione Immigrazione risposte alle domande pi\u00f9 frequenti su lavoro e protezione temporanea: Assunzioni, Centri per l'Impiego, DID, tirocini, formazione professionale, riconoscimento titoli e altre info utili.\nDisponibili anche in lingua ucraina."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/2487/Lavoro-e-protezione-temporanea-risposte-alle-domande-piu-frequenti"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Lavoro e protezione temporanea, sul sito IntegrazioneMigranti.gov risposte alle domande pi\u00f9 frequenti (italiano/ucraino)""}","<pre><yamldata>
+title: Lavoro e protezione temporanea, sul sito IntegrazioneMigranti.gov risposte
+  alle domande più frequenti (italiano/ucraino)
+description: 'Sul sito ministeriale Integrazione Immigrazione risposte alle domande
+  più frequenti su lavoro e protezione temporanea: Assunzioni, Centri per l''Impiego,
+  DID, tirocini, formazione professionale, riconoscimento titoli e altre info utili.
+
+  Disponibili anche in lingua ucraina.'
+link: https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/2487/Lavoro-e-protezione-temporanea-risposte-alle-domande-piu-frequenti
+location:
+  mode: autocomplete
+  address: {}
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/665,1209622464,2022-04-20 15:57:04,2022-04-20 12:32:53,Comune di Brescia: pagina web con informazioni utili sull'accoglienza dei rifugiati ucraini ,,,,,"[""Valid/Accettato"",""Services"",""hospitality"",""transport"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-BS"",""country"":""Italia"",""country_code"":""it"",""county"":""Brescia"",""state"":""Lombardia""},""boundingbox"":[""45.2042549"",""46.3548531"",""9.8362928"",""10.842675""],""class"":""boundary"",""display_name"":""Brescia, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7454640205264362,""lat"":""45.77958045"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.4258729694612"",""osm_id"":44882,""osm_type"":""relation"",""place_id"":284613587,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Pagina web del comune di Brescia dedicata all'emergenza Ucraina con informazioni utili sull'accoglienza dei rifugiati, trasporti, integrazione scolastica, sanit\u00e0 e procedure da effettuare all'arrivo."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Brescia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Brescia: pagina web con informazioni utili sull'accoglienza"",""url"":""https://www.comune.brescia.it/servizi/protezionecivile/Pagine/Emergenza-Ucraina.aspx""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Comune di Brescia
+title: 'Comune di Brescia: pagina web con informazioni utili sull''accoglienza'
+recipients: ''
+description: Pagina web del comune di Brescia dedicata all'emergenza Ucraina con informazioni
+  utili sull'accoglienza dei rifugiati, trasporti, integrazione scolastica, sanità e procedure da effettuare all'arrivo. 
+url: https://www.comune.brescia.it/servizi/protezionecivile/Pagine/Emergenza-Ucraina.aspx
+address:
+  mode: autocomplete
+  address:
+    place_id: 284613587
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 44882
+    boundingbox:
+    - '45.2042549'
+    - '46.3548531'
+    - '9.8362928'
+    - '10.842675'
+    lat: '45.77958045'
+    lon: '10.4258729694612'
+    display_name: Brescia, Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7454640205264362
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Brescia
+      ISO3166-2-lvl6: IT-BS
+      state: Lombardia
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
@@ -435,36 +587,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/668,1209682629,2022-04-20 15:14:14,2022-04-20 13:22:47,"Croce Rossa, attivo servizio telefonico di supporto psicologico per rifugiati ucraini e famiglie ospitanti",,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""psychologicalSupport"",""telegram-channel""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Dal 1 aprile attivo il servizio di Croce Rossa di Pronto Soccorso Psicologico telefonico gratuito per i cittadini ucraini in Italia e per le famiglie ospitanti. Chiama il numero verde 800-065510 (lun-sab, ore 8-20) per affrontare insieme questo momento difficile."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Croce Rossa"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Croce Rossa, attivo servizio telefonico di supporto psicologico per rifugiati ucraini e famiglie ospitanti"",""url"":""https://twitter.com/crocerossa/status/1509818397550428188?t=74wZYM8NAWtsX6bS6MeIqQ&s=19""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: true
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Croce Rossa
-title: Croce Rossa, attivo servizio telefonico di supporto psicologico per rifugiati
-  ucraini e famiglie ospitanti
-recipients: ''
-description: Dal 1 aprile attivo il servizio di Croce Rossa di Pronto Soccorso Psicologico
-  telefonico gratuito per i cittadini ucraini in Italia e per le famiglie ospitanti.
-  Chiama il numero verde 800-065510 (lun-sab, ore 8-20) per affrontare insieme questo
-  momento difficile.
-url: https://twitter.com/crocerossa/status/1509818397550428188?t=74wZYM8NAWtsX6bS6MeIqQ&s=19
-address:
-  mode: autocomplete
-  address: {}
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/666,1209672864,2022-04-20 15:10:51,2022-04-20 13:15:19,A Reggio Calabria Caritas apre sportello emergenza Ucraina,38.1077106,15.6440887,Calabria,Reggio di Calabria,"[""Valid/Accettato"",""News"",""Services"",""useful contact""]",,,"{""Posizione"":""38.1077106 15.6440887"",""description"":""Caritas di Reggio Calabria apre uno sportello dedicato all'emergenza Ucraina, aperto da luned\u00ec a venerd\u00ec mattina (tranne il mercoled\u00ec), ore 9-12.\nLo sportello \u00e8 in  Via Tommaso Campanella.\nPer maggiori informazioni si pu\u00f2 telefonare al n. 0965 385553 o al 385550 o scrivere all\u2019indirizzo caritasreggiocalabria@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.avveniredicalabria.it/emergenza-ucraina-caritas-reggio-calabria-apre-sportello/"",""location"":{""address"":{""address"":{""city"":""Reggio Calabria"",""country"":""Italia"",""country_code"":""it"",""county"":""Reggio di Calabria"",""postcode"":""89125"",""road"":""Via Tommaso Campanella"",""state"":""Calabria""},""boundingbox"":[""38.1068999"",""38.108517"",""15.6431444"",""15.6450242""],""class"":""highway"",""display_name"":""Via Tommaso Campanella, Reggio Calabria, Reggio di Calabria, Calabria, 89125, Italia"",""importance"":0.61,""lat"":""38.1077106"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.6440887"",""osm_id"":179565845,""osm_type"":""way"",""place_id"":143740351,""type"":""residential""},""mode"":""autocomplete""},""submit"":true,""title"":""A Reggio Calabria Caritas apre sportello emergenze Ucraina""}","<pre><yamldata>
 title: A Reggio Calabria Caritas apre sportello emergenze Ucraina
 description: 'Caritas di Reggio Calabria apre uno sportello dedicato all''emergenza
@@ -506,72 +628,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 38.1077106 15.6440887
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/661,1209398384,2022-04-20 12:13:02,2022-04-20 09:09:22,"A Vicenza, il Centro Servizi Volontariato coordina le iniziative per far fronte all'emergenza Ucraina",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""hospitality"",""healthcare"",""psychologicalSupport"",""Children"",""women"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""city"":""Vicenza"",""country"":""Italy"",""country_code"":""it"",""county"":""Vicenza"",""house_number"":""37/A"",""municipality"":""Arcugnano"",""postcode"":""36100"",""quarter"":""San Biagio"",""road"":""Contra' Mure San Rocco"",""state"":""Veneto"",""suburb"":""San Felice""},""boundingbox"":[""45.5482544"",""45.5483544"",""11.5362629"",""11.5363629""],""class"":""place"",""display_name"":""37/A, Contra' Mure San Rocco, San Biagio, San Felice, Vicenza, Arcugnano, Vicenza, Veneto, 36100, Italy"",""importance"":0.821,""lat"":""45.5483044"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.5363129"",""osm_id"":4526514411,""osm_type"":""node"",""place_id"":52566931,""type"":""house""},""mode"":""autocomplete""},""description"":""Il CSV di Vicenza \u00e8 attivo nel far fronte alle difficolt\u00e0 causate alle persone dal conflitto russo-ucraino.\nIl CSV contribuisce a gestire l\u2019emergenza coordinando le reti di solidariet\u00e0 del volontariato provinciale. \nLe priorit\u00e0 vengono elaborate insieme all\u2019Associazione Il Ponte MICT, che da pi\u00f9 di 20 anni si interessa di Ucraina ed \u00e8 in contatto diretto con referenti attivi sul suo territorio.\nIl tavolo di coordinamento del CSV di Vicenza \u00e8 gestito in sinergia con le istituzioni territoriali e con le associazioni, con i seguenti scopi:\n* Acquistare materiale sanitario, farmaci e altri beni di prima necessit\u00e0\n* Trasportare in Ucraina quanto raccolto\n* Trasferire in Italia famiglie e persone in fuga dai territori di guerra\n* Accogliere nel territorio vicentino famiglie e persone in fuga dai territori di guerra"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Centro Servizi al Volontariato della Provincia di Vicenza"",""recipients"":""Cittadini Italiani e Ucraini"",""servicetypes"":{""Children"":true,""Legal"":true,""disability"":false,""education"":true,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":true},""submit"":true,""title"":""A Vicenza, il Centro Servizi Volontariato coordina le iniziative per far fronte all'emergenza Ucraina"",""url"":""https://www.csv-vicenza.org/web/emergenza-ucraina-2/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: true
-  transport: false
-  healthcare: true
-  Legal: true
-  translation: false
-  job: false
-  psychologicalSupport: true
-  Children: true
-  disability: false
-  women: true
-  education: true
-offerFromWho: Centro Servizi al Volontariato della Provincia di Vicenza
-title: A Vicenza, il Centro Servizi Volontariato coordina le iniziative per far fronte
-  all'emergenza Ucraina
-recipients: Cittadini Italiani e Ucraini
-description: ""Il CSV di Vicenza è attivo nel far fronte alle difficoltà causate alle\
-  \ persone dal conflitto russo-ucraino.\nIl CSV contribuisce a gestire l’emergenza\
-  \ coordinando le reti di solidarietà del volontariato provinciale. \nLe priorità\
-  \ vengono elaborate insieme all’Associazione Il Ponte MICT, che da più di 20 anni\
-  \ si interessa di Ucraina ed è in contatto diretto con referenti attivi sul suo\
-  \ territorio.\nIl tavolo di coordinamento del CSV di Vicenza è gestito in sinergia\
-  \ con le istituzioni territoriali e con le associazioni, con i seguenti scopi:\n\
-  * Acquistare materiale sanitario, farmaci e altri beni di prima necessità\n* Trasportare\
-  \ in Ucraina quanto raccolto\n* Trasferire in Italia famiglie e persone in fuga\
-  \ dai territori di guerra\n* Accogliere nel territorio vicentino famiglie e persone\
-  \ in fuga dai territori di guerra""
-url: https://www.csv-vicenza.org/web/emergenza-ucraina-2/
-address:
-  mode: autocomplete
-  address:
-    place_id: 52566931
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 4526514411
-    boundingbox:
-    - '45.5482544'
-    - '45.5483544'
-    - '11.5362629'
-    - '11.5363629'
-    lat: '45.5483044'
-    lon: '11.5363129'
-    display_name: 37/A, Contra' Mure San Rocco, San Biagio, San Felice, Vicenza, Arcugnano,
-      Vicenza, Veneto, 36100, Italy
-    class: place
-    type: house
-    importance: 0.821
-    address:
-      house_number: 37/A
-      road: Contra' Mure San Rocco
-      quarter: San Biagio
-      suburb: San Felice
-      city: Vicenza
-      municipality: Arcugnano
-      county: Vicenza
-      state: Veneto
-      ISO3166-2-lvl4: IT-34
-      postcode: '36100'
-      country: Italy
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/658,1209379630,2022-04-20 11:21:05,2022-04-20 08:52:58,"Azienda Tutela Salute Pavia, informazioni utili per assistenza sanitaria popolazione ucraina",45.036854649999995,9.137825082826026,Lombardia,Pavia,"[""Valid/Accettato"",""News"",""Services"",""healthcare""]",,,"{""Posizione"":""45.036854649999995 9.137825082826026"",""description"":""Informazioni utili per l'assistenza sanitaria alla popolazione ucraina. E' possibile accedere anche a: locandina informativa in lingua italiana; tavole di comunicazione aumentativa ed alternativa a supporto delle attivit\u00e0 di accoglienza; indicazioni per animali da compagnia al seguito"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.ats-pavia.it/web/guest/contenuto-web/-/asset_publisher/SP46mRKBFmdy/content/assistenza-sanitaria-per-i-profughi-provenienti-dall-ucraina-informazioni-sintetiche"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""state"":""Lombardia""},""boundingbox"":[""44.6799091"",""45.393838"",""8.4978518"",""9.5505475""],""class"":""boundary"",""display_name"":""Pavia, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7422019961097704,""lat"":""45.036854649999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.137825082826026"",""osm_id"":43483,""osm_type"":""relation"",""place_id"":283772748,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Azienda Tutela Salute Pavia, informazioni utili per assistenza sanitaria popolazione ucraina""}","<pre><yamldata>
 title: Azienda Tutela Salute Pavia, informazioni utili per assistenza sanitaria popolazione
