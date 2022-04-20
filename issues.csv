@@ -1,4 +1,68 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/679,1210238142,2022-04-20 21:42:35,2022-04-20 21:40:03,"A Roma InterSos ha attivato sportello di supporto legale e socio-sanitario, ambulatorio medico e corsi di italiano per profughi ucraini ",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""healthcare"",""Children"",""women"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio"",""suburb"":""Torre Spaccata""},""boundingbox"":[""41.865256"",""41.89408"",""12.5865031"",""12.6154945""],""class"":""place"",""display_name"":""Torre Spaccata, Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png"",""importance"":0.6485505566535597,""lat"":""41.87963715"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.60036546725455"",""osm_id"":5316727,""osm_type"":""relation"",""place_id"":285717737,""type"":""suburb""},""mode"":""autocomplete""},""description"":""Gli operatori e le operatrici di INTERSOS stanno anche portando avanti attivit\u00e0 per l\u2019integrazione dei rifugiati nel centro INTERSOS24, a Torre Spaccata. La struttura in questo periodo funge infatti da punto di riferimento per le famiglie ucraine accolte nel quartiere e non solo: lo sportello sociale, grazie anche a una mediatrice di lingua ucraina, fornisce informazioni sull\u2019accoglienza e sulla richiesta di protezione umanitaria temporanea, facilita l\u2019iscrizione al Sistema Sanitario Nazionale tramite l\u2019ottenimento del codice STP (Straniero temporaneamente presente) e l\u2019iscrizione a scuola per i bambini. L\u2019ambulatorio sociale del centro \u00e8 inoltre a disposizione per le visite mediche e ci sono corsi di italiano gratuiti e attivit\u00e0 ricreative che le mamme e i bambini possono frequentare all\u2019interno del Safe Space, lo spazio che nel centro \u00e8 dedicato ogni giorno alle donne vulnerabili, migranti e non, che vivono sul territorio. Per tutte le persone ucraine che hanno bisogno di informazioni e assistenza, questo il numero da chiamare 3884053537. Al link ulteriori info anche in ucraino."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""InterSos"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":true,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":true},""submit"":true,""title"":""A Roma InterSos ha attivato sportello di supporto legale e socio-sanitario, ambulatorio medico e corsi di italiano per rifugiati ucraini"",""url"":""https://www.intersos.org/rifugiati-ucraini-intersos-assiste-famiglie-roma/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: true
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: true
+  education: true
+offerFromWho: InterSos
+title: A Roma InterSos ha attivato sportello di supporto legale e socio-sanitario,
+  ambulatorio medico e corsi di italiano per rifugiati ucraini
+recipients: ''
+description: 'Gli operatori e le operatrici di INTERSOS stanno anche portando avanti
+  attività per l’integrazione dei rifugiati nel centro INTERSOS24, a Torre Spaccata.
+  La struttura in questo periodo funge infatti da punto di riferimento per le famiglie
+  ucraine accolte nel quartiere e non solo: lo sportello sociale, grazie anche a una
+  mediatrice di lingua ucraina, fornisce informazioni sull’accoglienza e sulla richiesta
+  di protezione umanitaria temporanea, facilita l’iscrizione al Sistema Sanitario
+  Nazionale tramite l’ottenimento del codice STP (Straniero temporaneamente presente)
+  e l’iscrizione a scuola per i bambini. L’ambulatorio sociale del centro è inoltre
+  a disposizione per le visite mediche e ci sono corsi di italiano gratuiti e attività
+  ricreative che le mamme e i bambini possono frequentare all’interno del Safe Space,
+  lo spazio che nel centro è dedicato ogni giorno alle donne vulnerabili, migranti
+  e non, che vivono sul territorio.
+  Per tutte le persone ucraine che hanno bisogno di informazioni e assistenza, questo
+  il numero da chiamare 3884053537.
+Al link ulteriori info anche in ucraino.'
+url: https://www.intersos.org/rifugiati-ucraini-intersos-assiste-famiglie-roma/
+address:
+  mode: autocomplete
+  address:
+    place_id: 285717737
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 5316727
+    boundingbox:
+    - '41.865256'
+    - '41.89408'
+    - '12.5865031'
+    - '12.6154945'
+    lat: '41.87963715'
+    lon: '12.60036546725455'
+    display_name: Torre Spaccata, Roma, Roma Capitale, Lazio, Italia
+    class: place
+    type: suburb
+    importance: 0.6485505566535597
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png
+    address:
+      suburb: Torre Spaccata
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/678,1210210388,2022-04-20 21:07:02,2022-04-20 21:05:13,A Livorno corso gratuito di italiano per profughi ucraini presso l’Istituto Tecnico Economico Vespucci,,,,,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""ISO3166-2-lvl6"":""IT-LI"",""amenity"":""Amerigo Vespucci"",""city"":""Livorno"",""country"":""Italia"",""country_code"":""it"",""county"":""Livorno"",""house_number"":""1"",""postcode"":""57123"",""road"":""Via Giuseppe Chiarini"",""state"":""Toscana""},""boundingbox"":[""43.5485107"",""43.5487225"",""10.3077447"",""10.3085786""],""class"":""amenity"",""display_name"":""Amerigo Vespucci, 1, Via Giuseppe Chiarini, Livorno, Toscana, 57123, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//education_school.p.20.png"",""importance"":0.42099999999999993,""lat"":""43.5486166"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.308161649999999"",""osm_id"":861166450,""osm_type"":""way"",""place_id"":266398490,""type"":""school""},""mode"":""autocomplete""},""description"":""\u201cItaliano nessun problema!\u201d \u00e8 il titolo del corso gratuito di lingua italiana per adulti stranieri che sta per partire presso l\u2019Istituto Tecnico Economico Vespucci-Colombo (via Chiarini 1). Partendo dall\u2019esigenza di includere le famiglie ucraine rifugiate od ospiti nella nostra citt\u00e0 \u2013 solitamente donne e bambini di et\u00e0 scolare \u2013 l\u2019istituto, che vanta una consolidata tradizione sia di corsi di italiano L2 per i propri alunni, sia di formazione degli adulti, ha deciso di mettere in campo le sue risorse interne per dar modo agli adulti in primis di origine ucraina, ma poi di fatto anche altri stranieri che lo desiderino, di potersi avvicinare alla  lingua italiana, con un corso, che partir\u00e0 venerd\u00ec 22 aprile 2022. Verr\u00e0 attivata una sinergia fra l\u2019istituto e la Caritas, che ha in programma corsi per bambini \u2013 ragazzi e forse giovani adulti (nei locali del centro per Accoglienza Profughi Ucraini recentemente inaugurato in via Temistocle Guerrazzi, presso la chiesa ucraina), ma mancando di esperienza di insegnamento nell\u2019italiano seconda lingua, ha chiesto supporto ai docenti del Vespucci- Colombo, per poter rafforzare l\u2019offerta in citt\u00e0."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Istituto Tecnico Economico Vespucci-Colombo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Livorno corso gratuito di italiano per profughi ucraini presso l\u2019Istituto Tecnico Economico Vespucci-Colombo"",""url"":""https://www.vespucci.edu.it/153-avvisi-ed-eventi/173-corso-gratuito-di-italiano-per-stranieri-adulti""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
