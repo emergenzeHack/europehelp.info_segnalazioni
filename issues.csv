@@ -1,4 +1,59 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/669,1209702443,2022-04-20 15:20:35,2022-04-20 13:36:40,A Genova trasporto pubblico gratuito per i rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""transport""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-42"",""ISO3166-2-lvl6"":""IT-GE"",""city"":""Genova"",""country"":""Italia"",""country_code"":""it"",""county"":""Genova"",""postcode"":""16100"",""state"":""Liguria""},""boundingbox"":[""44.24726"",""44.56726"",""8.7738624"",""9.0938624""],""class"":""place"",""display_name"":""Genova, Liguria, 16100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7921779665930816,""lat"":""44.40726"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.9338624"",""osm_id"":66586322,""osm_type"":""node"",""place_id"":286231612,""type"":""city""},""mode"":""autocomplete""},""description"":""Bus, pullman su linee extraurbane, metro, impianti di risalita gratuiti per i profughi in arrivo a Genova provenienti dall\u2019Ucraina.\nLo comunicano l\u2019assessore alla Mobilit\u00e0 Matteo Campora, i consiglieri delegati alle Politiche sociali Mario Baroni e alla Protezione civile Sergio Gambino."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Genova - Amt Genova"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""A Genova trasporto pubblici gratuiti per i rifugiati ucraini"",""url"":""https://t.co/FxEo0HMNVi""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: true
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Comune di Genova - Amt Genova
+title: A Genova trasporto pubblici gratuiti per i rifugiati ucraini
+recipients: ''
+description: 'Bus, pullman su linee extraurbane, metro, impianti di risalita gratuiti
+  per i profughi in arrivo a Genova provenienti dall’Ucraina.
+
+  Lo comunicano l’assessore alla Mobilità Matteo Campora, i consiglieri delegati alle
+  Politiche sociali Mario Baroni e alla Protezione civile Sergio Gambino.'
+url: https://t.co/FxEo0HMNVi
+address:
+  mode: autocomplete
+  address:
+    place_id: 286231612
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 66586322
+    boundingbox:
+    - '44.24726'
+    - '44.56726'
+    - '8.7738624'
+    - '9.0938624'
+    lat: '44.40726'
+    lon: '8.9338624'
+    display_name: Genova, Liguria, 16100, Italia
+    class: place
+    type: city
+    importance: 0.7921779665930816
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Genova
+      county: Genova
+      ISO3166-2-lvl6: IT-GE
+      state: Liguria
+      ISO3166-2-lvl4: IT-42
+      postcode: '16100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/668,1209682629,2022-04-20 15:14:14,2022-04-20 13:22:47,"Croce Rossa, attivo servizio telefonico di supporto psicologico per rifugiati ucraini e famiglie ospitanti",,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""psychologicalSupport"",""telegram-channel""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Dal 1 aprile attivo il servizio di Croce Rossa di Pronto Soccorso Psicologico telefonico gratuito per i cittadini ucraini in Italia e per le famiglie ospitanti. Chiama il numero verde 800-065510 (lun-sab, ore 8-20) per affrontare insieme questo momento difficile."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Croce Rossa"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Croce Rossa, attivo servizio telefonico di supporto psicologico per rifugiati ucraini e famiglie ospitanti"",""url"":""https://twitter.com/crocerossa/status/1509818397550428188?t=74wZYM8NAWtsX6bS6MeIqQ&s=19""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
