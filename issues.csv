@@ -1,4 +1,214 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/672,1209744580,2022-04-20 20:54:34,2022-04-20 14:07:22,"Campania, integrazione scolastica minori ucraini: attivo sportello CIDIS di consulenza online per le scuole",,,,,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-72"",""country"":""Italia"",""country_code"":""it"",""state"":""Campania""},""boundingbox"":[""39.9905158"",""41.5083526"",""13.7623799"",""15.8064468""],""class"":""boundary"",""display_name"":""Campania, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.784378189693263,""lat"":""40.860672"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.843984"",""osm_id"":40218,""osm_type"":""relation"",""place_id"":284774741,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Cidis Onlus conferma il suo impegno nel supportare le istituzioni scolastiche di ogni ordine e grado della Regione Campania con un nuovo servizio, lo Sportello di Consulenza on line sulla piattaforma ZOOM, organizzato nell\u2019ambito del progetto Impact Campania, finanziato da Fondo Asilo, Migrazione e Integrazione- FAMI 2014 \u2013 2022.\nAllo sportello, attivo ogni marted\u00ec dalle 14.30 alle 17.30 e venerd\u00ec dalle ore 09.00 alle ore 13.00 a partire dal 19 aprile, il personale scolastico potr\u00e0 chiedere consulenze gratuite per tutte le questioni legate all\u2019allievo straniero, dall\u2019accoglienza in classe alle strategie e agli strumenti per l\u2019integrazione scolastica, con particolare attenzione ai minori provenienti dall\u2019Ucraina.\nPer richiedere il servizio di consulenza \u00e8 necessario contattare l\u2019Agenzia di Mediazione Culturale di Cidis (tel. 081-5571218 \u2013 email mediazionecampania@cidisonlus.org) che fisser\u00e0 un appuntamento on line con la dott.ssa Giordana Curati, referente di Cidis in ambito scolastico, che grazie alla sua esperienza decennale potr\u00e0 orientare la scuola alle migliori scelte per l\u2019inclusione."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Cidis - Regione Campania"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Campania, integrazione scostatica minori ucraini: attivo sportello Cidis di consulenza online per personale scolastico"",""url"":""https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/2512/Campania-Sportello-di-consulenza-online-per-personale-scolastico""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Cidis - Regione Campania
+title: 'Campania, integrazione scostatica minori ucraini: attivo sportello Cidis di
+  consulenza online per personale scolastico'
+recipients: ''
+description: 'Cidis Onlus conferma il suo impegno nel supportare le istituzioni scolastiche
+  di ogni ordine e grado della Regione Campania con un nuovo servizio, lo Sportello
+  di Consulenza on line sulla piattaforma ZOOM, organizzato nell’ambito del progetto
+  Impact Campania, finanziato da Fondo Asilo, Migrazione e Integrazione- FAMI 2014
+  – 2022.
+
+  Allo sportello, attivo ogni martedì dalle 14.30 alle 17.30 e venerdì dalle ore 09.00
+  alle ore 13.00 a partire dal 19 aprile, il personale scolastico potrà chiedere consulenze
+  gratuite per tutte le questioni legate all’allievo straniero, dall’accoglienza in
+  classe alle strategie e agli strumenti per l’integrazione scolastica, con particolare
+  attenzione ai minori provenienti dall’Ucraina.
+
+  Per richiedere il servizio di consulenza è necessario contattare l’Agenzia di Mediazione
+  Culturale di Cidis (tel. 081-5571218 – email mediazionecampania@cidisonlus.org)
+  che fisserà un appuntamento on line con la dott.ssa Giordana Curati, referente di
+  Cidis in ambito scolastico, che grazie alla sua esperienza decennale potrà orientare
+  la scuola alle migliori scelte per l’inclusione.'
+url: https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/2512/Campania-Sportello-di-consulenza-online-per-personale-scolastico
+address:
+  mode: autocomplete
+  address:
+    place_id: 284774741
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 40218
+    boundingbox:
+    - '39.9905158'
+    - '41.5083526'
+    - '13.7623799'
+    - '15.8064468'
+    lat: '40.860672'
+    lon: '14.843984'
+    display_name: Campania, Italia
+    class: boundary
+    type: administrative
+    importance: 0.784378189693263
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      state: Campania
+      ISO3166-2-lvl4: IT-72
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/677,1210196713,2022-04-20 20:53:44,2022-04-20 20:49:59,A Ravenna CittAttiva raccoglie beni di prima necessità e organizza corsi di italiano per rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""city"":""Ravenna"",""country"":""Italia"",""country_code"":""it"",""county"":""Ravenna"",""house_number"":""2"",""postcode"":""48121"",""quarter"":""Borgo San Rocco"",""road"":""Via Corrado Ricci"",""shop"":""Villaggio Globale"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.4166398"",""44.4167398"",""12.1997001"",""12.1998001""],""class"":""shop"",""display_name"":""Villaggio Globale, 2, Via Corrado Ricci, Borgo San Rocco, Ravenna, Emilia-Romagna, 48121, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//shopping_convenience.p.20.png"",""importance"":0.511,""lat"":""44.4166898"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.1997501"",""osm_id"":4622412189,""osm_type"":""node"",""place_id"":52152865,""type"":""convenience""},""mode"":""autocomplete""},""description"":""Continua l\u2019impegno della nostra cooperativa e in particolare di CittAttiva, per sostenere le vittime della guerra in Ucraina. Pi\u00f9 la guerra continua, con morti e distruzioni, pi\u00f9 i bisogni aumentano. Dopo una prima fase nella quale abbiamo inviato in Ucraina e Polonia materiali utili per la popolazione civile, adesso l\u2019invio si \u00e8 ridotto ma siamo molto attivi per l\u2019accoglienza dei profughi. Doniamo loro cibo, prodotti per l\u2019igiene personale, vestiti, scarpe, materiale scolastico, giochi.\nLe persone che arrivano sono soprattutto donne e bambini, sono scappate potendo portare pochissime cose e quindi hanno necessit\u00e0 di tanto sostegno. Sono spesso ospitati da parenti. Molte sono le badanti che hanno la casa piena di profughi, e che per dare loro da mangiare e dormire hanno bisogno di aiuto. Queste persone vanno aiutate, perch\u00e9 l\u2019accoglienza \u00e8 soprattutto sulle loro spalle, e l\u2019accoglienza non deve diventare causa di impoverimento. Non vogliamo lasciare che l\u2019accoglienza e il sostegno alle vittime di guerra sia un fatto personale: tutti possiamo dare qualcosa.\nA CittAttiva si raccolgono prodotti alimentari, per l\u2019igiene personale e tanto altro. In Bottega si possono comprare i Piatti sospesi, che adesso stiamo utilizzando prioritariamente per fare sporte di prodotti alimentari che doniamo ai profughi. C\u2019\u00e8 anche bisogno di volontari. Chi \u00e8 disponibile pu\u00f2 chiamare CittAttiva al 0544482052.\nTra le attivit\u00e0 in corso ci sono anche 4 corsi di italiano, realizzati grazie alla disponibilit\u00e0 di tanti insegnanti volontari. Grazie a chi si attiver\u00e0 anche questa volta!"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Coop. commercio equo solidale Villaggio Globale - CittAttiva Ravenna"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Ravenna CittAttiva raccoglie beni di prima necessit\u00e0 e organizza corsi di italianoper rifugiati ucraini"",""url"":""https://www.villaggioglobale.ra.it/il-villaggio-per-gli-ucraini/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Coop. commercio equo solidale Villaggio Globale - CittAttiva Ravenna
+title: A Ravenna CittAttiva raccoglie beni di prima necessità e organizza corsi di
+  italianoper rifugiati ucraini
+recipients: ''
+description: 'Continua l’impegno della nostra cooperativa e in particolare di CittAttiva,
+  per sostenere le vittime della guerra in Ucraina. Più la guerra continua, con morti
+  e distruzioni, più i bisogni aumentano. Dopo una prima fase nella quale abbiamo
+  inviato in Ucraina e Polonia materiali utili per la popolazione civile, adesso l’invio
+  si è ridotto ma siamo molto attivi per l’accoglienza dei profughi. Doniamo loro
+  cibo, prodotti per l’igiene personale, vestiti, scarpe, materiale scolastico, giochi.
+
+  Le persone che arrivano sono soprattutto donne e bambini, sono scappate potendo
+  portare pochissime cose e quindi hanno necessità di tanto sostegno. Sono spesso
+  ospitati da parenti. Molte sono le badanti che hanno la casa piena di profughi,
+  e che per dare loro da mangiare e dormire hanno bisogno di aiuto. Queste persone
+  vanno aiutate, perché l’accoglienza è soprattutto sulle loro spalle, e l’accoglienza
+  non deve diventare causa di impoverimento. Non vogliamo lasciare che l’accoglienza
+  e il sostegno alle vittime di guerra sia un fatto personale: tutti possiamo dare
+  qualcosa.
+
+  A CittAttiva si raccolgono prodotti alimentari, per l’igiene personale e tanto altro.
+  In Bottega si possono comprare i Piatti sospesi, che adesso stiamo utilizzando prioritariamente
+  per fare sporte di prodotti alimentari che doniamo ai profughi. C’è anche bisogno
+  di volontari. Chi è disponibile può chiamare CittAttiva al 0544482052.
+
+  Tra le attività in corso ci sono anche 4 corsi di italiano, realizzati grazie alla
+  disponibilità di tanti insegnanti volontari. Grazie a chi si attiverà anche questa
+  volta!'
+url: https://www.villaggioglobale.ra.it/il-villaggio-per-gli-ucraini/
+address:
+  mode: autocomplete
+  address:
+    place_id: 52152865
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 4622412189
+    boundingbox:
+    - '44.4166398'
+    - '44.4167398'
+    - '12.1997001'
+    - '12.1998001'
+    lat: '44.4166898'
+    lon: '12.1997501'
+    display_name: Villaggio Globale, 2, Via Corrado Ricci, Borgo San Rocco, Ravenna,
+      Emilia-Romagna, 48121, Italia
+    class: shop
+    type: convenience
+    importance: 0.511
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//shopping_convenience.p.20.png
+    address:
+      shop: Villaggio Globale
+      house_number: '2'
+      road: Via Corrado Ricci
+      quarter: Borgo San Rocco
+      city: Ravenna
+      county: Ravenna
+      state: Emilia-Romagna
+      ISO3166-2-lvl4: IT-45
+      postcode: '48121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/676,1210187349,2022-04-20 20:53:09,2022-04-20 20:38:12,A Roma Spesa Sospesa per i rifugiati ucraini nelle botteghe del commercio equo solidale di Pangea,,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""262"",""postcode"":""00186"",""quarter"":""Campo Marzio"",""road"":""Via di Ripetta"",""shop"":""Altromercato"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.9096218"",""41.9097218"",""12.476066"",""12.476166""],""class"":""shop"",""display_name"":""Altromercato, 262, Via di Ripetta, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//shopping_convenience.p.20.png"",""importance"":0.5209999999999999,""lat"":""41.9096718"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.476116"",""osm_id"":2627732059,""osm_type"":""node"",""place_id"":24291326,""type"":""convenience""},""mode"":""autocomplete""},""description"":""Nelle Botteghe Altromercato di Pangea a Roma (via di Ripetta 262, via Arezzo 6, via Cinigiano 75) continua la \ud835\ude4e\ud835\ude65\ud835\ude5a\ud835\ude68\ud835\ude56 \ud835\ude4e\ud835\ude64\ud835\ude68\ud835\ude65\ud835\ude5a\ud835\ude68\ud835\ude56 a sostegno della popolazione ucraina.\n\ud835\ude3c\ud835\ude58\ud835\ude66\ud835\ude6a\ud835\ude5e\ud835\ude68\ud835\ude69\ud835\ude56 \ud835\ude65\ud835\ude67\ud835\ude64\ud835\ude59\ud835\ude64\ud835\ude69\ud835\ude69\ud835\ude5e \ud835\ude56\ud835\ude61\ud835\ude5e\ud835\ude62\ud835\ude5a\ud835\ude63\ud835\ude69\ud835\ude56\ud835\ude67\ud835\ude5e di prima necessit\u00e0.\nNoi \ud835\ude58\ud835\ude64\ud835\ude63\ud835\ude69\ud835\ude67\ud835\ude5e\ud835\ude57\ud835\ude6a\ud835\ude5e\ud835\ude67\ud835\ude5a\ud835\ude62\ud835\ude64 \ud835\ude58\ud835\ude64\ud835\ude63 \ud835\ude6a\ud835\ude63\ud835\ude64 \ud835\ude68\ud835\ude58\ud835\ude64\ud835\ude63\ud835\ude69\ud835\ude64 \ud835\ude59\ud835\ude5a\ud835\ude61 10% (sconto che non va ad incidere sul prezzo corrisposto ai produttori) e \ud835\ude58\ud835\ude64\ud835\ude63\ud835\ude68\ud835\ude5a\ud835\ude5c\ud835\ude63\ud835\ude5a\ud835\ude67\ud835\ude5a\ud835\ude62\ud835\ude64 \ud835\ude61\ud835\ude56 \ud835\ude69\ud835\ude6a\ud835\ude56 \ud835\ude4e\ud835\ude65\ud835\ude5a\ud835\ude68\ud835\ude56 \ud835\ude4e\ud835\ude64\ud835\ude68\ud835\ude65\ud835\ude5a\ud835\ude68\ud835\ude56 \ud835\ude56\ud835\ude5e \ud835\ude58\ud835\ude5a\ud835\ude63\ud835\ude69\ud835\ude67\ud835\ude5e \ud835\ude59\ud835\ude5e \ud835\ude67\ud835\ude56\ud835\ude58\ud835\ude58\ud835\ude64\ud835\ude61\ud835\ude69\ud835\ude56 di Baobab Experience, Comunit\u00e0 di Sant'Egidio Roma Nord Associazione Salvabeb\u00e8 - Salvamamme.\nPuoi fare la spesa sospesa anche online https://altromercatoshop.commercioequo.org/"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Pangea - Altromercato Roma"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Roma Spesa Sospesa per i rifugiati ucraini nelle botteghe del commercio equo solidale di Pangea"",""url"":""https://www.facebook.com/201626303258808/posts/5004798129608244/?sfnsn=scwspmo""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Pangea - Altromercato Roma
+title: A Roma Spesa Sospesa per i rifugiati ucraini nelle botteghe del commercio equo
+  solidale di Pangea
+recipients: ''
+description: 'Nelle Botteghe Altromercato di Pangea a Roma (via di Ripetta 262, via
+  Arezzo 6, via Cinigiano 75) continua la 𝙎𝙥𝙚𝙨𝙖 𝙎𝙤𝙨𝙥𝙚𝙨𝙖 a sostegno della popolazione
+  ucraina.
+
+  𝘼𝙘𝙦𝙪𝙞𝙨𝙩𝙖 𝙥𝙧𝙤𝙙𝙤𝙩𝙩𝙞 𝙖𝙡𝙞𝙢𝙚𝙣𝙩𝙖𝙧𝙞 di prima necessità.
+
+  Noi 𝙘𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙞𝙧𝙚𝙢𝙤 𝙘𝙤𝙣 𝙪𝙣𝙤 𝙨𝙘𝙤𝙣𝙩𝙤 𝙙𝙚𝙡 10% (sconto che non va ad incidere sul prezzo
+  corrisposto ai produttori) e 𝙘𝙤𝙣𝙨𝙚𝙜𝙣𝙚𝙧𝙚𝙢𝙤 𝙡𝙖 𝙩𝙪𝙖 𝙎𝙥𝙚𝙨𝙖 𝙎𝙤𝙨𝙥𝙚𝙨𝙖 𝙖𝙞 𝙘𝙚𝙣𝙩𝙧𝙞 𝙙𝙞 𝙧𝙖𝙘𝙘𝙤𝙡𝙩𝙖
+  di Baobab Experience, Comunità di Sant''Egidio Roma Nord Associazione Salvabebè
+  - Salvamamme.
+
+  Puoi fare la spesa sospesa anche online https://altromercatoshop.commercioequo.org/'
+url: https://www.facebook.com/201626303258808/posts/5004798129608244/?sfnsn=scwspmo
+address:
+  mode: autocomplete
+  address:
+    place_id: 24291326
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 2627732059
+    boundingbox:
+    - '41.9096218'
+    - '41.9097218'
+    - '12.476066'
+    - '12.476166'
+    lat: '41.9096718'
+    lon: '12.476116'
+    display_name: Altromercato, 262, Via di Ripetta, Campo Marzio, Municipio Roma
+      I, Roma, Roma Capitale, Lazio, 00186, Italia
+    class: shop
+    type: convenience
+    importance: 0.5209999999999999
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//shopping_convenience.p.20.png
+    address:
+      shop: Altromercato
+      house_number: '262'
+      road: Via di Ripetta
+      quarter: Campo Marzio
+      suburb: Municipio Roma I
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: 00186
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/674,1209766523,2022-04-20 16:28:13,2022-04-20 14:23:19,Regione #Basilicata cerca traduttori ucraino-italiano e mediatori culturali,40.640151,15.785115,Basilicata,Potenza,"[""Valid/Accettato"",""Help"",""translation"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""40.640151 15.785115"",""description"":""Il Garante regionale dell\u2019infanzia e dell\u2019adolescenza ha pubblicato un avviso con il quale si richiede la disponibilit\u00e0 di persone di nazionalit\u00e0 ucraina o russa presenti nei nostri territori o comunque persone che possano aiutare, in questo drammatico momento storico, i loro connazionali che non conoscono la lingua italiana.\nPer comunicare la propria disponibilit\u00e0, gli interessati potranno chiamare il numero 335 6395791 oppure mandare una e\u2013mail ad uno dei seguenti indirizzi: garanteinfanziaeadolescenza@regione.basilicata.it; vincgiuliano@gmail.com"",""email"":""garanteinfanziaeadolescenza@regione.basilicata.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Potenza"",""country"":""Italia"",""country_code"":""it"",""county"":""Potenza"",""office"":""Regione Basilicata"",""postcode"":""85100"",""road"":""Via Vincenzo Verrastro"",""state"":""Basilicata""},""boundingbox"":[""40.640101"",""40.640201"",""15.785065"",""15.785165""],""class"":""office"",""display_name"":""Regione Basilicata, Via Vincenzo Verrastro, Potenza, Basilicata, 85100, Italia"",""importance"":0.21100000000000002,""lat"":""40.640151"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.785115"",""osm_id"":4672043990,""osm_type"":""node"",""place_id"":53572934,""type"":""government""},""mode"":""autocomplete""},""nameSurname"":""Regione Basilicata - Garante infanzia e adolescenza"",""phoneNumber"":""335 6395791"",""recipients"":"""",""submit"":true,""title"":""Regione Basilicata cerca traduttori Ucraino-Italiano e mediatori culturali"",""url"":""https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/2425/Basilicata-Avviso-per-traduttori-Ucraino-Italiano-e-mediatori-culturali""}","<pre><yamldata>
 nameSurname: Regione Basilicata - Garante infanzia e adolescenza
 phoneNumber: 335 6395791
@@ -330,70 +540,6 @@ address:
       state: Campania
       ISO3166-2-lvl4: IT-72
       postcode: '81100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/672,1209744580,2022-04-20 16:22:18,2022-04-20 14:07:22,"Campania, integrazione scolastica minori ucraini: attivo sportello CIDIS di consulenza online per personale scuole",,,,,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-72"",""country"":""Italia"",""country_code"":""it"",""state"":""Campania""},""boundingbox"":[""39.9905158"",""41.5083526"",""13.7623799"",""15.8064468""],""class"":""boundary"",""display_name"":""Campania, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.784378189693263,""lat"":""40.860672"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.843984"",""osm_id"":40218,""osm_type"":""relation"",""place_id"":284774741,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Cidis Onlus conferma il suo impegno nel supportare le istituzioni scolastiche di ogni ordine e grado della Regione Campania con un nuovo servizio, lo Sportello di Consulenza on line sulla piattaforma ZOOM, organizzato nell\u2019ambito del progetto Impact Campania, finanziato da Fondo Asilo, Migrazione e Integrazione- FAMI 2014 \u2013 2022.\nAllo sportello, attivo ogni marted\u00ec dalle 14.30 alle 17.30 e venerd\u00ec dalle ore 09.00 alle ore 13.00 a partire dal 19 aprile, il personale scolastico potr\u00e0 chiedere consulenze gratuite per tutte le questioni legate all\u2019allievo straniero, dall\u2019accoglienza in classe alle strategie e agli strumenti per l\u2019integrazione scolastica, con particolare attenzione ai minori provenienti dall\u2019Ucraina.\nPer richiedere il servizio di consulenza \u00e8 necessario contattare l\u2019Agenzia di Mediazione Culturale di Cidis (tel. 081-5571218 \u2013 email mediazionecampania@cidisonlus.org) che fisser\u00e0 un appuntamento on line con la dott.ssa Giordana Curati, referente di Cidis in ambito scolastico, che grazie alla sua esperienza decennale potr\u00e0 orientare la scuola alle migliori scelte per l\u2019inclusione."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Cidis - Regione Campania"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Campania, integrazione scostatica minori ucraini: attivo sportello Cidis di consulenza online per personale scolastico"",""url"":""https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/2512/Campania-Sportello-di-consulenza-online-per-personale-scolastico""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: true
-offerFromWho: Cidis - Regione Campania
-title: 'Campania, integrazione scostatica minori ucraini: attivo sportello Cidis di
-  consulenza online per personale scolastico'
-recipients: ''
-description: 'Cidis Onlus conferma il suo impegno nel supportare le istituzioni scolastiche
-  di ogni ordine e grado della Regione Campania con un nuovo servizio, lo Sportello
-  di Consulenza on line sulla piattaforma ZOOM, organizzato nell’ambito del progetto
-  Impact Campania, finanziato da Fondo Asilo, Migrazione e Integrazione- FAMI 2014
-  – 2022.
-
-  Allo sportello, attivo ogni martedì dalle 14.30 alle 17.30 e venerdì dalle ore 09.00
-  alle ore 13.00 a partire dal 19 aprile, il personale scolastico potrà chiedere consulenze
-  gratuite per tutte le questioni legate all’allievo straniero, dall’accoglienza in
-  classe alle strategie e agli strumenti per l’integrazione scolastica, con particolare
-  attenzione ai minori provenienti dall’Ucraina.
-
-  Per richiedere il servizio di consulenza è necessario contattare l’Agenzia di Mediazione
-  Culturale di Cidis (tel. 081-5571218 – email mediazionecampania@cidisonlus.org)
-  che fisserà un appuntamento on line con la dott.ssa Giordana Curati, referente di
-  Cidis in ambito scolastico, che grazie alla sua esperienza decennale potrà orientare
-  la scuola alle migliori scelte per l’inclusione.'
-url: https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/2512/Campania-Sportello-di-consulenza-online-per-personale-scolastico
-address:
-  mode: autocomplete
-  address:
-    place_id: 284774741
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 40218
-    boundingbox:
-    - '39.9905158'
-    - '41.5083526'
-    - '13.7623799'
-    - '15.8064468'
-    lat: '40.860672'
-    lon: '14.843984'
-    display_name: Campania, Italia
-    class: boundary
-    type: administrative
-    importance: 0.784378189693263
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      state: Campania
-      ISO3166-2-lvl4: IT-72
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
