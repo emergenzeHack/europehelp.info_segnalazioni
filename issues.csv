@@ -1,4 +1,332 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/477,1191044506,2022-04-20 07:26:01,2022-04-03 21:01:38,A Palermo Comitato Salva Ucraini raccoglie beni di prima necessità,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""postcode"":""90141"",""road"":""Via Marchese Ugo"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1299555"",""38.1336658"",""13.3496116"",""13.3514253""],""class"":""highway"",""display_name"":""Via Marchese Ugo, VIII Circoscrizione, Palermo, Sicilia, 90141, Italia"",""importance"":0.5,""lat"":""38.1315691"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3504181"",""osm_id"":86265407,""osm_type"":""way"",""place_id"":119906789,""type"":""residential""},""mode"":""autocomplete""},""description"":""A Palermo Comitato Salva Ucraini raccoglie beni di prima necessit\u00e0, in particolare:\n\nVestiti (LEGGERI, primavera/estate): \n\u27a1\ufe0f Scarpe da ginnastica o mocassini femminili 35-40\n\u27a1\ufe0f Scarpe da ginnastica  bimbi 5+ anni unisex\n\u27a1\ufe0f Scarpe da ginnastica  per ragazzi 38-43\n\u27a1\ufe0f Giacche (jeans, a vento) da donna e per bimbi 5+ anni\n\u27a1\ufe0f Vestiti femminili (sportivi, per ogni giorno)\n\u27a1\ufe0f Abbigliamento estivo 5+ anni unisex\n(Per i bimbi pi\u00f9 piccoli abbiamo tanti vestiti)\n\u27a1\ufe0f Zaini unisex e per bambini\n\u27a1\ufe0f Parapioggia per passeggini \n\u27a1\ufe0f Ombrelli (bimbi, adulti)\n\nDetersivi/Igiene:\n\u27a1\ufe0f Detersivo per bucato per lavatrice e a mano\n\u27a1\ufe0f Detersivo per bucato bimbi\n\u27a1\ufe0f Gel doccia (adulti e bimbi)\n\u27a1\ufe0f Shampoo (adulti e bimbi)\n\u27a1\ufe0f Dentifricio (adulti e bimbi)\n\u27a1\ufe0f Spazzolini da denti (adulti e bimbi)\n\nAlimentari:\n\u27a1\ufe0f Salsa di pomodoro\n\u27a1\ufe0f Olio d\u2019oliva e di girasole\n\u27a1\ufe0f Pat\u00e8 di carne montana o simili\n\u27a1\ufe0f T\u00e8 nero e verde\n\u27a1\ufe0f Caff\u00e8 solubile \n\u27a1\ufe0f Carne in scatola\n\u27a1\ufe0f Tonno in scatola\n\u27a1\ufe0f Cornetti/merendine/brioscine per bimbi\n\u27a1\ufe0f Succhi di frutta piccoli per bimbi\n\u27a1\ufe0f Casse d\u2019acqua naturale\n\nLe donazioni si possono portare alla sede del Comitato, presso le Ancelle Del Sacro Cuore (via Marchese Ugo 6), dal luned\u00ec al venerd\u00ec negli orari 17:00-19:30 (entrata dal lato di Key Institute)."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comitato Salva Ucraini Palermo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Palermo Comitato Salva Ucraini raccoglie beni di prima necessit\u00e0"",""url"":""https://t.me/ucraini_a_palermo/103""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Comitato Salva Ucraini Palermo
+title: A Palermo Comitato Salva Ucraini raccoglie beni di prima necessità
+recipients: ''
+description: ""A Palermo Comitato Salva Ucraini raccoglie beni di prima necessità,\
+  \ in particolare:\n\nVestiti (LEGGERI, primavera/estate): \n➡️ Scarpe da ginnastica\
+  \ o mocassini femminili 35-40\n➡️ Scarpe da ginnastica  bimbi 5+ anni unisex\n➡️\
+  \ Scarpe da ginnastica  per ragazzi 38-43\n➡️ Giacche (jeans, a vento) da donna\
+  \ e per bimbi 5+ anni\n➡️ Vestiti femminili (sportivi, per ogni giorno)\n➡️ Abbigliamento\
+  \ estivo 5+ anni unisex\n(Per i bimbi più piccoli abbiamo tanti vestiti)\n➡️ Zaini\
+  \ unisex e per bambini\n➡️ Parapioggia per passeggini \n➡️ Ombrelli (bimbi, adulti)\n\
+  \nDetersivi/Igiene:\n➡️ Detersivo per bucato per lavatrice e a mano\n➡️ Detersivo\
+  \ per bucato bimbi\n➡️ Gel doccia (adulti e bimbi)\n➡️ Shampoo (adulti e bimbi)\n\
+  ➡️ Dentifricio (adulti e bimbi)\n➡️ Spazzolini da denti (adulti e bimbi)\n\nAlimentari:\n\
+  ➡️ Salsa di pomodoro\n➡️ Olio d’oliva e di girasole\n➡️ Patè di carne montana o\
+  \ simili\n➡️ Tè nero e verde\n➡️ Caffè solubile \n➡️ Carne in scatola\n➡️ Tonno\
+  \ in scatola\n➡️ Cornetti/merendine/brioscine per bimbi\n➡️ Succhi di frutta piccoli\
+  \ per bimbi\n➡️ Casse d’acqua naturale\n\nLe donazioni si possono portare alla sede\
+  \ del Comitato, presso le Ancelle Del Sacro Cuore (via Marchese Ugo 6), dal lunedì\
+  \ al venerdì negli orari 17:00-19:30 (entrata dal lato di Key Institute).""
+url: https://t.me/ucraini_a_palermo/103
+address:
+  mode: autocomplete
+  address:
+    place_id: 119906789
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 86265407
+    boundingbox:
+    - '38.1299555'
+    - '38.1336658'
+    - '13.3496116'
+    - '13.3514253'
+    lat: '38.1315691'
+    lon: '13.3504181'
+    display_name: Via Marchese Ugo, VIII Circoscrizione, Palermo, Sicilia, 90141,
+      Italia
+    class: highway
+    type: residential
+    importance: 0.5
+    address:
+      road: Via Marchese Ugo
+      suburb: VIII Circoscrizione
+      city: Palermo
+      county: Palermo
+      state: Sicilia
+      postcode: '90141'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/491,1192000504,2022-04-20 07:24:39,2022-04-04 16:00:20,"A Scandicci (Firenze) raccolta di beni (abiti e biancheria adulti/bambini, pannolini/assorbenti) per profughe/i ucraini ",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""Children"",""women"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""postcode"":""50018"",""road"":""Via Antonio Vivaldi"",""state"":""Toscana"",""town"":""Scandicci"",""village"":""Casellina""},""boundingbox"":[""43.7605032"",""43.7611107"",""11.1790175"",""11.1797029""],""class"":""highway"",""display_name"":""Via Antonio Vivaldi, Casellina, Scandicci, Citt\u00e0 metropolitana di Firenze, Toscana, 50018, Italia"",""importance"":0.61,""lat"":""43.7610141"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.1794673"",""osm_id"":642888612,""osm_type"":""way"",""place_id"":229691975,""type"":""residential""},""mode"":""autocomplete""},""description"":""RACCOLTA AIUTO UMANITARIO per i profughi ucraini gi\u00e0 arrivati a Firenze: \u2661 abbigliamento bambini \u2661 biancheria intima bambino \u2661 biancheria intima donna \u2661 articoli prima necessit\u00e0 (pannolini, assorbenti di ogni tipo d'esigenza)\nDA SABATO, 02.04., dalle ore 14:00 alle 16:00 Al seguente indirizzo: Via Antonio Vivaldi, Scandicci FI Croce Rossa Italiana\nPer info contattare: Oxana +393932222070"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Croce Rossa Firenze"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":true},""submit"":true,""title"":""A Scandicci (Firenze) raccolta di beni (abiti e biancheria adulti/bambini, pannolini/assorbenti) per i rifugiati ucraini presso la Croce Rossa"",""url"":""https://www.facebook.com/groups/1635739780118981/permalink/1657165804643045/?sfnsn=scwspmo&ref=share""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: true
+  education: false
+offerFromWho: Croce Rossa Firenze
+title: A Scandicci (Firenze) raccolta di beni (abiti e biancheria adulti/bambini,
+  pannolini/assorbenti) per i rifugiati ucraini presso la Croce Rossa
+recipients: ''
+description: 'RACCOLTA AIUTO UMANITARIO per i profughi ucraini già arrivati a Firenze:
+  ♡ abbigliamento bambini
+  ♡ biancheria intima bambino
+  ♡ biancheria intima donna
+  ♡ articoli prima necessità (pannolini, assorbenti di ogni tipo d''esigenza)
+
+  DA SABATO, 02.04., dalle ore 14:00 alle 16:00
+  Al seguente indirizzo:
+  Via Antonio Vivaldi, Scandicci FI
+  Croce Rossa Italiana
+
+  Per info contattare: Oxana +393932222070'
+url: https://www.facebook.com/groups/1635739780118981/permalink/1657165804643045/?sfnsn=scwspmo&ref=share
+address:
+  mode: autocomplete
+  address:
+    place_id: 229691975
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 642888612
+    boundingbox:
+    - '43.7605032'
+    - '43.7611107'
+    - '11.1790175'
+    - '11.1797029'
+    lat: '43.7610141'
+    lon: '11.1794673'
+    display_name: Via Antonio Vivaldi, Casellina, Scandicci, Città metropolitana di
+      Firenze, Toscana, 50018, Italia
+    class: highway
+    type: residential
+    importance: 0.61
+    address:
+      road: Via Antonio Vivaldi
+      village: Casellina
+      town: Scandicci
+      county: Città metropolitana di Firenze
+      state: Toscana
+      postcode: '50018'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/526,1195924713,2022-04-20 07:23:28,2022-04-07 11:42:15,"Anffas Policoro (Matera) offre accoglienza a profughi ucraini, in particolare mamma con figli piccoli",,,,,"[""Valid/Accettato"",""Services"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Matera"",""postcode"":""75025"",""state"":""Basilicata"",""town"":""Policoro""},""boundingbox"":[""40.1477108"",""40.2415164"",""16.5988407"",""16.7377469""],""class"":""boundary"",""display_name"":""Policoro, Matera, Basilicata, 75025, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5405418663778667,""lat"":""40.2104595"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.6763759"",""osm_id"":40340,""osm_type"":""relation"",""place_id"":284356693,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Disponibilit\u00e0 ad accogliere una mamma con figli in un piccolo appartamento. Info: anffas.policoro@gmail.com\nGiuseppe Tataranno."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""ANFFAS \u2013 POLICORO"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Accoglienza profughi"",""url"":""https://www.forumterzosettore.it/2022/03/25/emergenza-ucraina-accoglienza-in-italia/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: ANFFAS – POLICORO
+title: Accoglienza profughi
+recipients: ''
+description: ""Disponibilità ad accogliere una mamma con figli in un piccolo appartamento. Info: anffas.policoro@gmail.com\nGiuseppe Tataranno.""
+url: https://www.forumterzosettore.it/2022/03/25/emergenza-ucraina-accoglienza-in-italia/
+address:
+  mode: autocomplete
+  address:
+    place_id: 284356693
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 40340
+    boundingbox:
+    - '40.1477108'
+    - '40.2415164'
+    - '16.5988407'
+    - '16.7377469'
+    lat: '40.2104595'
+    lon: '16.6763759'
+    display_name: Policoro, Matera, Basilicata, 75025, Italia
+    class: boundary
+    type: administrative
+    importance: 0.5405418663778667
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      town: Policoro
+      county: Matera
+      state: Basilicata
+      postcode: '75025'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/625,1205453012,2022-04-20 07:21:13,2022-04-15 10:03:28,"A Pavia, Vigevano e Voghera Cisf e Csv Lombardia attivano corsi gratuiti di italiano per rifugiati ucraini (adulti e minori)",45.036854649999995,9.137825082826026,Lombardia,Pavia,"[""Valid/Accettato"",""Services"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""Posizione"":""45.036854649999995 9.137825082826026"",""description"":""A Pavia, Vigevano e Voghera Cisf e Csv Lombardia attivano corsi gratuiti di italiano per rifugiati ucraini (adulti e minori) e corsi di orientamento ai servizi.\nPer info e contatti vedi al link."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.csf.lombardia.it/wp-content/uploads/2022/03/locandina_CSFxUCRAINA-724x1024.jpg"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""state"":""Lombardia""},""boundingbox"":[""44.6799091"",""45.393838"",""8.4978518"",""9.5505475""],""class"":""boundary"",""display_name"":""Pavia, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7322019961097704,""lat"":""45.036854649999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.137825082826026"",""osm_id"":43483,""osm_type"":""relation"",""place_id"":283772748,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""A Pavia, Vigevano e Voghera Cisf e Csv Lombardia attivano corsi gratuiti di italiano per rifugiati ucraini (adulti e minori)""}","<pre><yamldata>
+title: A Pavia, Vigevano e Voghera Cisf e Csv Lombardia attivano corsi gratuiti di
+  italiano per rifugiati ucraini (adulti e minori)
+description: 'A Pavia, Vigevano e Voghera Cisf e Csv Lombardia attivano corsi gratuiti
+  di italiano per rifugiati ucraini (adulti e minori) e corsi di orientamento ai servizi.
+
+  Per info e contatti vedi al link.'
+link: https://www.csf.lombardia.it/wp-content/uploads/2022/03/locandina_CSFxUCRAINA-724x1024.jpg
+location:
+  mode: autocomplete
+  address:
+    place_id: 283772748
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43483
+    boundingbox:
+    - '44.6799091'
+    - '45.393838'
+    - '8.4978518'
+    - '9.5505475'
+    lat: '45.036854649999995'
+    lon: '9.137825082826026'
+    display_name: Pavia, Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7322019961097704
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Pavia
+      state: Lombardia
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.036854649999995 9.137825082826026
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/634,1205598548,2022-04-20 07:20:49,2022-04-15 13:56:14,Aism - Associazione italiana sclerosi multipla attiva sedi locali e email dedicata per supportare i rifugiati ucraini affetti da sclerosi multipla ,,,,,"[""Valid/Accettato"",""Services"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-42"",""ISO3166-2-lvl6"":""IT-GE"",""city"":""Genova"",""country"":""Italia"",""country_code"":""it"",""county"":""Genova"",""postcode"":""16151"",""road"":""Via Operai"",""state"":""Liguria"",""suburb"":""Sampierdarena""},""boundingbox"":[""44.4109653"",""44.4113494"",""8.8829417"",""8.8846988""],""class"":""highway"",""display_name"":""Via Operai, Sampierdarena, Centro Ovest, Genova, Liguria, 16151, Italia"",""importance"":0.41000000000000003,""lat"":""44.4111751"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.8837389"",""osm_id"":20474401,""osm_type"":""way"",""place_id"":104691976,""type"":""residential""},""mode"":""autocomplete""},""description"":""AISM invita tutte le sezioni a concorrere al tracciamento di tutti i casi di richiesta di supporto, segnalandoli al gruppo di lavoro della Piattaforma Europea delle associazioni all'indirizzo email emergenzaSMucraina@aism.it, al quale si potr\u00e0 fare riferimento anche per segnalare ogni iniziativa utile attivata nei territori per i rifugiati che possa essere d\u2019aiuto e supporto anche per le persone con SM e loro familiari. \nPer ulteriori info vedi link (a questo link info in ucraino https://bit.ly/3rveCLj)\n\n\u0429\u043e\u0431 \u043d\u0430\u0434\u0430\u0442\u0438 \u043d\u0430\u0439\u043a\u0440\u0430\u0449\u0443 \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u043a\u0443, \u043c\u0438 \u0430\u043a\u0442\u0438\u0432\u0443\u0432\u0430\u043b\u0438 \u0441\u043f\u0435\u0446\u0456\u0430\u043b\u044c\u043d\u0443 \u0435\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0443 \u0430\u0434\u0440\u0435\u0441\u0443: emergenzasmucraina@aism.it \u0434\u043b\u044f \u0437\u0431\u043e\u0440\u0443 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u0457 \u043f\u0440\u043e \u043e\u043a\u0440\u0435\u043c\u0456 \u0432\u0438\u043f\u0430\u0434\u043a\u0438 \u043b\u044e\u0434\u0435\u0439 \u0437 \u0440\u043e\u0437\u0441\u0456\u044f\u043d\u0438\u043c \u0441\u043a\u043b\u0435\u0440\u043e\u0437\u043e\u043c."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione italiana sclerosi multipla"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Aism - Associazione italiana sclerosi multipla attiva sedi locali e email dedicata per supportare i rifugiati ucraini affetti da sclerosi multipla"",""url"":""https://www.aism.it/emergenza_ucraina_impegno_di_aism""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: true
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Associazione italiana sclerosi multipla
+title: Aism - Associazione italiana sclerosi multipla attiva sedi locali e email dedicata
+  per supportare i rifugiati ucraini affetti da sclerosi multipla
+recipients: ''
+description: ""AISM invita tutte le sezioni a concorrere al tracciamento di tutti i\
+  \ casi di richiesta di supporto, segnalandoli al gruppo di lavoro della Piattaforma\
+  \ Europea delle associazioni all'indirizzo email emergenzaSMucraina@aism.it, al\
+  \ quale si potrà fare riferimento anche per segnalare ogni iniziativa utile attivata\
+  \ nei territori per i rifugiati che possa essere d’aiuto e supporto anche per le\
+  \ persone con SM e loro familiari. \nPer ulteriori info vedi link (a questo link\
+  \ info in ucraino https://bit.ly/3rveCLj)\n\nЩоб надати найкращу підтримку, ми активували\
+  \ спеціальну електронну адресу: emergenzasmucraina@aism.it для збору інформації\
+  \ про окремі випадки людей з розсіяним склерозом.""
+url: https://www.aism.it/emergenza_ucraina_impegno_di_aism
+address:
+  mode: autocomplete
+  address:
+    place_id: 104691976
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 20474401
+    boundingbox:
+    - '44.4109653'
+    - '44.4113494'
+    - '8.8829417'
+    - '8.8846988'
+    lat: '44.4111751'
+    lon: '8.8837389'
+    display_name: Via Operai, Sampierdarena, Centro Ovest, Genova, Liguria, 16151,
+      Italia
+    class: highway
+    type: residential
+    importance: 0.41000000000000003
+    address:
+      road: Via Operai
+      suburb: Sampierdarena
+      city: Genova
+      county: Genova
+      ISO3166-2-lvl6: IT-GE
+      state: Liguria
+      ISO3166-2-lvl4: IT-42
+      postcode: '16151'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/641,1206295667,2022-04-20 07:20:20,2022-04-17 06:40:07,Comune di Sesto San Giovanni (Milano) offre laboratorio di italiano per cittadini ucraini,,,,,"[""Valid/Accettato"",""Services"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20099"",""state"":""Lombardia"",""town"":""Sesto San Giovanni""},""boundingbox"":[""45.5173444"",""45.556763"",""9.20694"",""9.2717314""],""class"":""boundary"",""display_name"":""Sesto San Giovanni, Milano, Lombardia, 20099, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8336881016905328,""lat"":""45.5357218"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2376549"",""osm_id"":45245,""osm_type"":""relation"",""place_id"":284444071,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Comune di Sesto S. Giovanni (Mi) organizza per i rifugiati ucraini un laboratorio gratuito di italiano di 10 lezioni tematiche."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Sesto San Giovanni (MI)"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Laboratorio di italiano per cittadini ucraini"",""url"":""https://sestosg.net/notizie/laboratorio-di-italiano-per-cittadini-ucraini/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Comune di Sesto San Giovanni (MI)
+title: Laboratorio di italiano per cittadini ucraini
+recipients: ''
+description: Il Comune di Sesto S. Giovanni (Mi) organizza per i rifugiati ucraini un laboratorio gratuito di
+  italiano di 10 lezioni tematiche.
+url: https://sestosg.net/notizie/laboratorio-di-italiano-per-cittadini-ucraini/
+address:
+  mode: autocomplete
+  address:
+    place_id: 284444071
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 45245
+    boundingbox:
+    - '45.5173444'
+    - '45.556763'
+    - '9.20694'
+    - '9.2717314'
+    lat: '45.5357218'
+    lon: '9.2376549'
+    display_name: Sesto San Giovanni, Milano, Lombardia, 20099, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8336881016905328
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      town: Sesto San Giovanni
+      county: Milano
+      ISO3166-2-lvl6: IT-MI
+      state: Lombardia
+      postcode: '20099'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/654,1208870516,2022-04-19 22:17:36,2022-04-19 21:17:31,Associazione Ucraina-Friuli: info e contatti,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-36"",""city"":""Codroipo"",""country"":""Italia"",""country_code"":""it"",""county"":""Udine"",""postcode"":""33033"",""state"":""Friuli Venezia Giulia""},""boundingbox"":[""45.9002694"",""46.0088828"",""12.9037312"",""13.0500963""],""class"":""boundary"",""display_name"":""Codroipo, Udine, Friuli Venezia Giulia, 33033, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7234259451518048,""lat"":""45.954589600000006"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.99635900436426"",""osm_id"":179099,""osm_type"":""relation"",""place_id"":284878766,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""L\u2019associazione, che ha sede a Codroipo (Udine) e si \u00e8 costituita nel 2006, ha aperto dal 02 marzo a Udine, presso il Centro Commerciale CITTA\u2019 FIERA (Via Antonio Bardelli, 4  33035 Martignacco UD), un Centro per la raccolta degli aiuti umanitari da inviare in Ucraina. Orari: 09.30 \u2013 19.00 (Piano terra Area Blu, entrate suggerite Nord 1 o Est 1). Per info tel. 351 964 4976.\nDa luned\u00ec 14 marzo \u00e8, invece, aperto il punto di distribuzione dei vestiti per i profughi arrivati a Udine, presso la sede della Protezione Civile: Piazzale Unit\u00e0 d\u2019Italia 1 con seguenti orari: Da Luned\u00ec al Venerd\u00ec 10.00 \u2013 12.00 e 16.00 \u2013 18.00 Sabato 10.00 \u2013 12.00.\n\nOrganizza anche corsi di italiano per profughi (vedi qui https://www.facebook.com/photo/?fbid=120144707286676&set=gm.4953185214797844)\n\nPer chi volesse effettuare donazioni in denaro:\nIBAN: IT11R0871512304000000721155\nBANCA DI UDINE \nIntestatario: Associazione Culturale Ucraina-Friuli. \nCausale: Donazione per la Solidariet\u00e0 ucraina.\n\nPagina Facebook: https://www.facebook.com/groups/4868509369932096"",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 351 964 49 76, +39 339 285 81 85"",""submit"":true,""title"":""Associazione Ucraina-Friuli: info e contatti"",""url"":""https://www.ucraina-friuli.it""}","<pre><yamldata>
 title: 'Associazione Ucraina-Friuli: info e contatti'
 phoneNumber: +39 351 964 49 76, +39 339 285 81 85
@@ -1099,57 +1427,6 @@ label: fundraising
 submit: true
 Posizione: 44.7084211 10.1420568
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/641,1206295667,2022-04-17 19:31:33,2022-04-17 06:40:07,Comune di Sesto San Giovanni (Milano) offre laboratorio di italiano per cittadini ucraini,,,,,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20099"",""state"":""Lombardia"",""town"":""Sesto San Giovanni""},""boundingbox"":[""45.5173444"",""45.556763"",""9.20694"",""9.2717314""],""class"":""boundary"",""display_name"":""Sesto San Giovanni, Milano, Lombardia, 20099, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8336881016905328,""lat"":""45.5357218"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2376549"",""osm_id"":45245,""osm_type"":""relation"",""place_id"":284444071,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Comune di Sesto S. Giovanni (Mi) organizza per i rifugiati ucraini un laboratorio gratuito di italiano di 10 lezioni tematiche."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Sesto San Giovanni (MI)"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Laboratorio di italiano per cittadini ucraini"",""url"":""https://sestosg.net/notizie/laboratorio-di-italiano-per-cittadini-ucraini/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: true
-offerFromWho: Comune di Sesto San Giovanni (MI)
-title: Laboratorio di italiano per cittadini ucraini
-recipients: ''
-description: Il Comune di Sesto S. Giovanni (Mi) organizza per i rifugiati ucraini un laboratorio gratuito di
-  italiano di 10 lezioni tematiche.
-url: https://sestosg.net/notizie/laboratorio-di-italiano-per-cittadini-ucraini/
-address:
-  mode: autocomplete
-  address:
-    place_id: 284444071
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 45245
-    boundingbox:
-    - '45.5173444'
-    - '45.556763'
-    - '9.20694'
-    - '9.2717314'
-    lat: '45.5357218'
-    lon: '9.2376549'
-    display_name: Sesto San Giovanni, Milano, Lombardia, 20099, Italia
-    class: boundary
-    type: administrative
-    importance: 0.8336881016905328
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      town: Sesto San Giovanni
-      county: Milano
-      ISO3166-2-lvl6: IT-MI
-      state: Lombardia
-      postcode: '20099'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/630,1205565938,2022-04-16 08:10:02,2022-04-15 13:09:34,"Asl Roma 1, attivi due ambulatori per donne e bambini ucraini",,,,,"[""Valid/Accettato"",""Services"",""healthcare"",""Children"",""women"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""boundary"":""ASL Roma 1"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.8707079"",""42.1410285"",""12.2423884"",""12.6186465""],""class"":""boundary"",""display_name"":""ASL Roma 1, Roma Capitale, Lazio, Italia"",""importance"":0.42500000000000004,""lat"":""41.9874956"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.432189226861333"",""osm_id"":13657801,""osm_type"":""relation"",""place_id"":327153774,""type"":""health""},""mode"":""autocomplete""},""description"":""La Asl Roma 1 mette a punto due nuovi servizi per donne e bambini arrivati dall\u2019Ucraina. Il primo, operativo da oggi, 5 aprile, \u00e8 presso l\u2019Ospedale Santo Spirito in Sassia: un ambulatorio di ostetricia e ginecologia, con la possibilit\u00e0 di visite ed ecografie, disponibile ad accesso libero ogni marted\u00ec dalle 15 alle 18.30. Il secondo ambulatorio invece partir\u00e0 il 7 aprile, nell\u2019hub Ostiense, dove il personale \u00e8 gi\u00e0 al lavoro da settimane per l\u2019emissione della tessera Stp (Stranieri temporaneamente presenti) e per la vaccinazione anti covid per chi sta scappando dalla guerra. Nella struttura di via delle Cave Ardeatine 36, ogni gioved\u00ec dalle 8 alle 1, sar\u00e0 possibile effettuare visite ginecologiche e pediatriche che prevedono tra le altre cose il controllo della crescita, la verifica delle vaccinazioni effettuate, la valutazione die problemi legati alla nutrizione e alle allergie, valutazione di disturbi del neurosviluppo, inquadramento delle problematiche pediatriche per la valutazione e l\u2019invio presso i centri specialistici. Anche in questo caso l\u2019accesso \u00e8 libero."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Asl Roma 1"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":true},""submit"":true,""title"":""Asl Roma 1: due ambulatori per donne e bambini ucraini"",""url"":""https://www.romasette.it/asl-roma-1-due-ambulatori-per-donne-e-bambini-ucraini/?utm_source=rss&utm_medium=rss&utm_campaign=asl-roma-1-due-ambulatori-per-donne-e-bambini-ucraini""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -1531,68 +1808,6 @@ label: fundraising
 submit: true
 Posizione: 45.4661787 9.1915379
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/634,1205598548,2022-04-15 15:09:17,2022-04-15 13:56:14,Aism - Associazione italiana sclerosi multipla attiva sedi locali e email dedicata per supportare i rifugiati ucraini affetti da sclerosi multipla ,,,,,"[""Valid/Accettato"",""Services"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-42"",""ISO3166-2-lvl6"":""IT-GE"",""city"":""Genova"",""country"":""Italia"",""country_code"":""it"",""county"":""Genova"",""postcode"":""16151"",""road"":""Via Operai"",""state"":""Liguria"",""suburb"":""Sampierdarena""},""boundingbox"":[""44.4109653"",""44.4113494"",""8.8829417"",""8.8846988""],""class"":""highway"",""display_name"":""Via Operai, Sampierdarena, Centro Ovest, Genova, Liguria, 16151, Italia"",""importance"":0.41000000000000003,""lat"":""44.4111751"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.8837389"",""osm_id"":20474401,""osm_type"":""way"",""place_id"":104691976,""type"":""residential""},""mode"":""autocomplete""},""description"":""AISM invita tutte le sezioni a concorrere al tracciamento di tutti i casi di richiesta di supporto, segnalandoli al gruppo di lavoro della Piattaforma Europea delle associazioni all'indirizzo email emergenzaSMucraina@aism.it, al quale si potr\u00e0 fare riferimento anche per segnalare ogni iniziativa utile attivata nei territori per i rifugiati che possa essere d\u2019aiuto e supporto anche per le persone con SM e loro familiari. \nPer ulteriori info vedi link (a questo link info in ucraino https://bit.ly/3rveCLj)\n\n\u0429\u043e\u0431 \u043d\u0430\u0434\u0430\u0442\u0438 \u043d\u0430\u0439\u043a\u0440\u0430\u0449\u0443 \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u043a\u0443, \u043c\u0438 \u0430\u043a\u0442\u0438\u0432\u0443\u0432\u0430\u043b\u0438 \u0441\u043f\u0435\u0446\u0456\u0430\u043b\u044c\u043d\u0443 \u0435\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0443 \u0430\u0434\u0440\u0435\u0441\u0443: emergenzasmucraina@aism.it \u0434\u043b\u044f \u0437\u0431\u043e\u0440\u0443 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u0457 \u043f\u0440\u043e \u043e\u043a\u0440\u0435\u043c\u0456 \u0432\u0438\u043f\u0430\u0434\u043a\u0438 \u043b\u044e\u0434\u0435\u0439 \u0437 \u0440\u043e\u0437\u0441\u0456\u044f\u043d\u0438\u043c \u0441\u043a\u043b\u0435\u0440\u043e\u0437\u043e\u043c."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione italiana sclerosi multipla"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Aism - Associazione italiana sclerosi multipla attiva sedi locali e email dedicata per supportare i rifugiati ucraini affetti da sclerosi multipla"",""url"":""https://www.aism.it/emergenza_ucraina_impegno_di_aism""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: true
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Associazione italiana sclerosi multipla
-title: Aism - Associazione italiana sclerosi multipla attiva sedi locali e email dedicata
-  per supportare i rifugiati ucraini affetti da sclerosi multipla
-recipients: ''
-description: ""AISM invita tutte le sezioni a concorrere al tracciamento di tutti i\
-  \ casi di richiesta di supporto, segnalandoli al gruppo di lavoro della Piattaforma\
-  \ Europea delle associazioni all'indirizzo email emergenzaSMucraina@aism.it, al\
-  \ quale si potrà fare riferimento anche per segnalare ogni iniziativa utile attivata\
-  \ nei territori per i rifugiati che possa essere d’aiuto e supporto anche per le\
-  \ persone con SM e loro familiari. \nPer ulteriori info vedi link (a questo link\
-  \ info in ucraino https://bit.ly/3rveCLj)\n\nЩоб надати найкращу підтримку, ми активували\
-  \ спеціальну електронну адресу: emergenzasmucraina@aism.it для збору інформації\
-  \ про окремі випадки людей з розсіяним склерозом.""
-url: https://www.aism.it/emergenza_ucraina_impegno_di_aism
-address:
-  mode: autocomplete
-  address:
-    place_id: 104691976
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 20474401
-    boundingbox:
-    - '44.4109653'
-    - '44.4113494'
-    - '8.8829417'
-    - '8.8846988'
-    lat: '44.4111751'
-    lon: '8.8837389'
-    display_name: Via Operai, Sampierdarena, Centro Ovest, Genova, Liguria, 16151,
-      Italia
-    class: highway
-    type: residential
-    importance: 0.41000000000000003
-    address:
-      road: Via Operai
-      suburb: Sampierdarena
-      city: Genova
-      county: Genova
-      ISO3166-2-lvl6: IT-GE
-      state: Liguria
-      ISO3166-2-lvl4: IT-42
-      postcode: '16151'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/627,1205553470,2022-04-15 15:05:50,2022-04-15 12:50:47,"Vademecum ""Buone prassi di aiuto ai profughi ucraini"" ad uso del volontariato, a cura di Psicologi per i popoli Emilia Romagna ",44.4884081,11.390978,Emilia-Romagna,Bologna,"[""Valid/Accettato"",""hospitality"",""document_data""]",,,"{""Posizione"":""44.4884081 11.390978"",""description"":""Vademecum ad uso del volontariato impegnato in attivit\u00e0 di aiuto dei rifugiati ucraini. A cura di Psicologi per i Popoli Emilia-Romagna."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://www.ordinepsicologier.it/public/genpags/bigs/InfograficaVOLONTARI.pdf"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""house_number"":""72"",""postcode"":""40139"",""road"":""Via Alberto Legnani"",""state"":""Emilia-Romagna"",""suburb"":""Fossolo""},""boundingbox"":[""44.4883581"",""44.4884581"",""11.390928"",""11.391028""],""class"":""place"",""display_name"":""72, Via Alberto Legnani, Fossolo, Savena, Bologna, Emilia-Romagna, 40139, Italia"",""importance"":0.42099999999999993,""lat"":""44.4884081"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.390978"",""osm_id"":1704381782,""osm_type"":""node"",""place_id"":15206708,""type"":""house""},""mode"":""autocomplete""},""submit"":true,""title"":""Vademecum \""Buone prassi di aiuto ai profughi ucraini\"" ad uso del volontariato, a cura di Psicologi per i Popoli Emilia-Romagna""}","<pre><yamldata>
 title: Vademecum ""Buone prassi di aiuto ai profughi ucraini"" ad uso del volontariato,
   a cura di Psicologi per i Popoli Emilia-Romagna
@@ -1633,43 +1848,6 @@ label: document_data
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 44.4884081 11.390978
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/625,1205453012,2022-04-15 15:02:49,2022-04-15 10:03:28,"A Pavia, Vigevano e Voghera Cisf e Csv Lombardia attivano corsi gratuiti di italiano per rifugiati ucraini (adulti e minori)",45.036854649999995,9.137825082826026,Lombardia,Pavia,"[""Valid/Accettato"",""Services"",""Children"",""education""]",,,"{""Posizione"":""45.036854649999995 9.137825082826026"",""description"":""A Pavia, Vigevano e Voghera Cisf e Csv Lombardia attivano corsi gratuiti di italiano per rifugiati ucraini (adulti e minori) e corsi di orientamento ai servizi.\nPer info e contatti vedi al link."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.csf.lombardia.it/wp-content/uploads/2022/03/locandina_CSFxUCRAINA-724x1024.jpg"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""state"":""Lombardia""},""boundingbox"":[""44.6799091"",""45.393838"",""8.4978518"",""9.5505475""],""class"":""boundary"",""display_name"":""Pavia, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7322019961097704,""lat"":""45.036854649999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.137825082826026"",""osm_id"":43483,""osm_type"":""relation"",""place_id"":283772748,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""A Pavia, Vigevano e Voghera Cisf e Csv Lombardia attivano corsi gratuiti di italiano per rifugiati ucraini (adulti e minori)""}","<pre><yamldata>
-title: A Pavia, Vigevano e Voghera Cisf e Csv Lombardia attivano corsi gratuiti di
-  italiano per rifugiati ucraini (adulti e minori)
-description: 'A Pavia, Vigevano e Voghera Cisf e Csv Lombardia attivano corsi gratuiti
-  di italiano per rifugiati ucraini (adulti e minori) e corsi di orientamento ai servizi.
-
-  Per info e contatti vedi al link.'
-link: https://www.csf.lombardia.it/wp-content/uploads/2022/03/locandina_CSFxUCRAINA-724x1024.jpg
-location:
-  mode: autocomplete
-  address:
-    place_id: 283772748
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 43483
-    boundingbox:
-    - '44.6799091'
-    - '45.393838'
-    - '8.4978518'
-    - '9.5505475'
-    lat: '45.036854649999995'
-    lon: '9.137825082826026'
-    display_name: Pavia, Lombardia, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7322019961097704
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      county: Pavia
-      state: Lombardia
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 45.036854649999995 9.137825082826026
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/624,1205449469,2022-04-15 15:01:51,2022-04-15 09:58:33,A Milano EMDR Italia e Croce Verde attivano sportello di supporto psicologico gratuito per chi è fuggito dall’Ucraina ,,,,,"[""Valid/Accettato"",""Services"",""psychologicalSupport""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""25"",""postcode"":""20123"",""quarter"":""Magenta - San Vittore"",""road"":""Via San Vincenzo"",""state"":""Lombardia"",""suburb"":""Municipio 1""},""boundingbox"":[""45.4580996"",""45.4581996"",""9.1730244"",""9.1731244""],""class"":""place"",""display_name"":""25, Via San Vincenzo, Magenta - San Vittore, Municipio 1, Milano, Lombardia, 20123, Italia"",""importance"":0.5209999999999999,""lat"":""45.4581496"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1730744"",""osm_id"":5567294173,""osm_type"":""node"",""place_id"":61553878,""type"":""house""},""mode"":""autocomplete""},""description"":""A Milano EMDR Italia, in collaborazione con la Croce Verde, ha creato uno sportello di supporto psicologico gratuito per chi \u00e8 scappato dalla guerra in Ucraina.\nLo sportello di supporto psicologico per la popolazione ucraina \u00e8 attivo da luned\u00ec 21 marzo ed \u00e8 a disposizione di tutti i rifugiati della guerra che si trovano attualmente in Italia e nello specifico a Milano. Per usufruire del servizio, totalmente gratuito, \u00e8 possibile chiamare o scrivere un messaggio al numero +39 371 570 95 88 anche in lingua ucraina ogni giorno dalle 9.00 alle 13.00 e dalle 15.00 alle 19.00.\nIl servizio di supporto psicologico si svolge presso la Croce Verde in Via San Vincenzo 25, Milano."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""EMDR Italia e Croce Verde Milano"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Milano EMDR Italia e Croce Verde attivano sportello di supporto psicologico gratuito per chi \u00e8 fuggito dalla guerra in Ucraina"",""url"":""https://dilei.it/notizie/milano-nasce-sportello-psicologico-aiuto-popolazione-ucraina/1128256/?fbclid=IwAR1lBDnXbd1TwlaIYONzhUYjDbQYGWHBCHDNBPo0n0wCLTyC5i2f6BRBzKI""}","<pre><yamldata>
 servicetypes:
@@ -5069,55 +5247,6 @@ address:
       country_code: ua
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: useful contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/526,1195924713,2022-04-11 07:55:44,2022-04-07 11:42:15,"Anffas Policoro (Matera) offre accoglienza a profughi ucraini, in particolare mamma con figli piccoli",,,,,"[""Valid/Accettato"",""Services"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Matera"",""postcode"":""75025"",""state"":""Basilicata"",""town"":""Policoro""},""boundingbox"":[""40.1477108"",""40.2415164"",""16.5988407"",""16.7377469""],""class"":""boundary"",""display_name"":""Policoro, Matera, Basilicata, 75025, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.5405418663778667,""lat"":""40.2104595"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.6763759"",""osm_id"":40340,""osm_type"":""relation"",""place_id"":284356693,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Disponibilit\u00e0 ad accogliere una mamma con figli in un piccolo appartamento. Info: anffas.policoro@gmail.com\nGiuseppe Tataranno."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""ANFFAS \u2013 POLICORO"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Accoglienza profughi"",""url"":""https://www.forumterzosettore.it/2022/03/25/emergenza-ucraina-accoglienza-in-italia/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: true
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: ANFFAS – POLICORO
-title: Accoglienza profughi
-recipients: ''
-description: ""Disponibilità ad accogliere una mamma con figli in un piccolo appartamento. Info: anffas.policoro@gmail.com\nGiuseppe Tataranno.""
-url: https://www.forumterzosettore.it/2022/03/25/emergenza-ucraina-accoglienza-in-italia/
-address:
-  mode: autocomplete
-  address:
-    place_id: 284356693
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 40340
-    boundingbox:
-    - '40.1477108'
-    - '40.2415164'
-    - '16.5988407'
-    - '16.7377469'
-    lat: '40.2104595'
-    lon: '16.6763759'
-    display_name: Policoro, Matera, Basilicata, 75025, Italia
-    class: boundary
-    type: administrative
-    importance: 0.5405418663778667
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      town: Policoro
-      county: Matera
-      state: Basilicata
-      postcode: '75025'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/575,1198776639,2022-04-11 07:54:56,2022-04-09 21:28:30,Chiesa Cattolica Ucraina di rito bizantino a Pavia - Contatti,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""city"":""Pavia"",""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""postcode"":""27100"",""road"":""Via Bernardino da Feltre"",""state"":""Lombardia"",""suburb"":""Ticinello""},""boundingbox"":[""45.1863019"",""45.1868801"",""9.1482184"",""9.1484277""],""class"":""highway"",""display_name"":""Via Bernardino da Feltre, Ticinello, Pavia, Lombardia, 27100, Italia"",""importance"":0.72,""lat"":""45.1863019"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1482184"",""osm_id"":22973393,""osm_type"":""way"",""place_id"":106430026,""type"":""residential""},""mode"":""autocomplete""},""aim"":""Facebook https://www.facebook.com/UcrainiPavia/ Gruppo Whatsapp https://chat.whatsapp.com/CTYqGb4DNPM59j0UY4ZwQk?fbclid=IwAR2WE2H1ISf3jDHt1ODzfxHfQ9wnLEHhaJ4VFgvnjJSC4OJlTli6p3D7BIM"",""email"":""ucraini.pavia@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Chiesa Cattolica Ucraina di rito Bizantino a Pavia - Contatti"",""url"":""https://www.ucrainipavia.it""}","<pre><yamldata>
@@ -10077,69 +10206,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/491,1192000504,2022-04-04 16:28:40,2022-04-04 16:00:20,"A Scandicci (Firenze) raccolta di beni (abiti e biancheria adulti/bambini, pannolini/assorbenti) per profughe/i ucraini ",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""Children"",""women""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""postcode"":""50018"",""road"":""Via Antonio Vivaldi"",""state"":""Toscana"",""town"":""Scandicci"",""village"":""Casellina""},""boundingbox"":[""43.7605032"",""43.7611107"",""11.1790175"",""11.1797029""],""class"":""highway"",""display_name"":""Via Antonio Vivaldi, Casellina, Scandicci, Citt\u00e0 metropolitana di Firenze, Toscana, 50018, Italia"",""importance"":0.61,""lat"":""43.7610141"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.1794673"",""osm_id"":642888612,""osm_type"":""way"",""place_id"":229691975,""type"":""residential""},""mode"":""autocomplete""},""description"":""RACCOLTA AIUTO UMANITARIO per i profughi ucraini gi\u00e0 arrivati a Firenze: \u2661 abbigliamento bambini \u2661 biancheria intima bambino \u2661 biancheria intima donna \u2661 articoli prima necessit\u00e0 (pannolini, assorbenti di ogni tipo d'esigenza)\nDA SABATO, 02.04., dalle ore 14:00 alle 16:00 Al seguente indirizzo: Via Antonio Vivaldi, Scandicci FI Croce Rossa Italiana\nPer info contattare: Oxana +393932222070"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Croce Rossa Firenze"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":true},""submit"":true,""title"":""A Scandicci (Firenze) raccolta di beni (abiti e biancheria adulti/bambini, pannolini/assorbenti) per i rifugiati ucraini presso la Croce Rossa"",""url"":""https://www.facebook.com/groups/1635739780118981/permalink/1657165804643045/?sfnsn=scwspmo&ref=share""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: true
-  disability: false
-  women: true
-  education: false
-offerFromWho: Croce Rossa Firenze
-title: A Scandicci (Firenze) raccolta di beni (abiti e biancheria adulti/bambini,
-  pannolini/assorbenti) per i rifugiati ucraini presso la Croce Rossa
-recipients: ''
-description: 'RACCOLTA AIUTO UMANITARIO per i profughi ucraini già arrivati a Firenze:
-  ♡ abbigliamento bambini
-  ♡ biancheria intima bambino
-  ♡ biancheria intima donna
-  ♡ articoli prima necessità (pannolini, assorbenti di ogni tipo d''esigenza)
-
-  DA SABATO, 02.04., dalle ore 14:00 alle 16:00
-  Al seguente indirizzo:
-  Via Antonio Vivaldi, Scandicci FI
-  Croce Rossa Italiana
-
-  Per info contattare: Oxana +393932222070'
-url: https://www.facebook.com/groups/1635739780118981/permalink/1657165804643045/?sfnsn=scwspmo&ref=share
-address:
-  mode: autocomplete
-  address:
-    place_id: 229691975
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 642888612
-    boundingbox:
-    - '43.7605032'
-    - '43.7611107'
-    - '11.1790175'
-    - '11.1797029'
-    lat: '43.7610141'
-    lon: '11.1794673'
-    display_name: Via Antonio Vivaldi, Casellina, Scandicci, Città metropolitana di
-      Firenze, Toscana, 50018, Italia
-    class: highway
-    type: residential
-    importance: 0.61
-    address:
-      road: Via Antonio Vivaldi
-      village: Casellina
-      town: Scandicci
-      county: Città metropolitana di Firenze
-      state: Toscana
-      postcode: '50018'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/478,1191048071,2022-04-04 14:52:51,2022-04-03 21:16:25,A Palermo Comitato Salva Ucraini offre beni di prima necessità ai profughi ucraini arrivati in città,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""postcode"":""90141"",""road"":""Via Marchese Ugo"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1299555"",""38.1336658"",""13.3496116"",""13.3514253""],""class"":""highway"",""display_name"":""Via Marchese Ugo, VIII Circoscrizione, Palermo, Sicilia, 90141, Italia"",""importance"":0.51,""lat"":""38.1315691"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3504181"",""osm_id"":86265407,""osm_type"":""way"",""place_id"":119906789,""type"":""residential""},""mode"":""autocomplete""},""description"":""A Palermo Comitato Salva Ucraini, in via Marchese Ugo 6, offre beni di prima necessit\u00e0 ai profughi ucraini arrivati in citt\u00e0 (vestiti, scarpe, cibo). Su appuntamento.\n\n\u0414\u043e\u0440\u043e\u0433\u0456 \u0423\u043a\u0440\u0430\u0457\u043d\u0446\u0456! \u042f\u043a\u0449\u043e \u0432\u0438 \u0431\u0443\u043b\u0456 \u0437\u043c\u0443\u0448\u0435\u043d\u0456 \u043f\u043e\u043a\u0438\u043d\u0443\u0442\u0456 \u043a\u0440\u0430\u0457\u043d\u0443 \u0447\u0435\u0440\u0435\u0437 \u0432\u0456\u0439\u043d\u0443 \u0456 \u0432\u0430\u043c \u043f\u043e\u0442\u0440\u0456\u0431\u043d\u0430 \u0433\u0443\u043c\u0430\u043d\u0456\u0442\u0430\u0440\u043d\u0430 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0430 (\u043e\u0434\u0435\u0436\u0430, \u0432\u0437\u0443\u0442\u0442\u044f, \u0440\u0435\u0447\u0456 \u043f\u0435\u0440\u0448\u043e\u0457 \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u043e\u0441\u0442\u0456) \u0443 \u043c\u0456\u0441\u0442\u0456 \u041f\u0430\u043b\u0435\u0440\u043c\u043e, \u041c\u0438 \u0437\u043d\u0430\u0445\u043e\u0434\u0438\u043c\u043e\u0441\u044f \u0437\u0430 \u0430\u0434\u0440\u0435\u0441\u043e\u044e: via Marchese Ugo 6, \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432 \u043f\u0440\u0438\u0439\u043c\u0430\u0454\u043c\u043e \u0437\u0440\u0430\u043d\u043a\u0443 \u043f\u043e \u0437\u0430\u043f\u0438\u0441\u0443 (\u0434\u043b\u044f \u043d\u0430\u0448\u043e\u0457 \u0456 \u0432\u0430\u0448\u043e\u0457 \u0437\u0440\u0443\u0447\u043d\u043e\u0441\u0442\u0456)\n\u041e\u0411\u041e\u0412'\u042f\u0417\u041a\u041e\u0412\u041e \u043c\u0430\u0442\u0438 \u043f\u0440\u0438 \u0441\u043e\u0431\u0456 \u043f\u0430\u0441\u043f\u043e\u0440\u0442."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comitato Salva Ucraini Palermo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Palermo Comitato Salva Ucraini offre beni di prima necessit\u00e0 ai profughi ucraini arrivati in citt\u00e0"",""url"":""https://t.me/ucraini_a_palermo/104""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
@@ -10635,72 +10701,6 @@ address:
       city: Milano
       county: Milano
       state: Lombardia
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/477,1191044506,2022-04-03 21:18:04,2022-04-03 21:01:38,A Palermo Comitato Salva Ucraini raccoglie beni di prima necessità,,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""postcode"":""90141"",""road"":""Via Marchese Ugo"",""state"":""Sicilia"",""suburb"":""VIII Circoscrizione""},""boundingbox"":[""38.1299555"",""38.1336658"",""13.3496116"",""13.3514253""],""class"":""highway"",""display_name"":""Via Marchese Ugo, VIII Circoscrizione, Palermo, Sicilia, 90141, Italia"",""importance"":0.5,""lat"":""38.1315691"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3504181"",""osm_id"":86265407,""osm_type"":""way"",""place_id"":119906789,""type"":""residential""},""mode"":""autocomplete""},""description"":""A Palermo Comitato Salva Ucraini raccoglie beni di prima necessit\u00e0, in particolare:\n\nVestiti (LEGGERI, primavera/estate): \n\u27a1\ufe0f Scarpe da ginnastica o mocassini femminili 35-40\n\u27a1\ufe0f Scarpe da ginnastica  bimbi 5+ anni unisex\n\u27a1\ufe0f Scarpe da ginnastica  per ragazzi 38-43\n\u27a1\ufe0f Giacche (jeans, a vento) da donna e per bimbi 5+ anni\n\u27a1\ufe0f Vestiti femminili (sportivi, per ogni giorno)\n\u27a1\ufe0f Abbigliamento estivo 5+ anni unisex\n(Per i bimbi pi\u00f9 piccoli abbiamo tanti vestiti)\n\u27a1\ufe0f Zaini unisex e per bambini\n\u27a1\ufe0f Parapioggia per passeggini \n\u27a1\ufe0f Ombrelli (bimbi, adulti)\n\nDetersivi/Igiene:\n\u27a1\ufe0f Detersivo per bucato per lavatrice e a mano\n\u27a1\ufe0f Detersivo per bucato bimbi\n\u27a1\ufe0f Gel doccia (adulti e bimbi)\n\u27a1\ufe0f Shampoo (adulti e bimbi)\n\u27a1\ufe0f Dentifricio (adulti e bimbi)\n\u27a1\ufe0f Spazzolini da denti (adulti e bimbi)\n\nAlimentari:\n\u27a1\ufe0f Salsa di pomodoro\n\u27a1\ufe0f Olio d\u2019oliva e di girasole\n\u27a1\ufe0f Pat\u00e8 di carne montana o simili\n\u27a1\ufe0f T\u00e8 nero e verde\n\u27a1\ufe0f Caff\u00e8 solubile \n\u27a1\ufe0f Carne in scatola\n\u27a1\ufe0f Tonno in scatola\n\u27a1\ufe0f Cornetti/merendine/brioscine per bimbi\n\u27a1\ufe0f Succhi di frutta piccoli per bimbi\n\u27a1\ufe0f Casse d\u2019acqua naturale\n\nLe donazioni si possono portare alla sede del Comitato, presso le Ancelle Del Sacro Cuore (via Marchese Ugo 6), dal luned\u00ec al venerd\u00ec negli orari 17:00-19:30 (entrata dal lato di Key Institute)."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comitato Salva Ucraini Palermo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Palermo Comitato Salva Ucraini raccoglie beni di prima necessit\u00e0"",""url"":""https://t.me/ucraini_a_palermo/103""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Comitato Salva Ucraini Palermo
-title: A Palermo Comitato Salva Ucraini raccoglie beni di prima necessità
-recipients: ''
-description: ""A Palermo Comitato Salva Ucraini raccoglie beni di prima necessità,\
-  \ in particolare:\n\nVestiti (LEGGERI, primavera/estate): \n➡️ Scarpe da ginnastica\
-  \ o mocassini femminili 35-40\n➡️ Scarpe da ginnastica  bimbi 5+ anni unisex\n➡️\
-  \ Scarpe da ginnastica  per ragazzi 38-43\n➡️ Giacche (jeans, a vento) da donna\
-  \ e per bimbi 5+ anni\n➡️ Vestiti femminili (sportivi, per ogni giorno)\n➡️ Abbigliamento\
-  \ estivo 5+ anni unisex\n(Per i bimbi più piccoli abbiamo tanti vestiti)\n➡️ Zaini\
-  \ unisex e per bambini\n➡️ Parapioggia per passeggini \n➡️ Ombrelli (bimbi, adulti)\n\
-  \nDetersivi/Igiene:\n➡️ Detersivo per bucato per lavatrice e a mano\n➡️ Detersivo\
-  \ per bucato bimbi\n➡️ Gel doccia (adulti e bimbi)\n➡️ Shampoo (adulti e bimbi)\n\
-  ➡️ Dentifricio (adulti e bimbi)\n➡️ Spazzolini da denti (adulti e bimbi)\n\nAlimentari:\n\
-  ➡️ Salsa di pomodoro\n➡️ Olio d’oliva e di girasole\n➡️ Patè di carne montana o\
-  \ simili\n➡️ Tè nero e verde\n➡️ Caffè solubile \n➡️ Carne in scatola\n➡️ Tonno\
-  \ in scatola\n➡️ Cornetti/merendine/brioscine per bimbi\n➡️ Succhi di frutta piccoli\
-  \ per bimbi\n➡️ Casse d’acqua naturale\n\nLe donazioni si possono portare alla sede\
-  \ del Comitato, presso le Ancelle Del Sacro Cuore (via Marchese Ugo 6), dal lunedì\
-  \ al venerdì negli orari 17:00-19:30 (entrata dal lato di Key Institute).""
-url: https://t.me/ucraini_a_palermo/103
-address:
-  mode: autocomplete
-  address:
-    place_id: 119906789
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 86265407
-    boundingbox:
-    - '38.1299555'
-    - '38.1336658'
-    - '13.3496116'
-    - '13.3514253'
-    lat: '38.1315691'
-    lon: '13.3504181'
-    display_name: Via Marchese Ugo, VIII Circoscrizione, Palermo, Sicilia, 90141,
-      Italia
-    class: highway
-    type: residential
-    importance: 0.5
-    address:
-      road: Via Marchese Ugo
-      suburb: VIII Circoscrizione
-      city: Palermo
-      county: Palermo
-      state: Sicilia
-      postcode: '90141'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
