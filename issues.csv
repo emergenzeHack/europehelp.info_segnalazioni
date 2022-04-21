@@ -15625,47 +15625,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: contact
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/222,1173846226,2022-03-28 13:17:57,2022-03-18 17:36:37,"Arci, online Juma Map con info utili per rifugiati e attiva linea telefonica ",,,,,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""useful contact"",""Resources""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8996107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Informazioni utili per l'ingresso in Italia. A breve tutte le informazioni saranno disponibili anche in lingua ucraina, russa ed inglese.\n\nAttivo un numero Verde per Richiedenti Asilo e Rifugiati di Arci, 800 90 55 70 (Lycamobile: 351 1 37 63 35) attivo dal luned\u00ec al venerd\u00ec dalle 9:30 alle 17:30, o scrivere alla mail numeroverderifugiati@arci.it"",""email"":""numeroverderifugiati@arci.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":""800 90 55 70"",""submit"":true,""title"":""ARCI - Juma map"",""url"":""www.jumamap.it/it/2022/02/28/emergenza-ucraina/""}","<pre><yamldata>
-title: ARCI - Juma map
-phoneNumber: 800 90 55 70
-email: numeroverderifugiati@arci.it
-aim: 'Informazioni utili per l''ingresso in Italia. A breve tutte le informazioni
-  saranno disponibili anche in lingua ucraina, russa ed inglese.
-
-
-  Attivo un numero Verde per Richiedenti Asilo e Rifugiati di Arci, 800 90 55 70 (Lycamobile:
-  351 1 37 63 35) attivo dal lunedì al venerdì dalle 9:30 alle 17:30, o scrivere alla
-  mail numeroverderifugiati@arci.it'
-url: www.jumamap.it/it/2022/02/28/emergenza-ucraina/
-address:
-  mode: autocomplete
-  address:
-    place_id: 283767136
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 41485
-    boundingbox:
-    - '41.6556417'
-    - '42.1410285'
-    - '12.2344669'
-    - '12.8557603'
-    lat: '41.8933203'
-    lon: '12.4829321'
-    display_name: Roma, Roma Capitale, Lazio, Italia
-    class: boundary
-    type: administrative
-    importance: 0.8996107180689524
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: contact
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/374,1182667358,2022-03-28 08:23:07,2022-03-27 21:23:39,Patente ucraina convertibile in Italia senza necessità di sostenere esami,,,,,"[""Valid/Accettato"",""News"",""transport"",""telegram-channel"",""tweet""]",,,"{""description"":""La patente ucraina torna ad essere convertibile in Italia dal 2022. Dopo la scadenza del precedente accordo, avvenuta lo scorso 29 maggio, il governo della RepubblicaItaliana e il gabinetto dei ministri dell\u2019Ucraina hanno raggiunto una nuova intesa sul reciproco riconoscimento in materia di conversione delle patenti di guida. Pertanto gli ucraini residenti in Italia, in possesso dei requisiti richiesti, possono nuovamente convertire la patente conseguita nel Paese d\u2019origine in una patente italiana senza la necessit\u00e0 di rifare gli esami. Lo stesso vale ovviamente per i nostri connazionali che vivono in Ucraina.\nAl link tutte le info sulle procedure da sostenere per la conversione."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.sicurauto.it/guide-utili/patente/patente-ucraina-convertibile-in-italia-dal-2022-come-e-quando/amp/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Fino al 2027 patente ucraina convertibile in Italia senza necessit\u00e0 di sostenere esami""}","<pre><yamldata>
 title: Fino al 2027 patente ucraina convertibile in Italia senza necessità di sostenere
   esami
