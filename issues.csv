@@ -1,4 +1,65 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/680,1210952937,2022-04-21 12:17:53,2022-04-21 12:17:15,Fight For Right offre assistenza alle persone con disabilità in Ucraina e aiuto a lasciare il Paese,,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""disability""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""UA-30"",""city"":""Kyiv"",""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""50.2132422"",""50.5908142"",""30.2361453"",""30.8263593""],""class"":""boundary"",""display_name"":""Kyiv, Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7258572961698041,""lat"":""50.4500336"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""30.5241361"",""osm_id"":421866,""osm_type"":""relation"",""place_id"":324417710,""type"":""administrative""},""mode"":""autocomplete""},""description"":""L'organizzazione Fight For Right aiuta le persone con disabilit\u00e0 in Ucraina offrendo:\n\ud83d\udd38evacuazione in zona sicura, ricerca di autisti e volontari, nonch\u00e9 sostegno finanziario diretto per l'evacuazione;\n\ud83d\udd38 accompagnamento all'attraversamento del confine e assistenza per l'alloggio all'estero;\n\ud83d\udd38 aiuto psicologico.\nInoltre, Fight For Right fornisce assistenza medica e alimentare a coloro che non sono in grado di evacuare.\nPer chiedere aiuto: help line 24h +380 97 883 1508.\nInfo: info@ffr.org.ua\n\n\u041a\u043e\u043c\u0430\u043d\u0434\u0430 Fight For Right \u0434\u043e\u043f\u043e\u043c\u0430\u0433\u0430\u0454 \u043b\u044e\u0434\u044f\u043c \u0437\u00a0\u0456\u043d\u0432\u0430\u043b\u0456\u0434\u043d\u0456\u0441\u0442\u044e \u043f\u0456\u0434 \u0447\u0430\u0441 \u0432\u0456\u0439\u043d\u0438\n\u042f\u043a\u0443 \u0441\u0430\u043c\u0435 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0443 \u043d\u0430\u0434\u0430\u0454 \u0456\u043d\u0456\u0446\u0456\u0430\u0442\u0438\u0432\u0430? \n\ud83d\udd38 \u0435\u0432\u0430\u043a\u0443\u0430\u0446\u0456\u044f \u043d\u0430\u00a0\u0431\u0435\u0437\u043f\u0435\u0447\u043d\u0443 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0456\u044e, \u043f\u043e\u0448\u0443\u043a \u0432\u043e\u0434\u0456\u0457\u0432 \u0456\u00a0\u0432\u043e\u043b\u043e\u043d\u0442\u0435\u0440\u0456\u0432, \u0430\u00a0\u0442\u0430\u043a\u043e\u0436 \u043f\u0440\u044f\u043c\u0430 \u0444\u0456\u043d\u0430\u043d\u0441\u043e\u0432\u0430 \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u043a\u0430 \u0435\u0432\u0430\u043a\u0443\u0430\u0446\u0456\u0457;\n\ud83d\udd38 \u0441\u0443\u043f\u0440\u043e\u0432\u0456\u0434 \u043f\u0440\u0438 \u043f\u0435\u0440\u0435\u0442\u0438\u043d\u0456 \u043a\u043e\u0440\u0434\u043e\u043d\u0443 \u0442\u0430\u00a0\u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0430 \u0437\u00a0\u0440\u043e\u0437\u043c\u0456\u0449\u0435\u043d\u043d\u044f\u043c \u0437\u0430\u00a0\u043a\u043e\u0440\u0434\u043e\u043d\u043e\u043c;\n\ud83d\udd38 \u043f\u0441\u0438\u0445\u043e\u043b\u043e\u0433\u0456\u0447\u043d\u0430 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0430. \n\u041a\u0440\u0456\u043c \u0442\u043e\u0433\u043e, Fight For Right \u043d\u0430\u0434\u0430\u044e\u0442\u044c \u0444\u0456\u043d\u0430\u043d\u0441\u043e\u0432\u0443 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0443 \u0432\u043e\u043b\u043e\u043d\u0442\u0435\u0440(\u043a)\u0430\u043c, \u0449\u043e\u00a0\u0434\u043e\u043f\u043e\u043c\u0430\u0433\u0430\u044e\u0442\u044c \u0437\u00a0\u043b\u0456\u043a\u0430\u043c\u0438 \u0442\u0430\u00a0\u0457\u0436\u0435\u044e \u0434\u043b\u044f \u0442\u0438\u0445 \u043b\u044e\u0434\u0435\u0439, \u044f\u043a\u0456 \u043d\u0435\u00a0\u043c\u0430\u044e\u0442\u044c \u0437\u043c\u043e\u0433\u0438 \u0435\u0432\u0430\u043a\u0443\u044e\u0432\u0430\u0442\u0438\u0441\u044f.\n\u042f\u043a\u00a0\u043e\u0442\u0440\u0438\u043c\u0430\u0442\u0438 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0443?\n\ud83d\udcde help line 24h +380 97 883 1508.\nInfo: info@ffr.org.ua"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Fight For Right Ukraine"",""recipients"":""persone con disabilit\u00e0 in Ucraina"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":true,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Fight For Right offre assistenza alle persone con disabilit\u00e0 in Ucraina e aiuto a lasciare il Paese"",""url"":""https://eng.ffr.org.ua/need-help""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: true
+  women: false
+  education: false
+offerFromWho: Fight For Right Ukraine
+title: Fight For Right offre assistenza alle persone con disabilità in Ucraina e aiuto
+  a lasciare il Paese
+recipients: persone con disabilità in Ucraina
+description: ""L'organizzazione Fight For Right aiuta le persone con disabilità in\
+  \ Ucraina offrendo:\n\U0001F538evacuazione in zona sicura, ricerca di autisti e\
+  \ volontari, nonché sostegno finanziario diretto per l'evacuazione;\n\U0001F538\
+  \ accompagnamento all'attraversamento del confine e assistenza per l'alloggio all'estero;\n\
+  \U0001F538 aiuto psicologico.\nInoltre, Fight For Right fornisce assistenza medica\
+  \ e alimentare a coloro che non sono in grado di evacuare.\nPer chiedere aiuto:\
+  \ help line 24h +380 97 883 1508.\nInfo: info@ffr.org.ua\n\nКоманда Fight For Right\
+  \ допомагає людям з інвалідністю під час війни\nЯку саме допомогу надає ініціатива?\
+  \ \n\U0001F538 евакуація на безпечну територію, пошук водіїв і волонтерів, а також\
+  \ пряма фінансова підтримка евакуації;\n\U0001F538 супровід при перетині кордону\
+  \ та допомога з розміщенням за кордоном;\n\U0001F538 психологічна допомога. \nКрім\
+  \ того, Fight For Right надають фінансову допомогу волонтер(к)ам, що допомагають\
+  \ з ліками та їжею для тих людей, які не мають змоги евакуюватися.\nЯк отримати\
+  \ допомогу?\n\U0001F4DE help line 24h +380 97 883 1508.\nInfo: info@ffr.org.ua""
+url: https://eng.ffr.org.ua/need-help
+address:
+  mode: autocomplete
+  address:
+    place_id: 324417710
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 421866
+    boundingbox:
+    - '50.2132422'
+    - '50.5908142'
+    - '30.2361453'
+    - '30.8263593'
+    lat: '50.4500336'
+    lon: '30.5241361'
+    display_name: Kyiv, Ucraina
+    class: boundary
+    type: administrative
+    importance: 0.7258572961698041
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Kyiv
+      ISO3166-2-lvl4: UA-30
+      country: Ucraina
+      country_code: ua
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/669,1209702443,2022-04-21 07:13:59,2022-04-20 13:36:40,A Genova trasporto pubblico gratuito per i rifugiati ucraini,,,,,"[""Valid/Accettato"",""Services"",""transport"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-42"",""ISO3166-2-lvl6"":""IT-GE"",""city"":""Genova"",""country"":""Italia"",""country_code"":""it"",""county"":""Genova"",""postcode"":""16100"",""state"":""Liguria""},""boundingbox"":[""44.24726"",""44.56726"",""8.7738624"",""9.0938624""],""class"":""place"",""display_name"":""Genova, Liguria, 16100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7921779665930816,""lat"":""44.40726"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.9338624"",""osm_id"":66586322,""osm_type"":""node"",""place_id"":286231612,""type"":""city""},""mode"":""autocomplete""},""description"":""Bus, pullman su linee extraurbane, metro, impianti di risalita gratuiti per i profughi in arrivo a Genova provenienti dall\u2019Ucraina.\nLo comunicano l\u2019assessore alla Mobilit\u00e0 Matteo Campora, i consiglieri delegati alle Politiche sociali Mario Baroni e alla Protezione civile Sergio Gambino."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Genova - Amt Genova"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""A Genova trasporto pubblici gratuiti per i rifugiati ucraini"",""url"":""https://t.co/FxEo0HMNVi""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
