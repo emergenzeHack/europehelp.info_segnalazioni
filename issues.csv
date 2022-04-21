@@ -1,4 +1,52 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/683,1211199286,2022-04-21 15:29:24,2022-04-21 15:25:46,European Commission help line for ukranian refugees,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""BE-BRU"",""city"":""Bruxelles"",""country"":""Belgio"",""country_code"":""be"",""county"":""Brussel-Hoofdstad - Bruxelles-Capitale"",""house_number"":""200"",""municipality"":""Ville de Bruxelles - Stad Brussel"",""neighbourhood"":""Quartier europ\u00e9en - Europese Wijk"",""office"":""Commissione europea"",""postcode"":""1040"",""region"":""R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest"",""road"":""Rue de la Loi - Wetstraat""},""boundingbox"":[""50.8430906"",""50.8431906"",""4.383156"",""4.383256""],""class"":""office"",""display_name"":""Commissione europea, 200, Rue de la Loi - Wetstraat, Quartier europ\u00e9en - Europese Wijk, Bruxelles, Ville de Bruxelles - Stad Brussel, Brussel-Hoofdstad - Bruxelles-Capitale, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1040, Belgio"",""importance"":0.7360194182893088,""lat"":""50.8431406"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""4.383206"",""osm_id"":7603013404,""osm_type"":""node"",""place_id"":79744431,""type"":""government""},""mode"":""autocomplete""},""aim"":""European Commission helpline also in Ukrainian and Russian language.  \nContact 00 800 6 7 8 9 10 11 from anywhere in the EU weekdays 09:00 - 18:00 to receive information on:\n\u25aa\ufe0f #EUsolidarity with \ud83c\uddfa\ud83c\udde6 \n\u25aa\ufe0f temporary protection of Ukrainian refugees \n\u25aa\ufe0f travelling to and settling in the EU, and more \n\nAt link more information and usefull contact."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""00 800 6 7 8 9 10 11"",""submit"":true,""title"":""European Commission help line for ukranian refugees"",""url"":""https://europa.eu/!DWkUgW""}","<pre><yamldata>
+title: European Commission help line for ukranian refugees
+phoneNumber: 00 800 6 7 8 9 10 11
+email: ''
+aim: ""European Commission helpline also in Ukrainian and Russian language.  \nContact\
+  \ 00 800 6 7 8 9 10 11 from anywhere in the EU weekdays 09:00 - 18:00 to receive\
+  \ information on:\n▪️ #EUsolidarity with \U0001F1FA\U0001F1E6 \n▪️ temporary protection\
+  \ of Ukrainian refugees \n▪️ travelling to and settling in the EU, and more \n\n\
+  At link more information and usefull contact.""
+url: https://europa.eu/!DWkUgW
+address:
+  mode: autocomplete
+  address:
+    place_id: 79744431
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 7603013404
+    boundingbox:
+    - '50.8430906'
+    - '50.8431906'
+    - '4.383156'
+    - '4.383256'
+    lat: '50.8431406'
+    lon: '4.383206'
+    display_name: Commissione europea, 200, Rue de la Loi - Wetstraat, Quartier européen
+      - Europese Wijk, Bruxelles, Ville de Bruxelles - Stad Brussel, Brussel-Hoofdstad
+      - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk
+      Gewest, 1040, Belgio
+    class: office
+    type: government
+    importance: 0.7360194182893088
+    address:
+      office: Commissione europea
+      house_number: '200'
+      road: Rue de la Loi - Wetstraat
+      neighbourhood: Quartier européen - Europese Wijk
+      city: Bruxelles
+      municipality: Ville de Bruxelles - Stad Brussel
+      county: Brussel-Hoofdstad - Bruxelles-Capitale
+      region: Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+      ISO3166-2-lvl4: BE-BRU
+      postcode: '1040'
+      country: Belgio
+      country_code: be
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/682,1211078556,2022-04-21 13:51:40,2022-04-21 13:51:07,Covid19 e assistenza sanitaria: tutti i Numeri Verdi regione per regione,,,,,"[""Valid/Accettato"",""useful contact"",""healthcare""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""aim"":""Sul sito del Ministero della Salute tutti i Numeri Verdi delle regioni italiane che offrono informazioni su assistenza sanitaria e Covid-19."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Covid19 e assistenza sanitaria: tutti i Numeri Verdi regione per regione"",""url"":""https://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5364&area=nuovoCoronavirus&menu=aChiRivolgersi""}","<pre><yamldata>
 title: 'Covid19 e assistenza sanitaria: tutti i Numeri Verdi regione per regione'
 phoneNumber: ''
