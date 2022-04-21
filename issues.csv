@@ -1,4 +1,39 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/246,1174558677,2022-04-21 15:49:18,2022-03-20 14:02:27,Associazione Passaggi raccoglie a Cosenza  aiuti per la comunità ucraina,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""Closed"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Cosenza"",""postcode"":""87075"",""state"":""Calabria"",""village"":""Trebisacce""},""boundingbox"":[""39.70663749"",""40.02663749"",""16.371731963905"",""16.691731963905""],""class"":""place"",""display_name"":""Trebisacce, Cosenza, Calabria, 87075, Italia"",""importance"":0.445,""lat"":""39.86663749"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.531731963904594"",""place_id"":288292969,""type"":""postcode""},""mode"":""autocomplete""},""description"":""Raccogliamo viveri,articoli per l'igiene della persona, medicinali, dispositivi medici, coperte."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Passaggi"",""recipients"":""Cittadi ucraini vittime della guerra"",""submit"":true,""title"":""Raccogliamo e inviamo aiuti insieme alla comunit\u00e0 ucraina"",""type"":""materialGoods"",""url"":""""}","<pre><yamldata>
+offerFromWho: Associazione Passaggi
+title: Raccogliamo e inviamo aiuti insieme alla comunità ucraina
+recipients: Cittadi ucraini vittime della guerra
+description: Raccogliamo viveri,articoli per l'igiene della persona, medicinali, dispositivi
+  medici, coperte.
+url: ''
+address:
+  mode: autocomplete
+  address:
+    place_id: 288292969
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    boundingbox:
+    - '39.70663749'
+    - '40.02663749'
+    - '16.371731963905'
+    - '16.691731963905'
+    lat: '39.86663749'
+    lon: '16.531731963904594'
+    display_name: Trebisacce, Cosenza, Calabria, 87075, Italia
+    class: place
+    type: postcode
+    importance: 0.445
+    address:
+      village: Trebisacce
+      county: Cosenza
+      state: Calabria
+      postcode: '87075'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+type: materialGoods
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/345,1180993790,2022-04-21 15:46:21,2022-03-25 16:24:57,A Bastia Umbra uova pasquali pro emergenza Ucraina,43.0677554,12.5495816,Umbria,Perugia,"[""Valid/Accettato"",""Services"",""fundraising""]",,,"{""Posizione"":""43.0677554 12.5495816"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""BASTIA UMBRA \u2013 Iniziativa di solidariet\u00e0 pro emergenza Ucraina L\u2019associazione di accoglienza e solidariet\u00e0 internazionale Orizzonti Assisi, supportata dal Cesvol Umbria e con il patrocinio del Comune di Bastia Umbra, promuove una raccolta fondi attraverso la proposta di acquisto solidale di uova di Pasqua, il cui ricavato sar\u00e0 destinato all\u2019ospitalit\u00e0 dei profughi ucraini. Per prenotazioni delle uova al latte e al cioccolato fondente \u00e8 possibile contattare i numeri 3389609785 /075 8018203."",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":""https://www.cesvolumbria.org/news/un-uovo-sorpresa-gioia-di-donare/"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Perugia"",""postcode"":""06083"",""state"":""Umbria"",""town"":""Bastia Umbra""},""boundingbox"":[""43.031678"",""43.0913888"",""12.4904338"",""12.5721251""],""class"":""boundary"",""display_name"":""Bastia Umbra, Perugia, Umbria, 06083, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.6933899802161939,""lat"":""43.0677554"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.5495816"",""osm_id"":42302,""osm_type"":""relation"",""place_id"":283842069,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""L\u2019associazione di accoglienza e solidariet\u00e0 internazionale Orizzonti Assisi, supportata dal Cesvol Umbria e con il patrocinio del Comune di Bastia Umbra""}","<pre><yamldata>
 title: L’associazione di accoglienza e solidarietà internazionale Orizzonti Assisi,
   supportata dal Cesvol Umbria e con il patrocinio del Comune di Bastia Umbra
@@ -19573,41 +19608,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: fundraising
 submit: true
 Posizione: 45.639544 9.278869369225038
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/246,1174558677,2022-03-21 20:39:14,2022-03-20 14:02:27,Associazione Passaggi raccoglie a #Cosenza  aiuti per la comunità ucraina,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""Closed"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Cosenza"",""postcode"":""87075"",""state"":""Calabria"",""village"":""Trebisacce""},""boundingbox"":[""39.70663749"",""40.02663749"",""16.371731963905"",""16.691731963905""],""class"":""place"",""display_name"":""Trebisacce, Cosenza, Calabria, 87075, Italia"",""importance"":0.445,""lat"":""39.86663749"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.531731963904594"",""place_id"":288292969,""type"":""postcode""},""mode"":""autocomplete""},""description"":""Raccogliamo viveri,articoli per l'igiene della persona, medicinali, dispositivi medici, coperte."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Passaggi"",""recipients"":""Cittadi ucraini vittime della guerra"",""submit"":true,""title"":""Raccogliamo e inviamo aiuti insieme alla comunit\u00e0 ucraina"",""type"":""materialGoods"",""url"":""""}","<pre><yamldata>
-offerFromWho: Associazione Passaggi
-title: Raccogliamo e inviamo aiuti insieme alla comunità ucraina
-recipients: Cittadi ucraini vittime della guerra
-description: Raccogliamo viveri,articoli per l'igiene della persona, medicinali, dispositivi
-  medici, coperte.
-url: ''
-address:
-  mode: autocomplete
-  address:
-    place_id: 288292969
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    boundingbox:
-    - '39.70663749'
-    - '40.02663749'
-    - '16.371731963905'
-    - '16.691731963905'
-    lat: '39.86663749'
-    lon: '16.531731963904594'
-    display_name: Trebisacce, Cosenza, Calabria, 87075, Italia
-    class: place
-    type: postcode
-    importance: 0.445
-    address:
-      village: Trebisacce
-      county: Cosenza
-      state: Calabria
-      postcode: '87075'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-type: materialGoods
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/100,1167401631,2022-03-21 16:35:59,2022-03-12 21:11:26,"Puglia, associazione Casa Ucraina organizza rete di ospitalità e bus per portare in Italia rifugiati ucraini",40.9842539,16.6210027,Puglia,Bari,"[""Valid/Accettato"",""News"",""Services"",""hospitality"",""transport"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""40.9842539 16.6210027"",""description"":""In Puglia l'associazione Casa Ucraina sta organizzando una rete di famiglie per ospitare profughi ucraini e bus per portarli in Puglia.\nPer info e adesioni: contact@casaucraina.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""http://dlvr.it/SLVBjH"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Puglia""},""boundingbox"":[""39.7895944"",""42.2264805"",""14.9341858"",""18.5205121""],""class"":""boundary"",""display_name"":""Puglia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7716750421714782,""lat"":""40.9842539"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.6210027"",""osm_id"":40095,""osm_type"":""relation"",""place_id"":283208903,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Puglia, Casa Ucraina organizza rete di ospitalit\u00e0 e bus per portare via rifugiati ucraini""}","<pre><yamldata>
 title: Puglia, Casa Ucraina organizza rete di ospitalità e bus per portare via rifugiati
