@@ -1,4 +1,45 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/686,1212508565,2022-04-22 15:39:28,2022-04-22 15:35:46,"Torino per l’emergenza Ucraina: attivo Numero Verde Protezione Civile, email e pagina web del Comune di Torino",,,,,"[""Valid/Accettato"",""fundraising"",""useful contact"",""hospitality"",""healthcare"",""job"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""state"":""Piemonte""},""boundingbox"":[""45.0067924"",""45.1402175"",""7.5778348"",""7.7733388""],""class"":""boundary"",""display_name"":""Torino, Piemonte, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8168062387577691,""lat"":""45.0677551"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6824892"",""osm_id"":43992,""osm_type"":""relation"",""place_id"":284787924,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Sul sito del Comune di Torino \u00e8 attiva una pagina web con info e contatti utili per i rifugiati ucraini (assistenza sanitaria, scuola, alloggio, lavoro, corsi, documenti, ecc.) e per chi vuole offrire aiuto, donazioni e alloggio ai rifugiati. \n\u00c8 inoltre attiva una mail del Comune di Torino dedicata all\u2019emergenza emergenzaucraina@comune.torino.it e il Numero verde della Protezione civile 800.444.004 (attivo da luned\u00ec a venerd\u00ec con orario 8.00 - 18.00)."",""email"":""emergenzaucraina@comune.torino.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""800.444.004"",""submit"":true,""title"":""Torino per l\u2019emergenza Ucraina: attivo Numero Verde Protezione Civile, email e pagina web Comune di Torino con info e contatti utili"",""url"":""http://www.comune.torino.it/emergenzaucraina/""}","<pre><yamldata>
+title: 'Torino per l’emergenza Ucraina: attivo Numero Verde Protezione Civile, email
+  e pagina web Comune di Torino con info e contatti utili'
+phoneNumber: 800.444.004
+email: emergenzaucraina@comune.torino.it
+aim: ""Sul sito del Comune di Torino è attiva una pagina web con info e contatti utili\
+  \ per i rifugiati ucraini (assistenza sanitaria, scuola, alloggio, lavoro, corsi, documenti, ecc.) e per chi vuole offrire aiuto, donazioni e alloggio ai\
+  \ rifugiati. \nÈ inoltre attiva una mail del Comune di Torino dedicata all’emergenza\
+  \ emergenzaucraina@comune.torino.it e il Numero verde della Protezione civile 800.444.004\
+  \ (attivo da lunedì a venerdì con orario 8.00 - 18.00).""
+url: http://www.comune.torino.it/emergenzaucraina/
+address:
+  mode: autocomplete
+  address:
+    place_id: 284787924
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43992
+    boundingbox:
+    - '45.0067924'
+    - '45.1402175'
+    - '7.5778348'
+    - '7.7733388'
+    lat: '45.0677551'
+    lon: '7.6824892'
+    display_name: Torino, Piemonte, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8168062387577691
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Torino
+      county: Torino
+      state: Piemonte
+      ISO3166-2-lvl4: IT-21
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/685,1212494672,2022-04-22 15:24:47,2022-04-22 15:21:58,"Piemonte per l’Ucraina, Regione Piemonte attiva help line per rifugiati ucraini e pagina web con info utili",,,,,"[""Valid/Accettato"",""Services"",""fundraising"",""useful contact"",""hospitality"",""healthcare"",""Resources"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""house_number"":""165"",""postcode"":""10122"",""road"":""Piazza Castello"",""state"":""Piemonte"",""suburb"":""Centro""},""boundingbox"":[""45.0716229"",""45.0717229"",""7.6846521"",""7.6847521""],""class"":""place"",""display_name"":""165, Piazza Castello, Centro, Circoscrizione 1, Torino, Piemonte, 10122, Italia"",""importance"":0.42099999999999993,""lat"":""45.0716729"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6847021"",""osm_id"":4736084002,""osm_type"":""node"",""place_id"":54298343,""type"":""house""},""mode"":""autocomplete""},""aim"":""Da marted\u00ec 22 marzo \u00e8 attivo il numero del Call Center regionale dedicato alle informazioni per i rifugiati ucraini in Piemonte, realizzato grazie alla collaborazione tra Protezione Civile, Consolato Onorario di Ucraina a Torino e la Onlus Danish Refugee Council Italia. Il numero \u00e8 011.4326700 ed \u00e8 attivo dal luned\u00ec al sabato, dalle 8.00 alle 20.00: otto operatori di madrelingua ucraina rispondono alle richieste di informazioni e approfondimenti da parte dei profughi e delle famiglie che li accolgono.\nLa Regione Piemonte ha inoltre attivato una pagina web con info e contatti utili su assistenza sanitaria, vaccino Covid19, scuola, accoglienza rifugiati (per chi vuole accogliere), raccolte fondi regionale e altro. \u00c8 disponibile anche una versione in lingua ucraina della pagina. Nella pagina \u00e8 inoltre pubblicato il Piqno regionale emergenza Ucraina con ulteriori info e contatti."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 011 4326700"",""submit"":true,""title"":""Piemonte per l\u2019Ucraina, Regione Piemonte attiva help line per rifugiati ucraini e pagina web con info utili"",""url"":""https://www.regione.piemonte.it/web/temi/diritti-politiche-sociali/piemonte-per-lucraina""}","<pre><yamldata>
 title: Piemonte per l’Ucraina, Regione Piemonte attiva help line per rifugiati ucraini
   e pagina web con info utili
