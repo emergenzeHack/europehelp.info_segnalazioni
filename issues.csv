@@ -1,4 +1,55 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/685,1212494672,2022-04-22 15:24:47,2022-04-22 15:21:58,"Piemonte per l’Ucraina, Regione Piemonte attiva help line per rifugiati ucraini e pagina web con info utili",,,,,"[""Valid/Accettato"",""Services"",""fundraising"",""useful contact"",""hospitality"",""healthcare"",""Resources"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""house_number"":""165"",""postcode"":""10122"",""road"":""Piazza Castello"",""state"":""Piemonte"",""suburb"":""Centro""},""boundingbox"":[""45.0716229"",""45.0717229"",""7.6846521"",""7.6847521""],""class"":""place"",""display_name"":""165, Piazza Castello, Centro, Circoscrizione 1, Torino, Piemonte, 10122, Italia"",""importance"":0.42099999999999993,""lat"":""45.0716729"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6847021"",""osm_id"":4736084002,""osm_type"":""node"",""place_id"":54298343,""type"":""house""},""mode"":""autocomplete""},""aim"":""Da marted\u00ec 22 marzo \u00e8 attivo il numero del Call Center regionale dedicato alle informazioni per i rifugiati ucraini in Piemonte, realizzato grazie alla collaborazione tra Protezione Civile, Consolato Onorario di Ucraina a Torino e la Onlus Danish Refugee Council Italia. Il numero \u00e8 011.4326700 ed \u00e8 attivo dal luned\u00ec al sabato, dalle 8.00 alle 20.00: otto operatori di madrelingua ucraina rispondono alle richieste di informazioni e approfondimenti da parte dei profughi e delle famiglie che li accolgono.\nLa Regione Piemonte ha inoltre attivato una pagina web con info e contatti utili su assistenza sanitaria, vaccino Covid19, scuola, accoglienza rifugiati (per chi vuole accogliere), raccolte fondi regionale e altro. \u00c8 disponibile anche una versione in lingua ucraina della pagina. Nella pagina \u00e8 inoltre pubblicato il Piqno regionale emergenza Ucraina con ulteriori info e contatti."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 011 4326700"",""submit"":true,""title"":""Piemonte per l\u2019Ucraina, Regione Piemonte attiva help line per rifugiati ucraini e pagina web con info utili"",""url"":""https://www.regione.piemonte.it/web/temi/diritti-politiche-sociali/piemonte-per-lucraina""}","<pre><yamldata>
+title: Piemonte per l’Ucraina, Regione Piemonte attiva help line per rifugiati ucraini
+  e pagina web con info utili
+phoneNumber: +39 011 4326700
+email: ''
+aim: 'Da martedì 22 marzo è attivo il numero del Call Center regionale dedicato alle
+  informazioni per i rifugiati ucraini in Piemonte, realizzato grazie alla collaborazione
+  tra Protezione Civile, Consolato Onorario di Ucraina a Torino e la Onlus Danish
+  Refugee Council Italia. Il numero è 011.4326700 ed è attivo dal lunedì al sabato,
+  dalle 8.00 alle 20.00: otto operatori di madrelingua ucraina rispondono alle richieste
+  di informazioni e approfondimenti da parte dei profughi e delle famiglie che li
+  accolgono.
+
+  La Regione Piemonte ha inoltre attivato una pagina web con info e contatti utili
+  su assistenza sanitaria, vaccino Covid19, scuola, accoglienza rifugiati (per chi vuole accogliere), raccolte fondi regionale 
+  e altro. È disponibile anche una versione in lingua ucraina della pagina. Nella pagina è inoltre pubblicato il Piqno regionale emergenza Ucraina con ulteriori info e contatti.'
+url: https://www.regione.piemonte.it/web/temi/diritti-politiche-sociali/piemonte-per-lucraina
+address:
+  mode: autocomplete
+  address:
+    place_id: 54298343
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 4736084002
+    boundingbox:
+    - '45.0716229'
+    - '45.0717229'
+    - '7.6846521'
+    - '7.6847521'
+    lat: '45.0716729'
+    lon: '7.6847021'
+    display_name: 165, Piazza Castello, Centro, Circoscrizione 1, Torino, Piemonte,
+      10122, Italia
+    class: place
+    type: house
+    importance: 0.42099999999999993
+    address:
+      house_number: '165'
+      road: Piazza Castello
+      suburb: Centro
+      city: Torino
+      county: Torino
+      state: Piemonte
+      ISO3166-2-lvl4: IT-21
+      postcode: '10122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/678,1210210388,2022-04-22 07:18:51,2022-04-20 21:05:13,A Livorno corso gratuito di italiano per profughi ucraini presso l’Istituto Tecnico Economico Vespucci,,,,,"[""Valid/Accettato"",""Services"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""ISO3166-2-lvl6"":""IT-LI"",""amenity"":""Amerigo Vespucci"",""city"":""Livorno"",""country"":""Italia"",""country_code"":""it"",""county"":""Livorno"",""house_number"":""1"",""postcode"":""57123"",""road"":""Via Giuseppe Chiarini"",""state"":""Toscana""},""boundingbox"":[""43.5485107"",""43.5487225"",""10.3077447"",""10.3085786""],""class"":""amenity"",""display_name"":""Amerigo Vespucci, 1, Via Giuseppe Chiarini, Livorno, Toscana, 57123, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//education_school.p.20.png"",""importance"":0.42099999999999993,""lat"":""43.5486166"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.308161649999999"",""osm_id"":861166450,""osm_type"":""way"",""place_id"":266398490,""type"":""school""},""mode"":""autocomplete""},""description"":""\u201cItaliano nessun problema!\u201d \u00e8 il titolo del corso gratuito di lingua italiana per adulti stranieri che sta per partire presso l\u2019Istituto Tecnico Economico Vespucci-Colombo (via Chiarini 1). Partendo dall\u2019esigenza di includere le famiglie ucraine rifugiate od ospiti nella nostra citt\u00e0 \u2013 solitamente donne e bambini di et\u00e0 scolare \u2013 l\u2019istituto, che vanta una consolidata tradizione sia di corsi di italiano L2 per i propri alunni, sia di formazione degli adulti, ha deciso di mettere in campo le sue risorse interne per dar modo agli adulti in primis di origine ucraina, ma poi di fatto anche altri stranieri che lo desiderino, di potersi avvicinare alla  lingua italiana, con un corso, che partir\u00e0 venerd\u00ec 22 aprile 2022. Verr\u00e0 attivata una sinergia fra l\u2019istituto e la Caritas, che ha in programma corsi per bambini \u2013 ragazzi e forse giovani adulti (nei locali del centro per Accoglienza Profughi Ucraini recentemente inaugurato in via Temistocle Guerrazzi, presso la chiesa ucraina), ma mancando di esperienza di insegnamento nell\u2019italiano seconda lingua, ha chiesto supporto ai docenti del Vespucci- Colombo, per poter rafforzare l\u2019offerta in citt\u00e0."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Istituto Tecnico Economico Vespucci-Colombo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Livorno corso gratuito di italiano per profughi ucraini presso l\u2019Istituto Tecnico Economico Vespucci-Colombo"",""url"":""https://www.vespucci.edu.it/153-avvisi-ed-eventi/173-corso-gratuito-di-italiano-per-stranieri-adulti""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
