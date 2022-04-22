@@ -1,4 +1,82 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/688,1212799404,2022-04-22 21:33:53,2022-04-22 21:22:56,"Emilia Romagna, sportelli informativi per cittadini stranieri e rifugiati - Info e contatti provincia per provincia ",,,,,"[""Valid/Accettato"",""Services"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""country"":""Italia"",""country_code"":""it"",""state"":""Emilia-Romagna""},""boundingbox"":[""43.7318997"",""45.1395001"",""9.1979117"",""12.7559006""],""class"":""boundary"",""display_name"":""Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8658836089993998,""lat"":""44.525696"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.039437"",""osm_id"":42611,""osm_type"":""relation"",""place_id"":284957631,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Sul sito della Regione Emilia Romagna l\u2019elenco aggiornato degli sportelli informativi sul territorio regionale dedicati ai cittadini stranieri, rifugiati e richiedenti asilo. Suddivise per provincia con info e recapiti."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Emilia Romagna, sportelli per cittadini stranieri e rifugiati - Info e contatti provincia per provincia"",""url"":""https://sociale.regione.emilia-romagna.it/immigrati-e-stranieri/temi/sportelli-informativi/sportelli-informativi""}","<pre><yamldata>
+title: Emilia Romagna, sportelli per cittadini stranieri e rifugiati - Info e contatti
+  provincia per provincia
+phoneNumber: ''
+email: ''
+aim: Sul sito della Regione Emilia Romagna l’elenco aggiornato degli sportelli informativi
+  sul territorio regionale dedicati ai cittadini stranieri, rifugiati e richiedenti
+  asilo. Suddivise per provincia con info e recapiti.
+url: https://sociale.regione.emilia-romagna.it/immigrati-e-stranieri/temi/sportelli-informativi/sportelli-informativi
+address:
+  mode: autocomplete
+  address:
+    place_id: 284957631
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 42611
+    boundingbox:
+    - '43.7318997'
+    - '45.1395001'
+    - '9.1979117'
+    - '12.7559006'
+    lat: '44.525696'
+    lon: '11.039437'
+    display_name: Emilia-Romagna, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8658836089993998
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      state: Emilia-Romagna
+      ISO3166-2-lvl4: IT-45
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/689,1212805627,2022-04-22 21:32:55,2022-04-22 21:29:34,SOS UCRAINA: guida multilingue dell'Emilia-Romagna con info e contatti per l’accoglienza e assistenza dei rifugiati ucraini ,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""useful contact"",""hospitality"",""healthcare"",""job"",""Children"",""Resources"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""country"":""Italia"",""country_code"":""it"",""state"":""Emilia-Romagna""},""boundingbox"":[""43.7318997"",""45.1395001"",""9.1979117"",""12.7559006""],""class"":""boundary"",""display_name"":""Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8658836089993998,""lat"":""44.525696"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.039437"",""osm_id"":42611,""osm_type"":""relation"",""place_id"":284957631,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Numeri verdi, punti informativi, assistenza abitativa e sanitaria, trasporti, sostegno psicologico, raccolta fondi per sostenere tutti coloro che, fuggendo dal conflitto in atto in Ucraina, raggiungono l\u2019Emilia-Romagna. Questa pagina, dedicata all\u2019emergenza, offre una guida multilingue \u2013 corredata della necessaria modulistica \u2013 su ci\u00f2 che bisogna fare una volta arrivati in regione: dall\u2019identificazione alla ricerca di un alloggio; dall\u2019inserimento dei bambini a scuola alla richiesta di cure mediche, ecc."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""SOS UCRAINA: guida multilingue dell'Emilia-Romagna con info e contatti per l\u2019accoglienza e assistenza dei rifugiati ucraini"",""url"":""https://www.sister-hub.it/emergenza-profughi-ucraina/#accoglienza""}","<pre><yamldata>
+title: 'SOS UCRAINA: guida multilingue dell''Emilia-Romagna con info e contatti per
+  l’accoglienza e assistenza dei rifugiati ucraini'
+phoneNumber: ''
+email: ''
+aim: 'Numeri verdi, punti informativi, assistenza abitativa e sanitaria, trasporti,
+  sostegno psicologico, raccolta fondi per sostenere tutti coloro che, fuggendo dal
+  conflitto in atto in Ucraina, raggiungono l’Emilia-Romagna. Questa pagina, dedicata
+  all’emergenza, offre una guida multilingue – corredata della necessaria modulistica
+  – su ciò che bisogna fare una volta arrivati in regione: dall’identificazione alla
+  ricerca di un alloggio; dall’inserimento dei bambini a scuola alla richiesta di
+  cure mediche, ecc.'
+url: https://www.sister-hub.it/emergenza-profughi-ucraina/#accoglienza
+address:
+  mode: autocomplete
+  address:
+    place_id: 284957631
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 42611
+    boundingbox:
+    - '43.7318997'
+    - '45.1395001'
+    - '9.1979117'
+    - '12.7559006'
+    lat: '44.525696'
+    lon: '11.039437'
+    display_name: Emilia-Romagna, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8658836089993998
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      state: Emilia-Romagna
+      ISO3166-2-lvl4: IT-45
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/687,1212519142,2022-04-22 15:59:04,2022-04-22 15:46:35,"Ordine degli Avvocati di Torino, servizio di supporto legale gratuito per rifugiati ucraini (in inglese)",,,,,"[""Valid/Accettato"",""Services"",""Legal""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""house_number"":""130"",""postcode"":""10138"",""road"":""Corso Vittorio Emanuele II"",""state"":""Piemonte"",""suburb"":""Circoscrizione 3""},""boundingbox"":[""45.0699005"",""45.0700005"",""7.6596485"",""7.6597485""],""class"":""place"",""display_name"":""130, Corso Vittorio Emanuele II, Circoscrizione 3, Torino, Piemonte, 10138, Italia"",""importance"":0.721,""lat"":""45.0699505"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6596985"",""osm_id"":4734768693,""osm_type"":""node"",""place_id"":53513202,""type"":""house""},""mode"":""autocomplete""},""description"":""L'Ordine degli avvocati di Torino ha istituito un servizio di assistenza pro bono riguardante gli aspetti legali ed i flussi migratori della popolazione Ucraina. Di seguito i recapiti che rispondono in lingua inglese \nemail: emergenzaucraina@ordineavvocatitorino.it\nTelefono: 3246997129\n\n I contact points resisi disponibili per la consulenza gratuita in favore dei cittadini ucraini sono:\nAvv. Lorenzo TRUCCO\nAvv. Barbara PORTA"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ordine avvocati Torino"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Ordine degli Avvocati di Torino, servizio di supporto legale gratuito per rifugiati ucraini (in lingua inglese)"",""url"":""http://www.comune.torino.it/emergenzaucraina/documenti/ISTITUZIONE-CONTACT-POINT-IN-FAVORE-CITTADINI-UCRAINI-COA-TORINO.pdf""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
