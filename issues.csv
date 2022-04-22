@@ -1,4 +1,62 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/687,1212519142,2022-04-22 15:59:04,2022-04-22 15:46:35,"Ordine degli Avvocati di Torino, servizio di supporto legale gratuito per rifugiati ucraini (in inglese)",,,,,"[""Valid/Accettato"",""Services"",""Legal""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""house_number"":""130"",""postcode"":""10138"",""road"":""Corso Vittorio Emanuele II"",""state"":""Piemonte"",""suburb"":""Circoscrizione 3""},""boundingbox"":[""45.0699005"",""45.0700005"",""7.6596485"",""7.6597485""],""class"":""place"",""display_name"":""130, Corso Vittorio Emanuele II, Circoscrizione 3, Torino, Piemonte, 10138, Italia"",""importance"":0.721,""lat"":""45.0699505"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6596985"",""osm_id"":4734768693,""osm_type"":""node"",""place_id"":53513202,""type"":""house""},""mode"":""autocomplete""},""description"":""L'Ordine degli avvocati di Torino ha istituito un servizio di assistenza pro bono riguardante gli aspetti legali ed i flussi migratori della popolazione Ucraina. Di seguito i recapiti che rispondono in lingua inglese \nemail: emergenzaucraina@ordineavvocatitorino.it\nTelefono: 3246997129\n\n I contact points resisi disponibili per la consulenza gratuita in favore dei cittadini ucraini sono:\nAvv. Lorenzo TRUCCO\nAvv. Barbara PORTA"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ordine avvocati Torino"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Ordine degli Avvocati di Torino, servizio di supporto legale gratuito per rifugiati ucraini (in lingua inglese)"",""url"":""http://www.comune.torino.it/emergenzaucraina/documenti/ISTITUZIONE-CONTACT-POINT-IN-FAVORE-CITTADINI-UCRAINI-COA-TORINO.pdf""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Ordine avvocati Torino
+title: Ordine degli Avvocati di Torino, servizio di supporto legale gratuito per rifugiati
+  ucraini (in lingua inglese)
+recipients: ''
+description: ""L'Ordine degli avvocati di Torino ha istituito un servizio di assistenza\
+  \ pro bono riguardante gli aspetti legali ed i flussi migratori della popolazione\
+  \ Ucraina. Di seguito i recapiti che rispondono in lingua inglese \nemail: emergenzaucraina@ordineavvocatitorino.it\n\
+  Telefono: 3246997129\n\n I contact points resisi disponibili per la consulenza gratuita\
+  \ in favore dei cittadini ucraini sono:\nAvv. Lorenzo TRUCCO\nAvv. Barbara PORTA""
+url: http://www.comune.torino.it/emergenzaucraina/documenti/ISTITUZIONE-CONTACT-POINT-IN-FAVORE-CITTADINI-UCRAINI-COA-TORINO.pdf
+address:
+  mode: autocomplete
+  address:
+    place_id: 53513202
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 4734768693
+    boundingbox:
+    - '45.0699005'
+    - '45.0700005'
+    - '7.6596485'
+    - '7.6597485'
+    lat: '45.0699505'
+    lon: '7.6596985'
+    display_name: 130, Corso Vittorio Emanuele II, Circoscrizione 3, Torino, Piemonte,
+      10138, Italia
+    class: place
+    type: house
+    importance: 0.721
+    address:
+      house_number: '130'
+      road: Corso Vittorio Emanuele II
+      suburb: Circoscrizione 3
+      city: Torino
+      county: Torino
+      state: Piemonte
+      ISO3166-2-lvl4: IT-21
+      postcode: '10138'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/686,1212508565,2022-04-22 15:39:28,2022-04-22 15:35:46,"Torino per l’emergenza Ucraina: attivo Numero Verde Protezione Civile, email e pagina web del Comune di Torino",,,,,"[""Valid/Accettato"",""fundraising"",""useful contact"",""hospitality"",""healthcare"",""job"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""state"":""Piemonte""},""boundingbox"":[""45.0067924"",""45.1402175"",""7.5778348"",""7.7733388""],""class"":""boundary"",""display_name"":""Torino, Piemonte, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8168062387577691,""lat"":""45.0677551"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6824892"",""osm_id"":43992,""osm_type"":""relation"",""place_id"":284787924,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Sul sito del Comune di Torino \u00e8 attiva una pagina web con info e contatti utili per i rifugiati ucraini (assistenza sanitaria, scuola, alloggio, lavoro, corsi, documenti, ecc.) e per chi vuole offrire aiuto, donazioni e alloggio ai rifugiati. \n\u00c8 inoltre attiva una mail del Comune di Torino dedicata all\u2019emergenza emergenzaucraina@comune.torino.it e il Numero verde della Protezione civile 800.444.004 (attivo da luned\u00ec a venerd\u00ec con orario 8.00 - 18.00)."",""email"":""emergenzaucraina@comune.torino.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""800.444.004"",""submit"":true,""title"":""Torino per l\u2019emergenza Ucraina: attivo Numero Verde Protezione Civile, email e pagina web Comune di Torino con info e contatti utili"",""url"":""http://www.comune.torino.it/emergenzaucraina/""}","<pre><yamldata>
 title: 'Torino per l’emergenza Ucraina: attivo Numero Verde Protezione Civile, email
   e pagina web Comune di Torino con info e contatti utili'
