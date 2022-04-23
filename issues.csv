@@ -1,4 +1,65 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/702,1213372224,2022-04-23 17:57:02,2022-04-23 17:47:26,Caritas Bari organizza corso gratuito di italiano per rifugiati ucraini (online e in presenza),,,,,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-75"",""city"":""Bari"",""country"":""Italia"",""country_code"":""it"",""county"":""Bari"",""postcode"":""70124"",""road"":""Via Generale Nicola Bellomo"",""state"":""Puglia"",""suburb"":""Municipio 2""},""boundingbox"":[""41.1044395"",""41.1072327"",""16.8499808"",""16.8516665""],""class"":""highway"",""display_name"":""Via Generale Nicola Bellomo, Municipio 2, Bari, Puglia, 70124, Italia"",""importance"":0.82,""lat"":""41.1060389"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.8506718"",""osm_id"":92438525,""osm_type"":""way"",""place_id"":122536893,""type"":""primary""},""mode"":""autocomplete""},""description"":""La Caritas Diocesana di Bari \u2013 Bitonto insieme ai frati cappuccini del convento di Santa Fara organizzano un corso di italiano gratuito per profughi ucraini .\nIl corso si terr\u00e0 ONLINE e IN PRESENZA marted\u00ec e gioved\u00ec dalle 17:00 alle 18:30 e il sabato dalle 9:30 alle 11:00 presso il CONVENTO SANTA FARA \u2013 Via Generale Bellomo, 94 (capienza massima 20 persone).\nPer partecipare e chiedere informazioni contattare la Caritas Diocesana al numero + 39 3775919791 tramite Whatsapp o Telegram o tramite mail: cda@caritasbaribitonto"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Caritas Bari"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Caritas Bari organizza corso gratuito di italiano per rifugiati ucraini (online e in presenza)"",""url"":""https://www.caritasbaribitonto.it/public/home/2022/04/corso-di-italiano-gratuito-per-profughi-ucraini/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Caritas Bari
+title: Caritas Bari organizza corso gratuito di italiano per rifugiati ucraini (online
+  e in presenza)
+recipients: ''
+description: 'La Caritas Diocesana di Bari – Bitonto insieme ai frati cappuccini del
+  convento di Santa Fara organizzano un corso di italiano gratuito per profughi ucraini
+  .
+
+  Il corso si terrà ONLINE e IN PRESENZA martedì e giovedì dalle 17:00 alle 18:30
+  e il sabato dalle 9:30 alle 11:00 presso il CONVENTO SANTA FARA – Via Generale Bellomo,
+  94 (capienza massima 20 persone).
+
+  Per partecipare e chiedere informazioni contattare la Caritas Diocesana al numero
+  + 39 3775919791 tramite Whatsapp o Telegram o tramite mail: cda@caritasbaribitonto'
+url: https://www.caritasbaribitonto.it/public/home/2022/04/corso-di-italiano-gratuito-per-profughi-ucraini/
+address:
+  mode: autocomplete
+  address:
+    place_id: 122536893
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 92438525
+    boundingbox:
+    - '41.1044395'
+    - '41.1072327'
+    - '16.8499808'
+    - '16.8516665'
+    lat: '41.1060389'
+    lon: '16.8506718'
+    display_name: Via Generale Nicola Bellomo, Municipio 2, Bari, Puglia, 70124, Italia
+    class: highway
+    type: primary
+    importance: 0.82
+    address:
+      road: Via Generale Nicola Bellomo
+      suburb: Municipio 2
+      city: Bari
+      county: Bari
+      state: Puglia
+      ISO3166-2-lvl4: IT-75
+      postcode: '70124'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/695,1213308042,2022-04-23 16:04:31,2022-04-23 14:09:42,"Bologna, online la mappa dei corsi di italiano per stranieri organizzati da enti e associazioni",,,,,"[""Valid/Accettato"",""Services"",""Resources"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""house_number"":""13"",""postcode"":""40126"",""road"":""Via Zamboni"",""state"":""Emilia-Romagna"",""suburb"":""Irnerio""},""boundingbox"":[""44.4952501"",""44.4953501"",""11.3483601"",""11.3484601""],""class"":""place"",""display_name"":""13, Via Zamboni, Irnerio, Santo Stefano, Bologna, Emilia-Romagna, 40126, Italia"",""importance"":0.5309999999999999,""lat"":""44.4953001"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.3484101"",""osm_id"":1704245426,""osm_type"":""node"",""place_id"":15529652,""type"":""house""},""mode"":""autocomplete""},""description"":""Sul sito della Citt\u00e0 metropolitana di Bologna \u00e8 disponibile la mappa dei corsi di italiano per stranieri organizzati dalle associazioni del territorio. \u00c8 inoltre disponibile l\u2019elenco dei Cpia-Centri Per l'istruzione degli Adulti al link https://www.cittametropolitana.bo.it/immigrazione/Lingua_italiana/CPIA"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Citt\u00e0 metropolitana di Bologna"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Bologna, online la mappa dei corsi di italiano per stranieri organizzati da enti e associazioni"",""url"":""https://italiano.cittametropolitana.bo.it/%3Bjsessionid=00383AF8F240C9651BDDB2E75EA87939?0""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -6449,58 +6510,6 @@ address:
       county: Roma Capitale
       state: Lazio
       postcode: '00100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: useful contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/552,1198546733,2022-04-14 05:10:07,2022-04-09 11:44:26,Consolato Ucraina a Milano - Contatti ,,,,,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""borough"":""Municipio 8 di Milano"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""11"",""office"":""Consolato Generale dell'Ucraina"",""postcode"":""20156"",""quarter"":""Villapizzone"",""road"":""Via Ludovico di Breme"",""state"":""Lombardia""},""boundingbox"":[""45.4966553"",""45.4967553"",""9.1390852"",""9.1391852""],""class"":""office"",""display_name"":""Consolato Generale dell'Ucraina, 11, Via Ludovico di Breme, Villapizzone, Municipio 8 di Milano, Milano, Lombardia, 20156, Italia"",""importance"":0.611,""lat"":""45.4967053"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1391352"",""osm_id"":693845180,""osm_type"":""node"",""place_id"":5652117,""type"":""diplomatic""},""mode"":""autocomplete""},""aim"":""Servizi: Visto Schengen Visto Turistico Schengen Visto Affari Schengen Visto Visite Private Schengen Visto Lavoro Schengen Visto Studio Schengen\nAltra email: milanoconsolato1@gmail.com Tel. emegenza: +39 348 7254038 Tel. Volontari: +393516149179, +393519303843 Facebook https://www.facebook.com/milan.mfa.gov.ua/"",""email"":""gc_itm@mfa.gov.ua"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 02 801333, 02 86995789, 02 86998814"",""submit"":true,""title"":""Consolato Ucraino a Milano - Contatti utili"",""url"":""https://www.ambasciata.net/Consolato/17017/Ucraina-a-Milano""}","<pre><yamldata>
-title: Consolato Ucraino a Milano - Contatti utili
-phoneNumber: +39 02 801333, 02 86995789, 02 86998814
-email: gc_itm@mfa.gov.ua
-aim: 'Servizi: Visto Schengen
-Visto Turistico Schengen
-Visto Affari Schengen
-Visto Visite Private Schengen
-Visto Lavoro Schengen
-Visto Studio Schengen
-
-Altra email: milanoconsolato1@gmail.com
-Tel. emegenza: +39 348 7254038
-Tel. Volontari: +393516149179, +393519303843
-Facebook https://www.facebook.com/milan.mfa.gov.ua/'
-url: 'https://www.ambasciata.net/Consolato/17017/Ucraina-a-Milano'
-address:
-  mode: autocomplete
-  address:
-    place_id: 5652117
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 693845180
-    boundingbox:
-    - '45.4966553'
-    - '45.4967553'
-    - '9.1390852'
-    - '9.1391852'
-    lat: '45.4967053'
-    lon: '9.1391352'
-    display_name: Consolato Generale dell'Ucraina, 11, Via Ludovico di Breme, Villapizzone,
-      Municipio 8 di Milano, Milano, Lombardia, 20156, Italia
-    class: office
-    type: diplomatic
-    importance: 0.611
-    address:
-      office: Consolato Generale dell'Ucraina
-      house_number: '11'
-      road: Via Ludovico di Breme
-      quarter: Villapizzone
-      borough: Municipio 8 di Milano
-      city: Milano
-      county: Milano
-      ISO3166-2-lvl6: IT-MI
-      state: Lombardia
-      postcode: '20156'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
