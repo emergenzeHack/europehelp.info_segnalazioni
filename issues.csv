@@ -1,4 +1,44 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/709,1213706524,2022-04-24 16:55:18,2022-04-24 16:53:48,Centro Caritas Alessandria offre prime visite e cure ambulatoriali a rifugiati dall’Ucraina,,,,,"[""Valid/Accettato"",""Services"",""healthcare""]",,,"{""address"":{""address"":{""address1"":""Via delle orfanelle "",""address2"":"""",""city"":""Alessandria "",""country"":""Italia"",""state"":"""",""zip"":""""},""mode"":""manual""},""description"":""Si rivolge primariamente a tutte quelle persone, uomini e donne, che seppur presenti sul territorio comunale non hanno accesso al medico di base poich\u00e9 non residenti, senza fissa dimora e stranieri richiedenti o titolari di protezione internazionale o comunque temporaneamente presenti.\nIl principale obiettivo del progetto \u00e8 l\u2019attivit\u00e0 di informazione, prevenzione e cura di primo livello per tutte le persone che non accedono al servizio sanitario nazionale o per soggetti che non sono in grado di utilizzare in modo congruo e appropriato i servizi sanitari."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Caritas Alessandria"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Centro Caritas Alessandria offre prime visite e cure ambulatoriali a rifugiati"",""url"":""http://caritas.diocesialessandria.it/servizi-caritas/ambulatorio-nessuno-escluso/?fbclid=IwAR3MRH8AF3tRDF07nxTkIR_HBEQ9peY98aa7rpzDU-MISSUTw651iEiDAjs""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: true
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Caritas Alessandria
+title: Centro Caritas Alessandria offre prime visite e cure ambulatoriali a rifugiati
+recipients: ''
+description: 'Si rivolge primariamente a tutte quelle persone, uomini e donne, che
+  seppur presenti sul territorio comunale non hanno accesso al medico di base poiché
+  non residenti, senza fissa dimora e stranieri richiedenti o titolari di protezione
+  internazionale o comunque temporaneamente presenti.
+
+  Il principale obiettivo del progetto è l’attività di informazione, prevenzione e
+  cura di primo livello per tutte le persone che non accedono al servizio sanitario
+  nazionale o per soggetti che non sono in grado di utilizzare in modo congruo e appropriato
+  i servizi sanitari.'
+url: http://caritas.diocesialessandria.it/servizi-caritas/ambulatorio-nessuno-escluso/?fbclid=IwAR3MRH8AF3tRDF07nxTkIR_HBEQ9peY98aa7rpzDU-MISSUTw651iEiDAjs
+address:
+  mode: manual
+  address:
+    address1: 'Via delle orfanelle '
+    address2: ''
+    city: 'Alessandria '
+    state: ''
+    country: Italia
+    zip: ''
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/685,1212494672,2022-04-24 16:39:40,2022-04-22 15:21:58,"Piemonte per l’Ucraina, Regione Piemonte attiva help line per rifugiati ucraini e pagina web con info utili",,,,,"[""Valid/Accettato"",""Services"",""fundraising"",""useful contact"",""hospitality"",""healthcare"",""telegram-channel"",""tweet"",""Resources"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""house_number"":""165"",""postcode"":""10122"",""road"":""Piazza Castello"",""state"":""Piemonte"",""suburb"":""Centro""},""boundingbox"":[""45.0716229"",""45.0717229"",""7.6846521"",""7.6847521""],""class"":""place"",""display_name"":""165, Piazza Castello, Centro, Circoscrizione 1, Torino, Piemonte, 10122, Italia"",""importance"":0.42099999999999993,""lat"":""45.0716729"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6847021"",""osm_id"":4736084002,""osm_type"":""node"",""place_id"":54298343,""type"":""house""},""mode"":""autocomplete""},""aim"":""Da marted\u00ec 22 marzo \u00e8 attivo il numero del Call Center regionale dedicato alle informazioni per i rifugiati ucraini in Piemonte, realizzato grazie alla collaborazione tra Protezione Civile, Consolato Onorario di Ucraina a Torino e la Onlus Danish Refugee Council Italia. Il numero \u00e8 011.4326700 ed \u00e8 attivo dal luned\u00ec al sabato, dalle 8.00 alle 20.00: otto operatori di madrelingua ucraina rispondono alle richieste di informazioni e approfondimenti da parte dei profughi e delle famiglie che li accolgono.\nLa Regione Piemonte ha inoltre attivato una pagina web con info e contatti utili su assistenza sanitaria, vaccino Covid19, scuola, accoglienza rifugiati (per chi vuole accogliere), raccolte fondi regionale e altro. \u00c8 disponibile anche una versione in lingua ucraina della pagina. Nella pagina \u00e8 inoltre pubblicato il Piano regionale emergenza Ucraina con ulteriori info e contatti."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 011 4326700"",""submit"":true,""title"":""Piemonte per l\u2019Ucraina, Regione Piemonte attiva help line per rifugiati ucraini e pagina web con info utili"",""url"":""https://www.regione.piemonte.it/web/temi/diritti-politiche-sociali/piemonte-per-lucraina""}","<pre><yamldata>
 title: Piemonte per l’Ucraina, Regione Piemonte attiva help line per rifugiati ucraini
   e pagina web con info utili
