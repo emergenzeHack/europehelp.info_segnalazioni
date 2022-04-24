@@ -1,4 +1,55 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/685,1212494672,2022-04-24 16:39:40,2022-04-22 15:21:58,"Piemonte per l’Ucraina, Regione Piemonte attiva help line per rifugiati ucraini e pagina web con info utili",,,,,"[""Valid/Accettato"",""Services"",""fundraising"",""useful contact"",""hospitality"",""healthcare"",""telegram-channel"",""tweet"",""Resources"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""house_number"":""165"",""postcode"":""10122"",""road"":""Piazza Castello"",""state"":""Piemonte"",""suburb"":""Centro""},""boundingbox"":[""45.0716229"",""45.0717229"",""7.6846521"",""7.6847521""],""class"":""place"",""display_name"":""165, Piazza Castello, Centro, Circoscrizione 1, Torino, Piemonte, 10122, Italia"",""importance"":0.42099999999999993,""lat"":""45.0716729"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6847021"",""osm_id"":4736084002,""osm_type"":""node"",""place_id"":54298343,""type"":""house""},""mode"":""autocomplete""},""aim"":""Da marted\u00ec 22 marzo \u00e8 attivo il numero del Call Center regionale dedicato alle informazioni per i rifugiati ucraini in Piemonte, realizzato grazie alla collaborazione tra Protezione Civile, Consolato Onorario di Ucraina a Torino e la Onlus Danish Refugee Council Italia. Il numero \u00e8 011.4326700 ed \u00e8 attivo dal luned\u00ec al sabato, dalle 8.00 alle 20.00: otto operatori di madrelingua ucraina rispondono alle richieste di informazioni e approfondimenti da parte dei profughi e delle famiglie che li accolgono.\nLa Regione Piemonte ha inoltre attivato una pagina web con info e contatti utili su assistenza sanitaria, vaccino Covid19, scuola, accoglienza rifugiati (per chi vuole accogliere), raccolte fondi regionale e altro. \u00c8 disponibile anche una versione in lingua ucraina della pagina. Nella pagina \u00e8 inoltre pubblicato il Piano regionale emergenza Ucraina con ulteriori info e contatti."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 011 4326700"",""submit"":true,""title"":""Piemonte per l\u2019Ucraina, Regione Piemonte attiva help line per rifugiati ucraini e pagina web con info utili"",""url"":""https://www.regione.piemonte.it/web/temi/diritti-politiche-sociali/piemonte-per-lucraina""}","<pre><yamldata>
+title: Piemonte per l’Ucraina, Regione Piemonte attiva help line per rifugiati ucraini
+  e pagina web con info utili
+phoneNumber: +39 011 4326700
+email: ''
+aim: 'Da martedì 22 marzo è attivo il numero del Call Center regionale dedicato alle
+  informazioni per i rifugiati ucraini in Piemonte, realizzato grazie alla collaborazione
+  tra Protezione Civile, Consolato Onorario di Ucraina a Torino e la Onlus Danish
+  Refugee Council Italia. Il numero è 011.4326700 ed è attivo dal lunedì al sabato,
+  dalle 8.00 alle 20.00: otto operatori di madrelingua ucraina rispondono alle richieste
+  di informazioni e approfondimenti da parte dei profughi e delle famiglie che li
+  accolgono.
+
+  La Regione Piemonte ha inoltre attivato una pagina web con info e contatti utili
+  su assistenza sanitaria, vaccino Covid19, scuola, accoglienza rifugiati (per chi vuole accogliere), raccolte fondi regionale 
+  e altro. È disponibile anche una versione in lingua ucraina della pagina. Nella pagina è inoltre pubblicato il Piano regionale emergenza Ucraina con ulteriori info e contatti.'
+url: https://www.regione.piemonte.it/web/temi/diritti-politiche-sociali/piemonte-per-lucraina
+address:
+  mode: autocomplete
+  address:
+    place_id: 54298343
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 4736084002
+    boundingbox:
+    - '45.0716229'
+    - '45.0717229'
+    - '7.6846521'
+    - '7.6847521'
+    lat: '45.0716729'
+    lon: '7.6847021'
+    display_name: 165, Piazza Castello, Centro, Circoscrizione 1, Torino, Piemonte,
+      10122, Italia
+    class: place
+    type: house
+    importance: 0.42099999999999993
+    address:
+      house_number: '165'
+      road: Piazza Castello
+      suburb: Centro
+      city: Torino
+      county: Torino
+      state: Piemonte
+      ISO3166-2-lvl4: IT-21
+      postcode: '10122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/696,1213317446,2022-04-24 07:21:33,2022-04-23 14:17:19,"Roma, elenco degli sportelli di supporto legale, sociale, sanitario e di orientamento al lavoro per migranti e rifugiati",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""healthcare"",""translation"",""job"",""women""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00184"",""quarter"":""Monti"",""road"":""Via Liberiana"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.8969079"",""41.8981663"",""12.4968832"",""12.4985035""],""class"":""highway"",""display_name"":""Via Liberiana, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia"",""importance"":0.41000000000000003,""lat"":""41.8975686"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4975987"",""osm_id"":4951429,""osm_type"":""way"",""place_id"":96185393,""type"":""secondary""},""mode"":""autocomplete""},""description"":""Sul sito di Scuole Migranti disponibile l\u2019elenco, con info e contatti, degli sportelli, promossi a Roma da enti e associazioni, che offrono a migranti, rifugiati e cittadini stranieri servizi di supporto legale, sociale, sanitario, orientamento al lavoro e mediazione linguistica."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Scuole Migranti Roma"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":true,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":true},""submit"":true,""title"":""Roma, elenco degli sportelli di supporto legale, sociale, sanitario e di orientamento al lavoro per migranti promossi da enti e associazioni"",""url"":""http://www.scuolemigranti.org/sportelli/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -196,57 +247,6 @@ address:
     address:
       state: Emilia-Romagna
       ISO3166-2-lvl4: IT-45
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: useful contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/685,1212494672,2022-04-24 07:14:13,2022-04-22 15:21:58,"Piemonte per l’Ucraina, Regione Piemonte attiva help line per rifugiati ucraini e pagina web con info utili",,,,,"[""Valid/Accettato"",""Services"",""fundraising"",""useful contact"",""hospitality"",""healthcare"",""telegram-channel"",""tweet"",""Resources"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""house_number"":""165"",""postcode"":""10122"",""road"":""Piazza Castello"",""state"":""Piemonte"",""suburb"":""Centro""},""boundingbox"":[""45.0716229"",""45.0717229"",""7.6846521"",""7.6847521""],""class"":""place"",""display_name"":""165, Piazza Castello, Centro, Circoscrizione 1, Torino, Piemonte, 10122, Italia"",""importance"":0.42099999999999993,""lat"":""45.0716729"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6847021"",""osm_id"":4736084002,""osm_type"":""node"",""place_id"":54298343,""type"":""house""},""mode"":""autocomplete""},""aim"":""Da marted\u00ec 22 marzo \u00e8 attivo il numero del Call Center regionale dedicato alle informazioni per i rifugiati ucraini in Piemonte, realizzato grazie alla collaborazione tra Protezione Civile, Consolato Onorario di Ucraina a Torino e la Onlus Danish Refugee Council Italia. Il numero \u00e8 011.4326700 ed \u00e8 attivo dal luned\u00ec al sabato, dalle 8.00 alle 20.00: otto operatori di madrelingua ucraina rispondono alle richieste di informazioni e approfondimenti da parte dei profughi e delle famiglie che li accolgono.\nLa Regione Piemonte ha inoltre attivato una pagina web con info e contatti utili su assistenza sanitaria, vaccino Covid19, scuola, accoglienza rifugiati (per chi vuole accogliere), raccolte fondi regionale e altro. \u00c8 disponibile anche una versione in lingua ucraina della pagina. Nella pagina \u00e8 inoltre pubblicato il Piqno regionale emergenza Ucraina con ulteriori info e contatti."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 011 4326700"",""submit"":true,""title"":""Piemonte per l\u2019Ucraina, Regione Piemonte attiva help line per rifugiati ucraini e pagina web con info utili"",""url"":""https://www.regione.piemonte.it/web/temi/diritti-politiche-sociali/piemonte-per-lucraina""}","<pre><yamldata>
-title: Piemonte per l’Ucraina, Regione Piemonte attiva help line per rifugiati ucraini
-  e pagina web con info utili
-phoneNumber: +39 011 4326700
-email: ''
-aim: 'Da martedì 22 marzo è attivo il numero del Call Center regionale dedicato alle
-  informazioni per i rifugiati ucraini in Piemonte, realizzato grazie alla collaborazione
-  tra Protezione Civile, Consolato Onorario di Ucraina a Torino e la Onlus Danish
-  Refugee Council Italia. Il numero è 011.4326700 ed è attivo dal lunedì al sabato,
-  dalle 8.00 alle 20.00: otto operatori di madrelingua ucraina rispondono alle richieste
-  di informazioni e approfondimenti da parte dei profughi e delle famiglie che li
-  accolgono.
-
-  La Regione Piemonte ha inoltre attivato una pagina web con info e contatti utili
-  su assistenza sanitaria, vaccino Covid19, scuola, accoglienza rifugiati (per chi vuole accogliere), raccolte fondi regionale 
-  e altro. È disponibile anche una versione in lingua ucraina della pagina. Nella pagina è inoltre pubblicato il Piqno regionale emergenza Ucraina con ulteriori info e contatti.'
-url: https://www.regione.piemonte.it/web/temi/diritti-politiche-sociali/piemonte-per-lucraina
-address:
-  mode: autocomplete
-  address:
-    place_id: 54298343
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 4736084002
-    boundingbox:
-    - '45.0716229'
-    - '45.0717229'
-    - '7.6846521'
-    - '7.6847521'
-    lat: '45.0716729'
-    lon: '7.6847021'
-    display_name: 165, Piazza Castello, Centro, Circoscrizione 1, Torino, Piemonte,
-      10122, Italia
-    class: place
-    type: house
-    importance: 0.42099999999999993
-    address:
-      house_number: '165'
-      road: Piazza Castello
-      suburb: Centro
-      city: Torino
-      county: Torino
-      state: Piemonte
-      ISO3166-2-lvl4: IT-21
-      postcode: '10122'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
