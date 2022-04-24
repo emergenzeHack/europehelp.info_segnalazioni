@@ -1,10 +1,10 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/709,1213706524,2022-04-24 16:55:18,2022-04-24 16:53:48,Centro Caritas Alessandria offre prime visite e cure ambulatoriali a rifugiati dall’Ucraina,,,,,"[""Valid/Accettato"",""Services"",""healthcare""]",,,"{""address"":{""address"":{""address1"":""Via delle orfanelle "",""address2"":"""",""city"":""Alessandria "",""country"":""Italia"",""state"":"""",""zip"":""""},""mode"":""manual""},""description"":""Si rivolge primariamente a tutte quelle persone, uomini e donne, che seppur presenti sul territorio comunale non hanno accesso al medico di base poich\u00e9 non residenti, senza fissa dimora e stranieri richiedenti o titolari di protezione internazionale o comunque temporaneamente presenti.\nIl principale obiettivo del progetto \u00e8 l\u2019attivit\u00e0 di informazione, prevenzione e cura di primo livello per tutte le persone che non accedono al servizio sanitario nazionale o per soggetti che non sono in grado di utilizzare in modo congruo e appropriato i servizi sanitari."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Caritas Alessandria"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Centro Caritas Alessandria offre prime visite e cure ambulatoriali a rifugiati"",""url"":""http://caritas.diocesialessandria.it/servizi-caritas/ambulatorio-nessuno-escluso/?fbclid=IwAR3MRH8AF3tRDF07nxTkIR_HBEQ9peY98aa7rpzDU-MISSUTw651iEiDAjs""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/695,1213308042,2022-04-24 21:19:02,2022-04-23 14:09:42,"Bologna, mappa dei corsi di italiano per stranieri organizzati da enti e associazioni",,,,,"[""Valid/Accettato"",""Services"",""Resources"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""house_number"":""13"",""postcode"":""40126"",""road"":""Via Zamboni"",""state"":""Emilia-Romagna"",""suburb"":""Irnerio""},""boundingbox"":[""44.4952501"",""44.4953501"",""11.3483601"",""11.3484601""],""class"":""place"",""display_name"":""13, Via Zamboni, Irnerio, Santo Stefano, Bologna, Emilia-Romagna, 40126, Italia"",""importance"":0.5309999999999999,""lat"":""44.4953001"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.3484101"",""osm_id"":1704245426,""osm_type"":""node"",""place_id"":15529652,""type"":""house""},""mode"":""autocomplete""},""description"":""Sul sito della Citt\u00e0 metropolitana di Bologna \u00e8 disponibile la mappa dei corsi di italiano per stranieri organizzati dalle associazioni del territorio. \u00c8 inoltre disponibile l\u2019elenco dei Cpia-Centri Per l'istruzione degli Adulti al link https://www.cittametropolitana.bo.it/immigrazione/Lingua_italiana/CPIA"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Citt\u00e0 metropolitana di Bologna"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Bologna, online la mappa dei corsi di italiano per stranieri organizzati da enti e associazioni"",""url"":""https://italiano.cittametropolitana.bo.it/%3Bjsessionid=00383AF8F240C9651BDDB2E75EA87939?0""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
   hospitality: false
   transport: false
-  healthcare: true
+  healthcare: false
   Legal: false
   translation: false
   job: false
@@ -12,85 +12,51 @@ servicetypes:
   Children: false
   disability: false
   women: false
-  education: false
-offerFromWho: Caritas Alessandria
-title: Centro Caritas Alessandria offre prime visite e cure ambulatoriali a rifugiati
+  education: true
+offerFromWho: Città metropolitana di Bologna
+title: Bologna, online la mappa dei corsi di italiano per stranieri organizzati da
+  enti e associazioni
 recipients: ''
-description: 'Si rivolge primariamente a tutte quelle persone, uomini e donne, che
-  seppur presenti sul territorio comunale non hanno accesso al medico di base poiché
-  non residenti, senza fissa dimora e stranieri richiedenti o titolari di protezione
-  internazionale o comunque temporaneamente presenti.
-
-  Il principale obiettivo del progetto è l’attività di informazione, prevenzione e
-  cura di primo livello per tutte le persone che non accedono al servizio sanitario
-  nazionale o per soggetti che non sono in grado di utilizzare in modo congruo e appropriato
-  i servizi sanitari.'
-url: http://caritas.diocesialessandria.it/servizi-caritas/ambulatorio-nessuno-escluso/?fbclid=IwAR3MRH8AF3tRDF07nxTkIR_HBEQ9peY98aa7rpzDU-MISSUTw651iEiDAjs
+description: Sul sito della Città metropolitana di Bologna è disponibile la mappa
+  dei corsi di italiano per stranieri organizzati dalle associazioni del territorio.
+  È inoltre disponibile l’elenco dei Cpia-Centri Per l'istruzione degli Adulti al
+  link https://www.cittametropolitana.bo.it/immigrazione/Lingua_italiana/CPIA
+url: https://italiano.cittametropolitana.bo.it/%3Bjsessionid=00383AF8F240C9651BDDB2E75EA87939?0
 address:
-  mode: manual
+  mode: autocomplete
   address:
-    address1: 'Via delle orfanelle '
-    address2: ''
-    city: 'Alessandria '
-    state: ''
-    country: Italia
-    zip: ''
+    place_id: 15529652
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 1704245426
+    boundingbox:
+    - '44.4952501'
+    - '44.4953501'
+    - '11.3483601'
+    - '11.3484601'
+    lat: '44.4953001'
+    lon: '11.3484101'
+    display_name: 13, Via Zamboni, Irnerio, Santo Stefano, Bologna, Emilia-Romagna,
+      40126, Italia
+    class: place
+    type: house
+    importance: 0.5309999999999999
+    address:
+      house_number: '13'
+      road: Via Zamboni
+      suburb: Irnerio
+      city: Bologna
+      county: Bologna
+      state: Emilia-Romagna
+      ISO3166-2-lvl4: IT-45
+      postcode: '40126'
+      country: Italia
+      country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/685,1212494672,2022-04-24 16:39:40,2022-04-22 15:21:58,"Piemonte per l’Ucraina, Regione Piemonte attiva help line per rifugiati ucraini e pagina web con info utili",,,,,"[""Valid/Accettato"",""Services"",""fundraising"",""useful contact"",""hospitality"",""healthcare"",""telegram-channel"",""tweet"",""Resources"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""house_number"":""165"",""postcode"":""10122"",""road"":""Piazza Castello"",""state"":""Piemonte"",""suburb"":""Centro""},""boundingbox"":[""45.0716229"",""45.0717229"",""7.6846521"",""7.6847521""],""class"":""place"",""display_name"":""165, Piazza Castello, Centro, Circoscrizione 1, Torino, Piemonte, 10122, Italia"",""importance"":0.42099999999999993,""lat"":""45.0716729"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6847021"",""osm_id"":4736084002,""osm_type"":""node"",""place_id"":54298343,""type"":""house""},""mode"":""autocomplete""},""aim"":""Da marted\u00ec 22 marzo \u00e8 attivo il numero del Call Center regionale dedicato alle informazioni per i rifugiati ucraini in Piemonte, realizzato grazie alla collaborazione tra Protezione Civile, Consolato Onorario di Ucraina a Torino e la Onlus Danish Refugee Council Italia. Il numero \u00e8 011.4326700 ed \u00e8 attivo dal luned\u00ec al sabato, dalle 8.00 alle 20.00: otto operatori di madrelingua ucraina rispondono alle richieste di informazioni e approfondimenti da parte dei profughi e delle famiglie che li accolgono.\nLa Regione Piemonte ha inoltre attivato una pagina web con info e contatti utili su assistenza sanitaria, vaccino Covid19, scuola, accoglienza rifugiati (per chi vuole accogliere), raccolte fondi regionale e altro. \u00c8 disponibile anche una versione in lingua ucraina della pagina. Nella pagina \u00e8 inoltre pubblicato il Piano regionale emergenza Ucraina con ulteriori info e contatti."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 011 4326700"",""submit"":true,""title"":""Piemonte per l\u2019Ucraina, Regione Piemonte attiva help line per rifugiati ucraini e pagina web con info utili"",""url"":""https://www.regione.piemonte.it/web/temi/diritti-politiche-sociali/piemonte-per-lucraina""}","<pre><yamldata>
-title: Piemonte per l’Ucraina, Regione Piemonte attiva help line per rifugiati ucraini
-  e pagina web con info utili
-phoneNumber: +39 011 4326700
-email: ''
-aim: 'Da martedì 22 marzo è attivo il numero del Call Center regionale dedicato alle
-  informazioni per i rifugiati ucraini in Piemonte, realizzato grazie alla collaborazione
-  tra Protezione Civile, Consolato Onorario di Ucraina a Torino e la Onlus Danish
-  Refugee Council Italia. Il numero è 011.4326700 ed è attivo dal lunedì al sabato,
-  dalle 8.00 alle 20.00: otto operatori di madrelingua ucraina rispondono alle richieste
-  di informazioni e approfondimenti da parte dei profughi e delle famiglie che li
-  accolgono.
-
-  La Regione Piemonte ha inoltre attivato una pagina web con info e contatti utili
-  su assistenza sanitaria, vaccino Covid19, scuola, accoglienza rifugiati (per chi vuole accogliere), raccolte fondi regionale 
-  e altro. È disponibile anche una versione in lingua ucraina della pagina. Nella pagina è inoltre pubblicato il Piano regionale emergenza Ucraina con ulteriori info e contatti.'
-url: https://www.regione.piemonte.it/web/temi/diritti-politiche-sociali/piemonte-per-lucraina
-address:
-  mode: autocomplete
-  address:
-    place_id: 54298343
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 4736084002
-    boundingbox:
-    - '45.0716229'
-    - '45.0717229'
-    - '7.6846521'
-    - '7.6847521'
-    lat: '45.0716729'
-    lon: '7.6847021'
-    display_name: 165, Piazza Castello, Centro, Circoscrizione 1, Torino, Piemonte,
-      10122, Italia
-    class: place
-    type: house
-    importance: 0.42099999999999993
-    address:
-      house_number: '165'
-      road: Piazza Castello
-      suburb: Centro
-      city: Torino
-      county: Torino
-      state: Piemonte
-      ISO3166-2-lvl4: IT-21
-      postcode: '10122'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: useful contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/696,1213317446,2022-04-24 07:21:33,2022-04-23 14:17:19,"Roma, elenco degli sportelli di supporto legale, sociale, sanitario e di orientamento al lavoro per migranti e rifugiati",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""healthcare"",""translation"",""job"",""women""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00184"",""quarter"":""Monti"",""road"":""Via Liberiana"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.8969079"",""41.8981663"",""12.4968832"",""12.4985035""],""class"":""highway"",""display_name"":""Via Liberiana, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia"",""importance"":0.41000000000000003,""lat"":""41.8975686"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4975987"",""osm_id"":4951429,""osm_type"":""way"",""place_id"":96185393,""type"":""secondary""},""mode"":""autocomplete""},""description"":""Sul sito di Scuole Migranti disponibile l\u2019elenco, con info e contatti, degli sportelli, promossi a Roma da enti e associazioni, che offrono a migranti, rifugiati e cittadini stranieri servizi di supporto legale, sociale, sanitario, orientamento al lavoro e mediazione linguistica."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Scuole Migranti Roma"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":true,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":true},""submit"":true,""title"":""Roma, elenco degli sportelli di supporto legale, sociale, sanitario e di orientamento al lavoro per migranti promossi da enti e associazioni"",""url"":""http://www.scuolemigranti.org/sportelli/""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/696,1213317446,2022-04-24 21:18:44,2022-04-23 14:17:19,"Roma, elenco degli sportelli di supporto legale, sociale, sanitario e di orientamento al lavoro per migranti e rifugiati",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""healthcare"",""translation"",""job"",""women"",""Resources""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00184"",""quarter"":""Monti"",""road"":""Via Liberiana"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.8969079"",""41.8981663"",""12.4968832"",""12.4985035""],""class"":""highway"",""display_name"":""Via Liberiana, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia"",""importance"":0.41000000000000003,""lat"":""41.8975686"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4975987"",""osm_id"":4951429,""osm_type"":""way"",""place_id"":96185393,""type"":""secondary""},""mode"":""autocomplete""},""description"":""Sul sito di Scuole Migranti disponibile l\u2019elenco, con info e contatti, degli sportelli, promossi a Roma da enti e associazioni, che offrono a migranti, rifugiati e cittadini stranieri servizi di supporto legale, sociale, sanitario, orientamento al lavoro e mediazione linguistica."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Scuole Migranti Roma"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":true,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":true},""submit"":true,""title"":""Roma, elenco degli sportelli di supporto legale, sociale, sanitario e di orientamento al lavoro per migranti promossi da enti e associazioni"",""url"":""http://www.scuolemigranti.org/sportelli/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
   hospitality: false
@@ -143,6 +109,550 @@ address:
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/697,1213327994,2022-04-24 21:18:21,2022-04-23 14:23:04,Mappa delle scuole di italiano per stranieri (adulti e bambini) a Roma e nel Lazio,,,,,"[""Valid/Accettato"",""Services"",""Children"",""Resources"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00184"",""quarter"":""Monti"",""road"":""Via Liberiana"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.8969079"",""41.8981663"",""12.4968832"",""12.4985035""],""class"":""highway"",""display_name"":""Via Liberiana, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia"",""importance"":0.41000000000000003,""lat"":""41.8975686"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4975987"",""osm_id"":4951429,""osm_type"":""way"",""place_id"":96185393,""type"":""secondary""},""mode"":""autocomplete""},""description"":""Sul sito di Scuole Migranti elenco e mappa delle scuole di italiano per stranieri (adulti e bambini) a Roma e nel Lazio con info e contatti."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Scuole Migranti Roma"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Mappa delle scuole di italiano per stranieri (adulti e bambini) a Roma e nel Lazio"",""url"":""http://www.scuolemigranti.org/emergenza-ucraina/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: true
+offerFromWho: Scuole Migranti Roma
+title: Mappa delle scuole di italiano per stranieri (adulti e bambini) a Roma e nel
+  Lazio
+recipients: ''
+description: Sul sito di Scuole Migranti elenco e mappa delle scuole di italiano per
+  stranieri (adulti e bambini) a Roma e nel Lazio con info e contatti.
+url: http://www.scuolemigranti.org/emergenza-ucraina/
+address:
+  mode: autocomplete
+  address:
+    place_id: 96185393
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 4951429
+    boundingbox:
+    - '41.8969079'
+    - '41.8981663'
+    - '12.4968832'
+    - '12.4985035'
+    lat: '41.8975686'
+    lon: '12.4975987'
+    display_name: Via Liberiana, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio,
+      00184, Italia
+    class: highway
+    type: secondary
+    importance: 0.41000000000000003
+    address:
+      road: Via Liberiana
+      quarter: Monti
+      suburb: Municipio Roma I
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: 00184
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/714,1213722188,2022-04-24 21:17:48,2022-04-24 17:54:15,"Università di Pisa, specific financial and academic actions supporting Ukrainian students",,,,,"[""Valid/Accettato"",""Services"",""hospitality"",""Resources"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""ISO3166-2-lvl6"":""IT-PI"",""amenity"":""Universit\u00e0 di Pisa - Rettorato"",""city"":""Pisa"",""country"":""Italia"",""country_code"":""it"",""county"":""Pisa"",""house_number"":""43"",""neighbourhood"":""Santa Maria"",""postcode"":""56126"",""road"":""Lungarno Antonio Pacinotti"",""state"":""Toscana"",""suburb"":""San Francesco""},""boundingbox"":[""43.7166043"",""43.7167043"",""10.3987515"",""10.3988515""],""class"":""amenity"",""display_name"":""Universit\u00e0 di Pisa - Rettorato, 43, Lungarno Antonio Pacinotti, Santa Maria, San Francesco, Pisa, Toscana, 56126, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//education_university.p.20.png"",""importance"":0.5309999999999999,""lat"":""43.7166543"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.3988015"",""osm_id"":3483952525,""osm_type"":""node"",""place_id"":42749137,""type"":""university""},""mode"":""autocomplete""},""description"":""Specific financial and academic actions supporting Ukrainian students who have been forced to flee from their country and who want to continue their studies at the University of Pisa:\n    Free accommodation at DSU-University dorms (in accordance with the number of available places and with priority given to refugee students) and free meals at University canteen until 31.12.2022.\n    If you want to apply please visit DSU website and send an email to ucraina@dsu.toscana.it.\n    Free Italian language classes at UNIPI Language Center\n    Free enrolment in single courses at UNIPI for the current semester\n\nStudents enrolled in a Ukrainian university who had to flee the Ukraine and don\u2019t want to stop their studies have the possibility of studying at the University of Pisa by enrolling in single courses during the current semester.\nAdmission is free and temporary.\nThe achievements could be carried out later in case of a successful application for admission to a degree programme. However, this is an exceptional procedure that in the case of a degree course with limited access will currently not guarantee direct access or enrolment in the degree course.\nPlease be aware of the fact that the most of our courses are taught in Italian.\nFor academic support send an email to emergenzaucraina@unipi.it \n\nN.37 Flat-rate study grants (\u20ac 1500 each)\nRequirements:\n\n     enrolment at an Ukrainian university\n     enrolment at the University of Pisa in single courses or degree programmes\n     Non-Italian residence\n\nIf you want to apply write to emergenzaucraina@unipi.it specifying the possession of the requirements and attaching a copy of your identity document.\nStudents who started their studies in Ukraine and want to complete their programme and graduate at the University of Pisa\nIf you want to continue studying at the University of Pisa in the academic year 2022/23, you have to apply for admission to the degree programme of your choice in due time."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Universit\u00e0 di Pisa"",""recipients"":""Ukrainian students"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Universit\u00e0 di Pisa, Specific financial and academic actions supporting Ukrainian students"",""url"":""https://www.unipi.it/index.php/international-office/item/23357-info-for-ukrainian-refugee-students""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Università di Pisa
+title: Università di Pisa, Specific financial and academic actions supporting Ukrainian
+  students
+recipients: Ukrainian students
+description: ""Specific financial and academic actions supporting Ukrainian students\
+  \ who have been forced to flee from their country and who want to continue their\
+  \ studies at the University of Pisa:\n    Free accommodation at DSU-University dorms\
+  \ (in accordance with the number of available places and with priority given to\
+  \ refugee students) and free meals at University canteen until 31.12.2022.\n   \
+  \ If you want to apply please visit DSU website and send an email to ucraina@dsu.toscana.it.\n\
+  \    Free Italian language classes at UNIPI Language Center\n    Free enrolment\
+  \ in single courses at UNIPI for the current semester\n\nStudents enrolled in a\
+  \ Ukrainian university who had to flee the Ukraine and don’t want to stop their\
+  \ studies have the possibility of studying at the University of Pisa by enrolling\
+  \ in single courses during the current semester.\nAdmission is free and temporary.\n\
+  The achievements could be carried out later in case of a successful application\
+  \ for admission to a degree programme. However, this is an exceptional procedure\
+  \ that in the case of a degree course with limited access will currently not guarantee\
+  \ direct access or enrolment in the degree course.\nPlease be aware of the fact\
+  \ that the most of our courses are taught in Italian.\nFor academic support send\
+  \ an email to emergenzaucraina@unipi.it \n\nN.37 Flat-rate study grants (€ 1500\
+  \ each)\nRequirements:\n\n     enrolment at an Ukrainian university\n     enrolment\
+  \ at the University of Pisa in single courses or degree programmes\n     Non-Italian\
+  \ residence\n\nIf you want to apply write to emergenzaucraina@unipi.it specifying\
+  \ the possession of the requirements and attaching a copy of your identity document.\n\
+  Students who started their studies in Ukraine and want to complete their programme\
+  \ and graduate at the University of Pisa\nIf you want to continue studying at the\
+  \ University of Pisa in the academic year 2022/23, you have to apply for admission\
+  \ to the degree programme of your choice in due time.""
+url: https://www.unipi.it/index.php/international-office/item/23357-info-for-ukrainian-refugee-students
+address:
+  mode: autocomplete
+  address:
+    place_id: 42749137
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 3483952525
+    boundingbox:
+    - '43.7166043'
+    - '43.7167043'
+    - '10.3987515'
+    - '10.3988515'
+    lat: '43.7166543'
+    lon: '10.3988015'
+    display_name: Università di Pisa - Rettorato, 43, Lungarno Antonio Pacinotti,
+      Santa Maria, San Francesco, Pisa, Toscana, 56126, Italia
+    class: amenity
+    type: university
+    importance: 0.5309999999999999
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//education_university.p.20.png
+    address:
+      amenity: Università di Pisa - Rettorato
+      house_number: '43'
+      road: Lungarno Antonio Pacinotti
+      neighbourhood: Santa Maria
+      suburb: San Francesco
+      city: Pisa
+      county: Pisa
+      ISO3166-2-lvl6: IT-PI
+      state: Toscana
+      ISO3166-2-lvl4: IT-52
+      postcode: '56126'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/691,1213300570,2022-04-24 21:17:30,2022-04-23 13:32:14,"Torino, elenco dei corsi gratuiti di italiano organizzati in città",,,,,"[""Valid/Accettato"",""Services"",""Resources"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""house_number"":""1/F"",""postcode"":""10135"",""road"":""Via Fratel Teodoreto"",""state"":""Piemonte"",""suburb"":""Lingotto""},""boundingbox"":[""45.020073"",""45.020173"",""7.6441524"",""7.6442524""],""class"":""place"",""display_name"":""1/F, Via Fratel Teodoreto, Lingotto, Circoscrizione 8, Torino, Piemonte, 10135, Italia"",""importance"":0.621,""lat"":""45.020123"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6442024"",""osm_id"":4734971332,""osm_type"":""node"",""place_id"":53004982,""type"":""house""},""mode"":""autocomplete""},""aim"":""Sul sito di Wara - Associazione Italo-Brasiliana \u00e8 disponibile l\u2019elenco di tutti i corsi gratuiti di italiano organizzati a Torino con info, contatti e orari."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Torino, elenco di tutti i corsi gratuiti di italiano organizzati in citt\u00e0"",""url"":""http://www.wara.it/informazioni-utili/corsi-italiano-stranieri/""}","<pre><yamldata>
+title: Torino, elenco di tutti i corsi gratuiti di italiano organizzati in città
+phoneNumber: ''
+email: ''
+aim: Sul sito di Wara - Associazione Italo-Brasiliana è disponibile l’elenco di tutti
+  i corsi gratuiti di italiano organizzati a Torino con info, contatti e orari.
+url: http://www.wara.it/informazioni-utili/corsi-italiano-stranieri/
+address:
+  mode: autocomplete
+  address:
+    place_id: 53004982
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 4734971332
+    boundingbox:
+    - '45.020073'
+    - '45.020173'
+    - '7.6441524'
+    - '7.6442524'
+    lat: '45.020123'
+    lon: '7.6442024'
+    display_name: 1/F, Via Fratel Teodoreto, Lingotto, Circoscrizione 8, Torino, Piemonte,
+      10135, Italia
+    class: place
+    type: house
+    importance: 0.621
+    address:
+      house_number: 1/F
+      road: Via Fratel Teodoreto
+      suburb: Lingotto
+      city: Torino
+      county: Torino
+      state: Piemonte
+      ISO3166-2-lvl4: IT-21
+      postcode: '10135'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/715,1213724738,2022-04-24 21:16:34,2022-04-24 18:04:23,"Ministero dell'Università e della Ricerca, elenco delle Università italiane che offrono contributi e sostegno agli studenti ucraini",,,,,"[""Valid/Accettato"",""Services"",""hospitality"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00100"",""road"":""Largo Antonio Ruberti"",""state"":""Lazio"",""suburb"":""Gianicolense""},""boundingbox"":[""41.8829383"",""41.8830354"",""12.4702284"",""12.4705562""],""class"":""highway"",""display_name"":""Largo Antonio Ruberti, Gianicolense, Roma, Roma Capitale, Lazio, 00100, Italia"",""importance"":0.6,""lat"":""41.8830105"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4704078"",""osm_id"":902218615,""osm_type"":""way"",""place_id"":270654055,""type"":""residential""},""mode"":""autocomplete""},""description"":""Sul sito del Ministero dell'Universit\u00e0 e della Ricerca informazioni utili sulle universit\u00e0 italiane che offrono borse di studio, alloggio, contributi e altre forme di sostegno agli studenti universitari in fuga dall'Ucraina.\n\nDi seguito l'elenco delle Universit\u00e0 disponibili (al link le info per ogni ateneo):\n    Universit\u00e0 degli Studi di Milano\n    Universit\u00e0 degli Studi della Tuscia (UNITUS)\n    Universit\u00e0 IUAV di Venezia\n    Politecnico di Milano\n    Universit\u00e0 del Salento\n    Universit\u00e0 Campus Bio-Medico di Roma\n    Universit\u00e0 degli Studi di Pisa\n    Universit\u00e0 degli Studi di Parma\n    Universit\u00e0 degli Studi di Verona\n    Universit\u00e0 degli studi di Macerata\n    Universit\u00e0 degli studi di Trento\n    Universit\u00e0 degli Studi del Molise (UNIMOL)\n    Universit\u00e0 degli Studi di Modena e Reggio Emilia\n    Universit\u00e0 di Torino\n    Universit\u00e0 di Brescia\n    Libera Universit\u00e0 Internazionale degli Studi Sociali Guido Carli - LUISS\n    Universit\u00e0 degli Studi di Cagliari\n    Universit\u00e0 Alma Mater di Bologna\n    Universit\u00e0 degli Studi di Padova"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Universit\u00e0 italiane"",""recipients"":""Studenti ucraini"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Ministero dell'Universit\u00e0 e della Ricerca, online elenco delle Universit\u00e0 italiane che offrono contributi e altre forme di supporto agli studenti in fuga dall'Ucraina"",""url"":""https://www.mur.gov.it/it/emergenza-ucraina/iniziative""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Università italiane
+title: Ministero dell'Università e della Ricerca, online elenco delle Università italiane
+  che offrono contributi e altre forme di supporto agli studenti in fuga dall'Ucraina
+recipients: Studenti ucraini
+description: ""Sul sito del Ministero dell'Università e della Ricerca informazioni\
+  \ utili sulle università italiane che offrono borse di studio, alloggio, contributi\
+  \ e altre forme di sostegno agli studenti universitari in fuga dall'Ucraina.\n\n\
+  Di seguito l'elenco delle Università disponibili (al link le info per ogni ateneo):\n\
+  \    Università degli Studi di Milano\n    Università degli Studi della Tuscia (UNITUS)\n\
+  \    Università IUAV di Venezia\n    Politecnico di Milano\n    Università del Salento\n\
+  \    Università Campus Bio-Medico di Roma\n    Università degli Studi di Pisa\n\
+  \    Università degli Studi di Parma\n    Università degli Studi di Verona\n   \
+  \ Università degli studi di Macerata\n    Università degli studi di Trento\n   \
+  \ Università degli Studi del Molise (UNIMOL)\n    Università degli Studi di Modena\
+  \ e Reggio Emilia\n    Università di Torino\n    Università di Brescia\n    Libera\
+  \ Università Internazionale degli Studi Sociali Guido Carli - LUISS\n    Università\
+  \ degli Studi di Cagliari\n    Università Alma Mater di Bologna\n    Università\
+  \ degli Studi di Padova""
+url: https://www.mur.gov.it/it/emergenza-ucraina/iniziative
+address:
+  mode: autocomplete
+  address:
+    place_id: 270654055
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 902218615
+    boundingbox:
+    - '41.8829383'
+    - '41.8830354'
+    - '12.4702284'
+    - '12.4705562'
+    lat: '41.8830105'
+    lon: '12.4704078'
+    display_name: Largo Antonio Ruberti, Gianicolense, Roma, Roma Capitale, Lazio,
+      00100, Italia
+    class: highway
+    type: residential
+    importance: 0.6
+    address:
+      road: Largo Antonio Ruberti
+      suburb: Gianicolense
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: '00100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/709,1213706524,2022-04-24 21:14:05,2022-04-24 16:53:48,Ad Alessandria ambulatorio Caritas e Nessuno Escluso offre prime visite e cure ambulatoriali a rifugiati e migranti,,,,,"[""Valid/Accettato"",""Services"",""healthcare""]",,,"{""address"":{""address"":{""address1"":""Via delle orfanelle "",""address2"":"""",""city"":""Alessandria "",""country"":""Italia"",""state"":"""",""zip"":""""},""mode"":""manual""},""description"":""il servizio offre prestazioni gratuite di Medicina generale e specialistica, di Ginecologia e di Odontoiatria e si rivolge primariamente a tutte quelle persone, uomini e donne, che seppur presenti sul territorio comunale non hanno accesso al medico di base poich\u00e9 non residenti, senza fissa dimora e stranieri richiedenti o titolari di protezione internazionale o comunque temporaneamente presenti. Il principale obiettivo del progetto \u00e8 l\u2019attivit\u00e0 di informazione, prevenzione e cura di primo livello per tutte le persone che non accedono al servizio sanitario nazionale o per soggetti che non sono in grado di utilizzare in modo congruo e appropriato i servizi sanitari."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Caritas Alessandria"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Centro Caritas Alessandria offre prime visite e cure ambulatoriali a rifugiati"",""url"":""http://caritas.diocesialessandria.it/servizi-caritas/ambulatorio-nessuno-escluso/?fbclid=IwAR3MRH8AF3tRDF07nxTkIR_HBEQ9peY98aa7rpzDU-MISSUTw651iEiDAjs""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: true
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Caritas Alessandria
+title: Centro Caritas Alessandria offre prime visite e cure ambulatoriali a rifugiati
+recipients: ''
+description: 'il servizio offre prestazioni gratuite di Medicina generale e specialistica,
+  di Ginecologia e di Odontoiatria e si rivolge primariamente a tutte quelle persone, uomini e donne, che
+  seppur presenti sul territorio comunale non hanno accesso al medico di base poiché
+  non residenti, senza fissa dimora e stranieri richiedenti o titolari di protezione
+  internazionale o comunque temporaneamente presenti.
+ Il principale obiettivo del progetto è l’attività di informazione, prevenzione e
+  cura di primo livello per tutte le persone che non accedono al servizio sanitario
+  nazionale o per soggetti che non sono in grado di utilizzare in modo congruo e appropriato
+  i servizi sanitari.'
+url: http://caritas.diocesialessandria.it/servizi-caritas/ambulatorio-nessuno-escluso/?fbclid=IwAR3MRH8AF3tRDF07nxTkIR_HBEQ9peY98aa7rpzDU-MISSUTw651iEiDAjs
+address:
+  mode: manual
+  address:
+    address1: 'Via delle orfanelle '
+    address2: ''
+    city: 'Alessandria '
+    state: ''
+    country: Italia
+    zip: ''
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/712,1213708852,2022-04-24 21:08:12,2022-04-24 17:02:14,Regione Piemonte - Lista hotspot dove i rifugiati ucraini possono effettuare tamponi Covid 19 al momento del loro arrivo,45.0716729,7.6847021,Piemonte,Torino,"[""Valid/Accettato"",""useful contact"",""healthcare""]",,,"{""Posizione"":""45.0716729 7.6847021"",""address"":{""address"":{},""mode"":""autocomplete""},""aim"":""Tutte le persone provenienti dall\u2019Ucraina devono sottoporsi a un tampone antigenico o molecolare entro 48 ore o in ogni caso al pi\u00f9 presto. Per consentirlo la Regione Piemonte ha previsto un accesso diretto con percorsi dedicati negli hotspot del territorio."",""email"":""accoglienza.ucraina@regione.piemonte.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Regione Piemonte - Lista hotspot per tamponi all'ingresso"",""url"":""https://www.regione.piemonte.it/web/sites/default/files/media/documenti/2022-03/hot_spot_tamponi_marzo_4.pdf""}","<pre><yamldata>
+title: Regione Piemonte - Lista hotspot per tamponi all'ingresso
+phoneNumber: ''
+email: accoglienza.ucraina@regione.piemonte.it
+aim: Tutte le persone provenienti dall’Ucraina devono sottoporsi a un tampone antigenico
+  o molecolare entro 48 ore o in ogni caso al più presto. Per consentirlo la Regione
+  Piemonte ha previsto un accesso diretto con percorsi dedicati negli hotspot del
+  territorio.
+url: https://www.regione.piemonte.it/web/sites/default/files/media/documenti/2022-03/hot_spot_tamponi_marzo_4.pdf
+address:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+Posizione: 45.0716729 7.6847021
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/711,1213708300,2022-04-24 21:03:58,2022-04-24 17:00:17,Regione Piemonte - Informazioni importanti per chi ospita rifugiati ucraini ,45.0677551,7.6824892,Piemonte,Torino,"[""Valid/Accettato"",""News"",""hospitality""]",,,"{""Posizione"":""45.0677551 7.6824892"",""description"":""Alle persone o realt\u00e0 associative e private che stanno gi\u00e0 ospitando cittadini ucraini in Piemonte si ricordano le procedure che \u00e8 importante seguire, al fine di avviare le attivit\u00e0 necessarie a fornire il massimo supporto anche nei beni di prima necessit\u00e0 e per l\u2019assistenza sanitaria.\nCOMUNICAZIONE DELLE GENERALIT\u00c0 DEI RIFUGIATI OSPITATI \u00c8 necessario comunicare le generalit\u00e0 dei cittadini ucraini ospitati alle autorit\u00e0 locali, recandosi presso una Stazione di Polizia o il proprio Comune. Al fine di monitorare i flussi di profughi provenienti dall\u2019Ucraina \u00e8 anche necessario compilare questo modulo online.\nPROFILASSI SANITARIA ANTI-COVID Tutte le persone provenienti dall\u2019Ucraina devono sottoporsi a un tampone antigenico o molecolare entro 48 ore o in ogni caso al pi\u00f9 presto. Per consentirlo la Regione Piemonte ha previsto un accesso diretto con percorsi dedicati negli hotspot del territorio (a questo link trovate l\u2019elenco). Nei cinque giorni successivi al tampone \u00e8 necessario rispettare l'auto-sorveglianza e indossare la mascherina FFP2. In caso di comparsa di sintomi va informata l\u2019azienda sanitaria locale (a questo link trovate i contatti).\nVACCINAZIONE I cittadini ucraini non ancora vaccinati possono aderire alla vaccinazione anti-Covid attraverso il portale www.IlPiemontetivaccina.it, dove \u00e8 attiva in primo piano una specifica sezione in lingua ucraina.\nPossono indicare i propri dati sul portale il www.Piemontetivaccina.it per essere contattati e ricevere tutte le informazioni necessarie anche coloro che sono gi\u00e0 vaccinati, ma non sono in possesso della relativa documentazione, oppure coloro che sono vaccinati con un vaccino non autorizzato dall\u2019Agenzia europea per il farmaco (EMA)."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.regione.piemonte.it/web/temi/diritti-politiche-sociali/piemonte-per-lucraina#"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""state"":""Piemonte""},""boundingbox"":[""45.0067924"",""45.1402175"",""7.5778348"",""7.7733388""],""class"":""boundary"",""display_name"":""Torino, Piemonte, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8068062387577691,""lat"":""45.0677551"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6824892"",""osm_id"":43992,""osm_type"":""relation"",""place_id"":284787924,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Regione Piemonte - Informazioni importanti per chi ospita""}","<pre><yamldata>
+title: Regione Piemonte - Informazioni importanti per chi ospita
+description: 'Alle persone o realtà associative e private che stanno già ospitando
+  cittadini ucraini in Piemonte si ricordano le procedure che è importante seguire,
+  al fine di avviare le attività necessarie a fornire il massimo supporto anche nei
+  beni di prima necessità e per l’assistenza sanitaria.
+
+COMUNICAZIONE DELLE GENERALITÀ DEI RIFUGIATI OSPITATI
+È necessario comunicare le generalità dei cittadini ucraini ospitati alle autorità
+  locali, recandosi presso una Stazione di Polizia o il proprio Comune.
+ Al fine di monitorare i flussi di profughi provenienti dall’Ucraina è anche necessario
+  compilare questo modulo online.
+
+PROFILASSI SANITARIA ANTI-COVID
+Tutte le persone provenienti dall’Ucraina devono sottoporsi a un tampone antigenico
+  o molecolare entro 48 ore o in ogni caso al più presto. Per consentirlo la Regione
+  Piemonte ha previsto un accesso diretto con percorsi dedicati negli hotspot del
+  territorio (a questo link trovate l’elenco).
+Nei cinque giorni successivi al tampone è necessario rispettare l''auto-sorveglianza
+  e indossare la mascherina FFP2. In caso di comparsa di sintomi va informata l’azienda
+  sanitaria locale (a questo link trovate i contatti).
+
+VACCINAZIONE
+  I cittadini ucraini non ancora vaccinati possono aderire alla vaccinazione anti-Covid
+  attraverso il portale www.IlPiemontetivaccina.it, dove è attiva in primo piano una
+  specifica sezione in lingua ucraina.
+
+ Possono indicare i propri dati sul portale il www.Piemontetivaccina.it per essere
+  contattati e ricevere tutte le informazioni necessarie anche coloro che sono già
+  vaccinati, ma non sono in possesso della relativa documentazione, oppure coloro
+  che sono vaccinati con un vaccino non autorizzato dall’Agenzia europea per il farmaco
+  (EMA).'
+link: https://www.regione.piemonte.it/web/temi/diritti-politiche-sociali/piemonte-per-lucraina#
+location:
+  mode: autocomplete
+  address:
+    place_id: 284787924
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43992
+    boundingbox:
+    - '45.0067924'
+    - '45.1402175'
+    - '7.5778348'
+    - '7.7733388'
+    lat: '45.0677551'
+    lon: '7.6824892'
+    display_name: Torino, Piemonte, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8068062387577691
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Torino
+      county: Torino
+      state: Piemonte
+      ISO3166-2-lvl4: IT-21
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.0677551 7.6824892
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/710,1213706844,2022-04-24 21:02:07,2022-04-24 16:55:11,Regione Piemonte cerca alloggi per i rifugiati ucraini e avvia ricognizione delle disponibilità di accoglienza presso privati e strutture,45.0677551,7.6824892,Piemonte,Torino,"[""Valid/Accettato"",""News"",""Help"",""hospitality""]",,,"{""Posizione"":""45.0677551 7.6824892"",""description"":""La Regione Piemonte ha avviato una ricognizione delle disponibilit\u00e0 all\u2019accoglienza temporanea dei nuclei famigliari provenienti dell\u2019Ucraina, composti in gran parte da donne (mamme, nonne, e zie) con figli anche minori al seguito, in fuga dalle zone di conflitto. Alla pagina dedicata della Regione \u00e8 possibile compilare dei moduli online per dare disponibilit\u00e0 sia di alloggi privati che presso altre strutture.\n\u00c8 inoltre attiva la mail accoglienza.ucraina@regione.piemonte.it per richieste di informazioni sull\u2019accoglienza di chi sta fuggendo dalla guerra in Ucraina."",""email"":""accoglienza.ucraina@regione.piemonte.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""state"":""Piemonte""},""boundingbox"":[""45.0067924"",""45.1402175"",""7.5778348"",""7.7733388""],""class"":""boundary"",""display_name"":""Torino, Piemonte, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8068062387577691,""lat"":""45.0677551"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6824892"",""osm_id"":43992,""osm_type"":""relation"",""place_id"":284787924,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Regione Piemonte avvia una ricognizione delle disponibilit\u00e0 di accoglienza"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""disponibilit\u00e0 alloggi presso case e strutture"",""url"":""https://www.regione.piemonte.it/web/temi/diritti-politiche-sociali/piemonte-per-lucraina#""}","<pre><yamldata>
+nameSurname: Regione Piemonte avvia una ricognizione delle disponibilità di accoglienza
+phoneNumber: ''
+email: accoglienza.ucraina@regione.piemonte.it
+title: disponibilità alloggi presso case e strutture
+recipients: ''
+description: 'La Regione Piemonte ha avviato una ricognizione delle disponibilità
+  all’accoglienza temporanea dei nuclei famigliari provenienti dell’Ucraina, composti
+  in gran parte da donne (mamme, nonne, e zie) con figli anche minori al seguito,
+  in fuga dalle zone di conflitto. Alla pagina dedicata della Regione è possibile
+  compilare dei moduli online per dare disponibilità sia di alloggi privati che presso
+  altre strutture.
+
+  È inoltre attiva la mail accoglienza.ucraina@regione.piemonte.it per richieste di
+  informazioni sull’accoglienza di chi sta fuggendo dalla guerra in Ucraina.'
+url: https://www.regione.piemonte.it/web/temi/diritti-politiche-sociali/piemonte-per-lucraina#
+location:
+  mode: autocomplete
+  address:
+    place_id: 284787924
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43992
+    boundingbox:
+    - '45.0067924'
+    - '45.1402175'
+    - '7.5778348'
+    - '7.7733388'
+    lat: '45.0677551'
+    lon: '7.6824892'
+    display_name: Torino, Piemonte, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8068062387577691
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Torino
+      county: Torino
+      state: Piemonte
+      ISO3166-2-lvl4: IT-21
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 45.0677551 7.6824892
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/708,1213705398,2022-04-24 20:58:15,2022-04-24 16:49:17,Piano regionale per l'emergenza Ucraina della Regione Piemonte,45.0677551,7.6824892,Piemonte,Torino,"[""Valid/Accettato"",""document_data""]",,,"{""Posizione"":""45.0677551 7.6824892"",""description"":""Il piano regionale per l'emergenza Ucraina della regione Piemonte \u00e8 aggiornato al 20 aprile 2022"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""https://www.regione.piemonte.it/web/sites/default/files/media/documenti/2022-04/pianoemergenza_piemonteucraina_aggiornamento20aprile2022.pdf"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""state"":""Piemonte""},""boundingbox"":[""45.0067924"",""45.1402175"",""7.5778348"",""7.7733388""],""class"":""boundary"",""display_name"":""Torino, Piemonte, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8168062387577691,""lat"":""45.0677551"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6824892"",""osm_id"":43992,""osm_type"":""relation"",""place_id"":284787924,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Piano regionale per l'emergenza Ucraina della Regione Piemonte""}","<pre><yamldata>
+title: Piano regionale per l'emergenza Ucraina della Regione Piemonte
+description: Il piano regionale per l'emergenza Ucraina della regione Piemonte è aggiornato
+  al 20 aprile 2022
+link: https://www.regione.piemonte.it/web/sites/default/files/media/documenti/2022-04/pianoemergenza_piemonteucraina_aggiornamento20aprile2022.pdf
+location:
+  mode: autocomplete
+  address:
+    place_id: 284787924
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43992
+    boundingbox:
+    - '45.0067924'
+    - '45.1402175'
+    - '7.5778348'
+    - '7.7733388'
+    lat: '45.0677551'
+    lon: '7.6824892'
+    display_name: Torino, Piemonte, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8168062387577691
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Torino
+      county: Torino
+      state: Piemonte
+      ISO3166-2-lvl4: IT-21
+      country: Italia
+      country_code: it
+label: document_data
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.0677551 7.6824892
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/707,1213705021,2022-04-24 20:57:30,2022-04-24 16:47:45,La Regione Piemonte ha istituito un Coordinamento regionale per l’emergenza profughi,45.0677551,7.6824892,Piemonte,Torino,"[""Valid/Accettato"",""News""]",,,"{""Posizione"":""45.0677551 7.6824892"",""description"":""La Regione Piemonte ha istituito un Coordinamento regionale per l\u2019emergenza profughi, di cui fanno parte il presidente Alberto Cirio, gli assessori alla Protezione civile e Gestione emergenza profughi ucraini Marco Gabusi e ai Bambini Chiara Caucino, il console onorario dell\u2019Ucraina a Torino Dario Arrigotti, rappresentanti delle Prefetture, della Direzione regionale Sanit\u00e0 e Welfare e della Protezione Civile regionale, in sinergia con gli Enti locali. dedicato alle informazioni per i rifugiati ucraini in Piemonte, realizzato grazie alla collaborazione tra Protezione Civile, Consolato Onorario di Ucraina a Torino e la Onlus Danish Refugee Council Italia. E' attivo un call center dedicato. Il numero \u00e8 011.4326700 ed \u00e8 attivo dal luned\u00ec al sabato, dalle 8.00 alle 20.00: otto operatori di madrelingua ucraina rispondono alle richieste di informazioni e approfondimenti da parte dei profughi e delle famiglie che li accolgono."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.regione.piemonte.it/web/temi/diritti-politiche-sociali/piemonte-per-lucraina#"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""state"":""Piemonte""},""boundingbox"":[""45.0067924"",""45.1402175"",""7.5778348"",""7.7733388""],""class"":""boundary"",""display_name"":""Torino, Piemonte, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8068062387577691,""lat"":""45.0677551"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6824892"",""osm_id"":43992,""osm_type"":""relation"",""place_id"":284787924,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""La Regione Piemonte ha istituito un Coordinamento regionale per l\u2019emergenza profughi""}","<pre><yamldata>
+title: La Regione Piemonte ha istituito un Coordinamento regionale per l’emergenza
+  profughi
+description: 'La Regione Piemonte ha istituito un Coordinamento regionale per l’emergenza
+  profughi, di cui fanno parte il presidente Alberto Cirio, gli assessori alla Protezione
+  civile e Gestione emergenza profughi ucraini Marco Gabusi e ai Bambini Chiara Caucino,
+  il console onorario dell’Ucraina a Torino Dario Arrigotti, rappresentanti delle
+  Prefetture, della Direzione regionale Sanità e Welfare e della Protezione Civile
+  regionale, in sinergia con gli Enti locali. dedicato alle informazioni per i rifugiati
+  ucraini in Piemonte, realizzato grazie alla collaborazione tra Protezione Civile,
+  Consolato Onorario di Ucraina a Torino e la Onlus Danish Refugee Council Italia.
+  E'' attivo un call center dedicato. Il numero è 011.4326700 ed è attivo dal lunedì
+  al sabato, dalle 8.00 alle 20.00: otto operatori di madrelingua ucraina rispondono
+  alle richieste di informazioni e approfondimenti da parte dei profughi e delle famiglie
+  che li accolgono.'
+link: https://www.regione.piemonte.it/web/temi/diritti-politiche-sociali/piemonte-per-lucraina#
+location:
+  mode: autocomplete
+  address:
+    place_id: 284787924
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43992
+    boundingbox:
+    - '45.0067924'
+    - '45.1402175'
+    - '7.5778348'
+    - '7.7733388'
+    lat: '45.0677551'
+    lon: '7.6824892'
+    display_name: Torino, Piemonte, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8068062387577691
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Torino
+      county: Torino
+      state: Piemonte
+      ISO3166-2-lvl4: IT-21
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.0677551 7.6824892
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/685,1212494672,2022-04-24 16:39:40,2022-04-22 15:21:58,"Piemonte per l’Ucraina, Regione Piemonte attiva help line per rifugiati ucraini e pagina web con info utili",,,,,"[""Valid/Accettato"",""Services"",""fundraising"",""useful contact"",""hospitality"",""healthcare"",""telegram-channel"",""tweet"",""Resources"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""house_number"":""165"",""postcode"":""10122"",""road"":""Piazza Castello"",""state"":""Piemonte"",""suburb"":""Centro""},""boundingbox"":[""45.0716229"",""45.0717229"",""7.6846521"",""7.6847521""],""class"":""place"",""display_name"":""165, Piazza Castello, Centro, Circoscrizione 1, Torino, Piemonte, 10122, Italia"",""importance"":0.42099999999999993,""lat"":""45.0716729"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6847021"",""osm_id"":4736084002,""osm_type"":""node"",""place_id"":54298343,""type"":""house""},""mode"":""autocomplete""},""aim"":""Da marted\u00ec 22 marzo \u00e8 attivo il numero del Call Center regionale dedicato alle informazioni per i rifugiati ucraini in Piemonte, realizzato grazie alla collaborazione tra Protezione Civile, Consolato Onorario di Ucraina a Torino e la Onlus Danish Refugee Council Italia. Il numero \u00e8 011.4326700 ed \u00e8 attivo dal luned\u00ec al sabato, dalle 8.00 alle 20.00: otto operatori di madrelingua ucraina rispondono alle richieste di informazioni e approfondimenti da parte dei profughi e delle famiglie che li accolgono.\nLa Regione Piemonte ha inoltre attivato una pagina web con info e contatti utili su assistenza sanitaria, vaccino Covid19, scuola, accoglienza rifugiati (per chi vuole accogliere), raccolte fondi regionale e altro. \u00c8 disponibile anche una versione in lingua ucraina della pagina. Nella pagina \u00e8 inoltre pubblicato il Piano regionale emergenza Ucraina con ulteriori info e contatti."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""+39 011 4326700"",""submit"":true,""title"":""Piemonte per l\u2019Ucraina, Regione Piemonte attiva help line per rifugiati ucraini e pagina web con info utili"",""url"":""https://www.regione.piemonte.it/web/temi/diritti-politiche-sociali/piemonte-per-lucraina""}","<pre><yamldata>
+title: Piemonte per l’Ucraina, Regione Piemonte attiva help line per rifugiati ucraini
+  e pagina web con info utili
+phoneNumber: +39 011 4326700
+email: ''
+aim: 'Da martedì 22 marzo è attivo il numero del Call Center regionale dedicato alle
+  informazioni per i rifugiati ucraini in Piemonte, realizzato grazie alla collaborazione
+  tra Protezione Civile, Consolato Onorario di Ucraina a Torino e la Onlus Danish
+  Refugee Council Italia. Il numero è 011.4326700 ed è attivo dal lunedì al sabato,
+  dalle 8.00 alle 20.00: otto operatori di madrelingua ucraina rispondono alle richieste
+  di informazioni e approfondimenti da parte dei profughi e delle famiglie che li
+  accolgono.
+
+  La Regione Piemonte ha inoltre attivato una pagina web con info e contatti utili
+  su assistenza sanitaria, vaccino Covid19, scuola, accoglienza rifugiati (per chi vuole accogliere), raccolte fondi regionale 
+  e altro. È disponibile anche una versione in lingua ucraina della pagina. Nella pagina è inoltre pubblicato il Piano regionale emergenza Ucraina con ulteriori info e contatti.'
+url: https://www.regione.piemonte.it/web/temi/diritti-politiche-sociali/piemonte-per-lucraina
+address:
+  mode: autocomplete
+  address:
+    place_id: 54298343
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 4736084002
+    boundingbox:
+    - '45.0716229'
+    - '45.0717229'
+    - '7.6846521'
+    - '7.6847521'
+    lat: '45.0716729'
+    lon: '7.6847021'
+    display_name: 165, Piazza Castello, Centro, Circoscrizione 1, Torino, Piemonte,
+      10122, Italia
+    class: place
+    type: house
+    importance: 0.42099999999999993
+    address:
+      house_number: '165'
+      road: Piazza Castello
+      suburb: Centro
+      city: Torino
+      county: Torino
+      state: Piemonte
+      ISO3166-2-lvl4: IT-21
+      postcode: '10122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/694,1213306459,2022-04-24 07:15:43,2022-04-23 14:01:48,"A Torino il progetto “The4DayBox” dell’Istituto Alfieri-Carrù: scatole di benvenuto con abiti, scarpe e altri beni per bambini e famiglie ucraine",,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""Children"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""house_number"":""14"",""postcode"":""10123"",""road"":""Via Accademia Albertina"",""state"":""Piemonte"",""suburb"":""Centro""},""boundingbox"":[""45.0651439"",""45.0652439"",""7.6880178"",""7.6881178""],""class"":""place"",""display_name"":""14, Via Accademia Albertina, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia"",""importance"":0.6309999999999999,""lat"":""45.0651939"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6880678"",""osm_id"":4736058558,""osm_type"":""node"",""place_id"":53032042,""type"":""house""},""mode"":""autocomplete""},""description"":""A Torino l\u2019Istituto Alfieri-Carr\u00f9 (https://www.istitutoalfiericarru.it), in collaborazione con il Consolato Ucraino, ha attivato il progetto \u201cThe four day box\u201d per i bambini rifugiati ucraini che arrivano in citt\u00e0: ogni bambino riceve una \u201cscatola di benvenuto\"" con vestiti, scarpe, biancheria intima, articoli per l\u2019igiene e un giocattolo. \u00c8 prevista la distribuzione di abiti e altri beni di prima necessit\u00e0 anche alle famiglie ucraine rifugiate a Torino. Per ritirare le scatole, \u00e8 necessario prendere un appuntamento telefonico e poi recarsi per il ritiro all\u2019Istituto Alfieri-Carr\u00f9.\nTel. +39 351 9608 570 (ucraino) - +39 340 8934 019 (inglese/italiano).\nAl link ulteriori info e la lista aggiornata dei beni che vengono raccolti."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Istituto Alfieri-Carr\u00f9 Torino"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Torino il progetto \u201cThe4DayBox\u201d dell\u2019Istituto Alfieri-Carr\u00f9: scatole di benvenuto con abiti, scarpe e altri beni di prima necessit\u00e0 per bambini e famiglie ucraine che fuggono dalla guerra"",""url"":""https://www.the4daybox.com""}","<pre><yamldata>
@@ -438,63 +948,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/695,1213308042,2022-04-23 16:04:31,2022-04-23 14:09:42,"Bologna, online la mappa dei corsi di italiano per stranieri organizzati da enti e associazioni",,,,,"[""Valid/Accettato"",""Services"",""Resources"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""house_number"":""13"",""postcode"":""40126"",""road"":""Via Zamboni"",""state"":""Emilia-Romagna"",""suburb"":""Irnerio""},""boundingbox"":[""44.4952501"",""44.4953501"",""11.3483601"",""11.3484601""],""class"":""place"",""display_name"":""13, Via Zamboni, Irnerio, Santo Stefano, Bologna, Emilia-Romagna, 40126, Italia"",""importance"":0.5309999999999999,""lat"":""44.4953001"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.3484101"",""osm_id"":1704245426,""osm_type"":""node"",""place_id"":15529652,""type"":""house""},""mode"":""autocomplete""},""description"":""Sul sito della Citt\u00e0 metropolitana di Bologna \u00e8 disponibile la mappa dei corsi di italiano per stranieri organizzati dalle associazioni del territorio. \u00c8 inoltre disponibile l\u2019elenco dei Cpia-Centri Per l'istruzione degli Adulti al link https://www.cittametropolitana.bo.it/immigrazione/Lingua_italiana/CPIA"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Citt\u00e0 metropolitana di Bologna"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Bologna, online la mappa dei corsi di italiano per stranieri organizzati da enti e associazioni"",""url"":""https://italiano.cittametropolitana.bo.it/%3Bjsessionid=00383AF8F240C9651BDDB2E75EA87939?0""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: true
-offerFromWho: Città metropolitana di Bologna
-title: Bologna, online la mappa dei corsi di italiano per stranieri organizzati da
-  enti e associazioni
-recipients: ''
-description: Sul sito della Città metropolitana di Bologna è disponibile la mappa
-  dei corsi di italiano per stranieri organizzati dalle associazioni del territorio.
-  È inoltre disponibile l’elenco dei Cpia-Centri Per l'istruzione degli Adulti al
-  link https://www.cittametropolitana.bo.it/immigrazione/Lingua_italiana/CPIA
-url: https://italiano.cittametropolitana.bo.it/%3Bjsessionid=00383AF8F240C9651BDDB2E75EA87939?0
-address:
-  mode: autocomplete
-  address:
-    place_id: 15529652
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 1704245426
-    boundingbox:
-    - '44.4952501'
-    - '44.4953501'
-    - '11.3483601'
-    - '11.3484601'
-    lat: '44.4953001'
-    lon: '11.3484101'
-    display_name: 13, Via Zamboni, Irnerio, Santo Stefano, Bologna, Emilia-Romagna,
-      40126, Italia
-    class: place
-    type: house
-    importance: 0.5309999999999999
-    address:
-      house_number: '13'
-      road: Via Zamboni
-      suburb: Irnerio
-      city: Bologna
-      county: Bologna
-      state: Emilia-Romagna
-      ISO3166-2-lvl4: IT-45
-      postcode: '40126'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/693,1213302559,2022-04-23 16:03:18,2022-04-23 13:42:37,A Torino il progetto “Cao Solidale”: visite odontoiatriche e interventi di prima necessità gratuiti ,,,,,"[""Valid/Accettato"",""Services"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""house_number"":""8/C"",""postcode"":""10143"",""road"":""Corso Francia"",""state"":""Piemonte"",""suburb"":""Circoscrizione 4""},""boundingbox"":[""45.076585"",""45.076685"",""7.6659277"",""7.6660277""],""class"":""place"",""display_name"":""8/C, Corso Francia, Circoscrizione 4, Torino, Piemonte, 10143, Italia"",""importance"":0.5209999999999999,""lat"":""45.076635"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6659777"",""osm_id"":4734226525,""osm_type"":""node"",""place_id"":53331464,""type"":""house""},""mode"":""autocomplete""},""description"":""Gli odontoiatri torinesi si mettono a disposizione con un contributo concreto di fronte all\u2019emergenza umanitaria che sta coinvolgendo la popolazione ucraina, offrendo cure odontoiatriche ai profughi ospitati in Piemonte.\n\nL\u2019iniziativa \u00e8 stata lanciata qualche giorno fa dalla Commissione Albo Odontoiatri (Cao) dell\u2019Ordine di Torino, che ha deciso di coinvolgere i propri iscritti nel progetto \u201cCao Solidale\u201d: visite odontoiatriche e interventi di prima necessit\u00e0 a titolo gratuito ai rifugiati ucraini in fuga dalla guerra.\nSono gi\u00e0 pi\u00f9 di 40 i professionisti di Torino e provincia che hanno immediatamente aderito al progetto. \nL\u2019elenco \u00e8 consultabile sul sito istituzionale Omceo Torino al link https://omceo-to.it/cao_notizie/progetto-cao-solidale-studi-disponibili/"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Commissione Albo Odontoiatri (Cao) dell\u2019Ordine di Torino"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Torino il progetto \u201cCao Solidale\u201d: visite odontoiatriche e interventi di prima necessit\u00e0 gratuiti per rifugiati ucraini"",""url"":""https://omceo-to.it/areastampa/il-progetto-solidale-degli-odontoiatri-torinesi-visite-e-interventi-gratuiti-per-i-profughi-ucraini/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -586,47 +1039,6 @@ address:
     address:
       country: Ucraina
       country_code: ua
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: useful contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/691,1213300570,2022-04-23 16:02:28,2022-04-23 13:32:14,"Torino, elenco di tutti i corsi gratuiti di italiano organizzati in città",,,,,"[""Valid/Accettato"",""Services"",""Resources"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""house_number"":""1/F"",""postcode"":""10135"",""road"":""Via Fratel Teodoreto"",""state"":""Piemonte"",""suburb"":""Lingotto""},""boundingbox"":[""45.020073"",""45.020173"",""7.6441524"",""7.6442524""],""class"":""place"",""display_name"":""1/F, Via Fratel Teodoreto, Lingotto, Circoscrizione 8, Torino, Piemonte, 10135, Italia"",""importance"":0.621,""lat"":""45.020123"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6442024"",""osm_id"":4734971332,""osm_type"":""node"",""place_id"":53004982,""type"":""house""},""mode"":""autocomplete""},""aim"":""Sul sito di Wara - Associazione Italo-Brasiliana \u00e8 disponibile l\u2019elenco di tutti i corsi gratuiti di italiano organizzati a Torino con info, contatti e orari."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Torino, elenco di tutti i corsi gratuiti di italiano organizzati in citt\u00e0"",""url"":""http://www.wara.it/informazioni-utili/corsi-italiano-stranieri/""}","<pre><yamldata>
-title: Torino, elenco di tutti i corsi gratuiti di italiano organizzati in città
-phoneNumber: ''
-email: ''
-aim: Sul sito di Wara - Associazione Italo-Brasiliana è disponibile l’elenco di tutti
-  i corsi gratuiti di italiano organizzati a Torino con info, contatti e orari.
-url: http://www.wara.it/informazioni-utili/corsi-italiano-stranieri/
-address:
-  mode: autocomplete
-  address:
-    place_id: 53004982
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 4734971332
-    boundingbox:
-    - '45.020073'
-    - '45.020173'
-    - '7.6441524'
-    - '7.6442524'
-    lat: '45.020123'
-    lon: '7.6442024'
-    display_name: 1/F, Via Fratel Teodoreto, Lingotto, Circoscrizione 8, Torino, Piemonte,
-      10135, Italia
-    class: place
-    type: house
-    importance: 0.621
-    address:
-      house_number: 1/F
-      road: Via Fratel Teodoreto
-      suburb: Lingotto
-      city: Torino
-      county: Torino
-      state: Piemonte
-      ISO3166-2-lvl4: IT-21
-      postcode: '10135'
-      country: Italia
-      country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: useful contact
 submit: true
@@ -780,60 +1192,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: help
 submit: true
 Posizione: 41.8975686 12.4975987
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/697,1213327994,2022-04-23 15:58:18,2022-04-23 14:23:04,Mappa delle scuole di italiano per stranieri (adulti e bambini) a Roma e nel Lazio,,,,,"[""Valid/Accettato"",""Services"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00184"",""quarter"":""Monti"",""road"":""Via Liberiana"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.8969079"",""41.8981663"",""12.4968832"",""12.4985035""],""class"":""highway"",""display_name"":""Via Liberiana, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia"",""importance"":0.41000000000000003,""lat"":""41.8975686"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4975987"",""osm_id"":4951429,""osm_type"":""way"",""place_id"":96185393,""type"":""secondary""},""mode"":""autocomplete""},""description"":""Sul sito di Scuole Migranti elenco e mappa delle scuole di italiano per stranieri (adulti e bambini) a Roma e nel Lazio con info e contatti."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Scuole Migranti Roma"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Mappa delle scuole di italiano per stranieri (adulti e bambini) a Roma e nel Lazio"",""url"":""http://www.scuolemigranti.org/emergenza-ucraina/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: true
-  disability: false
-  women: false
-  education: true
-offerFromWho: Scuole Migranti Roma
-title: Mappa delle scuole di italiano per stranieri (adulti e bambini) a Roma e nel
-  Lazio
-recipients: ''
-description: Sul sito di Scuole Migranti elenco e mappa delle scuole di italiano per
-  stranieri (adulti e bambini) a Roma e nel Lazio con info e contatti.
-url: http://www.scuolemigranti.org/emergenza-ucraina/
-address:
-  mode: autocomplete
-  address:
-    place_id: 96185393
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 4951429
-    boundingbox:
-    - '41.8969079'
-    - '41.8981663'
-    - '12.4968832'
-    - '12.4985035'
-    lat: '41.8975686'
-    lon: '12.4975987'
-    display_name: Via Liberiana, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio,
-      00184, Italia
-    class: highway
-    type: secondary
-    importance: 0.41000000000000003
-    address:
-      road: Via Liberiana
-      quarter: Monti
-      suburb: Municipio Roma I
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      postcode: 00184
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/681,1211058545,2022-04-23 13:18:47,2022-04-21 13:34:16,"Ministero della salute, attivo anche in russo e ucraino il numero di pubblica utilità 1500 su assistenza sanitaria, green pass, Covid-19. Disponibile anche pagina web multilingue",,,,,"[""Valid/Accettato"",""useful contact"",""healthcare"",""Resources""]",,,"{""Regioni"":""\u201ctutte\u201d"",""address"":{""address"":{},""mode"":""autocomplete""},""aim"":""Il numero nazionale di pubblica utilit\u00e0 1500 fornisce informazioni su assistenza sanitaria, green pass, Covid-19 agli stranieri in arrivo dall'Ucraina. Il servizio di risposta \u00e8 attivo anche in lingua russa e ucraina dalle ore 8 alle 20, tutti i giorni. Dall\u2019estero: +39 0232008345, +39 0283905385. Inoltre sul sito del Ministero della salute \u00e8 disponibile una pagina, in italiano, ucraino, russo e inglese, con tutte le info e i contatti per i rifugiati ucraini su assistenza sanitaria, vaccinazioni Covid19, maternit\u00e0, animali da compagnia e altro."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""1500"",""submit"":true,""title"":""Ministero della salute, attivo anche in russo e ucraino il numero di pubblica utilit\u00e0 1500 su assistenza sanitaria, green pass, Covid-19. Disponibile anche pagina web multilingue"",""url"":""https://www.salute.gov.it/portale/assistenzaSanitaria/dettaglioContenutiAssistenzaSanitaria.jsp?lingua=italiano&id=5842&area=Assistenza%20sanitaria&menu=vuoto""}","<pre><yamldata>
 title: Ministero della salute, attivo anche in russo e ucraino il numero di pubblica
