@@ -1,4 +1,300 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/692,1213301817,2022-04-25 09:07:03,2022-04-23 13:38:53,Information and сoordination Center for help Ukraine - Platform with info and useful contact,,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""Resources""]",,,"{""address"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""44.184598"",""52.3797464"",""22.137059"",""40.2275801""],""class"":""boundary"",""display_name"":""Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8164442439164168,""lat"":""49.4871968"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""31.2718321"",""osm_id"":60199,""osm_type"":""relation"",""place_id"":283553033,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Platform with useful information and contact to receive help in Ukraine: food, accomodation, medicine and medical care, transport, evacuation, psycological support, chat and help line town to town and other info."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Information and \u0441oordination center for help to Ukraine - Info and useful contact"",""url"":""https://coordination.team""}","<pre><yamldata>
+title: Information and сoordination center for help to Ukraine - Info and useful contact
+phoneNumber: ''
+email: ''
+aim: 'Platform with useful information and contact to receive help in Ukraine: food,
+  accomodation, medicine and medical care, transport, evacuation, psycological support,
+  chat and help line town to town and other info.'
+url: https://coordination.team
+address:
+  mode: autocomplete
+  address:
+    place_id: 283553033
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 60199
+    boundingbox:
+    - '44.184598'
+    - '52.3797464'
+    - '22.137059'
+    - '40.2275801'
+    lat: '49.4871968'
+    lon: '31.2718321'
+    display_name: Ucraina
+    class: boundary
+    type: administrative
+    importance: 0.8164442439164168
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      country: Ucraina
+      country_code: ua
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/717,1213780725,2022-04-25 09:05:04,2022-04-24 22:00:06,A Brescia Caritas e Croce Rossa distribuiscono ogni settimana beni alimentari alle famiglie ucraine,,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-BS"",""city_district"":""Zona Est"",""country"":""Italia"",""country_code"":""it"",""county"":""Brescia"",""postcode"":""25135"",""road"":""Via Agostino Chiappa"",""state"":""Lombardia"",""village"":""Buffalora - Bettole""},""boundingbox"":[""45.518102"",""45.5183458"",""10.2750423"",""10.2751808""],""class"":""highway"",""display_name"":""Via Agostino Chiappa, Buffalora - Bettole, Zona Est, Brescia, Lombardia, 25135, Italia"",""importance"":0.41000000000000003,""lat"":""45.518185"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.2751158"",""osm_id"":402402916,""osm_type"":""way"",""place_id"":195647941,""type"":""residential""},""mode"":""autocomplete""},""description"":""Sabato 23 aprile verr\u00e0 avviata l\u2019attivit\u00e0 del centro di distribuzione generi di prima necessit\u00e0 per le famiglie ucraine che non sono inserite nei canali gestiti dalla Prefettura (CAS), nel sistema SAI e nei prossimi sistemi di accoglienza della Protezione Civile.\nIl magazzino \u00e8 organizzato presso la sede ex OMB in via Chiappa 27 a Brescia.\nCroce Rossa Italiana comitato di Brescia, con la collaborazione di Caritas, Cauto e Maremosso, gestir\u00e0 il centro di distribuzione per conto del Comune di Brescia.\nLa distribuzione avverr\u00e0 inizialmente il fine settimana, sabato e domenica dalle 9 alle 16. Verr\u00e0 consegnato un pacco alimentare per nucleo familiare il cui contenuto varier\u00e0 rispetto la composizione e alla presenza di bambini, per consentire una autonomia di quindici giorni. Dopo un breve periodo di sperimentazione e di verifica organizzativa si valuteranno eventuali modifiche prevedendo una estensione dei giorni di apertura.\nPer eventuali donazioni o informazioni \u00e8 possibile contattare Croce Rossa Italiana Brescia all\u2019indirizzo brescia@cri.it (referente organizzativo) o la dottoressa Megni Francesca fmegni@comune.brescia.it (referente Comune di Brescia)."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Caritas Brescia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Brescia Caritas e Croce Rossa distribuiscono ogni settimana beni alimentari alle famiglie ucraine"",""url"":""https://www.caritasbrescia.it/flash-news/emergenza-ucraina-centro-distribuzione-generi-di-prima-necessita/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Caritas Brescia
+title: A Brescia Caritas e Croce Rossa distribuiscono ogni settimana beni alimentari
+  alle famiglie ucraine
+recipients: ''
+description: 'Sabato 23 aprile verrà avviata l’attività del centro di distribuzione
+  generi di prima necessità per le famiglie ucraine che non sono inserite nei canali
+  gestiti dalla Prefettura (CAS), nel sistema SAI e nei prossimi sistemi di accoglienza
+  della Protezione Civile.
+
+  Il magazzino è organizzato presso la sede ex OMB in via Chiappa 27 a Brescia.
+
+  Croce Rossa Italiana comitato di Brescia, con la collaborazione di Caritas, Cauto
+  e Maremosso, gestirà il centro di distribuzione per conto del Comune di Brescia.
+
+  La distribuzione avverrà inizialmente il fine settimana, sabato e domenica dalle
+  9 alle 16. Verrà consegnato un pacco alimentare per nucleo familiare il cui contenuto
+  varierà rispetto la composizione e alla presenza di bambini, per consentire una
+  autonomia di quindici giorni. Dopo un breve periodo di sperimentazione e di verifica
+  organizzativa si valuteranno eventuali modifiche prevedendo una estensione dei giorni
+  di apertura.
+
+  Per eventuali donazioni o informazioni è possibile contattare Croce Rossa Italiana
+  Brescia all’indirizzo brescia@cri.it (referente organizzativo) o la dottoressa Megni
+  Francesca fmegni@comune.brescia.it (referente Comune di Brescia).'
+url: https://www.caritasbrescia.it/flash-news/emergenza-ucraina-centro-distribuzione-generi-di-prima-necessita/
+address:
+  mode: autocomplete
+  address:
+    place_id: 195647941
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 402402916
+    boundingbox:
+    - '45.518102'
+    - '45.5183458'
+    - '10.2750423'
+    - '10.2751808'
+    lat: '45.518185'
+    lon: '10.2751158'
+    display_name: Via Agostino Chiappa, Buffalora - Bettole, Zona Est, Brescia, Lombardia,
+      25135, Italia
+    class: highway
+    type: residential
+    importance: 0.41000000000000003
+    address:
+      road: Via Agostino Chiappa
+      village: Buffalora - Bettole
+      city_district: Zona Est
+      county: Brescia
+      ISO3166-2-lvl6: IT-BS
+      state: Lombardia
+      postcode: '25135'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/718,1213782749,2022-04-25 09:04:48,2022-04-24 22:08:54,Comune di Novara apre centro di raccolta e distribuzione beni di prima necessità per i profughi ucraini,,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""city"":""Novara"",""country"":""Italia"",""country_code"":""it"",""county"":""Novara"",""highway"":""Largo Don Minzoni"",""municipality"":""Granozzo con Monticello"",""postcode"":""28100"",""road"":""Via Giulio Biglieri"",""state"":""Piemonte"",""suburb"":""Sacro Cuore""},""boundingbox"":[""45.4461857"",""45.4462857"",""8.6133255"",""8.6134255""],""class"":""highway"",""display_name"":""Largo Don Minzoni, Via Giulio Biglieri, Sacro Cuore, Novara, Granozzo con Monticello, Novara, Piemonte, 28100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//transport_bus_stop2.p.20.png"",""importance"":0.401,""lat"":""45.4462357"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.6133755"",""osm_id"":6270192983,""osm_type"":""node"",""place_id"":67299859,""type"":""bus_stop""},""mode"":""autocomplete""},""description"":""A Novara, in largo don Minzoni, ex palazzine dei Vigili, il Comune ha aperto il punto di raccolta e di distribuzione di beni di prima necessit\u00e0 per i profughi ucraini (cibo, vestiario, biancheria intima, prodotti per l\u2019igiene personale e la casa, giocattoli). \nLa distribuzione del materiale raccolto ai profughi soggiornanti nella provincia di Novara avviene il marted\u00ec, il mercoled\u00ec e il venerd\u00ec dalle 14.30 alle 18.00.\nIl materiale verr\u00e0 distribuito esclusivamente:\n\u2022 ai profughi ucraini in possesso di permesso di soggiorno o di ricevuta da parte dell\u2019Ufficio Stranieri della Questura di Novara o di dichiarazione di presenza vidimata dall\u2019Ufficio Stranieri della Questura di Novara;\n\u2022 ai privati cittadini, inseriti nell\u2019elenco in possesso del Comune di Novara, che ospitano profughi ucraini in nome e per conto dei profughi stessi;\n\u2022 alle Associazioni, Enti e Comuni della Provincia che ospitano profughi ucraini.\n\nLa raccolta dei beni, offerti dai cittadini, avverr\u00e0 negli stessi giorni e orari. Le Associazioni, i centri di ascolto, le aziende private potranno conferire le donazioni anche in altri orari."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Novara"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Novara apre centro di distribuzione beni di prima necessit\u00e0 per i profughi ucraini"",""url"":""https://www.comune.novara.it/it/articolo/raccolta-e-distribuzione/38125""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Comune di Novara
+title: Comune di Novara apre centro di distribuzione beni di prima necessità per i
+  profughi ucraini
+recipients: ''
+description: ""A Novara, in largo don Minzoni, ex palazzine dei Vigili, il Comune ha\
+  \ aperto il punto di raccolta e di distribuzione di beni di prima necessità per\
+  \ i profughi ucraini (cibo, vestiario, biancheria intima, prodotti per l’igiene\
+  \ personale e la casa, giocattoli). \nLa distribuzione del materiale raccolto ai\
+  \ profughi soggiornanti nella provincia di Novara avviene il martedì, il mercoledì\
+  \ e il venerdì dalle 14.30 alle 18.00.\nIl materiale verrà distribuito esclusivamente:\n\
+  • ai profughi ucraini in possesso di permesso di soggiorno o di ricevuta da parte\
+  \ dell’Ufficio Stranieri della Questura di Novara o di dichiarazione di presenza\
+  \ vidimata dall’Ufficio Stranieri della Questura di Novara;\n• ai privati cittadini,\
+  \ inseriti nell’elenco in possesso del Comune di Novara, che ospitano profughi ucraini\
+  \ in nome e per conto dei profughi stessi;\n• alle Associazioni, Enti e Comuni della\
+  \ Provincia che ospitano profughi ucraini.\n\nLa raccolta dei beni, offerti dai\
+  \ cittadini, avverrà negli stessi giorni e orari. Le Associazioni, i centri di ascolto,\
+  \ le aziende private potranno conferire le donazioni anche in altri orari.""
+url: https://www.comune.novara.it/it/articolo/raccolta-e-distribuzione/38125
+address:
+  mode: autocomplete
+  address:
+    place_id: 67299859
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 6270192983
+    boundingbox:
+    - '45.4461857'
+    - '45.4462857'
+    - '8.6133255'
+    - '8.6134255'
+    lat: '45.4462357'
+    lon: '8.6133755'
+    display_name: Largo Don Minzoni, Via Giulio Biglieri, Sacro Cuore, Novara, Granozzo
+      con Monticello, Novara, Piemonte, 28100, Italia
+    class: highway
+    type: bus_stop
+    importance: 0.401
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//transport_bus_stop2.p.20.png
+    address:
+      highway: Largo Don Minzoni
+      road: Via Giulio Biglieri
+      suburb: Sacro Cuore
+      city: Novara
+      municipality: Granozzo con Monticello
+      county: Novara
+      state: Piemonte
+      ISO3166-2-lvl4: IT-21
+      postcode: '28100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/719,1213783547,2022-04-25 09:03:59,2022-04-24 22:12:24,A Padova l’associazione Amici dei Popoli organizza laboratorio di lingua italiana per bambini ucraini (8-14 anni),,,,,"[""Valid/Accettato"",""Services"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""city"":""Padova"",""country"":""Italia"",""country_code"":""it"",""county"":""Padova"",""house_number"":""19"",""postcode"":""35100"",""road"":""Via Tiziano Minio"",""state"":""Veneto"",""suburb"":""Arcella""},""boundingbox"":[""45.4246577"",""45.4247577"",""11.879353"",""11.879453""],""class"":""place"",""display_name"":""19, Via Tiziano Minio, Arcella, Padova, Veneto, 35100, Italia"",""importance"":0.42099999999999993,""lat"":""45.4247077"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.879403"",""osm_id"":8790229616,""osm_type"":""node"",""place_id"":91402359,""type"":""house""},""mode"":""autocomplete""},""description"":""Il mercoled\u00ec e gioved\u00ec, alle ore 15:00, l\u2019associazione Amici dei Popoli ha organizzato un\u2019attivit\u00e0 gratuita di supporto per la lingua italiana per i bambini ucraini dagli 8 ai 14 anni. Si svolger\u00e0 presso la Parrocchia Ges\u00f9 Buon Pastore in Via T. Minio 19 a Padova. Al link il volantino con ulteriori informazioni e contatti."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Amici dei Popoli"",""recipients"":""Bambini ucraini"",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Padova l\u2019associazione Amici dei Popoli organizza laboratorio di lingua Italia per bambini (8-14 anni)"",""url"":""https://www.csvpadovarovigo.org/wp-content/uploads/2022/04/volantino-con-traduzione-corso-italiano-per-ucraini-1.pdf""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: true
+offerFromWho: Amici dei Popoli
+title: A Padova l’associazione Amici dei Popoli organizza laboratorio di lingua Italia
+  per bambini (8-14 anni)
+recipients: Bambini ucraini
+description: Il mercoledì e giovedì, alle ore 15:00, l’associazione Amici dei Popoli
+  ha organizzato un’attività gratuita di supporto per la lingua italiana per i bambini
+  ucraini dagli 8 ai 14 anni. Si svolgerà presso la Parrocchia Gesù Buon Pastore in
+  Via T. Minio 19 a Padova. Al link il volantino con ulteriori informazioni e contatti.
+url: https://www.csvpadovarovigo.org/wp-content/uploads/2022/04/volantino-con-traduzione-corso-italiano-per-ucraini-1.pdf
+address:
+  mode: autocomplete
+  address:
+    place_id: 91402359
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 8790229616
+    boundingbox:
+    - '45.4246577'
+    - '45.4247577'
+    - '11.879353'
+    - '11.879453'
+    lat: '45.4247077'
+    lon: '11.879403'
+    display_name: 19, Via Tiziano Minio, Arcella, Padova, Veneto, 35100, Italia
+    class: place
+    type: house
+    importance: 0.42099999999999993
+    address:
+      house_number: '19'
+      road: Via Tiziano Minio
+      suburb: Arcella
+      city: Padova
+      county: Padova
+      state: Veneto
+      ISO3166-2-lvl4: IT-34
+      postcode: '35100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/720,1213788828,2022-04-25 09:03:03,2022-04-24 22:34:48,"A Firenze centro interculturale Gli Anelli Mancanti raccoglie beni di prima necessità e offre corsi di italiano, supporto legale e informativo ai rifugiati ucraini",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""house_number"":""8"",""neighbourhood"":""San Frediano"",""postcode"":""50123"",""road"":""Via Palazzuolo"",""state"":""Toscana"",""suburb"":""Quartiere 1""},""boundingbox"":[""43.7728179"",""43.7729179"",""11.2482371"",""11.2483371""],""class"":""place"",""display_name"":""8, Via Palazzuolo, San Frediano, Quartiere 1, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50123, Italia"",""importance"":0.42099999999999993,""lat"":""43.7728679"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2482871"",""osm_id"":2361938046,""osm_type"":""node"",""place_id"":21214011,""type"":""house""},""mode"":""autocomplete""},""description"":""A Firenze centro interculturale Gli Anelli Mancanti, oltre a raccogliere beni di prima necessit\u00e0 per l\u2019emergenza Ucraina, offre ai rifugiati ucraini corsi di italiano, supporto legale e informativo, orientamento ai servizi.\nIn particolare tutti i marted\u00ec dalle 18.00 alle 21.00 i volontari dello Sportello Accoglienza sono a disposizione per cercare offerte di lavoro, corsi di formazione e tirocini, compilare i moduli per richiedere i permessi di soggiorno, orientarsi nelle procedure burocratiche, richieste di iscrizione all'universit\u00e0, scrivere i CV, ecc.\nPer info e prenotazioni: 055 2399533 (dalle 16.30), Whatsapp 3349850793, glianellimancanti@yahoo.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Gli anelli mancanti"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Firenze centro interculturale Gli Anelli Mancanti offre corsi di italiano, supporto legale e informativo ai rifugiati ucraini"",""url"":""https://www.facebook.com/anellimancanti/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Gli anelli mancanti
+title: A Firenze centro interculturale Gli Anelli Mancanti offre corsi di italiano,
+  supporto legale e informativo ai rifugiati ucraini
+recipients: ''
+description: 'A Firenze centro interculturale Gli Anelli Mancanti, oltre a raccogliere
+  beni di prima necessità per l’emergenza Ucraina, offre ai rifugiati ucraini corsi
+  di italiano, supporto legale e informativo, orientamento ai servizi.
+
+  In particolare tutti i martedì dalle 18.00 alle 21.00 i volontari dello Sportello
+  Accoglienza sono a disposizione per cercare offerte di lavoro, corsi di formazione
+  e tirocini, compilare i moduli per richiedere i permessi di soggiorno, orientarsi
+  nelle procedure burocratiche, richieste di iscrizione all''università, scrivere
+  i CV, ecc.
+
+  Per info e prenotazioni: 055 2399533 (dalle 16.30), Whatsapp 3349850793, glianellimancanti@yahoo.it'
+url: https://www.facebook.com/anellimancanti/
+address:
+  mode: autocomplete
+  address:
+    place_id: 21214011
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 2361938046
+    boundingbox:
+    - '43.7728179'
+    - '43.7729179'
+    - '11.2482371'
+    - '11.2483371'
+    lat: '43.7728679'
+    lon: '11.2482871'
+    display_name: 8, Via Palazzuolo, San Frediano, Quartiere 1, Firenze, Città metropolitana
+      di Firenze, Toscana, 50123, Italia
+    class: place
+    type: house
+    importance: 0.42099999999999993
+    address:
+      house_number: '8'
+      road: Via Palazzuolo
+      neighbourhood: San Frediano
+      suburb: Quartiere 1
+      city: Firenze
+      county: Città metropolitana di Firenze
+      state: Toscana
+      ISO3166-2-lvl4: IT-52
+      postcode: '50123'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/716,1213779102,2022-04-24 21:55:02,2022-04-24 21:52:44,"Viaggi gratuiti per i rifugiati ucraini sul trasporto pubblico locale gestito da Arriva Italia a Brescia, Bergamo, Lecco e Cremona",,,,,"[""Valid/Accettato"",""News"",""transport""]",,,"{""description"":""In conseguenza dell\u2019Emergenza Umanitaria riguardante il popolo ucraino, Arriva Italia d\u00e0 la possibilit\u00e0 ai cittadini ucraini di viaggiare gratuitamente su tutte le linee di trasporto pubblico locale fino al 31 maggio 2022. Le citt\u00e0 interessate sono: Brescia, Bergamo, Lecco, Cremona. Tutti i dettagli sui siti territoriali disponibili su https://arriva.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.facebook.com/259349434178304/posts/4873666802746521/?sfnsn=scwspmo"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Viaggi gratuiti per i rifugiati ucraini sul trasporto pubblico locale gestito da Arriva Italia a Brescia, Bergamo, Lecco, Cremona""}","<pre><yamldata>
 title: Viaggi gratuiti per i rifugiati ucraini sul trasporto pubblico locale gestito
   da Arriva Italia a Brescia, Bergamo, Lecco, Cremona
@@ -1023,40 +1319,6 @@ address:
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/692,1213301817,2022-04-23 16:02:57,2022-04-23 13:38:53,Information and сoordination center for help to Ukraine - Info and useful contact,,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""Resources""]",,,"{""address"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""44.184598"",""52.3797464"",""22.137059"",""40.2275801""],""class"":""boundary"",""display_name"":""Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8164442439164168,""lat"":""49.4871968"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""31.2718321"",""osm_id"":60199,""osm_type"":""relation"",""place_id"":283553033,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Platform with useful information and contact to receive help in Ukraine: food, accomodation, medicine and medical care, transport, evacuation, psycological support, chat and help line town to town and other info."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Information and \u0441oordination center for help to Ukraine - Info and useful contact"",""url"":""https://coordination.team""}","<pre><yamldata>
-title: Information and сoordination center for help to Ukraine - Info and useful contact
-phoneNumber: ''
-email: ''
-aim: 'Platform with useful information and contact to receive help in Ukraine: food,
-  accomodation, medicine and medical care, transport, evacuation, psycological support,
-  chat and help line town to town and other info.'
-url: https://coordination.team
-address:
-  mode: autocomplete
-  address:
-    place_id: 283553033
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 60199
-    boundingbox:
-    - '44.184598'
-    - '52.3797464'
-    - '22.137059'
-    - '40.2275801'
-    lat: '49.4871968'
-    lon: '31.2718321'
-    display_name: Ucraina
-    class: boundary
-    type: administrative
-    importance: 0.8164442439164168
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      country: Ucraina
-      country_code: ua
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: useful contact
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/701,1213344754,2022-04-23 16:01:18,2022-04-23 15:39:18,"“Cose di casa all’estero”, servizio di Nove Poshta per spedire dall’Ucraina in Europa con sconti del 50-80%",49.4871968,31.2718321,,,"[""Valid/Accettato"",""News"",""Services"",""useful contact""]",,,"{""Posizione"":""49.4871968 31.2718321"",""description"":""L\u2019agenzia di spedizioni ucraina Nova Poshta ha lanciato un nuovo servizio per gli ucraini: \""Cose da casa all'estero\"". Ora \u00e8 possibile inviare una valigia o una scatola con effetti personali in uno dei 24 paesi europei (Italia compresa) con sconti dal 50% all'80%. Info al link.\n\u041d\u043e\u0432\u0430 \u041f\u043e\u0448\u0442\u0430 \u0437\u0430\u043f\u0443\u0441\u0442\u0438\u043b\u0430 \u043d\u043e\u0432\u0443 \u043f\u043e\u0441\u043b\u0443\u0433\u0443 \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432 - \""\u0420\u0435\u0447\u0456 \u0437 \u0434\u043e\u043c\u0443 \u0437\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\"". \u0422\u0435\u043f\u0435\u0440 \u043c\u043e\u0436\u043d\u0430 \u0432\u0456\u0434\u043f\u0440\u0430\u0432\u0438\u0442\u0438 \u0432\u0430\u043b\u0456\u0437\u0443 \u0430\u0431\u043e \u043a\u043e\u0440\u043e\u0431\u043a\u0443 \u0437 \u043e\u0441\u043e\u0431\u0438\u0441\u0442\u0438\u043c\u0438 \u0440\u0435\u0447\u0430\u043c\u0438 \u0432 \u043e\u0434\u043d\u0443 \u0437 24 \u043a\u0440\u0430\u0457\u043d \u0404\u0432\u0440\u043e\u043f\u0438 \u0437\u0456 \u0437\u043d\u0438\u0436\u043a\u0430\u043c\u0438 \u0432\u0456\u0434 50% \u0434\u043e 80%."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://novaposhta.ua/tarify_md"",""location"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""44.184598"",""52.3797464"",""22.137059"",""40.2275801""],""class"":""boundary"",""display_name"":""Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9264442439164168,""lat"":""49.4871968"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""31.2718321"",""osm_id"":60199,""osm_type"":""relation"",""place_id"":283553033,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""\u201cCose di casa all\u2019estero\u201d, il servizio di Nove Poshta per spedire dall\u2019Ucraina in Europa con sconti del 50-80%""}","<pre><yamldata>
