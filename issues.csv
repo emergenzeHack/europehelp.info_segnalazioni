@@ -1,4 +1,378 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/697,1213327994,2022-04-27 07:04:31,2022-04-23 14:23:04,Mappa delle scuole di italiano per stranieri (adulti e bambini) a Roma e nel Lazio,,,,,"[""Valid/Accettato"",""Services"",""Children"",""telegram-channel"",""tweet"",""Resources"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00184"",""quarter"":""Monti"",""road"":""Via Liberiana"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.8969079"",""41.8981663"",""12.4968832"",""12.4985035""],""class"":""highway"",""display_name"":""Via Liberiana, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia"",""importance"":0.41000000000000003,""lat"":""41.8975686"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4975987"",""osm_id"":4951429,""osm_type"":""way"",""place_id"":96185393,""type"":""secondary""},""mode"":""autocomplete""},""description"":""Sul sito di Scuole Migranti elenco e mappa delle scuole di italiano per stranieri (adulti e bambini) a Roma e nel Lazio con info e contatti."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Scuole Migranti Roma"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Mappa delle scuole di italiano per stranieri (adulti e bambini) a Roma e nel Lazio"",""url"":""http://www.scuolemigranti.org/emergenza-ucraina/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: true
+offerFromWho: Scuole Migranti Roma
+title: Mappa delle scuole di italiano per stranieri (adulti e bambini) a Roma e nel
+  Lazio
+recipients: ''
+description: Sul sito di Scuole Migranti elenco e mappa delle scuole di italiano per
+  stranieri (adulti e bambini) a Roma e nel Lazio con info e contatti.
+url: http://www.scuolemigranti.org/emergenza-ucraina/
+address:
+  mode: autocomplete
+  address:
+    place_id: 96185393
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 4951429
+    boundingbox:
+    - '41.8969079'
+    - '41.8981663'
+    - '12.4968832'
+    - '12.4985035'
+    lat: '41.8975686'
+    lon: '12.4975987'
+    display_name: Via Liberiana, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio,
+      00184, Italia
+    class: highway
+    type: secondary
+    importance: 0.41000000000000003
+    address:
+      road: Via Liberiana
+      quarter: Monti
+      suburb: Municipio Roma I
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: 00184
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/718,1213782749,2022-04-27 07:03:37,2022-04-24 22:08:54,Comune di Novara apre centro di raccolta e distribuzione beni di prima necessità per i profughi ucraini,,,,,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""city"":""Novara"",""country"":""Italia"",""country_code"":""it"",""county"":""Novara"",""highway"":""Largo Don Minzoni"",""municipality"":""Granozzo con Monticello"",""postcode"":""28100"",""road"":""Via Giulio Biglieri"",""state"":""Piemonte"",""suburb"":""Sacro Cuore""},""boundingbox"":[""45.4461857"",""45.4462857"",""8.6133255"",""8.6134255""],""class"":""highway"",""display_name"":""Largo Don Minzoni, Via Giulio Biglieri, Sacro Cuore, Novara, Granozzo con Monticello, Novara, Piemonte, 28100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//transport_bus_stop2.p.20.png"",""importance"":0.401,""lat"":""45.4462357"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.6133755"",""osm_id"":6270192983,""osm_type"":""node"",""place_id"":67299859,""type"":""bus_stop""},""mode"":""autocomplete""},""description"":""A Novara, in largo don Minzoni, ex palazzine dei Vigili, il Comune ha aperto il punto di raccolta e di distribuzione di beni di prima necessit\u00e0 per i profughi ucraini (cibo, vestiario, biancheria intima, prodotti per l\u2019igiene personale e la casa, giocattoli). \nLa distribuzione del materiale raccolto ai profughi soggiornanti nella provincia di Novara avviene il marted\u00ec, il mercoled\u00ec e il venerd\u00ec dalle 14.30 alle 18.00.\nIl materiale verr\u00e0 distribuito esclusivamente:\n\u2022 ai profughi ucraini in possesso di permesso di soggiorno o di ricevuta da parte dell\u2019Ufficio Stranieri della Questura di Novara o di dichiarazione di presenza vidimata dall\u2019Ufficio Stranieri della Questura di Novara;\n\u2022 ai privati cittadini, inseriti nell\u2019elenco in possesso del Comune di Novara, che ospitano profughi ucraini in nome e per conto dei profughi stessi;\n\u2022 alle Associazioni, Enti e Comuni della Provincia che ospitano profughi ucraini.\n\nLa raccolta dei beni, offerti dai cittadini, avverr\u00e0 negli stessi giorni e orari. Le Associazioni, i centri di ascolto, le aziende private potranno conferire le donazioni anche in altri orari."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Novara"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Novara apre centro di distribuzione beni di prima necessit\u00e0 per i profughi ucraini"",""url"":""https://www.comune.novara.it/it/articolo/raccolta-e-distribuzione/38125""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Comune di Novara
+title: Comune di Novara apre centro di distribuzione beni di prima necessità per i
+  profughi ucraini
+recipients: ''
+description: ""A Novara, in largo don Minzoni, ex palazzine dei Vigili, il Comune ha\
+  \ aperto il punto di raccolta e di distribuzione di beni di prima necessità per\
+  \ i profughi ucraini (cibo, vestiario, biancheria intima, prodotti per l’igiene\
+  \ personale e la casa, giocattoli). \nLa distribuzione del materiale raccolto ai\
+  \ profughi soggiornanti nella provincia di Novara avviene il martedì, il mercoledì\
+  \ e il venerdì dalle 14.30 alle 18.00.\nIl materiale verrà distribuito esclusivamente:\n\
+  • ai profughi ucraini in possesso di permesso di soggiorno o di ricevuta da parte\
+  \ dell’Ufficio Stranieri della Questura di Novara o di dichiarazione di presenza\
+  \ vidimata dall’Ufficio Stranieri della Questura di Novara;\n• ai privati cittadini,\
+  \ inseriti nell’elenco in possesso del Comune di Novara, che ospitano profughi ucraini\
+  \ in nome e per conto dei profughi stessi;\n• alle Associazioni, Enti e Comuni della\
+  \ Provincia che ospitano profughi ucraini.\n\nLa raccolta dei beni, offerti dai\
+  \ cittadini, avverrà negli stessi giorni e orari. Le Associazioni, i centri di ascolto,\
+  \ le aziende private potranno conferire le donazioni anche in altri orari.""
+url: https://www.comune.novara.it/it/articolo/raccolta-e-distribuzione/38125
+address:
+  mode: autocomplete
+  address:
+    place_id: 67299859
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 6270192983
+    boundingbox:
+    - '45.4461857'
+    - '45.4462857'
+    - '8.6133255'
+    - '8.6134255'
+    lat: '45.4462357'
+    lon: '8.6133755'
+    display_name: Largo Don Minzoni, Via Giulio Biglieri, Sacro Cuore, Novara, Granozzo
+      con Monticello, Novara, Piemonte, 28100, Italia
+    class: highway
+    type: bus_stop
+    importance: 0.401
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//transport_bus_stop2.p.20.png
+    address:
+      highway: Largo Don Minzoni
+      road: Via Giulio Biglieri
+      suburb: Sacro Cuore
+      city: Novara
+      municipality: Granozzo con Monticello
+      county: Novara
+      state: Piemonte
+      ISO3166-2-lvl4: IT-21
+      postcode: '28100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/719,1213783547,2022-04-27 07:03:26,2022-04-24 22:12:24,A Padova l’associazione Amici dei Popoli organizza laboratorio di lingua italiana per bambini ucraini (8-14 anni),,,,,"[""Valid/Accettato"",""Services"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""city"":""Padova"",""country"":""Italia"",""country_code"":""it"",""county"":""Padova"",""house_number"":""19"",""postcode"":""35100"",""road"":""Via Tiziano Minio"",""state"":""Veneto"",""suburb"":""Arcella""},""boundingbox"":[""45.4246577"",""45.4247577"",""11.879353"",""11.879453""],""class"":""place"",""display_name"":""19, Via Tiziano Minio, Arcella, Padova, Veneto, 35100, Italia"",""importance"":0.42099999999999993,""lat"":""45.4247077"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.879403"",""osm_id"":8790229616,""osm_type"":""node"",""place_id"":91402359,""type"":""house""},""mode"":""autocomplete""},""description"":""Il mercoled\u00ec e gioved\u00ec, alle ore 15:00, l\u2019associazione Amici dei Popoli ha organizzato un\u2019attivit\u00e0 gratuita di supporto per la lingua italiana per i bambini ucraini dagli 8 ai 14 anni. Si svolger\u00e0 presso la Parrocchia Ges\u00f9 Buon Pastore in Via T. Minio 19 a Padova. Al link il volantino con ulteriori informazioni e contatti."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Amici dei Popoli"",""recipients"":""Bambini ucraini"",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Padova l\u2019associazione Amici dei Popoli organizza laboratorio di lingua Italia per bambini (8-14 anni)"",""url"":""https://www.csvpadovarovigo.org/wp-content/uploads/2022/04/volantino-con-traduzione-corso-italiano-per-ucraini-1.pdf""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: true
+offerFromWho: Amici dei Popoli
+title: A Padova l’associazione Amici dei Popoli organizza laboratorio di lingua Italia
+  per bambini (8-14 anni)
+recipients: Bambini ucraini
+description: Il mercoledì e giovedì, alle ore 15:00, l’associazione Amici dei Popoli
+  ha organizzato un’attività gratuita di supporto per la lingua italiana per i bambini
+  ucraini dagli 8 ai 14 anni. Si svolgerà presso la Parrocchia Gesù Buon Pastore in
+  Via T. Minio 19 a Padova. Al link il volantino con ulteriori informazioni e contatti.
+url: https://www.csvpadovarovigo.org/wp-content/uploads/2022/04/volantino-con-traduzione-corso-italiano-per-ucraini-1.pdf
+address:
+  mode: autocomplete
+  address:
+    place_id: 91402359
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 8790229616
+    boundingbox:
+    - '45.4246577'
+    - '45.4247577'
+    - '11.879353'
+    - '11.879453'
+    lat: '45.4247077'
+    lon: '11.879403'
+    display_name: 19, Via Tiziano Minio, Arcella, Padova, Veneto, 35100, Italia
+    class: place
+    type: house
+    importance: 0.42099999999999993
+    address:
+      house_number: '19'
+      road: Via Tiziano Minio
+      suburb: Arcella
+      city: Padova
+      county: Padova
+      state: Veneto
+      ISO3166-2-lvl4: IT-34
+      postcode: '35100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/720,1213788828,2022-04-27 07:03:10,2022-04-24 22:34:48,"A Firenze centro interculturale Gli Anelli Mancanti raccoglie beni di prima necessità e offre corsi di italiano, supporto legale e informativo ai rifugiati ucraini",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""house_number"":""8"",""neighbourhood"":""San Frediano"",""postcode"":""50123"",""road"":""Via Palazzuolo"",""state"":""Toscana"",""suburb"":""Quartiere 1""},""boundingbox"":[""43.7728179"",""43.7729179"",""11.2482371"",""11.2483371""],""class"":""place"",""display_name"":""8, Via Palazzuolo, San Frediano, Quartiere 1, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50123, Italia"",""importance"":0.42099999999999993,""lat"":""43.7728679"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2482871"",""osm_id"":2361938046,""osm_type"":""node"",""place_id"":21214011,""type"":""house""},""mode"":""autocomplete""},""description"":""A Firenze centro interculturale Gli Anelli Mancanti, oltre a raccogliere beni di prima necessit\u00e0 per l\u2019emergenza Ucraina, offre ai rifugiati ucraini corsi di italiano, supporto legale e informativo, orientamento ai servizi.\nIn particolare tutti i marted\u00ec dalle 18.00 alle 21.00 i volontari dello Sportello Accoglienza sono a disposizione per cercare offerte di lavoro, corsi di formazione e tirocini, compilare i moduli per richiedere i permessi di soggiorno, orientarsi nelle procedure burocratiche, richieste di iscrizione all'universit\u00e0, scrivere i CV, ecc.\nPer info e prenotazioni: 055 2399533 (dalle 16.30), Whatsapp 3349850793, glianellimancanti@yahoo.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Gli anelli mancanti"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Firenze centro interculturale Gli Anelli Mancanti offre corsi di italiano, supporto legale e informativo ai rifugiati ucraini"",""url"":""https://www.facebook.com/anellimancanti/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Gli anelli mancanti
+title: A Firenze centro interculturale Gli Anelli Mancanti offre corsi di italiano,
+  supporto legale e informativo ai rifugiati ucraini
+recipients: ''
+description: 'A Firenze centro interculturale Gli Anelli Mancanti, oltre a raccogliere
+  beni di prima necessità per l’emergenza Ucraina, offre ai rifugiati ucraini corsi
+  di italiano, supporto legale e informativo, orientamento ai servizi.
+
+  In particolare tutti i martedì dalle 18.00 alle 21.00 i volontari dello Sportello
+  Accoglienza sono a disposizione per cercare offerte di lavoro, corsi di formazione
+  e tirocini, compilare i moduli per richiedere i permessi di soggiorno, orientarsi
+  nelle procedure burocratiche, richieste di iscrizione all''università, scrivere
+  i CV, ecc.
+
+  Per info e prenotazioni: 055 2399533 (dalle 16.30), Whatsapp 3349850793, glianellimancanti@yahoo.it'
+url: https://www.facebook.com/anellimancanti/
+address:
+  mode: autocomplete
+  address:
+    place_id: 21214011
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 2361938046
+    boundingbox:
+    - '43.7728179'
+    - '43.7729179'
+    - '11.2482371'
+    - '11.2483371'
+    lat: '43.7728679'
+    lon: '11.2482871'
+    display_name: 8, Via Palazzuolo, San Frediano, Quartiere 1, Firenze, Città metropolitana
+      di Firenze, Toscana, 50123, Italia
+    class: place
+    type: house
+    importance: 0.42099999999999993
+    address:
+      house_number: '8'
+      road: Via Palazzuolo
+      neighbourhood: San Frediano
+      suburb: Quartiere 1
+      city: Firenze
+      county: Città metropolitana di Firenze
+      state: Toscana
+      ISO3166-2-lvl4: IT-52
+      postcode: '50123'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/721,1215087789,2022-04-27 07:02:56,2022-04-25 21:56:36,Unicef attiva in Ucraina programma di assistenza finanziaria per le famiglie con figli colpite dalla guerra,49.4871968,31.2718321,,,"[""Valid/Accettato"",""News"",""Services"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""49.4871968 31.2718321"",""description"":""Il programma di assistenza finanziaria dell'UNICEF \u201cInsieme\u201d fornisce sostegno alle grandi famiglie ucraine colpite dalla guerra. Nella prima fase, oltre 50.000 famiglie con bambini riceveranno assistenza.\nDurante la prima fase del Programma, l'UNICEF assiste le famiglie in Ucraina che rientrano in una delle due categorie seguenti:\n- Avere tre o pi\u00f9 figli di et\u00e0 inferiore ai 18 anni, di cui almeno un figlio non abbia compiuto i due anni al momento della domanda;\n-Avere due o pi\u00f9 figli di et\u00e0 inferiore ai 18 anni, di cui almeno uno con disabilit\u00e0.\n\nAnche i genitori nominativi o i genitori affidatari possono richiedere assistenza se soddisfano i criteri attuali.\nIn futuro, l'elenco dei requisiti per i partecipanti potrebbe essere modificato e l'elenco delle categorie ampliato.\n\nSe non riesci a completare la domanda su http://register.unicef.org riprova pi\u00f9 tardi. La domanda \u00e8 aperta e non ha scadenza.\n\nL'importo dell'aiuto finanziario al mese \u00e8 di 2.200 UAH per ogni membro della famiglia, ma non pi\u00f9 di cinque persone.\nLa famiglia ricever\u00e0 un pagamento una tantum in tre mesi sul conto bancario o sulla carta di debito entro 4 settimane dalla presentazione della domanda.\n\nLeggere la sezione \""Domande e risposte\"" https://unicef.org/ukraine/spilno-cash-transfers per conoscere i dettagli importanti sulla registrazione e ricevere assistenza, oppure chiamare la hotline \""Hotline\"" allo 0 800 600 017 (gratuita, aperta tutti i giorni dalle 8:00 alle 22:00).\n\n\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u0438 \u0433\u0440\u043e\u0448\u043e\u0432\u043e\u0457 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0438 \u0432\u0456\u0434 \u042e\u041d\u0406\u0421\u0415\u0424 \u0421\u043f\u0456\u043b\u044c\u043d\u043e\u00a0\u2014 \u0446\u0435\u00a0 \u0434\u043e\u0434\u0430\u0442\u043a\u043e\u0432\u0430 \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u043a\u0430 \u0431\u0430\u0433\u0430\u0442\u043e\u0434\u0456\u0442\u043d\u0438\u0445 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0441\u0456\u043c\u0435\u0439, \u044f\u043a\u0456 \u043f\u043e\u0441\u0442\u0440\u0430\u0436\u0434\u0430\u043b\u0438 \u0432\u0456\u0434 \u0432\u0456\u0439\u043d\u0438. \u041d\u0430 \u043f\u0435\u0440\u0448\u043e\u043c\u0443 \u0435\u0442\u0430\u043f\u0456 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0443 \u043e\u0442\u0440\u0438\u043c\u0430\u044e\u0442\u044c \u043f\u043e\u043d\u0430\u0434 50 \u0442\u0438\u0441. \u0441\u0456\u043c\u0435\u0439 \u0437 \u0434\u0456\u0442\u044c\u043c\u0438.\n\u041f\u0440\u043e\u0442\u044f\u0433\u043e\u043c \u043f\u0435\u0440\u0448\u043e\u0457 \u0444\u0430\u0437\u0438 \u041f\u0440\u043e\u0433\u0440\u0430\u043c\u0438 \u042e\u041d\u0406\u0421\u0415\u0424 \u0434\u043e\u043f\u043e\u043c\u0430\u0433\u0430\u0454 \u0440\u043e\u0434\u0438\u043d\u0430\u043c \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456, \u044f\u043a\u0456 \u043d\u0430\u043b\u0435\u0436\u0430\u0442\u044c \u0434\u043e \u043e\u0434\u043d\u0456\u0454\u0457 \u0437 \u0434\u0432\u043e\u0445 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0456\u0439:\n- \u041c\u0430\u044e\u0442\u044c \u0442\u0440\u043e\u0454 \u0456 \u0431\u0456\u043b\u044c\u0448\u0435 \u0434\u0456\u0442\u0435\u0439 \u0434\u043e 18 \u0440\u043e\u043a\u0456\u0432, \u0437 \u044f\u043a\u0438\u0445 \u043f\u0440\u0438\u043d\u0430\u0439\u043c\u043d\u0456 \u043e\u0434\u043d\u0430 \u0434\u0438\u0442\u0438\u043d\u0430 \u043d\u0435 \u0434\u043e\u0441\u044f\u0433\u043b\u0430 \u0434\u0432\u043e\u0445 \u0440\u043e\u043a\u0456\u0432 \u043d\u0430 \u043c\u043e\u043c\u0435\u043d\u0442 \u043f\u043e\u0434\u0430\u0447\u0456 \u0437\u0430\u044f\u0432\u043a\u0438;\n- \u041c\u0430\u044e\u0442\u044c \u0434\u0432\u043e\u0454 \u0456 \u0431\u0456\u043b\u044c\u0448\u0435 \u0434\u0456\u0442\u0435\u0439 \u0434\u043e 18 \u0440\u043e\u043a\u0456\u0432, \u0437 \u044f\u043a\u0438\u0445 \u043f\u0440\u0438\u043d\u0430\u0439\u043c\u043d\u0456 \u043e\u0434\u043d\u0430 \u0434\u0438\u0442\u0438\u043d\u0430 \u0437 \u0456\u043d\u0432\u0430\u043b\u0456\u0434\u043d\u0456\u0441\u0442\u044e.\n\u041d\u0430\u0437\u0432\u0430\u043d\u0456 \u0431\u0430\u0442\u044c\u043a\u0438 \u0430\u0431\u043e \u0431\u0430\u0442\u044c\u043a\u0438 \u0432\u0438\u0445\u043e\u0432\u0430\u0442\u0435\u043b\u0456 \u0442\u0430\u043a\u043e\u0436 \u043c\u043e\u0436\u0443\u0442\u044c \u043f\u043e\u0434\u0430\u0432\u0430\u0442\u0438 \u0437\u0430\u044f\u0432\u043a\u0443 \u043d\u0430 \u043e\u0442\u0440\u0438\u043c\u0430\u043d\u043d\u044f \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0438, \u044f\u043a\u0449\u043e \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u0430\u044e\u0442\u044c \u0447\u0438\u043d\u043d\u0438\u043c \u043a\u0440\u0438\u0442\u0435\u0440\u0456\u044f\u043c.\u00a0\n\u0423 \u043c\u0430\u0439\u0431\u0443\u0442\u043d\u044c\u043e\u043c\u0443 \u043f\u0435\u0440\u0435\u043b\u0456\u043a \u0432\u0438\u043c\u043e\u0433 \u0434\u043e \u0443\u0447\u0430\u0441\u043d\u0438\u043a\u0456\u0432 \u043c\u043e\u0436\u0435 \u0431\u0443\u0442\u0438 \u0437\u043c\u0456\u043d\u0435\u043d\u0438\u0439, \u0430 \u043f\u0435\u0440\u0435\u043b\u0456\u043a \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0456\u0439 \u2014 \u0440\u043e\u0437\u0448\u0438\u0440\u0435\u043d\u0438\u0439.\n\u042f\u043a\u0449\u043e \u0432\u0430\u0448\u0430 \u0440\u043e\u0434\u0438\u043d\u0430 \u043d\u0430\u043b\u0435\u0436\u0438\u0442\u044c \u0434\u043e \u043e\u0434\u043d\u0456\u0454\u0457 \u0437 \u0443\u043a\u0430\u0437\u0430\u043d\u0438\u0445 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0456\u0439 \u0456 \u0432\u0438 \u0432\u0456\u0434\u0447\u0443\u0432\u0430\u0454\u0442\u0435 \u043f\u043e\u0442\u0440\u0435\u0431\u0443 \u0432 \u0434\u043e\u043f\u043e\u043c\u043e\u0437\u0456, \u0432\u0430\u043c \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u043e \u0437\u0430\u0440\u0435\u0454\u0441\u0442\u0440\u0443\u0432\u0430\u0442\u0438\u0441\u044f \u043d\u0430 \u0441\u0430\u0439\u0442\u0456 http://register.unicef.org \n\u0420\u0435\u0454\u0441\u0442\u0440\u0430\u0446\u0456\u044f \u0442\u0430 \u043d\u0430\u0434\u0430\u043d\u043d\u044f \u0434\u0435\u044f\u043a\u0438\u0445 \u0434\u0430\u043d\u0438\u0445 \u043f\u0440\u043e \u0432\u0430\u0441 \u0456 \u0432\u0430\u0448\u0443 \u0440\u043e\u0434\u0438\u043d\u0443 \u0454 \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u043e\u044e \u0443\u043c\u043e\u0432\u043e\u044e \u0440\u043e\u0437\u0433\u043b\u044f\u0434\u0443 \u0437\u0430\u044f\u0432\u043a\u0438 \u043f\u0440\u043e \u043e\u0442\u0440\u0438\u043c\u0430\u043d\u043d\u044f \u0433\u0440\u043e\u0448\u043e\u0432\u043e\u0457 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0438.\u00a0\n\u0412\u0430\u0448\u0443 \u0437\u0430\u044f\u0432\u043a\u0443 \u0431\u0443\u0434\u0435 \u0440\u043e\u0437\u0433\u043b\u044f\u043d\u0443\u0442\u043e \u0444\u0430\u0445\u0456\u0432\u0446\u044f\u043c\u0438 \u042e\u041d\u0406\u0421\u0415\u0424 \u0442\u0430 \u0439\u043e\u0433\u043e \u043f\u0430\u0440\u0442\u043d\u0435\u0440\u0430\u043c\u0438 \u0449\u043e\u0434\u043e \u0457\u0457 \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u043d\u043e\u0441\u0442\u0456 \u043a\u0440\u0438\u0442\u0435\u0440\u0456\u044f\u043c \u041f\u0440\u043e\u0433\u0440\u0430\u043c\u0438. \u041d\u0430 \u043e\u0441\u043d\u043e\u0432\u0456 \u0446\u0438\u0445 \u0434\u0430\u043d\u0438\u0445 \u0431\u0443\u0434\u0435 \u0443\u0445\u0432\u0430\u043b\u0435\u043d\u0435 \u0440\u0456\u0448\u0435\u043d\u043d\u044f \u0449\u043e\u0434\u043e \u043d\u0430\u0434\u0430\u043d\u043d\u044f \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0438. \u0412\u0430\u043c \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u043b\u044f\u0442\u044c \u0440\u0456\u0448\u0435\u043d\u043d\u044f, \u043d\u0430\u0434\u0456\u0441\u043b\u0430\u0432\u0448\u0438 \u0421\u041c\u0421 \u043d\u0430 \u0432\u043a\u0430\u0437\u0430\u043d\u0438\u0439 \u043d\u043e\u043c\u0435\u0440.\u00a0\n\u0421\u0443\u043c\u0430 \u0433\u0440\u043e\u0448\u043e\u0432\u043e\u0457 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0438 \u043d\u0430 \u043c\u0456\u0441\u044f\u0446\u044c \u0441\u043a\u043b\u0430\u0434\u0430\u0454 2200 \u0433\u0440\u043d \u043d\u0430 \u043a\u043e\u0436\u043d\u043e\u0433\u043e \u0447\u043b\u0435\u043d\u0430 \u0441\u0456\u043c\u2019\u0457, \u0430\u043b\u0435 \u043d\u0435 \u0431\u0456\u043b\u044c\u0448\u0435 \u044f\u043a \u043d\u0430 \u043f\u2019\u044f\u0442\u044c \u043e\u0441\u0456\u0431.\u00a0\n\u0420\u043e\u0434\u0438\u043d\u0430 \u043e\u0442\u0440\u0438\u043c\u0430\u0454 \u043e\u0434\u043d\u043e\u0440\u0430\u0437\u043e\u0432\u0443 \u0432\u0438\u043f\u043b\u0430\u0442\u0443 \u0437\u0430 \u0442\u0440\u0438 \u043c\u0456\u0441\u044f\u0446\u0456 \u043d\u0430 \u0432\u043a\u0430\u0437\u0430\u043d\u0438\u0439 \u0431\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0445\u0443\u043d\u043e\u043a \u0447\u0438 \u0434\u0435\u0431\u0435\u0442\u043e\u0432\u0443 \u043a\u0430\u0440\u0442\u043a\u0443 \u043f\u0440\u043e\u0442\u044f\u0433\u043e\u043c 4 \u0442\u0438\u0436\u043d\u0456\u0432 \u0437 \u043c\u043e\u043c\u0435\u043d\u0442\u0443 \u043f\u043e\u0434\u0430\u043d\u043d\u044f \u0437\u0430\u044f\u0432\u043a\u0438. \u041f\u0435\u0440\u0435\u043a\u043e\u043d\u0430\u0439\u0442\u0435\u0441\u044f, \u0449\u043e \u0443 \u0432\u0430\u0441 \u0454 \u0434\u043e\u0441\u0442\u0443\u043f \u0434\u043e \u0440\u0430\u0445\u0443\u043d\u043a\u0430 \u043f\u0435\u0440\u0435\u0434 \u043f\u043e\u0434\u0430\u043d\u043d\u044f\u043c \u0437\u0430\u044f\u0432\u043a\u0438.\u00a0\n\u0427\u0438\u0442\u0430\u0439\u0442\u0435 \u043d\u0438\u0436\u0447\u0435 \u0431\u043b\u043e\u043a \u00ab\u0417\u0430\u043f\u0438\u0442\u0430\u043d\u043d\u044f \u0442\u0430 \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u0456\u00bb https://unicef.org/ukraine/spilno-cash-transfers \u0449\u043e\u0431 \u0434\u0456\u0437\u043d\u0430\u0442\u0438\u0441\u044f \u0432\u0430\u0436\u043b\u0438\u0432\u0456 \u0434\u0435\u0442\u0430\u043b\u0456 \u0449\u043e\u0434\u043e \u0440\u0435\u0454\u0441\u0442\u0440\u0430\u0446\u0456\u0457 \u0442\u0430 \u043e\u0442\u0440\u0438\u043c\u0430\u043d\u043d\u044f \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0438 \u0430\u0431\u043e \u0437\u0432\u0435\u0440\u0442\u0430\u0439\u0442\u0435\u0441\u044f \u0437\u0430 \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0433\u0430\u0440\u044f\u0447\u043e\u0457 \u043b\u0456\u043d\u0456\u0457 \u201c\u0421\u043f\u0456\u043b\u044c\u043d\u043e\u201d 0 800 600 017\u00a0(\u0431\u0435\u0437\u043e\u043f\u043b\u0430\u0442\u043d\u043e, \u043f\u0440\u0430\u0446\u044e\u0454 \u0449\u043e\u0434\u043d\u044f \u0437 8:00 \u0434\u043e 22:00)."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""http://register.unicef.org/"",""location"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""44.184598"",""52.3797464"",""22.137059"",""40.2275801""],""class"":""boundary"",""display_name"":""Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9264442439164168,""lat"":""49.4871968"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""31.2718321"",""osm_id"":60199,""osm_type"":""relation"",""place_id"":283553033,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Unicef attiva in Ucraina programma di assistenza finanziaria per le famiglie con figli colpite dalla guerra""}","<pre><yamldata>
+title: Unicef attiva in Ucraina programma di assistenza finanziaria per le famiglie
+  con figli colpite dalla guerra
+description: ""Il programma di assistenza finanziaria dell'UNICEF “Insieme” fornisce\
+  \ sostegno alle grandi famiglie ucraine colpite dalla guerra. Nella prima fase,\
+  \ oltre 50.000 famiglie con bambini riceveranno assistenza.\nDurante la prima fase\
+  \ del Programma, l'UNICEF assiste le famiglie in Ucraina che rientrano in una delle\
+  \ due categorie seguenti:\n- Avere tre o più figli di età inferiore ai 18 anni,\
+  \ di cui almeno un figlio non abbia compiuto i due anni al momento della domanda;\n\
+  -Avere due o più figli di età inferiore ai 18 anni, di cui almeno uno con disabilità.\n\
+  \nAnche i genitori nominativi o i genitori affidatari possono richiedere assistenza\
+  \ se soddisfano i criteri attuali.\nIn futuro, l'elenco dei requisiti per i partecipanti\
+  \ potrebbe essere modificato e l'elenco delle categorie ampliato.\n\nSe non riesci\
+  \ a completare la domanda su http://register.unicef.org riprova più tardi. La domanda\
+  \ è aperta e non ha scadenza.\n\nL'importo dell'aiuto finanziario al mese è di 2.200\
+  \ UAH per ogni membro della famiglia, ma non più di cinque persone.\nLa famiglia\
+  \ riceverà un pagamento una tantum in tre mesi sul conto bancario o sulla carta\
+  \ di debito entro 4 settimane dalla presentazione della domanda.\n\nLeggere la sezione\
+  \ \""Domande e risposte\"" https://unicef.org/ukraine/spilno-cash-transfers per conoscere\
+  \ i dettagli importanti sulla registrazione e ricevere assistenza, oppure chiamare\
+  \ la hotline \""Hotline\"" allo 0 800 600 017 (gratuita, aperta tutti i giorni dalle\
+  \ 8:00 alle 22:00).\n\nПрограми грошової допомоги від ЮНІСЕФ Спільно — це  додаткова\
+  \ підтримка багатодітних українських сімей, які постраждали від війни. На першому\
+  \ етапі допомогу отримають понад 50 тис. сімей з дітьми.\nПротягом першої фази Програми\
+  \ ЮНІСЕФ допомагає родинам в Україні, які належать до однієї з двох категорій:\n\
+  - Мають троє і більше дітей до 18 років, з яких принаймні одна дитина не досягла\
+  \ двох років на момент подачі заявки;\n- Мають двоє і більше дітей до 18 років,\
+  \ з яких принаймні одна дитина з інвалідністю.\nНазвані батьки або батьки вихователі\
+  \ також можуть подавати заявку на отримання допомоги, якщо відповідають чинним критеріям. \n\
+  У майбутньому перелік вимог до учасників може бути змінений, а перелік категорій\
+  \ — розширений.\nЯкщо ваша родина належить до однієї з указаних категорій і ви відчуваєте\
+  \ потребу в допомозі, вам необхідно зареєструватися на сайті http://register.unicef.org\
+  \ \nРеєстрація та надання деяких даних про вас і вашу родину є необхідною умовою\
+  \ розгляду заявки про отримання грошової допомоги. \nВашу заявку буде розглянуто\
+  \ фахівцями ЮНІСЕФ та його партнерами щодо її відповідності критеріям Програми.\
+  \ На основі цих даних буде ухвалене рішення щодо надання допомоги. Вам повідомлять\
+  \ рішення, надіславши СМС на вказаний номер. \nСума грошової допомоги на місяць\
+  \ складає 2200 грн на кожного члена сім’ї, але не більше як на п’ять осіб. \nРодина\
+  \ отримає одноразову виплату за три місяці на вказаний банківський рахунок чи дебетову\
+  \ картку протягом 4 тижнів з моменту подання заявки. Переконайтеся, що у вас є доступ\
+  \ до рахунка перед поданням заявки. \nЧитайте нижче блок «Запитання та відповіді»\
+  \ https://unicef.org/ukraine/spilno-cash-transfers щоб дізнатися важливі деталі\
+  \ щодо реєстрації та отримання допомоги або звертайтеся за номером гарячої лінії\
+  \ “Спільно” 0 800 600 017 (безоплатно, працює щодня з 8:00 до 22:00).""
+link: http://register.unicef.org/
+location:
+  mode: autocomplete
+  address:
+    place_id: 283553033
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 60199
+    boundingbox:
+    - '44.184598'
+    - '52.3797464'
+    - '22.137059'
+    - '40.2275801'
+    lat: '49.4871968'
+    lon: '31.2718321'
+    display_name: Ucraina
+    class: boundary
+    type: administrative
+    importance: 0.9264442439164168
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      country: Ucraina
+      country_code: ua
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 49.4871968 31.2718321
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/722,1216253559,2022-04-27 07:02:36,2022-04-26 17:17:15,Biblioteca Comunale di Trieste attiva corso di italiano per profughi ucraini,,,,,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-36"",""city"":""Trieste"",""country"":""Italia"",""country_code"":""it"",""county"":""Trieste"",""postcode"":""34121-34151"",""road"":""Via delle Lodole"",""state"":""Friuli Venezia Giulia"",""suburb"":""San Giacomo""},""boundingbox"":[""45.6438089"",""45.6440971"",""13.7805491"",""13.7810586""],""class"":""highway"",""display_name"":""Via delle Lodole, San Giacomo, Barriera Vecchia-San Giacomo, Trieste, Friuli Venezia Giulia, 34121-34151, Italia"",""importance"":0.71,""lat"":""45.643912"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.7807313"",""osm_id"":69884582,""osm_type"":""way"",""place_id"":327362182,""type"":""pedestrian""},""mode"":""autocomplete""},""description"":""Biblioteca Comunale Quarantotti Gambini (Via delle Lodole, 6-7/a, Trieste) ha aperto nuovo corso di italiano per rifugiati ucraini. Per iscriversi inviare una mail a corsi.italiano.ts@gmail.com\n\n\u041e\u0442\u043a\u0440\u044b\u043b\u0441\u044f \u043d\u043e\u0432\u044b\u0439/\u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043a\u0443\u0440\u0441 \u0438\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u043e\u0433\u043e. \u0427\u0442\u043e\u0431\u044b \u0437\u0430\u043f\u0438\u0441\u0430\u0442\u044c\u0441\u044f, \u043e\u0442\u043f\u0440\u0430\u0432\u044c\u0442\u0435 \u043c\u0435\u0439\u043b \u043d\u0430 corsi.italiano.ts@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Biblioteca Comunale Trieste"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Biblioteca Comunale di Trieste attiva corso di italiano per profughi ucraini"",""url"":""https://t.me/trieste_emergenza_ucraina/131""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Biblioteca Comunale Trieste
+title: Biblioteca Comunale di Trieste attiva corso di italiano per profughi ucraini
+recipients: ''
+description: 'Biblioteca Comunale Quarantotti Gambini (Via delle Lodole, 6-7/a, Trieste)
+  ha aperto nuovo corso di italiano per rifugiati ucraini. Per iscriversi inviare
+  una mail a corsi.italiano.ts@gmail.com
+
+
+  Открылся новый/дополнительный курс итальянского. Чтобы записаться, отправьте мейл
+  на corsi.italiano.ts@gmail.com'
+url: https://t.me/trieste_emergenza_ucraina/131
+address:
+  mode: autocomplete
+  address:
+    place_id: 327362182
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 69884582
+    boundingbox:
+    - '45.6438089'
+    - '45.6440971'
+    - '13.7805491'
+    - '13.7810586'
+    lat: '45.643912'
+    lon: '13.7807313'
+    display_name: Via delle Lodole, San Giacomo, Barriera Vecchia-San Giacomo, Trieste,
+      Friuli Venezia Giulia, 34121-34151, Italia
+    class: highway
+    type: pedestrian
+    importance: 0.71
+    address:
+      road: Via delle Lodole
+      suburb: San Giacomo
+      city: Trieste
+      county: Trieste
+      state: Friuli Venezia Giulia
+      ISO3166-2-lvl4: IT-36
+      postcode: 34121-34151
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/618,1205405861,2022-04-26 17:06:30,2022-04-15 08:55:12,"Inserimento scolastico dei bambini ucraini, sul sito del Ministero dell'istruzione attiva ricerca online delle scuole e centri di formazione professionale in Italia",,,tutte,,"[""Valid/Accettato"",""News"",""telegram-channel"",""tweet"",""Resources"",""education""]",,,"{""description"":""Attraverso il portale Cerca la tua scuola \u00e8 possibile individuare gli istituti scolastici o centri di formazione professionale pi\u00f9 vicini al proprio domicilio. In particolare si pu\u00f2: - cercare una scuola o un centro di formazione professionale regionale sul territorio nazionale; - conoscere tutte le informazioni disponibili sugli istituti scolastici di ogni ordine e grado e sui centri di formazione professionale ricercati; - mettere a confronto l\u2019offerta formativa delle scuole e dei centri di formazione selezionati; - accedere direttamente ad alcuni servizi legati alla ricerca di scuole come, per esempio, le \u201cIscrizione on-line\u201d."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://cercalatuascuola.istruzione.it/cercalatuascuola/"",""location"":{""address"":{},""mode"":""autocomplete""},""regione_manuale"":""tutte"",""submit"":true,""title"":""Per facilitare inserimento scolastico dei bambini ucraini Ministero dell'istruzione attiva ricerca online della scuola o centro di formazione professionale pi\u00f9 vicina al proprio domicilio""}","<pre><yamldata>
 title: Per facilitare inserimento scolastico dei bambini ucraini Ministero dell'istruzione
   attiva ricerca online della scuola o centro di formazione professionale più vicina
@@ -792,78 +1166,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",closed
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/721,1215087789,2022-04-25 21:57:36,2022-04-25 21:56:36,Unicef attiva in Ucraina programma di assistenza finanziaria per le famiglie con figli colpite dalla guerra,49.4871968,31.2718321,,,"[""Valid/Accettato"",""News"",""Services""]",,,"{""Posizione"":""49.4871968 31.2718321"",""description"":""Il programma di assistenza finanziaria dell'UNICEF \u201cInsieme\u201d fornisce sostegno alle grandi famiglie ucraine colpite dalla guerra. Nella prima fase, oltre 50.000 famiglie con bambini riceveranno assistenza.\nDurante la prima fase del Programma, l'UNICEF assiste le famiglie in Ucraina che rientrano in una delle due categorie seguenti:\n- Avere tre o pi\u00f9 figli di et\u00e0 inferiore ai 18 anni, di cui almeno un figlio non abbia compiuto i due anni al momento della domanda;\n-Avere due o pi\u00f9 figli di et\u00e0 inferiore ai 18 anni, di cui almeno uno con disabilit\u00e0.\n\nAnche i genitori nominativi o i genitori affidatari possono richiedere assistenza se soddisfano i criteri attuali.\nIn futuro, l'elenco dei requisiti per i partecipanti potrebbe essere modificato e l'elenco delle categorie ampliato.\n\nSe non riesci a completare la domanda su http://register.unicef.org riprova pi\u00f9 tardi. La domanda \u00e8 aperta e non ha scadenza.\n\nL'importo dell'aiuto finanziario al mese \u00e8 di 2.200 UAH per ogni membro della famiglia, ma non pi\u00f9 di cinque persone.\nLa famiglia ricever\u00e0 un pagamento una tantum in tre mesi sul conto bancario o sulla carta di debito entro 4 settimane dalla presentazione della domanda.\n\nLeggere la sezione \""Domande e risposte\"" https://unicef.org/ukraine/spilno-cash-transfers per conoscere i dettagli importanti sulla registrazione e ricevere assistenza, oppure chiamare la hotline \""Hotline\"" allo 0 800 600 017 (gratuita, aperta tutti i giorni dalle 8:00 alle 22:00).\n\n\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u0438 \u0433\u0440\u043e\u0448\u043e\u0432\u043e\u0457 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0438 \u0432\u0456\u0434 \u042e\u041d\u0406\u0421\u0415\u0424 \u0421\u043f\u0456\u043b\u044c\u043d\u043e\u00a0\u2014 \u0446\u0435\u00a0 \u0434\u043e\u0434\u0430\u0442\u043a\u043e\u0432\u0430 \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u043a\u0430 \u0431\u0430\u0433\u0430\u0442\u043e\u0434\u0456\u0442\u043d\u0438\u0445 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0441\u0456\u043c\u0435\u0439, \u044f\u043a\u0456 \u043f\u043e\u0441\u0442\u0440\u0430\u0436\u0434\u0430\u043b\u0438 \u0432\u0456\u0434 \u0432\u0456\u0439\u043d\u0438. \u041d\u0430 \u043f\u0435\u0440\u0448\u043e\u043c\u0443 \u0435\u0442\u0430\u043f\u0456 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0443 \u043e\u0442\u0440\u0438\u043c\u0430\u044e\u0442\u044c \u043f\u043e\u043d\u0430\u0434 50 \u0442\u0438\u0441. \u0441\u0456\u043c\u0435\u0439 \u0437 \u0434\u0456\u0442\u044c\u043c\u0438.\n\u041f\u0440\u043e\u0442\u044f\u0433\u043e\u043c \u043f\u0435\u0440\u0448\u043e\u0457 \u0444\u0430\u0437\u0438 \u041f\u0440\u043e\u0433\u0440\u0430\u043c\u0438 \u042e\u041d\u0406\u0421\u0415\u0424 \u0434\u043e\u043f\u043e\u043c\u0430\u0433\u0430\u0454 \u0440\u043e\u0434\u0438\u043d\u0430\u043c \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456, \u044f\u043a\u0456 \u043d\u0430\u043b\u0435\u0436\u0430\u0442\u044c \u0434\u043e \u043e\u0434\u043d\u0456\u0454\u0457 \u0437 \u0434\u0432\u043e\u0445 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0456\u0439:\n- \u041c\u0430\u044e\u0442\u044c \u0442\u0440\u043e\u0454 \u0456 \u0431\u0456\u043b\u044c\u0448\u0435 \u0434\u0456\u0442\u0435\u0439 \u0434\u043e 18 \u0440\u043e\u043a\u0456\u0432, \u0437 \u044f\u043a\u0438\u0445 \u043f\u0440\u0438\u043d\u0430\u0439\u043c\u043d\u0456 \u043e\u0434\u043d\u0430 \u0434\u0438\u0442\u0438\u043d\u0430 \u043d\u0435 \u0434\u043e\u0441\u044f\u0433\u043b\u0430 \u0434\u0432\u043e\u0445 \u0440\u043e\u043a\u0456\u0432 \u043d\u0430 \u043c\u043e\u043c\u0435\u043d\u0442 \u043f\u043e\u0434\u0430\u0447\u0456 \u0437\u0430\u044f\u0432\u043a\u0438;\n- \u041c\u0430\u044e\u0442\u044c \u0434\u0432\u043e\u0454 \u0456 \u0431\u0456\u043b\u044c\u0448\u0435 \u0434\u0456\u0442\u0435\u0439 \u0434\u043e 18 \u0440\u043e\u043a\u0456\u0432, \u0437 \u044f\u043a\u0438\u0445 \u043f\u0440\u0438\u043d\u0430\u0439\u043c\u043d\u0456 \u043e\u0434\u043d\u0430 \u0434\u0438\u0442\u0438\u043d\u0430 \u0437 \u0456\u043d\u0432\u0430\u043b\u0456\u0434\u043d\u0456\u0441\u0442\u044e.\n\u041d\u0430\u0437\u0432\u0430\u043d\u0456 \u0431\u0430\u0442\u044c\u043a\u0438 \u0430\u0431\u043e \u0431\u0430\u0442\u044c\u043a\u0438 \u0432\u0438\u0445\u043e\u0432\u0430\u0442\u0435\u043b\u0456 \u0442\u0430\u043a\u043e\u0436 \u043c\u043e\u0436\u0443\u0442\u044c \u043f\u043e\u0434\u0430\u0432\u0430\u0442\u0438 \u0437\u0430\u044f\u0432\u043a\u0443 \u043d\u0430 \u043e\u0442\u0440\u0438\u043c\u0430\u043d\u043d\u044f \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0438, \u044f\u043a\u0449\u043e \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u0430\u044e\u0442\u044c \u0447\u0438\u043d\u043d\u0438\u043c \u043a\u0440\u0438\u0442\u0435\u0440\u0456\u044f\u043c.\u00a0\n\u0423 \u043c\u0430\u0439\u0431\u0443\u0442\u043d\u044c\u043e\u043c\u0443 \u043f\u0435\u0440\u0435\u043b\u0456\u043a \u0432\u0438\u043c\u043e\u0433 \u0434\u043e \u0443\u0447\u0430\u0441\u043d\u0438\u043a\u0456\u0432 \u043c\u043e\u0436\u0435 \u0431\u0443\u0442\u0438 \u0437\u043c\u0456\u043d\u0435\u043d\u0438\u0439, \u0430 \u043f\u0435\u0440\u0435\u043b\u0456\u043a \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0456\u0439 \u2014 \u0440\u043e\u0437\u0448\u0438\u0440\u0435\u043d\u0438\u0439.\n\u042f\u043a\u0449\u043e \u0432\u0430\u0448\u0430 \u0440\u043e\u0434\u0438\u043d\u0430 \u043d\u0430\u043b\u0435\u0436\u0438\u0442\u044c \u0434\u043e \u043e\u0434\u043d\u0456\u0454\u0457 \u0437 \u0443\u043a\u0430\u0437\u0430\u043d\u0438\u0445 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0456\u0439 \u0456 \u0432\u0438 \u0432\u0456\u0434\u0447\u0443\u0432\u0430\u0454\u0442\u0435 \u043f\u043e\u0442\u0440\u0435\u0431\u0443 \u0432 \u0434\u043e\u043f\u043e\u043c\u043e\u0437\u0456, \u0432\u0430\u043c \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u043e \u0437\u0430\u0440\u0435\u0454\u0441\u0442\u0440\u0443\u0432\u0430\u0442\u0438\u0441\u044f \u043d\u0430 \u0441\u0430\u0439\u0442\u0456 http://register.unicef.org \n\u0420\u0435\u0454\u0441\u0442\u0440\u0430\u0446\u0456\u044f \u0442\u0430 \u043d\u0430\u0434\u0430\u043d\u043d\u044f \u0434\u0435\u044f\u043a\u0438\u0445 \u0434\u0430\u043d\u0438\u0445 \u043f\u0440\u043e \u0432\u0430\u0441 \u0456 \u0432\u0430\u0448\u0443 \u0440\u043e\u0434\u0438\u043d\u0443 \u0454 \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u043e\u044e \u0443\u043c\u043e\u0432\u043e\u044e \u0440\u043e\u0437\u0433\u043b\u044f\u0434\u0443 \u0437\u0430\u044f\u0432\u043a\u0438 \u043f\u0440\u043e \u043e\u0442\u0440\u0438\u043c\u0430\u043d\u043d\u044f \u0433\u0440\u043e\u0448\u043e\u0432\u043e\u0457 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0438.\u00a0\n\u0412\u0430\u0448\u0443 \u0437\u0430\u044f\u0432\u043a\u0443 \u0431\u0443\u0434\u0435 \u0440\u043e\u0437\u0433\u043b\u044f\u043d\u0443\u0442\u043e \u0444\u0430\u0445\u0456\u0432\u0446\u044f\u043c\u0438 \u042e\u041d\u0406\u0421\u0415\u0424 \u0442\u0430 \u0439\u043e\u0433\u043e \u043f\u0430\u0440\u0442\u043d\u0435\u0440\u0430\u043c\u0438 \u0449\u043e\u0434\u043e \u0457\u0457 \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u043d\u043e\u0441\u0442\u0456 \u043a\u0440\u0438\u0442\u0435\u0440\u0456\u044f\u043c \u041f\u0440\u043e\u0433\u0440\u0430\u043c\u0438. \u041d\u0430 \u043e\u0441\u043d\u043e\u0432\u0456 \u0446\u0438\u0445 \u0434\u0430\u043d\u0438\u0445 \u0431\u0443\u0434\u0435 \u0443\u0445\u0432\u0430\u043b\u0435\u043d\u0435 \u0440\u0456\u0448\u0435\u043d\u043d\u044f \u0449\u043e\u0434\u043e \u043d\u0430\u0434\u0430\u043d\u043d\u044f \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0438. \u0412\u0430\u043c \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u043b\u044f\u0442\u044c \u0440\u0456\u0448\u0435\u043d\u043d\u044f, \u043d\u0430\u0434\u0456\u0441\u043b\u0430\u0432\u0448\u0438 \u0421\u041c\u0421 \u043d\u0430 \u0432\u043a\u0430\u0437\u0430\u043d\u0438\u0439 \u043d\u043e\u043c\u0435\u0440.\u00a0\n\u0421\u0443\u043c\u0430 \u0433\u0440\u043e\u0448\u043e\u0432\u043e\u0457 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0438 \u043d\u0430 \u043c\u0456\u0441\u044f\u0446\u044c \u0441\u043a\u043b\u0430\u0434\u0430\u0454 2200 \u0433\u0440\u043d \u043d\u0430 \u043a\u043e\u0436\u043d\u043e\u0433\u043e \u0447\u043b\u0435\u043d\u0430 \u0441\u0456\u043c\u2019\u0457, \u0430\u043b\u0435 \u043d\u0435 \u0431\u0456\u043b\u044c\u0448\u0435 \u044f\u043a \u043d\u0430 \u043f\u2019\u044f\u0442\u044c \u043e\u0441\u0456\u0431.\u00a0\n\u0420\u043e\u0434\u0438\u043d\u0430 \u043e\u0442\u0440\u0438\u043c\u0430\u0454 \u043e\u0434\u043d\u043e\u0440\u0430\u0437\u043e\u0432\u0443 \u0432\u0438\u043f\u043b\u0430\u0442\u0443 \u0437\u0430 \u0442\u0440\u0438 \u043c\u0456\u0441\u044f\u0446\u0456 \u043d\u0430 \u0432\u043a\u0430\u0437\u0430\u043d\u0438\u0439 \u0431\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0445\u0443\u043d\u043e\u043a \u0447\u0438 \u0434\u0435\u0431\u0435\u0442\u043e\u0432\u0443 \u043a\u0430\u0440\u0442\u043a\u0443 \u043f\u0440\u043e\u0442\u044f\u0433\u043e\u043c 4 \u0442\u0438\u0436\u043d\u0456\u0432 \u0437 \u043c\u043e\u043c\u0435\u043d\u0442\u0443 \u043f\u043e\u0434\u0430\u043d\u043d\u044f \u0437\u0430\u044f\u0432\u043a\u0438. \u041f\u0435\u0440\u0435\u043a\u043e\u043d\u0430\u0439\u0442\u0435\u0441\u044f, \u0449\u043e \u0443 \u0432\u0430\u0441 \u0454 \u0434\u043e\u0441\u0442\u0443\u043f \u0434\u043e \u0440\u0430\u0445\u0443\u043d\u043a\u0430 \u043f\u0435\u0440\u0435\u0434 \u043f\u043e\u0434\u0430\u043d\u043d\u044f\u043c \u0437\u0430\u044f\u0432\u043a\u0438.\u00a0\n\u0427\u0438\u0442\u0430\u0439\u0442\u0435 \u043d\u0438\u0436\u0447\u0435 \u0431\u043b\u043e\u043a \u00ab\u0417\u0430\u043f\u0438\u0442\u0430\u043d\u043d\u044f \u0442\u0430 \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u0456\u00bb https://unicef.org/ukraine/spilno-cash-transfers \u0449\u043e\u0431 \u0434\u0456\u0437\u043d\u0430\u0442\u0438\u0441\u044f \u0432\u0430\u0436\u043b\u0438\u0432\u0456 \u0434\u0435\u0442\u0430\u043b\u0456 \u0449\u043e\u0434\u043e \u0440\u0435\u0454\u0441\u0442\u0440\u0430\u0446\u0456\u0457 \u0442\u0430 \u043e\u0442\u0440\u0438\u043c\u0430\u043d\u043d\u044f \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0438 \u0430\u0431\u043e \u0437\u0432\u0435\u0440\u0442\u0430\u0439\u0442\u0435\u0441\u044f \u0437\u0430 \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0433\u0430\u0440\u044f\u0447\u043e\u0457 \u043b\u0456\u043d\u0456\u0457 \u201c\u0421\u043f\u0456\u043b\u044c\u043d\u043e\u201d 0 800 600 017\u00a0(\u0431\u0435\u0437\u043e\u043f\u043b\u0430\u0442\u043d\u043e, \u043f\u0440\u0430\u0446\u044e\u0454 \u0449\u043e\u0434\u043d\u044f \u0437 8:00 \u0434\u043e 22:00)."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""http://register.unicef.org/"",""location"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""44.184598"",""52.3797464"",""22.137059"",""40.2275801""],""class"":""boundary"",""display_name"":""Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9264442439164168,""lat"":""49.4871968"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""31.2718321"",""osm_id"":60199,""osm_type"":""relation"",""place_id"":283553033,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Unicef attiva in Ucraina programma di assistenza finanziaria per le famiglie con figli colpite dalla guerra""}","<pre><yamldata>
-title: Unicef attiva in Ucraina programma di assistenza finanziaria per le famiglie
-  con figli colpite dalla guerra
-description: ""Il programma di assistenza finanziaria dell'UNICEF “Insieme” fornisce\
-  \ sostegno alle grandi famiglie ucraine colpite dalla guerra. Nella prima fase,\
-  \ oltre 50.000 famiglie con bambini riceveranno assistenza.\nDurante la prima fase\
-  \ del Programma, l'UNICEF assiste le famiglie in Ucraina che rientrano in una delle\
-  \ due categorie seguenti:\n- Avere tre o più figli di età inferiore ai 18 anni,\
-  \ di cui almeno un figlio non abbia compiuto i due anni al momento della domanda;\n\
-  -Avere due o più figli di età inferiore ai 18 anni, di cui almeno uno con disabilità.\n\
-  \nAnche i genitori nominativi o i genitori affidatari possono richiedere assistenza\
-  \ se soddisfano i criteri attuali.\nIn futuro, l'elenco dei requisiti per i partecipanti\
-  \ potrebbe essere modificato e l'elenco delle categorie ampliato.\n\nSe non riesci\
-  \ a completare la domanda su http://register.unicef.org riprova più tardi. La domanda\
-  \ è aperta e non ha scadenza.\n\nL'importo dell'aiuto finanziario al mese è di 2.200\
-  \ UAH per ogni membro della famiglia, ma non più di cinque persone.\nLa famiglia\
-  \ riceverà un pagamento una tantum in tre mesi sul conto bancario o sulla carta\
-  \ di debito entro 4 settimane dalla presentazione della domanda.\n\nLeggere la sezione\
-  \ \""Domande e risposte\"" https://unicef.org/ukraine/spilno-cash-transfers per conoscere\
-  \ i dettagli importanti sulla registrazione e ricevere assistenza, oppure chiamare\
-  \ la hotline \""Hotline\"" allo 0 800 600 017 (gratuita, aperta tutti i giorni dalle\
-  \ 8:00 alle 22:00).\n\nПрограми грошової допомоги від ЮНІСЕФ Спільно — це  додаткова\
-  \ підтримка багатодітних українських сімей, які постраждали від війни. На першому\
-  \ етапі допомогу отримають понад 50 тис. сімей з дітьми.\nПротягом першої фази Програми\
-  \ ЮНІСЕФ допомагає родинам в Україні, які належать до однієї з двох категорій:\n\
-  - Мають троє і більше дітей до 18 років, з яких принаймні одна дитина не досягла\
-  \ двох років на момент подачі заявки;\n- Мають двоє і більше дітей до 18 років,\
-  \ з яких принаймні одна дитина з інвалідністю.\nНазвані батьки або батьки вихователі\
-  \ також можуть подавати заявку на отримання допомоги, якщо відповідають чинним критеріям. \n\
-  У майбутньому перелік вимог до учасників може бути змінений, а перелік категорій\
-  \ — розширений.\nЯкщо ваша родина належить до однієї з указаних категорій і ви відчуваєте\
-  \ потребу в допомозі, вам необхідно зареєструватися на сайті http://register.unicef.org\
-  \ \nРеєстрація та надання деяких даних про вас і вашу родину є необхідною умовою\
-  \ розгляду заявки про отримання грошової допомоги. \nВашу заявку буде розглянуто\
-  \ фахівцями ЮНІСЕФ та його партнерами щодо її відповідності критеріям Програми.\
-  \ На основі цих даних буде ухвалене рішення щодо надання допомоги. Вам повідомлять\
-  \ рішення, надіславши СМС на вказаний номер. \nСума грошової допомоги на місяць\
-  \ складає 2200 грн на кожного члена сім’ї, але не більше як на п’ять осіб. \nРодина\
-  \ отримає одноразову виплату за три місяці на вказаний банківський рахунок чи дебетову\
-  \ картку протягом 4 тижнів з моменту подання заявки. Переконайтеся, що у вас є доступ\
-  \ до рахунка перед поданням заявки. \nЧитайте нижче блок «Запитання та відповіді»\
-  \ https://unicef.org/ukraine/spilno-cash-transfers щоб дізнатися важливі деталі\
-  \ щодо реєстрації та отримання допомоги або звертайтеся за номером гарячої лінії\
-  \ “Спільно” 0 800 600 017 (безоплатно, працює щодня з 8:00 до 22:00).""
-link: http://register.unicef.org/
-location:
-  mode: autocomplete
-  address:
-    place_id: 283553033
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 60199
-    boundingbox:
-    - '44.184598'
-    - '52.3797464'
-    - '22.137059'
-    - '40.2275801'
-    lat: '49.4871968'
-    lon: '31.2718321'
-    display_name: Ucraina
-    class: boundary
-    type: administrative
-    importance: 0.9264442439164168
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      country: Ucraina
-      country_code: ua
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 49.4871968 31.2718321
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/703,1213379273,2022-04-25 09:15:36,2022-04-23 18:00:49,Special Kids IT - Chat Telegram di mamme ucraine in Italia con figli disabili,,,,,"[""Valid/Accettato"",""useful contact"",""Children"",""disability"",""women"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""aim"":""\u00c8 attiva su Telegram una chat di aiuto e incontro di mamme ucraine in Italia che hanno figli con disabilit\u00e0."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Chat Telegram di mamme ucraine in Italia con figli disabili"",""url"":""https://t.me/specialkidsit""}","<pre><yamldata>
 title: Chat Telegram di mamme ucraine in Italia con figli disabili
 phoneNumber: ''
@@ -1142,250 +1444,6 @@ address:
       ISO3166-2-lvl6: IT-BS
       state: Lombardia
       postcode: '25135'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/718,1213782749,2022-04-25 09:04:48,2022-04-24 22:08:54,Comune di Novara apre centro di raccolta e distribuzione beni di prima necessità per i profughi ucraini,,,,,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""city"":""Novara"",""country"":""Italia"",""country_code"":""it"",""county"":""Novara"",""highway"":""Largo Don Minzoni"",""municipality"":""Granozzo con Monticello"",""postcode"":""28100"",""road"":""Via Giulio Biglieri"",""state"":""Piemonte"",""suburb"":""Sacro Cuore""},""boundingbox"":[""45.4461857"",""45.4462857"",""8.6133255"",""8.6134255""],""class"":""highway"",""display_name"":""Largo Don Minzoni, Via Giulio Biglieri, Sacro Cuore, Novara, Granozzo con Monticello, Novara, Piemonte, 28100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//transport_bus_stop2.p.20.png"",""importance"":0.401,""lat"":""45.4462357"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.6133755"",""osm_id"":6270192983,""osm_type"":""node"",""place_id"":67299859,""type"":""bus_stop""},""mode"":""autocomplete""},""description"":""A Novara, in largo don Minzoni, ex palazzine dei Vigili, il Comune ha aperto il punto di raccolta e di distribuzione di beni di prima necessit\u00e0 per i profughi ucraini (cibo, vestiario, biancheria intima, prodotti per l\u2019igiene personale e la casa, giocattoli). \nLa distribuzione del materiale raccolto ai profughi soggiornanti nella provincia di Novara avviene il marted\u00ec, il mercoled\u00ec e il venerd\u00ec dalle 14.30 alle 18.00.\nIl materiale verr\u00e0 distribuito esclusivamente:\n\u2022 ai profughi ucraini in possesso di permesso di soggiorno o di ricevuta da parte dell\u2019Ufficio Stranieri della Questura di Novara o di dichiarazione di presenza vidimata dall\u2019Ufficio Stranieri della Questura di Novara;\n\u2022 ai privati cittadini, inseriti nell\u2019elenco in possesso del Comune di Novara, che ospitano profughi ucraini in nome e per conto dei profughi stessi;\n\u2022 alle Associazioni, Enti e Comuni della Provincia che ospitano profughi ucraini.\n\nLa raccolta dei beni, offerti dai cittadini, avverr\u00e0 negli stessi giorni e orari. Le Associazioni, i centri di ascolto, le aziende private potranno conferire le donazioni anche in altri orari."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Novara"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Novara apre centro di distribuzione beni di prima necessit\u00e0 per i profughi ucraini"",""url"":""https://www.comune.novara.it/it/articolo/raccolta-e-distribuzione/38125""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Comune di Novara
-title: Comune di Novara apre centro di distribuzione beni di prima necessità per i
-  profughi ucraini
-recipients: ''
-description: ""A Novara, in largo don Minzoni, ex palazzine dei Vigili, il Comune ha\
-  \ aperto il punto di raccolta e di distribuzione di beni di prima necessità per\
-  \ i profughi ucraini (cibo, vestiario, biancheria intima, prodotti per l’igiene\
-  \ personale e la casa, giocattoli). \nLa distribuzione del materiale raccolto ai\
-  \ profughi soggiornanti nella provincia di Novara avviene il martedì, il mercoledì\
-  \ e il venerdì dalle 14.30 alle 18.00.\nIl materiale verrà distribuito esclusivamente:\n\
-  • ai profughi ucraini in possesso di permesso di soggiorno o di ricevuta da parte\
-  \ dell’Ufficio Stranieri della Questura di Novara o di dichiarazione di presenza\
-  \ vidimata dall’Ufficio Stranieri della Questura di Novara;\n• ai privati cittadini,\
-  \ inseriti nell’elenco in possesso del Comune di Novara, che ospitano profughi ucraini\
-  \ in nome e per conto dei profughi stessi;\n• alle Associazioni, Enti e Comuni della\
-  \ Provincia che ospitano profughi ucraini.\n\nLa raccolta dei beni, offerti dai\
-  \ cittadini, avverrà negli stessi giorni e orari. Le Associazioni, i centri di ascolto,\
-  \ le aziende private potranno conferire le donazioni anche in altri orari.""
-url: https://www.comune.novara.it/it/articolo/raccolta-e-distribuzione/38125
-address:
-  mode: autocomplete
-  address:
-    place_id: 67299859
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 6270192983
-    boundingbox:
-    - '45.4461857'
-    - '45.4462857'
-    - '8.6133255'
-    - '8.6134255'
-    lat: '45.4462357'
-    lon: '8.6133755'
-    display_name: Largo Don Minzoni, Via Giulio Biglieri, Sacro Cuore, Novara, Granozzo
-      con Monticello, Novara, Piemonte, 28100, Italia
-    class: highway
-    type: bus_stop
-    importance: 0.401
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//transport_bus_stop2.p.20.png
-    address:
-      highway: Largo Don Minzoni
-      road: Via Giulio Biglieri
-      suburb: Sacro Cuore
-      city: Novara
-      municipality: Granozzo con Monticello
-      county: Novara
-      state: Piemonte
-      ISO3166-2-lvl4: IT-21
-      postcode: '28100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/719,1213783547,2022-04-25 09:03:59,2022-04-24 22:12:24,A Padova l’associazione Amici dei Popoli organizza laboratorio di lingua italiana per bambini ucraini (8-14 anni),,,,,"[""Valid/Accettato"",""Services"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""city"":""Padova"",""country"":""Italia"",""country_code"":""it"",""county"":""Padova"",""house_number"":""19"",""postcode"":""35100"",""road"":""Via Tiziano Minio"",""state"":""Veneto"",""suburb"":""Arcella""},""boundingbox"":[""45.4246577"",""45.4247577"",""11.879353"",""11.879453""],""class"":""place"",""display_name"":""19, Via Tiziano Minio, Arcella, Padova, Veneto, 35100, Italia"",""importance"":0.42099999999999993,""lat"":""45.4247077"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.879403"",""osm_id"":8790229616,""osm_type"":""node"",""place_id"":91402359,""type"":""house""},""mode"":""autocomplete""},""description"":""Il mercoled\u00ec e gioved\u00ec, alle ore 15:00, l\u2019associazione Amici dei Popoli ha organizzato un\u2019attivit\u00e0 gratuita di supporto per la lingua italiana per i bambini ucraini dagli 8 ai 14 anni. Si svolger\u00e0 presso la Parrocchia Ges\u00f9 Buon Pastore in Via T. Minio 19 a Padova. Al link il volantino con ulteriori informazioni e contatti."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Amici dei Popoli"",""recipients"":""Bambini ucraini"",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Padova l\u2019associazione Amici dei Popoli organizza laboratorio di lingua Italia per bambini (8-14 anni)"",""url"":""https://www.csvpadovarovigo.org/wp-content/uploads/2022/04/volantino-con-traduzione-corso-italiano-per-ucraini-1.pdf""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: true
-  disability: false
-  women: false
-  education: true
-offerFromWho: Amici dei Popoli
-title: A Padova l’associazione Amici dei Popoli organizza laboratorio di lingua Italia
-  per bambini (8-14 anni)
-recipients: Bambini ucraini
-description: Il mercoledì e giovedì, alle ore 15:00, l’associazione Amici dei Popoli
-  ha organizzato un’attività gratuita di supporto per la lingua italiana per i bambini
-  ucraini dagli 8 ai 14 anni. Si svolgerà presso la Parrocchia Gesù Buon Pastore in
-  Via T. Minio 19 a Padova. Al link il volantino con ulteriori informazioni e contatti.
-url: https://www.csvpadovarovigo.org/wp-content/uploads/2022/04/volantino-con-traduzione-corso-italiano-per-ucraini-1.pdf
-address:
-  mode: autocomplete
-  address:
-    place_id: 91402359
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 8790229616
-    boundingbox:
-    - '45.4246577'
-    - '45.4247577'
-    - '11.879353'
-    - '11.879453'
-    lat: '45.4247077'
-    lon: '11.879403'
-    display_name: 19, Via Tiziano Minio, Arcella, Padova, Veneto, 35100, Italia
-    class: place
-    type: house
-    importance: 0.42099999999999993
-    address:
-      house_number: '19'
-      road: Via Tiziano Minio
-      suburb: Arcella
-      city: Padova
-      county: Padova
-      state: Veneto
-      ISO3166-2-lvl4: IT-34
-      postcode: '35100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/720,1213788828,2022-04-25 09:03:03,2022-04-24 22:34:48,"A Firenze centro interculturale Gli Anelli Mancanti raccoglie beni di prima necessità e offre corsi di italiano, supporto legale e informativo ai rifugiati ucraini",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""house_number"":""8"",""neighbourhood"":""San Frediano"",""postcode"":""50123"",""road"":""Via Palazzuolo"",""state"":""Toscana"",""suburb"":""Quartiere 1""},""boundingbox"":[""43.7728179"",""43.7729179"",""11.2482371"",""11.2483371""],""class"":""place"",""display_name"":""8, Via Palazzuolo, San Frediano, Quartiere 1, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50123, Italia"",""importance"":0.42099999999999993,""lat"":""43.7728679"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2482871"",""osm_id"":2361938046,""osm_type"":""node"",""place_id"":21214011,""type"":""house""},""mode"":""autocomplete""},""description"":""A Firenze centro interculturale Gli Anelli Mancanti, oltre a raccogliere beni di prima necessit\u00e0 per l\u2019emergenza Ucraina, offre ai rifugiati ucraini corsi di italiano, supporto legale e informativo, orientamento ai servizi.\nIn particolare tutti i marted\u00ec dalle 18.00 alle 21.00 i volontari dello Sportello Accoglienza sono a disposizione per cercare offerte di lavoro, corsi di formazione e tirocini, compilare i moduli per richiedere i permessi di soggiorno, orientarsi nelle procedure burocratiche, richieste di iscrizione all'universit\u00e0, scrivere i CV, ecc.\nPer info e prenotazioni: 055 2399533 (dalle 16.30), Whatsapp 3349850793, glianellimancanti@yahoo.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Gli anelli mancanti"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Firenze centro interculturale Gli Anelli Mancanti offre corsi di italiano, supporto legale e informativo ai rifugiati ucraini"",""url"":""https://www.facebook.com/anellimancanti/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: true
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: true
-offerFromWho: Gli anelli mancanti
-title: A Firenze centro interculturale Gli Anelli Mancanti offre corsi di italiano,
-  supporto legale e informativo ai rifugiati ucraini
-recipients: ''
-description: 'A Firenze centro interculturale Gli Anelli Mancanti, oltre a raccogliere
-  beni di prima necessità per l’emergenza Ucraina, offre ai rifugiati ucraini corsi
-  di italiano, supporto legale e informativo, orientamento ai servizi.
-
-  In particolare tutti i martedì dalle 18.00 alle 21.00 i volontari dello Sportello
-  Accoglienza sono a disposizione per cercare offerte di lavoro, corsi di formazione
-  e tirocini, compilare i moduli per richiedere i permessi di soggiorno, orientarsi
-  nelle procedure burocratiche, richieste di iscrizione all''università, scrivere
-  i CV, ecc.
-
-  Per info e prenotazioni: 055 2399533 (dalle 16.30), Whatsapp 3349850793, glianellimancanti@yahoo.it'
-url: https://www.facebook.com/anellimancanti/
-address:
-  mode: autocomplete
-  address:
-    place_id: 21214011
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 2361938046
-    boundingbox:
-    - '43.7728179'
-    - '43.7729179'
-    - '11.2482371'
-    - '11.2483371'
-    lat: '43.7728679'
-    lon: '11.2482871'
-    display_name: 8, Via Palazzuolo, San Frediano, Quartiere 1, Firenze, Città metropolitana
-      di Firenze, Toscana, 50123, Italia
-    class: place
-    type: house
-    importance: 0.42099999999999993
-    address:
-      house_number: '8'
-      road: Via Palazzuolo
-      neighbourhood: San Frediano
-      suburb: Quartiere 1
-      city: Firenze
-      county: Città metropolitana di Firenze
-      state: Toscana
-      ISO3166-2-lvl4: IT-52
-      postcode: '50123'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/697,1213327994,2022-04-24 21:18:21,2022-04-23 14:23:04,Mappa delle scuole di italiano per stranieri (adulti e bambini) a Roma e nel Lazio,,,,,"[""Valid/Accettato"",""Services"",""Children"",""Resources"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00184"",""quarter"":""Monti"",""road"":""Via Liberiana"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.8969079"",""41.8981663"",""12.4968832"",""12.4985035""],""class"":""highway"",""display_name"":""Via Liberiana, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia"",""importance"":0.41000000000000003,""lat"":""41.8975686"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4975987"",""osm_id"":4951429,""osm_type"":""way"",""place_id"":96185393,""type"":""secondary""},""mode"":""autocomplete""},""description"":""Sul sito di Scuole Migranti elenco e mappa delle scuole di italiano per stranieri (adulti e bambini) a Roma e nel Lazio con info e contatti."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Scuole Migranti Roma"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Mappa delle scuole di italiano per stranieri (adulti e bambini) a Roma e nel Lazio"",""url"":""http://www.scuolemigranti.org/emergenza-ucraina/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: true
-  disability: false
-  women: false
-  education: true
-offerFromWho: Scuole Migranti Roma
-title: Mappa delle scuole di italiano per stranieri (adulti e bambini) a Roma e nel
-  Lazio
-recipients: ''
-description: Sul sito di Scuole Migranti elenco e mappa delle scuole di italiano per
-  stranieri (adulti e bambini) a Roma e nel Lazio con info e contatti.
-url: http://www.scuolemigranti.org/emergenza-ucraina/
-address:
-  mode: autocomplete
-  address:
-    place_id: 96185393
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 4951429
-    boundingbox:
-    - '41.8969079'
-    - '41.8981663'
-    - '12.4968832'
-    - '12.4985035'
-    lat: '41.8975686'
-    lon: '12.4975987'
-    display_name: Via Liberiana, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio,
-      00184, Italia
-    class: highway
-    type: secondary
-    importance: 0.41000000000000003
-    address:
-      road: Via Liberiana
-      quarter: Monti
-      suburb: Municipio Roma I
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      postcode: 00184
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
