@@ -1,4 +1,55 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/399,1185341282,2022-04-27 21:23:20,2022-03-29 19:51:31,Comune di Palermo attiva indirizzo email per supporto e accoglienza delle persone in arrivo dall’Ucraina,38.1112268,13.3524434,Sicilia,Palermo,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""state"":""Sicilia""},""boundingbox"":[""38.0499137"",""38.2245866"",""13.242219"",""13.4520856""],""class"":""boundary"",""display_name"":""Palermo, Sicilia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7661148171447915,""lat"":""38.1112268"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3524434"",""osm_id"":39513,""osm_type"":""relation"",""place_id"":284307182,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Comune di Palermo ha attivato l'indirizzo mail aiutiucraina@comune.palermo.it dedicato alla situazione ucraina per accompagnare e facilitare le pratiche di ricongiungimenti e mettere in collegamento i profughi con le associazioni del terzo settore e con privati cittadini che, in alcuni casi, hanno gi\u00e0 espresso ed intendono dare la loro disponibilit\u00e0 per accoglierli."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Palermo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Palermo attiva una mail dedicata per aiuti alle persone in arrivo"",""url"":""https://www.comune.palermo.it/palermo-informa-dettaglio.php?id=34071&tipo=1""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Comune di Palermo
+title: Comune di Palermo attiva una mail dedicata per aiuti alle persone in arrivo
+recipients: ''
+description: 'Il Comune di Palermo ha attivato l''indirizzo mail aiutiucraina@comune.palermo.it dedicato alla situazione ucraina per accompagnare e facilitare le pratiche di ricongiungimenti
+  e mettere in collegamento i profughi con le associazioni del terzo settore e con
+  privati cittadini che, in alcuni casi, hanno già espresso ed intendono dare la loro
+  disponibilità per accoglierli.'
+url: https://www.comune.palermo.it/palermo-informa-dettaglio.php?id=34071&tipo=1
+address:
+  mode: autocomplete
+  address:
+    place_id: 284307182
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 39513
+    boundingbox:
+    - '38.0499137'
+    - '38.2245866'
+    - '13.242219'
+    - '13.4520856'
+    lat: '38.1112268'
+    lon: '13.3524434'
+    display_name: Palermo, Sicilia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7661148171447915
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Palermo
+      county: Palermo
+      state: Sicilia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/727,1217859624,2022-04-27 20:57:32,2022-04-27 20:39:15,"Comune di Milano, al via piano per offrire gratuitamente a bambine e bambini servizi scolastici e attività ludico-ricreative",45.4673071,9.1900592,Lombardia,Milano,"[""Valid/Accettato"",""News"",""Services"",""Children"",""education""]",,,"{""Posizione"":""45.4673071 9.1900592"",""description"":""Mense, trasporto scolastico, centri estivi, attivit\u00e0 specifiche di supporto per l\u2019apprendimento della lingua italiana e servizi dedicati alle bambine e ai bambini con disabilit\u00e0. \n\n\u00c8 un pacchetto di misure straordinarie per accogliere nei servizi scolastici ed educativi bambini e bambine, ragazze e ragazzi in fuga da zone di guerra, quello approvato nei giorni scorsi dalla Giunta, che con il provvedimento ha voluto assicurare loro la partecipazione a percorsi educativi e di supporto volti a sostenere il processo di integrazione e inclusione. \n\nBambini e ragazzi potranno, quindi, accedere gratuitamente ai servizi di refezione scolastica, avranno la possibilit\u00e0 di frequentare i centri estivi e le occasioni educative dell\u2019estate 2022 compresi i soggiorni nelle case vacanze del Comune e, a breve, attivit\u00e0 di apprendimento della lingua italiana e ludico-ricreative per avviare percorsi di integrazione."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.comune.milano.it/-/ucraina.-al-via-il-piano-del-comune-per-offrire-gratuitamente-a-bambine-e-bambini-servizi-scolastici-e-attivita-didattico-creative"",""location"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20121"",""quarter"":""Duomo"",""road"":""Piazza della Scala"",""state"":""Lombardia"",""suburb"":""Municipio 1""},""boundingbox"":[""45.4670931"",""45.4673726"",""9.1899377"",""9.1904844""],""class"":""highway"",""display_name"":""Piazza della Scala, Duomo, Municipio 1, Milano, Lombardia, 20121, Italia"",""importance"":1.404544854295327,""lat"":""45.4673071"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1900592"",""osm_id"":163757284,""osm_type"":""way"",""place_id"":140938479,""type"":""residential""},""mode"":""autocomplete""},""submit"":true,""title"":""Comune di Milano, al via piano per offrire gratuitamente a bambine e bambini servizi scolastici e attivit\u00e0 didattico-creative""}","<pre><yamldata>
 title: Comune di Milano, al via piano per offrire gratuitamente a bambine e bambini
   servizi scolastici e attività didattico-creative
@@ -16361,59 +16412,6 @@ address:
       municipality: Unione Alto Ferrarese
       county: Ferrara
       state: Emilia-Romagna
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/399,1185341282,2022-03-30 09:12:54,2022-03-29 19:51:31,Comune di Palermo attiva indirizzo email per supporto e accoglienza delle persone in arrivo dall’Ucraina,38.1112268,13.3524434,Sicilia,Palermo,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""state"":""Sicilia""},""boundingbox"":[""38.0499137"",""38.2245866"",""13.242219"",""13.4520856""],""class"":""boundary"",""display_name"":""Palermo, Sicilia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7661148171447915,""lat"":""38.1112268"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3524434"",""osm_id"":39513,""osm_type"":""relation"",""place_id"":284307182,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Comune di Palermo ha attivato l'indirizzo mail aiutiucraina@comune.palermo.it\ndedicato alla situazione ucraina per accompagnare e facilitare le pratiche di ricongiungimenti e mettere in collegamento i profughi con le associazioni del terzo settore e con privati cittadini che, in alcuni casi, hanno gi\u00e0 espresso ed intendono dare la loro disponibilit\u00e0 per accoglierli."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Palermo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Palermo attiva una mail dedicata per aiuti alle persone in arrivo"",""url"":""https://www.comune.palermo.it/palermo-informa-dettaglio.php?id=34071&tipo=1""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: true
-  transport: false
-  healthcare: false
-  Legal: true
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Comune di Palermo
-title: Comune di Palermo attiva una mail dedicata per aiuti alle persone in arrivo
-recipients: ''
-description: 'Il Comune di Palermo ha attivato l''indirizzo mail aiutiucraina@comune.palermo.it
-
-  dedicato alla situazione ucraina per accompagnare e facilitare le pratiche di ricongiungimenti
-  e mettere in collegamento i profughi con le associazioni del terzo settore e con
-  privati cittadini che, in alcuni casi, hanno già espresso ed intendono dare la loro
-  disponibilità per accoglierli.'
-url: https://www.comune.palermo.it/palermo-informa-dettaglio.php?id=34071&tipo=1
-address:
-  mode: autocomplete
-  address:
-    place_id: 284307182
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 39513
-    boundingbox:
-    - '38.0499137'
-    - '38.2245866'
-    - '13.242219'
-    - '13.4520856'
-    lat: '38.1112268'
-    lon: '13.3524434'
-    display_name: Palermo, Sicilia, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7661148171447915
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Palermo
-      county: Palermo
-      state: Sicilia
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
