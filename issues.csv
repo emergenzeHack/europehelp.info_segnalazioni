@@ -1,4 +1,378 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/729,1217880764,2022-04-27 21:53:38,2022-04-27 21:03:41,"A Empoli (Firenze) Pubbliche Assistenze offrono lezioni di italiano, doposcuola e sportello di ascolto per rifugiati ucraini ",43.7191745,10.9519702,Toscana,Firenze,"[""Valid/Accettato"",""Services"",""Legal"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""house_number"":""17"",""neighbourhood"":""Naiana"",""postcode"":""50053"",""road"":""Via Venti Settembre"",""state"":""Toscana"",""town"":""Empoli"",""village"":""Pontorme""},""boundingbox"":[""43.7191245"",""43.7192245"",""10.9519202"",""10.9520202""],""class"":""place"",""display_name"":""17, Via Venti Settembre, Naiana, Pontorme, Empoli, Citt\u00e0 metropolitana di Firenze, Toscana, 50053, Italia"",""importance"":0.42099999999999993,""lat"":""43.7191745"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.9519702"",""osm_id"":3772847063,""osm_type"":""node"",""place_id"":44723312,""type"":""house""},""mode"":""autocomplete""},""description"":""A Empoli le Pubbliche Assistenze Riunite offrono lezioni di italiano, doposcuola e sportello di ascolto per la popolazione ucraina in fuga dalla guerra.\nI corsi si terranno tutti nella sede della Pubblica Assistenza di Empoli, in via XX Settembre, 17. In \u2018cattedra\u2019 professoresse ed educatrici gi\u00e0 impegnate nello stesso servizio per donne e bambini del Centro Aiuto Donna Lilith. \nIl doposcuola si svolger\u00e0 tutti i venerd\u00ec pomeriggio, dalle 15.30 alle 17.30 per studentesse e studenti delle scuole medie, dalle 17.30 alle 19.30 per bambine e bambini delle scuole elementari. \nLe lezioni di lingua italiana rivolte agli adulti saranno invece ogni marted\u00ec e mercoled\u00ec mattina, dalle 10 alle 12.\n\u00c8 necessario iscriversi per i corsi di doposcuola e lezioni di italiano: baster\u00e0 telefonare al numero 0571 9806210, dalle 9 alle 17 dal luned\u00ec al venerd\u00ec.\nL\u2019altro servizio attivato in supporto alla popolazione ucraina \u00e8 lo sportello di ascolto. Il personale qualificato del Centro Lilith mette a disposizione le proprie competenze per donne e bambini fuggiti dal conflitto. Per usufruire dello sportello occorre prendere appuntamento telefonando, dalle 9 alle 13 dal luned\u00ec al venerd\u00ec, allo 0571 9806206."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Pubbliche Assistenze Riunite Empoli e Castelfiorentino"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":true,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Empoli (Firenze) Pubbliche Assistenze offrono lezioni di italiano, doposcuola e sportello di ascolto per i rifugiati ucraini"",""url"":""http://www.pubblicheassistenzeempoli.org/2022/03/28/lezioni-italiano-doposcuola-sportello-di-ascolto-popolazione-ucraina-pubblica-assistenza-empoli/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: true
+offerFromWho: Pubbliche Assistenze Riunite Empoli e Castelfiorentino
+title: A Empoli (Firenze) Pubbliche Assistenze offrono lezioni di italiano, doposcuola
+  e sportello di ascolto per i rifugiati ucraini
+recipients: ''
+description: ""A Empoli le Pubbliche Assistenze Riunite offrono lezioni di italiano,\
+  \ doposcuola e sportello di ascolto per la popolazione ucraina in fuga dalla guerra.\n\
+  I corsi si terranno tutti nella sede della Pubblica Assistenza di Empoli, in via\
+  \ XX Settembre, 17. In ‘cattedra’ professoresse ed educatrici già impegnate nello\
+  \ stesso servizio per donne e bambini del Centro Aiuto Donna Lilith. \nIl doposcuola\
+  \ si svolgerà tutti i venerdì pomeriggio, dalle 15.30 alle 17.30 per studentesse\
+  \ e studenti delle scuole medie, dalle 17.30 alle 19.30 per bambine e bambini delle\
+  \ scuole elementari. \nLe lezioni di lingua italiana rivolte agli adulti saranno\
+  \ invece ogni martedì e mercoledì mattina, dalle 10 alle 12.\nÈ necessario iscriversi\
+  \ per i corsi di doposcuola e lezioni di italiano: basterà telefonare al numero\
+  \ 0571 9806210, dalle 9 alle 17 dal lunedì al venerdì.\nL’altro servizio attivato\
+  \ in supporto alla popolazione ucraina è lo sportello di ascolto. Il personale qualificato\
+  \ del Centro Lilith mette a disposizione le proprie competenze per donne e bambini\
+  \ fuggiti dal conflitto. Per usufruire dello sportello occorre prendere appuntamento\
+  \ telefonando, dalle 9 alle 13 dal lunedì al venerdì, allo 0571 9806206.""
+url: http://www.pubblicheassistenzeempoli.org/2022/03/28/lezioni-italiano-doposcuola-sportello-di-ascolto-popolazione-ucraina-pubblica-assistenza-empoli/
+address:
+  mode: autocomplete
+  address:
+    place_id: 44723312
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 3772847063
+    boundingbox:
+    - '43.7191245'
+    - '43.7192245'
+    - '10.9519202'
+    - '10.9520202'
+    lat: '43.7191745'
+    lon: '10.9519702'
+    display_name: 17, Via Venti Settembre, Naiana, Pontorme, Empoli, Città metropolitana
+      di Firenze, Toscana, 50053, Italia
+    class: place
+    type: house
+    importance: 0.42099999999999993
+    address:
+      house_number: '17'
+      road: Via Venti Settembre
+      neighbourhood: Naiana
+      village: Pontorme
+      town: Empoli
+      county: Città metropolitana di Firenze
+      state: Toscana
+      ISO3166-2-lvl4: IT-52
+      postcode: '50053'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/730,1217885696,2022-04-27 21:53:14,2022-04-27 21:08:56,A Padova corso gratuito online di italiano per donne e ragazzi ucraini promosso da Vides Veneto,45.4077172,11.8734455,Veneto,Padova,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""city"":""Padova"",""country"":""Italia"",""country_code"":""it"",""county"":""Padova"",""postcode"":""35100"",""state"":""Veneto""},""boundingbox"":[""45.2477172"",""45.5677172"",""11.7134455"",""12.0334455""],""class"":""place"",""display_name"":""Padova, Veneto, 35100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7535563013929846,""lat"":""45.4077172"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.8734455"",""osm_id"":406747508,""osm_type"":""node"",""place_id"":2885944,""type"":""city""},""mode"":""autocomplete""},""description"":""L\u2019associazione Vides Veneto ha avviato a Padova il primo corso di italiano come L2 per donne e ragazzi ucraini.\nIl corso (gratuito) si svolger\u00e0 online, 4 ore alla settimana, fino a giugno. Le persone interessate possono scrivere a videsveneto@gmail.com per ricevere tutte le informazioni utili."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Vides Veneto"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Padova corso gratuito online di italiano per donne e ragazzi ucraini promosso da Vides Veneto"",""url"":""https://www.facebook.com/videsveneto/photos/a.283286715049192/5220832027961278/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Vides Veneto
+title: A Padova corso gratuito online di italiano per donne e ragazzi ucraini promosso
+  da Vides Veneto
+recipients: ''
+description: 'L’associazione Vides Veneto ha avviato a Padova il primo corso di italiano
+  come L2 per donne e ragazzi ucraini.
+
+  Il corso (gratuito) si svolgerà online, 4 ore alla settimana, fino a giugno. Le
+  persone interessate possono scrivere a videsveneto@gmail.com per ricevere tutte
+  le informazioni utili.'
+url: https://www.facebook.com/videsveneto/photos/a.283286715049192/5220832027961278/
+address:
+  mode: autocomplete
+  address:
+    place_id: 2885944
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 406747508
+    boundingbox:
+    - '45.2477172'
+    - '45.5677172'
+    - '11.7134455'
+    - '12.0334455'
+    lat: '45.4077172'
+    lon: '11.8734455'
+    display_name: Padova, Veneto, 35100, Italia
+    class: place
+    type: city
+    importance: 0.7535563013929846
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Padova
+      county: Padova
+      state: Veneto
+      ISO3166-2-lvl4: IT-34
+      postcode: '35100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/731,1217888424,2022-04-27 21:52:57,2022-04-27 21:12:02,A Rovigo corso gratuito di italiano per rifugiati ucraini promosso da Società Dante Alighieri e Irsap,45.0650659,11.79839,Veneto,Rovigo,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""city"":""Rovigo"",""country"":""Italia"",""country_code"":""it"",""county"":""Rovigo"",""postcode"":""45100"",""state"":""Veneto"",""suburb"":""San Bortolo""},""boundingbox"":[""45.0450659"",""45.0850659"",""11.77839"",""11.81839""],""class"":""place"",""display_name"":""San Bortolo, Rovigo, Veneto, 45100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png"",""importance"":0.5750000000000001,""lat"":""45.0650659"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.79839"",""osm_id"":31452826,""osm_type"":""node"",""place_id"":286183423,""type"":""suburb""},""mode"":""autocomplete""},""description"":""Il comitato di Rovigo della Societ\u00e0 Dante Alighieri con il sostegno di IRSAP propone un corso base di lingua italiana per profughi ucraini privi di sostegno economico. Il corso si svolge nella Sala Parrocchiale San Bortolo di Rovigo. \nInfo al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Societ\u00e0 Dante Alighieri - IRSAP"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Rovigo corso gratuito di italiano per rifugiati ucraini promosso da Societ\u00e0 Dante Alighieri con il sostegno di IRSAP"",""url"":""https://www.csvpadovarovigo.org/wp-content/uploads/2022/03/emergenza-ucraina-primo-soccorso-linguistico.pdf""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Società Dante Alighieri - IRSAP
+title: A Rovigo corso gratuito di italiano per rifugiati ucraini promosso da Società
+  Dante Alighieri con il sostegno di IRSAP
+recipients: ''
+description: ""Il comitato di Rovigo della Società Dante Alighieri con il sostegno\
+  \ di IRSAP propone un corso base di lingua italiana per profughi ucraini privi di\
+  \ sostegno economico. Il corso si svolge nella Sala Parrocchiale San Bortolo di\
+  \ Rovigo. \nInfo al link.""
+url: https://www.csvpadovarovigo.org/wp-content/uploads/2022/03/emergenza-ucraina-primo-soccorso-linguistico.pdf
+address:
+  mode: autocomplete
+  address:
+    place_id: 286183423
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 31452826
+    boundingbox:
+    - '45.0450659'
+    - '45.0850659'
+    - '11.77839'
+    - '11.81839'
+    lat: '45.0650659'
+    lon: '11.79839'
+    display_name: San Bortolo, Rovigo, Veneto, 45100, Italia
+    class: place
+    type: suburb
+    importance: 0.5750000000000001
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png
+    address:
+      suburb: San Bortolo
+      city: Rovigo
+      county: Rovigo
+      state: Veneto
+      ISO3166-2-lvl4: IT-34
+      postcode: '45100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/732,1217892576,2022-04-27 21:52:27,2022-04-27 21:17:10,"Padova, Centro di Aiuto alla Vita offre vestiti e latte in polvere a mamme in arrivo dall’Ucraina",45.3882743,11.8795983,Veneto,Padova,"[""Valid/Accettato"",""Services"",""Children"",""women""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""city"":""Padova"",""country"":""Italia"",""country_code"":""it"",""county"":""Padova"",""postcode"":""35124"",""road"":""Via Tre Garofani"",""state"":""Veneto"",""suburb"":""Madonna Pellegrina""},""boundingbox"":[""45.3882405"",""45.3883456"",""11.8791314"",""11.8804792""],""class"":""highway"",""display_name"":""Via Tre Garofani, Madonna Pellegrina, Padova, Veneto, 35124, Italia"",""importance"":0.51,""lat"":""45.3882743"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.8795983"",""osm_id"":476630886,""osm_type"":""way"",""place_id"":206729021,""type"":""residential""},""mode"":""autocomplete""},""description"":""In caso di necessit\u00e0 di vestiti per bambini/e, mamme e gestanti, cos\u00ec come di latte in polvere per le persone in arrivo dall\u2019Ucraina ci si pu\u00f2 rivolgere al Centro di Aiuto alla Vita di Padova al n. 049 8806330."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Centro di Aiuto alla Vita Padova"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":true},""submit"":true,""title"":""Padova, Centro di Aiuto alla Vita offre vestiti e latte in polvere a mamme in arrivo dall\u2019Ucraina"",""url"":""https://www.csvpadovarovigo.org/emergenza-ucraina-gli-aiuti-dal-mondo-del-volontariato-a-padova-e-rovigo/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: true
+  education: false
+offerFromWho: Centro di Aiuto alla Vita Padova
+title: Padova, Centro di Aiuto alla Vita offre vestiti e latte in polvere a mamme
+  in arrivo dall’Ucraina
+recipients: ''
+description: In caso di necessità di vestiti per bambini/e, mamme e gestanti, così
+  come di latte in polvere per le persone in arrivo dall’Ucraina ci si può rivolgere
+  al Centro di Aiuto alla Vita di Padova al n. 049 8806330.
+url: https://www.csvpadovarovigo.org/emergenza-ucraina-gli-aiuti-dal-mondo-del-volontariato-a-padova-e-rovigo/
+address:
+  mode: autocomplete
+  address:
+    place_id: 206729021
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 476630886
+    boundingbox:
+    - '45.3882405'
+    - '45.3883456'
+    - '11.8791314'
+    - '11.8804792'
+    lat: '45.3882743'
+    lon: '11.8795983'
+    display_name: Via Tre Garofani, Madonna Pellegrina, Padova, Veneto, 35124, Italia
+    class: highway
+    type: residential
+    importance: 0.51
+    address:
+      road: Via Tre Garofani
+      suburb: Madonna Pellegrina
+      city: Padova
+      county: Padova
+      state: Veneto
+      ISO3166-2-lvl4: IT-34
+      postcode: '35124'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/733,1217907513,2022-04-27 21:52:09,2022-04-27 21:36:01,"International Organization for Migration (IOM) help line (ГАРЯЧІ ЛІНІЇ МОМ) for ukranian persons affected by the war in Ukraine, Poland, Romania, Lithuania, Slovakia, Moldova",46.2017559,6.1466014,,,"[""Valid/Accettato"",""News"",""useful contact""]",,,"{""Posizione"":""46.2017559 6.1466014"",""description"":""The International Organization for Migration (IOM) has set up information and support hotlines for persons in Ukraine and fleeing Ukraine in different countries.\n\n\u041c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0430 \u043e\u0440\u0433\u0430\u043d\u0456\u0437\u0430\u0446\u0456\u044f \u0437 \u043c\u0456\u0433\u0440\u0430\u0446\u0456\u0457 (\u041c\u041e\u041c) \u0432\u0456\u0434\u043a\u0440\u0438\u043b\u0430 \u0433\u0430\u0440\u044f\u0447\u0456 \u043b\u0456\u043d\u0456\u0457 \u0434\u043b\u044f \u0456\u043d\u0444\u043e\u0440\u043c\u0443\u0432\u0430\u043d\u043d\u044f \u0442\u0430 \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u043a\u0438 \u043b\u044e\u0434\u0435\u0439, \u044f\u043a\u0456 \u0432\u0438\u0457\u0436\u0434\u0436\u0430\u044e\u0442\u044c \u0437 \u0423\u043a\u0440\u0430\u0457\u043d\u0438 \u0434\u043e \u0456\u043d\u0448\u0438\u0445 \u043a\u0440\u0430\u0457\u043d. \u041d\u0430 \u0446\u0456\u0439 \u0441\u0442\u043e\u0440\u0456\u043d\u0446\u0456 \u043d\u0430\u0434\u0430\u043d\u043e \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u044e \u043f\u0440\u043e \u0447\u0438\u043d\u043d\u0456 \u0433\u0430\u0440\u044f\u0447\u0456 \u043b\u0456\u043d\u0456\u0457.\n\nIOM hotline numbers and support contacts per country (\u0413\u0430\u0440\u044f\u0447\u0456 \u043b\u0456\u043d\u0456\u0457 \u041c\u041e\u041c \u0442\u0430 \u043a\u043e\u043d\u0442\u0430\u043a\u0442\u0438 \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u043a\u0438 \u043f\u043e \u043a\u0440\u0430\u0457\u043d\u0430\u0445): \n\n- Ukraine: 527 (free from mobile phones), 0800505501 (free from landline phones); as well as 527 website https://www.527.org.ua\n\n- Poland: +48 22 490 20 44\n\n- Romania: Online support platform https://dopomoha.ro/uk\n\n- Lithuania: +370 525 14352 is run by IOM's Migration Information Centre, also available through live chat on this website https://www.renkuosilietuva.lt/ru/\n\n- Slovakia: From abroad 00421 5263 0023, locally 0850 211 478; Telegram/Signal: 00421 908 767 853 (voice only); Web: https://www.mic.iom.sk/en/\n\n- Moldova: Bureau of Migration and Asylum (BMA): 080001527 (free from Moldova) and +37322820007 (from abroad); La Strada Anti-trafficking and Safe Migration: 080077777 (free from Moldova) and +37322233309 (from abroad)."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.iom.int/ukraine-iom-hotlines-garyachi-linii-mom-persons-affected-war?s=09"",""location"":{""address"":{""address"":{""city"":""Ginevra"",""country"":""Svizzera"",""country_code"":""ch"",""postcode"":""1204"",""state"":""Ginevra""},""boundingbox"":[""46.0417559"",""46.3617559"",""5.9866014"",""6.3066014""],""class"":""place"",""display_name"":""Ginevra, 1204, Svizzera"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.8001567984925614,""lat"":""46.2017559"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""6.1466014"",""osm_id"":33622904,""osm_type"":""node"",""place_id"":108594,""type"":""city""},""mode"":""autocomplete""},""submit"":true,""title"":""Ukraine crisis: International Organization for Migration (IOM) help line (\u0413\u0410\u0420\u042f\u0427\u0406 \u041b\u0406\u041d\u0406\u0407 \u041c\u041e\u041c) for persons affected by the war in Ukraine, Poland, Romania, Lithuania, Slovakia, Moldova""}","<pre><yamldata>
+title: 'Ukraine crisis: International Organization for Migration (IOM) help line (ГАРЯЧІ
+  ЛІНІЇ МОМ) for persons affected by the war in Ukraine, Poland, Romania, Lithuania,
+  Slovakia, Moldova'
+description: ""The International Organization for Migration (IOM) has set up information\
+  \ and support hotlines for persons in Ukraine and fleeing Ukraine in different countries.\n\
+  \nМіжнародна організація з міграції (МОМ) відкрила гарячі лінії для інформування\
+  \ та підтримки людей, які виїжджають з України до інших країн. На цій сторінці надано\
+  \ інформацію про чинні гарячі лінії.\n\nIOM hotline numbers and support contacts\
+  \ per country (Гарячі лінії МОМ та контакти підтримки по країнах): \n\n- Ukraine:\
+  \ 527 (free from mobile phones), 0800505501 (free from landline phones); as well\
+  \ as 527 website https://www.527.org.ua\n\n- Poland: +48 22 490 20 44\n\n- Romania:\
+  \ Online support platform https://dopomoha.ro/uk\n\n- Lithuania: +370 525 14352\
+  \ is run by IOM's Migration Information Centre, also available through live chat\
+  \ on this website https://www.renkuosilietuva.lt/ru/\n\n- Slovakia: From abroad\
+  \ 00421 5263 0023, locally 0850 211 478; Telegram/Signal: 00421 908 767 853 (voice\
+  \ only); Web: https://www.mic.iom.sk/en/\n\n- Moldova: Bureau of Migration and Asylum\
+  \ (BMA): 080001527 (free from Moldova) and +37322820007 (from abroad); La Strada\
+  \ Anti-trafficking and Safe Migration: 080077777 (free from Moldova) and +37322233309\
+  \ (from abroad).""
+link: https://www.iom.int/ukraine-iom-hotlines-garyachi-linii-mom-persons-affected-war?s=09
+location:
+  mode: autocomplete
+  address:
+    place_id: 108594
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 33622904
+    boundingbox:
+    - '46.0417559'
+    - '46.3617559'
+    - '5.9866014'
+    - '6.3066014'
+    lat: '46.2017559'
+    lon: '6.1466014'
+    display_name: Ginevra, 1204, Svizzera
+    class: place
+    type: city
+    importance: 0.8001567984925614
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Ginevra
+      state: Ginevra
+      postcode: '1204'
+      country: Svizzera
+      country_code: ch
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 46.2017559 6.1466014
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/734,1217913346,2022-04-27 21:50:06,2022-04-27 21:43:41,"Rifugiati ucraini nella Repubblica di San Marino: info e contatti utili per accoglienza, supporto economico, assistenza sanitaria, scuola e altro",43.9363996,12.4466991,,,"[""Valid/Accettato"",""News"",""Services"",""useful contact""]",,,"{""Posizione"":""43.9363996 12.4466991"",""description"":""Ad oggi, dati ufficiali del\u2019Unit\u00e0 di Coordinamento per l\u2019accoglienza a San Marino dei cittadini ucraini istituita presso il Dipartimento Affari Esteri, sono stati accolti circa 280 persone. Il Congresso di Stato ha stabilito, con il Decreto Legge n. 27 del 4 marzo 2022, un limite massimo di accoglienza a 300 unit\u00e0, con possibilit\u00e0 di incremento del 5% su base mensile, a partire dal 15 aprile.\nAi rifugiati il Titano concede un permesso di soggiorno provvisorio nel caso per\u00f2 si dimostri lo stato di ricongiungimento familiare cos\u00ec come la preventiva disponibilit\u00e0 dell\u2019alloggio.\nPer chi rientra in queste condizioni e ai minori da loro assistiti, il Decreto menzionato assicura \u201ca titolo gratuito l\u2019assistenza sanitaria, socio sanitaria, il diritto all\u2019istruzione e ulteriori servizi assistenziali ritenuti necessari per tutto il periodo di permanenza nelle forme e con le limitazioni previste dalle autorit\u00e0 settorialmente competenti\u201d.\nNon solo. Ai profughi sar\u00e0 elargita anche una piccola somma di denaro per i mesi che trascorreranno ospiti a San Marino. Nei giorni scorsi il Congresso ha indicato i dettagli in una delibera: sulla Smac saranno versati 100 euro mensili per ogni adulto e 50 euro mensili per ogni minore.\nAl momento \u00e8 previsto che il contributo sia garantito \u201cper un periodo di tre mesi rinnovabili di altri tre mesi\u201d.\nPer ottenere la somma il cittadino ucraino in rappresentanza del proprio nucleo familiare dovr\u00e0 compilare presso l\u2019Ufficio Stranieri del Corpo della Gendarmeria apposito modulo dichiarante la composizione del proprio nucleo famigliare e di richiesta rilascio di SMaC Card che sar\u00e0 rilasciata gratuitamente dal Servizio San Marino Card \u2013 Dipartimento Finanze e Bilancio.\nLa delibera precisa che il profugo ucraino perde il diritto all\u2019emolumento nei seguenti casi: per qualsiasi ragione gli venga revocato il permesso di soggiorno provvisorio; svolga attivit\u00e0 lavorativa per un periodo mensile superiore a 15 giorni; a qualsiasi titolo risulti non soggiornare pi\u00f9 in Repubblica.\nInoltre il movimento sportivo sammarinese ha offerta piena disponibilit\u00e0 a collaborare per consentire pratiche sportive gratuite a coloro che ne faranno richiesta. Le Federazioni sportive si stanno organizzando per offrire tali attivit\u00e0, da estendersi anche ad eventuali atleti agonisti provenienti dai territori in guerra. Un gesto che vuole agevolare l\u2019integrazione e l\u2019inserimento dei minori nel tessuto sociale e ricreativo del territorio.\nLa Segreteria di Stato agli Esteri invita coloro che, accolti, intendano lasciare il territorio di darne tempestiva comunicazione all\u2019Ufficio Stranieri del corpo della Gendarmeria per il conseguente ritiro del documento di soggiorno (n. tel 0549-888099).\nResta attiva la raccolta fondi pubblica per l\u2019accoglienza di cittadini ucraini: Denominazione: \u201cGuerra Ucraina- Accoglienza profughi\u201d Codice IBAN SM72D0606709800000120161869 Per donazioni dall\u2019estero, il Codice SWIFT \u00e8: CSSMSMSMXXX\nPer informazioni e disponibilit\u00e0 \u00e8 possibile scrivere a supporto.ucraina@esteri.sm o al numero di telefono 0549-885400. Nelle giornate di luned\u00ec (8.30-10.00) e gioved\u00ec (16.00-18.00) sar\u00e0 attivo un servizio di interpretariato in lingua ucraina per agevolare le presenze ucraine in territorio."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.libertas.sm/a-san-marino-280-profughi-dallucraina-a-ciascuno-100-euro-al-mese-sulla-smac-50-per-i-minori/"",""location"":{""address"":{""address"":{""city"":""Citt\u00e0 di San Marino"",""country"":""San Marino"",""country_code"":""sm"",""postcode"":""47890""},""boundingbox"":[""43.7763996"",""44.0963996"",""12.2866991"",""12.6066991""],""class"":""place"",""display_name"":""Citt\u00e0 di San Marino, 47890, San Marino"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7164086443845148,""lat"":""43.9363996"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4466991"",""osm_id"":280982720,""osm_type"":""node"",""place_id"":325972418,""type"":""city""},""mode"":""autocomplete""},""submit"":true,""title"":""Rifugiati ucraini nella Repubblica di San Marino: info e contatti utili per accoglienza, supporto economico, assistenza sanitaria, integrazione scolastica""}","<pre><yamldata>
+title: 'Rifugiati ucraini nella Repubblica di San Marino: info e contatti utili per
+  accoglienza, supporto economico, assistenza sanitaria, integrazione scolastica'
+description: 'Ad oggi, dati ufficiali del’Unità di Coordinamento per l’accoglienza
+  a San Marino dei cittadini ucraini istituita presso il Dipartimento Affari Esteri,
+  sono stati accolti circa 280 persone.
+  Il Congresso di Stato ha stabilito, con il Decreto Legge n. 27 del 4 marzo 2022,
+  un limite massimo di accoglienza a 300 unità, con possibilità di incremento del
+  5% su base mensile, a partire dal 15 aprile.
+
+  Ai rifugiati il Titano concede un permesso di soggiorno provvisorio nel caso però
+  si dimostri lo stato di ricongiungimento familiare così come la preventiva disponibilità
+  dell’alloggio.
+
+  Per chi rientra in queste condizioni e ai minori da loro assistiti, il Decreto menzionato
+  assicura “a titolo gratuito l’assistenza sanitaria, socio sanitaria, il diritto
+  all’istruzione e ulteriori servizi assistenziali ritenuti necessari per tutto il
+  periodo di permanenza nelle forme e con le limitazioni previste dalle autorità settorialmente
+  competenti”.
+
+  Non solo. Ai profughi sarà elargita anche una piccola somma di denaro per i mesi
+  che trascorreranno ospiti a San Marino. Nei giorni scorsi il Congresso ha indicato
+  i dettagli in una delibera: sulla Smac saranno versati 100 euro mensili per ogni
+  adulto e 50 euro mensili per ogni minore.
+
+  Al momento è previsto che il contributo sia garantito “per un periodo di tre mesi
+  rinnovabili di altri tre mesi”.
+
+  Per ottenere la somma il cittadino ucraino in rappresentanza del proprio nucleo
+  familiare dovrà compilare presso l’Ufficio Stranieri del Corpo della Gendarmeria
+  apposito modulo dichiarante la composizione del proprio nucleo famigliare e di richiesta
+  rilascio di SMaC Card che sarà rilasciata gratuitamente dal Servizio San Marino
+  Card – Dipartimento Finanze e Bilancio.
+
+  La delibera precisa che il profugo ucraino perde il diritto all’emolumento nei seguenti
+  casi: per qualsiasi ragione gli venga revocato il permesso di soggiorno provvisorio;
+  svolga attività lavorativa per un periodo mensile superiore a 15 giorni; a qualsiasi
+  titolo risulti non soggiornare più in Repubblica.
+
+  Inoltre il movimento sportivo sammarinese ha offerta piena disponibilità a collaborare
+  per consentire pratiche sportive gratuite a coloro che ne faranno richiesta. Le
+  Federazioni sportive si stanno organizzando per offrire tali attività, da estendersi
+  anche ad eventuali atleti agonisti provenienti dai territori in guerra. Un gesto
+  che vuole agevolare l’integrazione e l’inserimento dei minori nel tessuto sociale
+  e ricreativo del territorio.
+
+  La Segreteria di Stato agli Esteri invita coloro che, accolti, intendano lasciare
+  il territorio di darne tempestiva comunicazione all’Ufficio Stranieri del corpo
+  della Gendarmeria per il conseguente ritiro del documento di soggiorno (n. tel 0549-888099).
+
+  Resta attiva la raccolta fondi pubblica per l’accoglienza di cittadini ucraini:
+  Denominazione: “Guerra Ucraina- Accoglienza profughi”
+  Codice IBAN SM72D0606709800000120161869
+  Per donazioni dall’estero, il Codice SWIFT è: CSSMSMSMXXX
+
+  Per informazioni e disponibilità è possibile scrivere a supporto.ucraina@esteri.sm
+  o al numero di telefono 0549-885400.
+  Nelle giornate di lunedì (8.30-10.00) e giovedì (16.00-18.00) sarà attivo un servizio
+  di interpretariato in lingua ucraina per agevolare le presenze ucraine in territorio.'
+link: https://www.libertas.sm/a-san-marino-280-profughi-dallucraina-a-ciascuno-100-euro-al-mese-sulla-smac-50-per-i-minori/
+location:
+  mode: autocomplete
+  address:
+    place_id: 325972418
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 280982720
+    boundingbox:
+    - '43.7763996'
+    - '44.0963996'
+    - '12.2866991'
+    - '12.6066991'
+    lat: '43.9363996'
+    lon: '12.4466991'
+    display_name: Città di San Marino, 47890, San Marino
+    class: place
+    type: city
+    importance: 0.7164086443845148
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Città di San Marino
+      postcode: '47890'
+      country: San Marino
+      country_code: sm
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 43.9363996 12.4466991
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/399,1185341282,2022-04-27 21:23:20,2022-03-29 19:51:31,Comune di Palermo attiva indirizzo email per supporto e accoglienza delle persone in arrivo dall’Ucraina,38.1112268,13.3524434,Sicilia,Palermo,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""state"":""Sicilia""},""boundingbox"":[""38.0499137"",""38.2245866"",""13.242219"",""13.4520856""],""class"":""boundary"",""display_name"":""Palermo, Sicilia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7661148171447915,""lat"":""38.1112268"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3524434"",""osm_id"":39513,""osm_type"":""relation"",""place_id"":284307182,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Comune di Palermo ha attivato l'indirizzo mail aiutiucraina@comune.palermo.it dedicato alla situazione ucraina per accompagnare e facilitare le pratiche di ricongiungimenti e mettere in collegamento i profughi con le associazioni del terzo settore e con privati cittadini che, in alcuni casi, hanno gi\u00e0 espresso ed intendono dare la loro disponibilit\u00e0 per accoglierli."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Palermo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Palermo attiva una mail dedicata per aiuti alle persone in arrivo"",""url"":""https://www.comune.palermo.it/palermo-informa-dettaglio.php?id=34071&tipo=1""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
