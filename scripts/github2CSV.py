@@ -196,6 +196,37 @@ def write_geojson_file(issues):
     # move temp file to final one
     Path(TMPGEOJSONFILE).rename(GEOJSONFILE)
 
+def get_issue_lat_lon(issueData):
+    for posName in POSIZIONE_NAMES:
+        if posName in issueData:
+            try:
+                (lat, lon) = issueData[posName].split(" ")[:2]
+
+                return (lat, lon)
+            except Exception as e:
+                logger.error("Exception: {} {}".format(e,issueData[posName]))
+            break
+
+    if "location" in issueData:
+        location = issueData["location"]
+        if "address" in location:
+            address = location["address"]
+            if "lat" in address and "lon" in address:
+                return (address["lat"],address["lon"])
+
+    if "address" in issueData:
+        location = issueData["address"]
+        if "address" in location:
+            address = location["address"]
+            if "lat" in address and "lon" in address:
+                return (address["lat"],address["lon"])
+
+    if "lat" in issueData and "lon" in issueData:
+        return (issueData["lat"], issueData["lon"])
+
+    return None
+
+
 def get_csv_issue(issue, gh_issue):
     return (
         gh_issue.html_url, gh_issue.id, gh_issue.updated_at, gh_issue.created_at,
@@ -327,24 +358,24 @@ if __name__ == "__main__":
             logger.info("Issue body %s", issue.body)
             continue
 
-        for posName in POSIZIONE_NAMES:
-            if posName in data:
-                try:
-                    (lat, lon) = data[posName].split(" ")[:2]
-                    p = Point(float(lon), float(lat))
-                    for i, regione in regioni.iterrows():
-                        if regione['geometry'].contains(p):
-                            regioneIssue = regione["DEN_REG"]
-                            break
+        
+        latlon = get_issue_lat_lon(data)
+        if latlon:
+            try:
+                (lat, lon) = latlon
+                p = Point(float(lon), float(lat))
+                for i, regione in regioni.iterrows():
+                    if regione['geometry'].contains(p):
+                        regioneIssue = regione["DEN_REG"]
+                        break
 
-                    for i, provincia in province.iterrows():
-                        if provincia['geometry'].contains(p):
-                            provinciaIssue = provincia["DEN_UTS"]
-                            break
+                for i, provincia in province.iterrows():
+                    if provincia['geometry'].contains(p):
+                        provinciaIssue = provincia["DEN_UTS"]
+                        break
 
-                except Exception as e:
-                    logger.error("Exception: {} {}".format(e,data[posName]))
-                break
+            except Exception as e:
+                logger.error("Exception: {} {}".format(e,data))
 
         if "regione_manuale" in data:
             regioneIssue = data["regione_manuale"]
