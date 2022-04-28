@@ -1,4 +1,76 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/717,1213780725,2022-04-28 15:08:46,2022-04-24 22:00:06,A Brescia Caritas e Croce Rossa distribuiscono ogni settimana beni alimentari alle famiglie ucraine,45.518185,10.2751158,Lombardia,Brescia,"[""Valid/Accettato"",""Services"",""materialGoods"",""Children"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-BS"",""city_district"":""Zona Est"",""country"":""Italia"",""country_code"":""it"",""county"":""Brescia"",""postcode"":""25135"",""road"":""Via Agostino Chiappa"",""state"":""Lombardia"",""village"":""Buffalora - Bettole""},""boundingbox"":[""45.518102"",""45.5183458"",""10.2750423"",""10.2751808""],""class"":""highway"",""display_name"":""Via Agostino Chiappa, Buffalora - Bettole, Zona Est, Brescia, Lombardia, 25135, Italia"",""importance"":0.41000000000000003,""lat"":""45.518185"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.2751158"",""osm_id"":402402916,""osm_type"":""way"",""place_id"":195647941,""type"":""residential""},""mode"":""autocomplete""},""description"":""Sabato 23 aprile verr\u00e0 avviata l\u2019attivit\u00e0 del centro di distribuzione generi di prima necessit\u00e0 per le famiglie ucraine che non sono inserite nei canali gestiti dalla Prefettura (CAS), nel sistema SAI e nei prossimi sistemi di accoglienza della Protezione Civile.\nIl magazzino \u00e8 organizzato presso la sede ex OMB in via Chiappa 27 a Brescia.\nCroce Rossa Italiana comitato di Brescia, con la collaborazione di Caritas, Cauto e Maremosso, gestir\u00e0 il centro di distribuzione per conto del Comune di Brescia.\nLa distribuzione avverr\u00e0 inizialmente il fine settimana, sabato e domenica dalle 9 alle 16. Verr\u00e0 consegnato un pacco alimentare per nucleo familiare il cui contenuto varier\u00e0 rispetto la composizione e alla presenza di bambini, per consentire una autonomia di quindici giorni. Dopo un breve periodo di sperimentazione e di verifica organizzativa si valuteranno eventuali modifiche prevedendo una estensione dei giorni di apertura.\nPer eventuali donazioni o informazioni \u00e8 possibile contattare Croce Rossa Italiana Brescia all\u2019indirizzo brescia@cri.it (referente organizzativo) o la dottoressa Megni Francesca fmegni@comune.brescia.it (referente Comune di Brescia)."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Caritas Brescia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Brescia Caritas e Croce Rossa distribuiscono ogni settimana beni alimentari alle famiglie ucraine"",""url"":""https://www.caritasbrescia.it/flash-news/emergenza-ucraina-centro-distribuzione-generi-di-prima-necessita/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Caritas Brescia
+title: A Brescia Caritas e Croce Rossa distribuiscono ogni settimana beni alimentari
+  alle famiglie ucraine
+recipients: ''
+description: 'Sabato 23 aprile verrà avviata l’attività del centro di distribuzione
+  generi di prima necessità per le famiglie ucraine che non sono inserite nei canali
+  gestiti dalla Prefettura (CAS), nel sistema SAI e nei prossimi sistemi di accoglienza
+  della Protezione Civile.
+
+  Il magazzino è organizzato presso la sede ex OMB in via Chiappa 27 a Brescia.
+
+  Croce Rossa Italiana comitato di Brescia, con la collaborazione di Caritas, Cauto
+  e Maremosso, gestirà il centro di distribuzione per conto del Comune di Brescia.
+
+  La distribuzione avverrà inizialmente il fine settimana, sabato e domenica dalle
+  9 alle 16. Verrà consegnato un pacco alimentare per nucleo familiare il cui contenuto
+  varierà rispetto la composizione e alla presenza di bambini, per consentire una
+  autonomia di quindici giorni. Dopo un breve periodo di sperimentazione e di verifica
+  organizzativa si valuteranno eventuali modifiche prevedendo una estensione dei giorni
+  di apertura.
+
+  Per eventuali donazioni o informazioni è possibile contattare Croce Rossa Italiana
+  Brescia all’indirizzo brescia@cri.it (referente organizzativo) o la dottoressa Megni
+  Francesca fmegni@comune.brescia.it (referente Comune di Brescia).'
+url: https://www.caritasbrescia.it/flash-news/emergenza-ucraina-centro-distribuzione-generi-di-prima-necessita/
+address:
+  mode: autocomplete
+  address:
+    place_id: 195647941
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 402402916
+    boundingbox:
+    - '45.518102'
+    - '45.5183458'
+    - '10.2750423'
+    - '10.2751808'
+    lat: '45.518185'
+    lon: '10.2751158'
+    display_name: Via Agostino Chiappa, Buffalora - Bettole, Zona Est, Brescia, Lombardia,
+      25135, Italia
+    class: highway
+    type: residential
+    importance: 0.41000000000000003
+    address:
+      road: Via Agostino Chiappa
+      village: Buffalora - Bettole
+      city_district: Zona Est
+      county: Brescia
+      ISO3166-2-lvl6: IT-BS
+      state: Lombardia
+      postcode: '25135'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/734,1217913346,2022-04-28 07:24:18,2022-04-27 21:43:41,"Rifugiati ucraini nella Repubblica di San Marino: info e contatti utili per accoglienza, supporto economico, assistenza sanitaria, scuola e altro",43.9363996,12.4466991,,,"[""Valid/Accettato"",""News"",""Services"",""useful contact"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""43.9363996 12.4466991"",""description"":""Ad oggi, dati ufficiali del\u2019Unit\u00e0 di Coordinamento per l\u2019accoglienza a San Marino dei cittadini ucraini istituita presso il Dipartimento Affari Esteri, sono stati accolti circa 280 persone. Il Congresso di Stato ha stabilito, con il Decreto Legge n. 27 del 4 marzo 2022, un limite massimo di accoglienza a 300 unit\u00e0, con possibilit\u00e0 di incremento del 5% su base mensile, a partire dal 15 aprile.\nAi rifugiati il Titano concede un permesso di soggiorno provvisorio nel caso per\u00f2 si dimostri lo stato di ricongiungimento familiare cos\u00ec come la preventiva disponibilit\u00e0 dell\u2019alloggio.\nPer chi rientra in queste condizioni e ai minori da loro assistiti, il Decreto menzionato assicura \u201ca titolo gratuito l\u2019assistenza sanitaria, socio sanitaria, il diritto all\u2019istruzione e ulteriori servizi assistenziali ritenuti necessari per tutto il periodo di permanenza nelle forme e con le limitazioni previste dalle autorit\u00e0 settorialmente competenti\u201d.\nNon solo. Ai profughi sar\u00e0 elargita anche una piccola somma di denaro per i mesi che trascorreranno ospiti a San Marino. Nei giorni scorsi il Congresso ha indicato i dettagli in una delibera: sulla Smac saranno versati 100 euro mensili per ogni adulto e 50 euro mensili per ogni minore.\nAl momento \u00e8 previsto che il contributo sia garantito \u201cper un periodo di tre mesi rinnovabili di altri tre mesi\u201d.\nPer ottenere la somma il cittadino ucraino in rappresentanza del proprio nucleo familiare dovr\u00e0 compilare presso l\u2019Ufficio Stranieri del Corpo della Gendarmeria apposito modulo dichiarante la composizione del proprio nucleo famigliare e di richiesta rilascio di SMaC Card che sar\u00e0 rilasciata gratuitamente dal Servizio San Marino Card \u2013 Dipartimento Finanze e Bilancio.\nLa delibera precisa che il profugo ucraino perde il diritto all\u2019emolumento nei seguenti casi: per qualsiasi ragione gli venga revocato il permesso di soggiorno provvisorio; svolga attivit\u00e0 lavorativa per un periodo mensile superiore a 15 giorni; a qualsiasi titolo risulti non soggiornare pi\u00f9 in Repubblica.\nInoltre il movimento sportivo sammarinese ha offerta piena disponibilit\u00e0 a collaborare per consentire pratiche sportive gratuite a coloro che ne faranno richiesta. Le Federazioni sportive si stanno organizzando per offrire tali attivit\u00e0, da estendersi anche ad eventuali atleti agonisti provenienti dai territori in guerra. Un gesto che vuole agevolare l\u2019integrazione e l\u2019inserimento dei minori nel tessuto sociale e ricreativo del territorio.\nLa Segreteria di Stato agli Esteri invita coloro che, accolti, intendano lasciare il territorio di darne tempestiva comunicazione all\u2019Ufficio Stranieri del corpo della Gendarmeria per il conseguente ritiro del documento di soggiorno (n. tel 0549-888099).\nResta attiva la raccolta fondi pubblica per l\u2019accoglienza di cittadini ucraini: Denominazione: \u201cGuerra Ucraina- Accoglienza profughi\u201d Codice IBAN SM72D0606709800000120161869 Per donazioni dall\u2019estero, il Codice SWIFT \u00e8: CSSMSMSMXXX\nPer informazioni e disponibilit\u00e0 \u00e8 possibile scrivere a supporto.ucraina@esteri.sm o al numero di telefono 0549-885400. Nelle giornate di luned\u00ec (8.30-10.00) e gioved\u00ec (16.00-18.00) sar\u00e0 attivo un servizio di interpretariato in lingua ucraina per agevolare le presenze ucraine in territorio."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.libertas.sm/a-san-marino-280-profughi-dallucraina-a-ciascuno-100-euro-al-mese-sulla-smac-50-per-i-minori/"",""location"":{""address"":{""address"":{""city"":""Citt\u00e0 di San Marino"",""country"":""San Marino"",""country_code"":""sm"",""postcode"":""47890""},""boundingbox"":[""43.7763996"",""44.0963996"",""12.2866991"",""12.6066991""],""class"":""place"",""display_name"":""Citt\u00e0 di San Marino, 47890, San Marino"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7164086443845148,""lat"":""43.9363996"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4466991"",""osm_id"":280982720,""osm_type"":""node"",""place_id"":325972418,""type"":""city""},""mode"":""autocomplete""},""submit"":true,""title"":""Rifugiati ucraini nella Repubblica di San Marino: info e contatti utili per accoglienza, supporto economico, assistenza sanitaria, integrazione scolastica""}","<pre><yamldata>
 title: 'Rifugiati ucraini nella Repubblica di San Marino: info e contatti utili per
   accoglienza, supporto economico, assistenza sanitaria, integrazione scolastica'
@@ -2284,78 +2356,6 @@ address:
       county: Brescia
       ISO3166-2-lvl6: IT-BS
       state: Lombardia
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/717,1213780725,2022-04-25 09:05:04,2022-04-24 22:00:06,A Brescia Caritas e Croce Rossa distribuiscono ogni settimana beni alimentari alle famiglie ucraine,45.518185,10.2751158,Lombardia,Brescia,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-BS"",""city_district"":""Zona Est"",""country"":""Italia"",""country_code"":""it"",""county"":""Brescia"",""postcode"":""25135"",""road"":""Via Agostino Chiappa"",""state"":""Lombardia"",""village"":""Buffalora - Bettole""},""boundingbox"":[""45.518102"",""45.5183458"",""10.2750423"",""10.2751808""],""class"":""highway"",""display_name"":""Via Agostino Chiappa, Buffalora - Bettole, Zona Est, Brescia, Lombardia, 25135, Italia"",""importance"":0.41000000000000003,""lat"":""45.518185"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.2751158"",""osm_id"":402402916,""osm_type"":""way"",""place_id"":195647941,""type"":""residential""},""mode"":""autocomplete""},""description"":""Sabato 23 aprile verr\u00e0 avviata l\u2019attivit\u00e0 del centro di distribuzione generi di prima necessit\u00e0 per le famiglie ucraine che non sono inserite nei canali gestiti dalla Prefettura (CAS), nel sistema SAI e nei prossimi sistemi di accoglienza della Protezione Civile.\nIl magazzino \u00e8 organizzato presso la sede ex OMB in via Chiappa 27 a Brescia.\nCroce Rossa Italiana comitato di Brescia, con la collaborazione di Caritas, Cauto e Maremosso, gestir\u00e0 il centro di distribuzione per conto del Comune di Brescia.\nLa distribuzione avverr\u00e0 inizialmente il fine settimana, sabato e domenica dalle 9 alle 16. Verr\u00e0 consegnato un pacco alimentare per nucleo familiare il cui contenuto varier\u00e0 rispetto la composizione e alla presenza di bambini, per consentire una autonomia di quindici giorni. Dopo un breve periodo di sperimentazione e di verifica organizzativa si valuteranno eventuali modifiche prevedendo una estensione dei giorni di apertura.\nPer eventuali donazioni o informazioni \u00e8 possibile contattare Croce Rossa Italiana Brescia all\u2019indirizzo brescia@cri.it (referente organizzativo) o la dottoressa Megni Francesca fmegni@comune.brescia.it (referente Comune di Brescia)."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Caritas Brescia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Brescia Caritas e Croce Rossa distribuiscono ogni settimana beni alimentari alle famiglie ucraine"",""url"":""https://www.caritasbrescia.it/flash-news/emergenza-ucraina-centro-distribuzione-generi-di-prima-necessita/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Caritas Brescia
-title: A Brescia Caritas e Croce Rossa distribuiscono ogni settimana beni alimentari
-  alle famiglie ucraine
-recipients: ''
-description: 'Sabato 23 aprile verrà avviata l’attività del centro di distribuzione
-  generi di prima necessità per le famiglie ucraine che non sono inserite nei canali
-  gestiti dalla Prefettura (CAS), nel sistema SAI e nei prossimi sistemi di accoglienza
-  della Protezione Civile.
-
-  Il magazzino è organizzato presso la sede ex OMB in via Chiappa 27 a Brescia.
-
-  Croce Rossa Italiana comitato di Brescia, con la collaborazione di Caritas, Cauto
-  e Maremosso, gestirà il centro di distribuzione per conto del Comune di Brescia.
-
-  La distribuzione avverrà inizialmente il fine settimana, sabato e domenica dalle
-  9 alle 16. Verrà consegnato un pacco alimentare per nucleo familiare il cui contenuto
-  varierà rispetto la composizione e alla presenza di bambini, per consentire una
-  autonomia di quindici giorni. Dopo un breve periodo di sperimentazione e di verifica
-  organizzativa si valuteranno eventuali modifiche prevedendo una estensione dei giorni
-  di apertura.
-
-  Per eventuali donazioni o informazioni è possibile contattare Croce Rossa Italiana
-  Brescia all’indirizzo brescia@cri.it (referente organizzativo) o la dottoressa Megni
-  Francesca fmegni@comune.brescia.it (referente Comune di Brescia).'
-url: https://www.caritasbrescia.it/flash-news/emergenza-ucraina-centro-distribuzione-generi-di-prima-necessita/
-address:
-  mode: autocomplete
-  address:
-    place_id: 195647941
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 402402916
-    boundingbox:
-    - '45.518102'
-    - '45.5183458'
-    - '10.2750423'
-    - '10.2751808'
-    lat: '45.518185'
-    lon: '10.2751158'
-    display_name: Via Agostino Chiappa, Buffalora - Bettole, Zona Est, Brescia, Lombardia,
-      25135, Italia
-    class: highway
-    type: residential
-    importance: 0.41000000000000003
-    address:
-      road: Via Agostino Chiappa
-      village: Buffalora - Bettole
-      city_district: Zona Est
-      county: Brescia
-      ISO3166-2-lvl6: IT-BS
-      state: Lombardia
-      postcode: '25135'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
