@@ -1,4 +1,373 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/734,1217913346,2022-04-28 07:24:18,2022-04-27 21:43:41,"Rifugiati ucraini nella Repubblica di San Marino: info e contatti utili per accoglienza, supporto economico, assistenza sanitaria, scuola e altro",43.9363996,12.4466991,,,"[""Valid/Accettato"",""News"",""Services"",""useful contact"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""43.9363996 12.4466991"",""description"":""Ad oggi, dati ufficiali del\u2019Unit\u00e0 di Coordinamento per l\u2019accoglienza a San Marino dei cittadini ucraini istituita presso il Dipartimento Affari Esteri, sono stati accolti circa 280 persone. Il Congresso di Stato ha stabilito, con il Decreto Legge n. 27 del 4 marzo 2022, un limite massimo di accoglienza a 300 unit\u00e0, con possibilit\u00e0 di incremento del 5% su base mensile, a partire dal 15 aprile.\nAi rifugiati il Titano concede un permesso di soggiorno provvisorio nel caso per\u00f2 si dimostri lo stato di ricongiungimento familiare cos\u00ec come la preventiva disponibilit\u00e0 dell\u2019alloggio.\nPer chi rientra in queste condizioni e ai minori da loro assistiti, il Decreto menzionato assicura \u201ca titolo gratuito l\u2019assistenza sanitaria, socio sanitaria, il diritto all\u2019istruzione e ulteriori servizi assistenziali ritenuti necessari per tutto il periodo di permanenza nelle forme e con le limitazioni previste dalle autorit\u00e0 settorialmente competenti\u201d.\nNon solo. Ai profughi sar\u00e0 elargita anche una piccola somma di denaro per i mesi che trascorreranno ospiti a San Marino. Nei giorni scorsi il Congresso ha indicato i dettagli in una delibera: sulla Smac saranno versati 100 euro mensili per ogni adulto e 50 euro mensili per ogni minore.\nAl momento \u00e8 previsto che il contributo sia garantito \u201cper un periodo di tre mesi rinnovabili di altri tre mesi\u201d.\nPer ottenere la somma il cittadino ucraino in rappresentanza del proprio nucleo familiare dovr\u00e0 compilare presso l\u2019Ufficio Stranieri del Corpo della Gendarmeria apposito modulo dichiarante la composizione del proprio nucleo famigliare e di richiesta rilascio di SMaC Card che sar\u00e0 rilasciata gratuitamente dal Servizio San Marino Card \u2013 Dipartimento Finanze e Bilancio.\nLa delibera precisa che il profugo ucraino perde il diritto all\u2019emolumento nei seguenti casi: per qualsiasi ragione gli venga revocato il permesso di soggiorno provvisorio; svolga attivit\u00e0 lavorativa per un periodo mensile superiore a 15 giorni; a qualsiasi titolo risulti non soggiornare pi\u00f9 in Repubblica.\nInoltre il movimento sportivo sammarinese ha offerta piena disponibilit\u00e0 a collaborare per consentire pratiche sportive gratuite a coloro che ne faranno richiesta. Le Federazioni sportive si stanno organizzando per offrire tali attivit\u00e0, da estendersi anche ad eventuali atleti agonisti provenienti dai territori in guerra. Un gesto che vuole agevolare l\u2019integrazione e l\u2019inserimento dei minori nel tessuto sociale e ricreativo del territorio.\nLa Segreteria di Stato agli Esteri invita coloro che, accolti, intendano lasciare il territorio di darne tempestiva comunicazione all\u2019Ufficio Stranieri del corpo della Gendarmeria per il conseguente ritiro del documento di soggiorno (n. tel 0549-888099).\nResta attiva la raccolta fondi pubblica per l\u2019accoglienza di cittadini ucraini: Denominazione: \u201cGuerra Ucraina- Accoglienza profughi\u201d Codice IBAN SM72D0606709800000120161869 Per donazioni dall\u2019estero, il Codice SWIFT \u00e8: CSSMSMSMXXX\nPer informazioni e disponibilit\u00e0 \u00e8 possibile scrivere a supporto.ucraina@esteri.sm o al numero di telefono 0549-885400. Nelle giornate di luned\u00ec (8.30-10.00) e gioved\u00ec (16.00-18.00) sar\u00e0 attivo un servizio di interpretariato in lingua ucraina per agevolare le presenze ucraine in territorio."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.libertas.sm/a-san-marino-280-profughi-dallucraina-a-ciascuno-100-euro-al-mese-sulla-smac-50-per-i-minori/"",""location"":{""address"":{""address"":{""city"":""Citt\u00e0 di San Marino"",""country"":""San Marino"",""country_code"":""sm"",""postcode"":""47890""},""boundingbox"":[""43.7763996"",""44.0963996"",""12.2866991"",""12.6066991""],""class"":""place"",""display_name"":""Citt\u00e0 di San Marino, 47890, San Marino"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7164086443845148,""lat"":""43.9363996"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4466991"",""osm_id"":280982720,""osm_type"":""node"",""place_id"":325972418,""type"":""city""},""mode"":""autocomplete""},""submit"":true,""title"":""Rifugiati ucraini nella Repubblica di San Marino: info e contatti utili per accoglienza, supporto economico, assistenza sanitaria, integrazione scolastica""}","<pre><yamldata>
+title: 'Rifugiati ucraini nella Repubblica di San Marino: info e contatti utili per
+  accoglienza, supporto economico, assistenza sanitaria, integrazione scolastica'
+description: 'Ad oggi, dati ufficiali del’Unità di Coordinamento per l’accoglienza
+  a San Marino dei cittadini ucraini istituita presso il Dipartimento Affari Esteri,
+  sono stati accolti circa 280 persone.
+  Il Congresso di Stato ha stabilito, con il Decreto Legge n. 27 del 4 marzo 2022,
+  un limite massimo di accoglienza a 300 unità, con possibilità di incremento del
+  5% su base mensile, a partire dal 15 aprile.
+
+  Ai rifugiati il Titano concede un permesso di soggiorno provvisorio nel caso però
+  si dimostri lo stato di ricongiungimento familiare così come la preventiva disponibilità
+  dell’alloggio.
+
+  Per chi rientra in queste condizioni e ai minori da loro assistiti, il Decreto menzionato
+  assicura “a titolo gratuito l’assistenza sanitaria, socio sanitaria, il diritto
+  all’istruzione e ulteriori servizi assistenziali ritenuti necessari per tutto il
+  periodo di permanenza nelle forme e con le limitazioni previste dalle autorità settorialmente
+  competenti”.
+
+  Non solo. Ai profughi sarà elargita anche una piccola somma di denaro per i mesi
+  che trascorreranno ospiti a San Marino. Nei giorni scorsi il Congresso ha indicato
+  i dettagli in una delibera: sulla Smac saranno versati 100 euro mensili per ogni
+  adulto e 50 euro mensili per ogni minore.
+
+  Al momento è previsto che il contributo sia garantito “per un periodo di tre mesi
+  rinnovabili di altri tre mesi”.
+
+  Per ottenere la somma il cittadino ucraino in rappresentanza del proprio nucleo
+  familiare dovrà compilare presso l’Ufficio Stranieri del Corpo della Gendarmeria
+  apposito modulo dichiarante la composizione del proprio nucleo famigliare e di richiesta
+  rilascio di SMaC Card che sarà rilasciata gratuitamente dal Servizio San Marino
+  Card – Dipartimento Finanze e Bilancio.
+
+  La delibera precisa che il profugo ucraino perde il diritto all’emolumento nei seguenti
+  casi: per qualsiasi ragione gli venga revocato il permesso di soggiorno provvisorio;
+  svolga attività lavorativa per un periodo mensile superiore a 15 giorni; a qualsiasi
+  titolo risulti non soggiornare più in Repubblica.
+
+  Inoltre il movimento sportivo sammarinese ha offerta piena disponibilità a collaborare
+  per consentire pratiche sportive gratuite a coloro che ne faranno richiesta. Le
+  Federazioni sportive si stanno organizzando per offrire tali attività, da estendersi
+  anche ad eventuali atleti agonisti provenienti dai territori in guerra. Un gesto
+  che vuole agevolare l’integrazione e l’inserimento dei minori nel tessuto sociale
+  e ricreativo del territorio.
+
+  La Segreteria di Stato agli Esteri invita coloro che, accolti, intendano lasciare
+  il territorio di darne tempestiva comunicazione all’Ufficio Stranieri del corpo
+  della Gendarmeria per il conseguente ritiro del documento di soggiorno (n. tel 0549-888099).
+
+  Resta attiva la raccolta fondi pubblica per l’accoglienza di cittadini ucraini:
+  Denominazione: “Guerra Ucraina- Accoglienza profughi”
+  Codice IBAN SM72D0606709800000120161869
+  Per donazioni dall’estero, il Codice SWIFT è: CSSMSMSMXXX
+
+  Per informazioni e disponibilità è possibile scrivere a supporto.ucraina@esteri.sm
+  o al numero di telefono 0549-885400.
+  Nelle giornate di lunedì (8.30-10.00) e giovedì (16.00-18.00) sarà attivo un servizio
+  di interpretariato in lingua ucraina per agevolare le presenze ucraine in territorio.'
+link: https://www.libertas.sm/a-san-marino-280-profughi-dallucraina-a-ciascuno-100-euro-al-mese-sulla-smac-50-per-i-minori/
+location:
+  mode: autocomplete
+  address:
+    place_id: 325972418
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 280982720
+    boundingbox:
+    - '43.7763996'
+    - '44.0963996'
+    - '12.2866991'
+    - '12.6066991'
+    lat: '43.9363996'
+    lon: '12.4466991'
+    display_name: Città di San Marino, 47890, San Marino
+    class: place
+    type: city
+    importance: 0.7164086443845148
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Città di San Marino
+      postcode: '47890'
+      country: San Marino
+      country_code: sm
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 43.9363996 12.4466991
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/730,1217885696,2022-04-28 07:23:59,2022-04-27 21:08:56,A Padova corso gratuito online di italiano per donne e ragazzi ucraini promosso da Vides Veneto,45.4077172,11.8734455,Veneto,Padova,"[""Valid/Accettato"",""Services"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""city"":""Padova"",""country"":""Italia"",""country_code"":""it"",""county"":""Padova"",""postcode"":""35100"",""state"":""Veneto""},""boundingbox"":[""45.2477172"",""45.5677172"",""11.7134455"",""12.0334455""],""class"":""place"",""display_name"":""Padova, Veneto, 35100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7535563013929846,""lat"":""45.4077172"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.8734455"",""osm_id"":406747508,""osm_type"":""node"",""place_id"":2885944,""type"":""city""},""mode"":""autocomplete""},""description"":""L\u2019associazione Vides Veneto ha avviato a Padova il primo corso di italiano come L2 per donne e ragazzi ucraini.\nIl corso (gratuito) si svolger\u00e0 online, 4 ore alla settimana, fino a giugno. Le persone interessate possono scrivere a videsveneto@gmail.com per ricevere tutte le informazioni utili."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Vides Veneto"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Padova corso gratuito online di italiano per donne e ragazzi ucraini promosso da Vides Veneto"",""url"":""https://www.facebook.com/videsveneto/photos/a.283286715049192/5220832027961278/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Vides Veneto
+title: A Padova corso gratuito online di italiano per donne e ragazzi ucraini promosso
+  da Vides Veneto
+recipients: ''
+description: 'L’associazione Vides Veneto ha avviato a Padova il primo corso di italiano
+  come L2 per donne e ragazzi ucraini.
+
+  Il corso (gratuito) si svolgerà online, 4 ore alla settimana, fino a giugno. Le
+  persone interessate possono scrivere a videsveneto@gmail.com per ricevere tutte
+  le informazioni utili.'
+url: https://www.facebook.com/videsveneto/photos/a.283286715049192/5220832027961278/
+address:
+  mode: autocomplete
+  address:
+    place_id: 2885944
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 406747508
+    boundingbox:
+    - '45.2477172'
+    - '45.5677172'
+    - '11.7134455'
+    - '12.0334455'
+    lat: '45.4077172'
+    lon: '11.8734455'
+    display_name: Padova, Veneto, 35100, Italia
+    class: place
+    type: city
+    importance: 0.7535563013929846
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Padova
+      county: Padova
+      state: Veneto
+      ISO3166-2-lvl4: IT-34
+      postcode: '35100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/728,1217870430,2022-04-28 07:23:36,2022-04-27 20:52:31,"TelehelpUkraine, servizio gratuito di telemedicina per ucraini colpiti dalla guerra promosso dalla Stanford University",37.431313849999995,-122.16936535498309,,,"[""Valid/Accettato"",""Services"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""US-CA"",""amenity"":""Universit\u00e0 di Stanford"",""country"":""Stati Uniti d'America"",""country_code"":""us"",""county"":""Santa Clara County"",""hamlet"":""Stanford"",""house_number"":""408"",""postcode"":""94305"",""road"":""Panama Mall"",""state"":""California""},""boundingbox"":[""37.4189865"",""37.4433992"",""-122.1860658"",""-122.1520382""],""class"":""amenity"",""display_name"":""Universit\u00e0 di Stanford, 408, Panama Mall, Stanford, Santa Clara County, California, 94305, Stati Uniti d'America"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//education_university.p.20.png"",""importance"":0.765492545367418,""lat"":""37.431313849999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""-122.16936535498309"",""osm_id"":29268613,""osm_type"":""way"",""place_id"":108392840,""type"":""university""},""mode"":""autocomplete""},""description"":""Un gruppo di studenti di medicina dell\u2019Universit\u00e0 americana di Stanford ha organizzato un servizio gratuito di telemedicina per ucraini colpiti dalla guerra che offre, in lingua ucraina e russa, assistenza medica e psicologica. \nPer info e contatti vedi link.\n\n\u041c\u0435\u0434\u0438\u0447\u043d\u0456 \u0441\u0442\u0443\u0434\u0435\u043d\u0442\u0438 \u0421\u0442\u0435\u043d\u0444\u043e\u0440\u0434y \u043e\u0440\u0433\u0430\u043d\u0456\u0437\u0443\u0432\u0430\u043b\u0438 \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u0456 \u0442\u0435\u043b\u0435\u043c\u0435\u0434\u0438\u0447\u043d\u0456 \u043f\u043e\u0441\u043b\u0443\u0433\u0438 \u0432\u0456\u0434 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u0438\u0445 \u043b\u0456\u043a\u0430\u0440\u0456\u0432 \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432. \u041c\u0438 \u0441\u0442\u0432\u043e\u0440\u0438\u043b\u0438 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0443 \u0442\u0435\u043b\u0435\u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0438 \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432. \u041c\u0438 \u043d\u0430\u0434\u0430\u0454\u043c\u043e \u043c\u0435\u0434\u0438\u0447\u043d\u0443 \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u0446\u0456\u044e \u0456 \u043f\u0441\u0438\u0445\u043e\u043b\u043e\u0433\u0456\u0447\u043d\u0443 \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u043a\u0443. \u0417\u0430\u0431\u0440\u043e\u043d\u044e\u0439\u0442\u0435 \u0432\u0456\u0434\u0435\u043e\u0432\u0456\u0437\u0438\u0442 \u0442\u0443\u0442: telehelpukraine.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Stanford University"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""TelehelpUkraine, servizio gratuito di telemedicina per rifugiati ucraini promosso dalla Stanford University"",""url"":""https://www.telehelpukraine.com/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: true
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Stanford University
+title: TelehelpUkraine, servizio gratuito di telemedicina per rifugiati ucraini promosso
+  dalla Stanford University
+recipients: ''
+description: ""Un gruppo di studenti di medicina dell’Università americana di Stanford\
+  \ ha organizzato un servizio gratuito di telemedicina per ucraini colpiti dalla guerra che\
+  \ offre, in lingua ucraina e russa, assistenza medica e psicologica. \nPer info\
+  \ e contatti vedi link.\n\nМедичні студенти Стенфордy організували безкоштовні телемедичні\
+  \ послуги від американських лікарів для українців. Ми створили платформу телемедицини\
+  \ для українців. Ми надаємо медичну консультацію і психологічну підтримку. Забронюйте\
+  \ відеовізит тут: telehelpukraine.com""
+url: https://www.telehelpukraine.com/
+address:
+  mode: autocomplete
+  address:
+    place_id: 108392840
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 29268613
+    boundingbox:
+    - '37.4189865'
+    - '37.4433992'
+    - '-122.1860658'
+    - '-122.1520382'
+    lat: '37.431313849999995'
+    lon: '-122.16936535498309'
+    display_name: Università di Stanford, 408, Panama Mall, Stanford, Santa Clara
+      County, California, 94305, Stati Uniti d'America
+    class: amenity
+    type: university
+    importance: 0.765492545367418
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//education_university.p.20.png
+    address:
+      amenity: Università di Stanford
+      house_number: '408'
+      road: Panama Mall
+      hamlet: Stanford
+      county: Santa Clara County
+      state: California
+      ISO3166-2-lvl4: US-CA
+      postcode: '94305'
+      country: Stati Uniti d'America
+      country_code: us
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/726,1217856463,2022-04-28 07:23:20,2022-04-27 20:36:13,"Milano, “Insieme per l’Ucraina”: nuova help line in lingua ucraina per supportare i rifugiati",45.4641943,9.1896346,Lombardia,Milano,"[""Valid/Accettato"",""News"",""Services"",""useful contact"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.4641943 9.1896346"",""description"":""Offrire alle famiglie ucraine in fuga dalla guerra un servizio telefonico di ascolto e orientamento in lingua ucraina integrato con i servizi del Comune di Milano e delle reti territoriali. \u00c8 l'obiettivo della collaborazione tra l'Amministrazione e Andrij Shevchenko per il progetto \""Insieme per l'Ucraina\"" che \u00e8 stato presentato oggi a Palazzo Marino alla presenza del Sindaco di Milano Giuseppe Sala.\nL'ex campione del Milan finanzier\u00e0 l'attivazione di una infoline \u2013 020205 \u2013 che si occuper\u00e0 di indirizzare le famiglie ucraine arrivate in citt\u00e0 e chi offre loro ospitalit\u00e0 verso i servizi che sono attivi in citt\u00e0, con una specifica attenzione verso quelli dedicati ai bambini e ai ragazzi.\nIl centralino sar\u00e0 attivo a partire da fine aprile, dal luned\u00ec al venerd\u00ec dalle 9 alle 18, per supportare i profughi nell'iscrizione ai servizi per l'infanzia e scolastici, per fornire informazioni sulla gestione della didattica a distanza dall'Italia, ma anche per orientare sulle procedure per richiedere e ottenere il permesso di soggiorno. Se necessario, inoltre, sar\u00e0 possibile svolgere colloqui in presenza su appuntamento."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.comune.milano.it/-/insieme-per-l-ucraina.-un-servizio-telefonico-per-orientare-famiglie-e-minori-in-fuga-dalla-guerra-shevchenko-e-il-sindaco-sala-presentano-il-progetto"",""location"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""state"":""Lombardia""},""boundingbox"":[""45.3867381"",""45.5358482"",""9.0408867"",""9.2781103""],""class"":""boundary"",""display_name"":""Milano, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9490652078701349,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":44915,""osm_type"":""relation"",""place_id"":283684439,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Milano, \u201cInsieme per l\u2019Ucraina\u201d: nuova help line in lingua ucraina per supportare i rifugiati ucraini""}","<pre><yamldata>
+title: 'Milano, “Insieme per l’Ucraina”: nuova help line in lingua ucraina per supportare
+  i rifugiati ucraini'
+description: 'Offrire alle famiglie ucraine in fuga dalla guerra un servizio telefonico
+  di ascolto e orientamento in lingua ucraina integrato con i servizi del Comune di
+  Milano e delle reti territoriali. È l''obiettivo della collaborazione tra l''Amministrazione
+  e Andrij Shevchenko per il progetto ""Insieme per l''Ucraina"" che è stato presentato
+  oggi a Palazzo Marino alla presenza del Sindaco di Milano Giuseppe Sala.
+
+  L''ex campione del Milan finanzierà l''attivazione di una infoline – 020205 – che
+  si occuperà di indirizzare le famiglie ucraine arrivate in città e chi offre loro
+  ospitalità verso i servizi che sono attivi in città, con una specifica attenzione
+  verso quelli dedicati ai bambini e ai ragazzi.
+
+  Il centralino sarà attivo a partire da fine aprile, dal lunedì al venerdì dalle
+  9 alle 18, per supportare i profughi nell''iscrizione ai servizi per l''infanzia
+  e scolastici, per fornire informazioni sulla gestione della didattica a distanza
+  dall''Italia, ma anche per orientare sulle procedure per richiedere e ottenere il
+  permesso di soggiorno. Se necessario, inoltre, sarà possibile svolgere colloqui
+  in presenza su appuntamento.'
+link: https://www.comune.milano.it/-/insieme-per-l-ucraina.-un-servizio-telefonico-per-orientare-famiglie-e-minori-in-fuga-dalla-guerra-shevchenko-e-il-sindaco-sala-presentano-il-progetto
+location:
+  mode: autocomplete
+  address:
+    place_id: 283684439
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 44915
+    boundingbox:
+    - '45.3867381'
+    - '45.5358482'
+    - '9.0408867'
+    - '9.2781103'
+    lat: '45.4641943'
+    lon: '9.1896346'
+    display_name: Milano, Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.9490652078701349
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Milano
+      county: Milano
+      ISO3166-2-lvl6: IT-MI
+      state: Lombardia
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.4641943 9.1896346
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/725,1217851204,2022-04-28 07:23:05,2022-04-27 20:30:22,"Vashi Pravà, sportello dell’Università di Ferrara che offre supporto legale a rifugiate/i ucraini",44.8293677,11.6279711,Emilia-Romagna,Ferrara,"[""Valid/Accettato"",""Services"",""Legal"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""city"":""Ferrara"",""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""neighbourhood"":""Centro Storico"",""postcode"":""44121"",""road"":""Via Brasavola"",""state"":""Emilia-Romagna"",""suburb"":""Quacchio""},""boundingbox"":[""44.8291849"",""44.8293677"",""11.6279711"",""11.6294897""],""class"":""highway"",""display_name"":""Via Brasavola, Centro Storico, Quacchio, Ferrara, Emilia-Romagna, 44121, Italia"",""importance"":0.41000000000000003,""lat"":""44.8293677"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.6279711"",""osm_id"":221888911,""osm_type"":""way"",""place_id"":155837595,""type"":""residential""},""mode"":""autocomplete""},""description"":""A Ferrara sportello di assistenza legale per rifugiate/i ucraini, promosso da un gruppo di studenti e ricercatori dell\u2019Universit\u00e0 di Ferrara. Lo sportello offre gratuitamente:\n a) informazioni sulla procedura di \nregistrazione presso la Questura di Ferrara e supporto alla compilazione della modulistica necessaria (dichiarazione di \nospitalit\u00e0/dichiarazione di presenza).\n b) informazioni sul permesso di soggiorno per protezione temporanea e sulla protezione \ninternazionale\nc) su prenotazione, servizio di \naccompagnamento presso: \n- Punto Assistenza Unico in Fiera\n- Questura\n- altri servizi del territorio\nd) orientamento per ulteriori quesiti giuridici\n e) informazione e orientamento ad altri \nservizi offerti dal territorio:\n- servizi di prima accoglienza e \nalloggio\n- inserimento scolastico dei minori\n- iscrizioni al Servizio Sanitario Nazionale (SSN) e anamnesi vaccinale\n- green pass e tamponi (Covid-19)\n- servizi sociali\n- corsi di italiano\n- altri servizi offerti dalle associazioni \ndel terzo settore\n\u0412\u0456\u043a\u043d\u043e \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u043e\u0457 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0438:\n\u0430) \u041e\u0441\u0432\u0456\u0434\u043e\u043c\u0438\u0442\u044c \u0432\u0430\u0441 \u0449\u043e\u0434\u043e \u043f\u0440\u043e\u0446\u0435\u0434\u0443\u0440\u0438 \u0440\u0435\u0454\u0441\u0442\u0440\u0430\u0446\u0456\u0457 \u0443 \u041a\u0432\u0435\u0441\u0442\u0443\u0440\u0456 \u043c\u0456\u0441\u0442\u0430 \u0424\u0435\u0440\u0440\u0430\u0440\u0438, \u0430 \u0442\u0430\u043a\u043e\u0436 \u043d\u0430\u0434\u0430\u0441\u0442\u044c \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0443 \u043f\u0440\u0438 \u0437\u0430\u043f\u043e\u0432\u043d\u0435\u043d\u043d\u0456 \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u0438\u0445 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0456\u0432 (\u043f\u043e\u0441\u0432\u0456\u0434\u0447\u0435\u043d\u043d\u044f \u0433\u043e\u0441\u0442\u0438\u043d\u043d\u043e\u0441\u0442\u0456/\u043f\u043e\u0441\u0432\u0456\u0434\u0447\u0435\u043d\u043d\u044f \u043f\u0440\u0438\u0441\u0443\u0442\u043d\u043e\u0441\u0442\u0456).\n\u0431) \u041d\u0430\u0434\u0430\u0441\u0442\u044c \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u044e \u043f\u0440\u043e \u0434\u043e\u0437\u0432\u0456\u043b \u043d\u0430 \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u043d\u043d\u044f \u0434\u043b\u044f \u0442\u0438\u043c\u0447\u0430\u0441\u043e\u0432\u043e\u0433\u043e \u0437\u0430\u0445\u0438\u0441\u0442\u0443 \u0442\u0430 \u043c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0433\u043e \u0437\u0430\u0445\u0438\u0441\u0442\u0443.\n\u0432) \u0417\u0430 \u043f\u043e\u043f\u0435\u0440\u0435\u0434\u043d\u044c\u043e\u044e \u0443\u0433\u043e\u0434\u043e\u044e, \u0432\u0438 \u043c\u043e\u0436\u0435\u0442\u0435 \u043f\u043e\u043f\u0440\u043e\u0441\u0438\u0442\u0438 \u043f\u0440\u0438\u0441\u0443\u0442\u043d\u0456\u0441\u0442\u044c \u0430\u0441\u0438\u0441\u0442\u0435\u043d\u0442\u0430 \u0434\u043b\u044f \u0441\u0443\u043f\u0440\u043e\u0432\u043e\u0434\u0443 \u0434\u043e:\n\u2013 \u041f\u0443\u043d\u043a\u0442y \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0438 \u0443 \u0437\u043e\u043d\u0456 \u0424\u044c\u0435\u0440\u0430;\n\u2013 \u041a\u0432\u0435\u0441\u0442\u0443\u0440\u0438;\n\u2013 \u0406\u043d\u0448\u0438x \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0456\u0430\u043b\u044c\u043d\u0438x \u043f\u043e\u0441\u043b\u0443\u0433.\n \u0433) \u041f\u043e\u044f\u0441\u043d\u0435\u043d\u043d\u044f \u0437 \u043f\u0440\u0438\u0432\u043e\u0434\u0443 \u044e\u0440\u0438\u0434\u0438\u0447\u043d\u0438\u0445 \u043f\u0438\u0442\u0430\u043d\u044c.\n \u0434) \u0406\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u044f \u0442\u0430 \u043f\u043e\u044f\u0441\u043d\u0435\u043d\u043d\u044f \u0456\u043d\u0448\u0438\u0445 \u043f\u043e\u0441\u043b\u0443\u0433 \u044f\u043a\u0456 \u043d\u0430\u0434\u0430\u044e\u0442\u044c\u0441\u044f \u043d\u0430 \u0434\u0430\u043d\u0456\u0439 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0456\u0457:\n\u2013 \u041d\u0430\u0434\u0430\u043d\u043d\u044f \u043c\u0456\u0441\u0446\u044f \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u043d\u043d\u044f;\n\u2013 \u041d\u0430\u0434\u0430\u043d\u043d\u044f \u043c\u043e\u0436\u043b\u0438\u0432\u043e\u0441\u0442\u0456 \u043f\u0440\u043e\u0434\u043e\u0432\u0436\u0438\u0442\u0438 \u0448\u043a\u0456\u043b\u044c\u043d\u0435 \u043d\u0430\u0432\u0447\u0430\u043d\u043d\u044f \u0434\u043b\u044f \u0434\u0456\u0442\u0435\u0439;\n\u2013 \u0417\u0430\u043f\u0438\u0441\u0430\u0442\u0438\u0441\u044f \u0434\u043e \u043c\u0435\u0434\u0438\u0447\u043d\u043e\u0433\u043e \u043d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0431\u0441\u043b\u0443\u0433\u043e\u0432\u0443\u0432\u0430\u043d\u043d\u044f, \u0430 \u0442\u0430\u043a\u043e\u0436 \u043f\u0440\u043e\u0432\u0435\u0441\u0442\u0438 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u0449\u043e\u0434\u043e \u0432\u0430\u043a\u0446\u0438\u043d\u0430\u0446\u0456\u0457\n\u2013 \u041e\u0442\u0440\u0438\u043c\u0430\u0442\u0438 \u0413\u0440\u0456\u043d \u043f\u0430\u0441 \u0442\u0430 \u043f\u0440\u043e\u0432\u0435\u0441\u0442\u0438 \u0442\u0435\u0441\u0442 \u043d\u0430 \u041a\u043e\u0432\u0456\u0434-19;\n\u2013 \u0417\u0432\u0435\u0440\u043d\u0443\u0442\u0438\u0441\u044f \u0434\u043e \u0441\u043e\u0446\u0456\u0430\u043b\u044c\u043d\u0438\u0445 \u043f\u043e\u0441\u043b\u0443\u0433;\n\u2013 \u0417\u0430\u043f\u0438\u0441\u0430\u0442\u0438\u0441\u044f \u043d\u0430 \u043a\u0443\u0440\u0441\u0438 \u0456\u0442\u0430\u043b\u0456\u0439\u0441\u044c\u043a\u043e\u0457 \u043c\u043e\u0432\u0438.\n\nInfo: sportelloucrainaferrara@unife.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Universit\u00e0 di Ferrara"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Vashi Prav\u00e0, sportello dell\u2019Universit\u00e0 di Ferrara che offre supporto legale a rifugiate/i ucraini"",""url"":""https://www.facebook.com/VashiPravaSportelloUcraina/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Università di Ferrara
+title: Vashi Pravà, sportello dell’Università di Ferrara che offre supporto legale
+  a rifugiate/i ucraini
+recipients: ''
+description: ""A Ferrara sportello di assistenza legale per rifugiate/i ucraini, promosso\
+  \ da un gruppo di studenti e ricercatori dell’Università di Ferrara. Lo sportello\
+  \ offre gratuitamente:\n a) informazioni sulla procedura di \nregistrazione presso\
+  \ la Questura di Ferrara e supporto alla compilazione della modulistica necessaria\
+  \ (dichiarazione di \nospitalità/dichiarazione di presenza).\n b) informazioni sul\
+  \ permesso di soggiorno per protezione temporanea e sulla protezione \ninternazionale\n\
+  c) su prenotazione, servizio di \naccompagnamento presso: \n- Punto Assistenza Unico\
+  \ in Fiera\n- Questura\n- altri servizi del territorio\nd) orientamento per ulteriori\
+  \ quesiti giuridici\n e) informazione e orientamento ad altri \nservizi offerti\
+  \ dal territorio:\n- servizi di prima accoglienza e \nalloggio\n- inserimento scolastico\
+  \ dei minori\n- iscrizioni al Servizio Sanitario Nazionale (SSN) e anamnesi vaccinale\n\
+  - green pass e tamponi (Covid-19)\n- servizi sociali\n- corsi di italiano\n- altri\
+  \ servizi offerti dalle associazioni \ndel terzo settore\nВікно безкоштовної допомоги:\n\
+  а) Освідомить вас щодо процедури реєстрації у Квестурі міста Феррари, а також надасть\
+  \ допомогу при заповненні необхідних документів (посвідчення гостинності/посвідчення\
+  \ присутності).\nб) Надасть інформацію про дозвіл на проживання для тимчасового\
+  \ захисту та міжнародного захисту.\nв) За попередньою угодою, ви можете попросити\
+  \ присутність асистента для супроводу до:\n– Пунктy допомоги у зоні Фьера;\n– Квестури;\n\
+  – Іншиx територіальниx послуг.\n г) Пояснення з приводу юридичних питань.\n д) Інформація\
+  \ та пояснення інших послуг які надаються на даній території:\n– Надання місця проживання;\n\
+  – Надання можливості продовжити шкільне навчання для дітей;\n– Записатися до медичного\
+  \ національного обслуговування, а також провести контроль щодо вакцинації\n– Отримати\
+  \ Грін пас та провести тест на Ковід-19;\n– Звернутися до соціальних послуг;\n–\
+  \ Записатися на курси італійської мови.\n\nInfo: sportelloucrainaferrara@unife.it""
+url: https://www.facebook.com/VashiPravaSportelloUcraina/
+address:
+  mode: autocomplete
+  address:
+    place_id: 155837595
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 221888911
+    boundingbox:
+    - '44.8291849'
+    - '44.8293677'
+    - '11.6279711'
+    - '11.6294897'
+    lat: '44.8293677'
+    lon: '11.6279711'
+    display_name: Via Brasavola, Centro Storico, Quacchio, Ferrara, Emilia-Romagna,
+      44121, Italia
+    class: highway
+    type: residential
+    importance: 0.41000000000000003
+    address:
+      road: Via Brasavola
+      neighbourhood: Centro Storico
+      suburb: Quacchio
+      city: Ferrara
+      county: Ferrara
+      state: Emilia-Romagna
+      ISO3166-2-lvl4: IT-45
+      postcode: '44121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/724,1217458509,2022-04-28 07:22:49,2022-04-27 14:39:55,"Drops, app per imparare le lingue, offre un anno di abbonamento gratuito ai rifugiati ucraini",,,,,"[""Valid/Accettato"",""Services"",""translation"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address1"":""Online"",""address2"":"""",""city"":"""",""country"":"""",""state"":"""",""zip"":""""},""mode"":""manual""},""description"":""L'app Drops (per imparare i vocaboli di varie lingue) offre un anno di abbonamento premium gratuito a tutti gli ucraini rifugiati per imparare un po' la lingua del paese dove sono ospitati."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Drops"",""recipients"":""Tutti gli ucraini"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Drops offre un anno di abbonamento gratuito per gli ucraini"",""url"":""https://languagedrops.com/ukraine""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: true
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Drops
+title: Drops offre un anno di abbonamento gratuito per gli ucraini
+recipients: Tutti gli ucraini
+description: L'app Drops (per imparare i vocaboli di varie lingue) offre un anno di
+  abbonamento premium gratuito a tutti gli ucraini rifugiati per imparare un po' la
+  lingua del paese dove sono ospitati.
+url: https://languagedrops.com/ukraine
+address:
+  mode: manual
+  address:
+    address1: Online
+    address2: ''
+    city: ''
+    state: ''
+    country: ''
+    zip: ''
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/736,1217942515,2022-04-27 22:26:31,2022-04-27 22:25:41,Elenco piattaforme e app per l’apprendimento delle lingue che offrono abbonamenti gratuiti agli ucraini,,,,,"[""Valid/Accettato"",""News"",""translation"",""education""]",,,"{""description"":""Agli ucraini \u00e8 stato fornito libero accesso alle risorse online per l'apprendimento delle lingue straniere sulle seguenti app/piattaforme:\n\n- Busu https://blog.busuu.com/free-language-lessons-ukranians/\nPuoi utilizzare la piattaforma online o le applicazioni per iOS o Android. Offerta per gli ucraini: il servizio offre 90 giorni di abbonamenti premium.\n\n- Drops https://languagedrops.com/ukraine\nUn'applicazione che sar\u00e0 utile a coloro che stanno appena iniziando a imparare una nuova lingua straniera. Puoi scaricare solo per Android. Offerta per gli ucraini: premio gratuito per un anno.\n\n- Ling Q https://www.lingq.com/it/forum/open-forum/lingq-stands-with-ukraine-free/\nRisorsa online con una vasta libreria di materiali audio e di testo.  In totale - 24 lingue straniere. Puoi unirti alla community sul sito o scaricare l'app iOS e Android. Offerta per gli ucraini: uso gratuito dell'account premium. \u00c8 necessario contattare l'assistenza per attivarlo.\n\n- Duolingo https://blog.duolingo.com/duolingo-statement-ukraine/\nOfferta per gli ucraini: permesso di utilizzare l'applicazione gratuitamente. Scarica l'app per iOS e Android.\n\n - App Ling https://ling-app.com/press-releases/support-ukraine-free-language-app/\nUn'applicazione che ti aiuter\u00e0 a imparare la lingua sotto forma di giochi e test divertenti. Pi\u00f9 di 60 corsi di lingua. Scarica l'app per iOS e Android. Offerta per gli ucraini: uso gratuito.\n\n- UTalk https://www.store.utalk.com/ukrainianchoose\nL'applicazione ti permette di imparare pi\u00f9 di 140 lingue. Puoi scaricare per iOS e Android. Offerta per gli ucraini: accesso gratuito all'applicazione.\n\n- Mondly https://www.mondly.com/blog/2022/03/21/mondly-free-ukrainian-refugees/\nD\u00e0 l'opportunit\u00e0 di imparare pi\u00f9 di 30 lingue straniere. Contiene sito e applicazioni per iOS e Android. Offerta per gli ucraini: accesso gratuito (specificare l'ucraino come lingua madre per ottenere l'accesso premium).\n\n\u200b\u200b\u0423\u043a\u0440\u0430\u0457\u043d\u0446\u044f\u043c \u043d\u0430\u0434\u0430\u043b\u0438 \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u0438\u0439 \u0434\u043e\u0441\u0442\u0443\u043f \u0434\u043e \u043e\u043d\u043b\u0430\u0439\u043d-\u0440\u0435\u0441\u0443\u0440\u0441\u0456\u0432 \u0434\u043b\u044f \u0432\u0438\u0432\u0447\u0435\u043d\u043d\u044f \u0456\u043d\u043e\u0437\u0435\u043c\u043d\u0438\u0445 \u043c\u043e\u0432\n\nBusuu\n\u0412\u0438 \u043c\u043e\u0436\u0435\u0442\u0435 \u0441\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u0442\u0438\u0441\u044f\u00a0\u043e\u043d\u043b\u0430\u0439\u043d-\u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u043e\u044e\u00a0\u0430\u0431\u043e \u0437\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043a\u0430\u043c\u0438 \u0434\u043b\u044f\u00a0iOS\u00a0\u0430\u0431\u043e\u00a0Android. \n\u041f\u0440\u043e\u043f\u043e\u0437\u0438\u0446\u0456\u044f \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432:\u00a0\u0421\u0435\u0440\u0432\u0456\u0441 \u0434\u0430\u0440\u0443\u0454 90 \u0434\u043d\u0456\u0432 \u043f\u0440\u0435\u043c\u0456\u0443\u043c \u043f\u0456\u0434\u043f\u0438\u0441\u043a\u0438.\u00a0\n\nDrops\n\u0417\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043e\u043a, \u044f\u043a\u0438\u0439 \u0431\u0443\u0434\u0435 \u043a\u043e\u0440\u0438\u0441\u043d\u0438\u043c \u0442\u0438\u043c, \u0445\u0442\u043e \u0442\u0456\u043b\u044c\u043a\u0438 \u043f\u043e\u0447\u0438\u043d\u0430\u0454 \u0432\u0447\u0438\u0442\u0438 \u043d\u043e\u0432\u0443 \u0456\u043d\u043e\u0437\u0435\u043c\u043d\u0443 \u043c\u043e\u0432\u0443. \u0417\u0430\u0432\u0430\u043d\u0442\u0430\u0436\u0438\u0442\u0438 \u043c\u043e\u0436\u043d\u0430 \u0442\u0456\u043b\u044c\u043a\u0438 \u0434\u043b\u044f\u00a0Android.\u00a0 \n\u041f\u0440\u043e\u043f\u043e\u0437\u0438\u0446\u0456\u044f \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432:\u00a0\u0411\u0435\u0437\u043e\u043f\u043b\u0430\u0442\u043d\u0430\u00a0\u043f\u0440\u0435\u043c\u0456\u0443\u043c\u0432\u0435\u0440\u0441\u0456\u044f \u043d\u0430 \u0440\u0456\u043a.\u00a0\n\nLingQ\n\u041e\u043d\u043b\u0430\u0439\u043d-\u0440\u0435\u0441\u0443\u0440\u0441 \u0437 \u0432\u0435\u043b\u0438\u043a\u043e\u044e \u0431\u0456\u0431\u043b\u0456\u043e\u0442\u0435\u043a\u043e\u044e \u0430\u0443\u0434\u0456\u043e- \u0442\u0430 \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u0438\u0445 \u043c\u0430\u0442\u0435\u0440\u0456\u0430\u043b\u0456\u0432. \u0417\u0430\u0433\u0430\u043b\u043e\u043c \u2013 24 \u0456\u043d\u043e\u0437\u0435\u043c\u043d\u0456 \u043c\u043e\u0432\u0438.\u00a0\u0414\u043e\u043b\u0443\u0447\u0438\u0442\u0438\u0441\u044f \u0434\u043e \u0441\u043f\u0456\u043b\u044c\u043d\u043e\u0442\u0438 \u043c\u043e\u0436\u043d\u0430 \u043d\u0430\u00a0\u0441\u0430\u0439\u0442\u0456\u00a0\u0430\u0431\u043e \u0437\u0430\u0432\u0430\u043d\u0442\u0430\u0436\u0438\u0442\u0438 \u0437\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043e\u043a iOS\u00a0\u0442\u0430\u00a0Android.\u00a0\n\u041f\u0440\u043e\u043f\u043e\u0437\u0438\u0446\u0456\u044f \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432:\u00a0\u0431\u0435\u0437\u043e\u043f\u043b\u0430\u0442\u043d\u0435 \u043a\u043e\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u043d\u043d\u044f\u00a0\u043f\u0440\u0435\u043c\u0456\u0443\u043c\u043e\u0431\u043b\u0456\u043a\u043e\u0432\u0438\u043c \u0437\u0430\u043f\u0438\u0441\u043e\u043c. \u0429\u043e\u0431 \u0430\u043a\u0442\u0438\u0432\u0443\u0432\u0430\u0442\u0438 \u0439\u043e\u0433\u043e, \u0442\u0440\u0435\u0431\u0430 \u0437\u0432\u0435\u0440\u043d\u0443\u0442\u0438\u0441\u044f \u0434\u043e \u0441\u043b\u0443\u0436\u0431\u0438 \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u043a\u0438.\n\nDuolingo\n\u041f\u0440\u043e\u043f\u043e\u0437\u0438\u0446\u0456\u044f \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432:\u00a0\u0434\u043e\u0437\u0432\u0456\u043b \u043d\u0430 \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u043d\u043d\u044f \u0437\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043a\u0443 \u0431\u0435\u0437\u043e\u043f\u043b\u0430\u0442\u043d\u043e. \u0417\u0430\u0432\u0430\u043d\u0442\u0430\u0436\u0438\u0442\u0438 \u0437\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043e\u043a \u0434\u043b\u044f\u00a0iOS\u00a0\u0442\u0430\u00a0Android.\u00a0\n\nLing App\n\u0417\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043e\u043a, \u044f\u043a\u0438\u0439 \u0434\u043e\u043f\u043e\u043c\u043e\u0436\u0435 \u0432\u0438\u0432\u0447\u0438\u0442\u0438 \u043c\u043e\u0432\u0443 \u0443 \u0444\u043e\u0440\u043c\u0430\u0442\u0456 \u043a\u0443\u043c\u0435\u0434\u043d\u0438\u0445 \u0456\u0433\u043e\u0440 \u0442\u0430 \u0442\u0435\u0441\u0442\u0456\u0432. \u041f\u043e\u043d\u0430\u0434 60 \u043c\u043e\u0432\u043d\u0438\u0445 \u043a\u0443\u0440\u0441\u0456\u0432. \u0417\u0430\u0432\u0430\u043d\u0442\u0430\u0436\u0438\u0442\u0438 \u0437\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043e\u043a \u0434\u043b\u044f\u00a0iOS\u00a0\u0442\u0430\u00a0Android. \n\u041f\u0440\u043e\u043f\u043e\u0437\u0438\u0446\u0456\u044f \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432:\u00a0\u0431\u0435\u0437\u043e\u043f\u043b\u0430\u0442\u043d\u0435 \u043a\u043e\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u043d\u043d\u044f.\n\nUTalk\n\u0417\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043e\u043a \u0434\u0430\u0454 \u043c\u043e\u0436\u043b\u0438\u0432\u0456\u0441\u0442\u044c \u0432\u0438\u0432\u0447\u0438\u0442\u0438 \u043f\u043e\u043d\u0430\u0434 140 \u043c\u043e\u0432.\n\u0417\u0430\u0432\u0430\u043d\u0442\u0430\u0436\u0438\u0442\u0438 \u043c\u043e\u0436\u043d\u0430 \u0434\u043b\u044f\u00a0iOS\u00a0\u0442\u0430\u00a0Android.\u00a0\n\u041f\u0440\u043e\u043f\u043e\u0437\u0438\u0446\u0456\u044f \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432: \u0432\u0456\u043b\u044c\u043d\u0438\u0439 \u0434\u043e\u0441\u0442\u0443\u043f \u0434\u043e \u0437\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043a\u0443.\n\nMondly\n\u0414\u0430\u0454 \u043c\u043e\u0436\u043b\u0438\u0432\u0456\u0441\u0442\u044c\u00a0\u0432\u0438\u0432\u0447\u0438\u0442\u0438 \u043f\u043e\u043d\u0430\u0434 30 \u0456\u043d\u043e\u0437\u0435\u043c\u043d\u0438\u0445 \u043c\u043e\u0432. \u041c\u0456\u0441\u0442\u0438\u0442\u044c\u00a0\u0441\u0430\u0439\u0442\u00a0\u0442\u0430 \u0437\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043a\u0438 \u043d\u0430\u00a0iOS\u00a0\u0442\u0430\u00a0Android.\u00a0\n\u041f\u0440\u043e\u043f\u043e\u0437\u0438\u0446\u0456\u044f \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432:\u00a0\u0431\u0435\u0437\u043e\u043f\u043b\u0430\u0442\u043d\u0438\u0439 \u0434\u043e\u0441\u0442\u0443\u043f (\u0432\u043a\u0430\u0437\u0443\u0439\u0442\u0435 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0443 \u044f\u043a \u0440\u0456\u0434\u043d\u0443 \u043c\u043e\u0432\u0443, \u0449\u043e\u0431 \u043e\u0442\u0440\u0438\u043c\u0430\u0442\u0438 \u043f\u0440\u0435\u043c\u0456\u0443\u043c \u0434\u043e\u0441\u0442\u0443\u043f)."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.me/firststepinitaly/122"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Elenco delle piattaforme e app per l\u2019apprendimento delle lingue che offrono abbonamenti gratuiti agli ucraini""}","<pre><yamldata>
 title: Elenco delle piattaforme e app per l’apprendimento delle lingue che offrono
   abbonamenti gratuiti agli ucraini
@@ -173,62 +542,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/730,1217885696,2022-04-27 21:53:14,2022-04-27 21:08:56,A Padova corso gratuito online di italiano per donne e ragazzi ucraini promosso da Vides Veneto,45.4077172,11.8734455,Veneto,Padova,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""city"":""Padova"",""country"":""Italia"",""country_code"":""it"",""county"":""Padova"",""postcode"":""35100"",""state"":""Veneto""},""boundingbox"":[""45.2477172"",""45.5677172"",""11.7134455"",""12.0334455""],""class"":""place"",""display_name"":""Padova, Veneto, 35100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7535563013929846,""lat"":""45.4077172"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.8734455"",""osm_id"":406747508,""osm_type"":""node"",""place_id"":2885944,""type"":""city""},""mode"":""autocomplete""},""description"":""L\u2019associazione Vides Veneto ha avviato a Padova il primo corso di italiano come L2 per donne e ragazzi ucraini.\nIl corso (gratuito) si svolger\u00e0 online, 4 ore alla settimana, fino a giugno. Le persone interessate possono scrivere a videsveneto@gmail.com per ricevere tutte le informazioni utili."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Vides Veneto"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Padova corso gratuito online di italiano per donne e ragazzi ucraini promosso da Vides Veneto"",""url"":""https://www.facebook.com/videsveneto/photos/a.283286715049192/5220832027961278/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: true
-offerFromWho: Vides Veneto
-title: A Padova corso gratuito online di italiano per donne e ragazzi ucraini promosso
-  da Vides Veneto
-recipients: ''
-description: 'L’associazione Vides Veneto ha avviato a Padova il primo corso di italiano
-  come L2 per donne e ragazzi ucraini.
-
-  Il corso (gratuito) si svolgerà online, 4 ore alla settimana, fino a giugno. Le
-  persone interessate possono scrivere a videsveneto@gmail.com per ricevere tutte
-  le informazioni utili.'
-url: https://www.facebook.com/videsveneto/photos/a.283286715049192/5220832027961278/
-address:
-  mode: autocomplete
-  address:
-    place_id: 2885944
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 406747508
-    boundingbox:
-    - '45.2477172'
-    - '45.5677172'
-    - '11.7134455'
-    - '12.0334455'
-    lat: '45.4077172'
-    lon: '11.8734455'
-    display_name: Padova, Veneto, 35100, Italia
-    class: place
-    type: city
-    importance: 0.7535563013929846
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
-    address:
-      city: Padova
-      county: Padova
-      state: Veneto
-      ISO3166-2-lvl4: IT-34
-      postcode: '35100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/731,1217888424,2022-04-27 21:52:57,2022-04-27 21:12:02,A Rovigo corso gratuito di italiano per rifugiati ucraini promosso da Società Dante Alighieri e Irsap,45.0650659,11.79839,Veneto,Rovigo,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""city"":""Rovigo"",""country"":""Italia"",""country_code"":""it"",""county"":""Rovigo"",""postcode"":""45100"",""state"":""Veneto"",""suburb"":""San Bortolo""},""boundingbox"":[""45.0450659"",""45.0850659"",""11.77839"",""11.81839""],""class"":""place"",""display_name"":""San Bortolo, Rovigo, Veneto, 45100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png"",""importance"":0.5750000000000001,""lat"":""45.0650659"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.79839"",""osm_id"":31452826,""osm_type"":""node"",""place_id"":286183423,""type"":""suburb""},""mode"":""autocomplete""},""description"":""Il comitato di Rovigo della Societ\u00e0 Dante Alighieri con il sostegno di IRSAP propone un corso base di lingua italiana per profughi ucraini privi di sostegno economico. Il corso si svolge nella Sala Parrocchiale San Bortolo di Rovigo. \nInfo al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Societ\u00e0 Dante Alighieri - IRSAP"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Rovigo corso gratuito di italiano per rifugiati ucraini promosso da Societ\u00e0 Dante Alighieri con il sostegno di IRSAP"",""url"":""https://www.csvpadovarovigo.org/wp-content/uploads/2022/03/emergenza-ucraina-primo-soccorso-linguistico.pdf""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -389,95 +702,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 46.2017559 6.1466014
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/734,1217913346,2022-04-27 21:50:06,2022-04-27 21:43:41,"Rifugiati ucraini nella Repubblica di San Marino: info e contatti utili per accoglienza, supporto economico, assistenza sanitaria, scuola e altro",43.9363996,12.4466991,,,"[""Valid/Accettato"",""News"",""Services"",""useful contact""]",,,"{""Posizione"":""43.9363996 12.4466991"",""description"":""Ad oggi, dati ufficiali del\u2019Unit\u00e0 di Coordinamento per l\u2019accoglienza a San Marino dei cittadini ucraini istituita presso il Dipartimento Affari Esteri, sono stati accolti circa 280 persone. Il Congresso di Stato ha stabilito, con il Decreto Legge n. 27 del 4 marzo 2022, un limite massimo di accoglienza a 300 unit\u00e0, con possibilit\u00e0 di incremento del 5% su base mensile, a partire dal 15 aprile.\nAi rifugiati il Titano concede un permesso di soggiorno provvisorio nel caso per\u00f2 si dimostri lo stato di ricongiungimento familiare cos\u00ec come la preventiva disponibilit\u00e0 dell\u2019alloggio.\nPer chi rientra in queste condizioni e ai minori da loro assistiti, il Decreto menzionato assicura \u201ca titolo gratuito l\u2019assistenza sanitaria, socio sanitaria, il diritto all\u2019istruzione e ulteriori servizi assistenziali ritenuti necessari per tutto il periodo di permanenza nelle forme e con le limitazioni previste dalle autorit\u00e0 settorialmente competenti\u201d.\nNon solo. Ai profughi sar\u00e0 elargita anche una piccola somma di denaro per i mesi che trascorreranno ospiti a San Marino. Nei giorni scorsi il Congresso ha indicato i dettagli in una delibera: sulla Smac saranno versati 100 euro mensili per ogni adulto e 50 euro mensili per ogni minore.\nAl momento \u00e8 previsto che il contributo sia garantito \u201cper un periodo di tre mesi rinnovabili di altri tre mesi\u201d.\nPer ottenere la somma il cittadino ucraino in rappresentanza del proprio nucleo familiare dovr\u00e0 compilare presso l\u2019Ufficio Stranieri del Corpo della Gendarmeria apposito modulo dichiarante la composizione del proprio nucleo famigliare e di richiesta rilascio di SMaC Card che sar\u00e0 rilasciata gratuitamente dal Servizio San Marino Card \u2013 Dipartimento Finanze e Bilancio.\nLa delibera precisa che il profugo ucraino perde il diritto all\u2019emolumento nei seguenti casi: per qualsiasi ragione gli venga revocato il permesso di soggiorno provvisorio; svolga attivit\u00e0 lavorativa per un periodo mensile superiore a 15 giorni; a qualsiasi titolo risulti non soggiornare pi\u00f9 in Repubblica.\nInoltre il movimento sportivo sammarinese ha offerta piena disponibilit\u00e0 a collaborare per consentire pratiche sportive gratuite a coloro che ne faranno richiesta. Le Federazioni sportive si stanno organizzando per offrire tali attivit\u00e0, da estendersi anche ad eventuali atleti agonisti provenienti dai territori in guerra. Un gesto che vuole agevolare l\u2019integrazione e l\u2019inserimento dei minori nel tessuto sociale e ricreativo del territorio.\nLa Segreteria di Stato agli Esteri invita coloro che, accolti, intendano lasciare il territorio di darne tempestiva comunicazione all\u2019Ufficio Stranieri del corpo della Gendarmeria per il conseguente ritiro del documento di soggiorno (n. tel 0549-888099).\nResta attiva la raccolta fondi pubblica per l\u2019accoglienza di cittadini ucraini: Denominazione: \u201cGuerra Ucraina- Accoglienza profughi\u201d Codice IBAN SM72D0606709800000120161869 Per donazioni dall\u2019estero, il Codice SWIFT \u00e8: CSSMSMSMXXX\nPer informazioni e disponibilit\u00e0 \u00e8 possibile scrivere a supporto.ucraina@esteri.sm o al numero di telefono 0549-885400. Nelle giornate di luned\u00ec (8.30-10.00) e gioved\u00ec (16.00-18.00) sar\u00e0 attivo un servizio di interpretariato in lingua ucraina per agevolare le presenze ucraine in territorio."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.libertas.sm/a-san-marino-280-profughi-dallucraina-a-ciascuno-100-euro-al-mese-sulla-smac-50-per-i-minori/"",""location"":{""address"":{""address"":{""city"":""Citt\u00e0 di San Marino"",""country"":""San Marino"",""country_code"":""sm"",""postcode"":""47890""},""boundingbox"":[""43.7763996"",""44.0963996"",""12.2866991"",""12.6066991""],""class"":""place"",""display_name"":""Citt\u00e0 di San Marino, 47890, San Marino"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7164086443845148,""lat"":""43.9363996"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4466991"",""osm_id"":280982720,""osm_type"":""node"",""place_id"":325972418,""type"":""city""},""mode"":""autocomplete""},""submit"":true,""title"":""Rifugiati ucraini nella Repubblica di San Marino: info e contatti utili per accoglienza, supporto economico, assistenza sanitaria, integrazione scolastica""}","<pre><yamldata>
-title: 'Rifugiati ucraini nella Repubblica di San Marino: info e contatti utili per
-  accoglienza, supporto economico, assistenza sanitaria, integrazione scolastica'
-description: 'Ad oggi, dati ufficiali del’Unità di Coordinamento per l’accoglienza
-  a San Marino dei cittadini ucraini istituita presso il Dipartimento Affari Esteri,
-  sono stati accolti circa 280 persone.
-  Il Congresso di Stato ha stabilito, con il Decreto Legge n. 27 del 4 marzo 2022,
-  un limite massimo di accoglienza a 300 unità, con possibilità di incremento del
-  5% su base mensile, a partire dal 15 aprile.
-
-  Ai rifugiati il Titano concede un permesso di soggiorno provvisorio nel caso però
-  si dimostri lo stato di ricongiungimento familiare così come la preventiva disponibilità
-  dell’alloggio.
-
-  Per chi rientra in queste condizioni e ai minori da loro assistiti, il Decreto menzionato
-  assicura “a titolo gratuito l’assistenza sanitaria, socio sanitaria, il diritto
-  all’istruzione e ulteriori servizi assistenziali ritenuti necessari per tutto il
-  periodo di permanenza nelle forme e con le limitazioni previste dalle autorità settorialmente
-  competenti”.
-
-  Non solo. Ai profughi sarà elargita anche una piccola somma di denaro per i mesi
-  che trascorreranno ospiti a San Marino. Nei giorni scorsi il Congresso ha indicato
-  i dettagli in una delibera: sulla Smac saranno versati 100 euro mensili per ogni
-  adulto e 50 euro mensili per ogni minore.
-
-  Al momento è previsto che il contributo sia garantito “per un periodo di tre mesi
-  rinnovabili di altri tre mesi”.
-
-  Per ottenere la somma il cittadino ucraino in rappresentanza del proprio nucleo
-  familiare dovrà compilare presso l’Ufficio Stranieri del Corpo della Gendarmeria
-  apposito modulo dichiarante la composizione del proprio nucleo famigliare e di richiesta
-  rilascio di SMaC Card che sarà rilasciata gratuitamente dal Servizio San Marino
-  Card – Dipartimento Finanze e Bilancio.
-
-  La delibera precisa che il profugo ucraino perde il diritto all’emolumento nei seguenti
-  casi: per qualsiasi ragione gli venga revocato il permesso di soggiorno provvisorio;
-  svolga attività lavorativa per un periodo mensile superiore a 15 giorni; a qualsiasi
-  titolo risulti non soggiornare più in Repubblica.
-
-  Inoltre il movimento sportivo sammarinese ha offerta piena disponibilità a collaborare
-  per consentire pratiche sportive gratuite a coloro che ne faranno richiesta. Le
-  Federazioni sportive si stanno organizzando per offrire tali attività, da estendersi
-  anche ad eventuali atleti agonisti provenienti dai territori in guerra. Un gesto
-  che vuole agevolare l’integrazione e l’inserimento dei minori nel tessuto sociale
-  e ricreativo del territorio.
-
-  La Segreteria di Stato agli Esteri invita coloro che, accolti, intendano lasciare
-  il territorio di darne tempestiva comunicazione all’Ufficio Stranieri del corpo
-  della Gendarmeria per il conseguente ritiro del documento di soggiorno (n. tel 0549-888099).
-
-  Resta attiva la raccolta fondi pubblica per l’accoglienza di cittadini ucraini:
-  Denominazione: “Guerra Ucraina- Accoglienza profughi”
-  Codice IBAN SM72D0606709800000120161869
-  Per donazioni dall’estero, il Codice SWIFT è: CSSMSMSMXXX
-
-  Per informazioni e disponibilità è possibile scrivere a supporto.ucraina@esteri.sm
-  o al numero di telefono 0549-885400.
-  Nelle giornate di lunedì (8.30-10.00) e giovedì (16.00-18.00) sarà attivo un servizio
-  di interpretariato in lingua ucraina per agevolare le presenze ucraine in territorio.'
-link: https://www.libertas.sm/a-san-marino-280-profughi-dallucraina-a-ciascuno-100-euro-al-mese-sulla-smac-50-per-i-minori/
-location:
-  mode: autocomplete
-  address:
-    place_id: 325972418
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 280982720
-    boundingbox:
-    - '43.7763996'
-    - '44.0963996'
-    - '12.2866991'
-    - '12.6066991'
-    lat: '43.9363996'
-    lon: '12.4466991'
-    display_name: Città di San Marino, 47890, San Marino
-    class: place
-    type: city
-    importance: 0.7164086443845148
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
-    address:
-      city: Città di San Marino
-      postcode: '47890'
-      country: San Marino
-      country_code: sm
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 43.9363996 12.4466991
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/399,1185341282,2022-04-27 21:23:20,2022-03-29 19:51:31,Comune di Palermo attiva indirizzo email per supporto e accoglienza delle persone in arrivo dall’Ucraina,38.1112268,13.3524434,Sicilia,Palermo,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""state"":""Sicilia""},""boundingbox"":[""38.0499137"",""38.2245866"",""13.242219"",""13.4520856""],""class"":""boundary"",""display_name"":""Palermo, Sicilia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7661148171447915,""lat"":""38.1112268"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3524434"",""osm_id"":39513,""osm_type"":""relation"",""place_id"":284307182,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Comune di Palermo ha attivato l'indirizzo mail aiutiucraina@comune.palermo.it dedicato alla situazione ucraina per accompagnare e facilitare le pratiche di ricongiungimenti e mettere in collegamento i profughi con le associazioni del terzo settore e con privati cittadini che, in alcuni casi, hanno gi\u00e0 espresso ed intendono dare la loro disponibilit\u00e0 per accoglierli."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Palermo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Palermo attiva una mail dedicata per aiuti alle persone in arrivo"",""url"":""https://www.comune.palermo.it/palermo-informa-dettaglio.php?id=34071&tipo=1""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -579,230 +803,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 45.4673071 9.1900592
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/726,1217856463,2022-04-27 20:56:49,2022-04-27 20:36:13,"Milano, “Insieme per l’Ucraina”: nuova help line in lingua ucraina per supportare i rifugiati",45.4641943,9.1896346,Lombardia,Milano,"[""Valid/Accettato"",""News"",""Services"",""useful contact""]",,,"{""Posizione"":""45.4641943 9.1896346"",""description"":""Offrire alle famiglie ucraine in fuga dalla guerra un servizio telefonico di ascolto e orientamento in lingua ucraina integrato con i servizi del Comune di Milano e delle reti territoriali. \u00c8 l'obiettivo della collaborazione tra l'Amministrazione e Andrij Shevchenko per il progetto \""Insieme per l'Ucraina\"" che \u00e8 stato presentato oggi a Palazzo Marino alla presenza del Sindaco di Milano Giuseppe Sala.\nL'ex campione del Milan finanzier\u00e0 l'attivazione di una infoline \u2013 020205 \u2013 che si occuper\u00e0 di indirizzare le famiglie ucraine arrivate in citt\u00e0 e chi offre loro ospitalit\u00e0 verso i servizi che sono attivi in citt\u00e0, con una specifica attenzione verso quelli dedicati ai bambini e ai ragazzi.\nIl centralino sar\u00e0 attivo a partire da fine aprile, dal luned\u00ec al venerd\u00ec dalle 9 alle 18, per supportare i profughi nell'iscrizione ai servizi per l'infanzia e scolastici, per fornire informazioni sulla gestione della didattica a distanza dall'Italia, ma anche per orientare sulle procedure per richiedere e ottenere il permesso di soggiorno. Se necessario, inoltre, sar\u00e0 possibile svolgere colloqui in presenza su appuntamento."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.comune.milano.it/-/insieme-per-l-ucraina.-un-servizio-telefonico-per-orientare-famiglie-e-minori-in-fuga-dalla-guerra-shevchenko-e-il-sindaco-sala-presentano-il-progetto"",""location"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""state"":""Lombardia""},""boundingbox"":[""45.3867381"",""45.5358482"",""9.0408867"",""9.2781103""],""class"":""boundary"",""display_name"":""Milano, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9490652078701349,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":44915,""osm_type"":""relation"",""place_id"":283684439,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Milano, \u201cInsieme per l\u2019Ucraina\u201d: nuova help line in lingua ucraina per supportare i rifugiati ucraini""}","<pre><yamldata>
-title: 'Milano, “Insieme per l’Ucraina”: nuova help line in lingua ucraina per supportare
-  i rifugiati ucraini'
-description: 'Offrire alle famiglie ucraine in fuga dalla guerra un servizio telefonico
-  di ascolto e orientamento in lingua ucraina integrato con i servizi del Comune di
-  Milano e delle reti territoriali. È l''obiettivo della collaborazione tra l''Amministrazione
-  e Andrij Shevchenko per il progetto ""Insieme per l''Ucraina"" che è stato presentato
-  oggi a Palazzo Marino alla presenza del Sindaco di Milano Giuseppe Sala.
-
-  L''ex campione del Milan finanzierà l''attivazione di una infoline – 020205 – che
-  si occuperà di indirizzare le famiglie ucraine arrivate in città e chi offre loro
-  ospitalità verso i servizi che sono attivi in città, con una specifica attenzione
-  verso quelli dedicati ai bambini e ai ragazzi.
-
-  Il centralino sarà attivo a partire da fine aprile, dal lunedì al venerdì dalle
-  9 alle 18, per supportare i profughi nell''iscrizione ai servizi per l''infanzia
-  e scolastici, per fornire informazioni sulla gestione della didattica a distanza
-  dall''Italia, ma anche per orientare sulle procedure per richiedere e ottenere il
-  permesso di soggiorno. Se necessario, inoltre, sarà possibile svolgere colloqui
-  in presenza su appuntamento.'
-link: https://www.comune.milano.it/-/insieme-per-l-ucraina.-un-servizio-telefonico-per-orientare-famiglie-e-minori-in-fuga-dalla-guerra-shevchenko-e-il-sindaco-sala-presentano-il-progetto
-location:
-  mode: autocomplete
-  address:
-    place_id: 283684439
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 44915
-    boundingbox:
-    - '45.3867381'
-    - '45.5358482'
-    - '9.0408867'
-    - '9.2781103'
-    lat: '45.4641943'
-    lon: '9.1896346'
-    display_name: Milano, Lombardia, Italia
-    class: boundary
-    type: administrative
-    importance: 0.9490652078701349
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Milano
-      county: Milano
-      ISO3166-2-lvl6: IT-MI
-      state: Lombardia
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 45.4641943 9.1896346
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/725,1217851204,2022-04-27 20:56:09,2022-04-27 20:30:22,"Vashi Pravà, sportello dell’Università di Ferrara che offre supporto legale a rifugiate/i ucraini",44.8293677,11.6279711,Emilia-Romagna,Ferrara,"[""Valid/Accettato"",""Services"",""Legal""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""city"":""Ferrara"",""country"":""Italia"",""country_code"":""it"",""county"":""Ferrara"",""neighbourhood"":""Centro Storico"",""postcode"":""44121"",""road"":""Via Brasavola"",""state"":""Emilia-Romagna"",""suburb"":""Quacchio""},""boundingbox"":[""44.8291849"",""44.8293677"",""11.6279711"",""11.6294897""],""class"":""highway"",""display_name"":""Via Brasavola, Centro Storico, Quacchio, Ferrara, Emilia-Romagna, 44121, Italia"",""importance"":0.41000000000000003,""lat"":""44.8293677"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.6279711"",""osm_id"":221888911,""osm_type"":""way"",""place_id"":155837595,""type"":""residential""},""mode"":""autocomplete""},""description"":""A Ferrara sportello di assistenza legale per rifugiate/i ucraini, promosso da un gruppo di studenti e ricercatori dell\u2019Universit\u00e0 di Ferrara. Lo sportello offre gratuitamente:\n a) informazioni sulla procedura di \nregistrazione presso la Questura di Ferrara e supporto alla compilazione della modulistica necessaria (dichiarazione di \nospitalit\u00e0/dichiarazione di presenza).\n b) informazioni sul permesso di soggiorno per protezione temporanea e sulla protezione \ninternazionale\nc) su prenotazione, servizio di \naccompagnamento presso: \n- Punto Assistenza Unico in Fiera\n- Questura\n- altri servizi del territorio\nd) orientamento per ulteriori quesiti giuridici\n e) informazione e orientamento ad altri \nservizi offerti dal territorio:\n- servizi di prima accoglienza e \nalloggio\n- inserimento scolastico dei minori\n- iscrizioni al Servizio Sanitario Nazionale (SSN) e anamnesi vaccinale\n- green pass e tamponi (Covid-19)\n- servizi sociali\n- corsi di italiano\n- altri servizi offerti dalle associazioni \ndel terzo settore\n\u0412\u0456\u043a\u043d\u043e \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u043e\u0457 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0438:\n\u0430) \u041e\u0441\u0432\u0456\u0434\u043e\u043c\u0438\u0442\u044c \u0432\u0430\u0441 \u0449\u043e\u0434\u043e \u043f\u0440\u043e\u0446\u0435\u0434\u0443\u0440\u0438 \u0440\u0435\u0454\u0441\u0442\u0440\u0430\u0446\u0456\u0457 \u0443 \u041a\u0432\u0435\u0441\u0442\u0443\u0440\u0456 \u043c\u0456\u0441\u0442\u0430 \u0424\u0435\u0440\u0440\u0430\u0440\u0438, \u0430 \u0442\u0430\u043a\u043e\u0436 \u043d\u0430\u0434\u0430\u0441\u0442\u044c \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0443 \u043f\u0440\u0438 \u0437\u0430\u043f\u043e\u0432\u043d\u0435\u043d\u043d\u0456 \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u0438\u0445 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0456\u0432 (\u043f\u043e\u0441\u0432\u0456\u0434\u0447\u0435\u043d\u043d\u044f \u0433\u043e\u0441\u0442\u0438\u043d\u043d\u043e\u0441\u0442\u0456/\u043f\u043e\u0441\u0432\u0456\u0434\u0447\u0435\u043d\u043d\u044f \u043f\u0440\u0438\u0441\u0443\u0442\u043d\u043e\u0441\u0442\u0456).\n\u0431) \u041d\u0430\u0434\u0430\u0441\u0442\u044c \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u044e \u043f\u0440\u043e \u0434\u043e\u0437\u0432\u0456\u043b \u043d\u0430 \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u043d\u043d\u044f \u0434\u043b\u044f \u0442\u0438\u043c\u0447\u0430\u0441\u043e\u0432\u043e\u0433\u043e \u0437\u0430\u0445\u0438\u0441\u0442\u0443 \u0442\u0430 \u043c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0433\u043e \u0437\u0430\u0445\u0438\u0441\u0442\u0443.\n\u0432) \u0417\u0430 \u043f\u043e\u043f\u0435\u0440\u0435\u0434\u043d\u044c\u043e\u044e \u0443\u0433\u043e\u0434\u043e\u044e, \u0432\u0438 \u043c\u043e\u0436\u0435\u0442\u0435 \u043f\u043e\u043f\u0440\u043e\u0441\u0438\u0442\u0438 \u043f\u0440\u0438\u0441\u0443\u0442\u043d\u0456\u0441\u0442\u044c \u0430\u0441\u0438\u0441\u0442\u0435\u043d\u0442\u0430 \u0434\u043b\u044f \u0441\u0443\u043f\u0440\u043e\u0432\u043e\u0434\u0443 \u0434\u043e:\n\u2013 \u041f\u0443\u043d\u043a\u0442y \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0438 \u0443 \u0437\u043e\u043d\u0456 \u0424\u044c\u0435\u0440\u0430;\n\u2013 \u041a\u0432\u0435\u0441\u0442\u0443\u0440\u0438;\n\u2013 \u0406\u043d\u0448\u0438x \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0456\u0430\u043b\u044c\u043d\u0438x \u043f\u043e\u0441\u043b\u0443\u0433.\n \u0433) \u041f\u043e\u044f\u0441\u043d\u0435\u043d\u043d\u044f \u0437 \u043f\u0440\u0438\u0432\u043e\u0434\u0443 \u044e\u0440\u0438\u0434\u0438\u0447\u043d\u0438\u0445 \u043f\u0438\u0442\u0430\u043d\u044c.\n \u0434) \u0406\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u044f \u0442\u0430 \u043f\u043e\u044f\u0441\u043d\u0435\u043d\u043d\u044f \u0456\u043d\u0448\u0438\u0445 \u043f\u043e\u0441\u043b\u0443\u0433 \u044f\u043a\u0456 \u043d\u0430\u0434\u0430\u044e\u0442\u044c\u0441\u044f \u043d\u0430 \u0434\u0430\u043d\u0456\u0439 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0456\u0457:\n\u2013 \u041d\u0430\u0434\u0430\u043d\u043d\u044f \u043c\u0456\u0441\u0446\u044f \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u043d\u043d\u044f;\n\u2013 \u041d\u0430\u0434\u0430\u043d\u043d\u044f \u043c\u043e\u0436\u043b\u0438\u0432\u043e\u0441\u0442\u0456 \u043f\u0440\u043e\u0434\u043e\u0432\u0436\u0438\u0442\u0438 \u0448\u043a\u0456\u043b\u044c\u043d\u0435 \u043d\u0430\u0432\u0447\u0430\u043d\u043d\u044f \u0434\u043b\u044f \u0434\u0456\u0442\u0435\u0439;\n\u2013 \u0417\u0430\u043f\u0438\u0441\u0430\u0442\u0438\u0441\u044f \u0434\u043e \u043c\u0435\u0434\u0438\u0447\u043d\u043e\u0433\u043e \u043d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0431\u0441\u043b\u0443\u0433\u043e\u0432\u0443\u0432\u0430\u043d\u043d\u044f, \u0430 \u0442\u0430\u043a\u043e\u0436 \u043f\u0440\u043e\u0432\u0435\u0441\u0442\u0438 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u0449\u043e\u0434\u043e \u0432\u0430\u043a\u0446\u0438\u043d\u0430\u0446\u0456\u0457\n\u2013 \u041e\u0442\u0440\u0438\u043c\u0430\u0442\u0438 \u0413\u0440\u0456\u043d \u043f\u0430\u0441 \u0442\u0430 \u043f\u0440\u043e\u0432\u0435\u0441\u0442\u0438 \u0442\u0435\u0441\u0442 \u043d\u0430 \u041a\u043e\u0432\u0456\u0434-19;\n\u2013 \u0417\u0432\u0435\u0440\u043d\u0443\u0442\u0438\u0441\u044f \u0434\u043e \u0441\u043e\u0446\u0456\u0430\u043b\u044c\u043d\u0438\u0445 \u043f\u043e\u0441\u043b\u0443\u0433;\n\u2013 \u0417\u0430\u043f\u0438\u0441\u0430\u0442\u0438\u0441\u044f \u043d\u0430 \u043a\u0443\u0440\u0441\u0438 \u0456\u0442\u0430\u043b\u0456\u0439\u0441\u044c\u043a\u043e\u0457 \u043c\u043e\u0432\u0438.\n\nInfo: sportelloucrainaferrara@unife.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Universit\u00e0 di Ferrara"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Vashi Prav\u00e0, sportello dell\u2019Universit\u00e0 di Ferrara che offre supporto legale a rifugiate/i ucraini"",""url"":""https://www.facebook.com/VashiPravaSportelloUcraina/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: true
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Università di Ferrara
-title: Vashi Pravà, sportello dell’Università di Ferrara che offre supporto legale
-  a rifugiate/i ucraini
-recipients: ''
-description: ""A Ferrara sportello di assistenza legale per rifugiate/i ucraini, promosso\
-  \ da un gruppo di studenti e ricercatori dell’Università di Ferrara. Lo sportello\
-  \ offre gratuitamente:\n a) informazioni sulla procedura di \nregistrazione presso\
-  \ la Questura di Ferrara e supporto alla compilazione della modulistica necessaria\
-  \ (dichiarazione di \nospitalità/dichiarazione di presenza).\n b) informazioni sul\
-  \ permesso di soggiorno per protezione temporanea e sulla protezione \ninternazionale\n\
-  c) su prenotazione, servizio di \naccompagnamento presso: \n- Punto Assistenza Unico\
-  \ in Fiera\n- Questura\n- altri servizi del territorio\nd) orientamento per ulteriori\
-  \ quesiti giuridici\n e) informazione e orientamento ad altri \nservizi offerti\
-  \ dal territorio:\n- servizi di prima accoglienza e \nalloggio\n- inserimento scolastico\
-  \ dei minori\n- iscrizioni al Servizio Sanitario Nazionale (SSN) e anamnesi vaccinale\n\
-  - green pass e tamponi (Covid-19)\n- servizi sociali\n- corsi di italiano\n- altri\
-  \ servizi offerti dalle associazioni \ndel terzo settore\nВікно безкоштовної допомоги:\n\
-  а) Освідомить вас щодо процедури реєстрації у Квестурі міста Феррари, а також надасть\
-  \ допомогу при заповненні необхідних документів (посвідчення гостинності/посвідчення\
-  \ присутності).\nб) Надасть інформацію про дозвіл на проживання для тимчасового\
-  \ захисту та міжнародного захисту.\nв) За попередньою угодою, ви можете попросити\
-  \ присутність асистента для супроводу до:\n– Пунктy допомоги у зоні Фьера;\n– Квестури;\n\
-  – Іншиx територіальниx послуг.\n г) Пояснення з приводу юридичних питань.\n д) Інформація\
-  \ та пояснення інших послуг які надаються на даній території:\n– Надання місця проживання;\n\
-  – Надання можливості продовжити шкільне навчання для дітей;\n– Записатися до медичного\
-  \ національного обслуговування, а також провести контроль щодо вакцинації\n– Отримати\
-  \ Грін пас та провести тест на Ковід-19;\n– Звернутися до соціальних послуг;\n–\
-  \ Записатися на курси італійської мови.\n\nInfo: sportelloucrainaferrara@unife.it""
-url: https://www.facebook.com/VashiPravaSportelloUcraina/
-address:
-  mode: autocomplete
-  address:
-    place_id: 155837595
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 221888911
-    boundingbox:
-    - '44.8291849'
-    - '44.8293677'
-    - '11.6279711'
-    - '11.6294897'
-    lat: '44.8293677'
-    lon: '11.6279711'
-    display_name: Via Brasavola, Centro Storico, Quacchio, Ferrara, Emilia-Romagna,
-      44121, Italia
-    class: highway
-    type: residential
-    importance: 0.41000000000000003
-    address:
-      road: Via Brasavola
-      neighbourhood: Centro Storico
-      suburb: Quacchio
-      city: Ferrara
-      county: Ferrara
-      state: Emilia-Romagna
-      ISO3166-2-lvl4: IT-45
-      postcode: '44121'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/724,1217458509,2022-04-27 20:55:41,2022-04-27 14:39:55,"Drops, app per imparare le lingue, offre un anno di abbonamento gratuito ai rifugiati ucraini",,,,,"[""Valid/Accettato"",""Services"",""translation"",""education""]",,,"{""address"":{""address"":{""address1"":""Online"",""address2"":"""",""city"":"""",""country"":"""",""state"":"""",""zip"":""""},""mode"":""manual""},""description"":""L'app Drops (per imparare i vocaboli di varie lingue) offre un anno di abbonamento premium gratuito a tutti gli ucraini rifugiati per imparare un po' la lingua del paese dove sono ospitati."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Drops"",""recipients"":""Tutti gli ucraini"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Drops offre un anno di abbonamento gratuito per gli ucraini"",""url"":""https://languagedrops.com/ukraine""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: true
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Drops
-title: Drops offre un anno di abbonamento gratuito per gli ucraini
-recipients: Tutti gli ucraini
-description: L'app Drops (per imparare i vocaboli di varie lingue) offre un anno di
-  abbonamento premium gratuito a tutti gli ucraini rifugiati per imparare un po' la
-  lingua del paese dove sono ospitati.
-url: https://languagedrops.com/ukraine
-address:
-  mode: manual
-  address:
-    address1: Online
-    address2: ''
-    city: ''
-    state: ''
-    country: ''
-    zip: ''
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/728,1217870430,2022-04-27 20:54:16,2022-04-27 20:52:31,"TelehelpUkraine, servizio gratuito di telemedicina per ucraini colpiti dalla guerra promosso dalla Stanford University",37.431313849999995,-122.16936535498309,,,"[""Valid/Accettato"",""Services"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""US-CA"",""amenity"":""Universit\u00e0 di Stanford"",""country"":""Stati Uniti d'America"",""country_code"":""us"",""county"":""Santa Clara County"",""hamlet"":""Stanford"",""house_number"":""408"",""postcode"":""94305"",""road"":""Panama Mall"",""state"":""California""},""boundingbox"":[""37.4189865"",""37.4433992"",""-122.1860658"",""-122.1520382""],""class"":""amenity"",""display_name"":""Universit\u00e0 di Stanford, 408, Panama Mall, Stanford, Santa Clara County, California, 94305, Stati Uniti d'America"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//education_university.p.20.png"",""importance"":0.765492545367418,""lat"":""37.431313849999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""-122.16936535498309"",""osm_id"":29268613,""osm_type"":""way"",""place_id"":108392840,""type"":""university""},""mode"":""autocomplete""},""description"":""Un gruppo di studenti di medicina dell\u2019Universit\u00e0 americana di Stanford ha organizzato un servizio gratuito di telemedicina per ucraini colpiti dalla guerra che offre, in lingua ucraina e russa, assistenza medica e psicologica. \nPer info e contatti vedi link.\n\n\u041c\u0435\u0434\u0438\u0447\u043d\u0456 \u0441\u0442\u0443\u0434\u0435\u043d\u0442\u0438 \u0421\u0442\u0435\u043d\u0444\u043e\u0440\u0434y \u043e\u0440\u0433\u0430\u043d\u0456\u0437\u0443\u0432\u0430\u043b\u0438 \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u0456 \u0442\u0435\u043b\u0435\u043c\u0435\u0434\u0438\u0447\u043d\u0456 \u043f\u043e\u0441\u043b\u0443\u0433\u0438 \u0432\u0456\u0434 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u0438\u0445 \u043b\u0456\u043a\u0430\u0440\u0456\u0432 \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432. \u041c\u0438 \u0441\u0442\u0432\u043e\u0440\u0438\u043b\u0438 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0443 \u0442\u0435\u043b\u0435\u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0438 \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432. \u041c\u0438 \u043d\u0430\u0434\u0430\u0454\u043c\u043e \u043c\u0435\u0434\u0438\u0447\u043d\u0443 \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u0446\u0456\u044e \u0456 \u043f\u0441\u0438\u0445\u043e\u043b\u043e\u0433\u0456\u0447\u043d\u0443 \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u043a\u0443. \u0417\u0430\u0431\u0440\u043e\u043d\u044e\u0439\u0442\u0435 \u0432\u0456\u0434\u0435\u043e\u0432\u0456\u0437\u0438\u0442 \u0442\u0443\u0442: telehelpukraine.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Stanford University"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""TelehelpUkraine, servizio gratuito di telemedicina per rifugiati ucraini promosso dalla Stanford University"",""url"":""https://www.telehelpukraine.com/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: true
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Stanford University
-title: TelehelpUkraine, servizio gratuito di telemedicina per rifugiati ucraini promosso
-  dalla Stanford University
-recipients: ''
-description: ""Un gruppo di studenti di medicina dell’Università americana di Stanford\
-  \ ha organizzato un servizio gratuito di telemedicina per ucraini colpiti dalla guerra che\
-  \ offre, in lingua ucraina e russa, assistenza medica e psicologica. \nPer info\
-  \ e contatti vedi link.\n\nМедичні студенти Стенфордy організували безкоштовні телемедичні\
-  \ послуги від американських лікарів для українців. Ми створили платформу телемедицини\
-  \ для українців. Ми надаємо медичну консультацію і психологічну підтримку. Забронюйте\
-  \ відеовізит тут: telehelpukraine.com""
-url: https://www.telehelpukraine.com/
-address:
-  mode: autocomplete
-  address:
-    place_id: 108392840
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 29268613
-    boundingbox:
-    - '37.4189865'
-    - '37.4433992'
-    - '-122.1860658'
-    - '-122.1520382'
-    lat: '37.431313849999995'
-    lon: '-122.16936535498309'
-    display_name: Università di Stanford, 408, Panama Mall, Stanford, Santa Clara
-      County, California, 94305, Stati Uniti d'America
-    class: amenity
-    type: university
-    importance: 0.765492545367418
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//education_university.p.20.png
-    address:
-      amenity: Università di Stanford
-      house_number: '408'
-      road: Panama Mall
-      hamlet: Stanford
-      county: Santa Clara County
-      state: California
-      ISO3166-2-lvl4: US-CA
-      postcode: '94305'
-      country: Stati Uniti d'America
-      country_code: us
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/723,1217440183,2022-04-27 14:27:10,2022-04-27 14:26:06,Bando Regione Emilia Romagna rivolto ad enti del terzo settore ed enti locali per progetti a supporto dei profughi ucraini e dell’emergenza Ucraina (scadenza 9 maggio),44.525696,11.039437,Emilia-Romagna,Modena,"[""Valid/Accettato"",""News""]",,,"{""Posizione"":""44.525696 11.039437"",""description"":""Per fronteggiare la perdurante situazione di conflitto in Ucraina, la Regione Emilia Romagna ha stanziato altri 600.000 euro per  rispondere in maniera urgente ed efficace all\u2019emergenza umanitaria dei profughi e sfollati interni ucraini in fuga dalla guerra.\nDa mercoled\u00ec 27 aprile fino a luned\u00ec 9 maggio 2022, ONG, onlus, organizzazioni di volontariato, associazioni di promozione sociale, cooperative sociali ed enti locali possono presentare un progetto sugli ambiti di intervento prioritario: \n\n- supporto ai centri di accoglienza locali attraverso la fornitura di prodotti alimentari e non alimentari di prima emergenza ed essenziali per il sostegno alla popolazione in fuga;\n- prestazione di servizi medici di emergenza, fornitura di medicinali, materiale e attrezzature sanitarie;\n- attivit\u00e0 e servizi di sostegno psicosociale e orientamento legale per le persone vulnerabili, rifugiati e sfollati interni, a partire dalle donne e dai bambini;\n- sostegno alle famiglie vulnerabili attuato in ogni forma, anche attraverso la messa a disposizione di strutture ricettive o alloggi per gli sfollati che intendono restare all\u2019interno dei confini ucraini (servizi di accoglienza; mensa, alloggio, strutture e abitazioni private);\n- supporto logistico ai trasporti, in condizioni di sicurezza, delle persone da Ucraina  ai paesi dell\u2019Unione europea o confinanti con il Paese, ad eccezione di Russia e Bielorussia;\n- evacuazione umanitaria delle persone intrappolate nelle aree pi\u00f9 colpite dalla guerra;\n- sostegno ai trasporti di beni e aiuti umanitari dai paesi confinanti con l\u2019Ucraina, per sopperire alla scarsa disponibilit\u00e0 interna;\n- attivit\u00e0 di supporto scolastico a favore dei bambini accolti, da realizzare sia in presenza che in remoto, nonch\u00e9 attivit\u00e0 ludico ricreative volte a mitigare gli effetti drammatici della guerra e della fuga."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://fondieuropei.regione.emilia-romagna.it/bandi/avviso-per-emergenza-in-ucraina-2022-n.2"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""country"":""Italia"",""country_code"":""it"",""state"":""Emilia-Romagna""},""boundingbox"":[""43.7318997"",""45.1395001"",""9.1979117"",""12.7559006""],""class"":""boundary"",""display_name"":""Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8658836089993998,""lat"":""44.525696"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.039437"",""osm_id"":42611,""osm_type"":""relation"",""place_id"":284957631,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Bando della Regione Emilia Romagna rivolto ad enti del terzo settore ed enti locali per progetti a supporto dei profughi ucraini e dell\u2019emergenza Ucraina (scadenza 9 maggio)""}","<pre><yamldata>
 title: Bando della Regione Emilia Romagna rivolto ad enti del terzo settore ed enti
