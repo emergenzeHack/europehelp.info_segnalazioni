@@ -1,4 +1,307 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/710,1213706844,2022-04-29 07:49:55,2022-04-24 16:55:11,Regione Piemonte cerca alloggi per i rifugiati ucraini e avvia ricognizione delle disponibilità di accoglienza presso privati e strutture,45.0677551,7.6824892,Piemonte,Torino,"[""Valid/Accettato"",""News"",""Help"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.0677551 7.6824892"",""description"":""La Regione Piemonte ha avviato una ricognizione delle disponibilit\u00e0 all\u2019accoglienza temporanea dei nuclei famigliari provenienti dell\u2019Ucraina, composti in gran parte da donne (mamme, nonne, e zie) con figli anche minori al seguito, in fuga dalle zone di conflitto. Alla pagina dedicata della Regione \u00e8 possibile compilare dei moduli online per dare disponibilit\u00e0 sia di alloggi privati che presso altre strutture.\n\u00c8 inoltre attiva la mail accoglienza.ucraina@regione.piemonte.it per richieste di informazioni sull\u2019accoglienza di chi sta fuggendo dalla guerra in Ucraina."",""email"":""accoglienza.ucraina@regione.piemonte.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""state"":""Piemonte""},""boundingbox"":[""45.0067924"",""45.1402175"",""7.5778348"",""7.7733388""],""class"":""boundary"",""display_name"":""Torino, Piemonte, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8068062387577691,""lat"":""45.0677551"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6824892"",""osm_id"":43992,""osm_type"":""relation"",""place_id"":284787924,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Regione Piemonte avvia una ricognizione delle disponibilit\u00e0 di accoglienza"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""disponibilit\u00e0 alloggi presso case e strutture"",""url"":""https://www.regione.piemonte.it/web/temi/diritti-politiche-sociali/piemonte-per-lucraina#""}","<pre><yamldata>
+nameSurname: Regione Piemonte avvia una ricognizione delle disponibilità di accoglienza
+phoneNumber: ''
+email: accoglienza.ucraina@regione.piemonte.it
+title: disponibilità alloggi presso case e strutture
+recipients: ''
+description: 'La Regione Piemonte ha avviato una ricognizione delle disponibilità
+  all’accoglienza temporanea dei nuclei famigliari provenienti dell’Ucraina, composti
+  in gran parte da donne (mamme, nonne, e zie) con figli anche minori al seguito,
+  in fuga dalle zone di conflitto. Alla pagina dedicata della Regione è possibile
+  compilare dei moduli online per dare disponibilità sia di alloggi privati che presso
+  altre strutture.
+
+  È inoltre attiva la mail accoglienza.ucraina@regione.piemonte.it per richieste di
+  informazioni sull’accoglienza di chi sta fuggendo dalla guerra in Ucraina.'
+url: https://www.regione.piemonte.it/web/temi/diritti-politiche-sociali/piemonte-per-lucraina#
+location:
+  mode: autocomplete
+  address:
+    place_id: 284787924
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43992
+    boundingbox:
+    - '45.0067924'
+    - '45.1402175'
+    - '7.5778348'
+    - '7.7733388'
+    lat: '45.0677551'
+    lon: '7.6824892'
+    display_name: Torino, Piemonte, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8068062387577691
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Torino
+      county: Torino
+      state: Piemonte
+      ISO3166-2-lvl4: IT-21
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 45.0677551 7.6824892
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/698,1213328936,2022-04-29 07:48:27,2022-04-23 14:27:19,A Roma la rete Scuole Migranti cerca studenti universitari per insegnare gratuitamente italiano ai rifugiati ucraini ,41.8975686,12.4975987,Lazio,Roma,"[""Valid/Accettato"",""Help"",""telegram-channel"",""tweet"",""education""]",,,"{""Posizione"":""41.8975686 12.4975987"",""description"":""La Rete Scuolemigranti di Roma con il Coordinamento delle Associazioni Ucraine in Italia e il Centro Servizi Volontariato cercano studenti universitari per insegnare gratuitamente nei corsi di italiano per ucraini, adulti e bambini. In particolare sono preziosi studenti che conoscono l'ucraino o il russo. Verranno inseriti in affiancamento ad altri docenti volontari. Per candidarsi, inviare nome, cognome, cellulare a info@scuolemigranti.org"",""email"":""info@scuolemigranti.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00184"",""quarter"":""Monti"",""road"":""Via Liberiana"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.8969079"",""41.8981663"",""12.4968832"",""12.4985035""],""class"":""highway"",""display_name"":""Via Liberiana, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia"",""importance"":0.41000000000000003,""lat"":""41.8975686"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4975987"",""osm_id"":4951429,""osm_type"":""way"",""place_id"":96185393,""type"":""secondary""},""mode"":""autocomplete""},""nameSurname"":""Rete Scuole Migranti Roma"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""A Roma la rete Scuole Migranti cerca studenti universitari per insegnare gratuitamente italiano ai rifugiati ucraini"",""url"":""https://www.lettere.uniroma1.it/node/60222""}","<pre><yamldata>
+nameSurname: Rete Scuole Migranti Roma
+phoneNumber: ''
+email: info@scuolemigranti.org
+title: A Roma la rete Scuole Migranti cerca studenti universitari per insegnare gratuitamente
+  italiano ai rifugiati ucraini
+recipients: ''
+description: La Rete Scuolemigranti di Roma con il Coordinamento delle Associazioni
+  Ucraine in Italia e il Centro Servizi Volontariato cercano studenti universitari
+  per insegnare gratuitamente nei corsi di italiano per ucraini, adulti e bambini.
+  In particolare sono preziosi studenti che conoscono l'ucraino o il russo. Verranno
+  inseriti in affiancamento ad altri docenti volontari. Per candidarsi, inviare nome,
+  cognome, cellulare a info@scuolemigranti.org
+url: https://www.lettere.uniroma1.it/node/60222
+location:
+  mode: autocomplete
+  address:
+    place_id: 96185393
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 4951429
+    boundingbox:
+    - '41.8969079'
+    - '41.8981663'
+    - '12.4968832'
+    - '12.4985035'
+    lat: '41.8975686'
+    lon: '12.4975987'
+    display_name: Via Liberiana, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio,
+      00184, Italia
+    class: highway
+    type: secondary
+    importance: 0.41000000000000003
+    address:
+      road: Via Liberiana
+      quarter: Monti
+      suburb: Municipio Roma I
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: 00184
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 41.8975686 12.4975987
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/691,1213300570,2022-04-29 07:47:58,2022-04-23 13:32:14,"Torino, elenco dei corsi gratuiti di italiano organizzati in città",45.020123,7.6442024,Piemonte,Torino,"[""Valid/Accettato"",""Services"",""telegram-channel"",""tweet"",""Resources"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""house_number"":""1/F"",""postcode"":""10135"",""road"":""Via Fratel Teodoreto"",""state"":""Piemonte"",""suburb"":""Lingotto""},""boundingbox"":[""45.020073"",""45.020173"",""7.6441524"",""7.6442524""],""class"":""place"",""display_name"":""1/F, Via Fratel Teodoreto, Lingotto, Circoscrizione 8, Torino, Piemonte, 10135, Italia"",""importance"":0.621,""lat"":""45.020123"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6442024"",""osm_id"":4734971332,""osm_type"":""node"",""place_id"":53004982,""type"":""house""},""mode"":""autocomplete""},""aim"":""Sul sito di Wara - Associazione Italo-Brasiliana \u00e8 disponibile l\u2019elenco di tutti i corsi gratuiti di italiano organizzati a Torino con info, contatti e orari."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Torino, elenco di tutti i corsi gratuiti di italiano organizzati in citt\u00e0"",""url"":""http://www.wara.it/informazioni-utili/corsi-italiano-stranieri/""}","<pre><yamldata>
+title: Torino, elenco di tutti i corsi gratuiti di italiano organizzati in città
+phoneNumber: ''
+email: ''
+aim: Sul sito di Wara - Associazione Italo-Brasiliana è disponibile l’elenco di tutti
+  i corsi gratuiti di italiano organizzati a Torino con info, contatti e orari.
+url: http://www.wara.it/informazioni-utili/corsi-italiano-stranieri/
+address:
+  mode: autocomplete
+  address:
+    place_id: 53004982
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 4734971332
+    boundingbox:
+    - '45.020073'
+    - '45.020173'
+    - '7.6441524'
+    - '7.6442524'
+    lat: '45.020123'
+    lon: '7.6442024'
+    display_name: 1/F, Via Fratel Teodoreto, Lingotto, Circoscrizione 8, Torino, Piemonte,
+      10135, Italia
+    class: place
+    type: house
+    importance: 0.621
+    address:
+      house_number: 1/F
+      road: Via Fratel Teodoreto
+      suburb: Lingotto
+      city: Torino
+      county: Torino
+      state: Piemonte
+      ISO3166-2-lvl4: IT-21
+      postcode: '10135'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/700,1213338697,2022-04-29 07:47:34,2022-04-23 15:11:13,A Trieste la Casa internazionale delle donne organizza corso di lingua italiana gratuito per rifugiate/i in fuga dall’Ucraina,45.6555271,13.7925054,Friuli Venezia Giulia,Trieste,"[""Valid/Accettato"",""Services"",""women"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-36"",""amenity"":""Casa Internazionale delle Donne - Trieste"",""city"":""Trieste"",""country"":""Italia"",""country_code"":""it"",""county"":""Trieste"",""house_number"":""3"",""neighbourhood"":""Scoglietto"",""postcode"":""34126"",""road"":""Via Zeffirino Pisoni"",""state"":""Friuli Venezia Giulia"",""suburb"":""Roiano-Gretta-Barcola-Cologna-Scorcola""},""boundingbox"":[""45.6554771"",""45.6555771"",""13.7924554"",""13.7925554""],""class"":""amenity"",""display_name"":""Casa Internazionale delle Donne - Trieste, 3, Via Zeffirino Pisoni, Scoglietto, Roiano-Gretta-Barcola-Cologna-Scorcola, Trieste, Friuli Venezia Giulia, 34126, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//tourist_art_gallery2.p.20.png"",""importance"":0.5209999999999999,""lat"":""45.6555271"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.7925054"",""osm_id"":4861558196,""osm_type"":""node"",""place_id"":56186094,""type"":""arts_centre""},""mode"":""autocomplete""},""description"":""A Trieste alla Casa internazionale delle donne corso di lingua italiana il marted\u00ec e il venerd\u00ec alle ore 9:30, via Zeffirino Pisoni 3 (accanto al Centro Commerciale Il Giulia). Autobus 6, 9. Prima lezione 22 aprile.\nPer iscrizioni: irina.rashe@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Casa internazionale delle donne Trieste"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":true},""submit"":true,""title"":""A Trieste la Casa internazionale delle donne organizza corso di lingua italiana gratuito per rifugiate/i dall\u2019Ucraina"",""url"":""https://t.me/trieste_emergenza_ucraina/106""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: true
+  education: true
+offerFromWho: Casa internazionale delle donne Trieste
+title: A Trieste la Casa internazionale delle donne organizza corso di lingua italiana
+  gratuito per rifugiate/i dall’Ucraina
+recipients: ''
+description: 'A Trieste alla Casa internazionale delle donne corso di lingua italiana
+  il martedì e il venerdì alle ore 9:30, via Zeffirino Pisoni 3 (accanto al Centro
+  Commerciale Il Giulia). Autobus 6, 9. Prima lezione 22 aprile.
+
+  Per iscrizioni: irina.rashe@gmail.com'
+url: https://t.me/trieste_emergenza_ucraina/106
+address:
+  mode: autocomplete
+  address:
+    place_id: 56186094
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 4861558196
+    boundingbox:
+    - '45.6554771'
+    - '45.6555771'
+    - '13.7924554'
+    - '13.7925554'
+    lat: '45.6555271'
+    lon: '13.7925054'
+    display_name: Casa Internazionale delle Donne - Trieste, 3, Via Zeffirino Pisoni,
+      Scoglietto, Roiano-Gretta-Barcola-Cologna-Scorcola, Trieste, Friuli Venezia
+      Giulia, 34126, Italia
+    class: amenity
+    type: arts_centre
+    importance: 0.5209999999999999
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//tourist_art_gallery2.p.20.png
+    address:
+      amenity: Casa Internazionale delle Donne - Trieste
+      house_number: '3'
+      road: Via Zeffirino Pisoni
+      neighbourhood: Scoglietto
+      suburb: Roiano-Gretta-Barcola-Cologna-Scorcola
+      city: Trieste
+      county: Trieste
+      state: Friuli Venezia Giulia
+      ISO3166-2-lvl4: IT-36
+      postcode: '34126'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/732,1217892576,2022-04-29 07:46:45,2022-04-27 21:17:10,"Padova, Centro di Aiuto alla Vita offre vestiti e latte in polvere a mamme in arrivo dall’Ucraina",45.3882743,11.8795983,Veneto,Padova,"[""Valid/Accettato"",""Services"",""Children"",""women"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""city"":""Padova"",""country"":""Italia"",""country_code"":""it"",""county"":""Padova"",""postcode"":""35124"",""road"":""Via Tre Garofani"",""state"":""Veneto"",""suburb"":""Madonna Pellegrina""},""boundingbox"":[""45.3882405"",""45.3883456"",""11.8791314"",""11.8804792""],""class"":""highway"",""display_name"":""Via Tre Garofani, Madonna Pellegrina, Padova, Veneto, 35124, Italia"",""importance"":0.51,""lat"":""45.3882743"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.8795983"",""osm_id"":476630886,""osm_type"":""way"",""place_id"":206729021,""type"":""residential""},""mode"":""autocomplete""},""description"":""In caso di necessit\u00e0 di vestiti per bambini/e, mamme e gestanti, cos\u00ec come di latte in polvere per le persone in arrivo dall\u2019Ucraina ci si pu\u00f2 rivolgere al Centro di Aiuto alla Vita di Padova al n. 049 8806330."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Centro di Aiuto alla Vita Padova"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":true},""submit"":true,""title"":""Padova, Centro di Aiuto alla Vita offre vestiti e latte in polvere a mamme in arrivo dall\u2019Ucraina"",""url"":""https://www.csvpadovarovigo.org/emergenza-ucraina-gli-aiuti-dal-mondo-del-volontariato-a-padova-e-rovigo/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: true
+  education: false
+offerFromWho: Centro di Aiuto alla Vita Padova
+title: Padova, Centro di Aiuto alla Vita offre vestiti e latte in polvere a mamme
+  in arrivo dall’Ucraina
+recipients: ''
+description: In caso di necessità di vestiti per bambini/e, mamme e gestanti, così
+  come di latte in polvere per le persone in arrivo dall’Ucraina ci si può rivolgere
+  al Centro di Aiuto alla Vita di Padova al n. 049 8806330.
+url: https://www.csvpadovarovigo.org/emergenza-ucraina-gli-aiuti-dal-mondo-del-volontariato-a-padova-e-rovigo/
+address:
+  mode: autocomplete
+  address:
+    place_id: 206729021
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 476630886
+    boundingbox:
+    - '45.3882405'
+    - '45.3883456'
+    - '11.8791314'
+    - '11.8804792'
+    lat: '45.3882743'
+    lon: '11.8795983'
+    display_name: Via Tre Garofani, Madonna Pellegrina, Padova, Veneto, 35124, Italia
+    class: highway
+    type: residential
+    importance: 0.51
+    address:
+      road: Via Tre Garofani
+      suburb: Madonna Pellegrina
+      city: Padova
+      county: Padova
+      state: Veneto
+      ISO3166-2-lvl4: IT-34
+      postcode: '35124'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/736,1217942515,2022-04-29 07:46:29,2022-04-27 22:25:41,Elenco piattaforme e app per l’apprendimento delle lingue che offrono abbonamenti gratuiti agli ucraini,,,,,"[""Valid/Accettato"",""News"",""translation"",""telegram-channel"",""tweet"",""education""]",,,"{""description"":""Agli ucraini \u00e8 stato fornito libero accesso alle risorse online per l'apprendimento delle lingue straniere sulle seguenti app/piattaforme:\n\n- Busu https://blog.busuu.com/free-language-lessons-ukranians/\nPuoi utilizzare la piattaforma online o le applicazioni per iOS o Android. Offerta per gli ucraini: il servizio offre 90 giorni di abbonamenti premium.\n\n- Drops https://languagedrops.com/ukraine\nUn'applicazione che sar\u00e0 utile a coloro che stanno appena iniziando a imparare una nuova lingua straniera. Puoi scaricare solo per Android. Offerta per gli ucraini: premio gratuito per un anno.\n\n- Ling Q https://www.lingq.com/it/forum/open-forum/lingq-stands-with-ukraine-free/\nRisorsa online con una vasta libreria di materiali audio e di testo.  In totale - 24 lingue straniere. Puoi unirti alla community sul sito o scaricare l'app iOS e Android. Offerta per gli ucraini: uso gratuito dell'account premium. \u00c8 necessario contattare l'assistenza per attivarlo.\n\n- Duolingo https://blog.duolingo.com/duolingo-statement-ukraine/\nOfferta per gli ucraini: permesso di utilizzare l'applicazione gratuitamente. Scarica l'app per iOS e Android.\n\n - App Ling https://ling-app.com/press-releases/support-ukraine-free-language-app/\nUn'applicazione che ti aiuter\u00e0 a imparare la lingua sotto forma di giochi e test divertenti. Pi\u00f9 di 60 corsi di lingua. Scarica l'app per iOS e Android. Offerta per gli ucraini: uso gratuito.\n\n- UTalk https://www.store.utalk.com/ukrainianchoose\nL'applicazione ti permette di imparare pi\u00f9 di 140 lingue. Puoi scaricare per iOS e Android. Offerta per gli ucraini: accesso gratuito all'applicazione.\n\n- Mondly https://www.mondly.com/blog/2022/03/21/mondly-free-ukrainian-refugees/\nD\u00e0 l'opportunit\u00e0 di imparare pi\u00f9 di 30 lingue straniere. Contiene sito e applicazioni per iOS e Android. Offerta per gli ucraini: accesso gratuito (specificare l'ucraino come lingua madre per ottenere l'accesso premium).\n\n\u200b\u200b\u0423\u043a\u0440\u0430\u0457\u043d\u0446\u044f\u043c \u043d\u0430\u0434\u0430\u043b\u0438 \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u0438\u0439 \u0434\u043e\u0441\u0442\u0443\u043f \u0434\u043e \u043e\u043d\u043b\u0430\u0439\u043d-\u0440\u0435\u0441\u0443\u0440\u0441\u0456\u0432 \u0434\u043b\u044f \u0432\u0438\u0432\u0447\u0435\u043d\u043d\u044f \u0456\u043d\u043e\u0437\u0435\u043c\u043d\u0438\u0445 \u043c\u043e\u0432\n\nBusuu\n\u0412\u0438 \u043c\u043e\u0436\u0435\u0442\u0435 \u0441\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u0442\u0438\u0441\u044f\u00a0\u043e\u043d\u043b\u0430\u0439\u043d-\u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u043e\u044e\u00a0\u0430\u0431\u043e \u0437\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043a\u0430\u043c\u0438 \u0434\u043b\u044f\u00a0iOS\u00a0\u0430\u0431\u043e\u00a0Android. \n\u041f\u0440\u043e\u043f\u043e\u0437\u0438\u0446\u0456\u044f \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432:\u00a0\u0421\u0435\u0440\u0432\u0456\u0441 \u0434\u0430\u0440\u0443\u0454 90 \u0434\u043d\u0456\u0432 \u043f\u0440\u0435\u043c\u0456\u0443\u043c \u043f\u0456\u0434\u043f\u0438\u0441\u043a\u0438.\u00a0\n\nDrops\n\u0417\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043e\u043a, \u044f\u043a\u0438\u0439 \u0431\u0443\u0434\u0435 \u043a\u043e\u0440\u0438\u0441\u043d\u0438\u043c \u0442\u0438\u043c, \u0445\u0442\u043e \u0442\u0456\u043b\u044c\u043a\u0438 \u043f\u043e\u0447\u0438\u043d\u0430\u0454 \u0432\u0447\u0438\u0442\u0438 \u043d\u043e\u0432\u0443 \u0456\u043d\u043e\u0437\u0435\u043c\u043d\u0443 \u043c\u043e\u0432\u0443. \u0417\u0430\u0432\u0430\u043d\u0442\u0430\u0436\u0438\u0442\u0438 \u043c\u043e\u0436\u043d\u0430 \u0442\u0456\u043b\u044c\u043a\u0438 \u0434\u043b\u044f\u00a0Android.\u00a0 \n\u041f\u0440\u043e\u043f\u043e\u0437\u0438\u0446\u0456\u044f \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432:\u00a0\u0411\u0435\u0437\u043e\u043f\u043b\u0430\u0442\u043d\u0430\u00a0\u043f\u0440\u0435\u043c\u0456\u0443\u043c\u0432\u0435\u0440\u0441\u0456\u044f \u043d\u0430 \u0440\u0456\u043a.\u00a0\n\nLingQ\n\u041e\u043d\u043b\u0430\u0439\u043d-\u0440\u0435\u0441\u0443\u0440\u0441 \u0437 \u0432\u0435\u043b\u0438\u043a\u043e\u044e \u0431\u0456\u0431\u043b\u0456\u043e\u0442\u0435\u043a\u043e\u044e \u0430\u0443\u0434\u0456\u043e- \u0442\u0430 \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u0438\u0445 \u043c\u0430\u0442\u0435\u0440\u0456\u0430\u043b\u0456\u0432. \u0417\u0430\u0433\u0430\u043b\u043e\u043c \u2013 24 \u0456\u043d\u043e\u0437\u0435\u043c\u043d\u0456 \u043c\u043e\u0432\u0438.\u00a0\u0414\u043e\u043b\u0443\u0447\u0438\u0442\u0438\u0441\u044f \u0434\u043e \u0441\u043f\u0456\u043b\u044c\u043d\u043e\u0442\u0438 \u043c\u043e\u0436\u043d\u0430 \u043d\u0430\u00a0\u0441\u0430\u0439\u0442\u0456\u00a0\u0430\u0431\u043e \u0437\u0430\u0432\u0430\u043d\u0442\u0430\u0436\u0438\u0442\u0438 \u0437\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043e\u043a iOS\u00a0\u0442\u0430\u00a0Android.\u00a0\n\u041f\u0440\u043e\u043f\u043e\u0437\u0438\u0446\u0456\u044f \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432:\u00a0\u0431\u0435\u0437\u043e\u043f\u043b\u0430\u0442\u043d\u0435 \u043a\u043e\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u043d\u043d\u044f\u00a0\u043f\u0440\u0435\u043c\u0456\u0443\u043c\u043e\u0431\u043b\u0456\u043a\u043e\u0432\u0438\u043c \u0437\u0430\u043f\u0438\u0441\u043e\u043c. \u0429\u043e\u0431 \u0430\u043a\u0442\u0438\u0432\u0443\u0432\u0430\u0442\u0438 \u0439\u043e\u0433\u043e, \u0442\u0440\u0435\u0431\u0430 \u0437\u0432\u0435\u0440\u043d\u0443\u0442\u0438\u0441\u044f \u0434\u043e \u0441\u043b\u0443\u0436\u0431\u0438 \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u043a\u0438.\n\nDuolingo\n\u041f\u0440\u043e\u043f\u043e\u0437\u0438\u0446\u0456\u044f \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432:\u00a0\u0434\u043e\u0437\u0432\u0456\u043b \u043d\u0430 \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u043d\u043d\u044f \u0437\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043a\u0443 \u0431\u0435\u0437\u043e\u043f\u043b\u0430\u0442\u043d\u043e. \u0417\u0430\u0432\u0430\u043d\u0442\u0430\u0436\u0438\u0442\u0438 \u0437\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043e\u043a \u0434\u043b\u044f\u00a0iOS\u00a0\u0442\u0430\u00a0Android.\u00a0\n\nLing App\n\u0417\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043e\u043a, \u044f\u043a\u0438\u0439 \u0434\u043e\u043f\u043e\u043c\u043e\u0436\u0435 \u0432\u0438\u0432\u0447\u0438\u0442\u0438 \u043c\u043e\u0432\u0443 \u0443 \u0444\u043e\u0440\u043c\u0430\u0442\u0456 \u043a\u0443\u043c\u0435\u0434\u043d\u0438\u0445 \u0456\u0433\u043e\u0440 \u0442\u0430 \u0442\u0435\u0441\u0442\u0456\u0432. \u041f\u043e\u043d\u0430\u0434 60 \u043c\u043e\u0432\u043d\u0438\u0445 \u043a\u0443\u0440\u0441\u0456\u0432. \u0417\u0430\u0432\u0430\u043d\u0442\u0430\u0436\u0438\u0442\u0438 \u0437\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043e\u043a \u0434\u043b\u044f\u00a0iOS\u00a0\u0442\u0430\u00a0Android. \n\u041f\u0440\u043e\u043f\u043e\u0437\u0438\u0446\u0456\u044f \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432:\u00a0\u0431\u0435\u0437\u043e\u043f\u043b\u0430\u0442\u043d\u0435 \u043a\u043e\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u043d\u043d\u044f.\n\nUTalk\n\u0417\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043e\u043a \u0434\u0430\u0454 \u043c\u043e\u0436\u043b\u0438\u0432\u0456\u0441\u0442\u044c \u0432\u0438\u0432\u0447\u0438\u0442\u0438 \u043f\u043e\u043d\u0430\u0434 140 \u043c\u043e\u0432.\n\u0417\u0430\u0432\u0430\u043d\u0442\u0430\u0436\u0438\u0442\u0438 \u043c\u043e\u0436\u043d\u0430 \u0434\u043b\u044f\u00a0iOS\u00a0\u0442\u0430\u00a0Android.\u00a0\n\u041f\u0440\u043e\u043f\u043e\u0437\u0438\u0446\u0456\u044f \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432: \u0432\u0456\u043b\u044c\u043d\u0438\u0439 \u0434\u043e\u0441\u0442\u0443\u043f \u0434\u043e \u0437\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043a\u0443.\n\nMondly\n\u0414\u0430\u0454 \u043c\u043e\u0436\u043b\u0438\u0432\u0456\u0441\u0442\u044c\u00a0\u0432\u0438\u0432\u0447\u0438\u0442\u0438 \u043f\u043e\u043d\u0430\u0434 30 \u0456\u043d\u043e\u0437\u0435\u043c\u043d\u0438\u0445 \u043c\u043e\u0432. \u041c\u0456\u0441\u0442\u0438\u0442\u044c\u00a0\u0441\u0430\u0439\u0442\u00a0\u0442\u0430 \u0437\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043a\u0438 \u043d\u0430\u00a0iOS\u00a0\u0442\u0430\u00a0Android.\u00a0\n\u041f\u0440\u043e\u043f\u043e\u0437\u0438\u0446\u0456\u044f \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432:\u00a0\u0431\u0435\u0437\u043e\u043f\u043b\u0430\u0442\u043d\u0438\u0439 \u0434\u043e\u0441\u0442\u0443\u043f (\u0432\u043a\u0430\u0437\u0443\u0439\u0442\u0435 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0443 \u044f\u043a \u0440\u0456\u0434\u043d\u0443 \u043c\u043e\u0432\u0443, \u0449\u043e\u0431 \u043e\u0442\u0440\u0438\u043c\u0430\u0442\u0438 \u043f\u0440\u0435\u043c\u0456\u0443\u043c \u0434\u043e\u0441\u0442\u0443\u043f)."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.me/firststepinitaly/122"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Elenco delle piattaforme e app per l\u2019apprendimento delle lingue che offrono abbonamenti gratuiti agli ucraini""}","<pre><yamldata>
+title: Elenco delle piattaforme e app per l’apprendimento delle lingue che offrono
+  abbonamenti gratuiti agli ucraini
+description: ""Agli ucraini è stato fornito libero accesso alle risorse online per\
+  \ l'apprendimento delle lingue straniere sulle seguenti app/piattaforme:\n\n- Busu\
+  \ https://blog.busuu.com/free-language-lessons-ukranians/\nPuoi utilizzare la piattaforma\
+  \ online o le applicazioni per iOS o Android. Offerta per gli ucraini: il servizio\
+  \ offre 90 giorni di abbonamenti premium.\n\n- Drops https://languagedrops.com/ukraine\n\
+  Un'applicazione che sarà utile a coloro che stanno appena iniziando a imparare una\
+  \ nuova lingua straniera. Puoi scaricare solo per Android. Offerta per gli ucraini:\
+  \ premio gratuito per un anno.\n\n- Ling Q https://www.lingq.com/it/forum/open-forum/lingq-stands-with-ukraine-free/\n\
+  Risorsa online con una vasta libreria di materiali audio e di testo.  In totale\
+  \ - 24 lingue straniere. Puoi unirti alla community sul sito o scaricare l'app iOS\
+  \ e Android. Offerta per gli ucraini: uso gratuito dell'account premium. È necessario\
+  \ contattare l'assistenza per attivarlo.\n\n- Duolingo https://blog.duolingo.com/duolingo-statement-ukraine/\n\
+  Offerta per gli ucraini: permesso di utilizzare l'applicazione gratuitamente. Scarica\
+  \ l'app per iOS e Android.\n\n - App Ling https://ling-app.com/press-releases/support-ukraine-free-language-app/\n\
+  Un'applicazione che ti aiuterà a imparare la lingua sotto forma di giochi e test\
+  \ divertenti. Più di 60 corsi di lingua. Scarica l'app per iOS e Android. Offerta\
+  \ per gli ucraini: uso gratuito.\n\n- UTalk https://www.store.utalk.com/ukrainianchoose\n\
+  L'applicazione ti permette di imparare più di 140 lingue. Puoi scaricare per iOS\
+  \ e Android. Offerta per gli ucraini: accesso gratuito all'applicazione.\n\n- Mondly\
+  \ https://www.mondly.com/blog/2022/03/21/mondly-free-ukrainian-refugees/\nDà l'opportunità\
+  \ di imparare più di 30 lingue straniere. Contiene sito e applicazioni per iOS e\
+  \ Android. Offerta per gli ucraini: accesso gratuito (specificare l'ucraino come\
+  \ lingua madre per ottenere l'accesso premium).\n\n​​Українцям надали безкоштовний\
+  \ доступ до онлайн-ресурсів для вивчення іноземних мов\n\nBusuu\nВи можете скористатися онлайн-платформою або\
+  \ застосунками для iOS або Android. \nПропозиція для українців: Сервіс дарує 90\
+  \ днів преміум підписки. \n\nDrops\nЗастосунок, який буде корисним тим, хто тільки\
+  \ починає вчити нову іноземну мову. Завантажити можна тільки для Android.  \nПропозиція\
+  \ для українців: Безоплатна преміумверсія на рік. \n\nLingQ\nОнлайн-ресурс з великою\
+  \ бібліотекою аудіо- та текстових матеріалів. Загалом – 24 іноземні мови. Долучитися\
+  \ до спільноти можна на сайті або завантажити застосунок iOS та Android. \nПропозиція\
+  \ для українців: безоплатне користування преміумобліковим записом. Щоб активувати\
+  \ його, треба звернутися до служби підтримки.\n\nDuolingo\nПропозиція для українців: дозвіл\
+  \ на використання застосунку безоплатно. Завантажити застосунок для iOS та Android. \n\
+  \nLing App\nЗастосунок, який допоможе вивчити мову у форматі кумедних ігор та тестів.\
+  \ Понад 60 мовних курсів. Завантажити застосунок для iOS та Android. \nПропозиція\
+  \ для українців: безоплатне користування.\n\nUTalk\nЗастосунок дає можливість вивчити\
+  \ понад 140 мов.\nЗавантажити можна для iOS та Android. \nПропозиція для українців:\
+  \ вільний доступ до застосунку.\n\nMondly\nДає можливість вивчити понад 30 іноземних\
+  \ мов. Містить сайт та застосунки на iOS та Android. \nПропозиція для українців: безоплатний\
+  \ доступ (вказуйте українську як рідну мову, щоб отримати преміум доступ).""
+link: https://t.me/firststepinitaly/122
+location:
+  mode: autocomplete
+  address: {}
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/717,1213780725,2022-04-28 15:08:46,2022-04-24 22:00:06,A Brescia Caritas e Croce Rossa distribuiscono ogni settimana beni alimentari alle famiglie ucraine,45.518185,10.2751158,Lombardia,Brescia,"[""Valid/Accettato"",""Services"",""materialGoods"",""Children"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-BS"",""city_district"":""Zona Est"",""country"":""Italia"",""country_code"":""it"",""county"":""Brescia"",""postcode"":""25135"",""road"":""Via Agostino Chiappa"",""state"":""Lombardia"",""village"":""Buffalora - Bettole""},""boundingbox"":[""45.518102"",""45.5183458"",""10.2750423"",""10.2751808""],""class"":""highway"",""display_name"":""Via Agostino Chiappa, Buffalora - Bettole, Zona Est, Brescia, Lombardia, 25135, Italia"",""importance"":0.41000000000000003,""lat"":""45.518185"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.2751158"",""osm_id"":402402916,""osm_type"":""way"",""place_id"":195647941,""type"":""residential""},""mode"":""autocomplete""},""description"":""Sabato 23 aprile verr\u00e0 avviata l\u2019attivit\u00e0 del centro di distribuzione generi di prima necessit\u00e0 per le famiglie ucraine che non sono inserite nei canali gestiti dalla Prefettura (CAS), nel sistema SAI e nei prossimi sistemi di accoglienza della Protezione Civile.\nIl magazzino \u00e8 organizzato presso la sede ex OMB in via Chiappa 27 a Brescia.\nCroce Rossa Italiana comitato di Brescia, con la collaborazione di Caritas, Cauto e Maremosso, gestir\u00e0 il centro di distribuzione per conto del Comune di Brescia.\nLa distribuzione avverr\u00e0 inizialmente il fine settimana, sabato e domenica dalle 9 alle 16. Verr\u00e0 consegnato un pacco alimentare per nucleo familiare il cui contenuto varier\u00e0 rispetto la composizione e alla presenza di bambini, per consentire una autonomia di quindici giorni. Dopo un breve periodo di sperimentazione e di verifica organizzativa si valuteranno eventuali modifiche prevedendo una estensione dei giorni di apertura.\nPer eventuali donazioni o informazioni \u00e8 possibile contattare Croce Rossa Italiana Brescia all\u2019indirizzo brescia@cri.it (referente organizzativo) o la dottoressa Megni Francesca fmegni@comune.brescia.it (referente Comune di Brescia)."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Caritas Brescia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Brescia Caritas e Croce Rossa distribuiscono ogni settimana beni alimentari alle famiglie ucraine"",""url"":""https://www.caritasbrescia.it/flash-news/emergenza-ucraina-centro-distribuzione-generi-di-prima-necessita/""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
@@ -440,57 +743,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/736,1217942515,2022-04-27 22:26:31,2022-04-27 22:25:41,Elenco piattaforme e app per l’apprendimento delle lingue che offrono abbonamenti gratuiti agli ucraini,,,,,"[""Valid/Accettato"",""News"",""translation"",""education""]",,,"{""description"":""Agli ucraini \u00e8 stato fornito libero accesso alle risorse online per l'apprendimento delle lingue straniere sulle seguenti app/piattaforme:\n\n- Busu https://blog.busuu.com/free-language-lessons-ukranians/\nPuoi utilizzare la piattaforma online o le applicazioni per iOS o Android. Offerta per gli ucraini: il servizio offre 90 giorni di abbonamenti premium.\n\n- Drops https://languagedrops.com/ukraine\nUn'applicazione che sar\u00e0 utile a coloro che stanno appena iniziando a imparare una nuova lingua straniera. Puoi scaricare solo per Android. Offerta per gli ucraini: premio gratuito per un anno.\n\n- Ling Q https://www.lingq.com/it/forum/open-forum/lingq-stands-with-ukraine-free/\nRisorsa online con una vasta libreria di materiali audio e di testo.  In totale - 24 lingue straniere. Puoi unirti alla community sul sito o scaricare l'app iOS e Android. Offerta per gli ucraini: uso gratuito dell'account premium. \u00c8 necessario contattare l'assistenza per attivarlo.\n\n- Duolingo https://blog.duolingo.com/duolingo-statement-ukraine/\nOfferta per gli ucraini: permesso di utilizzare l'applicazione gratuitamente. Scarica l'app per iOS e Android.\n\n - App Ling https://ling-app.com/press-releases/support-ukraine-free-language-app/\nUn'applicazione che ti aiuter\u00e0 a imparare la lingua sotto forma di giochi e test divertenti. Pi\u00f9 di 60 corsi di lingua. Scarica l'app per iOS e Android. Offerta per gli ucraini: uso gratuito.\n\n- UTalk https://www.store.utalk.com/ukrainianchoose\nL'applicazione ti permette di imparare pi\u00f9 di 140 lingue. Puoi scaricare per iOS e Android. Offerta per gli ucraini: accesso gratuito all'applicazione.\n\n- Mondly https://www.mondly.com/blog/2022/03/21/mondly-free-ukrainian-refugees/\nD\u00e0 l'opportunit\u00e0 di imparare pi\u00f9 di 30 lingue straniere. Contiene sito e applicazioni per iOS e Android. Offerta per gli ucraini: accesso gratuito (specificare l'ucraino come lingua madre per ottenere l'accesso premium).\n\n\u200b\u200b\u0423\u043a\u0440\u0430\u0457\u043d\u0446\u044f\u043c \u043d\u0430\u0434\u0430\u043b\u0438 \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u0438\u0439 \u0434\u043e\u0441\u0442\u0443\u043f \u0434\u043e \u043e\u043d\u043b\u0430\u0439\u043d-\u0440\u0435\u0441\u0443\u0440\u0441\u0456\u0432 \u0434\u043b\u044f \u0432\u0438\u0432\u0447\u0435\u043d\u043d\u044f \u0456\u043d\u043e\u0437\u0435\u043c\u043d\u0438\u0445 \u043c\u043e\u0432\n\nBusuu\n\u0412\u0438 \u043c\u043e\u0436\u0435\u0442\u0435 \u0441\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u0442\u0438\u0441\u044f\u00a0\u043e\u043d\u043b\u0430\u0439\u043d-\u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u043e\u044e\u00a0\u0430\u0431\u043e \u0437\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043a\u0430\u043c\u0438 \u0434\u043b\u044f\u00a0iOS\u00a0\u0430\u0431\u043e\u00a0Android. \n\u041f\u0440\u043e\u043f\u043e\u0437\u0438\u0446\u0456\u044f \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432:\u00a0\u0421\u0435\u0440\u0432\u0456\u0441 \u0434\u0430\u0440\u0443\u0454 90 \u0434\u043d\u0456\u0432 \u043f\u0440\u0435\u043c\u0456\u0443\u043c \u043f\u0456\u0434\u043f\u0438\u0441\u043a\u0438.\u00a0\n\nDrops\n\u0417\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043e\u043a, \u044f\u043a\u0438\u0439 \u0431\u0443\u0434\u0435 \u043a\u043e\u0440\u0438\u0441\u043d\u0438\u043c \u0442\u0438\u043c, \u0445\u0442\u043e \u0442\u0456\u043b\u044c\u043a\u0438 \u043f\u043e\u0447\u0438\u043d\u0430\u0454 \u0432\u0447\u0438\u0442\u0438 \u043d\u043e\u0432\u0443 \u0456\u043d\u043e\u0437\u0435\u043c\u043d\u0443 \u043c\u043e\u0432\u0443. \u0417\u0430\u0432\u0430\u043d\u0442\u0430\u0436\u0438\u0442\u0438 \u043c\u043e\u0436\u043d\u0430 \u0442\u0456\u043b\u044c\u043a\u0438 \u0434\u043b\u044f\u00a0Android.\u00a0 \n\u041f\u0440\u043e\u043f\u043e\u0437\u0438\u0446\u0456\u044f \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432:\u00a0\u0411\u0435\u0437\u043e\u043f\u043b\u0430\u0442\u043d\u0430\u00a0\u043f\u0440\u0435\u043c\u0456\u0443\u043c\u0432\u0435\u0440\u0441\u0456\u044f \u043d\u0430 \u0440\u0456\u043a.\u00a0\n\nLingQ\n\u041e\u043d\u043b\u0430\u0439\u043d-\u0440\u0435\u0441\u0443\u0440\u0441 \u0437 \u0432\u0435\u043b\u0438\u043a\u043e\u044e \u0431\u0456\u0431\u043b\u0456\u043e\u0442\u0435\u043a\u043e\u044e \u0430\u0443\u0434\u0456\u043e- \u0442\u0430 \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u0438\u0445 \u043c\u0430\u0442\u0435\u0440\u0456\u0430\u043b\u0456\u0432. \u0417\u0430\u0433\u0430\u043b\u043e\u043c \u2013 24 \u0456\u043d\u043e\u0437\u0435\u043c\u043d\u0456 \u043c\u043e\u0432\u0438.\u00a0\u0414\u043e\u043b\u0443\u0447\u0438\u0442\u0438\u0441\u044f \u0434\u043e \u0441\u043f\u0456\u043b\u044c\u043d\u043e\u0442\u0438 \u043c\u043e\u0436\u043d\u0430 \u043d\u0430\u00a0\u0441\u0430\u0439\u0442\u0456\u00a0\u0430\u0431\u043e \u0437\u0430\u0432\u0430\u043d\u0442\u0430\u0436\u0438\u0442\u0438 \u0437\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043e\u043a iOS\u00a0\u0442\u0430\u00a0Android.\u00a0\n\u041f\u0440\u043e\u043f\u043e\u0437\u0438\u0446\u0456\u044f \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432:\u00a0\u0431\u0435\u0437\u043e\u043f\u043b\u0430\u0442\u043d\u0435 \u043a\u043e\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u043d\u043d\u044f\u00a0\u043f\u0440\u0435\u043c\u0456\u0443\u043c\u043e\u0431\u043b\u0456\u043a\u043e\u0432\u0438\u043c \u0437\u0430\u043f\u0438\u0441\u043e\u043c. \u0429\u043e\u0431 \u0430\u043a\u0442\u0438\u0432\u0443\u0432\u0430\u0442\u0438 \u0439\u043e\u0433\u043e, \u0442\u0440\u0435\u0431\u0430 \u0437\u0432\u0435\u0440\u043d\u0443\u0442\u0438\u0441\u044f \u0434\u043e \u0441\u043b\u0443\u0436\u0431\u0438 \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u043a\u0438.\n\nDuolingo\n\u041f\u0440\u043e\u043f\u043e\u0437\u0438\u0446\u0456\u044f \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432:\u00a0\u0434\u043e\u0437\u0432\u0456\u043b \u043d\u0430 \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u043d\u043d\u044f \u0437\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043a\u0443 \u0431\u0435\u0437\u043e\u043f\u043b\u0430\u0442\u043d\u043e. \u0417\u0430\u0432\u0430\u043d\u0442\u0430\u0436\u0438\u0442\u0438 \u0437\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043e\u043a \u0434\u043b\u044f\u00a0iOS\u00a0\u0442\u0430\u00a0Android.\u00a0\n\nLing App\n\u0417\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043e\u043a, \u044f\u043a\u0438\u0439 \u0434\u043e\u043f\u043e\u043c\u043e\u0436\u0435 \u0432\u0438\u0432\u0447\u0438\u0442\u0438 \u043c\u043e\u0432\u0443 \u0443 \u0444\u043e\u0440\u043c\u0430\u0442\u0456 \u043a\u0443\u043c\u0435\u0434\u043d\u0438\u0445 \u0456\u0433\u043e\u0440 \u0442\u0430 \u0442\u0435\u0441\u0442\u0456\u0432. \u041f\u043e\u043d\u0430\u0434 60 \u043c\u043e\u0432\u043d\u0438\u0445 \u043a\u0443\u0440\u0441\u0456\u0432. \u0417\u0430\u0432\u0430\u043d\u0442\u0430\u0436\u0438\u0442\u0438 \u0437\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043e\u043a \u0434\u043b\u044f\u00a0iOS\u00a0\u0442\u0430\u00a0Android. \n\u041f\u0440\u043e\u043f\u043e\u0437\u0438\u0446\u0456\u044f \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432:\u00a0\u0431\u0435\u0437\u043e\u043f\u043b\u0430\u0442\u043d\u0435 \u043a\u043e\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u043d\u043d\u044f.\n\nUTalk\n\u0417\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043e\u043a \u0434\u0430\u0454 \u043c\u043e\u0436\u043b\u0438\u0432\u0456\u0441\u0442\u044c \u0432\u0438\u0432\u0447\u0438\u0442\u0438 \u043f\u043e\u043d\u0430\u0434 140 \u043c\u043e\u0432.\n\u0417\u0430\u0432\u0430\u043d\u0442\u0430\u0436\u0438\u0442\u0438 \u043c\u043e\u0436\u043d\u0430 \u0434\u043b\u044f\u00a0iOS\u00a0\u0442\u0430\u00a0Android.\u00a0\n\u041f\u0440\u043e\u043f\u043e\u0437\u0438\u0446\u0456\u044f \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432: \u0432\u0456\u043b\u044c\u043d\u0438\u0439 \u0434\u043e\u0441\u0442\u0443\u043f \u0434\u043e \u0437\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043a\u0443.\n\nMondly\n\u0414\u0430\u0454 \u043c\u043e\u0436\u043b\u0438\u0432\u0456\u0441\u0442\u044c\u00a0\u0432\u0438\u0432\u0447\u0438\u0442\u0438 \u043f\u043e\u043d\u0430\u0434 30 \u0456\u043d\u043e\u0437\u0435\u043c\u043d\u0438\u0445 \u043c\u043e\u0432. \u041c\u0456\u0441\u0442\u0438\u0442\u044c\u00a0\u0441\u0430\u0439\u0442\u00a0\u0442\u0430 \u0437\u0430\u0441\u0442\u043e\u0441\u0443\u043d\u043a\u0438 \u043d\u0430\u00a0iOS\u00a0\u0442\u0430\u00a0Android.\u00a0\n\u041f\u0440\u043e\u043f\u043e\u0437\u0438\u0446\u0456\u044f \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432:\u00a0\u0431\u0435\u0437\u043e\u043f\u043b\u0430\u0442\u043d\u0438\u0439 \u0434\u043e\u0441\u0442\u0443\u043f (\u0432\u043a\u0430\u0437\u0443\u0439\u0442\u0435 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0443 \u044f\u043a \u0440\u0456\u0434\u043d\u0443 \u043c\u043e\u0432\u0443, \u0449\u043e\u0431 \u043e\u0442\u0440\u0438\u043c\u0430\u0442\u0438 \u043f\u0440\u0435\u043c\u0456\u0443\u043c \u0434\u043e\u0441\u0442\u0443\u043f)."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.me/firststepinitaly/122"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Elenco delle piattaforme e app per l\u2019apprendimento delle lingue che offrono abbonamenti gratuiti agli ucraini""}","<pre><yamldata>
-title: Elenco delle piattaforme e app per l’apprendimento delle lingue che offrono
-  abbonamenti gratuiti agli ucraini
-description: ""Agli ucraini è stato fornito libero accesso alle risorse online per\
-  \ l'apprendimento delle lingue straniere sulle seguenti app/piattaforme:\n\n- Busu\
-  \ https://blog.busuu.com/free-language-lessons-ukranians/\nPuoi utilizzare la piattaforma\
-  \ online o le applicazioni per iOS o Android. Offerta per gli ucraini: il servizio\
-  \ offre 90 giorni di abbonamenti premium.\n\n- Drops https://languagedrops.com/ukraine\n\
-  Un'applicazione che sarà utile a coloro che stanno appena iniziando a imparare una\
-  \ nuova lingua straniera. Puoi scaricare solo per Android. Offerta per gli ucraini:\
-  \ premio gratuito per un anno.\n\n- Ling Q https://www.lingq.com/it/forum/open-forum/lingq-stands-with-ukraine-free/\n\
-  Risorsa online con una vasta libreria di materiali audio e di testo.  In totale\
-  \ - 24 lingue straniere. Puoi unirti alla community sul sito o scaricare l'app iOS\
-  \ e Android. Offerta per gli ucraini: uso gratuito dell'account premium. È necessario\
-  \ contattare l'assistenza per attivarlo.\n\n- Duolingo https://blog.duolingo.com/duolingo-statement-ukraine/\n\
-  Offerta per gli ucraini: permesso di utilizzare l'applicazione gratuitamente. Scarica\
-  \ l'app per iOS e Android.\n\n - App Ling https://ling-app.com/press-releases/support-ukraine-free-language-app/\n\
-  Un'applicazione che ti aiuterà a imparare la lingua sotto forma di giochi e test\
-  \ divertenti. Più di 60 corsi di lingua. Scarica l'app per iOS e Android. Offerta\
-  \ per gli ucraini: uso gratuito.\n\n- UTalk https://www.store.utalk.com/ukrainianchoose\n\
-  L'applicazione ti permette di imparare più di 140 lingue. Puoi scaricare per iOS\
-  \ e Android. Offerta per gli ucraini: accesso gratuito all'applicazione.\n\n- Mondly\
-  \ https://www.mondly.com/blog/2022/03/21/mondly-free-ukrainian-refugees/\nDà l'opportunità\
-  \ di imparare più di 30 lingue straniere. Contiene sito e applicazioni per iOS e\
-  \ Android. Offerta per gli ucraini: accesso gratuito (specificare l'ucraino come\
-  \ lingua madre per ottenere l'accesso premium).\n\n​​Українцям надали безкоштовний\
-  \ доступ до онлайн-ресурсів для вивчення іноземних мов\n\nBusuu\nВи можете скористатися онлайн-платформою або\
-  \ застосунками для iOS або Android. \nПропозиція для українців: Сервіс дарує 90\
-  \ днів преміум підписки. \n\nDrops\nЗастосунок, який буде корисним тим, хто тільки\
-  \ починає вчити нову іноземну мову. Завантажити можна тільки для Android.  \nПропозиція\
-  \ для українців: Безоплатна преміумверсія на рік. \n\nLingQ\nОнлайн-ресурс з великою\
-  \ бібліотекою аудіо- та текстових матеріалів. Загалом – 24 іноземні мови. Долучитися\
-  \ до спільноти можна на сайті або завантажити застосунок iOS та Android. \nПропозиція\
-  \ для українців: безоплатне користування преміумобліковим записом. Щоб активувати\
-  \ його, треба звернутися до служби підтримки.\n\nDuolingo\nПропозиція для українців: дозвіл\
-  \ на використання застосунку безоплатно. Завантажити застосунок для iOS та Android. \n\
-  \nLing App\nЗастосунок, який допоможе вивчити мову у форматі кумедних ігор та тестів.\
-  \ Понад 60 мовних курсів. Завантажити застосунок для iOS та Android. \nПропозиція\
-  \ для українців: безоплатне користування.\n\nUTalk\nЗастосунок дає можливість вивчити\
-  \ понад 140 мов.\nЗавантажити можна для iOS та Android. \nПропозиція для українців:\
-  \ вільний доступ до застосунку.\n\nMondly\nДає можливість вивчити понад 30 іноземних\
-  \ мов. Містить сайт та застосунки на iOS та Android. \nПропозиція для українців: безоплатний\
-  \ доступ (вказуйте українську як рідну мову, щоб отримати преміум доступ).""
-link: https://t.me/firststepinitaly/122
-location:
-  mode: autocomplete
-  address: {}
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/735,1217924490,2022-04-27 21:57:52,2022-04-27 21:57:39,Università di Padova offre 50 borse di studio a studenti ucraini,45.4071552,11.8774404,Veneto,Padova,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""city"":""Padova"",""country"":""Italia"",""country_code"":""it"",""county"":""Padova"",""hamlet"":""Isola San Giacomo"",""postcode"":""35122"",""road"":""Via otto Febbraio"",""state"":""Veneto""},""boundingbox"":[""45.4071052"",""45.4072052"",""11.8773904"",""11.8774904""],""class"":""amenity"",""display_name"":""Via otto Febbraio, Isola San Giacomo, Padova, Veneto, 35122, Italia"",""importance"":0.5209999999999999,""lat"":""45.4071552"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.8774404"",""osm_id"":6712448203,""osm_type"":""node"",""place_id"":70974178,""type"":""waste_basket""},""mode"":""autocomplete""},""description"":""L'Universit\u00e0 di Padova offre l'opportunit\u00e0 di frequentare e sostenere gli esami di singoli insegnamenti (corsi singoli) a studentesse e studenti residenti in Ucraina, assegnando un massimo di 50 borse di studio. Scadenza bando 27 maggio 2022."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Universit\u00e0 di Padova"",""recipients"":""Studenti ucraini"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Universit\u00e0 di Padova offre 50 borse di studio a studenti ucraini"",""url"":""https://www.unipd.it/unipd-4-ukraine-corsi-singoli""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -663,60 +915,6 @@ address:
       state: Veneto
       ISO3166-2-lvl4: IT-34
       postcode: '45100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/732,1217892576,2022-04-27 21:52:27,2022-04-27 21:17:10,"Padova, Centro di Aiuto alla Vita offre vestiti e latte in polvere a mamme in arrivo dall’Ucraina",45.3882743,11.8795983,Veneto,Padova,"[""Valid/Accettato"",""Services"",""Children"",""women""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""city"":""Padova"",""country"":""Italia"",""country_code"":""it"",""county"":""Padova"",""postcode"":""35124"",""road"":""Via Tre Garofani"",""state"":""Veneto"",""suburb"":""Madonna Pellegrina""},""boundingbox"":[""45.3882405"",""45.3883456"",""11.8791314"",""11.8804792""],""class"":""highway"",""display_name"":""Via Tre Garofani, Madonna Pellegrina, Padova, Veneto, 35124, Italia"",""importance"":0.51,""lat"":""45.3882743"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.8795983"",""osm_id"":476630886,""osm_type"":""way"",""place_id"":206729021,""type"":""residential""},""mode"":""autocomplete""},""description"":""In caso di necessit\u00e0 di vestiti per bambini/e, mamme e gestanti, cos\u00ec come di latte in polvere per le persone in arrivo dall\u2019Ucraina ci si pu\u00f2 rivolgere al Centro di Aiuto alla Vita di Padova al n. 049 8806330."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Centro di Aiuto alla Vita Padova"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":true},""submit"":true,""title"":""Padova, Centro di Aiuto alla Vita offre vestiti e latte in polvere a mamme in arrivo dall\u2019Ucraina"",""url"":""https://www.csvpadovarovigo.org/emergenza-ucraina-gli-aiuti-dal-mondo-del-volontariato-a-padova-e-rovigo/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: true
-  disability: false
-  women: true
-  education: false
-offerFromWho: Centro di Aiuto alla Vita Padova
-title: Padova, Centro di Aiuto alla Vita offre vestiti e latte in polvere a mamme
-  in arrivo dall’Ucraina
-recipients: ''
-description: In caso di necessità di vestiti per bambini/e, mamme e gestanti, così
-  come di latte in polvere per le persone in arrivo dall’Ucraina ci si può rivolgere
-  al Centro di Aiuto alla Vita di Padova al n. 049 8806330.
-url: https://www.csvpadovarovigo.org/emergenza-ucraina-gli-aiuti-dal-mondo-del-volontariato-a-padova-e-rovigo/
-address:
-  mode: autocomplete
-  address:
-    place_id: 206729021
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 476630886
-    boundingbox:
-    - '45.3882405'
-    - '45.3883456'
-    - '11.8791314'
-    - '11.8804792'
-    lat: '45.3882743'
-    lon: '11.8795983'
-    display_name: Via Tre Garofani, Madonna Pellegrina, Padova, Veneto, 35124, Italia
-    class: highway
-    type: residential
-    importance: 0.51
-    address:
-      road: Via Tre Garofani
-      suburb: Madonna Pellegrina
-      city: Padova
-      county: Padova
-      state: Veneto
-      ISO3166-2-lvl4: IT-34
-      postcode: '35124'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
@@ -2444,47 +2642,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/691,1213300570,2022-04-24 21:17:30,2022-04-23 13:32:14,"Torino, elenco dei corsi gratuiti di italiano organizzati in città",45.020123,7.6442024,Piemonte,Torino,"[""Valid/Accettato"",""Services"",""Resources"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""house_number"":""1/F"",""postcode"":""10135"",""road"":""Via Fratel Teodoreto"",""state"":""Piemonte"",""suburb"":""Lingotto""},""boundingbox"":[""45.020073"",""45.020173"",""7.6441524"",""7.6442524""],""class"":""place"",""display_name"":""1/F, Via Fratel Teodoreto, Lingotto, Circoscrizione 8, Torino, Piemonte, 10135, Italia"",""importance"":0.621,""lat"":""45.020123"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6442024"",""osm_id"":4734971332,""osm_type"":""node"",""place_id"":53004982,""type"":""house""},""mode"":""autocomplete""},""aim"":""Sul sito di Wara - Associazione Italo-Brasiliana \u00e8 disponibile l\u2019elenco di tutti i corsi gratuiti di italiano organizzati a Torino con info, contatti e orari."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Torino, elenco di tutti i corsi gratuiti di italiano organizzati in citt\u00e0"",""url"":""http://www.wara.it/informazioni-utili/corsi-italiano-stranieri/""}","<pre><yamldata>
-title: Torino, elenco di tutti i corsi gratuiti di italiano organizzati in città
-phoneNumber: ''
-email: ''
-aim: Sul sito di Wara - Associazione Italo-Brasiliana è disponibile l’elenco di tutti
-  i corsi gratuiti di italiano organizzati a Torino con info, contatti e orari.
-url: http://www.wara.it/informazioni-utili/corsi-italiano-stranieri/
-address:
-  mode: autocomplete
-  address:
-    place_id: 53004982
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 4734971332
-    boundingbox:
-    - '45.020073'
-    - '45.020173'
-    - '7.6441524'
-    - '7.6442524'
-    lat: '45.020123'
-    lon: '7.6442024'
-    display_name: 1/F, Via Fratel Teodoreto, Lingotto, Circoscrizione 8, Torino, Piemonte,
-      10135, Italia
-    class: place
-    type: house
-    importance: 0.621
-    address:
-      house_number: 1/F
-      road: Via Fratel Teodoreto
-      suburb: Lingotto
-      city: Torino
-      county: Torino
-      state: Piemonte
-      ISO3166-2-lvl4: IT-21
-      postcode: '10135'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: useful contact
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/712,1213708852,2022-04-24 21:08:12,2022-04-24 17:02:14,Regione Piemonte - Lista hotspot dove i rifugiati ucraini possono effettuare tamponi Covid 19 al momento del loro arrivo,45.0716729,7.6847021,Piemonte,Torino,"[""Valid/Accettato"",""useful contact"",""healthcare""]",,,"{""Posizione"":""45.0716729 7.6847021"",""address"":{""address"":{},""mode"":""autocomplete""},""aim"":""Tutte le persone provenienti dall\u2019Ucraina devono sottoporsi a un tampone antigenico o molecolare entro 48 ore o in ogni caso al pi\u00f9 presto. Per consentirlo la Regione Piemonte ha previsto un accesso diretto con percorsi dedicati negli hotspot del territorio."",""email"":""accoglienza.ucraina@regione.piemonte.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Regione Piemonte - Lista hotspot per tamponi all'ingresso"",""url"":""https://www.regione.piemonte.it/web/sites/default/files/media/documenti/2022-03/hot_spot_tamponi_marzo_4.pdf""}","<pre><yamldata>
 title: Regione Piemonte - Lista hotspot per tamponi all'ingresso
 phoneNumber: ''
@@ -2563,53 +2720,6 @@ location:
       country_code: it
 label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 45.0677551 7.6824892
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/710,1213706844,2022-04-24 21:02:07,2022-04-24 16:55:11,Regione Piemonte cerca alloggi per i rifugiati ucraini e avvia ricognizione delle disponibilità di accoglienza presso privati e strutture,45.0677551,7.6824892,Piemonte,Torino,"[""Valid/Accettato"",""News"",""Help"",""hospitality""]",,,"{""Posizione"":""45.0677551 7.6824892"",""description"":""La Regione Piemonte ha avviato una ricognizione delle disponibilit\u00e0 all\u2019accoglienza temporanea dei nuclei famigliari provenienti dell\u2019Ucraina, composti in gran parte da donne (mamme, nonne, e zie) con figli anche minori al seguito, in fuga dalle zone di conflitto. Alla pagina dedicata della Regione \u00e8 possibile compilare dei moduli online per dare disponibilit\u00e0 sia di alloggi privati che presso altre strutture.\n\u00c8 inoltre attiva la mail accoglienza.ucraina@regione.piemonte.it per richieste di informazioni sull\u2019accoglienza di chi sta fuggendo dalla guerra in Ucraina."",""email"":""accoglienza.ucraina@regione.piemonte.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""state"":""Piemonte""},""boundingbox"":[""45.0067924"",""45.1402175"",""7.5778348"",""7.7733388""],""class"":""boundary"",""display_name"":""Torino, Piemonte, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8068062387577691,""lat"":""45.0677551"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6824892"",""osm_id"":43992,""osm_type"":""relation"",""place_id"":284787924,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Regione Piemonte avvia una ricognizione delle disponibilit\u00e0 di accoglienza"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""disponibilit\u00e0 alloggi presso case e strutture"",""url"":""https://www.regione.piemonte.it/web/temi/diritti-politiche-sociali/piemonte-per-lucraina#""}","<pre><yamldata>
-nameSurname: Regione Piemonte avvia una ricognizione delle disponibilità di accoglienza
-phoneNumber: ''
-email: accoglienza.ucraina@regione.piemonte.it
-title: disponibilità alloggi presso case e strutture
-recipients: ''
-description: 'La Regione Piemonte ha avviato una ricognizione delle disponibilità
-  all’accoglienza temporanea dei nuclei famigliari provenienti dell’Ucraina, composti
-  in gran parte da donne (mamme, nonne, e zie) con figli anche minori al seguito,
-  in fuga dalle zone di conflitto. Alla pagina dedicata della Regione è possibile
-  compilare dei moduli online per dare disponibilità sia di alloggi privati che presso
-  altre strutture.
-
-  È inoltre attiva la mail accoglienza.ucraina@regione.piemonte.it per richieste di
-  informazioni sull’accoglienza di chi sta fuggendo dalla guerra in Ucraina.'
-url: https://www.regione.piemonte.it/web/temi/diritti-politiche-sociali/piemonte-per-lucraina#
-location:
-  mode: autocomplete
-  address:
-    place_id: 284787924
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 43992
-    boundingbox:
-    - '45.0067924'
-    - '45.1402175'
-    - '7.5778348'
-    - '7.7733388'
-    lat: '45.0677551'
-    lon: '7.6824892'
-    display_name: Torino, Piemonte, Italia
-    class: boundary
-    type: administrative
-    importance: 0.8068062387577691
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Torino
-      county: Torino
-      state: Piemonte
-      ISO3166-2-lvl4: IT-21
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
 submit: true
 Posizione: 45.0677551 7.6824892
 </yamldata></pre>",open
@@ -2964,116 +3074,6 @@ location:
 label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/700,1213338697,2022-04-23 16:00:07,2022-04-23 15:11:13,A Trieste la Casa internazionale delle donne organizza corso di lingua italiana gratuito per rifugiate/i in fuga dall’Ucraina,45.6555271,13.7925054,Friuli Venezia Giulia,Trieste,"[""Valid/Accettato"",""Services"",""women"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-36"",""amenity"":""Casa Internazionale delle Donne - Trieste"",""city"":""Trieste"",""country"":""Italia"",""country_code"":""it"",""county"":""Trieste"",""house_number"":""3"",""neighbourhood"":""Scoglietto"",""postcode"":""34126"",""road"":""Via Zeffirino Pisoni"",""state"":""Friuli Venezia Giulia"",""suburb"":""Roiano-Gretta-Barcola-Cologna-Scorcola""},""boundingbox"":[""45.6554771"",""45.6555771"",""13.7924554"",""13.7925554""],""class"":""amenity"",""display_name"":""Casa Internazionale delle Donne - Trieste, 3, Via Zeffirino Pisoni, Scoglietto, Roiano-Gretta-Barcola-Cologna-Scorcola, Trieste, Friuli Venezia Giulia, 34126, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//tourist_art_gallery2.p.20.png"",""importance"":0.5209999999999999,""lat"":""45.6555271"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.7925054"",""osm_id"":4861558196,""osm_type"":""node"",""place_id"":56186094,""type"":""arts_centre""},""mode"":""autocomplete""},""description"":""A Trieste alla Casa internazionale delle donne corso di lingua italiana il marted\u00ec e il venerd\u00ec alle ore 9:30, via Zeffirino Pisoni 3 (accanto al Centro Commerciale Il Giulia). Autobus 6, 9. Prima lezione 22 aprile.\nPer iscrizioni: irina.rashe@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Casa internazionale delle donne Trieste"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":true},""submit"":true,""title"":""A Trieste la Casa internazionale delle donne organizza corso di lingua italiana gratuito per rifugiate/i dall\u2019Ucraina"",""url"":""https://t.me/trieste_emergenza_ucraina/106""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: true
-  education: true
-offerFromWho: Casa internazionale delle donne Trieste
-title: A Trieste la Casa internazionale delle donne organizza corso di lingua italiana
-  gratuito per rifugiate/i dall’Ucraina
-recipients: ''
-description: 'A Trieste alla Casa internazionale delle donne corso di lingua italiana
-  il martedì e il venerdì alle ore 9:30, via Zeffirino Pisoni 3 (accanto al Centro
-  Commerciale Il Giulia). Autobus 6, 9. Prima lezione 22 aprile.
-
-  Per iscrizioni: irina.rashe@gmail.com'
-url: https://t.me/trieste_emergenza_ucraina/106
-address:
-  mode: autocomplete
-  address:
-    place_id: 56186094
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 4861558196
-    boundingbox:
-    - '45.6554771'
-    - '45.6555771'
-    - '13.7924554'
-    - '13.7925554'
-    lat: '45.6555271'
-    lon: '13.7925054'
-    display_name: Casa Internazionale delle Donne - Trieste, 3, Via Zeffirino Pisoni,
-      Scoglietto, Roiano-Gretta-Barcola-Cologna-Scorcola, Trieste, Friuli Venezia
-      Giulia, 34126, Italia
-    class: amenity
-    type: arts_centre
-    importance: 0.5209999999999999
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//tourist_art_gallery2.p.20.png
-    address:
-      amenity: Casa Internazionale delle Donne - Trieste
-      house_number: '3'
-      road: Via Zeffirino Pisoni
-      neighbourhood: Scoglietto
-      suburb: Roiano-Gretta-Barcola-Cologna-Scorcola
-      city: Trieste
-      county: Trieste
-      state: Friuli Venezia Giulia
-      ISO3166-2-lvl4: IT-36
-      postcode: '34126'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/698,1213328936,2022-04-23 15:58:48,2022-04-23 14:27:19,A Roma la rete Scuole Migranti cerca studenti universitari per insegnare gratuitamente italiano ai rifugiati ucraini ,41.8975686,12.4975987,Lazio,Roma,"[""Valid/Accettato"",""Help"",""education""]",,,"{""Posizione"":""41.8975686 12.4975987"",""description"":""La Rete Scuolemigranti di Roma con il Coordinamento delle Associazioni Ucraine in Italia e il Centro Servizi Volontariato cercano studenti universitari per insegnare gratuitamente nei corsi di italiano per ucraini, adulti e bambini. In particolare sono preziosi studenti che conoscono l'ucraino o il russo. Verranno inseriti in affiancamento ad altri docenti volontari. Per candidarsi, inviare nome, cognome, cellulare a info@scuolemigranti.org"",""email"":""info@scuolemigranti.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00184"",""quarter"":""Monti"",""road"":""Via Liberiana"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.8969079"",""41.8981663"",""12.4968832"",""12.4985035""],""class"":""highway"",""display_name"":""Via Liberiana, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia"",""importance"":0.41000000000000003,""lat"":""41.8975686"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4975987"",""osm_id"":4951429,""osm_type"":""way"",""place_id"":96185393,""type"":""secondary""},""mode"":""autocomplete""},""nameSurname"":""Rete Scuole Migranti Roma"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""A Roma la rete Scuole Migranti cerca studenti universitari per insegnare gratuitamente italiano ai rifugiati ucraini"",""url"":""https://www.lettere.uniroma1.it/node/60222""}","<pre><yamldata>
-nameSurname: Rete Scuole Migranti Roma
-phoneNumber: ''
-email: info@scuolemigranti.org
-title: A Roma la rete Scuole Migranti cerca studenti universitari per insegnare gratuitamente
-  italiano ai rifugiati ucraini
-recipients: ''
-description: La Rete Scuolemigranti di Roma con il Coordinamento delle Associazioni
-  Ucraine in Italia e il Centro Servizi Volontariato cercano studenti universitari
-  per insegnare gratuitamente nei corsi di italiano per ucraini, adulti e bambini.
-  In particolare sono preziosi studenti che conoscono l'ucraino o il russo. Verranno
-  inseriti in affiancamento ad altri docenti volontari. Per candidarsi, inviare nome,
-  cognome, cellulare a info@scuolemigranti.org
-url: https://www.lettere.uniroma1.it/node/60222
-location:
-  mode: autocomplete
-  address:
-    place_id: 96185393
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 4951429
-    boundingbox:
-    - '41.8969079'
-    - '41.8981663'
-    - '12.4968832'
-    - '12.4985035'
-    lat: '41.8975686'
-    lon: '12.4975987'
-    display_name: Via Liberiana, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio,
-      00184, Italia
-    class: highway
-    type: secondary
-    importance: 0.41000000000000003
-    address:
-      road: Via Liberiana
-      quarter: Monti
-      suburb: Municipio Roma I
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      postcode: 00184
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 41.8975686 12.4975987
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/690,1212820371,2022-04-23 07:01:25,2022-04-22 21:40:15,Unhcr e Unicef attivano due nuovi spazi di supporto per rifugiati ucraini in Friuli Venezia Giulia (valichi di frontiera di Fernetti-Trieste e Tarvisio-Udine),46.151042,13.055904,Friuli Venezia Giulia,Udine,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""healthcare"",""psychologicalSupport"",""Children"",""women"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""46.151042 13.055904"",""description"":""UNHCR, l\u2019Agenzia ONU per i Rifugiati, e UNICEF, il Fondo delle Nazioni Unite per l\u2019Infanzia, attivano oggi due Blue Dot, spazi di supporto per minorenni, donne, famiglie e altre persone con esigenze specifiche, in Friuli Venezia Giulia, nei valichi di frontiera di Fernetti (Trieste) e Tarvisio (Udine).\nI due centri di supporto Blue Dot avviati in frontiera dall\u2019UNHCR e UNICEF \u2013 in partnership con ARCI, D.i.Re (Donne in Rete contro la violenza), Save the Children, l\u2019associazione Stella Polare e in stretta collaborazione con le autorit\u00e0 locali \u2013 vogliono fornire una prima risposta ai bisogni pi\u00f9 urgenti delle persone in arrivo.\nI Blue Dot nascono proprio come spazi di supporto per la protezione dei bambini, delle donne e delle famiglie, e sono diventati una modalit\u00e0 diffusa di assistenza in contesti di emergenza. Dall\u2019inizio della crisi ucraina, UNHCR e UNICEF ne hanno attivati ben 20 in 6 Paesi ad oggi maggiormente coinvolti dai flussi in ingresso, mentre altri 29 sono pianificati e in via di attivazione. Questi spazi sono luoghi di ristoro a misura di donne e bambini; forniscono informazioni affidabili, anche grazie al coinvolgimento di operatori/trici sociali, psicologi, operatori/trici legali, e mediatori/trici linguistico-culturali. Tra i servizi offerti ci sono: l\u2019individuazione, l\u2019assistenza e l\u2019invio di minorenni a rischio \u2013 inclusi i minorenni stranieri non accompagnati \u2013 e di persone con bisogni specifici ai servizi sul territorio; primo supporto psico-sociale; e consulenza legale di base."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.unhcr.org/it/notizie-storie/comunicati-stampa/emergenza-ucraina-unhcr-e-unicef-attivano-due-blue-dot-in-friuli-venezia-giulia-per-fornire-informativa-e-supporto-ai-rifugiati-in-fuga-dallucraina-in-arrivo-in-italia/"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-36"",""country"":""Italia"",""country_code"":""it"",""state"":""Friuli Venezia Giulia""},""boundingbox"":[""45.5808987"",""46.6479539"",""12.3213811"",""13.9186553""],""class"":""boundary"",""display_name"":""Friuli Venezia Giulia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9427487915271412,""lat"":""46.151042"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.055904"",""osm_id"":179296,""osm_type"":""relation"",""place_id"":283566584,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Unhcr e Unicef attivano due nuovi spazi di supporto per rifugiati ucraini in Friuli Venezia Giulia (valichi di frontiera di Fernetti - Trieste) e Tarvisio - Udine).""}","<pre><yamldata>
 title: Unhcr e Unicef attivano due nuovi spazi di supporto per rifugiati ucraini in
