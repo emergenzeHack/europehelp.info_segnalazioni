@@ -1,4 +1,705 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/746,1221574039,2022-04-30 09:17:37,2022-04-29 21:35:23,"Comune di Udine, attivo sportello Emergenza Ucraina per supportare i rifugiati e le famiglie ospitanti",46.069045,13.2275832,Friuli Venezia Giulia,Udine,"[""Valid/Accettato"",""Services"",""useful contact"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-36"",""ISO3166-2-lvl6"":""IT-UD"",""city"":""Udine"",""country"":""Italia"",""country_code"":""it"",""county"":""Udine"",""house_number"":""31"",""neighbourhood"":""Borgo di San Lazzaro"",""postcode"":""33100"",""road"":""Via Giovanni Micesio"",""state"":""Friuli Venezia Giulia""},""boundingbox"":[""46.068995"",""46.069095"",""13.2275332"",""13.2276332""],""class"":""place"",""display_name"":""31, Via Giovanni Micesio, Borgo di San Lazzaro, Udine, Friuli Venezia Giulia, 33100, Italia"",""importance"":0.42099999999999993,""lat"":""46.069045"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.2275832"",""osm_id"":3748979938,""osm_type"":""node"",""place_id"":44493338,""type"":""house""},""mode"":""autocomplete""},""aim"":""Lo sportello offre orientamento e supporto ai rifugiati ucraini e alle famiglie che ospitano rifugiati dall'Ucraiba. Lo sportello \u00e8 attivo in via Micesio, 31 (entrata anche da via Superiore, 3) nelle seguenti giornate: dal luned\u00ec al venerd\u00ec mattina dalle 9.00 alle 12.00.\nTel 0432 1272186.\nMail: emergenza.ucraina@comune.udine.it\n\nThe information desk is open 09:00-12:00 from Monday to Friday in Via Giovanni Micesio, 31, Udine, UD.\nCall us at 04321272186 or write an e-mail to emergenza.ucraina@comune.udine.it"",""email"":""emergenza.ucraina@comune.udine.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""0432 1272186."",""submit"":true,""title"":""Comune di Udine, attivo sportello Emergenza Ucraina per supportare i rifugiati e le famiglie ospitanti"",""url"":""https://www.comune.udine.it/it/sportello-emergenza-ucraina-22644/sportello-emergenza-ucraina-94028/sportello-emergenza-ucraina-94029""}","<pre><yamldata>
+title: Comune di Udine, attivo sportello Emergenza Ucraina per supportare i rifugiati
+  e le famiglie ospitanti
+phoneNumber: 0432 1272186.
+email: emergenza.ucraina@comune.udine.it
+aim: 'Lo sportello offre orientamento e supporto ai rifugiati ucraini e alle famiglie
+  che ospitano rifugiati dall''Ucraiba. Lo sportello è attivo in via Micesio, 31 (entrata
+  anche da via Superiore, 3) nelle seguenti giornate: dal lunedì al venerdì mattina
+  dalle 9.00 alle 12.00.
+
+  Tel 0432 1272186.
+
+  Mail: emergenza.ucraina@comune.udine.it
+
+
+  The information desk is open 09:00-12:00 from Monday to Friday in Via Giovanni Micesio,
+  31, Udine, UD.
+
+  Call us at 04321272186 or write an e-mail to emergenza.ucraina@comune.udine.it'
+url: https://www.comune.udine.it/it/sportello-emergenza-ucraina-22644/sportello-emergenza-ucraina-94028/sportello-emergenza-ucraina-94029
+address:
+  mode: autocomplete
+  address:
+    place_id: 44493338
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 3748979938
+    boundingbox:
+    - '46.068995'
+    - '46.069095'
+    - '13.2275332'
+    - '13.2276332'
+    lat: '46.069045'
+    lon: '13.2275832'
+    display_name: 31, Via Giovanni Micesio, Borgo di San Lazzaro, Udine, Friuli Venezia
+      Giulia, 33100, Italia
+    class: place
+    type: house
+    importance: 0.42099999999999993
+    address:
+      house_number: '31'
+      road: Via Giovanni Micesio
+      neighbourhood: Borgo di San Lazzaro
+      city: Udine
+      county: Udine
+      ISO3166-2-lvl6: IT-UD
+      state: Friuli Venezia Giulia
+      ISO3166-2-lvl4: IT-36
+      postcode: '33100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/712,1213708852,2022-04-30 09:15:34,2022-04-24 17:02:14,Regione Piemonte - Lista hotspot dove i rifugiati ucraini possono effettuare tamponi Covid 19 al momento del loro arrivo,45.0716729,7.6847021,Piemonte,Torino,"[""Valid/Accettato"",""useful contact"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.0716729 7.6847021"",""address"":{""address"":{},""mode"":""autocomplete""},""aim"":""Tutte le persone provenienti dall\u2019Ucraina devono sottoporsi a un tampone antigenico o molecolare entro 48 ore o in ogni caso al pi\u00f9 presto. Per consentirlo la Regione Piemonte ha previsto un accesso diretto con percorsi dedicati negli hotspot del territorio."",""email"":""accoglienza.ucraina@regione.piemonte.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Regione Piemonte - Lista hotspot per tamponi all'ingresso"",""url"":""https://www.regione.piemonte.it/web/sites/default/files/media/documenti/2022-03/hot_spot_tamponi_marzo_4.pdf""}","<pre><yamldata>
+title: Regione Piemonte - Lista hotspot per tamponi all'ingresso
+phoneNumber: ''
+email: accoglienza.ucraina@regione.piemonte.it
+aim: Tutte le persone provenienti dall’Ucraina devono sottoporsi a un tampone antigenico
+  o molecolare entro 48 ore o in ogni caso al più presto. Per consentirlo la Regione
+  Piemonte ha previsto un accesso diretto con percorsi dedicati negli hotspot del
+  territorio.
+url: https://www.regione.piemonte.it/web/sites/default/files/media/documenti/2022-03/hot_spot_tamponi_marzo_4.pdf
+address:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+Posizione: 45.0716729 7.6847021
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/714,1213722188,2022-04-30 09:15:06,2022-04-24 17:54:15,"Università di Pisa, specific financial and academic actions supporting Ukrainian students",43.7166543,10.3988015,Toscana,Pisa,"[""Valid/Accettato"",""Services"",""hospitality"",""telegram-channel"",""tweet"",""Resources"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""ISO3166-2-lvl6"":""IT-PI"",""amenity"":""Universit\u00e0 di Pisa - Rettorato"",""city"":""Pisa"",""country"":""Italia"",""country_code"":""it"",""county"":""Pisa"",""house_number"":""43"",""neighbourhood"":""Santa Maria"",""postcode"":""56126"",""road"":""Lungarno Antonio Pacinotti"",""state"":""Toscana"",""suburb"":""San Francesco""},""boundingbox"":[""43.7166043"",""43.7167043"",""10.3987515"",""10.3988515""],""class"":""amenity"",""display_name"":""Universit\u00e0 di Pisa - Rettorato, 43, Lungarno Antonio Pacinotti, Santa Maria, San Francesco, Pisa, Toscana, 56126, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//education_university.p.20.png"",""importance"":0.5309999999999999,""lat"":""43.7166543"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.3988015"",""osm_id"":3483952525,""osm_type"":""node"",""place_id"":42749137,""type"":""university""},""mode"":""autocomplete""},""description"":""Specific financial and academic actions supporting Ukrainian students who have been forced to flee from their country and who want to continue their studies at the University of Pisa:\n    Free accommodation at DSU-University dorms (in accordance with the number of available places and with priority given to refugee students) and free meals at University canteen until 31.12.2022.\n    If you want to apply please visit DSU website and send an email to ucraina@dsu.toscana.it.\n    Free Italian language classes at UNIPI Language Center\n    Free enrolment in single courses at UNIPI for the current semester\n\nStudents enrolled in a Ukrainian university who had to flee the Ukraine and don\u2019t want to stop their studies have the possibility of studying at the University of Pisa by enrolling in single courses during the current semester.\nAdmission is free and temporary.\nThe achievements could be carried out later in case of a successful application for admission to a degree programme. However, this is an exceptional procedure that in the case of a degree course with limited access will currently not guarantee direct access or enrolment in the degree course.\nPlease be aware of the fact that the most of our courses are taught in Italian.\nFor academic support send an email to emergenzaucraina@unipi.it \n\nN.37 Flat-rate study grants (\u20ac 1500 each)\nRequirements:\n\n     enrolment at an Ukrainian university\n     enrolment at the University of Pisa in single courses or degree programmes\n     Non-Italian residence\n\nIf you want to apply write to emergenzaucraina@unipi.it specifying the possession of the requirements and attaching a copy of your identity document.\nStudents who started their studies in Ukraine and want to complete their programme and graduate at the University of Pisa\nIf you want to continue studying at the University of Pisa in the academic year 2022/23, you have to apply for admission to the degree programme of your choice in due time."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Universit\u00e0 di Pisa"",""recipients"":""Ukrainian students"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Universit\u00e0 di Pisa, Specific financial and academic actions supporting Ukrainian students"",""url"":""https://www.unipi.it/index.php/international-office/item/23357-info-for-ukrainian-refugee-students""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Università di Pisa
+title: Università di Pisa, Specific financial and academic actions supporting Ukrainian
+  students
+recipients: Ukrainian students
+description: ""Specific financial and academic actions supporting Ukrainian students\
+  \ who have been forced to flee from their country and who want to continue their\
+  \ studies at the University of Pisa:\n    Free accommodation at DSU-University dorms\
+  \ (in accordance with the number of available places and with priority given to\
+  \ refugee students) and free meals at University canteen until 31.12.2022.\n   \
+  \ If you want to apply please visit DSU website and send an email to ucraina@dsu.toscana.it.\n\
+  \    Free Italian language classes at UNIPI Language Center\n    Free enrolment\
+  \ in single courses at UNIPI for the current semester\n\nStudents enrolled in a\
+  \ Ukrainian university who had to flee the Ukraine and don’t want to stop their\
+  \ studies have the possibility of studying at the University of Pisa by enrolling\
+  \ in single courses during the current semester.\nAdmission is free and temporary.\n\
+  The achievements could be carried out later in case of a successful application\
+  \ for admission to a degree programme. However, this is an exceptional procedure\
+  \ that in the case of a degree course with limited access will currently not guarantee\
+  \ direct access or enrolment in the degree course.\nPlease be aware of the fact\
+  \ that the most of our courses are taught in Italian.\nFor academic support send\
+  \ an email to emergenzaucraina@unipi.it \n\nN.37 Flat-rate study grants (€ 1500\
+  \ each)\nRequirements:\n\n     enrolment at an Ukrainian university\n     enrolment\
+  \ at the University of Pisa in single courses or degree programmes\n     Non-Italian\
+  \ residence\n\nIf you want to apply write to emergenzaucraina@unipi.it specifying\
+  \ the possession of the requirements and attaching a copy of your identity document.\n\
+  Students who started their studies in Ukraine and want to complete their programme\
+  \ and graduate at the University of Pisa\nIf you want to continue studying at the\
+  \ University of Pisa in the academic year 2022/23, you have to apply for admission\
+  \ to the degree programme of your choice in due time.""
+url: https://www.unipi.it/index.php/international-office/item/23357-info-for-ukrainian-refugee-students
+address:
+  mode: autocomplete
+  address:
+    place_id: 42749137
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 3483952525
+    boundingbox:
+    - '43.7166043'
+    - '43.7167043'
+    - '10.3987515'
+    - '10.3988515'
+    lat: '43.7166543'
+    lon: '10.3988015'
+    display_name: Università di Pisa - Rettorato, 43, Lungarno Antonio Pacinotti,
+      Santa Maria, San Francesco, Pisa, Toscana, 56126, Italia
+    class: amenity
+    type: university
+    importance: 0.5309999999999999
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//education_university.p.20.png
+    address:
+      amenity: Università di Pisa - Rettorato
+      house_number: '43'
+      road: Lungarno Antonio Pacinotti
+      neighbourhood: Santa Maria
+      suburb: San Francesco
+      city: Pisa
+      county: Pisa
+      ISO3166-2-lvl6: IT-PI
+      state: Toscana
+      ISO3166-2-lvl4: IT-52
+      postcode: '56126'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/722,1216253559,2022-04-30 09:14:44,2022-04-26 17:17:15,Biblioteca Comunale di Trieste attiva corso di italiano per profughi ucraini,45.643912,13.7807313,Friuli Venezia Giulia,Trieste,"[""Valid/Accettato"",""Services"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-36"",""city"":""Trieste"",""country"":""Italia"",""country_code"":""it"",""county"":""Trieste"",""postcode"":""34121-34151"",""road"":""Via delle Lodole"",""state"":""Friuli Venezia Giulia"",""suburb"":""San Giacomo""},""boundingbox"":[""45.6438089"",""45.6440971"",""13.7805491"",""13.7810586""],""class"":""highway"",""display_name"":""Via delle Lodole, San Giacomo, Barriera Vecchia-San Giacomo, Trieste, Friuli Venezia Giulia, 34121-34151, Italia"",""importance"":0.71,""lat"":""45.643912"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.7807313"",""osm_id"":69884582,""osm_type"":""way"",""place_id"":327362182,""type"":""pedestrian""},""mode"":""autocomplete""},""description"":""Biblioteca Comunale Quarantotti Gambini (Via delle Lodole, 6-7/a, Trieste) ha aperto nuovo corso di italiano per rifugiati ucraini. Per iscriversi inviare una mail a corsi.italiano.ts@gmail.com\n\n\u041e\u0442\u043a\u0440\u044b\u043b\u0441\u044f \u043d\u043e\u0432\u044b\u0439/\u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043a\u0443\u0440\u0441 \u0438\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u043e\u0433\u043e. \u0427\u0442\u043e\u0431\u044b \u0437\u0430\u043f\u0438\u0441\u0430\u0442\u044c\u0441\u044f, \u043e\u0442\u043f\u0440\u0430\u0432\u044c\u0442\u0435 \u043c\u0435\u0439\u043b \u043d\u0430 corsi.italiano.ts@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Biblioteca Comunale Trieste"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Biblioteca Comunale di Trieste attiva corso di italiano per profughi ucraini"",""url"":""https://t.me/trieste_emergenza_ucraina/131""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Biblioteca Comunale Trieste
+title: Biblioteca Comunale di Trieste attiva corso di italiano per profughi ucraini
+recipients: ''
+description: 'Biblioteca Comunale Quarantotti Gambini (Via delle Lodole, 6-7/a, Trieste)
+  ha aperto nuovo corso di italiano per rifugiati ucraini. Per iscriversi inviare
+  una mail a corsi.italiano.ts@gmail.com
+
+
+  Открылся новый/дополнительный курс итальянского. Чтобы записаться, отправьте мейл
+  на corsi.italiano.ts@gmail.com'
+url: https://t.me/trieste_emergenza_ucraina/131
+address:
+  mode: autocomplete
+  address:
+    place_id: 327362182
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 69884582
+    boundingbox:
+    - '45.6438089'
+    - '45.6440971'
+    - '13.7805491'
+    - '13.7810586'
+    lat: '45.643912'
+    lon: '13.7807313'
+    display_name: Via delle Lodole, San Giacomo, Barriera Vecchia-San Giacomo, Trieste,
+      Friuli Venezia Giulia, 34121-34151, Italia
+    class: highway
+    type: pedestrian
+    importance: 0.71
+    address:
+      road: Via delle Lodole
+      suburb: San Giacomo
+      city: Trieste
+      county: Trieste
+      state: Friuli Venezia Giulia
+      ISO3166-2-lvl4: IT-36
+      postcode: 34121-34151
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/729,1217880764,2022-04-30 09:14:20,2022-04-27 21:03:41,"A Empoli (Firenze) Pubbliche Assistenze offrono lezioni di italiano, doposcuola e sportello di ascolto per rifugiati ucraini ",43.7191745,10.9519702,Toscana,Firenze,"[""Valid/Accettato"",""Services"",""Legal"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""house_number"":""17"",""neighbourhood"":""Naiana"",""postcode"":""50053"",""road"":""Via Venti Settembre"",""state"":""Toscana"",""town"":""Empoli"",""village"":""Pontorme""},""boundingbox"":[""43.7191245"",""43.7192245"",""10.9519202"",""10.9520202""],""class"":""place"",""display_name"":""17, Via Venti Settembre, Naiana, Pontorme, Empoli, Citt\u00e0 metropolitana di Firenze, Toscana, 50053, Italia"",""importance"":0.42099999999999993,""lat"":""43.7191745"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.9519702"",""osm_id"":3772847063,""osm_type"":""node"",""place_id"":44723312,""type"":""house""},""mode"":""autocomplete""},""description"":""A Empoli le Pubbliche Assistenze Riunite offrono lezioni di italiano, doposcuola e sportello di ascolto per la popolazione ucraina in fuga dalla guerra.\nI corsi si terranno tutti nella sede della Pubblica Assistenza di Empoli, in via XX Settembre, 17. In \u2018cattedra\u2019 professoresse ed educatrici gi\u00e0 impegnate nello stesso servizio per donne e bambini del Centro Aiuto Donna Lilith. \nIl doposcuola si svolger\u00e0 tutti i venerd\u00ec pomeriggio, dalle 15.30 alle 17.30 per studentesse e studenti delle scuole medie, dalle 17.30 alle 19.30 per bambine e bambini delle scuole elementari. \nLe lezioni di lingua italiana rivolte agli adulti saranno invece ogni marted\u00ec e mercoled\u00ec mattina, dalle 10 alle 12.\n\u00c8 necessario iscriversi per i corsi di doposcuola e lezioni di italiano: baster\u00e0 telefonare al numero 0571 9806210, dalle 9 alle 17 dal luned\u00ec al venerd\u00ec.\nL\u2019altro servizio attivato in supporto alla popolazione ucraina \u00e8 lo sportello di ascolto. Il personale qualificato del Centro Lilith mette a disposizione le proprie competenze per donne e bambini fuggiti dal conflitto. Per usufruire dello sportello occorre prendere appuntamento telefonando, dalle 9 alle 13 dal luned\u00ec al venerd\u00ec, allo 0571 9806206."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Pubbliche Assistenze Riunite Empoli e Castelfiorentino"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":true,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Empoli (Firenze) Pubbliche Assistenze offrono lezioni di italiano, doposcuola e sportello di ascolto per i rifugiati ucraini"",""url"":""http://www.pubblicheassistenzeempoli.org/2022/03/28/lezioni-italiano-doposcuola-sportello-di-ascolto-popolazione-ucraina-pubblica-assistenza-empoli/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: true
+offerFromWho: Pubbliche Assistenze Riunite Empoli e Castelfiorentino
+title: A Empoli (Firenze) Pubbliche Assistenze offrono lezioni di italiano, doposcuola
+  e sportello di ascolto per i rifugiati ucraini
+recipients: ''
+description: ""A Empoli le Pubbliche Assistenze Riunite offrono lezioni di italiano,\
+  \ doposcuola e sportello di ascolto per la popolazione ucraina in fuga dalla guerra.\n\
+  I corsi si terranno tutti nella sede della Pubblica Assistenza di Empoli, in via\
+  \ XX Settembre, 17. In ‘cattedra’ professoresse ed educatrici già impegnate nello\
+  \ stesso servizio per donne e bambini del Centro Aiuto Donna Lilith. \nIl doposcuola\
+  \ si svolgerà tutti i venerdì pomeriggio, dalle 15.30 alle 17.30 per studentesse\
+  \ e studenti delle scuole medie, dalle 17.30 alle 19.30 per bambine e bambini delle\
+  \ scuole elementari. \nLe lezioni di lingua italiana rivolte agli adulti saranno\
+  \ invece ogni martedì e mercoledì mattina, dalle 10 alle 12.\nÈ necessario iscriversi\
+  \ per i corsi di doposcuola e lezioni di italiano: basterà telefonare al numero\
+  \ 0571 9806210, dalle 9 alle 17 dal lunedì al venerdì.\nL’altro servizio attivato\
+  \ in supporto alla popolazione ucraina è lo sportello di ascolto. Il personale qualificato\
+  \ del Centro Lilith mette a disposizione le proprie competenze per donne e bambini\
+  \ fuggiti dal conflitto. Per usufruire dello sportello occorre prendere appuntamento\
+  \ telefonando, dalle 9 alle 13 dal lunedì al venerdì, allo 0571 9806206.""
+url: http://www.pubblicheassistenzeempoli.org/2022/03/28/lezioni-italiano-doposcuola-sportello-di-ascolto-popolazione-ucraina-pubblica-assistenza-empoli/
+address:
+  mode: autocomplete
+  address:
+    place_id: 44723312
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 3772847063
+    boundingbox:
+    - '43.7191245'
+    - '43.7192245'
+    - '10.9519202'
+    - '10.9520202'
+    lat: '43.7191745'
+    lon: '10.9519702'
+    display_name: 17, Via Venti Settembre, Naiana, Pontorme, Empoli, Città metropolitana
+      di Firenze, Toscana, 50053, Italia
+    class: place
+    type: house
+    importance: 0.42099999999999993
+    address:
+      house_number: '17'
+      road: Via Venti Settembre
+      neighbourhood: Naiana
+      village: Pontorme
+      town: Empoli
+      county: Città metropolitana di Firenze
+      state: Toscana
+      ISO3166-2-lvl4: IT-52
+      postcode: '50053'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/731,1217888424,2022-04-30 09:14:07,2022-04-27 21:12:02,A Rovigo corso gratuito di italiano per rifugiati ucraini promosso da Società Dante Alighieri e Irsap,45.0650659,11.79839,Veneto,Rovigo,"[""Valid/Accettato"",""Services"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""city"":""Rovigo"",""country"":""Italia"",""country_code"":""it"",""county"":""Rovigo"",""postcode"":""45100"",""state"":""Veneto"",""suburb"":""San Bortolo""},""boundingbox"":[""45.0450659"",""45.0850659"",""11.77839"",""11.81839""],""class"":""place"",""display_name"":""San Bortolo, Rovigo, Veneto, 45100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png"",""importance"":0.5750000000000001,""lat"":""45.0650659"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.79839"",""osm_id"":31452826,""osm_type"":""node"",""place_id"":286183423,""type"":""suburb""},""mode"":""autocomplete""},""description"":""Il comitato di Rovigo della Societ\u00e0 Dante Alighieri con il sostegno di IRSAP propone un corso base di lingua italiana per profughi ucraini privi di sostegno economico. Il corso si svolge nella Sala Parrocchiale San Bortolo di Rovigo. \nInfo al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Societ\u00e0 Dante Alighieri - IRSAP"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Rovigo corso gratuito di italiano per rifugiati ucraini promosso da Societ\u00e0 Dante Alighieri con il sostegno di IRSAP"",""url"":""https://www.csvpadovarovigo.org/wp-content/uploads/2022/03/emergenza-ucraina-primo-soccorso-linguistico.pdf""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Società Dante Alighieri - IRSAP
+title: A Rovigo corso gratuito di italiano per rifugiati ucraini promosso da Società
+  Dante Alighieri con il sostegno di IRSAP
+recipients: ''
+description: ""Il comitato di Rovigo della Società Dante Alighieri con il sostegno\
+  \ di IRSAP propone un corso base di lingua italiana per profughi ucraini privi di\
+  \ sostegno economico. Il corso si svolge nella Sala Parrocchiale San Bortolo di\
+  \ Rovigo. \nInfo al link.""
+url: https://www.csvpadovarovigo.org/wp-content/uploads/2022/03/emergenza-ucraina-primo-soccorso-linguistico.pdf
+address:
+  mode: autocomplete
+  address:
+    place_id: 286183423
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 31452826
+    boundingbox:
+    - '45.0450659'
+    - '45.0850659'
+    - '11.77839'
+    - '11.81839'
+    lat: '45.0650659'
+    lon: '11.79839'
+    display_name: San Bortolo, Rovigo, Veneto, 45100, Italia
+    class: place
+    type: suburb
+    importance: 0.5750000000000001
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png
+    address:
+      suburb: San Bortolo
+      city: Rovigo
+      county: Rovigo
+      state: Veneto
+      ISO3166-2-lvl4: IT-34
+      postcode: '45100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/733,1217907513,2022-04-30 09:13:50,2022-04-27 21:36:01,"International Organization for Migration (IOM) help line (ГАРЯЧІ ЛІНІЇ МОМ) for ukranian persons affected by the war in Ukraine, Poland, Romania, Lithuania, Slovakia, Moldova",46.2017559,6.1466014,,,"[""Valid/Accettato"",""News"",""useful contact"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""46.2017559 6.1466014"",""description"":""The International Organization for Migration (IOM) has set up information and support hotlines for persons in Ukraine and fleeing Ukraine in different countries.\n\n\u041c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0430 \u043e\u0440\u0433\u0430\u043d\u0456\u0437\u0430\u0446\u0456\u044f \u0437 \u043c\u0456\u0433\u0440\u0430\u0446\u0456\u0457 (\u041c\u041e\u041c) \u0432\u0456\u0434\u043a\u0440\u0438\u043b\u0430 \u0433\u0430\u0440\u044f\u0447\u0456 \u043b\u0456\u043d\u0456\u0457 \u0434\u043b\u044f \u0456\u043d\u0444\u043e\u0440\u043c\u0443\u0432\u0430\u043d\u043d\u044f \u0442\u0430 \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u043a\u0438 \u043b\u044e\u0434\u0435\u0439, \u044f\u043a\u0456 \u0432\u0438\u0457\u0436\u0434\u0436\u0430\u044e\u0442\u044c \u0437 \u0423\u043a\u0440\u0430\u0457\u043d\u0438 \u0434\u043e \u0456\u043d\u0448\u0438\u0445 \u043a\u0440\u0430\u0457\u043d. \u041d\u0430 \u0446\u0456\u0439 \u0441\u0442\u043e\u0440\u0456\u043d\u0446\u0456 \u043d\u0430\u0434\u0430\u043d\u043e \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u044e \u043f\u0440\u043e \u0447\u0438\u043d\u043d\u0456 \u0433\u0430\u0440\u044f\u0447\u0456 \u043b\u0456\u043d\u0456\u0457.\n\nIOM hotline numbers and support contacts per country (\u0413\u0430\u0440\u044f\u0447\u0456 \u043b\u0456\u043d\u0456\u0457 \u041c\u041e\u041c \u0442\u0430 \u043a\u043e\u043d\u0442\u0430\u043a\u0442\u0438 \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u043a\u0438 \u043f\u043e \u043a\u0440\u0430\u0457\u043d\u0430\u0445): \n\n- Ukraine: 527 (free from mobile phones), 0800505501 (free from landline phones); as well as 527 website https://www.527.org.ua\n\n- Poland: +48 22 490 20 44\n\n- Romania: Online support platform https://dopomoha.ro/uk\n\n- Lithuania: +370 525 14352 is run by IOM's Migration Information Centre, also available through live chat on this website https://www.renkuosilietuva.lt/ru/\n\n- Slovakia: From abroad 00421 5263 0023, locally 0850 211 478; Telegram/Signal: 00421 908 767 853 (voice only); Web: https://www.mic.iom.sk/en/\n\n- Moldova: Bureau of Migration and Asylum (BMA): 080001527 (free from Moldova) and +37322820007 (from abroad); La Strada Anti-trafficking and Safe Migration: 080077777 (free from Moldova) and +37322233309 (from abroad)."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.iom.int/ukraine-iom-hotlines-garyachi-linii-mom-persons-affected-war?s=09"",""location"":{""address"":{""address"":{""city"":""Ginevra"",""country"":""Svizzera"",""country_code"":""ch"",""postcode"":""1204"",""state"":""Ginevra""},""boundingbox"":[""46.0417559"",""46.3617559"",""5.9866014"",""6.3066014""],""class"":""place"",""display_name"":""Ginevra, 1204, Svizzera"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.8001567984925614,""lat"":""46.2017559"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""6.1466014"",""osm_id"":33622904,""osm_type"":""node"",""place_id"":108594,""type"":""city""},""mode"":""autocomplete""},""submit"":true,""title"":""Ukraine crisis: International Organization for Migration (IOM) help line (\u0413\u0410\u0420\u042f\u0427\u0406 \u041b\u0406\u041d\u0406\u0407 \u041c\u041e\u041c) for persons affected by the war in Ukraine, Poland, Romania, Lithuania, Slovakia, Moldova""}","<pre><yamldata>
+title: 'Ukraine crisis: International Organization for Migration (IOM) help line (ГАРЯЧІ
+  ЛІНІЇ МОМ) for persons affected by the war in Ukraine, Poland, Romania, Lithuania,
+  Slovakia, Moldova'
+description: ""The International Organization for Migration (IOM) has set up information\
+  \ and support hotlines for persons in Ukraine and fleeing Ukraine in different countries.\n\
+  \nМіжнародна організація з міграції (МОМ) відкрила гарячі лінії для інформування\
+  \ та підтримки людей, які виїжджають з України до інших країн. На цій сторінці надано\
+  \ інформацію про чинні гарячі лінії.\n\nIOM hotline numbers and support contacts\
+  \ per country (Гарячі лінії МОМ та контакти підтримки по країнах): \n\n- Ukraine:\
+  \ 527 (free from mobile phones), 0800505501 (free from landline phones); as well\
+  \ as 527 website https://www.527.org.ua\n\n- Poland: +48 22 490 20 44\n\n- Romania:\
+  \ Online support platform https://dopomoha.ro/uk\n\n- Lithuania: +370 525 14352\
+  \ is run by IOM's Migration Information Centre, also available through live chat\
+  \ on this website https://www.renkuosilietuva.lt/ru/\n\n- Slovakia: From abroad\
+  \ 00421 5263 0023, locally 0850 211 478; Telegram/Signal: 00421 908 767 853 (voice\
+  \ only); Web: https://www.mic.iom.sk/en/\n\n- Moldova: Bureau of Migration and Asylum\
+  \ (BMA): 080001527 (free from Moldova) and +37322820007 (from abroad); La Strada\
+  \ Anti-trafficking and Safe Migration: 080077777 (free from Moldova) and +37322233309\
+  \ (from abroad).""
+link: https://www.iom.int/ukraine-iom-hotlines-garyachi-linii-mom-persons-affected-war?s=09
+location:
+  mode: autocomplete
+  address:
+    place_id: 108594
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 33622904
+    boundingbox:
+    - '46.0417559'
+    - '46.3617559'
+    - '5.9866014'
+    - '6.3066014'
+    lat: '46.2017559'
+    lon: '6.1466014'
+    display_name: Ginevra, 1204, Svizzera
+    class: place
+    type: city
+    importance: 0.8001567984925614
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Ginevra
+      state: Ginevra
+      postcode: '1204'
+      country: Svizzera
+      country_code: ch
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 46.2017559 6.1466014
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/740,1221216227,2022-04-30 09:13:14,2022-04-29 16:32:49,"Varese, rete di sostegno per famiglie e minori fuggiti dall'Ucraina",45.83971285,8.754157594917665,Lombardia,Varese,"[""Valid/Accettato"",""News"",""Services"",""Children""]",,,"{""Posizione"":""45.83971285 8.754157594917665"",""description"":""La Casa Davanti al sole e La Casa del Giocattolo Solidale Varese hanno avviato la costruzione di una rete di sostegno per le famiglie fuggite dalla guerra in Ucraina, con particolare attenzione a bambini, ragazzi e donne. Per info: retesostegnoucraina@gmail.com La Casa Davanti al sole www.lacasadavantialsole.org - 0331827159 La Casa del Giocattolo Solidale Varese www.lacasadelgiocattolosolidale.it \u2013 3487538737"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.csvlombardia.it/varese/post/emergenza-umanitaria-ucraina-le-iniziative-in-provincia-di-varese/"",""location"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-VA"",""country"":""Italia"",""country_code"":""it"",""county"":""Varese"",""state"":""Lombardia""},""boundingbox"":[""45.5583143"",""46.1222569"",""8.552246"",""9.0662956""],""class"":""boundary"",""display_name"":""Varese, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7403937310744694,""lat"":""45.83971285"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.754157594917665"",""osm_id"":45347,""osm_type"":""relation"",""place_id"":284266553,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Varese, attivata rete di sostegno per famiglie fuggite dall'Ucraina""}","<pre><yamldata>
+title: Varese, attivata rete di sostegno per famiglie fuggite dall'Ucraina
+description: 'La Casa Davanti al sole e La Casa del Giocattolo Solidale Varese hanno
+  avviato la costruzione di una rete di sostegno per le famiglie fuggite dalla guerra
+  in Ucraina, con particolare attenzione a bambini, ragazzi e donne.
+Per info: retesostegnoucraina@gmail.com
+La Casa Davanti al sole www.lacasadavantialsole.org - 0331827159
+La Casa del Giocattolo Solidale Varese www.lacasadelgiocattolosolidale.it – 3487538737'
+link: https://www.csvlombardia.it/varese/post/emergenza-umanitaria-ucraina-le-iniziative-in-provincia-di-varese/
+location:
+  mode: autocomplete
+  address:
+    place_id: 284266553
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 45347
+    boundingbox:
+    - '45.5583143'
+    - '46.1222569'
+    - '8.552246'
+    - '9.0662956'
+    lat: '45.83971285'
+    lon: '8.754157594917665'
+    display_name: Varese, Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7403937310744694
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Varese
+      ISO3166-2-lvl6: IT-VA
+      state: Lombardia
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.83971285 8.754157594917665
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/741,1221251641,2022-04-30 09:11:29,2022-04-29 16:51:51,A Varese l'associazione Mir I Dobro raccoglie beni di prima necessità da inviare in Ucraina,45.8708032,8.9055684,Lombardia,Varese,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-VA"",""country"":""Italia"",""country_code"":""it"",""county"":""Varese"",""hamlet"":""Fattoria Nuova"",""municipality"":""Comunit\u00e0 Montana del Piambello"",""neighbourhood"":""San Martino"",""postcode"":""21059"",""road"":""Via Giovane Italia"",""state"":""Lombardia"",""village"":""Viggi\u00f9""},""boundingbox"":[""45.8703484"",""45.8712032"",""8.905393"",""8.9057112""],""class"":""highway"",""display_name"":""Via Giovane Italia, San Martino, Fattoria Nuova, Viggi\u00f9, Comunit\u00e0 Montana del Piambello, Varese, Lombardia, 21059, Italia"",""importance"":0.7299999999999999,""lat"":""45.8708032"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.9055684"",""osm_id"":107680679,""osm_type"":""way"",""place_id"":124851645,""type"":""residential""},""mode"":""autocomplete""},""description"":""L\u2019associazione di Viggi\u00f9 (Va) Mir I Dobro continua la raccolta di generi alimentari, farmaci, prodotti per l\u2019igiene, coperte, con l\u2019obiettivo di far partire tir per l\u2019Ucraina con quanto raccolto.\n\nPunto di consegna beni: sede in Viggi\u00f9, via Giovane Italia, 3.\n\nSta anche raccogliendo OFFERTE per le spese di viaggio ed eventuali prodotti da acquistare.\nIBAN: IT76 G030 6909 6061 0000 0012 888\nBanca Intesa san Paolo\n\nPer ulteriori informazioni: 0332 487613 info@miridobro.it www.miridobro.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Mir I Dobro"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Varese l'associazione Mir I Dobro raccoglie beni di prima necessit\u00e0 da inviare in Ucraina"",""url"":""https://m.facebook.com/miridobroonlus/photos/pcb.2570286959775340/2570286846442018/?type=3&source=49""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Associazione Mir I Dobro
+title: A Varese l'associazione Mir I Dobro raccoglie beni di prima necessità da inviare
+  in Ucraina
+recipients: ''
+description: 'L’associazione di Viggiù (Va) Mir I Dobro continua la raccolta di generi
+  alimentari, farmaci, prodotti per l’igiene, coperte, con l’obiettivo di far partire
+  tir per l’Ucraina con quanto raccolto.
+
+
+  Punto di consegna beni: sede in Viggiù, via Giovane Italia, 3.
+
+
+  Sta anche raccogliendo OFFERTE per le spese di viaggio ed eventuali prodotti da
+  acquistare.
+
+  IBAN: IT76 G030 6909 6061 0000 0012 888
+
+  Banca Intesa san Paolo
+
+
+  Per ulteriori informazioni: 0332 487613 info@miridobro.it www.miridobro.it'
+url: https://m.facebook.com/miridobroonlus/photos/pcb.2570286959775340/2570286846442018/?type=3&source=49
+address:
+  mode: autocomplete
+  address:
+    place_id: 124851645
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 107680679
+    boundingbox:
+    - '45.8703484'
+    - '45.8712032'
+    - '8.905393'
+    - '8.9057112'
+    lat: '45.8708032'
+    lon: '8.9055684'
+    display_name: Via Giovane Italia, San Martino, Fattoria Nuova, Viggiù, Comunità
+      Montana del Piambello, Varese, Lombardia, 21059, Italia
+    class: highway
+    type: residential
+    importance: 0.7299999999999999
+    address:
+      road: Via Giovane Italia
+      neighbourhood: San Martino
+      hamlet: Fattoria Nuova
+      village: Viggiù
+      municipality: Comunità Montana del Piambello
+      county: Varese
+      ISO3166-2-lvl6: IT-VA
+      state: Lombardia
+      postcode: '21059'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/742,1221364214,2022-04-30 09:11:14,2022-04-29 18:01:48,Su Welfare Como info e contatti utili per i profughi ucraini e per chi vuole offrire aiuto (in italiano e ucraino),45.8099549,9.084835,Lombardia,Como,"[""Valid/Accettato"",""Services"",""materialGoods"",""hospitality"",""healthcare"",""Children""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-CO"",""city"":""Como"",""country"":""Italia"",""country_code"":""it"",""county"":""Como"",""house_number"":""97"",""neighbourhood"":""San Vitale"",""postcode"":""22100"",""road"":""Via Vittorio Emanuele Secondo"",""state"":""Lombardia"",""suburb"":""Citt\u00e0 murata""},""boundingbox"":[""45.8099049"",""45.8100049"",""9.084785"",""9.084885""],""class"":""place"",""display_name"":""97, Via Vittorio Emanuele Secondo, San Vitale, Citt\u00e0 murata, Como, Lombardia, 22100, Italia"",""importance"":0.5209999999999999,""lat"":""45.8099549"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.084835"",""osm_id"":7850010126,""osm_type"":""node"",""place_id"":80940489,""type"":""house""},""mode"":""autocomplete""},""description"":""Sulla piattaforma Welfare Como, promossa dal Comune di Como, informazioni e contatti utili per chi arriva dall'Ucraina (alloggio, procedure per il permesso, scuola, assistenza sanitaria e altro) e per chi vuole donare denaro oppure offrire ospitalit\u00e0, lavoro, servizi vari, beni di prima necessit\u00e0.\nTutte le informazioni sono disponibili in italiano e ucraino."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Como"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Su Welfare Como info e contatti utili per i profughi ucraini e per chi vuole offrire aiuto (in italiano e ucraino)"",""url"":""https://welfarecomo.it/como/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: true
+  transport: false
+  healthcare: true
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: false
+offerFromWho: Comune di Como
+title: Su Welfare Como info e contatti utili per i profughi ucraini e per chi vuole
+  offrire aiuto (in italiano e ucraino)
+recipients: ''
+description: 'Sulla piattaforma Welfare Como, promossa dal Comune di Como, informazioni
+  e contatti utili per chi arriva dall''Ucraina (alloggio, procedure per il permesso,
+  scuola, assistenza sanitaria e altro) e per chi vuole donare denaro oppure offrire
+  ospitalità, lavoro, servizi vari, beni di prima necessità.
+
+  Tutte le informazioni sono disponibili in italiano e ucraino.'
+url: https://welfarecomo.it/como/
+address:
+  mode: autocomplete
+  address:
+    place_id: 80940489
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 7850010126
+    boundingbox:
+    - '45.8099049'
+    - '45.8100049'
+    - '9.084785'
+    - '9.084885'
+    lat: '45.8099549'
+    lon: '9.084835'
+    display_name: 97, Via Vittorio Emanuele Secondo, San Vitale, Città murata, Como,
+      Lombardia, 22100, Italia
+    class: place
+    type: house
+    importance: 0.5209999999999999
+    address:
+      house_number: '97'
+      road: Via Vittorio Emanuele Secondo
+      neighbourhood: San Vitale
+      suburb: Città murata
+      city: Como
+      county: Como
+      ISO3166-2-lvl6: IT-CO
+      state: Lombardia
+      postcode: '22100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/743,1221371012,2022-04-30 09:10:50,2022-04-29 18:10:20,"Caritas Como, servizio ""Porta Aperta"" offre alloggi e aiuti ai rifugiati ucraini",45.8085189,9.0792853,Lombardia,Como,"[""Valid/Accettato"",""Services"",""materialGoods"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-CO"",""city"":""Como"",""country"":""Italia"",""country_code"":""it"",""county"":""Como"",""neighbourhood"":""San Giovanni"",""postcode"":""22100"",""road"":""Viale Varese"",""state"":""Lombardia"",""suburb"":""Citt\u00e0 murata""},""boundingbox"":[""45.8067836"",""45.8104597"",""9.0773152"",""9.0810185""],""class"":""highway"",""display_name"":""Viale Varese, San Giovanni, Citt\u00e0 murata, Como, Lombardia, 22100, Italia"",""importance"":0.41000000000000003,""lat"":""45.8085189"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.0792853"",""osm_id"":140992488,""osm_type"":""way"",""place_id"":135397543,""type"":""tertiary""},""mode"":""autocomplete""},""description"":""Per i profughi gi\u00e0 arrivati in citt\u00e0 e che necessitano di assistenza (alloggio e aiuto concreto) \u00e8 possibile contattare il servizio di Caritas Como \u201cPorta Aperta\u201d, Viale Varese n. 25, luned\u00ec \u2013 mercoled\u00ec - venerd\u00ec dalle ore 9.00 alle ore 12.00.\nOppure Tel. 031267010 o scrivere a porta.aperta@caritascomo.it\n\n\u0414\u043b\u044f \u0431\u0456\u0436\u0435\u043d\u0446\u0456\u0432, \u044f\u043a\u0456 \u0432\u0436\u0435 \u043f\u0440\u0438\u0431\u0443\u043b\u0438 \u0434\u043e \u043c\u0456\u0441\u0442\u0430 \u0456 \u043f\u043e\u0442\u0440\u0435\u0431\u0443\u044e\u0442\u044c \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0438, \u043c\u043e\u0436\u043d\u0430 \u0437\u0432\u0435\u0440\u043d\u0443\u0442\u0438\u0441\u044f \u0434\u043e \u0441\u043b\u0443\u0436\u0431\u0438 \u00ab\u0412\u0456\u0434\u043a\u0440\u0438\u0442\u0456 \u0434\u0432\u0435\u0440\u0456\u00bb.\n\u0410\u0434\u0440\u0435\u0441\u0430: \u0432\u0443\u043b\u0438\u0446\u044f Viale Varese \u2116 25 - \u043f\u043e\u043d\u0435\u0434\u0456\u043b\u043e\u043a - \u0441\u0435\u0440\u0435\u0434\u0430 - \u043f'\u044f\u0442\u043d\u0438\u0446\u044f \u0437 9.00 \u0434\u043e 12.00 \u0410\u0431\u043e \u0437\u0430 \u0442\u0435\u043b. 031267010 \u0430\u0431\u043e \u043d\u0430\u043f\u0438\u0448\u0456\u0442\u044c \u043d\u0430 \u0430\u0434\u0440\u0435\u0441\u0443 porta.aperta@caritascomo.it\n\u041b\u0438\u0448\u0435 \u0434\u043b\u044f \u0433\u0440\u043e\u043c\u0430\u0434\u044f\u043d \u041a\u043e\u043c\u043e - \u0437\u0432\u0435\u0440\u0442\u0430\u0439\u0442\u0435\u0441\u044f \u0437\u0430 \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0446\u0438\u0432\u0456\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u0445\u0438\u0441\u0442\u0443 347.5544045 \u0437 9.00 \u0434\u043e 17.00 \u0437 \u043f\u043e\u043d\u0435\u0434\u0456\u043b\u043a\u0430 \u043f\u043e \u043f\u2019\u044f\u0442\u043d\u0438\u0446\u044e."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Caritas Como"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Caritas Como, servizio \""Porta Aperta\"" offre alloggi e aiuti ai rifugiati ucraini"",""url"":""https://welfarecomo.it/como/?l=UA""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Caritas Como
+title: Caritas Como, servizio ""Porta Aperta"" offre alloggi e aiuti ai rifugiati ucraini
+recipients: ''
+description: 'Per i profughi già arrivati in città e che necessitano di assistenza
+  (alloggio e aiuto concreto) è possibile contattare il servizio di Caritas Como “Porta
+  Aperta”, Viale Varese n. 25, lunedì – mercoledì - venerdì dalle ore 9.00 alle ore
+  12.00.
+
+  Oppure Tel. 031267010 o scrivere a porta.aperta@caritascomo.it
+
+
+  Для біженців, які вже прибули до міста і потребують допомоги, можна звернутися до
+  служби «Відкриті двері».
+
+  Адреса: вулиця Viale Varese № 25 - понеділок - середа - п''ятниця з 9.00 до 12.00
+  Або за тел. 031267010 або напишіть на адресу porta.aperta@caritascomo.it
+
+  Лише для громадян Комо - звертайтеся за номером цивільного захисту 347.5544045 з
+  9.00 до 17.00 з понеділка по п’ятницю.'
+url: https://welfarecomo.it/como/?l=UA
+address:
+  mode: autocomplete
+  address:
+    place_id: 135397543
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 140992488
+    boundingbox:
+    - '45.8067836'
+    - '45.8104597'
+    - '9.0773152'
+    - '9.0810185'
+    lat: '45.8085189'
+    lon: '9.0792853'
+    display_name: Viale Varese, San Giovanni, Città murata, Como, Lombardia, 22100,
+      Italia
+    class: highway
+    type: tertiary
+    importance: 0.41000000000000003
+    address:
+      road: Viale Varese
+      neighbourhood: San Giovanni
+      suburb: Città murata
+      city: Como
+      county: Como
+      ISO3166-2-lvl6: IT-CO
+      state: Lombardia
+      postcode: '22100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/744,1221534622,2022-04-30 09:10:35,2022-04-29 21:01:41,"TrovaSocial, mappa dei servizi territoriali in Italia per chi si trova in difficoltà (migranti, rifufiati, senza dimora)",,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""Resources""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""aim"":""TrovaSocial \u00e8 una mappa online, realizzata dalla cooperativa Itinere, dedicata ai servizi territoriali per chi in Italia si trova in condizione di disagio, in particolare persone senza dimora, migranti, rifugiati, richiedenti asilo, donne vittime di tratta.\nLa mappa raccoglie informazioni sui servizi presenti sul territorio nazionale di segretariato sociale, orientamento e ascolto, mense e distribuzione di alimenti e beni di prima necessit\u00e0, ambulatori e cure mediche, scuole e formazione, corsi di italiano per stranieri, lavoro, supporto legale e altro."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""TrovaSocial, mappa dei servizi territoriali in Italia per chi si trova in difficolt\u00e0 (migranti, rifugiati, senza dimora)"",""url"":""http://www.trovasocial.it/""}","<pre><yamldata>
+title: TrovaSocial, mappa dei servizi territoriali in Italia per chi si trova in difficoltà
+  (migranti, rifugiati, senza dimora)
+phoneNumber: ''
+email: ''
+aim: 'TrovaSocial è una mappa online, realizzata dalla cooperativa Itinere, dedicata
+  ai servizi territoriali per chi in Italia si trova in condizione di disagio, in
+  particolare persone senza dimora, migranti, rifugiati, richiedenti asilo, donne
+  vittime di tratta.
+
+  La mappa raccoglie informazioni sui servizi presenti sul territorio nazionale di
+  segretariato sociale, orientamento e ascolto, mense e distribuzione di alimenti
+  e beni di prima necessità, ambulatori e cure mediche, scuole e formazione, corsi
+  di italiano per stranieri, lavoro, supporto legale e altro.'
+url: http://www.trovasocial.it/
+address:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/745,1221556199,2022-04-30 09:09:49,2022-04-29 21:25:09,"Sesto per l'Ucraina, portale del Comune di Sesto San Giovanni (Milano) con info e contatti utili per i rifugiati ucraini ",45.5357218,9.2376549,Lombardia,Milano,"[""Valid/Accettato"",""Services"",""materialGoods"",""hospitality"",""healthcare"",""Children""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20099"",""state"":""Lombardia"",""town"":""Sesto San Giovanni""},""boundingbox"":[""45.5173444"",""45.556763"",""9.20694"",""9.2717314""],""class"":""boundary"",""display_name"":""Sesto San Giovanni, Milano, Lombardia, 20099, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8336881016905328,""lat"":""45.5357218"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2376549"",""osm_id"":45245,""osm_type"":""relation"",""place_id"":284444071,""type"":""administrative""},""mode"":""autocomplete""},""description"":""\u00c8 online Sesto per l'Ucraina, portale del Comune di Sesto San Giovanni (Milano) con info e contatti utili per i rifugiati ucraini su assistenza sanitaria, richiesta di protezione temporanea, distribuzione beni e alimenti, accoglienza, corsi di italiano e altro."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Sesto San Giovanni"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Sesto per l'Ucraina, portale del Comune di Sesto San Giovanni (Milano) con info e contatti utili per i rifugiati ucraini"",""url"":""https://sestosg.net/novita/notizie/sestoperucraina/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: true
+  transport: false
+  healthcare: true
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: false
+offerFromWho: Comune di Sesto San Giovanni
+title: Sesto per l'Ucraina, portale del Comune di Sesto San Giovanni (Milano) con
+  info e contatti utili per i rifugiati ucraini
+recipients: ''
+description: È online Sesto per l'Ucraina, portale del Comune di Sesto San Giovanni
+  (Milano) con info e contatti utili per i rifugiati ucraini su assistenza sanitaria,
+  richiesta di protezione temporanea, distribuzione beni e alimenti, accoglienza,
+  corsi di italiano e altro.
+url: https://sestosg.net/novita/notizie/sestoperucraina/
+address:
+  mode: autocomplete
+  address:
+    place_id: 284444071
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 45245
+    boundingbox:
+    - '45.5173444'
+    - '45.556763'
+    - '9.20694'
+    - '9.2717314'
+    lat: '45.5357218'
+    lon: '9.2376549'
+    display_name: Sesto San Giovanni, Milano, Lombardia, 20099, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8336881016905328
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      town: Sesto San Giovanni
+      county: Milano
+      ISO3166-2-lvl6: IT-MI
+      state: Lombardia
+      postcode: '20099'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/739,1221205913,2022-04-30 09:00:01,2022-04-29 16:27:10,"Bergamo, attivo il call center per l’assistenza sanitaria dedicata ai minori ucraini",45.756655699999996,9.754219200862249,Lombardia,Bergamo,"[""Valid/Accettato"",""Services"",""healthcare"",""Children""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bergamo"",""state"":""Lombardia""},""boundingbox"":[""45.4221614"",""46.0912018"",""9.4450549"",""10.2627486""],""class"":""boundary"",""display_name"":""Bergamo, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7460458381268803,""lat"":""45.756655699999996"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.754219200862249"",""osm_id"":44996,""osm_type"":""relation"",""place_id"":284895216,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Da luned\u00ec 4 aprile prende avvio il percorso dedicato ai minori in fuga dal conflitto in Ucraina con l\u2019intervento di 70 pediatri distribuiti sul territorio provinciale, che su prenotazione, assicureranno  l\u2019assistenza sanitaria necessaria ai ragazzi. All\u2019attuale organizzazione, predisposta dalla rete territoriale bergamasca che prevede una prima presa in carico presso i tre hotspot, si affianca quindi un vero e proprio percorso integrativo territoriale dedicato ai minori, grazie ai 70 pediatri di famiglia che hanno aderito in maniera volontaria al progetto. \nI genitori/tutori del minore potranno prenotare le visite e l\u2019assistenza avvalendosi dell\u2019aiuto di un call center appositamente istituito, al numero 366.6683583 attivo dal luned\u00ec al venerd\u00ec dalle ore 10.00 alle ore 18.00 e gestito da volontari coordinati dal Centro di Servizio per il Volontariato di Bergamo.\n\nRicordiamo che rimangono attivi i 3 hotspot sul territorio:\n- ASST PAPA Giovanni XXIII Ospedale Papa Giovanni XXIII, Piazza OMS, 1 24127 Bergamo (presso la tensostruttura adiacente al Pronto Soccorso) \u2013 dalle 8.00 alle 16.00 dal Luned\u00ec al Sabato;\n- ASST BERGAMO EST Ambulatori via Donizetti, 1 24068 Seriate \u2013 dalle 8.00 alle 20.00 dal Luned\u00ec al Sabato;\n- ASST BERGAMO OVEST Palaspir\u00e0, via Sant\u2019Antonio, 24050 Spirano \u2013 dalle 8.00 alle 16.00 dal Luned\u00ec al Sabato."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Csv Bergamo"",""recipients"":""Minori ucraini"",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Bergamo, attivo il call center per l\u2019assistenza sanitaria dedicata ai minori ucraini"",""url"":""https://www.csvlombardia.it/bergamo/post/emergenza-ucraina-da-lunedi-4-aprile-attivo-il-call-center-per-lassistenza-sanitaria-dedicata-ai-minori-grazie-a-70-pediatri-volontari-e-altrettanti-cittadini-che-si-sono-messi-volontariamente-a-di/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -1249,181 +1950,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/729,1217880764,2022-04-27 21:53:38,2022-04-27 21:03:41,"A Empoli (Firenze) Pubbliche Assistenze offrono lezioni di italiano, doposcuola e sportello di ascolto per rifugiati ucraini ",43.7191745,10.9519702,Toscana,Firenze,"[""Valid/Accettato"",""Services"",""Legal"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""house_number"":""17"",""neighbourhood"":""Naiana"",""postcode"":""50053"",""road"":""Via Venti Settembre"",""state"":""Toscana"",""town"":""Empoli"",""village"":""Pontorme""},""boundingbox"":[""43.7191245"",""43.7192245"",""10.9519202"",""10.9520202""],""class"":""place"",""display_name"":""17, Via Venti Settembre, Naiana, Pontorme, Empoli, Citt\u00e0 metropolitana di Firenze, Toscana, 50053, Italia"",""importance"":0.42099999999999993,""lat"":""43.7191745"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.9519702"",""osm_id"":3772847063,""osm_type"":""node"",""place_id"":44723312,""type"":""house""},""mode"":""autocomplete""},""description"":""A Empoli le Pubbliche Assistenze Riunite offrono lezioni di italiano, doposcuola e sportello di ascolto per la popolazione ucraina in fuga dalla guerra.\nI corsi si terranno tutti nella sede della Pubblica Assistenza di Empoli, in via XX Settembre, 17. In \u2018cattedra\u2019 professoresse ed educatrici gi\u00e0 impegnate nello stesso servizio per donne e bambini del Centro Aiuto Donna Lilith. \nIl doposcuola si svolger\u00e0 tutti i venerd\u00ec pomeriggio, dalle 15.30 alle 17.30 per studentesse e studenti delle scuole medie, dalle 17.30 alle 19.30 per bambine e bambini delle scuole elementari. \nLe lezioni di lingua italiana rivolte agli adulti saranno invece ogni marted\u00ec e mercoled\u00ec mattina, dalle 10 alle 12.\n\u00c8 necessario iscriversi per i corsi di doposcuola e lezioni di italiano: baster\u00e0 telefonare al numero 0571 9806210, dalle 9 alle 17 dal luned\u00ec al venerd\u00ec.\nL\u2019altro servizio attivato in supporto alla popolazione ucraina \u00e8 lo sportello di ascolto. Il personale qualificato del Centro Lilith mette a disposizione le proprie competenze per donne e bambini fuggiti dal conflitto. Per usufruire dello sportello occorre prendere appuntamento telefonando, dalle 9 alle 13 dal luned\u00ec al venerd\u00ec, allo 0571 9806206."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Pubbliche Assistenze Riunite Empoli e Castelfiorentino"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":true,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Empoli (Firenze) Pubbliche Assistenze offrono lezioni di italiano, doposcuola e sportello di ascolto per i rifugiati ucraini"",""url"":""http://www.pubblicheassistenzeempoli.org/2022/03/28/lezioni-italiano-doposcuola-sportello-di-ascolto-popolazione-ucraina-pubblica-assistenza-empoli/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: true
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: true
-  disability: false
-  women: false
-  education: true
-offerFromWho: Pubbliche Assistenze Riunite Empoli e Castelfiorentino
-title: A Empoli (Firenze) Pubbliche Assistenze offrono lezioni di italiano, doposcuola
-  e sportello di ascolto per i rifugiati ucraini
-recipients: ''
-description: ""A Empoli le Pubbliche Assistenze Riunite offrono lezioni di italiano,\
-  \ doposcuola e sportello di ascolto per la popolazione ucraina in fuga dalla guerra.\n\
-  I corsi si terranno tutti nella sede della Pubblica Assistenza di Empoli, in via\
-  \ XX Settembre, 17. In ‘cattedra’ professoresse ed educatrici già impegnate nello\
-  \ stesso servizio per donne e bambini del Centro Aiuto Donna Lilith. \nIl doposcuola\
-  \ si svolgerà tutti i venerdì pomeriggio, dalle 15.30 alle 17.30 per studentesse\
-  \ e studenti delle scuole medie, dalle 17.30 alle 19.30 per bambine e bambini delle\
-  \ scuole elementari. \nLe lezioni di lingua italiana rivolte agli adulti saranno\
-  \ invece ogni martedì e mercoledì mattina, dalle 10 alle 12.\nÈ necessario iscriversi\
-  \ per i corsi di doposcuola e lezioni di italiano: basterà telefonare al numero\
-  \ 0571 9806210, dalle 9 alle 17 dal lunedì al venerdì.\nL’altro servizio attivato\
-  \ in supporto alla popolazione ucraina è lo sportello di ascolto. Il personale qualificato\
-  \ del Centro Lilith mette a disposizione le proprie competenze per donne e bambini\
-  \ fuggiti dal conflitto. Per usufruire dello sportello occorre prendere appuntamento\
-  \ telefonando, dalle 9 alle 13 dal lunedì al venerdì, allo 0571 9806206.""
-url: http://www.pubblicheassistenzeempoli.org/2022/03/28/lezioni-italiano-doposcuola-sportello-di-ascolto-popolazione-ucraina-pubblica-assistenza-empoli/
-address:
-  mode: autocomplete
-  address:
-    place_id: 44723312
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 3772847063
-    boundingbox:
-    - '43.7191245'
-    - '43.7192245'
-    - '10.9519202'
-    - '10.9520202'
-    lat: '43.7191745'
-    lon: '10.9519702'
-    display_name: 17, Via Venti Settembre, Naiana, Pontorme, Empoli, Città metropolitana
-      di Firenze, Toscana, 50053, Italia
-    class: place
-    type: house
-    importance: 0.42099999999999993
-    address:
-      house_number: '17'
-      road: Via Venti Settembre
-      neighbourhood: Naiana
-      village: Pontorme
-      town: Empoli
-      county: Città metropolitana di Firenze
-      state: Toscana
-      ISO3166-2-lvl4: IT-52
-      postcode: '50053'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/731,1217888424,2022-04-27 21:52:57,2022-04-27 21:12:02,A Rovigo corso gratuito di italiano per rifugiati ucraini promosso da Società Dante Alighieri e Irsap,45.0650659,11.79839,Veneto,Rovigo,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""city"":""Rovigo"",""country"":""Italia"",""country_code"":""it"",""county"":""Rovigo"",""postcode"":""45100"",""state"":""Veneto"",""suburb"":""San Bortolo""},""boundingbox"":[""45.0450659"",""45.0850659"",""11.77839"",""11.81839""],""class"":""place"",""display_name"":""San Bortolo, Rovigo, Veneto, 45100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png"",""importance"":0.5750000000000001,""lat"":""45.0650659"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.79839"",""osm_id"":31452826,""osm_type"":""node"",""place_id"":286183423,""type"":""suburb""},""mode"":""autocomplete""},""description"":""Il comitato di Rovigo della Societ\u00e0 Dante Alighieri con il sostegno di IRSAP propone un corso base di lingua italiana per profughi ucraini privi di sostegno economico. Il corso si svolge nella Sala Parrocchiale San Bortolo di Rovigo. \nInfo al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Societ\u00e0 Dante Alighieri - IRSAP"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Rovigo corso gratuito di italiano per rifugiati ucraini promosso da Societ\u00e0 Dante Alighieri con il sostegno di IRSAP"",""url"":""https://www.csvpadovarovigo.org/wp-content/uploads/2022/03/emergenza-ucraina-primo-soccorso-linguistico.pdf""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: true
-offerFromWho: Società Dante Alighieri - IRSAP
-title: A Rovigo corso gratuito di italiano per rifugiati ucraini promosso da Società
-  Dante Alighieri con il sostegno di IRSAP
-recipients: ''
-description: ""Il comitato di Rovigo della Società Dante Alighieri con il sostegno\
-  \ di IRSAP propone un corso base di lingua italiana per profughi ucraini privi di\
-  \ sostegno economico. Il corso si svolge nella Sala Parrocchiale San Bortolo di\
-  \ Rovigo. \nInfo al link.""
-url: https://www.csvpadovarovigo.org/wp-content/uploads/2022/03/emergenza-ucraina-primo-soccorso-linguistico.pdf
-address:
-  mode: autocomplete
-  address:
-    place_id: 286183423
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 31452826
-    boundingbox:
-    - '45.0450659'
-    - '45.0850659'
-    - '11.77839'
-    - '11.81839'
-    lat: '45.0650659'
-    lon: '11.79839'
-    display_name: San Bortolo, Rovigo, Veneto, 45100, Italia
-    class: place
-    type: suburb
-    importance: 0.5750000000000001
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png
-    address:
-      suburb: San Bortolo
-      city: Rovigo
-      county: Rovigo
-      state: Veneto
-      ISO3166-2-lvl4: IT-34
-      postcode: '45100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/733,1217907513,2022-04-27 21:52:09,2022-04-27 21:36:01,"International Organization for Migration (IOM) help line (ГАРЯЧІ ЛІНІЇ МОМ) for ukranian persons affected by the war in Ukraine, Poland, Romania, Lithuania, Slovakia, Moldova",46.2017559,6.1466014,,,"[""Valid/Accettato"",""News"",""useful contact""]",,,"{""Posizione"":""46.2017559 6.1466014"",""description"":""The International Organization for Migration (IOM) has set up information and support hotlines for persons in Ukraine and fleeing Ukraine in different countries.\n\n\u041c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0430 \u043e\u0440\u0433\u0430\u043d\u0456\u0437\u0430\u0446\u0456\u044f \u0437 \u043c\u0456\u0433\u0440\u0430\u0446\u0456\u0457 (\u041c\u041e\u041c) \u0432\u0456\u0434\u043a\u0440\u0438\u043b\u0430 \u0433\u0430\u0440\u044f\u0447\u0456 \u043b\u0456\u043d\u0456\u0457 \u0434\u043b\u044f \u0456\u043d\u0444\u043e\u0440\u043c\u0443\u0432\u0430\u043d\u043d\u044f \u0442\u0430 \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u043a\u0438 \u043b\u044e\u0434\u0435\u0439, \u044f\u043a\u0456 \u0432\u0438\u0457\u0436\u0434\u0436\u0430\u044e\u0442\u044c \u0437 \u0423\u043a\u0440\u0430\u0457\u043d\u0438 \u0434\u043e \u0456\u043d\u0448\u0438\u0445 \u043a\u0440\u0430\u0457\u043d. \u041d\u0430 \u0446\u0456\u0439 \u0441\u0442\u043e\u0440\u0456\u043d\u0446\u0456 \u043d\u0430\u0434\u0430\u043d\u043e \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u044e \u043f\u0440\u043e \u0447\u0438\u043d\u043d\u0456 \u0433\u0430\u0440\u044f\u0447\u0456 \u043b\u0456\u043d\u0456\u0457.\n\nIOM hotline numbers and support contacts per country (\u0413\u0430\u0440\u044f\u0447\u0456 \u043b\u0456\u043d\u0456\u0457 \u041c\u041e\u041c \u0442\u0430 \u043a\u043e\u043d\u0442\u0430\u043a\u0442\u0438 \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u043a\u0438 \u043f\u043e \u043a\u0440\u0430\u0457\u043d\u0430\u0445): \n\n- Ukraine: 527 (free from mobile phones), 0800505501 (free from landline phones); as well as 527 website https://www.527.org.ua\n\n- Poland: +48 22 490 20 44\n\n- Romania: Online support platform https://dopomoha.ro/uk\n\n- Lithuania: +370 525 14352 is run by IOM's Migration Information Centre, also available through live chat on this website https://www.renkuosilietuva.lt/ru/\n\n- Slovakia: From abroad 00421 5263 0023, locally 0850 211 478; Telegram/Signal: 00421 908 767 853 (voice only); Web: https://www.mic.iom.sk/en/\n\n- Moldova: Bureau of Migration and Asylum (BMA): 080001527 (free from Moldova) and +37322820007 (from abroad); La Strada Anti-trafficking and Safe Migration: 080077777 (free from Moldova) and +37322233309 (from abroad)."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.iom.int/ukraine-iom-hotlines-garyachi-linii-mom-persons-affected-war?s=09"",""location"":{""address"":{""address"":{""city"":""Ginevra"",""country"":""Svizzera"",""country_code"":""ch"",""postcode"":""1204"",""state"":""Ginevra""},""boundingbox"":[""46.0417559"",""46.3617559"",""5.9866014"",""6.3066014""],""class"":""place"",""display_name"":""Ginevra, 1204, Svizzera"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.8001567984925614,""lat"":""46.2017559"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""6.1466014"",""osm_id"":33622904,""osm_type"":""node"",""place_id"":108594,""type"":""city""},""mode"":""autocomplete""},""submit"":true,""title"":""Ukraine crisis: International Organization for Migration (IOM) help line (\u0413\u0410\u0420\u042f\u0427\u0406 \u041b\u0406\u041d\u0406\u0407 \u041c\u041e\u041c) for persons affected by the war in Ukraine, Poland, Romania, Lithuania, Slovakia, Moldova""}","<pre><yamldata>
-title: 'Ukraine crisis: International Organization for Migration (IOM) help line (ГАРЯЧІ
-  ЛІНІЇ МОМ) for persons affected by the war in Ukraine, Poland, Romania, Lithuania,
-  Slovakia, Moldova'
-description: ""The International Organization for Migration (IOM) has set up information\
-  \ and support hotlines for persons in Ukraine and fleeing Ukraine in different countries.\n\
-  \nМіжнародна організація з міграції (МОМ) відкрила гарячі лінії для інформування\
-  \ та підтримки людей, які виїжджають з України до інших країн. На цій сторінці надано\
-  \ інформацію про чинні гарячі лінії.\n\nIOM hotline numbers and support contacts\
-  \ per country (Гарячі лінії МОМ та контакти підтримки по країнах): \n\n- Ukraine:\
-  \ 527 (free from mobile phones), 0800505501 (free from landline phones); as well\
-  \ as 527 website https://www.527.org.ua\n\n- Poland: +48 22 490 20 44\n\n- Romania:\
-  \ Online support platform https://dopomoha.ro/uk\n\n- Lithuania: +370 525 14352\
-  \ is run by IOM's Migration Information Centre, also available through live chat\
-  \ on this website https://www.renkuosilietuva.lt/ru/\n\n- Slovakia: From abroad\
-  \ 00421 5263 0023, locally 0850 211 478; Telegram/Signal: 00421 908 767 853 (voice\
-  \ only); Web: https://www.mic.iom.sk/en/\n\n- Moldova: Bureau of Migration and Asylum\
-  \ (BMA): 080001527 (free from Moldova) and +37322820007 (from abroad); La Strada\
-  \ Anti-trafficking and Safe Migration: 080077777 (free from Moldova) and +37322233309\
-  \ (from abroad).""
-link: https://www.iom.int/ukraine-iom-hotlines-garyachi-linii-mom-persons-affected-war?s=09
-location:
-  mode: autocomplete
-  address:
-    place_id: 108594
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 33622904
-    boundingbox:
-    - '46.0417559'
-    - '46.3617559'
-    - '5.9866014'
-    - '6.3066014'
-    lat: '46.2017559'
-    lon: '6.1466014'
-    display_name: Ginevra, 1204, Svizzera
-    class: place
-    type: city
-    importance: 0.8001567984925614
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
-    address:
-      city: Ginevra
-      state: Ginevra
-      postcode: '1204'
-      country: Svizzera
-      country_code: ch
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 46.2017559 6.1466014
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/399,1185341282,2022-04-27 21:23:20,2022-03-29 19:51:31,Comune di Palermo attiva indirizzo email per supporto e accoglienza delle persone in arrivo dall’Ucraina,38.1112268,13.3524434,Sicilia,Palermo,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""state"":""Sicilia""},""boundingbox"":[""38.0499137"",""38.2245866"",""13.242219"",""13.4520856""],""class"":""boundary"",""display_name"":""Palermo, Sicilia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7661148171447915,""lat"":""38.1112268"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3524434"",""osm_id"":39513,""osm_type"":""relation"",""place_id"":284307182,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Comune di Palermo ha attivato l'indirizzo mail aiutiucraina@comune.palermo.it dedicato alla situazione ucraina per accompagnare e facilitare le pratiche di ricongiungimenti e mettere in collegamento i profughi con le associazioni del terzo settore e con privati cittadini che, in alcuni casi, hanno gi\u00e0 espresso ed intendono dare la loro disponibilit\u00e0 per accoglierli."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Palermo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Palermo attiva una mail dedicata per aiuti alle persone in arrivo"",""url"":""https://www.comune.palermo.it/palermo-informa-dettaglio.php?id=34071&tipo=1""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -1948,64 +2474,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 49.4871968 31.2718321
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/722,1216253559,2022-04-27 07:02:36,2022-04-26 17:17:15,Biblioteca Comunale di Trieste attiva corso di italiano per profughi ucraini,45.643912,13.7807313,Friuli Venezia Giulia,Trieste,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-36"",""city"":""Trieste"",""country"":""Italia"",""country_code"":""it"",""county"":""Trieste"",""postcode"":""34121-34151"",""road"":""Via delle Lodole"",""state"":""Friuli Venezia Giulia"",""suburb"":""San Giacomo""},""boundingbox"":[""45.6438089"",""45.6440971"",""13.7805491"",""13.7810586""],""class"":""highway"",""display_name"":""Via delle Lodole, San Giacomo, Barriera Vecchia-San Giacomo, Trieste, Friuli Venezia Giulia, 34121-34151, Italia"",""importance"":0.71,""lat"":""45.643912"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.7807313"",""osm_id"":69884582,""osm_type"":""way"",""place_id"":327362182,""type"":""pedestrian""},""mode"":""autocomplete""},""description"":""Biblioteca Comunale Quarantotti Gambini (Via delle Lodole, 6-7/a, Trieste) ha aperto nuovo corso di italiano per rifugiati ucraini. Per iscriversi inviare una mail a corsi.italiano.ts@gmail.com\n\n\u041e\u0442\u043a\u0440\u044b\u043b\u0441\u044f \u043d\u043e\u0432\u044b\u0439/\u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043a\u0443\u0440\u0441 \u0438\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u043e\u0433\u043e. \u0427\u0442\u043e\u0431\u044b \u0437\u0430\u043f\u0438\u0441\u0430\u0442\u044c\u0441\u044f, \u043e\u0442\u043f\u0440\u0430\u0432\u044c\u0442\u0435 \u043c\u0435\u0439\u043b \u043d\u0430 corsi.italiano.ts@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Biblioteca Comunale Trieste"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Biblioteca Comunale di Trieste attiva corso di italiano per profughi ucraini"",""url"":""https://t.me/trieste_emergenza_ucraina/131""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: true
-offerFromWho: Biblioteca Comunale Trieste
-title: Biblioteca Comunale di Trieste attiva corso di italiano per profughi ucraini
-recipients: ''
-description: 'Biblioteca Comunale Quarantotti Gambini (Via delle Lodole, 6-7/a, Trieste)
-  ha aperto nuovo corso di italiano per rifugiati ucraini. Per iscriversi inviare
-  una mail a corsi.italiano.ts@gmail.com
-
-
-  Открылся новый/дополнительный курс итальянского. Чтобы записаться, отправьте мейл
-  на corsi.italiano.ts@gmail.com'
-url: https://t.me/trieste_emergenza_ucraina/131
-address:
-  mode: autocomplete
-  address:
-    place_id: 327362182
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 69884582
-    boundingbox:
-    - '45.6438089'
-    - '45.6440971'
-    - '13.7805491'
-    - '13.7810586'
-    lat: '45.643912'
-    lon: '13.7807313'
-    display_name: Via delle Lodole, San Giacomo, Barriera Vecchia-San Giacomo, Trieste,
-      Friuli Venezia Giulia, 34121-34151, Italia
-    class: highway
-    type: pedestrian
-    importance: 0.71
-    address:
-      road: Via delle Lodole
-      suburb: San Giacomo
-      city: Trieste
-      county: Trieste
-      state: Friuli Venezia Giulia
-      ISO3166-2-lvl4: IT-36
-      postcode: 34121-34151
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/618,1205405861,2022-04-26 17:06:30,2022-04-15 08:55:12,"Inserimento scolastico dei bambini ucraini, sul sito del Ministero dell'istruzione attiva ricerca online delle scuole e centri di formazione professionale in Italia",,,tutte,,"[""Valid/Accettato"",""News"",""telegram-channel"",""tweet"",""Resources"",""education""]",,,"{""description"":""Attraverso il portale Cerca la tua scuola \u00e8 possibile individuare gli istituti scolastici o centri di formazione professionale pi\u00f9 vicini al proprio domicilio. In particolare si pu\u00f2: - cercare una scuola o un centro di formazione professionale regionale sul territorio nazionale; - conoscere tutte le informazioni disponibili sugli istituti scolastici di ogni ordine e grado e sui centri di formazione professionale ricercati; - mettere a confronto l\u2019offerta formativa delle scuole e dei centri di formazione selezionati; - accedere direttamente ad alcuni servizi legati alla ricerca di scuole come, per esempio, le \u201cIscrizione on-line\u201d."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://cercalatuascuola.istruzione.it/cercalatuascuola/"",""location"":{""address"":{},""mode"":""autocomplete""},""regione_manuale"":""tutte"",""submit"":true,""title"":""Per facilitare inserimento scolastico dei bambini ucraini Ministero dell'istruzione attiva ricerca online della scuola o centro di formazione professionale pi\u00f9 vicina al proprio domicilio""}","<pre><yamldata>
 title: Per facilitare inserimento scolastico dei bambini ucraini Ministero dell'istruzione
@@ -3011,105 +3479,6 @@ address:
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/714,1213722188,2022-04-24 21:17:48,2022-04-24 17:54:15,"Università di Pisa, specific financial and academic actions supporting Ukrainian students",43.7166543,10.3988015,Toscana,Pisa,"[""Valid/Accettato"",""Services"",""hospitality"",""Resources"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""ISO3166-2-lvl6"":""IT-PI"",""amenity"":""Universit\u00e0 di Pisa - Rettorato"",""city"":""Pisa"",""country"":""Italia"",""country_code"":""it"",""county"":""Pisa"",""house_number"":""43"",""neighbourhood"":""Santa Maria"",""postcode"":""56126"",""road"":""Lungarno Antonio Pacinotti"",""state"":""Toscana"",""suburb"":""San Francesco""},""boundingbox"":[""43.7166043"",""43.7167043"",""10.3987515"",""10.3988515""],""class"":""amenity"",""display_name"":""Universit\u00e0 di Pisa - Rettorato, 43, Lungarno Antonio Pacinotti, Santa Maria, San Francesco, Pisa, Toscana, 56126, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//education_university.p.20.png"",""importance"":0.5309999999999999,""lat"":""43.7166543"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.3988015"",""osm_id"":3483952525,""osm_type"":""node"",""place_id"":42749137,""type"":""university""},""mode"":""autocomplete""},""description"":""Specific financial and academic actions supporting Ukrainian students who have been forced to flee from their country and who want to continue their studies at the University of Pisa:\n    Free accommodation at DSU-University dorms (in accordance with the number of available places and with priority given to refugee students) and free meals at University canteen until 31.12.2022.\n    If you want to apply please visit DSU website and send an email to ucraina@dsu.toscana.it.\n    Free Italian language classes at UNIPI Language Center\n    Free enrolment in single courses at UNIPI for the current semester\n\nStudents enrolled in a Ukrainian university who had to flee the Ukraine and don\u2019t want to stop their studies have the possibility of studying at the University of Pisa by enrolling in single courses during the current semester.\nAdmission is free and temporary.\nThe achievements could be carried out later in case of a successful application for admission to a degree programme. However, this is an exceptional procedure that in the case of a degree course with limited access will currently not guarantee direct access or enrolment in the degree course.\nPlease be aware of the fact that the most of our courses are taught in Italian.\nFor academic support send an email to emergenzaucraina@unipi.it \n\nN.37 Flat-rate study grants (\u20ac 1500 each)\nRequirements:\n\n     enrolment at an Ukrainian university\n     enrolment at the University of Pisa in single courses or degree programmes\n     Non-Italian residence\n\nIf you want to apply write to emergenzaucraina@unipi.it specifying the possession of the requirements and attaching a copy of your identity document.\nStudents who started their studies in Ukraine and want to complete their programme and graduate at the University of Pisa\nIf you want to continue studying at the University of Pisa in the academic year 2022/23, you have to apply for admission to the degree programme of your choice in due time."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Universit\u00e0 di Pisa"",""recipients"":""Ukrainian students"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Universit\u00e0 di Pisa, Specific financial and academic actions supporting Ukrainian students"",""url"":""https://www.unipi.it/index.php/international-office/item/23357-info-for-ukrainian-refugee-students""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: true
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: true
-offerFromWho: Università di Pisa
-title: Università di Pisa, Specific financial and academic actions supporting Ukrainian
-  students
-recipients: Ukrainian students
-description: ""Specific financial and academic actions supporting Ukrainian students\
-  \ who have been forced to flee from their country and who want to continue their\
-  \ studies at the University of Pisa:\n    Free accommodation at DSU-University dorms\
-  \ (in accordance with the number of available places and with priority given to\
-  \ refugee students) and free meals at University canteen until 31.12.2022.\n   \
-  \ If you want to apply please visit DSU website and send an email to ucraina@dsu.toscana.it.\n\
-  \    Free Italian language classes at UNIPI Language Center\n    Free enrolment\
-  \ in single courses at UNIPI for the current semester\n\nStudents enrolled in a\
-  \ Ukrainian university who had to flee the Ukraine and don’t want to stop their\
-  \ studies have the possibility of studying at the University of Pisa by enrolling\
-  \ in single courses during the current semester.\nAdmission is free and temporary.\n\
-  The achievements could be carried out later in case of a successful application\
-  \ for admission to a degree programme. However, this is an exceptional procedure\
-  \ that in the case of a degree course with limited access will currently not guarantee\
-  \ direct access or enrolment in the degree course.\nPlease be aware of the fact\
-  \ that the most of our courses are taught in Italian.\nFor academic support send\
-  \ an email to emergenzaucraina@unipi.it \n\nN.37 Flat-rate study grants (€ 1500\
-  \ each)\nRequirements:\n\n     enrolment at an Ukrainian university\n     enrolment\
-  \ at the University of Pisa in single courses or degree programmes\n     Non-Italian\
-  \ residence\n\nIf you want to apply write to emergenzaucraina@unipi.it specifying\
-  \ the possession of the requirements and attaching a copy of your identity document.\n\
-  Students who started their studies in Ukraine and want to complete their programme\
-  \ and graduate at the University of Pisa\nIf you want to continue studying at the\
-  \ University of Pisa in the academic year 2022/23, you have to apply for admission\
-  \ to the degree programme of your choice in due time.""
-url: https://www.unipi.it/index.php/international-office/item/23357-info-for-ukrainian-refugee-students
-address:
-  mode: autocomplete
-  address:
-    place_id: 42749137
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 3483952525
-    boundingbox:
-    - '43.7166043'
-    - '43.7167043'
-    - '10.3987515'
-    - '10.3988515'
-    lat: '43.7166543'
-    lon: '10.3988015'
-    display_name: Università di Pisa - Rettorato, 43, Lungarno Antonio Pacinotti,
-      Santa Maria, San Francesco, Pisa, Toscana, 56126, Italia
-    class: amenity
-    type: university
-    importance: 0.5309999999999999
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//education_university.p.20.png
-    address:
-      amenity: Università di Pisa - Rettorato
-      house_number: '43'
-      road: Lungarno Antonio Pacinotti
-      neighbourhood: Santa Maria
-      suburb: San Francesco
-      city: Pisa
-      county: Pisa
-      ISO3166-2-lvl6: IT-PI
-      state: Toscana
-      ISO3166-2-lvl4: IT-52
-      postcode: '56126'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/712,1213708852,2022-04-24 21:08:12,2022-04-24 17:02:14,Regione Piemonte - Lista hotspot dove i rifugiati ucraini possono effettuare tamponi Covid 19 al momento del loro arrivo,45.0716729,7.6847021,Piemonte,Torino,"[""Valid/Accettato"",""useful contact"",""healthcare""]",,,"{""Posizione"":""45.0716729 7.6847021"",""address"":{""address"":{},""mode"":""autocomplete""},""aim"":""Tutte le persone provenienti dall\u2019Ucraina devono sottoporsi a un tampone antigenico o molecolare entro 48 ore o in ogni caso al pi\u00f9 presto. Per consentirlo la Regione Piemonte ha previsto un accesso diretto con percorsi dedicati negli hotspot del territorio."",""email"":""accoglienza.ucraina@regione.piemonte.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Regione Piemonte - Lista hotspot per tamponi all'ingresso"",""url"":""https://www.regione.piemonte.it/web/sites/default/files/media/documenti/2022-03/hot_spot_tamponi_marzo_4.pdf""}","<pre><yamldata>
-title: Regione Piemonte - Lista hotspot per tamponi all'ingresso
-phoneNumber: ''
-email: accoglienza.ucraina@regione.piemonte.it
-aim: Tutte le persone provenienti dall’Ucraina devono sottoporsi a un tampone antigenico
-  o molecolare entro 48 ore o in ogni caso al più presto. Per consentirlo la Regione
-  Piemonte ha previsto un accesso diretto con percorsi dedicati negli hotspot del
-  territorio.
-url: https://www.regione.piemonte.it/web/sites/default/files/media/documenti/2022-03/hot_spot_tamponi_marzo_4.pdf
-address:
-  mode: autocomplete
-  address: {}
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: useful contact
-submit: true
-Posizione: 45.0716729 7.6847021
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/711,1213708300,2022-04-24 21:03:58,2022-04-24 17:00:17,Regione Piemonte - Informazioni importanti per chi ospita rifugiati ucraini ,45.0677551,7.6824892,Piemonte,Torino,"[""Valid/Accettato"",""News"",""hospitality""]",,,"{""Posizione"":""45.0677551 7.6824892"",""description"":""Alle persone o realt\u00e0 associative e private che stanno gi\u00e0 ospitando cittadini ucraini in Piemonte si ricordano le procedure che \u00e8 importante seguire, al fine di avviare le attivit\u00e0 necessarie a fornire il massimo supporto anche nei beni di prima necessit\u00e0 e per l\u2019assistenza sanitaria.\nCOMUNICAZIONE DELLE GENERALIT\u00c0 DEI RIFUGIATI OSPITATI \u00c8 necessario comunicare le generalit\u00e0 dei cittadini ucraini ospitati alle autorit\u00e0 locali, recandosi presso una Stazione di Polizia o il proprio Comune. Al fine di monitorare i flussi di profughi provenienti dall\u2019Ucraina \u00e8 anche necessario compilare questo modulo online.\nPROFILASSI SANITARIA ANTI-COVID Tutte le persone provenienti dall\u2019Ucraina devono sottoporsi a un tampone antigenico o molecolare entro 48 ore o in ogni caso al pi\u00f9 presto. Per consentirlo la Regione Piemonte ha previsto un accesso diretto con percorsi dedicati negli hotspot del territorio (a questo link trovate l\u2019elenco). Nei cinque giorni successivi al tampone \u00e8 necessario rispettare l'auto-sorveglianza e indossare la mascherina FFP2. In caso di comparsa di sintomi va informata l\u2019azienda sanitaria locale (a questo link trovate i contatti).\nVACCINAZIONE I cittadini ucraini non ancora vaccinati possono aderire alla vaccinazione anti-Covid attraverso il portale www.IlPiemontetivaccina.it, dove \u00e8 attiva in primo piano una specifica sezione in lingua ucraina.\nPossono indicare i propri dati sul portale il www.Piemontetivaccina.it per essere contattati e ricevere tutte le informazioni necessarie anche coloro che sono gi\u00e0 vaccinati, ma non sono in possesso della relativa documentazione, oppure coloro che sono vaccinati con un vaccino non autorizzato dall\u2019Agenzia europea per il farmaco (EMA)."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.regione.piemonte.it/web/temi/diritti-politiche-sociali/piemonte-per-lucraina#"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""city"":""Torino"",""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""state"":""Piemonte""},""boundingbox"":[""45.0067924"",""45.1402175"",""7.5778348"",""7.7733388""],""class"":""boundary"",""display_name"":""Torino, Piemonte, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8068062387577691,""lat"":""45.0677551"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.6824892"",""osm_id"":43992,""osm_type"":""relation"",""place_id"":284787924,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Regione Piemonte - Informazioni importanti per chi ospita""}","<pre><yamldata>
 title: Regione Piemonte - Informazioni importanti per chi ospita
