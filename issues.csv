@@ -1,4 +1,176 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/739,1221205913,2022-04-30 09:00:01,2022-04-29 16:27:10,"Bergamo, attivo il call center per l’assistenza sanitaria dedicata ai minori ucraini",45.756655699999996,9.754219200862249,Lombardia,Bergamo,"[""Valid/Accettato"",""Services"",""healthcare"",""Children""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bergamo"",""state"":""Lombardia""},""boundingbox"":[""45.4221614"",""46.0912018"",""9.4450549"",""10.2627486""],""class"":""boundary"",""display_name"":""Bergamo, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7460458381268803,""lat"":""45.756655699999996"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.754219200862249"",""osm_id"":44996,""osm_type"":""relation"",""place_id"":284895216,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Da luned\u00ec 4 aprile prende avvio il percorso dedicato ai minori in fuga dal conflitto in Ucraina con l\u2019intervento di 70 pediatri distribuiti sul territorio provinciale, che su prenotazione, assicureranno  l\u2019assistenza sanitaria necessaria ai ragazzi. All\u2019attuale organizzazione, predisposta dalla rete territoriale bergamasca che prevede una prima presa in carico presso i tre hotspot, si affianca quindi un vero e proprio percorso integrativo territoriale dedicato ai minori, grazie ai 70 pediatri di famiglia che hanno aderito in maniera volontaria al progetto. \nI genitori/tutori del minore potranno prenotare le visite e l\u2019assistenza avvalendosi dell\u2019aiuto di un call center appositamente istituito, al numero 366.6683583 attivo dal luned\u00ec al venerd\u00ec dalle ore 10.00 alle ore 18.00 e gestito da volontari coordinati dal Centro di Servizio per il Volontariato di Bergamo.\n\nRicordiamo che rimangono attivi i 3 hotspot sul territorio:\n- ASST PAPA Giovanni XXIII Ospedale Papa Giovanni XXIII, Piazza OMS, 1 24127 Bergamo (presso la tensostruttura adiacente al Pronto Soccorso) \u2013 dalle 8.00 alle 16.00 dal Luned\u00ec al Sabato;\n- ASST BERGAMO EST Ambulatori via Donizetti, 1 24068 Seriate \u2013 dalle 8.00 alle 20.00 dal Luned\u00ec al Sabato;\n- ASST BERGAMO OVEST Palaspir\u00e0, via Sant\u2019Antonio, 24050 Spirano \u2013 dalle 8.00 alle 16.00 dal Luned\u00ec al Sabato."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Csv Bergamo"",""recipients"":""Minori ucraini"",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Bergamo, attivo il call center per l\u2019assistenza sanitaria dedicata ai minori ucraini"",""url"":""https://www.csvlombardia.it/bergamo/post/emergenza-ucraina-da-lunedi-4-aprile-attivo-il-call-center-per-lassistenza-sanitaria-dedicata-ai-minori-grazie-a-70-pediatri-volontari-e-altrettanti-cittadini-che-si-sono-messi-volontariamente-a-di/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: true
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: false
+offerFromWho: Csv Bergamo
+title: Bergamo, attivo il call center per l’assistenza sanitaria dedicata ai minori
+  ucraini
+recipients: Minori ucraini
+description: ""Da lunedì 4 aprile prende avvio il percorso dedicato ai minori in fuga\
+  \ dal conflitto in Ucraina con l’intervento di 70 pediatri distribuiti sul territorio\
+  \ provinciale, che su prenotazione, assicureranno  l’assistenza sanitaria necessaria\
+  \ ai ragazzi. All’attuale organizzazione, predisposta dalla rete territoriale bergamasca\
+  \ che prevede una prima presa in carico presso i tre hotspot, si affianca quindi\
+  \ un vero e proprio percorso integrativo territoriale dedicato ai minori, grazie\
+  \ ai 70 pediatri di famiglia che hanno aderito in maniera volontaria al progetto.\
+  \ \nI genitori/tutori del minore potranno prenotare le visite e l’assistenza avvalendosi\
+  \ dell’aiuto di un call center appositamente istituito, al numero 366.6683583 attivo\
+  \ dal lunedì al venerdì dalle ore 10.00 alle ore 18.00 e gestito da volontari coordinati\
+  \ dal Centro di Servizio per il Volontariato di Bergamo.\n\nRicordiamo che rimangono\
+  \ attivi i 3 hotspot sul territorio:\n- ASST PAPA Giovanni XXIII Ospedale Papa Giovanni\
+  \ XXIII, Piazza OMS, 1 24127 Bergamo (presso la tensostruttura adiacente al Pronto\
+  \ Soccorso) – dalle 8.00 alle 16.00 dal Lunedì al Sabato;\n- ASST BERGAMO EST Ambulatori\
+  \ via Donizetti, 1 24068 Seriate – dalle 8.00 alle 20.00 dal Lunedì al Sabato;\n\
+  - ASST BERGAMO OVEST Palaspirà, via Sant’Antonio, 24050 Spirano – dalle 8.00 alle\
+  \ 16.00 dal Lunedì al Sabato.""
+url: https://www.csvlombardia.it/bergamo/post/emergenza-ucraina-da-lunedi-4-aprile-attivo-il-call-center-per-lassistenza-sanitaria-dedicata-ai-minori-grazie-a-70-pediatri-volontari-e-altrettanti-cittadini-che-si-sono-messi-volontariamente-a-di/
+address:
+  mode: autocomplete
+  address:
+    place_id: 284895216
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 44996
+    boundingbox:
+    - '45.4221614'
+    - '46.0912018'
+    - '9.4450549'
+    - '10.2627486'
+    lat: '45.756655699999996'
+    lon: '9.754219200862249'
+    display_name: Bergamo, Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7460458381268803
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Bergamo
+      state: Lombardia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/738,1221196147,2022-04-30 08:59:37,2022-04-29 16:22:06,Bando Fondazione Pro Valtellina per progetti a sostegno dei profughi ucraini nella provincia di Sondrio,46.1695919,9.8742587,Lombardia,Sondrio,"[""Valid/Accettato"",""News"",""hospitality""]",,,"{""Posizione"":""46.1695919 9.8742587"",""description"":""Saranno sostenuti progetti per il supporto e l\u2019accoglienza di chi fugge dalla guerra realizzati sul territorio della provincia di Sondrio da istituzioni e/o enti del Terzo Settore con competenze nel coordinamento e nell\u2019attuazione di iniziative di accoglienza. Sar\u00e0 possibile sostenere anche, attraverso le istituzioni ed enti sopra indicati, esperienze di accoglienza spontanea da parte di persone ucraine gi\u00e0 residenti sul territorio che si sono prodigate per accogliere familiari e parenti in fuga dalla guerra.\nSi invitano le organizzazioni proponenti,  in fase di stesura del progetto, a prendere contatti con gli uffici della Fondazione Pro Valtellina Onlus  in modo da confrontarsi preventivamente  per presentare progetti in linea con gli obiettivi e corredati da documentazione corretta ed esaustiva.\nLe domande dovranno essere presentate mediante procedura online accedendo all\u2019area riservata del sito della Fondazione Pro Valtellina."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.provaltellina.org/altre-iniziative/"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Sondrio"",""municipality"":""Comunit\u00e0 montana della Valtellina di Sondrio"",""postcode"":""23100"",""road"":""Via Trieste"",""state"":""Lombardia"",""town"":""Sondrio""},""boundingbox"":[""46.1691872"",""46.1700735"",""9.8723272"",""9.8765571""],""class"":""highway"",""display_name"":""Via Trieste, Sondrio, Comunit\u00e0 montana della Valtellina di Sondrio, Sondrio, Lombardia, 23100, Italia"",""importance"":0.61,""lat"":""46.1695919"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.8742587"",""osm_id"":143767480,""osm_type"":""way"",""place_id"":136433680,""type"":""residential""},""mode"":""autocomplete""},""submit"":true,""title"":""Bando Fondazione Pro Valtellina per progetti a sostegno dei profughi ucraini nella provincia di Sondrio""}","<pre><yamldata>
+title: Bando Fondazione Pro Valtellina per progetti a sostegno dei profughi ucraini
+  nella provincia di Sondrio
+description: 'Saranno sostenuti progetti per il supporto e l’accoglienza di chi fugge
+  dalla guerra realizzati sul territorio della provincia di Sondrio da istituzioni
+  e/o enti del Terzo Settore con competenze nel coordinamento e nell’attuazione di
+  iniziative di accoglienza. Sarà possibile sostenere anche, attraverso le istituzioni
+  ed enti sopra indicati, esperienze di accoglienza spontanea da parte di persone
+  ucraine già residenti sul territorio che si sono prodigate per accogliere familiari
+  e parenti in fuga dalla guerra.
+
+  Si invitano le organizzazioni proponenti,  in fase di stesura del progetto, a prendere
+  contatti con gli uffici della Fondazione Pro Valtellina Onlus  in modo da confrontarsi
+  preventivamente  per presentare progetti in linea con gli obiettivi e corredati
+  da documentazione corretta ed esaustiva.
+
+  Le domande dovranno essere presentate mediante procedura online accedendo all’area
+  riservata del sito della Fondazione Pro Valtellina.'
+link: https://www.provaltellina.org/altre-iniziative/
+location:
+  mode: autocomplete
+  address:
+    place_id: 136433680
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 143767480
+    boundingbox:
+    - '46.1691872'
+    - '46.1700735'
+    - '9.8723272'
+    - '9.8765571'
+    lat: '46.1695919'
+    lon: '9.8742587'
+    display_name: Via Trieste, Sondrio, Comunità montana della Valtellina di Sondrio,
+      Sondrio, Lombardia, 23100, Italia
+    class: highway
+    type: residential
+    importance: 0.61
+    address:
+      road: Via Trieste
+      town: Sondrio
+      municipality: Comunità montana della Valtellina di Sondrio
+      county: Sondrio
+      state: Lombardia
+      postcode: '23100'
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 46.1695919 9.8742587
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/737,1221180297,2022-04-30 08:58:35,2022-04-29 16:14:16,"Trentino, online guida per l'accesso al lavoro per i profughi ucraini (in italiano e ucraino)",46.1030443,11.129840331695068,Trentino-Alto Adige,Trento,"[""Valid/Accettato"",""Services"",""job""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-TN"",""country"":""Italia"",""country_code"":""it"",""county"":""Provincia di Trento"",""state"":""Trentino-Alto Adige""},""boundingbox"":[""45.6728669"",""46.5332188"",""10.4522048"",""11.9628023""],""class"":""boundary"",""display_name"":""Provincia di Trento, Trentino-Alto Adige, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7380075390399246,""lat"":""46.1030443"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.129840331695068"",""osm_id"":45756,""osm_type"":""relation"",""place_id"":283226448,""type"":""administrative""},""mode"":""autocomplete""},""description"":""L'agenzia del Lavoro in Trentino ha predisposto una Guida all\u2019accesso ai servizi per la ricerca di lavoro rivolta ai cittadini dell\u2019Ucraina. La guida (disponibile in lingua italiana e in lingua ucraina) rappresenta una vera e propria bussola che facilita l\u2019accesso ai servizi e semplifica la ricerca di occupazione, valorizzando le proprie competenze in relazione alle opportunit\u00e0 offerte dal mercato del lavoro in provincia di Trento.\nLa guida \u00e8 disponibile anche in lingua ucraina, vedi link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Agenzia del Lavoro in Trentino"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":true,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Trentino, online guida per l'accesso al lavoro per i profughi ucraini (in italiano e ucraino)"",""url"":""https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/2527/PA-Trento-una-guida-per-laccesso-al-lavoro-per-i-profughi-Ucraini""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: true
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Agenzia del Lavoro in Trentino
+title: Trentino, online guida per l'accesso al lavoro per i profughi ucraini (in italiano
+  e ucraino)
+recipients: ''
+description: 'L''agenzia del Lavoro in Trentino ha predisposto una Guida all’accesso
+  ai servizi per la ricerca di lavoro rivolta ai cittadini dell’Ucraina. La guida
+  (disponibile in lingua italiana e in lingua ucraina) rappresenta una vera e propria
+  bussola che facilita l’accesso ai servizi e semplifica la ricerca di occupazione,
+  valorizzando le proprie competenze in relazione alle opportunità offerte dal mercato
+  del lavoro in provincia di Trento.
+
+  La guida è disponibile anche in lingua ucraina, vedi link.'
+url: https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/2527/PA-Trento-una-guida-per-laccesso-al-lavoro-per-i-profughi-Ucraini
+address:
+  mode: autocomplete
+  address:
+    place_id: 283226448
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 45756
+    boundingbox:
+    - '45.6728669'
+    - '46.5332188'
+    - '10.4522048'
+    - '11.9628023'
+    lat: '46.1030443'
+    lon: '11.129840331695068'
+    display_name: Provincia di Trento, Trentino-Alto Adige, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7380075390399246
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Provincia di Trento
+      ISO3166-2-lvl6: IT-TN
+      state: Trentino-Alto Adige
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/601,1202430696,2022-04-29 13:48:27,2022-04-12 21:50:09,Accordo tra Confindustria e sindacati per donare ore di lavoro a supporto dell’emergenza Ucraina ,,,,,"[""Valid/Accettato"",""News"",""fundraising"",""telegram-channel"",""tweet""]",,,"{""Posizione"":null,""description"":""Un'ora di lavoro da parte del lavoratore, in parallelo (e congiuntamente) un'ora donata da parte dell'azienda che confluiranno in un fondo di solidariet\u00e0 per il popolo ucraino. Siglato pochi giorni fa a livello nazionale tra Confindustria e Cgil, Cisl e Uil l'accordo per far fronte alla drammatica situazione che la guerra in Ucraina sta causando. Si tratta di un contributo su base volontaria: qualora il lavoratore intendesse aderire all'iniziativa, lo comunicher\u00e0 all'azienda e questa far\u00e0 scattare il contributo equivalente. I contributi verranno raccolti tramite il c/c con Codice IBAN: IT57C0103003201000008800015 attivato presso Monte dei Paschi di Siena intestato a: CGIL CISL UIL E CONFINDUSTRIA FONDO SOLIDARIET\u00c0 POPOLO UCRAINO, con la firma congiunta di un rappresentante per organizzazione appositamente delegato dal rappresentante legale di ciascuna di queste."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.cgil.it/speciali/2022/europe-for-peace/2022/03/30/news/cgil_cisl_uil_e_confindustria_sottoscrivono_accordo_di_solidarieta_per_il_popolo_ucraino-1997088/"",""location"":{""address"":{""address"":{""city"":null,""country"":null,""country_code"":null,""county"":null,""postcode"":null,""state"":null},""boundingbox"":null,""class"":null,""display_name"":null,""icon"":null,""importance"":null,""licence"":null,""osm_id"":null,""osm_type"":null,""place_id"":null,""type"":null},""mode"":""autocomplete""},""submit"":true,""title"":""Accordo tra Confindustria e sindacati per donare ore di lavoro a supporto dell\u2019emergenza emergenza in Ucraina""}","<pre><yamldata>
 title: Accordo tra Confindustria e sindacati per donare ore di lavoro a supporto
   dell’emergenza emergenza in Ucraina
