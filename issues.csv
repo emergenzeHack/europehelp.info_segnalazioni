@@ -1,4 +1,57 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/756,1221936124,2022-04-30 22:41:16,2022-04-30 22:40:59,A Como la rete Supporto Attivo distribuisce pacchi alimentari ai rifugiati ucraini,45.78996,9.0753196,Lombardia,Como,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-CO"",""city"":""Como"",""country"":""Italia"",""country_code"":""it"",""county"":""Como"",""postcode"":""22100"",""road"":""Via Alfonso Lissi"",""state"":""Lombardia"",""suburb"":""Rebbio""},""boundingbox"":[""45.7883952"",""45.7913741"",""9.0743314"",""9.075801""],""class"":""highway"",""display_name"":""Via Alfonso Lissi, Rebbio, Como, Lombardia, 22100, Italia"",""importance"":0.41000000000000003,""lat"":""45.78996"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.0753196"",""osm_id"":189506105,""osm_type"":""way"",""place_id"":145619355,""type"":""residential""},""mode"":""autocomplete""},""description"":""Ogni sabato la rete Supporto Attivo Como, in via Lissi n.6, a Rebbio consegna pacchi alimentari ai profughi ucraini. Dalle ore 8.30 alle ore 12.00 circa."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Supporto Attivo Como"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Como la rete Supporto Attivo distribuisce pacchi alimentari ai rifugiati ucraini"",""url"":""https://t.me/uniscitiallarete/15""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Supporto Attivo Como
+title: A Como la rete Supporto Attivo distribuisce pacchi alimentari ai rifugiati
+  ucraini
+recipients: ''
+description: Ogni sabato la rete Supporto Attivo Como, in via Lissi n.6, a Rebbio
+  consegna pacchi alimentari ai profughi ucraini. Dalle ore 8.30 alle ore 12.00 circa.
+url: https://t.me/uniscitiallarete/15
+address:
+  mode: autocomplete
+  address:
+    place_id: 145619355
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 189506105
+    boundingbox:
+    - '45.7883952'
+    - '45.7913741'
+    - '9.0743314'
+    - '9.075801'
+    lat: '45.78996'
+    lon: '9.0753196'
+    display_name: Via Alfonso Lissi, Rebbio, Como, Lombardia, 22100, Italia
+    class: highway
+    type: residential
+    importance: 0.41000000000000003
+    address:
+      road: Via Alfonso Lissi
+      suburb: Rebbio
+      city: Como
+      county: Como
+      ISO3166-2-lvl6: IT-CO
+      state: Lombardia
+      postcode: '22100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/755,1221933221,2022-04-30 22:32:17,2022-04-30 22:20:11,"Venezia e Veneto orientale, abbonamento gratuito per i trasporti pubblici di ATVO per i profughi ucraini",45.4371908,12.3345898,Veneto,Venezia,"[""Valid/Accettato"",""Services"",""transport""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""city"":""Venezia"",""country"":""Italia"",""country_code"":""it"",""county"":""Venezia"",""state"":""Veneto""},""boundingbox"":[""45.2312466"",""45.5779981"",""12.1668349"",""12.5965709""],""class"":""boundary"",""display_name"":""Venezia, Veneto, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8210194898827333,""lat"":""45.4371908"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.3345898"",""osm_id"":44741,""osm_type"":""relation"",""place_id"":283399921,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Tra le iniziative messe in atto per rispondere all'Emergenza Ucraina e per dare supporto ai profughi gi\u00e0 presenti sul territorio della Citt\u00e0 Metropolitana di Venezia, vi \u00e8 la possibilit\u00e0 per il cittadino ucraino ospitato di ottenere un abbonamento gratuito al trasporto pubblico ATVO per il Veneto Orientale.\n\nPer disporre dell'abbonamento, \u00e8 necessario che l'ospitante italiano del cittadino ucraino si registri sul portale web della Citt\u00e0 Metropolitana all'indirizzo https://cittametropolitana.ve.it/uffici-servizi/ufficio-comune-metropolitano-emergenza-ucraina.html?fbclid=IwAR2RG2si_Z1MhzmkkmzH8AmCwNZSKg3T2X-lkgTP9oDu2WPQafA-T_9GNKw, completando la procedura per la dichiarazione di ospitalit\u00e0 che prevede l'inserimento anche di un indirizzo e-mail valido presso il quale, una volta completato l'iter, verr\u00e0 inviato il \u201cpass\u201d che dovr\u00e0 essere presentato presso gli uffici dell'Azienda Trasporti ATVO. \n\nIn ogni caso, all'ospitante verr\u00e0 inviata una comunicazione a mezzo posta elettronica dove saranno dettagliate le azioni da intraprendere per permettere al cittadino ucraino ospitato di ricevere la carta trasporti gratuita."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Atvo - Citt\u00e0 Metropolitana di Venezia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""Venezia e Veneto orientale, abbonamento gratuito per i trasporti pubblici di ATVO per i profughi ucraini"",""url"":""https://www.facebook.com/124392952292478/posts/879888800076219/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
