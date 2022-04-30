@@ -1,4 +1,154 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/751,1221926316,2022-04-30 21:56:05,2022-04-30 21:36:43,Su VolontaRimini info e contatti utili per accoglienza e supporto dei rifugiati ucraini a Forlì - Cesena,44.0227193,12.0141036,Emilia-Romagna,Forli'-Cesena,"[""Valid/Accettato"",""Services"",""Legal"",""useful contact"",""materialGoods"",""hospitality"",""healthcare"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""country"":""Italia"",""country_code"":""it"",""province"":""Forl\u00ec-Cesena"",""state"":""Emilia-Romagna""},""boundingbox"":[""43.7405381"",""44.3306793"",""11.645549"",""12.4577806""],""class"":""boundary"",""display_name"":""Forl\u00ec-Cesena, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8176513842267261,""lat"":""44.0227193"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.0141036"",""osm_id"":42609,""osm_type"":""relation"",""place_id"":284914007,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Sul sito di VolontaRimini tutte le info e i contatti utili per l\u2019accoglienza e il supporto dei rifugiati ucraini a Forl\u00ec - Cesena e altri comuni del territorio: ospitalit\u00e0, beni di prima necessit\u00e0, protezione temporanea, assistenza sanitaria, inserimento scolastico, mediazione linguistica e altro"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""VolontaRimini"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":true,""disability"":false,""education"":true,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Su VolontaRimini info e contatti utili per accoglienza e supporto dei rifugiati ucraini a Forl\u00ec e Cesena"",""url"":""http://www.volontarimini.it/it/articoli/2022/03/emergenza-ucraina-a-forl-cesena.html""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: true
+  transport: false
+  healthcare: true
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: true
+offerFromWho: VolontaRimini
+title: Su VolontaRimini info e contatti utili per accoglienza e supporto dei rifugiati
+  ucraini a Forlì e Cesena
+recipients: ''
+description: 'Sul sito di VolontaRimini tutte le info e i contatti utili per l’accoglienza
+  e il supporto dei rifugiati ucraini a Forlì - Cesena e altri comuni del territorio:
+  ospitalità, beni di prima necessità, protezione temporanea, assistenza sanitaria,
+  inserimento scolastico, mediazione linguistica e altro'
+url: http://www.volontarimini.it/it/articoli/2022/03/emergenza-ucraina-a-forl-cesena.html
+address:
+  mode: autocomplete
+  address:
+    place_id: 284914007
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 42609
+    boundingbox:
+    - '43.7405381'
+    - '44.3306793'
+    - '11.645549'
+    - '12.4577806'
+    lat: '44.0227193'
+    lon: '12.0141036'
+    display_name: Forlì-Cesena, Emilia-Romagna, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8176513842267261
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      province: Forlì-Cesena
+      state: Emilia-Romagna
+      ISO3166-2-lvl4: IT-45
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/750,1221925241,2022-04-30 21:55:50,2022-04-30 21:29:56,Su VolontaRimini info e contatti utili per accoglienza e supporto dei rifugiati ucraini a Rimini e provincia ,43.9470982,12.630768610516004,Emilia-Romagna,Rimini,"[""Valid/Accettato"",""Services"",""Legal"",""useful contact"",""materialGoods"",""hospitality"",""healthcare"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""ISO3166-2-lvl6"":""IT-RN"",""country"":""Italia"",""country_code"":""it"",""county"":""Rimini"",""state"":""Emilia-Romagna""},""boundingbox"":[""43.7318997"",""44.1622868"",""12.0961656"",""12.7559006""],""class"":""boundary"",""display_name"":""Rimini, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7275060732242618,""lat"":""43.9470982"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.630768610516004"",""osm_id"":42661,""osm_type"":""relation"",""place_id"":283529298,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Sul sito di VolontaRimini - Centro Servizi per il Volontariato info info e contatti utili per l\u2019accoglienza e il supporto dei rifugiati ucraini a Rimini e provincia: assistenza sanitaria, protezione temporanea, alloggio, beni di prima necessit\u00e0, inserimento scolastico e altro."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Volontarimini"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":true,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Su VolontaRimini info e contatti utili per accoglienza e supporto dei rifugiati ucraini a Rimini e provincia"",""url"":""http://www.volontarimini.it/it/articoli/2022/03/prefettura-di-rimini-crisi-ucraina.html""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: true
+  transport: false
+  healthcare: true
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Volontarimini
+title: Su VolontaRimini info e contatti utili per accoglienza e supporto dei rifugiati
+  ucraini a Rimini e provincia
+recipients: ''
+description: 'Sul sito di VolontaRimini - Centro Servizi per il Volontariato info
+  info e contatti utili per l’accoglienza e il supporto dei rifugiati ucraini a Rimini
+  e provincia: assistenza sanitaria, protezione temporanea, alloggio, beni di prima
+  necessità, inserimento scolastico e altro.'
+url: http://www.volontarimini.it/it/articoli/2022/03/prefettura-di-rimini-crisi-ucraina.html
+address:
+  mode: autocomplete
+  address:
+    place_id: 283529298
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 42661
+    boundingbox:
+    - '43.7318997'
+    - '44.1622868'
+    - '12.0961656'
+    - '12.7559006'
+    lat: '43.9470982'
+    lon: '12.630768610516004'
+    display_name: Rimini, Emilia-Romagna, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7275060732242618
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Rimini
+      ISO3166-2-lvl6: IT-RN
+      state: Emilia-Romagna
+      ISO3166-2-lvl4: IT-45
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/752,1221928844,2022-04-30 21:54:34,2022-04-30 21:53:48,"Comune di Castelfranco Emilia, sconti Imu (fino a esenzione totale) per chi mette a disposizione immobili sfitti per accogliere profughi ucraini ",44.5962481,11.0530153,Emilia-Romagna,Modena,"[""Valid/Accettato"",""News"",""hospitality""]",,,"{""Posizione"":""44.5962481 11.0530153"",""description"":""Il Consiglio Comunale di Castelfranco Emilia il 14 marzo ha approvato all\u2019unanimit\u00e0 l\u2019ordine del giorno dei gruppi di maggioranza Pd e lista civica Idee in Comune che impegna la giunta e il sindaco a prevedere sconti sull\u2019Imu, fino all\u2019esenzione totale, per chi metter\u00e0 a disposizione immobili sfitti per accogliere i profughi ucraini."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.lapressa.it/notiziario/la_provincia/castelfranco-sconti-imu-per-chi-accoglie-profughi"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""ISO3166-2-lvl6"":""IT-MO"",""country"":""Italia"",""country_code"":""it"",""county"":""Modena"",""house_number"":""8"",""municipality"":""Unione dei comuni del Sorbara"",""postcode"":""41013"",""road"":""Piazza della Vittoria"",""state"":""Emilia-Romagna"",""town"":""Castelfranco Emilia""},""boundingbox"":[""44.5961981"",""44.5962981"",""11.0529653"",""11.0530653""],""class"":""place"",""display_name"":""8, Piazza della Vittoria, Castelfranco Emilia, Unione dei comuni del Sorbara, Modena, Emilia-Romagna, 41013, Italia"",""importance"":0.721,""lat"":""44.5962481"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.0530153"",""osm_id"":4771026823,""osm_type"":""node"",""place_id"":54404832,""type"":""house""},""mode"":""autocomplete""},""submit"":true,""title"":""Comune di Castelfranco Emilia, sconti Imu (fino a esenzione totale) per chi mette a disposizione immobili sfitti per accogliere profughi ucraini""}","<pre><yamldata>
+title: Comune di Castelfranco Emilia, sconti Imu (fino a esenzione totale) per chi
+  mette a disposizione immobili sfitti per accogliere profughi ucraini
+description: Il Consiglio Comunale di Castelfranco Emilia il 14 marzo ha approvato
+  all’unanimità l’ordine del giorno dei gruppi di maggioranza Pd e lista civica Idee
+  in Comune che impegna la giunta e il sindaco a prevedere sconti sull’Imu, fino all’esenzione
+  totale, per chi metterà a disposizione immobili sfitti per accogliere i profughi
+  ucraini.
+link: https://www.lapressa.it/notiziario/la_provincia/castelfranco-sconti-imu-per-chi-accoglie-profughi
+location:
+  mode: autocomplete
+  address:
+    place_id: 54404832
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 4771026823
+    boundingbox:
+    - '44.5961981'
+    - '44.5962981'
+    - '11.0529653'
+    - '11.0530653'
+    lat: '44.5962481'
+    lon: '11.0530153'
+    display_name: 8, Piazza della Vittoria, Castelfranco Emilia, Unione dei comuni
+      del Sorbara, Modena, Emilia-Romagna, 41013, Italia
+    class: place
+    type: house
+    importance: 0.721
+    address:
+      house_number: '8'
+      road: Piazza della Vittoria
+      town: Castelfranco Emilia
+      municipality: Unione dei comuni del Sorbara
+      county: Modena
+      ISO3166-2-lvl6: IT-MO
+      state: Emilia-Romagna
+      ISO3166-2-lvl4: IT-45
+      postcode: '41013'
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 44.5962481 11.0530153
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/748,1221915571,2022-04-30 21:38:15,2022-04-30 20:33:41,A Napoli corsi gratuiti di italiano per rifugiati ucraini (adulti e bambini) promossi da Scuola di Pace,40.8581128,14.2602462,Campania,Napoli,"[""Valid/Accettato"",""Services"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-72"",""ISO3166-2-lvl6"":""IT-NA"",""city"":""Napoli"",""country"":""Italia"",""country_code"":""it"",""county"":""Napoli"",""neighbourhood"":""Rione Sanit\u00e0"",""postcode"":""80100"",""road"":""Via Foria"",""state"":""Campania"",""suburb"":""Municipalit\u00e0 3""},""boundingbox"":[""40.8552813"",""40.8616836"",""14.2554404"",""14.2649022""],""class"":""highway"",""display_name"":""Via Foria, Rione Sanit\u00e0, Municipalit\u00e0 3, Napoli, Campania, 80100, Italia"",""importance"":0.3,""lat"":""40.8581128"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.2602462"",""osm_id"":330083464,""osm_type"":""way"",""place_id"":179706993,""type"":""primary""},""mode"":""autocomplete""},""description"":""Scuola di pace organizza a Napoli (via Foria 93) corsi di italiano per rifugiati ucraini.\n\nCorsi per adulti\nlun/mercoled\u00ec\n\ud83d\udd39 ora 17:30-19:30\n\nCorsi per mamme e bambini\nlun/gioved\u00ec\n\ud83d\udd39 ora 9:30\n\nPer iscriversi ai corsi \u00e8 necessario presentarsi a scuola nei giorni di lezione specificati.\n\n\ud83d\udd35\u041a\u0443\u0440\u0441\u044b \u0418\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u043e\u0433\u043e \n\n\ud83d\udd39\u0413\u043e\u0440\u043e\u0434 \u041d\u0435\u0430\u043f\u043e\u043b\u044c \n\u0410\u0434\u0440\u0435\u0441 via Foria 93\n\n\u041a\u0443\u0440\u0441\u044b \u0434\u043b\u044f \u0432\u0437\u0440\u043e\u0441\u043b\u044b\u0445 \n\u041f\u043e\u043d/\u0441\u0440\u0435\u0434\u0430 \n\ud83d\udd39\u0432\u0440\u0435\u043c\u044f 17:30-19:30\n\n\u041a\u0443\u0440\u0441\u044b \u0434\u043b\u044f \u043c\u0430\u043c \u0438 \u0434\u0435\u0442\u043e\u043a \n\u041f\u043e\u043d/\u0447\u0435\u0442\u0432\u0435\u0440\u0433\n\ud83d\udd39\u0432\u0440\u0435\u043c\u044f 9:30\n\n\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e \u0431\u044b \u0437\u0430\u043f\u0438\u0441\u0430\u0442\u044c\u0441\u044f \u043d\u0430 \u043a\u0443\u0440\u0441\u044b, \u043d\u0443\u0436\u043d\u043e \u043f\u0440\u0438\u0439\u0442\u0438 \u0432 \u0448\u043a\u043e\u043b\u0443 \u0432 \u0443\u043a\u0430\u0437\u0430\u043d\u043d\u044b\u0435 \u0434\u043d\u0438 \u0437\u0430\u043d\u044f\u0442\u0438\u0439.\n\n\nInfo: \n333 3963476\n081 7373462\nscuoladipace1@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Scuola di Pace"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Napoli corsi gratuiti di italiano per rifugiati ucraini (adulti e bambini) promossi da Scuola di Pace"",""url"":""https://t.me/UAMAMAITALY/116""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -118,111 +268,6 @@ address:
       state: Emilia-Romagna
       ISO3166-2-lvl4: IT-45
       postcode: '47838'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/750,1221925241,2022-04-30 21:37:39,2022-04-30 21:29:56,Su VolontaRimini info e contatti utili per accoglienza e supporto dei rifugiati ucraini a Rimini e provincia ,43.9470982,12.630768610516004,Emilia-Romagna,Rimini,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""hospitality"",""healthcare"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""ISO3166-2-lvl6"":""IT-RN"",""country"":""Italia"",""country_code"":""it"",""county"":""Rimini"",""state"":""Emilia-Romagna""},""boundingbox"":[""43.7318997"",""44.1622868"",""12.0961656"",""12.7559006""],""class"":""boundary"",""display_name"":""Rimini, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7275060732242618,""lat"":""43.9470982"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.630768610516004"",""osm_id"":42661,""osm_type"":""relation"",""place_id"":283529298,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Sul sito di VolontaRimini - Centro Servizi per il Volontariato info info e contatti utili per l\u2019accoglienza e il supporto dei rifugiati ucraini a Rimini e provincia: assistenza sanitaria, protezione temporanea, alloggio, beni di prima necessit\u00e0, inserimento scolastico e altro."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Volontarimini"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":true,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Su VolontaRimini info e contatti utili per accoglienza e supporto dei rifugiati ucraini a Rimini e provincia"",""url"":""http://www.volontarimini.it/it/articoli/2022/03/prefettura-di-rimini-crisi-ucraina.html""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: true
-  transport: false
-  healthcare: true
-  Legal: true
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: true
-offerFromWho: Volontarimini
-title: Su VolontaRimini info e contatti utili per accoglienza e supporto dei rifugiati
-  ucraini a Rimini e provincia
-recipients: ''
-description: 'Sul sito di VolontaRimini - Centro Servizi per il Volontariato info
-  info e contatti utili per l’accoglienza e il supporto dei rifugiati ucraini a Rimini
-  e provincia: assistenza sanitaria, protezione temporanea, alloggio, beni di prima
-  necessità, inserimento scolastico e altro.'
-url: http://www.volontarimini.it/it/articoli/2022/03/prefettura-di-rimini-crisi-ucraina.html
-address:
-  mode: autocomplete
-  address:
-    place_id: 283529298
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 42661
-    boundingbox:
-    - '43.7318997'
-    - '44.1622868'
-    - '12.0961656'
-    - '12.7559006'
-    lat: '43.9470982'
-    lon: '12.630768610516004'
-    display_name: Rimini, Emilia-Romagna, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7275060732242618
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      county: Rimini
-      ISO3166-2-lvl6: IT-RN
-      state: Emilia-Romagna
-      ISO3166-2-lvl4: IT-45
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/751,1221926316,2022-04-30 21:37:23,2022-04-30 21:36:43,Su VolontaRimini info e contatti utili per accoglienza e supporto dei rifugiati ucraini a Forlì - Cesena,44.0227193,12.0141036,Emilia-Romagna,Forli'-Cesena,"[""Valid/Accettato"",""Services"",""Legal"",""materialGoods"",""hospitality"",""healthcare"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""country"":""Italia"",""country_code"":""it"",""province"":""Forl\u00ec-Cesena"",""state"":""Emilia-Romagna""},""boundingbox"":[""43.7405381"",""44.3306793"",""11.645549"",""12.4577806""],""class"":""boundary"",""display_name"":""Forl\u00ec-Cesena, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8176513842267261,""lat"":""44.0227193"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.0141036"",""osm_id"":42609,""osm_type"":""relation"",""place_id"":284914007,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Sul sito di VolontaRimini tutte le info e i contatti utili per l\u2019accoglienza e il supporto dei rifugiati ucraini a Forl\u00ec - Cesena e altri comuni del territorio: ospitalit\u00e0, beni di prima necessit\u00e0, protezione temporanea, assistenza sanitaria, inserimento scolastico, mediazione linguistica e altro"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""VolontaRimini"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":true,""disability"":false,""education"":true,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Su VolontaRimini info e contatti utili per accoglienza e supporto dei rifugiati ucraini a Forl\u00ec e Cesena"",""url"":""http://www.volontarimini.it/it/articoli/2022/03/emergenza-ucraina-a-forl-cesena.html""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: true
-  transport: false
-  healthcare: true
-  Legal: true
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: true
-  disability: false
-  women: false
-  education: true
-offerFromWho: VolontaRimini
-title: Su VolontaRimini info e contatti utili per accoglienza e supporto dei rifugiati
-  ucraini a Forlì e Cesena
-recipients: ''
-description: 'Sul sito di VolontaRimini tutte le info e i contatti utili per l’accoglienza
-  e il supporto dei rifugiati ucraini a Forlì - Cesena e altri comuni del territorio:
-  ospitalità, beni di prima necessità, protezione temporanea, assistenza sanitaria,
-  inserimento scolastico, mediazione linguistica e altro'
-url: http://www.volontarimini.it/it/articoli/2022/03/emergenza-ucraina-a-forl-cesena.html
-address:
-  mode: autocomplete
-  address:
-    place_id: 284914007
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 42609
-    boundingbox:
-    - '43.7405381'
-    - '44.3306793'
-    - '11.645549'
-    - '12.4577806'
-    lat: '44.0227193'
-    lon: '12.0141036'
-    display_name: Forlì-Cesena, Emilia-Romagna, Italia
-    class: boundary
-    type: administrative
-    importance: 0.8176513842267261
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      province: Forlì-Cesena
-      state: Emilia-Romagna
-      ISO3166-2-lvl4: IT-45
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
