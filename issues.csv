@@ -1,4 +1,123 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/755,1221933221,2022-04-30 22:32:17,2022-04-30 22:20:11,"Venezia e Veneto orientale, abbonamento gratuito per i trasporti pubblici di ATVO per i profughi ucraini",45.4371908,12.3345898,Veneto,Venezia,"[""Valid/Accettato"",""Services"",""transport""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""city"":""Venezia"",""country"":""Italia"",""country_code"":""it"",""county"":""Venezia"",""state"":""Veneto""},""boundingbox"":[""45.2312466"",""45.5779981"",""12.1668349"",""12.5965709""],""class"":""boundary"",""display_name"":""Venezia, Veneto, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8210194898827333,""lat"":""45.4371908"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.3345898"",""osm_id"":44741,""osm_type"":""relation"",""place_id"":283399921,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Tra le iniziative messe in atto per rispondere all'Emergenza Ucraina e per dare supporto ai profughi gi\u00e0 presenti sul territorio della Citt\u00e0 Metropolitana di Venezia, vi \u00e8 la possibilit\u00e0 per il cittadino ucraino ospitato di ottenere un abbonamento gratuito al trasporto pubblico ATVO per il Veneto Orientale.\n\nPer disporre dell'abbonamento, \u00e8 necessario che l'ospitante italiano del cittadino ucraino si registri sul portale web della Citt\u00e0 Metropolitana all'indirizzo https://cittametropolitana.ve.it/uffici-servizi/ufficio-comune-metropolitano-emergenza-ucraina.html?fbclid=IwAR2RG2si_Z1MhzmkkmzH8AmCwNZSKg3T2X-lkgTP9oDu2WPQafA-T_9GNKw, completando la procedura per la dichiarazione di ospitalit\u00e0 che prevede l'inserimento anche di un indirizzo e-mail valido presso il quale, una volta completato l'iter, verr\u00e0 inviato il \u201cpass\u201d che dovr\u00e0 essere presentato presso gli uffici dell'Azienda Trasporti ATVO. \n\nIn ogni caso, all'ospitante verr\u00e0 inviata una comunicazione a mezzo posta elettronica dove saranno dettagliate le azioni da intraprendere per permettere al cittadino ucraino ospitato di ricevere la carta trasporti gratuita."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Atvo - Citt\u00e0 Metropolitana di Venezia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""Venezia e Veneto orientale, abbonamento gratuito per i trasporti pubblici di ATVO per i profughi ucraini"",""url"":""https://www.facebook.com/124392952292478/posts/879888800076219/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: true
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Atvo - Città Metropolitana di Venezia
+title: Venezia e Veneto orientale, abbonamento gratuito per i trasporti pubblici di
+  ATVO per i profughi ucraini
+recipients: ''
+description: ""Tra le iniziative messe in atto per rispondere all'Emergenza Ucraina\
+  \ e per dare supporto ai profughi già presenti sul territorio della Città Metropolitana\
+  \ di Venezia, vi è la possibilità per il cittadino ucraino ospitato di ottenere\
+  \ un abbonamento gratuito al trasporto pubblico ATVO per il Veneto Orientale.\n\n\
+  Per disporre dell'abbonamento, è necessario che l'ospitante italiano del cittadino\
+  \ ucraino si registri sul portale web della Città Metropolitana all'indirizzo https://cittametropolitana.ve.it/uffici-servizi/ufficio-comune-metropolitano-emergenza-ucraina.html?fbclid=IwAR2RG2si_Z1MhzmkkmzH8AmCwNZSKg3T2X-lkgTP9oDu2WPQafA-T_9GNKw,\
+  \ completando la procedura per la dichiarazione di ospitalità che prevede l'inserimento\
+  \ anche di un indirizzo e-mail valido presso il quale, una volta completato l'iter,\
+  \ verrà inviato il “pass” che dovrà essere presentato presso gli uffici dell'Azienda\
+  \ Trasporti ATVO. \n\nIn ogni caso, all'ospitante verrà inviata una comunicazione\
+  \ a mezzo posta elettronica dove saranno dettagliate le azioni da intraprendere\
+  \ per permettere al cittadino ucraino ospitato di ricevere la carta trasporti gratuita.""
+url: https://www.facebook.com/124392952292478/posts/879888800076219/
+address:
+  mode: autocomplete
+  address:
+    place_id: 283399921
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 44741
+    boundingbox:
+    - '45.2312466'
+    - '45.5779981'
+    - '12.1668349'
+    - '12.5965709'
+    lat: '45.4371908'
+    lon: '12.3345898'
+    display_name: Venezia, Veneto, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8210194898827333
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Venezia
+      county: Venezia
+      state: Veneto
+      ISO3166-2-lvl4: IT-34
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/754,1221932312,2022-04-30 22:31:26,2022-04-30 22:13:43,"L’Aquila, bus gratuiti per i profughi ucraini",42.1368853,13.610341022538911,Abruzzo,L'Aquila,"[""Valid/Accettato"",""Services"",""transport""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""L'Aquila"",""state"":""Abruzzo""},""boundingbox"":[""41.6820382"",""42.5912825"",""13.0189718"",""14.2297358""],""class"":""boundary"",""display_name"":""L'Aquila, Abruzzo, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8265055278596534,""lat"":""42.1368853"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.610341022538911"",""osm_id"":167044,""osm_type"":""relation"",""place_id"":283747468,""type"":""administrative""},""mode"":""autocomplete""},""description"":""I profughi ucraini in fuga dalla guerra che hanno trovato ospitalit\u00e0 all\u2019Aquila potranno viaggiare gratuitamente sugli autobus urbani. Lo ha stabilito l\u2019Ama spa che ha recepito l\u2019ordinanza regionale numero 1 del 15 aprile scorso, firmata dal presidente Marco Marsilio, con la quale si garantisce il trasporto gratuito su bus e treni regionali.\nAi fini della verifica dei titoli di viaggio i profughi ucraini devono esibire uno a scelta tra i seguenti documenti: tessera Stp (Straniero Temporaneamente Presente) rilasciata dalla Asl in data successiva al 24 febbraio 2022, permesso di soggiorno per protezione temporanea ex art. 20 del Tui (Testo Unico sull\u2019immigrazione), ricevuta relativa al rilascio del permesso di soggiorno per protezione temporanea ex art. 20 del Tui (Testo Unico sull\u2019immigrazione)."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune L\u2019Aquila - Ama"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""L\u2019Aquila, bus gratuiti per i profughi ucraini"",""url"":""https://www.ilcapoluogo.it/2022/04/27/laquila-per-i-profughi-ucraini-viaggi-gratis-sui-bus-ama/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: true
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Comune L’Aquila - Ama
+title: L’Aquila, bus gratuiti per i profughi ucraini
+recipients: ''
+description: 'I profughi ucraini in fuga dalla guerra che hanno trovato ospitalità
+  all’Aquila potranno viaggiare gratuitamente sugli autobus urbani. Lo ha stabilito
+  l’Ama spa che ha recepito l’ordinanza regionale numero 1 del 15 aprile scorso, firmata
+  dal presidente Marco Marsilio, con la quale si garantisce il trasporto gratuito
+  su bus e treni regionali.
+
+  Ai fini della verifica dei titoli di viaggio i profughi ucraini devono esibire uno
+  a scelta tra i seguenti documenti: tessera Stp (Straniero Temporaneamente Presente)
+  rilasciata dalla Asl in data successiva al 24 febbraio 2022, permesso di soggiorno
+  per protezione temporanea ex art. 20 del Tui (Testo Unico sull’immigrazione), ricevuta
+  relativa al rilascio del permesso di soggiorno per protezione temporanea ex art.
+  20 del Tui (Testo Unico sull’immigrazione).'
+url: https://www.ilcapoluogo.it/2022/04/27/laquila-per-i-profughi-ucraini-viaggi-gratis-sui-bus-ama/
+address:
+  mode: autocomplete
+  address:
+    place_id: 283747468
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 167044
+    boundingbox:
+    - '41.6820382'
+    - '42.5912825'
+    - '13.0189718'
+    - '14.2297358'
+    lat: '42.1368853'
+    lon: '13.610341022538911'
+    display_name: L'Aquila, Abruzzo, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8265055278596534
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: L'Aquila
+      state: Abruzzo
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/753,1221931417,2022-04-30 22:08:22,2022-04-30 22:08:08,A Lucca Croce Verde apre ambulatorio medico gratuito per i profughi ucraini,43.845193,10.5187368,Toscana,Lucca,"[""Valid/Accettato"",""Services"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""ISO3166-2-lvl6"":""IT-LU"",""city"":""Lucca"",""country"":""Italia"",""country_code"":""it"",""county"":""Lucca"",""postcode"":""55100"",""road"":""Viale Castruccio Castracani"",""state"":""Toscana"",""suburb"":""San Concordio"",""village"":""Santissima Annunziata""},""boundingbox"":[""43.8436513"",""43.8465517"",""10.516281"",""10.5209258""],""class"":""highway"",""display_name"":""Viale Castruccio Castracani, San Concordio, Santissima Annunziata, Lucca, Toscana, 55100, Italia"",""importance"":0.51,""lat"":""43.845193"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.5187368"",""osm_id"":156797934,""osm_type"":""way"",""place_id"":137525764,""type"":""primary""},""mode"":""autocomplete""},""description"":""La Croce Verde di Lucca apre un ambulatorio medico gratuito per i profughi ucraini presso la sede centrale dell'associazione, ubicata in Viale Castracani 468/D - Via Romana - trav. II, 95 - 55100 (Lucca). In collaborazione con l'Azienda Usl Toscana nord-ovest, mette a disposizione 7 medici volontari. Tre i giorni di apertura: luned\u00ec - mercoled\u00ec - Venerd\u00ec."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Croce Verde Lucca"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Lucca Croce Verde apre ambulatorio medico gratuito per i profughi ucraini"",""url"":""https://www.comune.lucca.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/23558""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
