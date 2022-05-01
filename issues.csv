@@ -1,4 +1,69 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/760,1222203373,2022-05-01 16:08:18,2022-05-01 16:07:47,"Provincia di Bergamo, trasporti pubblici gratuiti per i rifugiati ucraini fino al 30 giugno 2022",45.7069763,9.709340849871609,Lombardia,Bergamo,"[""Valid/Accettato"",""Services"",""transport""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bergamo"",""road"":""Via Tasso"",""state"":""Lombardia"",""village"":""Gorle""},""boundingbox"":[""45.7068077"",""45.7071417"",""9.7092398"",""9.709504""],""class"":""highway"",""display_name"":""Via Tasso, Gorle, Bergamo, Lombardia, Italia"",""importance"":0.41000000000000003,""lat"":""45.7069763"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.709340849871609"",""osm_id"":185524153,""osm_type"":""way"",""place_id"":145249052,""type"":""unclassified""},""mode"":""autocomplete""},""description"":""Da oggi, venerd\u00ec 29 aprile, i cittadini ucraini in fuga dalla guerra potranno circolare gratuitamente su tutti i mezzi pubblici del territorio bergamasco: l\u2019iniziativa \u00e8 della Provincia insieme all\u2019Agenzia per il trasporto pubblico locale Bacino di Bergamo, alla quale hanno aderito Atb Consorzio, Consorzio Bergamo Trasporti Est \u2013 BTE, Consorzio Bergamo Trasporti Ovest \u2013 BTO, Consorzio Bergamo Trasporti Sud \u2013 BTS, TEB spa.\nTutti i cittadini ucraini giunti in Italia a partire dal 25 febbraio 2022 potranno utilizzare gratuitamente i mezzi pubblici, per il momento fino al 30 giugno 2022. Gli interessati dovranno esibire al personale ispettivo uno dei seguenti documenti rilasciati dalle autorit\u00e0 italiane:\n- PASSAPORTO con timbro d\u2019ingresso successivo al 25 febbraio 2022\n- TESSERA SANITARIA PROVVISORIA \u2013 rilasciata da ASST dopo il 25 febbraio 2022\n- PERMESSO DI SOGGIORNO PROVVISORIO \u2013 rilasciato dopo il 25 febbraio 2022"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Provincia di Bergamo - Agenzia Trasporti pubblici locale Bergamo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""Provincia di Bergamo, trasporti pubblici gratuiti per i rifugiati ucraini fino al 30 giugno 2022"",""url"":""https://myvalley.it/2022/04/trasporto-pubblico-gratuito-per-i-profughi-ucraini-sul-territorio-bergamasco/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: true
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Provincia di Bergamo - Agenzia Trasporti pubblici locale Bergamo
+title: Provincia di Bergamo, trasporti pubblici gratuiti per i rifugiati ucraini fino
+  al 30 giugno 2022
+recipients: ''
+description: 'Da oggi, venerdì 29 aprile, i cittadini ucraini in fuga dalla guerra
+  potranno circolare gratuitamente su tutti i mezzi pubblici del territorio bergamasco:
+  l’iniziativa è della Provincia insieme all’Agenzia per il trasporto pubblico locale
+  Bacino di Bergamo, alla quale hanno aderito Atb Consorzio, Consorzio Bergamo Trasporti
+  Est – BTE, Consorzio Bergamo Trasporti Ovest – BTO, Consorzio Bergamo Trasporti
+  Sud – BTS, TEB spa.
+
+  Tutti i cittadini ucraini giunti in Italia a partire dal 25 febbraio 2022 potranno
+  utilizzare gratuitamente i mezzi pubblici, per il momento fino al 30 giugno 2022.
+  Gli interessati dovranno esibire al personale ispettivo uno dei seguenti documenti
+  rilasciati dalle autorità italiane:
+
+  - PASSAPORTO con timbro d’ingresso successivo al 25 febbraio 2022
+
+  - TESSERA SANITARIA PROVVISORIA – rilasciata da ASST dopo il 25 febbraio 2022
+
+  - PERMESSO DI SOGGIORNO PROVVISORIO – rilasciato dopo il 25 febbraio 2022'
+url: https://myvalley.it/2022/04/trasporto-pubblico-gratuito-per-i-profughi-ucraini-sul-territorio-bergamasco/
+address:
+  mode: autocomplete
+  address:
+    place_id: 145249052
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 185524153
+    boundingbox:
+    - '45.7068077'
+    - '45.7071417'
+    - '9.7092398'
+    - '9.709504'
+    lat: '45.7069763'
+    lon: '9.709340849871609'
+    display_name: Via Tasso, Gorle, Bergamo, Lombardia, Italia
+    class: highway
+    type: unclassified
+    importance: 0.41000000000000003
+    address:
+      road: Via Tasso
+      village: Gorle
+      county: Bergamo
+      state: Lombardia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/759,1222078348,2022-05-01 08:56:53,2022-05-01 08:55:29,Comune di Modena attiva sportello di orientamento e pagina web con info e contatti utili per l'accoglienza e il supporto dei rifugiati ucraini ,44.645956749999996,10.92562931579505,Emilia-Romagna,Modena,"[""Valid/Accettato"",""Services"",""useful contact"",""materialGoods"",""hospitality"",""healthcare"",""psychologicalSupport"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""ISO3166-2-lvl6"":""IT-MO"",""city"":""Modena"",""country"":""Italia"",""country_code"":""it"",""county"":""Modena"",""neighbourhood"":""Quartiere Cittanova"",""postcode"":""41121 - 41126"",""square"":""Piazza Grande"",""state"":""Emilia-Romagna"",""suburb"":""Centro Storico""},""boundingbox"":[""44.6455945"",""44.6462924"",""10.9250076"",""10.926305""],""class"":""place"",""display_name"":""Piazza Grande, Quartiere Cittanova, Centro Storico, Modena, Emilia-Romagna, 41121 - 41126, Italia"",""importance"":0.8194727021801682,""lat"":""44.645956749999996"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.92562931579505"",""osm_id"":998769542,""osm_type"":""way"",""place_id"":284100523,""type"":""square""},""mode"":""autocomplete""},""aim"":""Sul sito del Comune di Modena tutte le info e i contatti per l'accoglienza e il supporto dei rifugiati ucraini: assistenza sanitaria, alloggio, distribuzione di cibo e beni di prima necessit\u00e0, richiesta protezione temporanea, inserimento scolastico, trasporti, supporto psicologico e altro.\nPer ogni informazione \u00e8 possibile contattare il Centro Stranieri del Comune di Modena, Viale Monte Kosica 56 tramite: - email: emergenzaucraina@caleidos.mo.it - telefono: 3927285235 - dal luned\u00ec al sabato dalle 8.00 alle 14.00."",""email"":""emergenzaucraina@caleidos.mo.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""3927285235"",""submit"":true,""title"":""Comune di Modena attiva sportello di orientamento e pagina web con info e contatti utili per l'accoglienza e il supporto dei rifugiati ucraini"",""url"":""https://www.comune.modena.it/argomenti/emergenza-ucraina""}","<pre><yamldata>
 title: Comune di Modena attiva sportello di orientamento e pagina web con info e contatti
   utili per l'accoglienza e il supporto dei rifugiati ucraini
