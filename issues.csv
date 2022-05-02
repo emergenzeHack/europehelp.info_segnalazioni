@@ -1,4 +1,300 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/756,1221936124,2022-05-02 07:55:27,2022-04-30 22:40:59,A Como la rete Supporto Attivo distribuisce pacchi alimentari ai rifugiati ucraini,45.78996,9.0753196,Lombardia,Como,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-CO"",""city"":""Como"",""country"":""Italia"",""country_code"":""it"",""county"":""Como"",""postcode"":""22100"",""road"":""Via Alfonso Lissi"",""state"":""Lombardia"",""suburb"":""Rebbio""},""boundingbox"":[""45.7883952"",""45.7913741"",""9.0743314"",""9.075801""],""class"":""highway"",""display_name"":""Via Alfonso Lissi, Rebbio, Como, Lombardia, 22100, Italia"",""importance"":0.41000000000000003,""lat"":""45.78996"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.0753196"",""osm_id"":189506105,""osm_type"":""way"",""place_id"":145619355,""type"":""residential""},""mode"":""autocomplete""},""description"":""Ogni sabato la rete Supporto Attivo Como, in via Lissi n.6, a Rebbio consegna pacchi alimentari ai profughi ucraini. Dalle ore 8.30 alle ore 12.00 circa."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Supporto Attivo Como"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Como la rete Supporto Attivo distribuisce pacchi alimentari ai rifugiati ucraini"",""url"":""https://t.me/uniscitiallarete/15""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Supporto Attivo Como
+title: A Como la rete Supporto Attivo distribuisce pacchi alimentari ai rifugiati
+  ucraini
+recipients: ''
+description: Ogni sabato la rete Supporto Attivo Como, in via Lissi n.6, a Rebbio
+  consegna pacchi alimentari ai profughi ucraini. Dalle ore 8.30 alle ore 12.00 circa.
+url: https://t.me/uniscitiallarete/15
+address:
+  mode: autocomplete
+  address:
+    place_id: 145619355
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 189506105
+    boundingbox:
+    - '45.7883952'
+    - '45.7913741'
+    - '9.0743314'
+    - '9.075801'
+    lat: '45.78996'
+    lon: '9.0753196'
+    display_name: Via Alfonso Lissi, Rebbio, Como, Lombardia, 22100, Italia
+    class: highway
+    type: residential
+    importance: 0.41000000000000003
+    address:
+      road: Via Alfonso Lissi
+      suburb: Rebbio
+      city: Como
+      county: Como
+      ISO3166-2-lvl6: IT-CO
+      state: Lombardia
+      postcode: '22100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/752,1221928844,2022-05-02 07:55:03,2022-04-30 21:53:48,"Comune di Castelfranco Emilia, sconti Imu (fino a esenzione totale) per chi mette a disposizione immobili sfitti per accogliere profughi ucraini ",44.5962481,11.0530153,Emilia-Romagna,Modena,"[""Valid/Accettato"",""News"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""44.5962481 11.0530153"",""description"":""Il Consiglio Comunale di Castelfranco Emilia il 14 marzo ha approvato all\u2019unanimit\u00e0 l\u2019ordine del giorno dei gruppi di maggioranza Pd e lista civica Idee in Comune che impegna la giunta e il sindaco a prevedere sconti sull\u2019Imu, fino all\u2019esenzione totale, per chi metter\u00e0 a disposizione immobili sfitti per accogliere i profughi ucraini."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.lapressa.it/notiziario/la_provincia/castelfranco-sconti-imu-per-chi-accoglie-profughi"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""ISO3166-2-lvl6"":""IT-MO"",""country"":""Italia"",""country_code"":""it"",""county"":""Modena"",""house_number"":""8"",""municipality"":""Unione dei comuni del Sorbara"",""postcode"":""41013"",""road"":""Piazza della Vittoria"",""state"":""Emilia-Romagna"",""town"":""Castelfranco Emilia""},""boundingbox"":[""44.5961981"",""44.5962981"",""11.0529653"",""11.0530653""],""class"":""place"",""display_name"":""8, Piazza della Vittoria, Castelfranco Emilia, Unione dei comuni del Sorbara, Modena, Emilia-Romagna, 41013, Italia"",""importance"":0.721,""lat"":""44.5962481"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.0530153"",""osm_id"":4771026823,""osm_type"":""node"",""place_id"":54404832,""type"":""house""},""mode"":""autocomplete""},""submit"":true,""title"":""Comune di Castelfranco Emilia, sconti Imu (fino a esenzione totale) per chi mette a disposizione immobili sfitti per accogliere profughi ucraini""}","<pre><yamldata>
+title: Comune di Castelfranco Emilia, sconti Imu (fino a esenzione totale) per chi
+  mette a disposizione immobili sfitti per accogliere profughi ucraini
+description: Il Consiglio Comunale di Castelfranco Emilia il 14 marzo ha approvato
+  all’unanimità l’ordine del giorno dei gruppi di maggioranza Pd e lista civica Idee
+  in Comune che impegna la giunta e il sindaco a prevedere sconti sull’Imu, fino all’esenzione
+  totale, per chi metterà a disposizione immobili sfitti per accogliere i profughi
+  ucraini.
+link: https://www.lapressa.it/notiziario/la_provincia/castelfranco-sconti-imu-per-chi-accoglie-profughi
+location:
+  mode: autocomplete
+  address:
+    place_id: 54404832
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 4771026823
+    boundingbox:
+    - '44.5961981'
+    - '44.5962981'
+    - '11.0529653'
+    - '11.0530653'
+    lat: '44.5962481'
+    lon: '11.0530153'
+    display_name: 8, Piazza della Vittoria, Castelfranco Emilia, Unione dei comuni
+      del Sorbara, Modena, Emilia-Romagna, 41013, Italia
+    class: place
+    type: house
+    importance: 0.721
+    address:
+      house_number: '8'
+      road: Piazza della Vittoria
+      town: Castelfranco Emilia
+      municipality: Unione dei comuni del Sorbara
+      county: Modena
+      ISO3166-2-lvl6: IT-MO
+      state: Emilia-Romagna
+      ISO3166-2-lvl4: IT-45
+      postcode: '41013'
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 44.5962481 11.0530153
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/748,1221915571,2022-05-02 07:54:44,2022-04-30 20:33:41,A Napoli corsi gratuiti di italiano per rifugiati ucraini (adulti e bambini) promossi da Scuola di Pace,40.8581128,14.2602462,Campania,Napoli,"[""Valid/Accettato"",""Services"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-72"",""ISO3166-2-lvl6"":""IT-NA"",""city"":""Napoli"",""country"":""Italia"",""country_code"":""it"",""county"":""Napoli"",""neighbourhood"":""Rione Sanit\u00e0"",""postcode"":""80100"",""road"":""Via Foria"",""state"":""Campania"",""suburb"":""Municipalit\u00e0 3""},""boundingbox"":[""40.8552813"",""40.8616836"",""14.2554404"",""14.2649022""],""class"":""highway"",""display_name"":""Via Foria, Rione Sanit\u00e0, Municipalit\u00e0 3, Napoli, Campania, 80100, Italia"",""importance"":0.3,""lat"":""40.8581128"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.2602462"",""osm_id"":330083464,""osm_type"":""way"",""place_id"":179706993,""type"":""primary""},""mode"":""autocomplete""},""description"":""Scuola di pace organizza a Napoli (via Foria 93) corsi di italiano per rifugiati ucraini.\n\nCorsi per adulti\nlun/mercoled\u00ec\n\ud83d\udd39 ora 17:30-19:30\n\nCorsi per mamme e bambini\nlun/gioved\u00ec\n\ud83d\udd39 ora 9:30\n\nPer iscriversi ai corsi \u00e8 necessario presentarsi a scuola nei giorni di lezione specificati.\n\n\ud83d\udd35\u041a\u0443\u0440\u0441\u044b \u0418\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u043e\u0433\u043e \n\n\ud83d\udd39\u0413\u043e\u0440\u043e\u0434 \u041d\u0435\u0430\u043f\u043e\u043b\u044c \n\u0410\u0434\u0440\u0435\u0441 via Foria 93\n\n\u041a\u0443\u0440\u0441\u044b \u0434\u043b\u044f \u0432\u0437\u0440\u043e\u0441\u043b\u044b\u0445 \n\u041f\u043e\u043d/\u0441\u0440\u0435\u0434\u0430 \n\ud83d\udd39\u0432\u0440\u0435\u043c\u044f 17:30-19:30\n\n\u041a\u0443\u0440\u0441\u044b \u0434\u043b\u044f \u043c\u0430\u043c \u0438 \u0434\u0435\u0442\u043e\u043a \n\u041f\u043e\u043d/\u0447\u0435\u0442\u0432\u0435\u0440\u0433\n\ud83d\udd39\u0432\u0440\u0435\u043c\u044f 9:30\n\n\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e \u0431\u044b \u0437\u0430\u043f\u0438\u0441\u0430\u0442\u044c\u0441\u044f \u043d\u0430 \u043a\u0443\u0440\u0441\u044b, \u043d\u0443\u0436\u043d\u043e \u043f\u0440\u0438\u0439\u0442\u0438 \u0432 \u0448\u043a\u043e\u043b\u0443 \u0432 \u0443\u043a\u0430\u0437\u0430\u043d\u043d\u044b\u0435 \u0434\u043d\u0438 \u0437\u0430\u043d\u044f\u0442\u0438\u0439.\n\n\nInfo: \n333 3963476\n081 7373462\nscuoladipace1@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Scuola di Pace"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Napoli corsi gratuiti di italiano per rifugiati ucraini (adulti e bambini) promossi da Scuola di Pace"",""url"":""https://t.me/UAMAMAITALY/116""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: true
+offerFromWho: Scuola di Pace
+title: A Napoli corsi gratuiti di italiano per rifugiati ucraini (adulti e bambini)
+  promossi da Scuola di Pace
+recipients: ''
+description: ""Scuola di pace organizza a Napoli (via Foria 93) corsi di italiano per\
+  \ rifugiati ucraini.\n\nCorsi per adulti\nlun/mercoledì\n\U0001F539 ora 17:30-19:30\n\
+  \nCorsi per mamme e bambini\nlun/giovedì\n\U0001F539 ora 9:30\n\nPer iscriversi\
+  \ ai corsi è necessario presentarsi a scuola nei giorni di lezione specificati.\n\
+  \n\U0001F535Курсы Итальянского \n\n\U0001F539Город Неаполь \nАдрес via Foria 93\n\
+  \nКурсы для взрослых \nПон/среда \n\U0001F539время 17:30-19:30\n\nКурсы для мам\
+  \ и деток \nПон/четверг\n\U0001F539время 9:30\n\nДля того что бы записаться на курсы,\
+  \ нужно прийти в школу в указанные дни занятий.\n\n\nInfo: \n333 3963476\n081 7373462\n\
+  scuoladipace1@gmail.com""
+url: https://t.me/UAMAMAITALY/116
+address:
+  mode: autocomplete
+  address:
+    place_id: 179706993
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 330083464
+    boundingbox:
+    - '40.8552813'
+    - '40.8616836'
+    - '14.2554404'
+    - '14.2649022'
+    lat: '40.8581128'
+    lon: '14.2602462'
+    display_name: Via Foria, Rione Sanità, Municipalità 3, Napoli, Campania, 80100,
+      Italia
+    class: highway
+    type: primary
+    importance: 0.3
+    address:
+      road: Via Foria
+      neighbourhood: Rione Sanità
+      suburb: Municipalità 3
+      city: Napoli
+      county: Napoli
+      ISO3166-2-lvl6: IT-NA
+      state: Campania
+      ISO3166-2-lvl4: IT-72
+      postcode: '80100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/741,1221251641,2022-05-02 07:54:26,2022-04-29 16:51:51,A Varese l'associazione Mir I Dobro raccoglie beni di prima necessità da inviare in Ucraina,45.8708032,8.9055684,Lombardia,Varese,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-VA"",""country"":""Italia"",""country_code"":""it"",""county"":""Varese"",""hamlet"":""Fattoria Nuova"",""municipality"":""Comunit\u00e0 Montana del Piambello"",""neighbourhood"":""San Martino"",""postcode"":""21059"",""road"":""Via Giovane Italia"",""state"":""Lombardia"",""village"":""Viggi\u00f9""},""boundingbox"":[""45.8703484"",""45.8712032"",""8.905393"",""8.9057112""],""class"":""highway"",""display_name"":""Via Giovane Italia, San Martino, Fattoria Nuova, Viggi\u00f9, Comunit\u00e0 Montana del Piambello, Varese, Lombardia, 21059, Italia"",""importance"":0.7299999999999999,""lat"":""45.8708032"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.9055684"",""osm_id"":107680679,""osm_type"":""way"",""place_id"":124851645,""type"":""residential""},""mode"":""autocomplete""},""description"":""L\u2019associazione di Viggi\u00f9 (Va) Mir I Dobro continua la raccolta di generi alimentari, farmaci, prodotti per l\u2019igiene, coperte, con l\u2019obiettivo di far partire tir per l\u2019Ucraina con quanto raccolto.\n\nPunto di consegna beni: sede in Viggi\u00f9, via Giovane Italia, 3.\n\nSta anche raccogliendo OFFERTE per le spese di viaggio ed eventuali prodotti da acquistare.\nIBAN: IT76 G030 6909 6061 0000 0012 888\nBanca Intesa san Paolo\n\nPer ulteriori informazioni: 0332 487613 info@miridobro.it www.miridobro.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Mir I Dobro"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Varese l'associazione Mir I Dobro raccoglie beni di prima necessit\u00e0 da inviare in Ucraina"",""url"":""https://m.facebook.com/miridobroonlus/photos/pcb.2570286959775340/2570286846442018/?type=3&source=49""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Associazione Mir I Dobro
+title: A Varese l'associazione Mir I Dobro raccoglie beni di prima necessità da inviare
+  in Ucraina
+recipients: ''
+description: 'L’associazione di Viggiù (Va) Mir I Dobro continua la raccolta di generi
+  alimentari, farmaci, prodotti per l’igiene, coperte, con l’obiettivo di far partire
+  tir per l’Ucraina con quanto raccolto.
+
+
+  Punto di consegna beni: sede in Viggiù, via Giovane Italia, 3.
+
+
+  Sta anche raccogliendo OFFERTE per le spese di viaggio ed eventuali prodotti da
+  acquistare.
+
+  IBAN: IT76 G030 6909 6061 0000 0012 888
+
+  Banca Intesa san Paolo
+
+
+  Per ulteriori informazioni: 0332 487613 info@miridobro.it www.miridobro.it'
+url: https://m.facebook.com/miridobroonlus/photos/pcb.2570286959775340/2570286846442018/?type=3&source=49
+address:
+  mode: autocomplete
+  address:
+    place_id: 124851645
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 107680679
+    boundingbox:
+    - '45.8703484'
+    - '45.8712032'
+    - '8.905393'
+    - '8.9057112'
+    lat: '45.8708032'
+    lon: '8.9055684'
+    display_name: Via Giovane Italia, San Martino, Fattoria Nuova, Viggiù, Comunità
+      Montana del Piambello, Varese, Lombardia, 21059, Italia
+    class: highway
+    type: residential
+    importance: 0.7299999999999999
+    address:
+      road: Via Giovane Italia
+      neighbourhood: San Martino
+      hamlet: Fattoria Nuova
+      village: Viggiù
+      municipality: Comunità Montana del Piambello
+      county: Varese
+      ISO3166-2-lvl6: IT-VA
+      state: Lombardia
+      postcode: '21059'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/739,1221205913,2022-05-02 07:53:52,2022-04-29 16:27:10,"Bergamo, attivo il call center per l’assistenza sanitaria dedicata ai minori ucraini",45.756655699999996,9.754219200862249,Lombardia,Bergamo,"[""Valid/Accettato"",""Services"",""healthcare"",""Children"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bergamo"",""state"":""Lombardia""},""boundingbox"":[""45.4221614"",""46.0912018"",""9.4450549"",""10.2627486""],""class"":""boundary"",""display_name"":""Bergamo, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7460458381268803,""lat"":""45.756655699999996"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.754219200862249"",""osm_id"":44996,""osm_type"":""relation"",""place_id"":284895216,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Da luned\u00ec 4 aprile prende avvio il percorso dedicato ai minori in fuga dal conflitto in Ucraina con l\u2019intervento di 70 pediatri distribuiti sul territorio provinciale, che su prenotazione, assicureranno  l\u2019assistenza sanitaria necessaria ai ragazzi. All\u2019attuale organizzazione, predisposta dalla rete territoriale bergamasca che prevede una prima presa in carico presso i tre hotspot, si affianca quindi un vero e proprio percorso integrativo territoriale dedicato ai minori, grazie ai 70 pediatri di famiglia che hanno aderito in maniera volontaria al progetto. \nI genitori/tutori del minore potranno prenotare le visite e l\u2019assistenza avvalendosi dell\u2019aiuto di un call center appositamente istituito, al numero 366.6683583 attivo dal luned\u00ec al venerd\u00ec dalle ore 10.00 alle ore 18.00 e gestito da volontari coordinati dal Centro di Servizio per il Volontariato di Bergamo.\n\nRicordiamo che rimangono attivi i 3 hotspot sul territorio:\n- ASST PAPA Giovanni XXIII Ospedale Papa Giovanni XXIII, Piazza OMS, 1 24127 Bergamo (presso la tensostruttura adiacente al Pronto Soccorso) \u2013 dalle 8.00 alle 16.00 dal Luned\u00ec al Sabato;\n- ASST BERGAMO EST Ambulatori via Donizetti, 1 24068 Seriate \u2013 dalle 8.00 alle 20.00 dal Luned\u00ec al Sabato;\n- ASST BERGAMO OVEST Palaspir\u00e0, via Sant\u2019Antonio, 24050 Spirano \u2013 dalle 8.00 alle 16.00 dal Luned\u00ec al Sabato."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Csv Bergamo"",""recipients"":""Minori ucraini"",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Bergamo, attivo il call center per l\u2019assistenza sanitaria dedicata ai minori ucraini"",""url"":""https://www.csvlombardia.it/bergamo/post/emergenza-ucraina-da-lunedi-4-aprile-attivo-il-call-center-per-lassistenza-sanitaria-dedicata-ai-minori-grazie-a-70-pediatri-volontari-e-altrettanti-cittadini-che-si-sono-messi-volontariamente-a-di/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: true
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: false
+offerFromWho: Csv Bergamo
+title: Bergamo, attivo il call center per l’assistenza sanitaria dedicata ai minori
+  ucraini
+recipients: Minori ucraini
+description: ""Da lunedì 4 aprile prende avvio il percorso dedicato ai minori in fuga\
+  \ dal conflitto in Ucraina con l’intervento di 70 pediatri distribuiti sul territorio\
+  \ provinciale, che su prenotazione, assicureranno  l’assistenza sanitaria necessaria\
+  \ ai ragazzi. All’attuale organizzazione, predisposta dalla rete territoriale bergamasca\
+  \ che prevede una prima presa in carico presso i tre hotspot, si affianca quindi\
+  \ un vero e proprio percorso integrativo territoriale dedicato ai minori, grazie\
+  \ ai 70 pediatri di famiglia che hanno aderito in maniera volontaria al progetto.\
+  \ \nI genitori/tutori del minore potranno prenotare le visite e l’assistenza avvalendosi\
+  \ dell’aiuto di un call center appositamente istituito, al numero 366.6683583 attivo\
+  \ dal lunedì al venerdì dalle ore 10.00 alle ore 18.00 e gestito da volontari coordinati\
+  \ dal Centro di Servizio per il Volontariato di Bergamo.\n\nRicordiamo che rimangono\
+  \ attivi i 3 hotspot sul territorio:\n- ASST PAPA Giovanni XXIII Ospedale Papa Giovanni\
+  \ XXIII, Piazza OMS, 1 24127 Bergamo (presso la tensostruttura adiacente al Pronto\
+  \ Soccorso) – dalle 8.00 alle 16.00 dal Lunedì al Sabato;\n- ASST BERGAMO EST Ambulatori\
+  \ via Donizetti, 1 24068 Seriate – dalle 8.00 alle 20.00 dal Lunedì al Sabato;\n\
+  - ASST BERGAMO OVEST Palaspirà, via Sant’Antonio, 24050 Spirano – dalle 8.00 alle\
+  \ 16.00 dal Lunedì al Sabato.""
+url: https://www.csvlombardia.it/bergamo/post/emergenza-ucraina-da-lunedi-4-aprile-attivo-il-call-center-per-lassistenza-sanitaria-dedicata-ai-minori-grazie-a-70-pediatri-volontari-e-altrettanti-cittadini-che-si-sono-messi-volontariamente-a-di/
+address:
+  mode: autocomplete
+  address:
+    place_id: 284895216
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 44996
+    boundingbox:
+    - '45.4221614'
+    - '46.0912018'
+    - '9.4450549'
+    - '10.2627486'
+    lat: '45.756655699999996'
+    lon: '9.754219200862249'
+    display_name: Bergamo, Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7460458381268803
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Bergamo
+      state: Lombardia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/760,1222203373,2022-05-01 16:08:18,2022-05-01 16:07:47,"Provincia di Bergamo, trasporti pubblici gratuiti per i rifugiati ucraini fino al 30 giugno 2022",45.7069763,9.709340849871609,Lombardia,Bergamo,"[""Valid/Accettato"",""Services"",""transport""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bergamo"",""road"":""Via Tasso"",""state"":""Lombardia"",""village"":""Gorle""},""boundingbox"":[""45.7068077"",""45.7071417"",""9.7092398"",""9.709504""],""class"":""highway"",""display_name"":""Via Tasso, Gorle, Bergamo, Lombardia, Italia"",""importance"":0.41000000000000003,""lat"":""45.7069763"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.709340849871609"",""osm_id"":185524153,""osm_type"":""way"",""place_id"":145249052,""type"":""unclassified""},""mode"":""autocomplete""},""description"":""Da oggi, venerd\u00ec 29 aprile, i cittadini ucraini in fuga dalla guerra potranno circolare gratuitamente su tutti i mezzi pubblici del territorio bergamasco: l\u2019iniziativa \u00e8 della Provincia insieme all\u2019Agenzia per il trasporto pubblico locale Bacino di Bergamo, alla quale hanno aderito Atb Consorzio, Consorzio Bergamo Trasporti Est \u2013 BTE, Consorzio Bergamo Trasporti Ovest \u2013 BTO, Consorzio Bergamo Trasporti Sud \u2013 BTS, TEB spa.\nTutti i cittadini ucraini giunti in Italia a partire dal 25 febbraio 2022 potranno utilizzare gratuitamente i mezzi pubblici, per il momento fino al 30 giugno 2022. Gli interessati dovranno esibire al personale ispettivo uno dei seguenti documenti rilasciati dalle autorit\u00e0 italiane:\n- PASSAPORTO con timbro d\u2019ingresso successivo al 25 febbraio 2022\n- TESSERA SANITARIA PROVVISORIA \u2013 rilasciata da ASST dopo il 25 febbraio 2022\n- PERMESSO DI SOGGIORNO PROVVISORIO \u2013 rilasciato dopo il 25 febbraio 2022"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Provincia di Bergamo - Agenzia Trasporti pubblici locale Bergamo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""Provincia di Bergamo, trasporti pubblici gratuiti per i rifugiati ucraini fino al 30 giugno 2022"",""url"":""https://myvalley.it/2022/04/trasporto-pubblico-gratuito-per-i-profughi-ucraini-sul-territorio-bergamasco/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -247,59 +543,6 @@ address:
       county: Brescia
       ISO3166-2-lvl6: IT-BS
       state: Lombardia
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/756,1221936124,2022-04-30 22:41:16,2022-04-30 22:40:59,A Como la rete Supporto Attivo distribuisce pacchi alimentari ai rifugiati ucraini,45.78996,9.0753196,Lombardia,Como,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-CO"",""city"":""Como"",""country"":""Italia"",""country_code"":""it"",""county"":""Como"",""postcode"":""22100"",""road"":""Via Alfonso Lissi"",""state"":""Lombardia"",""suburb"":""Rebbio""},""boundingbox"":[""45.7883952"",""45.7913741"",""9.0743314"",""9.075801""],""class"":""highway"",""display_name"":""Via Alfonso Lissi, Rebbio, Como, Lombardia, 22100, Italia"",""importance"":0.41000000000000003,""lat"":""45.78996"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.0753196"",""osm_id"":189506105,""osm_type"":""way"",""place_id"":145619355,""type"":""residential""},""mode"":""autocomplete""},""description"":""Ogni sabato la rete Supporto Attivo Como, in via Lissi n.6, a Rebbio consegna pacchi alimentari ai profughi ucraini. Dalle ore 8.30 alle ore 12.00 circa."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Supporto Attivo Como"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Como la rete Supporto Attivo distribuisce pacchi alimentari ai rifugiati ucraini"",""url"":""https://t.me/uniscitiallarete/15""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Supporto Attivo Como
-title: A Como la rete Supporto Attivo distribuisce pacchi alimentari ai rifugiati
-  ucraini
-recipients: ''
-description: Ogni sabato la rete Supporto Attivo Como, in via Lissi n.6, a Rebbio
-  consegna pacchi alimentari ai profughi ucraini. Dalle ore 8.30 alle ore 12.00 circa.
-url: https://t.me/uniscitiallarete/15
-address:
-  mode: autocomplete
-  address:
-    place_id: 145619355
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 189506105
-    boundingbox:
-    - '45.7883952'
-    - '45.7913741'
-    - '9.0743314'
-    - '9.075801'
-    lat: '45.78996'
-    lon: '9.0753196'
-    display_name: Via Alfonso Lissi, Rebbio, Como, Lombardia, 22100, Italia
-    class: highway
-    type: residential
-    importance: 0.41000000000000003
-    address:
-      road: Via Alfonso Lissi
-      suburb: Rebbio
-      city: Como
-      county: Como
-      ISO3166-2-lvl6: IT-CO
-      state: Lombardia
-      postcode: '22100'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
@@ -610,114 +853,6 @@ address:
       ISO3166-2-lvl6: IT-RN
       state: Emilia-Romagna
       ISO3166-2-lvl4: IT-45
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/752,1221928844,2022-04-30 21:54:34,2022-04-30 21:53:48,"Comune di Castelfranco Emilia, sconti Imu (fino a esenzione totale) per chi mette a disposizione immobili sfitti per accogliere profughi ucraini ",44.5962481,11.0530153,Emilia-Romagna,Modena,"[""Valid/Accettato"",""News"",""hospitality""]",,,"{""Posizione"":""44.5962481 11.0530153"",""description"":""Il Consiglio Comunale di Castelfranco Emilia il 14 marzo ha approvato all\u2019unanimit\u00e0 l\u2019ordine del giorno dei gruppi di maggioranza Pd e lista civica Idee in Comune che impegna la giunta e il sindaco a prevedere sconti sull\u2019Imu, fino all\u2019esenzione totale, per chi metter\u00e0 a disposizione immobili sfitti per accogliere i profughi ucraini."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.lapressa.it/notiziario/la_provincia/castelfranco-sconti-imu-per-chi-accoglie-profughi"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""ISO3166-2-lvl6"":""IT-MO"",""country"":""Italia"",""country_code"":""it"",""county"":""Modena"",""house_number"":""8"",""municipality"":""Unione dei comuni del Sorbara"",""postcode"":""41013"",""road"":""Piazza della Vittoria"",""state"":""Emilia-Romagna"",""town"":""Castelfranco Emilia""},""boundingbox"":[""44.5961981"",""44.5962981"",""11.0529653"",""11.0530653""],""class"":""place"",""display_name"":""8, Piazza della Vittoria, Castelfranco Emilia, Unione dei comuni del Sorbara, Modena, Emilia-Romagna, 41013, Italia"",""importance"":0.721,""lat"":""44.5962481"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.0530153"",""osm_id"":4771026823,""osm_type"":""node"",""place_id"":54404832,""type"":""house""},""mode"":""autocomplete""},""submit"":true,""title"":""Comune di Castelfranco Emilia, sconti Imu (fino a esenzione totale) per chi mette a disposizione immobili sfitti per accogliere profughi ucraini""}","<pre><yamldata>
-title: Comune di Castelfranco Emilia, sconti Imu (fino a esenzione totale) per chi
-  mette a disposizione immobili sfitti per accogliere profughi ucraini
-description: Il Consiglio Comunale di Castelfranco Emilia il 14 marzo ha approvato
-  all’unanimità l’ordine del giorno dei gruppi di maggioranza Pd e lista civica Idee
-  in Comune che impegna la giunta e il sindaco a prevedere sconti sull’Imu, fino all’esenzione
-  totale, per chi metterà a disposizione immobili sfitti per accogliere i profughi
-  ucraini.
-link: https://www.lapressa.it/notiziario/la_provincia/castelfranco-sconti-imu-per-chi-accoglie-profughi
-location:
-  mode: autocomplete
-  address:
-    place_id: 54404832
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 4771026823
-    boundingbox:
-    - '44.5961981'
-    - '44.5962981'
-    - '11.0529653'
-    - '11.0530653'
-    lat: '44.5962481'
-    lon: '11.0530153'
-    display_name: 8, Piazza della Vittoria, Castelfranco Emilia, Unione dei comuni
-      del Sorbara, Modena, Emilia-Romagna, 41013, Italia
-    class: place
-    type: house
-    importance: 0.721
-    address:
-      house_number: '8'
-      road: Piazza della Vittoria
-      town: Castelfranco Emilia
-      municipality: Unione dei comuni del Sorbara
-      county: Modena
-      ISO3166-2-lvl6: IT-MO
-      state: Emilia-Romagna
-      ISO3166-2-lvl4: IT-45
-      postcode: '41013'
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 44.5962481 11.0530153
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/748,1221915571,2022-04-30 21:38:15,2022-04-30 20:33:41,A Napoli corsi gratuiti di italiano per rifugiati ucraini (adulti e bambini) promossi da Scuola di Pace,40.8581128,14.2602462,Campania,Napoli,"[""Valid/Accettato"",""Services"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-72"",""ISO3166-2-lvl6"":""IT-NA"",""city"":""Napoli"",""country"":""Italia"",""country_code"":""it"",""county"":""Napoli"",""neighbourhood"":""Rione Sanit\u00e0"",""postcode"":""80100"",""road"":""Via Foria"",""state"":""Campania"",""suburb"":""Municipalit\u00e0 3""},""boundingbox"":[""40.8552813"",""40.8616836"",""14.2554404"",""14.2649022""],""class"":""highway"",""display_name"":""Via Foria, Rione Sanit\u00e0, Municipalit\u00e0 3, Napoli, Campania, 80100, Italia"",""importance"":0.3,""lat"":""40.8581128"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.2602462"",""osm_id"":330083464,""osm_type"":""way"",""place_id"":179706993,""type"":""primary""},""mode"":""autocomplete""},""description"":""Scuola di pace organizza a Napoli (via Foria 93) corsi di italiano per rifugiati ucraini.\n\nCorsi per adulti\nlun/mercoled\u00ec\n\ud83d\udd39 ora 17:30-19:30\n\nCorsi per mamme e bambini\nlun/gioved\u00ec\n\ud83d\udd39 ora 9:30\n\nPer iscriversi ai corsi \u00e8 necessario presentarsi a scuola nei giorni di lezione specificati.\n\n\ud83d\udd35\u041a\u0443\u0440\u0441\u044b \u0418\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u043e\u0433\u043e \n\n\ud83d\udd39\u0413\u043e\u0440\u043e\u0434 \u041d\u0435\u0430\u043f\u043e\u043b\u044c \n\u0410\u0434\u0440\u0435\u0441 via Foria 93\n\n\u041a\u0443\u0440\u0441\u044b \u0434\u043b\u044f \u0432\u0437\u0440\u043e\u0441\u043b\u044b\u0445 \n\u041f\u043e\u043d/\u0441\u0440\u0435\u0434\u0430 \n\ud83d\udd39\u0432\u0440\u0435\u043c\u044f 17:30-19:30\n\n\u041a\u0443\u0440\u0441\u044b \u0434\u043b\u044f \u043c\u0430\u043c \u0438 \u0434\u0435\u0442\u043e\u043a \n\u041f\u043e\u043d/\u0447\u0435\u0442\u0432\u0435\u0440\u0433\n\ud83d\udd39\u0432\u0440\u0435\u043c\u044f 9:30\n\n\u0414\u043b\u044f \u0442\u043e\u0433\u043e \u0447\u0442\u043e \u0431\u044b \u0437\u0430\u043f\u0438\u0441\u0430\u0442\u044c\u0441\u044f \u043d\u0430 \u043a\u0443\u0440\u0441\u044b, \u043d\u0443\u0436\u043d\u043e \u043f\u0440\u0438\u0439\u0442\u0438 \u0432 \u0448\u043a\u043e\u043b\u0443 \u0432 \u0443\u043a\u0430\u0437\u0430\u043d\u043d\u044b\u0435 \u0434\u043d\u0438 \u0437\u0430\u043d\u044f\u0442\u0438\u0439.\n\n\nInfo: \n333 3963476\n081 7373462\nscuoladipace1@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Scuola di Pace"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Napoli corsi gratuiti di italiano per rifugiati ucraini (adulti e bambini) promossi da Scuola di Pace"",""url"":""https://t.me/UAMAMAITALY/116""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: true
-  disability: false
-  women: false
-  education: true
-offerFromWho: Scuola di Pace
-title: A Napoli corsi gratuiti di italiano per rifugiati ucraini (adulti e bambini)
-  promossi da Scuola di Pace
-recipients: ''
-description: ""Scuola di pace organizza a Napoli (via Foria 93) corsi di italiano per\
-  \ rifugiati ucraini.\n\nCorsi per adulti\nlun/mercoledì\n\U0001F539 ora 17:30-19:30\n\
-  \nCorsi per mamme e bambini\nlun/giovedì\n\U0001F539 ora 9:30\n\nPer iscriversi\
-  \ ai corsi è necessario presentarsi a scuola nei giorni di lezione specificati.\n\
-  \n\U0001F535Курсы Итальянского \n\n\U0001F539Город Неаполь \nАдрес via Foria 93\n\
-  \nКурсы для взрослых \nПон/среда \n\U0001F539время 17:30-19:30\n\nКурсы для мам\
-  \ и деток \nПон/четверг\n\U0001F539время 9:30\n\nДля того что бы записаться на курсы,\
-  \ нужно прийти в школу в указанные дни занятий.\n\n\nInfo: \n333 3963476\n081 7373462\n\
-  scuoladipace1@gmail.com""
-url: https://t.me/UAMAMAITALY/116
-address:
-  mode: autocomplete
-  address:
-    place_id: 179706993
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 330083464
-    boundingbox:
-    - '40.8552813'
-    - '40.8616836'
-    - '14.2554404'
-    - '14.2649022'
-    lat: '40.8581128'
-    lon: '14.2602462'
-    display_name: Via Foria, Rione Sanità, Municipalità 3, Napoli, Campania, 80100,
-      Italia
-    class: highway
-    type: primary
-    importance: 0.3
-    address:
-      road: Via Foria
-      neighbourhood: Rione Sanità
-      suburb: Municipalità 3
-      city: Napoli
-      county: Napoli
-      ISO3166-2-lvl6: IT-NA
-      state: Campania
-      ISO3166-2-lvl4: IT-72
-      postcode: '80100'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
@@ -1212,77 +1347,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 45.83971285 8.754157594917665
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/741,1221251641,2022-04-30 09:11:29,2022-04-29 16:51:51,A Varese l'associazione Mir I Dobro raccoglie beni di prima necessità da inviare in Ucraina,45.8708032,8.9055684,Lombardia,Varese,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-VA"",""country"":""Italia"",""country_code"":""it"",""county"":""Varese"",""hamlet"":""Fattoria Nuova"",""municipality"":""Comunit\u00e0 Montana del Piambello"",""neighbourhood"":""San Martino"",""postcode"":""21059"",""road"":""Via Giovane Italia"",""state"":""Lombardia"",""village"":""Viggi\u00f9""},""boundingbox"":[""45.8703484"",""45.8712032"",""8.905393"",""8.9057112""],""class"":""highway"",""display_name"":""Via Giovane Italia, San Martino, Fattoria Nuova, Viggi\u00f9, Comunit\u00e0 Montana del Piambello, Varese, Lombardia, 21059, Italia"",""importance"":0.7299999999999999,""lat"":""45.8708032"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.9055684"",""osm_id"":107680679,""osm_type"":""way"",""place_id"":124851645,""type"":""residential""},""mode"":""autocomplete""},""description"":""L\u2019associazione di Viggi\u00f9 (Va) Mir I Dobro continua la raccolta di generi alimentari, farmaci, prodotti per l\u2019igiene, coperte, con l\u2019obiettivo di far partire tir per l\u2019Ucraina con quanto raccolto.\n\nPunto di consegna beni: sede in Viggi\u00f9, via Giovane Italia, 3.\n\nSta anche raccogliendo OFFERTE per le spese di viaggio ed eventuali prodotti da acquistare.\nIBAN: IT76 G030 6909 6061 0000 0012 888\nBanca Intesa san Paolo\n\nPer ulteriori informazioni: 0332 487613 info@miridobro.it www.miridobro.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione Mir I Dobro"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Varese l'associazione Mir I Dobro raccoglie beni di prima necessit\u00e0 da inviare in Ucraina"",""url"":""https://m.facebook.com/miridobroonlus/photos/pcb.2570286959775340/2570286846442018/?type=3&source=49""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Associazione Mir I Dobro
-title: A Varese l'associazione Mir I Dobro raccoglie beni di prima necessità da inviare
-  in Ucraina
-recipients: ''
-description: 'L’associazione di Viggiù (Va) Mir I Dobro continua la raccolta di generi
-  alimentari, farmaci, prodotti per l’igiene, coperte, con l’obiettivo di far partire
-  tir per l’Ucraina con quanto raccolto.
-
-
-  Punto di consegna beni: sede in Viggiù, via Giovane Italia, 3.
-
-
-  Sta anche raccogliendo OFFERTE per le spese di viaggio ed eventuali prodotti da
-  acquistare.
-
-  IBAN: IT76 G030 6909 6061 0000 0012 888
-
-  Banca Intesa san Paolo
-
-
-  Per ulteriori informazioni: 0332 487613 info@miridobro.it www.miridobro.it'
-url: https://m.facebook.com/miridobroonlus/photos/pcb.2570286959775340/2570286846442018/?type=3&source=49
-address:
-  mode: autocomplete
-  address:
-    place_id: 124851645
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 107680679
-    boundingbox:
-    - '45.8703484'
-    - '45.8712032'
-    - '8.905393'
-    - '8.9057112'
-    lat: '45.8708032'
-    lon: '8.9055684'
-    display_name: Via Giovane Italia, San Martino, Fattoria Nuova, Viggiù, Comunità
-      Montana del Piambello, Varese, Lombardia, 21059, Italia
-    class: highway
-    type: residential
-    importance: 0.7299999999999999
-    address:
-      road: Via Giovane Italia
-      neighbourhood: San Martino
-      hamlet: Fattoria Nuova
-      village: Viggiù
-      municipality: Comunità Montana del Piambello
-      county: Varese
-      ISO3166-2-lvl6: IT-VA
-      state: Lombardia
-      postcode: '21059'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/742,1221364214,2022-04-30 09:11:14,2022-04-29 18:01:48,Su Welfare Como info e contatti utili per i profughi ucraini e per chi vuole offrire aiuto (in italiano e ucraino),45.8099549,9.084835,Lombardia,Como,"[""Valid/Accettato"",""Services"",""materialGoods"",""hospitality"",""healthcare"",""Children""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-CO"",""city"":""Como"",""country"":""Italia"",""country_code"":""it"",""county"":""Como"",""house_number"":""97"",""neighbourhood"":""San Vitale"",""postcode"":""22100"",""road"":""Via Vittorio Emanuele Secondo"",""state"":""Lombardia"",""suburb"":""Citt\u00e0 murata""},""boundingbox"":[""45.8099049"",""45.8100049"",""9.084785"",""9.084885""],""class"":""place"",""display_name"":""97, Via Vittorio Emanuele Secondo, San Vitale, Citt\u00e0 murata, Como, Lombardia, 22100, Italia"",""importance"":0.5209999999999999,""lat"":""45.8099549"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.084835"",""osm_id"":7850010126,""osm_type"":""node"",""place_id"":80940489,""type"":""house""},""mode"":""autocomplete""},""description"":""Sulla piattaforma Welfare Como, promossa dal Comune di Como, informazioni e contatti utili per chi arriva dall'Ucraina (alloggio, procedure per il permesso, scuola, assistenza sanitaria e altro) e per chi vuole donare denaro oppure offrire ospitalit\u00e0, lavoro, servizi vari, beni di prima necessit\u00e0.\nTutte le informazioni sono disponibili in italiano e ucraino."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Como"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Su Welfare Como info e contatti utili per i profughi ucraini e per chi vuole offrire aiuto (in italiano e ucraino)"",""url"":""https://welfarecomo.it/como/""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
@@ -1481,70 +1545,6 @@ address:
       ISO3166-2-lvl6: IT-MI
       state: Lombardia
       postcode: '20099'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/739,1221205913,2022-04-30 09:00:01,2022-04-29 16:27:10,"Bergamo, attivo il call center per l’assistenza sanitaria dedicata ai minori ucraini",45.756655699999996,9.754219200862249,Lombardia,Bergamo,"[""Valid/Accettato"",""Services"",""healthcare"",""Children""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bergamo"",""state"":""Lombardia""},""boundingbox"":[""45.4221614"",""46.0912018"",""9.4450549"",""10.2627486""],""class"":""boundary"",""display_name"":""Bergamo, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7460458381268803,""lat"":""45.756655699999996"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.754219200862249"",""osm_id"":44996,""osm_type"":""relation"",""place_id"":284895216,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Da luned\u00ec 4 aprile prende avvio il percorso dedicato ai minori in fuga dal conflitto in Ucraina con l\u2019intervento di 70 pediatri distribuiti sul territorio provinciale, che su prenotazione, assicureranno  l\u2019assistenza sanitaria necessaria ai ragazzi. All\u2019attuale organizzazione, predisposta dalla rete territoriale bergamasca che prevede una prima presa in carico presso i tre hotspot, si affianca quindi un vero e proprio percorso integrativo territoriale dedicato ai minori, grazie ai 70 pediatri di famiglia che hanno aderito in maniera volontaria al progetto. \nI genitori/tutori del minore potranno prenotare le visite e l\u2019assistenza avvalendosi dell\u2019aiuto di un call center appositamente istituito, al numero 366.6683583 attivo dal luned\u00ec al venerd\u00ec dalle ore 10.00 alle ore 18.00 e gestito da volontari coordinati dal Centro di Servizio per il Volontariato di Bergamo.\n\nRicordiamo che rimangono attivi i 3 hotspot sul territorio:\n- ASST PAPA Giovanni XXIII Ospedale Papa Giovanni XXIII, Piazza OMS, 1 24127 Bergamo (presso la tensostruttura adiacente al Pronto Soccorso) \u2013 dalle 8.00 alle 16.00 dal Luned\u00ec al Sabato;\n- ASST BERGAMO EST Ambulatori via Donizetti, 1 24068 Seriate \u2013 dalle 8.00 alle 20.00 dal Luned\u00ec al Sabato;\n- ASST BERGAMO OVEST Palaspir\u00e0, via Sant\u2019Antonio, 24050 Spirano \u2013 dalle 8.00 alle 16.00 dal Luned\u00ec al Sabato."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Csv Bergamo"",""recipients"":""Minori ucraini"",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Bergamo, attivo il call center per l\u2019assistenza sanitaria dedicata ai minori ucraini"",""url"":""https://www.csvlombardia.it/bergamo/post/emergenza-ucraina-da-lunedi-4-aprile-attivo-il-call-center-per-lassistenza-sanitaria-dedicata-ai-minori-grazie-a-70-pediatri-volontari-e-altrettanti-cittadini-che-si-sono-messi-volontariamente-a-di/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: true
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: true
-  disability: false
-  women: false
-  education: false
-offerFromWho: Csv Bergamo
-title: Bergamo, attivo il call center per l’assistenza sanitaria dedicata ai minori
-  ucraini
-recipients: Minori ucraini
-description: ""Da lunedì 4 aprile prende avvio il percorso dedicato ai minori in fuga\
-  \ dal conflitto in Ucraina con l’intervento di 70 pediatri distribuiti sul territorio\
-  \ provinciale, che su prenotazione, assicureranno  l’assistenza sanitaria necessaria\
-  \ ai ragazzi. All’attuale organizzazione, predisposta dalla rete territoriale bergamasca\
-  \ che prevede una prima presa in carico presso i tre hotspot, si affianca quindi\
-  \ un vero e proprio percorso integrativo territoriale dedicato ai minori, grazie\
-  \ ai 70 pediatri di famiglia che hanno aderito in maniera volontaria al progetto.\
-  \ \nI genitori/tutori del minore potranno prenotare le visite e l’assistenza avvalendosi\
-  \ dell’aiuto di un call center appositamente istituito, al numero 366.6683583 attivo\
-  \ dal lunedì al venerdì dalle ore 10.00 alle ore 18.00 e gestito da volontari coordinati\
-  \ dal Centro di Servizio per il Volontariato di Bergamo.\n\nRicordiamo che rimangono\
-  \ attivi i 3 hotspot sul territorio:\n- ASST PAPA Giovanni XXIII Ospedale Papa Giovanni\
-  \ XXIII, Piazza OMS, 1 24127 Bergamo (presso la tensostruttura adiacente al Pronto\
-  \ Soccorso) – dalle 8.00 alle 16.00 dal Lunedì al Sabato;\n- ASST BERGAMO EST Ambulatori\
-  \ via Donizetti, 1 24068 Seriate – dalle 8.00 alle 20.00 dal Lunedì al Sabato;\n\
-  - ASST BERGAMO OVEST Palaspirà, via Sant’Antonio, 24050 Spirano – dalle 8.00 alle\
-  \ 16.00 dal Lunedì al Sabato.""
-url: https://www.csvlombardia.it/bergamo/post/emergenza-ucraina-da-lunedi-4-aprile-attivo-il-call-center-per-lassistenza-sanitaria-dedicata-ai-minori-grazie-a-70-pediatri-volontari-e-altrettanti-cittadini-che-si-sono-messi-volontariamente-a-di/
-address:
-  mode: autocomplete
-  address:
-    place_id: 284895216
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 44996
-    boundingbox:
-    - '45.4221614'
-    - '46.0912018'
-    - '9.4450549'
-    - '10.2627486'
-    lat: '45.756655699999996'
-    lon: '9.754219200862249'
-    display_name: Bergamo, Lombardia, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7460458381268803
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      county: Bergamo
-      state: Lombardia
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
