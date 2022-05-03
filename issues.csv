@@ -1,4 +1,319 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/753,1221931417,2022-05-03 07:03:15,2022-04-30 22:08:08,A Lucca Croce Verde apre ambulatorio medico gratuito per i profughi ucraini,43.845193,10.5187368,Toscana,Lucca,"[""Valid/Accettato"",""Services"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""ISO3166-2-lvl6"":""IT-LU"",""city"":""Lucca"",""country"":""Italia"",""country_code"":""it"",""county"":""Lucca"",""postcode"":""55100"",""road"":""Viale Castruccio Castracani"",""state"":""Toscana"",""suburb"":""San Concordio"",""village"":""Santissima Annunziata""},""boundingbox"":[""43.8436513"",""43.8465517"",""10.516281"",""10.5209258""],""class"":""highway"",""display_name"":""Viale Castruccio Castracani, San Concordio, Santissima Annunziata, Lucca, Toscana, 55100, Italia"",""importance"":0.51,""lat"":""43.845193"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.5187368"",""osm_id"":156797934,""osm_type"":""way"",""place_id"":137525764,""type"":""primary""},""mode"":""autocomplete""},""description"":""La Croce Verde di Lucca apre un ambulatorio medico gratuito per i profughi ucraini presso la sede centrale dell'associazione, ubicata in Viale Castracani 468/D - Via Romana - trav. II, 95 - 55100 (Lucca). In collaborazione con l'Azienda Usl Toscana nord-ovest, mette a disposizione 7 medici volontari. Tre i giorni di apertura: luned\u00ec - mercoled\u00ec - Venerd\u00ec."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Croce Verde Lucca"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Lucca Croce Verde apre ambulatorio medico gratuito per i profughi ucraini"",""url"":""https://www.comune.lucca.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/23558""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: true
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Croce Verde Lucca
+title: A Lucca Croce Verde apre ambulatorio medico gratuito per i profughi ucraini
+recipients: ''
+description: 'La Croce Verde di Lucca apre un ambulatorio medico gratuito per i profughi
+  ucraini presso la sede centrale dell''associazione, ubicata in Viale Castracani
+  468/D - Via Romana - trav. II, 95 - 55100 (Lucca). In collaborazione con l''Azienda
+  Usl Toscana nord-ovest, mette a disposizione 7 medici volontari. Tre i giorni di
+  apertura: lunedì - mercoledì - Venerdì.'
+url: https://www.comune.lucca.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/23558
+address:
+  mode: autocomplete
+  address:
+    place_id: 137525764
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 156797934
+    boundingbox:
+    - '43.8436513'
+    - '43.8465517'
+    - '10.516281'
+    - '10.5209258'
+    lat: '43.845193'
+    lon: '10.5187368'
+    display_name: Viale Castruccio Castracani, San Concordio, Santissima Annunziata,
+      Lucca, Toscana, 55100, Italia
+    class: highway
+    type: primary
+    importance: 0.51
+    address:
+      road: Viale Castruccio Castracani
+      suburb: San Concordio
+      village: Santissima Annunziata
+      city: Lucca
+      county: Lucca
+      ISO3166-2-lvl6: IT-LU
+      state: Toscana
+      ISO3166-2-lvl4: IT-52
+      postcode: '55100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/755,1221933221,2022-05-03 07:03:03,2022-04-30 22:20:11,"Venezia e Veneto orientale, abbonamento gratuito per i trasporti pubblici di ATVO per i profughi ucraini",45.4371908,12.3345898,Veneto,Venezia,"[""Valid/Accettato"",""Services"",""transport"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""city"":""Venezia"",""country"":""Italia"",""country_code"":""it"",""county"":""Venezia"",""state"":""Veneto""},""boundingbox"":[""45.2312466"",""45.5779981"",""12.1668349"",""12.5965709""],""class"":""boundary"",""display_name"":""Venezia, Veneto, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8210194898827333,""lat"":""45.4371908"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.3345898"",""osm_id"":44741,""osm_type"":""relation"",""place_id"":283399921,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Tra le iniziative messe in atto per rispondere all'Emergenza Ucraina e per dare supporto ai profughi gi\u00e0 presenti sul territorio della Citt\u00e0 Metropolitana di Venezia, vi \u00e8 la possibilit\u00e0 per il cittadino ucraino ospitato di ottenere un abbonamento gratuito al trasporto pubblico ATVO per il Veneto Orientale.\n\nPer disporre dell'abbonamento, \u00e8 necessario che l'ospitante italiano del cittadino ucraino si registri sul portale web della Citt\u00e0 Metropolitana all'indirizzo https://cittametropolitana.ve.it/uffici-servizi/ufficio-comune-metropolitano-emergenza-ucraina.html?fbclid=IwAR2RG2si_Z1MhzmkkmzH8AmCwNZSKg3T2X-lkgTP9oDu2WPQafA-T_9GNKw, completando la procedura per la dichiarazione di ospitalit\u00e0 che prevede l'inserimento anche di un indirizzo e-mail valido presso il quale, una volta completato l'iter, verr\u00e0 inviato il \u201cpass\u201d che dovr\u00e0 essere presentato presso gli uffici dell'Azienda Trasporti ATVO. \n\nIn ogni caso, all'ospitante verr\u00e0 inviata una comunicazione a mezzo posta elettronica dove saranno dettagliate le azioni da intraprendere per permettere al cittadino ucraino ospitato di ricevere la carta trasporti gratuita."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Atvo - Citt\u00e0 Metropolitana di Venezia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""Venezia e Veneto orientale, abbonamento gratuito per i trasporti pubblici di ATVO per i profughi ucraini"",""url"":""https://www.facebook.com/124392952292478/posts/879888800076219/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: true
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Atvo - Città Metropolitana di Venezia
+title: Venezia e Veneto orientale, abbonamento gratuito per i trasporti pubblici di
+  ATVO per i profughi ucraini
+recipients: ''
+description: ""Tra le iniziative messe in atto per rispondere all'Emergenza Ucraina\
+  \ e per dare supporto ai profughi già presenti sul territorio della Città Metropolitana\
+  \ di Venezia, vi è la possibilità per il cittadino ucraino ospitato di ottenere\
+  \ un abbonamento gratuito al trasporto pubblico ATVO per il Veneto Orientale.\n\n\
+  Per disporre dell'abbonamento, è necessario che l'ospitante italiano del cittadino\
+  \ ucraino si registri sul portale web della Città Metropolitana all'indirizzo https://cittametropolitana.ve.it/uffici-servizi/ufficio-comune-metropolitano-emergenza-ucraina.html?fbclid=IwAR2RG2si_Z1MhzmkkmzH8AmCwNZSKg3T2X-lkgTP9oDu2WPQafA-T_9GNKw,\
+  \ completando la procedura per la dichiarazione di ospitalità che prevede l'inserimento\
+  \ anche di un indirizzo e-mail valido presso il quale, una volta completato l'iter,\
+  \ verrà inviato il “pass” che dovrà essere presentato presso gli uffici dell'Azienda\
+  \ Trasporti ATVO. \n\nIn ogni caso, all'ospitante verrà inviata una comunicazione\
+  \ a mezzo posta elettronica dove saranno dettagliate le azioni da intraprendere\
+  \ per permettere al cittadino ucraino ospitato di ricevere la carta trasporti gratuita.""
+url: https://www.facebook.com/124392952292478/posts/879888800076219/
+address:
+  mode: autocomplete
+  address:
+    place_id: 283399921
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 44741
+    boundingbox:
+    - '45.2312466'
+    - '45.5779981'
+    - '12.1668349'
+    - '12.5965709'
+    lat: '45.4371908'
+    lon: '12.3345898'
+    display_name: Venezia, Veneto, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8210194898827333
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Venezia
+      county: Venezia
+      state: Veneto
+      ISO3166-2-lvl4: IT-34
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/758,1222075772,2022-05-03 07:02:48,2022-05-01 08:41:29,"Università di Brescia, agevolazioni e borse di studio per studenti ucraini",45.53773245,10.218009389386093,Lombardia,Brescia,"[""Valid/Accettato"",""Services"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-BS"",""city"":""Brescia"",""country"":""Italia"",""country_code"":""it"",""county"":""Brescia"",""road"":""Piazza del Mercato"",""state"":""Lombardia"",""suburb"":""Centro Storico Sud""},""boundingbox"":[""45.5372961"",""45.5380329"",""10.2175505"",""10.2188842""],""class"":""highway"",""display_name"":""Piazza del Mercato, Centro Storico Sud, Brescia, Lombardia, Italia"",""importance"":0.6308608703737879,""lat"":""45.53773245"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.218009389386093"",""osm_id"":46627319,""osm_type"":""way"",""place_id"":113615349,""type"":""pedestrian""},""mode"":""autocomplete""},""description"":""L'Universit\u00e0 di Bresciaa offre studenti e studentesse di cittadinanza \ne residenza ucraina che abbiano lasciato il proprio Paese a causa del conflitto in corso, la \npossibilit\u00e0 di proseguire la propria formazione universitaria presso l\u2019Universit\u00e0 di Brescia, a \ncondizioni economiche agevolate.\nGiovani che hanno gi\u00e0 avviato percorsi di studio in Universit\u00e0 accreditate dal Governo dell\u2019 Ucraina\npossono presentare domanda per frequentare corsi singoli presso l\u2019Universit\u00e0 degli Studi di \nBrescia (www.unibs.it), previa valutazione competitiva del loro curriculum accademico. L\u2019iscrizione \na corsi singoli consente di ottenere il visto per ragioni di studio e, dopo l\u2019arrivo in Italia, il permesso \ndi soggiorno per studio.\nA chi presentasse domanda, l\u2019Ateneo offre l\u2019esenzione dalla contribuzione universitaria (seconda e \nterza rata) e la possibilit\u00e0 di accedere a borse di studio appositamente istituite per coprire, almeno \nparzialmente i costi di alloggio e vitto in Italia per un totale di 5750 \u20ac all\u2019anno, rinnovabili fino a tre \nanni. Il numero delle borse verr\u00e0 determinato anche in base alle richieste che perverranno.\nPer informazioni: contattare l'Ufficio ammissione studenti internazionali e inviare il Transcript of Records alla e-mail internationalstudents@unibs.it\n\nConsidering the severe condition the Ukrainian population is currently facing, our University, with \nthe agreement of our Rector, and your help, intends to offer to students with citizenship and \nresidence in Ukraine who are leaving or just left the country because of the current conflict, the \nopportunity to continue their academic education at the University of Brescia, with a financial \nsupport.\nStudents who are attending courses in Universities accredited by the Ukraine Government can \napply for attending single subjects at the University of Brescia, www.unibs.it, after a competitive \nevaluation of their academic curriculum. Enrollment in single subjects allows you to obtain visa for \nstudy reasons and, after arriving in Italy, residence permit for study.\nTo those who apply, the University also offers exemption from university fees (second and third \ninstallments) and the possibility of being awarded a scholarships worth 5750 \u20ac, with the possibility \nto be confirmed for up to three years. The number of scholarships will be determined also on the \nbasis of the contacts we will receive. \nContact the International Student Admission \nOffice by sending transcript of records and asking for further information: \ninternationalstudents@unibs.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Universit\u00e0 di Brescia"",""recipients"":""studenti universitari ucraini"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Universit\u00e0 di Brescia, agevolazioni e borse di studio per studenti ucraini"",""url"":""https://www.giornaledibrescia.it/filedelivery/policy:1.3688071:1648049192/UNIBS_4_Ucraina.pdf""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Università di Brescia
+title: Università di Brescia, agevolazioni e borse di studio per studenti ucraini
+recipients: studenti universitari ucraini
+description: ""L'Università di Bresciaa offre studenti e studentesse di cittadinanza\
+  \ \ne residenza ucraina che abbiano lasciato il proprio Paese a causa del conflitto\
+  \ in corso, la \npossibilità di proseguire la propria formazione universitaria presso\
+  \ l’Università di Brescia, a \ncondizioni economiche agevolate.\nGiovani che hanno\
+  \ già avviato percorsi di studio in Università accreditate dal Governo dell’ Ucraina\n\
+  possono presentare domanda per frequentare corsi singoli presso l’Università degli\
+  \ Studi di \nBrescia (www.unibs.it), previa valutazione competitiva del loro curriculum\
+  \ accademico. L’iscrizione \na corsi singoli consente di ottenere il visto per ragioni\
+  \ di studio e, dopo l’arrivo in Italia, il permesso \ndi soggiorno per studio.\n\
+  A chi presentasse domanda, l’Ateneo offre l’esenzione dalla contribuzione universitaria\
+  \ (seconda e \nterza rata) e la possibilità di accedere a borse di studio appositamente\
+  \ istituite per coprire, almeno \nparzialmente i costi di alloggio e vitto in Italia\
+  \ per un totale di 5750 € all’anno, rinnovabili fino a tre \nanni. Il numero delle\
+  \ borse verrà determinato anche in base alle richieste che perverranno.\nPer informazioni:\
+  \ contattare l'Ufficio ammissione studenti internazionali e inviare il Transcript\
+  \ of Records alla e-mail internationalstudents@unibs.it\n\nConsidering the severe\
+  \ condition the Ukrainian population is currently facing, our University, with \n\
+  the agreement of our Rector, and your help, intends to offer to students with citizenship\
+  \ and \nresidence in Ukraine who are leaving or just left the country because of\
+  \ the current conflict, the \nopportunity to continue their academic education at\
+  \ the University of Brescia, with a financial \nsupport.\nStudents who are attending\
+  \ courses in Universities accredited by the Ukraine Government can \napply for attending\
+  \ single subjects at the University of Brescia, www.unibs.it, after a competitive\
+  \ \nevaluation of their academic curriculum. Enrollment in single subjects allows\
+  \ you to obtain visa for \nstudy reasons and, after arriving in Italy, residence\
+  \ permit for study.\nTo those who apply, the University also offers exemption from\
+  \ university fees (second and third \ninstallments) and the possibility of being\
+  \ awarded a scholarships worth 5750 €, with the possibility \nto be confirmed for\
+  \ up to three years. The number of scholarships will be determined also on the \n\
+  basis of the contacts we will receive. \nContact the International Student Admission\
+  \ \nOffice by sending transcript of records and asking for further information:\
+  \ \ninternationalstudents@unibs.it""
+url: https://www.giornaledibrescia.it/filedelivery/policy:1.3688071:1648049192/UNIBS_4_Ucraina.pdf
+address:
+  mode: autocomplete
+  address:
+    place_id: 113615349
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 46627319
+    boundingbox:
+    - '45.5372961'
+    - '45.5380329'
+    - '10.2175505'
+    - '10.2188842'
+    lat: '45.53773245'
+    lon: '10.218009389386093'
+    display_name: Piazza del Mercato, Centro Storico Sud, Brescia, Lombardia, Italia
+    class: highway
+    type: pedestrian
+    importance: 0.6308608703737879
+    address:
+      road: Piazza del Mercato
+      suburb: Centro Storico Sud
+      city: Brescia
+      county: Brescia
+      ISO3166-2-lvl6: IT-BS
+      state: Lombardia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/759,1222078348,2022-05-03 07:02:29,2022-05-01 08:55:29,Comune di Modena attiva sportello di orientamento e pagina web con info e contatti utili per l'accoglienza e il supporto dei rifugiati ucraini ,44.645956749999996,10.92562931579505,Emilia-Romagna,Modena,"[""Valid/Accettato"",""Services"",""useful contact"",""materialGoods"",""hospitality"",""healthcare"",""psychologicalSupport"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""ISO3166-2-lvl6"":""IT-MO"",""city"":""Modena"",""country"":""Italia"",""country_code"":""it"",""county"":""Modena"",""neighbourhood"":""Quartiere Cittanova"",""postcode"":""41121 - 41126"",""square"":""Piazza Grande"",""state"":""Emilia-Romagna"",""suburb"":""Centro Storico""},""boundingbox"":[""44.6455945"",""44.6462924"",""10.9250076"",""10.926305""],""class"":""place"",""display_name"":""Piazza Grande, Quartiere Cittanova, Centro Storico, Modena, Emilia-Romagna, 41121 - 41126, Italia"",""importance"":0.8194727021801682,""lat"":""44.645956749999996"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.92562931579505"",""osm_id"":998769542,""osm_type"":""way"",""place_id"":284100523,""type"":""square""},""mode"":""autocomplete""},""aim"":""Sul sito del Comune di Modena tutte le info e i contatti per l'accoglienza e il supporto dei rifugiati ucraini: assistenza sanitaria, alloggio, distribuzione di cibo e beni di prima necessit\u00e0, richiesta protezione temporanea, inserimento scolastico, trasporti, supporto psicologico e altro.\nPer ogni informazione \u00e8 possibile contattare il Centro Stranieri del Comune di Modena, Viale Monte Kosica 56 tramite: - email: emergenzaucraina@caleidos.mo.it - telefono: 3927285235 - dal luned\u00ec al sabato dalle 8.00 alle 14.00."",""email"":""emergenzaucraina@caleidos.mo.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""3927285235"",""submit"":true,""title"":""Comune di Modena attiva sportello di orientamento e pagina web con info e contatti utili per l'accoglienza e il supporto dei rifugiati ucraini"",""url"":""https://www.comune.modena.it/argomenti/emergenza-ucraina""}","<pre><yamldata>
+title: Comune di Modena attiva sportello di orientamento e pagina web con info e contatti
+  utili per l'accoglienza e il supporto dei rifugiati ucraini
+phoneNumber: '3927285235'
+email: emergenzaucraina@caleidos.mo.it
+aim: 'Sul sito del Comune di Modena tutte le info e i contatti per l''accoglienza
+  e il supporto dei rifugiati ucraini: assistenza sanitaria, alloggio, distribuzione
+  di cibo e beni di prima necessità, richiesta protezione temporanea, inserimento
+  scolastico, trasporti, supporto psicologico e altro.
+
+  Per ogni informazione è possibile contattare il Centro Stranieri del Comune di Modena,
+  Viale Monte Kosica 56 tramite:
+  - email: emergenzaucraina@caleidos.mo.it
+ - telefono: 3927285235 - dal lunedì al sabato dalle 8.00 alle 14.00.'
+url: https://www.comune.modena.it/argomenti/emergenza-ucraina
+address:
+  mode: autocomplete
+  address:
+    place_id: 284100523
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 998769542
+    boundingbox:
+    - '44.6455945'
+    - '44.6462924'
+    - '10.9250076'
+    - '10.926305'
+    lat: '44.645956749999996'
+    lon: '10.92562931579505'
+    display_name: Piazza Grande, Quartiere Cittanova, Centro Storico, Modena, Emilia-Romagna,
+      41121 - 41126, Italia
+    class: place
+    type: square
+    importance: 0.8194727021801682
+    address:
+      square: Piazza Grande
+      neighbourhood: Quartiere Cittanova
+      suburb: Centro Storico
+      city: Modena
+      county: Modena
+      ISO3166-2-lvl6: IT-MO
+      state: Emilia-Romagna
+      ISO3166-2-lvl4: IT-45
+      postcode: 41121 - 41126
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/760,1222203373,2022-05-03 07:02:16,2022-05-01 16:07:47,"Provincia di Bergamo, trasporti pubblici gratuiti per i rifugiati ucraini fino al 30 giugno 2022",45.7069763,9.709340849871609,Lombardia,Bergamo,"[""Valid/Accettato"",""Services"",""transport"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bergamo"",""road"":""Via Tasso"",""state"":""Lombardia"",""village"":""Gorle""},""boundingbox"":[""45.7068077"",""45.7071417"",""9.7092398"",""9.709504""],""class"":""highway"",""display_name"":""Via Tasso, Gorle, Bergamo, Lombardia, Italia"",""importance"":0.41000000000000003,""lat"":""45.7069763"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.709340849871609"",""osm_id"":185524153,""osm_type"":""way"",""place_id"":145249052,""type"":""unclassified""},""mode"":""autocomplete""},""description"":""Da oggi, venerd\u00ec 29 aprile, i cittadini ucraini in fuga dalla guerra potranno circolare gratuitamente su tutti i mezzi pubblici del territorio bergamasco: l\u2019iniziativa \u00e8 della Provincia insieme all\u2019Agenzia per il trasporto pubblico locale Bacino di Bergamo, alla quale hanno aderito Atb Consorzio, Consorzio Bergamo Trasporti Est \u2013 BTE, Consorzio Bergamo Trasporti Ovest \u2013 BTO, Consorzio Bergamo Trasporti Sud \u2013 BTS, TEB spa.\nTutti i cittadini ucraini giunti in Italia a partire dal 25 febbraio 2022 potranno utilizzare gratuitamente i mezzi pubblici, per il momento fino al 30 giugno 2022. Gli interessati dovranno esibire al personale ispettivo uno dei seguenti documenti rilasciati dalle autorit\u00e0 italiane:\n- PASSAPORTO con timbro d\u2019ingresso successivo al 25 febbraio 2022\n- TESSERA SANITARIA PROVVISORIA \u2013 rilasciata da ASST dopo il 25 febbraio 2022\n- PERMESSO DI SOGGIORNO PROVVISORIO \u2013 rilasciato dopo il 25 febbraio 2022"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Provincia di Bergamo - Agenzia Trasporti pubblici locale Bergamo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""Provincia di Bergamo, trasporti pubblici gratuiti per i rifugiati ucraini fino al 30 giugno 2022"",""url"":""https://myvalley.it/2022/04/trasporto-pubblico-gratuito-per-i-profughi-ucraini-sul-territorio-bergamasco/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: true
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Provincia di Bergamo - Agenzia Trasporti pubblici locale Bergamo
+title: Provincia di Bergamo, trasporti pubblici gratuiti per i rifugiati ucraini fino
+  al 30 giugno 2022
+recipients: ''
+description: 'Da oggi, venerdì 29 aprile, i cittadini ucraini in fuga dalla guerra
+  potranno circolare gratuitamente su tutti i mezzi pubblici del territorio bergamasco:
+  l’iniziativa è della Provincia insieme all’Agenzia per il trasporto pubblico locale
+  Bacino di Bergamo, alla quale hanno aderito Atb Consorzio, Consorzio Bergamo Trasporti
+  Est – BTE, Consorzio Bergamo Trasporti Ovest – BTO, Consorzio Bergamo Trasporti
+  Sud – BTS, TEB spa.
+
+  Tutti i cittadini ucraini giunti in Italia a partire dal 25 febbraio 2022 potranno
+  utilizzare gratuitamente i mezzi pubblici, per il momento fino al 30 giugno 2022.
+  Gli interessati dovranno esibire al personale ispettivo uno dei seguenti documenti
+  rilasciati dalle autorità italiane:
+
+  - PASSAPORTO con timbro d’ingresso successivo al 25 febbraio 2022
+
+  - TESSERA SANITARIA PROVVISORIA – rilasciata da ASST dopo il 25 febbraio 2022
+
+  - PERMESSO DI SOGGIORNO PROVVISORIO – rilasciato dopo il 25 febbraio 2022'
+url: https://myvalley.it/2022/04/trasporto-pubblico-gratuito-per-i-profughi-ucraini-sul-territorio-bergamasco/
+address:
+  mode: autocomplete
+  address:
+    place_id: 145249052
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 185524153
+    boundingbox:
+    - '45.7068077'
+    - '45.7071417'
+    - '9.7092398'
+    - '9.709504'
+    lat: '45.7069763'
+    lon: '9.709340849871609'
+    display_name: Via Tasso, Gorle, Bergamo, Lombardia, Italia
+    class: highway
+    type: unclassified
+    importance: 0.41000000000000003
+    address:
+      road: Via Tasso
+      village: Gorle
+      county: Bergamo
+      state: Lombardia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/757,1222073438,2022-05-02 07:59:08,2022-05-01 08:29:34,"A Brescia attiva la piattaforma ""Lavoro per tutti"" e percorsi formativi per sostenere l'inserimento lavorativo dei rifugiati ucraini",45.77958045,10.4258729694612,Lombardia,Brescia,"[""Valid/Accettato"",""Services"",""job"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-BS"",""country"":""Italia"",""country_code"":""it"",""county"":""Brescia"",""state"":""Lombardia""},""boundingbox"":[""45.2042549"",""46.3548531"",""9.8362928"",""10.842675""],""class"":""boundary"",""display_name"":""Brescia, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7454640205264362,""lat"":""45.77958045"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.4258729694612"",""osm_id"":44882,""osm_type"":""relation"",""place_id"":284613587,""type"":""administrative""},""mode"":""autocomplete""},""description"":""L'Ente Bilaterale Bresciano del Turismo prevede per i rifugiati ucraini un sistegno all\u2019inserimento nel mondo del lavoro attraverso due possibilit\u00e0: per chi \u00e8 gi\u00e0 formato e ha esperienze lavorative nel mondo del commercio, del turismo e dei servizi c\u2019\u00e8 l\u2019opportunit\u00e0 di inserire il proprio profilo gratuitamente nel portale \u00abLavoro per tutti\u00bb https://www.ebbcs.it disponibile anche in lingua inglese, e rendersi cos\u00ec visibile alle oltre 9mila imprese iscritte al portale. Per gli altri sono stati studiati tre specifici percorsi di formazione gratuiti per le figure di cameriere/a ai piani, addetto/a bar e addetto/a sala che prevederanno al termine l\u2019assunzione presso un\u2019attivit\u00e0 ricettiva, un ristorante o un bar che abbia dato inizialmente la propria disponibilit\u00e0."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ente Bilaterale Bresciano del Turismo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":true,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Brescia attiva la piattaforma \""Lavoro per tutti\"" e percorsi formativi per sostenere l'inserimento lavorativo dei profughi ucraini"",""url"":""https://www.giornaledibrescia.it/rubriche/benvenuti-ucraini/%D0%B2%D1%82i%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%83-%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F-i-%D0%BF%D1%80%D0%B0%D1%86%D1%8F-%D0%B4%D0%BB%D1%8F-%D1%83%D0%BA%D1%80%D0%B0%C3%AF%D0%BD%D0%B8-1.3694450""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -353,263 +668,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/760,1222203373,2022-05-01 16:08:18,2022-05-01 16:07:47,"Provincia di Bergamo, trasporti pubblici gratuiti per i rifugiati ucraini fino al 30 giugno 2022",45.7069763,9.709340849871609,Lombardia,Bergamo,"[""Valid/Accettato"",""Services"",""transport""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bergamo"",""road"":""Via Tasso"",""state"":""Lombardia"",""village"":""Gorle""},""boundingbox"":[""45.7068077"",""45.7071417"",""9.7092398"",""9.709504""],""class"":""highway"",""display_name"":""Via Tasso, Gorle, Bergamo, Lombardia, Italia"",""importance"":0.41000000000000003,""lat"":""45.7069763"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.709340849871609"",""osm_id"":185524153,""osm_type"":""way"",""place_id"":145249052,""type"":""unclassified""},""mode"":""autocomplete""},""description"":""Da oggi, venerd\u00ec 29 aprile, i cittadini ucraini in fuga dalla guerra potranno circolare gratuitamente su tutti i mezzi pubblici del territorio bergamasco: l\u2019iniziativa \u00e8 della Provincia insieme all\u2019Agenzia per il trasporto pubblico locale Bacino di Bergamo, alla quale hanno aderito Atb Consorzio, Consorzio Bergamo Trasporti Est \u2013 BTE, Consorzio Bergamo Trasporti Ovest \u2013 BTO, Consorzio Bergamo Trasporti Sud \u2013 BTS, TEB spa.\nTutti i cittadini ucraini giunti in Italia a partire dal 25 febbraio 2022 potranno utilizzare gratuitamente i mezzi pubblici, per il momento fino al 30 giugno 2022. Gli interessati dovranno esibire al personale ispettivo uno dei seguenti documenti rilasciati dalle autorit\u00e0 italiane:\n- PASSAPORTO con timbro d\u2019ingresso successivo al 25 febbraio 2022\n- TESSERA SANITARIA PROVVISORIA \u2013 rilasciata da ASST dopo il 25 febbraio 2022\n- PERMESSO DI SOGGIORNO PROVVISORIO \u2013 rilasciato dopo il 25 febbraio 2022"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Provincia di Bergamo - Agenzia Trasporti pubblici locale Bergamo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""Provincia di Bergamo, trasporti pubblici gratuiti per i rifugiati ucraini fino al 30 giugno 2022"",""url"":""https://myvalley.it/2022/04/trasporto-pubblico-gratuito-per-i-profughi-ucraini-sul-territorio-bergamasco/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: true
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Provincia di Bergamo - Agenzia Trasporti pubblici locale Bergamo
-title: Provincia di Bergamo, trasporti pubblici gratuiti per i rifugiati ucraini fino
-  al 30 giugno 2022
-recipients: ''
-description: 'Da oggi, venerdì 29 aprile, i cittadini ucraini in fuga dalla guerra
-  potranno circolare gratuitamente su tutti i mezzi pubblici del territorio bergamasco:
-  l’iniziativa è della Provincia insieme all’Agenzia per il trasporto pubblico locale
-  Bacino di Bergamo, alla quale hanno aderito Atb Consorzio, Consorzio Bergamo Trasporti
-  Est – BTE, Consorzio Bergamo Trasporti Ovest – BTO, Consorzio Bergamo Trasporti
-  Sud – BTS, TEB spa.
-
-  Tutti i cittadini ucraini giunti in Italia a partire dal 25 febbraio 2022 potranno
-  utilizzare gratuitamente i mezzi pubblici, per il momento fino al 30 giugno 2022.
-  Gli interessati dovranno esibire al personale ispettivo uno dei seguenti documenti
-  rilasciati dalle autorità italiane:
-
-  - PASSAPORTO con timbro d’ingresso successivo al 25 febbraio 2022
-
-  - TESSERA SANITARIA PROVVISORIA – rilasciata da ASST dopo il 25 febbraio 2022
-
-  - PERMESSO DI SOGGIORNO PROVVISORIO – rilasciato dopo il 25 febbraio 2022'
-url: https://myvalley.it/2022/04/trasporto-pubblico-gratuito-per-i-profughi-ucraini-sul-territorio-bergamasco/
-address:
-  mode: autocomplete
-  address:
-    place_id: 145249052
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 185524153
-    boundingbox:
-    - '45.7068077'
-    - '45.7071417'
-    - '9.7092398'
-    - '9.709504'
-    lat: '45.7069763'
-    lon: '9.709340849871609'
-    display_name: Via Tasso, Gorle, Bergamo, Lombardia, Italia
-    class: highway
-    type: unclassified
-    importance: 0.41000000000000003
-    address:
-      road: Via Tasso
-      village: Gorle
-      county: Bergamo
-      state: Lombardia
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/759,1222078348,2022-05-01 08:56:53,2022-05-01 08:55:29,Comune di Modena attiva sportello di orientamento e pagina web con info e contatti utili per l'accoglienza e il supporto dei rifugiati ucraini ,44.645956749999996,10.92562931579505,Emilia-Romagna,Modena,"[""Valid/Accettato"",""Services"",""useful contact"",""materialGoods"",""hospitality"",""healthcare"",""psychologicalSupport"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""ISO3166-2-lvl6"":""IT-MO"",""city"":""Modena"",""country"":""Italia"",""country_code"":""it"",""county"":""Modena"",""neighbourhood"":""Quartiere Cittanova"",""postcode"":""41121 - 41126"",""square"":""Piazza Grande"",""state"":""Emilia-Romagna"",""suburb"":""Centro Storico""},""boundingbox"":[""44.6455945"",""44.6462924"",""10.9250076"",""10.926305""],""class"":""place"",""display_name"":""Piazza Grande, Quartiere Cittanova, Centro Storico, Modena, Emilia-Romagna, 41121 - 41126, Italia"",""importance"":0.8194727021801682,""lat"":""44.645956749999996"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.92562931579505"",""osm_id"":998769542,""osm_type"":""way"",""place_id"":284100523,""type"":""square""},""mode"":""autocomplete""},""aim"":""Sul sito del Comune di Modena tutte le info e i contatti per l'accoglienza e il supporto dei rifugiati ucraini: assistenza sanitaria, alloggio, distribuzione di cibo e beni di prima necessit\u00e0, richiesta protezione temporanea, inserimento scolastico, trasporti, supporto psicologico e altro.\nPer ogni informazione \u00e8 possibile contattare il Centro Stranieri del Comune di Modena, Viale Monte Kosica 56 tramite: - email: emergenzaucraina@caleidos.mo.it - telefono: 3927285235 - dal luned\u00ec al sabato dalle 8.00 alle 14.00."",""email"":""emergenzaucraina@caleidos.mo.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""3927285235"",""submit"":true,""title"":""Comune di Modena attiva sportello di orientamento e pagina web con info e contatti utili per l'accoglienza e il supporto dei rifugiati ucraini"",""url"":""https://www.comune.modena.it/argomenti/emergenza-ucraina""}","<pre><yamldata>
-title: Comune di Modena attiva sportello di orientamento e pagina web con info e contatti
-  utili per l'accoglienza e il supporto dei rifugiati ucraini
-phoneNumber: '3927285235'
-email: emergenzaucraina@caleidos.mo.it
-aim: 'Sul sito del Comune di Modena tutte le info e i contatti per l''accoglienza
-  e il supporto dei rifugiati ucraini: assistenza sanitaria, alloggio, distribuzione
-  di cibo e beni di prima necessità, richiesta protezione temporanea, inserimento
-  scolastico, trasporti, supporto psicologico e altro.
-
-  Per ogni informazione è possibile contattare il Centro Stranieri del Comune di Modena,
-  Viale Monte Kosica 56 tramite:
-  - email: emergenzaucraina@caleidos.mo.it
- - telefono: 3927285235 - dal lunedì al sabato dalle 8.00 alle 14.00.'
-url: https://www.comune.modena.it/argomenti/emergenza-ucraina
-address:
-  mode: autocomplete
-  address:
-    place_id: 284100523
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 998769542
-    boundingbox:
-    - '44.6455945'
-    - '44.6462924'
-    - '10.9250076'
-    - '10.926305'
-    lat: '44.645956749999996'
-    lon: '10.92562931579505'
-    display_name: Piazza Grande, Quartiere Cittanova, Centro Storico, Modena, Emilia-Romagna,
-      41121 - 41126, Italia
-    class: place
-    type: square
-    importance: 0.8194727021801682
-    address:
-      square: Piazza Grande
-      neighbourhood: Quartiere Cittanova
-      suburb: Centro Storico
-      city: Modena
-      county: Modena
-      ISO3166-2-lvl6: IT-MO
-      state: Emilia-Romagna
-      ISO3166-2-lvl4: IT-45
-      postcode: 41121 - 41126
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: useful contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/758,1222075772,2022-05-01 08:45:29,2022-05-01 08:41:29,"Università di Brescia, agevolazioni e borse di studio per studenti ucraini",45.53773245,10.218009389386093,Lombardia,Brescia,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-BS"",""city"":""Brescia"",""country"":""Italia"",""country_code"":""it"",""county"":""Brescia"",""road"":""Piazza del Mercato"",""state"":""Lombardia"",""suburb"":""Centro Storico Sud""},""boundingbox"":[""45.5372961"",""45.5380329"",""10.2175505"",""10.2188842""],""class"":""highway"",""display_name"":""Piazza del Mercato, Centro Storico Sud, Brescia, Lombardia, Italia"",""importance"":0.6308608703737879,""lat"":""45.53773245"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.218009389386093"",""osm_id"":46627319,""osm_type"":""way"",""place_id"":113615349,""type"":""pedestrian""},""mode"":""autocomplete""},""description"":""L'Universit\u00e0 di Bresciaa offre studenti e studentesse di cittadinanza \ne residenza ucraina che abbiano lasciato il proprio Paese a causa del conflitto in corso, la \npossibilit\u00e0 di proseguire la propria formazione universitaria presso l\u2019Universit\u00e0 di Brescia, a \ncondizioni economiche agevolate.\nGiovani che hanno gi\u00e0 avviato percorsi di studio in Universit\u00e0 accreditate dal Governo dell\u2019 Ucraina\npossono presentare domanda per frequentare corsi singoli presso l\u2019Universit\u00e0 degli Studi di \nBrescia (www.unibs.it), previa valutazione competitiva del loro curriculum accademico. L\u2019iscrizione \na corsi singoli consente di ottenere il visto per ragioni di studio e, dopo l\u2019arrivo in Italia, il permesso \ndi soggiorno per studio.\nA chi presentasse domanda, l\u2019Ateneo offre l\u2019esenzione dalla contribuzione universitaria (seconda e \nterza rata) e la possibilit\u00e0 di accedere a borse di studio appositamente istituite per coprire, almeno \nparzialmente i costi di alloggio e vitto in Italia per un totale di 5750 \u20ac all\u2019anno, rinnovabili fino a tre \nanni. Il numero delle borse verr\u00e0 determinato anche in base alle richieste che perverranno.\nPer informazioni: contattare l'Ufficio ammissione studenti internazionali e inviare il Transcript of Records alla e-mail internationalstudents@unibs.it\n\nConsidering the severe condition the Ukrainian population is currently facing, our University, with \nthe agreement of our Rector, and your help, intends to offer to students with citizenship and \nresidence in Ukraine who are leaving or just left the country because of the current conflict, the \nopportunity to continue their academic education at the University of Brescia, with a financial \nsupport.\nStudents who are attending courses in Universities accredited by the Ukraine Government can \napply for attending single subjects at the University of Brescia, www.unibs.it, after a competitive \nevaluation of their academic curriculum. Enrollment in single subjects allows you to obtain visa for \nstudy reasons and, after arriving in Italy, residence permit for study.\nTo those who apply, the University also offers exemption from university fees (second and third \ninstallments) and the possibility of being awarded a scholarships worth 5750 \u20ac, with the possibility \nto be confirmed for up to three years. The number of scholarships will be determined also on the \nbasis of the contacts we will receive. \nContact the International Student Admission \nOffice by sending transcript of records and asking for further information: \ninternationalstudents@unibs.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Universit\u00e0 di Brescia"",""recipients"":""studenti universitari ucraini"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Universit\u00e0 di Brescia, agevolazioni e borse di studio per studenti ucraini"",""url"":""https://www.giornaledibrescia.it/filedelivery/policy:1.3688071:1648049192/UNIBS_4_Ucraina.pdf""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: true
-offerFromWho: Università di Brescia
-title: Università di Brescia, agevolazioni e borse di studio per studenti ucraini
-recipients: studenti universitari ucraini
-description: ""L'Università di Bresciaa offre studenti e studentesse di cittadinanza\
-  \ \ne residenza ucraina che abbiano lasciato il proprio Paese a causa del conflitto\
-  \ in corso, la \npossibilità di proseguire la propria formazione universitaria presso\
-  \ l’Università di Brescia, a \ncondizioni economiche agevolate.\nGiovani che hanno\
-  \ già avviato percorsi di studio in Università accreditate dal Governo dell’ Ucraina\n\
-  possono presentare domanda per frequentare corsi singoli presso l’Università degli\
-  \ Studi di \nBrescia (www.unibs.it), previa valutazione competitiva del loro curriculum\
-  \ accademico. L’iscrizione \na corsi singoli consente di ottenere il visto per ragioni\
-  \ di studio e, dopo l’arrivo in Italia, il permesso \ndi soggiorno per studio.\n\
-  A chi presentasse domanda, l’Ateneo offre l’esenzione dalla contribuzione universitaria\
-  \ (seconda e \nterza rata) e la possibilità di accedere a borse di studio appositamente\
-  \ istituite per coprire, almeno \nparzialmente i costi di alloggio e vitto in Italia\
-  \ per un totale di 5750 € all’anno, rinnovabili fino a tre \nanni. Il numero delle\
-  \ borse verrà determinato anche in base alle richieste che perverranno.\nPer informazioni:\
-  \ contattare l'Ufficio ammissione studenti internazionali e inviare il Transcript\
-  \ of Records alla e-mail internationalstudents@unibs.it\n\nConsidering the severe\
-  \ condition the Ukrainian population is currently facing, our University, with \n\
-  the agreement of our Rector, and your help, intends to offer to students with citizenship\
-  \ and \nresidence in Ukraine who are leaving or just left the country because of\
-  \ the current conflict, the \nopportunity to continue their academic education at\
-  \ the University of Brescia, with a financial \nsupport.\nStudents who are attending\
-  \ courses in Universities accredited by the Ukraine Government can \napply for attending\
-  \ single subjects at the University of Brescia, www.unibs.it, after a competitive\
-  \ \nevaluation of their academic curriculum. Enrollment in single subjects allows\
-  \ you to obtain visa for \nstudy reasons and, after arriving in Italy, residence\
-  \ permit for study.\nTo those who apply, the University also offers exemption from\
-  \ university fees (second and third \ninstallments) and the possibility of being\
-  \ awarded a scholarships worth 5750 €, with the possibility \nto be confirmed for\
-  \ up to three years. The number of scholarships will be determined also on the \n\
-  basis of the contacts we will receive. \nContact the International Student Admission\
-  \ \nOffice by sending transcript of records and asking for further information:\
-  \ \ninternationalstudents@unibs.it""
-url: https://www.giornaledibrescia.it/filedelivery/policy:1.3688071:1648049192/UNIBS_4_Ucraina.pdf
-address:
-  mode: autocomplete
-  address:
-    place_id: 113615349
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 46627319
-    boundingbox:
-    - '45.5372961'
-    - '45.5380329'
-    - '10.2175505'
-    - '10.2188842'
-    lat: '45.53773245'
-    lon: '10.218009389386093'
-    display_name: Piazza del Mercato, Centro Storico Sud, Brescia, Lombardia, Italia
-    class: highway
-    type: pedestrian
-    importance: 0.6308608703737879
-    address:
-      road: Piazza del Mercato
-      suburb: Centro Storico Sud
-      city: Brescia
-      county: Brescia
-      ISO3166-2-lvl6: IT-BS
-      state: Lombardia
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/755,1221933221,2022-04-30 22:32:17,2022-04-30 22:20:11,"Venezia e Veneto orientale, abbonamento gratuito per i trasporti pubblici di ATVO per i profughi ucraini",45.4371908,12.3345898,Veneto,Venezia,"[""Valid/Accettato"",""Services"",""transport""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""city"":""Venezia"",""country"":""Italia"",""country_code"":""it"",""county"":""Venezia"",""state"":""Veneto""},""boundingbox"":[""45.2312466"",""45.5779981"",""12.1668349"",""12.5965709""],""class"":""boundary"",""display_name"":""Venezia, Veneto, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8210194898827333,""lat"":""45.4371908"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.3345898"",""osm_id"":44741,""osm_type"":""relation"",""place_id"":283399921,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Tra le iniziative messe in atto per rispondere all'Emergenza Ucraina e per dare supporto ai profughi gi\u00e0 presenti sul territorio della Citt\u00e0 Metropolitana di Venezia, vi \u00e8 la possibilit\u00e0 per il cittadino ucraino ospitato di ottenere un abbonamento gratuito al trasporto pubblico ATVO per il Veneto Orientale.\n\nPer disporre dell'abbonamento, \u00e8 necessario che l'ospitante italiano del cittadino ucraino si registri sul portale web della Citt\u00e0 Metropolitana all'indirizzo https://cittametropolitana.ve.it/uffici-servizi/ufficio-comune-metropolitano-emergenza-ucraina.html?fbclid=IwAR2RG2si_Z1MhzmkkmzH8AmCwNZSKg3T2X-lkgTP9oDu2WPQafA-T_9GNKw, completando la procedura per la dichiarazione di ospitalit\u00e0 che prevede l'inserimento anche di un indirizzo e-mail valido presso il quale, una volta completato l'iter, verr\u00e0 inviato il \u201cpass\u201d che dovr\u00e0 essere presentato presso gli uffici dell'Azienda Trasporti ATVO. \n\nIn ogni caso, all'ospitante verr\u00e0 inviata una comunicazione a mezzo posta elettronica dove saranno dettagliate le azioni da intraprendere per permettere al cittadino ucraino ospitato di ricevere la carta trasporti gratuita."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Atvo - Citt\u00e0 Metropolitana di Venezia"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""Venezia e Veneto orientale, abbonamento gratuito per i trasporti pubblici di ATVO per i profughi ucraini"",""url"":""https://www.facebook.com/124392952292478/posts/879888800076219/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: true
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Atvo - Città Metropolitana di Venezia
-title: Venezia e Veneto orientale, abbonamento gratuito per i trasporti pubblici di
-  ATVO per i profughi ucraini
-recipients: ''
-description: ""Tra le iniziative messe in atto per rispondere all'Emergenza Ucraina\
-  \ e per dare supporto ai profughi già presenti sul territorio della Città Metropolitana\
-  \ di Venezia, vi è la possibilità per il cittadino ucraino ospitato di ottenere\
-  \ un abbonamento gratuito al trasporto pubblico ATVO per il Veneto Orientale.\n\n\
-  Per disporre dell'abbonamento, è necessario che l'ospitante italiano del cittadino\
-  \ ucraino si registri sul portale web della Città Metropolitana all'indirizzo https://cittametropolitana.ve.it/uffici-servizi/ufficio-comune-metropolitano-emergenza-ucraina.html?fbclid=IwAR2RG2si_Z1MhzmkkmzH8AmCwNZSKg3T2X-lkgTP9oDu2WPQafA-T_9GNKw,\
-  \ completando la procedura per la dichiarazione di ospitalità che prevede l'inserimento\
-  \ anche di un indirizzo e-mail valido presso il quale, una volta completato l'iter,\
-  \ verrà inviato il “pass” che dovrà essere presentato presso gli uffici dell'Azienda\
-  \ Trasporti ATVO. \n\nIn ogni caso, all'ospitante verrà inviata una comunicazione\
-  \ a mezzo posta elettronica dove saranno dettagliate le azioni da intraprendere\
-  \ per permettere al cittadino ucraino ospitato di ricevere la carta trasporti gratuita.""
-url: https://www.facebook.com/124392952292478/posts/879888800076219/
-address:
-  mode: autocomplete
-  address:
-    place_id: 283399921
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 44741
-    boundingbox:
-    - '45.2312466'
-    - '45.5779981'
-    - '12.1668349'
-    - '12.5965709'
-    lat: '45.4371908'
-    lon: '12.3345898'
-    display_name: Venezia, Veneto, Italia
-    class: boundary
-    type: administrative
-    importance: 0.8210194898827333
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Venezia
-      county: Venezia
-      state: Veneto
-      ISO3166-2-lvl4: IT-34
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/754,1221932312,2022-04-30 22:31:26,2022-04-30 22:13:43,"L’Aquila, bus gratuiti per i profughi ucraini",42.1368853,13.610341022538911,Abruzzo,L'Aquila,"[""Valid/Accettato"",""Services"",""transport""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""L'Aquila"",""state"":""Abruzzo""},""boundingbox"":[""41.6820382"",""42.5912825"",""13.0189718"",""14.2297358""],""class"":""boundary"",""display_name"":""L'Aquila, Abruzzo, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8265055278596534,""lat"":""42.1368853"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.610341022538911"",""osm_id"":167044,""osm_type"":""relation"",""place_id"":283747468,""type"":""administrative""},""mode"":""autocomplete""},""description"":""I profughi ucraini in fuga dalla guerra che hanno trovato ospitalit\u00e0 all\u2019Aquila potranno viaggiare gratuitamente sugli autobus urbani. Lo ha stabilito l\u2019Ama spa che ha recepito l\u2019ordinanza regionale numero 1 del 15 aprile scorso, firmata dal presidente Marco Marsilio, con la quale si garantisce il trasporto gratuito su bus e treni regionali.\nAi fini della verifica dei titoli di viaggio i profughi ucraini devono esibire uno a scelta tra i seguenti documenti: tessera Stp (Straniero Temporaneamente Presente) rilasciata dalla Asl in data successiva al 24 febbraio 2022, permesso di soggiorno per protezione temporanea ex art. 20 del Tui (Testo Unico sull\u2019immigrazione), ricevuta relativa al rilascio del permesso di soggiorno per protezione temporanea ex art. 20 del Tui (Testo Unico sull\u2019immigrazione)."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune L\u2019Aquila - Ama"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""L\u2019Aquila, bus gratuiti per i profughi ucraini"",""url"":""https://www.ilcapoluogo.it/2022/04/27/laquila-per-i-profughi-ucraini-viaggi-gratis-sui-bus-ama/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -662,64 +720,6 @@ address:
     address:
       county: L'Aquila
       state: Abruzzo
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/753,1221931417,2022-04-30 22:08:22,2022-04-30 22:08:08,A Lucca Croce Verde apre ambulatorio medico gratuito per i profughi ucraini,43.845193,10.5187368,Toscana,Lucca,"[""Valid/Accettato"",""Services"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""ISO3166-2-lvl6"":""IT-LU"",""city"":""Lucca"",""country"":""Italia"",""country_code"":""it"",""county"":""Lucca"",""postcode"":""55100"",""road"":""Viale Castruccio Castracani"",""state"":""Toscana"",""suburb"":""San Concordio"",""village"":""Santissima Annunziata""},""boundingbox"":[""43.8436513"",""43.8465517"",""10.516281"",""10.5209258""],""class"":""highway"",""display_name"":""Viale Castruccio Castracani, San Concordio, Santissima Annunziata, Lucca, Toscana, 55100, Italia"",""importance"":0.51,""lat"":""43.845193"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.5187368"",""osm_id"":156797934,""osm_type"":""way"",""place_id"":137525764,""type"":""primary""},""mode"":""autocomplete""},""description"":""La Croce Verde di Lucca apre un ambulatorio medico gratuito per i profughi ucraini presso la sede centrale dell'associazione, ubicata in Viale Castracani 468/D - Via Romana - trav. II, 95 - 55100 (Lucca). In collaborazione con l'Azienda Usl Toscana nord-ovest, mette a disposizione 7 medici volontari. Tre i giorni di apertura: luned\u00ec - mercoled\u00ec - Venerd\u00ec."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Croce Verde Lucca"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""A Lucca Croce Verde apre ambulatorio medico gratuito per i profughi ucraini"",""url"":""https://www.comune.lucca.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/23558""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: true
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Croce Verde Lucca
-title: A Lucca Croce Verde apre ambulatorio medico gratuito per i profughi ucraini
-recipients: ''
-description: 'La Croce Verde di Lucca apre un ambulatorio medico gratuito per i profughi
-  ucraini presso la sede centrale dell''associazione, ubicata in Viale Castracani
-  468/D - Via Romana - trav. II, 95 - 55100 (Lucca). In collaborazione con l''Azienda
-  Usl Toscana nord-ovest, mette a disposizione 7 medici volontari. Tre i giorni di
-  apertura: lunedì - mercoledì - Venerdì.'
-url: https://www.comune.lucca.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/23558
-address:
-  mode: autocomplete
-  address:
-    place_id: 137525764
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 156797934
-    boundingbox:
-    - '43.8436513'
-    - '43.8465517'
-    - '10.516281'
-    - '10.5209258'
-    lat: '43.845193'
-    lon: '10.5187368'
-    display_name: Viale Castruccio Castracani, San Concordio, Santissima Annunziata,
-      Lucca, Toscana, 55100, Italia
-    class: highway
-    type: primary
-    importance: 0.51
-    address:
-      road: Viale Castruccio Castracani
-      suburb: San Concordio
-      village: Santissima Annunziata
-      city: Lucca
-      county: Lucca
-      ISO3166-2-lvl6: IT-LU
-      state: Toscana
-      ISO3166-2-lvl4: IT-52
-      postcode: '55100'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
