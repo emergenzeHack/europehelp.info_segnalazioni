@@ -1,4 +1,35 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/610,1204053085,2022-05-04 10:14:14,2022-04-14 05:22:16,"Ministero dell'istruzione, online sezione dedicata all’accoglienza delle studentesse e degli studenti ucraini",,,,,"[""Valid/Accettato"",""Services"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""\u00c8 disponibile, sul sito del Ministero dell\u2019Istruzione, la sezione dedicata all\u2019accoglienza delle studentesse e degli studenti ucraini. Uno spazio con indicazioni e risorse a dispisizione di docenti e comunit\u00e0 educante per consentire ai bambini e ai ragazzi in fuga dalla guerra in Ucraina di proseguire il loro percorso scolastico ed educativo nel sistema italiano."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ministero dell'istruzione"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Ministero dell'istruzione, online sezione dedicata all\u2019accoglienza delle studentesse e degli studenti ucraini"",""url"":""https://www.istruzione.it/emergenza-educativa-ucraina/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Ministero dell'istruzione
+title: Ministero dell'istruzione, online sezione dedicata all’accoglienza delle studentesse
+  e degli studenti ucraini
+recipients: ''
+description: 'È disponibile, sul sito del Ministero dell’Istruzione, la sezione dedicata
+  all’accoglienza delle studentesse e degli studenti ucraini.
+  Uno spazio con indicazioni e risorse a dispisizione di docenti e comunità educante per consentire ai bambini e ai ragazzi in fuga
+  dalla guerra in Ucraina di proseguire il loro percorso scolastico ed educativo nel sistema
+  italiano.'
+url: https://www.istruzione.it/emergenza-educativa-ucraina/
+address:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/737,1221180297,2022-05-04 08:16:52,2022-04-29 16:14:16,"Trentino, online guida per l'accesso al lavoro per i profughi ucraini (in italiano e ucraino)",46.1030443,11.129840331695068,Trentino-Alto Adige,Trento,"[""Valid/Accettato"",""Services"",""job"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-TN"",""country"":""Italia"",""country_code"":""it"",""county"":""Provincia di Trento"",""state"":""Trentino-Alto Adige""},""boundingbox"":[""45.6728669"",""46.5332188"",""10.4522048"",""11.9628023""],""class"":""boundary"",""display_name"":""Provincia di Trento, Trentino-Alto Adige, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7380075390399246,""lat"":""46.1030443"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.129840331695068"",""osm_id"":45756,""osm_type"":""relation"",""place_id"":283226448,""type"":""administrative""},""mode"":""autocomplete""},""description"":""L'agenzia del Lavoro in Trentino ha predisposto una Guida all\u2019accesso ai servizi per la ricerca di lavoro rivolta ai cittadini dell\u2019Ucraina. La guida (disponibile in lingua italiana e in lingua ucraina) rappresenta una vera e propria bussola che facilita l\u2019accesso ai servizi e semplifica la ricerca di occupazione, valorizzando le proprie competenze in relazione alle opportunit\u00e0 offerte dal mercato del lavoro in provincia di Trento.\nLa guida \u00e8 disponibile anche in lingua ucraina, vedi link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Agenzia del Lavoro in Trentino"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":true,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Trentino, online guida per l'accesso al lavoro per i profughi ucraini (in italiano e ucraino)"",""url"":""https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/2527/PA-Trento-una-guida-per-laccesso-al-lavoro-per-i-profughi-Ucraini""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -9648,38 +9679,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 41.897212800000005 12.488422190625947
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/610,1204053085,2022-04-14 14:58:56,2022-04-14 05:22:16,"Ministero dell'istruzione, online sezione dedicata all’accoglienza delle studentesse e degli studenti ucraini",,,,,"[""Valid/Accettato"",""Services"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""\u00c8 disponibile, sul sito del Ministero dell\u2019Istruzione, la sezione dedicata all\u2019accoglienza delle studentesse e degli studenti ucraini.\nUno spazio con indicazioni e risorse per consentire ai bambini e ai ragazzi in fuga dalla guerra di proseguire il loro percorso scolastico ed educativo nel sistema italiano."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ministero dell'istruzione"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Ministero dell'istruzione, online sezione dedicata all\u2019accoglienza delle studentesse e degli studenti ucraini"",""url"":""https://www.istruzione.it/emergenza-educativa-ucraina/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: true
-offerFromWho: Ministero dell'istruzione
-title: Ministero dell'istruzione, online sezione dedicata all’accoglienza delle studentesse
-  e degli studenti ucraini
-recipients: ''
-description: 'È disponibile, sul sito del Ministero dell’Istruzione, la sezione dedicata
-  all’accoglienza delle studentesse e degli studenti ucraini.
-
-  Uno spazio con indicazioni e risorse per consentire ai bambini e ai ragazzi in fuga
-  dalla guerra di proseguire il loro percorso scolastico ed educativo nel sistema
-  italiano.'
-url: https://www.istruzione.it/emergenza-educativa-ucraina/
-address:
-  mode: autocomplete
-  address: {}
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/615,1204395400,2022-04-14 14:58:39,2022-04-14 11:12:07,"Attività di Emergency in Italia per chi arriva dall'Ucraina: assistenza medica, orientamento ai servizi, kit di prima necessità",45.4641943,9.1896346,Lombardia,Milano,"[""Valid/Accettato"",""Services"",""materialGoods"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""state"":""Lombardia""},""boundingbox"":[""45.3867381"",""45.5358482"",""9.0408867"",""9.2781103""],""class"":""boundary"",""display_name"":""Milano, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8390652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":44915,""osm_type"":""relation"",""place_id"":283684439,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Ambulatori, Sportelli di orientamento socio-sanitario e ascolto psicologico a: Marghera, Brescia, Milano, Napoli, Castel Volturno, Sassari e Polistena. offrono: - visite mediche e orientamento sanitario per indirizzarli verso strutture dove effettuare visite specialistiche; - assistenza per procedere con la richiesta del codice Stp e dell\u2019iscrizione al Servizio sanitario nazionale, da cui dipende la possibilit\u00e0 di accedere alla scelta del medico di medicina generale; - orientamento agli hub vaccinali presenti sul territorio, in cui effettuare vaccini anti-Covid e i richiami; - orientamento per i minori per il completamento dei cicli di vaccini obbligatori, in collaborazione con il Dipartimento di prevenzione dell\u2019ASL locale.\nA Milano Emergency offre ai rifugiati ucraini anche supporto alimentare attraverso il progetto Nessuno Escluso. Contatti: 02 86316890."",""email"":""info@emergency.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":false,""label"":""useful contact"",""phoneNumber"":""(+39) 02 881881"",""submit"":true,""title"":""Emergency in Italia per persone in arrivo dall'Ucraina - assistenza medica, orientamento ai servizi, kit prima necessit\u00e0"",""url"":""https://www.emergency.it/progetti/emergenza-ucraina-cosa-facciamo-in-italia/""}","<pre><yamldata>
 title: Emergency in Italia per persone in arrivo dall'Ucraina - assistenza medica,
