@@ -1,4 +1,264 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/737,1221180297,2022-05-04 08:16:52,2022-04-29 16:14:16,"Trentino, online guida per l'accesso al lavoro per i profughi ucraini (in italiano e ucraino)",46.1030443,11.129840331695068,Trentino-Alto Adige,Trento,"[""Valid/Accettato"",""Services"",""job"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-TN"",""country"":""Italia"",""country_code"":""it"",""county"":""Provincia di Trento"",""state"":""Trentino-Alto Adige""},""boundingbox"":[""45.6728669"",""46.5332188"",""10.4522048"",""11.9628023""],""class"":""boundary"",""display_name"":""Provincia di Trento, Trentino-Alto Adige, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7380075390399246,""lat"":""46.1030443"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.129840331695068"",""osm_id"":45756,""osm_type"":""relation"",""place_id"":283226448,""type"":""administrative""},""mode"":""autocomplete""},""description"":""L'agenzia del Lavoro in Trentino ha predisposto una Guida all\u2019accesso ai servizi per la ricerca di lavoro rivolta ai cittadini dell\u2019Ucraina. La guida (disponibile in lingua italiana e in lingua ucraina) rappresenta una vera e propria bussola che facilita l\u2019accesso ai servizi e semplifica la ricerca di occupazione, valorizzando le proprie competenze in relazione alle opportunit\u00e0 offerte dal mercato del lavoro in provincia di Trento.\nLa guida \u00e8 disponibile anche in lingua ucraina, vedi link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Agenzia del Lavoro in Trentino"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":true,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Trentino, online guida per l'accesso al lavoro per i profughi ucraini (in italiano e ucraino)"",""url"":""https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/2527/PA-Trento-una-guida-per-laccesso-al-lavoro-per-i-profughi-Ucraini""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: true
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Agenzia del Lavoro in Trentino
+title: Trentino, online guida per l'accesso al lavoro per i profughi ucraini (in italiano
+  e ucraino)
+recipients: ''
+description: 'L''agenzia del Lavoro in Trentino ha predisposto una Guida all’accesso
+  ai servizi per la ricerca di lavoro rivolta ai cittadini dell’Ucraina. La guida
+  (disponibile in lingua italiana e in lingua ucraina) rappresenta una vera e propria
+  bussola che facilita l’accesso ai servizi e semplifica la ricerca di occupazione,
+  valorizzando le proprie competenze in relazione alle opportunità offerte dal mercato
+  del lavoro in provincia di Trento.
+
+  La guida è disponibile anche in lingua ucraina, vedi link.'
+url: https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/2527/PA-Trento-una-guida-per-laccesso-al-lavoro-per-i-profughi-Ucraini
+address:
+  mode: autocomplete
+  address:
+    place_id: 283226448
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 45756
+    boundingbox:
+    - '45.6728669'
+    - '46.5332188'
+    - '10.4522048'
+    - '11.9628023'
+    lat: '46.1030443'
+    lon: '11.129840331695068'
+    display_name: Provincia di Trento, Trentino-Alto Adige, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7380075390399246
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Provincia di Trento
+      ISO3166-2-lvl6: IT-TN
+      state: Trentino-Alto Adige
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/740,1221216227,2022-05-04 08:15:45,2022-04-29 16:32:49,"Varese, rete di sostegno per famiglie e minori fuggiti dall'Ucraina",45.83971285,8.754157594917665,Lombardia,Varese,"[""Valid/Accettato"",""News"",""Services"",""Children"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.83971285 8.754157594917665"",""description"":""La Casa Davanti al sole e La Casa del Giocattolo Solidale Varese hanno avviato la costruzione di una rete di sostegno per le famiglie fuggite dalla guerra in Ucraina, con particolare attenzione a bambini, ragazzi e donne. Per info: retesostegnoucraina@gmail.com La Casa Davanti al sole www.lacasadavantialsole.org - 0331827159 La Casa del Giocattolo Solidale Varese www.lacasadelgiocattolosolidale.it \u2013 3487538737"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.csvlombardia.it/varese/post/emergenza-umanitaria-ucraina-le-iniziative-in-provincia-di-varese/"",""location"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-VA"",""country"":""Italia"",""country_code"":""it"",""county"":""Varese"",""state"":""Lombardia""},""boundingbox"":[""45.5583143"",""46.1222569"",""8.552246"",""9.0662956""],""class"":""boundary"",""display_name"":""Varese, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7403937310744694,""lat"":""45.83971285"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.754157594917665"",""osm_id"":45347,""osm_type"":""relation"",""place_id"":284266553,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Varese, attivata rete di sostegno per famiglie fuggite dall'Ucraina""}","<pre><yamldata>
+title: Varese, attivata rete di sostegno per famiglie fuggite dall'Ucraina
+description: 'La Casa Davanti al sole e La Casa del Giocattolo Solidale Varese hanno
+  avviato la costruzione di una rete di sostegno per le famiglie fuggite dalla guerra
+  in Ucraina, con particolare attenzione a bambini, ragazzi e donne.
+Per info: retesostegnoucraina@gmail.com
+La Casa Davanti al sole www.lacasadavantialsole.org - 0331827159
+La Casa del Giocattolo Solidale Varese www.lacasadelgiocattolosolidale.it – 3487538737'
+link: https://www.csvlombardia.it/varese/post/emergenza-umanitaria-ucraina-le-iniziative-in-provincia-di-varese/
+location:
+  mode: autocomplete
+  address:
+    place_id: 284266553
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 45347
+    boundingbox:
+    - '45.5583143'
+    - '46.1222569'
+    - '8.552246'
+    - '9.0662956'
+    lat: '45.83971285'
+    lon: '8.754157594917665'
+    display_name: Varese, Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7403937310744694
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Varese
+      ISO3166-2-lvl6: IT-VA
+      state: Lombardia
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.83971285 8.754157594917665
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/746,1221574039,2022-05-04 08:15:17,2022-04-29 21:35:23,"Comune di Udine, attivo sportello Emergenza Ucraina per supportare i rifugiati e le famiglie ospitanti",46.069045,13.2275832,Friuli Venezia Giulia,Udine,"[""Valid/Accettato"",""Services"",""useful contact"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-36"",""ISO3166-2-lvl6"":""IT-UD"",""city"":""Udine"",""country"":""Italia"",""country_code"":""it"",""county"":""Udine"",""house_number"":""31"",""neighbourhood"":""Borgo di San Lazzaro"",""postcode"":""33100"",""road"":""Via Giovanni Micesio"",""state"":""Friuli Venezia Giulia""},""boundingbox"":[""46.068995"",""46.069095"",""13.2275332"",""13.2276332""],""class"":""place"",""display_name"":""31, Via Giovanni Micesio, Borgo di San Lazzaro, Udine, Friuli Venezia Giulia, 33100, Italia"",""importance"":0.42099999999999993,""lat"":""46.069045"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.2275832"",""osm_id"":3748979938,""osm_type"":""node"",""place_id"":44493338,""type"":""house""},""mode"":""autocomplete""},""aim"":""Lo sportello offre orientamento e supporto ai rifugiati ucraini e alle famiglie che ospitano rifugiati dall'Ucraiba. Lo sportello \u00e8 attivo in via Micesio, 31 (entrata anche da via Superiore, 3) nelle seguenti giornate: dal luned\u00ec al venerd\u00ec mattina dalle 9.00 alle 12.00.\nTel 0432 1272186.\nMail: emergenza.ucraina@comune.udine.it\n\nThe information desk is open 09:00-12:00 from Monday to Friday in Via Giovanni Micesio, 31, Udine, UD.\nCall us at 04321272186 or write an e-mail to emergenza.ucraina@comune.udine.it"",""email"":""emergenza.ucraina@comune.udine.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""0432 1272186."",""submit"":true,""title"":""Comune di Udine, attivo sportello Emergenza Ucraina per supportare i rifugiati e le famiglie ospitanti"",""url"":""https://www.comune.udine.it/it/sportello-emergenza-ucraina-22644/sportello-emergenza-ucraina-94028/sportello-emergenza-ucraina-94029""}","<pre><yamldata>
+title: Comune di Udine, attivo sportello Emergenza Ucraina per supportare i rifugiati
+  e le famiglie ospitanti
+phoneNumber: 0432 1272186.
+email: emergenza.ucraina@comune.udine.it
+aim: 'Lo sportello offre orientamento e supporto ai rifugiati ucraini e alle famiglie
+  che ospitano rifugiati dall''Ucraiba. Lo sportello è attivo in via Micesio, 31 (entrata
+  anche da via Superiore, 3) nelle seguenti giornate: dal lunedì al venerdì mattina
+  dalle 9.00 alle 12.00.
+
+  Tel 0432 1272186.
+
+  Mail: emergenza.ucraina@comune.udine.it
+
+
+  The information desk is open 09:00-12:00 from Monday to Friday in Via Giovanni Micesio,
+  31, Udine, UD.
+
+  Call us at 04321272186 or write an e-mail to emergenza.ucraina@comune.udine.it'
+url: https://www.comune.udine.it/it/sportello-emergenza-ucraina-22644/sportello-emergenza-ucraina-94028/sportello-emergenza-ucraina-94029
+address:
+  mode: autocomplete
+  address:
+    place_id: 44493338
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 3748979938
+    boundingbox:
+    - '46.068995'
+    - '46.069095'
+    - '13.2275332'
+    - '13.2276332'
+    lat: '46.069045'
+    lon: '13.2275832'
+    display_name: 31, Via Giovanni Micesio, Borgo di San Lazzaro, Udine, Friuli Venezia
+      Giulia, 33100, Italia
+    class: place
+    type: house
+    importance: 0.42099999999999993
+    address:
+      house_number: '31'
+      road: Via Giovanni Micesio
+      neighbourhood: Borgo di San Lazzaro
+      city: Udine
+      county: Udine
+      ISO3166-2-lvl6: IT-UD
+      state: Friuli Venezia Giulia
+      ISO3166-2-lvl4: IT-36
+      postcode: '33100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/751,1221926316,2022-05-04 08:15:00,2022-04-30 21:36:43,Su VolontaRimini info e contatti utili per accoglienza e supporto dei rifugiati ucraini a Forlì - Cesena,44.0227193,12.0141036,Emilia-Romagna,Forli'-Cesena,"[""Valid/Accettato"",""Services"",""Legal"",""useful contact"",""materialGoods"",""hospitality"",""healthcare"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""country"":""Italia"",""country_code"":""it"",""province"":""Forl\u00ec-Cesena"",""state"":""Emilia-Romagna""},""boundingbox"":[""43.7405381"",""44.3306793"",""11.645549"",""12.4577806""],""class"":""boundary"",""display_name"":""Forl\u00ec-Cesena, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8176513842267261,""lat"":""44.0227193"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.0141036"",""osm_id"":42609,""osm_type"":""relation"",""place_id"":284914007,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Sul sito di VolontaRimini tutte le info e i contatti utili per l\u2019accoglienza e il supporto dei rifugiati ucraini a Forl\u00ec - Cesena e altri comuni del territorio: ospitalit\u00e0, beni di prima necessit\u00e0, protezione temporanea, assistenza sanitaria, inserimento scolastico, mediazione linguistica e altro"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""VolontaRimini"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":true,""disability"":false,""education"":true,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Su VolontaRimini info e contatti utili per accoglienza e supporto dei rifugiati ucraini a Forl\u00ec e Cesena"",""url"":""http://www.volontarimini.it/it/articoli/2022/03/emergenza-ucraina-a-forl-cesena.html""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: true
+  transport: false
+  healthcare: true
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: true
+offerFromWho: VolontaRimini
+title: Su VolontaRimini info e contatti utili per accoglienza e supporto dei rifugiati
+  ucraini a Forlì e Cesena
+recipients: ''
+description: 'Sul sito di VolontaRimini tutte le info e i contatti utili per l’accoglienza
+  e il supporto dei rifugiati ucraini a Forlì - Cesena e altri comuni del territorio:
+  ospitalità, beni di prima necessità, protezione temporanea, assistenza sanitaria,
+  inserimento scolastico, mediazione linguistica e altro'
+url: http://www.volontarimini.it/it/articoli/2022/03/emergenza-ucraina-a-forl-cesena.html
+address:
+  mode: autocomplete
+  address:
+    place_id: 284914007
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 42609
+    boundingbox:
+    - '43.7405381'
+    - '44.3306793'
+    - '11.645549'
+    - '12.4577806'
+    lat: '44.0227193'
+    lon: '12.0141036'
+    display_name: Forlì-Cesena, Emilia-Romagna, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8176513842267261
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      province: Forlì-Cesena
+      state: Emilia-Romagna
+      ISO3166-2-lvl4: IT-45
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/754,1221932312,2022-05-04 08:14:44,2022-04-30 22:13:43,"L’Aquila, bus gratuiti per i profughi ucraini",42.1368853,13.610341022538911,Abruzzo,L'Aquila,"[""Valid/Accettato"",""Services"",""transport"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""L'Aquila"",""state"":""Abruzzo""},""boundingbox"":[""41.6820382"",""42.5912825"",""13.0189718"",""14.2297358""],""class"":""boundary"",""display_name"":""L'Aquila, Abruzzo, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8265055278596534,""lat"":""42.1368853"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.610341022538911"",""osm_id"":167044,""osm_type"":""relation"",""place_id"":283747468,""type"":""administrative""},""mode"":""autocomplete""},""description"":""I profughi ucraini in fuga dalla guerra che hanno trovato ospitalit\u00e0 all\u2019Aquila potranno viaggiare gratuitamente sugli autobus urbani. Lo ha stabilito l\u2019Ama spa che ha recepito l\u2019ordinanza regionale numero 1 del 15 aprile scorso, firmata dal presidente Marco Marsilio, con la quale si garantisce il trasporto gratuito su bus e treni regionali.\nAi fini della verifica dei titoli di viaggio i profughi ucraini devono esibire uno a scelta tra i seguenti documenti: tessera Stp (Straniero Temporaneamente Presente) rilasciata dalla Asl in data successiva al 24 febbraio 2022, permesso di soggiorno per protezione temporanea ex art. 20 del Tui (Testo Unico sull\u2019immigrazione), ricevuta relativa al rilascio del permesso di soggiorno per protezione temporanea ex art. 20 del Tui (Testo Unico sull\u2019immigrazione)."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune L\u2019Aquila - Ama"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""L\u2019Aquila, bus gratuiti per i profughi ucraini"",""url"":""https://www.ilcapoluogo.it/2022/04/27/laquila-per-i-profughi-ucraini-viaggi-gratis-sui-bus-ama/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: true
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Comune L’Aquila - Ama
+title: L’Aquila, bus gratuiti per i profughi ucraini
+recipients: ''
+description: 'I profughi ucraini in fuga dalla guerra che hanno trovato ospitalità
+  all’Aquila potranno viaggiare gratuitamente sugli autobus urbani. Lo ha stabilito
+  l’Ama spa che ha recepito l’ordinanza regionale numero 1 del 15 aprile scorso, firmata
+  dal presidente Marco Marsilio, con la quale si garantisce il trasporto gratuito
+  su bus e treni regionali.
+
+  Ai fini della verifica dei titoli di viaggio i profughi ucraini devono esibire uno
+  a scelta tra i seguenti documenti: tessera Stp (Straniero Temporaneamente Presente)
+  rilasciata dalla Asl in data successiva al 24 febbraio 2022, permesso di soggiorno
+  per protezione temporanea ex art. 20 del Tui (Testo Unico sull’immigrazione), ricevuta
+  relativa al rilascio del permesso di soggiorno per protezione temporanea ex art.
+  20 del Tui (Testo Unico sull’immigrazione).'
+url: https://www.ilcapoluogo.it/2022/04/27/laquila-per-i-profughi-ucraini-viaggi-gratis-sui-bus-ama/
+address:
+  mode: autocomplete
+  address:
+    place_id: 283747468
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 167044
+    boundingbox:
+    - '41.6820382'
+    - '42.5912825'
+    - '13.0189718'
+    - '14.2297358'
+    lat: '42.1368853'
+    lon: '13.610341022538911'
+    display_name: L'Aquila, Abruzzo, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8265055278596534
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: L'Aquila
+      state: Abruzzo
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/738,1221196147,2022-05-03 07:05:57,2022-04-29 16:22:06,Bando Fondazione Pro Valtellina per progetti a sostegno dei profughi ucraini nella provincia di Sondrio,46.1695919,9.8742587,Lombardia,Sondrio,"[""Valid/Accettato"",""News"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""46.1695919 9.8742587"",""description"":""Saranno sostenuti progetti per il supporto e l\u2019accoglienza di chi fugge dalla guerra realizzati sul territorio della provincia di Sondrio da istituzioni e/o enti del Terzo Settore con competenze nel coordinamento e nell\u2019attuazione di iniziative di accoglienza. Sar\u00e0 possibile sostenere anche, attraverso le istituzioni ed enti sopra indicati, esperienze di accoglienza spontanea da parte di persone ucraine gi\u00e0 residenti sul territorio che si sono prodigate per accogliere familiari e parenti in fuga dalla guerra.\nSi invitano le organizzazioni proponenti,  in fase di stesura del progetto, a prendere contatti con gli uffici della Fondazione Pro Valtellina Onlus  in modo da confrontarsi preventivamente  per presentare progetti in linea con gli obiettivi e corredati da documentazione corretta ed esaustiva.\nLe domande dovranno essere presentate mediante procedura online accedendo all\u2019area riservata del sito della Fondazione Pro Valtellina."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.provaltellina.org/altre-iniziative/"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Sondrio"",""municipality"":""Comunit\u00e0 montana della Valtellina di Sondrio"",""postcode"":""23100"",""road"":""Via Trieste"",""state"":""Lombardia"",""town"":""Sondrio""},""boundingbox"":[""46.1691872"",""46.1700735"",""9.8723272"",""9.8765571""],""class"":""highway"",""display_name"":""Via Trieste, Sondrio, Comunit\u00e0 montana della Valtellina di Sondrio, Sondrio, Lombardia, 23100, Italia"",""importance"":0.61,""lat"":""46.1695919"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.8742587"",""osm_id"":143767480,""osm_type"":""way"",""place_id"":136433680,""type"":""residential""},""mode"":""autocomplete""},""submit"":true,""title"":""Bando Fondazione Pro Valtellina per progetti a sostegno dei profughi ucraini nella provincia di Sondrio""}","<pre><yamldata>
 title: Bando Fondazione Pro Valtellina per progetti a sostegno dei profughi ucraini
   nella provincia di Sondrio
@@ -720,64 +980,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/754,1221932312,2022-04-30 22:31:26,2022-04-30 22:13:43,"L’Aquila, bus gratuiti per i profughi ucraini",42.1368853,13.610341022538911,Abruzzo,L'Aquila,"[""Valid/Accettato"",""Services"",""transport""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""L'Aquila"",""state"":""Abruzzo""},""boundingbox"":[""41.6820382"",""42.5912825"",""13.0189718"",""14.2297358""],""class"":""boundary"",""display_name"":""L'Aquila, Abruzzo, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8265055278596534,""lat"":""42.1368853"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.610341022538911"",""osm_id"":167044,""osm_type"":""relation"",""place_id"":283747468,""type"":""administrative""},""mode"":""autocomplete""},""description"":""I profughi ucraini in fuga dalla guerra che hanno trovato ospitalit\u00e0 all\u2019Aquila potranno viaggiare gratuitamente sugli autobus urbani. Lo ha stabilito l\u2019Ama spa che ha recepito l\u2019ordinanza regionale numero 1 del 15 aprile scorso, firmata dal presidente Marco Marsilio, con la quale si garantisce il trasporto gratuito su bus e treni regionali.\nAi fini della verifica dei titoli di viaggio i profughi ucraini devono esibire uno a scelta tra i seguenti documenti: tessera Stp (Straniero Temporaneamente Presente) rilasciata dalla Asl in data successiva al 24 febbraio 2022, permesso di soggiorno per protezione temporanea ex art. 20 del Tui (Testo Unico sull\u2019immigrazione), ricevuta relativa al rilascio del permesso di soggiorno per protezione temporanea ex art. 20 del Tui (Testo Unico sull\u2019immigrazione)."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune L\u2019Aquila - Ama"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":true,""women"":false},""submit"":true,""title"":""L\u2019Aquila, bus gratuiti per i profughi ucraini"",""url"":""https://www.ilcapoluogo.it/2022/04/27/laquila-per-i-profughi-ucraini-viaggi-gratis-sui-bus-ama/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: true
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Comune L’Aquila - Ama
-title: L’Aquila, bus gratuiti per i profughi ucraini
-recipients: ''
-description: 'I profughi ucraini in fuga dalla guerra che hanno trovato ospitalità
-  all’Aquila potranno viaggiare gratuitamente sugli autobus urbani. Lo ha stabilito
-  l’Ama spa che ha recepito l’ordinanza regionale numero 1 del 15 aprile scorso, firmata
-  dal presidente Marco Marsilio, con la quale si garantisce il trasporto gratuito
-  su bus e treni regionali.
-
-  Ai fini della verifica dei titoli di viaggio i profughi ucraini devono esibire uno
-  a scelta tra i seguenti documenti: tessera Stp (Straniero Temporaneamente Presente)
-  rilasciata dalla Asl in data successiva al 24 febbraio 2022, permesso di soggiorno
-  per protezione temporanea ex art. 20 del Tui (Testo Unico sull’immigrazione), ricevuta
-  relativa al rilascio del permesso di soggiorno per protezione temporanea ex art.
-  20 del Tui (Testo Unico sull’immigrazione).'
-url: https://www.ilcapoluogo.it/2022/04/27/laquila-per-i-profughi-ucraini-viaggi-gratis-sui-bus-ama/
-address:
-  mode: autocomplete
-  address:
-    place_id: 283747468
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 167044
-    boundingbox:
-    - '41.6820382'
-    - '42.5912825'
-    - '13.0189718'
-    - '14.2297358'
-    lat: '42.1368853'
-    lon: '13.610341022538911'
-    display_name: L'Aquila, Abruzzo, Italia
-    class: boundary
-    type: administrative
-    importance: 0.8265055278596534
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      county: L'Aquila
-      state: Abruzzo
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/747,1221866383,2022-04-30 21:59:45,2022-04-30 16:15:17,"Dipartimento Protezione Civile, online la piattaforma per chiedere il contributo in denaro previsto per i rifugiati ucraini ",,,,,"[""Valid/Accettato"",""News"",""Services"",""telegram-channel"",""tweet""]",,,"{""description"":""\u00c8 online la piattaforma del Dipartimento della Protezione Civile che permette alle persone in fuga dalla guerra in Ucraina di richiedere il contributo di sostentamento per s\u00e9, per i propri figli, per i minori di cui si ha tutela legale.\nIl contributo \u2013 che ha l\u2019obiettivo di offrire un primo sostegno economico in Italia \u2013 \u00e8 destinato a chi ha presentato domanda di permesso di soggiorno per protezione temporanea e ha trovato una sistemazione autonoma anche presso parenti, amici o famiglie ospitanti.\nPer richiedere il contributo su https://contributo-emergenzaucraina.protezionecivile.gov.it \u00e8 necessario avere il Codice Fiscale (indicato nella ricevuta della domanda di permesso di soggiorno per protezione temporanea), un numero di cellulare e una email.\n\u00c8 possibile richiedere il contributo fino al 30 settembre.\nPer conoscere nel dettaglio requisiti e modalit\u00e0 di richiesta del contributo \u00e8 disponibile un vademecum in italiano, inglese e ucraino https://contributo-emergenzaucraina.protezionecivile.gov.it/#/vademecum"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://emergenze.protezionecivile.gov.it/it/pagina-base/la-piattaforma-richiedere-il-contributo-di-sostentamento"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Dipartimento Protezione Civile, online la piattaforma per chiedere il contributo in denaro previsto per i rifugiati ucraini""}","<pre><yamldata>
 title: Dipartimento Protezione Civile, online la piattaforma per chiedere il contributo
   in denaro previsto per i rifugiati ucraini
@@ -804,58 +1006,6 @@ location:
   address: {}
 label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/751,1221926316,2022-04-30 21:56:05,2022-04-30 21:36:43,Su VolontaRimini info e contatti utili per accoglienza e supporto dei rifugiati ucraini a Forlì - Cesena,44.0227193,12.0141036,Emilia-Romagna,Forli'-Cesena,"[""Valid/Accettato"",""Services"",""Legal"",""useful contact"",""materialGoods"",""hospitality"",""healthcare"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""country"":""Italia"",""country_code"":""it"",""province"":""Forl\u00ec-Cesena"",""state"":""Emilia-Romagna""},""boundingbox"":[""43.7405381"",""44.3306793"",""11.645549"",""12.4577806""],""class"":""boundary"",""display_name"":""Forl\u00ec-Cesena, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8176513842267261,""lat"":""44.0227193"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.0141036"",""osm_id"":42609,""osm_type"":""relation"",""place_id"":284914007,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Sul sito di VolontaRimini tutte le info e i contatti utili per l\u2019accoglienza e il supporto dei rifugiati ucraini a Forl\u00ec - Cesena e altri comuni del territorio: ospitalit\u00e0, beni di prima necessit\u00e0, protezione temporanea, assistenza sanitaria, inserimento scolastico, mediazione linguistica e altro"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""VolontaRimini"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":true,""disability"":false,""education"":true,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Su VolontaRimini info e contatti utili per accoglienza e supporto dei rifugiati ucraini a Forl\u00ec e Cesena"",""url"":""http://www.volontarimini.it/it/articoli/2022/03/emergenza-ucraina-a-forl-cesena.html""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: true
-  transport: false
-  healthcare: true
-  Legal: true
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: true
-  disability: false
-  women: false
-  education: true
-offerFromWho: VolontaRimini
-title: Su VolontaRimini info e contatti utili per accoglienza e supporto dei rifugiati
-  ucraini a Forlì e Cesena
-recipients: ''
-description: 'Sul sito di VolontaRimini tutte le info e i contatti utili per l’accoglienza
-  e il supporto dei rifugiati ucraini a Forlì - Cesena e altri comuni del territorio:
-  ospitalità, beni di prima necessità, protezione temporanea, assistenza sanitaria,
-  inserimento scolastico, mediazione linguistica e altro'
-url: http://www.volontarimini.it/it/articoli/2022/03/emergenza-ucraina-a-forl-cesena.html
-address:
-  mode: autocomplete
-  address:
-    place_id: 284914007
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 42609
-    boundingbox:
-    - '43.7405381'
-    - '44.3306793'
-    - '11.645549'
-    - '12.4577806'
-    lat: '44.0227193'
-    lon: '12.0141036'
-    display_name: Forlì-Cesena, Emilia-Romagna, Italia
-    class: boundary
-    type: administrative
-    importance: 0.8176513842267261
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      province: Forlì-Cesena
-      state: Emilia-Romagna
-      ISO3166-2-lvl4: IT-45
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/750,1221925241,2022-04-30 21:55:50,2022-04-30 21:29:56,Su VolontaRimini info e contatti utili per accoglienza e supporto dei rifugiati ucraini a Rimini e provincia ,43.9470982,12.630768610516004,Emilia-Romagna,Rimini,"[""Valid/Accettato"",""Services"",""Legal"",""useful contact"",""materialGoods"",""hospitality"",""healthcare"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""ISO3166-2-lvl6"":""IT-RN"",""country"":""Italia"",""country_code"":""it"",""county"":""Rimini"",""state"":""Emilia-Romagna""},""boundingbox"":[""43.7318997"",""44.1622868"",""12.0961656"",""12.7559006""],""class"":""boundary"",""display_name"":""Rimini, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7275060732242618,""lat"":""43.9470982"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.630768610516004"",""osm_id"":42661,""osm_type"":""relation"",""place_id"":283529298,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Sul sito di VolontaRimini - Centro Servizi per il Volontariato info info e contatti utili per l\u2019accoglienza e il supporto dei rifugiati ucraini a Rimini e provincia: assistenza sanitaria, protezione temporanea, alloggio, beni di prima necessit\u00e0, inserimento scolastico e altro."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Volontarimini"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":true,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Su VolontaRimini info e contatti utili per accoglienza e supporto dei rifugiati ucraini a Rimini e provincia"",""url"":""http://www.volontarimini.it/it/articoli/2022/03/prefettura-di-rimini-crisi-ucraina.html""}","<pre><yamldata>
@@ -971,61 +1121,6 @@ address:
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/746,1221574039,2022-04-30 09:17:37,2022-04-29 21:35:23,"Comune di Udine, attivo sportello Emergenza Ucraina per supportare i rifugiati e le famiglie ospitanti",46.069045,13.2275832,Friuli Venezia Giulia,Udine,"[""Valid/Accettato"",""Services"",""useful contact"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-36"",""ISO3166-2-lvl6"":""IT-UD"",""city"":""Udine"",""country"":""Italia"",""country_code"":""it"",""county"":""Udine"",""house_number"":""31"",""neighbourhood"":""Borgo di San Lazzaro"",""postcode"":""33100"",""road"":""Via Giovanni Micesio"",""state"":""Friuli Venezia Giulia""},""boundingbox"":[""46.068995"",""46.069095"",""13.2275332"",""13.2276332""],""class"":""place"",""display_name"":""31, Via Giovanni Micesio, Borgo di San Lazzaro, Udine, Friuli Venezia Giulia, 33100, Italia"",""importance"":0.42099999999999993,""lat"":""46.069045"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.2275832"",""osm_id"":3748979938,""osm_type"":""node"",""place_id"":44493338,""type"":""house""},""mode"":""autocomplete""},""aim"":""Lo sportello offre orientamento e supporto ai rifugiati ucraini e alle famiglie che ospitano rifugiati dall'Ucraiba. Lo sportello \u00e8 attivo in via Micesio, 31 (entrata anche da via Superiore, 3) nelle seguenti giornate: dal luned\u00ec al venerd\u00ec mattina dalle 9.00 alle 12.00.\nTel 0432 1272186.\nMail: emergenza.ucraina@comune.udine.it\n\nThe information desk is open 09:00-12:00 from Monday to Friday in Via Giovanni Micesio, 31, Udine, UD.\nCall us at 04321272186 or write an e-mail to emergenza.ucraina@comune.udine.it"",""email"":""emergenza.ucraina@comune.udine.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""0432 1272186."",""submit"":true,""title"":""Comune di Udine, attivo sportello Emergenza Ucraina per supportare i rifugiati e le famiglie ospitanti"",""url"":""https://www.comune.udine.it/it/sportello-emergenza-ucraina-22644/sportello-emergenza-ucraina-94028/sportello-emergenza-ucraina-94029""}","<pre><yamldata>
-title: Comune di Udine, attivo sportello Emergenza Ucraina per supportare i rifugiati
-  e le famiglie ospitanti
-phoneNumber: 0432 1272186.
-email: emergenza.ucraina@comune.udine.it
-aim: 'Lo sportello offre orientamento e supporto ai rifugiati ucraini e alle famiglie
-  che ospitano rifugiati dall''Ucraiba. Lo sportello è attivo in via Micesio, 31 (entrata
-  anche da via Superiore, 3) nelle seguenti giornate: dal lunedì al venerdì mattina
-  dalle 9.00 alle 12.00.
-
-  Tel 0432 1272186.
-
-  Mail: emergenza.ucraina@comune.udine.it
-
-
-  The information desk is open 09:00-12:00 from Monday to Friday in Via Giovanni Micesio,
-  31, Udine, UD.
-
-  Call us at 04321272186 or write an e-mail to emergenza.ucraina@comune.udine.it'
-url: https://www.comune.udine.it/it/sportello-emergenza-ucraina-22644/sportello-emergenza-ucraina-94028/sportello-emergenza-ucraina-94029
-address:
-  mode: autocomplete
-  address:
-    place_id: 44493338
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 3748979938
-    boundingbox:
-    - '46.068995'
-    - '46.069095'
-    - '13.2275332'
-    - '13.2276332'
-    lat: '46.069045'
-    lon: '13.2275832'
-    display_name: 31, Via Giovanni Micesio, Borgo di San Lazzaro, Udine, Friuli Venezia
-      Giulia, 33100, Italia
-    class: place
-    type: house
-    importance: 0.42099999999999993
-    address:
-      house_number: '31'
-      road: Via Giovanni Micesio
-      neighbourhood: Borgo di San Lazzaro
-      city: Udine
-      county: Udine
-      ISO3166-2-lvl6: IT-UD
-      state: Friuli Venezia Giulia
-      ISO3166-2-lvl4: IT-36
-      postcode: '33100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: useful contact
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/712,1213708852,2022-04-30 09:15:34,2022-04-24 17:02:14,Regione Piemonte - Lista hotspot dove i rifugiati ucraini possono effettuare tamponi Covid 19 al momento del loro arrivo,45.0716729,7.6847021,Piemonte,Torino,"[""Valid/Accettato"",""useful contact"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.0716729 7.6847021"",""address"":{""address"":{},""mode"":""autocomplete""},""aim"":""Tutte le persone provenienti dall\u2019Ucraina devono sottoporsi a un tampone antigenico o molecolare entro 48 ore o in ogni caso al pi\u00f9 presto. Per consentirlo la Regione Piemonte ha previsto un accesso diretto con percorsi dedicati negli hotspot del territorio."",""email"":""accoglienza.ucraina@regione.piemonte.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Regione Piemonte - Lista hotspot per tamponi all'ingresso"",""url"":""https://www.regione.piemonte.it/web/sites/default/files/media/documenti/2022-03/hot_spot_tamponi_marzo_4.pdf""}","<pre><yamldata>
@@ -1360,45 +1455,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 46.2017559 6.1466014
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/740,1221216227,2022-04-30 09:13:14,2022-04-29 16:32:49,"Varese, rete di sostegno per famiglie e minori fuggiti dall'Ucraina",45.83971285,8.754157594917665,Lombardia,Varese,"[""Valid/Accettato"",""News"",""Services"",""Children""]",,,"{""Posizione"":""45.83971285 8.754157594917665"",""description"":""La Casa Davanti al sole e La Casa del Giocattolo Solidale Varese hanno avviato la costruzione di una rete di sostegno per le famiglie fuggite dalla guerra in Ucraina, con particolare attenzione a bambini, ragazzi e donne. Per info: retesostegnoucraina@gmail.com La Casa Davanti al sole www.lacasadavantialsole.org - 0331827159 La Casa del Giocattolo Solidale Varese www.lacasadelgiocattolosolidale.it \u2013 3487538737"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.csvlombardia.it/varese/post/emergenza-umanitaria-ucraina-le-iniziative-in-provincia-di-varese/"",""location"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-VA"",""country"":""Italia"",""country_code"":""it"",""county"":""Varese"",""state"":""Lombardia""},""boundingbox"":[""45.5583143"",""46.1222569"",""8.552246"",""9.0662956""],""class"":""boundary"",""display_name"":""Varese, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7403937310744694,""lat"":""45.83971285"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.754157594917665"",""osm_id"":45347,""osm_type"":""relation"",""place_id"":284266553,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Varese, attivata rete di sostegno per famiglie fuggite dall'Ucraina""}","<pre><yamldata>
-title: Varese, attivata rete di sostegno per famiglie fuggite dall'Ucraina
-description: 'La Casa Davanti al sole e La Casa del Giocattolo Solidale Varese hanno
-  avviato la costruzione di una rete di sostegno per le famiglie fuggite dalla guerra
-  in Ucraina, con particolare attenzione a bambini, ragazzi e donne.
-Per info: retesostegnoucraina@gmail.com
-La Casa Davanti al sole www.lacasadavantialsole.org - 0331827159
-La Casa del Giocattolo Solidale Varese www.lacasadelgiocattolosolidale.it – 3487538737'
-link: https://www.csvlombardia.it/varese/post/emergenza-umanitaria-ucraina-le-iniziative-in-provincia-di-varese/
-location:
-  mode: autocomplete
-  address:
-    place_id: 284266553
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 45347
-    boundingbox:
-    - '45.5583143'
-    - '46.1222569'
-    - '8.552246'
-    - '9.0662956'
-    lat: '45.83971285'
-    lon: '8.754157594917665'
-    display_name: Varese, Lombardia, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7403937310744694
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      county: Varese
-      ISO3166-2-lvl6: IT-VA
-      state: Lombardia
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 45.83971285 8.754157594917665
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/742,1221364214,2022-04-30 09:11:14,2022-04-29 18:01:48,Su Welfare Como info e contatti utili per i profughi ucraini e per chi vuole offrire aiuto (in italiano e ucraino),45.8099549,9.084835,Lombardia,Como,"[""Valid/Accettato"",""Services"",""materialGoods"",""hospitality"",""healthcare"",""Children""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-CO"",""city"":""Como"",""country"":""Italia"",""country_code"":""it"",""county"":""Como"",""house_number"":""97"",""neighbourhood"":""San Vitale"",""postcode"":""22100"",""road"":""Via Vittorio Emanuele Secondo"",""state"":""Lombardia"",""suburb"":""Citt\u00e0 murata""},""boundingbox"":[""45.8099049"",""45.8100049"",""9.084785"",""9.084885""],""class"":""place"",""display_name"":""97, Via Vittorio Emanuele Secondo, San Vitale, Citt\u00e0 murata, Como, Lombardia, 22100, Italia"",""importance"":0.5209999999999999,""lat"":""45.8099549"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.084835"",""osm_id"":7850010126,""osm_type"":""node"",""place_id"":80940489,""type"":""house""},""mode"":""autocomplete""},""description"":""Sulla piattaforma Welfare Como, promossa dal Comune di Como, informazioni e contatti utili per chi arriva dall'Ucraina (alloggio, procedure per il permesso, scuola, assistenza sanitaria e altro) e per chi vuole donare denaro oppure offrire ospitalit\u00e0, lavoro, servizi vari, beni di prima necessit\u00e0.\nTutte le informazioni sono disponibili in italiano e ucraino."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Como"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Su Welfare Como info e contatti utili per i profughi ucraini e per chi vuole offrire aiuto (in italiano e ucraino)"",""url"":""https://welfarecomo.it/como/""}","<pre><yamldata>
 servicetypes:
   materialGoods: true
@@ -1597,62 +1653,6 @@ address:
       ISO3166-2-lvl6: IT-MI
       state: Lombardia
       postcode: '20099'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/737,1221180297,2022-04-30 08:58:35,2022-04-29 16:14:16,"Trentino, online guida per l'accesso al lavoro per i profughi ucraini (in italiano e ucraino)",46.1030443,11.129840331695068,Trentino-Alto Adige,Trento,"[""Valid/Accettato"",""Services"",""job""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-TN"",""country"":""Italia"",""country_code"":""it"",""county"":""Provincia di Trento"",""state"":""Trentino-Alto Adige""},""boundingbox"":[""45.6728669"",""46.5332188"",""10.4522048"",""11.9628023""],""class"":""boundary"",""display_name"":""Provincia di Trento, Trentino-Alto Adige, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7380075390399246,""lat"":""46.1030443"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.129840331695068"",""osm_id"":45756,""osm_type"":""relation"",""place_id"":283226448,""type"":""administrative""},""mode"":""autocomplete""},""description"":""L'agenzia del Lavoro in Trentino ha predisposto una Guida all\u2019accesso ai servizi per la ricerca di lavoro rivolta ai cittadini dell\u2019Ucraina. La guida (disponibile in lingua italiana e in lingua ucraina) rappresenta una vera e propria bussola che facilita l\u2019accesso ai servizi e semplifica la ricerca di occupazione, valorizzando le proprie competenze in relazione alle opportunit\u00e0 offerte dal mercato del lavoro in provincia di Trento.\nLa guida \u00e8 disponibile anche in lingua ucraina, vedi link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Agenzia del Lavoro in Trentino"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":true,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Trentino, online guida per l'accesso al lavoro per i profughi ucraini (in italiano e ucraino)"",""url"":""https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/2527/PA-Trento-una-guida-per-laccesso-al-lavoro-per-i-profughi-Ucraini""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: true
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Agenzia del Lavoro in Trentino
-title: Trentino, online guida per l'accesso al lavoro per i profughi ucraini (in italiano
-  e ucraino)
-recipients: ''
-description: 'L''agenzia del Lavoro in Trentino ha predisposto una Guida all’accesso
-  ai servizi per la ricerca di lavoro rivolta ai cittadini dell’Ucraina. La guida
-  (disponibile in lingua italiana e in lingua ucraina) rappresenta una vera e propria
-  bussola che facilita l’accesso ai servizi e semplifica la ricerca di occupazione,
-  valorizzando le proprie competenze in relazione alle opportunità offerte dal mercato
-  del lavoro in provincia di Trento.
-
-  La guida è disponibile anche in lingua ucraina, vedi link.'
-url: https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/2527/PA-Trento-una-guida-per-laccesso-al-lavoro-per-i-profughi-Ucraini
-address:
-  mode: autocomplete
-  address:
-    place_id: 283226448
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 45756
-    boundingbox:
-    - '45.6728669'
-    - '46.5332188'
-    - '10.4522048'
-    - '11.9628023'
-    lat: '46.1030443'
-    lon: '11.129840331695068'
-    display_name: Provincia di Trento, Trentino-Alto Adige, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7380075390399246
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      county: Provincia di Trento
-      ISO3166-2-lvl6: IT-TN
-      state: Trentino-Alto Adige
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
