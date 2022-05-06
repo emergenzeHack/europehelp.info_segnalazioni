@@ -1,4 +1,261 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/744,1221534622,2022-05-06 07:47:19,2022-04-29 21:01:41,"TrovaSocial, mappa dei servizi territoriali in Italia per chi si trova in difficoltà (migranti, rifugiati, senza dimora)",,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""telegram-channel"",""tweet"",""Resources""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""aim"":""TrovaSocial \u00e8 una mappa online, realizzata dalla cooperativa Itinere, dedicata ai servizi territoriali per chi in Italia si trova in condizione di disagio, in particolare persone senza dimora, migranti, rifugiati, richiedenti asilo, donne vittime di tratta.\nLa mappa raccoglie informazioni sui servizi presenti sul territorio nazionale di segretariato sociale, orientamento e ascolto, mense e distribuzione di alimenti e beni di prima necessit\u00e0, ambulatori e cure mediche, scuole e formazione, corsi di italiano per stranieri, lavoro, supporto legale e altro."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""TrovaSocial, mappa dei servizi territoriali in Italia per chi si trova in difficolt\u00e0 (migranti, rifugiati, senza dimora)"",""url"":""http://www.trovasocial.it/""}","<pre><yamldata>
+title: TrovaSocial, mappa dei servizi territoriali in Italia per chi si trova in difficoltà
+  (migranti, rifugiati, senza dimora)
+phoneNumber: ''
+email: ''
+aim: 'TrovaSocial è una mappa online, realizzata dalla cooperativa Itinere, dedicata
+  ai servizi territoriali per chi in Italia si trova in condizione di disagio, in
+  particolare persone senza dimora, migranti, rifugiati, richiedenti asilo, donne
+  vittime di tratta.
+
+  La mappa raccoglie informazioni sui servizi presenti sul territorio nazionale di
+  segretariato sociale, orientamento e ascolto, mense e distribuzione di alimenti
+  e beni di prima necessità, ambulatori e cure mediche, scuole e formazione, corsi
+  di italiano per stranieri, lavoro, supporto legale e altro.'
+url: http://www.trovasocial.it/
+address:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/749,1221923944,2022-05-06 07:44:06,2022-04-30 21:21:54,"Comune di Rimini, attivo sportello per accoglienza e supporto ai rifugiati ucraini",43.9933539,12.6557479,Emilia-Romagna,Rimini,"[""Valid/Accettato"",""Services"",""materialGoods"",""hospitality"",""healthcare"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""ISO3166-2-lvl6"":""IT-RN"",""country"":""Italia"",""country_code"":""it"",""county"":""Rimini"",""neighbourhood"":""Abissinia"",""postcode"":""47838"",""road"":""Viale Lazio"",""state"":""Emilia-Romagna"",""town"":""Riccione""},""boundingbox"":[""43.9928403"",""43.9938826"",""12.6546603"",""12.6566699""],""class"":""highway"",""display_name"":""Viale Lazio, Abissinia, Riccione, Rimini, Emilia-Romagna, 47838, Italia"",""importance"":0.4,""lat"":""43.9933539"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.6557479"",""osm_id"":26535410,""osm_type"":""way"",""place_id"":107409056,""type"":""unclassified""},""mode"":""autocomplete""},""description"":""Lo sportello, operativo in viale Lazio (vicino la Biblioteca - il locale \u00e8 lo stesso che il Comune ha messo a disposizione per l'Unicef) osserva i seguenti orari:\nluned\u00ec, mercoled\u00ec, venerd\u00ec ore 9.30-12; marted\u00ec e gioved\u00ec ore 16-18.\n \nPresenti due mediatori culturali che forniranno informazioni sul percorso che ogni cittadino ucraino dovr\u00e0 fare per soggiornare regolarmente sul territorio italiano.\n\nVerranno fornite informazioni anche riguardo ad assistenza sanitaria, inserimento dei minori nelle scuole, sostegno alimentare da parte delle Caritas e del vestiario da parte del CAV (Centro Aiuto alla Vita).\n\nIl numero di riferimento dello sportello \u00e8 3316670095."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Rimini"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Rimini, attivo sportello per accoglienza e supporto ai rifugiati ucraini"",""url"":""https://www.comune.riccione.rn.it/Home/emergenzaucraina""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: true
+  transport: false
+  healthcare: true
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Comune di Rimini
+title: Comune di Rimini, attivo sportello per accoglienza e supporto ai rifugiati
+  ucraini
+recipients: ''
+description: ""Lo sportello, operativo in viale Lazio (vicino la Biblioteca - il locale\
+  \ è lo stesso che il Comune ha messo a disposizione per l'Unicef) osserva i seguenti\
+  \ orari:\nlunedì, mercoledì, venerdì ore 9.30-12; martedì e giovedì ore 16-18.\n\
+  \ \nPresenti due mediatori culturali che forniranno informazioni sul percorso che\
+  \ ogni cittadino ucraino dovrà fare per soggiornare regolarmente sul territorio\
+  \ italiano.\n\nVerranno fornite informazioni anche riguardo ad assistenza sanitaria,\
+  \ inserimento dei minori nelle scuole, sostegno alimentare da parte delle Caritas\
+  \ e del vestiario da parte del CAV (Centro Aiuto alla Vita).\n\nIl numero di riferimento\
+  \ dello sportello è 3316670095.""
+url: https://www.comune.riccione.rn.it/Home/emergenzaucraina
+address:
+  mode: autocomplete
+  address:
+    place_id: 107409056
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 26535410
+    boundingbox:
+    - '43.9928403'
+    - '43.9938826'
+    - '12.6546603'
+    - '12.6566699'
+    lat: '43.9933539'
+    lon: '12.6557479'
+    display_name: Viale Lazio, Abissinia, Riccione, Rimini, Emilia-Romagna, 47838,
+      Italia
+    class: highway
+    type: unclassified
+    importance: 0.4
+    address:
+      road: Viale Lazio
+      neighbourhood: Abissinia
+      town: Riccione
+      county: Rimini
+      ISO3166-2-lvl6: IT-RN
+      state: Emilia-Romagna
+      ISO3166-2-lvl4: IT-45
+      postcode: '47838'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/743,1221371012,2022-05-06 07:43:46,2022-04-29 18:10:20,"Caritas Como, servizio ""Porta Aperta"" offre alloggi e aiuti ai rifugiati ucraini",45.8085189,9.0792853,Lombardia,Como,"[""Valid/Accettato"",""Services"",""materialGoods"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-CO"",""city"":""Como"",""country"":""Italia"",""country_code"":""it"",""county"":""Como"",""neighbourhood"":""San Giovanni"",""postcode"":""22100"",""road"":""Viale Varese"",""state"":""Lombardia"",""suburb"":""Citt\u00e0 murata""},""boundingbox"":[""45.8067836"",""45.8104597"",""9.0773152"",""9.0810185""],""class"":""highway"",""display_name"":""Viale Varese, San Giovanni, Citt\u00e0 murata, Como, Lombardia, 22100, Italia"",""importance"":0.41000000000000003,""lat"":""45.8085189"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.0792853"",""osm_id"":140992488,""osm_type"":""way"",""place_id"":135397543,""type"":""tertiary""},""mode"":""autocomplete""},""description"":""Per i profughi gi\u00e0 arrivati in citt\u00e0 e che necessitano di assistenza (alloggio e aiuto concreto) \u00e8 possibile contattare il servizio di Caritas Como \u201cPorta Aperta\u201d, Viale Varese n. 25, luned\u00ec \u2013 mercoled\u00ec - venerd\u00ec dalle ore 9.00 alle ore 12.00.\nOppure Tel. 031267010 o scrivere a porta.aperta@caritascomo.it\n\n\u0414\u043b\u044f \u0431\u0456\u0436\u0435\u043d\u0446\u0456\u0432, \u044f\u043a\u0456 \u0432\u0436\u0435 \u043f\u0440\u0438\u0431\u0443\u043b\u0438 \u0434\u043e \u043c\u0456\u0441\u0442\u0430 \u0456 \u043f\u043e\u0442\u0440\u0435\u0431\u0443\u044e\u0442\u044c \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0438, \u043c\u043e\u0436\u043d\u0430 \u0437\u0432\u0435\u0440\u043d\u0443\u0442\u0438\u0441\u044f \u0434\u043e \u0441\u043b\u0443\u0436\u0431\u0438 \u00ab\u0412\u0456\u0434\u043a\u0440\u0438\u0442\u0456 \u0434\u0432\u0435\u0440\u0456\u00bb.\n\u0410\u0434\u0440\u0435\u0441\u0430: \u0432\u0443\u043b\u0438\u0446\u044f Viale Varese \u2116 25 - \u043f\u043e\u043d\u0435\u0434\u0456\u043b\u043e\u043a - \u0441\u0435\u0440\u0435\u0434\u0430 - \u043f'\u044f\u0442\u043d\u0438\u0446\u044f \u0437 9.00 \u0434\u043e 12.00 \u0410\u0431\u043e \u0437\u0430 \u0442\u0435\u043b. 031267010 \u0430\u0431\u043e \u043d\u0430\u043f\u0438\u0448\u0456\u0442\u044c \u043d\u0430 \u0430\u0434\u0440\u0435\u0441\u0443 porta.aperta@caritascomo.it\n\u041b\u0438\u0448\u0435 \u0434\u043b\u044f \u0433\u0440\u043e\u043c\u0430\u0434\u044f\u043d \u041a\u043e\u043c\u043e - \u0437\u0432\u0435\u0440\u0442\u0430\u0439\u0442\u0435\u0441\u044f \u0437\u0430 \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0446\u0438\u0432\u0456\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u0445\u0438\u0441\u0442\u0443 347.5544045 \u0437 9.00 \u0434\u043e 17.00 \u0437 \u043f\u043e\u043d\u0435\u0434\u0456\u043b\u043a\u0430 \u043f\u043e \u043f\u2019\u044f\u0442\u043d\u0438\u0446\u044e."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Caritas Como"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Caritas Como, servizio \""Porta Aperta\"" offre alloggi e aiuti ai rifugiati ucraini"",""url"":""https://welfarecomo.it/como/?l=UA""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: true
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Caritas Como
+title: Caritas Como, servizio ""Porta Aperta"" offre alloggi e aiuti ai rifugiati ucraini
+recipients: ''
+description: 'Per i profughi già arrivati in città e che necessitano di assistenza
+  (alloggio e aiuto concreto) è possibile contattare il servizio di Caritas Como “Porta
+  Aperta”, Viale Varese n. 25, lunedì – mercoledì - venerdì dalle ore 9.00 alle ore
+  12.00.
+
+  Oppure Tel. 031267010 o scrivere a porta.aperta@caritascomo.it
+
+
+  Для біженців, які вже прибули до міста і потребують допомоги, можна звернутися до
+  служби «Відкриті двері».
+
+  Адреса: вулиця Viale Varese № 25 - понеділок - середа - п''ятниця з 9.00 до 12.00
+  Або за тел. 031267010 або напишіть на адресу porta.aperta@caritascomo.it
+
+  Лише для громадян Комо - звертайтеся за номером цивільного захисту 347.5544045 з
+  9.00 до 17.00 з понеділка по п’ятницю.'
+url: https://welfarecomo.it/como/?l=UA
+address:
+  mode: autocomplete
+  address:
+    place_id: 135397543
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 140992488
+    boundingbox:
+    - '45.8067836'
+    - '45.8104597'
+    - '9.0773152'
+    - '9.0810185'
+    lat: '45.8085189'
+    lon: '9.0792853'
+    display_name: Viale Varese, San Giovanni, Città murata, Como, Lombardia, 22100,
+      Italia
+    class: highway
+    type: tertiary
+    importance: 0.41000000000000003
+    address:
+      road: Viale Varese
+      neighbourhood: San Giovanni
+      suburb: Città murata
+      city: Como
+      county: Como
+      ISO3166-2-lvl6: IT-CO
+      state: Lombardia
+      postcode: '22100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/735,1217924490,2022-05-06 07:43:11,2022-04-27 21:57:39,Università di Padova offre 50 borse di studio a studenti ucraini,45.4071552,11.8774404,Veneto,Padova,"[""Valid/Accettato"",""Services"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""city"":""Padova"",""country"":""Italia"",""country_code"":""it"",""county"":""Padova"",""hamlet"":""Isola San Giacomo"",""postcode"":""35122"",""road"":""Via otto Febbraio"",""state"":""Veneto""},""boundingbox"":[""45.4071052"",""45.4072052"",""11.8773904"",""11.8774904""],""class"":""amenity"",""display_name"":""Via otto Febbraio, Isola San Giacomo, Padova, Veneto, 35122, Italia"",""importance"":0.5209999999999999,""lat"":""45.4071552"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.8774404"",""osm_id"":6712448203,""osm_type"":""node"",""place_id"":70974178,""type"":""waste_basket""},""mode"":""autocomplete""},""description"":""L'Universit\u00e0 di Padova offre l'opportunit\u00e0 di frequentare e sostenere gli esami di singoli insegnamenti (corsi singoli) a studentesse e studenti residenti in Ucraina, assegnando un massimo di 50 borse di studio. Scadenza bando 27 maggio 2022."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Universit\u00e0 di Padova"",""recipients"":""Studenti ucraini"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Universit\u00e0 di Padova offre 50 borse di studio a studenti ucraini"",""url"":""https://www.unipd.it/unipd-4-ukraine-corsi-singoli""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Università di Padova
+title: Università di Padova offre 50 borse di studio a studenti ucraini
+recipients: Studenti ucraini
+description: L'Università di Padova offre l'opportunità di frequentare e sostenere
+  gli esami di singoli insegnamenti (corsi singoli) a studentesse e studenti residenti
+  in Ucraina, assegnando un massimo di 50 borse di studio. Scadenza bando 27 maggio
+  2022.
+url: https://www.unipd.it/unipd-4-ukraine-corsi-singoli
+address:
+  mode: autocomplete
+  address:
+    place_id: 70974178
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 6712448203
+    boundingbox:
+    - '45.4071052'
+    - '45.4072052'
+    - '11.8773904'
+    - '11.8774904'
+    lat: '45.4071552'
+    lon: '11.8774404'
+    display_name: Via otto Febbraio, Isola San Giacomo, Padova, Veneto, 35122, Italia
+    class: amenity
+    type: waste_basket
+    importance: 0.5209999999999999
+    address:
+      road: Via otto Febbraio
+      hamlet: Isola San Giacomo
+      city: Padova
+      county: Padova
+      state: Veneto
+      ISO3166-2-lvl4: IT-34
+      postcode: '35122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/727,1217859624,2022-05-06 07:42:51,2022-04-27 20:39:15,"Comune di Milano, al via piano per offrire gratuitamente a bambine e bambini servizi scolastici e attività ludico-ricreative",45.4673071,9.1900592,Lombardia,Milano,"[""Valid/Accettato"",""News"",""Services"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""Posizione"":""45.4673071 9.1900592"",""description"":""Mense, trasporto scolastico, centri estivi, attivit\u00e0 specifiche di supporto per l\u2019apprendimento della lingua italiana e servizi dedicati alle bambine e ai bambini con disabilit\u00e0. \n\n\u00c8 un pacchetto di misure straordinarie per accogliere nei servizi scolastici ed educativi bambini e bambine, ragazze e ragazzi in fuga da zone di guerra, quello approvato nei giorni scorsi dalla Giunta, che con il provvedimento ha voluto assicurare loro la partecipazione a percorsi educativi e di supporto volti a sostenere il processo di integrazione e inclusione. \n\nBambini e ragazzi potranno, quindi, accedere gratuitamente ai servizi di refezione scolastica, avranno la possibilit\u00e0 di frequentare i centri estivi e le occasioni educative dell\u2019estate 2022 compresi i soggiorni nelle case vacanze del Comune e, a breve, attivit\u00e0 di apprendimento della lingua italiana e ludico-ricreative per avviare percorsi di integrazione."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.comune.milano.it/-/ucraina.-al-via-il-piano-del-comune-per-offrire-gratuitamente-a-bambine-e-bambini-servizi-scolastici-e-attivita-didattico-creative"",""location"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20121"",""quarter"":""Duomo"",""road"":""Piazza della Scala"",""state"":""Lombardia"",""suburb"":""Municipio 1""},""boundingbox"":[""45.4670931"",""45.4673726"",""9.1899377"",""9.1904844""],""class"":""highway"",""display_name"":""Piazza della Scala, Duomo, Municipio 1, Milano, Lombardia, 20121, Italia"",""importance"":1.404544854295327,""lat"":""45.4673071"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1900592"",""osm_id"":163757284,""osm_type"":""way"",""place_id"":140938479,""type"":""residential""},""mode"":""autocomplete""},""submit"":true,""title"":""Comune di Milano, al via piano per offrire gratuitamente a bambine e bambini servizi scolastici e attivit\u00e0 didattico-creative""}","<pre><yamldata>
+title: Comune di Milano, al via piano per offrire gratuitamente a bambine e bambini
+  servizi scolastici e attività didattico-creative
+description: ""Mense, trasporto scolastico, centri estivi, attività specifiche di supporto\
+  \ per l’apprendimento della lingua italiana e servizi dedicati alle bambine e ai\
+  \ bambini con disabilità. \n\nÈ un pacchetto di misure straordinarie per accogliere\
+  \ nei servizi scolastici ed educativi bambini e bambine, ragazze e ragazzi in fuga\
+  \ da zone di guerra, quello approvato nei giorni scorsi dalla Giunta, che con il\
+  \ provvedimento ha voluto assicurare loro la partecipazione a percorsi educativi\
+  \ e di supporto volti a sostenere il processo di integrazione e inclusione. \n\n\
+  Bambini e ragazzi potranno, quindi, accedere gratuitamente ai servizi di refezione\
+  \ scolastica, avranno la possibilità di frequentare i centri estivi e le occasioni\
+  \ educative dell’estate 2022 compresi i soggiorni nelle case vacanze del Comune\
+  \ e, a breve, attività di apprendimento della lingua italiana e ludico-ricreative\
+  \ per avviare percorsi di integrazione.""
+link: https://www.comune.milano.it/-/ucraina.-al-via-il-piano-del-comune-per-offrire-gratuitamente-a-bambine-e-bambini-servizi-scolastici-e-attivita-didattico-creative
+location:
+  mode: autocomplete
+  address:
+    place_id: 140938479
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 163757284
+    boundingbox:
+    - '45.4670931'
+    - '45.4673726'
+    - '9.1899377'
+    - '9.1904844'
+    lat: '45.4673071'
+    lon: '9.1900592'
+    display_name: Piazza della Scala, Duomo, Municipio 1, Milano, Lombardia, 20121,
+      Italia
+    class: highway
+    type: residential
+    importance: 1.404544854295327
+    address:
+      road: Piazza della Scala
+      quarter: Duomo
+      suburb: Municipio 1
+      city: Milano
+      county: Milano
+      ISO3166-2-lvl6: IT-MI
+      state: Lombardia
+      postcode: '20121'
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.4673071 9.1900592
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/610,1204053085,2022-05-04 10:14:14,2022-04-14 05:22:16,"Ministero dell'istruzione, online sezione dedicata all’accoglienza delle studentesse e degli studenti ucraini",,,,,"[""Valid/Accettato"",""Services"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""\u00c8 disponibile, sul sito del Ministero dell\u2019Istruzione, la sezione dedicata all\u2019accoglienza delle studentesse e degli studenti ucraini. Uno spazio con indicazioni e risorse a dispisizione di docenti e comunit\u00e0 educante per consentire ai bambini e ai ragazzi in fuga dalla guerra in Ucraina di proseguire il loro percorso scolastico ed educativo nel sistema italiano."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ministero dell'istruzione"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Ministero dell'istruzione, online sezione dedicata all\u2019accoglienza delle studentesse e degli studenti ucraini"",""url"":""https://www.istruzione.it/emergenza-educativa-ucraina/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -1092,68 +1349,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/749,1221923944,2022-04-30 21:37:55,2022-04-30 21:21:54,"Comune di Rimini, attivo sportello per accoglienza e supporto ai rifugiati ucraini",43.9933539,12.6557479,Emilia-Romagna,Rimini,"[""Valid/Accettato"",""Services"",""materialGoods"",""hospitality"",""healthcare"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""ISO3166-2-lvl6"":""IT-RN"",""country"":""Italia"",""country_code"":""it"",""county"":""Rimini"",""neighbourhood"":""Abissinia"",""postcode"":""47838"",""road"":""Viale Lazio"",""state"":""Emilia-Romagna"",""town"":""Riccione""},""boundingbox"":[""43.9928403"",""43.9938826"",""12.6546603"",""12.6566699""],""class"":""highway"",""display_name"":""Viale Lazio, Abissinia, Riccione, Rimini, Emilia-Romagna, 47838, Italia"",""importance"":0.4,""lat"":""43.9933539"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.6557479"",""osm_id"":26535410,""osm_type"":""way"",""place_id"":107409056,""type"":""unclassified""},""mode"":""autocomplete""},""description"":""Lo sportello, operativo in viale Lazio (vicino la Biblioteca - il locale \u00e8 lo stesso che il Comune ha messo a disposizione per l'Unicef) osserva i seguenti orari:\nluned\u00ec, mercoled\u00ec, venerd\u00ec ore 9.30-12; marted\u00ec e gioved\u00ec ore 16-18.\n \nPresenti due mediatori culturali che forniranno informazioni sul percorso che ogni cittadino ucraino dovr\u00e0 fare per soggiornare regolarmente sul territorio italiano.\n\nVerranno fornite informazioni anche riguardo ad assistenza sanitaria, inserimento dei minori nelle scuole, sostegno alimentare da parte delle Caritas e del vestiario da parte del CAV (Centro Aiuto alla Vita).\n\nIl numero di riferimento dello sportello \u00e8 3316670095."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Rimini"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Rimini, attivo sportello per accoglienza e supporto ai rifugiati ucraini"",""url"":""https://www.comune.riccione.rn.it/Home/emergenzaucraina""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: true
-  transport: false
-  healthcare: true
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: true
-offerFromWho: Comune di Rimini
-title: Comune di Rimini, attivo sportello per accoglienza e supporto ai rifugiati
-  ucraini
-recipients: ''
-description: ""Lo sportello, operativo in viale Lazio (vicino la Biblioteca - il locale\
-  \ è lo stesso che il Comune ha messo a disposizione per l'Unicef) osserva i seguenti\
-  \ orari:\nlunedì, mercoledì, venerdì ore 9.30-12; martedì e giovedì ore 16-18.\n\
-  \ \nPresenti due mediatori culturali che forniranno informazioni sul percorso che\
-  \ ogni cittadino ucraino dovrà fare per soggiornare regolarmente sul territorio\
-  \ italiano.\n\nVerranno fornite informazioni anche riguardo ad assistenza sanitaria,\
-  \ inserimento dei minori nelle scuole, sostegno alimentare da parte delle Caritas\
-  \ e del vestiario da parte del CAV (Centro Aiuto alla Vita).\n\nIl numero di riferimento\
-  \ dello sportello è 3316670095.""
-url: https://www.comune.riccione.rn.it/Home/emergenzaucraina
-address:
-  mode: autocomplete
-  address:
-    place_id: 107409056
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 26535410
-    boundingbox:
-    - '43.9928403'
-    - '43.9938826'
-    - '12.6546603'
-    - '12.6566699'
-    lat: '43.9933539'
-    lon: '12.6557479'
-    display_name: Viale Lazio, Abissinia, Riccione, Rimini, Emilia-Romagna, 47838,
-      Italia
-    class: highway
-    type: unclassified
-    importance: 0.4
-    address:
-      road: Viale Lazio
-      neighbourhood: Abissinia
-      town: Riccione
-      county: Rimini
-      ISO3166-2-lvl6: IT-RN
-      state: Emilia-Romagna
-      ISO3166-2-lvl4: IT-45
-      postcode: '47838'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/712,1213708852,2022-04-30 09:15:34,2022-04-24 17:02:14,Regione Piemonte - Lista hotspot dove i rifugiati ucraini possono effettuare tamponi Covid 19 al momento del loro arrivo,45.0716729,7.6847021,Piemonte,Torino,"[""Valid/Accettato"",""useful contact"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.0716729 7.6847021"",""address"":{""address"":{},""mode"":""autocomplete""},""aim"":""Tutte le persone provenienti dall\u2019Ucraina devono sottoporsi a un tampone antigenico o molecolare entro 48 ore o in ogni caso al pi\u00f9 presto. Per consentirlo la Regione Piemonte ha previsto un accesso diretto con percorsi dedicati negli hotspot del territorio."",""email"":""accoglienza.ucraina@regione.piemonte.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Regione Piemonte - Lista hotspot per tamponi all'ingresso"",""url"":""https://www.regione.piemonte.it/web/sites/default/files/media/documenti/2022-03/hot_spot_tamponi_marzo_4.pdf""}","<pre><yamldata>
 title: Regione Piemonte - Lista hotspot per tamponi all'ingresso
 phoneNumber: ''
@@ -1544,96 +1739,6 @@ address:
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/743,1221371012,2022-04-30 09:10:50,2022-04-29 18:10:20,"Caritas Como, servizio ""Porta Aperta"" offre alloggi e aiuti ai rifugiati ucraini",45.8085189,9.0792853,Lombardia,Como,"[""Valid/Accettato"",""Services"",""materialGoods"",""hospitality""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-CO"",""city"":""Como"",""country"":""Italia"",""country_code"":""it"",""county"":""Como"",""neighbourhood"":""San Giovanni"",""postcode"":""22100"",""road"":""Viale Varese"",""state"":""Lombardia"",""suburb"":""Citt\u00e0 murata""},""boundingbox"":[""45.8067836"",""45.8104597"",""9.0773152"",""9.0810185""],""class"":""highway"",""display_name"":""Viale Varese, San Giovanni, Citt\u00e0 murata, Como, Lombardia, 22100, Italia"",""importance"":0.41000000000000003,""lat"":""45.8085189"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.0792853"",""osm_id"":140992488,""osm_type"":""way"",""place_id"":135397543,""type"":""tertiary""},""mode"":""autocomplete""},""description"":""Per i profughi gi\u00e0 arrivati in citt\u00e0 e che necessitano di assistenza (alloggio e aiuto concreto) \u00e8 possibile contattare il servizio di Caritas Como \u201cPorta Aperta\u201d, Viale Varese n. 25, luned\u00ec \u2013 mercoled\u00ec - venerd\u00ec dalle ore 9.00 alle ore 12.00.\nOppure Tel. 031267010 o scrivere a porta.aperta@caritascomo.it\n\n\u0414\u043b\u044f \u0431\u0456\u0436\u0435\u043d\u0446\u0456\u0432, \u044f\u043a\u0456 \u0432\u0436\u0435 \u043f\u0440\u0438\u0431\u0443\u043b\u0438 \u0434\u043e \u043c\u0456\u0441\u0442\u0430 \u0456 \u043f\u043e\u0442\u0440\u0435\u0431\u0443\u044e\u0442\u044c \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0438, \u043c\u043e\u0436\u043d\u0430 \u0437\u0432\u0435\u0440\u043d\u0443\u0442\u0438\u0441\u044f \u0434\u043e \u0441\u043b\u0443\u0436\u0431\u0438 \u00ab\u0412\u0456\u0434\u043a\u0440\u0438\u0442\u0456 \u0434\u0432\u0435\u0440\u0456\u00bb.\n\u0410\u0434\u0440\u0435\u0441\u0430: \u0432\u0443\u043b\u0438\u0446\u044f Viale Varese \u2116 25 - \u043f\u043e\u043d\u0435\u0434\u0456\u043b\u043e\u043a - \u0441\u0435\u0440\u0435\u0434\u0430 - \u043f'\u044f\u0442\u043d\u0438\u0446\u044f \u0437 9.00 \u0434\u043e 12.00 \u0410\u0431\u043e \u0437\u0430 \u0442\u0435\u043b. 031267010 \u0430\u0431\u043e \u043d\u0430\u043f\u0438\u0448\u0456\u0442\u044c \u043d\u0430 \u0430\u0434\u0440\u0435\u0441\u0443 porta.aperta@caritascomo.it\n\u041b\u0438\u0448\u0435 \u0434\u043b\u044f \u0433\u0440\u043e\u043c\u0430\u0434\u044f\u043d \u041a\u043e\u043c\u043e - \u0437\u0432\u0435\u0440\u0442\u0430\u0439\u0442\u0435\u0441\u044f \u0437\u0430 \u043d\u043e\u043c\u0435\u0440\u043e\u043c \u0446\u0438\u0432\u0456\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u0445\u0438\u0441\u0442\u0443 347.5544045 \u0437 9.00 \u0434\u043e 17.00 \u0437 \u043f\u043e\u043d\u0435\u0434\u0456\u043b\u043a\u0430 \u043f\u043e \u043f\u2019\u044f\u0442\u043d\u0438\u0446\u044e."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Caritas Como"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Caritas Como, servizio \""Porta Aperta\"" offre alloggi e aiuti ai rifugiati ucraini"",""url"":""https://welfarecomo.it/como/?l=UA""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: true
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Caritas Como
-title: Caritas Como, servizio ""Porta Aperta"" offre alloggi e aiuti ai rifugiati ucraini
-recipients: ''
-description: 'Per i profughi già arrivati in città e che necessitano di assistenza
-  (alloggio e aiuto concreto) è possibile contattare il servizio di Caritas Como “Porta
-  Aperta”, Viale Varese n. 25, lunedì – mercoledì - venerdì dalle ore 9.00 alle ore
-  12.00.
-
-  Oppure Tel. 031267010 o scrivere a porta.aperta@caritascomo.it
-
-
-  Для біженців, які вже прибули до міста і потребують допомоги, можна звернутися до
-  служби «Відкриті двері».
-
-  Адреса: вулиця Viale Varese № 25 - понеділок - середа - п''ятниця з 9.00 до 12.00
-  Або за тел. 031267010 або напишіть на адресу porta.aperta@caritascomo.it
-
-  Лише для громадян Комо - звертайтеся за номером цивільного захисту 347.5544045 з
-  9.00 до 17.00 з понеділка по п’ятницю.'
-url: https://welfarecomo.it/como/?l=UA
-address:
-  mode: autocomplete
-  address:
-    place_id: 135397543
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 140992488
-    boundingbox:
-    - '45.8067836'
-    - '45.8104597'
-    - '9.0773152'
-    - '9.0810185'
-    lat: '45.8085189'
-    lon: '9.0792853'
-    display_name: Viale Varese, San Giovanni, Città murata, Como, Lombardia, 22100,
-      Italia
-    class: highway
-    type: tertiary
-    importance: 0.41000000000000003
-    address:
-      road: Viale Varese
-      neighbourhood: San Giovanni
-      suburb: Città murata
-      city: Como
-      county: Como
-      ISO3166-2-lvl6: IT-CO
-      state: Lombardia
-      postcode: '22100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/744,1221534622,2022-04-30 09:10:35,2022-04-29 21:01:41,"TrovaSocial, mappa dei servizi territoriali in Italia per chi si trova in difficoltà (migranti, rifufiati, senza dimora)",,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""Resources""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""aim"":""TrovaSocial \u00e8 una mappa online, realizzata dalla cooperativa Itinere, dedicata ai servizi territoriali per chi in Italia si trova in condizione di disagio, in particolare persone senza dimora, migranti, rifugiati, richiedenti asilo, donne vittime di tratta.\nLa mappa raccoglie informazioni sui servizi presenti sul territorio nazionale di segretariato sociale, orientamento e ascolto, mense e distribuzione di alimenti e beni di prima necessit\u00e0, ambulatori e cure mediche, scuole e formazione, corsi di italiano per stranieri, lavoro, supporto legale e altro."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""TrovaSocial, mappa dei servizi territoriali in Italia per chi si trova in difficolt\u00e0 (migranti, rifugiati, senza dimora)"",""url"":""http://www.trovasocial.it/""}","<pre><yamldata>
-title: TrovaSocial, mappa dei servizi territoriali in Italia per chi si trova in difficoltà
-  (migranti, rifugiati, senza dimora)
-phoneNumber: ''
-email: ''
-aim: 'TrovaSocial è una mappa online, realizzata dalla cooperativa Itinere, dedicata
-  ai servizi territoriali per chi in Italia si trova in condizione di disagio, in
-  particolare persone senza dimora, migranti, rifugiati, richiedenti asilo, donne
-  vittime di tratta.
-
-  La mappa raccoglie informazioni sui servizi presenti sul territorio nazionale di
-  segretariato sociale, orientamento e ascolto, mense e distribuzione di alimenti
-  e beni di prima necessità, ambulatori e cure mediche, scuole e formazione, corsi
-  di italiano per stranieri, lavoro, supporto legale e altro.'
-url: http://www.trovasocial.it/
-address:
-  mode: autocomplete
-  address: {}
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: useful contact
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/745,1221556199,2022-04-30 09:09:49,2022-04-29 21:25:09,"Sesto per l'Ucraina, portale del Comune di Sesto San Giovanni (Milano) con info e contatti utili per i rifugiati ucraini ",45.5357218,9.2376549,Lombardia,Milano,"[""Valid/Accettato"",""Services"",""materialGoods"",""hospitality"",""healthcare"",""Children""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20099"",""state"":""Lombardia"",""town"":""Sesto San Giovanni""},""boundingbox"":[""45.5173444"",""45.556763"",""9.20694"",""9.2717314""],""class"":""boundary"",""display_name"":""Sesto San Giovanni, Milano, Lombardia, 20099, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8336881016905328,""lat"":""45.5357218"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2376549"",""osm_id"":45245,""osm_type"":""relation"",""place_id"":284444071,""type"":""administrative""},""mode"":""autocomplete""},""description"":""\u00c8 online Sesto per l'Ucraina, portale del Comune di Sesto San Giovanni (Milano) con info e contatti utili per i rifugiati ucraini su assistenza sanitaria, richiesta di protezione temporanea, distribuzione beni e alimenti, accoglienza, corsi di italiano e altro."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Sesto San Giovanni"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Sesto per l'Ucraina, portale del Comune di Sesto San Giovanni (Milano) con info e contatti utili per i rifugiati ucraini"",""url"":""https://sestosg.net/novita/notizie/sestoperucraina/""}","<pre><yamldata>
@@ -2714,60 +2819,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/735,1217924490,2022-04-27 21:57:52,2022-04-27 21:57:39,Università di Padova offre 50 borse di studio a studenti ucraini,45.4071552,11.8774404,Veneto,Padova,"[""Valid/Accettato"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""city"":""Padova"",""country"":""Italia"",""country_code"":""it"",""county"":""Padova"",""hamlet"":""Isola San Giacomo"",""postcode"":""35122"",""road"":""Via otto Febbraio"",""state"":""Veneto""},""boundingbox"":[""45.4071052"",""45.4072052"",""11.8773904"",""11.8774904""],""class"":""amenity"",""display_name"":""Via otto Febbraio, Isola San Giacomo, Padova, Veneto, 35122, Italia"",""importance"":0.5209999999999999,""lat"":""45.4071552"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.8774404"",""osm_id"":6712448203,""osm_type"":""node"",""place_id"":70974178,""type"":""waste_basket""},""mode"":""autocomplete""},""description"":""L'Universit\u00e0 di Padova offre l'opportunit\u00e0 di frequentare e sostenere gli esami di singoli insegnamenti (corsi singoli) a studentesse e studenti residenti in Ucraina, assegnando un massimo di 50 borse di studio. Scadenza bando 27 maggio 2022."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Universit\u00e0 di Padova"",""recipients"":""Studenti ucraini"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Universit\u00e0 di Padova offre 50 borse di studio a studenti ucraini"",""url"":""https://www.unipd.it/unipd-4-ukraine-corsi-singoli""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: true
-offerFromWho: Università di Padova
-title: Università di Padova offre 50 borse di studio a studenti ucraini
-recipients: Studenti ucraini
-description: L'Università di Padova offre l'opportunità di frequentare e sostenere
-  gli esami di singoli insegnamenti (corsi singoli) a studentesse e studenti residenti
-  in Ucraina, assegnando un massimo di 50 borse di studio. Scadenza bando 27 maggio
-  2022.
-url: https://www.unipd.it/unipd-4-ukraine-corsi-singoli
-address:
-  mode: autocomplete
-  address:
-    place_id: 70974178
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 6712448203
-    boundingbox:
-    - '45.4071052'
-    - '45.4072052'
-    - '11.8773904'
-    - '11.8774904'
-    lat: '45.4071552'
-    lon: '11.8774404'
-    display_name: Via otto Febbraio, Isola San Giacomo, Padova, Veneto, 35122, Italia
-    class: amenity
-    type: waste_basket
-    importance: 0.5209999999999999
-    address:
-      road: Via otto Febbraio
-      hamlet: Isola San Giacomo
-      city: Padova
-      county: Padova
-      state: Veneto
-      ISO3166-2-lvl4: IT-34
-      postcode: '35122'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/399,1185341282,2022-04-27 21:23:20,2022-03-29 19:51:31,Comune di Palermo attiva indirizzo email per supporto e accoglienza delle persone in arrivo dall’Ucraina,38.1112268,13.3524434,Sicilia,Palermo,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""state"":""Sicilia""},""boundingbox"":[""38.0499137"",""38.2245866"",""13.242219"",""13.4520856""],""class"":""boundary"",""display_name"":""Palermo, Sicilia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7661148171447915,""lat"":""38.1112268"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3524434"",""osm_id"":39513,""osm_type"":""relation"",""place_id"":284307182,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Comune di Palermo ha attivato l'indirizzo mail aiutiucraina@comune.palermo.it dedicato alla situazione ucraina per accompagnare e facilitare le pratiche di ricongiungimenti e mettere in collegamento i profughi con le associazioni del terzo settore e con privati cittadini che, in alcuni casi, hanno gi\u00e0 espresso ed intendono dare la loro disponibilit\u00e0 per accoglierli."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Palermo"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Comune di Palermo attiva una mail dedicata per aiuti alle persone in arrivo"",""url"":""https://www.comune.palermo.it/palermo-informa-dettaglio.php?id=34071&tipo=1""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -2818,57 +2869,6 @@ address:
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/727,1217859624,2022-04-27 20:57:32,2022-04-27 20:39:15,"Comune di Milano, al via piano per offrire gratuitamente a bambine e bambini servizi scolastici e attività ludico-ricreative",45.4673071,9.1900592,Lombardia,Milano,"[""Valid/Accettato"",""News"",""Services"",""Children"",""education""]",,,"{""Posizione"":""45.4673071 9.1900592"",""description"":""Mense, trasporto scolastico, centri estivi, attivit\u00e0 specifiche di supporto per l\u2019apprendimento della lingua italiana e servizi dedicati alle bambine e ai bambini con disabilit\u00e0. \n\n\u00c8 un pacchetto di misure straordinarie per accogliere nei servizi scolastici ed educativi bambini e bambine, ragazze e ragazzi in fuga da zone di guerra, quello approvato nei giorni scorsi dalla Giunta, che con il provvedimento ha voluto assicurare loro la partecipazione a percorsi educativi e di supporto volti a sostenere il processo di integrazione e inclusione. \n\nBambini e ragazzi potranno, quindi, accedere gratuitamente ai servizi di refezione scolastica, avranno la possibilit\u00e0 di frequentare i centri estivi e le occasioni educative dell\u2019estate 2022 compresi i soggiorni nelle case vacanze del Comune e, a breve, attivit\u00e0 di apprendimento della lingua italiana e ludico-ricreative per avviare percorsi di integrazione."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.comune.milano.it/-/ucraina.-al-via-il-piano-del-comune-per-offrire-gratuitamente-a-bambine-e-bambini-servizi-scolastici-e-attivita-didattico-creative"",""location"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20121"",""quarter"":""Duomo"",""road"":""Piazza della Scala"",""state"":""Lombardia"",""suburb"":""Municipio 1""},""boundingbox"":[""45.4670931"",""45.4673726"",""9.1899377"",""9.1904844""],""class"":""highway"",""display_name"":""Piazza della Scala, Duomo, Municipio 1, Milano, Lombardia, 20121, Italia"",""importance"":1.404544854295327,""lat"":""45.4673071"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1900592"",""osm_id"":163757284,""osm_type"":""way"",""place_id"":140938479,""type"":""residential""},""mode"":""autocomplete""},""submit"":true,""title"":""Comune di Milano, al via piano per offrire gratuitamente a bambine e bambini servizi scolastici e attivit\u00e0 didattico-creative""}","<pre><yamldata>
-title: Comune di Milano, al via piano per offrire gratuitamente a bambine e bambini
-  servizi scolastici e attività didattico-creative
-description: ""Mense, trasporto scolastico, centri estivi, attività specifiche di supporto\
-  \ per l’apprendimento della lingua italiana e servizi dedicati alle bambine e ai\
-  \ bambini con disabilità. \n\nÈ un pacchetto di misure straordinarie per accogliere\
-  \ nei servizi scolastici ed educativi bambini e bambine, ragazze e ragazzi in fuga\
-  \ da zone di guerra, quello approvato nei giorni scorsi dalla Giunta, che con il\
-  \ provvedimento ha voluto assicurare loro la partecipazione a percorsi educativi\
-  \ e di supporto volti a sostenere il processo di integrazione e inclusione. \n\n\
-  Bambini e ragazzi potranno, quindi, accedere gratuitamente ai servizi di refezione\
-  \ scolastica, avranno la possibilità di frequentare i centri estivi e le occasioni\
-  \ educative dell’estate 2022 compresi i soggiorni nelle case vacanze del Comune\
-  \ e, a breve, attività di apprendimento della lingua italiana e ludico-ricreative\
-  \ per avviare percorsi di integrazione.""
-link: https://www.comune.milano.it/-/ucraina.-al-via-il-piano-del-comune-per-offrire-gratuitamente-a-bambine-e-bambini-servizi-scolastici-e-attivita-didattico-creative
-location:
-  mode: autocomplete
-  address:
-    place_id: 140938479
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 163757284
-    boundingbox:
-    - '45.4670931'
-    - '45.4673726'
-    - '9.1899377'
-    - '9.1904844'
-    lat: '45.4673071'
-    lon: '9.1900592'
-    display_name: Piazza della Scala, Duomo, Municipio 1, Milano, Lombardia, 20121,
-      Italia
-    class: highway
-    type: residential
-    importance: 1.404544854295327
-    address:
-      road: Piazza della Scala
-      quarter: Duomo
-      suburb: Municipio 1
-      city: Milano
-      county: Milano
-      ISO3166-2-lvl6: IT-MI
-      state: Lombardia
-      postcode: '20121'
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 45.4673071 9.1900592
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/723,1217440183,2022-04-27 14:27:10,2022-04-27 14:26:06,Bando Regione Emilia Romagna rivolto ad enti del terzo settore ed enti locali per progetti a supporto dei profughi ucraini e dell’emergenza Ucraina (scadenza 9 maggio),44.525696,11.039437,Emilia-Romagna,Modena,"[""Valid/Accettato"",""News""]",,,"{""Posizione"":""44.525696 11.039437"",""description"":""Per fronteggiare la perdurante situazione di conflitto in Ucraina, la Regione Emilia Romagna ha stanziato altri 600.000 euro per  rispondere in maniera urgente ed efficace all\u2019emergenza umanitaria dei profughi e sfollati interni ucraini in fuga dalla guerra.\nDa mercoled\u00ec 27 aprile fino a luned\u00ec 9 maggio 2022, ONG, onlus, organizzazioni di volontariato, associazioni di promozione sociale, cooperative sociali ed enti locali possono presentare un progetto sugli ambiti di intervento prioritario: \n\n- supporto ai centri di accoglienza locali attraverso la fornitura di prodotti alimentari e non alimentari di prima emergenza ed essenziali per il sostegno alla popolazione in fuga;\n- prestazione di servizi medici di emergenza, fornitura di medicinali, materiale e attrezzature sanitarie;\n- attivit\u00e0 e servizi di sostegno psicosociale e orientamento legale per le persone vulnerabili, rifugiati e sfollati interni, a partire dalle donne e dai bambini;\n- sostegno alle famiglie vulnerabili attuato in ogni forma, anche attraverso la messa a disposizione di strutture ricettive o alloggi per gli sfollati che intendono restare all\u2019interno dei confini ucraini (servizi di accoglienza; mensa, alloggio, strutture e abitazioni private);\n- supporto logistico ai trasporti, in condizioni di sicurezza, delle persone da Ucraina  ai paesi dell\u2019Unione europea o confinanti con il Paese, ad eccezione di Russia e Bielorussia;\n- evacuazione umanitaria delle persone intrappolate nelle aree pi\u00f9 colpite dalla guerra;\n- sostegno ai trasporti di beni e aiuti umanitari dai paesi confinanti con l\u2019Ucraina, per sopperire alla scarsa disponibilit\u00e0 interna;\n- attivit\u00e0 di supporto scolastico a favore dei bambini accolti, da realizzare sia in presenza che in remoto, nonch\u00e9 attivit\u00e0 ludico ricreative volte a mitigare gli effetti drammatici della guerra e della fuga."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://fondieuropei.regione.emilia-romagna.it/bandi/avviso-per-emergenza-in-ucraina-2022-n.2"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""country"":""Italia"",""country_code"":""it"",""state"":""Emilia-Romagna""},""boundingbox"":[""43.7318997"",""45.1395001"",""9.1979117"",""12.7559006""],""class"":""boundary"",""display_name"":""Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8658836089993998,""lat"":""44.525696"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.039437"",""osm_id"":42611,""osm_type"":""relation"",""place_id"":284957631,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Bando della Regione Emilia Romagna rivolto ad enti del terzo settore ed enti locali per progetti a supporto dei profughi ucraini e dell\u2019emergenza Ucraina (scadenza 9 maggio)""}","<pre><yamldata>
 title: Bando della Regione Emilia Romagna rivolto ad enti del terzo settore ed enti
