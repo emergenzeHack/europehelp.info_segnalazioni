@@ -1,4 +1,267 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/768,1227006757,2022-05-06 09:37:08,2022-05-05 18:03:00,"A Roma, centro estivo per bambini ucraini con Caritas Comunità Sant'Egidio, Ambasciata Ucraina e altri enti ",41.9073836,12.5501801,Lazio,Roma,"[""Valid/Accettato"",""Services"",""Children""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""neighbourhood"":""Casal Bruciato"",""postcode"":""00100"",""road"":""Via Giuseppe Donati"",""state"":""Lazio"",""suburb"":""Collatino""},""boundingbox"":[""41.9064355"",""41.9093479"",""12.5467987"",""12.5533818""],""class"":""highway"",""display_name"":""Via Giuseppe Donati, Casal Bruciato, Collatino, Roma, Roma Capitale, Lazio, 00100, Italia"",""importance"":0.5,""lat"":""41.9073836"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.5501801"",""osm_id"":23936609,""osm_type"":""way"",""place_id"":106584746,""type"":""residential""},""mode"":""autocomplete""},""description"":""L'azienda italiana Atlantide in collaborazione con l'Ambasciata Ucraina in Italia, il Municipio di Roma, il Dipartimento di Difesa Civile d'Italia, nonch\u00e9 le associazioni benefiche \""Caritas\"" e \""Sant'Egidio\"", questa estate presso villa Fassini a Roma ha iniziato l'apertura di un campo estivo per i bambini ucraini"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Impresa Atlantide - Ambasciata Ucraina"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Centro estivo per bambini Ucraini"",""url"":""https://atlantia4ukraine.atlantia.com/it?fbclid=IwAR0WkVHFfg-8Wqf5r831-v-i4mSQGJZES0xE_BTBPH059K9gNQbsR48vLj4""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: false
+offerFromWho: Impresa Atlantide - Ambasciata Ucraina
+title: Centro estivo per bambini Ucraini
+recipients: ''
+description: L'azienda italiana Atlantide in collaborazione con l'Ambasciata Ucraina
+  in Italia, il Municipio di Roma, il Dipartimento di Difesa Civile d'Italia, nonché
+  le associazioni benefiche ""Caritas"" e ""Sant'Egidio"", questa estate presso villa
+  Fassini a Roma ha iniziato l'apertura di un campo estivo per i bambini ucraini
+url: https://atlantia4ukraine.atlantia.com/it?fbclid=IwAR0WkVHFfg-8Wqf5r831-v-i4mSQGJZES0xE_BTBPH059K9gNQbsR48vLj4
+address:
+  mode: autocomplete
+  address:
+    place_id: 106584746
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 23936609
+    boundingbox:
+    - '41.9064355'
+    - '41.9093479'
+    - '12.5467987'
+    - '12.5533818'
+    lat: '41.9073836'
+    lon: '12.5501801'
+    display_name: Via Giuseppe Donati, Casal Bruciato, Collatino, Roma, Roma Capitale,
+      Lazio, 00100, Italia
+    class: highway
+    type: residential
+    importance: 0.5
+    address:
+      road: Via Giuseppe Donati
+      neighbourhood: Casal Bruciato
+      suburb: Collatino
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: '00100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/767,1226999422,2022-05-06 09:35:29,2022-05-05 17:54:47,Caritas cremonese: aiuti e informazioni utili per chi arriva dall'Ucraina,45.1377902,10.0283571,Lombardia,Cremona,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-CR"",""city"":""Cremona"",""country"":""Italia"",""country_code"":""it"",""county"":""Cremona"",""postcode"":""26100"",""road"":""Via Stenico"",""state"":""Lombardia"",""suburb"":""Vecchia Dogana""},""boundingbox"":[""45.1375642"",""45.1379769"",""10.0272732"",""10.0294889""],""class"":""highway"",""display_name"":""Via Stenico, Vecchia Dogana, Cremona, Lombardia, 26100, Italia"",""importance"":0.5,""lat"":""45.1377902"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.0283571"",""osm_id"":687741607,""osm_type"":""way"",""place_id"":237191278,""type"":""residential""},""mode"":""autocomplete""},""aim"":""Pagina con le informazioni per poter dare o ricevere aiuti e per i cittadini ucraini arrivati sul territorio diocesano di Cremona. Tutte le azioni sono realizzate in collaborazione con gli enti pubblici e le realt\u00e0 che sul territorio operano per affrontare l\u2019emergenza."",""email"":""caritas@diocesidicremona.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Caritas cremonese: aiuti e informazioni per chi arriva"",""url"":""https://caritascremonese.it/emergenza-ucraina-aiuti-e-informazioni/?fbclid=IwAR2-jBS7M3WFVXdZhuWVbCe2EDFkeQnz4_4L7hMDqAvaubnMilkhXXmIsEk""}","<pre><yamldata>
+title: 'Caritas cremonese: aiuti e informazioni per chi arriva'
+phoneNumber: ''
+email: caritas@diocesidicremona.it
+aim: Pagina con le informazioni per poter dare o ricevere aiuti e per i cittadini
+  ucraini arrivati sul territorio diocesano di Cremona. Tutte le azioni sono realizzate
+  in collaborazione con gli enti pubblici e le realtà che sul territorio operano per
+  affrontare l’emergenza.
+url: https://caritascremonese.it/emergenza-ucraina-aiuti-e-informazioni/?fbclid=IwAR2-jBS7M3WFVXdZhuWVbCe2EDFkeQnz4_4L7hMDqAvaubnMilkhXXmIsEk
+address:
+  mode: autocomplete
+  address:
+    place_id: 237191278
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 687741607
+    boundingbox:
+    - '45.1375642'
+    - '45.1379769'
+    - '10.0272732'
+    - '10.0294889'
+    lat: '45.1377902'
+    lon: '10.0283571'
+    display_name: Via Stenico, Vecchia Dogana, Cremona, Lombardia, 26100, Italia
+    class: highway
+    type: residential
+    importance: 0.5
+    address:
+      road: Via Stenico
+      suburb: Vecchia Dogana
+      city: Cremona
+      county: Cremona
+      ISO3166-2-lvl6: IT-CR
+      state: Lombardia
+      postcode: '26100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/766,1226983977,2022-05-06 09:34:44,2022-05-05 17:37:28,"Caritas Pisa, attivato uno Sportello per raccogliere i bisogni delle famiglie ucraine in città",43.7159395,10.4018624,Toscana,Pisa,"[""Valid/Accettato"",""Services"",""hospitality"",""healthcare""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""ISO3166-2-lvl6"":""IT-PI"",""city"":""Pisa"",""country"":""Italia"",""country_code"":""it"",""county"":""Pisa"",""state"":""Toscana""},""boundingbox"":[""43.5807231"",""43.7509347"",""10.2684553"",""10.4562831""],""class"":""boundary"",""display_name"":""Pisa, Toscana, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.73612005641941,""lat"":""43.7159395"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.4018624"",""osm_id"":42527,""osm_type"":""relation"",""place_id"":284541338,""type"":""administrative""},""mode"":""autocomplete""},""description"":""La Caritas di Pisa ha attivato uno sportello operativo per raccogliere i bisogni delle famiglie ucraine che arrivano nel territorio. Tel 050.560952"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Caritas Pisa"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Sportello operativo per raccogliere i bisogni delle famiglie ucraine a Pisa"",""url"":""https://www.caritaspisa.com/wordpress/accoglienza-la-diocesi-di-pisa-mette-a-disposizione-casa-foresti-nellex-convento-10-camere-per-30-posti/?fbclid=IwAR2EK5gat-KkZTsSg0RtS-UzyCMZr-KZTnLYeKaM_dLyWkGyhbYsSlrQ8bs""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: false
+  healthcare: true
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Caritas Pisa
+title: Sportello operativo per raccogliere i bisogni delle famiglie ucraine a Pisa
+recipients: ''
+description: La Caritas di Pisa ha attivato uno sportello operativo per raccogliere
+  i bisogni delle famiglie ucraine che arrivano nel territorio. Tel 050.560952
+url: https://www.caritaspisa.com/wordpress/accoglienza-la-diocesi-di-pisa-mette-a-disposizione-casa-foresti-nellex-convento-10-camere-per-30-posti/?fbclid=IwAR2EK5gat-KkZTsSg0RtS-UzyCMZr-KZTnLYeKaM_dLyWkGyhbYsSlrQ8bs
+address:
+  mode: autocomplete
+  address:
+    place_id: 284541338
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 42527
+    boundingbox:
+    - '43.5807231'
+    - '43.7509347'
+    - '10.2684553'
+    - '10.4562831'
+    lat: '43.7159395'
+    lon: '10.4018624'
+    display_name: Pisa, Toscana, Italia
+    class: boundary
+    type: administrative
+    importance: 0.73612005641941
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Pisa
+      county: Pisa
+      ISO3166-2-lvl6: IT-PI
+      state: Toscana
+      ISO3166-2-lvl4: IT-52
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/765,1226979806,2022-05-06 09:33:38,2022-05-05 17:33:03,"Bologna, i centri per Bambini e Famiglie aprono all'accoglienza di bambini e adulti provenienti dall'Ucraina",44.4938203,11.3426327,Emilia-Romagna,Bologna,"[""Valid/Accettato"",""Services"",""Children"",""women""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.421033"",""44.556094"",""11.2296206"",""11.4336079""],""class"":""boundary"",""display_name"":""Bologna, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7905771109268431,""lat"":""44.4938203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.3426327"",""osm_id"":43172,""osm_type"":""relation"",""place_id"":283848615,""type"":""administrative""},""mode"":""autocomplete""},""description"":""I Centri per Bambini e Famiglie del Comune di Bologna aprono ai bambini, alle bambine, con i loro genitori o adulti di riferimento, in fuga dal conflitto in #Ucraina, i propri spazi educativi. \nIl servizio si rivolge alla fascia di et\u00e0 0-6 anni.\nLe attivit\u00e0 di accoglienza dei CBF prevedono delle aperture straordinarie apposite dei Centri o l'inserimento in attivit\u00e0 gi\u00e0 programmate per il periodo aprile-maggio. Durante gli incontri si proporranno situazioni di gioco o di socializzazione\nQui trovi insieme al calendario delle aperture dei Centri, anche i numeri di telefono di ogni Centro: https://bit.ly/3L5TD9G"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Bologna"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""\ud835\udc00\ud835\udc1c\ud835\udc1c\ud835\udc28\ud835\udc20\ud835\udc25\ud835\udc22\ud835\udc1e\ud835\udc27\ud835\udc33\ud835\udc1a \ud835\udc1d\ud835\udc1e\ud835\udc22 \ud835\udc1b\ud835\udc1a\ud835\udc26\ud835\udc1b\ud835\udc22\ud835\udc27\ud835\udc22, \ud835\udc1b\ud835\udc1a\ud835\udc26\ud835\udc1b\ud835\udc22\ud835\udc27\ud835\udc1e \ud835\udc1e \ud835\udc1a\ud835\udc1d\ud835\udc2e\ud835\udc25\ud835\udc2d\ud835\udc22 \ud835\udc29\ud835\udc2b\ud835\udc28\ud835\udc2f\ud835\udc1e\ud835\udc27\ud835\udc22\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc22 \ud835\udc1d\ud835\udc1a\ud835\udc25\ud835\udc25'\ud835\udc14\ud835\udc1c\ud835\udc2b\ud835\udc1a\ud835\udc22\ud835\udc27\ud835\udc1a \ud835\udc27\ud835\udc1e\ud835\udc22 \ud835\udc02\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc2b\ud835\udc22 \ud835\udc29\ud835\udc1e\ud835\udc2b \ud835\udc01\ud835\udc1a\ud835\udc26\ud835\udc1b\ud835\udc22\ud835\udc27\ud835\udc22 \ud835\udc1e \ud835\udc05\ud835\udc1a\ud835\udc26\ud835\udc22\ud835\udc20\ud835\udc25\ud835\udc22\ud835\udc1e (\ud835\udc02\ud835\udc01\ud835\udc05) a Bologna"",""url"":""https://bit.ly/3L5TD9G""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: false
+offerFromWho: Comune di Bologna
+title: 𝐀𝐜𝐜𝐨𝐠𝐥𝐢𝐞𝐧𝐳𝐚 𝐝𝐞𝐢 𝐛𝐚𝐦𝐛𝐢𝐧𝐢, 𝐛𝐚𝐦𝐛𝐢𝐧𝐞 𝐞 𝐚𝐝𝐮𝐥𝐭𝐢 𝐩𝐫𝐨𝐯𝐞𝐧𝐢𝐞𝐧𝐭𝐢 𝐝𝐚𝐥𝐥'𝐔𝐜𝐫𝐚𝐢𝐧𝐚 𝐧𝐞𝐢 𝐂𝐞𝐧𝐭𝐫𝐢
+  𝐩𝐞𝐫 𝐁𝐚𝐦𝐛𝐢𝐧𝐢 𝐞 𝐅𝐚𝐦𝐢𝐠𝐥𝐢𝐞 (𝐂𝐁𝐅) a Bologna
+recipients: ''
+description: ""I Centri per Bambini e Famiglie del Comune di Bologna aprono ai bambini,\
+  \ alle bambine, con i loro genitori o adulti di riferimento, in fuga dal conflitto\
+  \ in #Ucraina, i propri spazi educativi. \nIl servizio si rivolge alla fascia di\
+  \ età 0-6 anni.\nLe attività di accoglienza dei CBF prevedono delle aperture straordinarie\
+  \ apposite dei Centri o l'inserimento in attività già programmate per il periodo\
+  \ aprile-maggio. Durante gli incontri si proporranno situazioni di gioco o di socializzazione\n\
+  Qui trovi insieme al calendario delle aperture dei Centri, anche i numeri di telefono\
+  \ di ogni Centro: https://bit.ly/3L5TD9G""
+url: https://bit.ly/3L5TD9G
+address:
+  mode: autocomplete
+  address:
+    place_id: 283848615
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43172
+    boundingbox:
+    - '44.421033'
+    - '44.556094'
+    - '11.2296206'
+    - '11.4336079'
+    lat: '44.4938203'
+    lon: '11.3426327'
+    display_name: Bologna, Emilia-Romagna, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7905771109268431
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Bologna
+      county: Bologna
+      state: Emilia-Romagna
+      ISO3166-2-lvl4: IT-45
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/764,1226977770,2022-05-06 09:31:37,2022-05-05 17:30:48,A Bologna gli Empori Casa Zanardi cercano e raccolgono beni di prima necessità per profughi Ucraini,44.4938203,11.3426327,Emilia-Romagna,Bologna,"[""Valid/Accettato"",""Help"",""fundraising"",""materialGoods"",""Resources""]",,,"{""Posizione"":""44.4938203 11.3426327"",""description"":""Gli Empori Solidali Case Zanardi promuovono una raccolta di beni di prima necessit\u00e0 da donare alle persone provenienti dall\u2019Ucraina arrivate a Bologna.\nSi pu\u00f2 donare: beni alimentari, prodotti per l'igiene, prodotti per la casa, materiali scolastici\nPuoi consegnare i beni all'Emporio solidale di via Capo di Lucca 37 a Bologna:\n\u25aa\ufe0fmarted\u00ec dalle 9.30 alle 12.30\n\u25aa\ufe0fgioved\u00ec dalle 14.30 alle 16.30\n\u25aa\ufe0fsabato dalle 9.30 alle 12.30\nPer informazioni\n\ud83d\udcdeEnrico Dionisio: 3356352325\n\ud83d\udcdeMarina Mamini: 3516395410\n\ud83d\udce7email: enrico.dionisio@comune.bologna.it"",""email"":""enrico.dionisio@comune.bologna.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.421033"",""44.556094"",""11.2296206"",""11.4336079""],""class"":""boundary"",""display_name"":""Bologna, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7905771109268431,""lat"":""44.4938203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.3426327"",""osm_id"":43172,""osm_type"":""relation"",""place_id"":283848615,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Case Zanardi"",""phoneNumber"":""3356352325 - 3516395410"",""recipients"":"""",""submit"":true,""title"":""\ud835\udc11\ud835\udc1a\ud835\udc1c\ud835\udc1c\ud835\udc28\ud835\udc25\ud835\udc2d\ud835\udc1a \ud835\udc1d\ud835\udc22 \ud835\udc1b\ud835\udc1e\ud835\udc27\ud835\udc22 \ud835\udc1d\ud835\udc22 \ud835\udc29\ud835\udc2b\ud835\udc22\ud835\udc26\ud835\udc1a \ud835\udc27\ud835\udc1e\ud835\udc1c\ud835\udc1e\ud835\udc2c\ud835\udc2c\ud835\udc22\ud835\udc2d\ud835\udc1a\u0300  \ud835\udc29\ud835\udc1e\ud835\udc2b \ud835\udc22 \ud835\udc29\ud835\udc2b\ud835\udc28\ud835\udc1f\ud835\udc2e\ud835\udc20\ud835\udc21\ud835\udc22 \ud835\udc14\ud835\udc1c\ud835\udc2b\ud835\udc1a\ud835\udc22\ud835\udc27\ud835\udc22 \ud835\udc1a\ud835\udc2b\ud835\udc2b\ud835\udc22\ud835\udc2f\ud835\udc1a\ud835\udc2d\ud835\udc22 \ud835\udc1a \ud835\udc01\ud835\udc28\ud835\udc25\ud835\udc28\ud835\udc20\ud835\udc27\ud835\udc1a"",""url"":""http://www.comune.bologna.it/sportellosociale/?fbclid=IwAR0H_1iVk4KkhCTMITBUciq-xGw24zSFYGJ7SLKWWj84VeJze_gQ_BDcuds""}","<pre><yamldata>
+nameSurname: Case Zanardi
+phoneNumber: 3356352325 - 3516395410
+email: enrico.dionisio@comune.bologna.it
+title: 𝐑𝐚𝐜𝐜𝐨𝐥𝐭𝐚 𝐝𝐢 𝐛𝐞𝐧𝐢 𝐝𝐢 𝐩𝐫𝐢𝐦𝐚 𝐧𝐞𝐜𝐞𝐬𝐬𝐢𝐭𝐚̀  𝐩𝐞𝐫 𝐢 𝐩𝐫𝐨𝐟𝐮𝐠𝐡𝐢 𝐔𝐜𝐫𝐚𝐢𝐧𝐢 𝐚𝐫𝐫𝐢𝐯𝐚𝐭𝐢 𝐚 𝐁𝐨𝐥𝐨𝐠𝐧𝐚
+recipients: ''
+description: 'Gli Empori Solidali Case Zanardi promuovono una raccolta di beni di
+  prima necessità da donare alle persone provenienti dall’Ucraina arrivate a Bologna.
+
+  Si può donare: beni alimentari, prodotti per l''igiene, prodotti per la casa, materiali
+  scolastici
+
+  Puoi consegnare i beni all''Emporio solidale di via Capo di Lucca 37 a Bologna:
+
+  ▪️martedì dalle 9.30 alle 12.30
+
+  ▪️giovedì dalle 14.30 alle 16.30
+
+  ▪️sabato dalle 9.30 alle 12.30
+
+  Per informazioni
+
+  📞Enrico Dionisio: 3356352325
+
+  📞Marina Mamini: 3516395410
+
+  📧email: enrico.dionisio@comune.bologna.it'
+url: http://www.comune.bologna.it/sportellosociale/?fbclid=IwAR0H_1iVk4KkhCTMITBUciq-xGw24zSFYGJ7SLKWWj84VeJze_gQ_BDcuds
+location:
+  mode: autocomplete
+  address:
+    place_id: 283848615
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43172
+    boundingbox:
+    - '44.421033'
+    - '44.556094'
+    - '11.2296206'
+    - '11.4336079'
+    lat: '44.4938203'
+    lon: '11.3426327'
+    display_name: Bologna, Emilia-Romagna, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7905771109268431
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Bologna
+      county: Bologna
+      state: Emilia-Romagna
+      ISO3166-2-lvl4: IT-45
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 44.4938203 11.3426327
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/744,1221534622,2022-05-06 07:47:19,2022-04-29 21:01:41,"TrovaSocial, mappa dei servizi territoriali in Italia per chi si trova in difficoltà (migranti, rifugiati, senza dimora)",,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""telegram-channel"",""tweet"",""Resources""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""aim"":""TrovaSocial \u00e8 una mappa online, realizzata dalla cooperativa Itinere, dedicata ai servizi territoriali per chi in Italia si trova in condizione di disagio, in particolare persone senza dimora, migranti, rifugiati, richiedenti asilo, donne vittime di tratta.\nLa mappa raccoglie informazioni sui servizi presenti sul territorio nazionale di segretariato sociale, orientamento e ascolto, mense e distribuzione di alimenti e beni di prima necessit\u00e0, ambulatori e cure mediche, scuole e formazione, corsi di italiano per stranieri, lavoro, supporto legale e altro."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""TrovaSocial, mappa dei servizi territoriali in Italia per chi si trova in difficolt\u00e0 (migranti, rifugiati, senza dimora)"",""url"":""http://www.trovasocial.it/""}","<pre><yamldata>
 title: TrovaSocial, mappa dei servizi territoriali in Italia per chi si trova in difficoltà
   (migranti, rifugiati, senza dimora)
