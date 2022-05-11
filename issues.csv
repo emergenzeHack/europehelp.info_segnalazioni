@@ -1,4 +1,19 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/774,1232863102,2022-05-11 15:52:07,2022-05-11 15:50:17,Il Ministero dell'Istruzione pubblica i dati sull'accoglienza di studentesse e studenti ucraini,,,,,"[""Valid/Accettato"",""News"",""telegram-channel"",""tweet"",""education""]",,,"{""description"":""Sono disponibili sul sito del Ministero dell\u2019Istruzione, i dati relativi alle studentesse e agli studenti ucraini accolti nelle scuole, statali e paritarie. Il report, aggiornato alle ore 15 del 9 maggio 2022, \u00e8 disponibile nella sezione del sito dedicata all\u2019emergenza educativa ucraina"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.istruzione.it/emergenza-educativa-ucraina/allegati/ReportAlunniUcraini%209_5_22.pdf"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Il Ministero dell'Istruzione pubblica i dati sull'accoglienza di studentesse e studenti ucraini""}","<pre><yamldata>
+title: Il Ministero dell'Istruzione pubblica i dati sull'accoglienza di studentesse
+  e studenti ucraini
+description: Sono disponibili sul sito del Ministero dell’Istruzione, i dati relativi
+  alle studentesse e agli studenti ucraini accolti nelle scuole, statali e paritarie.
+  Il report, aggiornato alle ore 15 del 9 maggio 2022, è disponibile nella sezione
+  del sito dedicata all’emergenza educativa ucraina
+link: https://www.istruzione.it/emergenza-educativa-ucraina/allegati/ReportAlunniUcraini%209_5_22.pdf
+location:
+  mode: autocomplete
+  address: {}
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/770,1232652187,2022-05-11 15:29:15,2022-05-11 13:34:46,Nel sito dell'AUSL Azienda Unità Sanitaria Locale di Bologna informazioni utili per i rifugiati ucraini,44.4885788,11.360787060741501,Emilia-Romagna,Bologna,"[""Valid/Accettato"",""Services"",""healthcare"",""psychologicalSupport""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.421033"",""44.556094"",""11.2296206"",""11.4336079""],""class"":""boundary"",""display_name"":""Bologna, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7905771109268431,""lat"":""44.4885788"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.360787060741501"",""osm_id"":43172,""osm_type"":""relation"",""place_id"":282184335,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Nel sito dell'AUSL di Bologna ci sono pagine dedicate alle informazioni utili per l'assistenza sanitaria a Bologna alle persona in fuga dalla guerra in Ucraina in doppia lingua italiana e ucraina."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""AUSL, Azienda Unit\u00e0 Sanitaria Locale di Bologna"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Nel sito dell'AUSL, Azienda Unit\u00e0 Sanitaria Locale di Bologna, informazioni utili per i rifugiati"",""url"":""https://www.ausl.bologna.it/per-i-cittadini/ukem""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
