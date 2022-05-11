@@ -1,4 +1,140 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/770,1232652187,2022-05-11 15:29:15,2022-05-11 13:34:46,Nel sito dell'AUSL Azienda Unità Sanitaria Locale di Bologna informazioni utili per i rifugiati ucraini,44.4885788,11.360787060741501,Emilia-Romagna,Bologna,"[""Valid/Accettato"",""Services"",""healthcare"",""psychologicalSupport""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.421033"",""44.556094"",""11.2296206"",""11.4336079""],""class"":""boundary"",""display_name"":""Bologna, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7905771109268431,""lat"":""44.4885788"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.360787060741501"",""osm_id"":43172,""osm_type"":""relation"",""place_id"":282184335,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Nel sito dell'AUSL di Bologna ci sono pagine dedicate alle informazioni utili per l'assistenza sanitaria a Bologna alle persona in fuga dalla guerra in Ucraina in doppia lingua italiana e ucraina."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""AUSL, Azienda Unit\u00e0 Sanitaria Locale di Bologna"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Nel sito dell'AUSL, Azienda Unit\u00e0 Sanitaria Locale di Bologna, informazioni utili per i rifugiati"",""url"":""https://www.ausl.bologna.it/per-i-cittadini/ukem""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: true
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: true
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: AUSL, Azienda Unità Sanitaria Locale di Bologna
+title: Nel sito dell'AUSL, Azienda Unità Sanitaria Locale di Bologna, informazioni
+  utili per i rifugiati
+recipients: ''
+description: Nel sito dell'AUSL di Bologna ci sono pagine dedicate alle informazioni
+  utili per l'assistenza sanitaria a Bologna alle persona in fuga dalla guerra in
+  Ucraina in doppia lingua italiana e ucraina.
+url: https://www.ausl.bologna.it/per-i-cittadini/ukem
+address:
+  mode: autocomplete
+  address:
+    place_id: 282184335
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43172
+    boundingbox:
+    - '44.421033'
+    - '44.556094'
+    - '11.2296206'
+    - '11.4336079'
+    lat: '44.4885788'
+    lon: '11.360787060741501'
+    display_name: Bologna, Emilia-Romagna, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7905771109268431
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Bologna
+      county: Bologna
+      state: Emilia-Romagna
+      ISO3166-2-lvl4: IT-45
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/773,1232813807,2022-05-11 15:28:26,2022-05-11 15:12:49,"Lingua Inter Pares, un progetto di volontariato, attiva corsi di yoga gratuiti, in presenza a Pesaro e online",43.9098114,12.9131228,Marche,Pesaro e Urbino,"[""Valid/Accettato"",""Services"",""translation"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-57"",""city"":""Pesaro"",""country"":""Italia"",""country_code"":""it"",""county"":""Pesaro e Urbino"",""postcode"":""61121"",""state"":""Marche""},""boundingbox"":[""43.7498114"",""44.0698114"",""12.7531228"",""13.0731228""],""class"":""place"",""display_name"":""Pesaro, Pesaro e Urbino, Marche, 61121, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.6768364113521745,""lat"":""43.9098114"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.9131228"",""osm_id"":266513166,""osm_type"":""node"",""place_id"":536705,""type"":""city""},""mode"":""autocomplete""},""description"":""Corsi di yoga gratuiti, in presenza e online, dedicati a tutte/i i rifugiati ucraini che frequentano i corsi di lingua italiana. Progetto di volontariato di Anastasya Kuznetsova e Mariam Kaphianidze."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Lingua Inter Pares"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Lingua Inter Pares, un progetto di volontariato attiva corsi di yoga gratuiti, in presenza a Pesaro e online"",""url"":""https://www.facebook.com/lingua.interpares/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: true
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Lingua Inter Pares
+title: Lingua Inter Pares, un progetto di volontariato attiva corsi di yoga gratuiti,
+  in presenza a Pesaro e online
+recipients: ''
+description: Corsi di yoga gratuiti, in presenza e online, dedicati a tutte/i i rifugiati
+  ucraini che frequentano i corsi di lingua italiana. Progetto di volontariato di
+  Anastasya Kuznetsova e Mariam Kaphianidze.
+url: https://www.facebook.com/lingua.interpares/
+address:
+  mode: autocomplete
+  address:
+    place_id: 536705
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 266513166
+    boundingbox:
+    - '43.7498114'
+    - '44.0698114'
+    - '12.7531228'
+    - '13.0731228'
+    lat: '43.9098114'
+    lon: '12.9131228'
+    display_name: Pesaro, Pesaro e Urbino, Marche, 61121, Italia
+    class: place
+    type: city
+    importance: 0.6768364113521745
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Pesaro
+      county: Pesaro e Urbino
+      state: Marche
+      ISO3166-2-lvl4: IT-57
+      postcode: '61121'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/769,1229850261,2022-05-11 15:26:10,2022-05-09 14:51:17,"ASGI, Associazione per gli Studi Giuridici sull'Immigrazione, offre un servizio di supporto giuridico contro le discriminazioni ",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""Closed""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""L\u2019ASGI promuove un servizio di supporto giuridico contro le discriminazioni etnico-razziali e religiose in Italia, articolato in un coordinamento centrale, con sede a Milano, diverse antenne territoriali antidiscriminazione, con sede a Milano, Torino, Firenze, Roma, Napoli, Verona (altre antenne sono in via di formazione) e una rete di professionisti sul territorio nazionale coinvolti nel contenzioso, nella formazione e nel monitoraggio in materia di discriminazioni."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""ASGI"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":null,""url"":""https://www.asgi.it/servizio-antidiscriminazione/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: ASGI
+title: 
+recipients: ''
+description: L’ASGI promuove un servizio di supporto giuridico contro le discriminazioni
+  etnico-razziali e religiose in Italia, articolato in un coordinamento centrale,
+  con sede a Milano, diverse antenne territoriali antidiscriminazione, con sede a
+  Milano, Torino, Firenze, Roma, Napoli, Verona (altre antenne sono in via di formazione)
+  e una rete di professionisti sul territorio nazionale coinvolti nel contenzioso,
+  nella formazione e nel monitoraggio in materia di discriminazioni.
+url: https://www.asgi.it/servizio-antidiscriminazione/
+address:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/771,1232768741,2022-05-11 15:18:01,2022-05-11 14:43:29,"Pagina web AUSL, Azienda Unità Sanitaria Locale, della Romagna con informazioni utili per la popolazione ucraina",44.13497265,11.847319102240142,Emilia-Romagna,Forli'-Cesena,"[""Valid/Accettato"",""Services"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""country"":""Italia"",""country_code"":""it"",""place"":""Romagna"",""state"":""Emilia-Romagna""},""boundingbox"":[""43.6418283"",""44.6283408"",""11.1936001"",""12.8247837""],""class"":""place"",""display_name"":""Romagna, Emilia-Romagna, Italia"",""importance"":0.618344381427577,""lat"":""44.13497265"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.847319102240142"",""osm_id"":9084464,""osm_type"":""relation"",""place_id"":285665756,""type"":""region""},""mode"":""autocomplete""},""description"":""Pagina dell'Azienda Unit\u00e0 Sanitaria Locale della Romagna con informazioni e schede sui servizi sanitari in lingua per la popolazione ucraina."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""AUSL Romagna"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""AUSL, Azienda Unit\u00e0 Sanitaria Locale Romagna"",""url"":""https://www.auslromagna.it/assistenza-profughi-ucraina""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -43,37 +179,6 @@ address:
       ISO3166-2-lvl4: IT-45
       country: Italia
       country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/769,1229850261,2022-05-11 10:00:42,2022-05-09 14:51:17,"ASGI, Associazione per gli Studi Giuridici sull'Immigrazione, offre un servizio di supporto giuridico contro le discriminazioni ",,,,,"[""Valid/Accettato"",""Services"",""Legal"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""L\u2019ASGI promuove un servizio di supporto giuridico contro le discriminazioni etnico-razziali e religiose in Italia, articolato in un coordinamento centrale, con sede a Milano, diverse antenne territoriali antidiscriminazione, con sede a Milano, Torino, Firenze, Roma, Napoli, Verona (altre antenne sono in via di formazione) e una rete di professionisti sul territorio nazionale coinvolti nel contenzioso, nella formazione e nel monitoraggio in materia di discriminazioni."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""ASGI"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":null,""url"":""https://www.asgi.it/servizio-antidiscriminazione/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: true
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: ASGI
-title: 
-recipients: ''
-description: L’ASGI promuove un servizio di supporto giuridico contro le discriminazioni
-  etnico-razziali e religiose in Italia, articolato in un coordinamento centrale,
-  con sede a Milano, diverse antenne territoriali antidiscriminazione, con sede a
-  Milano, Torino, Firenze, Roma, Napoli, Verona (altre antenne sono in via di formazione)
-  e una rete di professionisti sul territorio nazionale coinvolti nel contenzioso,
-  nella formazione e nel monitoraggio in materia di discriminazioni.
-url: https://www.asgi.it/servizio-antidiscriminazione/
-address:
-  mode: autocomplete
-  address: {}
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
