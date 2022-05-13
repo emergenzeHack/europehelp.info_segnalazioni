@@ -1,4 +1,156 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/767,1226999422,2022-05-13 18:46:22,2022-05-05 17:54:47,Caritas cremonese: aiuti e informazioni utili per chi arriva dall'Ucraina,45.1377902,10.0283571,Lombardia,Cremona,"[""Valid/Accettato"",""useful contact"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-CR"",""city"":""Cremona"",""country"":""Italia"",""country_code"":""it"",""county"":""Cremona"",""postcode"":""26100"",""road"":""Via Stenico"",""state"":""Lombardia"",""suburb"":""Vecchia Dogana""},""boundingbox"":[""45.1375642"",""45.1379769"",""10.0272732"",""10.0294889""],""class"":""highway"",""display_name"":""Via Stenico, Vecchia Dogana, Cremona, Lombardia, 26100, Italia"",""importance"":0.5,""lat"":""45.1377902"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.0283571"",""osm_id"":687741607,""osm_type"":""way"",""place_id"":237191278,""type"":""residential""},""mode"":""autocomplete""},""aim"":""Pagina con le informazioni per poter dare o ricevere aiuti e per i cittadini ucraini arrivati sul territorio diocesano di Cremona. Tutte le azioni sono realizzate in collaborazione con gli enti pubblici e le realt\u00e0 che sul territorio operano per affrontare l\u2019emergenza."",""email"":""caritas@diocesidicremona.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Caritas cremonese: aiuti e informazioni per chi arriva"",""url"":""https://caritascremonese.it/emergenza-ucraina-aiuti-e-informazioni/?fbclid=IwAR2-jBS7M3WFVXdZhuWVbCe2EDFkeQnz4_4L7hMDqAvaubnMilkhXXmIsEk""}","<pre><yamldata>
+title: 'Caritas cremonese: aiuti e informazioni per chi arriva'
+phoneNumber: ''
+email: caritas@diocesidicremona.it
+aim: Pagina con le informazioni per poter dare o ricevere aiuti e per i cittadini
+  ucraini arrivati sul territorio diocesano di Cremona. Tutte le azioni sono realizzate
+  in collaborazione con gli enti pubblici e le realtà che sul territorio operano per
+  affrontare l’emergenza.
+url: https://caritascremonese.it/emergenza-ucraina-aiuti-e-informazioni/?fbclid=IwAR2-jBS7M3WFVXdZhuWVbCe2EDFkeQnz4_4L7hMDqAvaubnMilkhXXmIsEk
+address:
+  mode: autocomplete
+  address:
+    place_id: 237191278
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 687741607
+    boundingbox:
+    - '45.1375642'
+    - '45.1379769'
+    - '10.0272732'
+    - '10.0294889'
+    lat: '45.1377902'
+    lon: '10.0283571'
+    display_name: Via Stenico, Vecchia Dogana, Cremona, Lombardia, 26100, Italia
+    class: highway
+    type: residential
+    importance: 0.5
+    address:
+      road: Via Stenico
+      suburb: Vecchia Dogana
+      city: Cremona
+      county: Cremona
+      ISO3166-2-lvl6: IT-CR
+      state: Lombardia
+      postcode: '26100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/778,1234439025,2022-05-13 18:44:21,2022-05-12 20:16:30,"Roma, Scuola di italiano per profughi ucraini adulti, bambini e ragazzi",41.907095049999995,12.448959748467473,Lazio,Roma,"[""Valid/Accettato"",""Services"",""translation"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Santa Maria delle Grazie al Trionfale"",""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""5"",""postcode"":""00136"",""road"":""Piazza Santa Maria delle Grazie"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.9068563"",""41.9073277"",""12.4486098"",""12.4493045""],""class"":""amenity"",""display_name"":""Santa Maria delle Grazie al Trionfale, 5, Piazza Santa Maria delle Grazie, Municipio Roma I, Roma, Roma Capitale, Lazio, 00136, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//place_of_worship_unknown3.p.20.png"",""importance"":1.1565480119372578,""lat"":""41.907095049999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.448959748467473"",""osm_id"":137178554,""osm_type"":""way"",""place_id"":132738508,""type"":""place_of_worship""},""mode"":""autocomplete""},""description"":""Scuola Ucraina \u201cPrestigio\u201d ha aperto la scuola per profughi ucraini, adulti bambini e ragazzi:\n\u2013 a Roma presso la Parrocchia Santa Maria delle Grazie (Metro fermata Cipro)\nContatti: Tetyana Tarasenko 3397584432 tanya.kuzyk@yahoo.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Scuola Ucraina \u201cPrestigio\u201d"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Corsi di italiano"",""url"":""http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: true
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Scuola Ucraina “Prestigio”
+title: Corsi di italiano
+recipients: ''
+description: 'Scuola Ucraina “Prestigio” ha aperto la scuola per profughi ucraini,
+  adulti bambini e ragazzi:
+
+  – a Roma presso la Parrocchia Santa Maria delle Grazie (Metro fermata Cipro)
+
+  Contatti: Tetyana Tarasenko 3397584432 tanya.kuzyk@yahoo.it'
+url: http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg
+address:
+  mode: autocomplete
+  address:
+    place_id: 132738508
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 137178554
+    boundingbox:
+    - '41.9068563'
+    - '41.9073277'
+    - '12.4486098'
+    - '12.4493045'
+    lat: '41.907095049999995'
+    lon: '12.448959748467473'
+    display_name: Santa Maria delle Grazie al Trionfale, 5, Piazza Santa Maria delle
+      Grazie, Municipio Roma I, Roma, Roma Capitale, Lazio, 00136, Italia
+    class: amenity
+    type: place_of_worship
+    importance: 1.1565480119372578
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//place_of_worship_unknown3.p.20.png
+    address:
+      amenity: Santa Maria delle Grazie al Trionfale
+      house_number: '5'
+      road: Piazza Santa Maria delle Grazie
+      suburb: Municipio Roma I
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: '00136'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/770,1232652187,2022-05-13 18:43:25,2022-05-11 13:34:46,"Bologna, Azienda Sanitaria Locale pubblica informazioni utili per i rifugiati ucraini",44.4885788,11.360787060741501,Emilia-Romagna,Bologna,"[""Valid/Accettato"",""Services"",""useful contact"",""healthcare"",""psychologicalSupport"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.421033"",""44.556094"",""11.2296206"",""11.4336079""],""class"":""boundary"",""display_name"":""Bologna, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7905771109268431,""lat"":""44.4885788"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.360787060741501"",""osm_id"":43172,""osm_type"":""relation"",""place_id"":282184335,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Nel sito dell'AUSL di Bologna ci sono pagine dedicate alle informazioni utili per l'assistenza sanitaria a Bologna alle persona in fuga dalla guerra in Ucraina in doppia lingua italiana e ucraina."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""AUSL, Azienda Unit\u00e0 Sanitaria Locale di Bologna"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Nel sito dell'AUSL, Azienda Unit\u00e0 Sanitaria Locale di Bologna, informazioni utili per i rifugiati"",""url"":""https://www.ausl.bologna.it/per-i-cittadini/ukem""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: true
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: true
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: AUSL, Azienda Unità Sanitaria Locale di Bologna
+title: Nel sito dell'AUSL, Azienda Unità Sanitaria Locale di Bologna, informazioni
+  utili per i rifugiati
+recipients: ''
+description: Nel sito dell'AUSL di Bologna ci sono pagine dedicate alle informazioni
+  utili per l'assistenza sanitaria a Bologna alle persona in fuga dalla guerra in
+  Ucraina in doppia lingua italiana e ucraina.
+url: https://www.ausl.bologna.it/per-i-cittadini/ukem
+address:
+  mode: autocomplete
+  address:
+    place_id: 282184335
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 43172
+    boundingbox:
+    - '44.421033'
+    - '44.556094'
+    - '11.2296206'
+    - '11.4336079'
+    lat: '44.4885788'
+    lon: '11.360787060741501'
+    display_name: Bologna, Emilia-Romagna, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7905771109268431
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Bologna
+      county: Bologna
+      state: Emilia-Romagna
+      ISO3166-2-lvl4: IT-45
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/782,1234444875,2022-05-13 14:46:02,2022-05-12 20:23:13,Corso base di italiano per adulti ucraini a Roma,41.8639124,12.4500988,Lazio,Roma,"[""Valid/Accettato"",""Services"",""translation"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""31"",""postcode"":""00151"",""road"":""Via Bernardino Ramazzini"",""state"":""Lazio"",""suburb"":""Municipio Roma XII""},""boundingbox"":[""41.8638624"",""41.8639624"",""12.4500488"",""12.4501488""],""class"":""place"",""display_name"":""31, Via Bernardino Ramazzini, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00151, Italia"",""importance"":0.42099999999999993,""lat"":""41.8639124"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4500988"",""osm_id"":4496885840,""osm_type"":""node"",""place_id"":50899981,""type"":""house""},""mode"":""autocomplete""},""description"":""Corso base di italiano L2 rivolto agli ucraini adulti, dal 7 maggio in presenza.\nSabato e domenica ore 10 \u2013 12.\nPer iscriversi mandare una mail a: linguacomune@criroma.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Croce Rossa Area Metropolitana"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Corsi di italiano per adulti a Roma"",""url"":""http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -107,65 +259,6 @@ address:
       county: Roma Capitale
       state: Lazio
       postcode: 00181
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/778,1234439025,2022-05-13 14:41:03,2022-05-12 20:16:30,"Roma, Scuola di italiano per profughi ucraini adulti, bambini e ragazzi",41.907095049999995,12.448959748467473,Lazio,Roma,"[""Valid/Accettato"",""Services"",""translation"",""education""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Santa Maria delle Grazie al Trionfale"",""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""5"",""postcode"":""00136"",""road"":""Piazza Santa Maria delle Grazie"",""state"":""Lazio"",""suburb"":""Municipio Roma I""},""boundingbox"":[""41.9068563"",""41.9073277"",""12.4486098"",""12.4493045""],""class"":""amenity"",""display_name"":""Santa Maria delle Grazie al Trionfale, 5, Piazza Santa Maria delle Grazie, Municipio Roma I, Roma, Roma Capitale, Lazio, 00136, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//place_of_worship_unknown3.p.20.png"",""importance"":1.1565480119372578,""lat"":""41.907095049999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.448959748467473"",""osm_id"":137178554,""osm_type"":""way"",""place_id"":132738508,""type"":""place_of_worship""},""mode"":""autocomplete""},""description"":""Scuola Ucraina \u201cPrestigio\u201d ha aperto la scuola per profughi ucraini, adulti bambini e ragazzi:\n\u2013 a Roma presso la Parrocchia Santa Maria delle Grazie (Metro fermata Cipro)\nContatti: Tetyana Tarasenko 3397584432 tanya.kuzyk@yahoo.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Scuola Ucraina \u201cPrestigio\u201d"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Corsi di italiano"",""url"":""http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: true
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Scuola Ucraina “Prestigio”
-title: Corsi di italiano
-recipients: ''
-description: 'Scuola Ucraina “Prestigio” ha aperto la scuola per profughi ucraini,
-  adulti bambini e ragazzi:
-
-  – a Roma presso la Parrocchia Santa Maria delle Grazie (Metro fermata Cipro)
-
-  Contatti: Tetyana Tarasenko 3397584432 tanya.kuzyk@yahoo.it'
-url: http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg
-address:
-  mode: autocomplete
-  address:
-    place_id: 132738508
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 137178554
-    boundingbox:
-    - '41.9068563'
-    - '41.9073277'
-    - '12.4486098'
-    - '12.4493045'
-    lat: '41.907095049999995'
-    lon: '12.448959748467473'
-    display_name: Santa Maria delle Grazie al Trionfale, 5, Piazza Santa Maria delle
-      Grazie, Municipio Roma I, Roma, Roma Capitale, Lazio, 00136, Italia
-    class: amenity
-    type: place_of_worship
-    importance: 1.1565480119372578
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//place_of_worship_unknown3.p.20.png
-    address:
-      amenity: Santa Maria delle Grazie al Trionfale
-      house_number: '5'
-      road: Piazza Santa Maria delle Grazie
-      suburb: Municipio Roma I
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      postcode: '00136'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
@@ -387,58 +480,6 @@ location:
   address: {}
 label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/770,1232652187,2022-05-11 15:29:15,2022-05-11 13:34:46,Nel sito dell'AUSL Azienda Unità Sanitaria Locale di Bologna informazioni utili per i rifugiati ucraini,44.4885788,11.360787060741501,Emilia-Romagna,Bologna,"[""Valid/Accettato"",""Services"",""healthcare"",""psychologicalSupport""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.421033"",""44.556094"",""11.2296206"",""11.4336079""],""class"":""boundary"",""display_name"":""Bologna, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7905771109268431,""lat"":""44.4885788"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.360787060741501"",""osm_id"":43172,""osm_type"":""relation"",""place_id"":282184335,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Nel sito dell'AUSL di Bologna ci sono pagine dedicate alle informazioni utili per l'assistenza sanitaria a Bologna alle persona in fuga dalla guerra in Ucraina in doppia lingua italiana e ucraina."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""AUSL, Azienda Unit\u00e0 Sanitaria Locale di Bologna"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Nel sito dell'AUSL, Azienda Unit\u00e0 Sanitaria Locale di Bologna, informazioni utili per i rifugiati"",""url"":""https://www.ausl.bologna.it/per-i-cittadini/ukem""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: true
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: true
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: AUSL, Azienda Unità Sanitaria Locale di Bologna
-title: Nel sito dell'AUSL, Azienda Unità Sanitaria Locale di Bologna, informazioni
-  utili per i rifugiati
-recipients: ''
-description: Nel sito dell'AUSL di Bologna ci sono pagine dedicate alle informazioni
-  utili per l'assistenza sanitaria a Bologna alle persona in fuga dalla guerra in
-  Ucraina in doppia lingua italiana e ucraina.
-url: https://www.ausl.bologna.it/per-i-cittadini/ukem
-address:
-  mode: autocomplete
-  address:
-    place_id: 282184335
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 43172
-    boundingbox:
-    - '44.421033'
-    - '44.556094'
-    - '11.2296206'
-    - '11.4336079'
-    lat: '44.4885788'
-    lon: '11.360787060741501'
-    display_name: Bologna, Emilia-Romagna, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7905771109268431
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Bologna
-      county: Bologna
-      state: Emilia-Romagna
-      ISO3166-2-lvl4: IT-45
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/773,1232813807,2022-05-11 15:28:26,2022-05-11 15:12:49,"Lingua Inter Pares, un progetto di volontariato, attiva corsi di yoga gratuiti, in presenza a Pesaro e online",43.9098114,12.9131228,Marche,Pesaro e Urbino,"[""Valid/Accettato"",""Services"",""translation"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-57"",""city"":""Pesaro"",""country"":""Italia"",""country_code"":""it"",""county"":""Pesaro e Urbino"",""postcode"":""61121"",""state"":""Marche""},""boundingbox"":[""43.7498114"",""44.0698114"",""12.7531228"",""13.0731228""],""class"":""place"",""display_name"":""Pesaro, Pesaro e Urbino, Marche, 61121, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.6768364113521745,""lat"":""43.9098114"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.9131228"",""osm_id"":266513166,""osm_type"":""node"",""place_id"":536705,""type"":""city""},""mode"":""autocomplete""},""description"":""Corsi di yoga gratuiti, in presenza e online, dedicati a tutte/i i rifugiati ucraini che frequentano i corsi di lingua italiana. Progetto di volontariato di Anastasya Kuznetsova e Mariam Kaphianidze."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Lingua Inter Pares"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Lingua Inter Pares, un progetto di volontariato attiva corsi di yoga gratuiti, in presenza a Pesaro e online"",""url"":""https://www.facebook.com/lingua.interpares/""}","<pre><yamldata>
@@ -794,47 +835,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: help
 submit: true
 Posizione: 44.4938203 11.3426327
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/767,1226999422,2022-05-06 09:35:29,2022-05-05 17:54:47,Caritas cremonese: aiuti e informazioni utili per chi arriva dall'Ucraina,45.1377902,10.0283571,Lombardia,Cremona,"[""Valid/Accettato"",""useful contact""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-CR"",""city"":""Cremona"",""country"":""Italia"",""country_code"":""it"",""county"":""Cremona"",""postcode"":""26100"",""road"":""Via Stenico"",""state"":""Lombardia"",""suburb"":""Vecchia Dogana""},""boundingbox"":[""45.1375642"",""45.1379769"",""10.0272732"",""10.0294889""],""class"":""highway"",""display_name"":""Via Stenico, Vecchia Dogana, Cremona, Lombardia, 26100, Italia"",""importance"":0.5,""lat"":""45.1377902"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.0283571"",""osm_id"":687741607,""osm_type"":""way"",""place_id"":237191278,""type"":""residential""},""mode"":""autocomplete""},""aim"":""Pagina con le informazioni per poter dare o ricevere aiuti e per i cittadini ucraini arrivati sul territorio diocesano di Cremona. Tutte le azioni sono realizzate in collaborazione con gli enti pubblici e le realt\u00e0 che sul territorio operano per affrontare l\u2019emergenza."",""email"":""caritas@diocesidicremona.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Caritas cremonese: aiuti e informazioni per chi arriva"",""url"":""https://caritascremonese.it/emergenza-ucraina-aiuti-e-informazioni/?fbclid=IwAR2-jBS7M3WFVXdZhuWVbCe2EDFkeQnz4_4L7hMDqAvaubnMilkhXXmIsEk""}","<pre><yamldata>
-title: 'Caritas cremonese: aiuti e informazioni per chi arriva'
-phoneNumber: ''
-email: caritas@diocesidicremona.it
-aim: Pagina con le informazioni per poter dare o ricevere aiuti e per i cittadini
-  ucraini arrivati sul territorio diocesano di Cremona. Tutte le azioni sono realizzate
-  in collaborazione con gli enti pubblici e le realtà che sul territorio operano per
-  affrontare l’emergenza.
-url: https://caritascremonese.it/emergenza-ucraina-aiuti-e-informazioni/?fbclid=IwAR2-jBS7M3WFVXdZhuWVbCe2EDFkeQnz4_4L7hMDqAvaubnMilkhXXmIsEk
-address:
-  mode: autocomplete
-  address:
-    place_id: 237191278
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 687741607
-    boundingbox:
-    - '45.1375642'
-    - '45.1379769'
-    - '10.0272732'
-    - '10.0294889'
-    lat: '45.1377902'
-    lon: '10.0283571'
-    display_name: Via Stenico, Vecchia Dogana, Cremona, Lombardia, 26100, Italia
-    class: highway
-    type: residential
-    importance: 0.5
-    address:
-      road: Via Stenico
-      suburb: Vecchia Dogana
-      city: Cremona
-      county: Cremona
-      ISO3166-2-lvl6: IT-CR
-      state: Lombardia
-      postcode: '26100'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: useful contact
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/744,1221534622,2022-05-06 07:47:19,2022-04-29 21:01:41,"TrovaSocial, mappa dei servizi territoriali in Italia per chi si trova in difficoltà (migranti, rifugiati, senza dimora)",,,,,"[""Valid/Accettato"",""Services"",""useful contact"",""telegram-channel"",""tweet"",""Resources""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""aim"":""TrovaSocial \u00e8 una mappa online, realizzata dalla cooperativa Itinere, dedicata ai servizi territoriali per chi in Italia si trova in condizione di disagio, in particolare persone senza dimora, migranti, rifugiati, richiedenti asilo, donne vittime di tratta.\nLa mappa raccoglie informazioni sui servizi presenti sul territorio nazionale di segretariato sociale, orientamento e ascolto, mense e distribuzione di alimenti e beni di prima necessit\u00e0, ambulatori e cure mediche, scuole e formazione, corsi di italiano per stranieri, lavoro, supporto legale e altro."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""TrovaSocial, mappa dei servizi territoriali in Italia per chi si trova in difficolt\u00e0 (migranti, rifugiati, senza dimora)"",""url"":""http://www.trovasocial.it/""}","<pre><yamldata>
 title: TrovaSocial, mappa dei servizi territoriali in Italia per chi si trova in difficoltà
