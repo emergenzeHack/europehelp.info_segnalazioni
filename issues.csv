@@ -1,4 +1,167 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/780,1234441746,2022-05-14 07:26:26,2022-05-12 20:19:36,Istituto Salesiano offre Corsi di italiano per persone ucraine a Ostia,41.8741605,12.5313781,Lazio,Roma,"[""Valid/Accettato"",""Services"",""translation"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""11"",""postcode"":""00181"",""road"":""Via Umbertide"",""state"":""Lazio"",""suburb"":""Municipio Roma VII""},""boundingbox"":[""41.8741105"",""41.8742105"",""12.5313281"",""12.5314281""],""class"":""place"",""display_name"":""11, Via Umbertide, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00181, Italia"",""importance"":0.42099999999999993,""lat"":""41.8741605"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.5313781"",""osm_id"":9019588624,""osm_type"":""node"",""place_id"":95198346,""type"":""house""},""mode"":""autocomplete""},""description"":""Scuola Pio XI, presso l\u2019Istituto Salesiano Pio XI in via Umbertide, 11, Roma\nLe lezioni si svolgono in presenza il marted\u00ec e gioved\u00ec, ore 16 \u2013 18.\nPer iscriversi, contattare Graziella Faviani gfaviani@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Scuola Pio XI"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Corsi di italiano a Ostia"",""url"":""http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: true
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Scuola Pio XI
+title: Corsi di italiano a Ostia
+recipients: ''
+description: 'Scuola Pio XI, presso l’Istituto Salesiano Pio XI in via Umbertide,
+  11, Roma
+
+  Le lezioni si svolgono in presenza il martedì e giovedì, ore 16 – 18.
+
+  Per iscriversi, contattare Graziella Faviani gfaviani@gmail.com'
+url: http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg
+address:
+  mode: autocomplete
+  address:
+    place_id: 95198346
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 9019588624
+    boundingbox:
+    - '41.8741105'
+    - '41.8742105'
+    - '12.5313281'
+    - '12.5314281'
+    lat: '41.8741605'
+    lon: '12.5313781'
+    display_name: 11, Via Umbertide, Municipio Roma VII, Roma, Roma Capitale, Lazio,
+      00181, Italia
+    class: place
+    type: house
+    importance: 0.42099999999999993
+    address:
+      house_number: '11'
+      road: Via Umbertide
+      suburb: Municipio Roma VII
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: 00181
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/776,1234415741,2022-05-14 07:25:12,2022-05-12 19:50:08,Visite Sospese per le rifugiate ucraine a Milano,45.4641943,9.1896346,Lombardia,Milano,"[""Valid/Accettato"",""Services"",""fundraising"",""healthcare"",""women"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""state"":""Lombardia""},""boundingbox"":[""45.3867381"",""45.5358482"",""9.0408867"",""9.2781103""],""class"":""boundary"",""display_name"":""Milano, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8490652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":44915,""osm_type"":""relation"",""place_id"":283684439,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Alle donne che stanno arrivando in provincia di Milano, la cooperativa sociale Equa offre la possibilit\u00e0 di effettuare una visita ginecologica gratuita.\nL\u2019iniziativa \u00e8 realizzata in collaborazione con il Consultorio cooperativo Cemp di Milano. Equa ha lanciato la visita sospesa per le rifugiate ucraine. Il costo di ogni visita \u00e8 di 35 euro. Ognuno pu\u00f2 contribuire con una donazione. Per ulteriori informazioni \u00e8 possibile scrivere a info@equacooperativa.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Cooperativa sociale Equa"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Visite Sospese per le rifugiate ucraine a Milano"",""url"":""https://www.dalsociale24.it/visite-sospese-per-rifugiate-ucraine/?fbclid=IwAR0qIDZzbrWFDH57CuJNAMxzT_pHHW7j2AukI8tzoSjrH0KmKi6feM7WHRo""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: true
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Cooperativa sociale Equa
+title: Visite Sospese per le rifugiate ucraine a Milano
+recipients: ''
+description: 'Alle donne che stanno arrivando in provincia di Milano, la cooperativa
+  sociale Equa offre la possibilità di effettuare una visita ginecologica gratuita.
+
+  L’iniziativa è realizzata in collaborazione con il Consultorio cooperativo Cemp
+  di Milano. Equa ha lanciato la visita sospesa per le rifugiate ucraine. Il costo
+  di ogni visita è di 35 euro. Ognuno può contribuire con una donazione. Per ulteriori
+  informazioni è possibile scrivere a info@equacooperativa.it'
+url: https://www.dalsociale24.it/visite-sospese-per-rifugiate-ucraine/?fbclid=IwAR0qIDZzbrWFDH57CuJNAMxzT_pHHW7j2AukI8tzoSjrH0KmKi6feM7WHRo
+address:
+  mode: autocomplete
+  address:
+    place_id: 283684439
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 44915
+    boundingbox:
+    - '45.3867381'
+    - '45.5358482'
+    - '9.0408867'
+    - '9.2781103'
+    lat: '45.4641943'
+    lon: '9.1896346'
+    display_name: Milano, Lombardia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8490652078701348
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Milano
+      county: Milano
+      ISO3166-2-lvl6: IT-MI
+      state: Lombardia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/775,1234407593,2022-05-14 07:24:20,2022-05-12 19:40:06,"Cassa Colf, contributo di 300 euro una tantum per gli iscritti che ospitano parenti e familiari ucraini",42.6384261,12.674297,Umbria,Terni,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it""},""boundingbox"":[""35.2889616"",""47.0921462"",""6.6272658"",""18.7844746""],""class"":""boundary"",""display_name"":""Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9931019031440554,""lat"":""42.6384261"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.674297"",""osm_id"":365331,""osm_type"":""relation"",""place_id"":284007015,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Dal primo maggio \u00e8 possibile effettuare la richiesta per usufruire del contributo di 300 euro una tantum destinato agli iscritti che ospitano parenti e familiari ucraini. \nUno strumento di supporto per le spese relative a prodotti alimentari, farmaceutici, materiale scolastico e vestiario.\nPer richieste inviare una mail all'indirizzo: praticheucraina@cassacolf.it                                                       \nInfo: 800 1000 26"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Cassa Colf"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Contributo di 300 euro una tantum destinato agli iscritti che ospitano parenti e familiari ucraini"",""url"":""www.cassacolf.it""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Cassa Colf
+title: Contributo di 300 euro una tantum destinato agli iscritti che ospitano parenti
+  e familiari ucraini
+recipients: ''
+description: ""Dal primo maggio è possibile effettuare la richiesta per usufruire del\
+  \ contributo di 300 euro una tantum destinato agli iscritti che ospitano parenti\
+  \ e familiari ucraini. \nUno strumento di supporto per le spese relative a prodotti\
+  \ alimentari, farmaceutici, materiale scolastico e vestiario.\nPer richieste inviare\
+  \ una mail all'indirizzo: praticheucraina@cassacolf.it                         \
+  \                              \nInfo: 800 1000 26""
+url: www.cassacolf.it
+address:
+  mode: autocomplete
+  address:
+    place_id: 284007015
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 365331
+    boundingbox:
+    - '35.2889616'
+    - '47.0921462'
+    - '6.6272658'
+    - '18.7844746'
+    lat: '42.6384261'
+    lon: '12.674297'
+    display_name: Italia
+    class: boundary
+    type: administrative
+    importance: 0.9931019031440554
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/767,1226999422,2022-05-13 18:46:22,2022-05-05 17:54:47,Caritas cremonese: aiuti e informazioni utili per chi arriva dall'Ucraina,45.1377902,10.0283571,Lombardia,Cremona,"[""Valid/Accettato"",""useful contact"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-CR"",""city"":""Cremona"",""country"":""Italia"",""country_code"":""it"",""county"":""Cremona"",""postcode"":""26100"",""road"":""Via Stenico"",""state"":""Lombardia"",""suburb"":""Vecchia Dogana""},""boundingbox"":[""45.1375642"",""45.1379769"",""10.0272732"",""10.0294889""],""class"":""highway"",""display_name"":""Via Stenico, Vecchia Dogana, Cremona, Lombardia, 26100, Italia"",""importance"":0.5,""lat"":""45.1377902"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.0283571"",""osm_id"":687741607,""osm_type"":""way"",""place_id"":237191278,""type"":""residential""},""mode"":""autocomplete""},""aim"":""Pagina con le informazioni per poter dare o ricevere aiuti e per i cittadini ucraini arrivati sul territorio diocesano di Cremona. Tutte le azioni sono realizzate in collaborazione con gli enti pubblici e le realt\u00e0 che sul territorio operano per affrontare l\u2019emergenza."",""email"":""caritas@diocesidicremona.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Caritas cremonese: aiuti e informazioni per chi arriva"",""url"":""https://caritascremonese.it/emergenza-ucraina-aiuti-e-informazioni/?fbclid=IwAR2-jBS7M3WFVXdZhuWVbCe2EDFkeQnz4_4L7hMDqAvaubnMilkhXXmIsEk""}","<pre><yamldata>
 title: 'Caritas cremonese: aiuti e informazioni per chi arriva'
 phoneNumber: ''
@@ -208,63 +371,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/780,1234441746,2022-05-13 14:43:42,2022-05-12 20:19:36,Istituto Salesiano offre Corsi di italiano per persone ucraine a Ostia,41.8741605,12.5313781,Lazio,Roma,"[""Valid/Accettato"",""Services"",""translation"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""11"",""postcode"":""00181"",""road"":""Via Umbertide"",""state"":""Lazio"",""suburb"":""Municipio Roma VII""},""boundingbox"":[""41.8741105"",""41.8742105"",""12.5313281"",""12.5314281""],""class"":""place"",""display_name"":""11, Via Umbertide, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00181, Italia"",""importance"":0.42099999999999993,""lat"":""41.8741605"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.5313781"",""osm_id"":9019588624,""osm_type"":""node"",""place_id"":95198346,""type"":""house""},""mode"":""autocomplete""},""description"":""Scuola Pio XI, presso l\u2019Istituto Salesiano Pio XI in via Umbertide, 11, Roma\nLe lezioni si svolgono in presenza il marted\u00ec e gioved\u00ec, ore 16 \u2013 18.\nPer iscriversi, contattare Graziella Faviani gfaviani@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Scuola Pio XI"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Corsi di italiano a Ostia"",""url"":""http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: true
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Scuola Pio XI
-title: Corsi di italiano a Ostia
-recipients: ''
-description: 'Scuola Pio XI, presso l’Istituto Salesiano Pio XI in via Umbertide,
-  11, Roma
-
-  Le lezioni si svolgono in presenza il martedì e giovedì, ore 16 – 18.
-
-  Per iscriversi, contattare Graziella Faviani gfaviani@gmail.com'
-url: http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg
-address:
-  mode: autocomplete
-  address:
-    place_id: 95198346
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 9019588624
-    boundingbox:
-    - '41.8741105'
-    - '41.8742105'
-    - '12.5313281'
-    - '12.5314281'
-    lat: '41.8741605'
-    lon: '12.5313781'
-    display_name: 11, Via Umbertide, Municipio Roma VII, Roma, Roma Capitale, Lazio,
-      00181, Italia
-    class: place
-    type: house
-    importance: 0.42099999999999993
-    address:
-      house_number: '11'
-      road: Via Umbertide
-      suburb: Municipio Roma VII
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      postcode: 00181
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/781,1234443738,2022-05-13 14:38:36,2022-05-12 20:21:59,"Corsi di italiano per la comunità ucraina presso Basilica Santa Sofia, Ostia",,,,,"[""Valid/Accettato"",""Services"",""translation"",""education""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Corsi dedicati alla comunit\u00e0 ucraina, presso la Basilica di Santa Sofia.\nGruppo 1 e 2 \u2013 Luned\u00ec e Mercoled\u00ec, ore 10.00-13.00\nGruppo 3 e 4 \u2013 Marted\u00ec e Gioved\u00ec, ore 15.00 \u2013 18.00\nGruppo 5 e 6 \u2013 Luned\u00ec e Mercoled\u00ec, ore 15.00-18.00\nContattare Felicia D\u2019Alessandro f.dalessandro@atenatrainingclub.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Fondazione Migrantes"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Corsi di italiano a ostia"",""url"":""http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -360,112 +466,6 @@ label: document_data
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 42.6384261 12.674297
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/776,1234415741,2022-05-13 14:25:12,2022-05-12 19:50:08,Visite Sospese per le rifugiate ucraine a Milano,45.4641943,9.1896346,Lombardia,Milano,"[""Valid/Accettato"",""Services"",""fundraising"",""healthcare"",""women""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""state"":""Lombardia""},""boundingbox"":[""45.3867381"",""45.5358482"",""9.0408867"",""9.2781103""],""class"":""boundary"",""display_name"":""Milano, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8490652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":44915,""osm_type"":""relation"",""place_id"":283684439,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Alle donne che stanno arrivando in provincia di Milano, la cooperativa sociale Equa offre la possibilit\u00e0 di effettuare una visita ginecologica gratuita.\nL\u2019iniziativa \u00e8 realizzata in collaborazione con il Consultorio cooperativo Cemp di Milano. Equa ha lanciato la visita sospesa per le rifugiate ucraine. Il costo di ogni visita \u00e8 di 35 euro. Ognuno pu\u00f2 contribuire con una donazione. Per ulteriori informazioni \u00e8 possibile scrivere a info@equacooperativa.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Cooperativa sociale Equa"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Visite Sospese per le rifugiate ucraine a Milano"",""url"":""https://www.dalsociale24.it/visite-sospese-per-rifugiate-ucraine/?fbclid=IwAR0qIDZzbrWFDH57CuJNAMxzT_pHHW7j2AukI8tzoSjrH0KmKi6feM7WHRo""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: true
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Cooperativa sociale Equa
-title: Visite Sospese per le rifugiate ucraine a Milano
-recipients: ''
-description: 'Alle donne che stanno arrivando in provincia di Milano, la cooperativa
-  sociale Equa offre la possibilità di effettuare una visita ginecologica gratuita.
-
-  L’iniziativa è realizzata in collaborazione con il Consultorio cooperativo Cemp
-  di Milano. Equa ha lanciato la visita sospesa per le rifugiate ucraine. Il costo
-  di ogni visita è di 35 euro. Ognuno può contribuire con una donazione. Per ulteriori
-  informazioni è possibile scrivere a info@equacooperativa.it'
-url: https://www.dalsociale24.it/visite-sospese-per-rifugiate-ucraine/?fbclid=IwAR0qIDZzbrWFDH57CuJNAMxzT_pHHW7j2AukI8tzoSjrH0KmKi6feM7WHRo
-address:
-  mode: autocomplete
-  address:
-    place_id: 283684439
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 44915
-    boundingbox:
-    - '45.3867381'
-    - '45.5358482'
-    - '9.0408867'
-    - '9.2781103'
-    lat: '45.4641943'
-    lon: '9.1896346'
-    display_name: Milano, Lombardia, Italia
-    class: boundary
-    type: administrative
-    importance: 0.8490652078701348
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Milano
-      county: Milano
-      ISO3166-2-lvl6: IT-MI
-      state: Lombardia
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/775,1234407593,2022-05-13 14:22:46,2022-05-12 19:40:06,"Cassa Colf, contributo di 300 euro una tantum destinato agli iscritti che ospitano parenti e familiari ucraini",42.6384261,12.674297,Umbria,Terni,"[""Valid/Accettato"",""Services"",""materialGoods""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it""},""boundingbox"":[""35.2889616"",""47.0921462"",""6.6272658"",""18.7844746""],""class"":""boundary"",""display_name"":""Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.9931019031440554,""lat"":""42.6384261"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.674297"",""osm_id"":365331,""osm_type"":""relation"",""place_id"":284007015,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Dal primo maggio \u00e8 possibile effettuare la richiesta per usufruire del contributo di 300 euro una tantum destinato agli iscritti che ospitano parenti e familiari ucraini. \nUno strumento di supporto per le spese relative a prodotti alimentari, farmaceutici, materiale scolastico e vestiario.\nPer richieste inviare una mail all'indirizzo: praticheucraina@cassacolf.it                                                       \nInfo: 800 1000 26"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Cassa Colf"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Contributo di 300 euro una tantum destinato agli iscritti che ospitano parenti e familiari ucraini"",""url"":""www.cassacolf.it""}","<pre><yamldata>
-servicetypes:
-  materialGoods: true
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Cassa Colf
-title: Contributo di 300 euro una tantum destinato agli iscritti che ospitano parenti
-  e familiari ucraini
-recipients: ''
-description: ""Dal primo maggio è possibile effettuare la richiesta per usufruire del\
-  \ contributo di 300 euro una tantum destinato agli iscritti che ospitano parenti\
-  \ e familiari ucraini. \nUno strumento di supporto per le spese relative a prodotti\
-  \ alimentari, farmaceutici, materiale scolastico e vestiario.\nPer richieste inviare\
-  \ una mail all'indirizzo: praticheucraina@cassacolf.it                         \
-  \                              \nInfo: 800 1000 26""
-url: www.cassacolf.it
-address:
-  mode: autocomplete
-  address:
-    place_id: 284007015
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 365331
-    boundingbox:
-    - '35.2889616'
-    - '47.0921462'
-    - '6.6272658'
-    - '18.7844746'
-    lat: '42.6384261'
-    lon: '12.674297'
-    display_name: Italia
-    class: boundary
-    type: administrative
-    importance: 0.9931019031440554
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/774,1232863102,2022-05-11 15:52:07,2022-05-11 15:50:17,Il Ministero dell'Istruzione pubblica i dati sull'accoglienza di studentesse e studenti ucraini,,,,,"[""Valid/Accettato"",""News"",""telegram-channel"",""tweet"",""education""]",,,"{""description"":""Sono disponibili sul sito del Ministero dell\u2019Istruzione, i dati relativi alle studentesse e agli studenti ucraini accolti nelle scuole, statali e paritarie. Il report, aggiornato alle ore 15 del 9 maggio 2022, \u00e8 disponibile nella sezione del sito dedicata all\u2019emergenza educativa ucraina"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.istruzione.it/emergenza-educativa-ucraina/allegati/ReportAlunniUcraini%209_5_22.pdf"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Il Ministero dell'Istruzione pubblica i dati sull'accoglienza di studentesse e studenti ucraini""}","<pre><yamldata>
 title: Il Ministero dell'Istruzione pubblica i dati sull'accoglienza di studentesse
