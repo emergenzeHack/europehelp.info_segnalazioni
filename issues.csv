@@ -1,4 +1,34 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/783,1234446741,2022-05-16 16:45:27,2022-05-12 20:25:24,La chiesa cattolica Ucraina attiva corsi di italiano in diverse zone di Roma e dintorni,,,,,"[""Valid/Accettato"",""Services"",""translation"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Chiesa Cattolica Ucraina\nHa attivato 8 classi di italiano online di 30 allievi ciascuna.\nContatti: Don Sviatoslav Tytuliak 3517440763 pastoraleucrainoit@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Chiesa Cattolica Ucraina"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""La chiesa cattolica Ucraina attiva corsi di italiano"",""url"":""http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: true
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Chiesa Cattolica Ucraina
+title: La chiesa cattolica Ucraina attiva corsi di italiano
+recipients: ''
+description: 'Chiesa Cattolica Ucraina
+
+  Ha attivato 8 classi di italiano online di 30 allievi ciascuna.
+
+  Contatti: Don Sviatoslav Tytuliak 3517440763 pastoraleucrainoit@gmail.com'
+url: http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg
+address:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/782,1234444875,2022-05-16 05:51:25,2022-05-12 20:23:13,Corso base di italiano per adulti ucraini a Roma,41.8639124,12.4500988,Lazio,Roma,"[""Valid/Accettato"",""Services"",""translation"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""31"",""postcode"":""00151"",""road"":""Via Bernardino Ramazzini"",""state"":""Lazio"",""suburb"":""Municipio Roma XII""},""boundingbox"":[""41.8638624"",""41.8639624"",""12.4500488"",""12.4501488""],""class"":""place"",""display_name"":""31, Via Bernardino Ramazzini, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00151, Italia"",""importance"":0.42099999999999993,""lat"":""41.8639124"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4500988"",""osm_id"":4496885840,""osm_type"":""node"",""place_id"":50899981,""type"":""house""},""mode"":""autocomplete""},""description"":""Corso base di italiano L2 rivolto agli ucraini adulti, dal 7 maggio in presenza.\nSabato e domenica ore 10 \u2013 12.\nPer iscriversi mandare una mail a: linguacomune@criroma.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Croce Rossa Area Metropolitana"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Corsi di italiano per adulti a Roma"",""url"":""http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -401,36 +431,6 @@ address:
       ISO3166-2-lvl4: IT-45
       country: Italia
       country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/783,1234446741,2022-05-13 14:37:15,2022-05-12 20:25:24,La chiesa cattolica Ucraina attiva corsi di italiano in diverse zone di Roma e dintorni,,,,,"[""Valid/Accettato"",""Services"",""translation"",""education""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Chiesa Cattolica Ucraina\nHa attivato 8 classi di italiano online di 30 allievi ciascuna.\nContatti: Don Sviatoslav Tytuliak 3517440763 pastoraleucrainoit@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Chiesa Cattolica Ucraina"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""La chiesa cattolica Ucraina attiva corsi di italiano"",""url"":""http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: true
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Chiesa Cattolica Ucraina
-title: La chiesa cattolica Ucraina attiva corsi di italiano
-recipients: ''
-description: 'Chiesa Cattolica Ucraina
-
-  Ha attivato 8 classi di italiano online di 30 allievi ciascuna.
-
-  Contatti: Don Sviatoslav Tytuliak 3517440763 pastoraleucrainoit@gmail.com'
-url: http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg
-address:
-  mode: autocomplete
-  address: {}
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
