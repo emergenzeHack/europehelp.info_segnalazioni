@@ -1,4 +1,95 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/782,1234444875,2022-05-16 05:51:25,2022-05-12 20:23:13,Corso base di italiano per adulti ucraini a Roma,41.8639124,12.4500988,Lazio,Roma,"[""Valid/Accettato"",""Services"",""translation"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""31"",""postcode"":""00151"",""road"":""Via Bernardino Ramazzini"",""state"":""Lazio"",""suburb"":""Municipio Roma XII""},""boundingbox"":[""41.8638624"",""41.8639624"",""12.4500488"",""12.4501488""],""class"":""place"",""display_name"":""31, Via Bernardino Ramazzini, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00151, Italia"",""importance"":0.42099999999999993,""lat"":""41.8639124"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4500988"",""osm_id"":4496885840,""osm_type"":""node"",""place_id"":50899981,""type"":""house""},""mode"":""autocomplete""},""description"":""Corso base di italiano L2 rivolto agli ucraini adulti, dal 7 maggio in presenza.\nSabato e domenica ore 10 \u2013 12.\nPer iscriversi mandare una mail a: linguacomune@criroma.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Croce Rossa Area Metropolitana"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Corsi di italiano per adulti a Roma"",""url"":""http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: true
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Croce Rossa Area Metropolitana
+title: Corsi di italiano per adulti a Roma
+recipients: ''
+description: 'Corso base di italiano L2 rivolto agli ucraini adulti, dal 7 maggio
+  in presenza.
+
+  Sabato e domenica ore 10 – 12.
+
+  Per iscriversi mandare una mail a: linguacomune@criroma.org'
+url: http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg
+address:
+  mode: autocomplete
+  address:
+    place_id: 50899981
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 4496885840
+    boundingbox:
+    - '41.8638624'
+    - '41.8639624'
+    - '12.4500488'
+    - '12.4501488'
+    lat: '41.8639124'
+    lon: '12.4500988'
+    display_name: 31, Via Bernardino Ramazzini, Municipio Roma XII, Roma, Roma Capitale,
+      Lazio, 00151, Italia
+    class: place
+    type: house
+    importance: 0.42099999999999993
+    address:
+      house_number: '31'
+      road: Via Bernardino Ramazzini
+      suburb: Municipio Roma XII
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: '00151'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/781,1234443738,2022-05-16 05:51:02,2022-05-12 20:21:59,"Corsi di italiano per la comunità ucraina presso Basilica Santa Sofia, Ostia",,,,,"[""Valid/Accettato"",""Services"",""translation"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Corsi dedicati alla comunit\u00e0 ucraina, presso la Basilica di Santa Sofia.\nGruppo 1 e 2 \u2013 Luned\u00ec e Mercoled\u00ec, ore 10.00-13.00\nGruppo 3 e 4 \u2013 Marted\u00ec e Gioved\u00ec, ore 15.00 \u2013 18.00\nGruppo 5 e 6 \u2013 Luned\u00ec e Mercoled\u00ec, ore 15.00-18.00\nContattare Felicia D\u2019Alessandro f.dalessandro@atenatrainingclub.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Fondazione Migrantes"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Corsi di italiano a ostia"",""url"":""http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: true
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Fondazione Migrantes
+title: Corsi di italiano a ostia
+recipients: ''
+description: 'Corsi dedicati alla comunità ucraina, presso la Basilica di Santa Sofia.
+
+  Gruppo 1 e 2 – Lunedì e Mercoledì, ore 10.00-13.00
+
+  Gruppo 3 e 4 – Martedì e Giovedì, ore 15.00 – 18.00
+
+  Gruppo 5 e 6 – Lunedì e Mercoledì, ore 15.00-18.00
+
+  Contattare Felicia D’Alessandro f.dalessandro@atenatrainingclub.it'
+url: http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg
+address:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/780,1234441746,2022-05-14 07:26:26,2022-05-12 20:19:36,Istituto Salesiano offre Corsi di italiano per persone ucraine a Ostia,41.8741605,12.5313781,Lazio,Roma,"[""Valid/Accettato"",""Services"",""translation"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""11"",""postcode"":""00181"",""road"":""Via Umbertide"",""state"":""Lazio"",""suburb"":""Municipio Roma VII""},""boundingbox"":[""41.8741105"",""41.8742105"",""12.5313281"",""12.5314281""],""class"":""place"",""display_name"":""11, Via Umbertide, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00181, Italia"",""importance"":0.42099999999999993,""lat"":""41.8741605"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.5313781"",""osm_id"":9019588624,""osm_type"":""node"",""place_id"":95198346,""type"":""house""},""mode"":""autocomplete""},""description"":""Scuola Pio XI, presso l\u2019Istituto Salesiano Pio XI in via Umbertide, 11, Roma\nLe lezioni si svolgono in presenza il marted\u00ec e gioved\u00ec, ore 16 \u2013 18.\nPer iscriversi, contattare Graziella Faviani gfaviani@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Scuola Pio XI"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Corsi di italiano a Ostia"",""url"":""http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -310,97 +401,6 @@ address:
       ISO3166-2-lvl4: IT-45
       country: Italia
       country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/782,1234444875,2022-05-13 14:46:02,2022-05-12 20:23:13,Corso base di italiano per adulti ucraini a Roma,41.8639124,12.4500988,Lazio,Roma,"[""Valid/Accettato"",""Services"",""translation"",""education""]",,,"{""address"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""31"",""postcode"":""00151"",""road"":""Via Bernardino Ramazzini"",""state"":""Lazio"",""suburb"":""Municipio Roma XII""},""boundingbox"":[""41.8638624"",""41.8639624"",""12.4500488"",""12.4501488""],""class"":""place"",""display_name"":""31, Via Bernardino Ramazzini, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00151, Italia"",""importance"":0.42099999999999993,""lat"":""41.8639124"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4500988"",""osm_id"":4496885840,""osm_type"":""node"",""place_id"":50899981,""type"":""house""},""mode"":""autocomplete""},""description"":""Corso base di italiano L2 rivolto agli ucraini adulti, dal 7 maggio in presenza.\nSabato e domenica ore 10 \u2013 12.\nPer iscriversi mandare una mail a: linguacomune@criroma.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Croce Rossa Area Metropolitana"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Corsi di italiano per adulti a Roma"",""url"":""http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: true
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Croce Rossa Area Metropolitana
-title: Corsi di italiano per adulti a Roma
-recipients: ''
-description: 'Corso base di italiano L2 rivolto agli ucraini adulti, dal 7 maggio
-  in presenza.
-
-  Sabato e domenica ore 10 – 12.
-
-  Per iscriversi mandare una mail a: linguacomune@criroma.org'
-url: http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg
-address:
-  mode: autocomplete
-  address:
-    place_id: 50899981
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 4496885840
-    boundingbox:
-    - '41.8638624'
-    - '41.8639624'
-    - '12.4500488'
-    - '12.4501488'
-    lat: '41.8639124'
-    lon: '12.4500988'
-    display_name: 31, Via Bernardino Ramazzini, Municipio Roma XII, Roma, Roma Capitale,
-      Lazio, 00151, Italia
-    class: place
-    type: house
-    importance: 0.42099999999999993
-    address:
-      house_number: '31'
-      road: Via Bernardino Ramazzini
-      suburb: Municipio Roma XII
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      postcode: '00151'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/781,1234443738,2022-05-13 14:38:36,2022-05-12 20:21:59,"Corsi di italiano per la comunità ucraina presso Basilica Santa Sofia, Ostia",,,,,"[""Valid/Accettato"",""Services"",""translation"",""education""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Corsi dedicati alla comunit\u00e0 ucraina, presso la Basilica di Santa Sofia.\nGruppo 1 e 2 \u2013 Luned\u00ec e Mercoled\u00ec, ore 10.00-13.00\nGruppo 3 e 4 \u2013 Marted\u00ec e Gioved\u00ec, ore 15.00 \u2013 18.00\nGruppo 5 e 6 \u2013 Luned\u00ec e Mercoled\u00ec, ore 15.00-18.00\nContattare Felicia D\u2019Alessandro f.dalessandro@atenatrainingclub.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Fondazione Migrantes"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Corsi di italiano a ostia"",""url"":""http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: true
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Fondazione Migrantes
-title: Corsi di italiano a ostia
-recipients: ''
-description: 'Corsi dedicati alla comunità ucraina, presso la Basilica di Santa Sofia.
-
-  Gruppo 1 e 2 – Lunedì e Mercoledì, ore 10.00-13.00
-
-  Gruppo 3 e 4 – Martedì e Giovedì, ore 15.00 – 18.00
-
-  Gruppo 5 e 6 – Lunedì e Mercoledì, ore 15.00-18.00
-
-  Contattare Felicia D’Alessandro f.dalessandro@atenatrainingclub.it'
-url: http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg
-address:
-  mode: autocomplete
-  address: {}
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
