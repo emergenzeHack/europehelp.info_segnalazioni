@@ -1,4 +1,311 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/793,1239872909,2022-05-18 13:09:29,2022-05-18 12:19:54,Musei Senesi per l’Ucraina: la cultura come luogo di accoglienza,43.3191538,11.3319772,Toscana,Siena,"[""Valid/Accettato"",""News"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""city"":""Siena"",""country"":""Italia"",""country_code"":""it"",""county"":""Siena"",""house_number"":""34"",""office"":""Fondazione Musei Senesi"",""postcode"":""53100"",""quarter"":""Contrada della Civetta"",""road"":""Via Banchi Di Sotto"",""state"":""Toscana"",""suburb"":""Ravacciano""},""boundingbox"":[""43.3191038"",""43.3192038"",""11.3319272"",""11.3320272""],""class"":""office"",""display_name"":""Fondazione Musei Senesi, 34, Via Banchi Di Sotto, Contrada della Civetta, Ravacciano, Siena, Toscana, 53100, Italia"",""importance"":0.6309999999999999,""lat"":""43.3191538"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.3319772"",""osm_id"":6951101824,""osm_type"":""node"",""place_id"":74709330,""type"":""foundation""},""mode"":""autocomplete""},""description"":""Una serie di incontri ed attivit\u00e0 nei musei del territorio, interamente dedicate ai profughi ucraini arrivati a Siena e nella provincia. \u201cMusei Senesi per l\u2019Ucraina\u201d \u00e8 l\u2019ultimo progetto organizzato da Fondazione Musei Senesi, tramite i volontari di Servizio Civile Regionale, in collaborazione con la Misericordia di Siena. I musei sono, d\u2019altronde, un luogo privilegiato di accoglienza, incontro e ascolto.\n\nCon questa iniziativa, FMS ribadisce la volont\u00e0 di aprirsi al dialogo tramite la condivisione attiva delle testimonianze materiali e immateriali delle collezioni, ponendo il patrimonio culturale come base di incontro tra culture diverse. Per farlo, pu\u00f2 contare sull\u2019impegno dei volontari di Servizio Civile rispetto alle tematiche della cittadinanza attiva, la loro capacit\u00e0 di vivere l\u2019impegno sociale in prima persona anche a partire da quegli spazi neutri che sono i musei. Sul sito il dettaglio del programma.\n\n\nFondazione Musei Senesi \u0440\u0430\u0437\u043e\u043c \u0437 \u0432\u043e\u043b\u043e\u043d\u0442\u0435\u0440\u0430\u043c\u0438 \u0440\u0435\u0433\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0457 \u0441\u043b\u0443\u0436\u0431\u0438 \u0442\u0430 \u0443 \u0441\u043f\u0456\u0432\u043f\u0440\u0430\u0446\u0456 \u0437 Misericordia di Siena \u043e\u0440\u0433\u0430\u043d\u0456\u0437\u043e\u0432\u0443\u0454 \u0441\u0435\u0440\u0456\u044e \u0437\u0443\u0441\u0442\u0440\u0456\u0447\u0435\u0439 \u0442\u0430 \u0437\u0430\u0445\u043e\u0434\u0456\u0432 \u0443 \u043c\u0456\u0441\u0446\u0435\u0432\u0438\u0445 \u043c\u0443\u0437\u0435\u044f\u0445 \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0431\u0456\u0436\u0435\u043d\u0446\u0456\u0432, \u044f\u043a\u0456 \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u044e\u0442\u044c \u0443 \u0421\u0456\u0454\u043d\u0456 \u0442\u0430 \u043f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u0457. \u041f\u0435\u0440\u0448\u0456 \u0437\u0430\u0445\u043e\u0434\u0438, \u043e\u0440\u0433\u0430\u043d\u0456\u0437\u043e\u0432\u0430\u043d\u0456 \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0441\u0456\u043c\u0435\u0439, \u0432\u0456\u0434\u0431\u0443\u0434\u0443\u0442\u044c\u0441\u044f \u0443 \u0411\u0443\u043e\u043d\u043a\u043e\u043d\u0432\u0435\u043d\u0442\u043e, \u0443 \u041c\u0443\u0437\u0435\u0457 \u0456\u0437\u0434\u043e\u043b\u044c\u0449\u0438\u043d\u0438 \u0442\u0430 \u0443 \u041c\u0443\u0437\u0435\u0457 \u0441\u0430\u043a\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043c\u0438\u0441\u0442\u0435\u0446\u0442\u0432\u0430 \u0434\u043e\u043b\u0438\u043d\u0438 \u0412\u0430\u043b\u044c \u0434\u2019\u0410\u0440\u0431\u0456\u044f.\n\n\u0417\u0443\u0441\u0442\u0440\u0456\u0447\u0456 \u043f\u0435\u0440\u0435\u0434\u0431\u0430\u0447\u0430\u044e\u0442\u044c \u043a\u043e\u0440\u043e\u0442\u043a\u0456 \u0435\u043a\u0441\u043a\u0443\u0440\u0441\u0456\u0457 \u0440\u043e\u0441\u0456\u0439\u0441\u044c\u043a\u043e\u044e \u043c\u043e\u0432\u043e\u044e \u043c\u0443\u0437\u0435\u0439\u043d\u0438\u0445 \u043a\u043e\u043b\u0435\u043a\u0446\u0456\u0439, \u0430 \u0442\u0430\u043a\u043e\u0436 ce\u0440i\u044f \u043c\u0430\u0439\u0441\u0442\u0435\u0440-\u043a\u043b\u0430\u0441\u0456\u0432 \u0437\u0430 \u0443\u0447\u0430\u0441\u0442\u044e \u0434\u0456\u0442\u0435\u0439 \u0442\u0430 \u0431\u0430\u0442\u044c\u043a\u0456\u0432, \u0449\u043e \u0441\u043a\u043b\u0430\u0434\u0430\u0454\u0442\u044c\u0441\u044f \u0437 \u0446\u0438\u043a\u043b\u0443 \u0442\u0440\u044c\u043e\u0445 \u0437\u0443\u0441\u0442\u0440\u0456\u0447\u0435\u0439 \u0443 \u0442\u0440\u0430\u0432\u043d\u0456: 11, 18 \u0442\u0430 25 \u0442\u0440\u0430\u0432\u043d\u044f, \u0437 10.00 \u0434\u043e 12.00 \u0433\u043e\u0434.\n\nMisericordia di Siena \u043d\u0430\u0434\u0430\u043b\u0430 \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u0435 \u043f\u0440\u043e\u0432\u0435\u0437\u0435\u043d\u043d\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0441\u0456\u043c\u0435\u0439 \u0456\u0437 \u0421\u0456\u0454\u043d\u0438 \u043d\u0430 8-\u043c\u0456\u0441\u043d\u043e\u043c\u0443 \u043c\u0456\u043a\u0440\u043e\u0430\u0432\u0442\u043e\u0431\u0443\u0441\u0456."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Fondazione Musei Senesi"",""recipients"":""Profughi ucraini arrivati a Siena e provincia"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Musei Senesi per l\u2019Ucraina: la cultura come luogo di accoglienza"",""url"":""https://www.museisenesi.org/didattica/2022/musei-senesi-per-lucraina-la-cultura-come-luogo-di-accoglienza/?utm_source=social&utm_medium=link+in+post&utm_campaign=musei+senesi+ucraina&fbclid=IwAR0f-S_M3yelezZzv9XSWDWgnUYQpHl9lY-W7QcOzq8GpIJ2x6LF67vnci0""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Fondazione Musei Senesi
+title: 'Musei Senesi per l’Ucraina: la cultura come luogo di accoglienza'
+recipients: Profughi ucraini arrivati a Siena e provincia
+description: 'Una serie di incontri ed attività nei musei del territorio, interamente
+  dedicate ai profughi ucraini arrivati a Siena e nella provincia. “Musei Senesi per
+  l’Ucraina” è l’ultimo progetto organizzato da Fondazione Musei Senesi, tramite i
+  volontari di Servizio Civile Regionale, in collaborazione con la Misericordia di
+  Siena. I musei sono, d’altronde, un luogo privilegiato di accoglienza, incontro
+  e ascolto.
+
+
+  Con questa iniziativa, FMS ribadisce la volontà di aprirsi al dialogo tramite la
+  condivisione attiva delle testimonianze materiali e immateriali delle collezioni,
+  ponendo il patrimonio culturale come base di incontro tra culture diverse. Per farlo,
+  può contare sull’impegno dei volontari di Servizio Civile rispetto alle tematiche
+  della cittadinanza attiva, la loro capacità di vivere l’impegno sociale in prima
+  persona anche a partire da quegli spazi neutri che sono i musei. Sul sito il dettaglio
+  del programma.
+
+
+
+  Fondazione Musei Senesi разом з волонтерами регіональної служби та у співпраці з
+  Misericordia di Siena організовує серію зустрічей та заходів у місцевих музеях для
+  українських біженців, які проживають у Сієні та провінції. Перші заходи, організовані
+  для українських сімей, відбудуться у Буонконвенто, у Музеї іздольщини та у Музеї
+  сакрального мистецтва долини Валь д’Арбія.
+
+
+  Зустрічі передбачають короткі екскурсії російською мовою музейних колекцій, а також
+  ceрiя майстер-класів за участю дітей та батьків, що складається з циклу трьох зустрічей
+  у травні: 11, 18 та 25 травня, з 10.00 до 12.00 год.
+
+
+  Misericordia di Siena надала безкоштовне провезення українських сімей із Сієни на
+  8-місному мікроавтобусі.'
+url: https://www.museisenesi.org/didattica/2022/musei-senesi-per-lucraina-la-cultura-come-luogo-di-accoglienza/?utm_source=social&utm_medium=link+in+post&utm_campaign=musei+senesi+ucraina&fbclid=IwAR0f-S_M3yelezZzv9XSWDWgnUYQpHl9lY-W7QcOzq8GpIJ2x6LF67vnci0
+address:
+  mode: autocomplete
+  address:
+    place_id: 74709330
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 6951101824
+    boundingbox:
+    - '43.3191038'
+    - '43.3192038'
+    - '11.3319272'
+    - '11.3320272'
+    lat: '43.3191538'
+    lon: '11.3319772'
+    display_name: Fondazione Musei Senesi, 34, Via Banchi Di Sotto, Contrada della
+      Civetta, Ravacciano, Siena, Toscana, 53100, Italia
+    class: office
+    type: foundation
+    importance: 0.6309999999999999
+    address:
+      office: Fondazione Musei Senesi
+      house_number: '34'
+      road: Via Banchi Di Sotto
+      quarter: Contrada della Civetta
+      suburb: Ravacciano
+      city: Siena
+      county: Siena
+      state: Toscana
+      ISO3166-2-lvl4: IT-52
+      postcode: '53100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/791,1239118160,2022-05-18 13:07:52,2022-05-17 20:21:54,"Scuole Migranti offre materiali gratuiti per lezioni di italiano, specifici per studentesse e studenti ucraini",41.9808038,12.7662312,Lazio,Roma,"[""Valid/Accettato"",""Services"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Lazio""},""boundingbox"":[""40.7849283"",""42.840269"",""11.4491695"",""14.0276445""],""class"":""boundary"",""display_name"":""Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7687340711539455,""lat"":""41.9808038"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.7662312"",""osm_id"":40784,""osm_type"":""relation"",""place_id"":284358860,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Pagina web dove e possibile trovare diversi materiali didattici, specifici per bambini ucraini"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Scuole migranti"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Materiali gratuiti per lezioni di italiano, specifici per allievi ucrain"",""url"":""http://www.scuolemigranti.org/materiali-didattici-per-lemergenza-ucraina/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: true
+offerFromWho: Scuole migranti
+title: Materiali gratuiti per lezioni di italiano, specifici per allievi ucrain
+recipients: ''
+description: Pagina web dove e possibile trovare diversi materiali didattici, specifici
+  per bambini ucraini
+url: http://www.scuolemigranti.org/materiali-didattici-per-lemergenza-ucraina/
+address:
+  mode: autocomplete
+  address:
+    place_id: 284358860
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 40784
+    boundingbox:
+    - '40.7849283'
+    - '42.840269'
+    - '11.4491695'
+    - '14.0276445'
+    lat: '41.9808038'
+    lon: '12.7662312'
+    display_name: Lazio, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7687340711539455
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      state: Lazio
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/790,1239116696,2022-05-18 13:06:18,2022-05-17 20:20:17,"Scuole Migranti raccoglie disponibilità di insegnanti, interpreti, mediatori e volontari",41.9808038,12.7662312,Lazio,Roma,"[""Valid/Accettato"",""Help"",""Services"",""translation"",""job"",""education""]",,,"{""Posizione"":""41.9808038 12.7662312"",""description"":""Stiamo raccogliendo le disponibilit\u00e0 di insegnanti L2, mediatori, interpreti, volontari.\nVuoi offrirti come volontario/a? Compila il modulo che trovi sul sito\nSei una scuola o un\u2019associazione e hai bisogno di volontari per l\u2019emergenza? Scrivi a info@scuolemigranti.org"",""email"":""info@scuolemigranti.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Lazio""},""boundingbox"":[""40.7849283"",""42.840269"",""11.4491695"",""14.0276445""],""class"":""boundary"",""display_name"":""Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7687340711539455,""lat"":""41.9808038"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.7662312"",""osm_id"":40784,""osm_type"":""relation"",""place_id"":284358860,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Scuole migranti"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Ricerca di insegnanti volontari e mediatori"",""url"":""http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg""}","<pre><yamldata>
+nameSurname: Scuole migranti
+phoneNumber: ''
+email: info@scuolemigranti.org
+title: Ricerca di insegnanti volontari e mediatori
+recipients: ''
+description: 'Stiamo raccogliendo le disponibilità di insegnanti L2, mediatori, interpreti,
+  volontari.
+
+  Vuoi offrirti come volontario/a? Compila il modulo che trovi sul sito
+
+  Sei una scuola o un’associazione e hai bisogno di volontari per l’emergenza? Scrivi
+  a info@scuolemigranti.org'
+url: http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg
+location:
+  mode: autocomplete
+  address:
+    place_id: 284358860
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 40784
+    boundingbox:
+    - '40.7849283'
+    - '42.840269'
+    - '11.4491695'
+    - '14.0276445'
+    lat: '41.9808038'
+    lon: '12.7662312'
+    display_name: Lazio, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7687340711539455
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      state: Lazio
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 41.9808038 12.7662312
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/789,1239114797,2022-05-18 13:03:37,2022-05-17 20:18:13,Scuole Migranti offre aiuto per l'iscrizione a scuola,41.9808038,12.7662312,Lazio,Roma,"[""Valid/Accettato"",""News"",""useful contact"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Lazio""},""boundingbox"":[""40.7849283"",""42.840269"",""11.4491695"",""14.0276445""],""class"":""boundary"",""display_name"":""Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7687340711539455,""lat"":""41.9808038"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.7662312"",""osm_id"":40784,""osm_type"":""relation"",""place_id"":284358860,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Cerchi aiuto per l\u2019iscrizione nella scuola italiana?\nPossiamo aiutarti a trovare la scuola pubblica adatta alle tue esigenze. Scrivi a info@scuolemigranti.org il tuo nome cognome, anno di nascita del futuro alunno, abitazione e contatto."",""email"":""info@scuolemigranti.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Scuole migranti"",""url"":""http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg""}","<pre><yamldata>
+title: Scuole migranti
+phoneNumber: ''
+email: info@scuolemigranti.org
+aim: 'Cerchi aiuto per l’iscrizione nella scuola italiana?
+
+  Possiamo aiutarti a trovare la scuola pubblica adatta alle tue esigenze. Scrivi
+  a info@scuolemigranti.org il tuo nome cognome, anno di nascita del futuro alunno,
+  abitazione e contatto.'
+url: http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg
+address:
+  mode: autocomplete
+  address:
+    place_id: 284358860
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 40784
+    boundingbox:
+    - '40.7849283'
+    - '42.840269'
+    - '11.4491695'
+    - '14.0276445'
+    lat: '41.9808038'
+    lon: '12.7662312'
+    display_name: Lazio, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7687340711539455
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      state: Lazio
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/787,1239111756,2022-05-18 13:01:42,2022-05-17 20:14:51,Sul sito di Scuole Migranti una mappa dei corsi di italiano per migranti adulti nel Lazio,41.9808038,12.7662312,Lazio,Roma,"[""Valid/Accettato"",""News"",""Services"",""translation""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Lazio""},""boundingbox"":[""40.7849283"",""42.840269"",""11.4491695"",""14.0276445""],""class"":""boundary"",""display_name"":""Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7687340711539455,""lat"":""41.9808038"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.7662312"",""osm_id"":40784,""osm_type"":""relation"",""place_id"":284358860,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Sul sito www.scuolemigranti.org \u00e8 possibile consultare la mappa di tutti i corsi di italiano per stranieri attivati nella regione lazio. Tutti i corsi sono gratuiti."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Scuole Migranti"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""mappa dei corsi di italiano nel Lazio"",""url"":""http://www.scuolemigranti.org/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: true
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Scuole Migranti
+title: mappa dei corsi di italiano nel Lazio
+recipients: ''
+description: Sul sito www.scuolemigranti.org è possibile consultare la mappa di tutti
+  i corsi di italiano per stranieri attivati nella regione lazio. Tutti i corsi sono
+  gratuiti.
+url: http://www.scuolemigranti.org/
+address:
+  mode: autocomplete
+  address:
+    place_id: 284358860
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 40784
+    boundingbox:
+    - '40.7849283'
+    - '42.840269'
+    - '11.4491695'
+    - '14.0276445'
+    lat: '41.9808038'
+    lon: '12.7662312'
+    display_name: Lazio, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7687340711539455
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      state: Lazio
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/788,1239113406,2022-05-18 13:01:27,2022-05-17 20:16:43,Sul sito di Scuole Migranti una mappa dei centri per bambine e bambini nel Lazio,41.9808038,12.7662312,Lazio,Roma,"[""Valid/Accettato"",""Services"",""Children""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Lazio""},""boundingbox"":[""40.7849283"",""42.840269"",""11.4491695"",""14.0276445""],""class"":""boundary"",""display_name"":""Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7687340711539455,""lat"":""41.9808038"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.7662312"",""osm_id"":40784,""osm_type"":""relation"",""place_id"":284358860,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Sul sito scuole migranti \u00e8 possibile consultare la mappa dei centri per bambini attivi in Lazio"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Scuole migranti"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Mappa centri per bambini nel Lazio"",""url"":""http://www.scuolemigranti.org/mappa/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: false
+offerFromWho: Scuole migranti
+title: Mappa centri per bambini nel Lazio
+recipients: ''
+description: Sul sito scuole migranti è possibile consultare la mappa dei centri per
+  bambini attivi in Lazio
+url: http://www.scuolemigranti.org/mappa/
+address:
+  mode: autocomplete
+  address:
+    place_id: 284358860
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 40784
+    boundingbox:
+    - '40.7849283'
+    - '42.840269'
+    - '11.4491695'
+    - '14.0276445'
+    lat: '41.9808038'
+    lon: '12.7662312'
+    display_name: Lazio, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7687340711539455
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      state: Lazio
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/785,1236985293,2022-05-18 12:52:55,2022-05-16 11:04:45,L'Associazione ANCI Umbria PROCIV lancia una raccolta fondi per la popolazione della regione di Odessa,,,,,"[""Valid/Accettato"",""fundraising""]",,,"{""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""ANCI Umbria ProCiv si mobilita in risposta all'appello del Sindaco di Odessa, Gennadiy Trukhanov.\n\nIn questa drammatica emergenza umanitaria, l\u2019Associazione dei Comuni Umbri c\u2019\u00e8 e vuole rispondere attivamente all'appello lanciato dal Sindaco di Odessa, Gennadiy Trukhanov, che diverse settimane fa ha chiesto aiuto per la sua cittadinanza.\nLa nostra Associazione, che da anni si occupa di protezione civile nella Regione Umbria, non poteva rimanere inerme di fronte a quanto sta accadendo in Ucraina. Perci\u00f2, abbiamo deciso di attivarci, facendoci promotori di una raccolta fondi che ha come obiettivo aiutare la popolazione ucraina della Regione di Odessa.\n\nAbbiamo gi\u00e0 attivato dei canali con l'Amministrazione locale ucraina che si occupa della distribuzione dei beni di prima necessit\u00e0 direttamente alla popolazione colpita della Regione di Odessa. Attraverso questa campagna di fundraising, sar\u00e0 possibile donare un contributo a \""Odessa anti-crisis humanitarian center\""."",""email"":""segreteria@anciumbriaprociv.it"",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":""https://www.gofundme.com/f/aiuti-per-odessa?utm_medium=referral&utm_source=unknown&utm_campaign=comms_gfm+aiuti-per-odessa"",""location"":{""address"":{""address1"":""Piazza Italia, 11"",""address2"":"""",""city"":""Perugia"",""country"":""Italia"",""state"":""Italia"",""zip"":""06121""},""mode"":""manual""},""submit"":true,""title"":""ANCI Umbria Prociv""}","<pre><yamldata>
 title: ANCI Umbria Prociv
 description: 'ANCI Umbria ProCiv si mobilita in risposta all''appello del Sindaco
