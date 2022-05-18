@@ -1,17 +1,40 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/784,1236981336,2022-05-18 12:42:12,2022-05-16 11:01:33,L'Associazione ANCI Umbria Prociv lancia una raccolta fondi per la popolazione della regione di Odessa,,,,,"[""Valid/Accettato"",""fundraising""]",,,"{""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""ANCI Umbria ProCiv si mobilita in risposta all'appello del Sindaco di Odessa, Gennadiy Trukhanov, lanciando una raccolta fondi per aiutare la popolazione ucraina della Regione di Odessa."",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":""https://www.gofundme.com/f/aiuti-per-odessa?utm_medium=referral&utm_source=unknown&utm_campaign=comms_gfm+aiuti-per-odessa"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""ANCI Umbria Prociv""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/785,1236985293,2022-05-18 12:52:55,2022-05-16 11:04:45,L'Associazione ANCI Umbria PROCIV lancia una raccolta fondi per la popolazione della regione di Odessa,,,,,"[""Valid/Accettato"",""fundraising""]",,,"{""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""ANCI Umbria ProCiv si mobilita in risposta all'appello del Sindaco di Odessa, Gennadiy Trukhanov.\n\nIn questa drammatica emergenza umanitaria, l\u2019Associazione dei Comuni Umbri c\u2019\u00e8 e vuole rispondere attivamente all'appello lanciato dal Sindaco di Odessa, Gennadiy Trukhanov, che diverse settimane fa ha chiesto aiuto per la sua cittadinanza.\nLa nostra Associazione, che da anni si occupa di protezione civile nella Regione Umbria, non poteva rimanere inerme di fronte a quanto sta accadendo in Ucraina. Perci\u00f2, abbiamo deciso di attivarci, facendoci promotori di una raccolta fondi che ha come obiettivo aiutare la popolazione ucraina della Regione di Odessa.\n\nAbbiamo gi\u00e0 attivato dei canali con l'Amministrazione locale ucraina che si occupa della distribuzione dei beni di prima necessit\u00e0 direttamente alla popolazione colpita della Regione di Odessa. Attraverso questa campagna di fundraising, sar\u00e0 possibile donare un contributo a \""Odessa anti-crisis humanitarian center\""."",""email"":""segreteria@anciumbriaprociv.it"",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":""https://www.gofundme.com/f/aiuti-per-odessa?utm_medium=referral&utm_source=unknown&utm_campaign=comms_gfm+aiuti-per-odessa"",""location"":{""address"":{""address1"":""Piazza Italia, 11"",""address2"":"""",""city"":""Perugia"",""country"":""Italia"",""state"":""Italia"",""zip"":""06121""},""mode"":""manual""},""submit"":true,""title"":""ANCI Umbria Prociv""}","<pre><yamldata>
 title: ANCI Umbria Prociv
-description: ANCI Umbria ProCiv si mobilita in risposta all'appello del Sindaco di Odessa, Gennadiy Trukhanov, lanciando una raccolta fondi per aiutare la popolazione ucraina della Regione di Odessa.
+description: 'ANCI Umbria ProCiv si mobilita in risposta all''appello del Sindaco
+  di Odessa, Gennadiy Trukhanov.
+
+
+  In questa drammatica emergenza umanitaria, l’Associazione dei Comuni Umbri c’è e
+  vuole rispondere attivamente all''appello lanciato dal Sindaco di Odessa, Gennadiy
+  Trukhanov, che diverse settimane fa ha chiesto aiuto per la sua cittadinanza.
+
+  La nostra Associazione, che da anni si occupa di protezione civile nella Regione
+  Umbria, non poteva rimanere inerme di fronte a quanto sta accadendo in Ucraina.
+  Perciò, abbiamo deciso di attivarci, facendoci promotori di una raccolta fondi che
+  ha come obiettivo aiutare la popolazione ucraina della Regione di Odessa.
+
+
+  Abbiamo già attivato dei canali con l''Amministrazione locale ucraina che si occupa
+  della distribuzione dei beni di prima necessità direttamente alla popolazione colpita
+  della Regione di Odessa. Attraverso questa campagna di fundraising, sarà possibile
+  donare un contributo a ""Odessa anti-crisis humanitarian center"".'
 heading: ''
 iban: ''
 bicSwift: ''
 ccPostal: ''
 causal: ''
 link: https://www.gofundme.com/f/aiuti-per-odessa?utm_medium=referral&utm_source=unknown&utm_campaign=comms_gfm+aiuti-per-odessa
-email: ''
+email: segreteria@anciumbriaprociv.it
 location:
-  mode: autocomplete
-  address: {}
+  mode: manual
+  address:
+    address1: Piazza Italia, 11
+    address2: ''
+    city: Perugia
+    state: Italia
+    country: Italia
+    zip: '06121'
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: fundraising
 submit: true
