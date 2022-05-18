@@ -1,4 +1,157 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/791,1239118160,2022-05-18 16:02:26,2022-05-17 20:21:54,"Scuole Migranti offre materiali gratuiti per lezioni di italiano, specifici per alunne e alunni ucraini",41.9808038,12.7662312,Lazio,Roma,"[""Valid/Accettato"",""Services"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Lazio""},""boundingbox"":[""40.7849283"",""42.840269"",""11.4491695"",""14.0276445""],""class"":""boundary"",""display_name"":""Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7687340711539455,""lat"":""41.9808038"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.7662312"",""osm_id"":40784,""osm_type"":""relation"",""place_id"":284358860,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Pagina web dove \u00e8 possibile trovare diversi materiali didattici, specifici per alunne e alunni ucraini"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Scuole migranti"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Materiali gratuiti per lezioni di italiano, specifici per alunne e alunni ucraini"",""url"":""http://www.scuolemigranti.org/materiali-didattici-per-lemergenza-ucraina/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: true
+offerFromWho: Scuole migranti
+title: Materiali gratuiti per lezioni di italiano, specifici per alunne e alunni ucraini
+recipients: ''
+description: Pagina web dove è possibile trovare diversi materiali didattici, specifici
+  per alunne e alunni ucraini
+url: http://www.scuolemigranti.org/materiali-didattici-per-lemergenza-ucraina/
+address:
+  mode: autocomplete
+  address:
+    place_id: 284358860
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 40784
+    boundingbox:
+    - '40.7849283'
+    - '42.840269'
+    - '11.4491695'
+    - '14.0276445'
+    lat: '41.9808038'
+    lon: '12.7662312'
+    display_name: Lazio, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7687340711539455
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      state: Lazio
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/790,1239116696,2022-05-18 15:59:27,2022-05-17 20:20:17,"Scuole Migranti raccoglie disponibilità di insegnanti, interpreti, mediatori e volontari",41.9808038,12.7662312,Lazio,Roma,"[""Valid/Accettato"",""Help"",""Services"",""translation"",""job"",""telegram-channel"",""tweet"",""education""]",,,"{""Posizione"":""41.9808038 12.7662312"",""description"":""Stiamo raccogliendo le disponibilit\u00e0 di insegnanti L2, mediatori, interpreti, volontari.\nVuoi offrirti come volontario/a? Compila il modulo che trovi sul sito\nSei una scuola o un\u2019associazione e hai bisogno di volontari per l\u2019emergenza? Scrivi a info@scuolemigranti.org"",""email"":""info@scuolemigranti.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Lazio""},""boundingbox"":[""40.7849283"",""42.840269"",""11.4491695"",""14.0276445""],""class"":""boundary"",""display_name"":""Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7687340711539455,""lat"":""41.9808038"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.7662312"",""osm_id"":40784,""osm_type"":""relation"",""place_id"":284358860,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Scuole migranti"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Ricerca di insegnanti volontari e mediatori"",""url"":""http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg""}","<pre><yamldata>
+nameSurname: Scuole migranti
+phoneNumber: ''
+email: info@scuolemigranti.org
+title: Ricerca di insegnanti volontari e mediatori
+recipients: ''
+description: 'Stiamo raccogliendo le disponibilità di insegnanti L2, mediatori, interpreti,
+  volontari.
+
+  Vuoi offrirti come volontario/a? Compila il modulo che trovi sul sito
+
+  Sei una scuola o un’associazione e hai bisogno di volontari per l’emergenza? Scrivi
+  a info@scuolemigranti.org'
+url: http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg
+location:
+  mode: autocomplete
+  address:
+    place_id: 284358860
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 40784
+    boundingbox:
+    - '40.7849283'
+    - '42.840269'
+    - '11.4491695'
+    - '14.0276445'
+    lat: '41.9808038'
+    lon: '12.7662312'
+    display_name: Lazio, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7687340711539455
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      state: Lazio
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 41.9808038 12.7662312
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/792,1239851402,2022-05-18 15:58:47,2022-05-18 12:00:54,"ФІНАНСОВА ДОПОМОГА В ІТАЛІЇ ДЛЯ УКРАЇНЦІВ, Aiuti finanziari per gli Ucraini: guida in lingua alla domanda",41.9209097,12.4932863,Lazio,Roma,"[""Valid/Accettato"",""News"",""Help"",""Services"",""Legal"",""useful contact"",""translation"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""41.9209097 12.4932863"",""description"":""\u0414\u043e  30/09. \u041e\u0444\u0456\u0446\u0456\u0439\u043d\u0435 \u0440\u043e\u0437'\u044f\u0441\u043d\u0435\u043d\u043d\u044f \u0432\u0456\u0434 \u041f\u043e\u0441\u043e\u043b\u044c\u0441\u0442\u0432\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0438 \u0432 \u0406\u0442\u0430\u043b\u0456\u0457.\n\n\u0424\u0406\u041d\u0410\u041d\u0421\u041e\u0412\u0410 \u0414\u041e\u041f\u041e\u041c\u041e\u0413\u0410 \u0412 \u0406\u0422\u0410\u041b\u0406\u0407 \u0414\u041b\u042f \u0423\u041a\u0420\u0410\u0407\u041d\u0426\u0406\u0412.\n\n\u2705.   \u0412\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u043d\u043e \u0434\u043e \u0440\u043e\u0437\u043f\u043e\u0440\u044f\u0434\u0436\u0435\u043d\u043d\u044f N  881 \u0432\u0456\u0434 29 \u0431\u0435\u0440\u0435\u0437\u043d\u044f 2022 \u0440\u043e\u043a\u0443 \u0414\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u0443 \u0446\u0438\u0432\u0456\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u0445\u0438\u0441\u0442\u0443 \u0406\u0442\u0430\u043b\u0456\u0457, \u0437\u0430\u043f\u0443\u0449\u0435\u043d\u043e \u043d\u0430 \u0441\u0430\u0439\u0442\u0456 \u0414\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u0443 \u0441\u043f\u0435\u0446\u0456\u0430\u043b\u044c\u043d\u043e \u0440\u043e\u0437\u0440\u043e\u0431\u043b\u0435\u043d\u0443 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0443,\u044f\u043a\u0430 \u0434\u043e\u0437\u0432\u043e\u043b\u044f\u0454 \u043f\u0435\u0440\u0435\u0441\u0435\u043b\u0435\u043d\u0446\u044f\u043c \u0437 \u0423\u043a\u0440\u0430\u0457\u043d\u0438 \u043f\u043e\u0434\u0430\u0432\u0430\u0442\u0438 \u043e\u043d\u043b\u0430\u0439\u043d - \u0437\u0430\u044f\u0432\u043a\u0438 \u043d\u0430 \u043e\u0442\u0440\u0438\u043c\u0430\u043d\u043d\u044f \u043c\u0430\u0442\u0435\u0440\u0456\u0430\u043b\u044c\u043d\u043e\u0457 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0438 \u0432 \u0440\u043e\u0437\u043c\u0456\u0440\u0456 300\u20ac \u043d\u0430 \u043c\u0456\u0441\u044f\u0446\u044c \u0434\u043b\u044f \u0434\u043e\u0440\u043e\u0441\u043b\u0438\u0445 \u0442\u0430 \u0443 \u0440\u043e\u0437\u043c\u0456\u0440\u0456 150\u20ac \u043d\u0430 \u0434\u0456\u0442\u0435\u0439 (\u0434\u043e 18 \u0440\u043e\u043a\u0456\u0432).\n\n\u26a0\ufe0f \u0414\u043e\u043f\u043e\u043c\u043e\u0433\u0430 \u043f\u0440\u0438\u0437\u043d\u0430\u0447\u0435\u043d\u0430 \u0434\u043b\u044f \u0442\u0438\u0445,\u0445\u0442\u043e \u043f\u043e\u0434\u0430\u0432 \u0437\u0430\u044f\u0432\u043a\u0443 \u043d\u0430 \u043e\u0442\u0440\u0438\u043c\u0430\u043d\u043d\u044f \u0434\u043e\u0437\u0432\u043e\u043b\u0443 \u043d\u0430 \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u043d\u043d\u044f \u0434\u043b\u044f \u0442\u0438\u043c\u0447\u0430\u0441\u043e\u0432\u043e\u0433\u043e \u0437\u0430\u0445\u0438\u0441\u0442\u0443,\u0442\u0430 \u0445\u0442\u043e \u043f\u0435\u0440\u0435\u0431\u0443\u0432\u0430\u0454 \u0430\u0431\u043e \u043f\u0435\u0440\u0435\u0431\u0443\u0432\u0430\u0432 \u0432 \u0443\u043c\u043e\u0432\u0430\u0445 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u043d\u043d\u044f (\u0443 \u0440\u043e\u0434\u0438\u0447\u0456\u0432, \u0434\u0440\u0443\u0437\u0456\u0432,\u0437\u043d\u0430\u0439\u043e\u043c\u0438\u0445 \u043d\u0435 \u043c\u0435\u043d\u0448\u0435 \u0434\u0435\u0441\u044f\u0442\u0438 \u0434\u043d\u0456\u0432 \u043f\u0440\u043e\u0442\u044f\u0433\u043e\u043c \u043c\u0456\u0441\u044f\u0446\u044f).\n\n \u2757 \u0422\u0456, \u0445\u0442\u043e \u0443 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0430\u0445 , \u043d\u0430\u0434\u0430\u043d\u0438\u0445 \u0456\u0442\u0430\u043b\u0456\u0439\u0441\u044c\u043a\u043e\u044e \u0434\u0435\u0440\u0436\u0430\u0432\u043e\u044e (\u0446\u0435\u043d\u0442\u0440\u0438 \u043d\u0430\u0434\u0437\u0432\u0438\u0447\u0430\u0439\u043d\u043e\u0457 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0438 Cas, \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u043f\u0440\u0438\u0439\u043e\u043c\u0456\u0432 \u0456\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0456\u0457 Sai, \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0438 \u0434\u043b\u044f \u0448\u0438\u0440\u043e\u043a\u043e\u0433\u043e \u043f\u0440\u0438\u0439\u043e\u043c\u0443, \u0433\u043e\u0442\u0435\u043b\u0456 \u043d\u0430\u0434\u0430\u043d\u0456 \u0440\u0435\u0433\u0456\u043e\u043d\u0430\u043c\u0438 \u0442\u0430 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u0438\u043c\u0438 \u043f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f\u043c\u0438)  \u041d\u0435 \u043c\u0430\u044e\u0442\u044c \u043f\u0440\u0430\u0432\u0430 \u043d\u0430 \u0444\u0456\u043d\u0430\u043d\u0441\u043e\u0432\u0443 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0443.\n\n\u26a0\ufe0f \u0417\u0430\u043f\u0438\u0442 \u043d\u0430 \u0444\u0456\u043d\u0430\u043d\u0441\u043e\u0432\u0443 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0443 \u043c\u043e\u0436\u0435 \u0431\u0443\u0442\u0438 \u043f\u043e\u0434\u0430\u043d\u0438\u0439  \u0434\u043e  30 \u0432\u0435\u0440\u0435\u0441\u043d\u044f 2022 \u0440\u043e\u043a\u0443 \u0442\u0430 \u043d\u0430\u0434\u0430\u0454\u0442\u044c\u0441\u044f \u043f\u0440\u043e\u0442\u044f\u0433\u043e\u043c \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c \u0422\u0420\u042c\u041e\u0425 \u041c\u0406\u0421\u042f\u0426\u0406\u0412 \u0437 \u0434\u0430\u0442\u0438, \u0437\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u043e\u0457 \u043a\u0432\u0438\u0442\u0430\u043d\u0446\u0456\u0457 \u043f\u0440\u043e \u0434\u043e\u0437\u0432\u0456\u043b \u043d\u0430 \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u043d\u043d\u044f;  \u0432\u0438\u0445\u043e\u0434\u044f\u0447\u0438 \u0437 \u043f\u0435\u0440\u0456\u043e\u0434\u0443 \u043c\u0456\u0436 \u0437\u0432\u0435\u0440\u043d\u0435\u043d\u043d\u044f\u043c \u0434\u043e \u043a\u0432\u0435\u0441\u0442\u0443\u0440\u0438 \u043d\u0430 \u0442\u0438\u043c\u0447\u0430\u0441\u043e\u0432\u0438\u0439 \u0437\u0430\u0445\u0438\u0441\u0442 \u0442\u0430 \u0434\u043e \u0437\u0432\u0435\u0440\u043d\u0435\u043d\u043d\u044f \u043f\u0440\u043e \u0444\u0456\u043d\u0430\u043d\u0441\u043e\u0432\u0443 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0443.\u0422\u0430\u043a\u0430 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0430 \u043c\u043e\u0436\u0435 \u0431\u0443\u0442\u0438 \u043d\u0430\u0440\u0430\u0445\u043e\u0432\u0430\u043d\u0430 \u0437\u0430 \u0449\u043e\u043c\u0456\u0441\u044f\u0447\u043d\u0443 \u043e\u043f\u043b\u0430\u0442\u043e\u044e,\u0447\u0438 \u043e\u043f\u043b\u0430\u0442\u043e\u044e \u0437\u0430 \u0434\u0432\u0430 \u043c\u0456\u0441\u044f\u0446\u0456,\u0430\u0431\u043e  \u0437\u0430 \u0432\u0435\u0441\u044c \u043f\u0435\u0440\u0456\u043e\u0434 \u0442\u0440\u044c\u043e\u0445 \u043c\u0456\u0441\u044f\u0446\u0456\u0432.\n\n\u2705 \u0414\u043b\u044f \u043f\u043e\u0434\u0430\u0447\u0456 \u0437\u0430\u044f\u0432\u0438 \u043d\u0430 \u0444\u0456\u043d\u0430\u043d\u0441\u043e\u0432\u0443 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0443 \u043f\u043e\u0442\u0440\u0456\u0431\u043d\u043e:\n\n1\ufe0f\u20e3 \u0417\u0430\u0440\u0435\u0454\u0441\u0442\u0440\u0443\u0432\u0430\u0442\u0438\u0441\u044f \u043d\u0430 \u0441\u0430\u0439\u0442\u0456:\n         \n              https://contributo-emergenzaucraina.protezionecivile.gov.it/#/\n\n2\ufe0f\u20e3  \u0424\u0456\u0441\u043a\u0430\u043b\u044c\u043d\u0438\u0439 \u043a\u043e\u0434 \u0443 \u043e\u0442\u0440\u0438\u043c\u0430\u043d\u0456\u0439 \u043a\u0432\u0438\u0442\u0430\u043d\u0446\u0456\u0457 \u043f\u0440\u043e \u0434\u043e\u0437\u0432\u0456\u043b \u043d\u0430 \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u043d\u043d\u044f \u0434\u043b\u044f \u0442\u0438\u043c\u0447\u0430\u0441\u043e\u0432\u043e\u0433\u043e \u0437\u0430\u0445\u0438\u0441\u0442\u0443.\n\n3\ufe0f\u20e3 \u0414\u0456\u044e\u0447\u0438\u0439 \u043d\u043e\u043c\u0435\u0440 \u043c\u043e\u0431\u0456\u043b\u044c\u043d\u043e\u0433\u043e \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443\n\n4\ufe0f\u20e3 \u0415\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0443 \u0430\u0434\u0440\u0435\u0441\u0443\n\n\u26a0\ufe0f. \u042f\u043a\u0449\u043e \u0432\u0438 \u043d\u0435 \u043e\u0442\u0440\u0438\u043c\u0430\u043b\u0438 \u0444\u0456\u0441\u043a\u0430\u043b\u044c\u043d\u0438\u0439 \u043a\u043e\u0434 \u0430\u0431\u043e \u0432\u0442\u0440\u0430\u0442\u0438\u043b\u0438 \u043a\u0432\u0438\u0442\u0430\u043d\u0446\u0456\u044e, \u0437\u0432\u0435\u0440\u043d\u0456\u0442\u044c\u0441\u044f \u0434\u043e \u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0433\u043e \u0443\u043f\u0440\u0430\u0432\u043b\u0456\u043d\u043d\u044f \u043f\u043e\u043b\u0456\u0446\u0456\u0457.\n\n\u26a0\ufe0f. \u042f\u043a\u0449\u043e \u0443 \u0412\u0430\u0441 \u043d\u0435\u043c\u0430\u0454 \u0435\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0457 \u043f\u043e\u0448\u0442\u0438 \u0447\u0438 \u043c\u043e\u0431\u0456\u043b\u044c\u043d\u043e\u0433\u043e \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443, \u0442\u043e \u0412\u0438 \u043c\u043e\u0436\u0435\u0442\u0435 \u0432\u0432\u0435\u0441\u0442\u0438 \u0434\u0430\u043d\u0456 \u0447\u043b\u0435\u043d\u0430 \u0441\u0456\u043c'\u0457 \u0447\u0438 \u0434\u0440\u0443\u0437\u0456\u0432. \u0412\u0430\u0436\u043b\u0438\u0432\u043e , \u0449\u043e\u0431 \u0432\u043e\u043d\u0438 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044e\u0432\u0430\u043b\u0438 \u0442\u0430 \u0447\u0438\u0442\u0430\u043b\u0438 \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u043b\u0435\u043d\u043d\u044f,\u0449\u043e \u0441\u0442\u043e\u0441\u0443\u044e\u0442\u044c\u0441\u044f \u0412\u0430\u0441.\n\n\u26a0\ufe0f \u041d\u0435 \u043e\u0442\u0440\u0438\u043c\u0430\u043b\u0438 \u0441\u043c\u0441 \u0442\u0430 \u0435\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0438\u0439 \u043b\u0438\u0441\u0442 \u043f\u0456\u0441\u043b\u044f \u0437\u0430\u043a\u0456\u043d\u0447\u0435\u043d\u043d\u044f \u0440\u0435\u0454\u0441\u0442\u0440\u0430\u0446\u0456\u0457 ?\n\u0422\u043e\u0434\u0456 \u0437\u0432\u0435\u0440\u043d\u0456\u0442\u044c\u0441\u044f \u0434\u043e \u0441\u043b\u0443\u0436\u0431\u0438 \u0442\u0435\u0445\u043d\u0456\u0447\u043d\u043e\u0457 \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u043a\u0438 :\n\ud83d\udce7\n          app@protezionecivile.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.facebook.com/ukr.embassy.italy"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00197"",""road"":""Via Guido D'Arezzo"",""state"":""Lazio"",""suburb"":""Municipio Roma II""},""boundingbox"":[""41.9201623"",""41.9216257"",""12.4923154"",""12.4943934""],""class"":""highway"",""display_name"":""Via Guido D'Arezzo, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia"",""importance"":0.71,""lat"":""41.9209097"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4932863"",""osm_id"":23921179,""osm_type"":""way"",""place_id"":107283504,""type"":""residential""},""mode"":""autocomplete""},""submit"":true,""title"":""Aiuti finanziari in Italia per gli Ucraini: guida in lingua alla piattaforma dedicata, \u0424\u0406\u041d\u0410\u041d\u0421\u041e\u0412\u0410 \u0414\u041e\u041f\u041e\u041c\u041e\u0413\u0410 \u0412 \u0406\u0422\u0410\u041b\u0406\u0407 \u0414\u041b\u042f \u0423\u041a\u0420\u0410\u0407\u041d\u0426\u0406\u0412""}","<pre><yamldata>
+title: 'Aiuti finanziari in Italia per gli Ucraini: guida in lingua alla piattaforma
+  dedicata, ФІНАНСОВА ДОПОМОГА В ІТАЛІЇ ДЛЯ УКРАЇНЦІВ'
+description: ""До  30/09. Офіційне роз'яснення від Посольства України в Італії.\n\n\
+  ФІНАНСОВА ДОПОМОГА В ІТАЛІЇ ДЛЯ УКРАЇНЦІВ.\n\n✅.   Відповідно до розпорядження N\
+  \  881 від 29 березня 2022 року Департаменту цивільного захисту Італії, запущено\
+  \ на сайті Департаменту спеціально розроблену платформу,яка дозволяє переселенцям\
+  \ з України подавати онлайн - заявки на отримання матеріальної допомоги в розмірі\
+  \ 300€ на місяць для дорослих та у розмірі 150€ на дітей (до 18 років).\n\n⚠️ Допомога\
+  \ призначена для тих,хто подав заявку на отримання дозволу на проживання для тимчасового\
+  \ захисту,та хто перебуває або перебував в умовах автономного проживання (у родичів,\
+  \ друзів,знайомих не менше десяти днів протягом місяця).\n\n ❗ Ті, хто у структурах\
+  \ , наданих італійською державою (центри надзвичайної допомоги Cas, система прийомів\
+  \ інтеграції Sai, структури для широкого прийому, готелі надані регіонами та автономними\
+  \ провінціями)  Не мають права на фінансову допомогу.\n\n⚠️ Запит на фінансову допомогу\
+  \ може бути поданий  до  30 вересня 2022 року та надається протягом максимум ТРЬОХ\
+  \ МІСЯЦІВ з дати, зазначеної квитанції про дозвіл на проживання;  виходячи з періоду\
+  \ між зверненням до квестури на тимчасовий захист та до звернення про фінансову\
+  \ допомогу.Така допомога може бути нарахована за щомісячну оплатою,чи оплатою за\
+  \ два місяці,або  за весь період трьох місяців.\n\n✅ Для подачі заяви на фінансову\
+  \ допомогу потрібно:\n\n1️⃣ Зареєструватися на сайті:\n         \n             \
+  \ https://contributo-emergenzaucraina.protezionecivile.gov.it/#/\n\n2️⃣  Фіскальний\
+  \ код у отриманій квитанції про дозвіл на проживання для тимчасового захисту.\n\n\
+  3️⃣ Діючий номер мобільного телефону\n\n4️⃣ Електронну адресу\n\n⚠️. Якщо ви не\
+  \ отримали фіскальний код або втратили квитанцію, зверніться до Головного управління\
+  \ поліції.\n\n⚠️. Якщо у Вас немає електронної пошти чи мобільного телефону, то\
+  \ Ви можете ввести дані члена сім'ї чи друзів. Важливо , щоб вони контролювали та\
+  \ читали повідомлення,що стосуються Вас.\n\n⚠️ Не отримали смс та електронний лист\
+  \ після закінчення реєстрації ?\nТоді зверніться до служби технічної підтримки :\n\
+  \U0001F4E7\n          app@protezionecivile.it""
+link: https://www.facebook.com/ukr.embassy.italy
+location:
+  mode: autocomplete
+  address:
+    place_id: 107283504
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 23921179
+    boundingbox:
+    - '41.9201623'
+    - '41.9216257'
+    - '12.4923154'
+    - '12.4943934'
+    lat: '41.9209097'
+    lon: '12.4932863'
+    display_name: Via Guido D'Arezzo, Municipio Roma II, Roma, Roma Capitale, Lazio,
+      00197, Italia
+    class: highway
+    type: residential
+    importance: 0.71
+    address:
+      road: Via Guido D'Arezzo
+      suburb: Municipio Roma II
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: 00197
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 41.9209097 12.4932863
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/793,1239872909,2022-05-18 13:09:29,2022-05-18 12:19:54,Musei Senesi per l’Ucraina: la cultura come luogo di accoglienza,43.3191538,11.3319772,Toscana,Siena,"[""Valid/Accettato"",""News"",""Services"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""city"":""Siena"",""country"":""Italia"",""country_code"":""it"",""county"":""Siena"",""house_number"":""34"",""office"":""Fondazione Musei Senesi"",""postcode"":""53100"",""quarter"":""Contrada della Civetta"",""road"":""Via Banchi Di Sotto"",""state"":""Toscana"",""suburb"":""Ravacciano""},""boundingbox"":[""43.3191038"",""43.3192038"",""11.3319272"",""11.3320272""],""class"":""office"",""display_name"":""Fondazione Musei Senesi, 34, Via Banchi Di Sotto, Contrada della Civetta, Ravacciano, Siena, Toscana, 53100, Italia"",""importance"":0.6309999999999999,""lat"":""43.3191538"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.3319772"",""osm_id"":6951101824,""osm_type"":""node"",""place_id"":74709330,""type"":""foundation""},""mode"":""autocomplete""},""description"":""Una serie di incontri ed attivit\u00e0 nei musei del territorio, interamente dedicate ai profughi ucraini arrivati a Siena e nella provincia. \u201cMusei Senesi per l\u2019Ucraina\u201d \u00e8 l\u2019ultimo progetto organizzato da Fondazione Musei Senesi, tramite i volontari di Servizio Civile Regionale, in collaborazione con la Misericordia di Siena. I musei sono, d\u2019altronde, un luogo privilegiato di accoglienza, incontro e ascolto.\n\nCon questa iniziativa, FMS ribadisce la volont\u00e0 di aprirsi al dialogo tramite la condivisione attiva delle testimonianze materiali e immateriali delle collezioni, ponendo il patrimonio culturale come base di incontro tra culture diverse. Per farlo, pu\u00f2 contare sull\u2019impegno dei volontari di Servizio Civile rispetto alle tematiche della cittadinanza attiva, la loro capacit\u00e0 di vivere l\u2019impegno sociale in prima persona anche a partire da quegli spazi neutri che sono i musei. Sul sito il dettaglio del programma.\n\n\nFondazione Musei Senesi \u0440\u0430\u0437\u043e\u043c \u0437 \u0432\u043e\u043b\u043e\u043d\u0442\u0435\u0440\u0430\u043c\u0438 \u0440\u0435\u0433\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0457 \u0441\u043b\u0443\u0436\u0431\u0438 \u0442\u0430 \u0443 \u0441\u043f\u0456\u0432\u043f\u0440\u0430\u0446\u0456 \u0437 Misericordia di Siena \u043e\u0440\u0433\u0430\u043d\u0456\u0437\u043e\u0432\u0443\u0454 \u0441\u0435\u0440\u0456\u044e \u0437\u0443\u0441\u0442\u0440\u0456\u0447\u0435\u0439 \u0442\u0430 \u0437\u0430\u0445\u043e\u0434\u0456\u0432 \u0443 \u043c\u0456\u0441\u0446\u0435\u0432\u0438\u0445 \u043c\u0443\u0437\u0435\u044f\u0445 \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0431\u0456\u0436\u0435\u043d\u0446\u0456\u0432, \u044f\u043a\u0456 \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u044e\u0442\u044c \u0443 \u0421\u0456\u0454\u043d\u0456 \u0442\u0430 \u043f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u0457. \u041f\u0435\u0440\u0448\u0456 \u0437\u0430\u0445\u043e\u0434\u0438, \u043e\u0440\u0433\u0430\u043d\u0456\u0437\u043e\u0432\u0430\u043d\u0456 \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0441\u0456\u043c\u0435\u0439, \u0432\u0456\u0434\u0431\u0443\u0434\u0443\u0442\u044c\u0441\u044f \u0443 \u0411\u0443\u043e\u043d\u043a\u043e\u043d\u0432\u0435\u043d\u0442\u043e, \u0443 \u041c\u0443\u0437\u0435\u0457 \u0456\u0437\u0434\u043e\u043b\u044c\u0449\u0438\u043d\u0438 \u0442\u0430 \u0443 \u041c\u0443\u0437\u0435\u0457 \u0441\u0430\u043a\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043c\u0438\u0441\u0442\u0435\u0446\u0442\u0432\u0430 \u0434\u043e\u043b\u0438\u043d\u0438 \u0412\u0430\u043b\u044c \u0434\u2019\u0410\u0440\u0431\u0456\u044f.\n\n\u0417\u0443\u0441\u0442\u0440\u0456\u0447\u0456 \u043f\u0435\u0440\u0435\u0434\u0431\u0430\u0447\u0430\u044e\u0442\u044c \u043a\u043e\u0440\u043e\u0442\u043a\u0456 \u0435\u043a\u0441\u043a\u0443\u0440\u0441\u0456\u0457 \u0440\u043e\u0441\u0456\u0439\u0441\u044c\u043a\u043e\u044e \u043c\u043e\u0432\u043e\u044e \u043c\u0443\u0437\u0435\u0439\u043d\u0438\u0445 \u043a\u043e\u043b\u0435\u043a\u0446\u0456\u0439, \u0430 \u0442\u0430\u043a\u043e\u0436 ce\u0440i\u044f \u043c\u0430\u0439\u0441\u0442\u0435\u0440-\u043a\u043b\u0430\u0441\u0456\u0432 \u0437\u0430 \u0443\u0447\u0430\u0441\u0442\u044e \u0434\u0456\u0442\u0435\u0439 \u0442\u0430 \u0431\u0430\u0442\u044c\u043a\u0456\u0432, \u0449\u043e \u0441\u043a\u043b\u0430\u0434\u0430\u0454\u0442\u044c\u0441\u044f \u0437 \u0446\u0438\u043a\u043b\u0443 \u0442\u0440\u044c\u043e\u0445 \u0437\u0443\u0441\u0442\u0440\u0456\u0447\u0435\u0439 \u0443 \u0442\u0440\u0430\u0432\u043d\u0456: 11, 18 \u0442\u0430 25 \u0442\u0440\u0430\u0432\u043d\u044f, \u0437 10.00 \u0434\u043e 12.00 \u0433\u043e\u0434.\n\nMisericordia di Siena \u043d\u0430\u0434\u0430\u043b\u0430 \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u0435 \u043f\u0440\u043e\u0432\u0435\u0437\u0435\u043d\u043d\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0441\u0456\u043c\u0435\u0439 \u0456\u0437 \u0421\u0456\u0454\u043d\u0438 \u043d\u0430 8-\u043c\u0456\u0441\u043d\u043e\u043c\u0443 \u043c\u0456\u043a\u0440\u043e\u0430\u0432\u0442\u043e\u0431\u0443\u0441\u0456."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Fondazione Musei Senesi"",""recipients"":""Profughi ucraini arrivati a Siena e provincia"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Musei Senesi per l\u2019Ucraina: la cultura come luogo di accoglienza"",""url"":""https://www.museisenesi.org/didattica/2022/musei-senesi-per-lucraina-la-cultura-come-luogo-di-accoglienza/?utm_source=social&utm_medium=link+in+post&utm_campaign=musei+senesi+ucraina&fbclid=IwAR0f-S_M3yelezZzv9XSWDWgnUYQpHl9lY-W7QcOzq8GpIJ2x6LF67vnci0""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -84,95 +237,6 @@ address:
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/791,1239118160,2022-05-18 13:07:52,2022-05-17 20:21:54,"Scuole Migranti offre materiali gratuiti per lezioni di italiano, specifici per studentesse e studenti ucraini",41.9808038,12.7662312,Lazio,Roma,"[""Valid/Accettato"",""Services"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Lazio""},""boundingbox"":[""40.7849283"",""42.840269"",""11.4491695"",""14.0276445""],""class"":""boundary"",""display_name"":""Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7687340711539455,""lat"":""41.9808038"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.7662312"",""osm_id"":40784,""osm_type"":""relation"",""place_id"":284358860,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Pagina web dove e possibile trovare diversi materiali didattici, specifici per bambini ucraini"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Scuole migranti"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Materiali gratuiti per lezioni di italiano, specifici per allievi ucrain"",""url"":""http://www.scuolemigranti.org/materiali-didattici-per-lemergenza-ucraina/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: true
-  disability: false
-  women: false
-  education: true
-offerFromWho: Scuole migranti
-title: Materiali gratuiti per lezioni di italiano, specifici per allievi ucrain
-recipients: ''
-description: Pagina web dove e possibile trovare diversi materiali didattici, specifici
-  per bambini ucraini
-url: http://www.scuolemigranti.org/materiali-didattici-per-lemergenza-ucraina/
-address:
-  mode: autocomplete
-  address:
-    place_id: 284358860
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 40784
-    boundingbox:
-    - '40.7849283'
-    - '42.840269'
-    - '11.4491695'
-    - '14.0276445'
-    lat: '41.9808038'
-    lon: '12.7662312'
-    display_name: Lazio, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7687340711539455
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      state: Lazio
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/790,1239116696,2022-05-18 13:06:18,2022-05-17 20:20:17,"Scuole Migranti raccoglie disponibilità di insegnanti, interpreti, mediatori e volontari",41.9808038,12.7662312,Lazio,Roma,"[""Valid/Accettato"",""Help"",""Services"",""translation"",""job"",""education""]",,,"{""Posizione"":""41.9808038 12.7662312"",""description"":""Stiamo raccogliendo le disponibilit\u00e0 di insegnanti L2, mediatori, interpreti, volontari.\nVuoi offrirti come volontario/a? Compila il modulo che trovi sul sito\nSei una scuola o un\u2019associazione e hai bisogno di volontari per l\u2019emergenza? Scrivi a info@scuolemigranti.org"",""email"":""info@scuolemigranti.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Lazio""},""boundingbox"":[""40.7849283"",""42.840269"",""11.4491695"",""14.0276445""],""class"":""boundary"",""display_name"":""Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7687340711539455,""lat"":""41.9808038"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.7662312"",""osm_id"":40784,""osm_type"":""relation"",""place_id"":284358860,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Scuole migranti"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Ricerca di insegnanti volontari e mediatori"",""url"":""http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg""}","<pre><yamldata>
-nameSurname: Scuole migranti
-phoneNumber: ''
-email: info@scuolemigranti.org
-title: Ricerca di insegnanti volontari e mediatori
-recipients: ''
-description: 'Stiamo raccogliendo le disponibilità di insegnanti L2, mediatori, interpreti,
-  volontari.
-
-  Vuoi offrirti come volontario/a? Compila il modulo che trovi sul sito
-
-  Sei una scuola o un’associazione e hai bisogno di volontari per l’emergenza? Scrivi
-  a info@scuolemigranti.org'
-url: http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg
-location:
-  mode: autocomplete
-  address:
-    place_id: 284358860
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 40784
-    boundingbox:
-    - '40.7849283'
-    - '42.840269'
-    - '11.4491695'
-    - '14.0276445'
-    lat: '41.9808038'
-    lon: '12.7662312'
-    display_name: Lazio, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7687340711539455
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      state: Lazio
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 41.9808038 12.7662312
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/789,1239114797,2022-05-18 13:03:37,2022-05-17 20:18:13,Scuole Migranti offre aiuto per l'iscrizione a scuola,41.9808038,12.7662312,Lazio,Roma,"[""Valid/Accettato"",""News"",""useful contact"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Lazio""},""boundingbox"":[""40.7849283"",""42.840269"",""11.4491695"",""14.0276445""],""class"":""boundary"",""display_name"":""Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7687340711539455,""lat"":""41.9808038"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.7662312"",""osm_id"":40784,""osm_type"":""relation"",""place_id"":284358860,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Cerchi aiuto per l\u2019iscrizione nella scuola italiana?\nPossiamo aiutarti a trovare la scuola pubblica adatta alle tue esigenze. Scrivi a info@scuolemigranti.org il tuo nome cognome, anno di nascita del futuro alunno, abitazione e contatto."",""email"":""info@scuolemigranti.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Scuole migranti"",""url"":""http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg""}","<pre><yamldata>
 title: Scuole migranti
@@ -345,70 +409,6 @@ location:
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: fundraising
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/792,1239851402,2022-05-18 12:14:50,2022-05-18 12:00:54,"ФІНАНСОВА ДОПОМОГА В ІТАЛІЇ ДЛЯ УКРАЇНЦІВ, Aiuti finanziari per gli Ucraini: guida in lingua alla domanda",41.9209097,12.4932863,Lazio,Roma,"[""Valid/Accettato"",""News"",""Help"",""Services"",""Legal"",""useful contact"",""translation""]",,,"{""Posizione"":""41.9209097 12.4932863"",""description"":""\u0414\u043e  30/09. \u041e\u0444\u0456\u0446\u0456\u0439\u043d\u0435 \u0440\u043e\u0437'\u044f\u0441\u043d\u0435\u043d\u043d\u044f \u0432\u0456\u0434 \u041f\u043e\u0441\u043e\u043b\u044c\u0441\u0442\u0432\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0438 \u0432 \u0406\u0442\u0430\u043b\u0456\u0457.\n\n\u0424\u0406\u041d\u0410\u041d\u0421\u041e\u0412\u0410 \u0414\u041e\u041f\u041e\u041c\u041e\u0413\u0410 \u0412 \u0406\u0422\u0410\u041b\u0406\u0407 \u0414\u041b\u042f \u0423\u041a\u0420\u0410\u0407\u041d\u0426\u0406\u0412.\n\n\u2705.   \u0412\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u043d\u043e \u0434\u043e \u0440\u043e\u0437\u043f\u043e\u0440\u044f\u0434\u0436\u0435\u043d\u043d\u044f N  881 \u0432\u0456\u0434 29 \u0431\u0435\u0440\u0435\u0437\u043d\u044f 2022 \u0440\u043e\u043a\u0443 \u0414\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u0443 \u0446\u0438\u0432\u0456\u043b\u044c\u043d\u043e\u0433\u043e \u0437\u0430\u0445\u0438\u0441\u0442\u0443 \u0406\u0442\u0430\u043b\u0456\u0457, \u0437\u0430\u043f\u0443\u0449\u0435\u043d\u043e \u043d\u0430 \u0441\u0430\u0439\u0442\u0456 \u0414\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u0443 \u0441\u043f\u0435\u0446\u0456\u0430\u043b\u044c\u043d\u043e \u0440\u043e\u0437\u0440\u043e\u0431\u043b\u0435\u043d\u0443 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0443,\u044f\u043a\u0430 \u0434\u043e\u0437\u0432\u043e\u043b\u044f\u0454 \u043f\u0435\u0440\u0435\u0441\u0435\u043b\u0435\u043d\u0446\u044f\u043c \u0437 \u0423\u043a\u0440\u0430\u0457\u043d\u0438 \u043f\u043e\u0434\u0430\u0432\u0430\u0442\u0438 \u043e\u043d\u043b\u0430\u0439\u043d - \u0437\u0430\u044f\u0432\u043a\u0438 \u043d\u0430 \u043e\u0442\u0440\u0438\u043c\u0430\u043d\u043d\u044f \u043c\u0430\u0442\u0435\u0440\u0456\u0430\u043b\u044c\u043d\u043e\u0457 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0438 \u0432 \u0440\u043e\u0437\u043c\u0456\u0440\u0456 300\u20ac \u043d\u0430 \u043c\u0456\u0441\u044f\u0446\u044c \u0434\u043b\u044f \u0434\u043e\u0440\u043e\u0441\u043b\u0438\u0445 \u0442\u0430 \u0443 \u0440\u043e\u0437\u043c\u0456\u0440\u0456 150\u20ac \u043d\u0430 \u0434\u0456\u0442\u0435\u0439 (\u0434\u043e 18 \u0440\u043e\u043a\u0456\u0432).\n\n\u26a0\ufe0f \u0414\u043e\u043f\u043e\u043c\u043e\u0433\u0430 \u043f\u0440\u0438\u0437\u043d\u0430\u0447\u0435\u043d\u0430 \u0434\u043b\u044f \u0442\u0438\u0445,\u0445\u0442\u043e \u043f\u043e\u0434\u0430\u0432 \u0437\u0430\u044f\u0432\u043a\u0443 \u043d\u0430 \u043e\u0442\u0440\u0438\u043c\u0430\u043d\u043d\u044f \u0434\u043e\u0437\u0432\u043e\u043b\u0443 \u043d\u0430 \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u043d\u043d\u044f \u0434\u043b\u044f \u0442\u0438\u043c\u0447\u0430\u0441\u043e\u0432\u043e\u0433\u043e \u0437\u0430\u0445\u0438\u0441\u0442\u0443,\u0442\u0430 \u0445\u0442\u043e \u043f\u0435\u0440\u0435\u0431\u0443\u0432\u0430\u0454 \u0430\u0431\u043e \u043f\u0435\u0440\u0435\u0431\u0443\u0432\u0430\u0432 \u0432 \u0443\u043c\u043e\u0432\u0430\u0445 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u043d\u043d\u044f (\u0443 \u0440\u043e\u0434\u0438\u0447\u0456\u0432, \u0434\u0440\u0443\u0437\u0456\u0432,\u0437\u043d\u0430\u0439\u043e\u043c\u0438\u0445 \u043d\u0435 \u043c\u0435\u043d\u0448\u0435 \u0434\u0435\u0441\u044f\u0442\u0438 \u0434\u043d\u0456\u0432 \u043f\u0440\u043e\u0442\u044f\u0433\u043e\u043c \u043c\u0456\u0441\u044f\u0446\u044f).\n\n \u2757 \u0422\u0456, \u0445\u0442\u043e \u0443 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0430\u0445 , \u043d\u0430\u0434\u0430\u043d\u0438\u0445 \u0456\u0442\u0430\u043b\u0456\u0439\u0441\u044c\u043a\u043e\u044e \u0434\u0435\u0440\u0436\u0430\u0432\u043e\u044e (\u0446\u0435\u043d\u0442\u0440\u0438 \u043d\u0430\u0434\u0437\u0432\u0438\u0447\u0430\u0439\u043d\u043e\u0457 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0438 Cas, \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u043f\u0440\u0438\u0439\u043e\u043c\u0456\u0432 \u0456\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0456\u0457 Sai, \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0438 \u0434\u043b\u044f \u0448\u0438\u0440\u043e\u043a\u043e\u0433\u043e \u043f\u0440\u0438\u0439\u043e\u043c\u0443, \u0433\u043e\u0442\u0435\u043b\u0456 \u043d\u0430\u0434\u0430\u043d\u0456 \u0440\u0435\u0433\u0456\u043e\u043d\u0430\u043c\u0438 \u0442\u0430 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u0438\u043c\u0438 \u043f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f\u043c\u0438)  \u041d\u0435 \u043c\u0430\u044e\u0442\u044c \u043f\u0440\u0430\u0432\u0430 \u043d\u0430 \u0444\u0456\u043d\u0430\u043d\u0441\u043e\u0432\u0443 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0443.\n\n\u26a0\ufe0f \u0417\u0430\u043f\u0438\u0442 \u043d\u0430 \u0444\u0456\u043d\u0430\u043d\u0441\u043e\u0432\u0443 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0443 \u043c\u043e\u0436\u0435 \u0431\u0443\u0442\u0438 \u043f\u043e\u0434\u0430\u043d\u0438\u0439  \u0434\u043e  30 \u0432\u0435\u0440\u0435\u0441\u043d\u044f 2022 \u0440\u043e\u043a\u0443 \u0442\u0430 \u043d\u0430\u0434\u0430\u0454\u0442\u044c\u0441\u044f \u043f\u0440\u043e\u0442\u044f\u0433\u043e\u043c \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c \u0422\u0420\u042c\u041e\u0425 \u041c\u0406\u0421\u042f\u0426\u0406\u0412 \u0437 \u0434\u0430\u0442\u0438, \u0437\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u043e\u0457 \u043a\u0432\u0438\u0442\u0430\u043d\u0446\u0456\u0457 \u043f\u0440\u043e \u0434\u043e\u0437\u0432\u0456\u043b \u043d\u0430 \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u043d\u043d\u044f;  \u0432\u0438\u0445\u043e\u0434\u044f\u0447\u0438 \u0437 \u043f\u0435\u0440\u0456\u043e\u0434\u0443 \u043c\u0456\u0436 \u0437\u0432\u0435\u0440\u043d\u0435\u043d\u043d\u044f\u043c \u0434\u043e \u043a\u0432\u0435\u0441\u0442\u0443\u0440\u0438 \u043d\u0430 \u0442\u0438\u043c\u0447\u0430\u0441\u043e\u0432\u0438\u0439 \u0437\u0430\u0445\u0438\u0441\u0442 \u0442\u0430 \u0434\u043e \u0437\u0432\u0435\u0440\u043d\u0435\u043d\u043d\u044f \u043f\u0440\u043e \u0444\u0456\u043d\u0430\u043d\u0441\u043e\u0432\u0443 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0443.\u0422\u0430\u043a\u0430 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0430 \u043c\u043e\u0436\u0435 \u0431\u0443\u0442\u0438 \u043d\u0430\u0440\u0430\u0445\u043e\u0432\u0430\u043d\u0430 \u0437\u0430 \u0449\u043e\u043c\u0456\u0441\u044f\u0447\u043d\u0443 \u043e\u043f\u043b\u0430\u0442\u043e\u044e,\u0447\u0438 \u043e\u043f\u043b\u0430\u0442\u043e\u044e \u0437\u0430 \u0434\u0432\u0430 \u043c\u0456\u0441\u044f\u0446\u0456,\u0430\u0431\u043e  \u0437\u0430 \u0432\u0435\u0441\u044c \u043f\u0435\u0440\u0456\u043e\u0434 \u0442\u0440\u044c\u043e\u0445 \u043c\u0456\u0441\u044f\u0446\u0456\u0432.\n\n\u2705 \u0414\u043b\u044f \u043f\u043e\u0434\u0430\u0447\u0456 \u0437\u0430\u044f\u0432\u0438 \u043d\u0430 \u0444\u0456\u043d\u0430\u043d\u0441\u043e\u0432\u0443 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0443 \u043f\u043e\u0442\u0440\u0456\u0431\u043d\u043e:\n\n1\ufe0f\u20e3 \u0417\u0430\u0440\u0435\u0454\u0441\u0442\u0440\u0443\u0432\u0430\u0442\u0438\u0441\u044f \u043d\u0430 \u0441\u0430\u0439\u0442\u0456:\n         \n              https://contributo-emergenzaucraina.protezionecivile.gov.it/#/\n\n2\ufe0f\u20e3  \u0424\u0456\u0441\u043a\u0430\u043b\u044c\u043d\u0438\u0439 \u043a\u043e\u0434 \u0443 \u043e\u0442\u0440\u0438\u043c\u0430\u043d\u0456\u0439 \u043a\u0432\u0438\u0442\u0430\u043d\u0446\u0456\u0457 \u043f\u0440\u043e \u0434\u043e\u0437\u0432\u0456\u043b \u043d\u0430 \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u043d\u043d\u044f \u0434\u043b\u044f \u0442\u0438\u043c\u0447\u0430\u0441\u043e\u0432\u043e\u0433\u043e \u0437\u0430\u0445\u0438\u0441\u0442\u0443.\n\n3\ufe0f\u20e3 \u0414\u0456\u044e\u0447\u0438\u0439 \u043d\u043e\u043c\u0435\u0440 \u043c\u043e\u0431\u0456\u043b\u044c\u043d\u043e\u0433\u043e \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443\n\n4\ufe0f\u20e3 \u0415\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0443 \u0430\u0434\u0440\u0435\u0441\u0443\n\n\u26a0\ufe0f. \u042f\u043a\u0449\u043e \u0432\u0438 \u043d\u0435 \u043e\u0442\u0440\u0438\u043c\u0430\u043b\u0438 \u0444\u0456\u0441\u043a\u0430\u043b\u044c\u043d\u0438\u0439 \u043a\u043e\u0434 \u0430\u0431\u043e \u0432\u0442\u0440\u0430\u0442\u0438\u043b\u0438 \u043a\u0432\u0438\u0442\u0430\u043d\u0446\u0456\u044e, \u0437\u0432\u0435\u0440\u043d\u0456\u0442\u044c\u0441\u044f \u0434\u043e \u0413\u043e\u043b\u043e\u0432\u043d\u043e\u0433\u043e \u0443\u043f\u0440\u0430\u0432\u043b\u0456\u043d\u043d\u044f \u043f\u043e\u043b\u0456\u0446\u0456\u0457.\n\n\u26a0\ufe0f. \u042f\u043a\u0449\u043e \u0443 \u0412\u0430\u0441 \u043d\u0435\u043c\u0430\u0454 \u0435\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0457 \u043f\u043e\u0448\u0442\u0438 \u0447\u0438 \u043c\u043e\u0431\u0456\u043b\u044c\u043d\u043e\u0433\u043e \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443, \u0442\u043e \u0412\u0438 \u043c\u043e\u0436\u0435\u0442\u0435 \u0432\u0432\u0435\u0441\u0442\u0438 \u0434\u0430\u043d\u0456 \u0447\u043b\u0435\u043d\u0430 \u0441\u0456\u043c'\u0457 \u0447\u0438 \u0434\u0440\u0443\u0437\u0456\u0432. \u0412\u0430\u0436\u043b\u0438\u0432\u043e , \u0449\u043e\u0431 \u0432\u043e\u043d\u0438 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044e\u0432\u0430\u043b\u0438 \u0442\u0430 \u0447\u0438\u0442\u0430\u043b\u0438 \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u043b\u0435\u043d\u043d\u044f,\u0449\u043e \u0441\u0442\u043e\u0441\u0443\u044e\u0442\u044c\u0441\u044f \u0412\u0430\u0441.\n\n\u26a0\ufe0f \u041d\u0435 \u043e\u0442\u0440\u0438\u043c\u0430\u043b\u0438 \u0441\u043c\u0441 \u0442\u0430 \u0435\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0438\u0439 \u043b\u0438\u0441\u0442 \u043f\u0456\u0441\u043b\u044f \u0437\u0430\u043a\u0456\u043d\u0447\u0435\u043d\u043d\u044f \u0440\u0435\u0454\u0441\u0442\u0440\u0430\u0446\u0456\u0457 ?\n\u0422\u043e\u0434\u0456 \u0437\u0432\u0435\u0440\u043d\u0456\u0442\u044c\u0441\u044f \u0434\u043e \u0441\u043b\u0443\u0436\u0431\u0438 \u0442\u0435\u0445\u043d\u0456\u0447\u043d\u043e\u0457 \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u043a\u0438 :\n\ud83d\udce7\n          app@protezionecivile.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.facebook.com/ukr.embassy.italy"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""postcode"":""00197"",""road"":""Via Guido D'Arezzo"",""state"":""Lazio"",""suburb"":""Municipio Roma II""},""boundingbox"":[""41.9201623"",""41.9216257"",""12.4923154"",""12.4943934""],""class"":""highway"",""display_name"":""Via Guido D'Arezzo, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia"",""importance"":0.71,""lat"":""41.9209097"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4932863"",""osm_id"":23921179,""osm_type"":""way"",""place_id"":107283504,""type"":""residential""},""mode"":""autocomplete""},""submit"":true,""title"":""Aiuti finanziari in Italia per gli Ucraini: guida in lingua alla piattaforma dedicata, \u0424\u0406\u041d\u0410\u041d\u0421\u041e\u0412\u0410 \u0414\u041e\u041f\u041e\u041c\u041e\u0413\u0410 \u0412 \u0406\u0422\u0410\u041b\u0406\u0407 \u0414\u041b\u042f \u0423\u041a\u0420\u0410\u0407\u041d\u0426\u0406\u0412""}","<pre><yamldata>
-title: 'Aiuti finanziari in Italia per gli Ucraini: guida in lingua alla piattaforma
-  dedicata, ФІНАНСОВА ДОПОМОГА В ІТАЛІЇ ДЛЯ УКРАЇНЦІВ'
-description: ""До  30/09. Офіційне роз'яснення від Посольства України в Італії.\n\n\
-  ФІНАНСОВА ДОПОМОГА В ІТАЛІЇ ДЛЯ УКРАЇНЦІВ.\n\n✅.   Відповідно до розпорядження N\
-  \  881 від 29 березня 2022 року Департаменту цивільного захисту Італії, запущено\
-  \ на сайті Департаменту спеціально розроблену платформу,яка дозволяє переселенцям\
-  \ з України подавати онлайн - заявки на отримання матеріальної допомоги в розмірі\
-  \ 300€ на місяць для дорослих та у розмірі 150€ на дітей (до 18 років).\n\n⚠️ Допомога\
-  \ призначена для тих,хто подав заявку на отримання дозволу на проживання для тимчасового\
-  \ захисту,та хто перебуває або перебував в умовах автономного проживання (у родичів,\
-  \ друзів,знайомих не менше десяти днів протягом місяця).\n\n ❗ Ті, хто у структурах\
-  \ , наданих італійською державою (центри надзвичайної допомоги Cas, система прийомів\
-  \ інтеграції Sai, структури для широкого прийому, готелі надані регіонами та автономними\
-  \ провінціями)  Не мають права на фінансову допомогу.\n\n⚠️ Запит на фінансову допомогу\
-  \ може бути поданий  до  30 вересня 2022 року та надається протягом максимум ТРЬОХ\
-  \ МІСЯЦІВ з дати, зазначеної квитанції про дозвіл на проживання;  виходячи з періоду\
-  \ між зверненням до квестури на тимчасовий захист та до звернення про фінансову\
-  \ допомогу.Така допомога може бути нарахована за щомісячну оплатою,чи оплатою за\
-  \ два місяці,або  за весь період трьох місяців.\n\n✅ Для подачі заяви на фінансову\
-  \ допомогу потрібно:\n\n1️⃣ Зареєструватися на сайті:\n         \n             \
-  \ https://contributo-emergenzaucraina.protezionecivile.gov.it/#/\n\n2️⃣  Фіскальний\
-  \ код у отриманій квитанції про дозвіл на проживання для тимчасового захисту.\n\n\
-  3️⃣ Діючий номер мобільного телефону\n\n4️⃣ Електронну адресу\n\n⚠️. Якщо ви не\
-  \ отримали фіскальний код або втратили квитанцію, зверніться до Головного управління\
-  \ поліції.\n\n⚠️. Якщо у Вас немає електронної пошти чи мобільного телефону, то\
-  \ Ви можете ввести дані члена сім'ї чи друзів. Важливо , щоб вони контролювали та\
-  \ читали повідомлення,що стосуються Вас.\n\n⚠️ Не отримали смс та електронний лист\
-  \ після закінчення реєстрації ?\nТоді зверніться до служби технічної підтримки :\n\
-  \U0001F4E7\n          app@protezionecivile.it""
-link: https://www.facebook.com/ukr.embassy.italy
-location:
-  mode: autocomplete
-  address:
-    place_id: 107283504
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 23921179
-    boundingbox:
-    - '41.9201623'
-    - '41.9216257'
-    - '12.4923154'
-    - '12.4943934'
-    lat: '41.9209097'
-    lon: '12.4932863'
-    display_name: Via Guido D'Arezzo, Municipio Roma II, Roma, Roma Capitale, Lazio,
-      00197, Italia
-    class: highway
-    type: residential
-    importance: 0.71
-    address:
-      road: Via Guido D'Arezzo
-      suburb: Municipio Roma II
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      postcode: 00197
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 41.9209097 12.4932863
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/783,1234446741,2022-05-16 16:45:27,2022-05-12 20:25:24,La chiesa cattolica Ucraina attiva corsi di italiano in diverse zone di Roma e dintorni,,,,,"[""Valid/Accettato"",""Services"",""translation"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Chiesa Cattolica Ucraina\nHa attivato 8 classi di italiano online di 30 allievi ciascuna.\nContatti: Don Sviatoslav Tytuliak 3517440763 pastoraleucrainoit@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Chiesa Cattolica Ucraina"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""La chiesa cattolica Ucraina attiva corsi di italiano"",""url"":""http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg""}","<pre><yamldata>
 servicetypes:
