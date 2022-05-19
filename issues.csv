@@ -1,4 +1,165 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/797,1242068646,2022-05-19 18:18:29,2022-05-19 17:07:47,Graduatoria per i #centriestivi a #Firenze,43.7698712,11.2555757,Toscana,Firenze,"[""Valid/Accettato"",""Services"",""Children"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""postcode"":""50100"",""state"":""Toscana""},""boundingbox"":[""43.6098712"",""43.9298712"",""11.0955757"",""11.4155757""],""class"":""place"",""display_name"":""Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.8105633028502386,""lat"":""43.7698712"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2555757"",""osm_id"":61753360,""osm_type"":""node"",""place_id"":286104644,""type"":""city""},""mode"":""autocomplete""},""description"":""Dall\u201911 maggio, fino al 23 maggio, le famiglie interessate a iscrivere i propri figli alle attivit\u00e0 ludico-educative comunali potranno presentare online la domanda per la preiscrizione, disponibile sulla Rete civica.\nLe attivit\u00e0 comunali estive potranno essere frequentate anche dai bambini ucraini accolti a Firenze, per le iscrizioni dei quali \u00e8 necessario inviare una mail agli uffici competenti per il Quartiere di riferimento. I Centri estivi sono rivolti a bambini e ragazzi di et\u00e0 compresa tra i 3 anni e i 14 anni. Ogni turno ha una durata di due settimane e la quota di partecipazione comprende anche i pasti."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Firenze"",""recipients"":""Bambini e bambine, anche rifugiati temporanei dall'Ucraina"",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Graduatoria per i #centriestivi a #Firenze"",""url"":""https://servizi.comune.fi.it/servizi/scheda-servizio/centri-estivi-per-bambinei-e-ragazzei""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: false
+offerFromWho: Comune di Firenze
+title: 'Graduatoria per i #centriestivi a #Firenze'
+recipients: Bambini e bambine, anche rifugiati temporanei dall'Ucraina
+description: 'Dall’11 maggio, fino al 23 maggio, le famiglie interessate a iscrivere
+  i propri figli alle attività ludico-educative comunali potranno presentare online
+  la domanda per la preiscrizione, disponibile sulla Rete civica.
+
+  Le attività comunali estive potranno essere frequentate anche dai bambini ucraini
+  accolti a Firenze, per le iscrizioni dei quali è necessario inviare una mail agli
+  uffici competenti per il Quartiere di riferimento. I Centri estivi sono rivolti
+  a bambini e ragazzi di età compresa tra i 3 anni e i 14 anni. Ogni turno ha una
+  durata di due settimane e la quota di partecipazione comprende anche i pasti.'
+url: https://servizi.comune.fi.it/servizi/scheda-servizio/centri-estivi-per-bambinei-e-ragazzei
+address:
+  mode: autocomplete
+  address:
+    place_id: 286104644
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 61753360
+    boundingbox:
+    - '43.6098712'
+    - '43.9298712'
+    - '11.0955757'
+    - '11.4155757'
+    lat: '43.7698712'
+    lon: '11.2555757'
+    display_name: Firenze, Città metropolitana di Firenze, Toscana, 50100, Italia
+    class: place
+    type: city
+    importance: 0.8105633028502386
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Firenze
+      county: Città metropolitana di Firenze
+      state: Toscana
+      ISO3166-2-lvl4: IT-52
+      postcode: '50100'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/796,1242061421,2022-05-19 18:16:47,2022-05-19 17:00:57,Sportello dedicato all'emergenza ucraina #sandonatomilanese,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""hospitality"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address1"":"""",""address2"":"""",""city"":""San Donato Milanese"",""country"":"""",""state"":""Italia"",""zip"":""20097""},""mode"":""manual""},""description"":""Lo sportello stranieri presso il Comune di San Donato Milanese fornisce informazioni ed assistenza in merito alle pratiche dei cittadini stranieri (permesso di soggiorno, cittadinanza, ricongiungimento ecc). Sul sito istituzionale tutte le info:\nhttps://www.comune.sandonatomilanese.mi.it/stranieri\nInoltre \u00e8 stata dedicata una pagina specifica alla emergenza ucraina divisa in due sezioni: 1) per chi arriva in Italia; 2) per chi vuole aiutare."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di San Donato Milanese"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Sportello dedicato all'emergenza ucraina"",""url"":""https://www.comune.sandonatomilanese.mi.it/emergenza-ucraina""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: false
+  healthcare: true
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Comune di San Donato Milanese
+title: Sportello dedicato all'emergenza ucraina
+recipients: ''
+description: 'Lo sportello stranieri presso il Comune di San Donato Milanese fornisce
+  informazioni ed assistenza in merito alle pratiche dei cittadini stranieri (permesso
+  di soggiorno, cittadinanza, ricongiungimento ecc). Sul sito istituzionale tutte
+  le info:
+
+  https://www.comune.sandonatomilanese.mi.it/stranieri
+
+  Inoltre è stata dedicata una pagina specifica alla emergenza ucraina divisa in due
+  sezioni: 1) per chi arriva in Italia; 2) per chi vuole aiutare.'
+url: https://www.comune.sandonatomilanese.mi.it/emergenza-ucraina
+address:
+  mode: manual
+  address:
+    address1: ''
+    address2: ''
+    city: San Donato Milanese
+    state: Italia
+    country: ''
+    zip: '20097'
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/794,1242016913,2022-05-19 18:15:59,2022-05-19 16:17:23,"Raccolta fondi per farmaci, dispositivi, apparati medicali ",45.4663275,9.1984125,Lombardia,Milano,"[""Valid/Accettato"",""Help"",""fundraising"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20122"",""quarter"":""Duomo"",""road"":""Galleria San Babila"",""state"":""Lombardia"",""suburb"":""Municipio 1""},""boundingbox"":[""45.4663198"",""45.4663464"",""9.1979214"",""9.198589""],""class"":""highway"",""display_name"":""Galleria San Babila, Duomo, Municipio 1, Milano, Lombardia, 20122, Italia"",""importance"":0.375,""lat"":""45.4663275"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1984125"",""osm_id"":232703091,""osm_type"":""way"",""place_id"":159157414,""type"":""footway""},""mode"":""autocomplete""},""description"":""La Gotita Onlus partecipa a UNITI PER L\u2019UCRAINA, un\u2019iniziativa nata da un\u2019idea di White Milk Foundation che ha coinvolto una rete (da qui il nome UNITI PER L\u2019UCRAINA) di aziende, enti del terzo settore e soggetti istituzionali \u201camici\u201d che stanno operando in stretta collaborazione con le Istituzioni ucraine. Attraverso la raccolta fondi, sono acquistati dispositivi medici, ospedalieri e farmaci che le Istituzioni ucraine definiscono come prioritari. \n\nGli stessi verranno consegnati presso gli HUB indicati dalle Istituzioni ucraine avendo come ultima destinazione gli ospedali in Ucraina ancora attivi e raggiungibili. \n\nNell\u2019ambito di questo progetto, La Gotita Onlus sta raccogliendo fondi per acquistare e consegnare ai suddetti ospedali farmaci, dispositivi e apparati medicali urgenti, destinati ai minori ricoverati nelle strutture."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""La Gotita Onlus"",""recipients"":""Settore sanitario in Ucraina"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Raccolta fondi per farmaci, dispositivi, apparati medicali"",""url"":""https://lagotitaonlus.org/causes/uniti-per-lucraina/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: La Gotita Onlus
+title: Raccolta fondi per farmaci, dispositivi, apparati medicali
+recipients: Settore sanitario in Ucraina
+description: ""La Gotita Onlus partecipa a UNITI PER L’UCRAINA, un’iniziativa nata\
+  \ da un’idea di White Milk Foundation che ha coinvolto una rete (da qui il nome\
+  \ UNITI PER L’UCRAINA) di aziende, enti del terzo settore e soggetti istituzionali\
+  \ “amici” che stanno operando in stretta collaborazione con le Istituzioni ucraine.\
+  \ Attraverso la raccolta fondi, sono acquistati dispositivi medici, ospedalieri\
+  \ e farmaci che le Istituzioni ucraine definiscono come prioritari. \n\nGli stessi\
+  \ verranno consegnati presso gli HUB indicati dalle Istituzioni ucraine avendo come\
+  \ ultima destinazione gli ospedali in Ucraina ancora attivi e raggiungibili. \n\n\
+  Nell’ambito di questo progetto, La Gotita Onlus sta raccogliendo fondi per acquistare\
+  \ e consegnare ai suddetti ospedali farmaci, dispositivi e apparati medicali urgenti,\
+  \ destinati ai minori ricoverati nelle strutture.""
+url: https://lagotitaonlus.org/causes/uniti-per-lucraina/
+address:
+  mode: autocomplete
+  address:
+    place_id: 159157414
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 232703091
+    boundingbox:
+    - '45.4663198'
+    - '45.4663464'
+    - '9.1979214'
+    - '9.198589'
+    lat: '45.4663275'
+    lon: '9.1984125'
+    display_name: Galleria San Babila, Duomo, Municipio 1, Milano, Lombardia, 20122,
+      Italia
+    class: highway
+    type: footway
+    importance: 0.375
+    address:
+      road: Galleria San Babila
+      quarter: Duomo
+      suburb: Municipio 1
+      city: Milano
+      county: Milano
+      ISO3166-2-lvl6: IT-MI
+      state: Lombardia
+      postcode: '20122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/793,1239872909,2022-05-19 12:25:06,2022-05-18 12:19:54,Musei Senesi per l’Ucraina: la cultura come luogo di accoglienza,43.3191538,11.3319772,Toscana,Siena,"[""Valid/Accettato"",""News"",""Services"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-52"",""city"":""Siena"",""country"":""Italia"",""country_code"":""it"",""county"":""Siena"",""house_number"":""34"",""office"":""Fondazione Musei Senesi"",""postcode"":""53100"",""quarter"":""Contrada della Civetta"",""road"":""Via Banchi Di Sotto"",""state"":""Toscana"",""suburb"":""Ravacciano""},""boundingbox"":[""43.3191038"",""43.3192038"",""11.3319272"",""11.3320272""],""class"":""office"",""display_name"":""Fondazione Musei Senesi, 34, Via Banchi Di Sotto, Contrada della Civetta, Ravacciano, Siena, Toscana, 53100, Italia"",""importance"":0.6309999999999999,""lat"":""43.3191538"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.3319772"",""osm_id"":6951101824,""osm_type"":""node"",""place_id"":74709330,""type"":""foundation""},""mode"":""autocomplete""},""description"":""Una serie di incontri ed attivit\u00e0 nei musei del territorio, interamente dedicate ai profughi ucraini arrivati a Siena e nella provincia. \u201cMusei Senesi per l\u2019Ucraina\u201d \u00e8 l\u2019ultimo progetto organizzato da Fondazione Musei Senesi, tramite i volontari di Servizio Civile Regionale, in collaborazione con la Misericordia di Siena. I musei sono, d\u2019altronde, un luogo privilegiato di accoglienza, incontro e ascolto.\n\nCon questa iniziativa, FMS ribadisce la volont\u00e0 di aprirsi al dialogo tramite la condivisione attiva delle testimonianze materiali e immateriali delle collezioni, ponendo il patrimonio culturale come base di incontro tra culture diverse. Per farlo, pu\u00f2 contare sull\u2019impegno dei volontari di Servizio Civile rispetto alle tematiche della cittadinanza attiva, la loro capacit\u00e0 di vivere l\u2019impegno sociale in prima persona anche a partire da quegli spazi neutri che sono i musei. Sul sito il dettaglio del programma.\n\n\nFondazione Musei Senesi \u0440\u0430\u0437\u043e\u043c \u0437 \u0432\u043e\u043b\u043e\u043d\u0442\u0435\u0440\u0430\u043c\u0438 \u0440\u0435\u0433\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0457 \u0441\u043b\u0443\u0436\u0431\u0438 \u0442\u0430 \u0443 \u0441\u043f\u0456\u0432\u043f\u0440\u0430\u0446\u0456 \u0437 Misericordia di Siena \u043e\u0440\u0433\u0430\u043d\u0456\u0437\u043e\u0432\u0443\u0454 \u0441\u0435\u0440\u0456\u044e \u0437\u0443\u0441\u0442\u0440\u0456\u0447\u0435\u0439 \u0442\u0430 \u0437\u0430\u0445\u043e\u0434\u0456\u0432 \u0443 \u043c\u0456\u0441\u0446\u0435\u0432\u0438\u0445 \u043c\u0443\u0437\u0435\u044f\u0445 \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0431\u0456\u0436\u0435\u043d\u0446\u0456\u0432, \u044f\u043a\u0456 \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u044e\u0442\u044c \u0443 \u0421\u0456\u0454\u043d\u0456 \u0442\u0430 \u043f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u0457. \u041f\u0435\u0440\u0448\u0456 \u0437\u0430\u0445\u043e\u0434\u0438, \u043e\u0440\u0433\u0430\u043d\u0456\u0437\u043e\u0432\u0430\u043d\u0456 \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0441\u0456\u043c\u0435\u0439, \u0432\u0456\u0434\u0431\u0443\u0434\u0443\u0442\u044c\u0441\u044f \u0443 \u0411\u0443\u043e\u043d\u043a\u043e\u043d\u0432\u0435\u043d\u0442\u043e, \u0443 \u041c\u0443\u0437\u0435\u0457 \u0456\u0437\u0434\u043e\u043b\u044c\u0449\u0438\u043d\u0438 \u0442\u0430 \u0443 \u041c\u0443\u0437\u0435\u0457 \u0441\u0430\u043a\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043c\u0438\u0441\u0442\u0435\u0446\u0442\u0432\u0430 \u0434\u043e\u043b\u0438\u043d\u0438 \u0412\u0430\u043b\u044c \u0434\u2019\u0410\u0440\u0431\u0456\u044f.\n\n\u0417\u0443\u0441\u0442\u0440\u0456\u0447\u0456 \u043f\u0435\u0440\u0435\u0434\u0431\u0430\u0447\u0430\u044e\u0442\u044c \u043a\u043e\u0440\u043e\u0442\u043a\u0456 \u0435\u043a\u0441\u043a\u0443\u0440\u0441\u0456\u0457 \u0440\u043e\u0441\u0456\u0439\u0441\u044c\u043a\u043e\u044e \u043c\u043e\u0432\u043e\u044e \u043c\u0443\u0437\u0435\u0439\u043d\u0438\u0445 \u043a\u043e\u043b\u0435\u043a\u0446\u0456\u0439, \u0430 \u0442\u0430\u043a\u043e\u0436 ce\u0440i\u044f \u043c\u0430\u0439\u0441\u0442\u0435\u0440-\u043a\u043b\u0430\u0441\u0456\u0432 \u0437\u0430 \u0443\u0447\u0430\u0441\u0442\u044e \u0434\u0456\u0442\u0435\u0439 \u0442\u0430 \u0431\u0430\u0442\u044c\u043a\u0456\u0432, \u0449\u043e \u0441\u043a\u043b\u0430\u0434\u0430\u0454\u0442\u044c\u0441\u044f \u0437 \u0446\u0438\u043a\u043b\u0443 \u0442\u0440\u044c\u043e\u0445 \u0437\u0443\u0441\u0442\u0440\u0456\u0447\u0435\u0439 \u0443 \u0442\u0440\u0430\u0432\u043d\u0456: 11, 18 \u0442\u0430 25 \u0442\u0440\u0430\u0432\u043d\u044f, \u0437 10.00 \u0434\u043e 12.00 \u0433\u043e\u0434.\n\nMisericordia di Siena \u043d\u0430\u0434\u0430\u043b\u0430 \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u0435 \u043f\u0440\u043e\u0432\u0435\u0437\u0435\u043d\u043d\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0441\u0456\u043c\u0435\u0439 \u0456\u0437 \u0421\u0456\u0454\u043d\u0438 \u043d\u0430 8-\u043c\u0456\u0441\u043d\u043e\u043c\u0443 \u043c\u0456\u043a\u0440\u043e\u0430\u0432\u0442\u043e\u0431\u0443\u0441\u0456."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Fondazione Musei Senesi"",""recipients"":""Profughi ucraini arrivati a Siena e provincia"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Musei Senesi per l\u2019Ucraina: la cultura come luogo di accoglienza"",""url"":""https://www.museisenesi.org/didattica/2022/musei-senesi-per-lucraina-la-cultura-come-luogo-di-accoglienza/?utm_source=social&utm_medium=link+in+post&utm_campaign=musei+senesi+ucraina&fbclid=IwAR0f-S_M3yelezZzv9XSWDWgnUYQpHl9lY-W7QcOzq8GpIJ2x6LF67vnci0""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
