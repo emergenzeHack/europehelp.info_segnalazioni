@@ -1,4 +1,176 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/789,1239114797,2022-05-19 10:47:21,2022-05-17 20:18:13,Scuole Migranti offre aiuto per l'iscrizione a scuola dei bambini ucraini,41.9808038,12.7662312,Lazio,Roma,"[""Valid/Accettato"",""News"",""useful contact"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Lazio""},""boundingbox"":[""40.7849283"",""42.840269"",""11.4491695"",""14.0276445""],""class"":""boundary"",""display_name"":""Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7687340711539455,""lat"":""41.9808038"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.7662312"",""osm_id"":40784,""osm_type"":""relation"",""place_id"":284358860,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Cerchi aiuto per l\u2019iscrizione nella scuola italiana?\nPossiamo aiutarti a trovare la scuola pubblica adatta alle tue esigenze. Scrivi a info@scuolemigranti.org il tuo nome cognome, anno di nascita del futuro alunno, abitazione e contatto."",""email"":""info@scuolemigranti.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Scuole migranti"",""url"":""http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg""}","<pre><yamldata>
+title: Scuole migranti
+phoneNumber: ''
+email: info@scuolemigranti.org
+aim: 'Cerchi aiuto per l’iscrizione nella scuola italiana?
+
+  Possiamo aiutarti a trovare la scuola pubblica adatta alle tue esigenze. Scrivi
+  a info@scuolemigranti.org il tuo nome cognome, anno di nascita del futuro alunno,
+  abitazione e contatto.'
+url: http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg
+address:
+  mode: autocomplete
+  address:
+    place_id: 284358860
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 40784
+    boundingbox:
+    - '40.7849283'
+    - '42.840269'
+    - '11.4491695'
+    - '14.0276445'
+    lat: '41.9808038'
+    lon: '12.7662312'
+    display_name: Lazio, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7687340711539455
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      state: Lazio
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: useful contact
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/788,1239113406,2022-05-19 10:45:13,2022-05-17 20:16:43,"Lazio, mappa dei centri educativi per bambine e bambini nel Lazio sul sito di Scuole Migranti",41.9808038,12.7662312,Lazio,Roma,"[""Valid/Accettato"",""Services"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Lazio""},""boundingbox"":[""40.7849283"",""42.840269"",""11.4491695"",""14.0276445""],""class"":""boundary"",""display_name"":""Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7687340711539455,""lat"":""41.9808038"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.7662312"",""osm_id"":40784,""osm_type"":""relation"",""place_id"":284358860,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Sul sito scuole migranti \u00e8 possibile consultare la mappa dei centri per bambini attivi in Lazio"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Scuole migranti"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Mappa centri per bambini nel Lazio"",""url"":""http://www.scuolemigranti.org/mappa/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: false
+offerFromWho: Scuole migranti
+title: Mappa centri per bambini nel Lazio
+recipients: ''
+description: Sul sito scuole migranti è possibile consultare la mappa dei centri per
+  bambini attivi in Lazio
+url: http://www.scuolemigranti.org/mappa/
+address:
+  mode: autocomplete
+  address:
+    place_id: 284358860
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 40784
+    boundingbox:
+    - '40.7849283'
+    - '42.840269'
+    - '11.4491695'
+    - '14.0276445'
+    lat: '41.9808038'
+    lon: '12.7662312'
+    display_name: Lazio, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7687340711539455
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      state: Lazio
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/787,1239111756,2022-05-19 10:42:26,2022-05-17 20:14:51,Sul sito di Scuole Migranti una mappa dei corsi di italiano per migranti adulti nel Lazio,41.9808038,12.7662312,Lazio,Roma,"[""Valid/Accettato"",""News"",""Services"",""translation"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Lazio""},""boundingbox"":[""40.7849283"",""42.840269"",""11.4491695"",""14.0276445""],""class"":""boundary"",""display_name"":""Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7687340711539455,""lat"":""41.9808038"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.7662312"",""osm_id"":40784,""osm_type"":""relation"",""place_id"":284358860,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Sul sito www.scuolemigranti.org \u00e8 possibile consultare la mappa di tutti i corsi di italiano per stranieri attivati nella regione lazio. Tutti i corsi sono gratuiti."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Scuole Migranti"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""mappa dei corsi di italiano nel Lazio"",""url"":""http://www.scuolemigranti.org/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: true
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Scuole Migranti
+title: mappa dei corsi di italiano nel Lazio
+recipients: ''
+description: Sul sito www.scuolemigranti.org è possibile consultare la mappa di tutti
+  i corsi di italiano per stranieri attivati nella regione lazio. Tutti i corsi sono
+  gratuiti.
+url: http://www.scuolemigranti.org/
+address:
+  mode: autocomplete
+  address:
+    place_id: 284358860
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 40784
+    boundingbox:
+    - '40.7849283'
+    - '42.840269'
+    - '11.4491695'
+    - '14.0276445'
+    lat: '41.9808038'
+    lon: '12.7662312'
+    display_name: Lazio, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7687340711539455
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      state: Lazio
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/785,1236985293,2022-05-19 10:39:32,2022-05-16 11:04:45,L'Associazione ANCI Umbria PROCIV lancia una raccolta fondi per la popolazione della regione di Odessa,,,,,"[""Valid/Accettato"",""fundraising"",""telegram-channel"",""tweet""]",,,"{""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""ANCI Umbria ProCiv si mobilita in risposta all'appello del Sindaco di Odessa, Gennadiy Trukhanov.\n\nIn questa drammatica emergenza umanitaria, l\u2019Associazione dei Comuni Umbri c\u2019\u00e8 e vuole rispondere attivamente all'appello lanciato dal Sindaco di Odessa, Gennadiy Trukhanov, che diverse settimane fa ha chiesto aiuto per la sua cittadinanza.\nLa nostra Associazione, che da anni si occupa di protezione civile nella Regione Umbria, non poteva rimanere inerme di fronte a quanto sta accadendo in Ucraina. Perci\u00f2, abbiamo deciso di attivarci, facendoci promotori di una raccolta fondi che ha come obiettivo aiutare la popolazione ucraina della Regione di Odessa.\n\nAbbiamo gi\u00e0 attivato dei canali con l'Amministrazione locale ucraina che si occupa della distribuzione dei beni di prima necessit\u00e0 direttamente alla popolazione colpita della Regione di Odessa. Attraverso questa campagna di fundraising, sar\u00e0 possibile donare un contributo a \""Odessa anti-crisis humanitarian center\""."",""email"":""segreteria@anciumbriaprociv.it"",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":""https://www.gofundme.com/f/aiuti-per-odessa?utm_medium=referral&utm_source=unknown&utm_campaign=comms_gfm+aiuti-per-odessa"",""location"":{""address"":{""address1"":""Piazza Italia, 11"",""address2"":"""",""city"":""Perugia"",""country"":""Italia"",""state"":""Italia"",""zip"":""06121""},""mode"":""manual""},""submit"":true,""title"":""ANCI Umbria Prociv""}","<pre><yamldata>
+title: ANCI Umbria Prociv
+description: 'ANCI Umbria ProCiv si mobilita in risposta all''appello del Sindaco
+  di Odessa, Gennadiy Trukhanov.
+
+
+  In questa drammatica emergenza umanitaria, l’Associazione dei Comuni Umbri c’è e
+  vuole rispondere attivamente all''appello lanciato dal Sindaco di Odessa, Gennadiy
+  Trukhanov, che diverse settimane fa ha chiesto aiuto per la sua cittadinanza.
+
+  La nostra Associazione, che da anni si occupa di protezione civile nella Regione
+  Umbria, non poteva rimanere inerme di fronte a quanto sta accadendo in Ucraina.
+  Perciò, abbiamo deciso di attivarci, facendoci promotori di una raccolta fondi che
+  ha come obiettivo aiutare la popolazione ucraina della Regione di Odessa.
+
+
+  Abbiamo già attivato dei canali con l''Amministrazione locale ucraina che si occupa
+  della distribuzione dei beni di prima necessità direttamente alla popolazione colpita
+  della Regione di Odessa. Attraverso questa campagna di fundraising, sarà possibile
+  donare un contributo a ""Odessa anti-crisis humanitarian center"".'
+heading: ''
+iban: ''
+bicSwift: ''
+ccPostal: ''
+causal: ''
+link: https://www.gofundme.com/f/aiuti-per-odessa?utm_medium=referral&utm_source=unknown&utm_campaign=comms_gfm+aiuti-per-odessa
+email: segreteria@anciumbriaprociv.it
+location:
+  mode: manual
+  address:
+    address1: Piazza Italia, 11
+    address2: ''
+    city: Perugia
+    state: Italia
+    country: Italia
+    zip: '06121'
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/791,1239118160,2022-05-18 16:02:26,2022-05-17 20:21:54,"Scuole Migranti offre materiali gratuiti per lezioni di italiano, specifici per alunne e alunni ucraini",41.9808038,12.7662312,Lazio,Roma,"[""Valid/Accettato"",""Services"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Lazio""},""boundingbox"":[""40.7849283"",""42.840269"",""11.4491695"",""14.0276445""],""class"":""boundary"",""display_name"":""Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7687340711539455,""lat"":""41.9808038"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.7662312"",""osm_id"":40784,""osm_type"":""relation"",""place_id"":284358860,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Pagina web dove \u00e8 possibile trovare diversi materiali didattici, specifici per alunne e alunni ucraini"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Scuole migranti"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Materiali gratuiti per lezioni di italiano, specifici per alunne e alunni ucraini"",""url"":""http://www.scuolemigranti.org/materiali-didattici-per-lemergenza-ucraina/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -236,178 +408,6 @@ address:
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/789,1239114797,2022-05-18 13:03:37,2022-05-17 20:18:13,Scuole Migranti offre aiuto per l'iscrizione a scuola,41.9808038,12.7662312,Lazio,Roma,"[""Valid/Accettato"",""News"",""useful contact"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Lazio""},""boundingbox"":[""40.7849283"",""42.840269"",""11.4491695"",""14.0276445""],""class"":""boundary"",""display_name"":""Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7687340711539455,""lat"":""41.9808038"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.7662312"",""osm_id"":40784,""osm_type"":""relation"",""place_id"":284358860,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Cerchi aiuto per l\u2019iscrizione nella scuola italiana?\nPossiamo aiutarti a trovare la scuola pubblica adatta alle tue esigenze. Scrivi a info@scuolemigranti.org il tuo nome cognome, anno di nascita del futuro alunno, abitazione e contatto."",""email"":""info@scuolemigranti.org"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":"""",""submit"":true,""title"":""Scuole migranti"",""url"":""http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg""}","<pre><yamldata>
-title: Scuole migranti
-phoneNumber: ''
-email: info@scuolemigranti.org
-aim: 'Cerchi aiuto per l’iscrizione nella scuola italiana?
-
-  Possiamo aiutarti a trovare la scuola pubblica adatta alle tue esigenze. Scrivi
-  a info@scuolemigranti.org il tuo nome cognome, anno di nascita del futuro alunno,
-  abitazione e contatto.'
-url: http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg
-address:
-  mode: autocomplete
-  address:
-    place_id: 284358860
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 40784
-    boundingbox:
-    - '40.7849283'
-    - '42.840269'
-    - '11.4491695'
-    - '14.0276445'
-    lat: '41.9808038'
-    lon: '12.7662312'
-    display_name: Lazio, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7687340711539455
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      state: Lazio
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: useful contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/787,1239111756,2022-05-18 13:01:42,2022-05-17 20:14:51,Sul sito di Scuole Migranti una mappa dei corsi di italiano per migranti adulti nel Lazio,41.9808038,12.7662312,Lazio,Roma,"[""Valid/Accettato"",""News"",""Services"",""translation""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Lazio""},""boundingbox"":[""40.7849283"",""42.840269"",""11.4491695"",""14.0276445""],""class"":""boundary"",""display_name"":""Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7687340711539455,""lat"":""41.9808038"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.7662312"",""osm_id"":40784,""osm_type"":""relation"",""place_id"":284358860,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Sul sito www.scuolemigranti.org \u00e8 possibile consultare la mappa di tutti i corsi di italiano per stranieri attivati nella regione lazio. Tutti i corsi sono gratuiti."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Scuole Migranti"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""mappa dei corsi di italiano nel Lazio"",""url"":""http://www.scuolemigranti.org/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: true
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Scuole Migranti
-title: mappa dei corsi di italiano nel Lazio
-recipients: ''
-description: Sul sito www.scuolemigranti.org è possibile consultare la mappa di tutti
-  i corsi di italiano per stranieri attivati nella regione lazio. Tutti i corsi sono
-  gratuiti.
-url: http://www.scuolemigranti.org/
-address:
-  mode: autocomplete
-  address:
-    place_id: 284358860
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 40784
-    boundingbox:
-    - '40.7849283'
-    - '42.840269'
-    - '11.4491695'
-    - '14.0276445'
-    lat: '41.9808038'
-    lon: '12.7662312'
-    display_name: Lazio, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7687340711539455
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      state: Lazio
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/788,1239113406,2022-05-18 13:01:27,2022-05-17 20:16:43,Sul sito di Scuole Migranti una mappa dei centri per bambine e bambini nel Lazio,41.9808038,12.7662312,Lazio,Roma,"[""Valid/Accettato"",""Services"",""Children""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""state"":""Lazio""},""boundingbox"":[""40.7849283"",""42.840269"",""11.4491695"",""14.0276445""],""class"":""boundary"",""display_name"":""Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7687340711539455,""lat"":""41.9808038"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.7662312"",""osm_id"":40784,""osm_type"":""relation"",""place_id"":284358860,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Sul sito scuole migranti \u00e8 possibile consultare la mappa dei centri per bambini attivi in Lazio"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Scuole migranti"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Mappa centri per bambini nel Lazio"",""url"":""http://www.scuolemigranti.org/mappa/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: true
-  disability: false
-  women: false
-  education: false
-offerFromWho: Scuole migranti
-title: Mappa centri per bambini nel Lazio
-recipients: ''
-description: Sul sito scuole migranti è possibile consultare la mappa dei centri per
-  bambini attivi in Lazio
-url: http://www.scuolemigranti.org/mappa/
-address:
-  mode: autocomplete
-  address:
-    place_id: 284358860
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 40784
-    boundingbox:
-    - '40.7849283'
-    - '42.840269'
-    - '11.4491695'
-    - '14.0276445'
-    lat: '41.9808038'
-    lon: '12.7662312'
-    display_name: Lazio, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7687340711539455
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      state: Lazio
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/785,1236985293,2022-05-18 12:52:55,2022-05-16 11:04:45,L'Associazione ANCI Umbria PROCIV lancia una raccolta fondi per la popolazione della regione di Odessa,,,,,"[""Valid/Accettato"",""fundraising""]",,,"{""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""ANCI Umbria ProCiv si mobilita in risposta all'appello del Sindaco di Odessa, Gennadiy Trukhanov.\n\nIn questa drammatica emergenza umanitaria, l\u2019Associazione dei Comuni Umbri c\u2019\u00e8 e vuole rispondere attivamente all'appello lanciato dal Sindaco di Odessa, Gennadiy Trukhanov, che diverse settimane fa ha chiesto aiuto per la sua cittadinanza.\nLa nostra Associazione, che da anni si occupa di protezione civile nella Regione Umbria, non poteva rimanere inerme di fronte a quanto sta accadendo in Ucraina. Perci\u00f2, abbiamo deciso di attivarci, facendoci promotori di una raccolta fondi che ha come obiettivo aiutare la popolazione ucraina della Regione di Odessa.\n\nAbbiamo gi\u00e0 attivato dei canali con l'Amministrazione locale ucraina che si occupa della distribuzione dei beni di prima necessit\u00e0 direttamente alla popolazione colpita della Regione di Odessa. Attraverso questa campagna di fundraising, sar\u00e0 possibile donare un contributo a \""Odessa anti-crisis humanitarian center\""."",""email"":""segreteria@anciumbriaprociv.it"",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":""https://www.gofundme.com/f/aiuti-per-odessa?utm_medium=referral&utm_source=unknown&utm_campaign=comms_gfm+aiuti-per-odessa"",""location"":{""address"":{""address1"":""Piazza Italia, 11"",""address2"":"""",""city"":""Perugia"",""country"":""Italia"",""state"":""Italia"",""zip"":""06121""},""mode"":""manual""},""submit"":true,""title"":""ANCI Umbria Prociv""}","<pre><yamldata>
-title: ANCI Umbria Prociv
-description: 'ANCI Umbria ProCiv si mobilita in risposta all''appello del Sindaco
-  di Odessa, Gennadiy Trukhanov.
-
-
-  In questa drammatica emergenza umanitaria, l’Associazione dei Comuni Umbri c’è e
-  vuole rispondere attivamente all''appello lanciato dal Sindaco di Odessa, Gennadiy
-  Trukhanov, che diverse settimane fa ha chiesto aiuto per la sua cittadinanza.
-
-  La nostra Associazione, che da anni si occupa di protezione civile nella Regione
-  Umbria, non poteva rimanere inerme di fronte a quanto sta accadendo in Ucraina.
-  Perciò, abbiamo deciso di attivarci, facendoci promotori di una raccolta fondi che
-  ha come obiettivo aiutare la popolazione ucraina della Regione di Odessa.
-
-
-  Abbiamo già attivato dei canali con l''Amministrazione locale ucraina che si occupa
-  della distribuzione dei beni di prima necessità direttamente alla popolazione colpita
-  della Regione di Odessa. Attraverso questa campagna di fundraising, sarà possibile
-  donare un contributo a ""Odessa anti-crisis humanitarian center"".'
-heading: ''
-iban: ''
-bicSwift: ''
-ccPostal: ''
-causal: ''
-link: https://www.gofundme.com/f/aiuti-per-odessa?utm_medium=referral&utm_source=unknown&utm_campaign=comms_gfm+aiuti-per-odessa
-email: segreteria@anciumbriaprociv.it
-location:
-  mode: manual
-  address:
-    address1: Piazza Italia, 11
-    address2: ''
-    city: Perugia
-    state: Italia
-    country: Italia
-    zip: '06121'
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: fundraising
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/783,1234446741,2022-05-16 16:45:27,2022-05-12 20:25:24,La chiesa cattolica Ucraina attiva corsi di italiano in diverse zone di Roma e dintorni,,,,,"[""Valid/Accettato"",""Services"",""translation"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Chiesa Cattolica Ucraina\nHa attivato 8 classi di italiano online di 30 allievi ciascuna.\nContatti: Don Sviatoslav Tytuliak 3517440763 pastoraleucrainoit@gmail.com"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Chiesa Cattolica Ucraina"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""La chiesa cattolica Ucraina attiva corsi di italiano"",""url"":""http://www.scuolemigranti.org/emergenza-ucraina/?fbclid=IwAR0O-MAjoOIXmQFJc98myIzwqmEYMKGMMh9PuDDk4pn__akrhkj-R5UR6bg""}","<pre><yamldata>
