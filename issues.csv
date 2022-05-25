@@ -1,4 +1,48 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/814,1247104482,2022-05-25 10:24:57,2022-05-24 20:43:47,"Arcidiocesi Macerata, raccolta fondi per attività di integrazione e ludico ricreative per le donne e i bambini ucraini accolti",43.15297805,13.150882217502017,Marche,Macerata,"[""Valid/Accettato"",""fundraising"",""education""]",,,"{""Posizione"":""43.15297805 13.150882217502017"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""Nel periodo estivo si vuole favorire l\u2019integrazione delle persone accolte, cos\u00ec che possano considerarsi non solo ospiti alloggiati, ma parte delle nostre comunit\u00e0, realizzando, ad esempio, escursioni nella natura e uscite culturali, facendo partecipare i bambini ai centri estivi e offrendo corsi formativi per le mamme."",""email"":"""",""heading"":""Diocesi Macerata Caritas"",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT 75 K 06150 13400 CC032 01057 10"",""label"":""fundraising"",""link"":""https://diocesimacerata.it/impegno-della-diocesi-per-lintegrazione-dei-profughi-ucraini/"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-57"",""country"":""Italia"",""country_code"":""it"",""county"":""Macerata"",""state"":""Marche""},""boundingbox"":[""42.8318542"",""43.4739419"",""12.8296453"",""13.7432808""],""class"":""boundary"",""display_name"":""Macerata, Marche, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"",""importance"":0.7220195830686528,""lat"":""43.15297805"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.150882217502017"",""osm_id"":42212,""osm_type"":""relation"",""place_id"":283249019,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Arcidiocesi di Macerata""}","<pre><yamldata>
+title: Arcidiocesi di Macerata
+description: Nel periodo estivo si vuole favorire l’integrazione delle persone accolte,
+  così che possano considerarsi non solo ospiti alloggiati, ma parte delle nostre
+  comunità, realizzando, ad esempio, escursioni nella natura e uscite culturali, facendo
+  partecipare i bambini ai centri estivi e offrendo corsi formativi per le mamme.
+heading: Diocesi Macerata Caritas
+iban: IT 75 K 06150 13400 CC032 01057 10
+bicSwift: ''
+ccPostal: ''
+causal: ''
+link: https://diocesimacerata.it/impegno-della-diocesi-per-lintegrazione-dei-profughi-ucraini/
+email: ''
+location:
+  mode: autocomplete
+  address:
+    place_id: 283249019
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 42212
+    boundingbox:
+    - '42.8318542'
+    - '43.4739419'
+    - '12.8296453'
+    - '13.7432808'
+    lat: '43.15297805'
+    lon: '13.150882217502017'
+    display_name: Macerata, Marche, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7220195830686528
+    icon: https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      county: Macerata
+      state: Marche
+      ISO3166-2-lvl4: IT-57
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+iAuthorizeTheProcessingOfPersonalSensitiveData: true
+label: fundraising
+submit: true
+Posizione: 43.15297805 13.150882217502017
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/813,1247097018,2022-05-25 10:21:56,2022-05-24 20:35:48,"Genova, #Centri Estivi gratuiti per rifugiati ucraini ",44.4507675,8.8942087,Liguria,Genova,"[""Valid/Accettato"",""Services"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-42"",""ISO3166-2-lvl6"":""IT-GE"",""city"":""Genova"",""country"":""Italia"",""country_code"":""it"",""county"":""Genoa"",""postcode"":""16161"",""road"":""Via Teglia"",""state"":""Liguria"",""suburb"":""Teglia""},""boundingbox"":[""44.4491901"",""44.4521756"",""8.8941682"",""8.8947066""],""class"":""highway"",""display_name"":""Via Teglia, Teglia, Val Polcevera, Genova, Genoa, Liguria, 16161, Italia"",""importance"":0.53,""lat"":""44.4507675"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.8942087"",""osm_id"":139767415,""osm_type"":""way"",""place_id"":133386147,""type"":""secondary""},""mode"":""autocomplete""},""description"":""Il progetto P.A.C.E. - Percorsi Di Accoglienza Comunitaria Nei Contesti Educativi, che Helpcode promuove sul territorio genovese ha come obiettivi sostenere bambine e bambini, ragazze e ragazzi ucraini rifugiati, nel loro inserimento sociale e scolastico; supportare le loro famiglie nel percorso di integrazione sul territorio di Genova; ma anche, parallelamente, sensibilizzare e accompagnare la comunit\u00e0 locale nell'accoglienza dei nuclei familiari provenienti dall'Ucraina. Il progetto partir\u00e0 con un pilota di 3 settimane nell'Istituto Comprensivo Teglia, a Genova. Dal 23 maggio al 10 giugno, giorno di chiusura delle scuole. Il progetto P.A.C.E. riprender\u00e0 poi le sue attivit\u00e0 al rientro in settembre.  Le attivit\u00e0 proseguiranno anche dopo la chiusura dell'anno scolastico, attraverso i centri estivi che l'organizzazione realizza. I centri estivi accoglieranno laboratori ludico-educativi messi in campo dagli operatori di Helpcode e saranno gratuiti per tutti i bambini ucraini rifugiati"",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Organizzazione no profit Helpcode"",""recipients"":""bambine e bambine rifugiati ucraini"",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""#centriestivi gratuiti per rifugiati ucraini #campiestivi #genova"",""url"":""https://www.icteglia.edu.it/pagine/centri-estivi-helpcode""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
