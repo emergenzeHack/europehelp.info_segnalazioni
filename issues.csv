@@ -1,4 +1,221 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/813,1247097018,2022-05-25 10:21:56,2022-05-24 20:35:48,"Genova, #Centri Estivi gratuiti per rifugiati ucraini ",44.4507675,8.8942087,Liguria,Genova,"[""Valid/Accettato"",""Services"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-42"",""ISO3166-2-lvl6"":""IT-GE"",""city"":""Genova"",""country"":""Italia"",""country_code"":""it"",""county"":""Genoa"",""postcode"":""16161"",""road"":""Via Teglia"",""state"":""Liguria"",""suburb"":""Teglia""},""boundingbox"":[""44.4491901"",""44.4521756"",""8.8941682"",""8.8947066""],""class"":""highway"",""display_name"":""Via Teglia, Teglia, Val Polcevera, Genova, Genoa, Liguria, 16161, Italia"",""importance"":0.53,""lat"":""44.4507675"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.8942087"",""osm_id"":139767415,""osm_type"":""way"",""place_id"":133386147,""type"":""secondary""},""mode"":""autocomplete""},""description"":""Il progetto P.A.C.E. - Percorsi Di Accoglienza Comunitaria Nei Contesti Educativi, che Helpcode promuove sul territorio genovese ha come obiettivi sostenere bambine e bambini, ragazze e ragazzi ucraini rifugiati, nel loro inserimento sociale e scolastico; supportare le loro famiglie nel percorso di integrazione sul territorio di Genova; ma anche, parallelamente, sensibilizzare e accompagnare la comunit\u00e0 locale nell'accoglienza dei nuclei familiari provenienti dall'Ucraina. Il progetto partir\u00e0 con un pilota di 3 settimane nell'Istituto Comprensivo Teglia, a Genova. Dal 23 maggio al 10 giugno, giorno di chiusura delle scuole. Il progetto P.A.C.E. riprender\u00e0 poi le sue attivit\u00e0 al rientro in settembre.  Le attivit\u00e0 proseguiranno anche dopo la chiusura dell'anno scolastico, attraverso i centri estivi che l'organizzazione realizza. I centri estivi accoglieranno laboratori ludico-educativi messi in campo dagli operatori di Helpcode e saranno gratuiti per tutti i bambini ucraini rifugiati"",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Organizzazione no profit Helpcode"",""recipients"":""bambine e bambine rifugiati ucraini"",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""#centriestivi gratuiti per rifugiati ucraini #campiestivi #genova"",""url"":""https://www.icteglia.edu.it/pagine/centri-estivi-helpcode""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: true
+offerFromWho: Organizzazione no profit Helpcode
+title: '#centriestivi gratuiti per rifugiati ucraini #campiestivi #genova'
+recipients: bambine e bambine rifugiati ucraini
+description: Il progetto P.A.C.E. - Percorsi Di Accoglienza Comunitaria Nei Contesti
+  Educativi, che Helpcode promuove sul territorio genovese ha come obiettivi sostenere
+  bambine e bambini, ragazze e ragazzi ucraini rifugiati, nel loro inserimento sociale
+  e scolastico; supportare le loro famiglie nel percorso di integrazione sul territorio
+  di Genova; ma anche, parallelamente, sensibilizzare e accompagnare la comunità locale
+  nell'accoglienza dei nuclei familiari provenienti dall'Ucraina. Il progetto partirà
+  con un pilota di 3 settimane nell'Istituto Comprensivo Teglia, a Genova. Dal 23
+  maggio al 10 giugno, giorno di chiusura delle scuole. Il progetto P.A.C.E. riprenderà
+  poi le sue attività al rientro in settembre.  Le attività proseguiranno anche dopo
+  la chiusura dell'anno scolastico, attraverso i centri estivi che l'organizzazione
+  realizza. I centri estivi accoglieranno laboratori ludico-educativi messi in campo
+  dagli operatori di Helpcode e saranno gratuiti per tutti i bambini ucraini rifugiati
+url: https://www.icteglia.edu.it/pagine/centri-estivi-helpcode
+address:
+  mode: autocomplete
+  address:
+    place_id: 133386147
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 139767415
+    boundingbox:
+    - '44.4491901'
+    - '44.4521756'
+    - '8.8941682'
+    - '8.8947066'
+    lat: '44.4507675'
+    lon: '8.8942087'
+    display_name: Via Teglia, Teglia, Val Polcevera, Genova, Genoa, Liguria, 16161,
+      Italia
+    class: highway
+    type: secondary
+    importance: 0.53
+    address:
+      road: Via Teglia
+      suburb: Teglia
+      city: Genova
+      county: Genoa
+      ISO3166-2-lvl6: IT-GE
+      state: Liguria
+      ISO3166-2-lvl4: IT-42
+      postcode: '16161'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+iAuthorizeTheProcessingOfPersonalSensitiveData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/811,1247066803,2022-05-25 10:17:35,2022-05-24 20:03:38,Raccolta fondi per accogliere i rifugiati ucraini nei #centriestivi #campiestivi #Coriano,43.965186,12.602374,Emilia-Romagna,Rimini,"[""Valid/Accettato"",""News"",""fundraising"",""education""]",,,"{""Posizione"":""43.965186 12.602374"",""description"":""Raccolta fondi per permettere ai rifugiati ucraini nel comune di Coriano di frequentare i centri estivi in partenza"",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.corriereromagna.it/coriano-un-successo-insieme-si-puo-per-i-giovani-ucraini-ai-centri-estivi/"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""ISO3166-2-lvl6"":""IT-RN"",""country"":""Italia"",""country_code"":""it"",""county"":""Rimini"",""state"":""Emilia-Romagna"",""village"":""Coriano""},""boundingbox"":[""43.9389093"",""43.9966938"",""12.5059341"",""12.643182""],""class"":""boundary"",""display_name"":""Coriano, Rimini, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"",""importance"":0.5385503993687111,""lat"":""43.965186"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.602374"",""osm_id"":42765,""osm_type"":""relation"",""place_id"":283822206,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Raccolta fondi per accogliere i rifugiati ucraini nei #centriestivi #campiestivi #Coriano""}","<pre><yamldata>
+title: 'Raccolta fondi per accogliere i rifugiati ucraini nei #centriestivi #campiestivi
+  #Coriano'
+description: Raccolta fondi per permettere ai rifugiati ucraini nel comune di Coriano
+  di frequentare i centri estivi in partenza
+link: https://www.corriereromagna.it/coriano-un-successo-insieme-si-puo-per-i-giovani-ucraini-ai-centri-estivi/
+location:
+  mode: autocomplete
+  address:
+    place_id: 283822206
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 42765
+    boundingbox:
+    - '43.9389093'
+    - '43.9966938'
+    - '12.5059341'
+    - '12.643182'
+    lat: '43.965186'
+    lon: '12.602374'
+    display_name: Coriano, Rimini, Emilia-Romagna, Italia
+    class: boundary
+    type: administrative
+    importance: 0.5385503993687111
+    icon: https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      village: Coriano
+      county: Rimini
+      ISO3166-2-lvl6: IT-RN
+      state: Emilia-Romagna
+      ISO3166-2-lvl4: IT-45
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+iAuthorizeTheProcessingOfPersonalSensitiveData: true
+submit: true
+Posizione: 43.965186 12.602374
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/805,1246249846,2022-05-25 10:14:59,2022-05-24 09:17:56,"Lega Italia Lotta ai Tumori offre ospitalità, mediazione e assistenza sociale ai bambini ucraini malati di tumore ",45.4730444,9.2304964,Lombardia,Milano,"[""Valid/Accettato"",""Services"",""hospitality"",""healthcare"",""Children"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""highway"":""Piazzale Gorini"",""postcode"":""20133"",""quarter"":""Citt\u00e0 Studi"",""road"":""Piazzale Paolo Gorini"",""state"":""Lombardia"",""suburb"":""Municipio 3""},""boundingbox"":[""45.4729944"",""45.4730944"",""9.2304464"",""9.2305464""],""class"":""highway"",""display_name"":""Piazzale Gorini, Piazzale Paolo Gorini, Citt\u00e0 Studi, Municipio 3, Milano, Lombardia, 20133, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//transport_bus_stop2.p.20.png"",""importance"":0.42099999999999993,""lat"":""45.4730444"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2304964"",""osm_id"":441590516,""osm_type"":""node"",""place_id"":3301015,""type"":""bus_stop""},""mode"":""autocomplete""},""description"":""Accoglienza ai bambini profughi in arrivo all'Istituto dei Tumori di Milano dall'Ucraina\nCresce giorno dopo giorno il numero dei bambini malati di tumore in arrivo a Milano dall\u2019Ucraina con le loro famiglie.\nGrazie al corridoio umanitario decine di bambini sono gi\u00e0 riusciti a partire e ora si trovano in cura nella Pediatria oncologica dell\u2019Istituto Nazionale dei Tumori di Milano. Al fianco del reparto da oltre 50 anni, LILT si \u00e8 subito messa a disposizione in questa emergenza, per aiutare i bambini in arrivo dall\u2019Ucraina con le loro famiglie.\n\nDoniamo cure, supporto psicologico, beni di prima necessit\u00e0 e accoglienza ai bambini malati in fuga dalla guerra e dai bombardamenti.\nGli aiuti per i bambini profughi\nLILT interviene sull'Emergenza in Ucraina con 4 servizi principali, modellati sui bisogni dei bambini e delle famiglie profughe arrivate a Milano e segnalati dai medici dell'Istituto Tumori che li hanno in cura. Servizi in continuit\u00e0 con il nostro operato e la collaborazione storica a supporto dei bambini malati di tumore e del Reparto di Pediatria Oncologica. Gli aiuti verranno destinati a: ospitalit\u00e0, mediazione culturale, assistenza sociale."",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Lega Italiana per la Lotta ai Tumori (LILT)"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Accoglienza ai bambini ucraini malati di tumore"",""url"":""https://www.legatumori.mi.it/emergenza-ucraina/#:~:text=Dona%20un%20aiuto%20immediato%20ai,prima%20necessit%C3%A0%20e%20generi%20alimentari""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: true
+  transport: false
+  healthcare: true
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: false
+offerFromWho: Lega Italiana per la Lotta ai Tumori (LILT)
+title: Accoglienza ai bambini ucraini malati di tumore
+recipients: ''
+description: 'Accoglienza ai bambini profughi in arrivo all''Istituto dei Tumori di
+  Milano dall''Ucraina
+
+  Cresce giorno dopo giorno il numero dei bambini malati di tumore in arrivo a Milano
+  dall’Ucraina con le loro famiglie.
+
+  Grazie al corridoio umanitario decine di bambini sono già riusciti a partire e ora
+  si trovano in cura nella Pediatria oncologica dell’Istituto Nazionale dei Tumori
+  di Milano. Al fianco del reparto da oltre 50 anni, LILT si è subito messa a disposizione
+  in questa emergenza, per aiutare i bambini in arrivo dall’Ucraina con le loro famiglie.
+
+
+  Doniamo cure, supporto psicologico, beni di prima necessità e accoglienza ai bambini
+  malati in fuga dalla guerra e dai bombardamenti.
+
+  Gli aiuti per i bambini profughi
+
+  LILT interviene sull''Emergenza in Ucraina con 4 servizi principali, modellati sui
+  bisogni dei bambini e delle famiglie profughe arrivate a Milano e segnalati dai
+  medici dell''Istituto Tumori che li hanno in cura. Servizi in continuità con il
+  nostro operato e la collaborazione storica a supporto dei bambini malati di tumore
+  e del Reparto di Pediatria Oncologica. Gli aiuti verranno destinati a: ospitalità,
+  mediazione culturale, assistenza sociale.'
+url: https://www.legatumori.mi.it/emergenza-ucraina/#:~:text=Dona%20un%20aiuto%20immediato%20ai,prima%20necessit%C3%A0%20e%20generi%20alimentari
+address:
+  mode: autocomplete
+  address:
+    place_id: 3301015
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 441590516
+    boundingbox:
+    - '45.4729944'
+    - '45.4730944'
+    - '9.2304464'
+    - '9.2305464'
+    lat: '45.4730444'
+    lon: '9.2304964'
+    display_name: Piazzale Gorini, Piazzale Paolo Gorini, Città Studi, Municipio 3,
+      Milano, Lombardia, 20133, Italia
+    class: highway
+    type: bus_stop
+    importance: 0.42099999999999993
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//transport_bus_stop2.p.20.png
+    address:
+      highway: Piazzale Gorini
+      road: Piazzale Paolo Gorini
+      quarter: Città Studi
+      suburb: Municipio 3
+      city: Milano
+      county: Milano
+      ISO3166-2-lvl6: IT-MI
+      state: Lombardia
+      postcode: '20133'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+iAuthorizeTheProcessingOfPersonalSensitiveData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/810,1247057337,2022-05-25 10:14:22,2022-05-24 19:54:18,L'Ucraina e i leader locali dell'UE uniscono le forze per offrire campi estivi a migliaia di bambini,51,10,,,"[""Valid/Accettato"",""News""]",,,"{""Posizione"":""51 10"",""description"":""L'iniziativa nasce dalla collaborazione tra Comitato europeo delle regioni e Associazione delle citt\u00e0 ucraine per organizzare il viaggio e il soggiorno di bambini provenienti dalle comunit\u00e0 locali ucraine pi\u00f9 colpite dalla guerra. Il progetto \u00e8 stato presentato nel corso della sessione plenaria del Comitato europeo delle regioni (CdR), l'assemblea degli enti locali e regionali dell'UE."",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://cor.europa.eu/it/news/Pages/ukraine-summer-camps.aspx"",""location"":{""address"":{""address"":{""place"":""Europa""},""boundingbox"":[""26"",""76"",""-15"",""35""],""class"":""place"",""display_name"":""Europa"",""importance"":0.9207067191883178,""lat"":""51"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10"",""osm_id"":25871341,""osm_type"":""node"",""place_id"":286311057,""type"":""continent""},""mode"":""autocomplete""},""submit"":true,""title"":""L'Ucraina e i leader locali dell'UE uniscono le forze per offrire campi estivi a migliaia di bambini  #centriestivi #campiestivi""}","<pre><yamldata>
+title: 'L''Ucraina e i leader locali dell''UE uniscono le forze per offrire campi
+  estivi a migliaia di bambini  #centriestivi #campiestivi'
+description: L'iniziativa nasce dalla collaborazione tra Comitato europeo delle regioni
+  e Associazione delle città ucraine per organizzare il viaggio e il soggiorno di
+  bambini provenienti dalle comunità locali ucraine più colpite dalla guerra. Il progetto
+  è stato presentato nel corso della sessione plenaria del Comitato europeo delle
+  regioni (CdR), l'assemblea degli enti locali e regionali dell'UE.
+link: https://cor.europa.eu/it/news/Pages/ukraine-summer-camps.aspx
+location:
+  mode: autocomplete
+  address:
+    place_id: 286311057
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 25871341
+    boundingbox:
+    - '26'
+    - '76'
+    - '-15'
+    - '35'
+    lat: '51'
+    lon: '10'
+    display_name: Europa
+    class: place
+    type: continent
+    importance: 0.9207067191883178
+    address:
+      place: Europa
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+iAuthorizeTheProcessingOfPersonalSensitiveData: true
+submit: true
+Posizione: 51 10
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/808,1247040346,2022-05-24 19:42:04,2022-05-24 19:35:49,Spazio Giochi per bambini 0-6 anni #Pesaro,43.9098114,12.9131228,Marche,Pesaro e Urbino,"[""Valid/Accettato"",""Services"",""translation"",""psychologicalSupport"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-57"",""city"":""Pesaro"",""country"":""Italia"",""country_code"":""it"",""county"":""Pesaro e Urbino"",""postcode"":""61121"",""state"":""Marche""},""boundingbox"":[""43.7498114"",""44.0698114"",""12.7531228"",""13.0731228""],""class"":""place"",""display_name"":""Pesaro, Pesaro e Urbino, Marche, 61121, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons/poi_place_city.p.20.png"",""importance"":0.6668364113521745,""lat"":""43.9098114"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.9131228"",""osm_id"":266513166,""osm_type"":""node"",""place_id"":536705,""type"":""city""},""mode"":""autocomplete""},""description"":""Due volte alla settimana, il luned\u00ec e il venerd\u00ec, dalle 9.30 alle 12.30, viene aperto lo Spazio Giochi per bambini 0-6 anni e i loro genitori. Previste attivit\u00e0 ludiche, grafiche ed espressive insieme agli educatori del Centro e alla mediatrice culturale linguistica che dar\u00e0 un supporto importante per rendere l\u2019attivit\u00e0 pi\u00f9 accessibile. Inoltre il gioved\u00ec mattina, dalle 10 alle 12, \u201cUn caff\u00e8 al Centro\u201d, un momento pensato per far giocare e socializzare le famiglie che potranno anche conversare con una psicologa esperta in et\u00e0 evolutiva presente, dalle 10 alle 12, durante la colazione offerta dal Centro per le Famiglie."",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Pesaro"",""recipients"":""tutti i nuclei familiari di Pesaro, anche le famiglie arrivate dall\u2019Ucraina"",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Spazio Giochi per bambini 0-6 anni #Pesaro"",""url"":""http://www.comune.pesaro.pu.it/novita-in-comune/dettaglio/news/il-centro-per-le-famiglie-abbraccia-anche-lucraina-da-lunedi-nuove-proposte-giochi-incontri/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=c76bc6b2b5ed44e834f27edaee959a2b""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -158,84 +375,6 @@ address:
       ISO3166-2-lvl6: IT-MO
       state: Emilia-Romagna
       ISO3166-2-lvl4: IT-45
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-iAuthorizeTheProcessingOfPersonalSensitiveData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/805,1246249846,2022-05-24 09:45:13,2022-05-24 09:17:56,"Lega Italia Lotta ai Tumori offre ospitalità, mediazione e assistenza sociale ai bambini ucraini malati di tumore ",45.4730444,9.2304964,Lombardia,Milano,"[""Valid/Accettato"",""Services"",""hospitality"",""healthcare"",""Children""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""highway"":""Piazzale Gorini"",""postcode"":""20133"",""quarter"":""Citt\u00e0 Studi"",""road"":""Piazzale Paolo Gorini"",""state"":""Lombardia"",""suburb"":""Municipio 3""},""boundingbox"":[""45.4729944"",""45.4730944"",""9.2304464"",""9.2305464""],""class"":""highway"",""display_name"":""Piazzale Gorini, Piazzale Paolo Gorini, Citt\u00e0 Studi, Municipio 3, Milano, Lombardia, 20133, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//transport_bus_stop2.p.20.png"",""importance"":0.42099999999999993,""lat"":""45.4730444"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.2304964"",""osm_id"":441590516,""osm_type"":""node"",""place_id"":3301015,""type"":""bus_stop""},""mode"":""autocomplete""},""description"":""Accoglienza ai bambini profughi in arrivo all'Istituto dei Tumori di Milano dall'Ucraina\nCresce giorno dopo giorno il numero dei bambini malati di tumore in arrivo a Milano dall\u2019Ucraina con le loro famiglie.\nGrazie al corridoio umanitario decine di bambini sono gi\u00e0 riusciti a partire e ora si trovano in cura nella Pediatria oncologica dell\u2019Istituto Nazionale dei Tumori di Milano. Al fianco del reparto da oltre 50 anni, LILT si \u00e8 subito messa a disposizione in questa emergenza, per aiutare i bambini in arrivo dall\u2019Ucraina con le loro famiglie.\n\nDoniamo cure, supporto psicologico, beni di prima necessit\u00e0 e accoglienza ai bambini malati in fuga dalla guerra e dai bombardamenti.\nGli aiuti per i bambini profughi\nLILT interviene sull'Emergenza in Ucraina con 4 servizi principali, modellati sui bisogni dei bambini e delle famiglie profughe arrivate a Milano e segnalati dai medici dell'Istituto Tumori che li hanno in cura. Servizi in continuit\u00e0 con il nostro operato e la collaborazione storica a supporto dei bambini malati di tumore e del Reparto di Pediatria Oncologica. Gli aiuti verranno destinati a: ospitalit\u00e0, mediazione culturale, assistenza sociale."",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Lega Italiana per la Lotta ai Tumori (LILT)"",""recipients"":"""",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":false,""healthcare"":true,""hospitality"":true,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Accoglienza ai bambini ucraini malati di tumore"",""url"":""https://www.legatumori.mi.it/emergenza-ucraina/#:~:text=Dona%20un%20aiuto%20immediato%20ai,prima%20necessit%C3%A0%20e%20generi%20alimentari""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: true
-  transport: false
-  healthcare: true
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: true
-  disability: false
-  women: false
-  education: false
-offerFromWho: Lega Italiana per la Lotta ai Tumori (LILT)
-title: Accoglienza ai bambini ucraini malati di tumore
-recipients: ''
-description: 'Accoglienza ai bambini profughi in arrivo all''Istituto dei Tumori di
-  Milano dall''Ucraina
-
-  Cresce giorno dopo giorno il numero dei bambini malati di tumore in arrivo a Milano
-  dall’Ucraina con le loro famiglie.
-
-  Grazie al corridoio umanitario decine di bambini sono già riusciti a partire e ora
-  si trovano in cura nella Pediatria oncologica dell’Istituto Nazionale dei Tumori
-  di Milano. Al fianco del reparto da oltre 50 anni, LILT si è subito messa a disposizione
-  in questa emergenza, per aiutare i bambini in arrivo dall’Ucraina con le loro famiglie.
-
-
-  Doniamo cure, supporto psicologico, beni di prima necessità e accoglienza ai bambini
-  malati in fuga dalla guerra e dai bombardamenti.
-
-  Gli aiuti per i bambini profughi
-
-  LILT interviene sull''Emergenza in Ucraina con 4 servizi principali, modellati sui
-  bisogni dei bambini e delle famiglie profughe arrivate a Milano e segnalati dai
-  medici dell''Istituto Tumori che li hanno in cura. Servizi in continuità con il
-  nostro operato e la collaborazione storica a supporto dei bambini malati di tumore
-  e del Reparto di Pediatria Oncologica. Gli aiuti verranno destinati a: ospitalità,
-  mediazione culturale, assistenza sociale.'
-url: https://www.legatumori.mi.it/emergenza-ucraina/#:~:text=Dona%20un%20aiuto%20immediato%20ai,prima%20necessit%C3%A0%20e%20generi%20alimentari
-address:
-  mode: autocomplete
-  address:
-    place_id: 3301015
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 441590516
-    boundingbox:
-    - '45.4729944'
-    - '45.4730944'
-    - '9.2304464'
-    - '9.2305464'
-    lat: '45.4730444'
-    lon: '9.2304964'
-    display_name: Piazzale Gorini, Piazzale Paolo Gorini, Città Studi, Municipio 3,
-      Milano, Lombardia, 20133, Italia
-    class: highway
-    type: bus_stop
-    importance: 0.42099999999999993
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//transport_bus_stop2.p.20.png
-    address:
-      highway: Piazzale Gorini
-      road: Piazzale Paolo Gorini
-      quarter: Città Studi
-      suburb: Municipio 3
-      city: Milano
-      county: Milano
-      ISO3166-2-lvl6: IT-MI
-      state: Lombardia
-      postcode: '20133'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
