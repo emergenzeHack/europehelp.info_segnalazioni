@@ -1,4 +1,60 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/818,1247135726,2022-05-27 10:11:28,2022-05-24 21:17:15,"Associazione ""Sport senza frontiere"" offre sport di prima accoglienza #centriestivi #campiestivi #Roma #Napoli #Milano",41.8933203,12.4829321,Lazio,Roma,"[""Valid/Accettato"",""Services"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-RM"",""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"",""importance"":0.8896107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il progetto prevede l\u2019inserimento dei beneficiari in programmi socio-educativi a vocazione sportiva che si articolano in tre possibili interventi:\n1 - Avviamento all\u2019attivit\u00e0 sportiva e tutoraggio\n2 - Giornate di sport a cura di SSF\n3 - Inserimento dei beneficiari nei Centri estivi targati SSF \nAd ogni minore viene assegnato un Tutor che facilita l\u2019inserimento sportivo e lo accompagna nel corso di tutto il programma, diventando un riferimento di fiducia per il minore e un intermediario con la famiglia."",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione sport senza frontiere"",""recipients"":""Bambini e bambine ucraine"",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Sport di prima accoglienza #centriestivi #campiestivi #Roma #Napoli #Milano"",""url"":""https://www.sportsenzafrontiere.it/progetti/emergenza-ucraina/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: true
+offerFromWho: Associazione sport senza frontiere
+title: 'Sport di prima accoglienza #centriestivi #campiestivi #Roma #Napoli #Milano'
+recipients: Bambini e bambine ucraine
+description: ""Il progetto prevede l’inserimento dei beneficiari in programmi socio-educativi\
+  \ a vocazione sportiva che si articolano in tre possibili interventi:\n1 - Avviamento\
+  \ all’attività sportiva e tutoraggio\n2 - Giornate di sport a cura di SSF\n3 - Inserimento\
+  \ dei beneficiari nei Centri estivi targati SSF \nAd ogni minore viene assegnato\
+  \ un Tutor che facilita l’inserimento sportivo e lo accompagna nel corso di tutto\
+  \ il programma, diventando un riferimento di fiducia per il minore e un intermediario\
+  \ con la famiglia.""
+url: https://www.sportsenzafrontiere.it/progetti/emergenza-ucraina/
+address:
+  mode: autocomplete
+  address:
+    place_id: 283767136
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 41485
+    boundingbox:
+    - '41.6556417'
+    - '42.1410285'
+    - '12.2344669'
+    - '12.8557603'
+    lat: '41.8933203'
+    lon: '12.4829321'
+    display_name: Roma, Roma Capitale, Lazio, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8896107180689524
+    icon: https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Roma
+      county: Roma Capitale
+      ISO3166-2-lvl6: IT-RM
+      state: Lazio
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+iAuthorizeTheProcessingOfPersonalSensitiveData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/817,1247129897,2022-05-27 10:06:55,2022-05-24 21:10:32,Associazione Psicoatleti promuove il centro estivo Fuoriclasse #unionebassareggiana #centriestivi #campiestivi,44.90187,10.554287,Emilia-Romagna,Reggio nell'Emilia,"[""Valid/Accettato"",""Services"",""fundraising"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""Posizione"":""44.90187 10.554287"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""L'associazione sportiva dilettantistica Psicoatleti, insieme alla Unione Bassa Reggiana e alle associazioni sportive locali, promuove l'iniziativa Fuoriclasse campi estivi per regalare a ciascun rifugiato ucraino frequentante i centri estivi un pallone e una divisa sportiva composta da maglia, calzoncini e pettorina."",""email"":"""",""heading"":"""",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":""https://www.ideaginger.it/progetti/fuoriclasse-sport-e-inclusione-per-i-bimbi-ucraini.html"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""country"":""Italia"",""country_code"":""it"",""county"":""Reggio nell'Emilia"",""municipality"":""Bassa Reggiana"",""postcode"":""42022"",""state"":""Emilia-Romagna"",""village"":""Boretto""},""boundingbox"":[""44.8768864"",""44.9170439"",""10.5267221"",""10.5962528""],""class"":""boundary"",""display_name"":""Boretto, Bassa Reggiana, Reggio nell'Emilia, Emilia-Romagna, 42022, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"",""importance"":0.5639891500542612,""lat"":""44.90187"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.554287"",""osm_id"":43760,""osm_type"":""relation"",""place_id"":284682450,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Associazione Psicoatleti""}","<pre><yamldata>
 title: Associazione Psicoatleti
 description: L'associazione sportiva dilettantistica Psicoatleti, insieme alla Unione
@@ -415,62 +471,6 @@ address:
       ISO3166-2-lvl6: IT-MI
       state: Lombardia
       postcode: '20146'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-iAuthorizeTheProcessingOfPersonalSensitiveData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/818,1247135726,2022-05-25 10:34:22,2022-05-24 21:17:15,"Associazione sport senza frontiere, offre sport di prima accoglienza #centriestivi #campiestivi #Roma #Napoli #Milano",41.8933203,12.4829321,Lazio,Roma,"[""Valid/Accettato"",""Services"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-RM"",""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"",""importance"":0.8896107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il progetto prevede l\u2019inserimento dei beneficiari in programmi socio-educativi a vocazione sportiva che si articolano in tre possibili interventi:\n1 - Avviamento all\u2019attivit\u00e0 sportiva e tutoraggio\n2 - Giornate di sport a cura di SSF\n3 - Inserimento dei beneficiari nei Centri estivi targati SSF \nAd ogni minore viene assegnato un Tutor che facilita l\u2019inserimento sportivo e lo accompagna nel corso di tutto il programma, diventando un riferimento di fiducia per il minore e un intermediario con la famiglia."",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione sport senza frontiere"",""recipients"":""Bambini e bambine ucraine"",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Sport di prima accoglienza #centriestivi #campiestivi #Roma #Napoli #Milano"",""url"":""https://www.sportsenzafrontiere.it/progetti/emergenza-ucraina/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: true
-  disability: false
-  women: false
-  education: true
-offerFromWho: Associazione sport senza frontiere
-title: 'Sport di prima accoglienza #centriestivi #campiestivi #Roma #Napoli #Milano'
-recipients: Bambini e bambine ucraine
-description: ""Il progetto prevede l’inserimento dei beneficiari in programmi socio-educativi\
-  \ a vocazione sportiva che si articolano in tre possibili interventi:\n1 - Avviamento\
-  \ all’attività sportiva e tutoraggio\n2 - Giornate di sport a cura di SSF\n3 - Inserimento\
-  \ dei beneficiari nei Centri estivi targati SSF \nAd ogni minore viene assegnato\
-  \ un Tutor che facilita l’inserimento sportivo e lo accompagna nel corso di tutto\
-  \ il programma, diventando un riferimento di fiducia per il minore e un intermediario\
-  \ con la famiglia.""
-url: https://www.sportsenzafrontiere.it/progetti/emergenza-ucraina/
-address:
-  mode: autocomplete
-  address:
-    place_id: 283767136
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 41485
-    boundingbox:
-    - '41.6556417'
-    - '42.1410285'
-    - '12.2344669'
-    - '12.8557603'
-    lat: '41.8933203'
-    lon: '12.4829321'
-    display_name: Roma, Roma Capitale, Lazio, Italia
-    class: boundary
-    type: administrative
-    importance: 0.8896107180689524
-    icon: https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png
-    address:
-      city: Roma
-      county: Roma Capitale
-      ISO3166-2-lvl6: IT-RM
-      state: Lazio
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
