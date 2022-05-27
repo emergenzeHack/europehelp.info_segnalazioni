@@ -1,5 +1,43 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/818,1247135726,2022-05-27 10:11:28,2022-05-24 21:17:15,"Associazione ""Sport senza frontiere"" offre sport di prima accoglienza #centriestivi #campiestivi #Roma #Napoli #Milano",41.8933203,12.4829321,Lazio,Roma,"[""Valid/Accettato"",""Services"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-RM"",""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"",""importance"":0.8896107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il progetto prevede l\u2019inserimento dei beneficiari in programmi socio-educativi a vocazione sportiva che si articolano in tre possibili interventi:\n1 - Avviamento all\u2019attivit\u00e0 sportiva e tutoraggio\n2 - Giornate di sport a cura di SSF\n3 - Inserimento dei beneficiari nei Centri estivi targati SSF \nAd ogni minore viene assegnato un Tutor che facilita l\u2019inserimento sportivo e lo accompagna nel corso di tutto il programma, diventando un riferimento di fiducia per il minore e un intermediario con la famiglia."",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione sport senza frontiere"",""recipients"":""Bambini e bambine ucraine"",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Sport di prima accoglienza #centriestivi #campiestivi #Roma #Napoli #Milano"",""url"":""https://www.sportsenzafrontiere.it/progetti/emergenza-ucraina/""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/816,1247118123,2022-05-27 10:14:16,2022-05-24 20:57:35,Campo Scout nautico nelle Eolie per ragazzi profughi #Eolie #campoestivo #camposcout,38.48137,14.939662403530985,Sicilia,Messina,"[""Valid/Accettato"",""News"",""Services"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""Posizione"":""38.48137 14.939662403530985"",""description"":""Gli Scout delle Eolie in collaborazione con le squadre di Reggio Calabria e Albano si attivano nell'accoglienza dei profughi dall'Ucraina: a settembre ci sar\u00e0 il primo campo estivo Scout delle Isole Eolie organizzato dai ragazzi di Salina e Lipari."",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.ansa.it/sicilia/notizie/2022/05/01/ucrainacampo-scout-nautico-nelle-eolie-per-ragazzi-profughi_d8402bab-1c83-454e-993a-fc4433bc4b93.html"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-82"",""country"":""Italia"",""country_code"":""it"",""county"":""Messina"",""place"":""Aeolian Islands"",""state"":""Sicilia""},""boundingbox"":[""38.36668"",""38.8176638"",""14.3390351"",""15.2526751""],""class"":""place"",""display_name"":""Aeolian Islands, Messina, Sicilia, Italia"",""importance"":0.4034056042982853,""lat"":""38.48137"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.939662403530985"",""osm_id"":3868740,""osm_type"":""relation"",""place_id"":284874996,""type"":""archipelago""},""mode"":""autocomplete""},""submit"":true,""title"":""Campo Scout nautico nelle Eolie per ragazzi profughi #Eolie #campoestivo #camposcout""}","<pre><yamldata>
+title: 'Campo Scout nautico nelle Eolie per ragazzi profughi #Eolie #campoestivo #camposcout'
+description: 'Gli Scout delle Eolie in collaborazione con le squadre di Reggio Calabria
+  e Albano si attivano nell''accoglienza dei profughi dall''Ucraina: a settembre ci
+  sarà il primo campo estivo Scout delle Isole Eolie organizzato dai ragazzi di Salina
+  e Lipari.'
+link: https://www.ansa.it/sicilia/notizie/2022/05/01/ucrainacampo-scout-nautico-nelle-eolie-per-ragazzi-profughi_d8402bab-1c83-454e-993a-fc4433bc4b93.html
+location:
+  mode: autocomplete
+  address:
+    place_id: 284874996
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 3868740
+    boundingbox:
+    - '38.36668'
+    - '38.8176638'
+    - '14.3390351'
+    - '15.2526751'
+    lat: '38.48137'
+    lon: '14.939662403530985'
+    display_name: Aeolian Islands, Messina, Sicilia, Italia
+    class: place
+    type: archipelago
+    importance: 0.4034056042982853
+    address:
+      place: Aeolian Islands
+      county: Messina
+      state: Sicilia
+      ISO3166-2-lvl4: IT-82
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+iAuthorizeTheProcessingOfPersonalSensitiveData: true
+submit: true
+Posizione: 38.48137 14.939662403530985
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/818,1247135726,2022-05-27 10:13:32,2022-05-24 21:17:15,"Associazione ""Sport senza frontiere"" offre sport di prima accoglienza #centriestivi #campiestivi #Roma #Napoli #Milano",41.8933203,12.4829321,Lazio,Roma,"[""Valid/Accettato"",""Services"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-RM"",""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"",""importance"":0.8896107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il progetto prevede l\u2019inserimento dei beneficiari in programmi socio-educativi a vocazione sportiva che si articolano in tre possibili interventi:\n1 - Avviamento all\u2019attivit\u00e0 sportiva e tutoraggio\n2 - Giornate di sport a cura di SSF\n3 - Inserimento dei beneficiari nei Centri estivi targati SSF \nAd ogni minore viene assegnato un Tutor che facilita l\u2019inserimento sportivo e lo accompagna nel corso di tutto il programma, diventando un riferimento di fiducia per il minore e un intermediario con la famiglia."",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione sport senza frontiere"",""recipients"":""Bambini e bambine ucraine"",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Sport di prima accoglienza #centriestivi #campiestivi #Roma #Napoli #Milano"",""url"":""https://www.sportsenzafrontiere.it/progetti/emergenza-ucraina/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
   hospitality: false
@@ -102,44 +140,6 @@ iAuthorizeTheProcessingOfPersonalSensitiveData: true
 label: fundraising
 submit: true
 Posizione: 44.90187 10.554287
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/816,1247118123,2022-05-27 10:05:08,2022-05-24 20:57:35,Campo Scout nautico nelle Eolie per ragazzi profughi #Eolie #campoestivo #camposcout,38.48137,14.939662403530985,Sicilia,Messina,"[""Valid/Accettato"",""News"",""Services"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""Posizione"":""38.48137 14.939662403530985"",""description"":""Gli Scout delle Eolie in collaborazione con le squadre di Reggio Calabria e Albano si attivano nell'accoglienza dei profughi dall'Ucraina: a settembre ci sar\u00e0 il primo campo estivo Scout delle Isole Eolie organizzato dai ragazzi di Salina e Lipari."",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.ansa.it/sicilia/notizie/2022/05/01/ucrainacampo-scout-nautico-nelle-eolie-per-ragazzi-profughi_d8402bab-1c83-454e-993a-fc4433bc4b93.html"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-82"",""country"":""Italia"",""country_code"":""it"",""county"":""Messina"",""place"":""Aeolian Islands"",""state"":""Sicilia""},""boundingbox"":[""38.36668"",""38.8176638"",""14.3390351"",""15.2526751""],""class"":""place"",""display_name"":""Aeolian Islands, Messina, Sicilia, Italia"",""importance"":0.4034056042982853,""lat"":""38.48137"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""14.939662403530985"",""osm_id"":3868740,""osm_type"":""relation"",""place_id"":284874996,""type"":""archipelago""},""mode"":""autocomplete""},""submit"":true,""title"":""Campo Scout nautico nelle Eolie per ragazzi profughi #Eolie #campoestivo #camposcout""}","<pre><yamldata>
-title: 'Campo Scout nautico nelle Eolie per ragazzi profughi #Eolie #campoestivo #camposcout'
-description: 'Gli Scout delle Eolie in collaborazione con le squadre di Reggio Calabria
-  e Albano si attivano nell''accoglienza dei profughi dall''Ucraina: a settembre ci
-  sarà il primo campo estivo Scout delle Isole Eolie organizzato dai ragazzi di Salina
-  e Lipari.'
-link: https://www.ansa.it/sicilia/notizie/2022/05/01/ucrainacampo-scout-nautico-nelle-eolie-per-ragazzi-profughi_d8402bab-1c83-454e-993a-fc4433bc4b93.html
-location:
-  mode: autocomplete
-  address:
-    place_id: 284874996
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 3868740
-    boundingbox:
-    - '38.36668'
-    - '38.8176638'
-    - '14.3390351'
-    - '15.2526751'
-    lat: '38.48137'
-    lon: '14.939662403530985'
-    display_name: Aeolian Islands, Messina, Sicilia, Italia
-    class: place
-    type: archipelago
-    importance: 0.4034056042982853
-    address:
-      place: Aeolian Islands
-      county: Messina
-      state: Sicilia
-      ISO3166-2-lvl4: IT-82
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-iAuthorizeTheProcessingOfPersonalSensitiveData: true
-submit: true
-Posizione: 38.48137 14.939662403530985
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/815,1247112798,2022-05-26 15:47:08,2022-05-24 20:52:08,#centriestivi per piccoli rifugiati ucraini nel Lodigiano #borgettodiborbera,44.73726755,8.96173180009683,Piemonte,Alessandria,"[""Valid/Accettato"",""News"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""Posizione"":""44.73726755 8.96173180009683"",""description"":""Centri estivi e corsi di lingua italiana. Sono i bisogni principali dei cittadini ucraini giunti nel nostro territorio, rilevati dall\u2019Ufficio di piano di Lodi. Per soddisfare queste e altre richieste, scender\u00e0 presto in campo anche il Fondo Emergenza Ucraina, promosso da Fondazione Comunitaria di Lodi e Caritas."",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.ilcittadino.it/stories/Cronaca/solidarieta-centri-estivi-anche-per-i-piccoli-rifugiati-ucraini-nel-lodigia_76147_96/"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""ISO3166-2-lvl6"":""IT-AL"",""city"":""Borghetto di Borbera"",""country"":""Italia"",""country_code"":""it"",""county"":""Alessandria"",""state"":""Piemonte""},""boundingbox"":[""44.7015699"",""44.7730031"",""8.9057502"",""9.025211""],""class"":""boundary"",""display_name"":""Borghetto di Borbera, Alessandria, Piemonte, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"",""importance"":0.8281881450386968,""lat"":""44.73726755"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.96173180009683"",""osm_id"":43522,""osm_type"":""relation"",""place_id"":283909923,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""#centriestivi per piccoli rifugiati ucraini nel Lodigiano #borgettodiborbera""}","<pre><yamldata>
 title: '#centriestivi per piccoli rifugiati ucraini nel Lodigiano #borgettodiborbera'
