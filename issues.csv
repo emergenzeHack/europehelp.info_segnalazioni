@@ -1,4 +1,42 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/830,1251910130,2022-06-03 09:19:31,2022-05-29 14:53:09,Assistenza legale e rilascio documenti da parte del Consolato Generale di Ucraina a #Napoli,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address1"":""Via G. Porzio, 4 \u2013 Centro Direzionale Isola B3, int. 5-6   "",""address2"":"""",""city"":""Napoli  "",""country"":""Italia"",""state"":"""",""zip"":""80143 ""},""mode"":""manual""},""description"":""Il Consolato Generale di Ucraina a Napoli offre gratuitamente consulenze sui diritti legali dei rifugiati nel territorio della Repubblica Italiana, nonch\u00e9 il rilascio di documenti d'identit\u00e0 e altri documenti.\nDal 07 giugno 2022 sar\u00e0 possibile la prenotazione elettronica per i servizi consolari."",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Consolato Generale di Ucraina a Napoli"",""recipients"":""Rifugiati temporanei ucraini"",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Assistenza legale e rilascio documenti da parte del Consolato Generale di Ucraina a #Napoli"",""url"":""https://www.facebook.com/ukrconsnapoli/posts/319277813720047?__cft__[0]=AZUeGcz0rqsVNs3-d4wTTgAs9C8jttagpyFb0POuGLwV5FAxWoMdTw7LYDej2LUrMk3UgtjMcLKnOXM6RFBfKbnSVAj0rGqbTcNZLfnAFd9lcOz0br8lXS2_ygEyD_KndY9f2LBonDuyzjzr-vkPcanJ&__tn__=%2CO%2CP-R""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Consolato Generale di Ucraina a Napoli
+title: 'Assistenza legale e rilascio documenti da parte del Consolato Generale di
+  Ucraina a #Napoli'
+recipients: Rifugiati temporanei ucraini
+description: 'Il Consolato Generale di Ucraina a Napoli offre gratuitamente consulenze
+  sui diritti legali dei rifugiati nel territorio della Repubblica Italiana, nonché
+  il rilascio di documenti d''identità e altri documenti.
+
+  Dal 07 giugno 2022 sarà possibile la prenotazione elettronica per i servizi consolari.'
+url: https://www.facebook.com/ukrconsnapoli/posts/319277813720047?__cft__[0]=AZUeGcz0rqsVNs3-d4wTTgAs9C8jttagpyFb0POuGLwV5FAxWoMdTw7LYDej2LUrMk3UgtjMcLKnOXM6RFBfKbnSVAj0rGqbTcNZLfnAFd9lcOz0br8lXS2_ygEyD_KndY9f2LBonDuyzjzr-vkPcanJ&__tn__=%2CO%2CP-R
+address:
+  mode: manual
+  address:
+    address1: 'Via G. Porzio, 4 – Centro Direzionale Isola B3, int. 5-6   '
+    address2: ''
+    city: 'Napoli  '
+    state: ''
+    country: Italia
+    zip: '80143 '
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+iAuthorizeTheProcessingOfPersonalSensitiveData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/829,1251907731,2022-05-31 17:35:00,2022-05-29 14:42:48,Protezione civile: al via l'erogazione del contributo per gli ucraini,42.6384261,12.674297,Umbria,Terni,"[""Valid/Accettato"",""News"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""42.6384261 12.674297"",""description"":""Dal 27 maggio i cittadini ucraini che hanno diritto al contributo di sostentamento per i mesi di marzo e aprile, che hanno presentato domanda entro il 9 maggio e per i quali il Dipartimento della Protezione civile ha completato tutti i controlli, potranno recarsi \u2013 solo dopo aver ricevuto notifica tramite sms \u2013 presso un qualsiasi ufficio di Poste Italiane presente sul nostro territorio per riscuotere l\u2019importo."",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.protezionecivile.gov.it/it/comunicato-stampa/protezione-civile-al-lerogazione-del-contributo-gli-ucraini-0"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it""},""boundingbox"":[""35.2889616"",""47.0921462"",""6.6272658"",""18.7844746""],""class"":""boundary"",""display_name"":""Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"",""importance"":0.9931019031440554,""lat"":""42.6384261"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.674297"",""osm_id"":365331,""osm_type"":""relation"",""place_id"":284007015,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Protezione civile: al via l'erogazione del contributo per gli ucraini""}","<pre><yamldata>
 title: 'Protezione civile: al via l''erogazione del contributo per gli ucraini'
 description: Dal 27 maggio i cittadini ucraini che hanno diritto al contributo di
@@ -141,44 +179,6 @@ address:
     address:
       country: Italia
       country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-iAuthorizeTheProcessingOfPersonalSensitiveData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/830,1251910130,2022-05-31 15:14:19,2022-05-29 14:53:09,Assistenza legale e rilascio documenti da parte del Consolato Generale di Ucraina a #Napoli,,,,,"[""Valid/Accettato"",""Services"",""Legal""]",,,"{""address"":{""address"":{""address1"":""Via G. Porzio, 4 \u2013 Centro Direzionale Isola B3, int. 5-6   "",""address2"":"""",""city"":""Napoli  "",""country"":""Italia"",""state"":"""",""zip"":""80143 ""},""mode"":""manual""},""description"":""Il Consolato Generale di Ucraina a Napoli offre gratuitamente consulenze sui diritti legali dei rifugiati nel territorio della Repubblica Italiana, nonch\u00e9 il rilascio di documenti d'identit\u00e0 e altri documenti.\nDal 07 giugno 2022 sar\u00e0 possibile la prenotazione elettronica per i servizi consolari."",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Consolato Generale di Ucraina a Napoli"",""recipients"":""Rifugiati temporanei ucraini"",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Assistenza legale e rilascio documenti da parte del Consolato Generale di Ucraina a #Napoli"",""url"":""https://www.facebook.com/ukrconsnapoli/posts/319277813720047?__cft__[0]=AZUeGcz0rqsVNs3-d4wTTgAs9C8jttagpyFb0POuGLwV5FAxWoMdTw7LYDej2LUrMk3UgtjMcLKnOXM6RFBfKbnSVAj0rGqbTcNZLfnAFd9lcOz0br8lXS2_ygEyD_KndY9f2LBonDuyzjzr-vkPcanJ&__tn__=%2CO%2CP-R""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: true
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: Consolato Generale di Ucraina a Napoli
-title: 'Assistenza legale e rilascio documenti da parte del Consolato Generale di
-  Ucraina a #Napoli'
-recipients: Rifugiati temporanei ucraini
-description: 'Il Consolato Generale di Ucraina a Napoli offre gratuitamente consulenze
-  sui diritti legali dei rifugiati nel territorio della Repubblica Italiana, nonché
-  il rilascio di documenti d''identità e altri documenti.
-
-  Dal 07 giugno 2022 sarà possibile la prenotazione elettronica per i servizi consolari.'
-url: https://www.facebook.com/ukrconsnapoli/posts/319277813720047?__cft__[0]=AZUeGcz0rqsVNs3-d4wTTgAs9C8jttagpyFb0POuGLwV5FAxWoMdTw7LYDej2LUrMk3UgtjMcLKnOXM6RFBfKbnSVAj0rGqbTcNZLfnAFd9lcOz0br8lXS2_ygEyD_KndY9f2LBonDuyzjzr-vkPcanJ&__tn__=%2CO%2CP-R
-address:
-  mode: manual
-  address:
-    address1: 'Via G. Porzio, 4 – Centro Direzionale Isola B3, int. 5-6   '
-    address2: ''
-    city: 'Napoli  '
-    state: ''
-    country: Italia
-    zip: '80143 '
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 iAuthorizeTheProcessingOfPersonalSensitiveData: true
 label: services
