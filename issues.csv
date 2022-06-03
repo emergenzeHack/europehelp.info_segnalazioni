@@ -1,56 +1,5 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/831,1252258521,2022-06-03 09:25:39,2022-05-30 06:31:03,Il Centro Italiano Aiuti all'Infanzia di #Milano attiva sportello #sostegnopsicologico gratuito,42.6384261,12.674297,Umbria,Terni,"[""Valid/Accettato"",""Services"",""psychologicalSupport""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it""},""boundingbox"":[""35.2889616"",""47.0921462"",""6.6272658"",""18.7844746""],""class"":""boundary"",""display_name"":""Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"",""importance"":0.9931019031440554,""lat"":""42.6384261"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.674297"",""osm_id"":365331,""osm_type"":""relation"",""place_id"":284007015,""type"":""administrative""},""mode"":""autocomplete""},""description"":""CIAIPE, il Centro Psicologico ed Educativo di #CIAI, ha attivato uno Sportello gratuito di #sostegnopsicologico con la collaborazione di specialisti e mediatori linguistici, come spiega qui la psicologa e psicoterapeuta Giovanna Beck.\nContatti Sportello: 02 8484 4448 - ciaipe@ciai.it"",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""CIAI"",""recipients"":"""",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":true,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Sportello sostegno psicologico"",""url"":null}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: true
-  Children: false
-  disability: false
-  women: false
-  education: false
-offerFromWho: CIAI
-title: Sportello sostegno psicologico
-recipients: ''
-description: 'CIAIPE, il Centro Psicologico ed Educativo di #CIAI, ha attivato uno
-  Sportello gratuito di #sostegnopsicologico con la collaborazione di specialisti
-  e mediatori linguistici, come spiega qui la psicologa e psicoterapeuta Giovanna
-  Beck.
-
-  Contatti Sportello: 02 8484 4448 - ciaipe@ciai.it'
-url: 
-address:
-  mode: autocomplete
-  address:
-    place_id: 284007015
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 365331
-    boundingbox:
-    - '35.2889616'
-    - '47.0921462'
-    - '6.6272658'
-    - '18.7844746'
-    lat: '42.6384261'
-    lon: '12.674297'
-    display_name: Italia
-    class: boundary
-    type: administrative
-    importance: 0.9931019031440554
-    icon: https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png
-    address:
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-iAuthorizeTheProcessingOfPersonalSensitiveData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/830,1251910130,2022-06-03 09:19:31,2022-05-29 14:53:09,Assistenza legale e rilascio documenti da parte del Consolato Generale di Ucraina a #Napoli,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address1"":""Via G. Porzio, 4 \u2013 Centro Direzionale Isola B3, int. 5-6   "",""address2"":"""",""city"":""Napoli  "",""country"":""Italia"",""state"":"""",""zip"":""80143 ""},""mode"":""manual""},""description"":""Il Consolato Generale di Ucraina a Napoli offre gratuitamente consulenze sui diritti legali dei rifugiati nel territorio della Repubblica Italiana, nonch\u00e9 il rilascio di documenti d'identit\u00e0 e altri documenti.\nDal 07 giugno 2022 sar\u00e0 possibile la prenotazione elettronica per i servizi consolari."",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Consolato Generale di Ucraina a Napoli"",""recipients"":""Rifugiati temporanei ucraini"",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Assistenza legale e rilascio documenti da parte del Consolato Generale di Ucraina a #Napoli"",""url"":""https://www.facebook.com/ukrconsnapoli/posts/319277813720047?__cft__[0]=AZUeGcz0rqsVNs3-d4wTTgAs9C8jttagpyFb0POuGLwV5FAxWoMdTw7LYDej2LUrMk3UgtjMcLKnOXM6RFBfKbnSVAj0rGqbTcNZLfnAFd9lcOz0br8lXS2_ygEyD_KndY9f2LBonDuyzjzr-vkPcanJ&__tn__=%2CO%2CP-R""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/830,1251910130,2022-06-03 09:31:46,2022-05-29 14:53:09,Assistenza legale e rilascio documenti da parte del Consolato Generale di Ucraina a #Napoli,,,,,"[""Valid/Accettato"",""Services"",""Legal"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address1"":""Via G. Porzio, 4 \u2013 Centro Direzionale Isola B3, int. 5-6   "",""address2"":"""",""city"":""Napoli  "",""country"":""Italia"",""state"":"""",""zip"":""80143 ""},""mode"":""manual""},""description"":""Il Consolato Generale di Ucraina a Napoli offre gratuitamente consulenze sui diritti legali dei rifugiati nel territorio della Repubblica Italiana, nonch\u00e9 il rilascio di documenti d'identit\u00e0 e altri documenti. Dal 07 giugno 2022 sar\u00e0 possibile la prenotazione elettronica per i servizi consolari."",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Consolato Generale di Ucraina a Napoli"",""recipients"":""Rifugiati temporanei ucraini"",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Assistenza legale e rilascio documenti da parte del Consolato Generale di Ucraina a #Napoli"",""url"":""https://www.facebook.com/ukrconsnapoli/posts/319277813720047?__cft__[0]=AZUeGcz0rqsVNs3-d4wTTgAs9C8jttagpyFb0POuGLwV5FAxWoMdTw7LYDej2LUrMk3UgtjMcLKnOXM6RFBfKbnSVAj0rGqbTcNZLfnAFd9lcOz0br8lXS2_ygEyD_KndY9f2LBonDuyzjzr-vkPcanJ&__tn__=%2CO%2CP-R""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
   hospitality: false
@@ -68,10 +17,7 @@ offerFromWho: Consolato Generale di Ucraina a Napoli
 title: 'Assistenza legale e rilascio documenti da parte del Consolato Generale di
   Ucraina a #Napoli'
 recipients: Rifugiati temporanei ucraini
-description: 'Il Consolato Generale di Ucraina a Napoli offre gratuitamente consulenze
-  sui diritti legali dei rifugiati nel territorio della Repubblica Italiana, nonché
-  il rilascio di documenti d''identità e altri documenti.
-
+description: 'Il Consolato Generale di Ucraina a Napoli offre gratuitamente consulenze sui diritti legali dei rifugiati nel territorio della Repubblica Italiana, nonché il rilascio di documenti d''identità e altri documenti.
   Dal 07 giugno 2022 sarà possibile la prenotazione elettronica per i servizi consolari.'
 url: https://www.facebook.com/ukrconsnapoli/posts/319277813720047?__cft__[0]=AZUeGcz0rqsVNs3-d4wTTgAs9C8jttagpyFb0POuGLwV5FAxWoMdTw7LYDej2LUrMk3UgtjMcLKnOXM6RFBfKbnSVAj0rGqbTcNZLfnAFd9lcOz0br8lXS2_ygEyD_KndY9f2LBonDuyzjzr-vkPcanJ&__tn__=%2CO%2CP-R
 address:
