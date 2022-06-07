@@ -1,4 +1,69 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/843,1263498123,2022-06-07 15:41:50,2022-06-07 15:40:51,#Cuneo: servizio di mediazione linguistica gratuita per #scuole #centroestivo #campoestivo,44.45807035,7.558136691151624,Piemonte,Cuneo,"[""Valid/Accettato"",""Services"",""translation"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""country"":""Italia"",""country_code"":""it"",""county"":""Cuneo"",""state"":""Piemonte""},""boundingbox"":[""44.0597158"",""44.8566056"",""6.8545067"",""8.2692128""],""class"":""boundary"",""display_name"":""Cuneo, Piemonte, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"",""importance"":0.7371772937104749,""lat"":""44.45807035"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.558136691151624"",""osm_id"":42845,""osm_type"":""relation"",""place_id"":284429712,""type"":""administrative""},""mode"":""autocomplete""},""description"":""La Fondazione CRC d\u00e0 il via al progetto \u201cEmergenza Ucraina - Incontrarsi e Comprendersi\u201d. La prima misura del progetto vuole mettere a disposizione un servizio di mediazione linguistica gratuita che faciliti l\u2019inserimento dei bambini ucraini nelle attivit\u00e0 scolastiche e nei centri estivi e migliori la fruizione da parte di queste persone dei servizi sanitari e sociali. \nAlla pagina https://lvia.it/emergenza-ucraina/ \u00e8 gi\u00e0 online l\u2019annuncio di ricerca di mediatori e facilitatori linguistici parlanti ucraino o russo per l\u2019inserimento professionale nelle attivit\u00e0 del progetto. LVIA mette inoltre a disposizione uno sportello informativo presso la propria sede (via Mons. Peano 8/b a CUNEO - tel. 0171696975 - azionilocali@lvia.it) con due operatori che potranno incontrare i candidati e le realt\u00e0 territoriali interessate al servizio e rispondere alle richieste. Lo sportello \u00e8 attivo nei giorni di luned\u00ec, mercoled\u00ec, venerd\u00ec dalle 9 alle 12 e il marted\u00ec dalle 14,30 alle 17.\nLa Fondazione CRC sta lavorando a una seconda azione progettuale dedicata a fornire materiale didattico utile per la prima alfabetizzazione e l\u2019apprendimento della lingua italiana. Il materiale sar\u00e0 messo a disposizione di progetti estivi per ragazzi e istituti scolastici dal mese di giugno."",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Fondazione Cassa di Risparmio di Cuneo"",""recipients"":""Bambini e bambine, ragazzi e ragazze ucraine"",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""#Cuneo: servizio di mediazione linguistica gratuita per facilitare l'inserimento di bambini e ragazzi a #scuola #campoestivo #centroestivo"",""url"":""http://www.vita.it/it/article/2022/05/20/qui-cuneo-cercasi-mediatori-che-parlino-ucraino-o-russo/162905/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: true
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: true
+offerFromWho: Fondazione Cassa di Risparmio di Cuneo
+title: '#Cuneo: servizio di mediazione linguistica gratuita per facilitare l''inserimento
+  di bambini e ragazzi a #scuola #campoestivo #centroestivo'
+recipients: Bambini e bambine, ragazzi e ragazze ucraine
+description: ""La Fondazione CRC dà il via al progetto “Emergenza Ucraina - Incontrarsi\
+  \ e Comprendersi”. La prima misura del progetto vuole mettere a disposizione un\
+  \ servizio di mediazione linguistica gratuita che faciliti l’inserimento dei bambini\
+  \ ucraini nelle attività scolastiche e nei centri estivi e migliori la fruizione\
+  \ da parte di queste persone dei servizi sanitari e sociali. \nAlla pagina https://lvia.it/emergenza-ucraina/\
+  \ è già online l’annuncio di ricerca di mediatori e facilitatori linguistici parlanti\
+  \ ucraino o russo per l’inserimento professionale nelle attività del progetto. LVIA\
+  \ mette inoltre a disposizione uno sportello informativo presso la propria sede\
+  \ (via Mons. Peano 8/b a CUNEO - tel. 0171696975 - azionilocali@lvia.it) con due\
+  \ operatori che potranno incontrare i candidati e le realtà territoriali interessate\
+  \ al servizio e rispondere alle richieste. Lo sportello è attivo nei giorni di lunedì,\
+  \ mercoledì, venerdì dalle 9 alle 12 e il martedì dalle 14,30 alle 17.\nLa Fondazione\
+  \ CRC sta lavorando a una seconda azione progettuale dedicata a fornire materiale\
+  \ didattico utile per la prima alfabetizzazione e l’apprendimento della lingua italiana.\
+  \ Il materiale sarà messo a disposizione di progetti estivi per ragazzi e istituti\
+  \ scolastici dal mese di giugno.""
+url: http://www.vita.it/it/article/2022/05/20/qui-cuneo-cercasi-mediatori-che-parlino-ucraino-o-russo/162905/
+address:
+  mode: autocomplete
+  address:
+    place_id: 284429712
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 42845
+    boundingbox:
+    - '44.0597158'
+    - '44.8566056'
+    - '6.8545067'
+    - '8.2692128'
+    lat: '44.45807035'
+    lon: '7.558136691151624'
+    display_name: Cuneo, Piemonte, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7371772937104749
+    icon: https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      county: Cuneo
+      state: Piemonte
+      ISO3166-2-lvl4: IT-21
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+iAuthorizeTheProcessingOfPersonalSensitiveData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/842,1263487224,2022-06-07 15:33:59,2022-06-07 15:32:26,#centroestivo #campoestivo a #Legnano: dieci posti sono riservati ai bambini ucraini ,45.5946985,8.9183595,Lombardia,Milano,"[""Valid/Accettato"",""Services"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20025"",""state"":""Lombardia"",""town"":""Legnano""},""boundingbox"":[""45.5680042"",""45.6236078"",""8.8656125"",""8.9463512""],""class"":""boundary"",""display_name"":""Legnano, Milano, Lombardia, 20025, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"",""importance"":0.6460413330018666,""lat"":""45.5946985"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.9183595"",""osm_id"":45380,""osm_type"":""relation"",""place_id"":283382573,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Comune di Legnano ha riservato una decina di posti a bambini o ragazzi ucraini, presenti sul territorio comunale, nel caso in cui le loro famiglie ne facessero richiesta. Per l\u2019eventuale inserimento di bambini ucraini saranno coinvolti anche gli uffici dei Servizi alla Persona, che si sono occupati gi\u00e0 della loro accoglienza."",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Legnano"",""recipients"":""Bambini e bambine ucraine"",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""#Centriestivi a #Legnano: dieci posti sono riservati ai bambini ucraini"",""url"":""https://www.settenews.it/centri-estivi-a-legnano-accolte-tutte-le-iscrizioni-e-dieci-posti-sono-riservati-ai-bambini-ucraini/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
