@@ -1,4 +1,58 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/842,1263487224,2022-06-07 15:33:59,2022-06-07 15:32:26,#centroestivo #campoestivo a #Legnano: dieci posti sono riservati ai bambini ucraini ,45.5946985,8.9183595,Lombardia,Milano,"[""Valid/Accettato"",""Services"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20025"",""state"":""Lombardia"",""town"":""Legnano""},""boundingbox"":[""45.5680042"",""45.6236078"",""8.8656125"",""8.9463512""],""class"":""boundary"",""display_name"":""Legnano, Milano, Lombardia, 20025, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"",""importance"":0.6460413330018666,""lat"":""45.5946985"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.9183595"",""osm_id"":45380,""osm_type"":""relation"",""place_id"":283382573,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Comune di Legnano ha riservato una decina di posti a bambini o ragazzi ucraini, presenti sul territorio comunale, nel caso in cui le loro famiglie ne facessero richiesta. Per l\u2019eventuale inserimento di bambini ucraini saranno coinvolti anche gli uffici dei Servizi alla Persona, che si sono occupati gi\u00e0 della loro accoglienza."",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Legnano"",""recipients"":""Bambini e bambine ucraine"",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""#Centriestivi a #Legnano: dieci posti sono riservati ai bambini ucraini"",""url"":""https://www.settenews.it/centri-estivi-a-legnano-accolte-tutte-le-iscrizioni-e-dieci-posti-sono-riservati-ai-bambini-ucraini/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: true
+offerFromWho: Comune di Legnano
+title: '#Centriestivi a #Legnano: dieci posti sono riservati ai bambini ucraini'
+recipients: Bambini e bambine ucraine
+description: Il Comune di Legnano ha riservato una decina di posti a bambini o ragazzi
+  ucraini, presenti sul territorio comunale, nel caso in cui le loro famiglie ne facessero
+  richiesta. Per l’eventuale inserimento di bambini ucraini saranno coinvolti anche
+  gli uffici dei Servizi alla Persona, che si sono occupati già della loro accoglienza.
+url: https://www.settenews.it/centri-estivi-a-legnano-accolte-tutte-le-iscrizioni-e-dieci-posti-sono-riservati-ai-bambini-ucraini/
+address:
+  mode: autocomplete
+  address:
+    place_id: 283382573
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 45380
+    boundingbox:
+    - '45.5680042'
+    - '45.6236078'
+    - '8.8656125'
+    - '8.9463512'
+    lat: '45.5946985'
+    lon: '8.9183595'
+    display_name: Legnano, Milano, Lombardia, 20025, Italia
+    class: boundary
+    type: administrative
+    importance: 0.6460413330018666
+    icon: https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      town: Legnano
+      county: Milano
+      ISO3166-2-lvl6: IT-MI
+      state: Lombardia
+      postcode: '20025'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+iAuthorizeTheProcessingOfPersonalSensitiveData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/840,1263468545,2022-06-07 15:19:51,2022-06-07 15:18:37,Volontariato in Ucraina per insegnare nelle #scuole e nei #campiestivi,50.40201465,30.614815041284402,,,"[""Valid/Accettato"",""Services"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""UA-30"",""city"":""Kyiv"",""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""50.2132422"",""50.5908142"",""30.2361453"",""30.8263593""],""class"":""boundary"",""display_name"":""Kyiv, Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"",""importance"":0.7258572961698041,""lat"":""50.40201465"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""30.614815041284402"",""osm_id"":421866,""osm_type"":""relation"",""place_id"":324417710,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Con il progetto \u201cWorld without borders\u201d saranno selezionati volontari che, dal 28 Giugno al 9 Agosto, si rechino a Kiev per contribuire all\u2019Obiettivo di Sviluppo Sostenibile n.4: Istruzione di Qualit\u00e0, lavorando in scuole o centri estivi a contatto con bambini e bambine ucraini.\nLe attivit\u00e0 principali gestite dai volontari saranno:\n- preparare e condurre lezioni, workshop o attivit\u00e0 ludiche\n- organizzare insieme a bambini attivit\u00e0 che presentino la loro cultura\n- tenere un reportage dell\u2019esperienza da poter presentare a fine progetto\nCondizioni economiche\nIl costo di partecipazione per il programma Global Volunteer \u00e8 di 300 euro.\nL\u2019alloggio e i pasti sono inclusi nella quota di partecipazione."",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Association Internationale des Etudiants en Sciences Economiques et Commerciales"",""recipients"":""Volontari e volontarie disponibili a recarsi in Ucraina dal 28 Giugno al 9 Agosto"",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Volontariato in Ucraina per insegnare nelle #scuole e nei #campiestivi"",""url"":""https://www.scambieuropei.info/volontariato-ucraina-insegnare-scuole-campi-estivi-aiesec/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
