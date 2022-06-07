@@ -1,4 +1,65 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/845,1263542868,2022-06-07 16:16:22,2022-06-07 16:14:10,"Visita a #Sirmione gratuita in lingua russa, 9 giugno",45.4688494,10.6078237,Lombardia,Brescia,"[""Valid/Accettato"",""Services"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-BS"",""country"":""Italia"",""country_code"":""it"",""county"":""Brescia"",""postcode"":""25019"",""state"":""Lombardia"",""town"":""Sirmione""},""boundingbox"":[""45.4421912"",""45.5147838"",""10.576702"",""10.6480545""],""class"":""boundary"",""display_name"":""Sirmione, Brescia, Lombardia, 25019, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"",""importance"":0.6237904532526676,""lat"":""45.4688494"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.6078237"",""osm_id"":45072,""osm_type"":""relation"",""place_id"":283885055,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Gruppo Fenice di Lonato del Garda annuncia che gioved\u00ec 09 giugno ha programmato una visita guidata all'interno del Castello Scaligero di Sirmione nel suggestivo contesto del Lago di Garda dedicata ai rifugiati temporanei dall'Ucraina: una guida turistica racconter\u00e0 la storia del castello in lingua russa.\n\n\u0413\u0440\u0443\u043f\u0430 Fenice \u0437 \u041b\u043e\u043d\u0430\u0442\u043e-\u0434\u0435\u043b\u044c-\u0413\u0430\u0440\u0434\u0430 \u0440\u0430\u0434\u0430 \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u0438\u0442\u0438, \u0449\u043e \u0443 \u0447\u0435\u0442\u0432\u0435\u0440, 9 \u0447\u0435\u0440\u0432\u043d\u044f, \u0435\u043a\u0441\u043a\u043b\u044e\u0437\u0438\u0432\u043d\u043e \u0434\u043b\u044f \u0433\u0440\u043e\u043c\u0430\u0434\u044f\u043d \u0423\u043a\u0440\u0430\u0457\u043d\u0438, \u044f\u043a\u0456 \u043f\u0440\u0438\u0431\u0443\u043b\u0438 \u0434\u043e \u0406\u0442\u0430\u043b\u0456\u0457 \u043f\u0456\u0441\u043b\u044f 24 \u043b\u044e\u0442\u043e\u0433\u043e 2022 \u0440\u043e\u043a\u0443, \u0437\u0430\u043f\u043b\u0430\u043d\u043e\u0432\u0430\u043d\u0430 \u0435\u043a\u0441\u043a\u0443\u0440\u0441\u0456\u044f \u0437\u0430\u043c\u043a\u043e\u043c \u0421\u043a\u0430\u043b\u0456\u0434\u0436\u0435\u0440\u043e \u0432 \u0421\u0456\u0440\u043c\u0456\u043e\u043d\u0435 \u0432 \u0430\u0442\u043c\u043e\u0441\u0444\u0435\u0440\u0456 \u043e\u0437\u0435\u0440\u0430 \u0490\u0430\u0440\u0434\u0430.\n\u041d\u0430\u0441 \u0431\u0443\u0434\u0435 \u0441\u0443\u043f\u0440\u043e\u0432\u043e\u0434\u0436\u0443\u0432\u0430\u0442\u0438 \u0435\u043a\u0441\u043a\u0443\u0440\u0441\u043e\u0432\u043e\u0434, \u044f\u043a\u0438\u0439 \u0440\u043e\u0437\u043f\u043e\u0432\u0456\u0441\u0442\u044c \u0456\u0441\u0442\u043e\u0440\u0456\u044e \u0437\u0430\u043c\u043a\u0443 \u0440\u043e\u0441\u0456\u0439\u0441\u044c\u043a\u043e\u044e \u043c\u043e\u0432\u043e\u044e."",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Gruppo Fenice di Lonato del Garda"",""recipients"":""Rifugiati temporanei dall'Ucraina"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Visita a #Sirmione, 9 giugno"",""url"":""https://www.facebook.com/FeniceGarda/posts/125093950200040""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Gruppo Fenice di Lonato del Garda
+title: 'Visita a #Sirmione, 9 giugno'
+recipients: Rifugiati temporanei dall'Ucraina
+description: 'Il Gruppo Fenice di Lonato del Garda annuncia che giovedì 09 giugno
+  ha programmato una visita guidata all''interno del Castello Scaligero di Sirmione
+  nel suggestivo contesto del Lago di Garda dedicata ai rifugiati temporanei dall''Ucraina:
+  una guida turistica racconterà la storia del castello in lingua russa.
+
+
+  Група Fenice з Лонато-дель-Гарда рада повідомити, що у четвер, 9 червня, ексклюзивно
+  для громадян України, які прибули до Італії після 24 лютого 2022 року, запланована
+  екскурсія замком Скаліджеро в Сірміоне в атмосфері озера Ґарда.
+
+  Нас буде супроводжувати екскурсовод, який розповість історію замку російською мовою.'
+url: https://www.facebook.com/FeniceGarda/posts/125093950200040
+address:
+  mode: autocomplete
+  address:
+    place_id: 283885055
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 45072
+    boundingbox:
+    - '45.4421912'
+    - '45.5147838'
+    - '10.576702'
+    - '10.6480545'
+    lat: '45.4688494'
+    lon: '10.6078237'
+    display_name: Sirmione, Brescia, Lombardia, 25019, Italia
+    class: boundary
+    type: administrative
+    importance: 0.6237904532526676
+    icon: https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      town: Sirmione
+      county: Brescia
+      ISO3166-2-lvl6: IT-BS
+      state: Lombardia
+      postcode: '25019'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+iAuthorizeTheProcessingOfPersonalSensitiveData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/843,1263498123,2022-06-07 15:41:50,2022-06-07 15:40:51,#Cuneo: servizio di mediazione linguistica gratuita per #scuole #centroestivo #campoestivo,44.45807035,7.558136691151624,Piemonte,Cuneo,"[""Valid/Accettato"",""Services"",""translation"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-21"",""country"":""Italia"",""country_code"":""it"",""county"":""Cuneo"",""state"":""Piemonte""},""boundingbox"":[""44.0597158"",""44.8566056"",""6.8545067"",""8.2692128""],""class"":""boundary"",""display_name"":""Cuneo, Piemonte, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"",""importance"":0.7371772937104749,""lat"":""44.45807035"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.558136691151624"",""osm_id"":42845,""osm_type"":""relation"",""place_id"":284429712,""type"":""administrative""},""mode"":""autocomplete""},""description"":""La Fondazione CRC d\u00e0 il via al progetto \u201cEmergenza Ucraina - Incontrarsi e Comprendersi\u201d. La prima misura del progetto vuole mettere a disposizione un servizio di mediazione linguistica gratuita che faciliti l\u2019inserimento dei bambini ucraini nelle attivit\u00e0 scolastiche e nei centri estivi e migliori la fruizione da parte di queste persone dei servizi sanitari e sociali. \nAlla pagina https://lvia.it/emergenza-ucraina/ \u00e8 gi\u00e0 online l\u2019annuncio di ricerca di mediatori e facilitatori linguistici parlanti ucraino o russo per l\u2019inserimento professionale nelle attivit\u00e0 del progetto. LVIA mette inoltre a disposizione uno sportello informativo presso la propria sede (via Mons. Peano 8/b a CUNEO - tel. 0171696975 - azionilocali@lvia.it) con due operatori che potranno incontrare i candidati e le realt\u00e0 territoriali interessate al servizio e rispondere alle richieste. Lo sportello \u00e8 attivo nei giorni di luned\u00ec, mercoled\u00ec, venerd\u00ec dalle 9 alle 12 e il marted\u00ec dalle 14,30 alle 17.\nLa Fondazione CRC sta lavorando a una seconda azione progettuale dedicata a fornire materiale didattico utile per la prima alfabetizzazione e l\u2019apprendimento della lingua italiana. Il materiale sar\u00e0 messo a disposizione di progetti estivi per ragazzi e istituti scolastici dal mese di giugno."",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Fondazione Cassa di Risparmio di Cuneo"",""recipients"":""Bambini e bambine, ragazzi e ragazze ucraine"",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""#Cuneo: servizio di mediazione linguistica gratuita per facilitare l'inserimento di bambini e ragazzi a #scuola #campoestivo #centroestivo"",""url"":""http://www.vita.it/it/article/2022/05/20/qui-cuneo-cercasi-mediatori-che-parlino-ucraino-o-russo/162905/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
