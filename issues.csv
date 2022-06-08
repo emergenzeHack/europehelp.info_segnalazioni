@@ -1,4 +1,115 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/842,1263487224,2022-06-08 17:53:26,2022-06-07 15:32:26,#centroestivo #campoestivo a #Legnano: dieci posti sono riservati ai bambini ucraini ,45.5946985,8.9183595,Lombardia,Milano,"[""Valid/Accettato"",""Services"",""Children"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20025"",""state"":""Lombardia"",""town"":""Legnano""},""boundingbox"":[""45.5680042"",""45.6236078"",""8.8656125"",""8.9463512""],""class"":""boundary"",""display_name"":""Legnano, Milano, Lombardia, 20025, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"",""importance"":0.6460413330018666,""lat"":""45.5946985"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.9183595"",""osm_id"":45380,""osm_type"":""relation"",""place_id"":283382573,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Comune di Legnano ha riservato una decina di posti a bambini o ragazzi ucraini, presenti sul territorio comunale, nel caso in cui le loro famiglie ne facessero richiesta. Per l\u2019eventuale inserimento di bambini ucraini saranno coinvolti anche gli uffici dei Servizi alla Persona, che si sono occupati gi\u00e0 della loro accoglienza."",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Legnano"",""recipients"":""Bambini e bambine ucraine"",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""#Centriestivi a #Legnano: dieci posti sono riservati ai bambini ucraini"",""url"":""https://www.settenews.it/centri-estivi-a-legnano-accolte-tutte-le-iscrizioni-e-dieci-posti-sono-riservati-ai-bambini-ucraini/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: true
+  disability: false
+  women: false
+  education: true
+offerFromWho: Comune di Legnano
+title: '#Centriestivi a #Legnano: dieci posti sono riservati ai bambini ucraini'
+recipients: Bambini e bambine ucraine
+description: Il Comune di Legnano ha riservato una decina di posti a bambini o ragazzi
+  ucraini, presenti sul territorio comunale, nel caso in cui le loro famiglie ne facessero
+  richiesta. Per l’eventuale inserimento di bambini ucraini saranno coinvolti anche
+  gli uffici dei Servizi alla Persona, che si sono occupati già della loro accoglienza.
+url: https://www.settenews.it/centri-estivi-a-legnano-accolte-tutte-le-iscrizioni-e-dieci-posti-sono-riservati-ai-bambini-ucraini/
+address:
+  mode: autocomplete
+  address:
+    place_id: 283382573
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 45380
+    boundingbox:
+    - '45.5680042'
+    - '45.6236078'
+    - '8.8656125'
+    - '8.9463512'
+    lat: '45.5946985'
+    lon: '8.9183595'
+    display_name: Legnano, Milano, Lombardia, 20025, Italia
+    class: boundary
+    type: administrative
+    importance: 0.6460413330018666
+    icon: https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      town: Legnano
+      county: Milano
+      ISO3166-2-lvl6: IT-MI
+      state: Lombardia
+      postcode: '20025'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+iAuthorizeTheProcessingOfPersonalSensitiveData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/846,1263555949,2022-06-08 17:52:40,2022-06-07 16:22:00,"#LonatodelGarda: raccolta alimenti, vestiti, materiale sanitario",45.443959,10.480410425924326,Lombardia,Brescia,"[""Valid/Accettato"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-BS"",""city"":""Lonato del Garda"",""country"":""Italia"",""country_code"":""it"",""county"":""Brescia"",""postcode"":""25017"",""state"":""Lombardia""},""boundingbox"":[""45.380779"",""45.5071026"",""10.4404601"",""10.6024538""],""class"":""boundary"",""display_name"":""Lonato del Garda, Brescia, Lombardia, 25017, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"",""importance"":0.6789448535430544,""lat"":""45.443959"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.480410425924326"",""osm_id"":44893,""osm_type"":""relation"",""place_id"":284867878,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Sabato 11 giugno il gruppo Fenice  e l'Associazione I Balconi Azzurri APS allestiranno un banco solidale davanti allo Spaccio Valsabbino in via A. De Gasperi, 12 a Lonato del Garda.\nPotrete fare la vostra spesa lasciando un prodotto al banco dell'associazione, contribuendo alla spedizione di viveri verso l'Ucraina che si terr\u00e0 la settimana del 20 giugno. \nPotrete lasciare al banco anche i vestiti estivi che non indossate pi\u00f9, garze, cerotti, disinfettanti, prodotti basilari per l'igiene della persona."",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Fenice - Volontari del Garda aiuti umanitari"",""recipients"":""Volontari e volontarie"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""#LonatodelGarda: raccolta alimenti, vestiti, materiale sanitario"",""url"":""https://www.facebook.com/FeniceGarda/posts/125131500196285""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Fenice - Volontari del Garda aiuti umanitari
+title: '#LonatodelGarda: raccolta alimenti, vestiti, materiale sanitario'
+recipients: Volontari e volontarie
+description: ""Sabato 11 giugno il gruppo Fenice  e l'Associazione I Balconi Azzurri\
+  \ APS allestiranno un banco solidale davanti allo Spaccio Valsabbino in via A. De\
+  \ Gasperi, 12 a Lonato del Garda.\nPotrete fare la vostra spesa lasciando un prodotto\
+  \ al banco dell'associazione, contribuendo alla spedizione di viveri verso l'Ucraina\
+  \ che si terrà la settimana del 20 giugno. \nPotrete lasciare al banco anche i vestiti\
+  \ estivi che non indossate più, garze, cerotti, disinfettanti, prodotti basilari\
+  \ per l'igiene della persona.""
+url: https://www.facebook.com/FeniceGarda/posts/125131500196285
+address:
+  mode: autocomplete
+  address:
+    place_id: 284867878
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 44893
+    boundingbox:
+    - '45.380779'
+    - '45.5071026'
+    - '10.4404601'
+    - '10.6024538'
+    lat: '45.443959'
+    lon: '10.480410425924326'
+    display_name: Lonato del Garda, Brescia, Lombardia, 25017, Italia
+    class: boundary
+    type: administrative
+    importance: 0.6789448535430544
+    icon: https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Lonato del Garda
+      county: Brescia
+      ISO3166-2-lvl6: IT-BS
+      state: Lombardia
+      postcode: '25017'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+iAuthorizeTheProcessingOfPersonalSensitiveData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/839,1263451061,2022-06-08 10:17:40,2022-06-07 15:05:38,Sportello Telematico – Emergenza Ucraina,42.6384261,12.674297,Umbria,Terni,"[""Valid/Accettato"",""Services"",""Legal"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it""},""boundingbox"":[""35.2889616"",""47.0921462"",""6.6272658"",""18.7844746""],""class"":""boundary"",""display_name"":""Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"",""importance"":0.9831019031440554,""lat"":""42.6384261"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.674297"",""osm_id"":365331,""osm_type"":""relation"",""place_id"":284007015,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Consiglio dell'Ordine degli Avvocati di Firenze ha dedicato una casella mail a tutti coloro che avessero necessit\u00e0 di informazioni ed orientamento legale:  emergenzaucraina@ordineavvocatifirenze.eu.\nContattando il Consiglio dell\u2019Ordine attraverso la suddetta mail verr\u00e0 fissato un incontro da remoto nel corso del quale un avvocato esperto di diritto internazionale, delle norme sull\u2019asilo e sulla protezione, potr\u00e0 fornire gli opportuni chiarimenti nonch\u00e9 tutte le informazioni necessarie alla tutela dei diritti.\nOgni conversazione da remoto sar\u00e0 alla presenza di un traduttore in lingua.\n\n\u0412\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u043d\u043e \u0434\u043e \u0440\u0435\u0437\u043e\u043b\u044e\u0446\u0456\u0457, \u0443\u0445\u0432\u0430\u043b\u0435\u043d\u043e\u0457 \u0420\u0430\u0434\u043e\u044e \u041a\u043e\u043b\u0435\u0433\u0456\u0457 \u0430\u0434\u0432\u043e\u043a\u0430\u0442\u0456\u0432 \u0424\u043b\u043e\u0440\u0435\u043d\u0446\u0456\u0457 \u0443 \u0437\u0432\u2019\u044f\u0437\u043a\u0443 \u0437 \u0442\u0440\u0430\u0433\u0456\u0447\u043d\u0438\u043c\u0438 \u043f\u043e\u0434\u0456\u044f\u043c\u0438 \u0432\u0456\u0439\u043d\u0438 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456, \u0432\u0456\u0434 \u0441\u044c\u043e\u0433\u043e\u0434\u043d\u0456 \u0434\u043b\u044f \u0432\u0441\u0456\u0445 \u0442\u0438\u0445, \u0445\u0442\u043e \u043f\u043e\u0442\u0440\u0435\u0431\u0443\u0454 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u0457 \u044e\u0440\u0438\u0434\u0438\u0447\u043d\u043e\u0433\u043e \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0443, \u0432\u0456\u0434\u043a\u0440\u0438\u0442\u0430 \u0441\u043f\u0435\u0446\u0456\u0430\u043b\u044c\u043d\u0430 \u043f\u043e\u0448\u0442\u043e\u0432\u0430 \u0441\u043a\u0440\u0438\u043d\u044c\u043a\u0430: emergenzaucraina@ordineavvocatifirenze.eu\n\u0417\u0432\u0435\u0440\u043d\u0443\u0432\u0448\u0438\u0441\u044c \u0434\u043e \u043d\u0430\u0448\u043e\u0457 \u041a\u043e\u043b\u0435\u0433\u0456\u0457 \u0430\u0434\u0432\u043e\u043a\u0430\u0442\u0456\u0432 \u0437\u0430 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u043e\u044e \u0432\u0438\u0449\u0435\u0437\u0433\u0430\u0434\u0430\u043d\u043e\u0457 \u0435\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0457 \u043f\u043e\u0448\u0442\u0438, \u0431\u0443\u0434\u0435 \u043e\u0440\u0433\u0430\u043d\u0456\u0437\u043e\u0432\u0430\u043d\u043e \u0434\u0438\u0441\u0442\u0430\u043d\u0446\u0456\u0439\u043d\u0443 \u0437\u0443\u0441\u0442\u0440\u0456\u0447 \u043e\u043d\u043b\u0430\u0439\u043d, \u043f\u0456\u0434 \u0447\u0430\u0441 \u044f\u043a\u043e\u0457 \u044e\u0440\u0438\u0441\u0442-\u0435\u043a\u0441\u043f\u0435\u0440\u0442 \u0437 \u043c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0433\u043e \u043f\u0440\u0430\u0432\u0430, \u043f\u0440\u0438\u0442\u0443\u043b\u043a\u0443 \u0442\u0430 \u043f\u0440\u0430\u0432\u0438\u043b \u0437\u0430\u0445\u0438\u0441\u0442\u0443 \u0437\u043c\u043e\u0436\u0435 \u043d\u0430\u0434\u0430\u0442\u0438 \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u043d\u0456 \u0440\u043e\u0437\u2019\u044f\u0441\u043d\u0435\u043d\u043d\u044f \u0442\u0430 \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u0443 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u044e \u0434\u043b\u044f \u0437\u0430\u0445\u0438\u0441\u0442\u0443 \u043f\u0440\u0430\u0432.\n\u041a\u043e\u0436\u043d\u0430 \u0434\u0438\u0441\u0442\u0430\u043d\u0446\u0456\u0439\u043d\u0430 \u0440\u043e\u0437\u043c\u043e\u0432\u0430 \u0431\u0443\u0434\u0435 \u043f\u0440\u043e\u0445\u043e\u0434\u0438\u0442\u0438 \u0432 \u043f\u0440\u0438\u0441\u0443\u0442\u043d\u043e\u0441\u0442\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0430\u0447\u0430."",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ordine degli Avvocati di Firenze"",""recipients"":""Rifugiati temporanei dall'Ucraina"",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Sportello Telematico \u2013 Emergenza Ucraina"",""url"":""https://www.ordineavvocatifirenze.eu/2022/05/sportello-telematico-emergenza-ucraina/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -200,60 +311,6 @@ address:
       county: Cuneo
       state: Piemonte
       ISO3166-2-lvl4: IT-21
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-iAuthorizeTheProcessingOfPersonalSensitiveData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/842,1263487224,2022-06-07 15:33:59,2022-06-07 15:32:26,#centroestivo #campoestivo a #Legnano: dieci posti sono riservati ai bambini ucraini ,45.5946985,8.9183595,Lombardia,Milano,"[""Valid/Accettato"",""Services"",""Children"",""education""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl6"":""IT-MI"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20025"",""state"":""Lombardia"",""town"":""Legnano""},""boundingbox"":[""45.5680042"",""45.6236078"",""8.8656125"",""8.9463512""],""class"":""boundary"",""display_name"":""Legnano, Milano, Lombardia, 20025, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"",""importance"":0.6460413330018666,""lat"":""45.5946985"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.9183595"",""osm_id"":45380,""osm_type"":""relation"",""place_id"":283382573,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Comune di Legnano ha riservato una decina di posti a bambini o ragazzi ucraini, presenti sul territorio comunale, nel caso in cui le loro famiglie ne facessero richiesta. Per l\u2019eventuale inserimento di bambini ucraini saranno coinvolti anche gli uffici dei Servizi alla Persona, che si sono occupati gi\u00e0 della loro accoglienza."",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Legnano"",""recipients"":""Bambini e bambine ucraine"",""servicetypes"":{""Children"":true,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""#Centriestivi a #Legnano: dieci posti sono riservati ai bambini ucraini"",""url"":""https://www.settenews.it/centri-estivi-a-legnano-accolte-tutte-le-iscrizioni-e-dieci-posti-sono-riservati-ai-bambini-ucraini/""}","<pre><yamldata>
-servicetypes:
-  materialGoods: false
-  hospitality: false
-  transport: false
-  healthcare: false
-  Legal: false
-  translation: false
-  job: false
-  psychologicalSupport: false
-  Children: true
-  disability: false
-  women: false
-  education: true
-offerFromWho: Comune di Legnano
-title: '#Centriestivi a #Legnano: dieci posti sono riservati ai bambini ucraini'
-recipients: Bambini e bambine ucraine
-description: Il Comune di Legnano ha riservato una decina di posti a bambini o ragazzi
-  ucraini, presenti sul territorio comunale, nel caso in cui le loro famiglie ne facessero
-  richiesta. Per l’eventuale inserimento di bambini ucraini saranno coinvolti anche
-  gli uffici dei Servizi alla Persona, che si sono occupati già della loro accoglienza.
-url: https://www.settenews.it/centri-estivi-a-legnano-accolte-tutte-le-iscrizioni-e-dieci-posti-sono-riservati-ai-bambini-ucraini/
-address:
-  mode: autocomplete
-  address:
-    place_id: 283382573
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 45380
-    boundingbox:
-    - '45.5680042'
-    - '45.6236078'
-    - '8.8656125'
-    - '8.9463512'
-    lat: '45.5946985'
-    lon: '8.9183595'
-    display_name: Legnano, Milano, Lombardia, 20025, Italia
-    class: boundary
-    type: administrative
-    importance: 0.6460413330018666
-    icon: https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png
-    address:
-      town: Legnano
-      county: Milano
-      ISO3166-2-lvl6: IT-MI
-      state: Lombardia
-      postcode: '20025'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
