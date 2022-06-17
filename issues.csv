@@ -1,5 +1,48 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/40,1161949488,2022-06-17 13:02:52,2022-03-07 21:34:37,Ukranian sign language services to support deaf refugees #ens #entenazionalesordi #sordi,44.6978389,10.6304971,Emilia-Romagna,Reggio nell'Emilia,"[""Valid/Accettato"",""News"",""Services"",""disability"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Reggio nell'Emilia"",""country"":""Italia"",""country_code"":""it"",""county"":""Reggio nell'Emilia"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.6244638"",""44.7744479"",""10.4910178"",""10.7733414""],""class"":""boundary"",""display_name"":""Reggio nell'Emilia, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.6725411725065691,""lat"":""44.6978389"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.6304971"",""osm_id"":43415,""osm_type"":""relation"",""place_id"":284543523,""type"":""administrative""},""mode"":""autocomplete""},""description"":""has set up a network of regional community/communication services to support Ukraine deaf refugees arriving in the Emilia Romagna region. These services aim to facilitate communication with local public bodies and public services thanks to deaf interpreters and mediators who know Ukrainian Sign Language.   Further info at emiliaromagna@ens.it  They released this signed video here attached: [https://youtube.com/watch?v=604vD8haZh8&feature=share](https://youtube.com/watch?v=604vD8haZh8&feature=share&fbclid=IwAR1_Pd9g8BXcSeZXSCrEU_1FrCxlhXs01r6TgXeNOo6NVzNfrFOm_LqBkos) EUD - The European Union of the Deaf  Christian Rathmann Debra Russell Arunas Brazas NRW: Deaf Refugees World Federation of the Deaf Ry Lorraine Leeson Anna Komarova Igor Chavrot"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":"". The Emilia-Romagna Regional Branch of the Italian Deaf Association  (ENS)"",""recipients"":""Deaf"",""submit"":true,""title"":""LIS Service to support deaf refugees"",""type"":""disabilityServices"",""url"":""https://www.facebook.com/groups/ukraineinfo.help/permalink/451623253373295/""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/42,1162736087,2022-06-17 13:12:46,2022-03-08 14:39:12,#Venezia: sportello per informazioni e accoglienza dei rifugiati ucraini,45.2732457,12.3010422,Veneto,Venezia,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Comune di Venezia"",""city"":""Venezia"",""country"":""Italia"",""country_code"":""it"",""county"":""Venezia"",""road"":""Calle Chiesa Ognissanti"",""state"":""Veneto"",""suburb"":""Lido-Pellestrina"",""village"":""Pellestrina""},""boundingbox"":[""45.2731957"",""45.2732957"",""12.3009922"",""12.3010922""],""class"":""amenity"",""display_name"":""Comune di Venezia, Calle Chiesa Ognissanti, Lido-Pellestrina, Pellestrina, Venezia, Veneto, Italia"",""importance"":0.31100000000000005,""lat"":""45.2732457"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.3010422"",""osm_id"":6958414086,""osm_type"":""node"",""place_id"":74210873,""type"":""townhall""},""mode"":""autocomplete""},""description"":""A Venezia attivo sportello Emergenza Ucraina del Comune che offre info,\\ \\ supporto, assistenza ai rifugiati ucraini e alle famiglie italiane ospitanti.\\n\\ Tel. 041041 (DIME), lun-ven ore 8-20. \\nEmail ucraina@comune.venezia.it \\n(In lingua\\ \\ italiana e ucraina)."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Venezia"",""recipients"":""Rifugiati ucraini, famiglie ospitanti, cittadini"",""submit"":true,""title"":""Comune di #Venezia attiva Sportello Emergenza #Ucraina"",""type"":""legal"",""url"":""https://live.comune.venezia.it/it/2022/03/informazioni-le-persone-provenienti-dallucraina-e-le-famiglie-ospitanti""}","<pre><yamldata>
+type: legal
+offerFromWho: Comune di Venezia
+title: 'Comune di #Venezia attiva Sportello Emergenza #Ucraina'
+recipients: Rifugiati ucraini, famiglie ospitanti, cittadini
+description: A Venezia attivo sportello Emergenza Ucraina del Comune che offre info,\
+  \ supporto, assistenza ai rifugiati ucraini e alle famiglie italiane ospitanti.\n\
+  Tel. 041041 (DIME), lun-ven ore 8-20. \nEmail ucraina@comune.venezia.it \n(In lingua\
+  \ italiana e ucraina).
+url: https://live.comune.venezia.it/it/2022/03/informazioni-le-persone-provenienti-dallucraina-e-le-famiglie-ospitanti
+address:
+  mode: autocomplete
+  address:
+    place_id: 74210873
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 6958414086
+    boundingbox:
+    - '45.2731957'
+    - '45.2732957'
+    - '12.3009922'
+    - '12.3010922'
+    lat: '45.2732457'
+    lon: '12.3010422'
+    display_name: Comune di Venezia, Calle Chiesa Ognissanti, Lido-Pellestrina, Pellestrina,
+      Venezia, Veneto, Italia
+    class: amenity
+    type: townhall
+    importance: 0.31100000000000005
+    address:
+      amenity: Comune di Venezia
+      road: Calle Chiesa Ognissanti
+      suburb: Lido-Pellestrina
+      village: Pellestrina
+      city: Venezia
+      county: Venezia
+      state: Veneto
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/40,1161949488,2022-06-17 13:10:46,2022-03-07 21:34:37,Ukranian sign language services to support deaf refugees #ens #entenazionalesordi #sordi,44.6978389,10.6304971,Emilia-Romagna,Reggio nell'Emilia,"[""Valid/Accettato"",""News"",""Services"",""disability"",""Closed"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Reggio nell'Emilia"",""country"":""Italia"",""country_code"":""it"",""county"":""Reggio nell'Emilia"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.6244638"",""44.7744479"",""10.4910178"",""10.7733414""],""class"":""boundary"",""display_name"":""Reggio nell'Emilia, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.6725411725065691,""lat"":""44.6978389"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.6304971"",""osm_id"":43415,""osm_type"":""relation"",""place_id"":284543523,""type"":""administrative""},""mode"":""autocomplete""},""description"":""has set up a network of regional community/communication services to support Ukraine deaf refugees arriving in the Emilia Romagna region. These services aim to facilitate communication with local public bodies and public services thanks to deaf interpreters and mediators who know Ukrainian Sign Language.   Further info at emiliaromagna@ens.it  They released this signed video here attached: [https://youtube.com/watch?v=604vD8haZh8&feature=share](https://youtube.com/watch?v=604vD8haZh8&feature=share&fbclid=IwAR1_Pd9g8BXcSeZXSCrEU_1FrCxlhXs01r6TgXeNOo6NVzNfrFOm_LqBkos) EUD - The European Union of the Deaf  Christian Rathmann Debra Russell Arunas Brazas NRW: Deaf Refugees World Federation of the Deaf Ry Lorraine Leeson Anna Komarova Igor Chavrot"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":"". The Emilia-Romagna Regional Branch of the Italian Deaf Association  (ENS)"",""recipients"":""Deaf"",""submit"":true,""title"":""LIS Service to support deaf refugees"",""type"":""disabilityServices"",""url"":""https://www.facebook.com/groups/ukraineinfo.help/permalink/451623253373295/""}","<pre><yamldata>
 type: disabilityServices
 offerFromWho: . The Emilia-Romagna Regional Branch of the Italian Deaf Association  (ENS)
 title: LIS Service to support deaf refugees
@@ -39,6 +82,65 @@ address:
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/862,1275012272,2022-06-17 13:09:48,2022-06-17 13:09:02,Ukranian sign language services to support deaf refugees #ens #entenazionalesordi #sordi,44.525696,11.039437,Emilia-Romagna,Modena,"[""Valid/Accettato"",""Services"",""translation"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""country"":""Italia"",""country_code"":""it"",""state"":""Emilia-Romagna""},""boundingbox"":[""43.7318997"",""45.1395001"",""9.1979117"",""12.7559006""],""class"":""boundary"",""display_name"":""Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"",""importance"":0.8658836089993998,""lat"":""44.525696"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.039437"",""osm_id"":42611,""osm_type"":""relation"",""place_id"":284957631,""type"":""administrative""},""mode"":""autocomplete""},""description"":""The Emilia-Romagna Regional Branch of the Italian Deaf Association (ENS) has set up a network of regional community/communication services to support Ukraine deaf refugees arriving in the Emilia Romagna region. These services aim to facilitate communication with local public bodies and public services thanks to deaf interpreters and mediators who know Ukrainian Sign Language. Further info at emiliaromagna@ens.it They released this signed video here attached: https://youtube.com/watch?v=604vD8haZh8&feature=share EUD - The European Union of the Deaf Christian Rathmann Debra Russell Arunas Brazas NRW: Deaf Refugees World Federation of the Deaf Ry Lorraine Leeson Anna Komarova Igor Chavrot\nhttps://m.youtube.com/watch?v=604vD8haZh8&feature=share"",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Italian Deaf Association (ENS), Emilia Romagna"",""recipients"":""Deaf refugees"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":true,""transport"":false,""women"":false},""submit"":true,""title"":""Ukranian sign language services to support deaf refugees #ens #entenazionalesordi #sordi"",""url"":""https://www.facebook.com/groups/ukraineinfo.help/permalink/451623253373295/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: true
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Italian Deaf Association (ENS), Emilia Romagna
+title: 'Ukranian sign language services to support deaf refugees #ens #entenazionalesordi
+  #sordi'
+recipients: Deaf refugees
+description: 'The Emilia-Romagna Regional Branch of the Italian Deaf Association (ENS)
+  has set up a network of regional community/communication services to support Ukraine
+  deaf refugees arriving in the Emilia Romagna region. These services aim to facilitate
+  communication with local public bodies and public services thanks to deaf interpreters
+  and mediators who know Ukrainian Sign Language. Further info at emiliaromagna@ens.it
+  They released this signed video here attached: https://youtube.com/watch?v=604vD8haZh8&feature=share
+  EUD - The European Union of the Deaf Christian Rathmann Debra Russell Arunas Brazas
+  NRW: Deaf Refugees World Federation of the Deaf Ry Lorraine Leeson Anna Komarova
+  Igor Chavrot
+
+  https://m.youtube.com/watch?v=604vD8haZh8&feature=share'
+url: https://www.facebook.com/groups/ukraineinfo.help/permalink/451623253373295/
+address:
+  mode: autocomplete
+  address:
+    place_id: 284957631
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 42611
+    boundingbox:
+    - '43.7318997'
+    - '45.1395001'
+    - '9.1979117'
+    - '12.7559006'
+    lat: '44.525696'
+    lon: '11.039437'
+    display_name: Emilia-Romagna, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8658836089993998
+    icon: https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      state: Emilia-Romagna
+      ISO3166-2-lvl4: IT-45
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+iAuthorizeTheProcessingOfPersonalSensitiveData: true
 label: services
 submit: true
 </yamldata></pre>",open
@@ -23960,49 +24062,6 @@ address:
       county: Ancona
       state: Marche
       postcode: '60122'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/42,1162736087,2022-03-28 13:20:43,2022-03-08 14:39:12,Comune di Venezia attiva sportello Emergenza Ucraina per info e accoglienza profughi ucraini,45.2732457,12.3010422,Veneto,Venezia,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Comune di Venezia"",""city"":""Venezia"",""country"":""Italia"",""country_code"":""it"",""county"":""Venezia"",""road"":""Calle Chiesa Ognissanti"",""state"":""Veneto"",""suburb"":""Lido-Pellestrina"",""village"":""Pellestrina""},""boundingbox"":[""45.2731957"",""45.2732957"",""12.3009922"",""12.3010922""],""class"":""amenity"",""display_name"":""Comune di Venezia, Calle Chiesa Ognissanti, Lido-Pellestrina, Pellestrina, Venezia, Veneto, Italia"",""importance"":0.31100000000000005,""lat"":""45.2732457"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.3010422"",""osm_id"":6958414086,""osm_type"":""node"",""place_id"":74210873,""type"":""townhall""},""mode"":""autocomplete""},""description"":""A Venezia attivo sportello Emergenza Ucraina del Comune che offre info,\\ \\ supporto, assistenza ai rifugiati ucraini e alle famiglie italiane ospitanti.\\n\\ Tel. 041041 (DIME), lun-ven ore 8-20. \\nEmail ucraina@comune.venezia.it \\n(In lingua\\ \\ italiana e ucraina)."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Venezia"",""recipients"":""Rifugiati ucraini, famiglie ospitanti, cittadini"",""submit"":true,""title"":""Comune di #Venezia attiva Sportello Emergenza #Ucraina"",""type"":""legal"",""url"":""https://live.comune.venezia.it/it/2022/03/informazioni-le-persone-provenienti-dallucraina-e-le-famiglie-ospitanti""}","<pre><yamldata>
-type: legal
-offerFromWho: Comune di Venezia
-title: 'Comune di #Venezia attiva Sportello Emergenza #Ucraina'
-recipients: Rifugiati ucraini, famiglie ospitanti, cittadini
-description: A Venezia attivo sportello Emergenza Ucraina del Comune che offre info,\
-  \ supporto, assistenza ai rifugiati ucraini e alle famiglie italiane ospitanti.\n\
-  Tel. 041041 (DIME), lun-ven ore 8-20. \nEmail ucraina@comune.venezia.it \n(In lingua\
-  \ italiana e ucraina).
-url: https://live.comune.venezia.it/it/2022/03/informazioni-le-persone-provenienti-dallucraina-e-le-famiglie-ospitanti
-address:
-  mode: autocomplete
-  address:
-    place_id: 74210873
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 6958414086
-    boundingbox:
-    - '45.2731957'
-    - '45.2732957'
-    - '12.3009922'
-    - '12.3010922'
-    lat: '45.2732457'
-    lon: '12.3010422'
-    display_name: Comune di Venezia, Calle Chiesa Ognissanti, Lido-Pellestrina, Pellestrina,
-      Venezia, Veneto, Italia
-    class: amenity
-    type: townhall
-    importance: 0.31100000000000005
-    address:
-      amenity: Comune di Venezia
-      road: Calle Chiesa Ognissanti
-      suburb: Lido-Pellestrina
-      village: Pellestrina
-      city: Venezia
-      county: Venezia
-      state: Veneto
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
