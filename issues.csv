@@ -1,4 +1,46 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/62,1164309482,2022-07-06 12:33:33,2022-03-09 18:45:32,Gruppo #telegram Comitato Salva Ucraini di #Palermo,38.1112268,13.3524434,Sicilia,Palermo,"[""Valid/Accettato"",""Help"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""38.1112268 13.3524434"",""description"":""Il Comitato Salva Ucraini di Palermo cerca volontari che parlino ucraino e italiano per aiutare i rifugiati ucraini in arrivo a Palermo.\nIl gruppo ha attivato anche una chat Telegram (vedi link)."",""email"":""salva.ucraini.palermo@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""state"":""Sicilia""},""boundingbox"":[""38.0499137"",""38.2245866"",""13.242219"",""13.4520856""],""class"":""boundary"",""display_name"":""Palermo, Sicilia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7661148171447915,""lat"":""38.1112268"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3524434"",""osm_id"":39513,""osm_type"":""relation"",""place_id"":284307182,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Comitato Salva Ucraini Palermo"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Il Comitato Salva Ucraini di Palermo cerca volontari che parlino ucraino e italiano"",""url"":""https://t.me/ucraini_a_palermo""}","<pre><yamldata>
+nameSurname: Comitato Salva Ucraini Palermo
+phoneNumber: ''
+email: salva.ucraini.palermo@gmail.com
+title: Il Comitato Salva Ucraini di Palermo cerca volontari che parlino ucraino e
+  italiano
+recipients: ''
+description: 'Il Comitato Salva Ucraini di Palermo cerca volontari che parlino ucraino
+  e italiano per aiutare i rifugiati ucraini in arrivo a Palermo.
+
+  Il gruppo ha attivato anche una chat Telegram (vedi link).'
+url: https://t.me/ucraini_a_palermo
+location:
+  mode: autocomplete
+  address:
+    place_id: 284307182
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 39513
+    boundingbox:
+    - '38.0499137'
+    - '38.2245866'
+    - '13.242219'
+    - '13.4520856'
+    lat: '38.1112268'
+    lon: '13.3524434'
+    display_name: Palermo, Sicilia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7661148171447915
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Palermo
+      county: Palermo
+      state: Sicilia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: help
+submit: true
+Posizione: 38.1112268 13.3524434
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/61,1164291377,2022-07-06 12:27:06,2022-03-09 18:25:56,A Bari negozio di Wind Tre lancia una speciale promozione telefonica per rifugiati ucraini,41.1257843,16.8620293,Puglia,Bari,"[""Valid/Accettato"",""News"",""Services"",""Closed"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Bari"",""country"":""Italia"",""country_code"":""it"",""county"":""Bari"",""state"":""Puglia""},""boundingbox"":[""41.0160584"",""41.1697837"",""16.7172376"",""17.0334109""],""class"":""boundary"",""display_name"":""Bari, Puglia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7287183212532693,""lat"":""41.1257843"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.8620293"",""osm_id"":41038,""osm_type"":""relation"",""place_id"":283768030,""type"":""administrative""},""mode"":""autocomplete""},""description"":""A Bari negozio di Wind Tre lancia una speciale promozione telefonica per i rifugiati ucraini."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""WindTre"",""recipients"":"""",""submit"":true,""title"":""A Bari negozio di Wind Tre lancia una speciale promozione telefonica per rifugiati ucraini"",""type"":""materialGoods"",""url"":""https://twitter.com/ukraineinfohelp/status/1501604489115189252?t=zDwb9dEScReeSf9Y3mgeqA&s=19""}","<pre><yamldata>
 type: materialGoods
 offerFromWho: WindTre
@@ -32521,48 +32563,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: fundraising
 submit: true
 Posizione: 46.65594215 11.229637264169462
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/62,1164309482,2022-03-17 15:09:17,2022-03-09 18:45:32,Il Comitato Salva Ucraini di Palermo cerca volontari che parlino ucraino e italiano,38.1112268,13.3524434,Sicilia,Palermo,"[""Valid/Accettato"",""Help"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""38.1112268 13.3524434"",""description"":""Il Comitato Salva Ucraini di Palermo cerca volontari che parlino ucraino e italiano per aiutare i rifugiati ucraini in arrivo a Palermo.\nIl gruppo ha attivato anche una chat Telegram (vedi link)."",""email"":""salva.ucraini.palermo@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""state"":""Sicilia""},""boundingbox"":[""38.0499137"",""38.2245866"",""13.242219"",""13.4520856""],""class"":""boundary"",""display_name"":""Palermo, Sicilia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7661148171447915,""lat"":""38.1112268"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3524434"",""osm_id"":39513,""osm_type"":""relation"",""place_id"":284307182,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Comitato Salva Ucraini Palermo"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Il Comitato Salva Ucraini di Palermo cerca volontari che parlino ucraino e italiano"",""url"":""https://t.me/ucraini_a_palermo""}","<pre><yamldata>
-nameSurname: Comitato Salva Ucraini Palermo
-phoneNumber: ''
-email: salva.ucraini.palermo@gmail.com
-title: Il Comitato Salva Ucraini di Palermo cerca volontari che parlino ucraino e
-  italiano
-recipients: ''
-description: 'Il Comitato Salva Ucraini di Palermo cerca volontari che parlino ucraino
-  e italiano per aiutare i rifugiati ucraini in arrivo a Palermo.
-
-  Il gruppo ha attivato anche una chat Telegram (vedi link).'
-url: https://t.me/ucraini_a_palermo
-location:
-  mode: autocomplete
-  address:
-    place_id: 284307182
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 39513
-    boundingbox:
-    - '38.0499137'
-    - '38.2245866'
-    - '13.242219'
-    - '13.4520856'
-    lat: '38.1112268'
-    lon: '13.3524434'
-    display_name: Palermo, Sicilia, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7661148171447915
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Palermo
-      county: Palermo
-      state: Sicilia
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: help
-submit: true
-Posizione: 38.1112268 13.3524434
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/45,1164018646,2022-03-17 12:44:33,2022-03-09 14:34:22,"Emergenza Ucraina, in Lazio truffe con false raccolte fondi e furto di dati personali",41.7675656,12.2339473,Lazio,Roma,"[""Valid/Accettato"",""fakenews"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""41.7675656 12.2339473"",""description"":""Oltre a false raccolte fondi nel litorale laziale, tra Ostia e Fiumicino, un avvocato intervistato da Roma Today denuncia anche furti di dati personali a chi si offriva di ospitare rifugiati ucraini."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""fakenews"",""link"":""https://www.romatoday.it/cronaca/ucraina-truffe-raccolte-fondi.html"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio"",""town"":""Fiumicino""},""boundingbox"":[""41.740906"",""42.0202102"",""12.1272725"",""12.3168049""],""class"":""boundary"",""display_name"":""Fiumicino, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.6288645539220377,""lat"":""41.7675656"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.2339473"",""osm_id"":41575,""osm_type"":""relation"",""place_id"":283947938,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Emergenza Ucraina, in Lazio false raccolte fondi e furto di dati personali""}","<pre><yamldata>
 title: Emergenza Ucraina, in Lazio false raccolte fondi e furto di dati personali
