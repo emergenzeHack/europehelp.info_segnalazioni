@@ -1,4 +1,42 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/61,1164291377,2022-07-06 12:27:06,2022-03-09 18:25:56,A Bari negozio di Wind Tre lancia una speciale promozione telefonica per rifugiati ucraini,41.1257843,16.8620293,Puglia,Bari,"[""Valid/Accettato"",""News"",""Services"",""Closed"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Bari"",""country"":""Italia"",""country_code"":""it"",""county"":""Bari"",""state"":""Puglia""},""boundingbox"":[""41.0160584"",""41.1697837"",""16.7172376"",""17.0334109""],""class"":""boundary"",""display_name"":""Bari, Puglia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7287183212532693,""lat"":""41.1257843"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.8620293"",""osm_id"":41038,""osm_type"":""relation"",""place_id"":283768030,""type"":""administrative""},""mode"":""autocomplete""},""description"":""A Bari negozio di Wind Tre lancia una speciale promozione telefonica per i rifugiati ucraini."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""WindTre"",""recipients"":"""",""submit"":true,""title"":""A Bari negozio di Wind Tre lancia una speciale promozione telefonica per rifugiati ucraini"",""type"":""materialGoods"",""url"":""https://twitter.com/ukraineinfohelp/status/1501604489115189252?t=zDwb9dEScReeSf9Y3mgeqA&s=19""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: WindTre
+title: A Bari negozio di Wind Tre lancia una speciale promozione telefonica per rifugiati
+  ucraini
+recipients: ''
+description: A Bari negozio di Wind Tre lancia una speciale promozione telefonica
+  per i rifugiati ucraini.
+url: https://twitter.com/ukraineinfohelp/status/1501604489115189252?t=zDwb9dEScReeSf9Y3mgeqA&s=19
+address:
+  mode: autocomplete
+  address:
+    place_id: 283768030
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 41038
+    boundingbox:
+    - '41.0160584'
+    - '41.1697837'
+    - '16.7172376'
+    - '17.0334109'
+    lat: '41.1257843'
+    lon: '16.8620293'
+    display_name: Bari, Puglia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7287183212532693
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Bari
+      county: Bari
+      state: Puglia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/60,1164287782,2022-07-06 11:52:24,2022-03-09 18:22:14,Cgil Nazionale attiva raccolta fondi per emergenza Ucraina ,,,,,"[""Valid/Accettato"",""fundraising"",""Closed""]",,,"{""bicSwift"":"""",""causal"":""EMERGENZA UCRAINA"",""ccPostal"":"""",""description"":""Cgil attiva raccolta fondi per emergenza Ucraina."",""email"":"""",""heading"":""CGIL Nazionale"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT18Y0103003201000007777787"",""label"":""fundraising"",""link"":""https://t.co/0AcmLZ8DWQ"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Cgil Nazionale""}","<pre><yamldata>
 title: Cgil Nazionale
 description: Cgil attiva raccolta fondi per emergenza Ucraina.
@@ -31886,44 +31924,6 @@ address:
       county: Palermo
       state: Sicilia
       postcode: '90143'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/61,1164291377,2022-03-18 16:30:48,2022-03-09 18:25:56,A Bari negozio di Wind Tre lancia una speciale promozione telefonica per rifugiati ucraini,41.1257843,16.8620293,Puglia,Bari,"[""Valid/Accettato"",""News"",""Services"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Bari"",""country"":""Italia"",""country_code"":""it"",""county"":""Bari"",""state"":""Puglia""},""boundingbox"":[""41.0160584"",""41.1697837"",""16.7172376"",""17.0334109""],""class"":""boundary"",""display_name"":""Bari, Puglia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7287183212532693,""lat"":""41.1257843"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.8620293"",""osm_id"":41038,""osm_type"":""relation"",""place_id"":283768030,""type"":""administrative""},""mode"":""autocomplete""},""description"":""A Bari negozio di Wind Tre lancia una speciale promozione telefonica per i rifugiati ucraini."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""WindTre"",""recipients"":"""",""submit"":true,""title"":""A Bari negozio di Wind Tre lancia una speciale promozione telefonica per rifugiati ucraini"",""type"":""materialGoods"",""url"":""https://twitter.com/ukraineinfohelp/status/1501604489115189252?t=zDwb9dEScReeSf9Y3mgeqA&s=19""}","<pre><yamldata>
-type: materialGoods
-offerFromWho: WindTre
-title: A Bari negozio di Wind Tre lancia una speciale promozione telefonica per rifugiati
-  ucraini
-recipients: ''
-description: A Bari negozio di Wind Tre lancia una speciale promozione telefonica
-  per i rifugiati ucraini.
-url: https://twitter.com/ukraineinfohelp/status/1501604489115189252?t=zDwb9dEScReeSf9Y3mgeqA&s=19
-address:
-  mode: autocomplete
-  address:
-    place_id: 283768030
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 41038
-    boundingbox:
-    - '41.0160584'
-    - '41.1697837'
-    - '16.7172376'
-    - '17.0334109'
-    lat: '41.1257843'
-    lon: '16.8620293'
-    display_name: Bari, Puglia, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7287183212532693
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Bari
-      county: Bari
-      state: Puglia
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
