@@ -1,4 +1,102 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/60,1164287782,2022-07-06 11:52:24,2022-03-09 18:22:14,Cgil Nazionale attiva raccolta fondi per emergenza Ucraina ,,,,,"[""Valid/Accettato"",""fundraising"",""Closed""]",,,"{""bicSwift"":"""",""causal"":""EMERGENZA UCRAINA"",""ccPostal"":"""",""description"":""Cgil attiva raccolta fondi per emergenza Ucraina."",""email"":"""",""heading"":""CGIL Nazionale"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT18Y0103003201000007777787"",""label"":""fundraising"",""link"":""https://t.co/0AcmLZ8DWQ"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Cgil Nazionale""}","<pre><yamldata>
+title: Cgil Nazionale
+description: Cgil attiva raccolta fondi per emergenza Ucraina.
+heading: CGIL Nazionale
+iban: IT18Y0103003201000007777787
+bicSwift: ''
+ccPostal: ''
+causal: EMERGENZA UCRAINA
+link: https://t.co/0AcmLZ8DWQ
+email: ''
+location:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/59,1164284993,2022-07-06 11:51:05,2022-03-09 18:19:15,"A Catania raccolta beni per l'Ucraina promossa da Anolf, Anteas, Cisl",37.5020169,15.0921942,Sicilia,Catania,"[""Valid/Accettato"",""Services"",""materialGoods"",""Closed"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Catania"",""country"":""Italia"",""country_code"":""it"",""county"":""Catania"",""neighbourhood"":""Civita"",""road"":""Via San Gaetano"",""state"":""Sicilia"",""suburb"":""Centro storico""},""boundingbox"":[""37.5014017"",""37.5026924"",""15.0920548"",""15.0923212""],""class"":""highway"",""display_name"":""Via San Gaetano, Civita, Centro storico, Catania, Sicilia, Italia"",""importance"":0.51,""lat"":""37.5020169"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.0921942"",""osm_id"":47367864,""osm_type"":""way"",""place_id"":114046374,""type"":""residential""},""mode"":""autocomplete""},""description"":""A Catania raccolta di beni per l'Ucraina promossa da Anolf, Anteas, Cisl sabato 6 e 12 marzo. Tutte le info al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Anolf"",""recipients"":"""",""submit"":true,""title"":""A Catania raccolta di beni per l'Ucraina promossa da Anolf, Anteas, Cisl"",""type"":""materialGoods"",""url"":""https://twitter.com/AnolfNazionale/status/1500539369026899971?t=9oFLwRUsZbhtsHX6xJ6jvQ&s=19""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: Anolf
+title: A Catania raccolta di beni per l'Ucraina promossa da Anolf, Anteas, Cisl
+recipients: ''
+description: A Catania raccolta di beni per l'Ucraina promossa da Anolf, Anteas, Cisl
+  sabato 6 e 12 marzo. Tutte le info al link.
+url: https://twitter.com/AnolfNazionale/status/1500539369026899971?t=9oFLwRUsZbhtsHX6xJ6jvQ&s=19
+address:
+  mode: autocomplete
+  address:
+    place_id: 114046374
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 47367864
+    boundingbox:
+    - '37.5014017'
+    - '37.5026924'
+    - '15.0920548'
+    - '15.0923212'
+    lat: '37.5020169'
+    lon: '15.0921942'
+    display_name: Via San Gaetano, Civita, Centro storico, Catania, Sicilia, Italia
+    class: highway
+    type: residential
+    importance: 0.51
+    address:
+      road: Via San Gaetano
+      neighbourhood: Civita
+      suburb: Centro storico
+      city: Catania
+      county: Catania
+      state: Sicilia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/58,1164280320,2022-07-06 11:50:24,2022-03-09 18:14:36,Comune di Reggio Emilia si attiva per Emergenza Ucraina: raccolta beni e accoglienza,44.608664,10.594796841892734,Emilia-Romagna,Reggio nell'Emilia,"[""Valid/Accettato"",""Services"",""materialGoods"",""hospitality"",""Closed"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Reggio nell'Emilia"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.225466"",""44.9920133"",""10.1423815"",""10.8971498""],""class"":""boundary"",""display_name"":""Reggio nell'Emilia, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8201048725335365,""lat"":""44.608664"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.594796841892734"",""osm_id"":42965,""osm_type"":""relation"",""place_id"":283395957,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Comune di Reggio Emilia ha organizzato un coordinamento cittadino per individuare le risposte pi\u00f9 adeguate per fronteggiare l'emergenza umanitaria, conseguenza della guerra in Ucraina.\n\nIn particolare sono attivi:\n- il centro per la raccolta di beni;\n- il modulo per offrire accoglienza ai profughi ucraini;\n- il numero di telefono unico richiedere informazioni e/o mettere a disposizione alloggi o qualsiasi altro tipo di aiuto per chi, in fuga dalla guerra, dovesse raggiungere Reggio: 0522 456655, attivo dal luned\u00ec al venerd\u00ec dalle 8.30 alle 12.30.\n- raccolta fondi.\n\n Tutte le info al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Reggio Emilia"",""recipients"":"""",""submit"":true,""title"":""Comune di Reggio Emilia si attiva per Emergenza Ucraina: raccolta beni e accoglienza"",""type"":""materialGoods"",""url"":""https://www.comune.re.it/ucraina""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: Comune di Reggio Emilia
+title: 'Comune di Reggio Emilia si attiva per Emergenza Ucraina: raccolta beni e accoglienza'
+recipients: ''
+description: ""Il Comune di Reggio Emilia ha organizzato un coordinamento cittadino\
+  \ per individuare le risposte più adeguate per fronteggiare l'emergenza umanitaria,\
+  \ conseguenza della guerra in Ucraina.\n\nIn particolare sono attivi:\n- il centro\
+  \ per la raccolta di beni;\n- il modulo per offrire accoglienza ai profughi ucraini;\n\
+  - il numero di telefono unico richiedere informazioni e/o mettere a disposizione\
+  \ alloggi o qualsiasi altro tipo di aiuto per chi, in fuga dalla guerra, dovesse\
+  \ raggiungere Reggio: 0522 456655, attivo dal lunedì al venerdì dalle 8.30 alle\
+  \ 12.30.\n- raccolta fondi.\n\n Tutte le info al link.""
+url: https://www.comune.re.it/ucraina
+address:
+  mode: autocomplete
+  address:
+    place_id: 283395957
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 42965
+    boundingbox:
+    - '44.225466'
+    - '44.9920133'
+    - '10.1423815'
+    - '10.8971498'
+    lat: '44.608664'
+    lon: '10.594796841892734'
+    display_name: Reggio nell'Emilia, Emilia-Romagna, Italia
+    class: boundary
+    type: administrative
+    importance: 0.8201048725335365
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      county: Reggio nell'Emilia
+      state: Emilia-Romagna
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/871,1293016874,2022-07-05 16:04:49,2022-07-04 11:10:33,Il Consiglio comunale di #Venezia ha approvato all'unanimità il #gemellaggio con #Odessa,45.4371908,12.3345898,Veneto,Venezia,"[""Valid/Accettato"",""News"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.4371908 12.3345898"",""description"":"""",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://primavenezia.it/attualita/il-consiglio-comunale-di-venezia-ha-approvato-allunanimita-il-gemellaggio-con-odessa/"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""city"":""Venezia"",""country"":""Italia"",""country_code"":""it"",""county"":""Venezia"",""state"":""Veneto""},""boundingbox"":[""45.2312466"",""45.5779981"",""12.1668349"",""12.5965709""],""class"":""boundary"",""display_name"":""Venezia, Veneto, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"",""importance"":0.8110194898827333,""lat"":""45.4371908"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.3345898"",""osm_id"":44741,""osm_type"":""relation"",""place_id"":283399921,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Il Consiglio comunale di #Venezia ha approvato all'unanimit\u00e0 il #gemellaggio con #Odessa""}","<pre><yamldata>
 title: 'Il Consiglio comunale di #Venezia ha approvato all''unanimità il #gemellaggio
   con #Odessa'
@@ -31086,48 +31184,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/58,1164280320,2022-03-19 08:28:39,2022-03-09 18:14:36,Comune di Reggio Emilia si attiva per Emergenza Ucraina: raccolta beni e accoglienza,44.608664,10.594796841892734,Emilia-Romagna,Reggio nell'Emilia,"[""Valid/Accettato"",""Services"",""materialGoods"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Reggio nell'Emilia"",""state"":""Emilia-Romagna""},""boundingbox"":[""44.225466"",""44.9920133"",""10.1423815"",""10.8971498""],""class"":""boundary"",""display_name"":""Reggio nell'Emilia, Emilia-Romagna, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8201048725335365,""lat"":""44.608664"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.594796841892734"",""osm_id"":42965,""osm_type"":""relation"",""place_id"":283395957,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Il Comune di Reggio Emilia ha organizzato un coordinamento cittadino per individuare le risposte pi\u00f9 adeguate per fronteggiare l'emergenza umanitaria, conseguenza della guerra in Ucraina.\n\nIn particolare sono attivi:\n- il centro per la raccolta di beni;\n- il modulo per offrire accoglienza ai profughi ucraini;\n- il numero di telefono unico richiedere informazioni e/o mettere a disposizione alloggi o qualsiasi altro tipo di aiuto per chi, in fuga dalla guerra, dovesse raggiungere Reggio: 0522 456655, attivo dal luned\u00ec al venerd\u00ec dalle 8.30 alle 12.30.\n- raccolta fondi.\n\n Tutte le info al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Comune di Reggio Emilia"",""recipients"":"""",""submit"":true,""title"":""Comune di Reggio Emilia si attiva per Emergenza Ucraina: raccolta beni e accoglienza"",""type"":""materialGoods"",""url"":""https://www.comune.re.it/ucraina""}","<pre><yamldata>
-type: materialGoods
-offerFromWho: Comune di Reggio Emilia
-title: 'Comune di Reggio Emilia si attiva per Emergenza Ucraina: raccolta beni e accoglienza'
-recipients: ''
-description: ""Il Comune di Reggio Emilia ha organizzato un coordinamento cittadino\
-  \ per individuare le risposte più adeguate per fronteggiare l'emergenza umanitaria,\
-  \ conseguenza della guerra in Ucraina.\n\nIn particolare sono attivi:\n- il centro\
-  \ per la raccolta di beni;\n- il modulo per offrire accoglienza ai profughi ucraini;\n\
-  - il numero di telefono unico richiedere informazioni e/o mettere a disposizione\
-  \ alloggi o qualsiasi altro tipo di aiuto per chi, in fuga dalla guerra, dovesse\
-  \ raggiungere Reggio: 0522 456655, attivo dal lunedì al venerdì dalle 8.30 alle\
-  \ 12.30.\n- raccolta fondi.\n\n Tutte le info al link.""
-url: https://www.comune.re.it/ucraina
-address:
-  mode: autocomplete
-  address:
-    place_id: 283395957
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 42965
-    boundingbox:
-    - '44.225466'
-    - '44.9920133'
-    - '10.1423815'
-    - '10.8971498'
-    lat: '44.608664'
-    lon: '10.594796841892734'
-    display_name: Reggio nell'Emilia, Emilia-Romagna, Italia
-    class: boundary
-    type: administrative
-    importance: 0.8201048725335365
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      county: Reggio nell'Emilia
-      state: Emilia-Romagna
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/66,1165396204,2022-03-19 08:28:08,2022-03-10 15:47:37,A Firenze e Livorno Regione Toscana attiva due hub di accoglienza per i rifugiati ucraini,43.801649,11.2156645,Toscana,Firenze,"[""Valid/Accettato"",""News"",""Services"",""hospitality"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""house_number"":""2/8"",""postcode"":""50127"",""road"":""Via dell'Olmatello"",""state"":""Toscana"",""suburb"":""Quartiere 5""},""boundingbox"":[""43.801599"",""43.801699"",""11.2156145"",""11.2157145""],""class"":""place"",""display_name"":""2/8, Via dell'Olmatello, Quartiere 5, Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, 50127, Italia"",""importance"":0.821,""lat"":""43.801649"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.2156645"",""osm_id"":2361720520,""osm_type"":""node"",""place_id"":21246633,""type"":""house""},""mode"":""autocomplete""},""description"":""Mercafir a Firenze, per la Toscana centrale, e il palazzetto dello sport di Livorno, per la costa, come i due front office per tutti gli ucraini che arrivano in Toscana e hanno bisogno di un aiuto o un\u2019indicazione, soprattutto rispetto all\u2019assistenza sanitaria o all\u2019alloggio."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Regione Toscana"",""recipients"":"""",""submit"":true,""title"":""A Firenze e Livorno Regione Toscana attiva due hub di accoglienza per i rifugiati ucraini"",""type"":""hospitality"",""url"":""https://www.redattoresociale.it/article/notiziario/ucraina_a_firenze_e_livorno_due_punti_di_accoglienza_profughi""}","<pre><yamldata>
 type: hospitality
 offerFromWho: Regione Toscana
@@ -31868,45 +31924,6 @@ address:
       city: Bari
       county: Bari
       state: Puglia
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/59,1164284993,2022-03-18 16:30:34,2022-03-09 18:19:15,"A Catania raccolta beni per l'Ucraina promossa da Anolf, Anteas, Cisl",37.5020169,15.0921942,Sicilia,Catania,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Catania"",""country"":""Italia"",""country_code"":""it"",""county"":""Catania"",""neighbourhood"":""Civita"",""road"":""Via San Gaetano"",""state"":""Sicilia"",""suburb"":""Centro storico""},""boundingbox"":[""37.5014017"",""37.5026924"",""15.0920548"",""15.0923212""],""class"":""highway"",""display_name"":""Via San Gaetano, Civita, Centro storico, Catania, Sicilia, Italia"",""importance"":0.51,""lat"":""37.5020169"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""15.0921942"",""osm_id"":47367864,""osm_type"":""way"",""place_id"":114046374,""type"":""residential""},""mode"":""autocomplete""},""description"":""A Catania raccolta di beni per l'Ucraina promossa da Anolf, Anteas, Cisl sabato 6 e 12 marzo. Tutte le info al link."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Anolf"",""recipients"":"""",""submit"":true,""title"":""A Catania raccolta di beni per l'Ucraina promossa da Anolf, Anteas, Cisl"",""type"":""materialGoods"",""url"":""https://twitter.com/AnolfNazionale/status/1500539369026899971?t=9oFLwRUsZbhtsHX6xJ6jvQ&s=19""}","<pre><yamldata>
-type: materialGoods
-offerFromWho: Anolf
-title: A Catania raccolta di beni per l'Ucraina promossa da Anolf, Anteas, Cisl
-recipients: ''
-description: A Catania raccolta di beni per l'Ucraina promossa da Anolf, Anteas, Cisl
-  sabato 6 e 12 marzo. Tutte le info al link.
-url: https://twitter.com/AnolfNazionale/status/1500539369026899971?t=9oFLwRUsZbhtsHX6xJ6jvQ&s=19
-address:
-  mode: autocomplete
-  address:
-    place_id: 114046374
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 47367864
-    boundingbox:
-    - '37.5014017'
-    - '37.5026924'
-    - '15.0920548'
-    - '15.0923212'
-    lat: '37.5020169'
-    lon: '15.0921942'
-    display_name: Via San Gaetano, Civita, Centro storico, Catania, Sicilia, Italia
-    class: highway
-    type: residential
-    importance: 0.51
-    address:
-      road: Via San Gaetano
-      neighbourhood: Civita
-      suburb: Centro storico
-      city: Catania
-      county: Catania
-      state: Sicilia
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
@@ -33776,23 +33793,6 @@ location:
   address: {}
 label: fakenews
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/60,1164287782,2022-03-10 22:40:13,2022-03-09 18:22:14,Cgil Nazionale attiva raccolta fondi per emergenza Ucraina ,,,,,"[""Valid/Accettato"",""fundraising""]",,,"{""bicSwift"":"""",""causal"":""EMERGENZA UCRAINA"",""ccPostal"":"""",""description"":""Cgil attiva raccolta fondi per emergenza Ucraina."",""email"":"""",""heading"":""CGIL Nazionale"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT18Y0103003201000007777787"",""label"":""fundraising"",""link"":""https://t.co/0AcmLZ8DWQ"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Cgil Nazionale""}","<pre><yamldata>
-title: Cgil Nazionale
-description: Cgil attiva raccolta fondi per emergenza Ucraina.
-heading: CGIL Nazionale
-iban: IT18Y0103003201000007777787
-bicSwift: ''
-ccPostal: ''
-causal: EMERGENZA UCRAINA
-link: https://t.co/0AcmLZ8DWQ
-email: ''
-location:
-  mode: autocomplete
-  address: {}
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: fundraising
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/63,1164577161,2022-03-10 22:10:19,2022-03-09 23:59:10,MEDU - Medici per i diritti umani apre raccolta fondi per emergenza Ucraina,41.8933203,12.4829321,Lazio,Roma,"[""Valid/Accettato"",""fundraising""]",,,"{""Posizione"":""41.8933203 12.4829321"",""bicSwift"":""CCRTIT2T84A"",""causal"":""EMERGENZA  UCRAINA"",""ccPostal"":"""",""description"":""Raccolta fondi sostenere gli interventi di MEDU in Italia ed in Romania. Info qui: https://mediciperidirittiumani.org/emergenza-ucraina-aiutaci-a-fare-la-nostra-parte/"",""email"":""comunicazione@mediciperidirittiumani.org"",""heading"":""Medici per i Diritti Umani"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT38F0501803200000011130242"",""label"":""fundraising"",""link"":""https://mediciperidirittiumani.org/sostieni/?fbclid=IwAR3Tf0M0mRplWwkVsS6pUJHSKW233aWhbJ4FpKWxSR9jurcl_k_4iT5xxfc#dona"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7896107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""MEDU - Medici per i diritti umani""}","<pre><yamldata>
