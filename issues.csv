@@ -1,4 +1,45 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/63,1164577161,2022-07-06 12:46:58,2022-03-09 23:59:10,#raccoltafondi #donazioni MEDU - Medici per i diritti umani per emergenza Ucraina,41.8933203,12.4829321,Lazio,Roma,"[""Valid/Accettato"",""fundraising"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""41.8933203 12.4829321"",""bicSwift"":""CCRTIT2T84A"",""causal"":""EMERGENZA  UCRAINA"",""ccPostal"":"""",""description"":""Raccolta fondi sostenere gli interventi di MEDU in Italia ed in Romania. Info qui: https://mediciperidirittiumani.org/emergenza-ucraina-aiutaci-a-fare-la-nostra-parte/"",""email"":""comunicazione@mediciperidirittiumani.org"",""heading"":""Medici per i Diritti Umani"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT38F0501803200000011130242"",""label"":""fundraising"",""link"":""https://mediciperidirittiumani.org/sostieni/?fbclid=IwAR3Tf0M0mRplWwkVsS6pUJHSKW233aWhbJ4FpKWxSR9jurcl_k_4iT5xxfc#dona"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7896107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""MEDU - Medici per i diritti umani""}","<pre><yamldata>
+title: MEDU - Medici per i diritti umani
+description: 'Raccolta fondi sostenere gli interventi di MEDU in Italia ed in Romania.
+  Info qui: https://mediciperidirittiumani.org/emergenza-ucraina-aiutaci-a-fare-la-nostra-parte/'
+heading: Medici per i Diritti Umani
+iban: IT38F0501803200000011130242
+bicSwift: CCRTIT2T84A
+ccPostal: ''
+causal: EMERGENZA  UCRAINA
+link: https://mediciperidirittiumani.org/sostieni/?fbclid=IwAR3Tf0M0mRplWwkVsS6pUJHSKW233aWhbJ4FpKWxSR9jurcl_k_4iT5xxfc#dona
+email: comunicazione@mediciperidirittiumani.org
+location:
+  mode: autocomplete
+  address:
+    place_id: 283767136
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 41485
+    boundingbox:
+    - '41.6556417'
+    - '42.1410285'
+    - '12.2344669'
+    - '12.8557603'
+    lat: '41.8933203'
+    lon: '12.4829321'
+    display_name: Roma, Roma Capitale, Lazio, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7896107180689524
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+Posizione: 41.8933203 12.4829321
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/62,1164309482,2022-07-06 12:33:33,2022-03-09 18:45:32,Gruppo #telegram Comitato Salva Ucraini di #Palermo,38.1112268,13.3524434,Sicilia,Palermo,"[""Valid/Accettato"",""Help"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""38.1112268 13.3524434"",""description"":""Il Comitato Salva Ucraini di Palermo cerca volontari che parlino ucraino e italiano per aiutare i rifugiati ucraini in arrivo a Palermo.\nIl gruppo ha attivato anche una chat Telegram (vedi link)."",""email"":""salva.ucraini.palermo@gmail.com"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""state"":""Sicilia""},""boundingbox"":[""38.0499137"",""38.2245866"",""13.242219"",""13.4520856""],""class"":""boundary"",""display_name"":""Palermo, Sicilia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7661148171447915,""lat"":""38.1112268"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3524434"",""osm_id"":39513,""osm_type"":""relation"",""place_id"":284307182,""type"":""administrative""},""mode"":""autocomplete""},""nameSurname"":""Comitato Salva Ucraini Palermo"",""phoneNumber"":"""",""recipients"":"""",""submit"":true,""title"":""Il Comitato Salva Ucraini di Palermo cerca volontari che parlino ucraino e italiano"",""url"":""https://t.me/ucraini_a_palermo""}","<pre><yamldata>
 nameSurname: Comitato Salva Ucraini Palermo
 phoneNumber: ''
@@ -33794,45 +33835,4 @@ location:
 label: fakenews
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/63,1164577161,2022-03-10 22:10:19,2022-03-09 23:59:10,MEDU - Medici per i diritti umani apre raccolta fondi per emergenza Ucraina,41.8933203,12.4829321,Lazio,Roma,"[""Valid/Accettato"",""fundraising""]",,,"{""Posizione"":""41.8933203 12.4829321"",""bicSwift"":""CCRTIT2T84A"",""causal"":""EMERGENZA  UCRAINA"",""ccPostal"":"""",""description"":""Raccolta fondi sostenere gli interventi di MEDU in Italia ed in Romania. Info qui: https://mediciperidirittiumani.org/emergenza-ucraina-aiutaci-a-fare-la-nostra-parte/"",""email"":""comunicazione@mediciperidirittiumani.org"",""heading"":""Medici per i Diritti Umani"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT38F0501803200000011130242"",""label"":""fundraising"",""link"":""https://mediciperidirittiumani.org/sostieni/?fbclid=IwAR3Tf0M0mRplWwkVsS6pUJHSKW233aWhbJ4FpKWxSR9jurcl_k_4iT5xxfc#dona"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""state"":""Lazio""},""boundingbox"":[""41.6556417"",""42.1410285"",""12.2344669"",""12.8557603""],""class"":""boundary"",""display_name"":""Roma, Roma Capitale, Lazio, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7896107180689524,""lat"":""41.8933203"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4829321"",""osm_id"":41485,""osm_type"":""relation"",""place_id"":283767136,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""MEDU - Medici per i diritti umani""}","<pre><yamldata>
-title: MEDU - Medici per i diritti umani
-description: 'Raccolta fondi sostenere gli interventi di MEDU in Italia ed in Romania.
-  Info qui: https://mediciperidirittiumani.org/emergenza-ucraina-aiutaci-a-fare-la-nostra-parte/'
-heading: Medici per i Diritti Umani
-iban: IT38F0501803200000011130242
-bicSwift: CCRTIT2T84A
-ccPostal: ''
-causal: EMERGENZA  UCRAINA
-link: https://mediciperidirittiumani.org/sostieni/?fbclid=IwAR3Tf0M0mRplWwkVsS6pUJHSKW233aWhbJ4FpKWxSR9jurcl_k_4iT5xxfc#dona
-email: comunicazione@mediciperidirittiumani.org
-location:
-  mode: autocomplete
-  address:
-    place_id: 283767136
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 41485
-    boundingbox:
-    - '41.6556417'
-    - '42.1410285'
-    - '12.2344669'
-    - '12.8557603'
-    lat: '41.8933203'
-    lon: '12.4829321'
-    display_name: Roma, Roma Capitale, Lazio, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7896107180689524
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: fundraising
-submit: true
-Posizione: 41.8933203 12.4829321
 </yamldata></pre>",open
