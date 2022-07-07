@@ -1,4 +1,54 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/70,1165425801,2022-07-07 13:51:13,2022-03-10 16:12:00,#raccolta fondi per l'emergenza Ucraina della Federazione Chiese Evangeliche Italia #fcei #donazioni,41.9032623,12.4931881,Lazio,Roma,"[""Valid/Accettato"",""fundraising"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""41.9032623 12.4931881"",""bicSwift"":"""",""causal"":""Sottoscrizione Ucraina"",""ccPostal"":"""",""description"":""FCEI lancia una sottoscrizione straordinaria finalizzata a raccogliere fondi da destinare ad azioni di accoglienza, protezione e sostegno dei profughi ucraini da realizzarsi primariamente in Italia e in Polonia. Donazioni via bonifico e Paypal (vedi link)."",""email"":"""",""heading"":""Federazione delle Chiese Evangeliche in Italia \u2013 Via Firenze 38, 00184 Roma"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT 26 X 02008 05203 000104203419"",""label"":""fundraising"",""link"":""https://www.fcei.it/2022/03/02/sottoscrizione-ucraina/"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""38"",""postcode"":""00187"",""quarter"":""Castro Pretorio"",""road"":""Via Firenze"",""state"":""Lazio"",""suburb"":""Municipio Roma I"",""tourism"":""Oceania""},""boundingbox"":[""41.9032123"",""41.9033123"",""12.4931381"",""12.4932381""],""class"":""tourism"",""display_name"":""Oceania, 38, Via Firenze, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//accommodation_hotel2.p.20.png"",""importance"":0.42099999999999993,""lat"":""41.9032623"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4931881"",""osm_id"":4320231720,""osm_type"":""node"",""place_id"":49160628,""type"":""hotel""},""mode"":""autocomplete""},""submit"":true,""title"":""Federazione Chiese Evangeliche Italia""}","<pre><yamldata>
+title: Federazione Chiese Evangeliche Italia
+description: 'FCEI lancia una sottoscrizione straordinaria finalizzata a
+  raccogliere fondi da destinare ad azioni di accoglienza, protezione e sostegno dei
+  profughi ucraini da realizzarsi primariamente in Italia e in Polonia.
+ Donazioni via bonifico e Paypal (vedi link).'
+heading: Federazione delle Chiese Evangeliche in Italia – Via Firenze 38, 00184 Roma
+iban: IT 26 X 02008 05203 000104203419
+bicSwift: ''
+ccPostal: ''
+causal: Sottoscrizione Ucraina
+link: https://www.fcei.it/2022/03/02/sottoscrizione-ucraina/
+email: ''
+location:
+  mode: autocomplete
+  address:
+    place_id: 49160628
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 4320231720
+    boundingbox:
+    - '41.9032123'
+    - '41.9033123'
+    - '12.4931381'
+    - '12.4932381'
+    lat: '41.9032623'
+    lon: '12.4931881'
+    display_name: Oceania, 38, Via Firenze, Castro Pretorio, Municipio Roma I, Roma,
+      Roma Capitale, Lazio, 00187, Italia
+    class: tourism
+    type: hotel
+    importance: 0.42099999999999993
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//accommodation_hotel2.p.20.png
+    address:
+      tourism: Oceania
+      house_number: '38'
+      road: Via Firenze
+      quarter: Castro Pretorio
+      suburb: Municipio Roma I
+      city: Roma
+      county: Roma Capitale
+      state: Lazio
+      postcode: 00187
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+label: fundraising
+submit: true
+Posizione: 41.9032623 12.4931881
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/69,1165421436,2022-07-07 13:45:15,2022-03-10 16:08:00,"La Diaconia Valdese cerca mediatori linguistici di lingua ucraina per Pinerolo (To), Torino, Milano, Genova, Bologna, Firenze, Roma e Napoli",44.8220826,7.2290893,Piemonte,Torino,"[""Valid/Accettato"",""Help"",""translation"",""job"",""Closed"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""44.8220826 7.2290893"",""description"":""La Diaconia Valdese \u2013 Servizi Inclusione seleziona per i propri servizi di accoglienza e di sportello, mediatori e mediatrici in lingua ucraina.\nI servizi sono attivi nelle citt\u00e0 di Pinerolo (TO), Torino, Milano, Genova, Bologna, Firenze, Roma e Napoli\nInviare curriculum vitae a ricercapersonale@diaconiavaldese.org\nE\u2019 richiesta disponibilit\u00e0 immediata per impiego part-time 19 ore settimanali"",""email"":""ricercapersonale@diaconiavaldese.org"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Torino"",""hamlet"":""Simound"",""postcode"":""10066"",""road"":""Via Angrogna"",""state"":""Piemonte"",""village"":""Torre Pellice""},""boundingbox"":[""44.8205961"",""44.8237564"",""7.2286703"",""7.2291968""],""class"":""highway"",""display_name"":""Via Angrogna, Simound, Torre Pellice, Torino, Piemonte, 10066, Italia"",""importance"":0.4,""lat"":""44.8220826"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""7.2290893"",""osm_id"":143598496,""osm_type"":""way"",""place_id"":136377592,""type"":""residential""},""mode"":""autocomplete""},""nameSurname"":""Diaconia Valdese"",""phoneNumber"":"""",""recipients"":""Mediatori linguistici"",""submit"":true,""title"":""La Diaconia Valdese cerca mediatori linguistici di lingua ucraina per Pinerolo (To), Torino, Milano, Genova, Bologna, Firenze, Roma e Napoli."",""url"":""https://www.job4good.it/offerta-lavoro/mediatori-linguistico-culturali/""}","<pre><yamldata>
 nameSurname: Diaconia Valdese
 phoneNumber: ''
@@ -16914,56 +16964,6 @@ address:
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/70,1165425801,2022-04-12 09:10:38,2022-03-10 16:12:00,Raccolta fondi Emergenza Ucraina della Federazione Chiese Evangeliche Italia ,41.9032623,12.4931881,Lazio,Roma,"[""Valid/Accettato"",""fundraising""]",,,"{""Posizione"":""41.9032623 12.4931881"",""bicSwift"":"""",""causal"":""Sottoscrizione Ucraina"",""ccPostal"":"""",""description"":""FCEI lancia una sottoscrizione straordinaria finalizzata a raccogliere fondi da destinare ad azioni di accoglienza, protezione e sostegno dei profughi ucraini da realizzarsi primariamente in Italia e in Polonia. Donazioni via bonifico e Paypal (vedi link)."",""email"":"""",""heading"":""Federazione delle Chiese Evangeliche in Italia \u2013 Via Firenze 38, 00184 Roma"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT 26 X 02008 05203 000104203419"",""label"":""fundraising"",""link"":""https://www.nev.it/nev/2022/03/01/ucraina-chiese-protestanti-no-alle-armi-aprire-canali-di-protezione-umanitaria-pronti-a-fare-nostra-parte-per-accoglienza/"",""location"":{""address"":{""address"":{""city"":""Roma"",""country"":""Italia"",""country_code"":""it"",""county"":""Roma Capitale"",""house_number"":""38"",""postcode"":""00187"",""quarter"":""Castro Pretorio"",""road"":""Via Firenze"",""state"":""Lazio"",""suburb"":""Municipio Roma I"",""tourism"":""Oceania""},""boundingbox"":[""41.9032123"",""41.9033123"",""12.4931381"",""12.4932381""],""class"":""tourism"",""display_name"":""Oceania, 38, Via Firenze, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//accommodation_hotel2.p.20.png"",""importance"":0.42099999999999993,""lat"":""41.9032623"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.4931881"",""osm_id"":4320231720,""osm_type"":""node"",""place_id"":49160628,""type"":""hotel""},""mode"":""autocomplete""},""submit"":true,""title"":""Federazione Chiese Evangeliche Italia""}","<pre><yamldata>
-title: Federazione Chiese Evangeliche Italia
-description: 'FCEI lancia una sottoscrizione straordinaria finalizzata a
-  raccogliere fondi da destinare ad azioni di accoglienza, protezione e sostegno dei
-  profughi ucraini da realizzarsi primariamente in Italia e in Polonia.
- Donazioni via bonifico e Paypal (vedi link).'
-heading: Federazione delle Chiese Evangeliche in Italia – Via Firenze 38, 00184 Roma
-iban: IT 26 X 02008 05203 000104203419
-bicSwift: ''
-ccPostal: ''
-causal: Sottoscrizione Ucraina
-link: https://www.nev.it/nev/2022/03/01/ucraina-chiese-protestanti-no-alle-armi-aprire-canali-di-protezione-umanitaria-pronti-a-fare-nostra-parte-per-accoglienza/
-email: ''
-location:
-  mode: autocomplete
-  address:
-    place_id: 49160628
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 4320231720
-    boundingbox:
-    - '41.9032123'
-    - '41.9033123'
-    - '12.4931381'
-    - '12.4932381'
-    lat: '41.9032623'
-    lon: '12.4931881'
-    display_name: Oceania, 38, Via Firenze, Castro Pretorio, Municipio Roma I, Roma,
-      Roma Capitale, Lazio, 00187, Italia
-    class: tourism
-    type: hotel
-    importance: 0.42099999999999993
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//accommodation_hotel2.p.20.png
-    address:
-      tourism: Oceania
-      house_number: '38'
-      road: Via Firenze
-      quarter: Castro Pretorio
-      suburb: Municipio Roma I
-      city: Roma
-      county: Roma Capitale
-      state: Lazio
-      postcode: 00187
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-label: fundraising
-submit: true
-Posizione: 41.9032623 12.4931881
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/574,1198774920,2022-04-12 07:51:33,2022-04-09 21:21:12,Associazione donne ucraine “Djerlo” Pavia - Contatti,45.036854649999995,9.137825082826026,Lombardia,Pavia,"[""Valid/Accettato"",""useful contact"",""women"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Pavia"",""state"":""Lombardia""},""boundingbox"":[""44.6799091"",""45.393838"",""8.4978518"",""9.5505475""],""class"":""boundary"",""display_name"":""Pavia, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7422019961097704,""lat"":""45.036854649999995"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.137825082826026"",""osm_id"":43483,""osm_type"":""relation"",""place_id"":283772748,""type"":""administrative""},""mode"":""autocomplete""},""aim"":""Presidente dell\u2019Associazione \u00e8 Dina Petelko."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""useful contact"",""phoneNumber"":""388 951 4717 (Presidente)"",""submit"":true,""title"":""Associazione donne ucraine \u201cDjerlo\u201d Pavia"",""url"":""https://www.csvlombardia.it/senza-categoria/post/ucraina-per-chi-cerca-aiuto-in-provincia-di-pavia-gruppi-ucraini/#1648563582350-83e955e6-08ff""}","<pre><yamldata>
 title: Associazione donne ucraine “Djerlo” Pavia
