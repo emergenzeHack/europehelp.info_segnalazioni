@@ -1,4 +1,64 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/883,1297425223,2022-07-07 13:27:28,2022-07-07 13:16:34,Centro di #raccolta donazioni per l’Ucraina a #ReggioEmilia,44.692117,10.6528278,Emilia-Romagna,Reggio nell'Emilia,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-45"",""city"":""Reggio nell'Emilia"",""country"":""Italia"",""country_code"":""it"",""county"":""Reggio nell'Emilia"",""neighbourhood"":""Rione Don Pasquino Borghi"",""postcode"":""42122"",""road"":""Via Giuseppe Turri"",""state"":""Emilia-Romagna"",""suburb"":""Ospizio""},""boundingbox"":[""44.6912343"",""44.6929829"",""10.6524607"",""10.6529449""],""class"":""highway"",""display_name"":""Via Giuseppe Turri, Rione Don Pasquino Borghi, Ospizio, Reggio nell'Emilia, Emilia-Romagna, 42122, Italia"",""importance"":0.5,""lat"":""44.692117"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.6528278"",""osm_id"":733681286,""osm_type"":""way"",""place_id"":245364682,""type"":""tertiary""},""mode"":""autocomplete""},""description"":""L\u2019Associazione dei volontari ucraini in Italia \u2013 \u0410\u0412\u0423\u0406, ha aperto in via Turri 69/A a Reggio Emilia ha aperto un centro di raccolta, ufficializzato dallo stesso Consolato generale d\u2019Ucraina a Milano, per la donazione di prodotti di prima necessit\u00e0.\nIl punto di raccolta in Via Turri 69/A \u00e8 aperto dalle 8 alle 20, per informazioni 329 176 3080 e volontariucraini.it@gmail.com."",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione dei volontari ucraini in Italia \u2013 \u0410\u0412\u0423\u0406"",""recipients"":""Volontari"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Centro di #raccolta donazioni per l\u2019Ucraina a #ReggioEmilia"",""url"":""https://reggio.csvemilia.it/wp-content/uploads/sites/4/2022/03/raccolta-aiuti-ucraini-reggio-emilia.png""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Associazione dei volontari ucraini in Italia – АВУІ
+title: 'Centro di #raccolta donazioni per l’Ucraina a #ReggioEmilia'
+recipients: Volontari
+description: 'L’Associazione dei volontari ucraini in Italia – АВУІ, ha aperto in
+  via Turri 69/A a Reggio Emilia ha aperto un centro di raccolta, ufficializzato dallo
+  stesso Consolato generale d’Ucraina a Milano, per la donazione di prodotti di prima
+  necessità.
+
+  Il punto di raccolta in Via Turri 69/A è aperto dalle 8 alle 20, per informazioni
+  329 176 3080 e volontariucraini.it@gmail.com.'
+url: https://reggio.csvemilia.it/wp-content/uploads/sites/4/2022/03/raccolta-aiuti-ucraini-reggio-emilia.png
+address:
+  mode: autocomplete
+  address:
+    place_id: 245364682
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 733681286
+    boundingbox:
+    - '44.6912343'
+    - '44.6929829'
+    - '10.6524607'
+    - '10.6529449'
+    lat: '44.692117'
+    lon: '10.6528278'
+    display_name: Via Giuseppe Turri, Rione Don Pasquino Borghi, Ospizio, Reggio nell'Emilia,
+      Emilia-Romagna, 42122, Italia
+    class: highway
+    type: tertiary
+    importance: 0.5
+    address:
+      road: Via Giuseppe Turri
+      neighbourhood: Rione Don Pasquino Borghi
+      suburb: Ospizio
+      city: Reggio nell'Emilia
+      county: Reggio nell'Emilia
+      state: Emilia-Romagna
+      ISO3166-2-lvl4: IT-45
+      postcode: '42122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+iAuthorizeTheProcessingOfPersonalSensitiveData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/870,1292994483,2022-07-06 15:48:34,2022-07-04 10:52:27,ПРОЕКТ ІЗ ЗАБЕЗПЕЧЕННЯ ПРИЙОМУ ТА РОБОЧИХ МІСЦЬ,42.6384261,12.674297,Umbria,Terni,"[""Valid/Accettato"",""Services"",""job"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it""},""boundingbox"":[""35.2889616"",""47.0921462"",""6.6272658"",""18.7844746""],""class"":""boundary"",""display_name"":""Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"",""importance"":0.9831019031440554,""lat"":""42.6384261"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.674297"",""osm_id"":365331,""osm_type"":""relation"",""place_id"":284007015,""type"":""administrative""},""mode"":""autocomplete""},""description"":""\u0414\u043e\u0440\u043e\u0433\u0456 \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456!\n\u041f\u043e\u0432\u0456\u0434\u043e\u043c\u043b\u044f\u0454\u043c\u043e, \u0449\u043e \u0456\u0442\u0430\u043b\u0456\u0439\u0441\u044c\u043a\u043e\u044e \u0430\u0433\u0435\u043d\u0446\u0456\u0454\u044e Assolavoro \u0440\u0430\u0437\u043e\u043c \u0456\u0437 \u043f\u0440\u043e\u0444\u0441\u043f\u0456\u043b\u043a\u0430\u043c\u0438 Nidil Cgil, Felsa Cisl \u0442\u0430 Uiltemp \u0431\u0443\u043b\u043e \u043f\u0456\u0434\u043f\u0438\u0441\u0430\u043d\u043e \u0423\u0433\u043e\u0434\u0443 \u043f\u0440\u043e \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u043a\u0443 \u0433\u0440\u043e\u043c\u0430\u0434\u044f\u043d \u0423\u043a\u0440\u0430\u0457\u043d\u0438, \u044f\u043a\u0456 \u043a\u043e\u0440\u0438\u0441\u0442\u0443\u044e\u0442\u044c\u0441\u044f \u043c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u043c, \u0442\u0438\u043c\u0447\u0430\u0441\u043e\u0432\u0438\u043c \u0430\u0431\u043e \u0441\u043f\u0435\u0446\u0456\u0430\u043b\u044c\u043d\u0438\u043c \u0437\u0430\u0445\u0438\u0441\u0442\u043e\u043c, \u0441\u043f\u0440\u044f\u043c\u043e\u0432\u0430\u043d\u0443 \u043d\u0430 \u0441\u043f\u0440\u0438\u044f\u043d\u043d\u044f \u0457\u0445\u043d\u044c\u043e\u043c\u0443 \u043f\u0440\u0438\u0439\u043e\u043c\u0443, \u0430\u0434\u0430\u043f\u0442\u0430\u0446\u0456\u0457, \u0441\u043e\u0446\u0456\u0430\u043b\u044c\u043d\u0456\u0439 \u0442\u0430 \u0442\u0440\u0443\u0434\u043e\u0432\u0456\u0439 \u0456\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0456\u0457 \u043d\u0430 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0456\u0457 \u043a\u0440\u0430\u0457\u043d\u0438.\n\u0414\u0456\u0437\u043d\u0430\u0442\u0438\u0441\u044f \u0431\u0456\u043b\u044c\u0448\u0435 \u043f\u0440\u043e \u0434\u0456\u0430\u043f\u0430\u0437\u043e\u043d \u043f\u043e\u0441\u043b\u0443\u0433 \u0434\u043b\u044f \u0441\u043e\u0446\u0456\u0430\u043b\u044c\u043d\u043e\u0457 \u0456\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0456\u0457 \u0442\u0430 \u0434\u043e\u0441\u0442\u0443\u043f\u0443 \u0434\u043e \u0440\u043e\u0431\u043e\u0447\u0438\u0445 \u043c\u0456\u0441\u0446\u044c, \u0449\u043e \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u043e \u0433\u0430\u0440\u0430\u043d\u0442\u0443\u044e\u0442\u044c\u0441\u044f \u0441\u043b\u0443\u0436\u0431\u0430\u043c\u0438 \u0406\u0442\u0430\u043b\u0456\u0457 \u0432\u0438 \u043c\u043e\u0436\u0435\u0442\u0435 \u043f\u0435\u0440\u0435\u0439\u0448\u043e\u0432\u0448\u0438 \u0437\u0430 \u043f\u043e\u0441\u0438\u043b\u0430\u043d\u043d\u044f\u043c: https://assolavoro.eu/welcome-and-work-project-ukraine-version/\n\u0414\u043b\u044f \u0432\u0430\u0448\u043e\u0457 \u0437\u0440\u0443\u0447\u043d\u043e\u0441\u0442\u0456 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430 \u043f\u0440\u0430\u0446\u044e\u0454 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u044e \u043c\u043e\u0432\u043e\u044e"",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Assolavoro"",""recipients"":""Rifugiati temporanei ucraini"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":true,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""\u041f\u0420\u041e\u0415\u041a\u0422 \u0406\u0417 \u0417\u0410\u0411\u0415\u0417\u041f\u0415\u0427\u0415\u041d\u041d\u042f \u041f\u0420\u0418\u0419\u041e\u041c\u0423 \u0422\u0410 \u0420\u041e\u0411\u041e\u0427\u0418\u0425 \u041c\u0406\u0421\u0426\u042c"",""url"":""https://assolavoro.eu/welcome-and-work-project-ukraine-version/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
