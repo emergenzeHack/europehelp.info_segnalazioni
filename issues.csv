@@ -1,4 +1,16 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/75,1166626941,2022-07-08 15:11:14,2022-03-11 16:37:00,"UkraineFacts.org, osservatorio internazionale su #fakenews e #guerra in Ucraina #debunking",,,,,"[""Valid/Accettato"",""News"",""fakenews"",""telegram-channel"",""tweet"",""Resources""]",,,"{""description"":""Piattaforma promossa dall'International Fact-checking Network Signatories che mappa nel mondo e smonta le fake news relative alla guerra in Ucraina."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""fakenews"",""link"":""https://ukrainefacts.org"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""UkraineFacts.org, osservatorio internazionale su fake news e guerra in Ucraina""}","<pre><yamldata>
+title: UkraineFacts.org, osservatorio internazionale su fake news e guerra in Ucraina
+description: Piattaforma promossa dall'International Fact-checking Network Signatories
+  che mappa nel mondo e smonta le fake news relative alla guerra in Ucraina.
+link: https://ukrainefacts.org
+location:
+  mode: autocomplete
+  address: {}
+label: fakenews
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/73,1165441654,2022-07-08 15:06:40,2022-03-10 16:22:08,Online eu4ua.org piattaforma europea per offrire #alloggio ai rifugiati ucraini (anche in italiano) #eu4ua,,,,,"[""Valid/Accettato"",""News"",""Services"",""hospitality"",""telegram-channel"",""tweet"",""Resources""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Online it.eu4ua.org piattaforma europea multilingue, disponibile anche in italiano, che aiuta l'incontro tra ospitanti europei e profughi ucraini in cerca di un #alloggio."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Europe for Uckraine"",""recipients"":"""",""submit"":true,""title"":""Online it.eu4ua.org piattaforma europea multilingue, disponibile anche in italiano, che aiuta l'incontro tra ospitanti europei e profughi ucraini in cerca di alloggio"",""type"":""hospitality"",""url"":""https://it.eu4ua.org""}","<pre><yamldata>
 type: hospitality
 offerFromWho: Europe for Uckraine
@@ -30177,18 +30189,6 @@ address:
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/75,1166626941,2022-03-21 16:32:05,2022-03-11 16:37:00,"UkraineFacts.org, osservatorio internazionale su fake news e guerra in Ucraina",,,,,"[""Valid/Accettato"",""News"",""fakenews"",""telegram-channel"",""tweet"",""Resources""]",,,"{""description"":""Piattaforma promossa dall'International Fact-checking Network Signatories che mappa nel mondo e smonta le fake news relative alla guerra in Ucraina."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""fakenews"",""link"":""https://ukrainefacts.org"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""UkraineFacts.org, osservatorio internazionale su fake news e guerra in Ucraina""}","<pre><yamldata>
-title: UkraineFacts.org, osservatorio internazionale su fake news e guerra in Ucraina
-description: Piattaforma promossa dall'International Fact-checking Network Signatories
-  che mappa nel mondo e smonta le fake news relative alla guerra in Ucraina.
-link: https://ukrainefacts.org
-location:
-  mode: autocomplete
-  address: {}
-label: fakenews
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/257,1175316701,2022-03-21 16:31:08,2022-03-21 12:31:49,Provincia di Trento apre Fondo di solidarietà Ucraina dove i lavoratori trentini potranno versare una o più ore di lavoro ,46.102817,11.129543099871789,Trentino-Alto Adige,Trento,"[""Valid/Accettato"",""News"",""Services"",""fundraising"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""46.102817 11.129543099871789"",""description"":""Nasce il \u201cFondo di solidariet\u00e0 - Emergenza Ucraina 2022\u201d nel quale i lavoratori del settore pubblico e privato potranno versare una o pi\u00f9 ore di lavoro, dando adesione in modo libero e volontario ."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.ufficiostampa.provincia.tn.it/Comunicati/Emergenza-Ucraina-la-societa-civile-in-un-accordo-di-solidarieta"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Provincia di Trento"",""state"":""Trentino-Alto Adige""},""boundingbox"":[""45.6728669"",""46.5327643"",""10.4522048"",""11.9628023""],""class"":""boundary"",""display_name"":""Provincia di Trento, Trentino-Alto Adige, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7380075390399246,""lat"":""46.102817"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.129543099871789"",""osm_id"":45756,""osm_type"":""relation"",""place_id"":283226448,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Provincia di Trento: aperto un conto corrente per raccogliere l\u2019equivalente in denaro di ore di lavoro donate dai trentini""}","<pre><yamldata>
