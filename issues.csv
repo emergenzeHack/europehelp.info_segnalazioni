@@ -1,4 +1,42 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/77,1166646079,2022-07-08 15:20:38,2022-03-11 16:55:19,"Gruppo #Facebook ""Aiuta Profughi Ucraini Italia"" per offrire accoglienza e aiuti",45.4641943,9.1896346,Lombardia,Milano,"[""Valid/Accettato"",""News"",""Services"",""useful contact"",""materialGoods"",""hospitality"",""telegram-channel"",""tweet"",""Resources""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20122"",""state"":""Lombardia""},""boundingbox"":[""45.3041943"",""45.6241943"",""9.0296346"",""9.3496346""],""class"":""place"",""display_name"":""Milano, Lombardia, 20122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.8390652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":62505581,""osm_type"":""node"",""place_id"":286263950,""type"":""city""},""mode"":""autocomplete""},""aim"":""Gruppo Facebook, aperto da un gruppo di cittadini ucraini a Milano, che offre info utili e aiuta i profughi ucraini a trovare supporto e accoglienza in Italia, in particolare nord Italia."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":"""",""submit"":true,""title"":""Gruppo Facebook \""Aiuta Profughi Ucraini Italia\"""",""url"":""https://www.facebook.com/groups/1373754006378987/?ref=share""}","<pre><yamldata>
+title: Gruppo Facebook ""Aiuta Profughi Ucraini Italia""
+phoneNumber: ''
+email: ''
+aim: Gruppo Facebook, aperto da un gruppo di cittadini ucraini a Milano, che offre
+  info utili e aiuta i profughi ucraini a trovare supporto e accoglienza in Italia,
+  in particolare nord Italia.
+url: https://www.facebook.com/groups/1373754006378987/?ref=share
+address:
+  mode: autocomplete
+  address:
+    place_id: 286263950
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 62505581
+    boundingbox:
+    - '45.3041943'
+    - '45.6241943'
+    - '9.0296346'
+    - '9.3496346'
+    lat: '45.4641943'
+    lon: '9.1896346'
+    display_name: Milano, Lombardia, 20122, Italia
+    class: place
+    type: city
+    importance: 0.8390652078701348
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: contact
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/76,1166637300,2022-07-08 15:15:45,2022-03-11 16:47:58,Ordine degli Psicologi attiva un servizio online di supporto psicologico per profughi ucraini #Padova,45.4077172,11.8734455,Veneto,Padova,"[""Valid/Accettato"",""Services"",""psychologicalSupport"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Padova"",""country"":""Italia"",""country_code"":""it"",""county"":""Padova"",""postcode"":""35100"",""state"":""Veneto""},""boundingbox"":[""45.2477172"",""45.5677172"",""11.7134455"",""12.0334455""],""class"":""place"",""display_name"":""Padova, Veneto, 35100, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.7435563013929846,""lat"":""45.4077172"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.8734455"",""osm_id"":406747508,""osm_type"":""node"",""place_id"":2885944,""type"":""city""},""mode"":""autocomplete""},""description"":""A Padova Ordine degli Psicologi, in collaborazione con l'universit\u00e0, ha attiva un servizio online di supporto psicologico per cittadini ucraini.\nIl servizio \u00e8 attivo su prenotazione:\nTel. 049 8276496 (lun-ven ore 10-16)\nEmail emergenza.psicologionline@unipd.it"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ordine Psicologi Padova"",""recipients"":"""",""submit"":true,""title"":""A Padova Ordine degli Psicologi attiva un servizio online di supporto psicologico per profughi ucraini"",""type"":""psychologicalSupport"",""url"":""http://www.facebook.com/emergenzapsicologionlineunipd""}","<pre><yamldata>
 type: psychologicalSupport
 offerFromWho: Ordine Psicologi Padova
@@ -26146,44 +26184,6 @@ address:
       county: Brescia
       state: Lombardia
       postcode: '25073'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: contact
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/77,1166646079,2022-03-28 13:17:59,2022-03-11 16:55:19,"Attivo Gruppo Facebook ""Aiuta Profughi Ucraini Italia"" per offrire accoglienza e aiuti",45.4641943,9.1896346,Lombardia,Milano,"[""Valid/Accettato"",""News"",""Services"",""useful contact"",""materialGoods"",""hospitality"",""Resources""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20122"",""state"":""Lombardia""},""boundingbox"":[""45.3041943"",""45.6241943"",""9.0296346"",""9.3496346""],""class"":""place"",""display_name"":""Milano, Lombardia, 20122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.8390652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":62505581,""osm_type"":""node"",""place_id"":286263950,""type"":""city""},""mode"":""autocomplete""},""aim"":""Gruppo Facebook, aperto da un gruppo di cittadini ucraini a Milano, che offre info utili e aiuta i profughi ucraini a trovare supporto e accoglienza in Italia, in particolare nord Italia."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":"""",""submit"":true,""title"":""Gruppo Facebook \""Aiuta Profughi Ucraini Italia\"""",""url"":""https://www.facebook.com/groups/1373754006378987/?ref=share""}","<pre><yamldata>
-title: Gruppo Facebook ""Aiuta Profughi Ucraini Italia""
-phoneNumber: ''
-email: ''
-aim: Gruppo Facebook, aperto da un gruppo di cittadini ucraini a Milano, che offre
-  info utili e aiuta i profughi ucraini a trovare supporto e accoglienza in Italia,
-  in particolare nord Italia.
-url: https://www.facebook.com/groups/1373754006378987/?ref=share
-address:
-  mode: autocomplete
-  address:
-    place_id: 286263950
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 62505581
-    boundingbox:
-    - '45.3041943'
-    - '45.6241943'
-    - '9.0296346'
-    - '9.3496346'
-    lat: '45.4641943'
-    lon: '9.1896346'
-    display_name: Milano, Lombardia, 20122, Italia
-    class: place
-    type: city
-    importance: 0.8390652078701348
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
-    address:
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20122'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
