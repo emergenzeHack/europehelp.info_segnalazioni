@@ -1,4 +1,127 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/88,1167364014,2022-07-19 10:41:04,2022-03-12 18:32:39,Mappa #opendata delle notizie in ucraino e russo sull'andamento della guerra in Ucraina,,,,,"[""Valid/Accettato"",""News"",""Closed"",""document_data""]",,,"{""description"":""Un professore ceco, che vive e insegna negli Usa, ha sviluppato un algoritmo che estrae e analizza da una serie di testate tutti gli articoli che parlano della guerra in Ucraina.\nIl risultato \u00e8 un'enorme dataset che consente di raccontare l'invasione nel suo insieme."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.wired.it/article/ucraina-guerra-russia-mappa-intelligenza-artificiale/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Mappare le notizie in ucraino e russo per creare una mappa open data sull'andamento della guerra in Ucraina""}","<pre><yamldata>
+title: Mappare le notizie in ucraino e russo per creare una mappa open data sull'andamento
+  della guerra in Ucraina
+description: 'Un professore ceco, che vive e insegna negli Usa, ha sviluppato un algoritmo
+  che estrae e analizza da una serie di testate tutti gli articoli che parlano della
+  guerra in Ucraina.
+
+  Il risultato è un''enorme dataset che consente di raccontare l''invasione nel suo
+  insieme.'
+link: https://www.wired.it/article/ucraina-guerra-russia-mappa-intelligenza-artificiale/
+location:
+  mode: autocomplete
+  address: {}
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/888,1308084604,2022-07-19 10:37:56,2022-07-18 14:53:59,Corso online di italiano in lingua ucraina #corsiitaliano,42.6384261,12.674297,Umbria,Terni,"[""Valid/Accettato"",""Services"",""telegram-channel"",""tweet"",""education""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it""},""boundingbox"":[""35.2889616"",""47.0921462"",""6.6272658"",""18.7844746""],""class"":""boundary"",""display_name"":""Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"",""importance"":0.9831019031440554,""lat"":""42.6384261"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.674297"",""osm_id"":365331,""osm_type"":""relation"",""place_id"":297555036,""type"":""administrative""},""mode"":""autocomplete""},""description"":""Corso online di italiano gratuito promosso da Accademia Domani.\nIl corso, in lingua ucraina, \u00e8 totalmente online ed \u00e8 composto da videolezioni, dispense e quiz disponibili 24h su 24, 7 giorni su 7, quindi liberamente fruibili al proprio ritmo personale.\nPer iscriversi basta seguire la procedura dal sito, inserendo nome, cognome ed email e non servono dati di pagamento."",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Accademia Domani"",""recipients"":""Rifugiati temporanei ucraini"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":true,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""Corso online di italiano in lingua ucraina #corsiitaliano"",""url"":""https://accademiadomani.it/item/corso-online-gratuito-italiano-per-ucraini""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: true
+offerFromWho: Accademia Domani
+title: 'Corso online di italiano in lingua ucraina #corsiitaliano'
+recipients: Rifugiati temporanei ucraini
+description: 'Corso online di italiano gratuito promosso da Accademia Domani.
+
+  Il corso, in lingua ucraina, è totalmente online ed è composto da videolezioni,
+  dispense e quiz disponibili 24h su 24, 7 giorni su 7, quindi liberamente fruibili
+  al proprio ritmo personale.
+
+  Per iscriversi basta seguire la procedura dal sito, inserendo nome, cognome ed email
+  e non servono dati di pagamento.'
+url: https://accademiadomani.it/item/corso-online-gratuito-italiano-per-ucraini
+address:
+  mode: autocomplete
+  address:
+    place_id: 297555036
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 365331
+    boundingbox:
+    - '35.2889616'
+    - '47.0921462'
+    - '6.6272658'
+    - '18.7844746'
+    lat: '42.6384261'
+    lon: '12.674297'
+    display_name: Italia
+    class: boundary
+    type: administrative
+    importance: 0.9831019031440554
+    icon: https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+iAuthorizeTheProcessingOfPersonalSensitiveData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/887,1308059350,2022-07-19 10:37:32,2022-07-18 14:36:26,#raccoltabeni 6 agosto a #sangiovannilupatoto,45.3819685,11.0448862,Veneto,Verona,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-34"",""ISO3166-2-lvl6"":""IT-VR"",""country"":""Italia"",""country_code"":""it"",""county"":""Verona"",""postcode"":""37057"",""state"":""Veneto"",""town"":""San Giovanni Lupatoto""},""boundingbox"":[""45.3256037"",""45.4061151"",""11.0105769"",""11.0716172""],""class"":""boundary"",""display_name"":""San Giovanni Lupatoto, Verona, Veneto, 37057, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"",""importance"":0.7997353576287736,""lat"":""45.3819685"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.0448862"",""osm_id"":44784,""osm_type"":""relation"",""place_id"":297473789,""type"":""administrative""},""mode"":""autocomplete""},""description"":""La raccolta beni sar\u00e0 dedicata ad alimenti, articoli per l'igiene personale e pulizia, indumenti estivi."",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Malve di Ucraina, Associazione Ucraina a Verona"",""recipients"":""Chiunque voglia donare beni"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":true,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""#raccoltabeni 6 agosto a #sangiovannilupatoto"",""url"":""https://www.facebook.com/malvediucrainaverona/posts/pfbid02PYLRvfgYnaFjypDuCykkjFUE81q4rcRHVCCw8RAiErQCjbgffpnY9idoxjV4hY1Tl""}","<pre><yamldata>
+servicetypes:
+  materialGoods: true
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Malve di Ucraina, Associazione Ucraina a Verona
+title: '#raccoltabeni 6 agosto a #sangiovannilupatoto'
+recipients: Chiunque voglia donare beni
+description: La raccolta beni sarà dedicata ad alimenti, articoli per l'igiene personale
+  e pulizia, indumenti estivi.
+url: https://www.facebook.com/malvediucrainaverona/posts/pfbid02PYLRvfgYnaFjypDuCykkjFUE81q4rcRHVCCw8RAiErQCjbgffpnY9idoxjV4hY1Tl
+address:
+  mode: autocomplete
+  address:
+    place_id: 297473789
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 44784
+    boundingbox:
+    - '45.3256037'
+    - '45.4061151'
+    - '11.0105769'
+    - '11.0716172'
+    lat: '45.3819685'
+    lon: '11.0448862'
+    display_name: San Giovanni Lupatoto, Verona, Veneto, 37057, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7997353576287736
+    icon: https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      town: San Giovanni Lupatoto
+      county: Verona
+      ISO3166-2-lvl6: IT-VR
+      state: Veneto
+      ISO3166-2-lvl4: IT-34
+      postcode: '37057'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+iAuthorizeTheProcessingOfPersonalSensitiveData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/83,1167354810,2022-07-18 14:39:35,2022-03-12 17:59:03,#raccoltafondi di Fondazione di Comunità Milano per accoglienza rifugiati ucraini,45.4645403,9.1698691,Lombardia,Milano,"[""Valid/Accettato"",""fundraising"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.4645403 9.1698691"",""bicSwift"":"""",""causal"":""Fondo #MilanoAiutaUcraina"",""ccPostal"":"""",""description"":""Il Fondo \u00e8 costituito dalla Fondazione di Comunit\u00e0 Milano \u2013 Citt\u00e0, Sud Ovest, Sud Est, Martesana su impulso del Comune di Milano per sostenere progetti di aiuto ed accoglienza della popolazione ucraina promossi da organizzazioni pubbliche e/o del privato sociale presenti nel territorio di riferimento della Fondazione.\nDonazioni online (vedi link) o via Iban."",""email"":""f.petrolati@fcmilano.org"",""heading"":""Fondazione di Comunit\u00e0 di Milano Citt\u00e0, Sud Est, Sud Ovest e Adda Martesana"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT18 Y030 6909 6061 0000 0162 571"",""label"":""fundraising"",""link"":""https://www.fondazionecomunitamilano.org/fondi/fondo-milanoaiutaucraina/"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""8"",""postcode"":""20123"",""quarter"":""Magenta - San Vittore"",""road"":""Via Bernardino Zenale"",""state"":""Lombardia"",""suburb"":""Municipio 1""},""boundingbox"":[""45.4644903"",""45.4645903"",""9.1698191"",""9.1699191""],""class"":""place"",""display_name"":""8, Via Bernardino Zenale, Magenta - San Vittore, Municipio 1, Milano, Lombardia, 20123, Italia"",""importance"":0.5309999999999999,""lat"":""45.4645403"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1698691"",""osm_id"":5300438043,""osm_type"":""node"",""place_id"":58084400,""type"":""house""},""mode"":""autocomplete""},""submit"":true,""title"":""Fondazione di Comunit\u00e0 Milano""}","<pre><yamldata>
 title: Fondazione di Comunità Milano
 description: 'Il Fondo è costituito dalla Fondazione di Comunità Milano – Città, Sud
@@ -30107,23 +30230,6 @@ address:
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/88,1167364014,2022-03-22 06:54:35,2022-03-12 18:32:39,Mappa #opendata delle notizie in ucraino e russo sull'andamento della guerra in Ucraina,,,,,"[""Valid/Accettato"",""News"",""document_data""]",,,"{""description"":""Un professore ceco, che vive e insegna negli Usa, ha sviluppato un algoritmo che estrae e analizza da una serie di testate tutti gli articoli che parlano della guerra in Ucraina.\nIl risultato \u00e8 un'enorme dataset che consente di raccontare l'invasione nel suo insieme."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.wired.it/article/ucraina-guerra-russia-mappa-intelligenza-artificiale/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Mappare le notizie in ucraino e russo per creare una mappa open data sull'andamento della guerra in Ucraina""}","<pre><yamldata>
-title: Mappare le notizie in ucraino e russo per creare una mappa open data sull'andamento
-  della guerra in Ucraina
-description: 'Un professore ceco, che vive e insegna negli Usa, ha sviluppato un algoritmo
-  che estrae e analizza da una serie di testate tutti gli articoli che parlano della
-  guerra in Ucraina.
-
-  Il risultato è un''enorme dataset che consente di raccontare l''invasione nel suo
-  insieme.'
-link: https://www.wired.it/article/ucraina-guerra-russia-mappa-intelligenza-artificiale/
-location:
-  mode: autocomplete
-  address: {}
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/275,1176029459,2022-03-22 06:30:24,2022-03-21 22:39:53,Fondazione Comunità di #Monza e #Brianza apre il fondo emergenza Ucraina,45.639544,9.278869369225038,Lombardia,Monza e della Brianza,"[""Valid/Accettato"",""fundraising""]",,,"{""Posizione"":""45.639544 9.278869369225038"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""La Fondazione della Comunit\u00e0 di Monza e Brianza apre il Fondo Emergenza Ucraina MB per il sostegno di progetti di accoglienza diffusa nella provincia. Grazie alle donazioni raccolte e messe a disposizione dal fondo, sar\u00e0 possibile intervenire nel sostegno e nella gestione delle diverse esigenze, mano a mano che si presenteranno: per offrire una risposta strutturata ed efficace sar\u00e0 fondamentale lavorare in sinergia con le organizzazioni e con gli enti in prima linea nel coordinamento e nell'organizzazione dell'accoglienza."",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":""https://istitutoitalianodonazione.it/it/soci-iid/news-soci/dd_732_4417/emergenza-ucraina-fondazione-della-comunita-di-monza-e-brianza"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Monza and Brianza"",""state"":""Lombardia""},""boundingbox"":[""45.5367099"",""45.7424391"",""9.0505698"",""9.4974636""],""class"":""boundary"",""display_name"":""Monza and Brianza, Lombardia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7207566855039824,""lat"":""45.639544"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.278869369225038"",""osm_id"":251419,""osm_type"":""relation"",""place_id"":284109714,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Fondazione Comunit\u00e0 di Monza e Brianza""}","<pre><yamldata>
