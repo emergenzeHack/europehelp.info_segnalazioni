@@ -1,4 +1,87 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/91,1167371395,2022-07-19 11:02:09,2022-03-12 19:02:03,Sul sito dell'associazione Naga di Milano tutte le info utili per i rifugiati ucraini ,45.4451631,9.1808968,Lombardia,Milano,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""hospitality"",""healthcare"",""Closed""]",,,"{""Posizione"":""45.4451631 9.1808968"",""description"":""Elenco di info utili e contatti su permesso di soggiorno, assistenza sanitaria, protezione rifugiati, accoglienza e alloggi, raccolta fondi \u00c8 beni e altri tipi di aiuto. \nAnche in ucraino, russo e inglese."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://naga.it/2022/03/11/crisi-ucraina-info-utili/"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20136"",""quarter"":""Ticinese"",""road"":""Via Ludovico Lazzaro Zamenhof"",""state"":""Lombardia"",""suburb"":""Municipio 5""},""boundingbox"":[""45.4451531"",""45.4453305"",""9.1808031"",""9.1824142""],""class"":""highway"",""display_name"":""Via Ludovico Lazzaro Zamenhof, Ticinese, Municipio 5, Milano, Lombardia, 20136, Italia"",""importance"":0.6199999999999999,""lat"":""45.4451631"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1808968"",""osm_id"":36972104,""osm_type"":""way"",""place_id"":111490645,""type"":""unclassified""},""mode"":""autocomplete""},""submit"":true,""title"":""Sul sito dell'associazione Naga di Milano tutte le info utili per i rifugiati ucraini che arrivano in Italia""}","<pre><yamldata>
+title: Sul sito dell'associazione Naga di Milano tutte le info utili per i rifugiati
+  ucraini che arrivano in Italia
+description: ""Elenco di info utili e contatti su permesso di soggiorno, assistenza\
+  \ sanitaria, protezione rifugiati, accoglienza e alloggi, raccolta fondi È beni\
+  \ e altri tipi di aiuto. \nAnche in ucraino, russo e inglese.""
+link: https://naga.it/2022/03/11/crisi-ucraina-info-utili/
+location:
+  mode: autocomplete
+  address:
+    place_id: 111490645
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 36972104
+    boundingbox:
+    - '45.4451531'
+    - '45.4453305'
+    - '9.1808031'
+    - '9.1824142'
+    lat: '45.4451631'
+    lon: '9.1808968'
+    display_name: Via Ludovico Lazzaro Zamenhof, Ticinese, Municipio 5, Milano, Lombardia,
+      20136, Italia
+    class: highway
+    type: unclassified
+    importance: 0.6199999999999999
+    address:
+      road: Via Ludovico Lazzaro Zamenhof
+      quarter: Ticinese
+      suburb: Municipio 5
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20136'
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.4451631 9.1808968
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/90,1167370372,2022-07-19 11:00:34,2022-03-12 18:57:23, Медична допомога в #Ломбардія: корисна інформація українською,45.484845899999996,9.200942264373898,Lombardia,Milano,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.484845899999996 9.200942264373898"",""description"":""Sul sito di Ats Milano tutte le informazioni utili di Regione Lombardia su assistenza sanitaria, tamponi Covid, green pass, hot spot sul territorio e altre indicazioni per rifugiati ucraini che arrivano in Lombardia."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.regione.lombardia.it/wps/portal/istituzionale/HP/DettaglioRedazionale/servizi-e-informazioni/cittadini/salute-e-prevenzione/Emergenze-e-urgenze/assistenza-sanitaria-ucraina/assistenza-sanitaria-ucraina"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""office"":""Regione Lombardia"",""postcode"":""20124"",""quarter"":""Centrale"",""road"":""Piazza Duca d'Aosta"",""state"":""Lombardia"",""suburb"":""Municipio 2""},""boundingbox"":[""45.4842569"",""45.4853006"",""9.2004513"",""9.2013255""],""class"":""office"",""display_name"":""Regione Lombardia, Piazza Duca d'Aosta, Centrale, Municipio 2, Milano, Lombardia, 20124, Italia"",""importance"":0.21100000000000002,""lat"":""45.484845899999996"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.200942264373898"",""osm_id"":89444210,""osm_type"":""way"",""place_id"":122298074,""type"":""government""},""mode"":""autocomplete""},""submit"":true,""title"":""Regione Lombardia: online tutte le informazioni su assistenza sanitaria, tamponi Covid, green pass per rifugiati ucraini""}","<pre><yamldata>
+title: 'Regione Lombardia: online tutte le informazioni su assistenza sanitaria, tamponi
+  Covid, green pass per rifugiati ucraini'
+description: Sul sito di Ats Milano tutte le informazioni utili di Regione Lombardia
+  su assistenza sanitaria, tamponi Covid, green pass, hot spot sul territorio e altre
+  indicazioni per rifugiati ucraini che arrivano in Lombardia.
+link: https://www.regione.lombardia.it/wps/portal/istituzionale/HP/DettaglioRedazionale/servizi-e-informazioni/cittadini/salute-e-prevenzione/Emergenze-e-urgenze/assistenza-sanitaria-ucraina/assistenza-sanitaria-ucraina
+location:
+  mode: autocomplete
+  address:
+    place_id: 122298074
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 89444210
+    boundingbox:
+    - '45.4842569'
+    - '45.4853006'
+    - '9.2004513'
+    - '9.2013255'
+    lat: '45.484845899999996'
+    lon: '9.200942264373898'
+    display_name: Regione Lombardia, Piazza Duca d'Aosta, Centrale, Municipio 2, Milano,
+      Lombardia, 20124, Italia
+    class: office
+    type: government
+    importance: 0.21100000000000002
+    address:
+      office: Regione Lombardia
+      road: Piazza Duca d'Aosta
+      quarter: Centrale
+      suburb: Municipio 2
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20124'
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 45.484845899999996 9.200942264373898
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/89,1167365024,2022-07-19 10:55:27,2022-03-12 18:36:53,Online pagina web del Comune di #Bovezzo dedicata all'emergenza Ucraina #Brescia,45.591349550000004,10.243048460056496,Lombardia,Brescia,"[""Valid/Accettato"",""News"",""Services"",""fundraising"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Municipio di Bovezzo"",""country"":""Italia"",""country_code"":""it"",""county"":""Brescia"",""hamlet"":""Terzago"",""house_number"":""28"",""municipality"":""Comunit\u00e0 montana della valle Trompia"",""neighbourhood"":""Villaggio del Sole"",""postcode"":""25073"",""road"":""Via Vittorio Veneto"",""state"":""Lombardia"",""village"":""Bovezzo""},""boundingbox"":[""45.5911637"",""45.5915655"",""10.2429166"",""10.2431527""],""class"":""amenity"",""display_name"":""Municipio di Bovezzo, 28, Via Vittorio Veneto, Villaggio del Sole, Terzago, Bovezzo, Comunit\u00e0 montana della valle Trompia, Brescia, Lombardia, 25073, Italia"",""importance"":1.1536899109801708,""lat"":""45.591349550000004"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10.243048460056496"",""osm_id"":164173124,""osm_type"":""way"",""place_id"":141637877,""type"":""townhall""},""mode"":""autocomplete""},""aim"":""Online pagina web del Comune di Bovezzo dedicata all'emergenza Ucraina con info per offrire case vuote o ospitalit\u00e0 in famiglia, effettuare donazioni, partecipare ad altre iniziative."",""email"":"""",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""contact"",""phoneNumber"":"""",""submit"":true,""title"":""Comune di Bovezzo (Bs)"",""url"":""https://www.comune.bovezzo.bs.it/Novita/Avvisi/Emergenza-Ucraina""}","<pre><yamldata>
 title: Comune di Bovezzo (Bs)
 phoneNumber: ''
@@ -30394,48 +30477,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/90,1167370372,2022-03-21 16:34:49,2022-03-12 18:57:23,"Regione Lombardia, emergenza Ucraina: online informazioni su assistenza sanitaria, tamponi Covid, green pass, permesso di soggiorno",45.484845899999996,9.200942264373898,Lombardia,Milano,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""45.484845899999996 9.200942264373898"",""description"":""Sul sito di Ats Milano tutte le informazioni utili di Regione Lombardia su assistenza sanitaria, tamponi Covid, green pass, hot spot sul territorio e altre indicazioni per rifugiati ucraini che arrivano in Lombardia."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.ats-milano.it/notizie/indicazioni-assistenza-sanitaria-ai-profughi-ucraini"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""office"":""Regione Lombardia"",""postcode"":""20124"",""quarter"":""Centrale"",""road"":""Piazza Duca d'Aosta"",""state"":""Lombardia"",""suburb"":""Municipio 2""},""boundingbox"":[""45.4842569"",""45.4853006"",""9.2004513"",""9.2013255""],""class"":""office"",""display_name"":""Regione Lombardia, Piazza Duca d'Aosta, Centrale, Municipio 2, Milano, Lombardia, 20124, Italia"",""importance"":0.21100000000000002,""lat"":""45.484845899999996"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.200942264373898"",""osm_id"":89444210,""osm_type"":""way"",""place_id"":122298074,""type"":""government""},""mode"":""autocomplete""},""submit"":true,""title"":""Regione Lombardia: online tutte le informazioni su assistenza sanitaria, tamponi Covid, green pass per rifugiati ucraini""}","<pre><yamldata>
-title: 'Regione Lombardia: online tutte le informazioni su assistenza sanitaria, tamponi
-  Covid, green pass per rifugiati ucraini'
-description: Sul sito di Ats Milano tutte le informazioni utili di Regione Lombardia
-  su assistenza sanitaria, tamponi Covid, green pass, hot spot sul territorio e altre
-  indicazioni per rifugiati ucraini che arrivano in Lombardia.
-link: https://www.ats-milano.it/notizie/indicazioni-assistenza-sanitaria-ai-profughi-ucraini
-location:
-  mode: autocomplete
-  address:
-    place_id: 122298074
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 89444210
-    boundingbox:
-    - '45.4842569'
-    - '45.4853006'
-    - '9.2004513'
-    - '9.2013255'
-    lat: '45.484845899999996'
-    lon: '9.200942264373898'
-    display_name: Regione Lombardia, Piazza Duca d'Aosta, Centrale, Municipio 2, Milano,
-      Lombardia, 20124, Italia
-    class: office
-    type: government
-    importance: 0.21100000000000002
-    address:
-      office: Regione Lombardia
-      road: Piazza Duca d'Aosta
-      quarter: Centrale
-      suburb: Municipio 2
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20124'
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 45.484845899999996 9.200942264373898
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/85,1167358729,2022-03-21 16:33:42,2022-03-12 18:14:48,A Genova Caritas cerca volontari e alloggi per rifugiati ucraini,44.4072169,8.9312225,Liguria,Genova,"[""Valid/Accettato"",""Help"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""44.4072169 8.9312225"",""description"":""A Genova Caritas Diocesana cerca volontari per accogliere e supportare i rifugiati ucraini e cerca appartamenti e famiglie disposte ad ospitare. Prevede di accogliere circa 100 rifugiati e c'\u00e8 bisogno di reperire almeno 30 appartamenti vuoti (canoniche o altro) in comodato d'uso per circa tre mesi con rimborso delle spese vive. Sono tutte donne e bambini.\nPer informazioni e adesioni telefonare in Caritas tutte le mattine:\n010.2477015 - 010.2477018\noppure scrivere a segreteria@caritasgenova.it indicando la disponibilit\u00e0."",""email"":""segreteria@caritasgrnova.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Genova"",""country"":""Italia"",""country_code"":""it"",""county"":""Genova"",""postcode"":""16100"",""road"":""Via di Canneto il Lungo"",""state"":""Liguria"",""suburb"":""Molo""},""boundingbox"":[""44.4067366"",""44.4076384"",""8.9300645"",""8.9322206""],""class"":""highway"",""display_name"":""Via di Canneto il Lungo, Molo, Centro Est, Genova, Liguria, 16100, Italia"",""importance"":0.585,""lat"":""44.4072169"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.9312225"",""osm_id"":164602158,""osm_type"":""way"",""place_id"":140486684,""type"":""footway""},""mode"":""autocomplete""},""nameSurname"":""Caritas Genova"",""phoneNumber"":""010 2477015 - 010 2477018"",""recipients"":""cittadini di Genova"",""submit"":true,""title"":""A Genova Caritas cerca volontari e alloggi per rifugiati ucraini"",""url"":""http://www.caritasgenova.it/emergenza-ucraina-volontari-alloggi-donazioni/""}","<pre><yamldata>
 nameSurname: Caritas Genova
 phoneNumber: 010 2477015 - 010 2477018
@@ -34184,45 +34225,4 @@ address:
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/91,1167371395,2022-03-12 22:40:35,2022-03-12 19:02:03,Sul sito dell'associazione Naga di Milano tutte le info utili per i rifugiati ucraini ,45.4451631,9.1808968,Lombardia,Milano,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""hospitality"",""healthcare""]",,,"{""Posizione"":""45.4451631 9.1808968"",""description"":""Elenco di info utili e contatti su permesso di soggiorno, assistenza sanitaria, protezione rifugiati, accoglienza e alloggi, raccolta fondi \u00c8 beni e altri tipi di aiuto. \nAnche in ucraino, russo e inglese."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://naga.it/2022/03/11/crisi-ucraina-info-utili/"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20136"",""quarter"":""Ticinese"",""road"":""Via Ludovico Lazzaro Zamenhof"",""state"":""Lombardia"",""suburb"":""Municipio 5""},""boundingbox"":[""45.4451531"",""45.4453305"",""9.1808031"",""9.1824142""],""class"":""highway"",""display_name"":""Via Ludovico Lazzaro Zamenhof, Ticinese, Municipio 5, Milano, Lombardia, 20136, Italia"",""importance"":0.6199999999999999,""lat"":""45.4451631"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1808968"",""osm_id"":36972104,""osm_type"":""way"",""place_id"":111490645,""type"":""unclassified""},""mode"":""autocomplete""},""submit"":true,""title"":""Sul sito dell'associazione Naga di Milano tutte le info utili per i rifugiati ucraini che arrivano in Italia""}","<pre><yamldata>
-title: Sul sito dell'associazione Naga di Milano tutte le info utili per i rifugiati
-  ucraini che arrivano in Italia
-description: ""Elenco di info utili e contatti su permesso di soggiorno, assistenza\
-  \ sanitaria, protezione rifugiati, accoglienza e alloggi, raccolta fondi È beni\
-  \ e altri tipi di aiuto. \nAnche in ucraino, russo e inglese.""
-link: https://naga.it/2022/03/11/crisi-ucraina-info-utili/
-location:
-  mode: autocomplete
-  address:
-    place_id: 111490645
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 36972104
-    boundingbox:
-    - '45.4451531'
-    - '45.4453305'
-    - '9.1808031'
-    - '9.1824142'
-    lat: '45.4451631'
-    lon: '9.1808968'
-    display_name: Via Ludovico Lazzaro Zamenhof, Ticinese, Municipio 5, Milano, Lombardia,
-      20136, Italia
-    class: highway
-    type: unclassified
-    importance: 0.6199999999999999
-    address:
-      road: Via Ludovico Lazzaro Zamenhof
-      quarter: Ticinese
-      suburb: Municipio 5
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20136'
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 45.4451631 9.1808968
 </yamldata></pre>",open
