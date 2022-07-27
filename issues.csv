@@ -1,4 +1,48 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/93,1167383724,2022-07-27 07:51:24,2022-03-12 19:59:46,"Лікарні #Мілан, які безкоштовно відвідують вагітних жінок з України",45.43415665,9.159426508616571,Lombardia,Milano,"[""Valid/Accettato"",""Services"",""healthcare"",""women""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Ospedale San Paolo"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20142"",""quarter"":""Barona"",""road"":""Via Antonio di Rudin\u00ec"",""state"":""Lombardia"",""suburb"":""Barona""},""boundingbox"":[""45.4331889"",""45.43522"",""9.1587933"",""9.1608926""],""class"":""amenity"",""display_name"":""Ospedale San Paolo, Via Antonio di Rudin\u00ec, Barona, Milano, Lombardia, 20142, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//health_hospital.p.20.png"",""importance"":0.6373544917529019,""lat"":""45.43415665"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.159426508616571"",""osm_id"":24694987,""osm_type"":""way"",""place_id"":108024252,""type"":""hospital""},""mode"":""autocomplete""},""description"":""Ospedale San Paolo Milano offre supporto sanitario alle donne ucraine rifugiate in gravidanza. \nTel. 02 81843875"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ospedale San Paolo Milano"",""recipients"":""Donne rifugiate ucraine incinte"",""submit"":true,""title"":""Ospedale San Paolo Milano offre supporto sanitario alle donne ucraine rifugiate in gravidanza"",""type"":""healthcare"",""url"":""https://www.facebook.com/groups/ukraineinfo.help/permalink/455973459604941/?sfnsn=scwspmo&ref=share""}","<pre><yamldata>
+type: healthcare
+offerFromWho: Ospedale San Paolo Milano
+title: Ospedale San Paolo Milano offre supporto sanitario alle donne ucraine rifugiate
+  in gravidanza
+recipients: Donne rifugiate ucraine incinte
+description: ""Ospedale San Paolo Milano offre supporto sanitario alle donne ucraine\
+  \ rifugiate in gravidanza. \nTel. 02 81843875""
+url: https://www.facebook.com/groups/ukraineinfo.help/permalink/455973459604941/?sfnsn=scwspmo&ref=share
+address:
+  mode: autocomplete
+  address:
+    place_id: 108024252
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 24694987
+    boundingbox:
+    - '45.4331889'
+    - '45.43522'
+    - '9.1587933'
+    - '9.1608926'
+    lat: '45.43415665'
+    lon: '9.159426508616571'
+    display_name: Ospedale San Paolo, Via Antonio di Rudinì, Barona, Milano, Lombardia,
+      20142, Italia
+    class: amenity
+    type: hospital
+    importance: 0.6373544917529019
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//health_hospital.p.20.png
+    address:
+      amenity: Ospedale San Paolo
+      road: Via Antonio di Rudinì
+      quarter: Barona
+      suburb: Barona
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20142'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/91,1167371395,2022-07-19 11:02:09,2022-03-12 19:02:03,Sul sito dell'associazione Naga di Milano tutte le info utili per i rifugiati ucraini ,45.4451631,9.1808968,Lombardia,Milano,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""hospitality"",""healthcare"",""Closed""]",,,"{""Posizione"":""45.4451631 9.1808968"",""description"":""Elenco di info utili e contatti su permesso di soggiorno, assistenza sanitaria, protezione rifugiati, accoglienza e alloggi, raccolta fondi \u00c8 beni e altri tipi di aiuto. \nAnche in ucraino, russo e inglese."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://naga.it/2022/03/11/crisi-ucraina-info-utili/"",""location"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20136"",""quarter"":""Ticinese"",""road"":""Via Ludovico Lazzaro Zamenhof"",""state"":""Lombardia"",""suburb"":""Municipio 5""},""boundingbox"":[""45.4451531"",""45.4453305"",""9.1808031"",""9.1824142""],""class"":""highway"",""display_name"":""Via Ludovico Lazzaro Zamenhof, Ticinese, Municipio 5, Milano, Lombardia, 20136, Italia"",""importance"":0.6199999999999999,""lat"":""45.4451631"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1808968"",""osm_id"":36972104,""osm_type"":""way"",""place_id"":111490645,""type"":""unclassified""},""mode"":""autocomplete""},""submit"":true,""title"":""Sul sito dell'associazione Naga di Milano tutte le info utili per i rifugiati ucraini che arrivano in Italia""}","<pre><yamldata>
 title: Sul sito dell'associazione Naga di Milano tutte le info utili per i rifugiati
   ucraini che arrivano in Italia
@@ -34176,50 +34220,6 @@ address:
       county: Cosenza
       state: Calabria
       postcode: '87036'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/93,1167383724,2022-03-12 22:41:40,2022-03-12 19:59:46,Ospedale San Paolo Milano offre supporto sanitario a rifugiate ucraine in gravidanza,45.43415665,9.159426508616571,Lombardia,Milano,"[""Valid/Accettato"",""Services"",""healthcare"",""women""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Ospedale San Paolo"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20142"",""quarter"":""Barona"",""road"":""Via Antonio di Rudin\u00ec"",""state"":""Lombardia"",""suburb"":""Barona""},""boundingbox"":[""45.4331889"",""45.43522"",""9.1587933"",""9.1608926""],""class"":""amenity"",""display_name"":""Ospedale San Paolo, Via Antonio di Rudin\u00ec, Barona, Milano, Lombardia, 20142, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//health_hospital.p.20.png"",""importance"":0.6373544917529019,""lat"":""45.43415665"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.159426508616571"",""osm_id"":24694987,""osm_type"":""way"",""place_id"":108024252,""type"":""hospital""},""mode"":""autocomplete""},""description"":""Ospedale San Paolo Milano offre supporto sanitario alle donne ucraine rifugiate in gravidanza. \nTel. 02 81843875"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ospedale San Paolo Milano"",""recipients"":""Donne rifugiate ucraine incinte"",""submit"":true,""title"":""Ospedale San Paolo Milano offre supporto sanitario alle donne ucraine rifugiate in gravidanza"",""type"":""healthcare"",""url"":""https://www.facebook.com/groups/ukraineinfo.help/permalink/455973459604941/?sfnsn=scwspmo&ref=share""}","<pre><yamldata>
-type: healthcare
-offerFromWho: Ospedale San Paolo Milano
-title: Ospedale San Paolo Milano offre supporto sanitario alle donne ucraine rifugiate
-  in gravidanza
-recipients: Donne rifugiate ucraine incinte
-description: ""Ospedale San Paolo Milano offre supporto sanitario alle donne ucraine\
-  \ rifugiate in gravidanza. \nTel. 02 81843875""
-url: https://www.facebook.com/groups/ukraineinfo.help/permalink/455973459604941/?sfnsn=scwspmo&ref=share
-address:
-  mode: autocomplete
-  address:
-    place_id: 108024252
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 24694987
-    boundingbox:
-    - '45.4331889'
-    - '45.43522'
-    - '9.1587933'
-    - '9.1608926'
-    lat: '45.43415665'
-    lon: '9.159426508616571'
-    display_name: Ospedale San Paolo, Via Antonio di Rudinì, Barona, Milano, Lombardia,
-      20142, Italia
-    class: amenity
-    type: hospital
-    importance: 0.6373544917529019
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//health_hospital.p.20.png
-    address:
-      amenity: Ospedale San Paolo
-      road: Via Antonio di Rudinì
-      quarter: Barona
-      suburb: Barona
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20142'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
