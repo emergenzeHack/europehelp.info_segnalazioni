@@ -1,4 +1,46 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/94,1167393780,2022-07-27 08:39:10,2022-03-12 20:43:14,Привітний світський спорт: УІСП поруч з українцями,44.5041882,11.3556787,Emilia-Romagna,Bologna,"[""Valid/Accettato"",""News"",""Services"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Circolo Polisportiva Arci Uisp Guernelli"",""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""house_number"":""6"",""postcode"":""14007"",""road"":""Via Antonio Gandusio"",""state"":""Emilia-Romagna"",""suburb"":""Cirenaica""},""boundingbox"":[""44.5041382"",""44.5042382"",""11.3556287"",""11.3557287""],""class"":""amenity"",""display_name"":""Circolo Polisportiva Arci Uisp Guernelli, 6, Via Antonio Gandusio, Cirenaica, San Donato-San Vitale, Bologna, Emilia-Romagna, 14007, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//food_bar.p.20.png"",""importance"":0.21100000000000002,""lat"":""44.5041882"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.3556787"",""osm_id"":4512718873,""osm_type"":""node"",""place_id"":51259984,""type"":""bar""},""mode"":""autocomplete""},""description"":""Uisp Bologna offre ai profughi ucraini attivit\u00e0 sportive gratuite."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Uisp Bologna"",""recipients"":"""",""submit"":true,""title"":""Uisp Bologna offre ai profughi ucraini attivit\u00e0 sportive gratuite"",""type"":""psychologicalSupport"",""url"":""https://m.facebook.com/story.php?story_fbid=5123310454379132&id=156270871083140""}","<pre><yamldata>
+type: psychologicalSupport
+offerFromWho: Uisp Bologna
+title: Uisp Bologna offre ai profughi ucraini attività sportive gratuite
+recipients: ''
+description: Uisp Bologna offre ai profughi ucraini attività sportive gratuite.
+url: https://m.facebook.com/story.php?story_fbid=5123310454379132&id=156270871083140
+address:
+  mode: autocomplete
+  address:
+    place_id: 51259984
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 4512718873
+    boundingbox:
+    - '44.5041382'
+    - '44.5042382'
+    - '11.3556287'
+    - '11.3557287'
+    lat: '44.5041882'
+    lon: '11.3556787'
+    display_name: Circolo Polisportiva Arci Uisp Guernelli, 6, Via Antonio Gandusio,
+      Cirenaica, San Donato-San Vitale, Bologna, Emilia-Romagna, 14007, Italia
+    class: amenity
+    type: bar
+    importance: 0.21100000000000002
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//food_bar.p.20.png
+    address:
+      amenity: Circolo Polisportiva Arci Uisp Guernelli
+      house_number: '6'
+      road: Via Antonio Gandusio
+      suburb: Cirenaica
+      city: Bologna
+      county: Bologna
+      state: Emilia-Romagna
+      postcode: '14007'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/93,1167383724,2022-07-27 07:57:22,2022-03-12 19:59:46,"Лікарні #Мілан, які безкоштовно відвідують вагітних жінок з України",45.43415665,9.159426508616571,Lombardia,Milano,"[""Valid/Accettato"",""Services"",""healthcare"",""women"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Ospedale San Paolo"",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20142"",""quarter"":""Barona"",""road"":""Via Antonio di Rudin\u00ec"",""state"":""Lombardia"",""suburb"":""Barona""},""boundingbox"":[""45.4331889"",""45.43522"",""9.1587933"",""9.1608926""],""class"":""amenity"",""display_name"":""Ospedale San Paolo, Via Antonio di Rudin\u00ec, Barona, Milano, Lombardia, 20142, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//health_hospital.p.20.png"",""importance"":0.6373544917529019,""lat"":""45.43415665"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.159426508616571"",""osm_id"":24694987,""osm_type"":""way"",""place_id"":108024252,""type"":""hospital""},""mode"":""autocomplete""},""description"":""\u0411\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u0456 \u0432\u0456\u0434\u0432\u0456\u0434\u0443\u0432\u0430\u043d\u043d\u044f \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u043e\u043a, \u044f\u043a\u0456 \u0447\u0435\u0440\u0435\u0437 \u0432\u0456\u0439\u043d\u0443 \u0437\u043c\u0443\u0448\u0435\u043d\u0456 \u043f\u043e\u043a\u0438\u043d\u0443\u0442\u0438 \u043a\u0440\u0430\u0457\u043d\u0443. \u041f\u0440\u0438\u043d\u0430\u0439\u043c\u043d\u0456 \u0434\u0432\u0456 \u043c\u0456\u043b\u0430\u043d\u0441\u044c\u043a\u0456 \u043b\u0456\u043a\u0430\u0440\u043d\u0456 \u043e\u0440\u0433\u0430\u043d\u0456\u0437\u0443\u0432\u0430\u043b\u0438 \u0446\u044e \u043e\u0441\u043e\u0431\u043b\u0438\u0432\u0443 \u0442\u0430 \u0432\u0430\u0436\u043b\u0438\u0432\u0443 \u0456\u043d\u0456\u0446\u0456\u0430\u0442\u0438\u0432\u0443 \u0434\u043b\u044f \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0438 \u0431\u0456\u0436\u0435\u043d\u0446\u044f\u043c. \u0423 \u043b\u0456\u043a\u0430\u0440\u043d\u0456 Buzzi \u0443 \u041c\u0456\u043b\u0430\u043d\u0456 \u0432\u0456\u0434\u0432\u0456\u0434\u0443\u0432\u0430\u043d\u043d\u044f \u043f\u0440\u043e\u0445\u043e\u0434\u0438\u0442\u0438\u043c\u0443\u0442\u044c \u0449\u043e\u0447\u0435\u0442\u0432\u0435\u0440\u0433\u0430 \u0437 13.30 \u0434\u043e 15.30 \u0437\u0430 \u0430\u0434\u0440\u0435\u0441\u043e\u044e via Lodovico Castelvetro 32 \u0443 \u043f\u0430\u0432\u0456\u043b\u044c\u0439\u043e\u043d\u0456 C, \u043f\u043e\u0432\u0435\u0440\u0445 -1, \u0447\u0435\u0442\u0432\u0435\u0440\u0442\u0438\u0439 \u043a\u0432\u0430\u0440\u0442\u0430\u043b. \u0417 \u0456\u043d\u0448\u043e\u0433\u043e \u0431\u043e\u043a\u0443, \u0443 \u0421\u0430\u043d-\u041f\u0430\u043e\u043b\u043e \u0432\u0456\u0434\u0432\u0456\u0434\u0443\u0432\u0430\u043d\u043d\u044f \u0432\u0456\u0434\u0431\u0443\u0432\u0430\u0442\u0438\u043c\u0443\u0442\u044c\u0441\u044f \u0443 \u0431\u043b\u043e\u0446\u0456 D, \u043f\u043e\u0432\u0435\u0440\u0445 -2, \u043a\u0456\u043c\u043d\u0430\u0442\u0430 15bis \u0443 \u0432\u0456\u0432\u0442\u043e\u0440\u043e\u043a \u0456 \u043f\u2019\u044f\u0442\u043d\u0438\u0446\u044e \u0437 9 \u0434\u043e 13 \u0442\u0430 \u0443 \u0447\u0435\u0442\u0432\u0435\u0440 \u0437 13:30 \u0434\u043e 17. \u0414\u043b\u044f \u043e\u0442\u0440\u0438\u043c\u0430\u043d\u043d\u044f \u0434\u043e\u0434\u0430\u0442\u043a\u043e\u0432\u043e\u0457 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u0457 \u0432\u0438 \u043c\u043e\u0436\u0435\u0442\u0435 \u0437\u0430\u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443\u0432\u0430\u0442\u0438 \u0437\u0430 \u043d\u043e\u043c\u0435\u0440\u0430\u043c\u0438 0263636023/5213 \u0434\u043b\u044f Buzzi \u0442\u0430 0281843875 \u0434\u043b\u044f San Paolo."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""\u041b\u0456\u043a\u0430\u0440\u043d\u0456 \u0411\u0443\u0446\u0446\u0456 \u0442\u0430 \u0421\u0430\u043d-\u041f\u0430\u043e\u043b\u043e"",""recipients"":""\u0412\u0430\u0433\u0456\u0442\u043d\u0456 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0431\u0456\u0436\u0435\u043d\u043a\u0438"",""submit"":true,""title"":""\u041b\u0456\u043a\u0430\u0440\u043d\u0456"",""type"":""healthcare"",""url"":""https://www.milanotoday.it/attualita/visite-donne-incinta-ucraina-milano.html""}","<pre><yamldata>
 type: healthcare
 offerFromWho: Лікарні Буцці та Сан-Паоло
@@ -30471,48 +30513,6 @@ address:
       county: Milano
       state: Lombardia
       postcode: '20122'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/94,1167393780,2022-03-21 16:35:15,2022-03-12 20:43:14,Uisp Bologna offre ai profughi ucraini attività sportive gratuite,44.5041882,11.3556787,Emilia-Romagna,Bologna,"[""Valid/Accettato"",""News"",""Services"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Circolo Polisportiva Arci Uisp Guernelli"",""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""house_number"":""6"",""postcode"":""14007"",""road"":""Via Antonio Gandusio"",""state"":""Emilia-Romagna"",""suburb"":""Cirenaica""},""boundingbox"":[""44.5041382"",""44.5042382"",""11.3556287"",""11.3557287""],""class"":""amenity"",""display_name"":""Circolo Polisportiva Arci Uisp Guernelli, 6, Via Antonio Gandusio, Cirenaica, San Donato-San Vitale, Bologna, Emilia-Romagna, 14007, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//food_bar.p.20.png"",""importance"":0.21100000000000002,""lat"":""44.5041882"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.3556787"",""osm_id"":4512718873,""osm_type"":""node"",""place_id"":51259984,""type"":""bar""},""mode"":""autocomplete""},""description"":""Uisp Bologna offre ai profughi ucraini attivit\u00e0 sportive gratuite."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Uisp Bologna"",""recipients"":"""",""submit"":true,""title"":""Uisp Bologna offre ai profughi ucraini attivit\u00e0 sportive gratuite"",""type"":""psychologicalSupport"",""url"":""https://m.facebook.com/story.php?story_fbid=5123310454379132&id=156270871083140""}","<pre><yamldata>
-type: psychologicalSupport
-offerFromWho: Uisp Bologna
-title: Uisp Bologna offre ai profughi ucraini attività sportive gratuite
-recipients: ''
-description: Uisp Bologna offre ai profughi ucraini attività sportive gratuite.
-url: https://m.facebook.com/story.php?story_fbid=5123310454379132&id=156270871083140
-address:
-  mode: autocomplete
-  address:
-    place_id: 51259984
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 4512718873
-    boundingbox:
-    - '44.5041382'
-    - '44.5042382'
-    - '11.3556287'
-    - '11.3557287'
-    lat: '44.5041882'
-    lon: '11.3556787'
-    display_name: Circolo Polisportiva Arci Uisp Guernelli, 6, Via Antonio Gandusio,
-      Cirenaica, San Donato-San Vitale, Bologna, Emilia-Romagna, 14007, Italia
-    class: amenity
-    type: bar
-    importance: 0.21100000000000002
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//food_bar.p.20.png
-    address:
-      amenity: Circolo Polisportiva Arci Uisp Guernelli
-      house_number: '6'
-      road: Via Antonio Gandusio
-      suburb: Cirenaica
-      city: Bologna
-      county: Bologna
-      state: Emilia-Romagna
-      postcode: '14007'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
