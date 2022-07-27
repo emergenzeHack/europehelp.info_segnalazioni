@@ -1,5 +1,44 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/94,1167393780,2022-07-27 08:42:57,2022-03-12 20:43:14,Привітний світський спорт: УІСП поруч з українцями,44.5041882,11.3556787,Emilia-Romagna,Bologna,"[""Valid/Accettato"",""News"",""Services"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Circolo Polisportiva Arci Uisp Guernelli"",""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""house_number"":""6"",""postcode"":""14007"",""road"":""Via Antonio Gandusio"",""state"":""Emilia-Romagna"",""suburb"":""Cirenaica""},""boundingbox"":[""44.5041382"",""44.5042382"",""11.3556287"",""11.3557287""],""class"":""amenity"",""display_name"":""Circolo Polisportiva Arci Uisp Guernelli, 6, Via Antonio Gandusio, Cirenaica, San Donato-San Vitale, Bologna, Emilia-Romagna, 14007, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//food_bar.p.20.png"",""importance"":0.21100000000000002,""lat"":""44.5041882"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.3556787"",""osm_id"":4512718873,""osm_type"":""node"",""place_id"":51259984,""type"":""bar""},""mode"":""autocomplete""},""description"":""\u0423\u0406\u0421\u041f \u043f\u0440\u043e\u0434\u043e\u0432\u0436\u0443\u0454 \u043c\u043e\u0431\u0456\u043b\u0456\u0437\u0430\u0446\u0456\u044e \u0437\u0430\u0440\u0430\u0434\u0438 \u043c\u0438\u0440\u0443 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456 \u043a\u0430\u043c\u043f\u0430\u043d\u0456\u0454\u044e"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Uisp Bologna"",""recipients"":"""",""submit"":true,""title"":""\u0423\u0456\u0441\u043f \u043f\u0440\u043e\u043f\u043e\u043d\u0443\u0454 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u043c \u0431\u0456\u0436\u0435\u043d\u0446\u044f\u043c \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u0456 \u0441\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u0456 \u0437\u0430\u043d\u044f\u0442\u0442\u044f"",""type"":""psychologicalSupport"",""url"":""https://www.facebook.com/groups/1373985959703478""}","<pre><yamldata>
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/96,1167399383,2022-07-27 08:54:13,2022-03-12 21:00:41,Agenzia di comunicazione a Milano offre opportunità di lavoro a giovani ucraini,45.4641943,9.1896346,Lombardia,Milano,"[""Valid/Accettato"",""Services"",""job"",""Closed"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20122"",""state"":""Lombardia""},""boundingbox"":[""45.3041943"",""45.6241943"",""9.0296346"",""9.3496346""],""class"":""place"",""display_name"":""Milano, Lombardia, 20122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.8490652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":62505581,""osm_type"":""node"",""place_id"":286263950,""type"":""city""},""mode"":""autocomplete""},""description"":""Connexia, Agenzia di comunicazione con sede a Milano offre opportunit\u00e0 di lavoro a giovani ucraini nell\u2019ambito del marketing digitale. Oltre al lavoro offre pagamento del viaggio, 6 mesi di ospitalit\u00e0 \u00e8 permesso di soggiorno."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Agenzia Connexia Milano"",""recipients"":"""",""submit"":true,""title"":""Agenzia di comunicazione di Milano offre opportunit\u00e0 di lavoro a giovani ucraini"",""type"":""jobOffer"",""url"":""https://twitter.com/connexia/status/1501580178216173575?s=21""}","<pre><yamldata>
+type: jobOffer
+offerFromWho: Agenzia Connexia Milano
+title: Agenzia di comunicazione di Milano offre opportunità di lavoro a giovani ucraini
+recipients: ''
+description: Connexia, Agenzia di comunicazione con sede a Milano offre opportunità
+  di lavoro a giovani ucraini nell’ambito del marketing digitale. Oltre al lavoro
+  offre pagamento del viaggio, 6 mesi di ospitalità è permesso di soggiorno.
+url: https://twitter.com/connexia/status/1501580178216173575?s=21
+address:
+  mode: autocomplete
+  address:
+    place_id: 286263950
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 62505581
+    boundingbox:
+    - '45.3041943'
+    - '45.6241943'
+    - '9.0296346'
+    - '9.3496346'
+    lat: '45.4641943'
+    lon: '9.1896346'
+    display_name: Milano, Lombardia, 20122, Italia
+    class: place
+    type: city
+    importance: 0.8490652078701348
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
+    address:
+      city: Milano
+      county: Milano
+      state: Lombardia
+      postcode: '20122'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/94,1167393780,2022-07-27 08:52:29,2022-03-12 20:43:14,Привітний світський спорт: УІСП поруч з українцями,44.5041882,11.3556787,Emilia-Romagna,Bologna,"[""Valid/Accettato"",""News"",""Services"",""Closed"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Circolo Polisportiva Arci Uisp Guernelli"",""city"":""Bologna"",""country"":""Italia"",""country_code"":""it"",""county"":""Bologna"",""house_number"":""6"",""postcode"":""14007"",""road"":""Via Antonio Gandusio"",""state"":""Emilia-Romagna"",""suburb"":""Cirenaica""},""boundingbox"":[""44.5041382"",""44.5042382"",""11.3556287"",""11.3557287""],""class"":""amenity"",""display_name"":""Circolo Polisportiva Arci Uisp Guernelli, 6, Via Antonio Gandusio, Cirenaica, San Donato-San Vitale, Bologna, Emilia-Romagna, 14007, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//food_bar.p.20.png"",""importance"":0.21100000000000002,""lat"":""44.5041882"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.3556787"",""osm_id"":4512718873,""osm_type"":""node"",""place_id"":51259984,""type"":""bar""},""mode"":""autocomplete""},""description"":""\u0423\u0406\u0421\u041f \u043f\u0440\u043e\u0434\u043e\u0432\u0436\u0443\u0454 \u043c\u043e\u0431\u0456\u043b\u0456\u0437\u0430\u0446\u0456\u044e \u0437\u0430\u0440\u0430\u0434\u0438 \u043c\u0438\u0440\u0443 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456 \u043a\u0430\u043c\u043f\u0430\u043d\u0456\u0454\u044e"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Uisp Bologna"",""recipients"":"""",""submit"":true,""title"":""\u0423\u0456\u0441\u043f \u043f\u0440\u043e\u043f\u043e\u043d\u0443\u0454 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u043c \u0431\u0456\u0436\u0435\u043d\u0446\u044f\u043c \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u0456 \u0441\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u0456 \u0437\u0430\u043d\u044f\u0442\u0442\u044f"",""type"":""psychologicalSupport"",""url"":""https://www.facebook.com/groups/1373985959703478""}","<pre><yamldata>
 type: psychologicalSupport
 offerFromWho: Uisp Bologna
 title: Уісп пропонує українським біженцям безкоштовні спортивні заняття
@@ -30479,45 +30518,6 @@ label: news
 iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 submit: true
 Posizione: 40.9842539 16.6210027
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/96,1167399383,2022-03-21 16:35:34,2022-03-12 21:00:41,Agenzia di comunicazione a Milano offre opportunità di lavoro a giovani ucraini,45.4641943,9.1896346,Lombardia,Milano,"[""Valid/Accettato"",""Services"",""job"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""postcode"":""20122"",""state"":""Lombardia""},""boundingbox"":[""45.3041943"",""45.6241943"",""9.0296346"",""9.3496346""],""class"":""place"",""display_name"":""Milano, Lombardia, 20122, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png"",""importance"":0.8490652078701348,""lat"":""45.4641943"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.1896346"",""osm_id"":62505581,""osm_type"":""node"",""place_id"":286263950,""type"":""city""},""mode"":""autocomplete""},""description"":""Connexia, Agenzia di comunicazione con sede a Milano offre opportunit\u00e0 di lavoro a giovani ucraini nell\u2019ambito del marketing digitale. Oltre al lavoro offre pagamento del viaggio, 6 mesi di ospitalit\u00e0 \u00e8 permesso di soggiorno."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Agenzia Connexia Milano"",""recipients"":"""",""submit"":true,""title"":""Agenzia di comunicazione di Milano offre opportunit\u00e0 di lavoro a giovani ucraini"",""type"":""jobOffer"",""url"":""https://twitter.com/connexia/status/1501580178216173575?s=21""}","<pre><yamldata>
-type: jobOffer
-offerFromWho: Agenzia Connexia Milano
-title: Agenzia di comunicazione di Milano offre opportunità di lavoro a giovani ucraini
-recipients: ''
-description: Connexia, Agenzia di comunicazione con sede a Milano offre opportunità
-  di lavoro a giovani ucraini nell’ambito del marketing digitale. Oltre al lavoro
-  offre pagamento del viaggio, 6 mesi di ospitalità è permesso di soggiorno.
-url: https://twitter.com/connexia/status/1501580178216173575?s=21
-address:
-  mode: autocomplete
-  address:
-    place_id: 286263950
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 62505581
-    boundingbox:
-    - '45.3041943'
-    - '45.6241943'
-    - '9.0296346'
-    - '9.3496346'
-    lat: '45.4641943'
-    lon: '9.1896346'
-    display_name: Milano, Lombardia, 20122, Italia
-    class: place
-    type: city
-    importance: 0.8490652078701348
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_place_city.p.20.png
-    address:
-      city: Milano
-      county: Milano
-      state: Lombardia
-      postcode: '20122'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/85,1167358729,2022-03-21 16:33:42,2022-03-12 18:14:48,A Genova Caritas cerca volontari e alloggi per rifugiati ucraini,44.4072169,8.9312225,Liguria,Genova,"[""Valid/Accettato"",""Help"",""hospitality"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""44.4072169 8.9312225"",""description"":""A Genova Caritas Diocesana cerca volontari per accogliere e supportare i rifugiati ucraini e cerca appartamenti e famiglie disposte ad ospitare. Prevede di accogliere circa 100 rifugiati e c'\u00e8 bisogno di reperire almeno 30 appartamenti vuoti (canoniche o altro) in comodato d'uso per circa tre mesi con rimborso delle spese vive. Sono tutte donne e bambini.\nPer informazioni e adesioni telefonare in Caritas tutte le mattine:\n010.2477015 - 010.2477018\noppure scrivere a segreteria@caritasgenova.it indicando la disponibilit\u00e0."",""email"":""segreteria@caritasgrnova.it"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""help"",""location"":{""address"":{""address"":{""city"":""Genova"",""country"":""Italia"",""country_code"":""it"",""county"":""Genova"",""postcode"":""16100"",""road"":""Via di Canneto il Lungo"",""state"":""Liguria"",""suburb"":""Molo""},""boundingbox"":[""44.4067366"",""44.4076384"",""8.9300645"",""8.9322206""],""class"":""highway"",""display_name"":""Via di Canneto il Lungo, Molo, Centro Est, Genova, Liguria, 16100, Italia"",""importance"":0.585,""lat"":""44.4072169"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.9312225"",""osm_id"":164602158,""osm_type"":""way"",""place_id"":140486684,""type"":""footway""},""mode"":""autocomplete""},""nameSurname"":""Caritas Genova"",""phoneNumber"":""010 2477015 - 010 2477018"",""recipients"":""cittadini di Genova"",""submit"":true,""title"":""A Genova Caritas cerca volontari e alloggi per rifugiati ucraini"",""url"":""http://www.caritasgenova.it/emergenza-ucraina-volontari-alloggi-donazioni/""}","<pre><yamldata>
 nameSurname: Caritas Genova
