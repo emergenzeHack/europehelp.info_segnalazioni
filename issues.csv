@@ -1,4 +1,21 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/103,1167402805,2022-07-29 14:51:57,2022-03-12 21:18:44,"Online jobsforukraine.net, piattaforma internazionale per offrire lavoro ai rifugiati ucraini",,,,,"[""Valid/Accettato"",""News"",""Services"",""job"",""Closed"",""Resources""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Online jobsforukraine.net, piattaforma internazionale per offrire lavoro ai rifugiati ucraini, in particolare in ambito accademico, ricerca scientifica e aziende."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""jobsforukraine.net"",""recipients"":"""",""submit"":true,""title"":""Online jobsforukraine.net, piattaforma internazionale per offrire lavoro ai rifugiati ucraini"",""type"":""jobOffer"",""url"":""https://t.co/WSuw9UvIU1""}","<pre><yamldata>
+type: jobOffer
+offerFromWho: jobsforukraine.net
+title: Online jobsforukraine.net, piattaforma internazionale per offrire lavoro ai
+  rifugiati ucraini
+recipients: ''
+description: Online jobsforukraine.net, piattaforma internazionale per offrire lavoro
+  ai rifugiati ucraini, in particolare in ambito accademico, ricerca scientifica e
+  aziende.
+url: https://t.co/WSuw9UvIU1
+address:
+  mode: autocomplete
+  address: {}
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/101,1167402127,2022-07-29 14:46:52,2022-03-12 21:14:31,A Bari studenti universitari attivano raccolta beni per emergenza Ucraina,41.000707,16.8663036,Puglia,Bari,"[""Valid/Accettato"",""Services"",""materialGoods"",""Closed"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bari"",""road"":""Via Domenico Nicolai"",""state"":""Puglia"",""town"":""Adelfia""},""boundingbox"":[""40.9988396"",""41.0022608"",""16.8661527"",""16.8664384""],""class"":""highway"",""display_name"":""Via Domenico Nicolai, Adelfia, Bari, Puglia, Italia"",""importance"":0.41000000000000003,""lat"":""41.000707"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.8663036"",""osm_id"":40403571,""osm_type"":""way"",""place_id"":113732026,""type"":""residential""},""mode"":""autocomplete""},""description"":""A Bari l\u2019associazione universitaria Studenti Indipendenti organizza raccolta di beni per il popolo ucraino in due punti della citt\u00e0. Al link le info."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione universitaria Studenti Indipendenti"",""recipients"":"""",""submit"":true,""title"":""A Bari studenti universitari raccolgono beni per popolo ucraino"",""type"":""materialGoods"",""url"":""https://twitter.com/ukraineinfohelp/status/1502234356286435328?s=21""}","<pre><yamldata>
 type: materialGoods
 offerFromWho: Associazione universitaria Studenti Indipendenti
@@ -32143,23 +32160,6 @@ address:
       postcode: '20124'
       country: Italia
       country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/103,1167402805,2022-03-19 13:44:08,2022-03-12 21:18:44,"Online jobsforukraine.net, piattaforma internazionale per offrire lavoro ai rifugiati ucraini",,,,,"[""Valid/Accettato"",""News"",""Services"",""job"",""Resources""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Online jobsforukraine.net, piattaforma internazionale per offrire lavoro ai rifugiati ucraini, in particolare in ambito accademico, ricerca scientifica e aziende."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""jobsforukraine.net"",""recipients"":"""",""submit"":true,""title"":""Online jobsforukraine.net, piattaforma internazionale per offrire lavoro ai rifugiati ucraini"",""type"":""jobOffer"",""url"":""https://t.co/WSuw9UvIU1""}","<pre><yamldata>
-type: jobOffer
-offerFromWho: jobsforukraine.net
-title: Online jobsforukraine.net, piattaforma internazionale per offrire lavoro ai
-  rifugiati ucraini
-recipients: ''
-description: Online jobsforukraine.net, piattaforma internazionale per offrire lavoro
-  ai rifugiati ucraini, in particolare in ambito accademico, ricerca scientifica e
-  aziende.
-url: https://t.co/WSuw9UvIU1
-address:
-  mode: autocomplete
-  address: {}
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
