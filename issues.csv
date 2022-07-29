@@ -1,4 +1,41 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/101,1167402127,2022-07-29 14:46:52,2022-03-12 21:14:31,A Bari studenti universitari attivano raccolta beni per emergenza Ucraina,41.000707,16.8663036,Puglia,Bari,"[""Valid/Accettato"",""Services"",""materialGoods"",""Closed"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bari"",""road"":""Via Domenico Nicolai"",""state"":""Puglia"",""town"":""Adelfia""},""boundingbox"":[""40.9988396"",""41.0022608"",""16.8661527"",""16.8664384""],""class"":""highway"",""display_name"":""Via Domenico Nicolai, Adelfia, Bari, Puglia, Italia"",""importance"":0.41000000000000003,""lat"":""41.000707"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.8663036"",""osm_id"":40403571,""osm_type"":""way"",""place_id"":113732026,""type"":""residential""},""mode"":""autocomplete""},""description"":""A Bari l\u2019associazione universitaria Studenti Indipendenti organizza raccolta di beni per il popolo ucraino in due punti della citt\u00e0. Al link le info."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione universitaria Studenti Indipendenti"",""recipients"":"""",""submit"":true,""title"":""A Bari studenti universitari raccolgono beni per popolo ucraino"",""type"":""materialGoods"",""url"":""https://twitter.com/ukraineinfohelp/status/1502234356286435328?s=21""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: Associazione universitaria Studenti Indipendenti
+title: A Bari studenti universitari raccolgono beni per popolo ucraino
+recipients: ''
+description: A Bari l’associazione universitaria Studenti Indipendenti organizza raccolta
+  di beni per il popolo ucraino in due punti della città. Al link le info.
+url: https://twitter.com/ukraineinfohelp/status/1502234356286435328?s=21
+address:
+  mode: autocomplete
+  address:
+    place_id: 113732026
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 40403571
+    boundingbox:
+    - '40.9988396'
+    - '41.0022608'
+    - '16.8661527'
+    - '16.8664384'
+    lat: '41.000707'
+    lon: '16.8663036'
+    display_name: Via Domenico Nicolai, Adelfia, Bari, Puglia, Italia
+    class: highway
+    type: residential
+    importance: 0.41000000000000003
+    address:
+      road: Via Domenico Nicolai
+      town: Adelfia
+      county: Bari
+      state: Puglia
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/102,1167402531,2022-07-29 14:40:38,2022-03-12 21:17:01,Багатомовна українська платформа для розміщення українських біженців,,,,,"[""Valid/Accettato"",""News"",""Services"",""hospitality"",""telegram-channel"",""tweet"",""Resources""]",,,"{""description"":""Online prykhystok.in.ua \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u0431\u0430\u0433\u0430\u0442\u043e\u043c\u043e\u0432\u043d\u0430 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430 \u0434\u043b\u044f \u0440\u043e\u0437\u043c\u0456\u0449\u0435\u043d\u043d\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0431\u0456\u0436\u0435\u043d\u0446\u0456\u0432 \u0442\u0430\u043a\u043e\u0436 \u0432 \u0406\u0442\u0430\u043b\u0456\u0457. \u0422\u0430\u043a\u043e\u0436 \u0437\u0430\u043f\u0440\u043e\u043f\u043e\u043d\u043e\u0432\u0430\u043d\u043e \u041f\u043e\u0441\u043e\u043b\u044c\u0441\u0442\u0432\u043e\u043c \u0423\u043a\u0440\u0430\u0457\u043d\u0438 \u0432 \u0406\u0442\u0430\u043b\u0456\u0457."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://prykhystok.in.ua/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio a rifugiati ucraini (anche in Italia)""}","<pre><yamldata>
 title: Online prykhystok.in.ua piattaforma ucraina multilingue per offrire alloggio
   a rifugiati ucraini (anche in Italia)
@@ -30530,43 +30567,6 @@ label: help
 submit: true
 Posizione: 45.4612939 9.172356290785304
 </yamldata></pre>",closed
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/101,1167402127,2022-03-22 17:05:47,2022-03-12 21:14:31,A Bari studenti universitari attivano raccolta beni per emergenza Ucraina,41.000707,16.8663036,Puglia,Bari,"[""Valid/Accettato"",""Services"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bari"",""road"":""Via Domenico Nicolai"",""state"":""Puglia"",""town"":""Adelfia""},""boundingbox"":[""40.9988396"",""41.0022608"",""16.8661527"",""16.8664384""],""class"":""highway"",""display_name"":""Via Domenico Nicolai, Adelfia, Bari, Puglia, Italia"",""importance"":0.41000000000000003,""lat"":""41.000707"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.8663036"",""osm_id"":40403571,""osm_type"":""way"",""place_id"":113732026,""type"":""residential""},""mode"":""autocomplete""},""description"":""A Bari l\u2019associazione universitaria Studenti Indipendenti organizza raccolta di beni per il popolo ucraino in due punti della citt\u00e0. Al link le info."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Associazione universitaria Studenti Indipendenti"",""recipients"":"""",""submit"":true,""title"":""A Bari studenti universitari raccolgono beni per popolo ucraino"",""type"":""materialGoods"",""url"":""https://twitter.com/ukraineinfohelp/status/1502234356286435328?s=21""}","<pre><yamldata>
-type: materialGoods
-offerFromWho: Associazione universitaria Studenti Indipendenti
-title: A Bari studenti universitari raccolgono beni per popolo ucraino
-recipients: ''
-description: A Bari l’associazione universitaria Studenti Indipendenti organizza raccolta
-  di beni per il popolo ucraino in due punti della città. Al link le info.
-url: https://twitter.com/ukraineinfohelp/status/1502234356286435328?s=21
-address:
-  mode: autocomplete
-  address:
-    place_id: 113732026
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 40403571
-    boundingbox:
-    - '40.9988396'
-    - '41.0022608'
-    - '16.8661527'
-    - '16.8664384'
-    lat: '41.000707'
-    lon: '16.8663036'
-    display_name: Via Domenico Nicolai, Adelfia, Bari, Puglia, Italia
-    class: highway
-    type: residential
-    importance: 0.41000000000000003
-    address:
-      road: Via Domenico Nicolai
-      town: Adelfia
-      county: Bari
-      state: Puglia
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/92,1167382848,2022-03-22 17:04:24,2022-03-12 19:55:35,Ospedale Buzzi Milano offre visite gratuite a donne ucraine incinte,45.4858443,9.166968895924526,Lombardia,Milano,"[""Valid/Accettato"",""Services"",""healthcare"",""women"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Ospedale dei Bambini \""Vittore Buzzi\"""",""city"":""Milano"",""country"":""Italia"",""country_code"":""it"",""county"":""Milano"",""house_number"":""28"",""postcode"":""20154"",""quarter"":""Sarpi"",""road"":""Via Lodovico Castelvetro"",""state"":""Lombardia"",""suburb"":""Municipio 8""},""boundingbox"":[""45.4848213"",""45.4865785"",""9.1653918"",""9.1678818""],""class"":""amenity"",""display_name"":""Ospedale dei Bambini \""Vittore Buzzi\"", 28, Via Lodovico Castelvetro, Sarpi, Municipio 8, Milano, Lombardia, 20154, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//health_hospital.p.20.png"",""importance"":0.31100000000000005,""lat"":""45.4858443"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""9.166968895924526"",""osm_id"":478299137,""osm_type"":""way"",""place_id"":208609040,""type"":""hospital""},""mode"":""autocomplete""},""description"":""Presso l'Ospedale dei Bambini \""Vittore Buzzi\"", a Milano in: Via Lodovico Castelvetro 32. Padiglione C, Piano -1, Spazio IV trimestre, ogni gioved\u00ec dalle 13:30 alle 15:30 ci sar\u00e0 una visita gratuita per le donne incinta costrette ad abbandonare le loro case a causa della guerra in Ucraina. Il nostro ospedale \u00e8 pronto ad assistere nella gestione completa di una gravidanza. Verr\u00e0 effettuata la prima visita e rilasciato il codice STP del sistema sanitario nazionale, per la successiva gestione gratuita della gravidanza (con una gamma completa di test ed ecografie), del parto e del periodo postpartum. \nNumero di telefono per informazioni dettagliate: 02 6363.6023 / 5213.\n\n\u0423 \u0433\u043e\u0441\u043f\u0456\u0442\u0430\u043b\u0456 Ospedale dei Bambini \""Vittore Buzzi\"" , \u044f\u043a\u0438\u0439 \u0437\u043d\u0430\u0445\u043e\u0434\u0438\u0442\u044c\u0441\u044f \u0432 \u041c\u0456\u043b\u0430\u043d\u0456 \u0437\u0430 \u0430\u0434\u0440\u0435\u0441\u043e\u044e: Via Lodovico Castelvetro 32. \u041f\u0430\u0432\u0456\u043b\u044c\u0439\u043e\u043d \u0421, \u041f\u043e\u0432\u0435\u0440\u0445-1, Spazio IV trimestre \u041a\u043e\u0436\u0435\u043d \u0447\u0435\u0442\u0432\u0435\u0440 \u0437 13:30 \u0434\u043e 15:30 \u0431\u0443\u0434\u0435 \u0432\u0435\u0441\u0442\u0438\u0441\u044c \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u0438\u0439 \u043f\u0440\u0438\u0439\u043e\u043c \u0434\u043b\u044f \u0432\u0430\u0433\u0456\u0442\u043d\u0438\u0445 \u0436\u0456\u043d\u043e\u043a, \u044f\u043a\u0456 \u0447\u0435\u0440\u0435\u0437 \u0432\u0456\u0439\u043d\u0443 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456 \u0437\u043c\u0443\u0448\u0435\u043d\u0456 \u0431\u0443\u043b\u0438 \u043f\u043e\u043a\u0438\u043d\u0443\u0442\u0438 \u0441\u0432\u043e\u0457 \u0434\u043e\u043c\u0456\u0432\u043a\u0438. \u041d\u0430\u0448 \u0433\u043e\u0441\u043f\u0456\u0442\u0430\u043b\u044c \u0433\u043e\u0442\u043e\u0432\u0438\u0439 \u043d\u0430\u0434\u0430\u0442\u0438 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0443 \u0443 \u0432\u0435\u0434\u0435\u043d\u043d\u0456 \u043f\u043e\u0432\u043d\u043e\u0433\u043e \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441\u0443 \u0432\u0430\u0433\u0456\u0442\u043d\u043e\u0441\u0442\u0456. \u0411\u0443\u0434\u0435  \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0439 \u043f\u0435\u0440\u0448\u0438\u0439 \u043e\u0433\u043b\u044f\u0434 \u0456 \u0432\u0438\u0434\u0430\u043d\u0438\u0439 \u043a\u043e\u0434 STP \u043d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0457 \u0441\u0438\u0441\u0442\u0435\u043c\u0438 \u043e\u0445\u043e\u0440\u043e\u043d\u0438 \u0437\u0434\u043e\u0440\u043e\u0432'\u044f, \u0434\u043b\u044f \u0431\u0435\u0437\u043e\u043f\u043b\u0430\u0442\u043d\u043e\u0457 \u043f\u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0438 \u043d\u0430 \u043e\u0431\u043b\u0456\u043a \u0456 \u043f\u043e\u0434\u0430\u043b\u044c\u0448\u043e\u0433\u043e \u0432\u0435\u0434\u0435\u043d\u043d\u044f \u0432\u0430\u0433\u0456\u0442\u043d\u043e\u0441\u0442\u0456( \u0437 \u043f\u043e\u0432\u043d\u0438\u043c \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441\u043e\u043c  \u0430\u043d\u0430\u043b\u0456\u0437\u0456\u0432 \u0442\u0430 \u0443\u0437\u0456) , \u043f\u043e\u043b\u043e\u0433\u0456\u0432 \u0442\u0430 \u043f\u0456\u0441\u043b\u044f\u043f\u043e\u043b\u043e\u0433\u043e\u0432\u043e\u0433\u043e \u043f\u0435\u0440\u0456\u043e\u0434\u0443. \u041d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443 \u0434\u043b\u044f \u0434\u0435\u0442\u0430\u043b\u044c\u043d\u043e\u0457 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u0457: 02 6363.6023/5213.\n\nLa nostra Associazione mette a disposizione delle donne quanto necessario per la gravidanza, gentilmente offerto dai tanti amici che in questa settimana si sono presentati in OBM."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Ospedale Buzzi Milano"",""recipients"":""donne ucraine incinte"",""submit"":true,""title"":""Ospedale Buzzi Milano offre visite gratuite a donne ucraine incinte"",""type"":""healthcare"",""url"":""https://www.facebook.com/400453129313/posts/10160275267644314/?sfnsn=scwspmo""}","<pre><yamldata>
 type: healthcare
 offerFromWho: Ospedale Buzzi Milano
