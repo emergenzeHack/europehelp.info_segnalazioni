@@ -1,4 +1,53 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/897,1322354245,2022-07-29 14:57:39,2022-07-29 14:56:07,Платформа Adecco допоможе українським біженцям у пошуку #роботи,42.6384261,12.674297,Umbria,Terni,"[""Valid/Accettato"",""Services"",""job"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it""},""boundingbox"":[""35.2889616"",""47.0921462"",""6.6272658"",""18.7844746""],""class"":""boundary"",""display_name"":""Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"",""importance"":0.9831019031440554,""lat"":""42.6384261"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.674297"",""osm_id"":365331,""osm_type"":""relation"",""place_id"":297903987,""type"":""administrative""},""mode"":""autocomplete""},""description"":""\u0414\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0431\u0456\u0436\u0435\u043d\u0446\u0456\u0432: \u0441\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u0439\u0442\u0435\u0441\u044f \u0446\u0438\u043c \u0441\u0430\u0439\u0442\u043e\u043c, \u0449\u043e\u0431 \u043f\u043e\u0434\u0430\u0442\u0438 \u0437\u0430\u044f\u0432\u043a\u0443 \u043d\u0430 \u0431\u0443\u0434\u044c-\u044f\u043a\u0443 \u043f\u043e\u0441\u0430\u0434\u0443, \u043d\u0430\u0434\u0430\u0432\u0448\u0438 \u043d\u0430\u043c \u0443\u0441\u0456 \u043c\u043e\u0436\u043b\u0438\u0432\u0456 \u0432\u0456\u0434\u043e\u043c\u043e\u0441\u0442\u0456 \u043f\u0440\u043e \u0432\u0430\u0448\u0456 \u043d\u0430\u0432\u0438\u0447\u043a\u0438 \u0442\u0430 \u043a\u0430\u0440\u2019\u0454\u0440\u043d\u0438\u0439 \u0448\u043b\u044f\u0445 \u043d\u0430 \u0434\u0430\u043d\u0438\u0439 \u043c\u043e\u043c\u0435\u043d\u0442. \u0414\u043b\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0456\u0439: \u0441\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u0439\u0442\u0435\u0441\u044f \u0446\u0438\u043c \u0441\u0430\u0439\u0442\u043e\u043c, \u0449\u043e\u0431 \u0437\u0430\u043f\u0440\u043e\u043f\u043e\u043d\u0443\u0432\u0430\u0442\u0438 \u0431\u0443\u0434\u044c-\u044f\u043a\u0443 \u0432\u0430\u043a\u0430\u043d\u0441\u0456\u044e, \u043d\u0430\u0434\u0430\u0432\u0448\u0438 \u043d\u0430\u043c \u0443\u0441\u0456 \u0434\u0435\u0442\u0430\u043b\u0456 \u043f\u0440\u043e \u0432\u0430\u043a\u0430\u043d\u0441\u0456\u044e."",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Adecco"",""recipients"":""\u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0431\u0456\u0436\u0435\u043d\u0446\u0456"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":true,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""\u041f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430 Adecco \u0434\u043e\u043f\u043e\u043c\u043e\u0436\u0435 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u043c \u0431\u0456\u0436\u0435\u043d\u0446\u044f\u043c \u0443 \u043f\u043e\u0448\u0443\u043a\u0443 #\u0440\u043e\u0431\u043e\u0442\u0438"",""url"":""https://www.adeccojobsforukraine.com/""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: true
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Adecco
+title: 'Платформа Adecco допоможе українським біженцям у пошуку #роботи'
+recipients: українські біженці
+description: 'Для українських біженців: скористайтеся цим сайтом, щоб подати заявку
+  на будь-яку посаду, надавши нам усі можливі відомості про ваші навички та кар’єрний
+  шлях на даний момент. Для компаній: скористайтеся цим сайтом, щоб запропонувати
+  будь-яку вакансію, надавши нам усі деталі про вакансію.'
+url: https://www.adeccojobsforukraine.com/
+address:
+  mode: autocomplete
+  address:
+    place_id: 297903987
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 365331
+    boundingbox:
+    - '35.2889616'
+    - '47.0921462'
+    - '6.6272658'
+    - '18.7844746'
+    lat: '42.6384261'
+    lon: '12.674297'
+    display_name: Italia
+    class: boundary
+    type: administrative
+    importance: 0.9831019031440554
+    icon: https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+iAuthorizeTheProcessingOfPersonalSensitiveData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/103,1167402805,2022-07-29 14:51:57,2022-03-12 21:18:44,"Online jobsforukraine.net, piattaforma internazionale per offrire lavoro ai rifugiati ucraini",,,,,"[""Valid/Accettato"",""News"",""Services"",""job"",""Closed"",""Resources""]",,,"{""address"":{""address"":{},""mode"":""autocomplete""},""description"":""Online jobsforukraine.net, piattaforma internazionale per offrire lavoro ai rifugiati ucraini, in particolare in ambito accademico, ricerca scientifica e aziende."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""jobsforukraine.net"",""recipients"":"""",""submit"":true,""title"":""Online jobsforukraine.net, piattaforma internazionale per offrire lavoro ai rifugiati ucraini"",""type"":""jobOffer"",""url"":""https://t.co/WSuw9UvIU1""}","<pre><yamldata>
 type: jobOffer
 offerFromWho: jobsforukraine.net
