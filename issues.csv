@@ -1,4 +1,81 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/98,1167400443,2022-07-29 14:14:17,2022-03-12 21:05:41,15 borse di studio per studenti ucraini promosse dall'Università della Calabria,39.36233015,16.22349291436983,Calabria,Cosenza,"[""Valid/Accettato"",""News"",""Services"",""job"",""Closed"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Universit\u00e0 della Calabria"",""country"":""Italia"",""country_code"":""it"",""county"":""Cosenza"",""postcode"":""87036"",""road"":""Unical Campus"",""state"":""Calabria"",""town"":""Rende""},""boundingbox"":[""39.3557691"",""39.3688203"",""16.219811"",""16.2279511""],""class"":""amenity"",""display_name"":""Universit\u00e0 della Calabria, Unical Campus, Rende, Cosenza, Calabria, 87036, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//education_university.p.20.png"",""importance"":0.7250690427980546,""lat"":""39.36233015"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.22349291436983"",""osm_id"":932949985,""osm_type"":""way"",""place_id"":275216324,""type"":""university""},""mode"":""autocomplete""},""description"":""Universit\u00e0 della Calabria offre 15 borse di studio a studenti ucraini in fuga dalla guerra."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Universita della Calabria"",""recipients"":"""",""submit"":true,""title"":""15 borse di studio per studenti ucraini promosse dall'Universit\u00e0 della #Calabria."",""type"":""jobOffer"",""url"":""https://www.unical.it/contents/news/view/solidarieta-al-popolo-ucraino-unical-pronta-ad-accogliere-studenti-in-fuga-con-15-borse-di-studio-speciali""}","<pre><yamldata>
+type: jobOffer
+offerFromWho: Universita della Calabria
+title: '15 borse di studio per studenti ucraini promosse dall''Università della #Calabria.'
+recipients: ''
+description: Università della Calabria offre 15 borse di studio a studenti ucraini
+  in fuga dalla guerra.
+url: https://www.unical.it/contents/news/view/solidarieta-al-popolo-ucraino-unical-pronta-ad-accogliere-studenti-in-fuga-con-15-borse-di-studio-speciali
+address:
+  mode: autocomplete
+  address:
+    place_id: 275216324
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 932949985
+    boundingbox:
+    - '39.3557691'
+    - '39.3688203'
+    - '16.219811'
+    - '16.2279511'
+    lat: '39.36233015'
+    lon: '16.22349291436983'
+    display_name: Università della Calabria, Unical Campus, Rende, Cosenza, Calabria,
+      87036, Italia
+    class: amenity
+    type: university
+    importance: 0.7250690427980546
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//education_university.p.20.png
+    address:
+      amenity: Università della Calabria
+      road: Unical Campus
+      town: Rende
+      county: Cosenza
+      state: Calabria
+      postcode: '87036'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/97,1167399966,2022-07-29 14:13:20,2022-03-12 21:03:13,"Genova, info su emergenza Ucraina: raccolta beni, assistenza profughi, alloggi",44.40726,8.9338624,Liguria,Genova,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""materialGoods"",""hospitality"",""healthcare"",""Closed"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""44.40726 8.9338624"",""description"":""Al link varie info su emergenza Ucraina per chi vive a Genova e per i rifugiati che sono giunti in citt\u00e0: raccolta beni, assistenza profughi, alloggi e altro."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""http://dlvr.it/SL187L"",""location"":{""address"":{""address"":{""city"":""Genova"",""country"":""Italia"",""country_code"":""it"",""county"":""Genova"",""state"":""Liguria""},""boundingbox"":[""44.3784709"",""44.5198419"",""8.6657444"",""9.0955805""],""class"":""boundary"",""display_name"":""Genova, Liguria, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7921779665930816,""lat"":""44.40726"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.9338624"",""osm_id"":44875,""osm_type"":""relation"",""place_id"":283489351,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Genova, info su emergenza Ucraina: raccolta beni, assistenza profughi, alloggi""}","<pre><yamldata>
+title: 'Genova, info su emergenza Ucraina: raccolta beni, assistenza profughi, alloggi'
+description: 'Al link varie info su emergenza Ucraina per chi vive a Genova e per
+  i rifugiati che sono giunti in città: raccolta beni, assistenza profughi, alloggi
+  e altro.'
+link: http://dlvr.it/SL187L
+location:
+  mode: autocomplete
+  address:
+    place_id: 283489351
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 44875
+    boundingbox:
+    - '44.3784709'
+    - '44.5198419'
+    - '8.6657444'
+    - '9.0955805'
+    lat: '44.40726'
+    lon: '8.9338624'
+    display_name: Genova, Liguria, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7921779665930816
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      city: Genova
+      county: Genova
+      state: Liguria
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 44.40726 8.9338624
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/895,1319350179,2022-07-28 10:18:03,2022-07-27 10:27:27,FAQ для надання загальної інформації про правові установи міжнародного та тимчасового захисту та кор,42.6384261,12.674297,Umbria,Terni,"[""Valid/Accettato"",""Services"",""Legal"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it""},""boundingbox"":[""35.2889616"",""47.0921462"",""6.6272658"",""18.7844746""],""class"":""boundary"",""display_name"":""Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"",""importance"":0.9931019031440554,""lat"":""42.6384261"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.674297"",""osm_id"":365331,""osm_type"":""relation"",""place_id"":297903987,""type"":""administrative""},""mode"":""autocomplete""},""description"":""\u0414\u043b\u044f \u0437\u0430\u043f\u0438\u0442\u0456\u0432 \u0449\u043e\u0434\u043e \u0437\u0430\u0433\u0430\u043b\u044c\u043d\u043e\u0457 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u0457, \u043e\u0440\u0456\u0454\u043d\u0442\u0430\u0446\u0456\u0457 \u043d\u0430 \u043f\u043e\u0441\u043b\u0443\u0433\u0438 \u0432 \u0440\u0435\u0433\u0456\u043e\u043d\u0456 \u0447\u0438 \u0456\u043d\u0448\u0438\u0445 \u043f\u043e\u0442\u0440\u0435\u0431, \u0449\u043e \u0441\u0442\u043e\u0441\u0443\u044e\u0442\u044c\u0441\u044f \u0432\u0456\u0439\u043d\u0438 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456, \u0430\u043a\u0442\u0438\u0432\u043d\u0430 \u0435\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430 \u0430\u0434\u0440\u0435\u0441\u0430 emergencies@avvocatodistrada.it.\n\u041d\u0430 \u043e\u0441\u043d\u043e\u0432\u0456 \u043d\u0430\u0439\u043f\u043e\u0448\u0438\u0440\u0435\u043d\u0456\u0448\u0438\u0445 \u0437\u0430\u043f\u0438\u0442\u0430\u043d\u044c \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043e \u0446\u0456 \u043f\u043e\u0448\u0438\u0440\u0435\u043d\u0456 \u0437\u0430\u043f\u0438\u0442\u0430\u043d\u043d\u044f, \u0449\u043e\u0431 \u043d\u0430\u0434\u0430\u0442\u0438 \u0437\u0430\u0433\u0430\u043b\u044c\u043d\u0443 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u044e \u043f\u0440\u043e \u043f\u0440\u0430\u0432\u043e\u0432\u0456 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438, \u0437\u0430\u0441\u0442\u043e\u0441\u043e\u0432\u043d\u0456 \u0434\u043e \u0441\u0438\u0442\u0443\u0430\u0446\u0456\u0457, \u0456 \u0437\u0456\u0431\u0440\u0430\u0442\u0438 \u043a\u043e\u0440\u0438\u0441\u043d\u0456 \u043a\u043e\u043d\u0442\u0430\u043a\u0442\u0438 \u043f\u043e \u0432\u0441\u0456\u0439 \u043d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456\u0439 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0456\u0457, \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u0456 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0430\u043c, \u0430\u0441\u043e\u0446\u0456\u0430\u0446\u0456\u044f\u043c, \u043e\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u0430\u043c \u0456 \u0437\u0432\u0438\u0447\u0430\u0439\u043d\u0438\u043c \u0433\u0440\u043e\u043c\u0430\u0434\u044f\u043d\u0430\u043c."",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""\u0412\u043e\u043b\u043e\u043d\u0442\u0435\u0440\u0441\u044c\u043a\u0435 \u043e\u0431'\u0454\u0434\u043d\u0430\u043d\u043d\u044f \""\u0412\u0443\u043b\u0438\u0447\u043d\u0438\u0439 \u044e\u0440\u0438\u0441\u0442\"""",""recipients"":""\u0406\u043d\u0441\u0442\u0438\u0442\u0443\u0446\u0456\u0457, \u0430\u0441\u043e\u0446\u0456\u0430\u0446\u0456\u0457, \u043e\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u0438 \u0442\u0430 \u0437\u0432\u0438\u0447\u0430\u0439\u043d\u0456 \u0433\u0440\u043e\u043c\u0430\u0434\u044f\u043d\u0438"",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""FAQ \u0434\u043b\u044f \u043d\u0430\u0434\u0430\u043d\u043d\u044f \u0437\u0430\u0433\u0430\u043b\u044c\u043d\u043e\u0457 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u0457 \u043f\u0440\u043e \u043f\u0440\u0430\u0432\u043e\u0432\u0456 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438 \u043c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0433\u043e \u0442\u0430 \u0442\u0438\u043c\u0447\u0430\u0441\u043e\u0432\u043e\u0433\u043e \u0437\u0430\u0445\u0438\u0441\u0442\u0443 \u0442\u0430 \u043a\u043e\u0440\u0438\u0441\u043d\u0438\u0445 \u043a\u043e\u043d\u0442\u0430\u043a\u0442\u0456\u0432"",""url"":""https://www.avvocatodistrada.it/faq-emergenza-ucraina-2022/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
@@ -30426,83 +30503,6 @@ address:
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/98,1167400443,2022-03-22 17:05:16,2022-03-12 21:05:41,15 borse di studio per studenti ucraini promosse dall'Università della Calabria,39.36233015,16.22349291436983,Calabria,Cosenza,"[""Valid/Accettato"",""News"",""Services"",""job"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""amenity"":""Universit\u00e0 della Calabria"",""country"":""Italia"",""country_code"":""it"",""county"":""Cosenza"",""postcode"":""87036"",""road"":""Unical Campus"",""state"":""Calabria"",""town"":""Rende""},""boundingbox"":[""39.3557691"",""39.3688203"",""16.219811"",""16.2279511""],""class"":""amenity"",""display_name"":""Universit\u00e0 della Calabria, Unical Campus, Rende, Cosenza, Calabria, 87036, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//education_university.p.20.png"",""importance"":0.7250690427980546,""lat"":""39.36233015"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.22349291436983"",""osm_id"":932949985,""osm_type"":""way"",""place_id"":275216324,""type"":""university""},""mode"":""autocomplete""},""description"":""Universit\u00e0 della Calabria offre 15 borse di studio a studenti ucraini in fuga dalla guerra."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Universita della Calabria"",""recipients"":"""",""submit"":true,""title"":""15 borse di studio per studenti ucraini promosse dall'Universit\u00e0 della #Calabria."",""type"":""jobOffer"",""url"":""https://www.unical.it/contents/news/view/solidarieta-al-popolo-ucraino-unical-pronta-ad-accogliere-studenti-in-fuga-con-15-borse-di-studio-speciali""}","<pre><yamldata>
-type: jobOffer
-offerFromWho: Universita della Calabria
-title: '15 borse di studio per studenti ucraini promosse dall''Università della #Calabria.'
-recipients: ''
-description: Università della Calabria offre 15 borse di studio a studenti ucraini
-  in fuga dalla guerra.
-url: https://www.unical.it/contents/news/view/solidarieta-al-popolo-ucraino-unical-pronta-ad-accogliere-studenti-in-fuga-con-15-borse-di-studio-speciali
-address:
-  mode: autocomplete
-  address:
-    place_id: 275216324
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 932949985
-    boundingbox:
-    - '39.3557691'
-    - '39.3688203'
-    - '16.219811'
-    - '16.2279511'
-    lat: '39.36233015'
-    lon: '16.22349291436983'
-    display_name: Università della Calabria, Unical Campus, Rende, Cosenza, Calabria,
-      87036, Italia
-    class: amenity
-    type: university
-    importance: 0.7250690427980546
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//education_university.p.20.png
-    address:
-      amenity: Università della Calabria
-      road: Unical Campus
-      town: Rende
-      county: Cosenza
-      state: Calabria
-      postcode: '87036'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/97,1167399966,2022-03-22 17:05:05,2022-03-12 21:03:13,"Genova, info su emergenza Ucraina: raccolta beni, assistenza profughi, alloggi",44.40726,8.9338624,Liguria,Genova,"[""Valid/Accettato"",""News"",""Services"",""Legal"",""materialGoods"",""hospitality"",""healthcare"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""44.40726 8.9338624"",""description"":""Al link varie info su emergenza Ucraina per chi vive a Genova e per i rifugiati che sono giunti in citt\u00e0: raccolta beni, assistenza profughi, alloggi e altro."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""http://dlvr.it/SL187L"",""location"":{""address"":{""address"":{""city"":""Genova"",""country"":""Italia"",""country_code"":""it"",""county"":""Genova"",""state"":""Liguria""},""boundingbox"":[""44.3784709"",""44.5198419"",""8.6657444"",""9.0955805""],""class"":""boundary"",""display_name"":""Genova, Liguria, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7921779665930816,""lat"":""44.40726"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""8.9338624"",""osm_id"":44875,""osm_type"":""relation"",""place_id"":283489351,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Genova, info su emergenza Ucraina: raccolta beni, assistenza profughi, alloggi""}","<pre><yamldata>
-title: 'Genova, info su emergenza Ucraina: raccolta beni, assistenza profughi, alloggi'
-description: 'Al link varie info su emergenza Ucraina per chi vive a Genova e per
-  i rifugiati che sono giunti in città: raccolta beni, assistenza profughi, alloggi
-  e altro.'
-link: http://dlvr.it/SL187L
-location:
-  mode: autocomplete
-  address:
-    place_id: 283489351
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 44875
-    boundingbox:
-    - '44.3784709'
-    - '44.5198419'
-    - '8.6657444'
-    - '9.0955805'
-    lat: '44.40726'
-    lon: '8.9338624'
-    display_name: Genova, Liguria, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7921779665930816
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      city: Genova
-      county: Genova
-      state: Liguria
-      country: Italia
-      country_code: it
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 44.40726 8.9338624
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/95,1167398784,2022-03-22 17:04:40,2022-03-12 20:57:23,Raccolta fondi di Mediterranea Saving Humans per aiuti umanitari e convoglio che porti i rifugiati ucraini in Italia  ,,,,,"[""Valid/Accettato"",""fundraising"",""telegram-channel"",""tweet""]",,,"{""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""Parte #SafePassage di Mediterranea Saving Humans: un convoglio di pullman e furgoni attrezzati, con medici e mediatori culturali, che arrivi al confine polacco-ucraino, per consegnare aiuti e portare in Italia chi fugge. Attivata raccolta fondi online a sostegno dell\u2019iniziativa."",""email"":"""",""heading"":"""",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":"""",""label"":""fundraising"",""link"":""https://www.produzionidalbasso.com/project/missione-safe-passage-in-ucraina/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Mediterranea Saving Humans""}","<pre><yamldata>
 title: Mediterranea Saving Humans
