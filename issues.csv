@@ -1,4 +1,203 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/898,1324481515,2022-08-01 14:32:20,2022-08-01 14:03:49,Шляхи стажування,39.0565974,16.5249864,Calabria,Catanzaro,"[""Valid/Accettato"",""Services"",""job"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-78"",""country"":""Italia"",""country_code"":""it"",""state"":""Calabria""},""boundingbox"":[""37.9157947"",""40.1449242"",""15.6291646"",""17.2064253""],""class"":""boundary"",""display_name"":""Calabria, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"",""importance"":0.7671035277558313,""lat"":""39.0565974"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.5249864"",""osm_id"":1783980,""osm_type"":""relation"",""place_id"":297882481,""type"":""administrative""},""mode"":""autocomplete""},""description"":""\u0410\u0433\u0435\u043d\u0442\u0441\u0442\u0432\u043e \u043f\u0440\u0430\u0446\u0435\u0432\u043b\u0430\u0448\u0442\u0443\u0432\u0430\u043d\u043d\u044f In.form@ti \u043f\u0440\u043e\u043f\u043e\u043d\u0443\u0454 \u0448\u043b\u044f\u0445\u0438 \u043f\u0440\u0430\u0446\u0435\u0432\u043b\u0430\u0448\u0442\u0443\u0432\u0430\u043d\u043d\u044f \u0442\u0430\u043a\u043e\u0436 \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0431\u0456\u0436\u0435\u043d\u0446\u0456\u0432. \ud83d\udd35\ud83d\udfe1\n\u041d\u0430\u0448\u0456 \u043e\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u0438, \u0432 \u0442\u043e\u043c\u0443 \u0447\u0438\u0441\u043b\u0456 \u0434\u0435\u044f\u043a\u0456 \u0437\u0456 \u0437\u043d\u0430\u043d\u043d\u044f\u043c \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u043c\u043e\u0432\u0438, \u0433\u043e\u0442\u043e\u0432\u0456 \u043d\u0430\u0434\u0430\u0442\u0438 \u0431\u0443\u0434\u044c-\u044f\u043a\u0443 \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u043a\u0443 \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u0443 \u0434\u043b\u044f \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u043d\u044f \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u0438\u0445 \u043f\u0440\u043e\u0446\u0435\u0434\u0443\u0440.\n\u0417\u0432'\u044f\u0436\u0456\u0442\u044c\u0441\u044f \u0437 \u043d\u0430\u043c\u0438: \ud83d\udcde +39 0984 40 88 42 / \ud83d\udcde +39 392 978 0561"",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Agenzia per il Lavoro In.form@ti, Anpal servizi"",""recipients"":""\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0442\u0438\u043c\u0447\u0430\u0441\u043e\u0432\u0456 \u0431\u0456\u0436\u0435\u043d\u0446\u0456"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":true,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""\u0428\u043b\u044f\u0445\u0438 \u0441\u0442\u0430\u0436\u0443\u0432\u0430\u043d\u043d\u044f"",""url"":""https://www.facebook.com/assinformatipolocalabriaunitelmasapienza/posts/pfbid06DHRGyGdYT5LD5KmUS9eDAcvw9K1TNkTzUMSEAA4XGvXFrHnTCKvGFAfQ4y9caHyl""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: false
+  translation: false
+  job: true
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Agenzia per il Lavoro In.form@ti, Anpal servizi
+title: Шляхи стажування
+recipients: Українські тимчасові біженці
+description: 'Агентство працевлаштування In.form@ti пропонує шляхи працевлаштування
+  також для українських біженців. 🔵🟡
+
+  Наші оператори, в тому числі деякі зі знанням української мови, готові надати будь-яку
+  підтримку необхідну для проведення необхідних процедур.
+
+  Зв''яжіться з нами: 📞 +39 0984 40 88 42 / 📞 +39 392 978 0561'
+url: https://www.facebook.com/assinformatipolocalabriaunitelmasapienza/posts/pfbid06DHRGyGdYT5LD5KmUS9eDAcvw9K1TNkTzUMSEAA4XGvXFrHnTCKvGFAfQ4y9caHyl
+address:
+  mode: autocomplete
+  address:
+    place_id: 297882481
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 1783980
+    boundingbox:
+    - '37.9157947'
+    - '40.1449242'
+    - '15.6291646'
+    - '17.2064253'
+    lat: '39.0565974'
+    lon: '16.5249864'
+    display_name: Calabria, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7671035277558313
+    icon: https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      state: Calabria
+      ISO3166-2-lvl4: IT-78
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+iAuthorizeTheProcessingOfPersonalSensitiveData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/899,1324488061,2022-08-01 14:31:59,2022-08-01 14:07:47,"Що потрібно робити, коли  ви покидаєте Італію після подачі документів і їдете в іншу країну  #консул",42.6384261,12.674297,Umbria,Terni,"[""Valid/Accettato"",""News"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""42.6384261 12.674297"",""description"":""1. \u042f\u043a\u0449\u043e \u0432\u0436\u0435 \u0433\u043e\u0442\u043e\u0432\u0435 permesso di soggiorno, \u043f\u043e\u0442\u0440\u0456\u0431\u043d\u043e \u0457\u0445\u0430\u0442\u0438 \u0437 \u043d\u0438\u043c \u0456 \u0437\u0434\u0430\u0432\u0430\u0442\u0438 \u0430\u0431\u043e \u043d\u0430 \u043a\u043e\u0440\u0434\u043e\u043d\u0456 (\u044f\u043a\u0449\u043e \u0437\u0443\u043f\u0438\u043d\u044f\u0442\u044c), \u0430\u0431\u043e \u0432 \u0406\u0442\u0430\u043b\u0456\u0439\u0441\u044c\u043a\u043e\u043c\u0443 \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0441\u0442\u0432\u0456 \u0442\u0456\u0454\u0457 \u043a\u0440\u0430\u0457\u043d\u0438, \u043a\u0443\u0434\u0438 \u0457\u0434\u0435\u0442\u0435.\n2. \u042f\u043a\u0449\u043e \u043d\u0430 \u0440\u0443\u043a\u0430\u0445 \u0442\u0456\u043b\u044c\u043a\u0438 \u043a\u0432\u0438\u0442\u0430\u043d\u0446\u0456\u044f \u043f\u0440\u043e \u0437\u0434\u0430\u0447\u0443 \u0432\u0456\u0434\u0431\u0438\u0442\u043a\u0456\u0432 \u043f\u0430\u043b\u044c\u0446\u0456\u0432 (ricevuta), \u043f\u043e\u0442\u0440\u0456\u0431\u043d\u043e \u043f\u0440\u0438\u0439\u0442\u0438 \u0432 \u043a\u0432\u0435\u0441\u0442\u0443\u0440\u0443 \u0456 \u043d\u0430\u043f\u0438\u0441\u0430\u0442\u0438 \u0432\u0456\u0434\u043c\u043e\u0432\u0443, \u0442\u0430 \u043e\u0442\u0440\u0438\u043c\u0430\u0442\u0438 \u043a\u043e\u043f\u0456\u044e \u0434\u0430\u043d\u043e\u0457 \u0437\u0430\u044f\u0432\u0438, \u0442\u0430 \u0442\u0456\u043b\u044c\u043a\u0438 \u0442\u043e\u0434\u0456 \u0457\u0445\u0430\u0442\u0438."",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://www.facebook.com/permalink.php?story_fbid=pfbid0gahKcGSu5EuGaAnfWkWRW1VjF8zWK2bruHvGHLMqrct4fEfDcv1uvSqci5EMsu33l&id=100068937888414"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it""},""boundingbox"":[""35.2889616"",""47.0921462"",""6.6272658"",""18.7844746""],""class"":""boundary"",""display_name"":""Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"",""importance"":0.8831019031440555,""lat"":""42.6384261"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.674297"",""osm_id"":365331,""osm_type"":""relation"",""place_id"":297903987,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""\u0429\u043e \u043f\u043e\u0442\u0440\u0456\u0431\u043d\u043e \u0440\u043e\u0431\u0438\u0442\u0438, \u043a\u043e\u043b\u0438  \u0432\u0438 \u043f\u043e\u043a\u0438\u0434\u0430\u0454\u0442\u0435 \u0406\u0442\u0430\u043b\u0456\u044e \u043f\u0456\u0441\u043b\u044f \u043f\u043e\u0434\u0430\u0447\u0456 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0456\u0432 \u0456 \u0457\u0434\u0435\u0442\u0435 \u0432 \u0456\u043d\u0448\u0443 \u043a\u0440\u0430\u0457\u043d\u0443  #\u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0441\u0442\u0432\u043e""}","<pre><yamldata>
+title: 'Що потрібно робити, коли  ви покидаєте Італію після подачі документів і їдете
+  в іншу країну  #консульство'
+description: '1. Якщо вже готове permesso di soggiorno, потрібно їхати з ним і здавати
+  або на кордоні (якщо зупинять), або в Італійському консульстві тієї країни, куди
+  їдете.
+
+  2. Якщо на руках тільки квитанція про здачу відбитків пальців (ricevuta), потрібно
+  прийти в квестуру і написати відмову, та отримати копію даної заяви, та тільки тоді
+  їхати.'
+link: https://www.facebook.com/permalink.php?story_fbid=pfbid0gahKcGSu5EuGaAnfWkWRW1VjF8zWK2bruHvGHLMqrct4fEfDcv1uvSqci5EMsu33l&id=100068937888414
+location:
+  mode: autocomplete
+  address:
+    place_id: 297903987
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 365331
+    boundingbox:
+    - '35.2889616'
+    - '47.0921462'
+    - '6.6272658'
+    - '18.7844746'
+    lat: '42.6384261'
+    lon: '12.674297'
+    display_name: Italia
+    class: boundary
+    type: administrative
+    importance: 0.8831019031440555
+    icon: https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      country: Italia
+      country_code: it
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+iAuthorizeTheProcessingOfPersonalSensitiveData: true
+submit: true
+Posizione: 42.6384261 12.674297
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/901,1324518978,2022-08-01 14:30:54,2022-08-01 14:28:12,#raccoltafondi #donazioni per il Comitato Salva Ucraini di #Palermo,38.1112268,13.3524434,Sicilia,Palermo,"[""Valid/Accettato"",""fundraising"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""38.1112268 13.3524434"",""bicSwift"":"""",""causal"":"""",""ccPostal"":"""",""description"":""Care amiche e cari amici, siamo ad Agosto, per la maggior parte di voi \u00e8 il mese tanto atteso, quello delle vacanze, del riposo, quello dove cerchiamo di non pensare pi\u00f9 a nulla...\nPer la comunit\u00e0 di profughi Ucraini qui a Palermo e per il nostro comitato \u00e8 un mese molto difficile.\n\nDa una parte sar\u00e0 difficile poter garantire l'assistenza medica per le ferie dei nostri gentilissimi medici e specialisti volontari, dall'altra la citt\u00e0 vuota ridurr\u00e0 drasticamente la spesa e le donazioni di vettovagliamento a scapito sia dei profughi ospiti delle Ancelle che le tante famiglie che hanno avuto supporto e aiuti.\nPrima di andare in vacanza vi chiediamo un piccolo sforzo, una donazione al nostro IBAN. \nCi\u00f2 ci permetter\u00e0 di far fronte alle spese, all'acquisto di cibo, scatolame, verdure, medicine e quanto dovesse essere necessario durante questo mese.\nUna piccola donazione di ciascuno di voi aiuter\u00e0 tanti in questo purtroppo, ancora, momento di forte difficolt\u00e0.\nGrazie per ci\u00f2 che farete \ud83d\udc99\ud83d\udc9b"",""email"":"""",""heading"":""COMITATO SALVA UCRAINI PALERMO"",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""iban"":""IT85Q0501804600000017179433"",""label"":""fundraising"",""link"":""https://web.telegram.org/k/#-1563795715"",""location"":{""address"":{""address"":{""ISO3166-2-lvl4"":""IT-82"",""ISO3166-2-lvl6"":""IT-PA"",""city"":""Palermo"",""country"":""Italia"",""country_code"":""it"",""county"":""Palermo"",""state"":""Sicilia""},""boundingbox"":[""38.0499137"",""38.2245866"",""13.242219"",""13.4520856""],""class"":""boundary"",""display_name"":""Palermo, Sicilia, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"",""importance"":0.7661148171447915,""lat"":""38.1112268"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""13.3524434"",""osm_id"":39513,""osm_type"":""relation"",""place_id"":297392564,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Comitato Salva Ucraini di Palermo""}","<pre><yamldata>
+title: Comitato Salva Ucraini di Palermo
+description: ""Care amiche e cari amici, siamo ad Agosto, per la maggior parte di voi\
+  \ è il mese tanto atteso, quello delle vacanze, del riposo, quello dove cerchiamo\
+  \ di non pensare più a nulla...\nPer la comunità di profughi Ucraini qui a Palermo\
+  \ e per il nostro comitato è un mese molto difficile.\n\nDa una parte sarà difficile\
+  \ poter garantire l'assistenza medica per le ferie dei nostri gentilissimi medici\
+  \ e specialisti volontari, dall'altra la città vuota ridurrà drasticamente la spesa\
+  \ e le donazioni di vettovagliamento a scapito sia dei profughi ospiti delle Ancelle\
+  \ che le tante famiglie che hanno avuto supporto e aiuti.\nPrima di andare in vacanza\
+  \ vi chiediamo un piccolo sforzo, una donazione al nostro IBAN. \nCiò ci permetterà\
+  \ di far fronte alle spese, all'acquisto di cibo, scatolame, verdure, medicine e\
+  \ quanto dovesse essere necessario durante questo mese.\nUna piccola donazione di\
+  \ ciascuno di voi aiuterà tanti in questo purtroppo, ancora, momento di forte difficoltà.\n\
+  Grazie per ciò che farete \U0001F499\U0001F49B""
+heading: COMITATO SALVA UCRAINI PALERMO
+iban: IT85Q0501804600000017179433
+bicSwift: ''
+ccPostal: ''
+causal: ''
+link: https://web.telegram.org/k/#-1563795715
+email: ''
+location:
+  mode: autocomplete
+  address:
+    place_id: 297392564
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 39513
+    boundingbox:
+    - '38.0499137'
+    - '38.2245866'
+    - '13.242219'
+    - '13.4520856'
+    lat: '38.1112268'
+    lon: '13.3524434'
+    display_name: Palermo, Sicilia, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7661148171447915
+    icon: https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      city: Palermo
+      county: Palermo
+      ISO3166-2-lvl6: IT-PA
+      state: Sicilia
+      ISO3166-2-lvl4: IT-82
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+iAuthorizeTheProcessingOfPersonalSensitiveData: true
+label: fundraising
+submit: true
+Posizione: 38.1112268 13.3524434
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/900,1324505972,2022-08-01 14:30:33,2022-08-01 14:19:18,Bізиту до податкову,42.6384261,12.674297,Umbria,Terni,"[""Valid/Accettato"",""Services"",""Legal"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it""},""boundingbox"":[""35.2889616"",""47.0921462"",""6.6272658"",""18.7844746""],""class"":""boundary"",""display_name"":""Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"",""importance"":0.8831019031440555,""lat"":""42.6384261"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.674297"",""osm_id"":365331,""osm_type"":""relation"",""place_id"":297903987,""type"":""administrative""},""mode"":""autocomplete""},""description"":""\u0421\u0430\u0439\u0442 \u0434\u043b\u044f \u0431\u0440\u043e\u043d\u044e\u0432\u0430\u043d\u043d\u044f \u0432\u0456\u0437\u0438\u0442\u0443 \u0432 \u043f\u043e\u0434\u0430\u0442\u043a\u043e\u0432\u0443 \u0434\u043b\u044f \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u043d\u044f, \u043d\u0430\u043f\u0440\u0438\u043a\u043b\u0430\u0434, \u0440\u043e\u0437\u0434\u0440\u0443\u043a\u043e\u0432\u0430\u043d\u043e\u0433\u043e \u043d\u0430 \u04104 codice fiscale (\u0447\u0430\u0441\u0442\u043e \u0430\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u043e \u0432\u043b\u0430\u0441\u043d\u0438\u043a\u0430\u043c \u0440\u0456\u0447\u0435\u0432\u0443\u0442\u0438 \u0437 \u0430\u0440\u0442.19)\nhttps://prenotazioneweb.agenziaentrate.gov.it/PrenotazioneWeb/prenotazione.action?fbclid=IwAR2b55va6dxx3rhJ221o2M2PD4mCbVDRlAmz9ErN0vYAGxY2sz6Irq4jsfk\n\u0413\u0440\u0443\u043f\u0438, \u0432 \u044f\u043a\u0438\u0445 \u0432\u0430\u0440\u0442\u043e \u0441\u043b\u0456\u0434\u043a\u0443\u0432\u0430\u0442\u0438 \u0437\u0430 \u0430\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u044e \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u0454\u044e \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432"",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""\u041f\u043e\u0447\u0435\u0441\u043d\u0435 \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0441\u0442\u0432\u043e \u0423\u043a\u0440\u0430\u0457\u043d\u0438 \u0443 \u0424\u043b\u043e\u0440\u0435\u043d\u0446\u0456\u0457"",""recipients"":""\u0422\u0438\u043c\u0447\u0430\u0441\u043e\u0432\u0456 \u0431\u0456\u0436\u0435\u043d\u0446\u0456 \u0437 \u0423\u043a\u0440\u0430\u0457\u043d\u0438"",""servicetypes"":{""Children"":false,""Legal"":true,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":false,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""B\u0456\u0437\u0438\u0442\u0443 \u0434\u043e \u043f\u043e\u0434\u0430\u0442\u043a\u043e\u0432\u0443"",""url"":""https://www.facebook.com/permalink.php?story_fbid=pfbid02X3sawuSUQ23w32sF5GXbuHfoYqMtved8ZUoUUowz67gg2fCjDNWrim9kdjpQS72ql&id=100068937888414""}","<pre><yamldata>
+servicetypes:
+  materialGoods: false
+  hospitality: false
+  transport: false
+  healthcare: false
+  Legal: true
+  translation: false
+  job: false
+  psychologicalSupport: false
+  Children: false
+  disability: false
+  women: false
+  education: false
+offerFromWho: Почесне консульство України у Флоренції
+title: Bізиту до податкову
+recipients: Тимчасові біженці з України
+description: 'Сайт для бронювання візиту в податкову для оформлення, наприклад, роздрукованого
+  на А4 codice fiscale (часто актуально власникам річевути з арт.19)
+
+  https://prenotazioneweb.agenziaentrate.gov.it/PrenotazioneWeb/prenotazione.action?fbclid=IwAR2b55va6dxx3rhJ221o2M2PD4mCbVDRlAmz9ErN0vYAGxY2sz6Irq4jsfk
+
+  Групи, в яких варто слідкувати за актуальною інформацією для українців'
+url: https://www.facebook.com/permalink.php?story_fbid=pfbid02X3sawuSUQ23w32sF5GXbuHfoYqMtved8ZUoUUowz67gg2fCjDNWrim9kdjpQS72ql&id=100068937888414
+address:
+  mode: autocomplete
+  address:
+    place_id: 297903987
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 365331
+    boundingbox:
+    - '35.2889616'
+    - '47.0921462'
+    - '6.6272658'
+    - '18.7844746'
+    lat: '42.6384261'
+    lon: '12.674297'
+    display_name: Italia
+    class: boundary
+    type: administrative
+    importance: 0.8831019031440555
+    icon: https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png
+    address:
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+iAuthorizeTheProcessingOfPersonalSensitiveData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/897,1322354245,2022-07-29 14:57:39,2022-07-29 14:56:07,Платформа Adecco допоможе українським біженцям у пошуку #роботи,42.6384261,12.674297,Umbria,Terni,"[""Valid/Accettato"",""Services"",""job"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it""},""boundingbox"":[""35.2889616"",""47.0921462"",""6.6272658"",""18.7844746""],""class"":""boundary"",""display_name"":""Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"",""importance"":0.9831019031440554,""lat"":""42.6384261"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.674297"",""osm_id"":365331,""osm_type"":""relation"",""place_id"":297903987,""type"":""administrative""},""mode"":""autocomplete""},""description"":""\u0414\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0431\u0456\u0436\u0435\u043d\u0446\u0456\u0432: \u0441\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u0439\u0442\u0435\u0441\u044f \u0446\u0438\u043c \u0441\u0430\u0439\u0442\u043e\u043c, \u0449\u043e\u0431 \u043f\u043e\u0434\u0430\u0442\u0438 \u0437\u0430\u044f\u0432\u043a\u0443 \u043d\u0430 \u0431\u0443\u0434\u044c-\u044f\u043a\u0443 \u043f\u043e\u0441\u0430\u0434\u0443, \u043d\u0430\u0434\u0430\u0432\u0448\u0438 \u043d\u0430\u043c \u0443\u0441\u0456 \u043c\u043e\u0436\u043b\u0438\u0432\u0456 \u0432\u0456\u0434\u043e\u043c\u043e\u0441\u0442\u0456 \u043f\u0440\u043e \u0432\u0430\u0448\u0456 \u043d\u0430\u0432\u0438\u0447\u043a\u0438 \u0442\u0430 \u043a\u0430\u0440\u2019\u0454\u0440\u043d\u0438\u0439 \u0448\u043b\u044f\u0445 \u043d\u0430 \u0434\u0430\u043d\u0438\u0439 \u043c\u043e\u043c\u0435\u043d\u0442. \u0414\u043b\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0456\u0439: \u0441\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u0439\u0442\u0435\u0441\u044f \u0446\u0438\u043c \u0441\u0430\u0439\u0442\u043e\u043c, \u0449\u043e\u0431 \u0437\u0430\u043f\u0440\u043e\u043f\u043e\u043d\u0443\u0432\u0430\u0442\u0438 \u0431\u0443\u0434\u044c-\u044f\u043a\u0443 \u0432\u0430\u043a\u0430\u043d\u0441\u0456\u044e, \u043d\u0430\u0434\u0430\u0432\u0448\u0438 \u043d\u0430\u043c \u0443\u0441\u0456 \u0434\u0435\u0442\u0430\u043b\u0456 \u043f\u0440\u043e \u0432\u0430\u043a\u0430\u043d\u0441\u0456\u044e."",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Adecco"",""recipients"":""\u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0431\u0456\u0436\u0435\u043d\u0446\u0456"",""servicetypes"":{""Children"":false,""Legal"":false,""disability"":false,""education"":false,""healthcare"":false,""hospitality"":false,""job"":true,""materialGoods"":false,""psychologicalSupport"":false,""translation"":false,""transport"":false,""women"":false},""submit"":true,""title"":""\u041f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430 Adecco \u0434\u043e\u043f\u043e\u043c\u043e\u0436\u0435 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u043c \u0431\u0456\u0436\u0435\u043d\u0446\u044f\u043c \u0443 \u043f\u043e\u0448\u0443\u043a\u0443 #\u0440\u043e\u0431\u043e\u0442\u0438"",""url"":""https://www.adeccojobsforukraine.com/""}","<pre><yamldata>
 servicetypes:
   materialGoods: false
