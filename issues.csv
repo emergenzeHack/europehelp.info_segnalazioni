@@ -1,4 +1,85 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/108,1167409582,2022-08-03 11:14:46,2022-03-12 21:46:35,ЗРУЙНОВАНА КУЛЬТУРНА СПАДЩИНА УКРАЇНИ,49.4871968,31.2718321,,,"[""Valid/Accettato"",""News"",""document_data"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""49.4871968 31.2718321"",""description"":""\u041c\u0456\u043d\u0456\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043e \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438 \u0437\u0430\u043a\u043b\u0438\u043a\u0430\u043b\u043e \u0437\u0456\u0431\u0440\u0430\u0442\u0438 \u0456\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0456\u044e \u043f\u0440\u043e \u0437\u043d\u0438\u0449\u0435\u043d\u0456 \u0447\u0438 \u043f\u043e\u0448\u043a\u043e\u0434\u0436\u0435\u043d\u0456 \u043a\u043e\u043d\u0444\u043b\u0456\u043a\u0442\u043e\u043c \u043e\u0431\u2019\u0454\u043a\u0442\u0438 \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u043e\u0457 \u0441\u043f\u0430\u0434\u0449\u0438\u043d\u0438 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456. \u0424\u043e\u0442\u043e- \u0442\u0430 \u0432\u0456\u0434\u0435\u043e\u0434\u043e\u043a\u0430\u0437\u0438 \u043f\u0440\u043e\u0441\u0438\u043c\u043e \u043d\u0430\u0434\u0456\u0441\u043b\u0430\u0442\u0438 \u0434\u043e \u041c\u0456\u043d\u0456\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u0430 \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0438 \u0447\u0435\u0440\u0435\u0437 \u0441\u0430\u0439\u0442 culturecrimes.mkip.gov.ua."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""http://culturecrimes.mkip.gov.ua/"",""location"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""44.184598"",""52.3797464"",""22.137059"",""40.2275801""],""class"":""boundary"",""display_name"":""Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8164442439164168,""lat"":""49.4871968"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""31.2718321"",""osm_id"":60199,""osm_type"":""relation"",""place_id"":283553033,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Cultural heritage sites in Ukraine destroyed or damaged by the conflict""}","<pre><yamldata>
+title: Cultural heritage sites in Ukraine destroyed or damaged by the conflict
+description: 'Міністерство культури України закликало зібрати інформацію про знищені чи пошкоджені конфліктом об’єкти культурної спадщини в Україні. Фото- та відеодокази просимо надіслати до Міністерства культури через сайт culturecrimes.mkip.gov.ua.'
+link: http://culturecrimes.mkip.gov.ua/
+location:
+  mode: autocomplete
+  address:
+    place_id: 283553033
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 60199
+    boundingbox:
+    - '44.184598'
+    - '52.3797464'
+    - '22.137059'
+    - '40.2275801'
+    lat: '49.4871968'
+    lon: '31.2718321'
+    display_name: Ucraina
+    class: boundary
+    type: administrative
+    importance: 0.8164442439164168
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      country: Ucraina
+      country_code: ua
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+Posizione: 49.4871968 31.2718321
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/115,1167592765,2022-08-03 11:11:15,2022-03-13 14:14:32,L'associazione Rasom raccoglie beni e farmaci per emergenza Ucraina e cerca volontari #Trento,46.1450495,11.194287191070053,Trentino-Alto Adige,Trento,"[""Valid/Accettato"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""building"":""Scuola dell'infanzia di Albiano"",""country"":""Italia"",""country_code"":""it"",""county"":""Provincia di Trento"",""hamlet"":""Barco di Sopra"",""house_number"":""22"",""municipality"":""Comunit\u00e0 della Valle di Cembra"",""postcode"":""38041"",""road"":""Via Sant'Antonio"",""state"":""Trentino-Alto Adige"",""village"":""Albiano""},""boundingbox"":[""46.1449428"",""46.1451562"",""11.1940841"",""11.1944903""],""class"":""building"",""display_name"":""Scuola dell'infanzia di Albiano, 22, Via Sant'Antonio, Barco di Sopra, Albiano, Comunit\u00e0 della Valle di Cembra, Provincia di Trento, Trentino-Alto Adige, 38041, Italia"",""importance"":0.511,""lat"":""46.1450495"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.194287191070053"",""osm_id"":103129729,""osm_type"":""way"",""place_id"":123863279,""type"":""kindergarten""},""mode"":""autocomplete""},""description"":""Per la situazione in Ucraina, l'Associazione RASOM organizza una raccolta di beni di prima necessit\u00e0, presso la sede di via Sant\u2019Antonio, 22 a Trento (tutti i giorni dalle 19 alle 21 - orario provvisorio).\nAl link l'elenco dei beni e farmaci di cui c'\u00e8 bisogno.\nInoltre chi vuole dare la propria disponibilit\u00e0 ad aiutare come volontario e per informazioni sugli orari aggiornati pu\u00f2 contattare i seguenti numeri di telefono: \nVozna Halyna: cell. 3479419883\nOlha Vozna: cell. 3204548504\nKalapach Oleksandra: cell. 3488831652"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Rasom -Associazione Ucraini in Trentino"",""recipients"":"""",""submit"":true,""title"":""Trento, l'associazione Rasom raccoglie beni e farmaci per emergenza Ucraina e cerca volontari"",""type"":""materialGoods"",""url"":""https://webmagazine.unitn.it/news/ateneo/105101/associazione-culturale-degli-ucraini-in-trentino-rasom-aps""}","<pre><yamldata>
+type: materialGoods
+offerFromWho: Rasom -Associazione Ucraini in Trentino
+title: Trento, l'associazione Rasom raccoglie beni e farmaci per emergenza Ucraina
+  e cerca volontari
+recipients: ''
+description: ""Per la situazione in Ucraina, l'Associazione RASOM organizza una raccolta\
+  \ di beni di prima necessità, presso la sede di via Sant’Antonio, 22 a Trento (tutti\
+  \ i giorni dalle 19 alle 21 - orario provvisorio).\nAl link l'elenco dei beni e\
+  \ farmaci di cui c'è bisogno.\nInoltre chi vuole dare la propria disponibilità ad\
+  \ aiutare come volontario e per informazioni sugli orari aggiornati può contattare\
+  \ i seguenti numeri di telefono: \nVozna Halyna: cell. 3479419883\nOlha Vozna: cell.\
+  \ 3204548504\nKalapach Oleksandra: cell. 3488831652""
+url: https://webmagazine.unitn.it/news/ateneo/105101/associazione-culturale-degli-ucraini-in-trentino-rasom-aps
+address:
+  mode: autocomplete
+  address:
+    place_id: 123863279
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: way
+    osm_id: 103129729
+    boundingbox:
+    - '46.1449428'
+    - '46.1451562'
+    - '11.1940841'
+    - '11.1944903'
+    lat: '46.1450495'
+    lon: '11.194287191070053'
+    display_name: Scuola dell'infanzia di Albiano, 22, Via Sant'Antonio, Barco di
+      Sopra, Albiano, Comunità della Valle di Cembra, Provincia di Trento, Trentino-Alto
+      Adige, 38041, Italia
+    class: building
+    type: kindergarten
+    importance: 0.511
+    address:
+      building: Scuola dell'infanzia di Albiano
+      house_number: '22'
+      road: Via Sant'Antonio
+      hamlet: Barco di Sopra
+      village: Albiano
+      municipality: Comunità della Valle di Cembra
+      county: Provincia di Trento
+      state: Trentino-Alto Adige
+      postcode: '38041'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/902,1326971416,2022-08-03 10:05:44,2022-08-03 09:58:58,Коли починається навчання в Італії у школярів,42.6384261,12.674297,Umbria,Terni,"[""Valid/Accettato"",""News"",""telegram-channel"",""tweet"",""education""]",,,"{""Posizione"":""42.6384261 12.674297"",""description"":""\u0412\u0456\u0434 \u0432\u0456\u0439\u043d\u0438 \u0442\u0430 \u0433\u0435\u043d\u043e\u0446\u0438\u0434\u0443, \u0449\u043e \u0439\u043e\u0433\u043e \u0440\u043e\u0437\u0432'\u044f\u0437\u0430\u043b\u0438 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456 \u0440\u043e\u0441\u0456\u044f\u043d\u0438, \u043d\u0430\u0440\u0430\u0437\u0456 \u0440\u044f\u0442\u0443\u044e\u0442\u044c\u0441\u044f \u0432 \u0406\u0442\u0430\u043b\u0456\u0457 \u043f\u043e\u043d\u0430\u0434 120 \u0442\u0438\u0441\u044f\u0447 \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432, \u0437 \u043d\u0438\u0445 \u2013 \u043f\u043e\u043d\u0430\u0434 40 \u0442\u0438\u0441\u044f\u0447 \u0434\u0456\u0442\u0435\u0439. \u0417\u043e\u0432\u0441\u0456\u043c \u0441\u043a\u043e\u0440\u043e \u0432\u043e\u043d\u0438 \u043f\u0456\u0434\u0443\u0442\u044c \u043d\u0430 \u043d\u0430\u0432\u0447\u0430\u043d\u043d\u044f \u0434\u043e \u043c\u0456\u0441\u0446\u0435\u0432\u0438\u0445 \u0448\u043a\u0456\u043b \u0442\u0430 \u0443\u043d\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0456\u0432.\n\u041d\u0430\u0432\u0447\u0430\u043d\u043d\u044f \u0432 \u0456\u0442\u0430\u043b\u0456\u0439\u0441\u044c\u043a\u0438\u0445 \u0448\u043a\u043e\u043b\u0430\u0445 \u043f\u043e\u0447\u0438\u043d\u0430\u0454\u0442\u044c\u0441\u044f \u043d\u0435 \u043e\u0434\u043d\u043e\u0447\u0430\u0441\u043d\u043e \u2013 \u0432 \u0440\u0456\u0437\u043d\u0438\u0445 \u0440\u0435\u0433\u0456\u043e\u043d\u0430\u0445 \u043a\u0440\u0430\u0457\u043d\u0438 \u0446\u0435 \u043c\u043e\u0436\u0443\u0442\u044c \u0431\u0443\u0442\u0438 \u0441\u0432\u043e\u0457 \u0434\u0430\u0442\u0438.\n\u042f\u043a \u043f\u0440\u0430\u0432\u0438\u043b\u043e, \u0434\u0430\u0442\u0430 \u043f\u043e\u0447\u0430\u0442\u043a\u0443 \u043d\u0430\u0432\u0447\u0430\u043d\u043d\u044f \u043f\u0440\u0438\u043f\u0430\u0434\u0430\u0454 \u043d\u0430 \u043f\u0435\u0440\u0448\u0443 \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u0443 \u0432\u0435\u0440\u0435\u0441\u043d\u044f, \u043f\u0440\u0438\u0431\u043b\u0438\u0437\u043d\u043e 5 \u2013 15 \u0432\u0435\u0440\u0435\u0441\u043d\u044f. \u041d\u0430\u0432\u0447\u0430\u043b\u044c\u043d\u0438\u0439 \u0440\u0456\u043a \u0432 \u0406\u0442\u0430\u043b\u0456\u0457 \u0441\u043a\u043b\u0430\u0434\u0430\u0454\u0442\u044c\u0441\u044f \u0437 \u0434\u0432\u043e\u0445 \u0441\u0435\u043c\u0435\u0441\u0442\u0440\u0456\u0432 \u0456 \u0442\u0440\u0438\u0432\u0430\u0454 \u0434\u043e \u0441\u0435\u0440\u0435\u0434\u0438\u043d\u0438 \u0447\u0435\u0440\u0432\u043d\u044f.\n\u041d\u0430\u0432\u0447\u0430\u043d\u043d\u044f \u043f\u043e\u0447\u0438\u043d\u0430\u0454\u0442\u044c\u0441\u044f \u043e 8 \u0440\u0430\u043d\u043a\u0443 \u0430\u0431\u043e \u043e 8:30. \u0423\u0440\u043e\u043a\u0438 \u0442\u0440\u0438\u0432\u0430\u044e\u0442\u044c \u043f\u043e 50 \u2013 60 \u0445\u0432\u0438\u043b\u0438\u043d. \u041f\u0435\u0440\u0435\u0440\u0432\u0438 (Ricreazione) \u043f\u043e 10 \u2013 15 \u0445\u0432\u0438\u043b\u0438\u043d.\n\u041d\u0430\u0432\u0447\u0430\u043b\u044c\u043d\u0438\u0439 \u043f\u0440\u043e\u0446\u0435\u0441 \u0434\u043e\u0432\u043e\u043b\u0456 \u0456\u043d\u0442\u0435\u043d\u0441\u0438\u0432\u043d\u0438\u0439 \u0456 \u0448\u0432\u0438\u0434\u043a\u043e\u043f\u043b\u0438\u043d\u043d\u0438\u0439, \u044f\u043a \u043f\u0440\u0430\u0432\u0438\u043b\u043e \u2013 \u043d\u0430\u0432\u0447\u0430\u043d\u043d\u044f \u0437\u0430\u0432\u0435\u0440\u0448\u0443\u0454\u0442\u044c\u0441\u044f \u0449\u0435 \u0434\u043e \u043e\u0431\u0456\u0434\u0443, \u0442\u043e\u043c\u0443 \u0443 \u0431\u0430\u0433\u0430\u0442\u044c\u043e\u0445 \u0456\u0442\u0430\u043b\u0456\u0439\u0441\u044c\u043a\u0438\u0445 \u0448\u043a\u043e\u043b\u0430\u0445 \u043d\u0435\u043c\u0430\u0454 \u0457\u0434\u0430\u043b\u0435\u043d\u044c. \u0406\u0442\u0430\u043b\u0456\u044f \u2013 \u0442\u0440\u0430\u0434\u0438\u0446\u0456\u0439\u043d\u0430 \u043a\u0440\u0430\u0457\u043d\u0430, \u0434\u0435 \u0432\u0435\u043b\u0438\u043a\u0443 \u0440\u043e\u043b\u044c \u0432\u0456\u0434\u0456\u0433\u0440\u0430\u0454 \u0441\u0456\u043c'\u044f, \u0430 \u0442\u043e\u043c\u0443 \u043e\u0431\u0456\u0434 \u0432\u0434\u043e\u043c\u0430 \u0454 \u0437\u0432\u0438\u0447\u0430\u0439\u043d\u043e\u044e \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u043e\u044e.\n\u0410\u043b\u0435 \u044f\u043a\u0449\u043e \u0448\u043a\u043e\u043b\u043e\u044e \u043f\u0440\u043e\u0432\u043e\u0434\u044f\u0442\u044c\u0441\u044f \u0434\u043e\u0434\u0430\u0442\u043a\u043e\u0432\u0456 \u0437\u0430\u043d\u044f\u0442\u0442\u044f \u2013 Doposcuola (\u0442\u0430\u043d\u0446\u0456, \u043c\u0443\u0437\u0438\u043a\u0430, \u0441\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u0456 \u0441\u0435\u043a\u0446\u0456\u0457) \u0430\u0431\u043e \u0434\u0456\u044e\u0442\u044c \u043a\u0456\u043b\u044c\u043a\u0430 \u0432\u0430\u0440\u0456\u0430\u043d\u0442\u0456\u0432 \u0440\u043e\u0437\u043a\u043b\u0430\u0434\u0456\u0432, \u0442\u043e\u0434\u0456 \u0432\u043e\u043d\u0430 \u043f\u0440\u0430\u0446\u044e\u0454 \u0434\u043e 16:00 \u2013 16:30 \u0442\u0430 \u0433\u043e\u0442\u0443\u0454 \u0434\u0456\u0442\u044f\u043c \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441\u043d\u0456 \u043e\u0431\u0456\u0434\u0438.\n\u0412 \u0456\u0442\u0430\u043b\u0456\u0439\u0441\u044c\u043a\u0438\u0445 \u0448\u043a\u043e\u043b\u0430\u0445 \u0432\u0447\u0430\u0442\u044c\u0441\u044f \u0456 \u043f\u043e \u0441\u0443\u0431\u043e\u0442\u0430\u0445, \u0446\u0435 \u044f\u043a\u0440\u0430\u0437 \u0456 \u0434\u043e\u0437\u0432\u043e\u043b\u044f\u0454 \u0440\u0430\u043d\u043e \u0437\u0430\u0432\u0435\u0440\u0448\u0443\u0432\u0430\u0442\u0438 \u0443\u0440\u043e\u043a\u0438 \u0442\u0430 \u0457\u0441\u0442\u0438 \u0432\u0434\u043e\u043c\u0430. \u0412\u0442\u0456\u043c, \u0454 \u0439 \u0456\u043d\u0448\u0438\u0439 \u0432\u0430\u0440\u0456\u0430\u043d\u0442 \u2013 settimana corta \u0442\u043e\u0431\u0442\u043e \""\u043a\u043e\u0440\u043e\u0442\u043a\u0438\u0439 \u0442\u0438\u0436\u0434\u0435\u043d\u044c\"".\n\u2753\u2753\u2753\u041a\u043e\u043b\u0438 \u043f\u043e\u0447\u0438\u043d\u0430\u0454\u0442\u044c\u0441\u044f \u043d\u0430\u0432\u0447\u0430\u043d\u043d\u044f \u0443 \u0432\u0438\u0448\u0430\u0445\n\ud83d\udcac\u0404\u0434\u0438\u043d\u043e\u0457 \u0434\u0430\u0442\u0438 \u043f\u043e\u0447\u0430\u0442\u043a\u0443 \u043d\u0430\u0432\u0447\u0430\u043d\u043d\u044f \u0432 \u0456\u0442\u0430\u043b\u0456\u0439\u0441\u044c\u043a\u0438\u0445 \u0443\u043d\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430\u0445 \u043d\u0435\u043c\u0430\u0454. \u0417\u0430\u0437\u0432\u0438\u0447\u0430\u0439 \u0446\u0435 \u0432\u0435\u0440\u0435\u0441\u0435\u043d\u044c, \u0436\u043e\u0432\u0442\u0435\u043d\u044c \u0430\u0431\u043e \u043d\u0430\u0432\u0456\u0442\u044c \u043f\u043e\u0447\u0430\u0442\u043e\u043a \u043b\u0438\u0441\u0442\u043e\u043f\u0430\u0434\u0443.\n\u041d\u0430\u043f\u0440\u0438\u043a\u043b\u0430\u0434, \u0432 \u0443\u043d\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0456 \u0424\u043b\u043e\u0440\u0435\u043d\u0446\u0456\u0457 \u0430\u043a\u0430\u0434\u0435\u043c\u0456\u0447\u043d\u0438\u0439 \u0440\u0456\u043a \u043f\u043e\u0447\u043d\u0435\u0442\u044c\u0441\u044f 12 \u0432\u0435\u0440\u0435\u0441\u043d\u044f 2022 \u0440\u043e\u043a\u0443, \u0443 \u043d\u0430\u0439\u0441\u0442\u0430\u0440\u0456\u0448\u043e\u043c\u0443 \u0434\u0456\u044e\u0447\u043e\u043c\u0443 \u0443\u043d\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0456 \u043f\u043b\u0430\u043d\u0435\u0442\u0438 \u2013 Universit\u00e0 di Bologna \u2013 19 \u0432\u0435\u0440\u0435\u0441\u043d\u044f 2022 \u0440\u043e\u043a\u0443, \u0443 \u041c\u0456\u043b\u0430\u043d\u0441\u044c\u043a\u043e\u043c\u0443 \u043f\u043e\u043b\u0456\u0442\u0435\u0445\u043d\u0456\u0447\u043d\u043e\u043c\u0443 \u0442\u0430 \u041f\u0430\u0434\u0443\u0430\u043d\u0441\u044c\u043a\u043e\u043c\u0443 \u0443\u043d\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430\u0445 \u043d\u043e\u0432\u0438\u0439 \u043d\u0430\u0432\u0447\u0430\u043b\u044c\u043d\u0438\u0439 \u0440\u0456\u043a \u0441\u0442\u0430\u0440\u0442\u0443\u0454 1 \u0436\u043e\u0432\u0442\u043d\u044f 2022 \u0440\u043e\u043a\u0443.\n\u0423 \u0441\u0430\u043c\u043e\u043c\u0443 \u0432\u0438\u0448\u0456 \u043c\u043e\u0436\u0435 \u0431\u0443\u0442\u0438 \u043a\u0456\u043b\u044c\u043a\u0430 \u0434\u0430\u0442 \u043f\u043e\u0447\u0430\u0442\u043a\u0443 \u043d\u0430\u0432\u0447\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0440\u043e\u043a\u0443 \u2013 \u0432 \u0437\u0430\u043b\u0435\u0436\u043d\u043e\u0441\u0442\u0456 \u0432\u0456\u0434 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0438. \u0411\u0430 \u0431\u0456\u043b\u044c\u0448\u0435 \u2013 \u0434\u0435\u044f\u043a\u0456 \u0432\u0438\u0448\u0456 \u0406\u0442\u0430\u043b\u0456\u0457 (\u043d\u0430\u043f\u0440\u0438\u043a\u043b\u0430\u0434, \u043f\u0440\u043e\u0432\u0456\u0434\u043d\u0438\u0439 \u0440\u0438\u043c\u0441\u044c\u043a\u0438\u0439 \u0443\u043d\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0442\u0430 \u043d\u0430\u0439\u0440\u0435\u0439\u0442\u0438\u043d\u0433\u043e\u0432\u0456\u0448\u0438\u0439 \u0432\u0438\u0449\u0438\u0439 \u043d\u0430\u0432\u0447\u0430\u043b\u044c\u043d\u0438\u0439 \u0437\u0430\u043a\u043b\u0430\u0434 \u043a\u0440\u0430\u0457\u043d\u0438 Sapienza) \u0434\u043e\u0441\u0456 \u043d\u0435 \u0437\u043d\u0430\u044e\u0442\u044c \u0434\u0430\u0442\u0443 \u043f\u043e\u0447\u0430\u0442\u043a\u0443 \u0430\u043a\u0430\u0434\u0435\u043c\u0456\u0447\u043d\u043e\u0433\u043e \u0440\u043e\u043a\u0443-2022/2023."",""iAuthorizeTheProcessingOfPersonalSensitiveData"":true,""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://t.me/UAinIT/384"",""location"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it""},""boundingbox"":[""35.2889616"",""47.0921462"",""6.6272658"",""18.7844746""],""class"":""boundary"",""display_name"":""Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"",""importance"":0.9931019031440554,""lat"":""42.6384261"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""12.674297"",""osm_id"":365331,""osm_type"":""relation"",""place_id"":297903987,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""\u041a\u043e\u043b\u0438 \u043f\u043e\u0447\u0438\u043d\u0430\u0454\u0442\u044c\u0441\u044f \u043d\u0430\u0432\u0447\u0430\u043d\u043d\u044f \u0432 \u0406\u0442\u0430\u043b\u0456\u0457 \u0443 \u0448\u043a\u043e\u043b\u044f\u0440\u0456\u0432""}","<pre><yamldata>
 title: Коли починається навчання в Італії у школярів
 description: 'Від війни та геноциду, що його розв''язали в Україні росіяни, наразі
@@ -16837,56 +16918,6 @@ iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
 label: help
 submit: true
 Posizione: 42.365814400000005 13.374276790275314
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/115,1167592765,2022-04-14 15:34:22,2022-03-13 14:14:32,"Trento, l'associazione Rasom raccoglie beni e farmaci per emergenza Ucraina e cerca volontari",46.1450495,11.194287191070053,Trentino-Alto Adige,Trento,"[""Valid/Accettato"",""materialGoods"",""telegram-channel"",""tweet""]",,,"{""address"":{""address"":{""address"":{""building"":""Scuola dell'infanzia di Albiano"",""country"":""Italia"",""country_code"":""it"",""county"":""Provincia di Trento"",""hamlet"":""Barco di Sopra"",""house_number"":""22"",""municipality"":""Comunit\u00e0 della Valle di Cembra"",""postcode"":""38041"",""road"":""Via Sant'Antonio"",""state"":""Trentino-Alto Adige"",""village"":""Albiano""},""boundingbox"":[""46.1449428"",""46.1451562"",""11.1940841"",""11.1944903""],""class"":""building"",""display_name"":""Scuola dell'infanzia di Albiano, 22, Via Sant'Antonio, Barco di Sopra, Albiano, Comunit\u00e0 della Valle di Cembra, Provincia di Trento, Trentino-Alto Adige, 38041, Italia"",""importance"":0.511,""lat"":""46.1450495"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.194287191070053"",""osm_id"":103129729,""osm_type"":""way"",""place_id"":123863279,""type"":""kindergarten""},""mode"":""autocomplete""},""description"":""Per la situazione in Ucraina, l'Associazione RASOM organizza una raccolta di beni di prima necessit\u00e0, presso la sede di via Sant\u2019Antonio, 22 a Trento (tutti i giorni dalle 19 alle 21 - orario provvisorio).\nAl link l'elenco dei beni e farmaci di cui c'\u00e8 bisogno.\nInoltre chi vuole dare la propria disponibilit\u00e0 ad aiutare come volontario e per informazioni sugli orari aggiornati pu\u00f2 contattare i seguenti numeri di telefono: \nVozna Halyna: cell. 3479419883\nOlha Vozna: cell. 3204548504\nKalapach Oleksandra: cell. 3488831652"",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Rasom -Associazione Ucraini in Trentino"",""recipients"":"""",""submit"":true,""title"":""Trento, l'associazione Rasom raccoglie beni e farmaci per emergenza Ucraina e cerca volontari"",""type"":""materialGoods"",""url"":""https://webmagazine.unitn.it/news/ateneo/105101/associazione-culturale-degli-ucraini-in-trentino-rasom-aps""}","<pre><yamldata>
-type: materialGoods
-offerFromWho: Rasom -Associazione Ucraini in Trentino
-title: Trento, l'associazione Rasom raccoglie beni e farmaci per emergenza Ucraina
-  e cerca volontari
-recipients: ''
-description: ""Per la situazione in Ucraina, l'Associazione RASOM organizza una raccolta\
-  \ di beni di prima necessità, presso la sede di via Sant’Antonio, 22 a Trento (tutti\
-  \ i giorni dalle 19 alle 21 - orario provvisorio).\nAl link l'elenco dei beni e\
-  \ farmaci di cui c'è bisogno.\nInoltre chi vuole dare la propria disponibilità ad\
-  \ aiutare come volontario e per informazioni sugli orari aggiornati può contattare\
-  \ i seguenti numeri di telefono: \nVozna Halyna: cell. 3479419883\nOlha Vozna: cell.\
-  \ 3204548504\nKalapach Oleksandra: cell. 3488831652""
-url: https://webmagazine.unitn.it/news/ateneo/105101/associazione-culturale-degli-ucraini-in-trentino-rasom-aps
-address:
-  mode: autocomplete
-  address:
-    place_id: 123863279
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: way
-    osm_id: 103129729
-    boundingbox:
-    - '46.1449428'
-    - '46.1451562'
-    - '11.1940841'
-    - '11.1944903'
-    lat: '46.1450495'
-    lon: '11.194287191070053'
-    display_name: Scuola dell'infanzia di Albiano, 22, Via Sant'Antonio, Barco di
-      Sopra, Albiano, Comunità della Valle di Cembra, Provincia di Trento, Trentino-Alto
-      Adige, 38041, Italia
-    class: building
-    type: kindergarten
-    importance: 0.511
-    address:
-      building: Scuola dell'infanzia di Albiano
-      house_number: '22'
-      road: Via Sant'Antonio
-      hamlet: Barco di Sopra
-      village: Albiano
-      municipality: Comunità della Valle di Cembra
-      county: Provincia di Trento
-      state: Trentino-Alto Adige
-      postcode: '38041'
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/212,1173797152,2022-04-14 15:33:35,2022-03-18 16:44:03,"Croce Rossa cerca volontari temporanei per emergenza Ucraina, soprattutto infermieri, chirurghi, psicologi o persone con ottima conoscenza di ucraino/russo",43.7806771,11.24376289731579,Toscana,Firenze,"[""Valid/Accettato"",""Help"",""job"",""telegram-channel"",""tweet""]",,,"{""Posizione"":""43.7806771 11.24376289731579"",""description"":""Per aumentare la risposta all\u2019emergenza Ucraina, la Croce Rossa Italiana apre nuovamente le iscrizioni ai volontari temporanei: Infermieri, medici chirurghi, psicologi o persone con ottima conoscenza della lingua Russa o Ucraina.\n\n \n\nDopo la grandiosa risposta durante la pandemia, quando moltissimi cittadini si sono messi in moto per fare la propria parte nell\u2019emergenza, oggi si riapre l\u2019opportunit\u00e0 di diventare volontario temporaneo della Croce Rossa. Sono richiesti in particolare medici chirurghi, infermieri, psicologi o persone con ottima conoscenza della lingua Russa o Ucraina da impiegare a seconda delle necessit\u00e0.\nChiunque, in possesso di questi requisiti, pu\u00f2 essere utile alla gestione dell\u2019emergenza. Per dare la propria disponibilit\u00e0 \u00e8 sufficiente leggere attentamente le istruzioni al link https://volontari.cri.it/ e compilare il form in tutti i campi richiesti.\nIl censimento dei volontari temporanei verr\u00e0 effettuato a livello Nazionale per poi essere assegnati ai territori di competenza.\n\nColoro che sceglieranno di dare il proprio contributo mettendosi a disposizione, saranno invitati a seguire un breve corso online strutturato appositamente per i volontari temporanei, in cui verranno approfondite alcune tematiche indispensabili per rafforzare le capacit\u00e0, la conoscenza della CRI e portare avanti il mandato umanitario del movimento. Tra i temi trattati: la salute e la sicurezza durante il servizio, l\u2019organizzazione, la storia e peculiarit\u00e0 del movimento della Croce Rossa, codice etico dell\u2019Associazione."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://volontari.cri.it/"",""location"":{""address"":{""address"":{""city"":""Firenze"",""country"":""Italia"",""country_code"":""it"",""county"":""Citt\u00e0 metropolitana di Firenze"",""state"":""Toscana""},""boundingbox"":[""43.7258716"",""43.8354631"",""11.1497598"",""11.3389044""],""class"":""boundary"",""display_name"":""Firenze, Citt\u00e0 metropolitana di Firenze, Toscana, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8105633028502386,""lat"":""43.7806771"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""11.24376289731579"",""osm_id"":42602,""osm_type"":""relation"",""place_id"":284666342,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Croce Rossa Italiana cerca Volontari Temporanei""}","<pre><yamldata>
 title: Croce Rossa Italiana cerca Volontari Temporanei
@@ -34662,41 +34693,6 @@ address:
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/108,1167409582,2022-03-14 06:23:17,2022-03-12 21:46:35,Cultural heritage sites in Ukraine destroyed or damaged by the conflict,49.4871968,31.2718321,,,"[""Valid/Accettato"",""News"",""document_data""]",,,"{""Posizione"":""49.4871968 31.2718321"",""description"":""The Ukrainian Ministry of Culture called to collect information about the cultural heritage sites in Ukraine destroyed or damaged by the conflict.\nPhoto and video evidence is requested to be sent to the Ministry of Culture through the website culturecrimes.mkip.gov.ua."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""http://culturecrimes.mkip.gov.ua/"",""location"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""44.184598"",""52.3797464"",""22.137059"",""40.2275801""],""class"":""boundary"",""display_name"":""Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8164442439164168,""lat"":""49.4871968"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""31.2718321"",""osm_id"":60199,""osm_type"":""relation"",""place_id"":283553033,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""Cultural heritage sites in Ukraine destroyed or damaged by the conflict""}","<pre><yamldata>
-title: Cultural heritage sites in Ukraine destroyed or damaged by the conflict
-description: 'The Ukrainian Ministry of Culture called to collect information about
-  the cultural heritage sites in Ukraine destroyed or damaged by the conflict.
-
-  Photo and video evidence is requested to be sent to the Ministry of Culture through
-  the website culturecrimes.mkip.gov.ua.'
-link: http://culturecrimes.mkip.gov.ua/
-location:
-  mode: autocomplete
-  address:
-    place_id: 283553033
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 60199
-    boundingbox:
-    - '44.184598'
-    - '52.3797464'
-    - '22.137059'
-    - '40.2275801'
-    lat: '49.4871968'
-    lon: '31.2718321'
-    display_name: Ucraina
-    class: boundary
-    type: administrative
-    importance: 0.8164442439164168
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      country: Ucraina
-      country_code: ua
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-Posizione: 49.4871968 31.2718321
 </yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/124,1167627305,2022-03-13 16:27:03,2022-03-13 16:26:38,Marino Bus offre viaggi gratuiti ai rifugiati ucraini sulle tratte in Italia,40.8285595,16.5527314,Puglia,Bari,"[""Valid/Accettato"",""News"",""Services"",""transport""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bari"",""postcode"":""70022"",""state"":""Puglia"",""town"":""Altamura""},""boundingbox"":[""40.7259607"",""40.979833"",""16.3444376"",""16.6989722""],""class"":""boundary"",""display_name"":""Altamura, Bari, Puglia, 70022, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7042276908245931,""lat"":""40.8285595"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.5527314"",""osm_id"":40743,""osm_type"":""relation"",""place_id"":283876132,""type"":""administrative""},""mode"":""autocomplete""},""description"":""C'\u00e8 un momento in cui occorre fare di pi\u00f9. E il momento \u00e8 arrivato.\nTutte le profughe e i profughi dalle zone del conflitto in Ucraina hanno la possibilit\u00e0 di viaggiare gratuitamente sulle tratte MARINOBUS in Italia.\nPer informazioni e per richiedere un trasferimento sar\u00e0 necessario contattare SEMPRE il nostro Servizio Clienti al +39 0803112335.\n\nLe linee esercitate giornalmente da MarinoBus collegano:\n\ud83d\udccd le principali localit\u00e0 del Nord Italia \n\ud83d\udccd per il Centro e Sud Italia \n(quasi 200 localit\u00e0 in Puglia e Basilicata e le principali localit\u00e0 di Campania e Calabria)."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Marino Bus"",""recipients"":"""",""submit"":true,""title"":""Marino Bus offre viaggi gratuiti ai rifugiati ucraini sulle tratte in Italia"",""type"":""travelTransport"",""url"":""https://www.facebook.com/105621949530610/posts/4864086140350810/""}","<pre><yamldata>
 type: travelTransport
