@@ -1,4 +1,60 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/124,1167627305,2022-08-16 15:57:44,2022-03-13 16:26:38,Marino Bus offre viaggi gratuiti ai rifugiati ucraini sulle tratte in Italia,40.8285595,16.5527314,Puglia,Bari,"[""Valid/Accettato"",""News"",""Services"",""transport""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bari"",""postcode"":""70022"",""state"":""Puglia"",""town"":""Altamura""},""boundingbox"":[""40.7259607"",""40.979833"",""16.3444376"",""16.6989722""],""class"":""boundary"",""display_name"":""Altamura, Bari, Puglia, 70022, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7042276908245931,""lat"":""40.8285595"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.5527314"",""osm_id"":40743,""osm_type"":""relation"",""place_id"":283876132,""type"":""administrative""},""mode"":""autocomplete""},""description"":""C'\u00e8 un momento in cui occorre fare di pi\u00f9. E il momento \u00e8 arrivato.\nTutte le profughe e i profughi dalle zone del conflitto in Ucraina hanno la possibilit\u00e0 di viaggiare gratuitamente sulle tratte MARINOBUS in Italia.\nPer informazioni e per richiedere un trasferimento sar\u00e0 necessario contattare SEMPRE il nostro Servizio Clienti al +39 0803112335.\n\nLe linee esercitate giornalmente da MarinoBus collegano:\n\ud83d\udccd le principali localit\u00e0 del Nord Italia \n\ud83d\udccd per il Centro e Sud Italia \n(quasi 200 localit\u00e0 in Puglia e Basilicata e le principali localit\u00e0 di Campania e Calabria)."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Marino Bus"",""recipients"":"""",""submit"":true,""title"":""Marino Bus offre viaggi gratuiti ai rifugiati ucraini sulle tratte in Italia"",""type"":""travelTransport"",""url"":""https://www.facebook.com/105621949530610/posts/4864086140350810/""}","<pre><yamldata>
+type: travelTransport
+offerFromWho: Marino Bus
+title: Marino Bus offre viaggi gratuiti ai rifugiati ucraini sulle tratte in Italia
+recipients: ''
+description: ""C'è un momento in cui occorre fare di più. E il momento è arrivato.\n\
+  Tutte le profughe e i profughi dalle zone del conflitto in Ucraina hanno la possibilità\
+  \ di viaggiare gratuitamente sulle tratte MARINOBUS in Italia.\nPer informazioni\
+  \ e per richiedere un trasferimento sarà necessario contattare SEMPRE il nostro\
+  \ Servizio Clienti al +39 0803112335.\n\nLe linee esercitate giornalmente da MarinoBus\
+  \ collegano:\n\U0001F4CD le principali località del Nord Italia \n\U0001F4CD per\
+  \ il Centro e Sud Italia \n(quasi 200 località in Puglia e Basilicata e le principali\
+  \ località di Campania e Calabria).""
+url: https://www.facebook.com/105621949530610/posts/4864086140350810/
+address:
+  mode: autocomplete
+  address:
+    place_id: 283876132
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: relation
+    osm_id: 40743
+    boundingbox:
+    - '40.7259607'
+    - '40.979833'
+    - '16.3444376'
+    - '16.6989722'
+    lat: '40.8285595'
+    lon: '16.5527314'
+    display_name: Altamura, Bari, Puglia, 70022, Italia
+    class: boundary
+    type: administrative
+    importance: 0.7042276908245931
+    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
+    address:
+      town: Altamura
+      county: Bari
+      state: Puglia
+      postcode: '70022'
+      country: Italia
+      country_code: it
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/122,1167625341,2022-08-16 15:55:12,2022-03-13 16:18:21,ICanHelp.Host: a connection between Ukrainians fleeing the war and host families willing to accommodate them,,,,,"[""Valid/Accettato"",""News"",""Services"",""hospitality"",""telegram-channel"",""tweet"",""Resources""]",,,"{""For hosts"":""Leave your offer by filling the form. Just click \""+ CAN HELP\"" button."",""description"":""People fleeing the war can use the map to find accommodations in a suitable location and contact owners directly on their social networks."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://icanhelp.host/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Online IcanHelp.host piattaforma europea che offre alloggi ai rifugiati ucraini""}","<pre><yamldata>
+title: Online IcanHelp.host piattaforma europea che offre alloggi ai rifugiati ucraini
+description: People fleeing the war can use the map to find accommodations in a suitable location and contact owners directly on their social networks.
+For hosts: Leave your offer by filling the form. Just click ""+ CAN HELP"" button.
+link: https://icanhelp.host/
+location:
+  mode: autocomplete
+  address: {}
+label: news
+iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/119,1167612088,2022-08-16 15:43:32,2022-03-13 15:27:14,"Fake news: quattro tendenze della disinformazione sulla guerra in Ucraina, il report di Facta",,,,,"[""Valid/Accettato"",""News"",""fakenews"",""Closed""]",,,"{""description"":""Quattro tendenze della disinformazione sulla guerra in Ucraina, il report di Facta: una mappa dei principali filoni della disinformazione che Facta ha fino ad ora incontrato online sulla guerra in Ucraina"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""fakenews"",""link"":""https://t.co/dy5tnmLug9"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Quattro tendenze della disinformazione sulla guerra in Ucraina, il report di Facta""}","<pre><yamldata>
 title: Quattro tendenze della disinformazione sulla guerra in Ucraina, il report di
   Facta
@@ -32958,18 +33014,6 @@ iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
 </yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/122,1167625341,2022-03-19 13:43:11,2022-03-13 16:18:21,Online IcanHelp.host piattaforma europea che offre alloggi ai rifugiati ucraini,,,,,"[""Valid/Accettato"",""News"",""Services"",""hospitality"",""Resources""]",,,"{""description"":""Online IcanHelp.host piattaforma europea, creata da un gruppo di attivisti bielorussi, che offre alloggi ai rifugiati ucraini, anche in Italia."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://icanhelp.host/"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Online IcanHelp.host piattaforma europea che offre alloggi ai rifugiati ucraini""}","<pre><yamldata>
-title: Online IcanHelp.host piattaforma europea che offre alloggi ai rifugiati ucraini
-description: Online IcanHelp.host piattaforma europea, creata da un gruppo di attivisti
-  bielorussi, che offre alloggi ai rifugiati ucraini, anche in Italia.
-link: https://icanhelp.host/
-location:
-  mode: autocomplete
-  address: {}
-label: news
-iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData: true
-submit: true
-</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/130,1168429240,2022-03-19 13:42:38,2022-03-14 14:06:23,HelpingToLeave: piattaforma con info aggiornate su trasporti e altro per uscire dall'Ucraina,49.4871968,31.2718321,,,"[""Valid/Accettato"",""News"",""Services"",""useful contact"",""transport"",""Resources""]",,,"{""Posizione"":""49.4871968 31.2718321"",""description"":""Helping to leave, piattaforma ucraina con info aggiornate su trasporti (bus, treni, auto private e altro) e altri servizi per aiutare i cittadini ucraini ad uscire dall'Ucraina. Solo in lingua ucraina.\nDisponibile a che canale Telegram in continuo aggiornamento: https://t.me/huiiivoiiine"",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""news"",""link"":""https://helpingtoleave.org"",""location"":{""address"":{""address"":{""country"":""Ucraina"",""country_code"":""ua""},""boundingbox"":[""44.184598"",""52.3797464"",""22.137059"",""40.2275801""],""class"":""boundary"",""display_name"":""Ucraina"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.8164442439164168,""lat"":""49.4871968"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""31.2718321"",""osm_id"":60199,""osm_type"":""relation"",""place_id"":283553033,""type"":""administrative""},""mode"":""autocomplete""},""submit"":true,""title"":""HelpingToLeave: piattaforma con info aggiornate su trasporti e altro per uscire dall'Ucraina""}","<pre><yamldata>
 title: 'HelpingToLeave: piattaforma con info aggiornate su trasporti e altro per uscire
   dall''Ucraina'
@@ -35005,50 +35049,6 @@ address:
     icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
     address:
       state: Lombardia
-      country: Italia
-      country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/124,1167627305,2022-03-13 16:27:03,2022-03-13 16:26:38,Marino Bus offre viaggi gratuiti ai rifugiati ucraini sulle tratte in Italia,40.8285595,16.5527314,Puglia,Bari,"[""Valid/Accettato"",""News"",""Services"",""transport""]",,,"{""address"":{""address"":{""address"":{""country"":""Italia"",""country_code"":""it"",""county"":""Bari"",""postcode"":""70022"",""state"":""Puglia"",""town"":""Altamura""},""boundingbox"":[""40.7259607"",""40.979833"",""16.3444376"",""16.6989722""],""class"":""boundary"",""display_name"":""Altamura, Bari, Puglia, 70022, Italia"",""icon"":""https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"",""importance"":0.7042276908245931,""lat"":""40.8285595"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""16.5527314"",""osm_id"":40743,""osm_type"":""relation"",""place_id"":283876132,""type"":""administrative""},""mode"":""autocomplete""},""description"":""C'\u00e8 un momento in cui occorre fare di pi\u00f9. E il momento \u00e8 arrivato.\nTutte le profughe e i profughi dalle zone del conflitto in Ucraina hanno la possibilit\u00e0 di viaggiare gratuitamente sulle tratte MARINOBUS in Italia.\nPer informazioni e per richiedere un trasferimento sar\u00e0 necessario contattare SEMPRE il nostro Servizio Clienti al +39 0803112335.\n\nLe linee esercitate giornalmente da MarinoBus collegano:\n\ud83d\udccd le principali localit\u00e0 del Nord Italia \n\ud83d\udccd per il Centro e Sud Italia \n(quasi 200 localit\u00e0 in Puglia e Basilicata e le principali localit\u00e0 di Campania e Calabria)."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""Marino Bus"",""recipients"":"""",""submit"":true,""title"":""Marino Bus offre viaggi gratuiti ai rifugiati ucraini sulle tratte in Italia"",""type"":""travelTransport"",""url"":""https://www.facebook.com/105621949530610/posts/4864086140350810/""}","<pre><yamldata>
-type: travelTransport
-offerFromWho: Marino Bus
-title: Marino Bus offre viaggi gratuiti ai rifugiati ucraini sulle tratte in Italia
-recipients: ''
-description: ""C'è un momento in cui occorre fare di più. E il momento è arrivato.\n\
-  Tutte le profughe e i profughi dalle zone del conflitto in Ucraina hanno la possibilità\
-  \ di viaggiare gratuitamente sulle tratte MARINOBUS in Italia.\nPer informazioni\
-  \ e per richiedere un trasferimento sarà necessario contattare SEMPRE il nostro\
-  \ Servizio Clienti al +39 0803112335.\n\nLe linee esercitate giornalmente da MarinoBus\
-  \ collegano:\n\U0001F4CD le principali località del Nord Italia \n\U0001F4CD per\
-  \ il Centro e Sud Italia \n(quasi 200 località in Puglia e Basilicata e le principali\
-  \ località di Campania e Calabria).""
-url: https://www.facebook.com/105621949530610/posts/4864086140350810/
-address:
-  mode: autocomplete
-  address:
-    place_id: 283876132
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: relation
-    osm_id: 40743
-    boundingbox:
-    - '40.7259607'
-    - '40.979833'
-    - '16.3444376'
-    - '16.6989722'
-    lat: '40.8285595'
-    lon: '16.5527314'
-    display_name: Altamura, Bari, Puglia, 70022, Italia
-    class: boundary
-    type: administrative
-    importance: 0.7042276908245931
-    icon: https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png
-    address:
-      town: Altamura
-      county: Bari
-      state: Puglia
-      postcode: '70022'
       country: Italia
       country_code: it
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
