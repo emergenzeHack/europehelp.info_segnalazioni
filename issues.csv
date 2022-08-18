@@ -1,4 +1,38 @@
 url,id,updated_at,created_at,title,lat,lon,regione,provincia,labels,milestone,image,data,body,state
+https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/132,1168507644,2022-08-18 11:02:28,2022-03-14 15:02:40,Платформа для перехресного попиту - пропозиції #робота,51,10,,,"[""Valid/Accettato"",""News"",""Services"",""job"",""telegram-channel"",""tweet"",""Resources""]",,,"{""address"":{""address"":{""address"":{""place"":""Europa""},""boundingbox"":[""26"",""76"",""-15"",""35""],""class"":""place"",""display_name"":""Europa"",""importance"":0.8207067191883178,""lat"":""51"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10"",""osm_id"":25871341,""osm_type"":""node"",""place_id"":286311057,""type"":""continent""},""mode"":""autocomplete""},""description"":""UA talents is a job platform for displaced persons from and within Ukraine. On UA Talents, companies from all over Europe can advertise their job openings to people from Ukraine who have lost their employment due to the war. We are a team of volunteers, IT entrepreneurs, and experts from Ukraine that live abroad and want to contribute to the defense of European borders in Ukraine as well as support the livelihood of Ukrainian refugees and their families."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""UAtalents"",""recipients"":""Connect employers with Ukrainian people who are looking for a job within EU or remotely"",""submit"":true,""title"":""UAtalents"",""type"":""jobOffer"",""url"":""https://www.uatalents.com/""}","<pre><yamldata>
+type: jobOffer
+offerFromWho: UAtalents
+title: UAtalents
+recipients: Connect employers with Ukrainian people who are looking for a job within EU or remotely
+description: 'UA talents is a job platform for displaced persons from and within Ukraine.
+  On UA Talents, companies from all over Europe can advertise their job openings to
+  people from Ukraine who have lost their employment due to the war.
+  We are a team of volunteers, IT entrepreneurs, and experts from Ukraine that live abroad and want to contribute to the defense of European borders in Ukraine as well as support the livelihood of Ukrainian refugees and their families.'
+url: https://www.uatalents.com/
+address:
+  mode: autocomplete
+  address:
+    place_id: 286311057
+    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
+    osm_type: node
+    osm_id: 25871341
+    boundingbox:
+    - '26'
+    - '76'
+    - '-15'
+    - '35'
+    lat: '51'
+    lon: '10'
+    display_name: Europa
+    class: place
+    type: continent
+    importance: 0.8207067191883178
+    address:
+      place: Europa
+iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
+label: services
+submit: true
+</yamldata></pre>",open
 https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/133,1168620253,2022-08-18 10:57:43,2022-03-14 16:25:30,Розпорядження про #безкоштовне перевезення українських біженців до Італії,,,,,"[""Valid/Accettato"",""News"",""transport"",""document_data"",""telegram-channel"",""tweet"",""Normativa""]",,,"{""description"":""\u0413\u0440\u043e\u043c\u0430\u0434\u044f\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438 \u0437\u043c\u043e\u0436\u0443\u0442\u044c \u0431\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u043e \u043f\u043e\u0434\u043e\u0440\u043e\u0436\u0443\u0432\u0430\u0442\u0438 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0456\u0454\u044e \u0406\u0442\u0430\u043b\u0456\u0457 \u043f\u0440\u043e\u0442\u044f\u0433\u043e\u043c \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c 5 \u0434\u043d\u0456\u0432 \u043f\u0456\u0441\u043b\u044f \u0432\u2019\u0457\u0437\u0434\u0443 \u0432 \u0406\u0442\u0430\u043b\u0456\u044e, \u0449\u043e\u0431 \u0434\u0456\u0441\u0442\u0430\u0442\u0438\u0441\u044f \u0434\u043e \u043f\u0435\u0440\u0448\u043e\u0433\u043e \u043c\u0456\u0441\u0446\u044f \u043f\u0440\u0438\u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u0430\u0431\u043e \u043f\u0440\u0438\u0439\u043e\u043c\u0443.."",""iConfirmToHaveReadAndAcceptedPrivacyInformativeToThreatPersonalData"":true,""label"":""document_data"",""link"":""http://bit.ly/OrdinanzaTrasporti"",""location"":{""address"":{},""mode"":""autocomplete""},""submit"":true,""title"":""Dipartimento nazionale della Protezione civile, ordinanza sui trasporti per i rifugiati ucraini in Italia""}","<pre><yamldata>
 title: Dipartimento nazionale della Protezione civile, ordinanza sui trasporti per
   i rifugiati ucraini in Italia
@@ -33075,40 +33109,6 @@ address:
       postcode: '20124'
       country: Italia
       country_code: it
-iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
-label: services
-submit: true
-</yamldata></pre>",open
-https://github.com/emergenzeHack/ukrainehelp.emergenzehack.info_segnalazioni/issues/132,1168507644,2022-03-19 13:42:07,2022-03-14 15:02:40,"UAtalents, la piattaforma europea che connette aziende e rifugiati ucraini in cerca di lavoro",51,10,,,"[""Valid/Accettato"",""News"",""Services"",""job"",""Resources""]",,,"{""address"":{""address"":{""address"":{""place"":""Europa""},""boundingbox"":[""26"",""76"",""-15"",""35""],""class"":""place"",""display_name"":""Europa"",""importance"":0.8207067191883178,""lat"":""51"",""licence"":""Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"",""lon"":""10"",""osm_id"":25871341,""osm_type"":""node"",""place_id"":286311057,""type"":""continent""},""mode"":""autocomplete""},""description"":""UA talents is a job platform for displaced persons from and within Ukraine. On UA Talents, companies from all over Europe can advertise their job openings to people from Ukraine who have lost their employment due to the war. We are a team of volunteers, IT entrepreneurs, and experts from Ukraine that live abroad and want to contribute to the defense of European borders in Ukraine as well as support the livelihood of Ukrainian refugees and their families."",""iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData"":true,""label"":""services"",""offerFromWho"":""UAtalents"",""recipients"":""Connect employers with Ukrainian people who are looking for a job within EU or remotely"",""submit"":true,""title"":""UAtalents"",""type"":""jobOffer"",""url"":""https://www.uatalents.com/""}","<pre><yamldata>
-type: jobOffer
-offerFromWho: UAtalents
-title: UAtalents
-recipients: Connect employers with Ukrainian people who are looking for a job within EU or remotely
-description: 'UA talents is a job platform for displaced persons from and within Ukraine.
-  On UA Talents, companies from all over Europe can advertise their job openings to
-  people from Ukraine who have lost their employment due to the war.
-  We are a team of volunteers, IT entrepreneurs, and experts from Ukraine that live abroad and want to contribute to the defense of European borders in Ukraine as well as support the livelihood of Ukrainian refugees and their families.'
-url: https://www.uatalents.com/
-address:
-  mode: autocomplete
-  address:
-    place_id: 286311057
-    licence: Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright
-    osm_type: node
-    osm_id: 25871341
-    boundingbox:
-    - '26'
-    - '76'
-    - '-15'
-    - '35'
-    lat: '51'
-    lon: '10'
-    display_name: Europa
-    class: place
-    type: continent
-    importance: 0.8207067191883178
-    address:
-      place: Europa
 iConfirmToHaveReadAndAcceptedInformativeToThreatPersonalData: true
 label: services
 submit: true
